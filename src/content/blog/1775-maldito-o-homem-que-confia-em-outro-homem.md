@@ -1,0 +1,22 @@
+---
+title: "Maldito o homem que confia em outro homem"
+date: 2016-09-21T20:29:00.001Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE3tRK5RHkbRHhBWJg8uxpwf0FprjbrvH4CsadglLWVUeTfepYe6ibw2eFavcZI5Co328LLO19gOdli1oCp9_cGQvy0XjbkZ5YrWxG08Q0ZaAEnUnAEtlQSuvU2WC78QPzEoCAj5mIO78/s320/maldito.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE3tRK5RHkbRHhBWJg8uxpwf0FprjbrvH4CsadglLWVUeTfepYe6ibw2eFavcZI5Co328LLO19gOdli1oCp9_cGQvy0XjbkZ5YrWxG08Q0ZaAEnUnAEtlQSuvU2WC78QPzEoCAj5mIO78/s1600/maldito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE3tRK5RHkbRHhBWJg8uxpwf0FprjbrvH4CsadglLWVUeTfepYe6ibw2eFavcZI5Co328LLO19gOdli1oCp9_cGQvy0XjbkZ5YrWxG08Q0ZaAEnUnAEtlQSuvU2WC78QPzEoCAj5mIO78/s320/maldito.png" width="320" height="282" data-original-width="234" data-original-height="206" /></a></div>
+Jeremias 17,5-8 – “Eis o que diz o Senhor: Maldito o homem que confia em outro homem, que da carne faz o seu apoio e cujo coração vive distante do Senhor! Assemelha-se ao cardo da charneca e nem percebe a chegada do bom tempo, habitando o solo calcinado do deserto, terra salobra em que ninguém reside. Bendito o homem que deposita a confiança no Senhor, e cuja esperança é o Senhor. Assemelha-se à árvore plantada perto da água, que estende as raízes para o arroio; se vier o calor, ela não temerá, e sua folhagem continuará verdejante; não a inquieta a seca de um ano, pois ela continua a produzir frutos”.</br>
+</br>
+Pois é caros leitores, pois é. Isso de se confiar em alguém todos nós sabemos que dá trabalho. E como dá. Mas é preciso uma leitura atenta das sagradas escrituras que parecem atestar que não é bom confiar no homem. Não é exatamente assim que funcionam as coisas pois se fossem a bíblia estaria nos dizendo que não devemos confiar em ninguém. Na verdade, Deus nos explica em qual grupo de pessoas não devemos confiar. Olhemos com atenção:</br>
+</br>
+O homem que da carne faz o seu apoio e seu coração vive distante do Senhor, este é o tipo de homem que não devemos confiar. Pelo contrário, o homem que busca em primeiro lugar o reino de Deus e a sua justiça, pois sabe que tudo mais vos será acrescentado; O homem que encontrou seu tesouro ao viver a experiência do encontro com Jesus e por isso, vende tudo para comprar a pérola do deserto, pois sabe que onde está o seu tesouro ali está o seu coração, este é o tipo de homem que podemos confiar.</br>
+</br>
+Se da carne faz o seu apoio e seu objetivo de vida e seu coração é preenchido com o vazio dos prazeres terrenos, este tipo de homem não tem o que nos oferecer da parte de Deus. Apenas do mundo. Homens assim proferem o mal de suas bocas, como nos adverte o apóstolo São Tiago:</br>
+</br>
+Tiago 3,3-10 – “Quando pomos o freio na boca dos cavalos, para que nos obedeçam, governamos também todo o seu corpo. Vede também os navios: por grandes que sejam e embora agitados por ventos impetuosos, são governados com um pequeno leme à vontade do piloto. Assim também a língua é um pequeno membro, mas pode gloriar-se de grandes coisas. Considerai como uma pequena chama pode incendiar uma grande floresta! Também a língua é um fogo, um mundo de iniquidade. A língua está entre os nossos membros e contamina todo o corpo; e sendo inflamada pelo inferno, incendeia o curso da nossa vida. Todas as espécies de feras selvagens, de aves, de répteis e de peixes do mar se domam e têm sido domadas pela espécie humana. A língua, porém, nenhum homem a pode domar. É um mal irrequieto, cheia de veneno mortífero. Com ela bendizemos o Senhor, nosso Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus. De uma mesma boca procede a bênção e a maldição. Não convém, meus irmãos, que seja assim”.</br>
+</br>
+Como vemos caros leitores, a exortação do apóstolo termina nos lembrando que não convém, para o nosso bem e o de todos que a nós se aproximem, que seja assim. Que seja a opção pelo mundo ao invés da opção por Deus. Pois se assim o fizermos, se a estas pessoas confiarmos e darmos ouvidos ao que sair de suas bocas, malditos também seremos nós. E para os malditos Jesus já deixou seu recado em Mateus 25,41:</br>
+</br>
+(Jesus) Voltar-se-á em seguida para os da sua esquerda e lhes dirá: - Retirai-vos de mim, MALDITOS! Ide para o fogo eterno destinado ao demônio e aos seus anjos.</br>
+</br>
+fonte: Jefferson Roger

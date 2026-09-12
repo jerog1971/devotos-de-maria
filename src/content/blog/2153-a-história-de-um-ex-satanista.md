@@ -1,0 +1,17 @@
+---
+title: "A história de um ex-satanista"
+date: 2019-12-19T19:49:00.001Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlTZsl8aL3JoEumdUfuW39pCERotuRVrUoh-_BN1naf4xrMjr7ruua9Vqn689bcUI41MK4-Rryup0hvFx_osGuSqz4niVvebZDsFfURmBSmKFOwQ2wBp7wUIC2H6H8URINyfrlckWUwFg/s320/satanismo.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlTZsl8aL3JoEumdUfuW39pCERotuRVrUoh-_BN1naf4xrMjr7ruua9Vqn689bcUI41MK4-Rryup0hvFx_osGuSqz4niVvebZDsFfURmBSmKFOwQ2wBp7wUIC2H6H8URINyfrlckWUwFg/s1600/satanismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlTZsl8aL3JoEumdUfuW39pCERotuRVrUoh-_BN1naf4xrMjr7ruua9Vqn689bcUI41MK4-Rryup0hvFx_osGuSqz4niVvebZDsFfURmBSmKFOwQ2wBp7wUIC2H6H8URINyfrlckWUwFg/s320/satanismo.png" width="320" height="216" data-original-width="412" data-original-height="278" /></a></div>
+Em resumo colocamos aqui um pequeno relato de um ex-satanista e sua conversão ao catolicismo. Seu nome é Zachary King, criado no meio evangélico batista tornou-se adepto de uma seita satânica aos treze anos. Ele conta em entrevista ao Instituto Lepanto que aos quinze anos já tinha quebrado todos os dez mandamentos e que trilhou uma jornada nesse meio até se tornar um “sumo sacerdote” desta seita satânica.</br>
+</br>
+Em sua entrevista ele começa contando que foi introduzido ao satanismo por causa da curiosidade a respeito da magia; se ela era real. Dessa forma ele foi apresentado a um grupo por seus “amigos” que assim como ele também acreditavam que poderia ser real. Mais tarde esse grupo revelou-se ser a seita satânica da qual ele faria parte. Neste primeiro grupo Zachary permaneceu até seus dezoito anos quando então entrou definitivamente para a Igreja Mundial de Satanás. Nela, uma de suas funções, assim que atingiu o mais alto grau dentro desta seita, era sair pelo mundo realizando quaisquer feitiços que as pessoas quisessem (entende-se aqui as pessoas que buscavam fama, poder, dinheiro, riqueza e luxúria) e isso a qualquer preço.</br>
+</br>
+Dentro de suas atividades estava incluído o aborto satânico, onde crianças que passam por essa situação são oferecidas à Satanás. Em suma esses abortos aconteciam (e ainda acontecem) entre a meia noite e três da madrugada. Normalmente as crianças retiradas dos corpos de suas mães são canibalizadas por alguns presentes da seita. Dentro ainda dessa prática acontecem as orgias onde muitos homens fazem sexo com uma única mulher com o intuito de engravida-la para o posterior aborto/oferenda para Satanás.</br>
+</br>
+No entanto, após vinte e seis anos de envolvimento nessa área, ele encontrou o caminho de Jesus através de uma experiência com Nossa Senhora em sua medalha de Nossa Senhora das Graças. Zachary descreve nunca ter sentido uma paz como aquela (a paz de Jesus Cristo, príncipe da paz). Resgatado por Maria Santíssima e conduzido para o caminho de Jesus Cristo, ele começou a frequentar uma comunidade católica de São Francisco Xavier até que em maio de 2008 ele entrou definitivamente para a Igreja Católica. Sua conversão hoje é propagada através de seu trabalho e testemunho que pode ser encontrado em seu site: http://www.allsaintsministry.org/Home.html.</br>
+</br>
+</br>
+Fonte: adaptado por Jefferson Roger do site https://www.lepantoin.org/

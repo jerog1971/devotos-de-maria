@@ -1,0 +1,28 @@
+---
+title: "Os pais devem saber dizer “sim” e “não”"
+date: 2016-08-19T12:33:00Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSFzfaAgfgPG2ZQousKRtv8mBGPOsf99rqi0i0yDk96rlKAM5ug_BawusN0tCZmLJXwaNbzeFbvTBJMa10UuqnENj49ylBShO5Z1eUpYgloaTUYXyn9-tJtE8FNhl6BMN9rLluNg89uKQ/s320/debsof.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSFzfaAgfgPG2ZQousKRtv8mBGPOsf99rqi0i0yDk96rlKAM5ug_BawusN0tCZmLJXwaNbzeFbvTBJMa10UuqnENj49ylBShO5Z1eUpYgloaTUYXyn9-tJtE8FNhl6BMN9rLluNg89uKQ/s1600/debsof.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSFzfaAgfgPG2ZQousKRtv8mBGPOsf99rqi0i0yDk96rlKAM5ug_BawusN0tCZmLJXwaNbzeFbvTBJMa10UuqnENj49ylBShO5Z1eUpYgloaTUYXyn9-tJtE8FNhl6BMN9rLluNg89uKQ/s320/debsof.png" width="320" height="297" data-original-width="359" data-original-height="333" /></a></div>
+Eclesiástico 3,2-3 – “Ouvi, meus filhos, os conselhos de vosso pai, segui-os de tal modo que sejais salvos. Pois Deus quis honrar os pais pelos filhos, e cuidadosamente fortaleceu a autoridade da mãe sobre eles.” Eclesiástico 7,25 – ”Tens filhos? Educa-os, e curva-os à obediência desde a infância.” Efésios 6,1,4 – “Filhos, obedecei a vossos pais segundo o Senhor; porque isto é justo. Pais, não exaspereis vossos filhos. Pelo contrário, criai-os na educação e doutrina do Senhor.</br>
+</br>
+Pois bem caros leitores, possivelmente muitos de vós já devem ter presenciado aquela cena dos pais no supermercado arrastando seu filho que esperneia porque não ganhou aquilo que queria, ou então a mesma cena no shopping. Ou ainda aquela cena em que os filhos, já um pouco mais crescidinhos acompanham os pais com aquela “cara” que afasta qualquer um de perto. Comportam-se mal, não respondem direito, pensam saber das coisas e procuram seguir seus desejos e vontades negando, em completa atitude de desrespeito a autoridade dos pais. Fazem “corpo mole” para muitas de suas obrigações e tantas outras atitudes que todos nós bem poderíamos elencar com facilidade.</br>
+</br>
+Sem dúvida, embora queiram complicar a questão, a simplicidade da coisa reside no fato de que não foi seguido aquilo que Deus nos ensinou. Pelo menos não da forma como se deveria. Vamos entender um pouco mais.</br>
+</br>
+Quando no livro do Eclesiástico vemos o ensino para curvarmos nossos filhos a obediência desde a infância, percebemos que essa questão é apontada com importantíssima relevância para a vida dos filhos e também no campo espiritual. Colocados ao mundo e tutelados por Deus sob a responsabilidade dos pais, o bebê será por toda a vida o centro de um cabo de guerra entre o mundo e seus pais.</br>
+</br>
+O lado que estiver ganhando nessa batalha irá convencer o filho da sua verdade. Por isso é que em assunto tão sério que é nossa configuração ao Cristo, para ganharmos a vida eterna, não pode existir diálogo com o mundo. Dialogar com o mundo e o diabo é ceder aos pecadinhos com cara de inofensivos. Ora, que mal faz uma tatuagem? Beber e fumar, usar entorpecentes que mal faz? Sexo desordenado e desregrado que mal faz? Trocar as práticas religiosas por prioridades mundanas não deve ser algo de mal, afinal quantos não o fazem?</br>
+</br>
+O diabo não se distrai e sempre prega suas mentiras recheadas com as verdades do evangelho. Vamos ver um exemplo? Ele ensina que Jesus é misericordioso, e isso sabemos que é verdade. Porém, ele completa dizendo que, portanto, você pode fazer o que quiser porque Deus vai te admitir no céu porque não quer que ninguém se perca. Percebem? Ou se a tática não dá certo e ele vem com essa: Deus é um desmancha prazeres, ele não quer tua felicidade, te proíbe de muitas coisas e te priva de tantos desejos e ainda te cobra sofrimentos se você quiser ir para o céu. Eu ao contrário te ofereço o que desejas aqui na terra e te deixo livre para gozar de todos os prazeres. Percebem a verdade de satanás tentando confundir os porquês dos sofrimentos?</br>
+</br>
+Como diz Jesus em Mateus 5,37, devemos dizer sim se é sim e não se é não. Educar é saber dizer sim e também não. E mais, podemos e devemos explicar aos filhos porque que é sim mas, sobretudo, porque que é não. E não devemos ceder por conta de perdermos nossa autoridade sobre eles. Do contrário eles poderão se rebelar porque aprenderam de nós mesmos que não existe consequência ao se infringir algum mandato nosso.</br>
+</br>
+Lembremos: Eclesiástico 30,7 – “Aquele que estraga seus filhos com mimos terá que lhes pensar as feridas; a cada palavra suas entranhas se comoverão.”
+E encerro esta pequena reflexão com um trecho do livro do Eclesiástico que diz no capítulo 42 que “não devemos nos envergonhar de frequentemente corrigirmos nossos filhos.” O recado celeste está dado e é comprovado até pela cultura popular que diz “que é de pequenino que se torce o pepino”. E a cultura popular ainda diz que depois que o “leite está derramado não adianta chorar”. No fundo não é bem assim pois a Deus nada é impossível (Mateus 19,26) e a história nos confirma através da conversão de Santo Agostinho que aconteceu após muitos anos de oração de sua mãe, Santa Mônica. Portanto, queridos ouvintes, sempre existe o que fazer. Assim como antes para prevenção tomamos uma vacina ou durante tomamos uma injeção, da mesma forma devemos recorrer a Deus em tudo. Jesus já nos alertou: “Sem mim nada podeis fazer” – João 15,5.</br>
+</br>
+Façamos, portanto, a nossa parte e sejamos obedientes a vontade do Pai porque Deus não abandona a oração do humilde (Eclesiástico 35,21).</br>
+</br>
+</br>
+fonte: Jefferson Roger

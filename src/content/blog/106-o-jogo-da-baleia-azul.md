@@ -1,0 +1,28 @@
+---
+title: "O jogo da baleia azul"
+date: 2017-04-12T17:51:00.002Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxec9RKoha5quglPmZRKpmqTNke-dBZeGTi0YXvlcjpZAvG3sK8K-1CbASzq12Lpj6Tncdp3Xo7DWClY8TEyphKkAw92sdQYDlQ1GKMF8WxxynGeYfKHjM0O_rFA0knTcsnTYogGfXpBU/s320/baleia+azul.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxec9RKoha5quglPmZRKpmqTNke-dBZeGTi0YXvlcjpZAvG3sK8K-1CbASzq12Lpj6Tncdp3Xo7DWClY8TEyphKkAw92sdQYDlQ1GKMF8WxxynGeYfKHjM0O_rFA0knTcsnTYogGfXpBU/s1600/baleia+azul.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="474" height="207" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxec9RKoha5quglPmZRKpmqTNke-dBZeGTi0YXvlcjpZAvG3sK8K-1CbASzq12Lpj6Tncdp3Xo7DWClY8TEyphKkAw92sdQYDlQ1GKMF8WxxynGeYfKHjM0O_rFA0knTcsnTYogGfXpBU/s320/baleia+azul.png" width="320" /></a></div>
+Pois bem, caros leitores, nós do site vinde-benditos também iremos contribuir para suas reflexões com este artigo cujo tema é a mais nova mania que se iniciou pela internet na Rússia, depois se alastrou pela Europa e agora permeia por outras partes do mundo. Trata-se do jogo virtual, acessível pelos smartphones denominado “baleia azul”, o qual para participar é preciso ser convidado. Como funciona o jogo. Basicamente ele é um jogo no estilo “chefinho mandou”. Você se cadastra no aplicativo e começa a receber uma série de tarefas para cumprir. A cada tarefa cumprida você precisa comprovar o “êxito” enviando ao responsável pelas tarefas uma imagem ou algo semelhante. Até aí parece tudo bem mas, tem sempre o “mas” e tem sempre o “se”. Se as tarefas não fossem como são, que aliás são rotuladas como desafios, tudo para estimular o desejo de aventuras que naturalmente brota na juventude e, sobretudo, se alguém não a vive de forma saudável e sadia, seria apenas mais um jogo que não ofereceria muito pano pra manga.
+
+Porém, não é assim, o jogo consiste num total de cinquenta desafios onde o último desafio é o de tirar a própria vida. Ele foi objetivamente e intencionalmente produzido para o público que está ansioso por ser ouvido, visto no mundo, ser saciado de atenção e aventuras, mas, num campo que não faz parte da saudável vida que precisa acontecer e que, atenção, nasce no seio familiar. Pois quando não nasce neste ninho a juventude passa a andar sobre o manto da vulnerabilidade. No Brasil, já existem investigações que apontam para um primeiro caso de morte relacionada a este jogo. Também em contrapartida, existe um movimento que se intitula “baleia rosa”, que é exatamente o oposto da mutilação e dos horrores promovidos por esse jogo macabro. A todos mais uma vez, fica sempre o alerta, que já é antigo. O ser humano não nasceu para viver só, precisa da realidade pensada, deseja e criada por Deus que se chama família. E assim como a pessoa precisa da família, esta mesma família precisa de Deus, senão, nem ela estará segura se alguns de seus membros se lançarem ao mundo, se contaminarem com ele e trouxerem para suas casas o mal que o infectou lá fora. Mal físico e espiritual.
+
+Portanto, esse não é o último jogo de internet que irá aparecer, já tivemos o “ressuscitado” tabuleiro ouija, o jogo do Charlie, o jogo do desmaio, o jogo do pokémon go e a lista nunca termina. O que fica de mensagem e alerta é o fato de que, espiritualmente falando, e deve ser assim, porque não é contra os homens de carne e sangue que é a nossa batalha mas contra os espíritos malignos que andam pelos ares, já nos dizia São Paulo em Efésios 6,12; uma vigilância então, precisa acontecer em tempo real. Vigilância extrema porque o diabo anda a nos espreitar como a um leão buscando a quem devorar nos recorda São Pedro na sua primeira carta em 5,8.
+E se não é extrema essa vigilância, nos distraímos e distraídos agimos com a guarda baixa e assim colocamos nossa integridade física e espiritual sobre perigo de destruição e danação. É como a pessoa que decide experimentar o cigarro alegando que quando quiser pode parar. Depois ela supera isso, só que negativamente e acaba por entrar no mundo das drogas. Sempre a desculpa é que pode desistir quando quiser e o motivo é sua curiosidade e busca da felicidade, só que, detalhe, onde ela não existe. Assim agem todos os mecanismos que de alguma forma entorpecem a mente acarretando ao corpo todo o tipo de danos.
+
+Primeiramente os danos são pessoais, no corpo, depois na mente, na alma e no coração. Também se alastram seus efeitos colaterais de variadas espécies sobre os que nos cercam. Aqui falo das famílias, que também serão afetadas pois um de seus membros trouxe as mazelas do mundo para dentro do lar. Trouxe a semente do mal para dentro de casa. Por isso é imprescindível contarmos com toda a ajuda celeste, sempre importantíssima e indispensável para mantermos fora de nossas casas, todas as formas de mal. Assim, dessa forma, pais e filhos unidos em torno do Cristo e em comunhão, conseguirão proferir na oração do Pai Nosso, um sincero desejo de que Deus, “não nos deixeis cair em tentação, mas livrai-nos do mal, amém!”
+
+Artigos relacionados:
+
+<a href="http://devotos-de-maria.blogspot.com.br/2016/07/o-jogo-do-charlie-e-fe-catolica.html" target="_blank">O jogo do Charlie</a>
+
+<a href="http://devotos-de-maria.blogspot.com.br/2015/12/primeiro-deus.html" target="_blank">Regido por Deus</a>
+
+<a href="http://devotos-de-maria.blogspot.com.br/2016/08/pokemon-go-pode-ou-nao-pode.html" target="_blank">Pokémon Go, pode ou não pode?</a>
+
+<a href="http://devotos-de-maria.blogspot.com.br/2016/07/tempo-x-vicio.html" target="_blank">Tempo x Vício</a>
+
+
+fonte: Jefferson Roger

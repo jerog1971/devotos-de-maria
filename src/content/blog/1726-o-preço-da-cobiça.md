@@ -1,0 +1,19 @@
+---
+title: "O preço da cobiça"
+date: 2017-05-30T16:27:00Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTj2rnY788sClCkqGUvZfq816NKh0UODMZF5cYYbb_g9YM1swc7dd5LkQ1-lElcyon_dcIR_50lO7Pk2pIMIdEhH5iJg4foZPJ0GhxYxRUY7M8fS8hnziEUfZCnTwsK1SaqLXgp0CKlo/s320/cobi%25C3%25A7a.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTj2rnY788sClCkqGUvZfq816NKh0UODMZF5cYYbb_g9YM1swc7dd5LkQ1-lElcyon_dcIR_50lO7Pk2pIMIdEhH5iJg4foZPJ0GhxYxRUY7M8fS8hnziEUfZCnTwsK1SaqLXgp0CKlo/s1600/cobi%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTj2rnY788sClCkqGUvZfq816NKh0UODMZF5cYYbb_g9YM1swc7dd5LkQ1-lElcyon_dcIR_50lO7Pk2pIMIdEhH5iJg4foZPJ0GhxYxRUY7M8fS8hnziEUfZCnTwsK1SaqLXgp0CKlo/s320/cobi%25C3%25A7a.png" width="320" height="304" data-original-width="432" data-original-height="410" /></a></div>
+Cobiça: desejo ardente, desmedido e imoderado de possuir ou conseguir alguma coisa. Eis aí, caros leitores, algo muito perigoso para a salvação da nossa alma, movida pela concupiscência, se ela for alimentada os resultados são desastrosos. De tão sério que é o assunto de se dar asas para cobiça, ela até está envolvida nos pecados contra os mandamentos da lei de Deus. Vejamos:</br>
+</br>
+Mateus 5,27-28 – “Ouvistes que foi dito aos antigos: Não cometerás adultério. Eu (Jesus), porém, vos digo: todo aquele que lançar um olhar de cobiça para uma mulher, já adulterou com ela em seu coração.”</br>
+</br>
+Como vemos, o veneno da cobiça é tão poderoso que Jesus afirmou que ele fere nossa alma mortalmente. Pessoal, como diz minha filha Sofia, a coisa é séria, muito séria. É fogo puro, nada de brincarmos com ela. Ela é por sua natureza inclusive considerada uma idolatria. Colossenses 3,5-6 – “Mortificai, pois, os vossos membros no que têm de terreno: a devassidão, a impureza, as paixões, os maus desejos, a cobiça, que é uma idolatria. Dessas coisas provém a ira de Deus sobre os descrentes.” E por conta de sua natureza que conduz para a idolatria, ela integra a lista dos tipos de pecadores que serão condenados ao inferno (Romanos 1,28-32).</br>
+</br>
+No antigo testamento encontramos no livro do Eclesiástico a seguinte passagem: Eclesiástico 18,30-31 – “Não te deixes levar por tuas más inclinações, e refreia os teus apetites. Se satisfizeres a cobiça de tua alma, ela fará de ti a alegria dos teus inimigos.” E aqui cabe muito bem lembramos que existe o inimigo número um de nossa alma, que irá fazer muita festa se dermos ouvidos para o canto da cobiça. A bíblia diz na segunda carta de São Pedro 2,13-15 que os filhos da maldição têm os olhos cheios de adultério e são insaciáveis no pecar. Deixaram o caminho reto pois tem o coração acostumado a cobiça.</br>
+</br>
+Portanto como podemos bem atestar através das escrituras, para longe de nós deve ficar bem afastada a cobiça e os seus frutos pois sua destruição é das maiores. É preciso pedirmos a Deus esse afastamento, assim como aprendemos em Eclesiástico 23,1-6 – “Senhor, meu pai e soberano de minha vida, não me abandoneis ao conselho de meus lábios, e não permitais que eles me façam sucumbir. Quem fará sentir o chicote em meus pensamentos, e em meu coração a doutrina da sabedoria, para eu não ser poupado nos pecados por ignorância, a fim de que esses erros não apareçam? Para que não aumentem as minhas omissões, e não se multipliquem as minhas ignorâncias, e eu não caia diante de meus adversários, e não escarneça de mim o meu inimigo? Senhor, meu pai e Deus de minha vida, não me abandoneis às suas sugestões; não me deis olhos altivos e preservai-me da cobiça! Afastai de mim a intemperança! Que a paixão da volúpia não se apodere de mim e não me entregueis a uma alma sem pejo e sem pudor, amém”</br>
+</br>
+</br>
+fonte: Jefferson Roger

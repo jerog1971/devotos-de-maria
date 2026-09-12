@@ -1,0 +1,21 @@
+---
+title: "Dificuldades na minha vida"
+date: 2018-09-25T15:54:00Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ41xa4HyxtgW23tSxsNBs6dZdEzzk9kFpveuZqXtyA4YbTcHl5XClEkAoOo-uxbvXg_VczKqZ5V8d-OFinRYob3tdgBfCpVR5aweRcfAhCezzJ7Zhl3Xq-cPApg5FhCmNsRJzrWTdI7s/s320/sofrimento.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ41xa4HyxtgW23tSxsNBs6dZdEzzk9kFpveuZqXtyA4YbTcHl5XClEkAoOo-uxbvXg_VczKqZ5V8d-OFinRYob3tdgBfCpVR5aweRcfAhCezzJ7Zhl3Xq-cPApg5FhCmNsRJzrWTdI7s/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ41xa4HyxtgW23tSxsNBs6dZdEzzk9kFpveuZqXtyA4YbTcHl5XClEkAoOo-uxbvXg_VczKqZ5V8d-OFinRYob3tdgBfCpVR5aweRcfAhCezzJ7Zhl3Xq-cPApg5FhCmNsRJzrWTdI7s/s320/sofrimento.png" width="320" height="317" data-original-width="378" data-original-height="375" /></a></div>
+Pessoal, uma coisa é certa, não se conhece alguém vivo que possa dizer que sua vida é uma maravilha, é uma vida livre de preocupações, dificuldades, desafios, tribulações, provações ou qualquer tipo de obstáculo que seja capaz de tirar-lhe horas de sono ou, como se diz no dito popular, branquear-lhe os cabelos. Porém, parece contraditório o que vou escrever, mas mesmo assim vou fazê-lo: animemo-nos se a vida é assim, é sinal de que não estamos sozinhos no mundo e de que a “regra” do jogo é a mesma para qualquer um.</br>
+</br>
+Todavia alguém poderá ser tentado a pensar: de que adianta eu não estar sozinho se mesmo assim meus problemas continuam sendo somente meus? É a famosa conclusão apressada de quem acha que seus problemas não são da conta de ninguém. Quem pensa assim não poderia estar mais errado. Vamos compreender?</br>
+</br>
+Deus dá a cada um que quer ser salvo uma cruz na medida de suas possibilidades. Deus também quis conceber a cada um de nós com uma especialidade e particularidade: somos únicos. Portanto, diferentes entre cada ser humano, assim o quis para que, através da ajuda mútua, trabalhássemos em conjunto para nossa salvação e a salvação do próximo. Diferentes pessoas com diferentes dons e defeitos precisam interagir para o bem comum, o crescimento no amor e na santidade e com isso, imitando a Cristo (Efésios 5,1 – 1ªCoríntios 11,1), alcançarmos a estatura esperada por Deus para podermos um dia ouvirmos a frase tão esperada a ser pronunciada por Jesus: “vinde benditos”.</br>
+</br>
+Vale também lembrar que o mesmo Jesus disse que sem ele nada podemos fazer (João 15,5). E mais, um dos sete dons do Espírito Santo é o dom da fortaleza. No que consiste esse dom? Consiste em, na vida fazer aquilo que se dá conta e entregar à Deus aquilo que não se dá conta. Quem não pede esse dom termina por ter seus problemas soterrando-o. Ademais, não bastasse as advertências de Jesus, ainda por cima existe um propósito nisso tudo: Romanos 8,28 – “sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, daqueles que são os eleitos, segundo os seus desígnios”. Caros leitores, é isso mesmo que lemos nas escrituras, tudo, significa tudo, inclusive as dificuldades de toda a espécie.</br>
+</br>
+Claro que sofrer não é nada agradável, porém, quanto mais esperneamos, mais o sofrimento dói. Uma pessoa numa camisa de força, quanto mais se esforçar para escapar dela mais a camisa vai incomoda-la. Mateus 11,28-30 – “Vinde a mim, vós todos que estais aflitos sob o fardo, e eu vos aliviarei. Tomai meu jugo sobre vós e recebei minha doutrina, porque eu sou manso e humilde de coração e achareis o repouso para as vossas almas. Porque meu jugo é suave e meu peso é leve”. Como vemos, não estamos sozinhos, podemos e devemos contar com o próximo, o Espírito Santo e Jesus, só para começo de conversa; no entanto, se formos mais afundo, eis que surge em nossas vidas Maria Santíssima e os anjos e santos de Deus.</br>
+</br>
+O diabo não quer uma atitude assim, de pertença total a Deus; ele nos quer reclamando de tudo para que com isso nossa fé diminua e os sofrimentos não sejam vistos conforme a natureza pensada por Deus. Santa Catarina de Sena já dizia que quando abraçamos as cruzes de nossos sofrimentos, paramos de padecer.</br>
+</br>
+</br>
+fonte: Jefferson Roger

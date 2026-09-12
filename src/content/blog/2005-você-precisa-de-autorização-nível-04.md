@@ -1,0 +1,19 @@
+---
+title: "Você precisa de autorização nível 04"
+date: 2020-02-02T03:23:00.002Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s320/catequisando.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s1600/catequisando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s320/catequisando.png" width="320" height="306" data-original-width="304" data-original-height="291" /></a></div>
+Na hierarquia militar, grandes corporações e organizações multinacionais, é fato de que existem vários níveis de atribuições, responsabilidades e concessões. Todo mundo já deve possivelmente ter esbarrado com um aviso numa porta escrito “entrada permitida somente para funcionários”; pois bem, as coisas são assim. Soldado, cabo, sargento, tenente, capitão e assim por diante. Ajudante, operário, supervisor, gerente e assim por diante. Em nossa sociedade e como estamos constatando, em nossas vidas, as coisas são assim.</br>
+</br>
+Vejamos os relacionamentos. No nível 01 estão as amizades; o coleguismo deixado para trás agora evoluiu e algumas intimidades cotidianas começam a acontecer. Depois vem o nível 02, onde a amizade se transforma em paixão e nesse nível acontece o namoro. Nessa fase do relacionamento se a paixão amadurecer e se transformar em amor, o namoro passa a ser sério levando o casal ao nível 03: o noivado.</br>
+</br>
+Como noivos já pensam em comum muitas coisas e começam a vislumbrar o amanhã onde nele irá existir, com a graça de Deus, a constituição de uma família. Os namorados, agora noivos, ainda namoram, porém, com um olhar diferente sobre a relação. O compromisso a ser assumido perante o altar já é uma luz ao final do túnel que se aproxima a passos largos. Nível 04 atingido, enfim “o homem deixa o seu pai e sua mãe para se unir à sua mulher; e já não são mais que uma só carne, portanto, não separe o homem o que Deus uniu.”. Eis as palavras que encontramos nas sagradas escrituras em Gênesis 2,24 e Mateus 19,6.</br>
+</br>
+Como a natureza humana imita a natureza divina, ainda mais deve ser assim com relação aos relacionamentos. Cada nível possui suas permissões. Atribuições exclusivas de cada nível não podem ser executadas em níveis desautorizados! O que é que a sociedade faz? Relativiza tudo em vista aos desejos egoístas. Namorados começam a viver juntos, como se fosse marido e mulher, têm relações sexuais, dormem um na casa do outro. Fazem isso com pessoas do mesmo sexo, (Levítico 20,13 – “Se um homem dormir com outro homem, como se fosse mulher, ambos cometerão uma coisa abominável. Serão punidos de morte e levarão a sua culpa.”), isso vale obviamente para “mulher dormir com outra mulher”. Vale esclarecer que punidos de morte e levar a culpa é ser condenado por agir em desacordo com a palavra de Deus. Existe solução, duas na verdade: ou se vive conforme a própria vontade como se Deus não existisse, ou se vive conforme a lei do Senhor. Faça escolha e viva.</br>
+</br>
+Como se diz em Eclesiastes 12,13-14 – “tudo bem entendido, teme a Deus e observa seus preceitos, é este o dever de todo homem. Deus fará prestar contas de tudo o que está oculto, todo ato, seja ele bom ou mau.”</br>
+</br>
+</br>
+Fonte: Jefferson Roger

@@ -1,0 +1,28 @@
+---
+title: "Orgulho e Sofrimento"
+date: 2016-09-12T20:41:00Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyEQIxLWuAd05r6Xn7r0Et-CVk6UwkhH7lTROlUvM_ZQB1N_56NJzbvB3n6FUwNvtaC5SLTwwyTn0WhtTOWmm_9l1wodvq4RZqherOVwEtQ83H1kItT7KqUtH4pNzqkKAFqOwLvEt8zO0/s320/orgulho.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyEQIxLWuAd05r6Xn7r0Et-CVk6UwkhH7lTROlUvM_ZQB1N_56NJzbvB3n6FUwNvtaC5SLTwwyTn0WhtTOWmm_9l1wodvq4RZqherOVwEtQ83H1kItT7KqUtH4pNzqkKAFqOwLvEt8zO0/s1600/orgulho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyEQIxLWuAd05r6Xn7r0Et-CVk6UwkhH7lTROlUvM_ZQB1N_56NJzbvB3n6FUwNvtaC5SLTwwyTn0WhtTOWmm_9l1wodvq4RZqherOVwEtQ83H1kItT7KqUtH4pNzqkKAFqOwLvEt8zO0/s320/orgulho.png" width="315" height="320" data-original-width="471" data-original-height="478" /></a></div>
+Eu tenho uma pergunta: porque Deus quer que a gente se humilhe? Eu quero ser feliz, quero uma vida boa, de abundância, de amor. Quero que todo mundo seja feliz e eu também! Porque sempre dizem que a gente tem que se humilhar diante de Deus? Deus fez a gente para sofrer? Por quê?</br>
+</br>
+Queridos leitores, essa é uma pergunta feita por um leitor anônimo em um site de apostolado católico aqui no Brasil chamado "o fiel católico". Percebemos que a pergunta em si possui um recheio de questões que pela sua pertinência resolvi transcrever aqui porque são desejos e anseios que se ouve em muitas pessoas.</br>
+</br>
+Vemos que a pessoa quer ser feliz. Vemos que ela quer uma vida boa. Quer abundância na vida e amor. Quer isso para todo mundo também. Esta é a primeira parte de sua questão, onde ela trata daquilo que quer. Na segunda parte vemos que são duas as dúvidas:</br>
+</br>
+Temos que nos humilhar diante de Deus? Deus nos fez para sofrer? Porque disso?</br>
+</br>
+Pois bem, vamos refletir juntos. Quando alguém deseja uma vida boa e cheia de abundância e amor até aqui não existe nada de errado. O problema reside em se colocar a carroça na frente dos bois. Vamos entender. Jesus disse: “buscai primeiro o Reino dos Céus e sua justiça e TUDO mais vos será acrescentado”. Percebem? Primeiro a pessoa quer o tudo e se Deus lhe conceder o tudo então agradecidamente ela adere ao cristianismo. Tudo errado, não podemos negociar com o altíssimo. Queremos que ele nos trate como filhos, mas não queremos nos comportar como tal. De mãos vazias e sem obras como nos apresentar diante dele? Esta dura e verdadeira realidade é uma entre algumas que afastam as pessoas da cruz redentora.</br>
+</br>
+Continuando vemos o conflito interior que existe em relação ao sofrimento humano, suas causas e porquês. Novamente, Jesus disse: “quem se exaltar será humilhado e quem se humilhar será exaltado”.  O reconhecer-se pecador e dependente de Deus para tudo exige um completo desapego do orgulho, também conhecido como soberba, um dos pecados capitais mais destrutivos na história da humanidade. Tudo vem de Deus e por sua graça, ele não é obrigado a nos abençoar como pregam algumas denominações evangélicas. Deus é livre e em seu amor de Pai nos concede as graças, não por obrigação, mas por amor. Por isso é inútil tentar negociar “um pacote” de prosperidades com o todo poderoso. Muitas religiões ensinam assim: Deus, eu fiz tudo isso, pronto, agora me ame e me abençoe. Nada disso, o amor é gratuito e as bênçãos seguem critérios divinos que nós como filhos recebemos se nos comportarmos de fato como filhos. E isso começa por carregarmos a nossa cruz. Ela é a regra, e não é a exceção.</br>
+</br>
+O sofrimento está por muitos associado a uma realidade má, e isso não é verdade. Basta olhar a vida de Jesus até sua morte na cruz, a vida de dores de Maria Santíssima e todo o testemunho de vida de tantos santos e santas. Noventa e nove vírgula nove nove nove por cento deles sofreram. É fato de que qualquer tipo e natureza de sofrimento irá passar pela nossa vida. Já sofremos quando nascemos e a medicina comprova que o sofrimento do parto é tão traumático para o recém-nascido que é por obra de Deus que ele não se lembre do ocorrido.</br>
+</br>
+Porém, nesses dias "politicamente corretos”, opiniões diferentes são para tantos, motivos para sentirem-se ofendidos. Afinal a soberba ou orgulho é o que agora impera nas almas. A vontade do homem e seus caprichos são agora soberanos, postos em primeiro lugar, e isso vem se refletindo até no sentimento religioso: mesmo as novas seitas ditas “cristãs” colocam o homem no centro e Deus como seu servidor.
+E o orgulho é o pior de todos os pecados porque é um vício que pode se confundir com grandes virtudes: pode ser confundido com honra, brio, virilidade, "personalidade forte", senso de dignidade. Quanto melhor um pecado se disfarça, pior o estrago que pode provocar. Ele nos impede de cumprir o maior dos Mandamentos: não pode amar a Deus acima de todas as coisas quem ocupa todo o seu tempo em se amar a si mesmo e tem como prioridade máxima satisfazer os próprios desejos; também não pode amar o próximo como a si mesmo quem vê o outro como adversário ou concorrente, com o qual compete incessantemente para alcançar admiração, glórias ou riquezas.</br>
+</br>
+Esse dilema que o mundo semeia nos corações e mentes das pessoas só frutifica na proporção em que elas se afastam de Jesus, caminho, verdade e vida. Se a pessoa passa por essa angustia em sua vida é porque quer servir a Deus e ao mundo. Por isso sofre, porque quer Deus, mas não quer renunciar ao mundo. São Tiago dizia em 4,4: quem quer ser amigo do mudo torna-se inimigo de Deus.</br>
+</br>
+</br>
+fonte: Jefferson Roger

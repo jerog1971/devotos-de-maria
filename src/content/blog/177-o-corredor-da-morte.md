@@ -1,0 +1,20 @@
+---
+title: "O corredor da morte"
+date: 2018-04-26T16:01:00Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRkAcmzKOyicbV-eNbD4EXQANQWSjsOO_jrnQdt0SU82pRxZnBfyA2r7XTYmma-dLJgVQq2M83ApC8te7qA8evKH0hyphenhyphenwZ-2FrvCKxHoSnO1PHDFFCk-d2efDc3LmnxMIAYk6vnYfX9G8/s320/corredor_hospital.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRkAcmzKOyicbV-eNbD4EXQANQWSjsOO_jrnQdt0SU82pRxZnBfyA2r7XTYmma-dLJgVQq2M83ApC8te7qA8evKH0hyphenhyphenwZ-2FrvCKxHoSnO1PHDFFCk-d2efDc3LmnxMIAYk6vnYfX9G8/s1600/corredor_hospital.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRkAcmzKOyicbV-eNbD4EXQANQWSjsOO_jrnQdt0SU82pRxZnBfyA2r7XTYmma-dLJgVQq2M83ApC8te7qA8evKH0hyphenhyphenwZ-2FrvCKxHoSnO1PHDFFCk-d2efDc3LmnxMIAYk6vnYfX9G8/s320/corredor_hospital.png" width="320" height="303" data-original-width="665" data-original-height="630" /></a></div>
+Essa é uma expressão muito conhecida do povo em geral. Quando ouvimos alguém falar a respeito dela logo mentalizamos a visão de um transgressor que por praticar crimes de alta gravidade, foi condenado pela justiça de seu país a cumprir uma pena chamada de pena de morte. Enquanto não chega o dia do cumprimento de sua sentença ele espera na ala do presídio onde outros, assim como ele, contam seus dias aqui nesta terra.</br>
+</br>
+Pois bem, aproveitando-me dessa introdução um tanto análoga para o tema que pretendo refletir, começo dizendo que em nossa vida, e falo aqui com os que temem a Deus e procuram viver agradando-o, vivemos num caminhar que muito bem poderia ser relacionado a um corredor. Pelo caminho vamos andando por este corredor e muitas portas de ambos os lados vamos deixando para trás. Cada uma delas possui um título, porém, todas não passam de tentações. A cada porta que deixamos para trás com a graça de Cristo vencemos mais uma oferta do inimigo.
+Que perigo são para cada um de nós transpassarmos por portas assim; corremos o risco de não conseguirmos voltar por ela. Certas portas são apenas portas de entrada. Entramos vivos e saímos mortos, mortos fisicamente ou espiritualmente. Valha-nos Deus Misericordioso!</br>
+</br>
+Que nossos olhos sempre fiquem voltados para a luz de Cristo. Ele mesmo nos disse que quem com ele está não caminhará nas trevas, mas terá a luz da vida. Outra coisa salutar a se fazer é parar quando preciso para se tomar fôlego em local seguro e protegido, não próximos a essas portas. Não podemos, como no conto de fadas de João e Maria, entrarmos na casa da bruxa, feita de doces, para nos empanturrarmos nos prazeres. Por prazeres terrenos sofremos tormentos eternos.</br>
+</br>
+Poderíamos, porém, pensarmos nas antigas casas que eram construídas com um corredor central. Eu mesmo morei numa casa assim quando criança. Na frente a sala de estar e jantar, no meio destas um corredor que se estendia até o final da casa. Este corredor dava acesso para a cozinha, banheiro, despensa e quartos. Por este prisma, percebemos que as muitas portas de um corredor assim, mantém a privacidade e a função das pessoas e dos ambientes.</br>
+</br>
+Então, na vida real como devemos proceder, se no mesmo corredor existem portas que devemos entrar e outras que não devemos? A resposta é simples e é bíblica: não devemos caminhar sozinhos (João 15,5). Jesus disse que sem ele nada podemos fazer, e no caso em questão nem podemos caminhar sozinhos por esta vida (este corredor) sem corrermos o risco das tentações. Ademais, o mesmo Cristo nos deixou o Paráclito, o Espírito da Verdade, Consolador. As pessoas se esquecem de pedir o auxílio divino disponível a todos 100% do tempo. Não sejamos assim, pessoas que insistem em caminhar por este corredor sozinhas, precisamos ao final deste caminhar, no encontro da morte, termos vivido segundo o que nos pede o criador, passando pelas portas certas da vida e deixando as portas erradas para trás como fez Lot.</br>
+</br>
+</br>
+fonte: Jefferson Roger

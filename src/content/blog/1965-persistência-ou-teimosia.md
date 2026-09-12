@@ -1,0 +1,17 @@
+---
+title: "Persistência ou Teimosia?"
+date: 2018-05-03T18:57:00Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeFfbKjeAevVqDntPX98-udntYESLqiIrF-cXh823AdjH63Cewz3UwdOQCFJ1d0IKpCt5CXeukTY5h0cXMrDsyyjA2EKmv7CJUu_ixKvQyWRNHCCkak9UtBCiWoYTxj3We_qw6tSqNzg/s320/teimosia.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeFfbKjeAevVqDntPX98-udntYESLqiIrF-cXh823AdjH63Cewz3UwdOQCFJ1d0IKpCt5CXeukTY5h0cXMrDsyyjA2EKmv7CJUu_ixKvQyWRNHCCkak9UtBCiWoYTxj3We_qw6tSqNzg/s1600/teimosia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeFfbKjeAevVqDntPX98-udntYESLqiIrF-cXh823AdjH63Cewz3UwdOQCFJ1d0IKpCt5CXeukTY5h0cXMrDsyyjA2EKmv7CJUu_ixKvQyWRNHCCkak9UtBCiWoYTxj3We_qw6tSqNzg/s320/teimosia.png" width="320" height="158" data-original-width="589" data-original-height="290" /></a></div>
+Lá vamos nós caros leitores com mais uma dualidade que as vezes alguns confundem com um grau de ambiguidade. Sob o ponto de vista que todo cristão deve colocar sob sua vida (um olhar sobrenatural), essa questão fica muito bem esclarecida afastando de forma definitiva os “achismos”. De fato, é preciso sempre termos consciência do que essas duas atitudes representam em nosso caminhar espiritual, porque dessa forma estaremos atentos em relação à direção para qual se está caminhando.</br>
+</br>
+Pessoal, já ouviram a expressão que diz que o “besouro voa de teimoso”? E se comparado a uma borboleta entendemos facilmente o porquê dessa expressão. Uma borboleta, pelo menos até onde se sabe, jamais “deu com os burros na água”. Muito pelo contrário, ela voa graciosamente e com uma perfeição só. Já o nosso amigo, o besouro, sabe-se sobre ele que em sua vida de inseto voador, vamos colocar assim, vez por outra ele “dá de frente” com algum obstáculo. É notório o porquê, ele não é tão aerodinâmico como os pássaros ou como a nossa borboleta. E já que falamos em pássaros vamos lembrar que nunca vimos uma galinha cortando os céus em belo e gracioso voo?</br>
+</br>
+Pois bem, feito o pequeno comparativo adentremos então no cerne da questão. Jesus disse que aquele que perseverar até o fim será salvo (Mateus 10,22). E para perseverar em seus ensinamentos e em tudo aquilo que ele pede de nós, é preciso sermos persistentes. Isso nos parece bastante claro. Agora, eis que surge o problema por culpa da fraqueza humana. Quando não somos persistentes em agirmos com uma conduta que nos é cobrada por Deus, damos margem para o inimigo instigar nosso ego e nos fazer trocar a humildade pelo egoísmo. Sabemos o que devemos fazer, sabemos como devemos ser, sabemos como devemos agir e, por conta do nosso afastamento de Deus, seja momentâneo ou não, teimamos em nos comportar como amigos do mundo.</br>
+</br>
+Na carta de São Tiago muito claro está que quem se faz amigo do mundo se torna inimigo de Deus (Tiago 4,4); assim agem os teimosos, que sabem o que Deus não aprova, mas insistem em suas teimosias e ficam pelo mundo “batendo cabeça” e “dando murro em ponta de faca”. Sabem que não adianta, se almejam a glória eterna, agirem assim. São Paulo a respeito dessa fraqueza humana já falava em suas cartas que aprova o bem que não fazia e fazia o mal que não aprovava (Romanos 7). Por fim, que nos fique claro: a persistência vem de raízes boas, enquanto que a teimosia vem de raízes ruins.</br>
+</br>
+</br>
+fonte: Jefferson Roger

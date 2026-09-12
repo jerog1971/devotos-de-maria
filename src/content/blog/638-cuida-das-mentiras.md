@@ -1,0 +1,25 @@
+---
+title: "Cuida das mentiras"
+date: 2016-01-25T19:32:00Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsqZJKPR_DLIphnrktIhjbkDwfnrqXFO3LNrxIfoCOeq07WvjVCS4NfuJd_6VMwu0rwi7deIg9EkUZB0GYZB8-KCfkcDPqGZgNDOr9LKnf4Cm2nZQL8b9dnmLP90XS4bYld4177dUf-mI/s320/mentir.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsqZJKPR_DLIphnrktIhjbkDwfnrqXFO3LNrxIfoCOeq07WvjVCS4NfuJd_6VMwu0rwi7deIg9EkUZB0GYZB8-KCfkcDPqGZgNDOr9LKnf4Cm2nZQL8b9dnmLP90XS4bYld4177dUf-mI/s1600/mentir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsqZJKPR_DLIphnrktIhjbkDwfnrqXFO3LNrxIfoCOeq07WvjVCS4NfuJd_6VMwu0rwi7deIg9EkUZB0GYZB8-KCfkcDPqGZgNDOr9LKnf4Cm2nZQL8b9dnmLP90XS4bYld4177dUf-mI/s320/mentir.png" width="320" height="320" data-original-width="224" data-original-height="224" /></a></div>
+</br>
+“Cuida-te para não dizeres mentira alguma, pois o costume de mentir é coisa má”. Este versículo caros leitores é o versículo 14, retirado do capítulo 7 do livro do Eclesiástico. Assim como o livro dos Provérbios, este livro possui grandes ensinamentos encontrados em toda a sagrada escritura e com o versículo em questão que estamos a meditar, não poderia ser diferente. Mesmo que não fosse contextualizado facilmente uma pequena educação apoiada em bons, sensatos e honestos princípios poderia e pode apontar que, esse negócio de mentir não é coisa boa.</br>
+</br>
+Indo um pouco mais além, podemos compreender que como tudo se relaciona com a eterna batalha do bem contra o mal, da mesma forma a verdade contrapõe-se a mentira. Como nos diz o versículo, essa atitude que é má, principalmente é porque ela se contrapõe ao pai de todas as verdades: Jesus. Foi Ele quem nos disse que é a verdade. Então, não importa em que grau iremos mentir. Não existe isso de que é uma mentirinha, ou que é uma mentirinha branca, uma mentirinha branda. De que essas pequenas mentiras ajudam a resolver alguns probleminhas. Nada disso, assim como não existe esse negócio de que vamos mentir só um pouquinho e que não vai fazer mal algum pois a intenção é boa.... e por aí vai. Dá para ficar aqui relacionando uma série de malabarismos que as pessoas fazem em suas mentes na tentativa de acalmar a consciência perante um ato que no fundo sabem que está errado.</br>
+</br>
+É o mesmo caso das pessoas que são multadas no trânsito. Elas vão fazendo, vão fazendo, vão se arriscando e não vão sendo pegas. Não são vistas cometendo seus erros até que quando, por exemplo, são flagradas, dão suas desculpas esfarrapadas, muitas vezes irritadas argumentando que tantas pessoas fazem assim e porque não penalizar a todos? São pegas e a primeira reação do infrator ao erro é o ódio.</br>
+</br>
+Isso já foi dito pelos santos da igreja católica, por Santo Agostinho e São Tomás de Aquino. A primeira reação do pecador frente a verdade é o ódio.
+Pois bem, se mentir é um erro e não existe uma mentira que seja verdadeira pois não se coadunam verdades com mentiras será que existe graus de mentira? Vamos refletir.</br>
+</br>
+Com certeza podemos afirmar que sim. Vamos a um simples exemplo para elucidar. Se não sou conhecedor da verdade a respeito de um assunto e aprendo sobre ele algo que é mentira passando a divulgar essa mentira como se fosse verdade, estou a cometer um erro, que tem sua parcela de gravidade estando eu em ignorância vencível. Para elucidar, ignorância vencível é a falta de conhecimento que podemos resolver, indo por iniciativa própria em busca da verdadeira verdade. Por outro lado, se sou conhecedor de uma mentira, sabendo que esta é de fato mentira, e me levanto em defesa dessa mentira, conscientemente, já aqui existe um agravante pois por livre arbítrio optei pelo que me convém, pela verdade que não é a verdade.</br>
+</br>
+Vamos resumir até aqui? Mentir sem saber é uma coisa, mentir sabendo é outra. E para relembrar, mentir é desobedecer o oitavo mandamento da lei de Deus. Se não lembra lá vai ele: "Não levantar falso testemunho". Bem, continuemos. Transformando a questão para a realidade do pecado, este poderá ser venial ou mortal. E tem mais, assim como não se pode e não se deve ter uma fé percentual, não se pode compactuar com a mentira, que é falsa. No dia de nosso juízo particular não poderemos dizer a Jesus que fizemos isso, isso e aquilo de bom, mas para resolver alguns probleminhas de ordem pessoal e egoísta dissemos essa, essa e aquela mentirinha.</br>
+</br>
+Tomemos cuidado, pode ser que algumas mentirinhas apenas nos coloquem no purgatório, mas uma quantidade de mentirinhas podem se somar e nos levar ao passo derradeiro do abismo, nos condenando ao inferno. Não se peca grave e mortalmente de uma hora para outra. As tentações vão nos fazendo cair aos poucos até que enfim damos o passo final na rampa da condenação. Por isso que a bíblia nos ensina a tomarmos cuidado. Santo Agostinho já dizia sobre os pecados veniais: “se não teme ao cometê-los, treme ao conta-los.</br>
+</br>
+</br>
+fonte: Jefferson Roger

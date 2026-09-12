@@ -1,0 +1,19 @@
+---
+title: "As pessoas não têm fé, elas têm medo"
+date: 2020-03-16T15:34:00.003Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_rUVL9rmN6vYn43kP9ORF_gptTYt14_1gCoKGev1kINQ3HHWJXBMnTgxzzg-_2ZapQviHTE4RZiqcgLjns3cMhhxxb4jor5Ch0OOb8jZhjVXfEbctzcGuhMHvjGKCSWBDH2qp4uPb9o/s320/f%25C3%25A9_medo.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_rUVL9rmN6vYn43kP9ORF_gptTYt14_1gCoKGev1kINQ3HHWJXBMnTgxzzg-_2ZapQviHTE4RZiqcgLjns3cMhhxxb4jor5Ch0OOb8jZhjVXfEbctzcGuhMHvjGKCSWBDH2qp4uPb9o/s1600/f%25C3%25A9_medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_rUVL9rmN6vYn43kP9ORF_gptTYt14_1gCoKGev1kINQ3HHWJXBMnTgxzzg-_2ZapQviHTE4RZiqcgLjns3cMhhxxb4jor5Ch0OOb8jZhjVXfEbctzcGuhMHvjGKCSWBDH2qp4uPb9o/s320/f%25C3%25A9_medo.png" width="320" height="190" data-original-width="577" data-original-height="342" /></a></div>
+Em trinta e três livros das sagradas escrituras encontramos algum ensinamento relacionado com o medo. Jesus perguntou em Mateus 8,26 – “Por que este medo, gente de pouca fé?” Também disse em Mateus 14,27 – “Tranquilizai-vos, sou eu. Não tenhais medo!” E disse também em Lucas 12,4-5 – “Digo-vos a vós, meus amigos: não tenhais medo daqueles que matam o corpo e depois disto nada mais podem fazer. Mostrar-vos-ei a quem deveis temer: temei àquele que, depois de matar, tem poder de lançar no inferno; sim, eu vo-lo digo: temei a este.” E para início de conversa, Jesus faz também pronunciamentos proféticos, Lucas 21,26-28 – “Os homens definharão de medo, na expectativa dos males que devem sobrevir a toda a terra. As próprias forças dos céus serão abaladas. Então verão o Filho do Homem vir sobre uma nuvem com grande glória e majestade. Quando começarem a acontecer estas coisas, reanimai-vos e levantai as vossas cabeças; porque se aproxima a vossa libertação.”</br>
+</br>
+No entanto o Cristo é categórico – João 16,33 – “No mundo haveis de ter aflições. Coragem! Eu venci o mundo.”</br>
+</br>
+Jesus é muito claro, existe uma balança, de um lado está a fé e do outro o medo. Vamos recordar mais uma vez - Mateus 8,26 – “Por que este medo, gente de pouca fé?” As pessoas recitam o salmo de que se Deus é por elas quem será contra elas, mas, ao menor sinal de perigo, sobrevém o desespero e o medo de morrer encobre a fé em Jesus Cristo. Por que o medo de morrer? Estais com alguma pendência com Deus que não lhe convém morrer agora? Ou a vida é muito boa, regada a muitos prazeres do mundo e esses apegos lhe prendem a esta vida? Não queres perde-los? Por isso quer manter sua vida a salvo? Pois bem...</br>
+</br>
+Mateus 10,39 – “Aquele que tentar salvar a sua vida, perdê-la-á. Aquele que a perder, por minha causa, reencontrá-la-á.” O medo faz as pessoas olharem para os outros, ainda mais em tempos difíceis, como um suspeito em potencial; ele carimba na testa de todo mundo a seguinte informação: ele porta um inimigo seu, afastai-vos.</br>
+</br>
+O medo faz parte do time da prudência, porém, se ele começar a reger a vida, ser o norteador, o amor em forma de caridade, assim como o amor de Jesus Cristo, será sufocado. Pois bem, nas adversidades da vida que toda a história da natureza humana nos apresenta este é mais um capítulo a ser vivido (como aconteceu com as guerras mundiais, a guerra fria, a aids, h1n1, Estado Islâmico e agora o corona vírus). É a oportunidade, mais uma vez de se apegar a Deus ou de se apegar ao medo desenfreado que descamba para o pânico e paralisa o modo de viver. Um dia iremos morrer mesmo; se estamos vivendo com o intuito de chega ao céu, esperamos a experiência transformadora da morte. Como disse São Paulo em Filipenses 1,21 – “para mim o viver é Cristo e o morrer é lucro.”</br>
+</br>
+</br>
+Fonte: Jefferson Roger

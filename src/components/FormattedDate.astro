@@ -1,17 +1,23 @@
 ---
 interface Props {
-	date: Date;
+	date?: Date | string;
 }
 
 const { date } = Astro.props;
+const parsedDate = date ? new Date(date) : new Date();
+const isValid = !isNaN(parsedDate.getTime());
 ---
 
-<time datetime={date.toISOString()}>
-	{
-		date.toLocaleDateString('en-us', {
-			year: 'numeric',
-			month: 'short',
-			day: 'numeric',
-		})
-	}
-</time>
+{
+	isValid ? (
+		<time datetime={parsedDate.toISOString()}>
+			{parsedDate.toLocaleDateString('pt-BR', {
+				year: 'numeric',
+				month: 'short',
+				day: 'numeric',
+			})}
+		</time>
+	) : (
+		<span>---</span>
+	)
+}

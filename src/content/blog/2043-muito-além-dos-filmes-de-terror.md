@@ -1,0 +1,17 @@
+---
+title: "Muito além dos filmes de terror"
+date: 2019-04-12T15:45:00.004Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGuUoZqwOsXECqrUKorU1B4Waap8L3Rg4bHW2RtqECZ9H2On9pjlP_V922yLoUZtrkeyLolV2w9CwQ-V4u9yyMbyaMnlgwqQn5Qmy5hFlxxA3RV_JFCDaZ0Gg5jy-erZ0yTXXxgts8e-c/s320/terror_real.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGuUoZqwOsXECqrUKorU1B4Waap8L3Rg4bHW2RtqECZ9H2On9pjlP_V922yLoUZtrkeyLolV2w9CwQ-V4u9yyMbyaMnlgwqQn5Qmy5hFlxxA3RV_JFCDaZ0Gg5jy-erZ0yTXXxgts8e-c/s1600/terror_real.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGuUoZqwOsXECqrUKorU1B4Waap8L3Rg4bHW2RtqECZ9H2On9pjlP_V922yLoUZtrkeyLolV2w9CwQ-V4u9yyMbyaMnlgwqQn5Qmy5hFlxxA3RV_JFCDaZ0Gg5jy-erZ0yTXXxgts8e-c/s320/terror_real.png" width="320" height="289" data-original-width="503" data-original-height="454" /></a></div>
+Os "filmes de terror" dividem opiniões. Muitos não gostam, porque, depois que assistem, não conseguem dormir à noite. Alguns, impulsionados por uma curiosidade malsã, lançam-se de cabeça nas tramas cinematográficas, chegando a entrar no abismo sem fundo do ocultismo. De fato, é inegável que os "filmes de terror" ajudam a colocar o homem diante de realidades espirituais. Gostos à parte, algumas produções do gênero têm o costume de abordar temas bastante caros à doutrina católica. O diretor do clássico "O Exorcista" ( The Exorcist, 1973) – indicado ao Oscar de melhor filme –, por exemplo, confessa ter feito o filme não para ser uma história "de terror", mas para retratar "o mistério da fé". Mesmo sendo agnóstico, William Friedkin explica que, na trama, "o objetivo do demônio não é a menina, mas o sacerdote que está perdendo a fé". O filme fez tanto sucesso nos Estados Unidos, que chegou mesmo a suscitar vocações para a vida sacerdotal.</br>
+</br>
+Mais recentemente, "O Ritual" ( The Rite, 2011), estrelado por Anthony Hopkins, também está baseado na "crise vocacional" de um diácono que, depois de lidar com o ministério de um padre exorcista, acaba se tornando um católico devoto e fiel. A sua emocionante profissão de fé ao final da história ilustra como o contato com o mal pode conduzir as almas a um encontro com Cristo. Não se trata de dar primazia ou "importância excessiva" ao inimigo de Deus. É que, em um mundo materialista como o nosso, em que as realidades sobrenaturais são encaradas com desdém ou desprezo, tomar consciência da força efetiva do mundo espiritual – mesmo que em sua dimensão maligna – pode ser um primeiro passo para se aproximar de Nosso Senhor.</br>
+</br>
+Algumas coisas, no entanto, ainda estão fora do lugar. O demônio existe, é verdade. As possessões, os rituais de exorcismo, o poder da água benta também são reais. Ao lado disso, porém, existem coisas como "tentação", "pecado" e "inferno" – e essas realidades não só estão vivas e ativas no mundo, como são muito mais graves e têm efeitos muito mais devastadores do que qualquer possessão diabólica. O problema é que ninguém fala sobre elas, nem nos cinemas, nem nos livros da moda e, tragicamente, nem nos púlpitos de nossas igrejas.</br>
+</br>
+Portanto, que ninguém se engane. O risco de pecar, perder a própria alma e ser condenado ao fogo do inferno é um drama muito mais terrível – e real – que qualquer conto de terror.</br>
+</br>
+</br>
+Fonte: adaptado pelo autor do site de padrepauloricardo.org

@@ -1,0 +1,19 @@
+---
+title: "Contagem regressiva"
+date: 2019-04-15T20:18:00Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOIqYiyt4WpfogiqMjycG6bsCd5HpJ4_0Wm7sw48iFr_JXbZGPWTuInyk7Nf9DcvikIz0wePdlJkrct6KmQCwk6gk2SVFEznSMBJMHg1oovjrXudrYtsKiRxYxv-_UuDbQdVu_73266Ac/s320/Vingadores_Ultimato.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOIqYiyt4WpfogiqMjycG6bsCd5HpJ4_0Wm7sw48iFr_JXbZGPWTuInyk7Nf9DcvikIz0wePdlJkrct6KmQCwk6gk2SVFEznSMBJMHg1oovjrXudrYtsKiRxYxv-_UuDbQdVu_73266Ac/s1600/Vingadores_Ultimato.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOIqYiyt4WpfogiqMjycG6bsCd5HpJ4_0Wm7sw48iFr_JXbZGPWTuInyk7Nf9DcvikIz0wePdlJkrct6KmQCwk6gk2SVFEznSMBJMHg1oovjrXudrYtsKiRxYxv-_UuDbQdVu_73266Ac/s320/Vingadores_Ultimato.png" width="320" height="238" data-original-width="645" data-original-height="480" /></a></div>
+Todos que são adeptos do entretenimento cinematográfico estão sempre acompanhando mês a mês a contagem regressiva das grandes produções hollywoodianas. O tempo vai passando e o que se vê pelo capitalismo afora é empresa comprando empresa. Vale para todas as áreas. Vimos isso acontecer em bancos, em supermercados, em empresas de informática e mais precisamente, foco deste artigo, em empresas cinematográficas. São investimentos de cifras altíssimas para que uma produção renda o suficiente para o salário dos atores e de toda a equipe envolvida.</br>
+</br>
+Antigamente os filmes eram promovidos numa escala de marketing muito menor do que acompanhamos hoje em dia. Atualmente a movimentação dos envolvidos e fãs é realmente constante e poderíamos arriscar dizer que é até mesmo ininterrupta. A indústria que move bilhões, é o que se escuta dizer com bastante facilidade nas mídias. </br>
+</br>
+Pois muito bem, o intuito aqui não é criticar toda essa engrenagem; o intuito aqui é apontar para os consumidores. Contamos meses, dias e horas para muitas coisas. Alguns são realmente tomados por grande ansiedade e não só consomem o produto em questão como também tudo que deriva dele. Voltamos a dizer, não estamos para críticas até porque quem vos fala também gasta algumas horas de seu tempo para curtir em família bons filmes. </br>
+</br>
+Eis aí o “x” da questão. A sadia atitude deve nos mover sempre para uma direção que aponte um equilíbrio em nossas vidas. Nem todo mundo faz contagem regressiva para ir à missa. Não faz contagem regressiva para a hora de rezar o Rosário. Não faz contagem regressiva para voltar para casa, para sua família ao final do dia de trabalho. No entanto se faz contagem regressiva para o dia do salário, por muitas razões. Alimentos, contas de água e luz, despesas com moradia, mas também para se comprar aquele item supérfluo como um novo modelo de celular, ou aquela roupa que nem precisamos, mas que achamos bonita. “Ora, trabalho para que” - pensam alguns – “tenho direito de comprar, o dinheiro é meu”. </br>
+</br>
+Sem dúvida, é seu mesmo, você pode fazer com ele o que quiser. O mesmo vale para sua alma, você pode fazer com ela o que quiser, mas lembre-se, você só tem uma. E na história da vida a contagem regressiva dela não é feita por nós humanos. Desde o dia em que nascemos o tempo vai se esgotando; quanto a isso muitos nem querem saber, porém, o livro do Eclesiástico nos adverte que devemos pensar constantemente em nossos momentos finais. Não podemos ser pegos desprevenidos, fora do estado de graça, impossibilitados de entrarmos no reino dos céus. Que possamos refletir sobre nossas atitudes em vida para podermos sempre lembrar que nosso esmero e empenho não devem acontecer apenas no lazer, mas sobretudo no dever. </br>
+</br>
+</br>
+Fonte: Jefferson Roger

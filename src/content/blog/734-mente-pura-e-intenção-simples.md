@@ -1,0 +1,30 @@
+---
+title: "Mente pura e intenção simples"
+date: 2020-06-29T15:58:00.002Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYHI9_sof3hQFSncXysdIHVuIbQ4iLwwyCqSFE7QmQjIqv417qAQyHYYEvyhVlirrg4vJ_n9Af_kbtaYG7wf43kuptFLpmE5XWEO20d7jNv3QBNfs7qDLbBI5Xml0bT_r2-273puFN8tU/s320/imelda2.png"
+---
+
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYHI9_sof3hQFSncXysdIHVuIbQ4iLwwyCqSFE7QmQjIqv417qAQyHYYEvyhVlirrg4vJ_n9Af_kbtaYG7wf43kuptFLpmE5XWEO20d7jNv3QBNfs7qDLbBI5Xml0bT_r2-273puFN8tU/s395/imelda2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="395" data-original-width="214" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYHI9_sof3hQFSncXysdIHVuIbQ4iLwwyCqSFE7QmQjIqv417qAQyHYYEvyhVlirrg4vJ_n9Af_kbtaYG7wf43kuptFLpmE5XWEO20d7jNv3QBNfs7qDLbBI5Xml0bT_r2-273puFN8tU/s320/imelda2.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Com duas asas se levanta o homem acima das coisas terrenas:
+simplicidade e pureza. A simplicidade há de estar na intenção e a pureza no
+afeto. A simplicidade procura a Deus, a pureza o abraça e frui.</p>
+
+<p class="MsoNormal">Em nenhuma boa obra acharás estorvo, se estiveres interiormente
+livre de todo afeto desordenado. Se só queres e buscas o agrado de Deus e o
+proveito do próximo, gozarás de liberdade interior. Se teu coração for reto,
+toda criatura te será um espelho de vida e um livro de santas doutrinas.</p>
+
+<p class="MsoNormal">Não há criatura tão pequena e vil, que não represente a
+bondade de Deus. Se fosses interiormente bom e puro, logo verias tudo sem
+dificuldade e compreenderias bem. O coração puro penetra o céu e o inferno.
+Cada um julga segundo seu interior. Se há alegria neste mundo, é o coração puro
+que o goza; se há, em alguma parte, tribulação e angústia, é a má consciência
+que as experimenta. Como o ferro metido no fogo perde a ferrugem e se faz todo
+incandescente, assim o homem que se entrega inteiramente a Deus fica livre da
+tibieza e transforma-se em novo homem.</p>
+
+<p class="MsoNormal">Quando o homem começa a entibiar, logo teme o menor trabalho
+e anseia as consolações exteriores. Quando, porém, começa deveras a vencer-se e
+andar com ânimo no caminho de Deus, leves lhe parecem as coisas que antes
+achava onerosas.</p>
+
+<p class="MsoNormal">Fonte: Tomás de Kempis</p></div>

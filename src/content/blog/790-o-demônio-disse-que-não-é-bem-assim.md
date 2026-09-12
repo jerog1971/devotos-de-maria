@@ -1,0 +1,40 @@
+---
+title: "O demônio disse que não é bem assim"
+date: 2022-05-04T16:56:00.003Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2lNP6TNxgN7p5v4rSwEs30Y6719peEHecFW9uBdtuFf4GHn-s56Lb4WACRhRC8uyB_wKSghmgRyw_cYhRekt-uWYfUwAUSidm_Tnx7z0aHVYDXfrqMpwVliXEOsqF0SH6alISBr9wE6z18c4Ol_h0k4l_ZsTSTaOH1bIRiiXzlQuSBcFgPzrrNad/s320/alei.png"
+---
+
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2lNP6TNxgN7p5v4rSwEs30Y6719peEHecFW9uBdtuFf4GHn-s56Lb4WACRhRC8uyB_wKSghmgRyw_cYhRekt-uWYfUwAUSidm_Tnx7z0aHVYDXfrqMpwVliXEOsqF0SH6alISBr9wE6z18c4Ol_h0k4l_ZsTSTaOH1bIRiiXzlQuSBcFgPzrrNad/s370/alei.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="370" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2lNP6TNxgN7p5v4rSwEs30Y6719peEHecFW9uBdtuFf4GHn-s56Lb4WACRhRC8uyB_wKSghmgRyw_cYhRekt-uWYfUwAUSidm_Tnx7z0aHVYDXfrqMpwVliXEOsqF0SH6alISBr9wE6z18c4Ol_h0k4l_ZsTSTaOH1bIRiiXzlQuSBcFgPzrrNad/s320/alei.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tudo isso que é “pintado” sobre Deus aos homens não é
+totalmente genuíno. Afinal, é claro que para vender o seu peixe existem duas
+técnicas: falar mal do peixe do outro ou falar muito bem do seu próprio, o que
+seria muito mais honesto. Há quem diga que os livros de história, em sua maioria,
+narram os acontecimentos sempre a partir do ponto de vista dos vencedores.<o:p></o:p></p><div class="separator" style="clear: both;">
+
+<p class="MsoNormal">Até aí nada de ruim e nada demais, todavia, o perigo da
+falta de honestidade pode induzir as narrativas a omitirem possíveis atitudes
+que denigram suas imagens. Afinal, pode um ato ilícito prejudicar uma reputação
+e com isso os véus de nobreza e retidão, moral e ética, podem despencar das
+alturas como um raio.<o:p></o:p></p>
+
+<p class="MsoNormal">Uma coisa é certa, e isso é um dos grandes triunfos do
+demônio: ele mistura verdades com mentiras, é sutil e manobra maravilhosamente
+bem as palavras através de suas catervas infernais e dos que a ele aderem. Por
+isso o mundo “pinta” sobre Deus as suas verdades, misturadas com sua essência. Então,
+na contramão dessa situação, Jesus Cristo nos ordenou a vigilância e disse que
+os eleitos não podem ser enganados pelo mal e pelos que o praticam.<o:p></o:p></p>
+
+<p class="MsoNormal">E assim, todos mergulhados no oceano das palavras e tudo que
+delas procedem, precisam a cada dia compreender a precisão do que elas ensinam.
+Sobretudo, para a salvação da alma, o que ensinam as santas palavras. O diabo
+disse que Deus omite coisas do nosso interesse e proíbe além do necessário, mas
+a palavra divina diz que só o que nos interessa saber está revelado (para a
+salvação de nossas almas). Aquilo que nos proíbe não supera as necessidades que
+o livre arbítrio possui, pois, se amamos a Deus acima de todas as coisas, nenhuma
+proibição vai além desse amor. A alma próxima e em comunhão com seu criador se
+eleva cada dia e cada vez mais, deixando para trás as falácias maléficas que
+querem “pintar” Deus como um velhote desmancha prazeres e um carrasco castigador,
+um executor de desgraças terrenas. O inimigo omite e quer mudar o sentido das
+coisas, por exemplo, que “Deus corrige e castiga aqueles que ama e tem por seus
+filhos”.<o:p></o:p></p>
+
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p><div class="separator" style="clear: both; text-align: left;"><br /></div><br />&nbsp;<p></p>

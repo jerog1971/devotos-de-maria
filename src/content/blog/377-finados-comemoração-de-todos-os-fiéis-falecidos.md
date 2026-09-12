@@ -1,0 +1,24 @@
+---
+title: "Finados - Comemoração de Todos os Fiéis Falecidos"
+date: 2016-11-01T00:30:00.001Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_ofXNZz8LaftBCJu-vFl0QO07Hnqb9p9-zE33Bg8vH6Husx_rs2BOBFAzlZ2O3cj8ndD5gI6n_GTKatb9g644nkbi9wO3QJA0MfwmsyLIFqkMae0YGRumkPu8Ptttt4rGDtqNPYWZb8/s320/finados.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_ofXNZz8LaftBCJu-vFl0QO07Hnqb9p9-zE33Bg8vH6Husx_rs2BOBFAzlZ2O3cj8ndD5gI6n_GTKatb9g644nkbi9wO3QJA0MfwmsyLIFqkMae0YGRumkPu8Ptttt4rGDtqNPYWZb8/s1600/finados.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="342" data-original-width="803" height="136" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_ofXNZz8LaftBCJu-vFl0QO07Hnqb9p9-zE33Bg8vH6Husx_rs2BOBFAzlZ2O3cj8ndD5gI6n_GTKatb9g644nkbi9wO3QJA0MfwmsyLIFqkMae0YGRumkPu8Ptttt4rGDtqNPYWZb8/s320/finados.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>A comemoração dos falecidos remonta ao ano de 998. A divulgação desta comemoração se deve a Santo Odilon, abade de Cluny, que introduziu está prática em todos os mosteiros beneditinos ligados ao de Cluny. Em 1311, a Santa Sé oficializou a memória dos falecidos, estendendo-a a toda a Igreja Universal. Esta comemoração leva-nos a professar, mediante a nossa fé, a ressurreição da carne: a nossa vida não termina dentro de um túmulo.
+
+Como Jesus de Nazaré, seremos ressuscitados pelo poder de Deus. Nossos dias não são senão a longa gestação para este nascimento definitivo:
+
+Vem a hora em que todos os que repousam nos sepulcros ouvirão a voz e sairão; os que tiverem feito o bem, para a ressurreição da vida; os que praticaram o mal, vão ressuscitar para a condenação (João 5,28ss).
+
+RESSURREIÇÃO: CERTEZA DE VIDA
+
+Deus, nosso Pai, vos pedimos pelos que faleceram, especialmente os que nos são caros: nossos familiares, parentes, amigos, companheiros de luta e de trabalho.</p><p>Nós vos pedimos, sobretudo, por todos que morreram estupidamente, vítimas da brutalidade, da ignorância de seus próprios semelhantes.
+
+Pelos que não tiveram o direito de viver dignamente sua vida, os que tiveram abafadas suas vidas antes do nascimento.
+
+Senhor, nosso Deus, vós que quereis que cada um de nós viva plenamente, dai-nos forças para lutarmos contra tudo e contra todos os que desrespeitam a vida.
+
+Fazei, Senhor, cair as estruturas injustas e opressoras.
+Devolvei aos povos oprimidos sua esperança de vida digna e melhor.
+
+Tornai este mundo, com nossa cooperação, uma "casa habitável", onde não haja fome nem sofrimento provocados pelo egoísmo humano. Amém.</p><p>Fonte: livro Os Santos de cada dia - J. Alves - Paulinas</p>

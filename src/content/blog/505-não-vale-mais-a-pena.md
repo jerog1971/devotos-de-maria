@@ -1,0 +1,23 @@
+---
+title: "Não vale mais a pena"
+date: 2016-10-14T13:45:00.007Z
+heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0dlQFNeujuHzOQbJ9cHsMb-peW7hrkI01DPZhkPtb8yoVuekr3fAr_TODoJ2p501-eAsRFTB7KH_N5vMO7jTTMN4BauE1Yg-nUmSR5teW2vxmv3Ojnntzdbb-T5M5dh_Nf32VlQcNMko/s320/partido.png"
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0dlQFNeujuHzOQbJ9cHsMb-peW7hrkI01DPZhkPtb8yoVuekr3fAr_TODoJ2p501-eAsRFTB7KH_N5vMO7jTTMN4BauE1Yg-nUmSR5teW2vxmv3Ojnntzdbb-T5M5dh_Nf32VlQcNMko/s1600/partido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0dlQFNeujuHzOQbJ9cHsMb-peW7hrkI01DPZhkPtb8yoVuekr3fAr_TODoJ2p501-eAsRFTB7KH_N5vMO7jTTMN4BauE1Yg-nUmSR5teW2vxmv3Ojnntzdbb-T5M5dh_Nf32VlQcNMko/s320/partido.png" width="320" height="309" data-original-width="213" data-original-height="206" /></a></div>
+O livro do Eclesiástico nos ensina: “Não pratiques o mal, e o mal não te iludirá. Afasta-te da injustiça, e a injustiça se afastará de ti. Não te justifiques perante Deus, pois ele conhece o fundo dos corações. Não acrescentes um segundo pecado ao primeiro, pois mesmo por causa de um só não ficarás impune. Não te deixes levar ao desânimo. Não descuides de orar nem de dar esmola. NÃO DIGAS: Deus há de considerar a quantidade de meus dons; quando os oferecer ao Deus Altíssimo, ele os há de aceitar.“</br>
+</br>
+Como vemos caros leitores, este pequeno trecho do capítulo sete do livro do Eclesiástico, livro este que contém ensinamentos bastante diretos e de fácil compreensão, nos aponta duramente para a realidade que nos aguarda por conta de abandonarmos nossa batalha cotidiana rumo à pátria celeste.</br>
+</br>
+Se achamos que não vale a pena sermos bons porque só recebemos o mal das pessoas é engano, pois o mal nos ilude com suas ofertas de perdição. Se achamos que não vale a pena sermos justos e corretos porque vemos que a injustiça insiste em nos visitar em certas épocas da vida, e por isso queremos retribuir na mesma moeda, esquecemos que nos aproximando do que não é puro, nos contaminamos. Se achamos que não vale mais a pena nossa atitude porque ela não nos traz o que queremos e recebemos sim, o que Deus quer, passamos a agir para o bem próprio, na confiança egoísta de que depois é só esclarecermos a Deus no dia do juízo que tudo bem, iremos convence-lo da nossa verdade. Engano, triste engano. Estaremos diante do Verbo.</br>
+</br>
+Erros não concertam erros. Para justificar e encobrir pecados menores muitos cometem pecados sobre pecados. Eu roubei e menti dizendo que foi outra pessoa. Eu ofendi alguém porque ele me ofendeu primeiro. Errado! Se me ofenderam o que será que fiz para ser ofendido? Será que não pequei contra aquela pessoa? E justifiquei a mim mesmo que não era pecado, que eu é que estou certo? Se nos acostumamos a pecar e procuramos sempre razões pessoais para justificar nossos atos, Deus já nos avisou, basta um só pecado...</br>
+</br>
+Se achamos que não vale mais e pena levar a pesada cruz nas costas até o alto do calvário, quando olhamos para o lado e vemos pessoas que caminham saltitantes e de bem com a vida, incorremos ao desânimo, jogamos a toalha e passamos a seguir o próprio nariz, fazemos o que queremos para o nosso bem, somente nosso bem. Se não me encaixo na vida então corro atrás daquilo que se encaixa para mim e assim aceito viver tudo aquilo que me afasta do desânimo abrindo mão das razões certas e mais uma vez, ao errar o alvo, pecamos.</br>
+</br>
+Desanimado então, de lado também irá ficar a oração e a esmola. Para que orar? Ninguém me atende mesmo! Para que ajudar o próximo quando peço, peço e peço e não sou ajudado? Errado! Esse descuido abaixa nossa guarda e nos escraviza para o pecado e para a ladeira dos ímpios. Nos afastamos assim da imitação de Cristo que devemos ser (1ª Coríntios 11,1) e de nada adianta, ainda por cima, apoiar-se nas qualidades e virtudes que possuímos, para apresenta-las no dia do juízo, se forem em vão e vazias, sem obras não conseguiremos (Apocalipse 22,12).</br>
+</br>
+Enfim, quando pensamos não valer mais a pena o esforço que fazemos em vida, por causa ou desejo próprio, não estamos a contemplar o horizonte que nos rodeia com um olhar sobrenatural. É preciso um equilíbrio sadio entre mente, corpo e coração, mas também em relação a nossa saúde física e espiritual. Se nosso olhar for colocado na eternidade, então como diz São Paulo em Romanos 8,18 – “Tenho para mim que os sofrimentos da presente vida não têm proporção alguma com a glória futura que nos deve ser manifestada.“</br>
+</br>
+</br>
+fonte: Jefferson Roger
