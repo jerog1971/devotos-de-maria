@@ -7,8 +7,6 @@ pubDate: '2026-09-13'
 
 # Nossa Senhora das Lágrimas de Sangue
 
-![Irmã Amália de Jesus Flagelado](/images/paginas/amalia.png)
-
 No Instituto das Missionárias de Jesus Crucificado, fundado no Brasil por Monsenhor Dom Francisco de Campos Barreto, Bispo de Campinas, viveu uma piedosa religiosa de nome Irmã Amália de Jesus Flagelado (nascida Amália Aguirre). Tal como a mística alemã Teresa Neumann, Irmã Amália teve em seu próprio corpo os estigmas de Jesus. 
 
 Irmã Amália pertenceu ao primeiro grupo de oito freiras cofundadoras do Instituto, as quais receberam o hábito religioso no dia 8 de dezembro de 1927 e fizeram seus votos perpétuos em 8 de dezembro de 1931.
@@ -41,8 +39,6 @@ Este fato ocorreu em **8 de novembro de 1929**.
 ---
 
 ## A Coroa e a Medalha das Lágrimas
-
-![Nossa Senhora das Lágrimas](/images/paginas/lagrimas.png)
 
 Em **8 de março de 1930**, Irmã Amália estava ajoelhada nos degraus do altar quando sentiu-se elevada. Uma Senhora de indizível beleza aproximou-se, trajando vestido roxo, manto azul e um véu branco até o peito. Trazia nas mãos um rosário cujas contas brilhavam como o Sol e eram brancas como a neve. 
 
