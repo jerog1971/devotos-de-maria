@@ -7,8 +7,6 @@ pubDate: '2026-09-13'
 
 # Santa Teresa de Calcutá: A Apóstola dos Desvalidos
 
-![Santa Teresa de Calcutá](/images/paginas/calcuta2.png)
-
 ## Biografia
 
 Santa Teresa de Calcutá (1910–1997), batizada como Anjezë Gonxhe Bojaxhiu, foi uma missionária católica de origem albanesa que dedicou toda a sua vida ao serviço dos mais pobres entre os pobres. 
