@@ -1,3 +1,10 @@
+---
+layout: '../../layouts/BlogPost.astro'
+title: 'A História da Comunhão na Mão'
+description: 'Uma análise histórica, doutrinária e litúrgica sobre a introdução da Comunhão na mão, suas origens, o Concílio Vaticano II e as orientações da Igreja.'
+pubDate: '2026-09-13'
+---
+
 # A História da Comunhão na Mão
 
 ## Os Antecedentes
@@ -12,7 +19,7 @@ Ao longo dos séculos ensinaram-nos e disseram-nos estas coisas não com a ideia
 
 Pelo contrário, a entrada em vigor da Comunhão na mão e de leigos como “Ministros Extraordinários da Eucaristia” mostra um desprezo arrogante por aquilo que os nossos pais nos ensinaram. E embora estas práticas tivessem sido introduzidas com o pretexto de serem um desenvolvimento litúrgico "autêntico" e ordenado pelo Concílio Vaticano II, a verdade é que a Comunhão na mão não é uma autêntica evolução litúrgica, não foi ordenada pelo Concílio Vaticano II, e não só aparece como um desafio como revela um completo desprezo por séculos de doutrina e prática católicas até hoje.
 
-A Comunhão na mão estabeleceu-se sob um falso ecumenismo; permitiram que se espalhasse por fraqueza da autoridade; foi aprovada como medida de compromisso e por um falso sentido de tolerância – e levou a uma profunda irreverência e indiferença para com o Santíssimo Sacramento. Esse abuso litúrgico – que se tornou o mais comum possível – é a vergonha dos nossos tempos.
+A Comunhão na mão established-se sob um falso ecumenismo; permitiram que se espalhasse por fraqueza da autoridade; foi aprovada como medida de compromisso e por um falso sentido de tolerância – e levou a uma profunda irreverência e indiferença para com o Santíssimo Sacramento. Esse abuso litúrgico – que se tornou o mais comum possível – é a vergonha dos nossos tempos.
 
 ---
 
@@ -22,7 +29,7 @@ O Papa Pio XII faleceu em 1958 e no início de 1959 foi dado o primeiro aviso of
 
 Pela vontade do Papa João XXIII, o Vaticano II quis ser um Concílio Ecumênico e, como disse um bispo não tradicionalista Frei Boaventura Koppenburg, aí esta palavra "ecumênico" deve ser entendida não no sentido tradicional de "universalidade" ou de "catolicidade", mas "na acepção moderna (ou errônea?) de favorecer a unidade dos cristãos".
 
-Essa intenção de fazer do Concílio um instrumento de ecumenismo (aliás, falso) abriu as portas da Santa Sé e a cidadela foi ocupada pelos neolitúrgicos progressistas. "Deixemos de lado o que nos separa, guardemos o que nos une"; este bem conhecido programa de João XXIII foi o principio inspirador da nova liturgia. Ora, uma reforma litúrgica inspirada em "motivos ecumênicos" é inconcebível, porque contradiz o princípio imutável da liturgia católica: cabe à regra de fé regular a oração. Uma tal reforma é, ao contrário, pôr em prática a "caridade sem fé" que São Pio X condenou no modernismo. Não é de espantar que a "reforma" (que ia ser implantada) tenha sacrificado a claridade e a exatidão doutrinal em troca de ambigüidade e compromisso. Todavia, imbuídos do princípio anunciado por João XXIII, os Padres conciliares irão dizer, no primeiro documento que aprovaram, ou seja, na Constituição *Sacrosanctum Concilium* sobre a reforma da "Sagrada Liturgia", de 4 de dezembro de 1963, que o Concílio Vaticano II, desde o seu início, propunha-se a "favorecer tudo o que possa contribuir para a união dos que crêem em Cristo"... e para tanto julgou "ser seu dever cuidar de modo especial da reforma e do incremento da Liturgia", estando a Reforma do Ordinário da Missa inserida nessa reforma. E esse documento foi redigido de uma forma tão ambígua que tornou possível a remoção "das pedras que pudessem constituir mesmo sombra de um risco de tropeço ou de desagrado para nossos irmãos separados", como declarou Monsenhor Annibal Bugnini, artífice da Nova Missa, no *L’Observatore Romano* de 19 de maio de 1965, pedras essas que existiam (e que continuam a existir) na liturgia da Igreja Católica, particularmente no rito romano tradicional, restaurado e canonizado por São Pio V para deter e combater as heresias protestantes.
+Essa intenção de fazer do Concílio um instrumento de ecumenismo (aliás, falso) abriu as portas da Santa Sé e a cidadela foi ocupada pelos neolitúrgicos progressistas. "Deixemos de lado o que nos separa, guardemos o que nos une"; este bem conhecido programa de João XXIII foi o princípio inspirador da nova liturgia. Ora, uma reforma litúrgica inspirada em "motivos ecumênicos" é inconcebível, porque contradiz o princípio imutável da liturgia católica: cabe à regra de fé regular a oração. Uma tal reforma é, ao contrário, pôr em prática a "caridade sem fé" que São Pio X condenou no modernismo. Não é de espantar que a "reforma" (que ia ser implantada) tenha sacrificado a claridade e a exatidão doutrinal em troca de ambiguidade e compromisso. Todavia, imbuídos do princípio anunciado por João XXIII, os Padres conciliares irão dizer, no primeiro documento que aprovaram, ou seja, na Constituição *Sacrosanctum Concilium* sobre a reforma da "Sagrada Liturgia", de 4 de dezembro de 1963, que o Concílio Vaticano II, desde o seu início, propunha-se a "favorecer tudo o que possa contribuir para a união dos que crêem em Cristo"... e para tanto julgou "ser seu dever cuidar de modo especial da reforma e do incremento da Liturgia", estando a Reforma do Ordinário da Missa inserida nessa reforma. E esse documento foi redigido de uma forma tão ambígua que tornou possível a remoção "das pedras que pudessem constituir mesmo sombra de um risco de tropeço ou de desagrado para nossos irmãos separados", como declarou Monsenhor Annibal Bugnini, artífice da Nova Missa, no *L’Observatore Romano* de 19 de maio de 1965, pedras essas que existiam (e que continuam a existir) na liturgia da Igreja Católica, particularmente no rito romano tradicional, restaurado e canonizado por São Pio V para deter e combater as heresias protestantes.
 
 Com a aprovação da Constituição sobre a Sagrada Liturgia foi iniciada a protestantização da Missa católica. E, isto feito, Paulo VI, a 29 de fevereiro de 1964, criou o *"Consilium ad Exsequendam Constitutionem de Sacra Liturgia"* – Conselho para a Aplicação da Constituição sobre a Sagrada Liturgia, o "Consilium", tendo por presidente o Cardeal Lercaro e por secretário o Monsenhor Annibal Bugnini, ou seja, os elementos mais avançados do Movimento Litúrgico italiano. Ao Consilium coube a tarefa de fazer a Reforma Litúrgica, aprovada pelo Vaticano II.
 
@@ -32,13 +39,13 @@ Com a aprovação da Constituição sobre a Sagrada Liturgia foi iniciada a prot
 
 ### Introdução
 
-Na "Missa de Dom A. Nocent", sugerida por este monge beneditino em 1961, já estava recomendado que a comunhão deveria ser feita sob ambas as espécies — costume que havia sido abolido "por graves e justas causas", como afirmou o Concílio de Trento, mas que a Constituição *Sacrosanctum Concílium* sobre a Sagrada Liturgia, de 1963, tornou novamente possível — e, mais ainda, de pé e na mão. Essa Constituição, a *Sacrosanctum Concílium*, diz que devem ser “salvarguardados os princípios dogmáticos estabelecidos pelo Concílio de Trento”, mas a seguir especifica os casos em que fica autorizada a “Comunhão sob as duas espécies”. Na prática, a abertura limitada da Constituição em pauta abriu as portas para inúmeros abusos.
+Na "Missa de Dom A. Nocent", sugerida por este monge beneditino em 1961, já estava recomendado que a comunhão deveria ser feita sob ambas as espécies — costume que havia sido abolido "por graves e justas causas", como afirmou o Concílio de Trento, mas que a Constituição *Sacrosanctum Concilium* sobre a Sagrada Liturgia, de 1963, tornou novamente possível — e, mais ainda, de pé e na mão. Essa Constituição, a *Sacrosanctum Concilium*, diz que devem ser “salvarguardados os princípios dogmáticos estabelecidos pelo Concílio de Trento”, mas a seguir especifica os casos em que fica autorizada a “Comunhão sob as duas espécies”. Na prática, a abertura limitada da Constituição em pauta abriu as portas para inúmeros abusos.
 
 O procedimento de receber a comunhão de pé e na mão não consta do Livreto *Liturgia da Missa*, obra com a “Tradução Oficial para o Brasil” aprovada pela CNBB e pela Sagrada Congregação do Culto Divino, mas foi adotado sem a menor sombra de dúvida e, depois, tornou-se uma prática universal.
 
 Quanto à questão de ser a comunhão feita de pé, salvo a menção feita na "Missa de Dom A. Nocent", nada se encontra em documento algum. Todavia, é um procedimento que acompanha naturalmente a decisão de permitir a comunhão na mão, pois ninguém vai se ajoelhar para receber a comunhão desse modo e, hoje em dia, os comungantes só recebem a comunhão de pé; até mesmo aqueles que a querem receber na boca.
 
-A comunhão na mão foi especificamente autorizada pela Instrução *Memoriale Dómini* – Instrução essa redigida "por mandato especial de Paulo VI e por ele mesmo aprovada em razão de sua autoridade apostólica" (28/05/69) – e na qual a Sagrada Congregação para o Culto Divino, na esteira de outros autores, afirma que "em épocas muito antigas se fez uso da comunhão na mão", dando a entender que este era o procedimento normal. É este o tema que vamos aprofundar neste ensaio, para mostrar a verdadeira história da comunhão na mão.
+A comunhão na mão foi especificamente autorizada pela Instrução *Memoriale Domini* – Instrução essa redigida "por mandato especial de Paulo VI e por ele mesmo aprovada em razão de sua autoridade apostólica" (28/05/69) – e na qual a Sagrada Congregação para o Culto Divino, na esteira de outros autores, afirma que "em épocas muito antigas se fez uso da comunhão na mão", dando a entender que este era o procedimento normal. É este o tema que vamos aprofundar neste ensaio, para mostrar a verdadeira história da comunhão na mão.
 
 ---
 
@@ -77,7 +84,7 @@ Foi a indignação de grande número de Fiéis que obrigou um pequeno número de
 
 Tendo consultado os bispos do mundo sobre o assunto, estes votaram, na sua esmagadora maioria, no sentido de manter a prática tradicional de receber a Sagrada Comunhão apenas na língua. E note-se que, nesta altura, o abuso estava limitado a alguns países europeus; ainda não tinha sequer começado nos Estados Unidos.
 
-O Papa promulgated então a Instrução *Memoriale Domini*, de 28 de Maio de 1969. Em resumo, o documento declara:
+O Papa promulgou então a Instrução *Memoriale Domini*, de 28 de Maio de 1969. Em resumo, o documento declara:
 
 1. Os bispos do mundo eram, na sua esmagadora maioria, contra a Comunhão na mão.
 2. "Esta maneira de distribuir a Sagrada Comunhão (isto é, o sacerdote colocar a Hóstia na língua dos comungantes) deve ser observada."
