@@ -1,3 +1,10 @@
+---
+layout: '../../layouts/BlogPost.astro'
+title: 'Oração aos Anjos e Arcanjos'
+description: 'Orações aos Arcanjos São Rafael, São Gabriel e São Miguel, Rosário de São Miguel e a hierarquia dos nove coros celestes.'
+pubDate: '2026-09-05'
+---
+
 ## Oração aos Anjos e Arcanjos
 
 ### Oração a São Rafael
@@ -18,7 +25,7 @@ Glorioso Arcanjo São Gabriel, fiel anunciador da Palavra de Deus, humildemente 
 
 ### Oração a São Miguel
 
-São Miguel Arcanjo, defendei-nos no combate. Sede nosso refúgio contra a maldade e as ciladas do demônio. Ordene-lhe Deus, instantemente o pedimos. E vós, príncipe da milícia celeste, pela virtude Divina, precipitai no inferno a Satanás e todos os espíritos malignos que andam pelo mundo para perderem as almas. Amém.
+São Miguel Arcanjo, defendei-nos no combate. Sede nosso refúgio contra a maldade e as ciladas do demônio. Ordene-lhe Deus, instantemente o pedimos. E vós, príncipe da milícia celeste, pela virtude Divina, precipitai no inferno a Satanás e todos os espíritos malignos que trapsam pelo mundo para perderem as almas. Amém.
 
 ---
 
@@ -68,7 +75,7 @@ Deus Todo-Poderoso e Eterno, que por um prodígio de bondade e misericórdia par
 
 **Vídeo:** Padre Paulo Ricardo - Se Relacionar com o Anjo da Guarda
 
-A tradição católica ensina que o coro celeste é dividido e organizado segundo as funções atribuídas por Deus Pai:
+A tradição católica ensina que o coro celeste é dividido e organized segundo as funções atribuídas por Deus Pai:
 
 ### 1. Coro Celeste dos Serafins
 
