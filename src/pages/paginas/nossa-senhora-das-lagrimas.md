@@ -1,78 +1,97 @@
-Santa Teresa de Calcutá
+---
+layout: '../../layouts/BlogPost.astro'
+title: 'Nossa Senhora das Lágrimas: História e Devoção'
+description: 'Conheça a história de Irmã Amália de Jesus Flagelado, as aparições de Nossa Senhora das Lágrimas em Campinas, a Coroa e as promessas de Jesus Manietado.'
+pubDate: '2026-09-13'
+---
 
-**Missionária católica albanesa**
+# Nossa Senhora das Lágrimas de Sangue
 
-Resumo da vida de Santa Teresa de Calcutá:
+![Irmã Amália de Jesus Flagelado](/images/paginas/amalia.png)
 
-Santa Teresa de Calcutá (1910-1997) foi uma missionária católica albanesa. Dedicou toda sua vida aos pobres. Logo cedo descobriu sua vocação religiosa. Com dezoito anos entrou para a Casa das Irmãs de Nossa Senhora do Loreto. Preparou-se para o noviciado. Foi para Calcutá, ensinar geografia no Colégio das Irmãs. A miséria material e espiritual de tanta gente tocava o seu coração. Criou a Congregação Missionárias da Caridade. Em 1965 a Santa Sé aprovou a Congregação. Em 1979 recebeu o Prêmio Nobel da Paz. Santa Teresa foi Beatificada pela igreja católica em 2003 pelo Papa São João Paulo II e Canonizada em 2016 pelo Papa Francisco.
+No Instituto das Missionárias de Jesus Crucificado, fundado no Brasil por Monsenhor Dom Francisco de Campos Barreto, Bispo de Campinas, viveu uma piedosa religiosa de nome Irmã Amália de Jesus Flagelado (nascida Amália Aguirre). Tal como a mística alemã Teresa Neumann, Irmã Amália teve em seu próprio corpo os estigmas de Jesus. 
 
-Filha de Nicolau e de Rosa, Santa Teresa de Calcutá (1910-1997) nasceu no dia 26 de agosto na Albânia, vindo a falecer em 05 de setembro após sofrer seu terceiro ataque cardíaco.
+Irmã Amália pertenceu ao primeiro grupo de oito freiras cofundadoras do Instituto, as quais receberam o hábito religioso no dia 8 de dezembro de 1927 e fizeram seus votos perpétuos em 8 de dezembro de 1931.
 
-**Mensagens da Santa Teresa de Calcutá**
+---
 
-O PIOR MAL DE NOSSO TEMPO É A COMUNHÃO NA MÃO.
+## As Origens da Devoção
 
-Sorria um para o outro, sorria para a sua esposa, sorria para o seu marido, sorria para os seus filhos, sorria um para o outro - não importa quem seja - e isso ajudará a crescer um amor maior de um pelo outro.
+Em 1929, um parente da Irmã Amália encontrava-se em grande aflição: sua esposa estava gravemente enferma e os médicos já haviam declarado não haver mais recurso para salvá-la. Desesperado, o homem lamentava: *"O que vai ser então dos meus filhos?"*
 
-Não ame pela beleza, pois um dia ela acaba; não ame por admiração, pois um dia você se decepciona; não ame por dinheiro, porque um dia ele também acaba. Ame apenas... Pois o tempo nunca pode acabar com um amor sem explicação.
+Sensibilizada com a dor da família, Irmã Amália dirigiu-se em oração confiante ao Divino Salvador. Durante a prece, sentiu-se interiormente chamada a ir ao Sacrário. Na capela, de braços abertos diante do altar, disse a Jesus Sacramentado:
 
-O bem que você faz hoje, pode ser esquecido amanhã. Faça-o assim mesmo. Veja que, ao final das contas, é tudo entre você e Deus! Nunca foi entre você e os outros.
+> *"Se já não há salvação para a mulher de T., eu mesma estou disposta a oferecer a minha vida pela mãe desta família. Que quereis que eu faça?"*
 
-A vida é uma oportunidade. Aproveite-a. A vida é uma beleza. Admire-a. A vida é um sonho. Faça que se torne realidade. A vida é um desafio. Enfrente-o. A vida é um dever. Cumpra-o. A vida é preciosa. Cuide dela. A vida é riqueza. Conserve-a. A vida é um mistério. Explore-o. A vida é promessa. Tenha esperança. A vida é tristeza. Supere. A vida é um hino. Cante-o. A vida é um combate. Vença. A vida é uma aventura. Conduza-a. A vida é felicidade. Mereça-a. A vida é vida. Defenda-a.
+Jesus então lhe apareceu e respondeu:
 
-Lembre-se: As mãos que ajudam são mais sagradas do que os lábios que rezam.
+> *"Se queres obter essa graça, pede-Ma em atenção às Lágrimas de Minha Mãe."*
 
-Ontem foi embora. Amanhã ainda não veio. Temos somente hoje, comecemos! Qualquer ato de amor, por menor que seja, é um trabalho pela paz.
+Ao perguntar como deveria rezar, Jesus lhe ensinou as seguintes invocações:
 
-A falta de amor é a maior de todas as pobrezas.
+> *"Ó Jesus, atendei as nossas súplicas pelas Lágrimas da Vossa Mãe Santíssima."*  
+> *"Ó Jesus, olhai para as Lágrimas d'Aquela que mais Vos amou na Terra e mais intensamente Vos ama no Céu."*
 
-O dia mais belo? Hoje A coisa mais fácil? Equivoca-se. O obstáculo maior? O medo. O erro maior ainda? Abandonar-se. A raiz de todos os males? O egoísmo. A distração mais bela? O trabalho. A pior derrota? O desalento. Os melhores professores? As crianças. A primeira necessidade? Comunicar-se. O que mais faz feliz? Ser útil aos demais. O mistério maior? A morte. O pior defeito? O mau humor. A coisa mais perigosa? A mentira. O sentimento pior? O rancor. O presente mais belo? O perdão. O mais imprescindível? O lar. A estrada mais rápida? O caminho correto. A sensação mais grata? A paz interior. O resguardo mais eficaz? O sorriso. O melhor remédio? O otimismo. A maior satisfação? O dever cumprido. A força mais potente do mundo? A fé. As pessoas mais necessárias? Os pais. A coisa mais bela de todas? O amor.
+E acrescentou:
 
-As palavras de amizade e conforto podem ser curtas e sucintas, mas o seu eco é infindável.
+> *"Minha filha: tudo o que os homens Me pedirem em atenção às Lágrimas de Minha Mãe, Eu amorosamente lhes concederei. Mais tarde, a Minha Mãe concederá este tesouro ao nosso querido Instituto como um ímã de Misericórdia."*
 
-Não devemos permitir que alguém saia de nossa presença sem se sentir melhor e mais feliz.
+Este fato ocorreu em **8 de novembro de 1929**.
 
-O que eu faço, é uma gota no meio de um oceano. Mas sem ela, o oceano será menor.
+---
 
-É fácil amar os que estão longe. Mas nem sempre é fácil amar os que vivem ao nosso lado.
+## A Coroa e a Medalha das Lágrimas
 
-Quem julga as pessoas não tem tempo para amá-las.
+![Nossa Senhora das Lágrimas](/images/paginas/lagrimas.png)
 
-Qual é o lugar do homem? Onde os seus irmãos precisarem dele.
+Em **8 de março de 1930**, Irmã Amália estava ajoelhada nos degraus do altar quando sentiu-se elevada. Uma Senhora de indizível beleza aproximou-se, trajando vestido roxo, manto azul e um véu branco até o peito. Trazia nas mãos um rosário cujas contas brilhavam como o Sol e eram brancas como a neve. 
 
-O Senhor não daria banho num leproso nem por um milhão de dólares? Eu também não. Só por amor se pode dar banho num leproso.
+Entregando-lhe o rosário, a Santíssima Virgem declarou:
 
-A canonização de Santa Teresa de Calcutá
+> *"Esta coroa é a Coroa de Minhas Lágrimas."*
 
-O aval do Papa Francisco veio no dia do seu aniversário. Na tarde da quinta-feira, 17 de dezembro de 2015, Francisco ratificou o reconhecimento do milagre que levou Madre Teresa de Calcutá à honra dos altares. Assim se concluiu o processo super miro ("sobre o milagre") da causa da "apóstola dos desvalidos". A canonização aconteceu no dia 4 de setembro de 2016.
+Em nova aparição, no dia **8 de abril de 1930**, a Santíssima Virgem pediu à Irmã Amália que mandasse cunhar uma medalha de **Nossa Senhora das Lágrimas** e de **Jesus Manietado**. A Virgem revelou que a medalha deveria ser amplamente divulgada para vencer o poder do mal no mundo, prometendo inúmeras graças aos fiéis que a trouxessem com devoção.
 
-O milagre tinha sido colocado sob a avaliação final dos bispos e cardeais reunidos na Congregação para a Causa dos Santos, no dia 15 de dezembro de 2015. Depois de escutarem a exposição de um proponente da causa, os prelados deram o seu parecer positivo e submeteram o caso à aprovação do Papa. Foi o último grau de julgamento na fase romana do processo sobre o milagre, iniciado em junho do mesmo ano, na diocese brasileira de Santos, São Paulo.
+* **Frente da Medalha:** Imagem de Nossa Senhora das Lágrimas entregando a Coroa, com a inscrição: *"Ó Virgem Dolorosíssima, as Vossas Lágrimas derrubaram o império infernal!"*.
+* **Verso da Medalha:** Imagem de Jesus Manietado (amarrado durante Sua Paixão), acompanhada da inscrição: *"Por Vossa Mansidão Divina, ó Jesus Manietado, salvai o Mundo do erro que o ameaça!"*.
 
-A cura extraordinária, que aconteceu em 9 de dezembro de 2008, é relativa a um homem, hoje com 42 anos, que ficou às portas da morte por conta de "múltiplos abscessos cerebrais com hidrocefalia obstrutiva". De acordo com o diagnóstico, o paciente já tinha sido "submetido a um transplante renal e a terapia com imunossupressores", mas nada tinha adiantado. O caso clínico extremamente crítico e com um prognóstico quod vitam decididamente infausto se resolveu de repente, de modo total e duradouro, sem qualquer intervenção cirúrgica. No dia 10 de setembro deste ano, os membros da junta médica foram unânimes em considerar o tratamento da doença cientificamente inexplicável, com sete votos positivos, de sete.
+---
 
-Também unânime foi o voto sucessivo dos teólogos que, segundo o costume, são chamados a manifestar e redigir o próprio voto sobre a perfeita conexão de causa e efeito entre a invocação unívoca à beata Madre Teresa e a cura imprevista.
-"Roguem a Madre Teresa que ela o cure"
+## Cronologia de Irmã Amália Aguirre
 
-À época dos fatos, o paciente, engenheiro de profissão, tinha 35 anos e estava casado há pouco tempo. Seu calvário tinha começado nos primeiros meses de 2008. Ao fim do ano, ele foi diagnosticado com oito abscessos cerebrais. Os cuidados médicos não surtiram nenhum efeito e o quadro clínico piorou depois, com o surgimento da hidrocefalia. Uma cirurgia deveria ser feita para afastar a possibilidade de morte, tida como iminente. No dia 9 de dezembro, já em coma, o paciente entrou na sala de operação. Por causa de problemas técnicos, todavia, a intervenção foi adiada. Enviado de volta à sala de cirurgia, depois de apenas uma meia hora de espera, o cirurgião encontrou o paciente surpreendentemente sentado, acordado, sem quaisquer sintomas, perfeitamente consciente e perguntando: "O que eu estou fazendo aqui?".
+| Data | Evento Histórico |
+| :--- | :--- |
+| **22/07/1901** | Nascimento em Riós, Espanha. Filha de Andrés Aguirre e Emerita Queija. |
+| **30/07/1901** | Recebe o Santo Batismo na paróquia local. |
+| **1908** | Realiza a Primeira Comunhão e recebe o Sacramento da Crisma. |
+| **1919** | Chega ao Brasil. |
+| **20/04/1928** | Inicia a vida comunitária como postulante na Casa Mãe em Campinas-SP. |
+| **11/05/1928** | Recebe o hábito religioso e manifestam-se seus carismas místicos. |
+| **02/02/1929** | Professa os votos simples. |
+| **08/11/1929** | Primeira aparição de Jesus a Irmã Amália, iniciando o ciclo das aparições em Campinas. |
+| **08/03/1930** | Aparição de Nossa Senhora revelando a Coroa (Terço) das Lágrimas. |
+| **08/04/1930** | Revelação da Medalha das Lágrimas por Nossa Senhora. |
+| **08/12/1931** | Professa os votos perpétuos na Casa Generalícia em Campinas. |
+| **1953** | Transferida para Taubaté-SP, auxilia na construção da Casa de Nossa Senhora Aparecida. |
+| **1968–1969** | Dá início às obras sociais e de abrigamento de necessitados em Taubaté. |
+| **18/04/1977** | Falece em odor de santidade na Casa de Nossa Senhora Aparecida, em Taubaté. |
 
-"Eu nunca vi nada parecido", escreveu o médico em seu depoimento. "Dos outros casos semelhantes a esse, em 17 anos de profissão, todos estão mortos. Não posso dar uma explicação médica ou científica". Exames sucessivos confirmaram a cura definitiva da patologia cerebral e, em pouco tempo, sem nenhuma sequela, o paciente pôde retornar ao seu trabalho e às suas atividades normais.
+---
 
-As provas documentais revelam que foram feitas muitas orações a Santa Teresa de Calcutá, especialmente durante a gravíssima crise de 9 de dezembro. Depois de perceber a gravidade da situação, a esposa do jovem profissional tinha pedido aos seus conhecidos que rezassem à beata de quem ela era devota: "Roguem a Madre Teresa que ela o cure". Exatamente naquela meia hora de espera da cirurgia, ela se achava com um sacerdote e outros familiares rezando a Madre Teresa na capela do hospital.
+## Promessas de Nosso Senhor Jesus Cristo
 
-Invocada, a religiosa rapidamente interveio, vindo em auxílio de uma pessoa em condições extremas, como de resto sempre tinha feito em vida, dedicando-se ao cuidados dos moribundos e à assistência dos mais necessitados.
+### Aos Missionários da Devoção
 
-Uma mulher de profunda comunhão com Deus
+> *"Todos os que se propuserem propagar as Lágrimas de Minha Mãe, no Céu receberão uma alegria toda especial e louvarão todas as horas que passaram a divulgá-las."*
 
-O trabalho de Santa Teresa de Calcutá junto aos pobres é amplamente conhecido. O que permanece oculto para muitos é a sua profunda intimidade com o Santíssimo Sacramento, a qual constituía a força de toda a sua vida e apostolado. "A Missa é o alimento espiritual que me sustenta", ela dizia. "Sem ela, eu não conseguiria completar sequer um dia ou uma hora da minha vida."
+> *"Todos os sacerdotes que difundirem o poder das Lágrimas de Maria terão seus trabalhos a produzir frutos de vida eterna e grandes coisas farão por amor a Mim. A difusão desta riqueza das Lágrimas de Minha Mãe é de muita importância para o Meu Coração porque Me vai dar milhões e milhões de almas!"*
 
-Foi de diálogos com Jesus Eucarístico, por exemplo, que lhe vieram as inspirações para fundar a Congregação das Missionárias da Caridade, ainda em 1946. Ela era diretora de uma escola católica e sentiu forte o chamado de Deus para abandonar tudo e começar uma missão especial entre os pobres. Quando conseguiu a autorização de seu bispo, a única coisa que pedia para ela e suas irmãs era "ajuda espiritual". "Se tivermos nosso Senhor no meio de nós, com a Missa diária e a Santa Comunhão, não temo nada nem para minhas irmãs, nem para mim", escreveu ela ao prelado. "Ele cuidará de nós. Mas sem Ele, fraca que sou, eu não posso nada."
+> *"Felizes os que difundirem as Lágrimas de Maria!"*
 
-As suas palavras de amor à Eucaristia só confirmavam o lugar de destaque que Jesus tinha em todas as suas ações. Quem quer que visitasse o seu abrigo em Calcutá ficava surpreso ao ser levado, em primeiro lugar, à capela do Santíssimo. Jesus era "o Mestre da casa", como ela dizia, e era a Sua presença a grande motivação do seu trabalho. De fato, tanto na sua vida de oração quanto no seu apostolado de assistência aos mais necessitados, Teresa servia a uma só Pessoa: Jesus de Nazaré. "Na Missa – ela explicava –, nós temos Jesus sob a aparência do pão, enquanto, nas favelas, nós vemos o Cristo e O tocamos nos indigentes, nas crianças abandonadas."
+### Palavras de Jesus Manietado
 
-As Missionárias da Caridade, portanto, não iam às ruas como agentes sociais e políticos, mas como servas indignas, chamadas a levar Jesus às casas e aos corações das pessoas. "Toda Santa Comunhão nos preenche de Jesus e nós devemos, com Nossa Senhora, ir depressa e dá-Lo aos outros", exclamava Santa Teresa de Calcutá.
+> *"Minha filha: Hoje vou falar-te das Lágrimas de Minha Mãe. Durante vinte séculos elas ficaram guardadas no Meu Divino Coração para agora as entregar. Com esta entrega, Eu te constituo apóstola de Nossa Senhora das Lágrimas e sei que estás pronta a dar a vida pela difusão de tão santa devoção. Ser missionário das Lágrimas de Minha Mãe é dar-Me imensas consolações!"*
 
-Pouco a pouco, Cristo foi "tomando posse" da religiosa de Calcutá e transformando todo o seu ser, a ponto de ela poder exclamar, com São Paulo: "Eu vivo, mas não eu, é Cristo que vive em mim" ( Gl 2, 20). Nesse processo de configuração a Cristo, Santa Teresa de Calcutá experimentou, a exemplo dos grandes místicos da Igreja, a chamada "noite escura", um processo de purificação por meio do qual a alma amante vai se desapegando das criaturas para encontrar o seu repouso em Deus.
+> *"O Mundo tem necessidade de Misericórdia e, para recebê-la, não há dádiva mais preciosa do que as Lágrimas de Minha Mãe! Se as lágrimas de uma mãe comovem o coração de um filho rebelde, então como não se há-de comover o Meu Coração que tanto ama esta Mãe?"*
 
-Cartas escritas pela santa, divulgadas há alguns anos, fizeram referências a "dúvidas" e à sensação de um grande "vazio". Alguns jornais interpretaram tudo como o "ateísmo" de Santa Teresa de Calcutá. Quem conhece um pouco a vida dos santos, no entanto, sabe que esse caminho de "secura" e "escuridão" foi experimentado por todas as grandes almas de oração, desde o começo da Igreja até os dias de hoje. O Eclesiástico mesmo adverte, a quem quer que entre "para o serviço de Deus": "Prepara a tua alma para a provação; humilha teu coração, espera com paciência, dá ouvidos e acolhe as palavras de sabedoria; não te perturbes no tempo da infelicidade, sofre as demoras de Deus (...), a fim de que no derradeiro momento tua vida se enriqueça" (Eclo 2, 1-3). Fora da Cruz, verdadeiramente, não existe outra escada por onde subir ao Céu.
-
-O corpo de Santa Teresa de Calcutá está sepultado em Calcutá, junto à sede das Missionárias da Caridade. Sobre o seu túmulo branco despojado, está escrito um versículo do Evangelho de São João que se aplica perfeitamente a toda a sua vida – e deve aplicar-se à vida de todos quantos se dizem cristãos: "Amai-vos uns aos outros como eu vos tenho amado" ( Jo 15, 12).
+> *"Quando as almas generosas dizem: 'Meu Jesus, pelas Lágrimas de Vossa Mãe Santíssima', o Meu Coração abre-se e faz jorrar sobre aquelas almas as torrentes da Minha Misericórdia!"*
