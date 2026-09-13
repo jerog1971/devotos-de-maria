@@ -1,0 +1,50 @@
+---
+// src/pages/busca.astro
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout title="Pesquisar no site" description="Pesquise em todo o acervo do blog" pubDate={new Date()}>
+  <div class="search-page-container">
+    <h1>Pesquisar artigos</h1>
+    
+    <!-- Elemento onde a interface do Pagefind será renderizada -->
+    <div id="search" class="pagefind-ui"></div>
+  </div>
+</Layout>
+
+<!-- Importa os arquivos estáticos gerados pelo Pagefind -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ 
+      element: "#search", 
+      showSubResults: true,
+      translations: {
+        placeholder: "Pesquisar termos, palavras ou frases...",
+        clear_search: "Limpar",
+        load_more: "Carregar mais resultados",
+        search_label: "Pesquisar neste site",
+        filters: "Filtros",
+        zero_results: "Nenhum resultado encontrado para [SEARCH_TERM]",
+        many_results: "[COUNT] resultados encontrados para [SEARCH_TERM]",
+        one_result: "1 resultado encontrado para [SEARCH_TERM]",
+        searching: "Pesquisando..."
+      }
+    });
+  });
+</script>
+
+<style>
+  .search-page-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+
+  .search-page-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+</style>
