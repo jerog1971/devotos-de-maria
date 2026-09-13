@@ -1,3 +1,10 @@
+---
+layout: '../../layouts/BlogPost.astro'
+title: 'A Santa Missa: Testemunho de Catalina'
+description: 'Testemunho de Catalina Rivas sobre o mistério e o valor da Santa Missa.'
+pubDate: '2026-09-05'
+---
+
 # A Santa Missa: Testemunho de Catalina
 
 **Propriedade registrada © 2004, La Gran Cruzada del Amor y Misericordia.**
