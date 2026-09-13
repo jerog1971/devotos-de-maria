@@ -1,3 +1,10 @@
+---
+layout: '../../layouts/BlogPost.astro'
+title: 'Guia Completo para a Confissão'
+description: 'Orações, orientações de como se confessar, exame de consciência detalhado pelos Mandamentos e guia especial para crianças.'
+pubDate: '2026-09-13'
+---
+
 # Confissão
 
 ## Oração para antes da Confissão
@@ -63,17 +70,15 @@ Antes de mais, examine bem a sua consciência. Em seguida, diga ao sacerdote que
 
 * a) Alguma vez fiz deliberadamente com que outros pecassem?
 * b) Alguma vez cooperei nos pecados de outrem:
-1. Aconselhando?
-2. Mandando?
-3. Consentindo?
-4. Provocando?
-5. Lisonjeando?
-6. Ocultando?
-7. Compartilhando?
-8. Silenciando?
-9. Defendendo o mal feito?
-
-
+  1. Aconselhando?
+  2. Mandando?
+  3. Consentindo?
+  4. Provocando?
+  5. Lisonjeando?
+  6. Ocultando?
+  7. Compartilhando?
+  8. Silenciando?
+  9. Defendendo o mal feito?
 
 8. Observei os cinco Mandamentos da Igreja?
 9. Participei da Missa inteira nos Domingos e Dias Santos de guarda?
@@ -84,13 +89,13 @@ Antes de mais, examine bem a sua consciência. Em seguida, diga ao sacerdote que
 
 *E também:* Observei as leis da Igreja sobre o matrimônio, ou seja, quanto ao matrimônio sem a presença de um sacerdote, ou no caso de matrimônio com um parente próximo ou um não-católico?
 
-9. Cometi uma das cinco blasfêmias contra o Imaculado Coração de Maria?
-10. Blasfemei contra a Imaculada Conceição?
-11. Blasfemei contra a Virgindade Perpétua de Nossa Senhora?
-12. Blasfemei contra a Maternidade Divina de Nossa Senhora?
-13. Deixei de reconhecer a Nossa Senhora como Mãe de todos os homens?
-14. Tentei publicamente semear nos corações das crianças indiferença ou desprezo, ou mesmo ódio, em relação à sua Mãe Imaculada?
-15. Ultrajei-A diretamente nas Suas santas imagens?
+14. Cometi uma das cinco blasfêmias contra o Imaculado Coração de Maria?
+15. Blasfemei contra a Imaculada Conceição?
+16. Blasfemei contra a Virgindade Perpétua de Nossa Senhora?
+17. Blasfemei contra a Maternidade Divina de Nossa Senhora?
+18. Deixei de reconhecer a Nossa Senhora como Mãe de todos os homens?
+19. Tentei publicamente semear nos corações das crianças indiferença ou desprezo, ou mesmo ódio, em relação à sua Mãe Imaculada?
+20. Ultrajei-A diretamente nas Suas santas imagens?
 
 **Finalmente:** Recebi a Sagrada Comunhão em estado de pecado mortal? *(Este é um sacrilégio muito grave.)*
 
@@ -102,7 +107,7 @@ A alma deve evitar todos os pecados veniais, especialmente os que abrem caminho 
 
 Para alcançar este zelo e conservá-lo, devemos querer firmemente evitar sempre os pecados veniais, especialmente os seguintes:
 
-1. O pecado de dar entrada no coração a qualquer suspeita não razoável ou opinião injusta a respeito do próximo.
+1. O pecado de dar entrada no coração a qualquer suspeita não razoável ou opinião unjusta a respeito do próximo.
 2. O pecado de iniciar uma conversa sobre os defeitos de outrem, ou de faltar à caridade de qualquer outra maneira, mesmo levemente.
 3. O pecado de omitir, por preguiça, as nossas práticas espirituais, ou de as cumprir com negligência voluntária.
 4. O pecado de manter um afeto desregrado por alguém.
@@ -244,5 +249,3 @@ Meu Deus, porque sois infinitamente bom e Vos amo de todo o meu coração, pesa-
 * [ ] Não uso uma linguagem grosseira?
 * [ ] Não falo palavrões?
 * [ ] Não ofendo os outros?
-
----
