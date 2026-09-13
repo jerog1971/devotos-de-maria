@@ -1,10 +1,10 @@
 ---
 title: "O mal está contido"
 date: 2019-10-28T15:09:00.001Z
-heroImage: "/images/A vigilância do mal.png"
+heroImage: "/images/posts/344-o-mal-está-contido-mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg72nC-cTrUEwSsBjSLxbWU4EAHCnuniOlvXxJRdu0RSSx_ISNZ-YSDu2DMY_JwdsaTk7izR0Rsu6SHNKpQ8qmZrgG0z_BVQwAzqwdA5tvDYSjViqN2q3H8sGi4CPxG1io6IyPUnE7Xwwo/s1600/mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg72nC-cTrUEwSsBjSLxbWU4EAHCnuniOlvXxJRdu0RSSx_ISNZ-YSDu2DMY_JwdsaTk7izR0Rsu6SHNKpQ8qmZrgG0z_BVQwAzqwdA5tvDYSjViqN2q3H8sGi4CPxG1io6IyPUnE7Xwwo/s320/mal.png" width="320" height="241" data-original-width="402" data-original-height="303" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/344-o-mal-está-contido-mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/344-o-mal-está-contido-mal.png" width="320" height="241" data-original-width="402" data-original-height="303" /></a></div>
 Pelo menos é o que deveria estar acontecendo em nossas vidas. O mal, contrário de bem, presente pelo mundo afora, biblicamente falando, até certo ponto, está contido. Não atua desenfreadamente na humanidade. Ou será que atua? Às vezes não nos parece difícil definir uma questão como está? Parece que sim porque vemos tanta coisa ruim acontecendo por aí, fora e dentro de nossas vidas, que alguns até se arriscam a dizer que se existe um Deus por que ele não faz nada a respeito?</br>
 </br>
 É complicado! Não conseguimos compreender a magnitude de tudo que nos envolve. De fato, parece que somos ínfimas criaturas, menos que um nada. Não é possível alcançar o cerne da questão. Nossa Senhora disse em suas aparições que “apenas no céu tudo nos será revelado”. Pois bem, como ficamos então no meio desse fogo cruzado? Desse tiroteio com muitas “balas perdidas” possíveis de nos atingirem? Se é que são tão perdidas assim...</br>

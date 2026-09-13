@@ -1,10 +1,10 @@
 ---
 title: "Jesus é claro e direto"
 date: 2023-05-04T20:34:00.003Z
-heroImage: "/images/devoção a familia.png"
+heroImage: "/images/posts/1102-jesus-é-claro-e-direto-familia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSJRKwvraGrY2MPUqbFg-PhxI9APwc16Q3pWBeStqpapusngEyxUhHCV1TIbFICMs8pMd4zxIiOVTgYL4HzzvYBmfpVP9H4n2iR_cjG7jz2eAaq20ivGo90ApQFpPaZuJEyh9EfIHkdJV9gmgjynkWFMEKDFV__XUlQQObRSL4hkjBxC-5CH-8QRE/s740/familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="730" data-original-width="740" height="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSJRKwvraGrY2MPUqbFg-PhxI9APwc16Q3pWBeStqpapusngEyxUhHCV1TIbFICMs8pMd4zxIiOVTgYL4HzzvYBmfpVP9H4n2iR_cjG7jz2eAaq20ivGo90ApQFpPaZuJEyh9EfIHkdJV9gmgjynkWFMEKDFV__XUlQQObRSL4hkjBxC-5CH-8QRE/s320/familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele disse claramente: não faça aos outros o que não queres
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1102-jesus-é-claro-e-direto-familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="730" data-original-width="740" height="316" src="/images/posts/1102-jesus-é-claro-e-direto-familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele disse claramente: não faça aos outros o que não queres
 que te façam e trate as pessoas como gostaria de serdes tratados. Pois bem, a
 conversa com Jesus Cristo é muito clara e direta. Ele coloca as pessoas numa
 bifurcação; ou se está com ele ou contra ele. Isso ele mesmo disse e ensinou já

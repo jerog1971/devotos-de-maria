@@ -1,10 +1,10 @@
 ---
 title: "Rogai por nós pecadores"
 date: 2021-02-19T18:55:00.002Z
-heroImage: "/images/Maria.gif"
+heroImage: "/images/posts/2166-rogai-por-nós-pecadores-Virgem_Maria.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNkyI3uKDEYbn_me8WCThv1_Nb1MksMsp7F7Gp3hBtGLv5Hw5lfAzhL-O1ADQJ1gepH_Y_lydRSR9g7xkEiw8LyvBv4BtcbnRB7dKngxpgWe5MPx_3jQLwVen3J-DczNB_bwOHeBCeNyo/s767/Virgem+Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="719" data-original-width="767" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNkyI3uKDEYbn_me8WCThv1_Nb1MksMsp7F7Gp3hBtGLv5Hw5lfAzhL-O1ADQJ1gepH_Y_lydRSR9g7xkEiw8LyvBv4BtcbnRB7dKngxpgWe5MPx_3jQLwVen3J-DczNB_bwOHeBCeNyo/s320/Virgem+Maria.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A consciência cristã de sua pequenez, fraqueza e miséria
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2166-rogai-por-nós-pecadores-Virgem_Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="719" data-original-width="767" src="/images/posts/2166-rogai-por-nós-pecadores-Virgem_Maria.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A consciência cristã de sua pequenez, fraqueza e miséria
 humana, aliadas ao fato das próprias culpas e da afirmação de Jesus de que sem
 ele nada podemos fazer (João 15,5), conduz as pobres e humildes almas a pedirem
 constantemente o auxílio celeste. No plano de Deus uma de suas determinações é

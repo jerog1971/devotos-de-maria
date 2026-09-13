@@ -1,10 +1,10 @@
 ---
 title: "Cristãos encurralados na Bolívia"
 date: 2018-01-19T18:03:00.001Z
-heroImage: "/images/bolivia.png"
+heroImage: "/images/posts/1822-cristãos-encurralados-na-bolívia-bolivia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl7FbSqTAt4JiTlPcT3L24x1Qzffst9bbkrcXzKTkMGCbgi1nkRmxWXtYsVLIVRnCUFyVyKwemsoAC0-BK-KVqdRLMe8RH4W97fOVXaXR-ktUZbzamIgaz8u3RsCbaAet5XFfRT6lEGZM/s1600/bolivia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl7FbSqTAt4JiTlPcT3L24x1Qzffst9bbkrcXzKTkMGCbgi1nkRmxWXtYsVLIVRnCUFyVyKwemsoAC0-BK-KVqdRLMe8RH4W97fOVXaXR-ktUZbzamIgaz8u3RsCbaAet5XFfRT6lEGZM/s320/bolivia.png" width="320" height="295" data-original-width="457" data-original-height="421" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1822-cristãos-encurralados-na-bolívia-bolivia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1822-cristãos-encurralados-na-bolívia-bolivia.png" width="320" height="295" data-original-width="457" data-original-height="421" /></a></div>
 Os cristãos estão encurralados na Bolívia. O novo Código Penal do país criminaliza com penas de 7 a 12 anos de prisão o recrutamento de pessoas para organizações religiosas ou de culto. Um verdadeiro atentado à liberdade religiosa. O que deveria constar das manchetes jornalísticas e chamadas televisivas, no entanto, só foi abordado até o momento pelo jornal Gazeta do Povo. A íntegra da nova lei, promulgada no último mês de dezembro, encontra-se disponível na internet. O artigo em questão é o 88, inc. I, que criminaliza a trata de pessoas (em português, “tráfico”):</br>
 </br>
 Será sancionada, com prisão de sete (7) a doze (12) anos e reparação econômica, a pessoa que, por si mesma ou através de terceiros, sequestrar, transportar, trasladar, privar de liberdade, acolher ou receber pessoas com alguns dos seguintes fins:</br>

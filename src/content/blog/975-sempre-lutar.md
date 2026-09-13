@@ -1,10 +1,10 @@
 ---
 title: "Sempre lutar"
 date: 2019-09-16T16:42:00.001Z
-heroImage: "/images/sempre_lutar.png"
+heroImage: "/images/posts/975-sempre-lutar-sempre_lutar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR62myWYY58btBd4-hCuUJ0vpdYbyb_lppULDSJ4MuS8zPaoeGGNN19XHLzJy4IAjr96QtiWwCE2HBdic7x91MJr-ieAosa8NeIpgxLGjyAEMafxO5j7CR1F4rWF7NhBgbsK2s4AogDmc/s1600/sempre_lutar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR62myWYY58btBd4-hCuUJ0vpdYbyb_lppULDSJ4MuS8zPaoeGGNN19XHLzJy4IAjr96QtiWwCE2HBdic7x91MJr-ieAosa8NeIpgxLGjyAEMafxO5j7CR1F4rWF7NhBgbsK2s4AogDmc/s320/sempre_lutar.png" width="320" height="305" data-original-width="418" data-original-height="399" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/975-sempre-lutar-sempre_lutar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/975-sempre-lutar-sempre_lutar.png" width="320" height="305" data-original-width="418" data-original-height="399" /></a></div>
 Realmente não importa, temos sempre que lutar nessa vida. Lutamos para pagar as contas, lutamos para mantermos as muitas coisas da vida nos eixos, lutamos para não perdermos a razão e não sairmos tentando dar murros nas caras das pessoas, ou então desferir ofensas contra alguém que não coaduna com aquilo que pensamos. Enfim, lutamos, lutamos, lutamos e lutamos. Todo mundo pode colocar na lista de lutas pessoais muita coisa. Algumas são comuns a todos, outras são lutas muito pessoais, outras são secretas e reclusas, outras abertas, seja como for, a vida é uma luta.</br>
 </br>
 Jesus disse em Mateus 11,12 que “o céu é conquistado a força e são os violentos que o conquistam”; São Paulo vai dizer em suas cartas que devemos resistir na luta contra o pecado até o sangue. Esta existência passageira intitulada “vale de lágrimas” consiste numa batalha que terminará somente no momento que deixarmos essa vida. Tombaremos para o lado dos condenados ou deitaremos no berço esplêndido da graça e da glória.</br>

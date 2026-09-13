@@ -1,10 +1,10 @@
 ---
 title: "Será que Professor irá se tornar uma profissão suja?"
 date: 2023-05-16T19:39:00.001Z
-heroImage: "/images/pais_desinteressados.png"
+heroImage: "/images/posts/1252-será-que-professor-irá-se-tornar-uma-profissão-suj-pais_desinteressados.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWIzD_zvPj6RwXaRJY-srI_3r3XkisR5zk2K3yIf3B9DMcZMq_P0Iswv7PIkHXwrTHDrD4bYnAAS16dceN6z_w1KyOsAhjVjRYcpuoRsRpbKP5fIf4MKTQne5gBwlaFDgqAe2_T-EPRS9yfmkG4YQeL1mpIhK_XmPisAIoYd6NHZRHCFChjzo0mEQ8/s601/pais_desinteressados.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="431" data-original-width="601" height="229" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWIzD_zvPj6RwXaRJY-srI_3r3XkisR5zk2K3yIf3B9DMcZMq_P0Iswv7PIkHXwrTHDrD4bYnAAS16dceN6z_w1KyOsAhjVjRYcpuoRsRpbKP5fIf4MKTQne5gBwlaFDgqAe2_T-EPRS9yfmkG4YQeL1mpIhK_XmPisAIoYd6NHZRHCFChjzo0mEQ8/s320/pais_desinteressados.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, sabemos que em nossa sociedade existem muitos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1252-será-que-professor-irá-se-tornar-uma-profissão-suj-pais_desinteressados.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="431" data-original-width="601" height="229" src="/images/posts/1252-será-que-professor-irá-se-tornar-uma-profissão-suj-pais_desinteressados.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, sabemos que em nossa sociedade existem muitos
 trabalhos sujos, tanto no sentido de sujo ser aquilo que é contrário a limpo,
 quanto no sentido de ser algo que se quer evitar, que é um verdadeiro
 sofrimento, martírio, ter que fazer. Qualquer um de nós pode, com muita

@@ -1,10 +1,10 @@
 ---
 title: "Sempre temos que começar ou recomeçar"
 date: 2022-03-09T23:57:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1860-sempre-temos-que-começar-ou-recomeç-img-1927561045.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhwVOMbfH8v7r98Uio0HORWMUbLzs2JVQqaiM8NhpDwcy8WVHFWhi5t5h-SgRSgbI3daTQpAqaBhNUlDRdLcvRsSulw-MYjMGGJCASzpaKtzOCFmUKfjhLp1LIehDvAUtPGv2GcYQVaxVwMupv_IauOVnBemXZ67bA9CG3iVbkAdp7t_OzFhpo7zGk4=s4160" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="4160" data-original-width="3120" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEhwVOMbfH8v7r98Uio0HORWMUbLzs2JVQqaiM8NhpDwcy8WVHFWhi5t5h-SgRSgbI3daTQpAqaBhNUlDRdLcvRsSulw-MYjMGGJCASzpaKtzOCFmUKfjhLp1LIehDvAUtPGv2GcYQVaxVwMupv_IauOVnBemXZ67bA9CG3iVbkAdp7t_OzFhpo7zGk4=s320" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tudo tem que partir de algum começo, que pode ser uma
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1860-sempre-temos-que-começar-ou-recomeç-img-1927561045.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="4160" data-original-width="3120" height="320" src="/images/posts/1860-sempre-temos-que-começar-ou-recomeç-img-1032011651.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tudo tem que partir de algum começo, que pode ser uma
 decisão, um reconhecimento, uma intenção, uma escolha, um arrependimento, um
 alerta, uma lição, um erro ou um acerto, um escutar alguém e sobretudo, além de
 mais que isso tudo, dar ouvidos a Deus.<o:p></o:p></p><div class="separator" style="clear: both;">

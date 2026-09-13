@@ -1,10 +1,10 @@
 ---
 title: "Distantes de Deus"
 date: 2020-03-29T20:05:00Z
-heroImage: "/images/distante_de_deus.png"
+heroImage: "/images/posts/248-distantes-de-deus-distante_de_deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAu-rOR5q1OQySLdhyphenhyphenmuWPlqSy-ulB2bEXtkPjqJnSHNM-pW7n1puaeAZ0L0P2EIe19hlWEfAWV11Spo2ghmRMlIa0kPSmJVEjc_9DvDqb9nMNwe9v0iV67y8hdQZLbOeMtJGpMsH_duU/s1600/distante_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAu-rOR5q1OQySLdhyphenhyphenmuWPlqSy-ulB2bEXtkPjqJnSHNM-pW7n1puaeAZ0L0P2EIe19hlWEfAWV11Spo2ghmRMlIa0kPSmJVEjc_9DvDqb9nMNwe9v0iV67y8hdQZLbOeMtJGpMsH_duU/s320/distante_de_deus.png" width="318" height="320" data-original-width="398" data-original-height="401" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/248-distantes-de-deus-distante_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/248-distantes-de-deus-distante_de_deus.png" width="318" height="320" data-original-width="398" data-original-height="401" /></a></div>
 Por estarmos tão distantes de Deus e do evangelho de Nosso Senhor Jesus Cristo, o Pai Eterno tem nos enviado, para dar um puxão de orelha na humanidade, a toda cheia de graça. E para quem não se atenta aos detalhes, quando ela aceitou, como serva do Senhor que fosse feita a vontade do Pai, em sua atitude de dar glória está embutido uma grande advertência. Vejam bem, eram os tempos bíblicos e ainda em vida Maria Santíssima já atestava para todos uma grande verdade. E ainda existem, como já existia, quem duvide dela.</br>
 </br>
 Lucas 1,50 – “Sua misericórdia se estende, de geração em geração, sobre os que o temem.”</br>

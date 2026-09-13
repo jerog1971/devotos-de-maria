@@ -1,10 +1,10 @@
 ---
 title: "Não adianta mesmo"
 date: 2022-01-06T16:35:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1043-não-adianta-mesmo-AVvXsEj-9Znhbny0SLRWoZ08QzLTsQ1LC_MGPGCOnemmN_qBa0aIIa9Xc85YZdxNkV0kTu4ORIJFcHri2LVqkKz_emdJGfRKHB2u-RiEu8b5__5TuGKt2xQgIdhJO-D2YqIAiJD9Uwigz80HsGWypf62Yakm43pd52FQU4GUqrevnKdPXelgu89l8cRpBQYJ_s419.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEj-9Znhbny0SLRWoZ08QzLTsQ1LC_MGPGCOnemmN_qBa0aIIa9Xc85YZdxNkV0kTu4ORIJFcHri2LVqkKz_emdJGfRKHB2u-RiEu8b5__5TuGKt2xQgIdhJO-D2YqIAiJD9Uwigz80HsGWypf62Yakm43pd52FQU4GUqrevnKdPXelgu89l8cRpBQYJ=s419" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="419" height="308" src="https://blogger.googleusercontent.com/img/a/AVvXsEj-9Znhbny0SLRWoZ08QzLTsQ1LC_MGPGCOnemmN_qBa0aIIa9Xc85YZdxNkV0kTu4ORIJFcHri2LVqkKz_emdJGfRKHB2u-RiEu8b5__5TuGKt2xQgIdhJO-D2YqIAiJD9Uwigz80HsGWypf62Yakm43pd52FQU4GUqrevnKdPXelgu89l8cRpBQYJ=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou alguém acha que adianta alguma coisa inundar o céu com
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1043-não-adianta-mesmo-AVvXsEj-9Znhbny0SLRWoZ08QzLTsQ1LC_MGPGCOnemmN_qBa0aIIa9Xc85YZdxNkV0kTu4ORIJFcHri2LVqkKz_emdJGfRKHB2u-RiEu8b5__5TuGKt2xQgIdhJO-D2YqIAiJD9Uwigz80HsGWypf62Yakm43pd52FQU4GUqrevnKdPXelgu89l8cRpBQYJ_s419.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="419" height="308" src="/images/posts/1043-não-adianta-mesmo-AVvXsEj-9Znhbny0SLRWoZ08QzLTsQ1LC_MGPGCOnemmN_qBa0aIIa9Xc85YZdxNkV0kTu4ORIJFcHri2LVqkKz_emdJGfRKHB2u-RiEu8b5__5TuGKt2xQgIdhJO-D2YqIAiJD9Uwigz80HsGWypf62Yakm43pd52FQU4GUqrevnKdPXelgu89l8cRpBQYJ_s320.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou alguém acha que adianta alguma coisa inundar o céu com
 pedidos e mais pedidos, agir com os outros como gostaríamos que agissem
 conosco, nos comportarmos como Deus nos pede e como resultado de tudo isso
 teremos tudo que quisermos e as coisas acontecerão conforme nossos desejos?<o:p></o:p></p><div class="separator" style="clear: both;">

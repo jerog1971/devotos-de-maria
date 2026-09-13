@@ -1,10 +1,10 @@
 ---
 title: "Nossa Senhora nos recorda"
 date: 2015-10-19T18:49:00Z
-heroImage: "/images/milagre_do_sol.png"
+heroImage: "/images/posts/2099-nossa-senhora-nos-recorda-milagre_do_sol.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVJeXw0bJ9d4LXrtRBuCfN8rZaceOwCP_B1pzx0XzR9_KdJvFTQzflSHeb_0gF64mAo6qvmkrg0DM9r56oseqvrXA1Rn5AujglLCljnsB9Z28UR7O1-Lq-bmivA-uOrQmURJy4dQu4zTs/s1600/milagre_do_sol.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVJeXw0bJ9d4LXrtRBuCfN8rZaceOwCP_B1pzx0XzR9_KdJvFTQzflSHeb_0gF64mAo6qvmkrg0DM9r56oseqvrXA1Rn5AujglLCljnsB9Z28UR7O1-Lq-bmivA-uOrQmURJy4dQu4zTs/s320/milagre_do_sol.png" width="320" height="215" data-original-width="774" data-original-height="521" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2099-nossa-senhora-nos-recorda-milagre_do_sol.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2099-nossa-senhora-nos-recorda-milagre_do_sol.png" width="320" height="215" data-original-width="774" data-original-height="521" /></a></div>
 </br>
 “EM OUTUBRO FAREI O MILAGRE, para que todos acreditem”, disse Nossa Senhora aos três pastorinhos de Fátima, em 13 de setembro. O “Milagre do Sol” – como ficou conhecido o evento sobrenatural que se deu na Cova da Íria, um mês depois – transformou o que era uma mera "revelação privada" em um autêntico apelo de Cristo à Sua Igreja. Não só o conteúdo da mensagem de Fátima dizia respeito à Igreja do mundo inteiro (afinal, quem está dispensado de rezar o Rosário ou fazer penitência pela conversão dos pecadores?), como a sua própria comprovação se deu publicamente, de maneira extraordinária: no dia 13 de outubro de 1917, “o sol dançou” diante de mais de 70 mil pessoas, homens e mulheres, pobres e abastados, sábios e ignorantes, crentes e descrentes.</br>
 </br>

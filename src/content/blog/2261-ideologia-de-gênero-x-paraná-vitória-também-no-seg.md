@@ -1,10 +1,10 @@
 ---
 title: "Ideologia de gênero x Paraná..... Vitória também no segundo turno da votação"
 date: 2015-06-23T18:47:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-img-719247837.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKLqi-M_msaBjHKXPsQMFreOViekJgjK8_8-AYowuKY_LofrG3l-QFGGn2PI3yOYGn9ym4el4h4W3o4svjBda1yxcThQ1mvySi7653bQXQSmefBwsyvkaSXllGdfyY4pVT28H_S0F8suA/s1600/vota%25C3%25A7%25C3%25A3o_genero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKLqi-M_msaBjHKXPsQMFreOViekJgjK8_8-AYowuKY_LofrG3l-QFGGn2PI3yOYGn9ym4el4h4W3o4svjBda1yxcThQ1mvySi7653bQXQSmefBwsyvkaSXllGdfyY4pVT28H_S0F8suA/s200/vota%25C3%25A7%25C3%25A3o_genero.png" width="200" height="149" data-original-width="296" data-original-height="220" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-img-719247837.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-img-2067247520.png" width="200" height="149" data-original-width="296" data-original-height="220" /></a></div>
 </br>
 Vamos lá católicos e cristãos autênticos, em 22 de junho de 2015 ocorreu o debate e a votação sobre o plano municipal da educação com vigência para 10 anos. Estivemos unidos em orações aos protestos e pressões que a milícia católica e cristã fez junto aos vereadores.</br>
 </br>
@@ -16,7 +16,7 @@ A sessão daquela manhã foi interrompida por alguns minutos, enquanto os veread
 </br>
 Várias entidades de peso, estiveram levantando a bandeira mais uma vez contra a cultura da morte.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBx8hZB0INRBwL2Lb_U65b4LVrL3CjMBEx1B6ec5ygORoHRPFEInWoEQ5LZsOL4c9cBp-quooVWyS08XIUsa0tQskd1kP68I2mT_M82l-oBQ9l8_eTlU-SKWDK6GLzOd-Wog7ElPS04KM/s1600/genero_n%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBx8hZB0INRBwL2Lb_U65b4LVrL3CjMBEx1B6ec5ygORoHRPFEInWoEQ5LZsOL4c9cBp-quooVWyS08XIUsa0tQskd1kP68I2mT_M82l-oBQ9l8_eTlU-SKWDK6GLzOd-Wog7ElPS04KM/s200/genero_n%25C3%25A3o.png" width="200" height="132" data-original-width="704" data-original-height="466" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-genero_n_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-genero_n_25C3_25A3o.png" width="200" height="132" data-original-width="704" data-original-height="466" /></a></div>
 </br>
 Todo o movimento católico esteve convocado pela essência pensada por Deus sobre nós, e marcou presença durante toda a sessão. Que terminou a favor das famílias pois o plano municipal de educação ficou sem as expressões de "diversidade" e "gênero" e, muito importante, também foi excluído a produção e o fornecimento de materiais didáticos com esse tipo de assunto para a educação de nossos filhos.</br>
 </br>

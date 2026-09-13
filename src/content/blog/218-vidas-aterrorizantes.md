@@ -1,10 +1,10 @@
 ---
 title: "Vidas aterrorizantes"
 date: 2022-10-03T19:40:00Z
-heroImage: "/images/terror em vida.png"
+heroImage: "/images/posts/218-vidas-aterrorizantes-terror_20em_20vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp0QdZAabUDcgEmPiho8q5DRSF8QX4NKXK2vty7TeQArVg2fOY4TO3uAalNM4ZkAyWbcFoVEv2wCIJCXHNwgKawREy_D6jvAqposKK1suMXhFZCjcxhM6CXb_FPMGJe9cATKSHgeq3c3A9u6tR-P0WfEPI_t8b6LjENzgYZIl8bqvm9B4fZdWUbfH4/s477/terror%20em%20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="427" data-original-width="477" height="286" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp0QdZAabUDcgEmPiho8q5DRSF8QX4NKXK2vty7TeQArVg2fOY4TO3uAalNM4ZkAyWbcFoVEv2wCIJCXHNwgKawREy_D6jvAqposKK1suMXhFZCjcxhM6CXb_FPMGJe9cATKSHgeq3c3A9u6tR-P0WfEPI_t8b6LjENzgYZIl8bqvm9B4fZdWUbfH4/s320/terror%20em%20vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo, podemos crer, arriscaria dizer que a vida nos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/218-vidas-aterrorizantes-terror_20em_20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="427" data-original-width="477" height="286" src="/images/posts/218-vidas-aterrorizantes-terror_20em_20vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo, podemos crer, arriscaria dizer que a vida nos
 aterroriza de muitas formas, ou então que somos aterrorizados na vida de muitas
 formas. Sem dúvida, o que mete medo numa pessoa não mete medo em outra. Claro,
 existem coisas que metem medo em grupos maiores e outras que são raras de causar

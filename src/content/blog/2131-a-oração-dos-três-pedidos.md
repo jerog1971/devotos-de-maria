@@ -1,10 +1,10 @@
 ---
 title: "A oração dos três pedidos"
 date: 2021-12-20T20:22:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2131-a-oração-dos-três-pedidos-img-1167451429.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiuDoNa2UGhaM82eByYbFyqCzmugycxRBZ7z_TV1TtWM30YsArPCdT5h69GRuF2vrfGjsw2s7d1CxZq8ItlqlO68oBF_OlDhqUs8-Cdhb3MJm0nOdc5VSKq6DJ4AGT_lyMQaH9WZ4-OH2iveoA4trNqT1yawS1Otfz3ql46_njJOd7viCNLiQiQIm08=s254" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="254" data-original-width="234" height="254" src="https://blogger.googleusercontent.com/img/a/AVvXsEiuDoNa2UGhaM82eByYbFyqCzmugycxRBZ7z_TV1TtWM30YsArPCdT5h69GRuF2vrfGjsw2s7d1CxZq8ItlqlO68oBF_OlDhqUs8-Cdhb3MJm0nOdc5VSKq6DJ4AGT_lyMQaH9WZ4-OH2iveoA4trNqT1yawS1Otfz3ql46_njJOd7viCNLiQiQIm08" width="234" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano, pelo que se sabe espiritualmente falando, é o
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2131-a-oração-dos-três-pedidos-img-1167451429.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="254" data-original-width="234" height="254" src="/images/posts/2131-a-oração-dos-três-pedidos-img-1189344224.jpg" width="234" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano, pelo que se sabe espiritualmente falando, é o
 maior dos alvos ambulantes que existe na face da terra. Acho que todo mundo pode
 concordar que ele é submetido a uma imensa variedade de desafios das mais
 variadas naturezas. Se ele não estiver com boa saúde em alguma área de sua

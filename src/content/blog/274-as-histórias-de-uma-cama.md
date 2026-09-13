@@ -1,10 +1,10 @@
 ---
 title: "As histórias de uma cama"
 date: 2020-09-01T14:24:00.005Z
-heroImage: "/images/camas.png"
+heroImage: "/images/posts/274-as-histórias-de-uma-cama-camas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1JbiKk45yYJuAhiBKRQrx8eEudLBWcA9iMP-cdq_QuNN9-5uM051dL40UsD9glBhbfxTE_dLcIO9DZKdIr7lwci9pv_aH72N8aZg9I5LnNG3QfexdQNNFWaSDkeE1UKayGQrRCR2CgKY/s799/camas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="799" height="326" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1JbiKk45yYJuAhiBKRQrx8eEudLBWcA9iMP-cdq_QuNN9-5uM051dL40UsD9glBhbfxTE_dLcIO9DZKdIr7lwci9pv_aH72N8aZg9I5LnNG3QfexdQNNFWaSDkeE1UKayGQrRCR2CgKY/w512-h326/camas.png" width="512" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa relação com a cama começa desde a nossa preconcepção.
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/274-as-histórias-de-uma-cama-camas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="799" height="326" src="/images/posts/274-as-histórias-de-uma-cama-camas.png" width="512" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa relação com a cama começa desde a nossa preconcepção.
 Nossos pais, unidos pelo matrimônio e abertos à fecundidade querida por Deus,
 cooperam com o criador, em nossa vinda ao mundo. Depois, passamos muito tempo
 numa cama, nomeada de berço. Do bercinho após alguns anos, ainda solteiros,

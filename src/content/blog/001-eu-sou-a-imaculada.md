@@ -1,10 +1,10 @@
 ---
 title: "Eu sou a Imaculada"
 date: 2018-12-12T18:22:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/001-eu-sou-a-imaculada-imaculada_concei_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wJz2S1igub20JcPVqOYdQnqz5t2I2j60nhWCAzZ-60BbSvpusGw3ttQQX9XA8gU6wx3wSwVM_ZMOY4uS-XpG6Xz99y4f7wvM8_7sQsJqF8kxWMXhTOGhdeRlqgQwFAMAE-OKdJtFNMU/s1600/imaculada_concei%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wJz2S1igub20JcPVqOYdQnqz5t2I2j60nhWCAzZ-60BbSvpusGw3ttQQX9XA8gU6wx3wSwVM_ZMOY4uS-XpG6Xz99y4f7wvM8_7sQsJqF8kxWMXhTOGhdeRlqgQwFAMAE-OKdJtFNMU/s320/imaculada_concei%25C3%25A7%25C3%25A3o.png" width="320" height="314" data-original-width="364" data-original-height="357" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/001-eu-sou-a-imaculada-imaculada_concei_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/001-eu-sou-a-imaculada-imaculada_concei_25C3_25A7_25C3_25A3o.png" width="320" height="314" data-original-width="364" data-original-height="357" /></a></div>
 Quando Bernadete levou ao padre de sua paróquia a informação de que a Virgem Santíssima tinha dito para dizer a este que era a Imaculada, e não sabendo Bernadete muito bem do que isso se tratava, a situação causou muito espanto na localidade. Santa Bernadete, como hoje é conhecida, teve a graça de dezoito aparições da Virgem Maria.</br>
 </br>
 A Imaculada Conceição, que através do Espírito Santo, como lemos no evangelho de São Lucas, capítulo 01, teve a graça de ser a única mulher em toda a história da humanidade que é mãe e filha de Deus, mãe e membro da igreja de Cristo. Numa época em que a tradução para o português da bíblia, coloca como irmãos de Jesus seus parentes, ela está proclamada como imaculada conceição através dos relatos bíblicos.</br>

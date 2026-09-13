@@ -1,10 +1,10 @@
 ---
 title: "Sacrifícios e Sofrimentos"
 date: 2021-03-29T14:01:00.003Z
-heroImage: "/images/Pai.jpg"
+heroImage: "/images/posts/2088-sacrifícios-e-sofrimentos-paix_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKUWFcl-VhpDZZmVJooc0MhVhQLKixbKCmyEJco0jUnzM9DXe8EShtBdFZCR2OeJSnXLqS73LCBWGb5cKBcUeKh2Lh2oFN7P1WYigRNs-_9t07YndQDaUCekqSt34K1hAovHGCumbguho/s294/paix%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="222" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKUWFcl-VhpDZZmVJooc0MhVhQLKixbKCmyEJco0jUnzM9DXe8EShtBdFZCR2OeJSnXLqS73LCBWGb5cKBcUeKh2Lh2oFN7P1WYigRNs-_9t07YndQDaUCekqSt34K1hAovHGCumbguho/s0/paix%25C3%25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Hebreus 5,5-9 – “Cristo não se atribuiu a si mesmo a glória
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2088-sacrifícios-e-sofrimentos-paix_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="222" src="/images/posts/2088-sacrifícios-e-sofrimentos-paix_25C3_25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Hebreus 5,5-9 – “Cristo não se atribuiu a si mesmo a glória
 de ser pontífice. Esta lhe foi dada por aquele que lhe disse: Tu és meu Filho,
 eu hoje te gerei (Salmos 2,7), como também diz em outra passagem: Tu és
 sacerdote eternamente, segundo a ordem de Melquisedec (Salmos 109,4). Nos dias

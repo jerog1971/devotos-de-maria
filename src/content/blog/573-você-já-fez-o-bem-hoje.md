@@ -1,10 +1,10 @@
 ---
 title: "Você já fez o bem  hoje?"
 date: 2022-07-14T20:29:00.004Z
-heroImage: "/images/você já fez o bem hoje.png"
+heroImage: "/images/posts/573-você-já-fez-o-bem-hoje-img-1147445823.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcW03RwMwpi4KpUqlgnj-xlQ5UxdWOhX3mJzVOOosfTtBFm9bBfwPKZc0UuLfVyP8m_EcbZ8FMtJvLjrymJGzoYcIVmkOLssSmZAeNaTBb3ja-i6IWx_1P5pGeUfFq19gMKaznKOEJJFbDOGFaBFsWbeALDoAb983vPF9hIZjGKhdjATTM-4XhIT5/s427/voc%C3%AA%20j%C3%A1%20fez%20o%20bem%20hoje.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="427" data-original-width="419" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcW03RwMwpi4KpUqlgnj-xlQ5UxdWOhX3mJzVOOosfTtBFm9bBfwPKZc0UuLfVyP8m_EcbZ8FMtJvLjrymJGzoYcIVmkOLssSmZAeNaTBb3ja-i6IWx_1P5pGeUfFq19gMKaznKOEJJFbDOGFaBFsWbeALDoAb983vPF9hIZjGKhdjATTM-4XhIT5/s320/voc%C3%AA%20j%C3%A1%20fez%20o%20bem%20hoje.png" width="314" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De alguma maneira, fez a diferença na vida de alguém? Rezou
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/573-você-já-fez-o-bem-hoje-img-1147445823.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="427" data-original-width="419" height="320" src="/images/posts/573-você-já-fez-o-bem-hoje-img-1104113913.png" width="314" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De alguma maneira, fez a diferença na vida de alguém? Rezou
 por alguém, deixou as tribulações do mundo de lado e se preocupou com o que
 vale à pena? Senão fez isso, saiba que está deixando de seguir uma exortação de
 Jesus Cristo, pois, foi ele mesmo que disse, quanto a oração: “amai vossos

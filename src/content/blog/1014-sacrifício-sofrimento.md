@@ -1,10 +1,10 @@
 ---
 title: "Sacrifício ≠ Sofrimento"
 date: 2016-07-27T20:31:00Z
-heroImage: "/images/sofrimento2.png"
+heroImage: "/images/posts/1014-sacrifício-sofrimento-sofrimento2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsMKNgR0SsRPSooJThV9wS-pheMCw1y3sb4lna8g9lBp-TGmgT0r51L1PFwU_tYrTooeGbHH6HrUIozHS9nroEfKQcU6wQ0703PyI-vuYYqHKEeUA-Dm_qEXDmlDeif9lG8o6IQi7esE/s1600/sofrimento2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsMKNgR0SsRPSooJThV9wS-pheMCw1y3sb4lna8g9lBp-TGmgT0r51L1PFwU_tYrTooeGbHH6HrUIozHS9nroEfKQcU6wQ0703PyI-vuYYqHKEeUA-Dm_qEXDmlDeif9lG8o6IQi7esE/s320/sofrimento2.png" width="320" height="301" data-original-width="250" data-original-height="235" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1014-sacrifício-sofrimento-sofrimento2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1014-sacrifício-sofrimento-sofrimento2.png" width="320" height="301" data-original-width="250" data-original-height="235" /></a></div>
 Muitos fazem confusão com estas duas palavras e o que elas representam verdadeiramente. Logo de início vamos deixar bem claro que sacrifício e sofrimento NÃO são sinônimos. Elas possuem naturezas completamente diferentes. Basicamente falando o sofrimento gera algum tipo de dor, seja ela física, psíquica ou espiritual. O ato de sofrer implica em uma reação que percebemos em nós ou não, fruto do resultado de alguma “força” externa a nós que por fim nos leva a padecer.</br>
 </br>
 Todos sofremos em nossas vidas, seja no passado, no presente e ainda no futuro. De tantas maneiras a vida sempre se encarrega de nos colocar à prova, seja ela física ou não. Alguns exemplos? Vamos a eles:</br>

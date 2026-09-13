@@ -1,10 +1,10 @@
 ---
 title: "A Virgindade de Maria"
 date: 2020-04-18T14:59:00.001Z
-heroImage: "/images/nos.JPG"
+heroImage: "/images/posts/1988-a-virgindade-de-maria-Nossa_Senhora.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0JxWvbDJmdp5gAh5_F2qRv3Kt3M2XquIL59-PaN4otq4nbba0jtnFTEOUfvBw3D9qwxLnwX-XUfgHo-eVnGGb07vbLNbKCaNQ89RqBNIhPifkqeWC63c6H70vHOS_4tkYCI-3QI6tqJo/s1600/Nossa+Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0JxWvbDJmdp5gAh5_F2qRv3Kt3M2XquIL59-PaN4otq4nbba0jtnFTEOUfvBw3D9qwxLnwX-XUfgHo-eVnGGb07vbLNbKCaNQ89RqBNIhPifkqeWC63c6H70vHOS_4tkYCI-3QI6tqJo/s320/Nossa+Senhora.png" width="258" height="320" data-original-width="395" data-original-height="490" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1988-a-virgindade-de-maria-Nossa_Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1988-a-virgindade-de-maria-Nossa_Senhora.png" width="258" height="320" data-original-width="395" data-original-height="490" /></a></div>
 OBJEÇÃO: Os católicos ensinam que Maria ficou sempre virgem. Porém, em vários lugares da Bíblia (por ex. Mc 3,31-32) lemos de irmãos de Jesus. Portanto Maria devia ter outros filhos, além de Jesus!</br>
 </br>
 RESPOSTA:</br>

@@ -1,10 +1,10 @@
 ---
 title: "Rebeldia e Pandemia"
 date: 2021-03-09T12:53:00.001Z
-heroImage: "/images/rebeldia.png"
+heroImage: "/images/posts/1091-rebeldia-e-pandemia-rebeldia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzq7i94aldhWhd0OIVqzFb_lUuLCt7ABriESQJfubKG7sDBTeMS2HLyHW8Vy-iOrnBhTOrIwSJNKgRR_GKg39dT4Uo_DJlOMTFmr4V5YQoyqHOABQi7fi14O-te8XwokaudaJyrUvpx_g/s235/rebeldia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="235" data-original-width="234" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzq7i94aldhWhd0OIVqzFb_lUuLCt7ABriESQJfubKG7sDBTeMS2HLyHW8Vy-iOrnBhTOrIwSJNKgRR_GKg39dT4Uo_DJlOMTFmr4V5YQoyqHOABQi7fi14O-te8XwokaudaJyrUvpx_g/s0/rebeldia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A variedade do comportamento humano demonstra ao redor do
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1091-rebeldia-e-pandemia-rebeldia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="235" data-original-width="234" src="/images/posts/1091-rebeldia-e-pandemia-rebeldia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A variedade do comportamento humano demonstra ao redor do
 mundo o quanto ela consegue produzir consequentemente os mais variados cenários
 na vida das pessoas. Parece haver circulando por aí uma tendência de conduzir a
 vida pautando-se primeiramente em interesses próprios. Claro, nunca podemos

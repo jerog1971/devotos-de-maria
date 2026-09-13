@@ -1,10 +1,10 @@
 ---
 title: "Natal sem festa"
 date: 2020-12-04T14:16:00.001Z
-heroImage: "/images/presepio2.jpg"
+heroImage: "/images/posts/980-natal-sem-festa-presepio2.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaN6fSw0XCJHrJtoUXS3M5bBXl2ov2KQh0WLDKeivCBlM5tZe8gkloqyqVjFsi7wIz56zPSIo0D1aWgMDUmqjaMePvGIbCQHueyRSUJrbVhFqegEe90nbFE3F77sn8vJrfnFwxHUjia_8/s218/presepio2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="209" data-original-width="218" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaN6fSw0XCJHrJtoUXS3M5bBXl2ov2KQh0WLDKeivCBlM5tZe8gkloqyqVjFsi7wIz56zPSIo0D1aWgMDUmqjaMePvGIbCQHueyRSUJrbVhFqegEe90nbFE3F77sn8vJrfnFwxHUjia_8/s0/presepio2.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A insistência humana em tentar um cabo de guerra contra Deus
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/980-natal-sem-festa-presepio2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="209" data-original-width="218" src="/images/posts/980-natal-sem-festa-presepio2.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A insistência humana em tentar um cabo de guerra contra Deus
 nunca termina. O homem que assim o faz – porque está se aliando ao diabo –
 sofre além do necessário e carimba um passaporte eterno com um destino bem
 diferente daquele que o altíssimo pensou e deseja para seus herdeiros.<o:p></o:p></p><div class="separator" style="clear: both;">

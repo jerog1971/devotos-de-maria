@@ -1,10 +1,10 @@
 ---
 title: "Os guerreiros se levantam"
 date: 2020-02-17T20:04:00.001Z
-heroImage: "/images/guerreiros.png"
+heroImage: "/images/posts/1921-os-guerreiros-se-levantam-guerreiros.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><br /></div><div><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS0D7gMqefFLIcU8tpwJnPj1QGeQxd1OfPSWWDw_gUPaXfJyQBMw-dj6l7A_H5OX9vNCFBUyyhXSeVHLIHqKEzPEyy9Rhr8obwbgH7Tc7UtESUUWMTAmhvzVdJWes6WhuROyNt7XAwKbw/s1600/guerreiros.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="532" data-original-width="560" height="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS0D7gMqefFLIcU8tpwJnPj1QGeQxd1OfPSWWDw_gUPaXfJyQBMw-dj6l7A_H5OX9vNCFBUyyhXSeVHLIHqKEzPEyy9Rhr8obwbgH7Tc7UtESUUWMTAmhvzVdJWes6WhuROyNt7XAwKbw/s320/guerreiros.png" width="320" /></a></div><div><br /></div>
+<div class="separator" style="clear: both; text-align: center;"><br /></div><div><a href="/images/posts/1921-os-guerreiros-se-levantam-guerreiros.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="532" data-original-width="560" height="304" src="/images/posts/1921-os-guerreiros-se-levantam-guerreiros.png" width="320" /></a></div><div><br /></div>
 A caridade, diz a sagrada escritura, apaga uma multidão de pecados. Jesus, nos explicou que no dia do juízo existirão duas filas. A fila da esquerda, dos condenados e a fila da direita, dos benditos; e ele diz: “tive fome e me destes de comer, tive sede e me destes de beber”, quando fizeres essas coisas aos outros é a mim que o fizestes. Pois bem, caros leitores, mais direto do que isso não é necessário. Trata-se da comunhão que acontece dentro do corpo de Cristo, nós, membros de sua igreja (Mateus 16,18).
 
 É sempre bom recordar que a igreja é dele e que as “normas” são dele. Se queremos fazer parte de seu rebanho, herdeiros do reino pelo batismo devemos acatar “a regra do jogo”. Com uma grande diferença, por exemplo, dos jogos de videogames, onde muitas vidas podem ser usadas para se chegar ao final do jogo. Na vida real não é assim, com apenas uma chance (uma vida) e uma alma para ser salva não podemos usar nosso tempo, que nem sabemos quanto é, com algo que não irá somar para nossa salvação ou de outrem.

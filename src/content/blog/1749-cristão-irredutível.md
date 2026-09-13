@@ -1,10 +1,10 @@
 ---
 title: "Cristão irredutível"
 date: 2022-07-28T15:21:00.004Z
-heroImage: "/images/cristão irredutível.png"
+heroImage: "/images/posts/1749-cristão-irredutível-img-188553959.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx2pHyfLZFZfu2UEzH3d_o0QZN00-ZNXUekqpobSzk1qytYuHQT5m969EztzeE5PJk6nudRK1HPmVU_aRRHEpY7z7QmaV61fpJSioFlHXuGguzOncjTFkKxI_FgM-7Mq0LMA-QMETZ8p8X69KQ8QLzBKY-U8Ypxp9k8D8hdOo6Krg03CADx_DcHVmr/s543/crist%C3%A3o%20irredut%C3%ADvel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="513" data-original-width="543" height="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx2pHyfLZFZfu2UEzH3d_o0QZN00-ZNXUekqpobSzk1qytYuHQT5m969EztzeE5PJk6nudRK1HPmVU_aRRHEpY7z7QmaV61fpJSioFlHXuGguzOncjTFkKxI_FgM-7Mq0LMA-QMETZ8p8X69KQ8QLzBKY-U8Ypxp9k8D8hdOo6Krg03CADx_DcHVmr/s320/crist%C3%A3o%20irredut%C3%ADvel.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo em seus ensinamentos, por várias vezes, deixou
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1749-cristão-irredutível-img-188553959.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="513" data-original-width="543" height="302" src="/images/posts/1749-cristão-irredutível-img-1696875222.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo em seus ensinamentos, por várias vezes, deixou
 muito claro que “o céu é arrebatado à força e são os violentos que o conquistam”
 – Mateus 11,12. Quando fala sobre as coisas ruins que irão acometer a humanidade,
 diz que, por mais que o mal tente o homem, os eleitos não poderão se enganados

@@ -1,10 +1,10 @@
 ---
 title: "O mal nunca dorme"
 date: 2019-07-16T20:05:00.001Z
-heroImage: "/images/Annabelle.png"
+heroImage: "/images/posts/262-o-mal-nunca-dorme-annabelle.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibqknAYBucR-9BFuHzyhX5NGzVxMJWsLrOP_4di4JWLyFp8fTMzsvQEuJkNwU0-2e8wiS3mXVmmzA4HNC46-noLqV70sr6kM4tTtX7C3l5pRt1Bq3EtHN_i9g45ppQJb_3tP_JTJ6BY6A/s1600/annabelle.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibqknAYBucR-9BFuHzyhX5NGzVxMJWsLrOP_4di4JWLyFp8fTMzsvQEuJkNwU0-2e8wiS3mXVmmzA4HNC46-noLqV70sr6kM4tTtX7C3l5pRt1Bq3EtHN_i9g45ppQJb_3tP_JTJ6BY6A/s320/annabelle.png" width="320" height="286" data-original-width="502" data-original-height="449" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/262-o-mal-nunca-dorme-annabelle.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/262-o-mal-nunca-dorme-annabelle.png" width="320" height="286" data-original-width="502" data-original-height="449" /></a></div>
 É como São Pedro nos recorda em suas cartas, ele está à espreita. Graças a Deus recebemos um fiel escudeiro que não nos cobra por seus serviços e tem a missão principal de nos livrar do inferno: nosso anjo da guarda. Todos têm um, mesmo que não creiam nisso. Na libertação de São Pedro relatada em Atos dos Apóstolos 12,12-15 lemos o seguinte:” Refletiu um momento [Pedro após ter sido libertado] e dirigiu-se para a casa de Maria, mãe de João, que tem por sobrenome Marcos, onde muitos se tinham reunido e faziam oração. Quando bateu à porta de entrada, uma criada, chamada Rode, adiantou-se para escutar. Mal reconheceu a voz de Pedro, de tanta alegria não abriu a porta, mas, correndo para dentro, foi anunciar que era Pedro que estava à porta. Disseram-lhe: Estás louca! [Pois sabiam e supunham que ele ainda estivesse preso] Mas ela persistia em afirmar que era verdade. Diziam eles [ainda supondo que estivesse preso]: Então é o seu anjo”.</br>
 </br>
 Como vemos, para a alegria dos cristãos Salmo 33,8 – “O anjo do Senhor acampa em redor dos que o temem [temem a Deus], e os salva”.</br>

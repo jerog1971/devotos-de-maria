@@ -1,10 +1,10 @@
 ---
 title: "Católicos contra missa satânica"
 date: 2020-03-18T16:14:00.001Z
-heroImage: "/images/arcebispo_prendergast.png"
+heroImage: "/images/posts/1348-católicos-contra-missa-satânica-arcebispo_prendergast.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLwkf31KO_CihRPK-S3JIa1CPldOIMwrVaY-1PYKYAqNo4rEH0jB2pe5w1mPR2GPbcfywsdfhBSsCBf6BYXnosvrCyTOyBwRv3tQQ7JfS_Rvy2BNZQWCBuEKLnJRPu68-na1mbrBlMEU/s1600/arcebispo_prendergast.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLwkf31KO_CihRPK-S3JIa1CPldOIMwrVaY-1PYKYAqNo4rEH0jB2pe5w1mPR2GPbcfywsdfhBSsCBf6BYXnosvrCyTOyBwRv3tQQ7JfS_Rvy2BNZQWCBuEKLnJRPu68-na1mbrBlMEU/s320/arcebispo_prendergast.png" width="320" height="261" data-original-width="485" data-original-height="395" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1348-católicos-contra-missa-satânica-arcebispo_prendergast.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1348-católicos-contra-missa-satânica-arcebispo_prendergast.png" width="320" height="261" data-original-width="485" data-original-height="395" /></a></div>
 Já é uma realidade em alguns lugares do mundo a realização das chamadas missas católicas, verdadeira inversão e zombaria do ritual católico – a santa missa, memorial da paixão, morte e ressurreição de Nosso Senhor Jesus Cristo. Aqui no Brasil elas também existem, porém, ainda em caráter bem velado, ao contrário de alguns países onde inclusive ela é autorizada. Até estátua em praça pública de baphomet já existe. Valha-me Deus!</br>
 </br>
 Pois bem, relatamos aqui um exemplo desse tipo de acontecimento retirado do site churchmilitant. Trata-se do combate entre o bem e o mal que aconteceu na cidade Ottawa, Ontário, no Canadá. Lá o arcebispo Prendergast liderou sacerdotes e leigos na luta contra o mal por causa da realização de uma missa negra satânica que aconteceu num bar da localidade. Nesta cidade existe um templo satânico (é isso mesmo que você leu), e ele praticou seu primeiro ritual público neste bar.</br>

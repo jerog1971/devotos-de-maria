@@ -1,10 +1,10 @@
 ---
 title: "Sobre o Halloween, você precisa saber"
 date: 2019-10-31T15:00:00Z
-heroImage: "/images/hallowen.png"
+heroImage: "/images/posts/823-sobre-o-halloween-você-precisa-saber-hallowen.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwXRyGPv5ryG0OJutuoZcYfJbuWkRAShYojJ38GLuGhzsEKpIe2flshLuJcG7IMOXk7wb9IychYnxa284p3GBmQwbeHg_E4nsXLgkqxXW8jjcJ4IHz_c4J0VaSiN-ZHM7FTtstvkPHtJI/s1600/hallowen.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwXRyGPv5ryG0OJutuoZcYfJbuWkRAShYojJ38GLuGhzsEKpIe2flshLuJcG7IMOXk7wb9IychYnxa284p3GBmQwbeHg_E4nsXLgkqxXW8jjcJ4IHz_c4J0VaSiN-ZHM7FTtstvkPHtJI/s320/hallowen.png" width="320" height="177" data-original-width="679" data-original-height="376" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/823-sobre-o-halloween-você-precisa-saber-hallowen.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/823-sobre-o-halloween-você-precisa-saber-hallowen.png" width="320" height="177" data-original-width="679" data-original-height="376" /></a></div>
 </br>
 REDAÇÃO CENTRAL, 16 Out. 15 / 07:00 pm (ACI).- “O que o demônio faz para afastar-nos do caminho de Jesus? A tentação começa de forma sutil, mas cresce: sempre cresce. Esta cresce e contagia o outro, é transmitida e tenta ser comunitária. E, finalmente, para tranquilizar a alma, justifica-se. Cresce, contagia e se justifica”, advertiu o Papa Francisco em abril de 2014.</br>
 </br>

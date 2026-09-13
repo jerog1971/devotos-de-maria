@@ -1,10 +1,10 @@
 ---
 title: "Fiz porque acho bonito"
 date: 2021-12-17T15:43:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/787-fiz-porque-acho-bonito-img-213517698.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEheuMn7SYYLe0bC9JSjoKORq91-tWH299LhCZlIUAeATY0Yixi228zOkEoPLFo1jhq-uXqRFnokpqJZD-76IZ7QvDDW6i96gpy-mNzyj8K9EivT0Z-hTgfZv5QLDvRNyKt9KbVjoRk1OP5Mn7_jq64OO1dpIUbUaUdBh8ANMAUj-Uke8KiUQyP2mBRo=s565" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="504" data-original-width="565" height="285" src="https://blogger.googleusercontent.com/img/a/AVvXsEheuMn7SYYLe0bC9JSjoKORq91-tWH299LhCZlIUAeATY0Yixi228zOkEoPLFo1jhq-uXqRFnokpqJZD-76IZ7QvDDW6i96gpy-mNzyj8K9EivT0Z-hTgfZv5QLDvRNyKt9KbVjoRk1OP5Mn7_jq64OO1dpIUbUaUdBh8ANMAUj-Uke8KiUQyP2mBRo=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe sempre algo de muito saboroso em cada pecado; embora lemos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/787-fiz-porque-acho-bonito-img-213517698.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="504" data-original-width="565" height="285" src="/images/posts/787-fiz-porque-acho-bonito-img-213519749.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe sempre algo de muito saboroso em cada pecado; embora lemos
 na bíblia que sua recompensa é a condenação eterna, a sutileza dos inimigos da
 alma sempre encontra um meio de que ele seja cometido sem o maior
 arrependimento. O diabo, sempre mais esperto e inteligente que o ser humano,

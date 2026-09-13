@@ -1,10 +1,10 @@
 ---
 title: "Nossos desafios diários"
 date: 2020-08-28T18:49:00.006Z
-heroImage: "/images/desafios.png"
+heroImage: "/images/posts/1223-nossos-desafios-diários-desafios.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiwONlIG7ECX3rmALKcRjFMg73M1Kkro09enFVcpfA3xo5RoTPkwocADotnIol5H0-NGUByHVPMmB1XVWddP32mJhSMOWZTCrGs5JWO8DNwek9KjF6n7T-HG0nH0wxbv4mtu0so9n2Fjk/s441/desafios.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="441" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiwONlIG7ECX3rmALKcRjFMg73M1Kkro09enFVcpfA3xo5RoTPkwocADotnIol5H0-NGUByHVPMmB1XVWddP32mJhSMOWZTCrGs5JWO8DNwek9KjF6n7T-HG0nH0wxbv4mtu0so9n2Fjk/w353-h318/desafios.png" width="353" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida do homem sobre a terra consiste de grandes desafios.
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1223-nossos-desafios-diários-desafios.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="441" height="318" src="/images/posts/1223-nossos-desafios-diários-desafios.png" width="353" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida do homem sobre a terra consiste de grandes desafios.
 Provérbios 21,31 – “Prepara-se o cavalo para o dia da batalha, mas é do senhor
 que depende a vitória”. João 15,5 – “sem mim nada podeis fazer”. Como podemos
 querer alcançar vitórias colocando todo o esforço apenas em nossas próprias

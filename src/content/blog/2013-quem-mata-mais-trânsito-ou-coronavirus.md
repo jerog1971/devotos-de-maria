@@ -1,10 +1,10 @@
 ---
 title: "Quem mata mais? Trânsito ou coronavirus?"
 date: 2020-03-18T16:45:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2013-quem-mata-mais-trânsito-ou-coronavi-tr_25C3_25A2nsito.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrDc8_AV_24C7A1nbx2xQREiHpYKk2XX7kdM82sNb1BKaL9nmD9q0UghnRUosJAsxbH9_WQLvpamyQpKP42mKDdJyoyO4J3ifWPB5BPHvMGfOhhRxbmMk37JNtbFDeL-T8WjxYhw5wwk/s1600/tr%25C3%25A2nsito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrDc8_AV_24C7A1nbx2xQREiHpYKk2XX7kdM82sNb1BKaL9nmD9q0UghnRUosJAsxbH9_WQLvpamyQpKP42mKDdJyoyO4J3ifWPB5BPHvMGfOhhRxbmMk37JNtbFDeL-T8WjxYhw5wwk/s320/tr%25C3%25A2nsito.png" width="320" height="294" data-original-width="661" data-original-height="608" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2013-quem-mata-mais-trânsito-ou-coronavi-tr_25C3_25A2nsito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2013-quem-mata-mais-trânsito-ou-coronavi-tr_25C3_25A2nsito.png" width="320" height="294" data-original-width="661" data-original-height="608" /></a></div>
 Vamos primeiramente recordar:</br>
 </br>
 É a sexta vez na história que é declarado emergência no que tange a saúde pública. Acompanhem. Em 25 de abril de 2009 foi a vez da pandemia de H1N1. Depois em 5 de maio de 2014 entrou em cena a disseminação internacional de poliovírus. Em seguida, em 8 agosto de 2014 o surto de Ebola na África Ocidental. No começo do ano, em 1 de fevereiro de 2016 o vírus zika e o aumento de casos de microcefalia e outras malformações congênitas. Depois, antecedendo o coronavirus, em 18 maio de 2018 o surto de ebola na República Democrática do Congo.</br>

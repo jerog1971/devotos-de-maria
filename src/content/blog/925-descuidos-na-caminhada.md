@@ -1,10 +1,10 @@
 ---
 title: "Descuidos na caminhada"
 date: 2022-05-20T19:29:00.003Z
-heroImage: "/images/descuido.png"
+heroImage: "/images/posts/925-descuidos-na-caminhada-descuidos_20na_20caminhada.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXaMo9jFXmGXFtHoYvgRTUQLdkVNV6jAa98-xRxNeEeiRK_pXKzi9A3ABiZ3olRxWqxoq8_n6SJUDgpj9m1BN4ubKIp9FzlBdfPKjhaXACgLBk83p8ybfFcDh80VJRT1vw237cd0u9PpaIHXvvFe9nDwSzUB2S7gPYvZzKf1hI6LmPii6KhXPDgjcs/s586/descuidos%20na%20caminhada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="530" data-original-width="586" height="289" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXaMo9jFXmGXFtHoYvgRTUQLdkVNV6jAa98-xRxNeEeiRK_pXKzi9A3ABiZ3olRxWqxoq8_n6SJUDgpj9m1BN4ubKIp9FzlBdfPKjhaXACgLBk83p8ybfFcDh80VJRT1vw237cd0u9PpaIHXvvFe9nDwSzUB2S7gPYvZzKf1hI6LmPii6KhXPDgjcs/s320/descuidos%20na%20caminhada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não importa o quanto uma pessoa esteja preparada fisicamente
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/925-descuidos-na-caminhada-descuidos_20na_20caminhada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="530" data-original-width="586" height="289" src="/images/posts/925-descuidos-na-caminhada-descuidos_20na_20caminhada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não importa o quanto uma pessoa esteja preparada fisicamente
 para a prática de um exercício físico como uma corrida ou caminhada. Se durante
 o percurso não tomar os devidos cuidados no decorrer do exercício, corre o
 risco de sofrer um acidente de proporções preocupantes, quiçá até graves.<o:p></o:p></p><div class="separator" style="clear: both;">

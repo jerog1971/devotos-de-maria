@@ -1,10 +1,10 @@
 ---
 title: "Deus e o ser humano"
 date: 2022-10-28T17:30:00.005Z
-heroImage: "/images/Deus e o ser humano.png"
+heroImage: "/images/posts/877-deus-e-o-ser-humano-Deus_20e_20o_20ser_20humano.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFGQ0z2MGBU1Gypa5UM9tKt24bKS1KbEmokbql6kcWE7WFTfIsrb4TDIG9OIwD7mW2HR5TFnj7Py3tRkRiZTVPVIKTmmWJydM5p1WglI0GBKiInZYnIbKsj-masj9LcJg9NLUQeLL6UVDtPrMCvACTHJhnVIMOz8miPsXqcEoGaYS5q53k57f3LqmG/s553/Deus%20e%20o%20ser%20humano.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="553" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFGQ0z2MGBU1Gypa5UM9tKt24bKS1KbEmokbql6kcWE7WFTfIsrb4TDIG9OIwD7mW2HR5TFnj7Py3tRkRiZTVPVIKTmmWJydM5p1WglI0GBKiInZYnIbKsj-masj9LcJg9NLUQeLL6UVDtPrMCvACTHJhnVIMOz8miPsXqcEoGaYS5q53k57f3LqmG/s320/Deus%20e%20o%20ser%20humano.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus fez o ser humano e determinou que as relações íntimas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/877-deus-e-o-ser-humano-Deus_20e_20o_20ser_20humano.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="553" height="308" src="/images/posts/877-deus-e-o-ser-humano-Deus_20e_20o_20ser_20humano.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus fez o ser humano e determinou que as relações íntimas
 acontecessem apenas entre pessoas de sexos diferentes e unidas através do santo
 matrimônio. Dentre as muitas pessoas que passaram pela vida de alguém, coube “escolher”
 aquela para compartilhar todo o desafio da vida até que o altíssimo determine a

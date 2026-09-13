@@ -1,10 +1,10 @@
 ---
 title: "Corações Impenetraveis"
 date: 2017-10-19T19:28:00Z
-heroImage: "/images/Aparecida.png"
+heroImage: "/images/posts/798-corações-impenetraveis-Aparecida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRhDhW_eAdwrN5hyWpDQuJt581qQ98KsXoDVrUEv46WNQcbaaKZw2gWhLtNc2FkWlr9qrQyfH0WiX3WBj_HtxVlXEC172EILEza4C_FYG4yKkbqI0JXE21orK7yGwTGe0onGPRP21xSBk/s1600/Aparecida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRhDhW_eAdwrN5hyWpDQuJt581qQ98KsXoDVrUEv46WNQcbaaKZw2gWhLtNc2FkWlr9qrQyfH0WiX3WBj_HtxVlXEC172EILEza4C_FYG4yKkbqI0JXE21orK7yGwTGe0onGPRP21xSBk/s320/Aparecida.png" width="320" height="301" data-original-width="501" data-original-height="471" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/798-corações-impenetraveis-Aparecida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/798-corações-impenetraveis-Aparecida.png" width="320" height="301" data-original-width="501" data-original-height="471" /></a></div>
 Se os sacramentos são o alimento do corpo e da alma, meios eficazes que nosso Senhor Jesus Cristo deixou na sua Igreja para a santificação de seus membros, e tanto também o Santo Rosário e a Santa Missa, além de muitas outras práticas religiosas, por que é que os católicos, nem todos mas muitos, vivem mergulhados nesse meio e não crescem no amor e na santidade? Nem precisamos, e nem devemos, reparar nos outros. Nós devemos olhar para nós mesmos e, com a prática de um exame honesto de consciência, irmos até as raízes de todas as coisas.</br>
 </br>
 Uma pessoa comunga e se confessa a vida inteira e não vai melhorando como pessoa e como filha de Deus. Frequenta muitas missas mas fora dos muros da igreja continua sendo aquela pessoa que quer as coisas do jeito dela, do contrário lá vai chumbo grosso para todo lado. Temos que olhar para o hoje e olhar para o nosso ontem, o nosso passado. Estamos melhor? Iguais? Melhoramos? Quanto melhoramos? Recaímos? Pois é, são questões que permeiam nossa realidade de vida e de fé na caminhada rumo à pátria celeste.</br>

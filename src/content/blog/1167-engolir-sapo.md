@@ -1,10 +1,10 @@
 ---
 title: "Engolir sapo"
 date: 2019-02-07T15:22:00Z
-heroImage: "/images/engolir_sapo.png"
+heroImage: "/images/posts/1167-engolir-sapo-engolir_sapo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi09CjTjQgITv-VxoPpkBZVg0VTILIeoUGRtXiyxjAenJzFJDAXYhJE3RJd7ejqd4XZYTuY7JmF_NDfXpAA8Wo4t5BHZB-tKJ6b1013g5PPkgxy9DhaqeG7NJxhA7qLymHsi17iqPZZ-0s/s1600/engolir_sapo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi09CjTjQgITv-VxoPpkBZVg0VTILIeoUGRtXiyxjAenJzFJDAXYhJE3RJd7ejqd4XZYTuY7JmF_NDfXpAA8Wo4t5BHZB-tKJ6b1013g5PPkgxy9DhaqeG7NJxhA7qLymHsi17iqPZZ-0s/s320/engolir_sapo.png" width="320" height="313" data-original-width="440" data-original-height="430" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1167-engolir-sapo-engolir_sapo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1167-engolir-sapo-engolir_sapo.png" width="320" height="313" data-original-width="440" data-original-height="430" /></a></div>
 O ditado popular atribui à expressão “engolir sapo” uma situação indesejada. Já ouvimos pessoas dizerem que para conseguir isso ou aquilo ou passar por aquele outro, tiveram que engolir muitos sapos.</br>
 </br>
 Dando uma passada pela periferia dessas situações, podemos perceber que isso se constituía num preço a se pagar para se alcançar alguma coisa. Vamos dar um exemplo pequeno para ajudar a reflexão.</br>

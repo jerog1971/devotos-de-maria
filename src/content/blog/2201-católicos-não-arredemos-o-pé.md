@@ -1,10 +1,10 @@
 ---
 title: "Católicos: não arredemos o pé"
 date: 2015-11-06T13:27:00Z
-heroImage: "/images/dios_no_existe.png"
+heroImage: "/images/posts/2201-católicos-não-arredemos-o-pé-dios_no_existe.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkpqsPfjbirILwPzuLuOPYroeWJSj6RFisouM5do-6qqAbVqrHrEw9f5ob7cL41EriEpa17h6vM3KU61ah5kxzAUyX99CHRCYIocGTl8e9_BooslaB-mmbVQ4Ooepdof4nQv8LQBMhan0/s1600/dios_no_existe.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkpqsPfjbirILwPzuLuOPYroeWJSj6RFisouM5do-6qqAbVqrHrEw9f5ob7cL41EriEpa17h6vM3KU61ah5kxzAUyX99CHRCYIocGTl8e9_BooslaB-mmbVQ4Ooepdof4nQv8LQBMhan0/s320/dios_no_existe.png" width="320" height="277" data-original-width="433" data-original-height="375" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2201-católicos-não-arredemos-o-pé-dios_no_existe.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2201-católicos-não-arredemos-o-pé-dios_no_existe.png" width="320" height="277" data-original-width="433" data-original-height="375" /></a></div>
 </br>
 Sempre foi assim caros leitores na história do cristianismo. Nosso inimigo cruel sempre vai odiar e atacar aquilo que muito amamos. O bem e o mal fazem parte de nossa realidade espiritual como nos recorda São Paulo aos Efésios.</br>
 </br>
@@ -22,7 +22,7 @@ Isto ocorreu no contexto de algumas manifestações que os ativistas pró-aborto
 </br>
 CATEDRAL DA SÉ É PICHADA</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpIYk3DRAN-lyqXHurZclg78mRBB23Y4aljiFUB52gQIsKvIHLSKj99P2ftvtp94lG9CB8Os4H_IKG3BZthQRB_lzTFPHSk-JJ_NrIqARLMvUAHT2yQzilL9mOxzfQ2bG2rsG2Jjnefk8/s1600/catedral_pichada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpIYk3DRAN-lyqXHurZclg78mRBB23Y4aljiFUB52gQIsKvIHLSKj99P2ftvtp94lG9CB8Os4H_IKG3BZthQRB_lzTFPHSk-JJ_NrIqARLMvUAHT2yQzilL9mOxzfQ2bG2rsG2Jjnefk8/s200/catedral_pichada.png" width="200" height="149" data-original-width="677" data-original-height="505" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2201-católicos-não-arredemos-o-pé-catedral_pichada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2201-católicos-não-arredemos-o-pé-catedral_pichada.png" width="200" height="149" data-original-width="677" data-original-height="505" /></a></div>
 </br>
 SÃO PAULO, 03 Nov. 15 / 06:00 pm - Dois grupos e duas ações completamente opostas. Na sexta-feira, 30, ativistas pró-aborto picharam a Catedral da Sé, em São Paulo. No domingo, 1º, jovens de diferentes Paróquias se uniram em gesto de solidariedade para limpar o templo.</br>
 </br>

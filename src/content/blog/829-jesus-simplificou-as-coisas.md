@@ -1,10 +1,10 @@
 ---
 title: "Jesus simplificou as coisas"
 date: 2022-04-28T01:04:00Z
-heroImage: "/images/simplificar as coisas.png"
+heroImage: "/images/posts/829-jesus-simplificou-as-coisas-simplificar_20as_20coisas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIi59zLmqiT90sFN7O5h4v54SHLnUyS7zZtLbZ7d4vfQkXNzWWzUVRoxXWqvzV3zWi8BQ8udLQks4UDm2KzNcHuzwwjySIxgFukWubxgyLXl-AtFLUVcxKt2uB9IenlY4y1YBkRNiWXJ6-Mjqz_n6WB-Yhhc1lZff2m3IsJOhaihdEwB-6tXNPc53/s222/simplificar%20as%20coisas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="222" height="214" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIi59zLmqiT90sFN7O5h4v54SHLnUyS7zZtLbZ7d4vfQkXNzWWzUVRoxXWqvzV3zWi8BQ8udLQks4UDm2KzNcHuzwwjySIxgFukWubxgyLXl-AtFLUVcxKt2uB9IenlY4y1YBkRNiWXJ6-Mjqz_n6WB-Yhhc1lZff2m3IsJOhaihdEwB-6tXNPc53/s1600/simplificar%20as%20coisas.png" width="222" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando chegou a plenitude dos tempos, Deus – todo mundo já
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/829-jesus-simplificou-as-coisas-simplificar_20as_20coisas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="222" height="214" src="/images/posts/829-jesus-simplificou-as-coisas-simplificar_20as_20coisas.png" width="222" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando chegou a plenitude dos tempos, Deus – todo mundo já
 sabe disso – enviou ao mundo seu filho unigênito para colocar ordem na
 humanidade e redireciona-la de volta para o rumo certo, que irá possibilitar a
 entrada no paraíso.<o:p></o:p></p><div class="separator" style="clear: both;">

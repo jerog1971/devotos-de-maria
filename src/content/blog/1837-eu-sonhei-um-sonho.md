@@ -1,10 +1,10 @@
 ---
 title: "Eu sonhei um sonho"
 date: 2023-03-07T21:12:00Z
-heroImage: "/images/sonho de criança.jpg"
+heroImage: "/images/posts/1837-eu-sonhei-um-sonho-sonho_20de_20crian_C3_A7a.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKhvjELl3geFoWqrLhgTyfSq8dwSWOZiPF5oXDUT-X4zpf34v6GB1nNS6tCOzX6nUWTdv9MklqcZRGeSGY9O0zEXDfK7_68_UqQIUTTUoousbMW1lb9S3Maum45nlZxNKbnBAN71-YWS2HgA1_DNt5TzbGrOhdHUfaSph_fIPFxBX4xZOFVFtS6bLB/s1632/sonho%20de%20crian%C3%A7a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKhvjELl3geFoWqrLhgTyfSq8dwSWOZiPF5oXDUT-X4zpf34v6GB1nNS6tCOzX6nUWTdv9MklqcZRGeSGY9O0zEXDfK7_68_UqQIUTTUoousbMW1lb9S3Maum45nlZxNKbnBAN71-YWS2HgA1_DNt5TzbGrOhdHUfaSph_fIPFxBX4xZOFVFtS6bLB/s320/sonho%20de%20crian%C3%A7a.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida é repleta de sonhos; bons, ruins, sonhos que sonhamos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1837-eu-sonhei-um-sonho-sonho_20de_20crian_C3_A7a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/1837-eu-sonhei-um-sonho-sonho_20de_20crian_C3_A7a.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida é repleta de sonhos; bons, ruins, sonhos que sonhamos
 enquanto dormimos e sonhos que sonhamos acordados. Sobre estes, podemos
 refletir um pouco, pois, podem não passar disso, sendo apenas como um desejo
 que o vento pode levar de nossas mentes, ou então, pode amadurecer muito, tornando-se

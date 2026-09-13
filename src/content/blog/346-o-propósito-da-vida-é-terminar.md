@@ -1,10 +1,10 @@
 ---
 title: "O propósito da vida é terminar"
 date: 2020-11-13T13:57:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/346-o-propósito-da-vida-é-terminar-fim_da_vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwMC2zNUWNG8k8FszTZ0d0QXN1bHEr1Gg4y7NMOdCiEIECUJu1HUjSq3NsuqKqAGd1CksZDi1EtzXWmvBlaQCGP5jiKXhr1tyNMkV6m1Xxcmjfit3keqocL098guiW5GtOacLvcthQzik/s447/fim+da+vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="447" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwMC2zNUWNG8k8FszTZ0d0QXN1bHEr1Gg4y7NMOdCiEIECUJu1HUjSq3NsuqKqAGd1CksZDi1EtzXWmvBlaQCGP5jiKXhr1tyNMkV6m1Xxcmjfit3keqocL098guiW5GtOacLvcthQzik/s320/fim+da+vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que nos é palpável é a experiência que temos sobre a realidade
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/346-o-propósito-da-vida-é-terminar-fim_da_vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="447" src="/images/posts/346-o-propósito-da-vida-é-terminar-fim_da_vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que nos é palpável é a experiência que temos sobre a realidade
 que nos cerca. Apesar das sagradas escrituras e a tradição cristã atestarem uma
 situação diferente em termos da vindoura transformação de nossos corpos em
 corpos gloriosos para o gozo das felicidades eternas nas moradas celestes

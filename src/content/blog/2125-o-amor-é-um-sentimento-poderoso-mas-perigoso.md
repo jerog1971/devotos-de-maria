@@ -1,10 +1,10 @@
 ---
 title: "O amor é um sentimento poderoso, mas perigoso"
 date: 2021-12-30T15:24:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2125-o-amor-é-um-sentimento-poderoso-mas-img-1257350713.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhDy5RzIJiaf52fKIvfsq5Rfl_ByGXQzMe3h-xIJWlvCxsjdkRZRlmbka2EmEpTdqnb7gh4aksoOB2MpF9ibCibUDj-12_rJJGkxKqFvEc571-PDPTDwCGqWCUHOvePsnoLfRh8JVv7rcGsa2zr1PC3r8Xddn4KIpYqyf2kexe1H8eB_3ljwBO7CUou=s474" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="445" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEhDy5RzIJiaf52fKIvfsq5Rfl_ByGXQzMe3h-xIJWlvCxsjdkRZRlmbka2EmEpTdqnb7gh4aksoOB2MpF9ibCibUDj-12_rJJGkxKqFvEc571-PDPTDwCGqWCUHOvePsnoLfRh8JVv7rcGsa2zr1PC3r8Xddn4KIpYqyf2kexe1H8eB_3ljwBO7CUou=s320" width="300" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto a isso não deve restar dúvida alguma; pois, ouvimos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2125-o-amor-é-um-sentimento-poderoso-mas-img-1257350713.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="445" height="320" src="/images/posts/2125-o-amor-é-um-sentimento-poderoso-mas-img-1257349593.jpg" width="300" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto a isso não deve restar dúvida alguma; pois, ouvimos
 da boca do próprio Cristo uma fala relacionada diretamente a isso: “Ninguém tem
 maior amor do que aquele que dá a sua vida por seus amigos” – João 15,13.
 Ademais, também Jesus Cristo, dizendo aos apóstolos que não os chamava mais de

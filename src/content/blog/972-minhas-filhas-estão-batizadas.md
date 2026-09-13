@@ -1,10 +1,10 @@
 ---
 title: "Minhas filhas estão batizadas"
 date: 2016-05-30T15:48:00.002Z
-heroImage: "/images/Sofia.png"
+heroImage: "/images/posts/972-minhas-filhas-estão-batizadas-Sofia_Chuca.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87S_8Oqj37IBTrLsqVfJ_h-GXsyjCk992Xawrtwvtcx8A-9Fw-deEBmbg6_C74jbSQa8Ndsqv1oK_hKeqayryljNE3asRyO2kzPINMAFnY3lEp5SB4cGolI4H6u8_KROE_Cum6LABrAo/s1600/Sofia+Chuca.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87S_8Oqj37IBTrLsqVfJ_h-GXsyjCk992Xawrtwvtcx8A-9Fw-deEBmbg6_C74jbSQa8Ndsqv1oK_hKeqayryljNE3asRyO2kzPINMAFnY3lEp5SB4cGolI4H6u8_KROE_Cum6LABrAo/s320/Sofia+Chuca.jpg" width="320" height="307" data-original-width="356" data-original-height="341" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/972-minhas-filhas-estão-batizadas-Sofia_Chuca.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/972-minhas-filhas-estão-batizadas-Sofia_Chuca.jpg" width="320" height="307" data-original-width="356" data-original-height="341" /></a></div>
 Na época do povo judeu, antes da vinda de Jesus, quando completados 8 dias, os pais da criança recém-nascida levavam o bebê ao templo para a cerimônia da circuncisão, cujo ritual concedia o ingresso e a pertença desta ao povo de Deus. Nenhum pai cogitava esperar a criança crescer para que ela decidisse por si se queria fazer parte deste povo de Deus. Pela fé no Deus de Abraão os pais imediatamente presenteavam seus filhos com aquilo que de mais precioso tinham na vida: Deus.</br>
 </br>
 No tempo da plenitude, o enviado do Pai, nosso Senhor Jesus Cristo, que não veio para abolir a lei, mas para torna-la perfeita (Mateus 5,17), confere a todos nós no alto da cruz, o sacramento do batismo que após sua ressureição mandatou essa realidade a todos (Mateus 28,19). Então, nos primeiros passos da igreja fundada por Jesus sobre a profissão de fé de Pedro, vemos no livro de Atos dos Apóstolos que, à medida que alguém se convertia, era batizado ele e toda a sua família (Atos 16,15,31,33).</br>

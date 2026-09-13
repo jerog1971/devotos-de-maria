@@ -1,10 +1,10 @@
 ---
 title: "Ensinar e fazer"
 date: 2022-08-16T16:50:00.005Z
-heroImage: "/images/ensinar e fazer.png"
+heroImage: "/images/posts/378-ensinar-e-fazer-ensinar_20e_20fazer.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Cn974jWG7hdCig35xZDhycT0ICW-Yhx_XJo2QBgcDcoy-Em3eSt4juh_2towUNVlXW0sUclwF0RjohVIFoLG1YiXnALvlBtCMk216RmK1d6zAaBZlsRUi7hpH7wGtBDcKRX_DFEDSktrI6OHeTPwKmnMXjSAb5qUpwjnPCrUwhGKwhUlWsyJYOrU/s689/ensinar%20e%20fazer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="590" data-original-width="689" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Cn974jWG7hdCig35xZDhycT0ICW-Yhx_XJo2QBgcDcoy-Em3eSt4juh_2towUNVlXW0sUclwF0RjohVIFoLG1YiXnALvlBtCMk216RmK1d6zAaBZlsRUi7hpH7wGtBDcKRX_DFEDSktrI6OHeTPwKmnMXjSAb5qUpwjnPCrUwhGKwhUlWsyJYOrU/s320/ensinar%20e%20fazer.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo era uma pessoa que durante sua passagem pela
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/378-ensinar-e-fazer-ensinar_20e_20fazer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="590" data-original-width="689" height="274" src="/images/posts/378-ensinar-e-fazer-ensinar_20e_20fazer.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo era uma pessoa que durante sua passagem pela
 terra ensinava com autoridade (Mateus 7,28). Falava e mostrava como fazer, dava
 exemplos. O ressuscitado não ficava apenas na teoria, muitas de suas atitudes,
 constantemente criticadas, eram sempre exemplos de como devíamos e ainda devemos

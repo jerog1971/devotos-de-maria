@@ -1,10 +1,10 @@
 ---
 title: "Deus e a distinção de pessoas"
 date: 2021-10-21T00:58:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/777-deus-e-a-distinção-de-pessoas-img-1255676371.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-EfVbpniVl_tst7y8rLhFIX-QpyHKHMf67hqkK6F_Og_IFe-Nm-HNR5gB7wlaTRCVLnfuekfhwHxT1vkb3dwoFAVKaIGAt6VmRqeDgALZRlYf9Lw8mQbhGpvqKyInVadZyfzlqkzM6o/s294/distin%25C3%25A7%25C3%25A3o+de+pessoas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="294" height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-EfVbpniVl_tst7y8rLhFIX-QpyHKHMf67hqkK6F_Og_IFe-Nm-HNR5gB7wlaTRCVLnfuekfhwHxT1vkb3dwoFAVKaIGAt6VmRqeDgALZRlYf9Lw8mQbhGpvqKyInVadZyfzlqkzM6o/s0/distin%25C3%25A7%25C3%25A3o+de+pessoas.png" width="294" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas pessoas são facilmente ludibriadas pelo demônio – que
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/777-deus-e-a-distinção-de-pessoas-img-1255676371.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="294" height="294" src="/images/posts/777-deus-e-a-distinção-de-pessoas-img-1987728554.png" width="294" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas pessoas são facilmente ludibriadas pelo demônio – que
 conhece muito bem as escrituras – quando são convencidas a aderir, praticar e
 ensinar o mal assim que aceitam a expressão, vinda diretamente do inimigo de que
 Deus não faz distinção de pessoas. Não importa o que você faz, como pense, no

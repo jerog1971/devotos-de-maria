@@ -1,10 +1,10 @@
 ---
 title: "Estamos na iminência"
 date: 2022-07-01T18:50:00.005Z
-heroImage: "/images/estamos na iminência.png"
+heroImage: "/images/posts/1631-estamos-na-iminência-estamos_20na_20imin_C3_AAncia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyqt3032WLVjG2ZeiiJm4jm0z2p38BoxvuegAgO6lZa4x3fAyDW986kAVqqU-c1BQC2EweJULIW2PDfeENIngNBxVUzLr9kTBlw4hJssl1do3e9VF2nHLiOmPJ0HYgH1OMHaXZhPHY0RoxAXi6zyiAj2m1eZxvajXy1lJ5PEIcNT8Ug9t3fpcfgYQH/s507/estamos%20na%20imin%C3%AAncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="380" data-original-width="507" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyqt3032WLVjG2ZeiiJm4jm0z2p38BoxvuegAgO6lZa4x3fAyDW986kAVqqU-c1BQC2EweJULIW2PDfeENIngNBxVUzLr9kTBlw4hJssl1do3e9VF2nHLiOmPJ0HYgH1OMHaXZhPHY0RoxAXi6zyiAj2m1eZxvajXy1lJ5PEIcNT8Ug9t3fpcfgYQH/s320/estamos%20na%20imin%C3%AAncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é o que parece aos filhos de Deus, legítimos, que quando
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1631-estamos-na-iminência-estamos_20na_20imin_C3_AAncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="380" data-original-width="507" height="240" src="/images/posts/1631-estamos-na-iminência-estamos_20na_20imin_C3_AAncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é o que parece aos filhos de Deus, legítimos, que quando
 dizem que o amam seguem tudo aquilo que ele prescreve? Sim, porque não é
 possível dizer que o amamos se não nos comportamos como seus filhos. A
 humanidade desde sempre, leia-se desde os tempos bíblicos, para colocarmos uma

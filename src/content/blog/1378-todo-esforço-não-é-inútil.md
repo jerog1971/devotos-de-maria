@@ -1,10 +1,10 @@
 ---
 title: "Todo Esforço não é Inútil"
 date: 2020-03-30T15:40:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1378-todo-esforço-não-é-inútil-esfor_25C3_25A7o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQW2ohIaatIQrSLlOSAhmQ_noeLn0FK23zP9o9p5uDgpL25sFRTfEcaHLsjp9WnAanPLGhEWqxOttq4XzODvhNSbi12j-22043jq96Rj9S4tEcg2ozPAl4xK-fdkMBccVX-pJzmOAN2mU/s1600/esfor%25C3%25A7o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQW2ohIaatIQrSLlOSAhmQ_noeLn0FK23zP9o9p5uDgpL25sFRTfEcaHLsjp9WnAanPLGhEWqxOttq4XzODvhNSbi12j-22043jq96Rj9S4tEcg2ozPAl4xK-fdkMBccVX-pJzmOAN2mU/s320/esfor%25C3%25A7o.png" width="320" height="245" data-original-width="318" data-original-height="243" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1378-todo-esforço-não-é-inútil-esfor_25C3_25A7o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1378-todo-esforço-não-é-inútil-esfor_25C3_25A7o.png" width="320" height="245" data-original-width="318" data-original-height="243" /></a></div>
 Nós sabemos por experiência própria que muitos aspectos de nossas vidas requerem uma dose de dedicação e empenho para que alguma coisa ou algo venha a contento. Quanto mais dedicação de nossa parte, quanto mais empenho colocamos naquilo que queremos realizar, agindo dessa maneira estamos elevando a possibilidade de sucesso nesta empreitada. Mas, ao analisarmos com um pouco de cuidado a questão podemos refletir com cautela no que implica este zelo pelas coisas.</br>
 </br>
 Na área da informática, para ilustrar com um pequeno exemplo, se diz que existem dois tipos de equipamento denominado “servidor”. Um, é o servidor não dedicado, que desempenha seu papel, mas, além disso, executa outras atividades em paralelo. O outro, é o servidor dedicado, que como o nome bem sugere, é o servidor que executa só e exclusivamente as atividades a ele designadas. Tanto um quanto o outro são plenamente capazes de exercer aquilo para o qual o seu propósito os criou mas, é fácil de se perceber, que um deles requer um maior esforço, porque além das suas funções executa atividades paralelas.</br>

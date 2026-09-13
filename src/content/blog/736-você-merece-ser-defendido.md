@@ -1,10 +1,10 @@
 ---
 title: "Você merece ser defendido?"
 date: 2019-02-14T15:38:00Z
-heroImage: "/images/ser_defendido.png"
+heroImage: "/images/posts/736-você-merece-ser-defendido-ser_defendido.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFCNTKCNjdFLbi0t1ytfFfQ2uu3lhcbWdX90MzbEyDdXLScn3YpD02-S7BkAx52ZrtSZ2bfSkao9sMAvp3vQshfnI6MIXbPaGr4PvedJ17vwJMylE45QhqdTCYXtQS_fFSy2gUrWXid8/s1600/ser_defendido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFCNTKCNjdFLbi0t1ytfFfQ2uu3lhcbWdX90MzbEyDdXLScn3YpD02-S7BkAx52ZrtSZ2bfSkao9sMAvp3vQshfnI6MIXbPaGr4PvedJ17vwJMylE45QhqdTCYXtQS_fFSy2gUrWXid8/s320/ser_defendido.png" width="320" height="309" data-original-width="454" data-original-height="439" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/736-você-merece-ser-defendido-ser_defendido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/736-você-merece-ser-defendido-ser_defendido.png" width="320" height="309" data-original-width="454" data-original-height="439" /></a></div>
 Eis aí, caro leitor, uma pergunta delicadíssima de ser respondida. Ela passa pelo nosso julgamento, pelo julgamento do próximo e pelo julgamento de Deus, na pessoa do verbo encarnado.</br>
 </br>
 Nosso julgamento pode ser sincero e honesto (julgamento esperado por Deus) ou pode ser inapropriado porque apresenta tendência de ser parcial, pendendo ao nosso favor. Consiste naquela pessoa que fica se dando tapinha nas costas parabenizando-se por tudo.</br>

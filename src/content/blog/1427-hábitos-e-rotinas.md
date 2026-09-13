@@ -1,10 +1,10 @@
 ---
 title: "Hábitos e rotinas"
 date: 2022-08-05T15:38:00.001Z
-heroImage: "/images/hábitos e rotinas.png"
+heroImage: "/images/posts/1427-hábitos-e-rotinas-h_C3_A1bitos_20e_20rotinas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR76SZ47nngJ0G1x-WN-qS1C9gMdU3nam-w9cfl3q0cKJ8jEPF6lX5MtTkASrWfN0ay8CJV7CYXgaaMU3YIm1eR-mlPpSUPbUfHf_hCeUkBs0rMbUdxxx_Vf5i4RtFdYKPEK2RwCHl5BcQ6jqo15ySGBs80S7m66pWJAJ-sYiv5rmei9ZNYjS_DQqP/s722/h%C3%A1bitos%20e%20rotinas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="623" data-original-width="722" height="276" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR76SZ47nngJ0G1x-WN-qS1C9gMdU3nam-w9cfl3q0cKJ8jEPF6lX5MtTkASrWfN0ay8CJV7CYXgaaMU3YIm1eR-mlPpSUPbUfHf_hCeUkBs0rMbUdxxx_Vf5i4RtFdYKPEK2RwCHl5BcQ6jqo15ySGBs80S7m66pWJAJ-sYiv5rmei9ZNYjS_DQqP/s320/h%C3%A1bitos%20e%20rotinas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano é ‘craque’, craque em reclamar das coisas, de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1427-hábitos-e-rotinas-h_C3_A1bitos_20e_20rotinas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="623" data-original-width="722" height="276" src="/images/posts/1427-hábitos-e-rotinas-h_C3_A1bitos_20e_20rotinas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano é ‘craque’, craque em reclamar das coisas, de
 tudo e de todos. Ai isso, ai aquilo, ai aquele outro; não adianta, é
 especialista na arte de complicar o que por Deus, embora não pareça, foi simplificado.
 Realmente não parece mesmo! Quem sabe nem seja tão simples, já que sua santa

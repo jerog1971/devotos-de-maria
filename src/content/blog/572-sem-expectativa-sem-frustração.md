@@ -1,10 +1,10 @@
 ---
 title: "Sem expectativa, sem frustração"
 date: 2021-10-10T16:08:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/572-sem-expectativa-sem-frustração-img-1890236211.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTdbQTZHTtKB7Eu9C4EKwGVdiQiZ98pxfPRTFen8dcZw_5AFqjApfKaJxqb49zPS_3OgXud6ZFVNLSdEuh76S7CzB8VwUBSJlMXCqKuA9ehruhOQ0H1qa063qFFQp7q9za2031XvanpW8/s377/Sem+expectativa%252C+sem+frustra%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="377" height="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTdbQTZHTtKB7Eu9C4EKwGVdiQiZ98pxfPRTFen8dcZw_5AFqjApfKaJxqb49zPS_3OgXud6ZFVNLSdEuh76S7CzB8VwUBSJlMXCqKuA9ehruhOQ0H1qa063qFFQp7q9za2031XvanpW8/s320/Sem+expectativa%252C+sem+frustra%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe uma linha de pensamento e filosofia de vida que prega
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/572-sem-expectativa-sem-frustração-img-1890236211.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="377" height="270" src="/images/posts/572-sem-expectativa-sem-frustração-img-62277973.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe uma linha de pensamento e filosofia de vida que prega
 que se você não gera expectativa sobre as coisas não corre o risco de passar
 por alguma frustração. Esse estilo defende a ideia de que se pode evitar
 dissabores na vida não alimentando desejos que poderão não se realizar. De

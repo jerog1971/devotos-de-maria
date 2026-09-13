@@ -1,10 +1,10 @@
 ---
 title: "Deus não destrói famílias"
 date: 2018-07-29T18:20:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/037-deus-não-destrói-famílias-fam_25C3_25ADlia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFfbz786KkFbpMzcoyCQC63Tg9pplHvMsxBOdcSKLCJ-voJJ-GNpqfikQkSxB7w7xLoCzSATPbNnpaMJHxq6l7jGx8C2B2_H7ExpDVZdfh7emoDJdgCI7Lfn3wkNJMWcjvUrb5SYD13A/s1600/fam%25C3%25ADlia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFfbz786KkFbpMzcoyCQC63Tg9pplHvMsxBOdcSKLCJ-voJJ-GNpqfikQkSxB7w7xLoCzSATPbNnpaMJHxq6l7jGx8C2B2_H7ExpDVZdfh7emoDJdgCI7Lfn3wkNJMWcjvUrb5SYD13A/s320/fam%25C3%25ADlia.png" width="320" height="200" data-original-width="800" data-original-height="500" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/037-deus-não-destrói-famílias-fam_25C3_25ADlia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/037-deus-não-destrói-famílias-fam_25C3_25ADlia.png" width="320" height="200" data-original-width="800" data-original-height="500" /></a></div>
 Certa vez uma mulher cristã de uma denominação não católica disse que ao procurar o pastor da igreja a qual ela fazia parte pedindo sua direção espiritual, após explicar-lhe o motivo seguiu-se o desfecho da conversa:</br>
 </br>
 Mulher: Pastor, preciso de ajuda, descobri que meu casamento corre perigo porque meu marido está me traindo com outra mulher já há algum tempo.</br>

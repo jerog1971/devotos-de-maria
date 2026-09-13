@@ -1,10 +1,10 @@
 ---
 title: "Pela Família"
 date: 2022-09-12T19:06:00.003Z
-heroImage: "/images/Ela.jpg"
+heroImage: "/images/posts/1437-pela-família-pela_20familia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkFoAUyxr-xd4GdA1GDPyuUNnO4A4ieoZb3MeGpz6_ESt-i_-jOyMiHuuONtjI2FJIC4Z5aRm6fELNYHRXKASOq96Sfe9e2p3JzKeUVIEKyxrAmLFB77S2zOf8yMOBiOWYhDQlQ4hF1-mj78tsxd8yg1PTpeJN4Xogssz3r9MuxcnUQ8rJI48vQurw/s978/pela%20familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="731" data-original-width="978" height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkFoAUyxr-xd4GdA1GDPyuUNnO4A4ieoZb3MeGpz6_ESt-i_-jOyMiHuuONtjI2FJIC4Z5aRm6fELNYHRXKASOq96Sfe9e2p3JzKeUVIEKyxrAmLFB77S2zOf8yMOBiOWYhDQlQ4hF1-mj78tsxd8yg1PTpeJN4Xogssz3r9MuxcnUQ8rJI48vQurw/s320/pela%20familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Passou a quinta temporada de Cobra Kai, grande sacada muito
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1437-pela-família-pela_20familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="731" data-original-width="978" height="239" src="/images/posts/1437-pela-família-pela_20familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Passou a quinta temporada de Cobra Kai, grande sacada muito
 bem produzida pela Netflix (opinião de quem vos escreve) que procurou com
 maestria colocar muitos temas familiares em pauta. Além do deslumbre em rever
 atores e atrizes de todas as épocas, desde os primeiros filmes, todo o arco que

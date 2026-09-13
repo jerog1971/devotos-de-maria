@@ -1,10 +1,10 @@
 ---
 title: "Detalhes da agonia de Jesus"
 date: 2025-12-18T13:35:00Z
-heroImage: "/images/Jesus.png"
+heroImage: "/images/posts/1472-detalhes-da-agonia-de-jesus-agonia_20de_20jesus.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_YGGV0lK1P37AlSx6-hFtGqNDoEIeQ32karFottZRRmg86QdzTpPu3LD5pkGDNkmL36CLZ7LUeWgtvyIKskSSL-ohYydjy2FB9kTzrTkeMDHl6I52AxfEv55bwU027A9kdGwDaeaMdobcv1AbRTo2BxjFfgpTebtlyq4DGIk2g7csTCB3tPYQBlsNlTw/s326/agonia%20de%20jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="262" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_YGGV0lK1P37AlSx6-hFtGqNDoEIeQ32karFottZRRmg86QdzTpPu3LD5pkGDNkmL36CLZ7LUeWgtvyIKskSSL-ohYydjy2FB9kTzrTkeMDHl6I52AxfEv55bwU027A9kdGwDaeaMdobcv1AbRTo2BxjFfgpTebtlyq4DGIk2g7csTCB3tPYQBlsNlTw/s320/agonia%20de%20jesus.png" width="257" /></a></div>“Chegada a hora da Paixão de meu Filho, seus inimigos o prenderam 
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1472-detalhes-da-agonia-de-jesus-agonia_20de_20jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="262" height="320" src="/images/posts/1472-detalhes-da-agonia-de-jesus-agonia_20de_20jesus.png" width="257" /></a></div>“Chegada a hora da Paixão de meu Filho, seus inimigos o prenderam 
 dando-lhe golpes em seu pescoço e em seu rosto e, cuspindo nele, o 
 escarneciam. Além de o despirem, prenderam suas mãos em uma coluna 
 atando-as sem misericórdia e, assim, se encontrando com esta sorte, nu 

@@ -1,10 +1,10 @@
 ---
 title: "Alegrai-vos e exultai"
 date: 2018-03-09T15:42:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/532-alegrai-vos-e-exultai-serm_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s1600/serm%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s320/serm%25C3%25A3o.png" width="320" height="299" data-original-width="553" data-original-height="516" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/532-alegrai-vos-e-exultai-serm_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/532-alegrai-vos-e-exultai-serm_25C3_25A3o.png" width="320" height="299" data-original-width="553" data-original-height="516" /></a></div>
 Mateus 5,11-12 – “Bem-aventurados sereis quando vos caluniarem, quando vos perseguirem e disserem falsamente todo o mal contra vós por causa de mim. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus, pois assim perseguiram os profetas que vieram antes de vós.”</br>
 </br>
 Caros leitores deste site, todo católico que se preza sabe que não existe facilidade nenhuma em seguir Jesus e professar uma fé no unigênito de Deus. Basta uma rápida passada pela história cristã para nos darmos conta da numerosa quantidade de pessoas que em vida passaram por grandes sofrimentos e tantas delas chegaram ao martírio. No livro das revelações, aprendemos que aqueles que vieram da grande tribulação e alvejaram suas vestes no Sangue do Cordeiro aguardam que se complete o número dos eleitos. São Pedro nos disse que o justo se salva com dificuldade e em Atos dos Apóstolos lemos que foi com grande alegria que os apóstolos passaram pelos sofrimentos por causa de Jesus.</br>

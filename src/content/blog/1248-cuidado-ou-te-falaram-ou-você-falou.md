@@ -1,10 +1,10 @@
 ---
 title: "Cuidado, ou te falaram ou você falou"
 date: 2016-05-20T14:21:00Z
-heroImage: "/images/analise.png"
+heroImage: "/images/posts/1248-cuidado-ou-te-falaram-ou-você-falou-analise.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZa3qEhDvefUOwrN-PCkbyfIzadxzV-Wx8hBDwCGFSH0siSG1_WpD3rgrKTkYqkkJ2LGjXJfRn-wUWDGCZSMy2vcKzTKxZgnBvOjyHYT_s_bYxJedRr6OEyGapW2QPebgxZrLrA24CoJQ/s1600/analise.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZa3qEhDvefUOwrN-PCkbyfIzadxzV-Wx8hBDwCGFSH0siSG1_WpD3rgrKTkYqkkJ2LGjXJfRn-wUWDGCZSMy2vcKzTKxZgnBvOjyHYT_s_bYxJedRr6OEyGapW2QPebgxZrLrA24CoJQ/s320/analise.png" width="320" height="318" data-original-width="421" data-original-height="418" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1248-cuidado-ou-te-falaram-ou-você-falou-analise.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1248-cuidado-ou-te-falaram-ou-você-falou-analise.png" width="320" height="318" data-original-width="421" data-original-height="418" /></a></div>
 1- Quanto mais você reza, pior você fica.</br>
 2- Quanto mais o tempo passa, pior a convivência com você.</br>
 3- Se agora você é assim, quando ficar velho então...</br>

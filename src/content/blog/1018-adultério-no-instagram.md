@@ -1,10 +1,10 @@
 ---
 title: "Adultério no instagram"
 date: 2016-08-25T13:40:00Z
-heroImage: "/images/instagram.png"
+heroImage: "/images/posts/1018-adultério-no-instagram-instagram.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlan9qjR3E0zSzbaR6K6BTIR1MptZQKdenYWpxENyqtRJuZC7SENzO7QTLL4ArVD-8uOarmZVqiwH-lrjH9PJxZzrLAbET0EdK7sTVdqGyrMPhf1oHHhdszFHocfQoQdmC8SKPaOCdEJU/s1600/instagram.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlan9qjR3E0zSzbaR6K6BTIR1MptZQKdenYWpxENyqtRJuZC7SENzO7QTLL4ArVD-8uOarmZVqiwH-lrjH9PJxZzrLAbET0EdK7sTVdqGyrMPhf1oHHhdszFHocfQoQdmC8SKPaOCdEJU/s320/instagram.png" width="320" height="301" data-original-width="491" data-original-height="462" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1018-adultério-no-instagram-instagram.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1018-adultério-no-instagram-instagram.png" width="320" height="301" data-original-width="491" data-original-height="462" /></a></div>
 Mateus 5,26-27 – “Ouvistes que foi dito aos antigos: Não cometerás adultério. Eu, porém, vos digo: todo aquele que lançar um olhar de cobiça para uma mulher, já adulterou com ela em seu coração”. Pois bem caros leitores, Jesus, que não veio para abolir a lei mas leva-la à perfeição (Mateus 5,17), não poderia ser mais direto. A exigência do amor de Deus é tamanha, que para alcançarmos a estatura de Cristo no caminho de nossa santificação, precisamos ter um olhar sobrenatural sobre todas as criações de Deus. Um olhar como o de Jesus.</br>
 </br>
 Toda a nossa existência precisa ser santa (Mateus 5,48), e para isso é preciso também a colaboração do corpo. Nossos sentidos, responsáveis pela nossa interação com o mundo e entre todos os seres viventes, são constantemente foco de investidas do mal com a finalidade de torna-los objetos de nossa queda. O inimigo sabe que a concupiscência existe em nossa natureza humana e pode ser alimentada pelos sentidos e pelas ofertas de prazeres terrenos associados a ganância e ao egoísmo. Por isso mesmo, podendo, o diabo mundaniza a beleza humana sugerindo aos distraídos e afastados de Deus, que pudor e modéstia são coisas do passado. Se você é belo ou bela, ganhe dinheiro com o seu corpo, que mal existe?</br>

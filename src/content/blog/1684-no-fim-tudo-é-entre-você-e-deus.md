@@ -1,10 +1,10 @@
 ---
 title: "No fim tudo é entre você e Deus"
 date: 2022-06-01T15:01:00.003Z
-heroImage: "/images/juiz.png"
+heroImage: "/images/posts/1684-no-fim-tudo-é-entre-você-e-deus-juiz.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYcLmKegvZ_WkWkz0MSQ495T2Ob49HGlcMDQJmXHgMa4Dq_wsAltR8xSzCPzdfWmW6ZYJdOMBNBydiKfVvqKHk2doVwnQp288bB5Y-8yo1qkKEq9QK5Z8ZfXscu78nrMoS8s4YHp8t2Gvz8wMMKlbPpdaj-ems3M1TTkW3KU0Y3fUL1qYv1ZGBlPC/s318/juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYcLmKegvZ_WkWkz0MSQ495T2Ob49HGlcMDQJmXHgMa4Dq_wsAltR8xSzCPzdfWmW6ZYJdOMBNBydiKfVvqKHk2doVwnQp288bB5Y-8yo1qkKEq9QK5Z8ZfXscu78nrMoS8s4YHp8t2Gvz8wMMKlbPpdaj-ems3M1TTkW3KU0Y3fUL1qYv1ZGBlPC/s1600/juiz.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim dizia Santa Tereza de Calcutá. Afinal, tudo começou
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1684-no-fim-tudo-é-entre-você-e-deus-juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="/images/posts/1684-no-fim-tudo-é-entre-você-e-deus-juiz.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim dizia Santa Tereza de Calcutá. Afinal, tudo começou
 com os dez mandamentos, que como consta, ainda estão valendo. Todavia, a
 humanidade, para “embolar” o meio de campo, e fala-se aqui da parcela da
 humanidade que não aceita, não entende ou faz de conta que não é com ela o que

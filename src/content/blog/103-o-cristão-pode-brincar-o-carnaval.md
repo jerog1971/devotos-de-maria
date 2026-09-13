@@ -1,10 +1,10 @@
 ---
 title: "O cristão pode \"brincar\" o carnaval?"
 date: 2018-02-10T16:30:00Z
-heroImage: "/images/carnaval.png"
+heroImage: "/images/posts/103-o-cristão-pode-brincar-o-carnaval-carnaval.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdfueKtmYFD25q0OSPjyTA_kbKCb0Q5xaHNZEXjeUW-ClN2oGNRTvAyc9LyVrdJcSk6SZ6frCsnbYUlu41AUo3dQccOG-mQ2rVDO4ent4shQTZWHT1NwpA-xgZw4ZDunoC_rw71CKsnl0/s1600/carnaval.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdfueKtmYFD25q0OSPjyTA_kbKCb0Q5xaHNZEXjeUW-ClN2oGNRTvAyc9LyVrdJcSk6SZ6frCsnbYUlu41AUo3dQccOG-mQ2rVDO4ent4shQTZWHT1NwpA-xgZw4ZDunoC_rw71CKsnl0/s320/carnaval.png" width="320" height="320" data-original-width="521" data-original-height="521" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/103-o-cristão-pode-brincar-o-carnaval-carnaval.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/103-o-cristão-pode-brincar-o-carnaval-carnaval.png" width="320" height="320" data-original-width="521" data-original-height="521" /></a></div>
 </br>
 O CRISTÃO PODE participar das festas do carnaval? Muitos o perguntam, todos os anos, e há muita confusão a respeito do assunto. A dificuldade está no fato de que a Igreja não tem uma prescrição oficial a respeito, ao menos não há documento que fale explicitamente, textualmente, do carnaval propriamente dito. Ou será que a realidade não é bem essa?</br>
 </br>
@@ -37,7 +37,7 @@ Adverte-nos, ainda, Sto. Afonso de Ligório:</br>
 </br>
 <h2>Sobre a festa do carnaval</h2></br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTb4f48nD54AaYI_0FCUI2wl_6M_Qt04FkEppxHQAqy8XO2cP587mprNBzG5JLIuzonCrnGKFkUW7Tq7QQjOjNY-fY6uL_jLra7yTxVH1O5yqjINM2-cOb5_HLZhqA35awUSmGVaGR9nY/s1600/festa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTb4f48nD54AaYI_0FCUI2wl_6M_Qt04FkEppxHQAqy8XO2cP587mprNBzG5JLIuzonCrnGKFkUW7Tq7QQjOjNY-fY6uL_jLra7yTxVH1O5yqjINM2-cOb5_HLZhqA35awUSmGVaGR9nY/s200/festa.png" width="200" height="128" data-original-width="812" data-original-height="519" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/103-o-cristão-pode-brincar-o-carnaval-festa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/103-o-cristão-pode-brincar-o-carnaval-festa.png" width="200" height="128" data-original-width="812" data-original-height="519" /></a></div>
 </br>
 Muitos imaginam que o carnaval tem origem brasileira, mas a festa existe desde a Antiguidade. De fato, não se conhece ao certo a origem do carnaval, assim como a origem do nome. Historicamente é uma festa popular coletiva, transmitida através dos séculos como herança de  antiquíssimas festas pagãs realizadas entre 17 de dezembro (Saturnais – em honra a deus Saturno, na mitologia grega) e 15 de fevereiro (Lupercais – em honra a deus Pã, na Roma Antiga).</br>
 </br>

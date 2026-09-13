@@ -1,10 +1,10 @@
 ---
 title: "Documento Christus Dominus – a respeito dos párocos"
 date: 2020-05-12T16:40:00.002Z
-heroImage: "/images/padres_dedicados.png"
+heroImage: "/images/posts/2175-documento-christus-dominus-a-respei-img-1895826834.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-OrATnilOybkt5sKmj0r7j490K__hJP3fBi0DufuLF11r9iywj-853vnkCrrnCXLbSFPONaCKdEaBADMAglfppNHr1LiKyFr1RF_gAivSzX9p2kx-09XU25MbkwU42E3huoCjGL9AgE/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="479" data-original-width="335" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-OrATnilOybkt5sKmj0r7j490K__hJP3fBi0DufuLF11r9iywj-853vnkCrrnCXLbSFPONaCKdEaBADMAglfppNHr1LiKyFr1RF_gAivSzX9p2kx-09XU25MbkwU42E3huoCjGL9AgE/s320/padres_dedicados.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">“Os principais colaboradores do Bispo são, todavia, os
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2175-documento-christus-dominus-a-respei-img-1895826834.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="479" data-original-width="335" height="320" src="/images/posts/2175-documento-christus-dominus-a-respei-img-1895826834.jpgs320/padres_dedicados.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">“Os principais colaboradores do Bispo são, todavia, os
 párocos, a quem, como pastores próprios, é confiada, sob a autoridade do Bispo,
 A CURA DE ALMAS numa parte determinada da diocese. <b style="mso-bidi-font-weight: normal;"><i style="mso-bidi-font-style: normal;">No desempenho desta cura de
 almas, os párocos, com os seus coadjutores, exerçam de tal maneira o seu

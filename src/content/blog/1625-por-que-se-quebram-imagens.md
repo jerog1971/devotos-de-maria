@@ -1,10 +1,10 @@
 ---
 title: "Por que se quebram imagens?"
 date: 2016-02-02T15:17:00.001Z
-heroImage: "/images/imagem_quebrada.png"
+heroImage: "/images/posts/1625-por-que-se-quebram-imagens-imagem_quebrada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXS0HsYuS2Fhsc2pn7MyLJQxkIF2rKdozt_l3_i9SOiPOStKjr0NkvymVgmR-AoQOtnhtIRc1dlNAmC6v80aQcXABR4ZhfKgc0EunZ0f09C56IKQeXB5msKJ_qAkbAIXUW3imWF3pn5lQ/s1600/imagem_quebrada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXS0HsYuS2Fhsc2pn7MyLJQxkIF2rKdozt_l3_i9SOiPOStKjr0NkvymVgmR-AoQOtnhtIRc1dlNAmC6v80aQcXABR4ZhfKgc0EunZ0f09C56IKQeXB5msKJ_qAkbAIXUW3imWF3pn5lQ/s320/imagem_quebrada.png" width="320" height="193" data-original-width="629" data-original-height="380" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1625-por-que-se-quebram-imagens-imagem_quebrada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1625-por-que-se-quebram-imagens-imagem_quebrada.png" width="320" height="193" data-original-width="629" data-original-height="380" /></a></div>
 </br>
 Meus amados irmãos e irmãs,a paz de Cristo e o amor de Maria esteja com todos nós!</br>
 </br>

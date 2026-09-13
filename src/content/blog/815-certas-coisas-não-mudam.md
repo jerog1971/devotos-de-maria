@@ -1,10 +1,10 @@
 ---
 title: "Certas coisas não mudam"
 date: 2020-02-02T03:30:00.002Z
-heroImage: "/images/alei.png"
+heroImage: "/images/posts/815-certas-coisas-não-mudam-alei.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOukGPFwgDWDluCpR8mei9yV8TRbMtW5cNSqyTIUl6VfX24CWRAAyKRWwAFJ_sBIALZAe0XXXXBDw-5a-mRMtpZ-pbhRTIvO9pASf7FvmuSO9TE9HWRI8f2jhWpqKecC1GossufWiqsiA/s1600/alei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOukGPFwgDWDluCpR8mei9yV8TRbMtW5cNSqyTIUl6VfX24CWRAAyKRWwAFJ_sBIALZAe0XXXXBDw-5a-mRMtpZ-pbhRTIvO9pASf7FvmuSO9TE9HWRI8f2jhWpqKecC1GossufWiqsiA/s320/alei.png" width="320" height="308" data-original-width="370" data-original-height="356" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/815-certas-coisas-não-mudam-alei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/815-certas-coisas-não-mudam-alei.png" width="320" height="308" data-original-width="370" data-original-height="356" /></a></div>
 É preciso se alimentar e ingerir água para se viver; também uma boa noite de sono e hábitos saudáveis de vida para que ela transcorra conforme a sua predestinação. Quando transgredimos a natureza das coisas pagamos um preço por isso. Sempre existe um preço, em tudo. Poderíamos aqui elencar listas e listas de causas e consequências. Fogo queima, não se meta com ele, coisas afiadas cortam, não se meta com elas, venenos matam, não se envolva com eles. Não dormir uma noite inteira prejudica o desempenho das atividades no dia seguinte. Comer certos alimentos em excesso acarretam doenças, drogas, bebidas e por aí vai. Isso tudo não é novidade para ninguém.</br>
 </br>
 Pois bem, se isso tudo não é novidade para ninguém por que é então que na parte espiritual de suas vidas as pessoas agem como se as coisas tivessem mudado? Por acaso o justíssimo Deus a cada geração, a cada século muda o critério de salvação? A cada século se torna mais fácil ser salvo? Ou mais difícil? O conjunto de “regras” é alterado de tempos em tempos? Há quem diga que sim, muitos homens pregam que isso ou aquilo não é mais pecado, onde já viu! Viva sua vida e seja feliz, dizem por aí! O que é que tem!</br>

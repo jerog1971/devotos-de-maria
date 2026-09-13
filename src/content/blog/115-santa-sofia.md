@@ -1,10 +1,10 @@
 ---
 title: "Santa Sofia"
 date: 2017-08-23T19:15:00Z
-heroImage: "/images/Sofia.png"
+heroImage: "/images/posts/115-santa-sofia-santa_sofia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT5HfVD2SFDQOxOru96TMJRBXbooEELqAI0W2m3AxlL4s4JLx866ZZRJptn2FA2RVTh3tLl7Rt7r-mW-jY4g8jO7qHPSt7nzI9CnnLt6450oJQg2St_lOo0e1tRLbrG2x_FcIdcdbjnM4/s1600/santa+sofia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT5HfVD2SFDQOxOru96TMJRBXbooEELqAI0W2m3AxlL4s4JLx866ZZRJptn2FA2RVTh3tLl7Rt7r-mW-jY4g8jO7qHPSt7nzI9CnnLt6450oJQg2St_lOo0e1tRLbrG2x_FcIdcdbjnM4/s320/santa+sofia.png" width="252" height="320" data-original-width="358" data-original-height="455" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/115-santa-sofia-santa_sofia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/115-santa-sofia-santa_sofia.png" width="252" height="320" data-original-width="358" data-original-height="455" /></a></div>
 </br>
 <b>Santa Sofia, protetora das mães, das viúvas e intercessora contra as doenças da pele</b>.</br>
 </br>

@@ -1,10 +1,10 @@
 ---
 title: "Ser amigo de Jesus"
 date: 2020-07-03T16:22:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2021-ser-amigo-de-jesus-img-1400611283.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHwqJWHi0McICybiIfwyKEC6wPU_Kfclju4unFERZGi29L4P8RXUgCWr2DMybeo563jLoaU74qoVSqDe9BucIS0yt22oZvZwq1YMy1cTFgbDohjeFD1NfeL2eewamoRweGjqHfNGzOUbY/s480/sagrado+cora%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="372" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHwqJWHi0McICybiIfwyKEC6wPU_Kfclju4unFERZGi29L4P8RXUgCWr2DMybeo563jLoaU74qoVSqDe9BucIS0yt22oZvZwq1YMy1cTFgbDohjeFD1NfeL2eewamoRweGjqHfNGzOUbY/s320/sagrado+cora%25C3%25A7%25C3%25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Quando Jesus está presente, tudo é suave e nada parece
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2021-ser-amigo-de-jesus-img-1400611283.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="372" height="320" src="/images/posts/2021-ser-amigo-de-jesus-img-1138241128.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Quando Jesus está presente, tudo é suave e nada parece
 dificultoso; mas, quando Jesus está ausente, tudo se torna penoso. Quando Jesus
 não fala ao coração, nenhuma consolação tem valor; mas se Jesus fala uma só
 palavra, sentimos grande alívio. Porventura não se levantou logo Maria Madalena

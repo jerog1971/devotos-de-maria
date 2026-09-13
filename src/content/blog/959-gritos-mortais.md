@@ -1,10 +1,10 @@
 ---
 title: "Gritos mortais"
 date: 2022-09-11T00:50:00Z
-heroImage: "/images/gritos mortais.png"
+heroImage: "/images/posts/959-gritos-mortais-gritos_20mortais.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6JK82Ra0hmybxx0WaceUn6sQcyhKpJuWA2fvxi8bZ0pngqPuvLzRHHNOuM0i4EQljjjCO-EZrRaID4SbEnjVkxVTEiPeIoyvPDe4IRrgaWVOi5BB8bmXBxWRIw0-imsNH5bRNwfmTY05-HjU48aTjtIAEagaWTYKJLYDVkLB79UVxtiUsfYO-atCU/s214/gritos%20mortais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="202" data-original-width="214" height="202" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6JK82Ra0hmybxx0WaceUn6sQcyhKpJuWA2fvxi8bZ0pngqPuvLzRHHNOuM0i4EQljjjCO-EZrRaID4SbEnjVkxVTEiPeIoyvPDe4IRrgaWVOi5BB8bmXBxWRIw0-imsNH5bRNwfmTY05-HjU48aTjtIAEagaWTYKJLYDVkLB79UVxtiUsfYO-atCU/s1600/gritos%20mortais.png" width="214" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos durante nossa caminhada que a vida é muito cheia
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/959-gritos-mortais-gritos_20mortais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="202" data-original-width="214" height="202" src="/images/posts/959-gritos-mortais-gritos_20mortais.png" width="214" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos durante nossa caminhada que a vida é muito cheia
 de temperos. Alguns gostamos e outros não. Não sabemos qual é a dose que cada
 pessoa recebe; isso é com Deus e não nos cabe a esse respeito tomarmos qualquer
 conhecimento, tampouco julgar Deus por conta da distribuição que ele faz das

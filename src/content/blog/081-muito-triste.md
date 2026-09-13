@@ -1,10 +1,10 @@
 ---
 title: "Muito triste"
 date: 2024-07-26T19:07:00.005Z
-heroImage: "/images/muito triste.png"
+heroImage: "/images/posts/081-muito-triste-muito_20triste.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg7Uwr9__fAlXswvRgxCt4Ytra8dIRqJYm-yszURbQkf5VgC6qCYHB3aAzta23FaTU3R-Eoqw0xIQ8WKO40eAu-PrIlc6jVSdgm3k9Hl5mDFh8IHNl6LvIU6nTJzTDuUE5KXaxExbfxrWr5Pw6NjYM4vl0MsDYNinBDw68eREb_fALaWW9hnWAa-6ZW0k/s449/muito%20triste.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="449" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg7Uwr9__fAlXswvRgxCt4Ytra8dIRqJYm-yszURbQkf5VgC6qCYHB3aAzta23FaTU3R-Eoqw0xIQ8WKO40eAu-PrIlc6jVSdgm3k9Hl5mDFh8IHNl6LvIU6nTJzTDuUE5KXaxExbfxrWr5Pw6NjYM4vl0MsDYNinBDw68eREb_fALaWW9hnWAa-6ZW0k/s320/muito%20triste.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“E o jovem foi embora muito triste porque tinha muitos bens”.
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/081-muito-triste-muito_20triste.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="449" height="314" src="/images/posts/081-muito-triste-muito_20triste.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“E o jovem foi embora muito triste porque tinha muitos bens”.
 Essa é uma das narrativas do evangelho. Onde a felicidade se esvai por conta de
 necessidades maiores na vida. Na explicação bíblica que Jesus apresentou, na
 busca por mais conhecimento e comprovações de suas certezas, o não nominado

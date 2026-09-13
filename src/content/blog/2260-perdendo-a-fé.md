@@ -1,10 +1,10 @@
 ---
 title: "Perdendo a fé"
 date: 2018-12-18T18:13:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2260-perdendo-a-fé-perdendo_a_f_25C3_25A9.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDnQrshtXBuo_DoD9yYEdiMo5IrbopjxpE7bA-NVt6L1K32-qRJJcY4nPskiNDmoKt6CG6S25_7vuRi-NejgeT6d63MSGhVQbS9hiiKcEZgED7SG6CD2VayCWLmd4BTKbAH0jpZ95lnY/s1600/perdendo_a_f%25C3%25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDnQrshtXBuo_DoD9yYEdiMo5IrbopjxpE7bA-NVt6L1K32-qRJJcY4nPskiNDmoKt6CG6S25_7vuRi-NejgeT6d63MSGhVQbS9hiiKcEZgED7SG6CD2VayCWLmd4BTKbAH0jpZ95lnY/s320/perdendo_a_f%25C3%25A9.png" width="320" height="313" data-original-width="355" data-original-height="347" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2260-perdendo-a-fé-perdendo_a_f_25C3_25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2260-perdendo-a-fé-perdendo_a_f_25C3_25A9.png" width="320" height="313" data-original-width="355" data-original-height="347" /></a></div>
 Caros leitores, no site fórum.politz colhemos uma sequência de depoimentos de uma pessoa que “cansou-se” de Deus e caminha assumidamente para a perda da sua fé. Como é possível que os que passem por este artigo estejam da mesma forma, possivelmente passando por algo parecido, resolvi transcrever a sequência para registro e reflexão.</br>
 </br>
 “Não tenho raiva de Deus. Entretanto, depois de ver que esse mundo é um lixo e que as orações nunca são respondidas estou quase abandonando o cristianismo de vez. Eu fico pensando, se Deus não responde a oração de um cara cego que quer voltar a enxergar, por que vai responder minhas orações que são problemas bem menores (mas que ainda assim me deixam infeliz)?

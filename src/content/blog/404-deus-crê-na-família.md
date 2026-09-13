@@ -1,10 +1,10 @@
 ---
 title: "Deus crê na família"
 date: 2020-10-26T15:29:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/404-deus-crê-na-família-m_25C3_25A3e_e_filha.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZBW-lI-bokrdfo932d2gjDwXzF7JDYEy1b7MhAfJwKakgCtmBUfm0xLQaWTsZyahj9vsSsSHKq6aZS51QgkQloQvBUESSC4tWuZXUPniUf7pmTOBqyS6MZ21KO3HZMfr8A-NF67W4fbs/s1175/m%25C3%25A3e+e+filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1175" data-original-width="1077" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZBW-lI-bokrdfo932d2gjDwXzF7JDYEy1b7MhAfJwKakgCtmBUfm0xLQaWTsZyahj9vsSsSHKq6aZS51QgkQloQvBUESSC4tWuZXUPniUf7pmTOBqyS6MZ21KO3HZMfr8A-NF67W4fbs/s320/m%25C3%25A3e+e+filha.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E não foi um pensamento que depois ele colocou em prática e
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/404-deus-crê-na-família-m_25C3_25A3e_e_filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1175" data-original-width="1077" height="320" src="/images/posts/404-deus-crê-na-família-m_25C3_25A3e_e_filha.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E não foi um pensamento que depois ele colocou em prática e
 percebeu que não funciona, que não dá certo. Em seu projeto de criação do ser
 humano ele concebeu homem (pai), mulher (mãe) e ordenou que procriassem
 (filhos): eis a constituição divina denominada de família. A família conforme o

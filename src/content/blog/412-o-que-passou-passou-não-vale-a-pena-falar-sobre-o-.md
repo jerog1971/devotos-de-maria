@@ -1,10 +1,10 @@
 ---
 title: "O que passou, passou. Não vale a pena falar sobre o ocorrido."
 date: 2020-02-21T20:05:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/412-o-que-passou-passou-não-vale-a-pena--confiss_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihBCk7JvNfEjRN34CiLner2vmBkXAJLDSrd-1Hm271U_kCEyVgpFMjV30D9gf5VswDFEsnTq7UAwl7wwxn70r_UOlEvmu8hiN1zwcqeZzTUPU6UznTc6HndIZo2NLjYKUtaFj8kkeMQA8/s1600/confiss%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihBCk7JvNfEjRN34CiLner2vmBkXAJLDSrd-1Hm271U_kCEyVgpFMjV30D9gf5VswDFEsnTq7UAwl7wwxn70r_UOlEvmu8hiN1zwcqeZzTUPU6UznTc6HndIZo2NLjYKUtaFj8kkeMQA8/s320/confiss%25C3%25A3o.png" width="320" height="204" data-original-width="610" data-original-height="388" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/412-o-que-passou-passou-não-vale-a-pena--confiss_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/412-o-que-passou-passou-não-vale-a-pena--confiss_25C3_25A3o.png" width="320" height="204" data-original-width="610" data-original-height="388" /></a></div>
 Isso é uma questão de confiar na misericórdia de Deus. Se cometemos nossos erros e nos arrependemos verdadeiramente, então cremos que nosso pedido de perdão será atendido. As coisas antigas já se passaram, somos nascidos de novo. O que passou ficou no passado, podemos aprender com ele ou sermos torturados e até quem sabe escravizados por ele, permitindo que não consigamos seguir em frente por causa das feridas que esse passado nos causou.</br>
 </br>
 Para isso existe o aconchego de Jesus, numa das mais belas orações dirigidas a ele dizemos:</br>

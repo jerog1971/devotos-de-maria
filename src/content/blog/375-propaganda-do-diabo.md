@@ -1,10 +1,10 @@
 ---
 title: "Propaganda do diabo"
 date: 2020-08-31T18:56:00.004Z
-heroImage: "/images/diabo.png"
+heroImage: "/images/posts/375-propaganda-do-diabo-propaganda_do_diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzNUflupiM51E-LpiDEog9coHdpaz8gHffatONLXfewH22OWNwSBh6WI3G55TXmxorsQ8w7zBvj6KgCuPqxMr9b0dU7Chd1r8AUmYAtA2m3xfwRWb_ND9mwsPqN5osNvpzOdR8Q_9voNk/s454/propaganda+do+diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="368" data-original-width="454" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzNUflupiM51E-LpiDEog9coHdpaz8gHffatONLXfewH22OWNwSBh6WI3G55TXmxorsQ8w7zBvj6KgCuPqxMr9b0dU7Chd1r8AUmYAtA2m3xfwRWb_ND9mwsPqN5osNvpzOdR8Q_9voNk/s0/propaganda+do+diabo.png" /></a></div><p></p><p class="MsoNormal">O diabo cada vez dá menos e exige mais. É como o fornecedor
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/375-propaganda-do-diabo-propaganda_do_diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="368" data-original-width="454" src="/images/posts/375-propaganda-do-diabo-propaganda_do_diabo.png" /></a></div><p></p><p class="MsoNormal">O diabo cada vez dá menos e exige mais. É como o fornecedor
 de drogas: para que seu “cliente” adquira o “produto” ele fornece a famosa
 amostra grátis. O quanto for necessário para que o vício se instale no sujeito.
 Com isso fica mais fácil convencer a pessoa de que aquilo que não faz bem é

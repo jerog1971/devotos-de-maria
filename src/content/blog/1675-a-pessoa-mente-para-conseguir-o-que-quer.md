@@ -1,10 +1,10 @@
 ---
 title: "A pessoa mente para conseguir o que quer"
 date: 2021-04-16T17:02:00.004Z
-heroImage: "/images/consegui.png"
+heroImage: "/images/posts/1675-a-pessoa-mente-para-conseguir-o-que-img-1377485023.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz6RaiHeoDmkHx6eBVPW4SU0DGWuUkntUiLaWhVYaByuNy63pug_RW11dPjeVE-CXBR_flbre1yRbUo-PHd3PDDE0LpwlCAKMbRL771nY6KJtBF7Cn62NwR_ySuIwmbl3Ttr9wqcFtx88/s383/A+pessoa+mente+para+conseguir+o+que+quer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="358" data-original-width="383" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz6RaiHeoDmkHx6eBVPW4SU0DGWuUkntUiLaWhVYaByuNy63pug_RW11dPjeVE-CXBR_flbre1yRbUo-PHd3PDDE0LpwlCAKMbRL771nY6KJtBF7Cn62NwR_ySuIwmbl3Ttr9wqcFtx88/s320/A+pessoa+mente+para+conseguir+o+que+quer.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A mentira desde muito tempo – tempos bíblicos diga-se de passagem
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1675-a-pessoa-mente-para-conseguir-o-que-img-1377485023.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="358" data-original-width="383" src="/images/posts/1675-a-pessoa-mente-para-conseguir-o-que-img-1063145282.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A mentira desde muito tempo – tempos bíblicos diga-se de passagem
 – é uma “carta na manga”, um excelente recurso para obtenção de algo ou alguma
 coisa. Já começou a entrar em cena quando a serpente a utilizando convenceu que
 o fruto proibido fosse cobiçado e ingerido. Depois, aliado a esta mentira começou

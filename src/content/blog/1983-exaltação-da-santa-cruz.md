@@ -1,10 +1,10 @@
 ---
 title: "Exaltação da Santa Cruz"
 date: 2017-09-13T17:16:00Z
-heroImage: "/images/exaltacao.png"
+heroImage: "/images/posts/1983-exaltação-da-santa-cruz-exaltacao.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTVtrsTN6U3-dC8qSIY0PpQ04_Vc7MZlIHGfukPIvCFM18fQnOlp9loJ8gLsMAhVswpgob3fMt218QlBmD5ssmVL0yPSvCt3DN9gvZzW41phxmnd455OOOiqijqGJVKb1QLmRi89fJAU/s1600/exaltacao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTVtrsTN6U3-dC8qSIY0PpQ04_Vc7MZlIHGfukPIvCFM18fQnOlp9loJ8gLsMAhVswpgob3fMt218QlBmD5ssmVL0yPSvCt3DN9gvZzW41phxmnd455OOOiqijqGJVKb1QLmRi89fJAU/s320/exaltacao.png" width="229" height="320" data-original-width="368" data-original-height="514" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1983-exaltação-da-santa-cruz-exaltacao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1983-exaltação-da-santa-cruz-exaltacao.png" width="229" height="320" data-original-width="368" data-original-height="514" /></a></div>
 Quem se exaltar, será humilhado e quem se humilhar, será exaltado. Essas palavras da primeira frase foram proferidas pela boca de Jesus. E você caro leitor pode estar se perguntando o porquê deste trecho bíblico para falarmos do dia em que a igreja católica comemora a exaltação da Santa Cruz (dia 14/09). O ensinamento é muito simples, vamos acompanhar.</br>
 </br>
 Na vida do Cristo, enquanto possuidor aqui na terra das duas naturezas (a divina e a humana), pudemos acompanhar através do seu evangelho que, onde ele colocava a mão, acontecia uma grande transformação. Isso porque seu toque divino, tem o poder curador, vivificador e poder para, como vimos nas bodas, transformar água em vinho. Buscavam tocar em suas roupas, para ficarem curados e aqueles a quem ele empunha as mãos deixavam de ser as mesmas pessoas de até então. Jesus passava pelo caminho e as multidões o seguiam, os cegos gritavam ao longe pedindo por ele. Como vemos, as pessoas, em atitude de humildade e necessidade (deixavam o orgulho próprio de lado e se humilhavam perante o mestre), embora algumas pessoas tinham apenas, como o próprio Cristo mencionou, interesse em encher a barriga, saíam dessa experiência modificados, transformados; a experiência com Jesus os exaltava.</br>

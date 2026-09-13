@@ -1,10 +1,10 @@
 ---
 title: "O outro lado"
 date: 2020-09-18T15:10:00.001Z
-heroImage: "/images/Seu_outro_lado_2.png"
+heroImage: "/images/posts/1761-o-outro-lado-Seu_outro_lado_2.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBejnXIXrwmkALuuih96JRwEld5zdH0PUNibRUkstVt6F5MZVEBxnH49NKm_AG3eK6x5k1OR_AqMNgkQ9HJoXXac0ho8RQmuUyQ17gFlJGX4BpOLotQQeYY4HORlU_jpBz_r1JmLYfocg/s640/Seu_outro_lado_2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBejnXIXrwmkALuuih96JRwEld5zdH0PUNibRUkstVt6F5MZVEBxnH49NKm_AG3eK6x5k1OR_AqMNgkQ9HJoXXac0ho8RQmuUyQ17gFlJGX4BpOLotQQeYY4HORlU_jpBz_r1JmLYfocg/s320/Seu_outro_lado_2.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Romanos 7,18-24 – “Eu sei que em mim, isto é, na minha
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1761-o-outro-lado-Seu_outro_lado_2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="640" src="/images/posts/1761-o-outro-lado-Seu_outro_lado_2.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Romanos 7,18-24 – “Eu sei que em mim, isto é, na minha
 carne, não habita o bem, porque o querer o bem está em mim, mas não sou capaz
 de efetuá-lo. Não faço o bem que quereria, mas o mal que não quero. Ora, se
 faço o que não quero, já não sou eu que faço, mas sim o pecado que em mim

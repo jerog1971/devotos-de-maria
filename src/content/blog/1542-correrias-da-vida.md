@@ -1,10 +1,10 @@
 ---
 title: "Correrias da vida"
 date: 2024-06-06T20:00:00.001Z
-heroImage: "/images/Correrias da vida.png"
+heroImage: "/images/posts/1542-correrias-da-vida-Correrias_20da_20vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCOCblQsX73vmR0S7XDHPdKAQA06s7T59IxjKXBaOsIFRpfN-VCVcmU44DCXM_uyVkmooTEyQ7FcGpsWTiC7WwifyOxTRhapH9UKyBblCwvcHX8lnHwki303rLvLgeJBzbXkMzpAq6j26AYn2_CU2bjR8H7Tx5tfueOC7Cpin8EvxnP7bF5FAuxhIvhHE/s266/Correrias%20da%20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="241" data-original-width="266" height="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCOCblQsX73vmR0S7XDHPdKAQA06s7T59IxjKXBaOsIFRpfN-VCVcmU44DCXM_uyVkmooTEyQ7FcGpsWTiC7WwifyOxTRhapH9UKyBblCwvcHX8lnHwki303rLvLgeJBzbXkMzpAq6j26AYn2_CU2bjR8H7Tx5tfueOC7Cpin8EvxnP7bF5FAuxhIvhHE/s1600/Correrias%20da%20vida.png" width="266" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mundo sempre vai tentar o ser humano a colocar mais coisas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1542-correrias-da-vida-Correrias_20da_20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="241" data-original-width="266" height="241" src="/images/posts/1542-correrias-da-vida-Correrias_20da_20vida.png" width="266" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mundo sempre vai tentar o ser humano a colocar mais coisas
 dentro das vinte e quatro horas. Não importa a correria que façamos, não iremos
 conseguir “enfiar” tudo neste espaço de tempo. Ahhh, mas o ser humano é muito inteligente
 e parcela suas tarefas em dias, semanas e meses. Muito bem, com uma atitude

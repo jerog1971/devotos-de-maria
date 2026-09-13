@@ -1,10 +1,10 @@
 ---
 title: "A essência do mal"
 date: 2015-12-11T17:15:00Z
-heroImage: "/images/As_faces_do_mal.png"
+heroImage: "/images/posts/1536-a-essência-do-mal-o_mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEildvCbGBNJigBK454g_RO5ts_mBSrtMWfv6FLqGye0z5fY0KEwdndCaOAHoXCQAlhkDd7zT9oou9y_etq0ajNiSYUGhvcXgb6nzOgc1xD2Ko4Eyw0-9MXv5vaiT10UYguE4PNnbMwNFBg/s1600/o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEildvCbGBNJigBK454g_RO5ts_mBSrtMWfv6FLqGye0z5fY0KEwdndCaOAHoXCQAlhkDd7zT9oou9y_etq0ajNiSYUGhvcXgb6nzOgc1xD2Ko4Eyw0-9MXv5vaiT10UYguE4PNnbMwNFBg/s320/o_mal.png" width="320" height="287" data-original-width="575" data-original-height="516" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1536-a-essência-do-mal-o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1536-a-essência-do-mal-o_mal.png" width="320" height="287" data-original-width="575" data-original-height="516" /></a></div>
 </br>
 Um homem de 43 anos é suspeito de matar o próprio filho de dois anos em Rio Branco do Sul, região metropolitana de Curitiba (PR). O pai confessou ter cometido o crime porque teve medo de perder o emprego e chegou a forjar um sequestro para enganar a polícia.</br>
 </br>

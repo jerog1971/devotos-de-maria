@@ -1,10 +1,10 @@
 ---
 title: "A meditação da morte"
 date: 2020-06-23T14:46:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/288-a-meditação-da-morte-morrer.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8v-Z8nxNNepDc5fPrDGt8LT5u-_teNv8bgvu6a3uPsqcvl3CjoAGgC5TkMSHx5W3pqIGwC-le7YKIAr1mvXxcuH3riVt8th_qxwqjIb_q6HAIWOVghODPtbaHEB7E0DXusC3NJP4WdU/s308/morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8v-Z8nxNNepDc5fPrDGt8LT5u-_teNv8bgvu6a3uPsqcvl3CjoAGgC5TkMSHx5W3pqIGwC-le7YKIAr1mvXxcuH3riVt8th_qxwqjIb_q6HAIWOVghODPtbaHEB7E0DXusC3NJP4WdU/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mui depressa chegará teu fim neste mundo; vê, pois, como te
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/288-a-meditação-da-morte-morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" src="/images/posts/288-a-meditação-da-morte-img-1575612545.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mui depressa chegará teu fim neste mundo; vê, pois, como te
 preparas: hoje está vivo o homem, e amanhã já não existe. Entretanto, logo que
 se perdeu de vista, também se perderá da memória. Ó cegueira e dureza do
 coração humano, que só cuida do presente, sem olhar para o futuro! De tal modo

@@ -1,10 +1,10 @@
 ---
 title: "Voltar atrás"
 date: 2018-09-18T17:14:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2017-voltar-atrás-voltar_atr_25C3_25A1s.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBcrMaz0-pv-s0DUUvExdYEbHu9QXPtGwCiyUBQUsho85Giq6aggikNjBZSFkZooyTEcbQw-p9J3cWA7wKg0TlwvBu8Uk0I-eJW9-_vfYTg25OYl4ry7J2wSolY9I9__IAw-1Rp4LuLIA/s1600/voltar_atr%25C3%25A1s.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBcrMaz0-pv-s0DUUvExdYEbHu9QXPtGwCiyUBQUsho85Giq6aggikNjBZSFkZooyTEcbQw-p9J3cWA7wKg0TlwvBu8Uk0I-eJW9-_vfYTg25OYl4ry7J2wSolY9I9__IAw-1Rp4LuLIA/s320/voltar_atr%25C3%25A1s.png" width="320" height="319" data-original-width="348" data-original-height="347" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2017-voltar-atrás-voltar_atr_25C3_25A1s.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2017-voltar-atrás-voltar_atr_25C3_25A1s.png" width="320" height="319" data-original-width="348" data-original-height="347" /></a></div>
 Eis aí uma questão, caros leitores, bastante interessante para refletirmos em relação ao nosso dia a dia e nosso proceder. Humanamente falando, existem algumas questões que devemos levar em conta em nossas decisões. Sabemos bem, por experiência própria, que algumas atitudes e decisões não podem ser voltadas atrás, outras, sim. Ou será que podemos voltar atrás em todas elas? Vamos refletir.</br>
 </br>
 Se decidimos, por conta da tentação da gula, comermos um alimento que sabemos que irá nos fazer mal, mas mesmo assim decidimos come-lo e inclusive em abundância, depois de termos ingerido o “conhecido veneno gastronômico”, com consequente resultado de mal-estar ou quem sabe até outro agravante de maior prejuízo para nossa saúde, podemos até nos arrependermos, porém, não podemos voltar atrás. Já ingerimos. O que podemos então é, aproveitando o arrependimento, fazermos firme propósito de não mais cometermos o mesmo erro e a partir de então, seguirmos em frente com uma melhor conduta.</br>

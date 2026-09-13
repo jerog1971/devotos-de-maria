@@ -1,10 +1,10 @@
 ---
 title: "Não zombe de Deus"
 date: 2016-01-18T12:46:00Z
-heroImage: "/images/João Bosco e o Inferno.png"
+heroImage: "/images/posts/1029-não-zombe-de-deus-inferno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGYZTBQJY3XZi28DnibPHc66S5icDW5UEXsqR-8D5nTiGCsFIeRteLATN3pAo0oRRnVtWkhdlU2w6UOxJib1leB2P63FQNM06C7hpteLInAxsya4F35nnxeWfw-sp-IH4GQgCEa5h5M4/s1600/inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGYZTBQJY3XZi28DnibPHc66S5icDW5UEXsqR-8D5nTiGCsFIeRteLATN3pAo0oRRnVtWkhdlU2w6UOxJib1leB2P63FQNM06C7hpteLInAxsya4F35nnxeWfw-sp-IH4GQgCEa5h5M4/s320/inferno.png" width="312" height="320" data-original-width="285" data-original-height="292" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1029-não-zombe-de-deus-inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1029-não-zombe-de-deus-inferno.png" width="312" height="320" data-original-width="285" data-original-height="292" /></a></div>
 </br>
 Gálatas 6,7-9</br>
 </br>

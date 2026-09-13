@@ -1,10 +1,10 @@
 ---
 title: "Você vai me pagar"
 date: 2022-12-22T14:31:00Z
-heroImage: "/images/você vai me pagar.png"
+heroImage: "/images/posts/324-você-vai-me-pagar-voc_C3_AA_20vai_20me_20pagar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXjoEBid73MDHbCHnYcYHdSy4itxhvcPBWem54g0rDbyjdWUsnPeUvCbGLTItc_IpPvAogjeWtA4lsOTIrD8AFq5MC7wEf-TVZM91olpiehCp0KHmm8-Ni3i4_vsJM5vFtsRQXnliXbNOLbgxEixOFZwclW_FgprF6bGQlepsOV5bFwF9lxiOa5HU3/s428/voc%C3%AA%20vai%20me%20pagar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="428" height="259" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXjoEBid73MDHbCHnYcYHdSy4itxhvcPBWem54g0rDbyjdWUsnPeUvCbGLTItc_IpPvAogjeWtA4lsOTIrD8AFq5MC7wEf-TVZM91olpiehCp0KHmm8-Ni3i4_vsJM5vFtsRQXnliXbNOLbgxEixOFZwclW_FgprF6bGQlepsOV5bFwF9lxiOa5HU3/s320/voc%C3%AA%20vai%20me%20pagar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia lemos Deus dizer que “a vingança é minha”. Em
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/324-você-vai-me-pagar-voc_C3_AA_20vai_20me_20pagar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="428" height="259" src="/images/posts/324-você-vai-me-pagar-voc_C3_AA_20vai_20me_20pagar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia lemos Deus dizer que “a vingança é minha”. Em
 outra parte, lemos que teremos que prestar contas a ele de tudo que fizemos de
 bom e mal. Em outra parte ainda lemos que não sairemos do purgatório enquanto
 não “tivermos pago até o último centavo”. Como vemos realmente existe uma revelação

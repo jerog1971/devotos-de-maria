@@ -1,10 +1,10 @@
 ---
 title: "Igrejas barulhentas"
 date: 2019-05-20T19:54:00.003Z
-heroImage: "/images/igrejas_barulhentas.png"
+heroImage: "/images/posts/812-igrejas-barulhentas-igrejas_barulhentas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRYmaV5YTr8hVhCv4ozj80UazbtOW14pZeowILoRyBP0ds6kcBJdyG6G4P2r5mzc7bxMWwSnizvbag8zOxkJ-fR78kZ44-_R2ojWeUvWC0wQ-lbxtATXLUniBv2pcvU8tZ7Hd33TV8Fbk/s1600/igrejas_barulhentas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRYmaV5YTr8hVhCv4ozj80UazbtOW14pZeowILoRyBP0ds6kcBJdyG6G4P2r5mzc7bxMWwSnizvbag8zOxkJ-fR78kZ44-_R2ojWeUvWC0wQ-lbxtATXLUniBv2pcvU8tZ7Hd33TV8Fbk/s320/igrejas_barulhentas.png" width="320" height="261" data-original-width="581" data-original-height="474" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/812-igrejas-barulhentas-igrejas_barulhentas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/812-igrejas-barulhentas-igrejas_barulhentas.png" width="320" height="261" data-original-width="581" data-original-height="474" /></a></div>
 Ao lermos esse tipo de artigo somos quase que automaticamente remetidos a pensar que se trata de um artigo onde a reflexão aponta no sentido de estabelecimentos que durante seu funcionamento fazem barulho o suficiente para incomodar a vizinhança. Não é isso, por aqui o foco será outro.</br>
 </br>
 O sujeito entra na igreja, não é hora de celebração, no entanto escuta aquele ruído de fundo, aquele zum zum zum. Pessoas limpando o local, conversando entre si, o entra e sai de turistas inconsequentes pois parecem que se esqueceram de que “a casa de meu pai”, disse Jesus, “é um lugar de oração”. Algumas igrejas possuem palcos mais destacados do que o presbitério e é comum os músicos chegarem mais cedo e começarem a cantoria. Se você procurou o silêncio da casa de Deus para se encontrar com ele em oração e meditação pode esquecer, você vai ouvir o showzinho particular dos cantores.</br>

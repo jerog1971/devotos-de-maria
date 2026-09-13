@@ -1,10 +1,10 @@
 ---
 title: "Sempre se conhecendo"
 date: 2018-10-08T19:39:00Z
-heroImage: "/images/casando.png"
+heroImage: "/images/posts/2003-sempre-se-conhecendo-casando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOrRDpUd8bMq7EQSleQRmS1CIx-WjzZ49DPIK9o7FnJl3Hl7fKEyhHkSvfAVWFR8xFjzt7x8pOe3eMUu0M8iR34nFVf5ieqLMRjxNvE9ItgzypjCQ40cr_tBbDtpCEFEvws_lM_LqG6LY/s1600/casando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOrRDpUd8bMq7EQSleQRmS1CIx-WjzZ49DPIK9o7FnJl3Hl7fKEyhHkSvfAVWFR8xFjzt7x8pOe3eMUu0M8iR34nFVf5ieqLMRjxNvE9ItgzypjCQ40cr_tBbDtpCEFEvws_lM_LqG6LY/s320/casando.png" width="320" height="302" data-original-width="551" data-original-height="520" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2003-sempre-se-conhecendo-casando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2003-sempre-se-conhecendo-casando.png" width="320" height="302" data-original-width="551" data-original-height="520" /></a></div>
 Gênesis 2,24 – “Por isso o homem deixa o seu pai e sua mãe para se unir à sua mulher; e já não são mais que uma só carne”.</br>
 </br>
 Mateus 19,4-5 – “Respondeu-lhes Jesus: Não lestes que o Criador, no começo, fez o homem e a mulher e disse: Por isso, o homem deixará seu pai e sua mãe e se unirá à sua mulher; e os dois formarão uma só carne”?<br>

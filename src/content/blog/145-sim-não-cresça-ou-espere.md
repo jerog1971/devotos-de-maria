@@ -1,10 +1,10 @@
 ---
 title: "Sim, não, cresça ou espere"
 date: 2020-11-20T13:48:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/145-sim-não-cresça-ou-espere-ora_25C3_25A7_25C3_25A3o2.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF8F_ExPQ5PnN7cDGf_bIeFdxfEd78ukdgrmrwo88yqsnixwlHD5RVHpvbbgPW4lt1HijMaOk1S9fHcLeuEGG9z2ThMqpeSDZKlfi_6b9cXuWgT0Qiq2AkI1SUa2yw84lLQdJQUT_YiDU/s324/ora%25C3%25A7%25C3%25A3o2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="307" data-original-width="324" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF8F_ExPQ5PnN7cDGf_bIeFdxfEd78ukdgrmrwo88yqsnixwlHD5RVHpvbbgPW4lt1HijMaOk1S9fHcLeuEGG9z2ThMqpeSDZKlfi_6b9cXuWgT0Qiq2AkI1SUa2yw84lLQdJQUT_YiDU/s320/ora%25C3%25A7%25C3%25A3o2.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Rezo tanto e até para pedidos tão ínfimos perante a grandeza
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/145-sim-não-cresça-ou-espere-ora_25C3_25A7_25C3_25A3o2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="307" data-original-width="324" src="/images/posts/145-sim-não-cresça-ou-espere-ora_25C3_25A7_25C3_25A3o2.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Rezo tanto e até para pedidos tão ínfimos perante a grandeza
 de Deus eu não sou atendido. Pior ainda é quando se passam anos pedindo a mesma
 coisa, que não é pedido material e sim espiritual, não é só para mim e ainda assim
 Deus me responde com seu silêncio. Que situação inquietante. O recado que constantemente

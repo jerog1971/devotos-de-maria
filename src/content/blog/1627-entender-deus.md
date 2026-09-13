@@ -1,10 +1,10 @@
 ---
 title: "Entender Deus"
 date: 2016-11-11T16:00:00Z
-heroImage: "/images/Ausência de Deus.png"
+heroImage: "/images/posts/1627-entender-deus-deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIil9lQ2FqSy0b2fWsC_LSSGqhsCn6R_WMvQY956X72K9bOm0S3bDzI_cfVzUM81fmON105y0JiS2mZDVDNw0t_ZzVIGVicww4wmCvyA7DpSWo4D8S0HHmR88tDcxncVSbVep001k6U9k/s1600/deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIil9lQ2FqSy0b2fWsC_LSSGqhsCn6R_WMvQY956X72K9bOm0S3bDzI_cfVzUM81fmON105y0JiS2mZDVDNw0t_ZzVIGVicww4wmCvyA7DpSWo4D8S0HHmR88tDcxncVSbVep001k6U9k/s320/deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1627-entender-deus-deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1627-entender-deus-deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
 A teologia busca, através do esforço humano, compreender os ensinamentos de Deus, contidos nas sagradas escrituras e na santa tradição, fazendo uso de análises e conjecturas sobre toda a revelação bíblica. Porém, facilmente pode-se notar que, com poucos metros de caminhada, a profundidade do bondoso Deus do novo testamento (Mateus 19,17), que é o mesmo Deus da guerra do antigo testamento, o mesmo Deus que se arrependeu da criação humana (Gênesis 6,7) e o mesmo Deus que parece ter testado a fidelidade de Adão e Eva no Jardim do Éden (Gênesis 2,16-17) e ainda o mesmo Deus que manifesta sua ira contra sua criação (Isaías 13,13), pode-se notar que, parece existir um Deus que muda de temperamento ou de opinião.</br>
 </br>
 E o que dizer desse Deus, pregado como onipotente, onisciente e onipresente, que parece deixar de lado seu poder total para promover o bem da humanidade, parece não saber de tudo pois perguntou onde estava Adão (Gênesis 3,9) e onde estava Abel (Gênesis 4,9)? O que dizer de um Deus que cobra que nos humilhemos como servos inúteis se quisermos suas graças? Também se pode cogitar porque o pecado, invenção angélica, surgiu num ser criado perfeito por Deus (Ezequiel 28) mas que as escrituras afirmam que desde o princípio foi mentiroso (João 8,44)?</br>

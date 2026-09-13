@@ -1,10 +1,10 @@
 ---
 title: "Ultimato da esposa ao marido: Escolha: ou eu ou o bebê..."
 date: 2016-07-19T11:00:00.001Z
-heroImage: "/images/samuel.png"
+heroImage: "/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfWM-FxvuMpfB7LjibsTOx_bQX7E6PkysjNrDwP4n77oBOhr4q2WNtWAV6ESU3BcSoLB1AyS5xsxRo8pzOg6S2yChdyG__3tEdB-_bRRCZSBG54yghAL5I9OhuCLOjeydb7QBQJhxLjAE/s1600/samuel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfWM-FxvuMpfB7LjibsTOx_bQX7E6PkysjNrDwP4n77oBOhr4q2WNtWAV6ESU3BcSoLB1AyS5xsxRo8pzOg6S2yChdyG__3tEdB-_bRRCZSBG54yghAL5I9OhuCLOjeydb7QBQJhxLjAE/s320/samuel.png" width="304" height="320" data-original-width="417" data-original-height="439" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel.png" width="304" height="320" data-original-width="417" data-original-height="439" /></a></div>
 </br>
 Samuel Forrest é pai e, pelo menos segundo as próprias declarações, foi forçado a fazer uma escolha que ninguém jamais gostaria de enfrentar: ou a esposa, com que tinha se casado havia 18 meses, ou o pequeno Leo, um recém-nascido com Síndrome de Down. Por quê? Porque a mãe do bebê e sua família teriam vergonha dele.</br>
 </br>
@@ -20,7 +20,7 @@ Samuel se tornou pai em 21 de janeiro de 2015, quando a esposa deu à luz num ho
 </br>
 "Quando eles me mostraram o Leo", continua Samuel, "eu disse imediatamente ao médico que ele era lindo, perfeito e que eu com certeza ia ficar com ele. Quando nasce uma criança como o Leo neste país, a primeira coisa que eles dizem é que você não é obrigado a ficar com ele. Minha esposa já tinha decidido. Mas tudo aconteceu pelas minhas costas". De acordo com suas declarações, Samuel não conseguiu convencer a mulher quando ela deu o ultimato: ou ela ou o bebê. Samuel escolheu o bebê e decidiu se divorciar.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP4UioH0r3sdAH6sB1HYVcuvNw9jzkS7EqWX66zR2zKS4FVHJmW-Sh6s6HVmQMgwU35zQwgbpuCj9B_Ptmimhyphenhyphen7-xmG8Nq6TEqw1R45AYfBOO2rz1UCXe2HBIOPl-O0dAgqyS-jpUMQfU/s1600/samuel2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP4UioH0r3sdAH6sB1HYVcuvNw9jzkS7EqWX66zR2zKS4FVHJmW-Sh6s6HVmQMgwU35zQwgbpuCj9B_Ptmimhyphenhyphen7-xmG8Nq6TEqw1R45AYfBOO2rz1UCXe2HBIOPl-O0dAgqyS-jpUMQfU/s200/samuel2.png" width="200" height="133" data-original-width="598" data-original-height="397" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel2.png" width="200" height="133" data-original-width="598" data-original-height="397" /></a></div>
 </br>
 Leo vai para casa</br>
 </br>

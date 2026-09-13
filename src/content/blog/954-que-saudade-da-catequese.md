@@ -1,10 +1,10 @@
 ---
 title: "Que saudade da catequese"
 date: 2020-03-17T15:21:00.001Z
-heroImage: "/images/alei.png"
+heroImage: "/images/posts/954-que-saudade-da-catequese-alei.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOukGPFwgDWDluCpR8mei9yV8TRbMtW5cNSqyTIUl6VfX24CWRAAyKRWwAFJ_sBIALZAe0XXXXBDw-5a-mRMtpZ-pbhRTIvO9pASf7FvmuSO9TE9HWRI8f2jhWpqKecC1GossufWiqsiA/s1600/alei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOukGPFwgDWDluCpR8mei9yV8TRbMtW5cNSqyTIUl6VfX24CWRAAyKRWwAFJ_sBIALZAe0XXXXBDw-5a-mRMtpZ-pbhRTIvO9pASf7FvmuSO9TE9HWRI8f2jhWpqKecC1GossufWiqsiA/s320/alei.png" width="320" height="308" data-original-width="370" data-original-height="356" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/954-que-saudade-da-catequese-alei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/954-que-saudade-da-catequese-alei.png" width="320" height="308" data-original-width="370" data-original-height="356" /></a></div>
 Em tempos atuais, muita coisa mudou e inclusive a catequese. Em nossas paróquias praticamente não existem mais “os repetentes” em nossos centros catequéticos. No entanto, a consequência é a ignorância se esparramando pelos bancos de nossas igrejas. Na missa, muitos mais parecem marionetes; mesmo que sempre estejam na missa parece que nunca sabem o que acontece. Se outro padre está a presidir os participantes já se sentem perdidos. É hora de sentar? Hora de levantar? Fazem tudo que é mandado pelo tiranete que transforma o presbitério em palco. Não conhecem as coisas.</br>
 </br>
 E os mandamentos? Será que sabem? Bom, isso é fácil de resolver: uma pesquisada no Google resolve a questão rapidamente! Afinal, os smartphones sempre vão à missa, fazer o que eu não sei (até sei), mas deixemos esse que é outra história de lado. O fato é que a questão é preocupante, pois, ninguém vive aquilo que não conhece, ninguém dá o que não tem e quem não vive o que crê, termina crendo o que vive.</br>

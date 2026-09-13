@@ -1,10 +1,10 @@
 ---
 title: "Chuveiro Espiritual"
 date: 2017-02-23T16:30:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2200-chuveiro-espiritual-chuveiro_espiritual.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGDw6tj0MURAFG3ilM-f9o_FQrC4Ig8dfc5po7F5QQzw3iZBPcOQs7UpE9ihcOONjIKvoOTV5DJGgKhnFFMfOsmZCjAyOAwmxMir_dBifVam-xgM9AyuBWDGamH5yyulBi_-Uqv4tzWi8/s1600/chuveiro+espiritual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGDw6tj0MURAFG3ilM-f9o_FQrC4Ig8dfc5po7F5QQzw3iZBPcOQs7UpE9ihcOONjIKvoOTV5DJGgKhnFFMfOsmZCjAyOAwmxMir_dBifVam-xgM9AyuBWDGamH5yyulBi_-Uqv4tzWi8/s320/chuveiro+espiritual.png" width="320" height="211" data-original-width="318" data-original-height="210" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2200-chuveiro-espiritual-chuveiro_espiritual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2200-chuveiro-espiritual-chuveiro_espiritual.png" width="320" height="211" data-original-width="318" data-original-height="210" /></a></div>
 Somos um campo de batalha, um composto de corpo e alma numa luta constante para configurarmos todos os continentes desse corpo ao modelo de Jesus Cristo. Nisso, nossa religião tem papel fundamental. Para isso ela serve e é isso que ela quer dizer. Religião é “religar-se a Deus”. E é claro que uma vez “religados”, precisamos nos esforçar para não rompermos a ligação, não abandonarmos os motivos que nos fazem ficar unidos a Deus.</br>
 </br>
 O diabo que não tem mais o que “fazer da vida” a não ser ficar atazanando todo mundo, pois quer perder a alma de cada um fazendo que a pessoa se associe a sua rebeldia, não se cansa de investir pesado contra cada um de nós. Ele sabe que se não se esforçar ao máximo irá perder um a um de nós. E como nem ele sabe quanto tempo Deus nos concede, não existe de sua parte, tempo a se perder. Bobos de nós que não agimos da mesma maneira. Nos comportamos como se o amanhã em nossas vidas sempre fosse existir e por isso sucumbimos a tentação do amanhã e vamos deixando de lado importantes atitudes que ontem já deveriam ter sido tomadas.

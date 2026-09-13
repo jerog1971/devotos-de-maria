@@ -1,10 +1,10 @@
 ---
 title: "Meninos defendem a Eucaristia"
 date: 2016-01-12T13:47:00Z
-heroImage: "/images/defesa_da_eucaristia.png"
+heroImage: "/images/posts/243-meninos-defendem-a-eucaristia-defesa_da_eucaristia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS4p56vsO4yXl3ephu8ayPZMoydBfL5w6C3qbur1-BhK8IeM_fq5m8IdhijG3XDHDbMa3NbIGk9FjKO7paXTRdkfMPbiTw4AbLb_MWDEdfCkYJQ93imKluc721xVKfduHDz_IIgnRDYNs/s1600/defesa_da_eucaristia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS4p56vsO4yXl3ephu8ayPZMoydBfL5w6C3qbur1-BhK8IeM_fq5m8IdhijG3XDHDbMa3NbIGk9FjKO7paXTRdkfMPbiTw4AbLb_MWDEdfCkYJQ93imKluc721xVKfduHDz_IIgnRDYNs/s320/defesa_da_eucaristia.png" width="320" height="180" data-original-width="317" data-original-height="178" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/243-meninos-defendem-a-eucaristia-defesa_da_eucaristia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/243-meninos-defendem-a-eucaristia-defesa_da_eucaristia.png" width="320" height="180" data-original-width="317" data-original-height="178" /></a></div>
 </br>
 O acontecimento, que vamos narrar, passou-se na Rússia,</br>
 </br>

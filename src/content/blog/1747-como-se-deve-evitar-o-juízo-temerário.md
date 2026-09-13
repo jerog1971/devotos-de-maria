@@ -1,10 +1,10 @@
 ---
 title: "Como se deve evitar o juízo temerário"
 date: 2020-06-17T17:00:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1747-como-se-deve-evitar-o-juízo-temerár-n_25C3_25A3oenxergar.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlCt0-FYm0bLUHR4e6RL0hUJ7zdDkyMfAFoN7k9TD1kYDyA-wr2VYRmA-7kBbO3KjehegbC7GTFHOBINpVi_3rC5HDMZLSRx7-pfilkKAeiQ9gVVuZ89Kf2-ZUY50jw0DAhHTyajiJEEo/s208/n%25C3%25A3oenxergar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="208" data-original-width="193" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlCt0-FYm0bLUHR4e6RL0hUJ7zdDkyMfAFoN7k9TD1kYDyA-wr2VYRmA-7kBbO3KjehegbC7GTFHOBINpVi_3rC5HDMZLSRx7-pfilkKAeiQ9gVVuZ89Kf2-ZUY50jw0DAhHTyajiJEEo/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Relanceia sobre ti o olhar e guarda-te de julgar as ações
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1747-como-se-deve-evitar-o-juízo-temerár-n_25C3_25A3oenxergar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="208" data-original-width="193" src="/images/posts/1747-como-se-deve-evitar-o-juízo-temerár-img-815061048.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Relanceia sobre ti o olhar e guarda-te de julgar as ações
 alheias. Quem julga os demais perde o trabalho, quase sempre se engana e
 facilmente peca; mas, examinando-se e julgando-se a si mesmo, trabalha sempre
 com proveito. De ordinário, julgamos as coisas segundo a inclinação do nosso

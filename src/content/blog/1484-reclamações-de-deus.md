@@ -1,10 +1,10 @@
 ---
 title: "Reclamações de Deus"
 date: 2022-09-05T16:54:00.003Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/1484-reclamações-de-deus-reclama_C3_A7_C3_B5es_20de_20deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinNN4tgbiy_FmEQbUOkHlGLxG-CsMZKLffXL6abbRB-ilXHczM2yGalZOzyTRltuYudh6CMv_575VuauhjK8z3CYjiXN9zmFs5ESRlU-UhiBKlLTgrFbOadGiq-j0zVLjMKzROLRHP2CqLgNinvRmRHiQOLXhdLRSmijiZ8EtQy-Yh1KKT04-6TDvD/s396/reclama%C3%A7%C3%B5es%20de%20deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="396" data-original-width="271" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinNN4tgbiy_FmEQbUOkHlGLxG-CsMZKLffXL6abbRB-ilXHczM2yGalZOzyTRltuYudh6CMv_575VuauhjK8z3CYjiXN9zmFs5ESRlU-UhiBKlLTgrFbOadGiq-j0zVLjMKzROLRHP2CqLgNinvRmRHiQOLXhdLRSmijiZ8EtQy-Yh1KKT04-6TDvD/s320/reclama%C3%A7%C3%B5es%20de%20deus.png" width="219" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que o diabo gosta é quando alguém reclama
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1484-reclamações-de-deus-reclama_C3_A7_C3_B5es_20de_20deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="396" data-original-width="271" height="320" src="/images/posts/1484-reclamações-de-deus-reclama_C3_A7_C3_B5es_20de_20deus.png" width="219" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que o diabo gosta é quando alguém reclama
 sobre Deus para qualquer um que não seja o próprio altíssimo. Neste ato de
 reclamar, a pessoa vai colocando para fora todos os seus contentamentos e com
 isso vai abrindo seu coração para as soluções alternativas ou as soluções

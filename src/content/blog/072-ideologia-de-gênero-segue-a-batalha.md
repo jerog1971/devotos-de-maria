@@ -1,10 +1,10 @@
 ---
 title: "Ideologia de gênero: segue a batalha..."
 date: 2016-07-08T19:30:00Z
-heroImage: "/images/rossi.png"
+heroImage: "/images/posts/072-ideologia-de-gênero-segue-a-batalha-rossi.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5zLXkTPgJS5QzH4kFqt0ISCDbCsz92qnv2XLA7BbqWiw5Zna4PZebqkZ6W2p5V4XIyxP_RRwrFW73pygL2FDCscscE4oLQo2pMJvxaiJUZaev7ov1zPfNZXpLZb1XAQrGVMMAv97bhZo/s1600/rossi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5zLXkTPgJS5QzH4kFqt0ISCDbCsz92qnv2XLA7BbqWiw5Zna4PZebqkZ6W2p5V4XIyxP_RRwrFW73pygL2FDCscscE4oLQo2pMJvxaiJUZaev7ov1zPfNZXpLZb1XAQrGVMMAv97bhZo/s320/rossi.png" width="243" height="320" data-original-width="232" data-original-height="305" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/072-ideologia-de-gênero-segue-a-batalha-rossi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/072-ideologia-de-gênero-segue-a-batalha-rossi.png" width="243" height="320" data-original-width="232" data-original-height="305" /></a></div>
 </br>
 O Bispo de Frederico Westphalen, no Rio Grande do Sul, é mais um que saiu em defesa da família cristã manifestando publicamente em nota pastoral, uma breve orientação sobre a ideologia de gênero, a fim de que cada um em seus meios lembre-se de que não fomos chamados à indiferença ante os problemas que nos afligem, mas, sim, a ser sal da terra e luz do mundo (cf. Mt 5,13-14), pois tudo o que, de algum modo, diz respeito ao homem de hoje, interessa à Igreja (cf. Gaudium et Spes n. 1).</br>
 </br>

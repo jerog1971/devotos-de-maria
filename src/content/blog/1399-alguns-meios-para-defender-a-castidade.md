@@ -1,10 +1,10 @@
 ---
 title: "Alguns meios para defender a Castidade"
 date: 2015-10-14T12:28:00.001Z
-heroImage: "/images/santo_afonso_maria.png"
+heroImage: "/images/posts/1399-alguns-meios-para-defender-a-castidade-santo_afonso_maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5B3ffG7XjLD6oqTfQb1vNGYcDIov2xlgDEUpx30AqhVsH0RfynB60VhAIh7Z354bhcXr3tEfKV7EnescX3ccMpNHha7osZ08OB5rxODsAb8THK9-HXHYtyzx9EKCP9IkeUW6RP8rRaQ/s1600/santo_afonso_maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5B3ffG7XjLD6oqTfQb1vNGYcDIov2xlgDEUpx30AqhVsH0RfynB60VhAIh7Z354bhcXr3tEfKV7EnescX3ccMpNHha7osZ08OB5rxODsAb8THK9-HXHYtyzx9EKCP9IkeUW6RP8rRaQ/s320/santo_afonso_maria.png" width="271" height="320" data-original-width="436" data-original-height="515" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1399-alguns-meios-para-defender-a-castidade-santo_afonso_maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1399-alguns-meios-para-defender-a-castidade-santo_afonso_maria.png" width="271" height="320" data-original-width="436" data-original-height="515" /></a></div>
 </br>
 TRATADO DA CASTIDADE</br>
 </br>  

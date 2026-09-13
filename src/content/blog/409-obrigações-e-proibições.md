@@ -1,10 +1,10 @@
 ---
 title: "Obrigações e proibições"
 date: 2025-04-14T20:11:00Z
-heroImage: "/images/obrigações e proibições.png"
+heroImage: "/images/posts/409-obrigações-e-proibições-img-733482001.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrmeB_NzP9qFWL57FsxsAU5Bb8DnjQnkzBeHUtd5CE-vM5cZ1AIV1M-oK4J8hJzjUW6YmXb8Q8CC_t3QeVuDf2nzT6PF8nHo1NZKOqY8o6D6YaAzmKnfc-bR7ASGH2M_irpZZe-sidfQSWKIpwfCrTWAJkXKUXPvtLnCkOy2EHq36UTsSIVTnAe54Bno/s543/obriga%C3%A7%C3%B5es%20e%20proibi%C3%A7%C3%B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="470" data-original-width="543" height="277" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrmeB_NzP9qFWL57FsxsAU5Bb8DnjQnkzBeHUtd5CE-vM5cZ1AIV1M-oK4J8hJzjUW6YmXb8Q8CC_t3QeVuDf2nzT6PF8nHo1NZKOqY8o6D6YaAzmKnfc-bR7ASGH2M_irpZZe-sidfQSWKIpwfCrTWAJkXKUXPvtLnCkOy2EHq36UTsSIVTnAe54Bno/s320/obriga%C3%A7%C3%B5es%20e%20proibi%C3%A7%C3%B5es.png" width="320" /></a></div><p></p><p>
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/409-obrigações-e-proibições-img-733482001.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="470" data-original-width="543" height="277" src="/images/posts/409-obrigações-e-proibições-img-1514653780.png" width="320" /></a></div><p></p><p>
 
 </p><p class="MsoNormal">Certamente para muitos de nós a religião é vista de uma
 maneira afastada daquilo que é seu real e legítimo propósito: religar-se a

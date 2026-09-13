@@ -1,10 +1,10 @@
 ---
 title: "O valor das escrituras"
 date: 2021-03-22T10:46:00.003Z
-heroImage: "/images/o_diabo_ataca.png"
+heroImage: "/images/posts/1729-o-valor-das-escrituras-o_diabo_ataca.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-tnHMY32uLx4yF51PUzRX930Ic6rDADXq0Ew08PZO80Os7YEqtxgTrdsl-chUGefgZmRTTh6DrLul7pDyycWsJYHfn3Spmrr35Dc-3O1rNibOR9KS3CWOJ-yYApYykhSexzsoxsr1giM/s445/o_diabo_ataca.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="432" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-tnHMY32uLx4yF51PUzRX930Ic6rDADXq0Ew08PZO80Os7YEqtxgTrdsl-chUGefgZmRTTh6DrLul7pDyycWsJYHfn3Spmrr35Dc-3O1rNibOR9KS3CWOJ-yYApYykhSexzsoxsr1giM/s320/o_diabo_ataca.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A coleção de livros sagrados denominada de bíblia, inspirada
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1729-o-valor-das-escrituras-o_diabo_ataca.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="432" height="320" src="/images/posts/1729-o-valor-das-escrituras-o_diabo_ataca.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A coleção de livros sagrados denominada de bíblia, inspirada
 aos homens pelo Espírito Santo de Deus, traz até suas criaturas o que o homem
 precisa saber, o que o homem precisa fazer e o que o homem nunca deve esquecer.<o:p></o:p></p><div class="separator" style="clear: both;">
 

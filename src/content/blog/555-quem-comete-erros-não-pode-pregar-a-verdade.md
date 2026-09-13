@@ -1,10 +1,10 @@
 ---
 title: "Quem comete erros não pode pregar a verdade?"
 date: 2019-05-01T12:27:00.002Z
-heroImage: "/images/fé_medo.png"
+heroImage: "/images/posts/555-quem-comete-erros-não-pode-pregar-a--medo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kUzRPn00GQ3JBkqHKdkHacLIEHvY8EdAcL_9aFf7eVqHW9z5o8AC2Nf5KvUgQQeA5mFCTd6DtzcjNuk3LKj2bm9Sb0UCHOv6lyWwwPLpDBOUeptIpeXaoNkIa5gafNa-S8yOhkWYztc/s1600/medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kUzRPn00GQ3JBkqHKdkHacLIEHvY8EdAcL_9aFf7eVqHW9z5o8AC2Nf5KvUgQQeA5mFCTd6DtzcjNuk3LKj2bm9Sb0UCHOv6lyWwwPLpDBOUeptIpeXaoNkIa5gafNa-S8yOhkWYztc/s320/medo.png" width="320" height="303" data-original-width="405" data-original-height="384" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/555-quem-comete-erros-não-pode-pregar-a--medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/555-quem-comete-erros-não-pode-pregar-a--medo.png" width="320" height="303" data-original-width="405" data-original-height="384" /></a></div>
 Com toda a certeza, caros leitores, todo mundo já foi confrontado por causa das atitudes que hoje são diferentes das atitudes passadas. Essa verdade pode ser acompanhada nos evangelhos, em várias passagens, porém, destacamos aqui o trecho em que o povo levou a mulher pega em adultério. Antes de seguirmos adiante poderíamos nos perguntar: e o homem não foi pego em adultério também? Por que não o levaram até Jesus? Vale a pena pensar a respeito.</br>
 </br>
 Pois bem, sabemos que o perdão é concedido àquele que perdoa o irmão e que está arrependido. Perdoai as nossas ofensas assim como perdoamos a quem nos tem ofendido. Jesus deixou bem caro essa questão do perdão; tudo porque ele não quer de nós uma atitude de egoísmo. Eu quero a graça, mas não quero que seja concedida ao outro. Muitos só desculpam, mas quantos nem chegam a esse ponto? </br>

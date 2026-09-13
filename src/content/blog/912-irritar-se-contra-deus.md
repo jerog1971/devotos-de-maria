@@ -1,10 +1,10 @@
 ---
 title: "Irritar-se contra Deus"
 date: 2016-10-17T11:25:00.001Z
-heroImage: "/images/irritar.png"
+heroImage: "/images/posts/912-irritar-se-contra-deus-irritar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqR_Z0k6lANvRft3C3iswGJ1VHa4Usl98wC7JzMWDo_3QB2_1yl2hgAMswfAIl5n0UzysBvCWMmK0lvliqbenZz2pfzvtR6fSJEdNQwb0GQASZ6gIjGSGqAzCbh_ZI31RZy8Nkzo30-6g/s1600/irritar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqR_Z0k6lANvRft3C3iswGJ1VHa4Usl98wC7JzMWDo_3QB2_1yl2hgAMswfAIl5n0UzysBvCWMmK0lvliqbenZz2pfzvtR6fSJEdNQwb0GQASZ6gIjGSGqAzCbh_ZI31RZy8Nkzo30-6g/s320/irritar.png" width="320" height="307" data-original-width="295" data-original-height="283" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/912-irritar-se-contra-deus-irritar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/912-irritar-se-contra-deus-irritar.png" width="320" height="307" data-original-width="295" data-original-height="283" /></a></div>
 Quantas e quantas vezes durante a vida, nesta caminhada rumo a pátria celeste, muitos vão desistindo, desanimando e caindo por terra por que não são atendidos em seus pedidos? Deus está, para estes, sempre a conceder aos outros uma vida melhor, uma vida com menos dificuldades e menos tribulações. Enquanto me esforço para seguir o segmento de Cristo, vejo pessoas não tão devotas, não tão religiosas, não tão apegadas a Deus, tendo maior sucesso na vida e prosperando mais do que eu. O que fiz para merecer tudo isso? Alguns se fazem essa pergunta.</br>
 </br>
 Se coisas ruins acontecem em nossa vida corremos pedir ajudar a Deus, a Jesus, a Nossa Senhora, aos Santos e Santas de Deus numa desenfreada avalanche de orações que beiram o desespero e buscam de Deus uma ajuda quase sempre emergencial. E se reza na certeza de que será atendido porque a bíblia diz que Deus escuta a oração do justo (Tiago 5,16).</br>

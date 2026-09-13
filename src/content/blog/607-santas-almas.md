@@ -1,10 +1,10 @@
 ---
 title: "Santas Almas"
 date: 2023-10-27T17:47:00.004Z
-heroImage: "/images/santas almas.png"
+heroImage: "/images/posts/607-santas-almas-santas_20almas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUi0fZxKRIGPzO8e4x6jrKHZB_odCghKo0yyREaYaMojH0Op297xnoDRVSEsXITvWoGaTGg_XNOtr_jLpiS1ieXrohaAxtU1AYSmiNC1KbSI0MmJMbV57gOGdyVxrajPbspJzxsW4k_syDe9qaneFVEcWDbfqSMwsClAYCUWDPFaEnu-2P1BjUnSrFxIk/s385/santas%20almas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="275" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUi0fZxKRIGPzO8e4x6jrKHZB_odCghKo0yyREaYaMojH0Op297xnoDRVSEsXITvWoGaTGg_XNOtr_jLpiS1ieXrohaAxtU1AYSmiNC1KbSI0MmJMbV57gOGdyVxrajPbspJzxsW4k_syDe9qaneFVEcWDbfqSMwsClAYCUWDPFaEnu-2P1BjUnSrFxIk/s320/santas%20almas.png" width="229" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos recordar? Em Fátima, durante a primeira aparição,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/607-santas-almas-santas_20almas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="275" height="320" src="/images/posts/607-santas-almas-santas_20almas.png" width="229" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos recordar? Em Fátima, durante a primeira aparição,
 Nossa Senhora disse à Lúcia que uma menina (Amélia) falecida recentemente
 ficaria no purgatório até ao fim do mundo. Pessoal! “Até o fim do mundo!” Esse
 fato costuma ser encoberto porque, bem, honestamente, nos deixa um pouco (ou

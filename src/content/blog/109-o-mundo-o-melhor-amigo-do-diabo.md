@@ -1,10 +1,10 @@
 ---
 title: "O mundo: o melhor amigo do diabo"
 date: 2019-12-06T18:11:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/109-o-mundo-o-melhor-amigo-do-diabo-satan_25C3_25A1s.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7-MF6rUqna821Lp5S7L2SK6PllhCC5XpDon6hwoMmHFTsKfd4Blse6qui0sVn-CTvrPSrnkHYXDgMw34zMBDpTDKuIFDC2xYvhwcYbqZgQe9tSaBCeRNXf5r0wYmIOwaAGCfdHC0VSk/s1600/satan%25C3%25A1s.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7-MF6rUqna821Lp5S7L2SK6PllhCC5XpDon6hwoMmHFTsKfd4Blse6qui0sVn-CTvrPSrnkHYXDgMw34zMBDpTDKuIFDC2xYvhwcYbqZgQe9tSaBCeRNXf5r0wYmIOwaAGCfdHC0VSk/s320/satan%25C3%25A1s.png" width="320" height="267" data-original-width="441" data-original-height="368" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/109-o-mundo-o-melhor-amigo-do-diabo-satan_25C3_25A1s.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/109-o-mundo-o-melhor-amigo-do-diabo-satan_25C3_25A1s.png" width="320" height="267" data-original-width="441" data-original-height="368" /></a></div>
 1ª João 2,15-17 – “Não ameis o mundo nem as coisas do mundo. Se alguém ama o mundo, não está nele o amor do Pai. Porque tudo o que há no mundo - a concupiscência da carne, a concupiscência dos olhos e a soberba da vida - não procede do Pai, mas do mundo. O mundo passa com as suas concupiscências, mas quem cumpre a vontade de Deus permanece eternamente.”</br>
 </br>
 Como vemos, não é à toa que o príncipe do mundo (Satanás) – João 12,31 e 14,30 – trabalha incansavelmente. Com a derrota biblicamente decretada o que lhe resta é arrastar quantos mais puder para sua derrocada. Ele administra muitíssimo bem seu tempo em prol de conduzir suas ofertas, para a alegria de muitos e a tristeza de alguns. Também para a tristeza de muitos e alegria de alguns. Claro que o trocadilho depende do ponto de vista. No entanto, o que não podemos relativizar, umas das coisas que o diabo adora que façamos, principalmente com as coisas de Deus, é sua posição perante cada ser humano.</br>

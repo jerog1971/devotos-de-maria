@@ -1,10 +1,10 @@
 ---
 title: "O que é um copo de leite? Nada. Mas gentileza o transforma em tudo."
 date: 2018-07-09T15:49:00.001Z
-heroImage: "/images/gentileza.png"
+heroImage: "/images/posts/1423-o-que-é-um-copo-de-leite-nada-mas-gentileza-o-tran-gentileza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5Kj0RnFMt00Z0rGHVRv9vkR1W709jZwPlv1IBNGykfmzvVdSF-4Iu7oyG2fvrhMpGMemcatCgem59va2l3d33j8dgQ4ZHiNqwrN6h-AEiojEDoyX3AnfFkngFt_txn0LDCrtX8ZH-B0/s1600/gentileza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5Kj0RnFMt00Z0rGHVRv9vkR1W709jZwPlv1IBNGykfmzvVdSF-4Iu7oyG2fvrhMpGMemcatCgem59va2l3d33j8dgQ4ZHiNqwrN6h-AEiojEDoyX3AnfFkngFt_txn0LDCrtX8ZH-B0/s320/gentileza.png" width="320" height="305" data-original-width="362" data-original-height="345" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1423-o-que-é-um-copo-de-leite-nada-mas-gentileza-o-tran-gentileza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1423-o-que-é-um-copo-de-leite-nada-mas-gentileza-o-tran-gentileza.png" width="320" height="305" data-original-width="362" data-original-height="345" /></a></div>
 Caros leitores, neste artigo a reflexão, que por características do site tem cunho católico, se aproveitará deste título para mostrar que, exatamente como disse São Paulo em suas cartas, recordando o que encontramos na vida de Jesus, descrita nos evangelhos, de nada adianta algo se não for por amor, o amor dos céus, o amor caridade.</br>
 </br>
 Fazer por fazer, fazer por obrigação, fazer por dever, fazer porque é preciso e fazer porque é necessário, nem sempre para tudo isso encontramos clareza em seus propósitos. Jesus Cristo, muito claramente sobre isso tudo nos diz que nem todo aquele que diz “Senhor, Senhor” entrará no reino dos céus. Não adianta querermos nos enganar e ficarmos “bem na foto” perante a sociedade ou uma comunidade, bem como Jesus condenava a atitude pública dos fariseus e ainda acharmos que com isso “compraremos” o ingresso na glória eterna. Quanto engano nos iludirmos achando que a somatória de tudo que acumularmos, tendo isso como bom, soma créditos “lá em cima”, com o Deus Onipotente, que vê os corações.</br>

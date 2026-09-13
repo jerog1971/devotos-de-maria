@@ -1,10 +1,10 @@
 ---
 title: "Se Deus quiser"
 date: 2018-11-08T17:26:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1884-se-deus-quiser-pregui_25C3_25A7a.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTQqeNA2faraXNq90A-c5rPpQB9Bs2smcf9hfJWg7RJmEMTstiLmV64oRrAOhMwWMMNEg4IgdoGKx7Qff59Zk7QFf_Hbs16SEOMgT5ECy4ve4tWcnQuJbVYZA50GH-P2Lkc8ZCxGe0yCI/s1600/pregui%25C3%25A7a.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="440" height="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTQqeNA2faraXNq90A-c5rPpQB9Bs2smcf9hfJWg7RJmEMTstiLmV64oRrAOhMwWMMNEg4IgdoGKx7Qff59Zk7QFf_Hbs16SEOMgT5ECy4ve4tWcnQuJbVYZA50GH-P2Lkc8ZCxGe0yCI/s320/pregui%25C3%25A7a.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Caros leitores, a expressão graças a Deus e se Deus quiser, algumas vezes são utilizadas em vão, de forma intencional ou não. Um olhar menos apurado sobre a questão pode ocasionar na desobediência, no mínimo, ao segundo mandamento da lei de Deus.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1884-se-deus-quiser-pregui_25C3_25A7a.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="440" height="304" src="/images/posts/1884-se-deus-quiser-pregui_25C3_25A7a.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Caros leitores, a expressão graças a Deus e se Deus quiser, algumas vezes são utilizadas em vão, de forma intencional ou não. Um olhar menos apurado sobre a questão pode ocasionar na desobediência, no mínimo, ao segundo mandamento da lei de Deus.
 
 A expressão graças a Deus até sofre menos percalços, porém, a segunda expressão já complica um pouco mais a vida do cristão. O sujeito vai dizendo que se Deus quiser ele irá fazer isso, se Deus quiser ele irá fazer aquilo, se Deus quiser ele irá fazer aquele outro. Não para e reflete que está transferindo a consciência humana para a cabeça do criador. Vou explicar com um pequeno exemplo.
 

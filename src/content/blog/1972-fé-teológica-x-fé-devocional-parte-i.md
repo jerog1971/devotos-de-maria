@@ -1,10 +1,10 @@
 ---
 title: "Fé Teológica x Fé Devocional - parte I"
 date: 2016-09-14T17:00:00.002Z
-heroImage: "/images/biblia_e_rosario.png"
+heroImage: "/images/posts/1972-fé-teológica-x-fé-devocional-parte--biblia_e_rosario.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJnU60v30q0ePeQM3wjPejf43rCSBMlEdXHPQLq_meIucm55DvlyTXwVbnZFB-kJenEIZhnqT2R9Z02uWi9pcrVEPV1Dn0A0Cvy8RaK-3teOFIl8FAeN4e-H9BfOpMGHUeStAkrk_lFEs/s1600/biblia_e_rosario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJnU60v30q0ePeQM3wjPejf43rCSBMlEdXHPQLq_meIucm55DvlyTXwVbnZFB-kJenEIZhnqT2R9Z02uWi9pcrVEPV1Dn0A0Cvy8RaK-3teOFIl8FAeN4e-H9BfOpMGHUeStAkrk_lFEs/s320/biblia_e_rosario.png" width="320" height="213" data-original-width="489" data-original-height="325" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1972-fé-teológica-x-fé-devocional-parte--biblia_e_rosario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1972-fé-teológica-x-fé-devocional-parte--biblia_e_rosario.png" width="320" height="213" data-original-width="489" data-original-height="325" /></a></div>
 Será que existe diferença entre o amadurecimento da fé através do estudo teológico e o amadurecimento da fé através do aprendizado mariano e da vida dos santos e santas de Deus? Sem dúvida existe algo. Este algo pode ser chamado de diferença? Vamos refletir com calma a questão para bem compreendermos e até nos situarmos com relação a fé que possuímos.</br>
 </br>
 Aprendemos da bíblia que fé é um dom de Deus que nos faz ter a certeza a respeito daquilo que não se vê. Este ensino está lá na carta aos Hebreus. Também na carta aos Hebreus existe um ensinamento que é parte da catequese que Nossa Senhora tem aplicado em suas aparições ao longo da história da humanidade. Em Hebreus 6,12 temos “sejais imitadores daqueles que pela fé e paciência se tornaram herdeiros das promessas”.</br>

@@ -1,10 +1,10 @@
 ---
 title: "A luta da vida"
 date: 2021-02-09T14:45:00Z
-heroImage: "/images/dom.png"
+heroImage: "/images/posts/1122-a-luta-da-vida-sob_o_dom_25C3_25ADnio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNYzshDdcGWhbD_3KSdnNhPe1YJ-RAIQ5lt57AfsXRnLmub-i2K5rTUzY3c1SASrN5JPqH7_M5G8lcqpyPEw4sE5TX6U-Ol8uikTGtAQi4MciPHyWy5Vvj9__3sK7Sk5l53ayLuZdeUjU/s605/sob+o+dom%25C3%25ADnio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="568" data-original-width="605" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNYzshDdcGWhbD_3KSdnNhPe1YJ-RAIQ5lt57AfsXRnLmub-i2K5rTUzY3c1SASrN5JPqH7_M5G8lcqpyPEw4sE5TX6U-Ol8uikTGtAQi4MciPHyWy5Vvj9__3sK7Sk5l53ayLuZdeUjU/s320/sob+o+dom%25C3%25ADnio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia nos diz em Eclesiastes que nessa vida existe tempo
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1122-a-luta-da-vida-sob_o_dom_25C3_25ADnio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="568" data-original-width="605" src="/images/posts/1122-a-luta-da-vida-sob_o_dom_25C3_25ADnio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia nos diz em Eclesiastes que nessa vida existe tempo
 para tudo; também no mesmo livro diz que muito tempo gasto com futilidades e
 coisas passageiras não passam de vaidades. Afinal, se até ao pó voltaremos,
 antes da ressurreição para a vida eterna, nada nesta etapa de nossas vidas

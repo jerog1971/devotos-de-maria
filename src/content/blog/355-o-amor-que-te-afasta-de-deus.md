@@ -1,10 +1,10 @@
 ---
 title: "O amor que te afasta de Deus"
 date: 2019-08-16T15:16:00Z
-heroImage: "/images/afastamento_de_Deus.png"
+heroImage: "/images/posts/355-o-amor-que-te-afasta-de-deus-afastamento_de_Deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY3nXEJJSBqoFyt2IghpmYjgK0fuFkyHMXXerZcoQWmBrAwKXYyWXPf1obbjQensZ8rWZOsTk9_PZav36W9o1XDbi-hv42q1Zjd-j99WdwE9E0tyUBmTiDcE1y0-_yFgDiOf-sHOotjzw/s1600/afastamento_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY3nXEJJSBqoFyt2IghpmYjgK0fuFkyHMXXerZcoQWmBrAwKXYyWXPf1obbjQensZ8rWZOsTk9_PZav36W9o1XDbi-hv42q1Zjd-j99WdwE9E0tyUBmTiDcE1y0-_yFgDiOf-sHOotjzw/s320/afastamento_de_Deus.png" width="320" height="311" data-original-width="368" data-original-height="358" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/355-o-amor-que-te-afasta-de-deus-afastamento_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/355-o-amor-que-te-afasta-de-deus-afastamento_de_Deus.png" width="320" height="311" data-original-width="368" data-original-height="358" /></a></div>
 Ao lermos uma frase como esta que intitula o artigo podemos pensar: será possível que exista algum amor que possa nos afastar de Deus? Ora bolas, o amor não é algo proveniente dele? Lemos na bíblia que Deus é amor, então como pode uma expressão de amor ou tipo dele nos afastar daquele que o criou?</br>
 </br>
 Pois bem, mas é exatamente isso que pode e acontece pelo mundo afora. E Jesus, para que não haja nenhuma sombra de dúvidas, trata desse assunto com a maior clareza possível. Acompanhemos suas palavras em Mateus 10,37 – “Quem ama seu pai ou sua mãe mais que a mim, não é digno de mim. Quem ama seu filho mais que a mim, não é digno de mim”. Pessoal, e aí? Não falei que o bicho pega? Porém, sobre essa questão de amor, ainda o mesmo Cristo nos demanda outra questão, acompanhemos:  “Mestre, qual é o maior mandamento da lei? Respondeu Jesus: Amarás o Senhor teu Deus de todo teu coração, de toda tua alma e de todo teu espírito (Deuteronômio 6,5). Este é o maior e o primeiro mandamento. E o segundo, semelhante a este, é: Amarás teu próximo como a ti mesmo (Levítico 19,18). Nesses dois mandamentos se resumem toda a lei e os profetas” – Mateus 22,36-40.</br>

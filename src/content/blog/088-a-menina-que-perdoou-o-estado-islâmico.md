@@ -1,10 +1,10 @@
 ---
 title: "A menina que perdoou o Estado Islâmico"
 date: 2015-09-14T16:33:00.003Z
-heroImage: "/images/myriam.png"
+heroImage: "/images/posts/088-a-menina-que-perdoou-o-estado-islâmico-myriam.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatSXUtYW6KNhWQ_g8MiiiGDYtr5doRuKbwmOgIQLbECXYgCGG7GL91jtGYSoLL6VUhPF1jhdVvtu2M4SPZzXGbxC48LUSz9DOB9vxJM_Xv891hiNX1k02wQPx60AX2WibzJJMcUKHzBc/s1600/myriam.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatSXUtYW6KNhWQ_g8MiiiGDYtr5doRuKbwmOgIQLbECXYgCGG7GL91jtGYSoLL6VUhPF1jhdVvtu2M4SPZzXGbxC48LUSz9DOB9vxJM_Xv891hiNX1k02wQPx60AX2WibzJJMcUKHzBc/s320/myriam.png" width="320" height="263" data-original-width="436" data-original-height="359" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/088-a-menina-que-perdoou-o-estado-islâmico-myriam.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/088-a-menina-que-perdoou-o-estado-islâmico-myriam.png" width="320" height="263" data-original-width="436" data-original-height="359" /></a></div>
 </br>
 A pequena Míriam, de 10 anos de idade, faz parte dos milhares de cristãos vivendo em zonas de refugiados no Médio Oriente. Ela e sua família estão em Erbil, na área relativamente segura do Curdistão iraquiano. Na metade de 2014, eles foram obrigados a sair de sua cidade natal, Qaraqosh, tomada pelo grupo terrorista Estado Islâmico. Em um vídeo emocionante, que ficou viral no mundo árabe, ela pede que Deus perdoe os terroristas do ISIS e dá um impressionante testemunho de alegria e confiança na divina providência. O seu relato foi colhido pelo repórter Essam Nagy, da rede de televisão Sat-7, que espalha a mensagem de Cristo por toda a região do Oriente Médio e do norte da África.</br>
 </br>

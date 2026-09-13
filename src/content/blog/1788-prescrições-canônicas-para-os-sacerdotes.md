@@ -1,10 +1,10 @@
 ---
 title: "Prescrições canônicas para os sacerdotes"
 date: 2020-05-27T22:03:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1788-prescrições-canônicas-para-os-sacer-img-136796334.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHz8hk0bzlvo7E5msm4E2909R5U9-9kzu-Y0HDB7dnNOJK0gnAPThwBsVoWJ4qxBBUxrCl6vpaNxwb4zpjq6xm8UC0KpZA6hzKWRFPysSi-OefBzNJbO4TfuqFrTs_wPnaR4sJuaGbwuQ/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHz8hk0bzlvo7E5msm4E2909R5U9-9kzu-Y0HDB7dnNOJK0gnAPThwBsVoWJ4qxBBUxrCl6vpaNxwb4zpjq6xm8UC0KpZA6hzKWRFPysSi-OefBzNJbO4TfuqFrTs_wPnaR4sJuaGbwuQ/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Cânones retirados do Código de Direito Canônico:</p>
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1788-prescrições-canônicas-para-os-sacer-img-136796334.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="306" src="/images/posts/1788-prescrições-canônicas-para-os-sacer-img-136796334.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Cânones retirados do Código de Direito Canônico:</p>
 
 <p class="MsoNormal">Cân. 214 — Os fiéis têm o direito de prestar culto a Deus
 segundo as prescrições do rito próprio aprovado pelos legítimos Pastores da

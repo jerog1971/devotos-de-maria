@@ -1,10 +1,10 @@
 ---
 title: "Os presentes"
 date: 2024-06-07T19:52:00.002Z
-heroImage: "/images/Os presentes.jpeg"
+heroImage: "/images/posts/1147-os-presentes-Os_20presentes.jpeg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE5LV34I7oLiRtSeIv33ekmL7MZeebsyiv2r-PAQEv20Pg0OujG_u5fOZO1Er86TrTwC6_3tnAyfVZgFevcYfNppVYe8OFpmzHDtkUoex15px1aHYK3KX8YwxDvag12oCVCpa8734u_x_xp2IYjk7jzysIRRrf9Gof79pD6RfTStjcth5FaYkFN8dzXM8/s1024/Os%20presentes.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="576" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE5LV34I7oLiRtSeIv33ekmL7MZeebsyiv2r-PAQEv20Pg0OujG_u5fOZO1Er86TrTwC6_3tnAyfVZgFevcYfNppVYe8OFpmzHDtkUoex15px1aHYK3KX8YwxDvag12oCVCpa8734u_x_xp2IYjk7jzysIRRrf9Gof79pD6RfTStjcth5FaYkFN8dzXM8/s320/Os%20presentes.jpeg" width="180" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem presentes e presentes. Quem não gosta de ganhar
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1147-os-presentes-Os_20presentes.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="576" height="320" src="/images/posts/1147-os-presentes-Os_20presentes.jpeg" width="180" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem presentes e presentes. Quem não gosta de ganhar
 aquela lembrancinha, aquele mimo, aquele presente feito pela pessoa, todo
 personalizado ou ainda algo que é a sua cara, aos olhos de quem lhe presenteou?
 Pois bem, acho que podemos dizer que é bem difícil encontrar quem não goste.<o:p></o:p></p><div class="separator" style="clear: both;">

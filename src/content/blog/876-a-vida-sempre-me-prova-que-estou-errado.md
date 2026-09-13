@@ -1,10 +1,10 @@
 ---
 title: "A vida sempre me prova que estou errado"
 date: 2022-02-21T15:48:00.002Z
-heroImage: "/images/21.png"
+heroImage: "/images/posts/876-a-vida-sempre-me-prova-que-estou-err-img-1315805302.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjoXlIQ2QPswEIY2bFKmkiFAU5ZwMbL3eY7hLgPvBu2-r_jXoZbKUB9u3N4I215VLU6JvHbOkzX6ScJITpi_4eTw9jsvoEWnVwN3wqM8El0zFJ8iKQBnea1ZBhnu_-JJWiRY7UlJnjT2gqU3WPtX1w00yqrZy6weD7vHyr34m3zEbV2Fi666x_LdPb9=s381" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="375" data-original-width="381" height="315" src="https://blogger.googleusercontent.com/img/a/AVvXsEjoXlIQ2QPswEIY2bFKmkiFAU5ZwMbL3eY7hLgPvBu2-r_jXoZbKUB9u3N4I215VLU6JvHbOkzX6ScJITpi_4eTw9jsvoEWnVwN3wqM8El0zFJ8iKQBnea1ZBhnu_-JJWiRY7UlJnjT2gqU3WPtX1w00yqrZy6weD7vHyr34m3zEbV2Fi666x_LdPb9=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;">Ora bolas, não é assim que o ser humano de uma forma geral,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/876-a-vida-sempre-me-prova-que-estou-err-img-1315805302.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="375" data-original-width="381" height="315" src="/images/posts/876-a-vida-sempre-me-prova-que-estou-err-img-1315805489.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;">Ora bolas, não é assim que o ser humano de uma forma geral,
 se relaciona com ela? Ah mas eu queria que fosse assim, ah mas eu queria isso,
 ah mas eu queria daquele jeito. O que eu queria mesmo era que não fosse desse jeito
 e sim do jeito que eu gostaria que fosse, do jeito que eu quero.</div><p></p><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">

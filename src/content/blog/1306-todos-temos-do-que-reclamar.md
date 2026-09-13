@@ -1,10 +1,10 @@
 ---
 title: "Todos temos do que reclamar"
 date: 2018-10-11T16:23:00Z
-heroImage: "/images/reclamar.png"
+heroImage: "/images/posts/1306-todos-temos-do-que-reclamar-reclamar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQZ0U6jGytZtKMM29yafJNpiI56wnIFxjqlEOv3CRY4p6SzVSaG3JqCNtaEHwI9XOP6S86Us8sG2k_kITFf80TvNUWYMvGAq2vASVSgJAMnzh_I_t3nfo2UVrh-3gJR7hkv-mW91J3Hzc/s1600/reclamar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQZ0U6jGytZtKMM29yafJNpiI56wnIFxjqlEOv3CRY4p6SzVSaG3JqCNtaEHwI9XOP6S86Us8sG2k_kITFf80TvNUWYMvGAq2vASVSgJAMnzh_I_t3nfo2UVrh-3gJR7hkv-mW91J3Hzc/s320/reclamar.png" width="319" height="320" data-original-width="594" data-original-height="595" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1306-todos-temos-do-que-reclamar-reclamar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1306-todos-temos-do-que-reclamar-reclamar.png" width="319" height="320" data-original-width="594" data-original-height="595" /></a></div>
 A palavra reclamar possui dois significados diretos, pode ser “queixar-se” ou “exigir, reivindicar”. Normalmente, porém, mais a utilizamos na forma menos positiva. Eis aí um grande problema, as reclamações, as queixas nunca devem descer, devem subir ou, no mínimo, manter-se no patamar atual. Vamos entender.</br>
 </br>
 Aquele que espreita, rondando como um leão procurando a quem dar o bote tem sua intenção facilitada quando baixamos a guarda e tratamos de anunciar aos quatro ventos nossas insatisfações com alguma coisa. Ele é excelente ouvinte e não perde tempo em organizar tudo ao nosso redor para que o cenário seja propício para a realização de nossos desejos, por mais desenfreados e desregrados que sejam.</br>

@@ -1,10 +1,10 @@
 ---
 title: "A padroeira"
 date: 2021-10-13T20:19:00.005Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1764-a-padroeira-padroeira_do_brasil.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_P6kr3b3Y6TAx2N8g5fSRpXnmSE38KuQLkQSlWFttUvxRAIGSH3LWGMUFsll506q6aw2yDGFH6CyOY3rDbR27vDqulGnarB5ICl_u_9LJcZvdMVb9cOvzuTkWGTVujASVxxPpW6VKgjQ/s457/padroeira+do+brasil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="457" data-original-width="456" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_P6kr3b3Y6TAx2N8g5fSRpXnmSE38KuQLkQSlWFttUvxRAIGSH3LWGMUFsll506q6aw2yDGFH6CyOY3rDbR27vDqulGnarB5ICl_u_9LJcZvdMVb9cOvzuTkWGTVujASVxxPpW6VKgjQ/s320/padroeira+do+brasil.png" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aquele ou aquela que foi escolhida para ser o intercessor
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1764-a-padroeira-padroeira_do_brasil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="457" data-original-width="456" height="320" src="/images/posts/1764-a-padroeira-padroeira_do_brasil.png" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aquele ou aquela que foi escolhida para ser o intercessor
 junto de Deus. Essa é uma das melhores definições atribuídas para a palavra
 padroeira. No caso do nosso tão sofrido e chacoalhado Brasil – Nossa Senhora da
 Imaculada Conceição Aparecida – tem essa missão: diante de seu filho Jesus,

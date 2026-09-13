@@ -1,10 +1,10 @@
 ---
 title: "Padre Pio de Pietrelcina"
 date: 2017-08-23T14:40:00Z
-heroImage: "/images/Piorezando.png"
+heroImage: "/images/posts/353-padre-pio-de-pietrelcina-Piorezando.png"
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-jj9uZx3W0B4XGx5lZj7XpwjxWhFEZaK24CHeHMJf9jTZ5_XHFyhzm_1c_DaKK_Fdn-ZppBM3CJAsg5yfA6XiqwvxeHMSAnW3RG9r1I4WN2A3c6L4q_NR6gSjDw-EtZt-EfWdEiMZbW4/s1600/Piorezando.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-jj9uZx3W0B4XGx5lZj7XpwjxWhFEZaK24CHeHMJf9jTZ5_XHFyhzm_1c_DaKK_Fdn-ZppBM3CJAsg5yfA6XiqwvxeHMSAnW3RG9r1I4WN2A3c6L4q_NR6gSjDw-EtZt-EfWdEiMZbW4/s320/Piorezando.png" width="320" height="181" data-original-width="634" data-original-height="358" /></a>
+<a href="/images/posts/353-padre-pio-de-pietrelcina-Piorezando.png" imageanchor="1" ><img border="0" src="/images/posts/353-padre-pio-de-pietrelcina-Piorezando.png" width="320" height="181" data-original-width="634" data-original-height="358" /></a>
 </br>
 Padre Pio era o modelo de cada padre... Não se podia assistir "à sua Missa", sem que nos tornássemos, quase sem perceber, "participantes" desse drama que se vivia a cada manhã sobre o altar. Crucificado com o Crucificado, o Padre revivia a paixão de Jesus com grande dor, testemunhada por todos.</br>
 </br>
@@ -59,7 +59,7 @@ Duração - 1:02h</br>
 </br>
 Oração de São Padre Pio, após a comunhão</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXUF_YIBszoCwc0BFZ2J3u3ztOmHxJhJLbspO5h2hgLJ46gHTRISPwsWHwZffLhf7Eo_E6ZsHxpDcUDaZRop7k5w9Ekiuol9Z7uXB72vyVQGzWkx1hyCo__faSzG2fm94O4rPVEtePpr8/s1600/Padre+Pio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXUF_YIBszoCwc0BFZ2J3u3ztOmHxJhJLbspO5h2hgLJ46gHTRISPwsWHwZffLhf7Eo_E6ZsHxpDcUDaZRop7k5w9Ekiuol9Z7uXB72vyVQGzWkx1hyCo__faSzG2fm94O4rPVEtePpr8/s200/Padre+Pio.png" width="160" height="200" data-original-width="385" data-original-height="480" /></a></div></br>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/353-padre-pio-de-pietrelcina-Padre_Pio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/353-padre-pio-de-pietrelcina-Padre_Pio.png" width="160" height="200" data-original-width="385" data-original-height="480" /></a></div></br>
 </br>
 Permanecei, Senhor, comigo, porque é necessária a Vossa presença para não Vos esquecer. Sabeis quão facilmente Vos abandono.
 Permanecei, Senhor, comigo, pois sou fraco e preciso da Vossa força para não cair tantas vezes.

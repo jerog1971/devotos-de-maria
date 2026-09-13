@@ -1,10 +1,10 @@
 ---
 title: "Atração Física Desordenada"
 date: 2018-11-28T17:55:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1656-atração-física-desordenada-atra_25C3_25A7_25C3_25A3o_f_25C3_25ADsica_desordenada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYixOjFWyNyDSqlHqrbkM1ZEqfz5tHEGL7X4buIMyvfkIKmaSCWpf5Rn9khqFaq6N-FCkuja3BOVtcaZftnMG2n9E8DWIBvOhuvDj3Jf8nfXU_x81NvsEdnzXH_ibwZMP7t3ZSB_YCgk/s1600/atra%25C3%25A7%25C3%25A3o_f%25C3%25ADsica_desordenada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYixOjFWyNyDSqlHqrbkM1ZEqfz5tHEGL7X4buIMyvfkIKmaSCWpf5Rn9khqFaq6N-FCkuja3BOVtcaZftnMG2n9E8DWIBvOhuvDj3Jf8nfXU_x81NvsEdnzXH_ibwZMP7t3ZSB_YCgk/s320/atra%25C3%25A7%25C3%25A3o_f%25C3%25ADsica_desordenada.png" width="320" height="293" data-original-width="518" data-original-height="475" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1656-atração-física-desordenada-atra_25C3_25A7_25C3_25A3o_f_25C3_25ADsica_desordenada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1656-atração-física-desordenada-atra_25C3_25A7_25C3_25A3o_f_25C3_25ADsica_desordenada.png" width="320" height="293" data-original-width="518" data-original-height="475" /></a></div>
 O catecismo da Igreja Católica em seu número 2359 diz: “As pessoas homossexuais são chamadas à castidade. Pelas virtudes de autodomínio, educadoras da liberdade interior, às vezes pelo apoio de uma amizade desinteressada, pela oração e pela graça sacramental, podem e devem se aproximar, gradual e resolutamente, da perfeição cristã”. Muito bem, caros leitores, vamos a outra pincelada nesta questão sempre em voga.</br>
 </br>
 Os que defendem a bandeira do homossexualismo condenam a igreja de ser dura demais, exigente demais ao pedir que se viva a castidade. Dizem isso porque parece ser algo além das forças próprias, ou então, não se trata de querer uma facilitação em termos de possibilidade em se viver aquilo que se deseja? São pessoas com essa tendência profundamente enraizada (e, portanto, desordenada) que sustentam uma mudança na doutrina na Igreja de Jesus Cristo (Mateus 16,18).</br>

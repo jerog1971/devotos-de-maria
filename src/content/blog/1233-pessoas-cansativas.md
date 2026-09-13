@@ -1,10 +1,10 @@
 ---
 title: "Pessoas cansativas"
 date: 2022-09-11T00:51:00.004Z
-heroImage: "/images/pessoas cansativas.png"
+heroImage: "/images/posts/1233-pessoas-cansativas-pessoas_20cansativas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vnmGluX8WMg-DCFllUBrTipJPxktp0HWLkNDYzi1xM2ezGkTit9Ino886Zyq4s0yhlaIUakErYEm2TxBZPveyYl7JXETwYlvO_mBjWcCZZllV8-bXmi5o1gFU1PFfvSAL5pr3qum1Ar3cMPTw0ikNAgBDo7e6w94xMeL4Wy8NPF7Tx9d_jXyZl6F/s334/pessoas%20cansativas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="334" height="280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vnmGluX8WMg-DCFllUBrTipJPxktp0HWLkNDYzi1xM2ezGkTit9Ino886Zyq4s0yhlaIUakErYEm2TxBZPveyYl7JXETwYlvO_mBjWcCZZllV8-bXmi5o1gFU1PFfvSAL5pr3qum1Ar3cMPTw0ikNAgBDo7e6w94xMeL4Wy8NPF7Tx9d_jXyZl6F/s320/pessoas%20cansativas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em nossas vidas, no decorrer da caminhada, vamos conhecendo
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1233-pessoas-cansativas-pessoas_20cansativas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="334" height="280" src="/images/posts/1233-pessoas-cansativas-pessoas_20cansativas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em nossas vidas, no decorrer da caminhada, vamos conhecendo
 muitas pessoas que passam por nossas vidas. Algumas simplesmente passam, outras
 ficam um pouco, outras ainda, deixam alguma coisa de bom, outras nos marcam e
 algumas, as que não nos fazem bem, fazem mal.<o:p></o:p></p><div class="separator" style="clear: both;">

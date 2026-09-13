@@ -1,10 +1,10 @@
 ---
 title: "Jesus está de braços abertos"
 date: 2022-09-11T00:48:00.001Z
-heroImage: "/images/Jesus.png"
+heroImage: "/images/posts/906-jesus-está-de-braços-abertos-img-1185272568.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmPHmuqPcdtmyLV03N7lOjcpKKJg2e22Q6P4_39YwpsloTKVFksgEhGzKMqstRWE4LC_XONTqxS3oDyOhr1arGpoC4A5nbRRwhv8ttwd-xnsOJrHLgfnDzC3kULm9GGNHUTznx5p-fM0FJ4krbIpVcOm48IBKTZUqI-LG0vdGZAshevUQ-2tNE-8xy/s260/jesus%20de%20bra%C3%A7os%20abertos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="260" height="246" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmPHmuqPcdtmyLV03N7lOjcpKKJg2e22Q6P4_39YwpsloTKVFksgEhGzKMqstRWE4LC_XONTqxS3oDyOhr1arGpoC4A5nbRRwhv8ttwd-xnsOJrHLgfnDzC3kULm9GGNHUTznx5p-fM0FJ4krbIpVcOm48IBKTZUqI-LG0vdGZAshevUQ-2tNE-8xy/s1600/jesus%20de%20bra%C3%A7os%20abertos.png" width="260" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Numa das parábolas reconhecidas como parábola da
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/906-jesus-está-de-braços-abertos-img-1185272568.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="260" height="246" src="/images/posts/906-jesus-está-de-braços-abertos-img-1156107867.png" width="260" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Numa das parábolas reconhecidas como parábola da
 misericórdia, o pai com seus dois filhos acolhe o que retorna e acalenta o que
 dele não se afasta. As interpretações dizem que o pai misericordioso da parábola
 contada por Jesus representa a atitude que Deus tem para cada um de nós.<o:p></o:p></p><div class="separator" style="clear: both;">

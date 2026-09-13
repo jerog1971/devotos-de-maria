@@ -1,10 +1,10 @@
 ---
 title: "Traiu alguém, traiu Jesus"
 date: 2020-03-20T19:55:00.002Z
-heroImage: "/images/outra.png"
+heroImage: "/images/posts/1146-traiu-alguém-traiu-jesus-outra.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPiNArv98c7Dbcpy47ml8e0NrFMhBN6S3PT4VUFq5u2aPWz94wFvWZWXLIrUNVK2ShqG74rAGKtk2YkpC-YCYHHBu4ieT9VvZzeNenb-mJwUltviwt0kLT2BiHuibfSlXks1NgSJDDheM/s1600/outra.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPiNArv98c7Dbcpy47ml8e0NrFMhBN6S3PT4VUFq5u2aPWz94wFvWZWXLIrUNVK2ShqG74rAGKtk2YkpC-YCYHHBu4ieT9VvZzeNenb-mJwUltviwt0kLT2BiHuibfSlXks1NgSJDDheM/s320/outra.png" width="320" height="226" data-original-width="292" data-original-height="206" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1146-traiu-alguém-traiu-jesus-outra.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1146-traiu-alguém-traiu-jesus-outra.png" width="320" height="226" data-original-width="292" data-original-height="206" /></a></div>
 Jesus disse em Mateus 25,40 e 44 que o que fizermos aos outros é a ele que estamos fazendo e da mesma forma, o que deixarmos de fazer, estamos deixando de fazer a ele. Sendo assim, o ditado popular que diz que “quem ama não trai” não poderia estar mais correto. A partir do momento que você acata os dois mandamentos do amor: amar a Deus sobre todas a coisas, com todo teu coração, alma e entendimento e amar o próximo como a ti mesmo, então, por causa desse teu amor para com Deus (tornando-o incapaz de trai-lo), você passa automaticamente a ser incapaz de trair o próximo, pois, ama o próximo como se ama e faz tudo isso por causa de Deus.</br>
 </br>
 Torna-se livre graças a esse amor, não mais acorrentado pelos amores do mundo, que liga a pessoa aos desejos da matéria. E não se trata apenas das traições amorosas que ocorrem nos relacionamentos como o namoro, noivado e matrimônio. É possível também trair a confiança que alguém depositou em nós.</br>

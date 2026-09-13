@@ -1,10 +1,10 @@
 ---
 title: "Não desista de procurar"
 date: 2024-03-25T19:19:00.003Z
-heroImage: "/images/Não desista de procurar.jpg"
+heroImage: "/images/posts/1417-não-desista-de-procurar-N_C3_A3o_20desista_20de_20procurar.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilA95v2LJMikOwypy-BNjxglzXICEe5ByAldNpeB8Ko9Mid8T7PAgCFFWHB9O1lltzX4yFZY73UwtQnY8RXx75fMnnwwF4bh6UcLqWpNqdQMsR3QcAmNk51tk6wEUKES-H3OlDw8jzugOoI3-9WD-Frr1ai-IVXIHT6IEdsbAYCKo-S1ECJduqOphAk2g/s1632/N%C3%A3o%20desista%20de%20procurar.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilA95v2LJMikOwypy-BNjxglzXICEe5ByAldNpeB8Ko9Mid8T7PAgCFFWHB9O1lltzX4yFZY73UwtQnY8RXx75fMnnwwF4bh6UcLqWpNqdQMsR3QcAmNk51tk6wEUKES-H3OlDw8jzugOoI3-9WD-Frr1ai-IVXIHT6IEdsbAYCKo-S1ECJduqOphAk2g/s320/N%C3%A3o%20desista%20de%20procurar.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 7,7-8 – “Pedi e se vos dará. Buscai e achareis. Batei
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1417-não-desista-de-procurar-N_C3_A3o_20desista_20de_20procurar.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/1417-não-desista-de-procurar-N_C3_A3o_20desista_20de_20procurar.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 7,7-8 – “Pedi e se vos dará. Buscai e achareis. Batei
 e vos será aberto. Porque todo aquele que pede, recebe. Quem busca, acha. A
 quem bate, abrir-se-á”. Pois bem, foi Jesus quem disse isso. O problema é que
 as pessoas rapidamente não acreditam nessa fala porque esquecem que ela não está

@@ -1,10 +1,10 @@
 ---
 title: "Práticas constantes"
 date: 2022-07-15T15:52:00.005Z
-heroImage: "/images/práticas constantes.png"
+heroImage: "/images/posts/234-práticas-constantes-pr_C3_A1ticas_20constantes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOE-rhqVJnKxayk1Fa3UV6wx2RmuVpJ4ErLSX1xkWAPw0FMHvXa2aqlNik4XWz1H6XamrfGmaPqbCDal5ju_mBl4eXkrehKciqwBuq_ilfzl7_veAsb52btxlgPPQMx1ztI5GP38RUA8mRumo6tjCbPicLw4487sXF9tr3ODkortd3mX-qjYrPPTwA/s422/pr%C3%A1ticas%20constantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="422" height="301" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOE-rhqVJnKxayk1Fa3UV6wx2RmuVpJ4ErLSX1xkWAPw0FMHvXa2aqlNik4XWz1H6XamrfGmaPqbCDal5ju_mBl4eXkrehKciqwBuq_ilfzl7_veAsb52btxlgPPQMx1ztI5GP38RUA8mRumo6tjCbPicLw4487sXF9tr3ODkortd3mX-qjYrPPTwA/s320/pr%C3%A1ticas%20constantes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe na realidade da natureza humana a intervenção do
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/234-práticas-constantes-pr_C3_A1ticas_20constantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="422" height="301" src="/images/posts/234-práticas-constantes-pr_C3_A1ticas_20constantes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe na realidade da natureza humana a intervenção do
 tempo. Tempo é algo que precisa ser gerenciado diariamente. Todavia, para o cristão
 que almeja ir ao céu quando morrer, a questão é um pouco mais delicada e séria
 ao mesmo tempo. Sabendo que é composto de corpo e alma, sabendo que o corpo,

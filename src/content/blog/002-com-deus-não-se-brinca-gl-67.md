@@ -1,10 +1,10 @@
 ---
 title: "Com Deus não se brinca (Gl 6,7)"
 date: 2016-07-26T11:00:00Z
-heroImage: "/images/Ausência de Deus.png"
+heroImage: "/images/posts/002-com-deus-não-se-brinca-gl-67-deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s1600/deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s320/deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/002-com-deus-não-se-brinca-gl-67-deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/002-com-deus-não-se-brinca-gl-67-deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
 </br>
 Conta a História Sagrada no I Livro dos Reis de como os Filisteus, atemorizados por tremendos castigos, resolveram devolver a Arca Santa aos Judeus.</br>
 </br>

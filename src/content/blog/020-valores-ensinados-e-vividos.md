@@ -1,10 +1,10 @@
 ---
 title: "Valores ensinados e vividos"
 date: 2023-04-17T14:21:00.008Z
-heroImage: "/images/Pai.jpg"
+heroImage: "/images/posts/020-valores-ensinados-e-vividos-o_20pai_20da_20filha.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFGy-z71DYW02zDzLBm7UswaLfURJj9hekjm3VUHcewR3hQTOEMXeRZMb0WDKcKij2vGkJAr1dhqC3CtlhHQrovO50efkDWPZqqaxI1Nvz3phrEsaUReHv87nXF83y22gBMlzM-fA5OaIKeMqY-2VSwSLtH1YX-LSqbUbfsQo1koJakddmUQ0WKUe/s3264/o%20pai%20da%20filha.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFGy-z71DYW02zDzLBm7UswaLfURJj9hekjm3VUHcewR3hQTOEMXeRZMb0WDKcKij2vGkJAr1dhqC3CtlhHQrovO50efkDWPZqqaxI1Nvz3phrEsaUReHv87nXF83y22gBMlzM-fA5OaIKeMqY-2VSwSLtH1YX-LSqbUbfsQo1koJakddmUQ0WKUe/s320/o%20pai%20da%20filha.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É sempre a mesma coisa; quando as pessoas querem justificar
+<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/020-valores-ensinados-e-vividos-o_20pai_20da_20filha.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/020-valores-ensinados-e-vividos-o_20pai_20da_20filha.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É sempre a mesma coisa; quando as pessoas querem justificar
 que sabem o que é certo, mas mesmo assim fazem o que não é, conscientemente,
 saem com essa desculpa de "faça o que eu falo e não faça o que eu
 faço". Isso é muito triste, é um pouco caso consigo mesmo e com aqueles

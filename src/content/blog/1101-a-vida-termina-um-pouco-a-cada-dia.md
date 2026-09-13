@@ -1,10 +1,10 @@
 ---
 title: "A vida termina um pouco a cada dia"
 date: 2023-09-28T21:56:00.003Z
-heroImage: "/images/fim da vida(1).png"
+heroImage: "/images/posts/1101-a-vida-termina-um-pouco-a-cada-dia-fim_20da_20vida.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSDd18WxmBShIxnCqsVxh1dfbTjkMTLbQTQ-d0IZG4adWKIRFvIPwdp5ydQxteGs6J0PJMtQdk5-QFDvskrOWEHzguKFPtffDo7jxzY_HUHi-r4_ZQnJdIUsY0TB5bz57n6KKsTjJZyIz5nZb_ETeIbw_olRA1YWsYkisQIQ0VchJJV7zTtbu1zJ2uubA/s377/fim%20da%20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="377" height="282" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSDd18WxmBShIxnCqsVxh1dfbTjkMTLbQTQ-d0IZG4adWKIRFvIPwdp5ydQxteGs6J0PJMtQdk5-QFDvskrOWEHzguKFPtffDo7jxzY_HUHi-r4_ZQnJdIUsY0TB5bz57n6KKsTjJZyIz5nZb_ETeIbw_olRA1YWsYkisQIQ0VchJJV7zTtbu1zJ2uubA/s320/fim%20da%20vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, pensai constantemente em seus novíssimos e não pecareis.
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1101-a-vida-termina-um-pouco-a-cada-dia-fim_20da_20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="377" height="282" src="/images/posts/1101-a-vida-termina-um-pouco-a-cada-dia-fim_20da_20vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, pensai constantemente em seus novíssimos e não pecareis.
 Este trecho retirado do livro do Eclesiástico nos atenta para o fato da
 realidade derradeira que todos irão passar; diga-se de passagem, já comentada
 por aqui, mas, nunca é demais, pois, até o próprio Cristo ensinou algumas

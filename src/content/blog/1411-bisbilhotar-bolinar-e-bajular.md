@@ -1,10 +1,10 @@
 ---
 title: "Bisbilhotar, Bolinar e Bajular"
 date: 2022-03-08T02:15:00.002Z
-heroImage: "/images/dom.png"
+heroImage: "/images/posts/1411-bisbilhotar-bolinar-e-bajular-AVvXsEhMJ-LPn-02NNf_JUYjiGsdtgTvluprGZn6XMA1-iE9QDomc93AuXoLD2wPq9D9I6wYZTqTSTooQqHzcaT0bkDTVSwKJ7qFpwQSkXhcEctIyhXEd2x0F8WVjFFaSSyHR1oUVYa6xDY9DzSQlKBVidPT-IY_ECLRNgCfIkGu03brHikIcstYbJPtM1g7_s379.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhMJ-LPn-02NNf_JUYjiGsdtgTvluprGZn6XMA1-iE9QDomc93AuXoLD2wPq9D9I6wYZTqTSTooQqHzcaT0bkDTVSwKJ7qFpwQSkXhcEctIyhXEd2x0F8WVjFFaSSyHR1oUVYa6xDY9DzSQlKBVidPT-IY_ECLRNgCfIkGu03brHikIcstYbJPtM1g7=s379" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="379" data-original-width="335" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEhMJ-LPn-02NNf_JUYjiGsdtgTvluprGZn6XMA1-iE9QDomc93AuXoLD2wPq9D9I6wYZTqTSTooQqHzcaT0bkDTVSwKJ7qFpwQSkXhcEctIyhXEd2x0F8WVjFFaSSyHR1oUVYa6xDY9DzSQlKBVidPT-IY_ECLRNgCfIkGu03brHikIcstYbJPtM1g7=s320" width="283" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eis aí três atitudes que as pessoas fazem que perigosamente
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1411-bisbilhotar-bolinar-e-bajular-AVvXsEhMJ-LPn-02NNf_JUYjiGsdtgTvluprGZn6XMA1-iE9QDomc93AuXoLD2wPq9D9I6wYZTqTSTooQqHzcaT0bkDTVSwKJ7qFpwQSkXhcEctIyhXEd2x0F8WVjFFaSSyHR1oUVYa6xDY9DzSQlKBVidPT-IY_ECLRNgCfIkGu03brHikIcstYbJPtM1g7_s379.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="379" data-original-width="335" height="320" src="/images/posts/1411-bisbilhotar-bolinar-e-bajular-AVvXsEhMJ-LPn-02NNf_JUYjiGsdtgTvluprGZn6XMA1-iE9QDomc93AuXoLD2wPq9D9I6wYZTqTSTooQqHzcaT0bkDTVSwKJ7qFpwQSkXhcEctIyhXEd2x0F8WVjFFaSSyHR1oUVYa6xDY9DzSQlKBVidPT-IY_ECLRNgCfIkGu03brHikIcstYbJPtM1g7_s320.jpg" width="283" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eis aí três atitudes que as pessoas fazem que perigosamente
 possuem uma origem em vertentes delicadas e que podem, muito bem, acontecer por
 conta de uma origem diferente da divina. Jesus nos ensinou que não devemos
 bisbilhotar nos problemas dos outros. Alguém pode arriscar dizer que ele não

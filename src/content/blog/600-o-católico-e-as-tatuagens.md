@@ -1,10 +1,10 @@
 ---
 title: "O católico e as tatuagens"
 date: 2016-06-23T15:30:00.003Z
-heroImage: "/images/rock_tatuagem.png"
+heroImage: "/images/posts/600-o-católico-e-as-tatuagens-tatuagem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP7ZWuKcvO60LL3Os1dInKwu5cLJ5RhO1JtPphLeelH5H6eYM25hohJBcBHUMR39dtr2bHgdR7CXwjF9eSaOawZMbRL3QcuiCFyXerVO63FEhZwaYYJactqCAAUNHBFeajGuzhUeF8C8/s1600/tatuagem.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="259" data-original-width="221" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP7ZWuKcvO60LL3Os1dInKwu5cLJ5RhO1JtPphLeelH5H6eYM25hohJBcBHUMR39dtr2bHgdR7CXwjF9eSaOawZMbRL3QcuiCFyXerVO63FEhZwaYYJactqCAAUNHBFeajGuzhUeF8C8/s320/tatuagem.png" width="273" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/600-o-católico-e-as-tatuagens-tatuagem.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="259" data-original-width="221" height="320" src="/images/posts/600-o-católico-e-as-tatuagens-tatuagem.png" width="273" /></a></div>
 
 Olá caros leitores. Hoje vamos neste artigo colocar mais um pouco de luz nos conceitos tão abafados sobre tatuagens e piercings. Já nos alertava Nossa Senhora em Fátima, que viriam muitas modas no mundo que ofenderiam seu filho Nosso Senhor Jesus Cristo.&nbsp;
 <div><br /></div><div>Percebemos então que, nosso corpo, presente de Deus, não nos pertence pois foi comprado a preço de sangue. E essa história de que algo não é mais pecado está completamente fora de questão. Vai contra a infinita misericórdia de Deus para com toda a humanidade. Em Malaquias 3,6 Deus nos diz: "Eu sou o Senhor seu Deus e não mudo". E ainda em Isaías 45,23: "Minhas palavras não serão revogadas".</div><div><br /></div><div>Como diz Madre Tereza de Calcutá, "é simples assim". Nada de ficarmos fazendo ginásticas linguísticas e de interpretação para adaptarmos nossas faltas graves ou não, aos nossos interesses pessoais. Um pecado sempre será pecado e é uma realidade espiritual que pode nos levar à perdição.

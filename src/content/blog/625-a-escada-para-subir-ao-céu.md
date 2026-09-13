@@ -1,10 +1,10 @@
 ---
 title: "A escada para subir ao céu"
 date: 2016-07-07T11:30:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/625-a-escada-para-subir-ao-céu-mortifica_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIQsL1bjsurHQPOcvp8V4eAE16cbEs5e2jvZeb2TFYQUBJ124KgSnVVxks_dlR2opw8DiUMyUuDc0AvU4yXr85FWIVAbuoDkOhKh_mQP-gl74EHPVXuVYbQvRKFTVv_vYncvwomz6ptY/s1600/mortifica%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIQsL1bjsurHQPOcvp8V4eAE16cbEs5e2jvZeb2TFYQUBJ124KgSnVVxks_dlR2opw8DiUMyUuDc0AvU4yXr85FWIVAbuoDkOhKh_mQP-gl74EHPVXuVYbQvRKFTVv_vYncvwomz6ptY/s320/mortifica%25C3%25A7%25C3%25A3o.png" width="320" height="273" data-original-width="419" data-original-height="357" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/625-a-escada-para-subir-ao-céu-mortifica_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/625-a-escada-para-subir-ao-céu-mortifica_25C3_25A7_25C3_25A3o.png" width="320" height="273" data-original-width="419" data-original-height="357" /></a></div>
 </br>
 Embora seja contraditória, tem atraído muitas pessoas a ideia de um Cristianismo sem sofrimento, sem penitências nem mortificações. Não se fala mais da necessidade de renunciar a si mesmo e tomar a própria Cruz (Lucas 9,23), embora tenha sido o próprio Cristo a sublinhar tal obrigação. Não se ostenta mais a figura de Jesus Crucificado nas paredes de construções e nem mesmo nas igrejas, como se a constante lembrança das dores de Cristo fosse penosa ou até perigosa para as pessoas.</br>
 </br>

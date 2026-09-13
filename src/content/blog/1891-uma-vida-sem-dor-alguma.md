@@ -1,10 +1,10 @@
 ---
 title: "Uma vida sem dor alguma"
 date: 2021-05-11T23:13:00.001Z
-heroImage: "/images/dor.png"
+heroImage: "/images/posts/1891-uma-vida-sem-dor-alguma-dor_na_vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVVRj9f7rZyTmb4vKBMYtBdb12u-R2gOyPdKQ7jU7Sd9sxAGh6J-kmhlDRQiUzTQBvgqxEHLPYUBMGiDZxittMf7cH3TnJcPGgAiCniOxec-gbsIJMXjtQA1g0CJOB6SDQV9wg5OzraFM/s403/dor+na+vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="341" data-original-width="403" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVVRj9f7rZyTmb4vKBMYtBdb12u-R2gOyPdKQ7jU7Sd9sxAGh6J-kmhlDRQiUzTQBvgqxEHLPYUBMGiDZxittMf7cH3TnJcPGgAiCniOxec-gbsIJMXjtQA1g0CJOB6SDQV9wg5OzraFM/s320/dor+na+vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo já aprendeu por experiência própria que a dor é
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1891-uma-vida-sem-dor-alguma-dor_na_vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="341" data-original-width="403" src="/images/posts/1891-uma-vida-sem-dor-alguma-dor_na_vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo já aprendeu por experiência própria que a dor é
 um ingrediente presente na vida de cada um. Para ela, não existe exceção.
 Ninguém foi, é ou será poupado de todos os tipos de dores que existem. Físicas,
 psicológicas, sentimentais e espirituais, não há como percorrermos essa vida,

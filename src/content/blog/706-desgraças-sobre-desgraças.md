@@ -1,10 +1,10 @@
 ---
 title: "Desgraças sobre desgraças"
 date: 2022-10-31T20:26:00.005Z
-heroImage: "/images/desgraças da vida.png"
+heroImage: "/images/posts/706-desgraças-sobre-desgraças-desgra_C3_A7as.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvBG1NBDcirsusdlpo5kVsIWiWyxJ7QzOW_UmkbGPZTeUfolAl64sxeHglteDBu0tDHtfS6tVE7BVdeQVCNKIiZlGLD8MaDPuWoR1c3hjP2mPNPZpfQ3-QO45HJLfJdyA7aq9qFOkviJ2RsOOdAMHmPd4WAVEn5joXN9Kamm8wLcoNoQIO7rqPw-0F/s378/desgra%C3%A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="378" data-original-width="363" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvBG1NBDcirsusdlpo5kVsIWiWyxJ7QzOW_UmkbGPZTeUfolAl64sxeHglteDBu0tDHtfS6tVE7BVdeQVCNKIiZlGLD8MaDPuWoR1c3hjP2mPNPZpfQ3-QO45HJLfJdyA7aq9qFOkviJ2RsOOdAMHmPd4WAVEn5joXN9Kamm8wLcoNoQIO7rqPw-0F/s320/desgra%C3%A7as.png" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não parece às vezes que a vida é assim? Nos parece que
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/706-desgraças-sobre-desgraças-desgra_C3_A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="378" data-original-width="363" height="320" src="/images/posts/706-desgraças-sobre-desgraças-desgra_C3_A7as.png" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não parece às vezes que a vida é assim? Nos parece que
 durante o caminhar o que existe é uma fila imensa, daquelas de virar o
 quarteirão, de problemas aguardando a vez de se pronunciarem em nossas vidas.
 Puxa vida, vai entender esse peneirar, que Jesus nos disse em seus evangelhos,

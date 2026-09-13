@@ -1,10 +1,10 @@
 ---
 title: "Os sofrimentos são necessários"
 date: 2020-11-27T13:52:00.003Z
-heroImage: "/images/sofrimentos.png"
+heroImage: "/images/posts/1730-os-sofrimentos-são-necessários-sofrimentos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigap2QbC4Ctc6H_EQS6u7YkbVKcy7pyA1aIm_KVRg4eZGzyVs13qjKkebAX4Rb8lZxKo8WbyFibzHZaPbY9S3r6Pi3OSA2TCD7mfxLT0yCqBSMJ-rjMC5nktNfGcrt_Q-5FU9zdVudXLI/s563/sofrimentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="563" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigap2QbC4Ctc6H_EQS6u7YkbVKcy7pyA1aIm_KVRg4eZGzyVs13qjKkebAX4Rb8lZxKo8WbyFibzHZaPbY9S3r6Pi3OSA2TCD7mfxLT0yCqBSMJ-rjMC5nktNfGcrt_Q-5FU9zdVudXLI/s320/sofrimentos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Faz parte da natureza humana sofrer. Inicialmente não era
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1730-os-sofrimentos-são-necessários-sofrimentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="563" src="/images/posts/1730-os-sofrimentos-são-necessários-sofrimentos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Faz parte da natureza humana sofrer. Inicialmente não era
 para ser assim, Deus ao final da tarde passeava com suas criaturas pelo jardim –
 lemos em Gênesis. Porém, o homem escolheu não dar ouvidos somente ao seu criador
 e permitiu que sua natureza padecesse as penas dessa decisão. Que erro

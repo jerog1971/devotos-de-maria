@@ -1,10 +1,10 @@
 ---
 title: "No controle da vida"
 date: 2021-10-05T12:18:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/595-no-controle-da-vida-no_controle.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vXTd3sg_kPytH4m-HY0fowuNmKHSPzdO9lXya374P1x21rkrbUHZlnq7JPrrc0H9nkp3AzJXrLeuMRFnpd256c8A9abHQJb0CV-AaOBKFHmW0Vr0vSwaIb3ryNcSMulq9ttckvESQ-g/s366/no+controle.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="366" height="257" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vXTd3sg_kPytH4m-HY0fowuNmKHSPzdO9lXya374P1x21rkrbUHZlnq7JPrrc0H9nkp3AzJXrLeuMRFnpd256c8A9abHQJb0CV-AaOBKFHmW0Vr0vSwaIb3ryNcSMulq9ttckvESQ-g/s320/no+controle.png" width="320" /></a></div><p><br /></p><p></p><p class="MsoNormal">Os santos já diziam que “o homem planeja e Deus ri”. Com
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/595-no-controle-da-vida-no_controle.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="366" height="257" src="/images/posts/595-no-controle-da-vida-no_controle.png" width="320" /></a></div><p><br /></p><p></p><p class="MsoNormal">Os santos já diziam que “o homem planeja e Deus ri”. Com
 isso querem nos recordar que nossa vida tem uma extensão desconhecida para nós.
 É certo que ouvimos falar da liberdade que Deus nos concedeu para agirmos por
 aqui; no entanto, parece ser uma liberdade perigosa, pois ela sempre remete a

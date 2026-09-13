@@ -1,10 +1,10 @@
 ---
 title: "É preciso muito cuidado, muita atenção"
 date: 2019-08-20T17:03:00.001Z
-heroImage: "/images/tigre.jpg"
+heroImage: "/images/posts/1236-é-preciso-muito-cuidado-muita-atenção-tigre.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgntzJc-9kjfqR4UypS5LYkkqhnyjivdn236AQx2wN4k7E5e4ticdV_djPjTXZSDIaYnpk6vL-RuvGLNBogHNNX_Adh0uis4sTzqYLlw1xxaqu6D50fW99Ysl0ZNQ3XMWosD7djBjOg-qQ/s1600/tigre.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgntzJc-9kjfqR4UypS5LYkkqhnyjivdn236AQx2wN4k7E5e4ticdV_djPjTXZSDIaYnpk6vL-RuvGLNBogHNNX_Adh0uis4sTzqYLlw1xxaqu6D50fW99Ysl0ZNQ3XMWosD7djBjOg-qQ/s320/tigre.jpg" width="320" height="240" data-original-width="1600" data-original-height="1200" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1236-é-preciso-muito-cuidado-muita-atenção-tigre.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1236-é-preciso-muito-cuidado-muita-atenção-tigre.jpg" width="320" height="240" data-original-width="1600" data-original-height="1200" /></a></div>
 Quando precisamos fazer alguma coisa que possui um certo grau de importância sabemos muito bem que devemos colocar nosso empenho e atenção; capricho, esmero, cuidado, dedicação e por aí vai. Já se ouviu dizer nos ditados populares que que o tempo que gastamos para fazer algo de modo correto é o mesmo que gastamos para fazê-lo de modo errado. Ah não, alguém vai dizer que “dando aquele jeitinho e jogo de cintura” dá para se fazer mais rápido. Ora, realmente dá, mas é preciso levar em conta que muito provavelmente você terá que refazer alguma coisa, então, no final das contas, vai levar o mesmo tempo. Esse é o teor do ditado popular.</br>
 </br>
 Na vida espiritual de cada um rumo ao céu, tudo funciona da mesma forma. A subida para o céu é difícil já fazendo o que se deve fazer para chegar lá. Se não agimos assim, sabemos muito bem que as quedas que levamos pelo caminho, além de nos atrasar e as vezes nos derrubar afastando-nos da meta, atrasa a conquista porque precisamos recomeçar. A cada queda (cada pecado), precisamos voltar para a vida da graça, deixamos o mal quebrar nosso frágil vaso de barro onde insistimos em defende-lo sozinhos contra os ataques do maligno.</br>

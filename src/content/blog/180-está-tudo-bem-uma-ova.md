@@ -1,10 +1,10 @@
 ---
 title: "Está tudo bem uma ova"
 date: 2023-09-14T21:41:00.004Z
-heroImage: "/images/tudo esta bem uma ova.png"
+heroImage: "/images/posts/180-está-tudo-bem-uma-ova-tudo_20esta_20bem_20uma_20ova.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE9uiKKpbAIcnBmwurBLAH4w8237QQX2fWl1fd0coGcnbma8pkPCgSStE1um8D4xByY_XZMPaYhcM-XkAwd-mWFo-B-D-x3MZABh_x_t2CQ7umHn0WegcoooDSqYonKUCNWl_Tk2Dooeh6GRLDUJfJDhuDnVyzuodlachP1Xj0RXus0ESLaKmqMg9kTYY/s544/tudo%20esta%20bem%20uma%20ova.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="467" data-original-width="544" height="275" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE9uiKKpbAIcnBmwurBLAH4w8237QQX2fWl1fd0coGcnbma8pkPCgSStE1um8D4xByY_XZMPaYhcM-XkAwd-mWFo-B-D-x3MZABh_x_t2CQ7umHn0WegcoooDSqYonKUCNWl_Tk2Dooeh6GRLDUJfJDhuDnVyzuodlachP1Xj0RXus0ESLaKmqMg9kTYY/s320/tudo%20esta%20bem%20uma%20ova.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, esse hábito de respondermos que está tudo bem,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/180-está-tudo-bem-uma-ova-tudo_20esta_20bem_20uma_20ova.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="467" data-original-width="544" height="275" src="/images/posts/180-está-tudo-bem-uma-ova-tudo_20esta_20bem_20uma_20ova.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, esse hábito de respondermos que está tudo bem,
 meio que automaticamente, é uma atitude quase ingênua; ou então é proposital
 por causa de algum critério ou ainda para acalmar a consciência. Vamos lá
 desmiuçar a coisa.<o:p></o:p></p><div class="separator" style="clear: both;">

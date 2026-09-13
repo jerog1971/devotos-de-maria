@@ -1,10 +1,10 @@
 ---
 title: "Quem sou eu"
 date: 2017-02-23T21:23:00Z
-heroImage: "/images/trabalho.png"
+heroImage: "/images/posts/1534-quem-sou-eu-trabalho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCJhg_UYhQO16urm9Z91GHoqvAJA3_sWRQGaU5zghF5t_y1VHTBbdpd-cSEd2LHBq8J7Fhs2Ayo-40mWb-VIJBznBWQF1qerE6ROwumTLlxY4OUCaelrkjmMEcv6dnYhc1et0OJuHZTE/s1600/trabalho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCJhg_UYhQO16urm9Z91GHoqvAJA3_sWRQGaU5zghF5t_y1VHTBbdpd-cSEd2LHBq8J7Fhs2Ayo-40mWb-VIJBznBWQF1qerE6ROwumTLlxY4OUCaelrkjmMEcv6dnYhc1et0OJuHZTE/s320/trabalho.png" width="277" height="320" data-original-width="277" data-original-height="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1534-quem-sou-eu-trabalho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1534-quem-sou-eu-trabalho.png" width="277" height="320" data-original-width="277" data-original-height="320" /></a></div>
 Precisamos nos perguntar sempre isso. Quem somos nós, o que estamos fazendo de bom, de ruim, pra que estamos servindo nessa vida. O bem que fazemos é o suficiente? Quanto mal fazemos? Temos dons que colocamos a serviço do povo de Deus? Temos tanto a refletir sobre nossa condição humana, nossa existência, nossas qualidades e defeitos. Nossas insistentes teimosias que tanto nos afastam das pessoas, de Deus e do evangelho. Pobre de cada um de nós, recebemos tanto de Deus e ainda reclamamos. Fazemos o bem para quem gostamos e ainda esperamos uma medalha de honra ao mérito por isso. Por outro lado nossos inimigos por eles nem rezamos, como nos manda Jesus. Ele nos manda, não nos convida a isso.</br>
 </br>
 Muitos dizem que não somos obrigados a nada, que tudo é um convite. Que Deus está sempre a nos convidar. Verdade, mas quando alguém resolve entrar num time de futebol a convite precisa seguir regras de jogo e regulamentos do time. Ao aceitar o convite com ele vem as obrigações e deveres, assumidos de forma consciente.</br>

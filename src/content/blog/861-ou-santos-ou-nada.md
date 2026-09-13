@@ -1,10 +1,10 @@
 ---
 title: "Ou santos ou nada"
 date: 2017-02-02T15:55:00.001Z
-heroImage: "/images/modelos de santidade.png"
+heroImage: "/images/posts/861-ou-santos-ou-nada-santidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifKHPIAfUjptHVYc6o-C5jEPy1RAVFdIJ-h-u2P1ltHR5gqGkKSFZxi2ZIoLDXcz-nk4-ybsSKqbDylozARHwtiby5UcASOj_TBRCdMn4xiHbbZBo3DbyR2oHgx-nwOxm1OGBqCtKLtiw/s1600/santidade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="301" data-original-width="281" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifKHPIAfUjptHVYc6o-C5jEPy1RAVFdIJ-h-u2P1ltHR5gqGkKSFZxi2ZIoLDXcz-nk4-ybsSKqbDylozARHwtiby5UcASOj_TBRCdMn4xiHbbZBo3DbyR2oHgx-nwOxm1OGBqCtKLtiw/s320/santidade.png" width="299" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/861-ou-santos-ou-nada-santidade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="301" data-original-width="281" height="320" src="/images/posts/861-ou-santos-ou-nada-santidade.png" width="299" /></a></div>
 É preciso servirmos ao Senhor nosso Deus, em santidade e justiça, em sua presença, todos os dias de nossa vida, assim encontramos escrito no evangelho de São Lucas 1,74-75. Portanto, para que isso ocorra de fato é preciso sem cessar renovar o sentimento de nossa alma e nos revestir do homem novo, criado a imagem de Deus – Efésios 4,23-24, pois sem esta santidade da qual falamos, ninguém poderá ver o Senhor – Hebreus 12,14.
 
 Uma santidade almejada que tem como termo final a vida eterna na glória dos céus – Romanos 6,22 e por isso, devemos trabalhar para conquista-la fazendo nossa parte dentro do projeto de amor que Deus tem para cada um de nós. Como diz o apóstolo: “ponde agora os vossos membros a serviço da justiça para chegar à santidade – Romanos 6,19.”

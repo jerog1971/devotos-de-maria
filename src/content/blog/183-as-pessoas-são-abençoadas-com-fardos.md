@@ -1,10 +1,10 @@
 ---
 title: "As pessoas são abençoadas com fardos"
 date: 2022-06-21T15:56:00.002Z
-heroImage: "/images/fardo.png"
+heroImage: "/images/posts/183-as-pessoas-são-abençoadas-com-fardos-fardo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswYVUDZYH6lSqlX2y2m710TAItFvY5J86fbE-_TxJGywmNn0PGnLk09UqhXctzLSGDyfNWTqkBITZflqITFdgVfxcEVBfzr-BM5LHRgpPS4YjVluWZoOsjhBQqsJ94iZsdAG1BkFDrSq8ZS-ZgIjm8A8e467eb7tpwi8GSav-vph4CLSrOWdU_f97/s445/fardo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="443" data-original-width="445" height="319" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswYVUDZYH6lSqlX2y2m710TAItFvY5J86fbE-_TxJGywmNn0PGnLk09UqhXctzLSGDyfNWTqkBITZflqITFdgVfxcEVBfzr-BM5LHRgpPS4YjVluWZoOsjhBQqsJ94iZsdAG1BkFDrSq8ZS-ZgIjm8A8e467eb7tpwi8GSav-vph4CLSrOWdU_f97/s320/fardo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As pessoas durante sua caminhada rumo ao céu sofrem a tentação
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/183-as-pessoas-são-abençoadas-com-fardos-fardo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="443" data-original-width="445" height="319" src="/images/posts/183-as-pessoas-são-abençoadas-com-fardos-fardo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As pessoas durante sua caminhada rumo ao céu sofrem a tentação
 da confusão das bênçãos. Elas acham que uma vida de bênçãos está relacionada
 somente com coisas boas, mas isso é comprovadamente confirmado nas sagradas
 escrituras de que as coisas não passam nem perto de ser assim.<o:p></o:p></p><div class="separator" style="clear: both;">

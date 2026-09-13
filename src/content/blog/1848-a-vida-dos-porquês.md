@@ -1,10 +1,10 @@
 ---
 title: "A vida dos porquês"
 date: 2022-06-23T16:26:00.002Z
-heroImage: "/images/a vida dos porquês.png"
+heroImage: "/images/posts/1848-a-vida-dos-porquês-a_20vida_20dos_20porqu_C3_AAs.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7v-5grGZOk0q_K0fBKpgOXIcvCmdx1AHg24ciHDJtg0ZCRKRfDiBKm-1OhRwhu3bQDy1peHZSp0wpHrrLbXwJqO8FIcnb34giyvVvEbx7xshms9qNYr0-VoCtRu0TC8d1CHJmmEFwxnsqLEn00-ML9ddGBdSFJ7xHB95h3nShQY0IwSc150Rg9F-b/s759/a%20vida%20dos%20porqu%C3%AAs.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="759" data-original-width="741" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7v-5grGZOk0q_K0fBKpgOXIcvCmdx1AHg24ciHDJtg0ZCRKRfDiBKm-1OhRwhu3bQDy1peHZSp0wpHrrLbXwJqO8FIcnb34giyvVvEbx7xshms9qNYr0-VoCtRu0TC8d1CHJmmEFwxnsqLEn00-ML9ddGBdSFJ7xHB95h3nShQY0IwSc150Rg9F-b/s320/a%20vida%20dos%20porqu%C3%AAs.png" width="312" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é assim que muitas vezes a vida nos parece? Repleta de
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1848-a-vida-dos-porquês-a_20vida_20dos_20porqu_C3_AAs.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="759" data-original-width="741" height="320" src="/images/posts/1848-a-vida-dos-porquês-a_20vida_20dos_20porqu_C3_AAs.png" width="312" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é assim que muitas vezes a vida nos parece? Repleta de
 situações que precisamos entender porque estamos passando por elas?. Tudo é
 muito complexo e no final das contas, interligado. Como estamos vivendo está
 relacionado ao porque das coisas. Há quem adote este ou aquele estilo de vida; há

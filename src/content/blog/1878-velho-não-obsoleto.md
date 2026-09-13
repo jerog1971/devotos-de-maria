@@ -1,10 +1,10 @@
 ---
 title: "Velho, não obsoleto"
 date: 2021-02-08T10:22:00.001Z
-heroImage: "/images/homem_velho.png"
+heroImage: "/images/posts/1878-velho-não-obsoleto-velho.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYl7Cy_fXW8zy5RyhXLSDMvIC_bgnoC6fZIYtdFSSdWY9jMyntSnSxKMePQpDgwG3LGbikZIOPXBYG9tns-KoF41N42v9V5PDvfeQb4vXOypNVaXtbnDiwQC0Aj4SBnLSx9NrIz-Ebf1M/s316/velho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="232" data-original-width="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYl7Cy_fXW8zy5RyhXLSDMvIC_bgnoC6fZIYtdFSSdWY9jMyntSnSxKMePQpDgwG3LGbikZIOPXBYG9tns-KoF41N42v9V5PDvfeQb4vXOypNVaXtbnDiwQC0Aj4SBnLSx9NrIz-Ebf1M/s0/velho.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Para Deus muita coisa não muda; poderíamos quem sabe até
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1878-velho-não-obsoleto-velho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="232" data-original-width="316" src="/images/posts/1878-velho-não-obsoleto-velho.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Para Deus muita coisa não muda; poderíamos quem sabe até
 afirmar que, em relação ao que dele vem, nada muda. Dessa forma, se fosse o
 contrário, haveria injustiça entre as gerações ao longo dos séculos, pois, para
 cada uma existiria um grau e conjunto diferente de regras a serem cumpridas

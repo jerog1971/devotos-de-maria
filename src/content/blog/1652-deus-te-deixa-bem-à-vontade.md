@@ -1,10 +1,10 @@
 ---
 title: "Deus te deixa bem à vontade"
 date: 2019-05-24T20:19:00.001Z
-heroImage: "/images/importancia.png"
+heroImage: "/images/posts/1652-deus-te-deixa-bem-à-vontade-importancia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLvkpQCIUbiFUPhDrIHyXRdSRg43UZu9PPDZBophrSvaxOPldLBd6gCeJnrxbQ2WtrK7EW7jxMIlxGTLVRV41mw3diMWDJ2QzpeR4rppfQQm6lIcWoy1qQBzo-yUgfGJu5-ohRK8NaxQ/s1600/importancia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLvkpQCIUbiFUPhDrIHyXRdSRg43UZu9PPDZBophrSvaxOPldLBd6gCeJnrxbQ2WtrK7EW7jxMIlxGTLVRV41mw3diMWDJ2QzpeR4rppfQQm6lIcWoy1qQBzo-yUgfGJu5-ohRK8NaxQ/s320/importancia.png" width="244" height="320" data-original-width="387" data-original-height="508" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1652-deus-te-deixa-bem-à-vontade-importancia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1652-deus-te-deixa-bem-à-vontade-importancia.png" width="244" height="320" data-original-width="387" data-original-height="508" /></a></div>
 Notaram, caros leitores, que muitas pessoas reclamam sem razão de Deus? Se tem alguém que não incomoda ninguém esse alguém é o Altíssimo. Nos deu a liberdade de escolha e como o pai misericordioso do evangelho aceita que o filho reclame os direitos e saia em busca de outra vida. Não vai atrás, porém, faz festa com o retorno do mesmo para a casa do pai.</br>
 </br>
 Podemos aprontar à vontade, fazermos realmente o que quisermos, nossa vida pode ser como uma salada de frutas. Vejamos só, não existe motivo para reclamarmos de Deus. Lá do alto dos céus ele fica acompanhando nosso desempenho nesta etapa de nossas vidas, entristecendo-se com certeza em ver quantas quedas e quantos desvarios as pessoas vão cometendo em suas vidas. Olhem lá, diz ele para Jesus e o Espírito Santo, como fazem burrada esses humanos e como dão ouvidos tão facilmente para satanás.</br>

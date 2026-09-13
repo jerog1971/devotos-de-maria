@@ -1,10 +1,10 @@
 ---
 title: "O que é essencial?"
 date: 2020-05-19T20:45:00Z
-heroImage: "/images/essencial.png"
+heroImage: "/images/posts/1353-o-que-é-essencial-AVvXsEjIcr3AgFSjyG8EstNijJJy2vpU-icaYYqT7nlbgn2yghKUhsEqc003ENualoiaC8FHqifRxAFmA_AyO7Rp0w-uVM21aRZzoqpVmI2Zy2zZyslatygLltLYmxjx2cQzAVB-PkOhsyljPKk.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIcr3AgFSjyG8EstNijJJy2vpU-icaYYqT7nlbgn2yghKUhsEqc003ENualoiaC8FHqifRxAFmA_AyO7Rp0w-uVM21aRZzoqpVmI2Zy2zZyslatygLltLYmxjx2cQzAVB-PkOhsyljPKk/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="682" data-original-width="869" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIcr3AgFSjyG8EstNijJJy2vpU-icaYYqT7nlbgn2yghKUhsEqc003ENualoiaC8FHqifRxAFmA_AyO7Rp0w-uVM21aRZzoqpVmI2Zy2zZyslatygLltLYmxjx2cQzAVB-PkOhsyljPKk/s320/essencial.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Qualquer pessoa pode fazer uma lista do que julga ser
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1353-o-que-é-essencial-AVvXsEjIcr3AgFSjyG8EstNijJJy2vpU-icaYYqT7nlbgn2yghKUhsEqc003ENualoiaC8FHqifRxAFmA_AyO7Rp0w-uVM21aRZzoqpVmI2Zy2zZyslatygLltLYmxjx2cQzAVB-PkOhsyljPKk.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="682" data-original-width="869" src="/images/posts/1353-o-que-é-essencial-AVvXsEjIcr3AgFSjyG8EstNijJJy2vpU-icaYYqT7nlbgn2yghKUhsEqc003ENualoiaC8FHqifRxAFmA_AyO7Rp0w-uVM21aRZzoqpVmI2Zy2zZyslatygLltLYmxjx2cQzAVB-PkOhsyljPKk.jpgs320/essencial.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Qualquer pessoa pode fazer uma lista do que julga ser
 essencial para viver, tanto na esfera material quanto na esfera espiritual. As
 pessoas podem com muita propriedade apontar as necessidades que não podem ficar
 de lado. Saúde, alimentação, vestimenta são sem dúvida descritas como

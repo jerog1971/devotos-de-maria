@@ -1,10 +1,10 @@
 ---
 title: "Nem sempre dá certo"
 date: 2023-06-29T19:55:00Z
-heroImage: "/images/nem sempre dá certo.png"
+heroImage: "/images/posts/1127-nem-sempre-dá-certo-nem_20sempre_20d_C3_A1_20certo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMVKHPlpHAfhLfSE3gizhNMVmOvc5z0HaLFiEHyeOgq0FIRRI6Bo9BMj15aeT41a_5GQ8dUWYxIkdtvOa8O6GxUq4oxDgdONHJDg-QNq9PgZVMu9xqEi35yTDFD_Pf9HTa4f2WFMM_ErzilHeYqxZFcuZoM5-HOhhMNJfyjrz5EjhSIT3rNhnbziUtPc/s306/nem%20sempre%20d%C3%A1%20certo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="275" data-original-width="306" height="275" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMVKHPlpHAfhLfSE3gizhNMVmOvc5z0HaLFiEHyeOgq0FIRRI6Bo9BMj15aeT41a_5GQ8dUWYxIkdtvOa8O6GxUq4oxDgdONHJDg-QNq9PgZVMu9xqEi35yTDFD_Pf9HTa4f2WFMM_ErzilHeYqxZFcuZoM5-HOhhMNJfyjrz5EjhSIT3rNhnbziUtPc/s1600/nem%20sempre%20d%C3%A1%20certo.png" width="306" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem muitas coisas na vida que não podem ser corrigidas;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1127-nem-sempre-dá-certo-nem_20sempre_20d_C3_A1_20certo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="275" data-original-width="306" height="275" src="/images/posts/1127-nem-sempre-dá-certo-nem_20sempre_20d_C3_A1_20certo.png" width="306" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem muitas coisas na vida que não podem ser corrigidas;
 elas ficam à mercê dos arrependimentos e do perdão divino. Isso tudo por conta
 da liberdade que Deus nos deu em escolhermos e decidirmos. Por mais que
 tentemos é assim que Deus criou as coisas, não podemos ir contra as

@@ -1,7 +1,7 @@
 ---
 title: "Comunhão na mão?"
 date: 2017-08-23T15:57:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/057-comunhão-na-mão-comunh_25C3_25A3o_na_boca.png"
 ---
 
 <b>Comunhão na mão: recusada pelos bispos em 1969 e imposta a (quase) toda a Igreja</b></br>
@@ -18,7 +18,7 @@ O resultado não se fez esperar. Poucos anos depois, a comunhão na mão era tã
 </br>
 O que pode desejar quem proíbe autorizando? Conhecer a forma distorcida e ardilosa  como se fizeram as coisas permite-nos ver melhor de que lado está o bem e a sã doutrina. Pois foi Nosso Senhor que nos ensinou: “Seja o vosso falar sim sim, não não. Tudo o mais provém do maligno” (São Mateus 5, 37).  Regozijarmo-nos com Bento XVI (atualmente Papa Emérito) que, conforme foi anunciado, a partir da Festa de Corpus Christi de 2008, não dará mais a comunhão na mão a nenhum fiel, durante suas missas. Que seu exemplo seja seguido!</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCJsWkobUp2Z64_NWrxGvdpxHui1oaavwCRfWnRGzOh_z_7pDJ1gbfpbouRvq2VDA376Czamr92-IhmaaQIAx5-ENm-EKs2eGDa1JFmTbodRzcw-VEEZQew78UVfJD-2CnLicz6EJ6b8k/s1600/comunh%25C3%25A3o+na+boca.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCJsWkobUp2Z64_NWrxGvdpxHui1oaavwCRfWnRGzOh_z_7pDJ1gbfpbouRvq2VDA376Czamr92-IhmaaQIAx5-ENm-EKs2eGDa1JFmTbodRzcw-VEEZQew78UVfJD-2CnLicz6EJ6b8k/s320/comunh%25C3%25A3o+na+boca.png" width="320" height="199" data-original-width="397" data-original-height="247" /></a></br>
+<a href="/images/posts/057-comunhão-na-mão-comunh_25C3_25A3o_na_boca.png" imageanchor="1" ><img border="0" src="/images/posts/057-comunhão-na-mão-comunh_25C3_25A3o_na_boca.png" width="320" height="199" data-original-width="397" data-original-height="247" /></a></br>
 </br>
 <b>Publicado em Communion in the hand</b></br>
 </br>
@@ -52,7 +52,7 @@ Além disso, o cuidado e o ministério do Corpo e Sangue de Cristo foi especialm
 </br>
 Logo a tarefa de levar a Eucaristia aos ausentes foi confiada somente aos ministros sagrados, como o melhor para garantir o respeito devido ao sacramento e para atender às necessidades dos fiéis. Mais tarde, com uma compreensão mais profunda da verdade do mistério eucarístico, do seu poder e da presença de Cristo nele, sobreveio um maior sentimento de reverência para com esse sacramento e sentiu-se que uma profunda humildade deveria ser exigida quando recebê-lo.  Assim foi criado o costume do ministro colocar uma partícula de pão consagrado sobre a língua do comungante.</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlSggIV0KIjvGjtIjB-to_dYzJDRZO20p9ffxX9G61mpFZXXpWDt_obfUsHsRlf21xZQBfedpqjsyiBc0FBjUGKa6mBxRH7lvV18cGFHg25z7h-0mrGWLh_3fBy-dxoHIIEIh0opc8XLs/s1600/comunh%25C3%25A3o+na+boca2.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlSggIV0KIjvGjtIjB-to_dYzJDRZO20p9ffxX9G61mpFZXXpWDt_obfUsHsRlf21xZQBfedpqjsyiBc0FBjUGKa6mBxRH7lvV18cGFHg25z7h-0mrGWLh_3fBy-dxoHIIEIh0opc8XLs/s320/comunh%25C3%25A3o+na+boca2.png" width="320" height="232" data-original-width="713" data-original-height="516" /></a></br>
+<a href="/images/posts/057-comunhão-na-mão-comunh_25C3_25A3o_na_boca2.png" imageanchor="1" ><img border="0" src="/images/posts/057-comunhão-na-mão-comunh_25C3_25A3o_na_boca2.png" width="320" height="232" data-original-width="713" data-original-height="516" /></a></br>
 </br>
 Santo Agostinho nos ensina que este método de distribuição da Santa Comunhão deve ser conservado, tendo em conta a situação atual da Igreja no mundo inteiro, não apenas porque tem muitos séculos de tradição por trás dele, mas especialmente porque expressa a reverência dos fiéis para a Eucaristia. O costume não prejudica de forma alguma a dignidade pessoal daqueles que se aproximam deste grande sacramento: é parte da preparação que é necessária para a recepção mais frutuosa do Corpo do Senhor.</br>
 </br>
@@ -181,7 +181,7 @@ Mas, aqueles que não tocarem com as suas mãos na Sagrada Forma, preparando-se,
 </br>
 ___________________________________________________________________</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnJ5jSb4eFLhw3-yTtI5nyLiOA0epIIrxVUFVoPsMwUoYLvocoNDqkFDo-2grOUQFkkvQlLi2xovkY1gb2DPhaLLISusaoVCb6k83ebVzrxtJJ7OiZ3T1V-yflutBfim5FKJj25zTdVY/s1600/comunh%25C3%25A3o+na+m%25C3%25A3o.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnJ5jSb4eFLhw3-yTtI5nyLiOA0epIIrxVUFVoPsMwUoYLvocoNDqkFDo-2grOUQFkkvQlLi2xovkY1gb2DPhaLLISusaoVCb6k83ebVzrxtJJ7OiZ3T1V-yflutBfim5FKJj25zTdVY/s320/comunh%25C3%25A3o+na+m%25C3%25A3o.png" width="320" height="307" data-original-width="312" data-original-height="299" /></a>
+<a href="/images/posts/057-comunhão-na-mão-comunh_25C3_25A3o_na_m_25C3_25A3o.png" imageanchor="1" ><img border="0" src="/images/posts/057-comunhão-na-mão-comunh_25C3_25A3o_na_m_25C3_25A3o.png" width="320" height="307" data-original-width="312" data-original-height="299" /></a>
 </br>
 Portanto....</br>
 </br>

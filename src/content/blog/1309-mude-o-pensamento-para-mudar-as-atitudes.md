@@ -1,10 +1,10 @@
 ---
 title: "Mude o pensamento para mudar as atitudes"
 date: 2025-01-30T18:47:00.001Z
-heroImage: "/images/mude o pensamento.png"
+heroImage: "/images/posts/1309-mude-o-pensamento-para-mudar-as-atitudes-mude_20o_20pensamento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiprNlRt3KW7fSTj1xuC_e55PS8ctV43fcY6kTuls8bwJaC2ORPrUgn3VrbaZjHX4ipZDIEMnNKIb9jpYlYZ2Shd8X5rSPJ5Y3aDTQ-r1XD6vCZbkZ2Vnl2fudFwnQHLpjHwDZO_Lo_-bNdZYrHHGrRt_1WFhVkkATrFwfo6yWdKMV99xpSGZ4byiJNLII/s286/mude%20o%20pensamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="270" data-original-width="286" height="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiprNlRt3KW7fSTj1xuC_e55PS8ctV43fcY6kTuls8bwJaC2ORPrUgn3VrbaZjHX4ipZDIEMnNKIb9jpYlYZ2Shd8X5rSPJ5Y3aDTQ-r1XD6vCZbkZ2Vnl2fudFwnQHLpjHwDZO_Lo_-bNdZYrHHGrRt_1WFhVkkATrFwfo6yWdKMV99xpSGZ4byiJNLII/s1600/mude%20o%20pensamento.png" width="286" /></a></div><br />&nbsp;
+<p></p><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1309-mude-o-pensamento-para-mudar-as-atitudes-mude_20o_20pensamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="270" data-original-width="286" height="270" src="/images/posts/1309-mude-o-pensamento-para-mudar-as-atitudes-mude_20o_20pensamento.png" width="286" /></a></div><br />&nbsp;
 
 
 	

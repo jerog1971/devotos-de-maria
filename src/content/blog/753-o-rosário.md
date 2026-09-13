@@ -1,13 +1,13 @@
 ---
 title: "O Rosário"
 date: 2017-08-22T19:49:00Z
-heroImage: "/images/padre.png"
+heroImage: "/images/posts/753-o-rosário-padre_pio.png"
 ---
 
 <!DOCTYPE html>
 <html>
 <body>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipl8-IUKSDxDcl-jO4sx1RJSklPDnH77ff3sOnQY06yZCyWMFONF1VBHLoHLKVEx8eakS8-5BZQ0Mvc8Tq_DLM6oxTOalQeUjBfDktccNOYuZm8i3QFJRY0wHwOElR3uUieShaN35ekCM/s1600/padre+pio.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipl8-IUKSDxDcl-jO4sx1RJSklPDnH77ff3sOnQY06yZCyWMFONF1VBHLoHLKVEx8eakS8-5BZQ0Mvc8Tq_DLM6oxTOalQeUjBfDktccNOYuZm8i3QFJRY0wHwOElR3uUieShaN35ekCM/s320/padre+pio.png" width="320" height="213" data-original-width="537" data-original-height="358" /></a>
+<a href="/images/posts/753-o-rosário-padre_pio.png" imageanchor="1" ><img border="0" src="/images/posts/753-o-rosário-padre_pio.png" width="320" height="213" data-original-width="537" data-original-height="358" /></a>
 </br>
 <h1>
 <font face="Arial">
@@ -110,7 +110,7 @@ Salve Rainha, Mãe de misericórdia, vida, doçura, esperança nossa salve. A v�
 </br>
 <h2>Catequese sobre o Santo Rosário</h2></br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXJFkFmKNcxbT_brOVxxsY7pUDCOOukKURtigcFNDPi_y4gTGDsyLqMPc9eVuAyjmLN-4V4IuekACftth0GdDUo5NnhhtI71CHmfkSXYlSaHXhN5efJteG4_ECw0RTXP19WEU5NxvY0u8/s1600/maria+e+gusm%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXJFkFmKNcxbT_brOVxxsY7pUDCOOukKURtigcFNDPi_y4gTGDsyLqMPc9eVuAyjmLN-4V4IuekACftth0GdDUo5NnhhtI71CHmfkSXYlSaHXhN5efJteG4_ECw0RTXP19WEU5NxvY0u8/s200/maria+e+gusm%25C3%25A3o.png" width="171" height="200" data-original-width="336" data-original-height="392" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/753-o-rosário-maria_e_gusm_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/753-o-rosário-maria_e_gusm_25C3_25A3o.png" width="171" height="200" data-original-width="336" data-original-height="392" /></a></div>
 Os mistérios luminosos acrescentados por São João Paulo II não são divulgados na prática da oração do santo Rosário neste blog devido a seu caráter de opcionalidade proposto pelo próprio pontífice em sua <a href="http://w2.vatican.va/content/john-paul-ii/pt/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html">"CARTA APOSTÓLICA ROSARIUM VIRGINIS MARIAE DO SUMO PONTÍFICE JOÃO PAULO II AO EPISCOPADO AO CLERO E AOS FIÉIS SOBRE O ROSÁRIO"</a>, publicada em 2002 onde lá diz assim em seu número 19:</br>
 </br>
 "Considero, no entanto, que, para reforçar o espessor cristológico do Rosário, seja oportuna uma inserção que, <b>EMBORA DEIXADA À LIVRE VALORIZAÇÃO DE CADA PESSOA E DAS COMUNIDADES</b>, lhes permita abraçar também os mistérios da vida pública de Cristo entre o Baptismo e a Paixão".</br>
@@ -148,7 +148,7 @@ c) O terceiro para a vida unificativa.</br>
 </br>
 5ª – E, finalmente, nos dar graças em abundância durante nossa vida, paz na morte, e glória na eternidade".</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihYdnywshvzo7OIuYbNHXY-WCs8mNXKTW1_EVDdlUaeHX4U5xMpu1qIuAtk8A7GH78i43UWmXBZZMlLCJn5g4pq1Au8zGW_b2NH7HDkKBwd_SSv-ogEomt6ONN0esQ1o6_cJ2mFtHAAD4/s1600/bento+xvi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihYdnywshvzo7OIuYbNHXY-WCs8mNXKTW1_EVDdlUaeHX4U5xMpu1qIuAtk8A7GH78i43UWmXBZZMlLCJn5g4pq1Au8zGW_b2NH7HDkKBwd_SSv-ogEomt6ONN0esQ1o6_cJ2mFtHAAD4/s200/bento+xvi.png" width="145" height="200" data-original-width="225" data-original-height="310" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/753-o-rosário-bento_xvi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/753-o-rosário-bento_xvi.png" width="145" height="200" data-original-width="225" data-original-height="310" /></a></div>
 Para concluir este trecho da explicação vamos acompanhar mais um trecho do livro onde Nossa Senhora diz a São Domingos: “Quando os fiéis rezam as Cento e cinquenta Ave Marias e os Quinze PAI Nossos, muito me agradam e esta devoção é eficaz para se obter graças. Mas a eficácia aumenta muito mais e me agradarão mais ainda se, enquanto se rezar, meditar na Vida, Paixão, Morte e Ressureição de JESUS CRISTO, pois a meditação é a alma desta devoção.”</br>
 </br>
 Continuando com a explicação é de se saber também, que o sucessor de João Paulo II, o papa Bento XVI confirmou o caráter de OPCIONALIDADE dos mistérios luminosos ao publicar a seguinte explanação: "Meu dever para com a Igreja e o mundo, tento cumprir com uma oração que ocupa todo o meu dia'. Oração mental ou verbal, Santidade?, ocorreu-me perguntar, talvez banalmente. Sua resposta foi imediata: 'Sobretudo verbal: o rosário completo, COM SEUS TRÊS MISTÉRIOS; depois os salmos, as orações escritas pelos santos e as passagens bíblicas e invocações do breviário'. A oração mental é proporcionada por suas muitas leituras de textos de espiritualidade, que se unem aos de teologia e exegese bíblica." Sábias palavras de Bento XVI, um dos maiores teólogos que o mundo conhece.</br>

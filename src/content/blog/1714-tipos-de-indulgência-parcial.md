@@ -1,10 +1,10 @@
 ---
 title: "Tipos de Indulgência Parcial"
 date: 2016-09-27T16:26:00.001Z
-heroImage: "/images/indulgencias3.png"
+heroImage: "/images/posts/1714-tipos-de-indulgência-parcial-indulgencias3.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuFKGfEQ5NnVZe9RYu42Bo6tlK1VJGv-u9CaIq1ZtTJCOEcTVak09i-HUuc2tshxDoDXl1cUKcEqBW9a5v_HwqBIn4s-2FhNbVojAWo7SCD2TSfoEDhzj2h6g6kqMxowxSo-zjdTztXQQ/s1600/indulgencias3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuFKGfEQ5NnVZe9RYu42Bo6tlK1VJGv-u9CaIq1ZtTJCOEcTVak09i-HUuc2tshxDoDXl1cUKcEqBW9a5v_HwqBIn4s-2FhNbVojAWo7SCD2TSfoEDhzj2h6g6kqMxowxSo-zjdTztXQQ/s320/indulgencias3.png" width="229" height="320" data-original-width="180" data-original-height="251" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1714-tipos-de-indulgência-parcial-indulgencias3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1714-tipos-de-indulgência-parcial-indulgencias3.png" width="229" height="320" data-original-width="180" data-original-height="251" /></a></div>
 1- Oração (indulgência parcial) - Inspirai, ó Deus as nossas ações e ajudai-nos a realizá-las, para que em vós comece e para vós termine tudo aquilo que fizermos. Por Cristo nosso Senhor. Amém.</br>
 </br>
 2- Adoração ao Santíssimo Sacramento - Concede-se indulgência parcial ao fiel que visitar o Santíssimo Sacramento para adorá-lo; se o fizer por meia hora ao menos, a indulgência será plenária. (para indulgência plenária atentar para as exigências: confissão, comunhão e oração pelo papa)</br>

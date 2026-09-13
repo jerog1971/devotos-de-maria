@@ -1,10 +1,10 @@
 ---
 title: "Muitos têm a bíblia em casa, mas não se lembram de quando a pegaram pela última vez"
 date: 2020-03-23T21:21:00.002Z
-heroImage: "/images/biblia.png"
+heroImage: "/images/posts/000-muitos-têm-a-bíblia-em-casa-mas-não-se-lembram-de--biblia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFgHy48GNPIxsBDwZRJzcU7ezXCJMES8ZdqOha74g8jMkdZD3fTmP7sO9U2WjI8Pkhf_LKEpVR-RFFOSr0UChzzIzYViSV6pmu7emJs5_eC7R26uUHoUPja05MGM57ESbEchU3-tmYsz4/s1600/biblia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFgHy48GNPIxsBDwZRJzcU7ezXCJMES8ZdqOha74g8jMkdZD3fTmP7sO9U2WjI8Pkhf_LKEpVR-RFFOSr0UChzzIzYViSV6pmu7emJs5_eC7R26uUHoUPja05MGM57ESbEchU3-tmYsz4/s320/biblia.png" width="279" height="320" data-original-width="293" data-original-height="336" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/000-muitos-têm-a-bíblia-em-casa-mas-não-se-lembram-de--biblia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/000-muitos-têm-a-bíblia-em-casa-mas-não-se-lembram-de--biblia.png" width="279" height="320" data-original-width="293" data-original-height="336" /></a></div>
 O católico tem mania de deixar a bíblia aberta em algum lugar da casa, os evangélicos tem o costume de colocar na parede o salmo 91 emoldurado. Já os católicos colocam a cruz ou imagens de Jesus, de Maria Santíssima ou dos santos de Deus. Mas, voltemos à bíblia. Pobre das escrituras, já soube de casos em que o livro santo servia de calço na porta de entrada da casa para mante-la aberta, pode isso?</br>
 </br>
 Pode sim, a bíblia se torna um enfeite para os católicos. Chega a ficar empoeirada na sala e aquelas páginas em que está aberta chegam a amarelar. Já os evangélicos andam com ela debaixo do braço para lá e para cá, isso, na hora que estão indo ou voltando do culto. Porém, voltemos aos católicos porque vou jogar pedras aqui no meu telhado e não no do vizinho.</br>

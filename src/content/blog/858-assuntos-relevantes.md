@@ -1,10 +1,10 @@
 ---
 title: "Assuntos relevantes"
 date: 2021-11-10T01:02:00.001Z
-heroImage: "/images/Ele.jpg"
+heroImage: "/images/posts/858-assuntos-relevantes-assuntos_relevantes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZpAQykXd2KEqwYbHMSxTOp98NM3X_RaCh3DozJJGl6JmcK8zRMh5oJzkgpDBrWfirjvbPrxW8P8laM5OKi3mkDtNx-8elEHAdJqiSGZN0H-1yp8ypJYnUbUZEgULDsNfNMjCmsexiEI/s526/assuntos+relevantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="526" data-original-width="375" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZpAQykXd2KEqwYbHMSxTOp98NM3X_RaCh3DozJJGl6JmcK8zRMh5oJzkgpDBrWfirjvbPrxW8P8laM5OKi3mkDtNx-8elEHAdJqiSGZN0H-1yp8ypJYnUbUZEgULDsNfNMjCmsexiEI/s320/assuntos+relevantes.png" width="228" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Entre os discursos que propagam mundo afora as novas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/858-assuntos-relevantes-assuntos_relevantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="526" data-original-width="375" height="320" src="/images/posts/858-assuntos-relevantes-assuntos_relevantes.png" width="228" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Entre os discursos que propagam mundo afora as novas
 definições que impulsionam a vida para novos horizontes, um deles, muito
 entristecidamente, buscam transformar conceitos divinos e imutáveis em
 conhecimentos de museu, antiquados e ultrapassados. Muito facilmente podemos

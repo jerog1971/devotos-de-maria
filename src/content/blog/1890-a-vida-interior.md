@@ -1,10 +1,10 @@
 ---
 title: "A vida interior"
 date: 2020-06-26T15:48:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1890-a-vida-interior-ora_25C3_25A7_25C3_25A3o3.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDFQEinVV4nbfycHFR0SBrINsXMzEpaAqEvuMvrl6z0cy3qWGzDClM4FgILo4udZPADjVbKxtz1XxSCDudpbgCLhATtQk3dA7vJ_j-I8liFxaFELLvnCTMtIP10t0Gu4k6Zwm5K8SX08w/s297/ora%25C3%25A7%25C3%25A3o3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="297" data-original-width="281" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDFQEinVV4nbfycHFR0SBrINsXMzEpaAqEvuMvrl6z0cy3qWGzDClM4FgILo4udZPADjVbKxtz1XxSCDudpbgCLhATtQk3dA7vJ_j-I8liFxaFELLvnCTMtIP10t0Gu4k6Zwm5K8SX08w/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O reino de Deus está dentro de vós, diz o Senhor.
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1890-a-vida-interior-ora_25C3_25A7_25C3_25A3o3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="297" data-original-width="281" src="/images/posts/1890-a-vida-interior-img-965897056.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O reino de Deus está dentro de vós, diz o Senhor.
 Converte-te a Deus de todo o coração, deixa este mundo miserável e tua alma
 achará descanso. Aprende a desprezar as coisas exteriores e entrega-te às
 interiores, e verás chegar a ti o reino de Deus. Pois o reino de Deus é a paz e

@@ -1,10 +1,10 @@
 ---
 title: "Conversão aos poucos ou totalmente?"
 date: 2018-11-27T19:15:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2098-conversão-aos-poucos-ou-totalmente-prop_25C3_25B3sito.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc5VMbfnJLZnyikeEgz7N67TucDXKnp9b4lg_FRxm8vEWYBIOsj8lXMr7ADNR_kVUzQzOrmsFSwfKk2-7esHNuMvBraxn6C6fFu6ZWxGQTkQ-PJE6HufB1CBdMgEgxdQhQbQO5ejsePM/s1600/prop%25C3%25B3sito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc5VMbfnJLZnyikeEgz7N67TucDXKnp9b4lg_FRxm8vEWYBIOsj8lXMr7ADNR_kVUzQzOrmsFSwfKk2-7esHNuMvBraxn6C6fFu6ZWxGQTkQ-PJE6HufB1CBdMgEgxdQhQbQO5ejsePM/s320/prop%25C3%25B3sito.png" width="320" height="257" data-original-width="345" data-original-height="277" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2098-conversão-aos-poucos-ou-totalmente-prop_25C3_25B3sito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2098-conversão-aos-poucos-ou-totalmente-prop_25C3_25B3sito.png" width="320" height="257" data-original-width="345" data-original-height="277" /></a></div>
 A conversão pode ser compreendida em dois níveis. Se se trata da busca pela santidade, então é um caminho lento e gradual, que precisa ser trilhado todos os dias, com perseverança e o auxílio da graça de Deus. Somente almas eleitas já praticamente nascem nas mais altas moradas da perfeição cristã. Mas se por conversão se entende o abandono dos pecados mortais, neste caso, deve ser algo total e imediato.</br>
 </br>
 O pecado mortal destrói a caridade na alma humana. Trata-se verdadeiramente de uma morte espiritual, que só pode ser remediada mediante o arrependimento, a Confissão e o firme propósito de nunca mais cometer esses crimes ou outros de igual gravidade. Não é possível viver na paz de Deus estando em pecado mortal, assim como não é possível viver meio morto, porque não existe semimorto: ou se está vivo, ou se está morto. Assim diz o Catecismo da Igreja em seu número 1856: “O pecado mortal, atacando em nós o princípio vital que é a caridade, torna necessária uma nova iniciativa da misericórdia de Deus e uma conversão do coração que normalmente se realiza no quadro do sacramento da Reconciliação”.</br>

@@ -1,10 +1,10 @@
 ---
 title: "As lembranças"
 date: 2024-03-11T19:22:00.005Z
-heroImage: "/images/Jeff e Deb 01.jpg"
+heroImage: "/images/posts/311-as-lembranças-Jeff_20e_20Deb_2001.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw6CwMse8tUXTSV2Wr9YgdjRJdbsqfV2DnZYdGynmTBvOYX6sp1_12cLHgdPgu-jkuueRitMG2zMxuPzttxVrh6cLkdMdwkQOeJ9dCdcCpKUheSVZb-0nxijkALYbCzZmiMVxUxTHx3e0O_e5msZcP3VCsyL1tvhJUwPV8BAOGF1WHfSQWLXBU8weu0L4/s720/Jeff%20e%20Deb%2001.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="662" data-original-width="720" height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw6CwMse8tUXTSV2Wr9YgdjRJdbsqfV2DnZYdGynmTBvOYX6sp1_12cLHgdPgu-jkuueRitMG2zMxuPzttxVrh6cLkdMdwkQOeJ9dCdcCpKUheSVZb-0nxijkALYbCzZmiMVxUxTHx3e0O_e5msZcP3VCsyL1tvhJUwPV8BAOGF1WHfSQWLXBU8weu0L4/s320/Jeff%20e%20Deb%2001.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, em nossa mente ficam armazenadas as lembranças, porém,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/311-as-lembranças-Jeff_20e_20Deb_2001.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="662" data-original-width="720" height="294" src="/images/posts/311-as-lembranças-Jeff_20e_20Deb_2001.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, em nossa mente ficam armazenadas as lembranças, porém,
 quem não passou pela experiência de sentir um aroma, ouvir uma música, ou
 passar outra vez em algum lugar e o cérebro rapidamente, senão quase
 instantaneamente, lhe traz as recordações associadas? Pois é, funcionamos

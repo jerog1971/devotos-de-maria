@@ -1,10 +1,10 @@
 ---
 title: "Só quando me der vontade"
 date: 2016-10-11T14:26:00Z
-heroImage: "/images/sem_vontade.png"
+heroImage: "/images/posts/820-só-quando-me-der-vontade-sem_vontade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNZtYr49mV25EASbgfViiq3lTUZsrcob5ZkvvoR_l59U-tfebfQrCwCv4bxM2fAqowYKG_-weaL84x3qSSNixcXItNIOT9oBUdBVFr-kLzMDCE09AzK9HoeMZs1r3HthYXWGd2MKrUuY/s1600/sem_vontade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNZtYr49mV25EASbgfViiq3lTUZsrcob5ZkvvoR_l59U-tfebfQrCwCv4bxM2fAqowYKG_-weaL84x3qSSNixcXItNIOT9oBUdBVFr-kLzMDCE09AzK9HoeMZs1r3HthYXWGd2MKrUuY/s320/sem_vontade.png" width="320" height="275" data-original-width="451" data-original-height="387" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/820-só-quando-me-der-vontade-sem_vontade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/820-só-quando-me-der-vontade-sem_vontade.png" width="320" height="275" data-original-width="451" data-original-height="387" /></a></div>
 Relacionado com a vontade existem duas vertentes que as vezes são confundidas quanto a sua origem e natureza. São elas o anseio e o desejo. A vontade que o ser humano sente, conforme o seu grau de consciência, propósito, determinação e percepção irá apontar para qual direção estamos nos inclinando. Para aumentar ainda mais a carga na situação, também todos os fatores envolvidos acabam por afetar o plano espiritual das pessoas. Vamos ver como são as coisas.</br>
 </br>
 Desejo é aquilo que sentimos fisiologicamente. Anseio é aquilo que sentimos espiritualmente. O que provoca confusão nas pessoas é que anseio pode ser definido por aquilo que desejamos espiritualmente. Este desejo que brota do fundo da alma e, portanto, tem raízes de natureza divina, vai além dos simples prazeres do corpo. Jesus já dizia que do coração brotam coisas que revelam onde colocamos o nosso tesouro. A natureza de nossas atitudes vem de lá. Por isso é tão importante não cedermos aos apetites do corpo para que ele não instale em nosso coração, mente e alma, desejos no lugar dos anseios. Se assim acontecer, a concupiscência irá se apoderar de nosso ser e já não seremos mais livres. Seremos escravos do pecado.</br>

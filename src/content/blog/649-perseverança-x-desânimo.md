@@ -1,10 +1,10 @@
 ---
 title: "Perseverança x Desânimo"
 date: 2016-01-11T11:07:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/649-perseverança-x-desânimo-serm_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqi-HlQIgfzUe0kqCo0MLTa7NonLfDbCXG8yktfgVgQ9_mi9HeSkbL9SnCVS0N7781sw4hso650iGu7w0x4LxTKt2fUsHG-_XbnVdzRP-brj-MUrj_FDAyu7CB_UrfIz9fIiErXJUZd4U/s1600/serm%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqi-HlQIgfzUe0kqCo0MLTa7NonLfDbCXG8yktfgVgQ9_mi9HeSkbL9SnCVS0N7781sw4hso650iGu7w0x4LxTKt2fUsHG-_XbnVdzRP-brj-MUrj_FDAyu7CB_UrfIz9fIiErXJUZd4U/s320/serm%25C3%25A3o.png" width="320" height="299" data-original-width="553" data-original-height="516" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/649-perseverança-x-desânimo-serm_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/649-perseverança-x-desânimo-serm_25C3_25A3o.png" width="320" height="299" data-original-width="553" data-original-height="516" /></a></div>
 </br>
 Mateus 10,33-38 - "Aquele, porém, que me negar diante dos homens, também eu o negarei diante de meu Pai que está nos céus. Não julgueis que vim trazer a paz à terra. Vim trazer não a paz, mas a espada. Eu vim trazer a divisão entre o filho e o pai, entre a filha e a mãe, entre a nora e a sogra, e os inimigos do homem serão as pessoas de sua própria casa. Quem ama seu pai ou sua mãe mais que a mim, não é digno de mim. Quem ama seu filho mais que a mim, não é digno de mim. Quem não toma a sua cruz e não me segue, não é digno de mim".</br>
 </br>

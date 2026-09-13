@@ -1,10 +1,10 @@
 ---
 title: "Reflexão sobre a realidade do inferno"
 date: 2015-09-28T14:57:00.001Z
-heroImage: "/images/segur.png"
+heroImage: "/images/posts/692-reflexão-sobre-a-realidade-do-infern-segur.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczqGclqsi2w-osDuwiEGiMpLpSj_2zga4BYA2zjuPOW_DihH3gqw8DbWmzIgJVmwqLfZQqBWhLPFWMbu98g8zMcXkOj61eyIQDYPPheuESmuD7KI76AWV6k9oFfToeQV0xROshX4EjPM/s1600/segur.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczqGclqsi2w-osDuwiEGiMpLpSj_2zga4BYA2zjuPOW_DihH3gqw8DbWmzIgJVmwqLfZQqBWhLPFWMbu98g8zMcXkOj61eyIQDYPPheuESmuD7KI76AWV6k9oFfToeQV0xROshX4EjPM/s320/segur.png" width="213" height="320" data-original-width="346" data-original-height="520" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/692-reflexão-sobre-a-realidade-do-infern-segur.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/692-reflexão-sobre-a-realidade-do-infern-segur.png" width="213" height="320" data-original-width="346" data-original-height="520" /></a></div>
 </br>
 Desde o princípio encontramos a existência do inferno de fogo eterno nos livros mais antigos que se conhecem: os de Moisés. Assim nos conta o décimo sexto capítulo do livro dos números: os três levitas, Coré, Datã e Albiron, que tinham blasfemado contra Deus e haviam se revoltado contra Moisés, foram "tragados vivos para o inferno. Eles desceram vivos para o inferno; e o fogo saído do Senhor devorou duzentos e cinquenta outros rebeldes." Isso foi escrito por Moisés há mais de seiscentos anos antes do nascimento de Nosso Senhor.</br>
 </br>
@@ -24,7 +24,7 @@ O mesmo testemunho é dado por outros Profetas, até chegar ao precursor do Mess
 </br>
 <h2>O inferno existe: foi Deus mesmo quem nos revelou</h2></br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCVp6G7rbn-lFPkDBGk8qtcFhwnm8QIojaGQPrN-VXmnjMOhtkKNUW7PGWUIsfeVxRNkNqFXXkHpadWY1RdbQqf3rL89J26YHC01ZAhWaOkh6qkU4UxEBiHrb8oSsalyhLbsZAqCqrh4c/s1600/inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCVp6G7rbn-lFPkDBGk8qtcFhwnm8QIojaGQPrN-VXmnjMOhtkKNUW7PGWUIsfeVxRNkNqFXXkHpadWY1RdbQqf3rL89J26YHC01ZAhWaOkh6qkU4UxEBiHrb8oSsalyhLbsZAqCqrh4c/s200/inferno.png" width="200" height="149" data-original-width="374" data-original-height="278" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/692-reflexão-sobre-a-realidade-do-infern-inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/692-reflexão-sobre-a-realidade-do-infern-inferno.png" width="200" height="149" data-original-width="374" data-original-height="278" /></a></div>
 </br>
 As passagens do antigo testamento vistas anteriormente nos mostram que foi o próprio Deus quem revelou o dogma do inferno aos Patriarcas, aos Profetas a ao antigo povo de Israel. Com efeito, não são apenas testemunhos históricos; são, sobretudo, testemunhos divinos que comandam a fé, que se impõem à nossa consciência com a autoridade infalível das verdades reveladas.</br>
 </br>

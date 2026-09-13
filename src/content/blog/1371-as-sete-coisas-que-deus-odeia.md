@@ -1,10 +1,10 @@
 ---
 title: "As sete coisas que Deus odeia"
 date: 2017-05-19T13:18:00Z
-heroImage: "/images/odeia.png"
+heroImage: "/images/posts/1371-as-sete-coisas-que-deus-odeia-odeia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3UroOvfq6p-QS8i9HhLyPEEUhwNieXpSohVdDeQvJgKikO_emYI-7groDwMAqd3cKVtVwJ2KV7EuWiyWSis-KGqxUjKsQtQBVw2BjiM7wmrGpwGzm1SFlKezgFRxMOutLIEAk14ouqLI/s1600/odeia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3UroOvfq6p-QS8i9HhLyPEEUhwNieXpSohVdDeQvJgKikO_emYI-7groDwMAqd3cKVtVwJ2KV7EuWiyWSis-KGqxUjKsQtQBVw2BjiM7wmrGpwGzm1SFlKezgFRxMOutLIEAk14ouqLI/s320/odeia.png" width="320" height="268" data-original-width="530" data-original-height="444" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1371-as-sete-coisas-que-deus-odeia-odeia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1371-as-sete-coisas-que-deus-odeia-odeia.png" width="320" height="268" data-original-width="530" data-original-height="444" /></a></div>
 Como bem sabemos caros leitores, de forma geral, muitos deslizes que o ser humano dá ao longo de sua vida, tentando chegar ao céu, acontecem porque tentando acertar o alvo e ser felizes, miram onde não se encontra a felicidade e desta forma pecam. Como erro pode nos levar a outro erro, caso descuidemos das coisas, o pecado funciona da mesma maneira. Pecado gera pecado. Como aprendemos que Deus odeia o pecado e não o pecador, dentro de tudo aquilo que ele odeia e com certeza não deve ser pouca coisa, nosso querido, bondoso e amado Deus quis, em seu cuidado de Pai, deixar por escrito no livro dos Provérbios uma passagem, no mínimo, interessantíssima a respeito daquilo que ele odeia. Vejamos:</br>
 </br>
 Provérbios 6,16-19 – “Seis coisas há que o Senhor odeia e uma sétima que lhe é uma abominação: olhos altivos, língua mentirosa, mãos que derramam sangue inocente, um coração que maquina projetos perversos, pés pressurosos em correr ao mal, um falso testemunho que profere mentiras e aquele que semeia discórdias entre irmãos.”</br>

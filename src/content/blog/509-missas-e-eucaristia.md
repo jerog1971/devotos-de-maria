@@ -1,10 +1,10 @@
 ---
 title: "Missas e Eucaristia"
 date: 2020-05-11T13:50:00.001Z
-heroImage: "/images/missa_campal_medjugorje.png"
+heroImage: "/images/posts/509-missas-e-eucaristia-img-980285947.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOZLE5l8_iTAnGtKiK5ie1iTNpe9GhHjxeuD58l94p01XuAj8LT4GnlPFZ4wSDahAyUsfnEpS1LbBieQ9ZpJJggauWby5VFsOMhE916mVSZfDuknWKo9FVSRjtZU65bJYu02wP0ZBUwoM/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="498" data-original-width="565" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOZLE5l8_iTAnGtKiK5ie1iTNpe9GhHjxeuD58l94p01XuAj8LT4GnlPFZ4wSDahAyUsfnEpS1LbBieQ9ZpJJggauWby5VFsOMhE916mVSZfDuknWKo9FVSRjtZU65bJYu02wP0ZBUwoM/s320/missa_campal_medjugorje.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em vários lugares do mundo, apesar da pandemia, as
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/509-missas-e-eucaristia-img-980285947.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="498" data-original-width="565" src="/images/posts/509-missas-e-eucaristia-img-980285947.jpgs320/missa_campal_medjugorje.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em vários lugares do mundo, apesar da pandemia, as
 celebrações da santa missa com distribuição da eucaristia não foram
 interrompidas. Foram adaptadas. Em alguns lugares existem mais celebrações,
 quase que de hora em hora, para que assim um número menor de fieis possa estar

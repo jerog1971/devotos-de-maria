@@ -1,10 +1,10 @@
 ---
 title: "Entre você e Deus"
 date: 2022-08-17T15:10:00.001Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/1206-entre-você-e-deus-entre_20voc_C3_AA_20e_20Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrAJ2kwIts7zoCfaYlJSga4n6BbMYlBemy_24WYz-ISbGymipXs5BBuqT3q9fkygfvBMUNS91LdgRGeuWunOnU-1wSpDitQQ_yjmySduHKLCC06Gq4KDIR85BnQdPP6EChNbFF0_aAgThGiLW2_qx_UfLcXLDcT9VtZBTWlkx2s1nGDhosX_zefQej/s553/entre%20voc%C3%AA%20e%20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="553" data-original-width="530" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrAJ2kwIts7zoCfaYlJSga4n6BbMYlBemy_24WYz-ISbGymipXs5BBuqT3q9fkygfvBMUNS91LdgRGeuWunOnU-1wSpDitQQ_yjmySduHKLCC06Gq4KDIR85BnQdPP6EChNbFF0_aAgThGiLW2_qx_UfLcXLDcT9VtZBTWlkx2s1nGDhosX_zefQej/s320/entre%20voc%C3%AA%20e%20Deus.png" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“O bem que você faz hoje, pode ser esquecido amanhã. Faça-o
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1206-entre-você-e-deus-entre_20voc_C3_AA_20e_20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="553" data-original-width="530" height="320" src="/images/posts/1206-entre-você-e-deus-entre_20voc_C3_AA_20e_20Deus.png" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“O bem que você faz hoje, pode ser esquecido amanhã. Faça-o
 assim mesmo. Veja que, ao final das contas, é tudo entre você e Deus! Nunca foi
 entre você e os outros” – Santa Teresa de Calcutá. Pois bem, não é à toa que
 lemos em Atos 5,29 que importa antes obedecer a Deus que aos homens e em Gálatas

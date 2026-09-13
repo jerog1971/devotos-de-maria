@@ -1,10 +1,10 @@
 ---
 title: "Nos comportamos como herdeiros de Deus?"
 date: 2022-04-21T17:50:00.001Z
-heroImage: "/images/heredeiros do reino.png"
+heroImage: "/images/posts/832-nos-comportamos-como-herdeiros-de-de-heredeiros_20do_20reino.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjego4XrFAS8QacRNTMZ1fLQRDAdLQzm5lxKiehxuzMNXEVwuRB6g61LBdkDcNBhdQl6zRe_9ugu0rJez8bHwdj6KMtdOqTrlCLeuTeHC-xhTIosf53W1-_wZ68UnCXCv7OYm9qEcTVpKCPxenpBud4XXUmKMc5Q-nvw8t3OZcHu1v2GitBFMuEa0Mu/s281/heredeiros%20do%20reino.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="277" data-original-width="281" height="277" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjego4XrFAS8QacRNTMZ1fLQRDAdLQzm5lxKiehxuzMNXEVwuRB6g61LBdkDcNBhdQl6zRe_9ugu0rJez8bHwdj6KMtdOqTrlCLeuTeHC-xhTIosf53W1-_wZ68UnCXCv7OYm9qEcTVpKCPxenpBud4XXUmKMc5Q-nvw8t3OZcHu1v2GitBFMuEa0Mu/s1600/heredeiros%20do%20reino.png" width="281" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Pois bem, todos sabem que o herdeiro tem direito a herança.
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/832-nos-comportamos-como-herdeiros-de-de-heredeiros_20do_20reino.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="277" data-original-width="281" height="277" src="/images/posts/832-nos-comportamos-como-herdeiros-de-de-heredeiros_20do_20reino.png" width="281" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Pois bem, todos sabem que o herdeiro tem direito a herança.
 E claro, muitas pessoas conhecem o rebuliço que dá quando morre alguém com bom
 patrimônio e os herdeiros se tramam a lutar por fatias maiores e melhores dessa
 herança. Que afinco e dedicação em tomar posse de alguma coisa que enriqueça o

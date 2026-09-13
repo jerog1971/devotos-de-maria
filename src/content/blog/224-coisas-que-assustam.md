@@ -1,10 +1,10 @@
 ---
 title: "Coisas que assustam"
 date: 2021-08-11T16:04:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/224-coisas-que-assustam-coisas_que_assustam.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkddUbpk-RgsTeLvuqDrIomaU6t4KV6VUCGG224JN_U0MLxSwbx1Qu4QIrclUYWjDU3xXD7T1S4ZZ4VHz0pqQFtHu667B7reneJvIrsxXZhtLalGYVCkaeJvyf8WKmYSJpj9rKbP6gWJ8/s474/coisas+que+assustam.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="474" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkddUbpk-RgsTeLvuqDrIomaU6t4KV6VUCGG224JN_U0MLxSwbx1Qu4QIrclUYWjDU3xXD7T1S4ZZ4VHz0pqQFtHu667B7reneJvIrsxXZhtLalGYVCkaeJvyf8WKmYSJpj9rKbP6gWJ8/s320/coisas+que+assustam.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Disse Jesus: “Não temais aqueles que matam o corpo, mas não
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/224-coisas-que-assustam-coisas_que_assustam.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="474" height="300" src="/images/posts/224-coisas-que-assustam-coisas_que_assustam.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Disse Jesus: “Não temais aqueles que matam o corpo, mas não
 podem matar a alma; temei antes aquele que pode precipitar a alma e o corpo na
 geena” – Mateus 10,28. De fato, sempre com um olhar sobrenatural, Jesus vai
 logo esclarecendo que, apesar de sermos hoje um composto de corpo e alma, ainda

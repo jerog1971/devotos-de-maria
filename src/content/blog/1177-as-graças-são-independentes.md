@@ -1,10 +1,10 @@
 ---
 title: "As graças são independentes"
 date: 2017-10-16T11:40:00Z
-heroImage: "/images/poliana.png"
+heroImage: "/images/posts/1177-as-graças-são-independentes-poliana.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpmq-G5elwU4n18jWOzfaR-7r8VAmcWIkMJ_dqIcSW2-NaVFjIJNtJRmZISYGHaIU3AOCjkHjJ6BWayNmC26IytIn21IkLVd7ARVp9QbP71zTjiverkMA5cHdilH4YNu90IDKaEdqbss/s1600/poliana.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpmq-G5elwU4n18jWOzfaR-7r8VAmcWIkMJ_dqIcSW2-NaVFjIJNtJRmZISYGHaIU3AOCjkHjJ6BWayNmC26IytIn21IkLVd7ARVp9QbP71zTjiverkMA5cHdilH4YNu90IDKaEdqbss/s320/poliana.png" width="320" height="313" data-original-width="344" data-original-height="336" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1177-as-graças-são-independentes-poliana.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1177-as-graças-são-independentes-poliana.png" width="320" height="313" data-original-width="344" data-original-height="336" /></a></div>
 A romeira de quarenta e sete anos Poliana Abraão de Paiva foi notícia a poucos dias por conta de sua entrevista para a rede globo de televisão por ocasião da comemoração dos trezentos anos do encontro da imagem de Aparecida. Contou a mulher que a peregrinação que fazia até o santuário nacional, se dava em razão de agradecimento por uma graça alcançada pela intercessão de Maria Santíssima, invocada sob o título de Nossa Senhora da Conceição Aparecida.</br>
 </br>
 A romeira percorria a rota alternativa criada pela prefeitura de São Paulo, chamada rota da luz, que tem o objetivo de retirar os peregrinos andantes dos acostamentos das vias. Porém, para o caso em questão, em certa altura, o grupo que caminhava rumo ao santuário foi surpreendido por condições climáticas muito adversas onde um galho de árvore veio a quebrar e cair sobre a mulher, que foi socorrida pelo serviço municipal de atendimento urgente, mas não resistindo aos ferimentos veio a falecer.</br>

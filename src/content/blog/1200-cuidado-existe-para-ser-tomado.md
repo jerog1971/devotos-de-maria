@@ -1,10 +1,10 @@
 ---
 title: "Cuidado existe para ser tomado"
 date: 2016-06-08T12:58:00Z
-heroImage: "/images/ataque.png"
+heroImage: "/images/posts/1200-cuidado-existe-para-ser-tomado-ataque.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNaoBAMCdNa_BZ0i2DCUZKE8WoLKziSd4MSJxPnAL3GkvlwrS3m4lTxJUE44GYe6Duku9txVnh6kMJxnDCALWI_aQRLwDByHhj_fnnqcxHavQmJrFTA5vv9GVp31RzgJBOQK5ypQIaYc/s1600/ataque.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNaoBAMCdNa_BZ0i2DCUZKE8WoLKziSd4MSJxPnAL3GkvlwrS3m4lTxJUE44GYe6Duku9txVnh6kMJxnDCALWI_aQRLwDByHhj_fnnqcxHavQmJrFTA5vv9GVp31RzgJBOQK5ypQIaYc/s320/ataque.png" width="320" height="302" data-original-width="494" data-original-height="466" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1200-cuidado-existe-para-ser-tomado-ataque.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1200-cuidado-existe-para-ser-tomado-ataque.png" width="320" height="302" data-original-width="494" data-original-height="466" /></a></div>
 1ª Pe 5,6-10 - Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no tempo oportuno. Confiai-lhe todas as vossas preocupações, porque ele tem cuidado de vós. Sede sóbrios e vigiai. Vosso adversário, o demônio, anda ao redor de vós como o leão que ruge, buscando a quem devorar. Resisti-lhe fortes na fé. Vós sabeis que os vossos irmãos, que estão espalhados pelo mundo, sofrem os mesmos padecimentos que vós. O Deus de toda graça, que vos chamou em Cristo à sua eterna glória, depois que tiverdes padecido um pouco, vos aperfeiçoará, vos tornará inabaláveis, vos fortificará.</br>
 </br>
 Quanto mais buscamos ser independentes na vida, tanto física quanto espiritual, mais nos deparamos com atitudes e comportamentos de nossa parte que contradizem o que este pequeno trecho da primeira carta de São Pedro nos ensina. Aquele que se proclama autossuficiente resiste perante as correções do altíssimo.</br>

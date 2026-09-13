@@ -1,10 +1,10 @@
 ---
 title: "Por onde andam as tentações?"
 date: 2015-11-12T10:40:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1620-por-onde-andam-as-tentações-tenta_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB2bYcLtgr71-Pqv9NERUoFKkUP9ECT0NHeVKhyomUFqhAN6SLU7rZe7-fA6VM5yv6qbuMsnj2qMx3FQmxhyzU_p8gyg0L5k_VZaXefsaZhs__cxbr9jY3zJU6LztmfgUSMyUrswtODh0/s1600/tenta%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB2bYcLtgr71-Pqv9NERUoFKkUP9ECT0NHeVKhyomUFqhAN6SLU7rZe7-fA6VM5yv6qbuMsnj2qMx3FQmxhyzU_p8gyg0L5k_VZaXefsaZhs__cxbr9jY3zJU6LztmfgUSMyUrswtODh0/s320/tenta%25C3%25A7%25C3%25A3o.png" width="320" height="192" data-original-width="449" data-original-height="269" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1620-por-onde-andam-as-tentações-tenta_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1620-por-onde-andam-as-tentações-tenta_25C3_25A7_25C3_25A3o.png" width="320" height="192" data-original-width="449" data-original-height="269" /></a></div>
 </br>
 Uma famosa oração, atribuída a Santo Agostinho, e rezada por quem se prepara para a Santa Escravidão a Nossa Senhora, possui uma frase digna de profunda meditação: “Ó Jesus, anátema seja quem não Vos ama. Aquele que não Vos ama seja repleto de amarguras.”</br>
 </br>

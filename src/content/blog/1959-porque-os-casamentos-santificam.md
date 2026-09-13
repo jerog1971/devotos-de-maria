@@ -1,10 +1,10 @@
 ---
 title: "Porque os casamentos santificam"
 date: 2016-08-29T13:04:00Z
-heroImage: "/images/casar.png"
+heroImage: "/images/posts/1959-porque-os-casamentos-santificam-casar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0XqqVXojf1FPgIRBBP8Q8GNikvi7HgIYYOmmG40bWDWtA0P_PLwc7ImCVpdQt05gw288TrcvSRqctBAEV6HZ5nXmrqeIa528iVWzGJJT6Hr9G2daMEoGomGRm8bppSCe0OAKMQuiV_E/s1600/casar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0XqqVXojf1FPgIRBBP8Q8GNikvi7HgIYYOmmG40bWDWtA0P_PLwc7ImCVpdQt05gw288TrcvSRqctBAEV6HZ5nXmrqeIa528iVWzGJJT6Hr9G2daMEoGomGRm8bppSCe0OAKMQuiV_E/s320/casar.png" width="320" height="257" data-original-width="642" data-original-height="516" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1959-porque-os-casamentos-santificam-casar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1959-porque-os-casamentos-santificam-casar.png" width="320" height="257" data-original-width="642" data-original-height="516" /></a></div>
 Antigamente, quando duas pessoas queriam se casar, e este antigamente era bem antigamente mesmo, bastavam elas se unirem em comum acordo, anunciarem publicamente o que acontecia mediante uma festa e pronto. Aquilo já era sacramento, mesmo que elas nem soubessem. Depois, mais adiante, o casal se dirigia até uma igreja para receberem a benção do sacerdote, que era e é dirigida para a mulher, porque ela é quem irá arcar com a responsabilidade da maternidade.</br>
 </br>
 No entanto o tempo se passou e começou a banalização do sacramento. As pessoas viviam numa época de comércio ambulante, viagens e colonizações, e aos poucos os homens daquele tempo casavam-se num local e posteriormente casavam-se em outra região e dessa forma atraíam para si uma grande inimizade de Deus ao promoverem essa infeliz atitude.</br>

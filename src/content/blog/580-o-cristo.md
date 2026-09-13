@@ -1,10 +1,10 @@
 ---
 title: "O Cristo"
 date: 2025-08-16T20:05:00.003Z
-heroImage: "/images/Cristo Redentor.png"
+heroImage: "/images/posts/580-o-cristo-Cristo_20Redentor.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6qlMkCLUV-0wkWpJcLaXBZB-gJNEYE7bxFaCCNCZvm5MHojt49ueSfscBgxOQDLtEoDcfD_1E482LbJsvLklkAwEXJUcgOzHCmZaUwXorij8QPomq0w2SNOPOaFYdZjuEmVPt4G9zTlCiW3fDgkktIEKLHelTauJbvUpHSzU-skzW-fTjTN7SDIGh_sI/s463/Cristo%20Redentor.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="463" height="203" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6qlMkCLUV-0wkWpJcLaXBZB-gJNEYE7bxFaCCNCZvm5MHojt49ueSfscBgxOQDLtEoDcfD_1E482LbJsvLklkAwEXJUcgOzHCmZaUwXorij8QPomq0w2SNOPOaFYdZjuEmVPt4G9zTlCiW3fDgkktIEKLHelTauJbvUpHSzU-skzW-fTjTN7SDIGh_sI/s320/Cristo%20Redentor.png" width="320" /><span style="background-color: black;"><span></span></span></a></div><p></p><p>
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/580-o-cristo-Cristo_20Redentor.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="463" height="203" src="/images/posts/580-o-cristo-Cristo_20Redentor.png" width="320" /><span style="background-color: black;"><span></span></span></a></div><p></p><p>
 
 
 	

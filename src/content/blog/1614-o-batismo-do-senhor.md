@@ -1,10 +1,10 @@
 ---
 title: "O batismo do Senhor"
 date: 2021-01-10T14:49:00.003Z
-heroImage: "/images/Jesus.png"
+heroImage: "/images/posts/1614-o-batismo-do-senhor-batismo_de_Jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEA1mEthpRUYldd4vuJeicf3a513NG41PDXr8Ift1P9NKkQKgwjV9b0LarGPYT18-sp2wyOiKKHMaXHeoyAxw-XNrKF14_R8RK25c327hf2Jv11ykOX3bdhkqjwajhfA2-9CVCh8M8TGo/s344/batismo+de+Jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="344" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEA1mEthpRUYldd4vuJeicf3a513NG41PDXr8Ift1P9NKkQKgwjV9b0LarGPYT18-sp2wyOiKKHMaXHeoyAxw-XNrKF14_R8RK25c327hf2Jv11ykOX3bdhkqjwajhfA2-9CVCh8M8TGo/s320/batismo+de+Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Serve para nos recordar que adotados por Deus pelo batismo
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1614-o-batismo-do-senhor-batismo_de_Jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="344" src="/images/posts/1614-o-batismo-do-senhor-batismo_de_Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Serve para nos recordar que adotados por Deus pelo batismo
 através do seu Espírito Santo, somos enviados permanentemente em missão para
 propagar a boa nova de Jesus Cristo. <o:p></o:p></p><div class="separator" style="clear: both;">
 

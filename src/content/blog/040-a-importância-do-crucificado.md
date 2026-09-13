@@ -1,10 +1,10 @@
 ---
 title: "A importância do Crucificado"
 date: 2016-07-04T19:46:00Z
-heroImage: "/images/Jesus_crucificado.png"
+heroImage: "/images/posts/040-a-importância-do-crucificado-crucificado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD-JkySdsRbSEYlpA1P_dM3sjw4TMwWZ7-9bVXrmbjtZpkbOUTS11i3e-Zz2QV6Scn6eczB3O4EXTwyiveXPmY4r_Fw6uSy896joPe-pdWBNpt167XO_FBZLPBaM03fm9VYwv9TdZzTCk/s1600/crucificado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD-JkySdsRbSEYlpA1P_dM3sjw4TMwWZ7-9bVXrmbjtZpkbOUTS11i3e-Zz2QV6Scn6eczB3O4EXTwyiveXPmY4r_Fw6uSy896joPe-pdWBNpt167XO_FBZLPBaM03fm9VYwv9TdZzTCk/s320/crucificado.png" width="320" height="289" data-original-width="298" data-original-height="269" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/040-a-importância-do-crucificado-crucificado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/040-a-importância-do-crucificado-crucificado.png" width="320" height="289" data-original-width="298" data-original-height="269" /></a></div>
 Por vinte e quatro vezes a palavra crucificado aparece nas sagradas escrituras. Em nove dos vinte e sete livros do novo testamento. Aparece de maneira até óbvia para nós católicos, nos quatro evangelhos. Também no livro do Apocalipse e nas cartas aos Romanos, aos Gálatas, e nas duas cartas aos Coríntios. Como vemos, nós que seguimos a religião de uma pessoa, de Nosso Senhor Jesus Cristo, que pela vontade do Pai, veio tornar a lei perfeita e estabelecer a nova e eterna aliança, fica claro com todas as letras que tudo isso que Ele fez por nós teve seu ponto culminante em sua crucificação.</br>
 </br>
 Crucificação essa que nos remete à figura da cruz, símbolo cristão que nos recorda a nossa condição e não nos deixa esquecer que, a cruz de cada um, regra da salvação, não é um mero adereço do meu vestuário espiritual que posso usar quando for conveniente:</br>

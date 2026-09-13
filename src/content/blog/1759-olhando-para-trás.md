@@ -1,10 +1,10 @@
 ---
 title: "Olhando para trás"
 date: 2020-03-29T20:19:00Z
-heroImage: "/images/olhando_para_tras.png"
+heroImage: "/images/posts/1759-olhando-para-trás-olhando_para_tras.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-nR5EmoXYkL3EMGmPgbUnySYQ-cJCdS5m-hyFpzbF6-YGp4SbSmueSfkrVSfxnAVRslMKCTwNYeZrTOLTJREwBg3xpet04_gPdGIoD5sh31NDWwRQieQI_vqPUrCzuV7VDqp1pjXm-Y/s1600/olhando_para_tras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-nR5EmoXYkL3EMGmPgbUnySYQ-cJCdS5m-hyFpzbF6-YGp4SbSmueSfkrVSfxnAVRslMKCTwNYeZrTOLTJREwBg3xpet04_gPdGIoD5sh31NDWwRQieQI_vqPUrCzuV7VDqp1pjXm-Y/s320/olhando_para_tras.png" width="320" height="316" data-original-width="331" data-original-height="327" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1759-olhando-para-trás-olhando_para_tras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1759-olhando-para-trás-olhando_para_tras.png" width="320" height="316" data-original-width="331" data-original-height="327" /></a></div>
 Mateus 10:38 – “Quem não toma a sua cruz e não me segue, não é digno de mim.” Lucas 9,62 – “Aquele que põe a mão no arado e olha para trás, não é apto para o Reino de Deus.” Pessoal, como se diz por aí na linguagem da gíria, o bicho pega mesmo quando o assunto é a exigência que o amor radical de Deus, manifestado por Jesus através do Espírito Santo se expressa na vida de cada um de nós. Todavia, nossa pequenez e nossa fraqueza concupiscente herdada pelo pecado original sempre trabalha em sentindo contrário e, aliada ao inimigo, ambos, procuram nos mostrar que aquilo que é, não é. Vamos entender e refletir.</br>
 </br>
 Olho para caminhada cristã e hoje, posso fazer uma análise de quanto melhorei, não melhorei ou piorei. A religião, que serve para religar o homem a Deus, tem esse propósito. Já que somos um composto de corpo e alma, um verdadeiro campo de batalha, podermos dizer: quanto de nós já se configurou ao modelo de Jesus? Quanto ainda não? Quanto está em processo de configuração? Quanto nem começou ainda? Quanto estava em processo mas decaiu e regrediu? São todas perguntas bem pertinentes ao caso e devem estar presentes inclusive, nos exames de consciência que fazemos.</br>

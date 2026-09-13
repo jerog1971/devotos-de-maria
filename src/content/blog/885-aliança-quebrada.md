@@ -1,10 +1,10 @@
 ---
 title: "Aliança quebrada"
 date: 2018-12-12T16:06:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/885-aliança-quebrada-alian_25C3_25A7a_quebrada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUTCshHJmwua3qv1R2O4RXW6FMyij4ntIBXsbdRwskoiY8cT3yMAQ2aOSJvUUESBkI5RcpIrJsb17VBR4z-a637gY-CAL7QXXOgVi0OvFuTkzmDx6_GXF3L4hcxx3DX1M0Wg4GTA4po0/s1600/alian%25C3%25A7a_quebrada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUTCshHJmwua3qv1R2O4RXW6FMyij4ntIBXsbdRwskoiY8cT3yMAQ2aOSJvUUESBkI5RcpIrJsb17VBR4z-a637gY-CAL7QXXOgVi0OvFuTkzmDx6_GXF3L4hcxx3DX1M0Wg4GTA4po0/s320/alian%25C3%25A7a_quebrada.png" width="320" height="267" data-original-width="481" data-original-height="401" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/885-aliança-quebrada-alian_25C3_25A7a_quebrada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/885-aliança-quebrada-alian_25C3_25A7a_quebrada.png" width="320" height="267" data-original-width="481" data-original-height="401" /></a></div>
 Quando se vai fazer um bolo, normalmente na lista de ingredientes existem aqueles que comumente se tem em casa, como leite, ovos, açúcar e trigo e outros que não são com frequência encontrados. Todavia, se aparece aquela vontade de meio de tarde para se fazer um bolo num final de semana para enriquecer a mesa no lanche ou simplesmente porque queremos oferecer algo mais para uma visita que chegou, existe uma solução muito simples que costumeiramente se faz:</br>
 </br>
 Um dos ingredientes pode ser suprimido que não irá impactar no resultado final e sabor do bolo. Se a receita vai quatro ovos, mas só temos três, tudo bem, se não tem “maisena” em casa, tudo bem, se falta a essência de baunilha ou não tem margarina, substituímos por óleo de soja, por exemplo. Ainda assim, todos sabemos que o bolo irá ficar bom, muito próximo da originalidade pedida pela receita. No entanto, se faltar em casa açúcar, trigo ou fermento, a coisa muda de figura. Já não é possível fazermos o bolo.</br>

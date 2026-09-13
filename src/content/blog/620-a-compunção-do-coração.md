@@ -1,10 +1,10 @@
 ---
 title: "A compunção do coração"
 date: 2020-06-21T15:41:00.001Z
-heroImage: "/images/felicidade.png"
+heroImage: "/images/posts/620-a-compunção-do-coração-felicidade.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-yn1Uv6Xp8nwLwBF_jcaqI6Dys2GaBnXdWIhVVl3VwCyBIa-yzb-qovS8el2BBGXDwto-d2HQ_C75cyHyizs1oM5frtAMiH6CDD5Lh8nTsbC-WWyVMjog8fgvrz2479Ud3MP4q5a0qY/s469/felicidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="425" data-original-width="469" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-yn1Uv6Xp8nwLwBF_jcaqI6Dys2GaBnXdWIhVVl3VwCyBIa-yzb-qovS8el2BBGXDwto-d2HQ_C75cyHyizs1oM5frtAMiH6CDD5Lh8nTsbC-WWyVMjog8fgvrz2479Ud3MP4q5a0qY/s320/felicidade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se queres fazer algum progresso, conserva-te no temor de
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/620-a-compunção-do-coração-felicidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="425" data-original-width="469" src="/images/posts/620-a-compunção-do-coração-felicidade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se queres fazer algum progresso, conserva-te no temor de
 Deus e não busques demasiada liberdade; refreia, antes, todos os teus sentidos
 com a disciplina e não te entregues à vã alegria. Procura e compunção do
 coração e acharás a devoção. A compunção descobre tesouros, que a dissipação

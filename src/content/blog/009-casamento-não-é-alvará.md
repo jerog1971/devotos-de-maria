@@ -1,10 +1,10 @@
 ---
 title: "Casamento não é Alvará"
 date: 2018-04-19T15:00:00Z
-heroImage: "/images/casamento.png"
+heroImage: "/images/posts/009-casamento-não-é-alvará-casamento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpr-5a4ILertjykVqF6zwshOc_H4a1zabwPsCL_W5rzLuPKYeyPNTZlaaVbihKWc9zYQRCIAfsVzfk6sXx4F-9tmakn7MyqcpYH7F6dgO58zMaC7gblvaiusb13vBY6v0fwS0vrh1v-pA/s1600/casamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpr-5a4ILertjykVqF6zwshOc_H4a1zabwPsCL_W5rzLuPKYeyPNTZlaaVbihKWc9zYQRCIAfsVzfk6sXx4F-9tmakn7MyqcpYH7F6dgO58zMaC7gblvaiusb13vBY6v0fwS0vrh1v-pA/s320/casamento.png" width="301" height="320" data-original-width="275" data-original-height="292" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/009-casamento-não-é-alvará-casamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/009-casamento-não-é-alvará-casamento.png" width="301" height="320" data-original-width="275" data-original-height="292" /></a></div>
 No livro de Tobias, um dos deuterocanônicos da bíblia sagrada católica, aprendemos de Deus, por intermédio do anjo São Rafael, que proclama uma belíssima catequese sobre algumas verdades celestes, de que sua providência divina nos condiciona a amarmos sobre todas as coisas e não nos colocarmos sob o domínio do demônio.</br>
 </br>
 Embora São Paulo em suas cartas nos recorda que nada nos separará do amor de Deus é bastante fácil de se compreender porque em algumas vezes ou situações, parece Deus ter nos abandonado. Nós, por livre escolha decidimos deixar o auxílio divino e buscamos por meios próprios resolver as coisas. Dessa forma o cuidado particular que Deus tem para cada um fica, por opção da pessoa, afastado.</br>

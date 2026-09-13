@@ -1,10 +1,10 @@
 ---
 title: "A verdade de Deus?"
 date: 2023-01-28T18:36:00.003Z
-heroImage: "/images/censura patrocinada.png"
+heroImage: "/images/posts/1391-a-verdade-de-deus-censura_20patrocinada.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5pCxGYIh42qu4Mr60HuYJCPGfuz5lDsPBF_F5Dj8vliANETvmRaV66PC_2q1NMIQUNXWg_zmMTBr8PJt88ZrT2t1mOU2fb7qEFCGzHT3RKxRfMdc4E57DOjLeS7IQ0KRcQY-C5eXfBDTZrqoc8K8J-qfNwgZl-0dVTGweZYHp5ewUhZRZOUVVpan/s315/censura%20patrocinada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="199" data-original-width="315" height="199" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5pCxGYIh42qu4Mr60HuYJCPGfuz5lDsPBF_F5Dj8vliANETvmRaV66PC_2q1NMIQUNXWg_zmMTBr8PJt88ZrT2t1mOU2fb7qEFCGzHT3RKxRfMdc4E57DOjLeS7IQ0KRcQY-C5eXfBDTZrqoc8K8J-qfNwgZl-0dVTGweZYHp5ewUhZRZOUVVpan/s1600/censura%20patrocinada.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nada disso, a verdade relativa e adulterada por conta de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1391-a-verdade-de-deus-censura_20patrocinada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="199" data-original-width="315" height="199" src="/images/posts/1391-a-verdade-de-deus-censura_20patrocinada.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nada disso, a verdade relativa e adulterada por conta de
 ideais diferentes dos moldes cristãos. Trata-se da censura patrocinada pelo
 Estado; uma tendência totalitária que tem se acelerado em todo o mundo com uma
 velocidade assustadora. Os governos, muitas vezes com a ajuda das “Big Tech”,

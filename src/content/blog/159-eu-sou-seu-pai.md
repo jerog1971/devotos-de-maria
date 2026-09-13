@@ -1,10 +1,10 @@
 ---
 title: "Eu sou seu pai"
 date: 2020-04-16T16:31:00.003Z
-heroImage: "/images/darth-vader.png"
+heroImage: "/images/posts/159-eu-sou-seu-pai-darth-vader.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2CFrc_WvyWagcnA_eRBGo18nUJvhpAmJGKOEyIJHk9iSK9hVEq3462wgQ1S8oAtgtHPt-OxQnr2elgsYWzR9AXl-k8R1XIKOrJpWFAgd5XzYVLNla_C65xQVMAUCHNb4KOXnif2xKxA/s1600/darth-vader.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2CFrc_WvyWagcnA_eRBGo18nUJvhpAmJGKOEyIJHk9iSK9hVEq3462wgQ1S8oAtgtHPt-OxQnr2elgsYWzR9AXl-k8R1XIKOrJpWFAgd5XzYVLNla_C65xQVMAUCHNb4KOXnif2xKxA/s320/darth-vader.png" width="320" height="297" data-original-width="140" data-original-height="130" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/159-eu-sou-seu-pai-darth-vader.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/159-eu-sou-seu-pai-darth-vader.png" width="320" height="297" data-original-width="140" data-original-height="130" /></a></div>
 Independente de como é ou tenha sido o pai de cada um, todos tem um pai infinitamente melhor. O Pai Eterno, Deus Pai todo poderoso, criador do céu e da terra, de todas as coisas visíveis e invisíveis. Na saga de ficção científica Guerra nas Estrelas, o vilão principal da primeira trilogia revela para o protagonista que ele era seu pai. Num primeiro momento a notícia foi um choque porque a crença era aos olhos do bom, muito diferente daquilo que enxergava na conduta do revelado pai.</br>
 </br>
 De certa forma é o que muitas pessoas vivem em sua trajetória na terra. Não conseguem conciliar que o Deus do antigo testamento, promotor de guerras, dizimador de povos, possa ser o mesmo Deus anunciado por Jesus Cristo. Ressalta aos olhos e ouvidos no segundo testamento a frase que diz: Deus é amor!</br>

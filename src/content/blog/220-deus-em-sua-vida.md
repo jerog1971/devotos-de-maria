@@ -1,10 +1,10 @@
 ---
 title: "Deus em sua vida"
 date: 2016-04-19T18:17:00Z
-heroImage: "/images/primeiro_deus.png"
+heroImage: "/images/posts/220-deus-em-sua-vida-primeiro_deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUfLYmI95z7LdNZm6hhWGvN21Ewl2FCBGoIc3pqtzMZGl-E7hROvaPI4BQs1kQvQSIcid_2aDGRsoJSrg4M7yvwITHIVh7cq56QWjBtHcKaMsKkGB_-_-QdBU-0tLHJXkXJmy7inkMZiE/s1600/primeiro_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUfLYmI95z7LdNZm6hhWGvN21Ewl2FCBGoIc3pqtzMZGl-E7hROvaPI4BQs1kQvQSIcid_2aDGRsoJSrg4M7yvwITHIVh7cq56QWjBtHcKaMsKkGB_-_-QdBU-0tLHJXkXJmy7inkMZiE/s320/primeiro_deus.png" width="320" height="269" data-original-width="316" data-original-height="266" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/220-deus-em-sua-vida-primeiro_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/220-deus-em-sua-vida-primeiro_deus.png" width="320" height="269" data-original-width="316" data-original-height="266" /></a></div>
 Deus sempre nos alcança. Ele caminha com seu projeto de amor para a humanidade num tempo que não nos é conhecido. Nossa condição humana nos faz relacionarmos com ele através do tempo cronológico, que nos prende a esta realidade passageira.</br>
 </br>
 Por conta disso muitas pessoas não compreendem quando Jesus diz que o reino dos céus está próximo, ou ainda quando ele diz que o reino dos céus está entre nós. De fato, Deus nos concedeu o tempo do hoje, o tempo do agora. Em seu plano de amor e no seu projeto salvador, o criador que tanto nos ama a ponto de enviar seu filho unigênito Jesus Cristo, é capaz de tudo, é capaz do impossível. Pelo Espírito Santo Paráclito nos cumula de dons e nos transforma quando nossa experiência com ele nos remete diretamente a conversão para a sua verdade que é Jesus, caminho, verdade e vida.</br>

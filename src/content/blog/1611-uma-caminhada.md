@@ -1,10 +1,10 @@
 ---
 title: "Uma caminhada"
 date: 2020-11-17T13:37:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1611-uma-caminhada-M_25C3_25A3e_e_Filha.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0y319RGFHT4lg-pJMHFPRYv00aBgLe0mMZOO2q7UvWEcU7tWdC9WA6q4oiMd-XciVZTnACQ5aUIVCv1kY7OUB8zfFbpm1297zK3WFA6eRbbs_-lHko088_DC2v5uhjusaLpuVh7Xnx3A/s920/M%25C3%25A3e+e+Filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="920" data-original-width="807" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0y319RGFHT4lg-pJMHFPRYv00aBgLe0mMZOO2q7UvWEcU7tWdC9WA6q4oiMd-XciVZTnACQ5aUIVCv1kY7OUB8zfFbpm1297zK3WFA6eRbbs_-lHko088_DC2v5uhjusaLpuVh7Xnx3A/s320/M%25C3%25A3e+e+Filha.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A graça de se viver é concedida a cada dia. Quando deitamos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1611-uma-caminhada-M_25C3_25A3e_e_Filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="920" data-original-width="807" height="320" src="/images/posts/1611-uma-caminhada-M_25C3_25A3e_e_Filha.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A graça de se viver é concedida a cada dia. Quando deitamos
 para dormir nunca sabemos se iremos acordar para enfrentarmos as novas
 oportunidades que Deus prepara para aqueles que o amam (Romanos 8,28).
 Oportunidades essas que muitas vezes tornam nossa caminhada de retorno para a

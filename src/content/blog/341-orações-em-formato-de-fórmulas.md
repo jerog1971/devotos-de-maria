@@ -1,10 +1,10 @@
 ---
 title: "Orações em formato de \"fórmulas\""
 date: 2016-11-06T23:54:00Z
-heroImage: "/images/oracoes.png"
+heroImage: "/images/posts/341-orações-em-formato-de-fórmulas-oracoes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8aYj5h8qPXKm5Y-GZhZsOgr5HZKpi59lRwrBoI96_gkp5TtSnNTemsIV5n2DSMnc2plauhxVpR-bBf5XkRNdF5brIkQURzMGpk2DXXRa3n83dqUeCFn3TpsOYXm2_iXQ4Q_J9xuuiCaI/s1600/oracoes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8aYj5h8qPXKm5Y-GZhZsOgr5HZKpi59lRwrBoI96_gkp5TtSnNTemsIV5n2DSMnc2plauhxVpR-bBf5XkRNdF5brIkQURzMGpk2DXXRa3n83dqUeCFn3TpsOYXm2_iXQ4Q_J9xuuiCaI/s320/oracoes.png" width="318" height="320" data-original-width="210" data-original-height="211" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/341-orações-em-formato-de-fórmulas-oracoes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/341-orações-em-formato-de-fórmulas-oracoes.png" width="318" height="320" data-original-width="210" data-original-height="211" /></a></div>
 Muitas pessoas de várias denominações religiosas expressam o seu desejo e práticas de diálogo com o altíssimo através de súplicas e outras expressões pessoais que se afastam um pouco dos ensinamentos das sagradas escrituras. E esta prática também acontece entre os católicos. Muitas são as pessoas que contestam as várias orações que existem na bíblia. Dizem que fazem suas orações de forma espontânea ao invés de decorarem as “fórmulas” ensinadas pelas escrituras inspiradas pelo Espírito Santo. Vai saber, não é mesmo, o motivo de cada um, em achar que suas orações substituem aquelas que nos foram dadas do céu.</br>
 </br>
 O que dizer então do Livro dos Salmos? Das 150 orações que prefiguram a vinda de Cristo e antecedem o Saltério Mariano entregue por Nossa Senhora a São Domingos de Gusmão? Seja como for, uma coisa é sempre importante ficar bem claro a todos. É muito evidente que a oração que brota de dentro do coração, de forma natural, com fé profunda e reta intenção chega aos céus pelas mãos dos anjos.</br>

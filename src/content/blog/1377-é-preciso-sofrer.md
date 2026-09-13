@@ -1,10 +1,10 @@
 ---
 title: "É preciso sofrer"
 date: 2016-05-11T13:36:00.001Z
-heroImage: "/images/sofrimento_de_jesus.png"
+heroImage: "/images/posts/1377-é-preciso-sofrer-sofrimento_de_jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9fQUXVn0Z-ND0A3P22e-IPBX8rZYfBtO6ix0j9KBy2F6DlJQ5A__rLezEvJ_O9Ew85KbeUB4IQtw0WtVT5-cA9Si1roFZ6zmLNjr9GF30TZVkDuV3mVFLG9hQWJSDa1K0vLYkhUPtOk/s1600/sofrimento_de_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9fQUXVn0Z-ND0A3P22e-IPBX8rZYfBtO6ix0j9KBy2F6DlJQ5A__rLezEvJ_O9Ew85KbeUB4IQtw0WtVT5-cA9Si1roFZ6zmLNjr9GF30TZVkDuV3mVFLG9hQWJSDa1K0vLYkhUPtOk/s320/sofrimento_de_jesus.png" width="320" height="255" data-original-width="607" data-original-height="483" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1377-é-preciso-sofrer-sofrimento_de_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1377-é-preciso-sofrer-sofrimento_de_jesus.png" width="320" height="255" data-original-width="607" data-original-height="483" /></a></div>
 1ª Pe 4,12-19 - Caríssimos, não vos perturbeis no fogo da provação, como se vos acontecesse alguma coisa extraordinária. Pelo contrário, alegrai-vos em ser participantes dos sofrimentos de Cristo, para que vos possais alegrar e exultar no dia em que for manifestada sua glória.</br>
 </br>
 Se fordes ultrajados pelo nome de Cristo, bem-aventurados sois vós, porque o Espírito de glória, o Espírito de Deus repousa sobre vós. Que ninguém de vós sofra como homicida, ou ladrão, ou difamador, ou cobiçador do alheio. Se, porém, padecer como cristão, não se envergonhe; pelo contrário, glorifique a Deus por ter este nome. Porque vem o momento em que se começará o julgamento pela casa de Deus. Ora, se ele começa por nós, qual será a sorte daqueles que são infiéis ao Evangelho de Deus? E, se o justo se salva com dificuldade, que será do ímpio e do pecador? Assim também aqueles que sofrem segundo a vontade de Deus encomendem as suas almas ao Criador fiel, praticando o bem.</br>

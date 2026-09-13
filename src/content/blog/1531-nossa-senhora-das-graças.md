@@ -1,10 +1,10 @@
 ---
 title: "Nossa Senhora das Graças"
 date: 2017-08-23T17:00:00Z
-heroImage: "/images/atari.png"
+heroImage: "/images/posts/1531-nossa-senhora-das-graças-catarina_laboure.png"
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW-kmrULpz__0Jq_9iKlNI9maowrhpBpowgbCQXl8w5Obo67lbUFnH1PXGs-ZLtoKOOU8fak0d5I1CWGp7cpCXWtwkp9P-NgJqWrHcBMg6TIzyMjyhpy0UoDuGfJssE6vO-rDQQDOcFP0/s1600/catarina+laboure.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW-kmrULpz__0Jq_9iKlNI9maowrhpBpowgbCQXl8w5Obo67lbUFnH1PXGs-ZLtoKOOU8fak0d5I1CWGp7cpCXWtwkp9P-NgJqWrHcBMg6TIzyMjyhpy0UoDuGfJssE6vO-rDQQDOcFP0/s320/catarina+laboure.png" width="320" height="278" data-original-width="578" data-original-height="503" /></a>
+<a href="/images/posts/1531-nossa-senhora-das-graças-catarina_laboure.png" imageanchor="1" ><img border="0" src="/images/posts/1531-nossa-senhora-das-graças-catarina_laboure.png" width="320" height="278" data-original-width="578" data-original-height="503" /></a>
 </br>
 A Madre Marta nos falara sobre a devoção aos santos, em particular sobre a devoção à Santíssima Virgem - o que me deu desejo de vê-La - e me deitei com esse pensamento: que nessa noite mesmo, eu veria minha Boa Mãe. Como nos haviam distribuído um pedaço do roquete de linho de São Vicente, cortei a metade e a engoli, adormecendo com o pensamento de que São Vicente me obteria a graça de contemplar a Santíssima Virgem. Enfim, às onze e meia da noite, ouvi alguém me chamar:</br>
 </br>
@@ -32,7 +32,7 @@ Ela disse como me devo conduzir face a meu diretor espiritual, como me comportar
 </br>
 - Minha filha, Deus quer te encarregar de uma missão. Terás muito que sofrer, porém hás de suportar, pensando que o farás para a glória de Deus. Saberás (discernir) o que é de Deus. Serás atormentada, até pelo que disseres a quem está encarregado de te dirigir. Serás contraditada, mas terás a graça. Não temas. Dize tudo com confiança e simplicidade. Serás inspirada em tuas orações. O tempo atual é muito ruim. Calamidades vão se abater sobre a França. O trono será derrubado. O mundo inteiro se verá transtornado por males de todo tipo (a Santíssima Virgem tinha um ar muito entristecido ao dizer isso). Mas venham ao pé deste altar: aí as graças serão derramadas sobre todas as pessoas, grandes e pequenas, particularmente sobre aquelas que as pedirem com confiança e fervor. O perigo será grande, porém não deves temer: Deus e São Vicente protegerão esta Comunidade.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSC0Jq_TWY-FDqx30V1_ThB-_KFEjRj1SMFuCkd72XWYz13Kf7jxVl78k6SczeusGXz5j0EjFhBKMO7DYOBhYie2A8N5p1V5yn2wGZYd2jVgq7Wj24pKD6pcamsWhPvnyPRHL1r4fj-L8/s1600/catarina+laboure2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSC0Jq_TWY-FDqx30V1_ThB-_KFEjRj1SMFuCkd72XWYz13Kf7jxVl78k6SczeusGXz5j0EjFhBKMO7DYOBhYie2A8N5p1V5yn2wGZYd2jVgq7Wj24pKD6pcamsWhPvnyPRHL1r4fj-L8/s200/catarina+laboure2.png" width="200" height="190" data-original-width="536" data-original-height="510" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1531-nossa-senhora-das-graças-catarina_laboure2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1531-nossa-senhora-das-graças-catarina_laboure2.png" width="200" height="190" data-original-width="536" data-original-height="510" /></a></div>
 </br>
 Quatro meses transcorreram desde aquela prodigiosa noite em que Santa Catarina contemplara pela primeira vez a Santíssima Virgem. Na inocente alma da religiosa cresciam as saudades daquele bendito encontro e o desejo intenso de que lhe fosse concedido de novo o augusto favor de rever a Mãe de Deus. E foi atendida. Era 27 de novembro de 1830, sábado. Às cinco e meia da tarde, as Filhas da Caridade encontravam-se reunidas na sua capela da rue du Bac para o costumeiro período de meditação. Reinava perfeito silêncio nas fileiras das freiras e noviças. Como as demais, Catarina se mantinha em profundo recolhimento. De súbito...</br>
 </br>
@@ -66,6 +66,6 @@ Morreu em 31 de Dezembro de 1876</br>
 </br>
 Seu corpo foi exumado em 1933, sendo encontrado incorrupto, e hoje é exposto à veneração na capela de sua Ordem, a mesma onde aconteceram as visões, na Rue du Bac, 140, em Paris. Foi beatificada em 1933 pelo Papa Pio XI e canonizada em 27 de julho de 1947 pelo Papa Pio XII, 100 anos após a aprovação pontifical da Juventude Mariana Vicentina (J.M.V.), solicitada pela própria Catarina e pelo Padre Aladel.</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkouI8mC4VKI2dcEjumOKLZk29RmHbTKDKqxuRHozoAbzwBexE3O9cNvkHNsC-2qR4B9hFHOM33jjTuoD6vmm2mPNquXiklTY3z9oTsw6NPd1q0-fa0JbJewbQZDhWTMcTFRIIZ3F_rP0/s1600/catarina+laboure3.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkouI8mC4VKI2dcEjumOKLZk29RmHbTKDKqxuRHozoAbzwBexE3O9cNvkHNsC-2qR4B9hFHOM33jjTuoD6vmm2mPNquXiklTY3z9oTsw6NPd1q0-fa0JbJewbQZDhWTMcTFRIIZ3F_rP0/s320/catarina+laboure3.png" width="320" height="230" data-original-width="583" data-original-height="419" /></a></br>
+<a href="/images/posts/1531-nossa-senhora-das-graças-catarina_laboure3.png" imageanchor="1" ><img border="0" src="/images/posts/1531-nossa-senhora-das-graças-catarina_laboure3.png" width="320" height="230" data-original-width="583" data-original-height="419" /></a></br>
 Corpo incorrupto de Santa Catarina Labouré</br>
 </br>

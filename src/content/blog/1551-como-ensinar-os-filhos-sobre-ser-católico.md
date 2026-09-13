@@ -1,10 +1,10 @@
 ---
 title: "Como ensinar os filhos sobre \"ser católico\""
 date: 2016-08-18T18:31:00Z
-heroImage: "/images/quatro.jpg"
+heroImage: "/images/posts/1551-como-ensinar-os-filhos-sobre-ser-católico-quatro.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWaRBL2DQBwO0yjbbZb91M1DXt7Xg3aMfWmJhXrImAL94tYTaXtyjPeNwPHERcF7Q9baZLsivrFheRqNp9iMDBILWPIoYE0sBCGIXG9ce6d1rhLCDrQXurVC_WMlOqpYNqotry46hLFNU/s1600/quatro.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWaRBL2DQBwO0yjbbZb91M1DXt7Xg3aMfWmJhXrImAL94tYTaXtyjPeNwPHERcF7Q9baZLsivrFheRqNp9iMDBILWPIoYE0sBCGIXG9ce6d1rhLCDrQXurVC_WMlOqpYNqotry46hLFNU/s320/quatro.jpg" width="315" height="320" data-original-width="620" data-original-height="629" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1551-como-ensinar-os-filhos-sobre-ser-católico-quatro.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1551-como-ensinar-os-filhos-sobre-ser-católico-quatro.jpg" width="315" height="320" data-original-width="620" data-original-height="629" /></a></div>
 Dentre as muitas tarefas e obrigações que os pais possuem na vida em família, sem dúvida, uma das mais importantes é a transmissão dos valores religiosos recebidos de geração em geração, pelo menos é assim que precisa ser, aos seus filhos. Digo que é assim que precisa ser porque para que nos salvemos precisamos fazer parte do corpo de Cristo que é a igreja, pela qual Jesus se entregou (Efésios 5,25).</br>
 </br>
 A questão, no entanto, se não for encarada de frente, pode se constituir em assunto e situação bem delicada. O católico, que verdadeiramente o é, vive o lema que aprendeu na primeira carta de São Pedro 3,15: “Estais sempre prontos a responder para vossa defesa, a todo aquele que lhe pedir a razão da vossa esperança.”

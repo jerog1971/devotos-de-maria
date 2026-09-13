@@ -1,10 +1,10 @@
 ---
 title: "Motivos para pecar ou não"
 date: 2023-08-03T19:30:00.002Z
-heroImage: "/images/dor.png"
+heroImage: "/images/posts/1663-motivos-para-pecar-ou-não-sou_20pecador.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxrF5G8x_VHnQ9BPeTMaRdE2CLcnrG3i8oEdGuduRd7zJJsS7c-IeQFUJJ-XDmlP4vzFEACKGUKQa2HZ4kWDdFneJ0rHag3tVgL67rxc69G4oYuseyZGQPo5CSPVXgEn4KqZrZd52uQyJHYVqDgjjQ8BtQeDUb9EGvrsOD2Zf3UdZ5NRCEz24QoTdPY0Q/s479/sou%20pecador.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="408" data-original-width="479" height="273" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxrF5G8x_VHnQ9BPeTMaRdE2CLcnrG3i8oEdGuduRd7zJJsS7c-IeQFUJJ-XDmlP4vzFEACKGUKQa2HZ4kWDdFneJ0rHag3tVgL67rxc69G4oYuseyZGQPo5CSPVXgEn4KqZrZd52uQyJHYVqDgjjQ8BtQeDUb9EGvrsOD2Zf3UdZ5NRCEz24QoTdPY0Q/s320/sou%20pecador.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Razões e motivos é o que não faltam na vida de uma pessoa.
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1663-motivos-para-pecar-ou-não-sou_20pecador.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="408" data-original-width="479" height="273" src="/images/posts/1663-motivos-para-pecar-ou-não-sou_20pecador.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Razões e motivos é o que não faltam na vida de uma pessoa.
 De fato, o ser humano é perito na criação de razões e motivos para endossar
 suas atitudes. Uma situação que vai, mais ou menos, na mesma linha da culpa: “a
 culpa é minha então eu a coloco em quem eu quiser”. Pois bem, e agindo assim a

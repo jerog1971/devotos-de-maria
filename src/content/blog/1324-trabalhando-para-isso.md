@@ -1,10 +1,10 @@
 ---
 title: "Trabalhando para isso"
 date: 2024-02-28T21:47:00.003Z
-heroImage: "/images/trabalhando para isso.png"
+heroImage: "/images/posts/1324-trabalhando-para-isso-trabalhando_20para_20isso.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiCYS6zmwDkt9k5BJMOUqr2-GxU3q9rIVevx_HFsC_bccj5EdAh1GoqJjWqlGbdDXu3juWGQKKW2AyZ_uNxMiz23U5dhs_H_1hmOFRhEBRbe-Z_SPZVcVyiZpYyhGLzyu6_dLp5-tDd_enq50Cbq-IlCiwSc6CwBrNBl-NIIdo743tjruKzGELZDTUGY/s405/trabalhando%20para%20isso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="405" height="256" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiCYS6zmwDkt9k5BJMOUqr2-GxU3q9rIVevx_HFsC_bccj5EdAh1GoqJjWqlGbdDXu3juWGQKKW2AyZ_uNxMiz23U5dhs_H_1hmOFRhEBRbe-Z_SPZVcVyiZpYyhGLzyu6_dLp5-tDd_enq50Cbq-IlCiwSc6CwBrNBl-NIIdo743tjruKzGELZDTUGY/s320/trabalhando%20para%20isso.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certa vez, quando eu trabalhava em uma empresa de móveis sob
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1324-trabalhando-para-isso-trabalhando_20para_20isso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="405" height="256" src="/images/posts/1324-trabalhando-para-isso-trabalhando_20para_20isso.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certa vez, quando eu trabalhava em uma empresa de móveis sob
 medida, presenciei alguns fatos bem pertinentes e relacionados às escolhas que
 fazemos na trajetória de nossas vidas. Havia nessa empresa, entre os funcionários,
 dois irmãos marceneiros: o Carlos e o Luiz. Eram talentosos no ofício que

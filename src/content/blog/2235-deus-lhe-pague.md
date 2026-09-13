@@ -1,10 +1,10 @@
 ---
 title: "Deus lhe pague"
 date: 2016-08-23T20:03:00.001Z
-heroImage: "/images/deus_lhe_pague.png"
+heroImage: "/images/posts/2235-deus-lhe-pague-deus_lhe_pague.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh84vtHE3q_GcbcPedHhnjtVmiTzGnmrJ2OjtiZ1fDwlnMUpXt1jg0AfDIoEFMtftF1oL_0ZoGwoFbcqTxeILkwfMUZ5xrsRi7SeXALbRsRqVijAk6Fy68CbrSthKVvKXt_Tm5ZrfdcR4/s1600/deus_lhe_pague.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh84vtHE3q_GcbcPedHhnjtVmiTzGnmrJ2OjtiZ1fDwlnMUpXt1jg0AfDIoEFMtftF1oL_0ZoGwoFbcqTxeILkwfMUZ5xrsRi7SeXALbRsRqVijAk6Fy68CbrSthKVvKXt_Tm5ZrfdcR4/s320/deus_lhe_pague.png" width="320" height="320" data-original-width="199" data-original-height="199" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2235-deus-lhe-pague-deus_lhe_pague.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2235-deus-lhe-pague-deus_lhe_pague.png" width="320" height="320" data-original-width="199" data-original-height="199" /></a></div>
 Segundo Santo Tomás de Aquino o agradecimento passa por três níveis. Em sua suma teológica ele nos ensina que esta realidade humana, a do agradecimento, é algo de muito complexo. Isto deriva também de uma limitação que o ser humano tem em sua linguagem. Tantas vezes já ouvimos ou até falamos a expressão "Estou sem palavras para me expressar", utilizada nas mais variadas situações, de tantas formas e até automaticamente, mas, tudo como resultado desta verdadeira realidade: sentimos que não conseguimos colocar para fora o que sentimos através de nossas palavras. É preciso, como sempre ensinou Jesus, brotar do coração mas, nem tudo que nasce nele conseguimos expressar. Por isso também é que Jesus julga a pessoa pelo seu coração. Olha quanta sabedoria e justiça divina. A gratidão segundo Santo Tomás é dividida em três grupos:</br>
 </br>
 O primeiro consiste em reconhecer o benefício que se recebe;</br>

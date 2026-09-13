@@ -1,10 +1,10 @@
 ---
 title: "Tenho que ir: um desafio maior me chama"
 date: 2023-07-14T20:45:00.004Z
-heroImage: "/images/Estágio_Pedagogia(1).jpg"
+heroImage: "/images/posts/983-tenho-que-ir-um-desafio-maior-me-cha-Est_C3_A1gio_Pedagogia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjafR-VRtGUlC2aqosqGvdCK-8hsYyEYS2xwEA0z-pD29mMapWnSp2S_6e7G4u0ca27lLkX2eRettRHEfHguLgdRPH2W4LsO0Law9Gqkr5zd0PtntjesT35LkaGBZ_dyd4wDe2Ly3xqKYwfa4Np7Nrjs4mEtG5-KfUlVuGCF2cju43RZfQERu_PCPN_iiY/s1632/Est%C3%A1gio_Pedagogia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjafR-VRtGUlC2aqosqGvdCK-8hsYyEYS2xwEA0z-pD29mMapWnSp2S_6e7G4u0ca27lLkX2eRettRHEfHguLgdRPH2W4LsO0Law9Gqkr5zd0PtntjesT35LkaGBZ_dyd4wDe2Ly3xqKYwfa4Np7Nrjs4mEtG5-KfUlVuGCF2cju43RZfQERu_PCPN_iiY/s320/Est%C3%A1gio_Pedagogia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É exatamente isso que temos que dizer ao diabo, afinal,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/983-tenho-que-ir-um-desafio-maior-me-cha-Est_C3_A1gio_Pedagogia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/983-tenho-que-ir-um-desafio-maior-me-cha-Est_C3_A1gio_Pedagogia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É exatamente isso que temos que dizer ao diabo, afinal,
 existe desafio maior do que viver nesse mundo sob a tutela da palavra de Deus?
 Quanto mais o tempo avança mais vemos o cristão sendo maculado, prensado,
 perseguido e instigado por valores extremamente contrários aos do seu criador.

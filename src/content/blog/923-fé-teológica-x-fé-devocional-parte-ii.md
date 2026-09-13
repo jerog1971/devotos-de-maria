@@ -1,10 +1,10 @@
 ---
 title: "Fé Teológica x Fé Devocional - parte II"
 date: 2016-09-14T17:00:00.001Z
-heroImage: "/images/biblia_e_rosario.png"
+heroImage: "/images/posts/923-fé-teológica-x-fé-devocional-parte-i-biblia_e_rosario.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxKDsVtnQ_zjeKKNbxPvgKjCT8waRNuHecGeDzDZ9yB6X5TD4G-MFgfbDvM-HC_fIJ2QMMgdzSytLFKXoPA6Jpqbc9ey5z8m00ONajTvVtkQxVr3Fa6ZyvxJ_gtUpBLEZygj-_SZEHX3c/s1600/biblia_e_rosario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxKDsVtnQ_zjeKKNbxPvgKjCT8waRNuHecGeDzDZ9yB6X5TD4G-MFgfbDvM-HC_fIJ2QMMgdzSytLFKXoPA6Jpqbc9ey5z8m00ONajTvVtkQxVr3Fa6ZyvxJ_gtUpBLEZygj-_SZEHX3c/s320/biblia_e_rosario.png" width="320" height="213" data-original-width="489" data-original-height="325" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/923-fé-teológica-x-fé-devocional-parte-i-biblia_e_rosario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/923-fé-teológica-x-fé-devocional-parte-i-biblia_e_rosario.png" width="320" height="213" data-original-width="489" data-original-height="325" /></a></div>
 Todo bom católico sabe que, Nossa Senhora por saber das coisas, “bate” tanto na tecla da récita do Santo Rosário. E mais, tantos sacerdotes ao longo da história, assim como bispos atestaram ao longo do tempo uma melhor catolicidade e um amor maior a Cristo neles próprios e naqueles que tinham Maria por sua Senhora. Quem se entrega a Maria não deixa de amar Jesus. É o contrário. Passa a amar ainda mais Jesus quem se entrega a Maria.</br>
 </br>
 A igreja, como se sabe, procura manter a Virgem Santíssima no campo devocional, celebrando algumas datas litúrgicas durante o ano, elaborando alguns documentos sobre ela e não muito mais do que isso. São poucos os sacerdotes verdadeiramente marianos. As homilias que muitos padres fazem sobre ela são muito cautelosas e cheias de reserva. Não é à toa que os bons sacerdotes espalhados pelo mundo são unânimes em dizer que a teologia, caso não se tome cuidado, afasta as pessoas de Maria. A igreja, rica em sua doutrina e tradição de mais de dois mil anos busca muitas vezes colocar Maria Santíssima como uma devoção muito boa de se praticar, tentando minar a sua verdadeira importância para todos, exatamente como fazem os não católicos.<br>

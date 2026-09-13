@@ -1,10 +1,10 @@
 ---
 title: "Os tipos de pecadores"
 date: 2022-09-14T18:12:00.003Z
-heroImage: "/images/dor.png"
+heroImage: "/images/posts/1169-os-tipos-de-pecadores-tipos_20de_20pecadores.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLGxxxUzVYlNY96tCCaJ9eNlgpzJ5Q-bwp3zsRxhUVZYDMU1IhW5VIrkoUaShAghc9L9_HhX5IrgTbxblIBaWu0guKUCzVwy3NLH5RzpZbEQBAgQ3LJf86CfZufre2MkAQuZvyjd6RFKWqF6z5gGbzHxuuUlELyb4oKeMQxq20z89NrwYqt26RRY3C/s395/tipos%20de%20pecadores.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="350" data-original-width="395" height="284" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLGxxxUzVYlNY96tCCaJ9eNlgpzJ5Q-bwp3zsRxhUVZYDMU1IhW5VIrkoUaShAghc9L9_HhX5IrgTbxblIBaWu0guKUCzVwy3NLH5RzpZbEQBAgQ3LJf86CfZufre2MkAQuZvyjd6RFKWqF6z5gGbzHxuuUlELyb4oKeMQxq20z89NrwYqt26RRY3C/s320/tipos%20de%20pecadores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sempre bom recordar e ter em mente a lista bíblica das
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1169-os-tipos-de-pecadores-tipos_20de_20pecadores.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="350" data-original-width="395" height="284" src="/images/posts/1169-os-tipos-de-pecadores-tipos_20de_20pecadores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sempre bom recordar e ter em mente a lista bíblica das
 pessoas que se persistirem em seus erros não herdarão o reino de Deus. Apocalipse
 21,8, lista dos 8 tipos de pecadores condenados: Os (1) tíbios, os (2) infiéis,
 os (3) depravados, os (4) homicidas, os (5) impuros, os (6) maléficos, os (7) idólatras

@@ -1,10 +1,10 @@
 ---
 title: "Ela se foi"
 date: 2021-05-06T16:17:00.004Z
-heroImage: "/images/incerteza_da_morte.png"
+heroImage: "/images/posts/1141-ela-se-foi-incerteza_da_morte.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCm_pBZpyZ0Jt9efKXkJlUgwJ1SpZ5_Qta1CTDEcpsnIiXwy4xOPzXe2dY050_GpYGAIc7vARWFpcU_3w1nz_PZYCSGtytSiChI9_6lKF-_1gB03Muo0BqaLmt8LIW-SnNgB7jnDtUqE8/s429/incerteza_da_morte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="429" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCm_pBZpyZ0Jt9efKXkJlUgwJ1SpZ5_Qta1CTDEcpsnIiXwy4xOPzXe2dY050_GpYGAIc7vARWFpcU_3w1nz_PZYCSGtytSiChI9_6lKF-_1gB03Muo0BqaLmt8LIW-SnNgB7jnDtUqE8/s320/incerteza_da_morte.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Assim como nos aniversários natalícios e demais datas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1141-ela-se-foi-incerteza_da_morte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="429" src="/images/posts/1141-ela-se-foi-incerteza_da_morte.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Assim como nos aniversários natalícios e demais datas
 festivas, também nos deparamos com os aniversários de falecimento, onde as
 recordações boas – um consolo para a alma – e não tão boas assim – um peso no
 coração e consciência – trazem à tona a realidade aguardada por cada um:

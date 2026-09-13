@@ -1,10 +1,10 @@
 ---
 title: "Sempre serei um zero a esquerda?"
 date: 2022-10-24T20:20:00.005Z
-heroImage: "/images/zero a esquerda.png"
+heroImage: "/images/posts/750-sempre-serei-um-zero-a-esquerda-zero_20a_20esquerda.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlyx8tUXOpebtJk3RMMyFAAHQxApasBBM0vjeTAr_S8jRnDHl_16b7pIQ-kwbRWTIR_3GzaQmBrOp1dVyVSpbhZA36Jdtim85fU-leZxjjrdzp-crBkQWfq75VdGCwiwAIb5WId0YVyDdmXQWq6GZVTOtqSH1sZIf4g1-lT73t6qgbH1OXHJV5XTtm/s198/zero%20a%20esquerda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="160" data-original-width="198" height="221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlyx8tUXOpebtJk3RMMyFAAHQxApasBBM0vjeTAr_S8jRnDHl_16b7pIQ-kwbRWTIR_3GzaQmBrOp1dVyVSpbhZA36Jdtim85fU-leZxjjrdzp-crBkQWfq75VdGCwiwAIb5WId0YVyDdmXQWq6GZVTOtqSH1sZIf4g1-lT73t6qgbH1OXHJV5XTtm/w273-h221/zero%20a%20esquerda.png" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto mais duro for meu exame de consciência,<o:p></o:p></p><div class="separator" style="clear: both;">
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/750-sempre-serei-um-zero-a-esquerda-zero_20a_20esquerda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="160" data-original-width="198" height="221" src="/images/posts/750-sempre-serei-um-zero-a-esquerda-zero_20a_20esquerda.png" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto mais duro for meu exame de consciência,<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Mais ele me mostra uma realidade por excelência:<o:p></o:p></p>
 

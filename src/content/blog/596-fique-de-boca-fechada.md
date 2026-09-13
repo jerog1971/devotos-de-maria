@@ -1,10 +1,10 @@
 ---
 title: "Fique de boca fechada"
 date: 2022-03-09T20:24:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/596-fique-de-boca-fechada-img-1367158485.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhG64sCqytfAffssp3dz-c-Xmb8JZ0LQieQsVdEkhh0G5MaZ6oYxwTa1ceZ8uLWK_1W5hYAgahPci7hd9aTfeiZVB3x9crHhnsSLASCUfr8Bj2NUAMzcsLC99Qf08zmX0rKQCNWRHVghp2DvLkDdnPNcPJ5rgAM1z1brf5pG7Oj_E0GJB-_EDnkQATM=s270" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="270" height="265" src="https://blogger.googleusercontent.com/img/a/AVvXsEhG64sCqytfAffssp3dz-c-Xmb8JZ0LQieQsVdEkhh0G5MaZ6oYxwTa1ceZ8uLWK_1W5hYAgahPci7hd9aTfeiZVB3x9crHhnsSLASCUfr8Bj2NUAMzcsLC99Qf08zmX0rKQCNWRHVghp2DvLkDdnPNcPJ5rgAM1z1brf5pG7Oj_E0GJB-_EDnkQATM" width="270" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Essa é uma dica que veio, por incrível que possa parecer, de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/596-fique-de-boca-fechada-img-1367158485.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="270" height="265" src="/images/posts/596-fique-de-boca-fechada-img-1038829578.jpg" width="270" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Essa é uma dica que veio, por incrível que possa parecer, de
 Jesus Cristo. Basta uma passadinha pelas escrituras quando do episódio de sua
 paixão. Como foi difícil arrancarem dele alguma, ainda que em sua própria
 defesa, palavra. Mantinha-se calado, embora com sua autoridade dada por Deus,

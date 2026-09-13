@@ -1,10 +1,10 @@
 ---
 title: "Quem poderá se salvar?"
 date: 2022-08-10T15:15:00.003Z
-heroImage: "/images/quem poderá se salvar.png"
+heroImage: "/images/posts/1313-quem-poderá-se-salvar-quem_20poder_C3_A1_20se_20salvar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJHUWV1kUQoFtjMg5OiQkvgmvHBYd4FQs9Gcgyf17kPkpmRy9TfKPzHAlZeGez6rt57VC-4GlqWVhvj5Sq__52FRvewva6XV9CmaGYWqcubSYK_JqdY4F2pmrsP7Yt7MOCF_OIrPfOJPIlWMsJ2cyRlUyHwEzw_C2Ck9wtBHJ_dSrAdDkSPsl_c1E/s315/quem%20poder%C3%A1%20se%20salvar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="315" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJHUWV1kUQoFtjMg5OiQkvgmvHBYd4FQs9Gcgyf17kPkpmRy9TfKPzHAlZeGez6rt57VC-4GlqWVhvj5Sq__52FRvewva6XV9CmaGYWqcubSYK_JqdY4F2pmrsP7Yt7MOCF_OIrPfOJPIlWMsJ2cyRlUyHwEzw_C2Ck9wtBHJ_dSrAdDkSPsl_c1E/s1600/quem%20poder%C3%A1%20se%20salvar.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa foi uma das perguntas que os discípulos de Jesus fizeram.
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1313-quem-poderá-se-salvar-quem_20poder_C3_A1_20se_20salvar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="315" height="274" src="/images/posts/1313-quem-poderá-se-salvar-quem_20poder_C3_A1_20se_20salvar.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa foi uma das perguntas que os discípulos de Jesus fizeram.
 Face às duras revelações que o Cristo fez em suas pregações, sempre repletas de
 autoridade, o fardo realmente ficou muito claro a todos os que decidem ouvi-lo
 e segui-lo. Ainda mais quando Jesus diz que é impossível o homem se salvar. Por

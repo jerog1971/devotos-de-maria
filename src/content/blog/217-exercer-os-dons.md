@@ -1,10 +1,10 @@
 ---
 title: "Exercer os dons"
 date: 2021-04-29T18:00:00.003Z
-heroImage: "/images/dom.png"
+heroImage: "/images/posts/217-exercer-os-dons-exercer_o_dom.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS6XaNhJnjzs-x2pqQzdU_ifVTmsJrJv9PtcPUuRdyohgfiylh8AqmQ6yBQvmXB1aqlpcfFQEdTDx7KF5fijvm6HPsUz6kFUDjPC0__aEK7BbdaLoiksactYtUIOnU1b9ESI0xEfcFd8/s409/exercer+o+dom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="409" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS6XaNhJnjzs-x2pqQzdU_ifVTmsJrJv9PtcPUuRdyohgfiylh8AqmQ6yBQvmXB1aqlpcfFQEdTDx7KF5fijvm6HPsUz6kFUDjPC0__aEK7BbdaLoiksactYtUIOnU1b9ESI0xEfcFd8/s320/exercer+o+dom.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Na vida a gente tem que fazer o que a gente sabe fazer”. “O
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/217-exercer-os-dons-exercer_o_dom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="409" src="/images/posts/217-exercer-os-dons-exercer_o_dom.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Na vida a gente tem que fazer o que a gente sabe fazer”. “O
 gato bebe leite, o rato come queijo e eu sou palhaço”. Duas frases que embasam
 uma das mensagens do filme nacional ‘O palhaço’ e que servem para uma reflexão
 voltada para a parte espiritual de nossas vidas. Elas se conectam e não podem

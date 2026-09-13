@@ -1,10 +1,10 @@
 ---
 title: "Nós não somos vírus"
 date: 2020-05-20T19:38:00Z
-heroImage: "/images/proibido.png"
+heroImage: "/images/posts/1802-nós-não-somos-vírus-img-2020941207.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0xAgO4sws5FD6qSGAPAuQxNqoF3k9aEnroNzNkTp0LARA8dM667PDWNktupC_QNmLsDMtNturHoGUdDU6hyphenhyphenmw3joeZCT0nYVOmLTSEviUFpWpLH8OdMwrgnKtp5sSuIHzSf9pezciPA/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="678" data-original-width="867" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0xAgO4sws5FD6qSGAPAuQxNqoF3k9aEnroNzNkTp0LARA8dM667PDWNktupC_QNmLsDMtNturHoGUdDU6hyphenhyphenmw3joeZCT0nYVOmLTSEviUFpWpLH8OdMwrgnKtp5sSuIHzSf9pezciPA/s320/proibido.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O atual papa disse que a Igreja deve ser uma Igreja
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1802-nós-não-somos-vírus-img-2020941207.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="678" data-original-width="867" src="/images/posts/1802-nós-não-somos-vírus-img-2020941207.jpgs320/proibido.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O atual papa disse que a Igreja deve ser uma Igreja
 Missionária, de saída, que vai pelo mundo a peregrinar e levar a boa nova do
 evangelho. E o povo aplaude e cita sua fala em prol dessa mensagem, exaltando o
 sumo pontífice e aplaudindo-o. Muitos esquecem, porém, que essa fala não é

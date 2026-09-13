@@ -1,10 +1,10 @@
 ---
 title: "Reconhecimento e agradecimento"
 date: 2023-12-01T18:58:00.001Z
-heroImage: "/images/reconhecimento e agradecimento.jpg"
+heroImage: "/images/posts/1823-reconhecimento-e-agradecimento-img-1484747743.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7YQ91fgasqVyBPQmamLCk5XrtbrWDObXGkPm0Iy0sXx-Y_-dWXVukwA5zPgRqeKxpeM8nRqi6_qPXMNHOEaMMlb51HkznHl4zCw75Ery4uRTLmN05uW3Ue-ghlYOiuJSmHuz4tgZ32WryKSE1E-3FkTOuaw2TgVjMJ4Uhb4PxN67dNF1tCPYxnoPm5Y/s2592/reconhecimento%20e%20agradecimento.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1944" data-original-width="2592" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7YQ91fgasqVyBPQmamLCk5XrtbrWDObXGkPm0Iy0sXx-Y_-dWXVukwA5zPgRqeKxpeM8nRqi6_qPXMNHOEaMMlb51HkznHl4zCw75Ery4uRTLmN05uW3Ue-ghlYOiuJSmHuz4tgZ32WryKSE1E-3FkTOuaw2TgVjMJ4Uhb4PxN67dNF1tCPYxnoPm5Y/w304-h240/reconhecimento%20e%20agradecimento.jpg" width="304" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia em atos dos apóstolos está escrito que existe mais
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1823-reconhecimento-e-agradecimento-img-1484747743.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1944" data-original-width="2592" height="240" src="/images/posts/1823-reconhecimento-e-agradecimento-img-628035995.jpg" width="304" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia em atos dos apóstolos está escrito que existe mais
 alegria em dar do que em receber; também está escrito para nos preocuparmos em
 primeiro lugar com os interesses dos outros. Pois bem, é nessa esteira do
 conhecimento que se deve embarcar; procurar fazer o bem a alguém, não esperando

@@ -1,10 +1,10 @@
 ---
 title: "A paciência de Jesus"
 date: 2021-03-03T14:21:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/839-a-paciência-de-jesus-serm_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s553/serm%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s320/serm%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Será que a paciência e sua rival, a impaciência humana,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/839-a-paciência-de-jesus-serm_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" src="/images/posts/839-a-paciência-de-jesus-serm_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Será que a paciência e sua rival, a impaciência humana,
 possuem sua razão de ser em função do tempo? Parece que sim, pois vivemos num
 mundo que prega que “tempo é dinheiro”, que “não há tempo a se perder”. Com
 algum esforço até podemos compreender alguma falta de paciência, todavia

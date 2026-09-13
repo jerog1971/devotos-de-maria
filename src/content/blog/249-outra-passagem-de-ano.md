@@ -1,10 +1,10 @@
 ---
 title: "Outra passagem de ano"
 date: 2020-12-31T15:38:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/249-outra-passagem-de-ano-ano_novo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHnndkfk8sLacUcYpjfJTrZa2zWyzVzZZn4whZSivFX4XARXmwE9frBWRdSvusCoXOAbumPK28lKbSW3Gk4HO0-th4w06U5GpoLAlzbQ3A7IPg6RQsl0wDNoF0YkhYGPaS5B7zY4F04Q/s176/ano+novo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="176" height="184" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHnndkfk8sLacUcYpjfJTrZa2zWyzVzZZn4whZSivFX4XARXmwE9frBWRdSvusCoXOAbumPK28lKbSW3Gk4HO0-th4w06U5GpoLAlzbQ3A7IPg6RQsl0wDNoF0YkhYGPaS5B7zY4F04Q/w216-h184/ano+novo.png" width="216" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ano civil está por terminar, enquanto escrevo este artigo,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/249-outra-passagem-de-ano-ano_novo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="176" height="184" src="/images/posts/249-outra-passagem-de-ano-ano_novo.png" width="216" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ano civil está por terminar, enquanto escrevo este artigo,
 dia 31/12/2020, recordo que algumas pessoas já estão de folga de seus
 trabalhos. Outras não estão de folga porque estão desempregadas. Outras estão
 hospitalizadas, muito enfermas (graças a tantas doenças e a esta pandemia).

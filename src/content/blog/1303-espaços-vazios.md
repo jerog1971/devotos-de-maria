@@ -1,10 +1,10 @@
 ---
 title: "Espaços vazios"
 date: 2020-09-10T18:44:00.002Z
-heroImage: "/images/vazio.jpg"
+heroImage: "/images/posts/1303-espaços-vazios-vazio.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqkdNoPQAfer0uKsHLZYfpwpJcLTNSgcbj98n2VFfAPSONJvQqtCq01KM7QxWWlI8ZLx0gmSKxJXI159MIxOdcVsjNAav_dejWaWHbNWtO4rjG-jv4UV3dxoXR0yow5EA97nVHVi9rjwE/s780/vazio.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="585" data-original-width="780" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqkdNoPQAfer0uKsHLZYfpwpJcLTNSgcbj98n2VFfAPSONJvQqtCq01KM7QxWWlI8ZLx0gmSKxJXI159MIxOdcVsjNAav_dejWaWHbNWtO4rjG-jv4UV3dxoXR0yow5EA97nVHVi9rjwE/w400-h300/vazio.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nem só de pão vive o homem, mas de toda a palavra que sai da
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1303-espaços-vazios-vazio.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="585" data-original-width="780" height="300" src="/images/posts/1303-espaços-vazios-vazio.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nem só de pão vive o homem, mas de toda a palavra que sai da
 boca de Deus – assim disse Jesus. Dois detalhes podemos aferir nesse ensinamento:
 primeiro, importa cuidar do corpo, mas também do espírito; segundo: toda a palavra
 de Deus é necessitada para se viver, não só aquela que escolhemos.<o:p></o:p></p><div class="separator" style="clear: both;">

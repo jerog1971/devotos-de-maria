@@ -1,10 +1,10 @@
 ---
 title: "Inimigo Oculto"
 date: 2018-05-10T16:34:00Z
-heroImage: "/images/inimigo_oculto.png"
+heroImage: "/images/posts/841-inimigo-oculto-inimigo_oculto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7il6ln9Oh3KNG2ODapWke92L0A3eIIqZXFIY9vadZHs5f4nUTH6PMT3fV4V7kY6czbs-0Cs4sgp4QVz277wgJS3ftCOM-w-6UPpzQS_BK_Ywswke746AWF3v25Ufun00OhEolIXQsYU/s1600/inimigo_oculto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7il6ln9Oh3KNG2ODapWke92L0A3eIIqZXFIY9vadZHs5f4nUTH6PMT3fV4V7kY6czbs-0Cs4sgp4QVz277wgJS3ftCOM-w-6UPpzQS_BK_Ywswke746AWF3v25Ufun00OhEolIXQsYU/s320/inimigo_oculto.png" width="320" height="209" data-original-width="946" data-original-height="617" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/841-inimigo-oculto-inimigo_oculto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/841-inimigo-oculto-inimigo_oculto.png" width="320" height="209" data-original-width="946" data-original-height="617" /></a></div>
 Recordando o ensinamento bíblico e da tradição da igreja católica vale mencionar que nós temos, oficialmente falando, três inimigos: o diabo, o mundo e nós mesmos. Orquestrados pelo diabo, o mundo nos oferece suas tentações e nossa tendência natural para o pecado, nossa concupiscência, nos aponta e nos empurra para cedermos às ofertas do mal. São Tiago já dizia que nossa concupiscência nos alicia para a prática do pecado. Nosso consentimento de olhos abertos se encarrega de decretar o salário que dele advém.</br>
 </br>
 Percebamos uma coisa, é fácil de admitirmos que tudo aquilo que é oculto pode facilmente passar despercebido por nossos sentidos e atenção. Se caminhamos no escuro pelas ruas corremos o risco de tropeçarmos num buraco, cairmos de mal jeito e nos machucarmos. Quando viajamos de carro durante a noite uma boa sinalização de trânsito também é responsável, por exemplo, por nos alertar a respeito de alguma curva perigosa que está por vir e que não é facilmente percebida; a falta dela é muito prejudicial aos motoristas. Os ladrões preferem locais menos iluminados para praticarem seus delitos e também locais com pouca circulação de pessoas.</br>

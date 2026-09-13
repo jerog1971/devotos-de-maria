@@ -1,10 +1,10 @@
 ---
 title: "Maridos frouxos"
 date: 2018-12-12T16:54:00Z
-heroImage: "/images/maridos_frouxos.png"
+heroImage: "/images/posts/1862-maridos-frouxos-maridos_frouxos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwWwuOQQg9KgACQcTQ3k23pebdDgTNly3tchgb7aO6S5rmEg_g6WuMArx5I1ir_vWmw1DHjb4NCarz35WcoIMWPO6jMg3-sBqwpkIRepFfPbt7D8aYTUUi2tqU5-K6K_S9qgZbVsrRaAI/s1600/maridos_frouxos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwWwuOQQg9KgACQcTQ3k23pebdDgTNly3tchgb7aO6S5rmEg_g6WuMArx5I1ir_vWmw1DHjb4NCarz35WcoIMWPO6jMg3-sBqwpkIRepFfPbt7D8aYTUUi2tqU5-K6K_S9qgZbVsrRaAI/s320/maridos_frouxos.png" width="316" height="320" data-original-width="232" data-original-height="235" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1862-maridos-frouxos-maridos_frouxos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1862-maridos-frouxos-maridos_frouxos.png" width="316" height="320" data-original-width="232" data-original-height="235" /></a></div>
 “Não sinto mais nada pelo meu marido” – essa frase, se pesquisada na internet irá resultar um número imenso de casos e desabafos relacionados ao tema. De fato, a internet é um grande caldeirão. Encontra-se tudo lá, haja vista esse humilde site também fazer parte desse mar virtual de informações. Relacionada a frase em questão, dizia eu a respeito do grande número de textos que se podem encontrar sobre ela. Qualquer um poderia dizer, com uma dedicação de uma a duas horas, que existem algumas semelhanças nos relatos, tanto positivamente, quanto negativamente e também daquele pessoal que fica em cima do muro. Este site, não espera apontar partido, mas pretende colocar a ótica da questão sob o olhar sobrenatural que todo cristão temente a Deus é convidado por ele a ter.</br>
 </br>
 De cara começamos deixando os psicólogos de lado, nem eles são unânimes, isso, sobretudo no mundo em que vivemos hoje, não é mais possível, a baderna que aí está instalada só será consertada na segunda vinda de Jesus (espero que isso aconteça logo). E viva a fé em Deus e nas suas palavras!</br>

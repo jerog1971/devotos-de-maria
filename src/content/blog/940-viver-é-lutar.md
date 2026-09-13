@@ -1,10 +1,10 @@
 ---
 title: "Viver é lutar"
 date: 2021-04-09T13:55:00.001Z
-heroImage: "/images/luta.png"
+heroImage: "/images/posts/940-viver-é-lutar-viver_e_lutar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicrcSr3EqxybYYBZlR-2rJOkypaoOjLOS6X4_cSnnFVMeVKEvFjSfKMmu7XuUmux6GwvzY6OUEWqUKnAUucBEoPOul5SniZwFiEm-6-f09rAw-IU46WnASXoUmVCTpv1rs0U_Zv-dabKk/s404/viver+e+lutar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="404" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicrcSr3EqxybYYBZlR-2rJOkypaoOjLOS6X4_cSnnFVMeVKEvFjSfKMmu7XuUmux6GwvzY6OUEWqUKnAUucBEoPOul5SniZwFiEm-6-f09rAw-IU46WnASXoUmVCTpv1rs0U_Zv-dabKk/s320/viver+e+lutar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já dizia Jó no antigo testamento:<o:p></o:p></p><div class="separator" style="clear: both;">
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/940-viver-é-lutar-viver_e_lutar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="404" src="/images/posts/940-viver-é-lutar-viver_e_lutar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já dizia Jó no antigo testamento:<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">“A vida do homem sobre a terra é uma luta”.<o:p></o:p></p>
 

@@ -1,10 +1,10 @@
 ---
 title: "Nossos problemas"
 date: 2019-02-07T16:22:00Z
-heroImage: "/images/nossos_problemas.png"
+heroImage: "/images/posts/236-nossos-problemas-nossos_problemas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinNEgDh7G7xSxniKXTavQPD27Eyd_WJiuBBv80Ii-CJHIN8Z-X9kS-rnT4fg3ZPh1EQTXQvcNr3mUxTWklhs2J1_h_7EF7QqRcm5QMKFWYaGM6RZtIJbzxE8PUEiQ84oBgKSJ3xL4ZWQ/s1600/nossos_problemas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinNEgDh7G7xSxniKXTavQPD27Eyd_WJiuBBv80Ii-CJHIN8Z-X9kS-rnT4fg3ZPh1EQTXQvcNr3mUxTWklhs2J1_h_7EF7QqRcm5QMKFWYaGM6RZtIJbzxE8PUEiQ84oBgKSJ3xL4ZWQ/s320/nossos_problemas.png" width="320" height="296" data-original-width="636" data-original-height="588" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/236-nossos-problemas-nossos_problemas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/236-nossos-problemas-nossos_problemas.png" width="320" height="296" data-original-width="636" data-original-height="588" /></a></div>
 Problemas, por incrível que pareça, caso não tenham percebido, são relativos. Isso mesmo que você acabou de ler caro leitor. E não é difícil a constatação dessa afirmação. Todavia, também é fato, que os problemas possuem graus. Existem aqueles que são macros, outros são micros, outros são medianos e relevantes, outros irrelevantes, outros públicos e tantos outros, privados.</br>
 </br>
 Uma coisa pode ser problema para alguém e não ser problema para você. Poderíamos aqui passarmos horas “filosofando” sobre a questão e elencando uma mega lista de problemas. Mas não vem ao caso, vamos de um pequeno exemplo apenas.</br>

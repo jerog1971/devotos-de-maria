@@ -1,10 +1,10 @@
 ---
 title: "Rede de canais Discovery Channel lança propaganda que incentiva e apoia a ideologia de gênero"
 date: 2019-06-24T16:41:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/640-rede-de-canais-discovery-channel-lan-ideologia_de_g_25C3_25AAnero.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqGDF4-lBM7H0SGEtvlY0Ac31WkMqY6Auc00FwW9PHPN7Shngsf8kOXBT25AcHS84QdQB7L9c1U8cmO_8pJKVsZbW7PzXVxoDJ8A0OUAV3Ddhqi8UlnBzVbgnfWwH78KSm4qFkEtc4HM/s1600/ideologia_de_g%25C3%25AAnero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqGDF4-lBM7H0SGEtvlY0Ac31WkMqY6Auc00FwW9PHPN7Shngsf8kOXBT25AcHS84QdQB7L9c1U8cmO_8pJKVsZbW7PzXVxoDJ8A0OUAV3Ddhqi8UlnBzVbgnfWwH78KSm4qFkEtc4HM/s320/ideologia_de_g%25C3%25AAnero.png" width="320" height="312" data-original-width="510" data-original-height="498" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/640-rede-de-canais-discovery-channel-lan-ideologia_de_g_25C3_25AAnero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/640-rede-de-canais-discovery-channel-lan-ideologia_de_g_25C3_25AAnero.png" width="320" height="312" data-original-width="510" data-original-height="498" /></a></div>
 A poucos dias, para quem acompanha os canais da rede Discovery uma nova chamada realizada nos intervalos comerciais está tratando do tema ideologia de gênero demonstrando apoio aberto pelos organizadores da rede. Já é sabido que a algum tempo vários de seus programas que tratam do assunto são apresentados em forma de série. Porém, como o investimento mundial da cultura da morte, anunciada a tempos longínquos pelo Papa João Paulo II, é maciça e acontece em forma de avalanche, como uma doença silenciosa, que procura espalhar-se sem demonstrar a que veio, dessa vez, não bastassem seus programas, atacam também durante os intervalos.</br>
 </br>
 O slogan, o carro chefe do comercial diz que quando você fecha seus olhos passa a perceber os outros de outra forma, uma forma mais realista, deixando o preconceito de lado.</br>

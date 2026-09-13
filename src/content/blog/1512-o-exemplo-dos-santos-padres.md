@@ -1,10 +1,10 @@
 ---
 title: "O exemplo dos Santos Padres"
 date: 2020-06-19T15:39:00.001Z
-heroImage: "/images/padre.png"
+heroImage: "/images/posts/1512-o-exemplo-dos-santos-padres-Santos_Padres.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGT-1dmQwiUyEjwQqLOd7jMk7NJxqSB2Pn85TOcwb8CSrQzXRxghY35G-FfG3YGvOXJUG5LDGxha3UXpbrZPMnjXbJ0gZb6iveEOA2vTu2jR68yZX6oilXHq2Q-dgSwpSD7pl98dGiC6U/s459/Santos+Padres.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="449" data-original-width="459" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGT-1dmQwiUyEjwQqLOd7jMk7NJxqSB2Pn85TOcwb8CSrQzXRxghY35G-FfG3YGvOXJUG5LDGxha3UXpbrZPMnjXbJ0gZb6iveEOA2vTu2jR68yZX6oilXHq2Q-dgSwpSD7pl98dGiC6U/s320/Santos+Padres.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Contempla os salutares exemplos dos santos padres, nos quais
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1512-o-exemplo-dos-santos-padres-Santos_Padres.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="449" data-original-width="459" src="/images/posts/1512-o-exemplo-dos-santos-padres-Santos_Padres.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Contempla os salutares exemplos dos santos padres, nos quais
 brilhou a verdadeira perfeição religiosa, e verás quão pouco ou quase nada é o
 que fazemos. Ah! Que é a nossa vida em comparação com a deles? Os santos e
 amigos de Cristo serviram ao Senhor em fome e sede, em frio e nudez, em

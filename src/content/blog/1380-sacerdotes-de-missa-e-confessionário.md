@@ -1,10 +1,10 @@
 ---
 title: "Sacerdotes de Missa e Confessionário"
 date: 2020-03-22T00:57:00.003Z
-heroImage: "/images/maus_sacerdotes.png"
+heroImage: "/images/posts/1380-sacerdotes-de-missa-e-confessionário-maus_sacerdotes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ_RtyQV8peNwXDgqJGXqg48jCIQFhFrPgrsH2T4RN4EzKldH4WXTIbbEcTUz-dEtAgiXwFl7THtPSj_dFsyiSFtBiBE6KmjxZOvmHk9aLTJubmD3n50N75M8RZpAAAtL2qk8KMaLUZqk/s1600/maus_sacerdotes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ_RtyQV8peNwXDgqJGXqg48jCIQFhFrPgrsH2T4RN4EzKldH4WXTIbbEcTUz-dEtAgiXwFl7THtPSj_dFsyiSFtBiBE6KmjxZOvmHk9aLTJubmD3n50N75M8RZpAAAtL2qk8KMaLUZqk/s320/maus_sacerdotes.png" width="320" height="243" data-original-width="504" data-original-height="383" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1380-sacerdotes-de-missa-e-confessionário-maus_sacerdotes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1380-sacerdotes-de-missa-e-confessionário-maus_sacerdotes.png" width="320" height="243" data-original-width="504" data-original-height="383" /></a></div>
 Eu já conheci padre que tem “nojo” de distribuir a santa comunhão na boca, eles mesmos disseram que não é higiênico e é muito nojento. Já conheci padre que disse que graças a Deus agora existem os irregulares ministros extraordinários (que de extraordinários não têm nada) para irem à casa dos doentes levarem o corpo de Cristo, pois há casos em que os enfermos estão em estado lastimável, doentes profundamente e com um forte odor. Já conheci padres que não gostam de confessar os fiéis. Tudo isso e muito mais, não de ouvir falar, de ouvir da boca deles. Graças a Deus, ainda não podemos generalizar.</br>
 </br>
 Padres que não se vestem como padres, que não se comportam como deveriam nas celebrações, que permitem que adereços do mundo maculem a celebração da santa missa; padres obedientes ao seu bispo mesmo que isso contradiga a lei de Deus. Já ouvi padres dizerem nas homilias que preferem errar com a igreja a acertar fora dela. Mas e se a igreja prega e ordena heresias? Distancia-se da palavra de Deus? Como disse Jesus: ai deles!</br>

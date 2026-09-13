@@ -1,10 +1,10 @@
 ---
 title: "Comadre e Compadre"
 date: 2016-05-09T19:14:00.001Z
-heroImage: "/images/compadres.png"
+heroImage: "/images/posts/1063-comadre-e-compadre-compadres.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQwNb4rEh5ESqVQrvcwEhMASq1LNgFdbXgaBQMxrgBj_YYvJ7k1NvEObg-c9ZURLaeiVujQXRNMXzZJrmQM0ZjTBimbpobGuityn9WUNUaQoErSn-q0Swmx6C15xWDZlalUjaj57sOho/s1600/compadres.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQwNb4rEh5ESqVQrvcwEhMASq1LNgFdbXgaBQMxrgBj_YYvJ7k1NvEObg-c9ZURLaeiVujQXRNMXzZJrmQM0ZjTBimbpobGuityn9WUNUaQoErSn-q0Swmx6C15xWDZlalUjaj57sOho/s320/compadres.png" width="320" height="227" data-original-width="733" data-original-height="521" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1063-comadre-e-compadre-compadres.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1063-comadre-e-compadre-compadres.png" width="320" height="227" data-original-width="733" data-original-height="521" /></a></div>
 Commatre é uma palavra do latim e quer dizer “o que é mãe juntamente”. Compatre é uma palavra do latim e quer dizer “o que é pai juntamente”. Derivando como grande parte das palavras de nossa língua portuguesa, temos aqui no Brasil a expressão Comadre e a expressão Compadre. Religiosamente falando aquele que é investido para essa função, aceita uma servidão voluntária para toda a vida.</br>
 </br>
 A mulher e o homem, sendo um casal ou não, pois são admitidos padrinhos solteiros, passam ao papel de pais espirituais que assistem seus afilhados junto aos pais deste e principalmente na ausência. No momento da cerimônia religiosa, seja ela do batismo ou da confirmação, caso os padrinhos não sejam os mesmos, embora é muito conveniente e justo que o sejam, esses convidados tornam-se efetivamente portadores dessa graça advinda dos céus.</br>

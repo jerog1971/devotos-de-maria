@@ -1,10 +1,10 @@
 ---
 title: "As vigias sem turno"
 date: 2020-09-14T15:47:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2090-as-vigias-sem-turno-m_25C3_25A3e_coruja.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXOOCHv_WL-vPJ35KFjL4vpWp1qiDxO3Y7xpa_iDYz0aMNWiem-2881cW1L5d3f5yPefcYwS8xycNU2FffavL0OH6ANVkTe494iO_2ig87c-BWye-4IFsdyVWyQRNsQR3OBtRNcXCNQWw/s602/m%25C3%25A3e+coruja.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="423" data-original-width="602" height="281" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXOOCHv_WL-vPJ35KFjL4vpWp1qiDxO3Y7xpa_iDYz0aMNWiem-2881cW1L5d3f5yPefcYwS8xycNU2FffavL0OH6ANVkTe494iO_2ig87c-BWye-4IFsdyVWyQRNsQR3OBtRNcXCNQWw/w400-h281/m%25C3%25A3e+coruja.png" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente quando Jesus disse que devemos vigiar e orar sem
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2090-as-vigias-sem-turno-m_25C3_25A3e_coruja.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="423" data-original-width="602" height="281" src="/images/posts/2090-as-vigias-sem-turno-m_25C3_25A3e_coruja.png" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente quando Jesus disse que devemos vigiar e orar sem
 cessar ele não estava brincando. Ele sabe das coisas muito mais que nós, não
 iria jogar ao vento seu precioso tempo que passou aqui na terra trazendo a boa
 nova. Se é para vigiar então que se vigie. Se é para orar então que se ore.<o:p></o:p></p><div class="separator" style="clear: both;">

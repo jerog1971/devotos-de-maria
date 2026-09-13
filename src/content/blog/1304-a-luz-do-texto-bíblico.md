@@ -1,10 +1,10 @@
 ---
 title: "A luz do texto bíblico"
 date: 2016-09-02T18:03:00Z
-heroImage: "/images/testamento.png"
+heroImage: "/images/posts/1304-a-luz-do-texto-bíblico-testamento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gQBB2i3m0bHZJnERXvUvb6LOzW4C1FEk8H5eT5I5RhsFgIi-F9WGc0fzY-omMfN3QOVNrLxKBm2q21ITDyxyiQ2cnXSjDSPWilcxvWGsvj3R1sWLbps8HW7EvxCLY77tkXEQQPp2JlI/s1600/testamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gQBB2i3m0bHZJnERXvUvb6LOzW4C1FEk8H5eT5I5RhsFgIi-F9WGc0fzY-omMfN3QOVNrLxKBm2q21ITDyxyiQ2cnXSjDSPWilcxvWGsvj3R1sWLbps8HW7EvxCLY77tkXEQQPp2JlI/s320/testamento.png" width="292" height="320" data-original-width="195" data-original-height="214" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1304-a-luz-do-texto-bíblico-testamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1304-a-luz-do-texto-bíblico-testamento.png" width="292" height="320" data-original-width="195" data-original-height="214" /></a></div>
 Mateus 5,13-16 – “Vós sois o sal da terra. Se o sal perde o sabor, com que lhe será restituído o sabor? Para nada mais serve senão para ser lançado fora e calcado pelos homens. Vós sois a luz do mundo. Não se pode esconder uma cidade situada sobre uma montanha nem se acende uma luz para colocá-la debaixo do alqueire, mas sim para colocá-la sobre o candeeiro, a fim de que brilhe a todos os que estão em casa. Assim, brilhe vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem vosso Pai que está nos céus”.</br>
 </br>
 Mateus 6,22-23 – “O olho é a luz do corpo. Se teu olho é são, todo o teu corpo será iluminado. Se teu olho estiver em mau estado, todo o teu corpo estará nas trevas. Se a luz que está em ti são trevas, quão espessas deverão ser as trevas”!</br>

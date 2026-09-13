@@ -1,10 +1,10 @@
 ---
 title: "A disposição do penitente"
 date: 2020-02-28T15:24:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/181-a-disposição-do-penitente-ora_25C3_25A7_25C3_25A3o4.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6Jtn1FxICubu__Qn8s55y3yGWPBIguPY4gLjzCqq3GZH-X1quiDYjZuLGhMeblTkEhLjkIdFv3T2Fv7PGv_1tAy3Y2aTJ_n3p4hqDrgN-Ag774Pj0K2AU54RKkBA161exnEscYV80IQ/s1600/ora%25C3%25A7%25C3%25A3o4.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6Jtn1FxICubu__Qn8s55y3yGWPBIguPY4gLjzCqq3GZH-X1quiDYjZuLGhMeblTkEhLjkIdFv3T2Fv7PGv_1tAy3Y2aTJ_n3p4hqDrgN-Ag774Pj0K2AU54RKkBA161exnEscYV80IQ/s320/ora%25C3%25A7%25C3%25A3o4.png" width="279" height="320" data-original-width="367" data-original-height="421" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/181-a-disposição-do-penitente-ora_25C3_25A7_25C3_25A3o4.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/181-a-disposição-do-penitente-ora_25C3_25A7_25C3_25A3o4.png" width="279" height="320" data-original-width="367" data-original-height="421" /></a></div>
 Tem gente que comunga e confessa a vida inteira e nem por isso fica mais santo. Isso cabe a todos, não é exclusividade de ninguém. No entanto, paira sobre todos uma grande realidade: a disposição do penitente é diretamente responsável pela sua evolução espiritual. Vamos compreender.</br>
 </br>
 Uma telha de zinco esquenta mais do que uma telha de barro. O sol é o mesmo incidindo sobre ambas, porém, uma absorve mais os raios solares do que a outra, por isso esquenta mais. Em dia de calor, acho que a maioria dos leitores já fez essa experiência, se sairmos com uma camiseta preta sentiremos um grau de desconforto, se sairmos com uma camiseta branca o desconforto por causa do calor será menor. O sol continua sendo o mesmo, mas os efeitos sentidos são diferentes.</br>

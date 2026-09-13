@@ -1,10 +1,10 @@
 ---
 title: "Desinteresse"
 date: 2024-11-08T17:39:00.007Z
-heroImage: "/images/desinteresse.png"
+heroImage: "/images/posts/247-desinteresse-desinteresse.png"
 ---
 
-<img border="0" data-original-height="385" data-original-width="413" height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmhGW1w3zoDvSF93Qkepd26P4q_dtkRFNWRB3hebBqEhG24BYi1mJ4ph-tReWahd78GVX_o3l28E1IyMTelcxMhvx4rmOyJWXjUhBONOos72gH5XlZJR8MVA6ikb6SHBa1MNyayIKLN-TWL_j-YSt0IjlMmqX6S_x6LwBjI7kRTAI0312ZF5vwIEVuo1I/s320/desinteresse.png" width="320"/><p class="MsoNormal">Sabe aquele olhar apático, que parece que te atravessa
+<img border="0" data-original-height="385" data-original-width="413" height="298" src="/images/posts/247-desinteresse-desinteresse.png" width="320"/><p class="MsoNormal">Sabe aquele olhar apático, que parece que te atravessa
 quando você está a falar com alguém e, ainda por cima, se lhe perguntar se
 entendeu, ele te responde com um aham automático, onde você claramente percebe
 que ele não entendeu ou não está nem aí? Ouviu só por ouvir e mais nada? Pois

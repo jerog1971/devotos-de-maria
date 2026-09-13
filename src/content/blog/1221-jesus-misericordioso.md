@@ -1,16 +1,16 @@
 ---
 title: "Jesus Misericordioso"
 date: 2017-08-22T19:42:00Z
-heroImage: "/images/faustina.png"
+heroImage: "/images/posts/1221-jesus-misericordioso-faustina.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBvjP2UQJYHNEKL5mcPQ_gjHPsjM0FFTGQim2zm9hc73CQhWUNQ9c0Sv6lgTcCmN2WR8ir9yFOiKTZLUOpqAD5baBTE87NoGqkN8BY6eE_cc8atIdTVAnHzN4-Xw3DktT7UVza6-oRaCQ/s1600/faustina.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="267" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBvjP2UQJYHNEKL5mcPQ_gjHPsjM0FFTGQim2zm9hc73CQhWUNQ9c0Sv6lgTcCmN2WR8ir9yFOiKTZLUOpqAD5baBTE87NoGqkN8BY6eE_cc8atIdTVAnHzN4-Xw3DktT7UVza6-oRaCQ/s200/faustina.png" width="150" /></a></div><div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1221-jesus-misericordioso-faustina.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="267" height="200" src="/images/posts/1221-jesus-misericordioso-faustina.png" width="150" /></a></div><div>
 
 Nosso Senhor Jesus Cristo desceu do céu e se fez um de nós para revelar o amor e a misericórdia de Deus. Os quatro Evangelhos relatam abundantemente fatos em que Jesus se revela misericordioso. Porém, como se não bastasse, e como a humanidade tem dificuldade para crer na misericórdia de Deus, Jesus Misericordioso se revelou recentemente, no Século XX, a <b>Santa Faustina Kowalska</b>. Essas revelações são reconhecidas pela Igreja e trazem esperança na misericórdia de Deus mas, também, responsabilidade sobre nossos atos.</div><div><b><br /></b></div><div><b>A santa que viu Jesus</b></div><div><br /></div><div>No ano de 1930, na Polônia, Jesus Misericordioso apareceu a Santa Faustina, que era freira da Congregação das Irmãs de Nossa Senhora da Misericórdia.
 Helena Kowalska, Santa Faustina, Maria Faustina Kowalska, nasceu na Polônia no ano de 1905, e sempre teve uma vida dedicada a Deus e à Igreja. Entrou cedo para o convento, em 1925, e quando fez os votos perpétuos acrescentou em seu nome Faustina do Santíssimo Sacramento, por causa de sua grande devoção a Jesus na Hóstia Santa.
 Sempre rezava pelos doentes e agonizantes, pedindo a Deus o perdão de seus pecados e a sua conversão.</div><div><b><br /></b></div><div><b>As aparições</b>
 
-</div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRwbtMP2Ji-Qd0ofcV96By30Ujm0lv2yka2azYwijqpiwsyvdvMCKc20nnfCAxry9JWwVTzogNo7V5Ms-D0YTO8ZcY7XI0Ta7EpMSZmQcXJPxl37uKhCL-uWYpuTg-Ux5SeDEyQcEf3ME/s1600/faustina2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="514" height="195" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRwbtMP2Ji-Qd0ofcV96By30Ujm0lv2yka2azYwijqpiwsyvdvMCKc20nnfCAxry9JWwVTzogNo7V5Ms-D0YTO8ZcY7XI0Ta7EpMSZmQcXJPxl37uKhCL-uWYpuTg-Ux5SeDEyQcEf3ME/s200/faustina2.png" width="200" /></a></div><div>
+</div><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1221-jesus-misericordioso-faustina2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="514" height="195" src="/images/posts/1221-jesus-misericordioso-faustina2.png" width="200" /></a></div><div>
 
 Quando Jesus apareceu a Santa Faustina disse: "Agora é tempo de misericórdia".
 Pediu para que ela escrevesse assim:

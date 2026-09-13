@@ -1,10 +1,10 @@
 ---
 title: "O anticristo agita sua cauda"
 date: 2015-12-15T11:52:00.001Z
-heroImage: "/images/revista_dabiq.png"
+heroImage: "/images/posts/531-o-anticristo-agita-sua-cauda-revista_dabiq.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdDk39T4l2R82Bt1ZeVK1RlNSOn8QCoV3YzJqakWdCz-0nrWATHeKZS9w439FhTZB0O3ESM08qOcBJjTeczBj_p-cSBQiVOgQAmsEDOXynOWqw5OBcQ7g9-b5mCrRYKFUWtdjM6FRK-I/s1600/revista_dabiq.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdDk39T4l2R82Bt1ZeVK1RlNSOn8QCoV3YzJqakWdCz-0nrWATHeKZS9w439FhTZB0O3ESM08qOcBJjTeczBj_p-cSBQiVOgQAmsEDOXynOWqw5OBcQ7g9-b5mCrRYKFUWtdjM6FRK-I/s320/revista_dabiq.png" width="239" height="320" data-original-width="330" data-original-height="442" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/531-o-anticristo-agita-sua-cauda-revista_dabiq.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/531-o-anticristo-agita-sua-cauda-revista_dabiq.png" width="239" height="320" data-original-width="330" data-original-height="442" /></a></div>
 </br>
 A revista “Dabiq” [foto], do Estado Islâmico, publicou na capa a montagem fotográfica de uma bandeira negra maometana ondeando sobre o obelisco da Praça de São Pedro.</br>
 </br>
@@ -36,7 +36,7 @@ Os curdos, envolvidos em toda a situação, são uma etnia que vive há séculos
 </br>
 Mas e aí caros leitores! Porque o estado islâmico persegue e mata cristãos?</br>
 <br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94W44qvmETOkLA1JWOSXSxWSQJ0oQkAOtKy8rBJckHtf05BzojT3fzqgb84E6wVWxuBiioWUP_HIuwESxw0jL8ZaWZxnjQZ6PRBKL-Z7QPOVPuCWtEBFtGE7TnxHJxkSLNc91z2wokNw/s1600/estado_isl%25C3%25A2mico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94W44qvmETOkLA1JWOSXSxWSQJ0oQkAOtKy8rBJckHtf05BzojT3fzqgb84E6wVWxuBiioWUP_HIuwESxw0jL8ZaWZxnjQZ6PRBKL-Z7QPOVPuCWtEBFtGE7TnxHJxkSLNc91z2wokNw/s200/estado_isl%25C3%25A2mico.png" width="191" height="200" data-original-width="308" data-original-height="323" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/531-o-anticristo-agita-sua-cauda-estado_isl_25C3_25A2mico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/531-o-anticristo-agita-sua-cauda-estado_isl_25C3_25A2mico.png" width="191" height="200" data-original-width="308" data-original-height="323" /></a></div>
 </br>
 Os cristãos têm a Bíblia Sagrada como o livro que se inspiram para tomar decisões na vida e seguindo o caminho que é a vontade de Deus. Acontece que ao mesmo tempo que você lê em 1º João 3:16 "Nisto temos conhecido o amor: Jesus deu sua vida por nós. Também nós outros devemos dar a nossa vida pelos nossos irmãos", no Alcorão, os seguidores de Maomé lêem "Os incrédulos, serão cobertos com vestimentas de fogo e lhes será derramada, sobre as cabeças, água fervente, a qual derreterá tudo quanto há em suas entranhas, além da totalidade de suas peles", (Capítulo 22:19 e 20).</br>
 </br>

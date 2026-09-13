@@ -1,10 +1,10 @@
 ---
 title: "Filha conta para mãe que era estuprada pelo pai"
 date: 2016-06-23T17:24:00Z
-heroImage: "/images/carta.png"
+heroImage: "/images/posts/1580-filha-conta-para-mãe-que-era-estuprada-pelo-pai-carta.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5_x6xtWDzDSO3sxVI-wpPa0Bv2SxlxwPvUVN2zTmXWMkS2vFuHnQ4GdBkXHOwajbdj5bAj77P5Y90eUvz498CLMmh1zv88FtdVPfwV-IqkCUoP0pX8TmtTlvRohV4vmHct2TYrC8EIQ/s1600/carta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5_x6xtWDzDSO3sxVI-wpPa0Bv2SxlxwPvUVN2zTmXWMkS2vFuHnQ4GdBkXHOwajbdj5bAj77P5Y90eUvz498CLMmh1zv88FtdVPfwV-IqkCUoP0pX8TmtTlvRohV4vmHct2TYrC8EIQ/s320/carta.png" width="320" height="224" data-original-width="584" data-original-height="409" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1580-filha-conta-para-mãe-que-era-estuprada-pelo-pai-carta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1580-filha-conta-para-mãe-que-era-estuprada-pelo-pai-carta.png" width="320" height="224" data-original-width="584" data-original-height="409" /></a></div>
 Pessoal, é de doer o coração. Eu que sou pai de três filhas, duas vivas e uma morta, não consigo deixar de ficar inquieto com tanta barbaridade que a humanidade, em seu estado doentio, pratica todos os dias, cada vez mais e mais. Coloco aqui no meu blog mais um caso onde um pai comete abuso sexual contra sua própria filha. Segue a matéria que aconteceu no Amazonas:</br>
 </br>
 "Uma menina de 12 anos escreveu uma carta para relatar à mãe que era vítima de estupro do próprio pai, em Manaus. Segundo informações da Polícia Militar, a criança disse que planejava fazer a denúncia em ocasiões anteriores, porém sentia “medo e vergonha”. Após exames no Instituto Médico Legal (IML), os abusos foram confirmados e o acusado, de 34 anos, foi preso por estupro de vulnerável e encaminhado à Cadeia Pública Raimundo Vidal Pessoa. Ele nega a versão da filha.</br>

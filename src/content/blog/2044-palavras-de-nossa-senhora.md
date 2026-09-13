@@ -1,10 +1,10 @@
 ---
 title: "Palavras de Nossa Senhora"
 date: 2018-12-17T16:12:00.002Z
-heroImage: "/images/vidente_medjurgorje.png"
+heroImage: "/images/posts/2044-palavras-de-nossa-senhora-vidente_medjurgorje.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRIqrAulNpxYEypXSS5gesGrtZIjM_Q3519ixyJV_oKc8PcD6CSHtg4wyZiw47Zm-t24o8pqaCVG86-GaYArH4XRp1r6yySNs1G2oeqOwmJPj0bSdWZxCb-mRqvvpO16bqcRnGFBAD2I/s1600/vidente_medjurgorje.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="322" data-original-width="343" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRIqrAulNpxYEypXSS5gesGrtZIjM_Q3519ixyJV_oKc8PcD6CSHtg4wyZiw47Zm-t24o8pqaCVG86-GaYArH4XRp1r6yySNs1G2oeqOwmJPj0bSdWZxCb-mRqvvpO16bqcRnGFBAD2I/s320/vidente_medjurgorje.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Caros leitores, segue uma transcrição adaptada por este site, de uma palestra que um dos videntes de Medjugorje deu em 2015. Segue um resumo feito por mim dos principais trechos da mesma; palestra esta colhida no Portal Medjugorje Brasil.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2044-palavras-de-nossa-senhora-vidente_medjurgorje.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="322" data-original-width="343" height="300" src="/images/posts/2044-palavras-de-nossa-senhora-vidente_medjurgorje.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Caros leitores, segue uma transcrição adaptada por este site, de uma palestra que um dos videntes de Medjugorje deu em 2015. Segue um resumo feito por mim dos principais trechos da mesma; palestra esta colhida no Portal Medjugorje Brasil.
 
 Quando hoje penso o que dizer a vocês me lembro das palavras de Nossa Senhora: "Queridos filhos, hoje os convido..." Por isto penso que se hoje vocês são tão numerosos é porque vocês foram chamados aqui por Nossa Senhora. Vocês estão aqui porque Deus quis que vocês estivessem aqui hoje. Peço que cada coração de vocês possa compreender aquele amor que Nossa Senhora tem por cada um de nós. Eu acredito que cada um de nós é importante para Nossa Senhora. Nós somos os Seus filhos.
 

@@ -1,10 +1,10 @@
 ---
 title: "Hospital do Senhor"
 date: 2016-07-12T11:00:00.002Z
-heroImage: "/images/hospital_do_senhor.png"
+heroImage: "/images/posts/2219-hospital-do-senhor-hospital_do_senhor.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWhGfoOROwdi0dvaq8ODKBXd-johsaviuGakiSPh3K5fR9E47VLXXoDQX-rfOaGmA16mS2pszO7xKlMifU_n-bQCL-U2YnJsItEqeRl6T_sDDQB-MkdbJ39zFIcxfJMNzBTU5azZ2N5uI/s1600/hospital_do_senhor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWhGfoOROwdi0dvaq8ODKBXd-johsaviuGakiSPh3K5fR9E47VLXXoDQX-rfOaGmA16mS2pszO7xKlMifU_n-bQCL-U2YnJsItEqeRl6T_sDDQB-MkdbJ39zFIcxfJMNzBTU5azZ2N5uI/s320/hospital_do_senhor.png" width="311" height="320" data-original-width="177" data-original-height="182" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2219-hospital-do-senhor-hospital_do_senhor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2219-hospital-do-senhor-hospital_do_senhor.png" width="311" height="320" data-original-width="177" data-original-height="182" /></a></div>
 </br>
 Fui ao Hospital do Senhor fazer um check-up de rotina, e constatei que estava doente:</br>
 </br>

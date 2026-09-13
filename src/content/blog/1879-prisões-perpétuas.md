@@ -1,10 +1,10 @@
 ---
 title: "Prisões perpétuas"
 date: 2022-09-11T00:59:00Z
-heroImage: "/images/prisões perpétuas.png"
+heroImage: "/images/posts/1879-prisões-perpétuas-pris_C3_B5es_20perp_C3_A9tuas.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTxLay9weJ6PRWMQJABQMKAPZsYzo8i_SCjbw9Gs8qSEg9SdzwzAtctgflFJNnUvswPvyglb-B-m8oDBVqgSwOVW0L-p8zeoQ5W9v8AKRHWeCeFgEb0a7pFTzEbAFYTsGUTSf9haUIN9mHqGjBqVNgSGwNfndBmT_tKsq9OvFQ42OBDczw5Sqxf0-/s243/pris%C3%B5es%20perp%C3%A9tuas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="243" data-original-width="242" height="243" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTxLay9weJ6PRWMQJABQMKAPZsYzo8i_SCjbw9Gs8qSEg9SdzwzAtctgflFJNnUvswPvyglb-B-m8oDBVqgSwOVW0L-p8zeoQ5W9v8AKRHWeCeFgEb0a7pFTzEbAFYTsGUTSf9haUIN9mHqGjBqVNgSGwNfndBmT_tKsq9OvFQ42OBDczw5Sqxf0-/s1600/pris%C3%B5es%20perp%C3%A9tuas.png" width="242" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus disse que na recaída nosso estado é sete vezes pior do
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1879-prisões-perpétuas-pris_C3_B5es_20perp_C3_A9tuas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="243" data-original-width="242" height="243" src="/images/posts/1879-prisões-perpétuas-pris_C3_B5es_20perp_C3_A9tuas.png" width="242" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus disse que na recaída nosso estado é sete vezes pior do
 que a primeira queda. Isso é um aviso para lá de importante, pois, como se lê
 na bíblia, pecado gera pecado e este apresenta como salário a morte. A segunda
 morte, a morte da alma, reservada para os que não escolheram seguir o evangelho

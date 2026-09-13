@@ -1,10 +1,10 @@
 ---
 title: "A vitrine das vaidades"
 date: 2017-09-28T14:49:00Z
-heroImage: "/images/vaidades.png"
+heroImage: "/images/posts/1389-a-vitrine-das-vaidades-vaidades.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjliVFsCdG4XNkr4mA2JZqTtBy6a0mg2Ef3Y_X-OaL3jKawzEgC8q3R5S6Bd5tFhqA-Wj7dj9rqekYUVADPaCH75Yzm0_k3coabR2B_ec0A2WDtOQ1eBhuXTJPk1qqKIl8z_DfnjlL2N3s/s1600/vaidades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjliVFsCdG4XNkr4mA2JZqTtBy6a0mg2Ef3Y_X-OaL3jKawzEgC8q3R5S6Bd5tFhqA-Wj7dj9rqekYUVADPaCH75Yzm0_k3coabR2B_ec0A2WDtOQ1eBhuXTJPk1qqKIl8z_DfnjlL2N3s/s320/vaidades.png" width="320" height="286" data-original-width="560" data-original-height="500" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1389-a-vitrine-das-vaidades-vaidades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1389-a-vitrine-das-vaidades-vaidades.png" width="320" height="286" data-original-width="560" data-original-height="500" /></a></div>
 Por onde andam o pudor e a modéstia? Bom, se dependesse do mundo estariam escondidos nas catacumbas porque, se tem algo que o mundo não quer, é promover a decência e os valores bíblicos a toda a criatura. A finalidade do corpo foi adulterada por nosso inimigo cruel. A finalidade da vida foi por ele alterada. Os objetivos e metas olham para o próprio umbigo, para o aqui e agora e também para o futuro. Não olham mais para a eternidade. A esperança se concentra numa vida melhor desde que possa ser vivida por aqui, neste mundo.</br>
 </br>
 O verdadeiro sentido de se compartilhar foi alargado de tal maneira que agora qualquer coisa se pode compartilhar. Dessa maneira sua essência religiosa foi ficando para trás e hoje em dia se compartilha muita coisa desnecessária e não se compartilha muita coisa necessária. Quando pequenos, os bebês ao se tornarem criança vão sendo educados a compartilharem. Compartilhar o brinquedo com o amiguinho, compartilhar uma bolacha e compartilhar a atenção das pessoas. A nós cristãos, é ensinado pelo Cristo que devemos compartilhar, que devemos dividir, que devemos deixar o egoísmo de lado e querer que todos se salvem e cheguem ao conhecimento da verdade (1ª Timóteo 2,4).</br>

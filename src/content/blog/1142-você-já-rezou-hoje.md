@@ -1,10 +1,10 @@
 ---
 title: "Você já rezou hoje?"
 date: 2015-10-03T01:37:00.002Z
-heroImage: "/images/rezando.jpg"
+heroImage: "/images/posts/1142-você-já-rezou-hoje-crian_25C3_25A7a_rezando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaI_gc9Fb5S7f1AKNKvzyGcMeM23apMqlow2VhKabLkizIEJ9t7eeSqbecLeAUbjTo7bZQrApkh7sObeT-fmLIvRgkgY_T8TZlvqQ59S2yn8CbcLl_E-113C-hEz-Oqrq0rjaMuw1sSR8/s1600/crian%25C3%25A7a_rezando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="391" data-original-width="391" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaI_gc9Fb5S7f1AKNKvzyGcMeM23apMqlow2VhKabLkizIEJ9t7eeSqbecLeAUbjTo7bZQrApkh7sObeT-fmLIvRgkgY_T8TZlvqQ59S2yn8CbcLl_E-113C-hEz-Oqrq0rjaMuw1sSR8/s320/crian%25C3%25A7a_rezando.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1142-você-já-rezou-hoje-crian_25C3_25A7a_rezando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="391" data-original-width="391" height="320" src="/images/posts/1142-você-já-rezou-hoje-crian_25C3_25A7a_rezando.png" width="320" /></a></div>
 
 Melhor ainda caro leitor, é nos fazermos esta pergunta: Já rezei hoje? Vamos refletir e meditar nessa grande verdade que acompanha nossa vida de católicos. A oração constante. Quem nos manda agir assim é ninguém menos que nosso Salvador e Redentor, Jesus Cristo. Já nos é ensinado desde a época em que passamos em catequese que a oração é o diálogo que fazemos com Deus e os céus. E isto é bem entendido, pois não se trata de uma lista de pedidos que fazemos a Deus inclusive com prazo de validade para sermos atendidos.
 

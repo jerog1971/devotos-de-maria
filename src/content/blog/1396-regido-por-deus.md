@@ -1,10 +1,10 @@
 ---
 title: "Regido por Deus"
 date: 2015-12-14T11:37:00Z
-heroImage: "/images/tabuleiro.png"
+heroImage: "/images/posts/1396-regido-por-deus-tabuleiro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKbNOA71KrCRgYfV6rE6bW1nXqBSTMEcNM9x6mjOxDyqB39EToa1_lEvLolRee4RHv0CVnGcCXZqc-klBfX9LfcTi9VBPJgULrvRMShGQ_9YFuSfiydbdqlVTA-5RZ_EK5TdJF5cu71Lw/s1600/tabuleiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKbNOA71KrCRgYfV6rE6bW1nXqBSTMEcNM9x6mjOxDyqB39EToa1_lEvLolRee4RHv0CVnGcCXZqc-klBfX9LfcTi9VBPJgULrvRMShGQ_9YFuSfiydbdqlVTA-5RZ_EK5TdJF5cu71Lw/s320/tabuleiro.png" width="320" height="237" data-original-width="414" data-original-height="306" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1396-regido-por-deus-tabuleiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1396-regido-por-deus-tabuleiro.png" width="320" height="237" data-original-width="414" data-original-height="306" /></a></div>
 </br>
 Deuteronômio 18,10-13</br>
 </br>

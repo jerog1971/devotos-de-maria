@@ -1,10 +1,10 @@
 ---
 title: "A esperança"
 date: 2021-11-13T23:59:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1055-a-esperança-esperan_25C3_25A7a.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxVaoI6BkOsAA8GnWc-QoP5kUTjWZv1CGGVAF6w8KI0r8maPmQ0HaXj9WbNO9aZ3f8OjDWFbEJOUqtfeI-HAhcx6c1PiJx5KrCB5pa-hCLI69lo7sRhT6raPa2A1nWzofYNUSph7VS0GI/s310/esperan%25C3%25A7a.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="305" height="310" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxVaoI6BkOsAA8GnWc-QoP5kUTjWZv1CGGVAF6w8KI0r8maPmQ0HaXj9WbNO9aZ3f8OjDWFbEJOUqtfeI-HAhcx6c1PiJx5KrCB5pa-hCLI69lo7sRhT6raPa2A1nWzofYNUSph7VS0GI/s0/esperan%25C3%25A7a.png" width="305" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eu sei que todos pensam que somos imortais. Era para ser
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1055-a-esperança-esperan_25C3_25A7a.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="305" height="310" src="/images/posts/1055-a-esperança-esperan_25C3_25A7a.png" width="305" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eu sei que todos pensam que somos imortais. Era para ser
 assim. Estamos vivendo sem vislumbrar o destino certo da morte. Mas, o que
 torna a vida valiosa é não durar para sempre. O que a torna preciosa é que ela
 termina. Sei disso agora mais do que nunca. Cada dia é especial para nos

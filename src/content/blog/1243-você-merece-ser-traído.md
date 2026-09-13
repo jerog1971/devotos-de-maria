@@ -1,10 +1,10 @@
 ---
 title: "Você merece ser traído"
 date: 2021-02-15T20:07:00Z
-heroImage: "/images/homenagem.png"
+heroImage: "/images/posts/1243-você-merece-ser-traído-homenagem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgTGGYfNM0Ow6IFogJAWGt5YLP1CpwYddatp_cVA16FIfpM2hCWVghdAE_gjm_SLk2XGqlZgvic-D2Za2ZmtlJPn3PH7NGhj8ZHg35YcPu2cADVbuPUa7yuLSzwV-jK8hLBMQQRBNk_SU/s678/homenagem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="678" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgTGGYfNM0Ow6IFogJAWGt5YLP1CpwYddatp_cVA16FIfpM2hCWVghdAE_gjm_SLk2XGqlZgvic-D2Za2ZmtlJPn3PH7NGhj8ZHg35YcPu2cADVbuPUa7yuLSzwV-jK8hLBMQQRBNk_SU/s320/homenagem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente essa assim como tantas outras perguntas devem
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1243-você-merece-ser-traído-homenagem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="678" src="/images/posts/1243-você-merece-ser-traído-homenagem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente essa assim como tantas outras perguntas devem
 passar em nossos exames de consciência diários que fazemos. Se não fazemos
 deveríamos; ao menos três vezes ao dia. Todavia, o ser humano transborda de
 grande dificuldade em apontar e reconhecer suas misérias ao mesmo tempo em que

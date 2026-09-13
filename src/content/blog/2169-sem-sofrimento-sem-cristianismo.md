@@ -1,10 +1,10 @@
 ---
 title: "Sem sofrimento? Sem cristianismo!"
 date: 2016-09-19T13:28:00Z
-heroImage: "/images/sofrer.png"
+heroImage: "/images/posts/2169-sem-sofrimento-sem-cristianismo-sofrer.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXNmgalfLw7jYDgyVrqjThojxYg9OoQhSf7s-GNJLSR0SIHMi5FA_NxQ-daww6G1GtI-tt3cVc3VfrZvhPCFnY8nSJ63bdBzktxZ23h_yu5JM5-Rkmf2TClmvJU87igw1HekoCYzY6Ho/s1600/sofrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXNmgalfLw7jYDgyVrqjThojxYg9OoQhSf7s-GNJLSR0SIHMi5FA_NxQ-daww6G1GtI-tt3cVc3VfrZvhPCFnY8nSJ63bdBzktxZ23h_yu5JM5-Rkmf2TClmvJU87igw1HekoCYzY6Ho/s320/sofrer.png" width="320" height="191" data-original-width="235" data-original-height="140" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2169-sem-sofrimento-sem-cristianismo-sofrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2169-sem-sofrimento-sem-cristianismo-sofrer.png" width="320" height="191" data-original-width="235" data-original-height="140" /></a></div>
 Certa vez um sacerdote santo ao fazer um exorcismo pergunta ao espírito que possuía a pessoa. O que você mais odeia no mundo. O espírito respondeu: Eu odeio o sofrimento de Jesus pelas pessoas e das pessoas pelas outras. Principalmente o sofrimento dos jovens. Pois através do sofrimento as pessoas são salvas, por isso eu quero fazer com que as pessoas odeiem o sofrimento e busquem apenas o prazer, assim elas não se salvarão, não ajudarão os outros e se salvarem e eu levarei muitos para o inferno.</br>
 </br>
 E não são assim que as coisas funcionam? A maioria das pessoas não quer sofrer. Sofrer está associado pelo mundo como algo ruim, algo que não é bom e deve ser evitado. Basta uma simples constatação nas igrejas em dias que se rezam as novenas a Nossa Senhora do Perpétuo Socorro e Jesus Misericordioso, por exemplo, só para citar dois exemplos. Nestes locais a afluência de pessoas é muito maior do que em outros dias.</br>

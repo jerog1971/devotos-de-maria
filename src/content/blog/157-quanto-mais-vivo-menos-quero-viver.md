@@ -1,10 +1,10 @@
 ---
 title: "Quanto mais vivo menos quero viver"
 date: 2019-03-22T15:33:00Z
-heroImage: "/images/quero_morrer.png"
+heroImage: "/images/posts/157-quanto-mais-vivo-menos-quero-viver-quero_morrer.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcD24Q3pmthyphenhyphen8obkl8n5cDLksqT3zqPNZ9VnsyrHX4ZoxTf59AAz-1Rwt6vxDsKXyAFuH0XxW2g_r2kuKIdOWraxR37HbCnClskNZBH0u9MMIqnY4YZDCN6onvDzo6kcWHuRkLKlX1Gv0/s1600/quero_morrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcD24Q3pmthyphenhyphen8obkl8n5cDLksqT3zqPNZ9VnsyrHX4ZoxTf59AAz-1Rwt6vxDsKXyAFuH0XxW2g_r2kuKIdOWraxR37HbCnClskNZBH0u9MMIqnY4YZDCN6onvDzo6kcWHuRkLKlX1Gv0/s320/quero_morrer.png" width="320" height="301" data-original-width="512" data-original-height="481" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/157-quanto-mais-vivo-menos-quero-viver-quero_morrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/157-quanto-mais-vivo-menos-quero-viver-quero_morrer.png" width="320" height="301" data-original-width="512" data-original-height="481" /></a></div>
 À primeira vista quem lê ou escuta uma frase como a do título deste artigo já vai inclinando-se a pensar que é uma afirmação de quem tem autoestima baixa ou algum tipo de depressão. Porém, vou lhes contar uma coisa muito interessante e que está relacionada a vida dos santos. Vale lembrar, antes de mais nada, que você que crê em Deus e na vida eterna, para um dia morar para todo o sempre em seu reino (o reino de Deus) não precisa ser santo para ser salvo. Essa afirmação é evangélica, basta conferir o sermão da montanha e o diálogo de Jesus com o jovem rico. A conclusão que se tira é de que para ser salvo você precisa seguir os mandamentos; para ser santo, além deles você precisa viver as bem-aventuranças.</br>
 </br>
 Por isso Deus com seu amor e justiça criou a realidade do purgatório para as almas que apresentam grande dificuldade em seguir o primeiro mandamento da lei de Deus e por não amarem ele acima de todas as coisas, também amam muitas outras coisas. Quanto menos configurado ao Cristo, menos imitadores dele, mais manchados com as coisas do mundo. </br>

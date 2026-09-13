@@ -1,10 +1,10 @@
 ---
 title: "Um santo em meio à peste"
 date: 2020-06-05T15:29:00Z
-heroImage: "/images/Carlos_Borromeu.png"
+heroImage: "/images/posts/149-um-santo-em-meio-à-peste-Carlos_Borromeu.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8-S764A8CeiLK-gSPyagW-SqjkNlRz7JZ5pvtaYb8dzLeotRolnCeuH8dXm43N4O_EmQl7GzUv93AcexKje7bFRBlyWXR6MYdmePe_OQ2UWmmuZb489Ke8uKmy1vTL4PJJnxSoAGja_4/s470/Carlos_Borromeu.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="470" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8-S764A8CeiLK-gSPyagW-SqjkNlRz7JZ5pvtaYb8dzLeotRolnCeuH8dXm43N4O_EmQl7GzUv93AcexKje7bFRBlyWXR6MYdmePe_OQ2UWmmuZb489Ke8uKmy1vTL4PJJnxSoAGja_4/s320/Carlos_Borromeu.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Carlos Borromeu, cardeal arcebispo de Milão, viveu numa
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/149-um-santo-em-meio-à-peste-Carlos_Borromeu.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="470" src="/images/posts/149-um-santo-em-meio-à-peste-Carlos_Borromeu.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Carlos Borromeu, cardeal arcebispo de Milão, viveu numa
 época de grande corrupção na Igreja, exemplificada na frouxidão do clero ficando
 chocado com “a negligência, a ignorância e a flagrante imoralidade de muitos
 sacerdotes e religiosos”. Muitos sacerdotes sequer sabiam as fórmulas corretas

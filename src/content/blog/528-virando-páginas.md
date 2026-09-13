@@ -1,10 +1,10 @@
 ---
 title: "Virando páginas"
 date: 2021-07-06T17:09:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/528-virando-páginas-p_25C3_25A1ginas_da_vuida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhslgmADYw_7SOAGaw7R16Gzxz7IZCW4QtiL12d-IE5sryJ5QAbKwqjtCL3r36b-zfl7w4qr-wb1Oc9YkhSKGmAOoRrdMDdrSiyGDE61pG5BY5Bawov7igvKEBrZK0aNnRYyo_3CRszuwc/s479/p%25C3%25A1ginas+da+vuida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="461" data-original-width="479" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhslgmADYw_7SOAGaw7R16Gzxz7IZCW4QtiL12d-IE5sryJ5QAbKwqjtCL3r36b-zfl7w4qr-wb1Oc9YkhSKGmAOoRrdMDdrSiyGDE61pG5BY5Bawov7igvKEBrZK0aNnRYyo_3CRszuwc/s320/p%25C3%25A1ginas+da+vuida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando estamos numa leitura atenta, mergulhados em seu
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/528-virando-páginas-p_25C3_25A1ginas_da_vuida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="461" data-original-width="479" src="/images/posts/528-virando-páginas-p_25C3_25A1ginas_da_vuida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando estamos numa leitura atenta, mergulhados em seu
 enredo – até fazendo parte da mesma – vamos adentrando cada vez mais fundo na
 história do livro e, página por página, vamos virando, virando e virando,
 ansiosos por chegarmos ao final. Para o leitor, as horas passam tão rapidamente

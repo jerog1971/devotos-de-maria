@@ -1,10 +1,10 @@
 ---
 title: "Casou... ferrou"
 date: 2020-03-29T20:00:00Z
-heroImage: "/images/casados.png"
+heroImage: "/images/posts/442-casou-ferrou-casados.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjykP962e7_Hy4f65HbTxs_VEZxjhZXcKLK_66WxaVNviNFH73-4NXZkOHbSySFSqO3vz2D0stl1XmWLRyrkStmk6kUtB-6PLAs2PuQAkDytoixmx-rAd8faFIxxviAmccBlAAzJsvH2jQ/s1600/casados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjykP962e7_Hy4f65HbTxs_VEZxjhZXcKLK_66WxaVNviNFH73-4NXZkOHbSySFSqO3vz2D0stl1XmWLRyrkStmk6kUtB-6PLAs2PuQAkDytoixmx-rAd8faFIxxviAmccBlAAzJsvH2jQ/s320/casados.png" width="320" height="305" data-original-width="473" data-original-height="451" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/442-casou-ferrou-casados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/442-casou-ferrou-casados.png" width="320" height="305" data-original-width="473" data-original-height="451" /></a></div>
 É o que o mundo quer pregar e tanto se esforça querendo ensinar que se o casamento não der certo, separa e parte para a outra. O que importa é a felicidade própria, marido ou esposa, podem ser trocados, existem vários pelo mundo afora, a fila sempre pode andar. Pois bem, casamento que vira sacramento, não impede o sofrimento, mas com Deus vive sempre em constante alento. Elevados à condição de sacramento, além de tantos ensinamentos bíblicos também encontramos na doutrina e comunhão dos santos, alguns comentários sobre essa realidade que é unida nos céus e não pode ser desfeita pelos homens, vejamos:</br>
 </br>
 São João Paulo II nos disse que “o amor ao cônjuge não pode ser um disfarçado amor a si próprio. Muitos casamentos fracassam porque os esposos não estão unidos por um amor autêntico, mas por um egoísmo a dois. O verdadeiro amor mede-se pela capacidade de sacrifício e de entrega mútua.”</br>

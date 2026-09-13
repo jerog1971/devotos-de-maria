@@ -1,10 +1,10 @@
 ---
 title: "Fuja das ocasiões de pecado"
 date: 2019-09-09T15:42:00.001Z
-heroImage: "/images/pecado.png"
+heroImage: "/images/posts/1859-fuja-das-ocasiões-de-pecado-ocasi_25C3_25B5es_de_pecado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNz-Ddh1zdS6X7x5vRT59T8RZ9WM-lFb_Mcd92FOyWdAIyMm7lZXr6yge562To3bEWSK-fRK2gLRq2-w3XmH4sOtl2gcrN74QOa8a4FjjFlbBhg7tk6usUWzF6TPBCHCxCpMezPd9S_TM/s1600/ocasi%25C3%25B5es_de_pecado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNz-Ddh1zdS6X7x5vRT59T8RZ9WM-lFb_Mcd92FOyWdAIyMm7lZXr6yge562To3bEWSK-fRK2gLRq2-w3XmH4sOtl2gcrN74QOa8a4FjjFlbBhg7tk6usUWzF6TPBCHCxCpMezPd9S_TM/s320/ocasi%25C3%25B5es_de_pecado.png" width="320" height="252" data-original-width="284" data-original-height="224" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1859-fuja-das-ocasiões-de-pecado-ocasi_25C3_25B5es_de_pecado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1859-fuja-das-ocasiões-de-pecado-ocasi_25C3_25B5es_de_pecado.png" width="320" height="252" data-original-width="284" data-original-height="224" /></a></div>
 Ora bolas, até parece simples e meio sem sentido tratar de um tema dessa natureza, afinal, se você não quer se queimar não irá brincar com fogo, diz o ditado popular não é mesmo! Pois bem, mas a cada comemoração de fim de ano as estatísticas mostram que os atendimentos emergenciais nos pronto-atendimentos são realidades constantes. Como vemos não é tão simples assim e o assunto aponta para algumas fraquezas humanas.</br>
 </br>
 Pela tentação do raciocínio lógico se as pessoas pecam é porque não evitaram as ocasiões de pecado, ou pior ainda, até as procuraram. É o que podemos entender como a raiz do problema. A tentação ordinária apresenta-se na região das ocasiões. As tentações mais incisivas atacam indiscriminadamente depois que nossas fortalezas foram minunciosamente analisadas pelo nosso inimigo. Já ouvimos falar do “ponto fraco”, pois é, quem não tem um, alguns ou muitos? Procura-los e explora-los é o que fazem os exércitos maléficos.</br>

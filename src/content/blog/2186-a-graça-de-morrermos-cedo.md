@@ -1,10 +1,10 @@
 ---
 title: "A graça de morrermos cedo"
 date: 2022-01-10T02:44:00.002Z
-heroImage: "/images/wiiU.png"
+heroImage: "/images/posts/2186-a-graça-de-morrermos-cedo-img-1538872397.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh8LMWlyjjrUpBXW6ehZPabf2bjEvYcUvbizAcYjzP9nKsLrkyD9CKWmJanIY1y5b3Q19jjz9FJ40WTV44jl-UdyhQcEs2MzsO1vdJ9fcrScVYiBPaem4GR3k5KmywPYLzIye0YudovMxPpsrBBKC4RoUNJhqkfITk6rbsoJjLDzvh41jzdJRmWiiuL=s510" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="508" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEh8LMWlyjjrUpBXW6ehZPabf2bjEvYcUvbizAcYjzP9nKsLrkyD9CKWmJanIY1y5b3Q19jjz9FJ40WTV44jl-UdyhQcEs2MzsO1vdJ9fcrScVYiBPaem4GR3k5KmywPYLzIye0YudovMxPpsrBBKC4RoUNJhqkfITk6rbsoJjLDzvh41jzdJRmWiiuL=s320" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, quando alguém se vai em idade não avançada alguns
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2186-a-graça-de-morrermos-cedo-img-1538872397.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="508" height="320" src="/images/posts/2186-a-graça-de-morrermos-cedo-img-1538874288.jpg" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, quando alguém se vai em idade não avançada alguns
 dizem que morreu cedo, que tinha uma vida inteira pela frente. Outros arriscam
 questionar porque os maus vivem mais tempo que muitos bons e lhes é permitido
 viverem por mais tempo suas maldades do que os bons as suas bondades, inclusive

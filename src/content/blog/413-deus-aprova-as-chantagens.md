@@ -1,10 +1,10 @@
 ---
 title: "Deus aprova as chantagens"
 date: 2020-12-08T15:35:00.003Z
-heroImage: "/images/Ausência de Deus.png"
+heroImage: "/images/posts/413-deus-aprova-as-chantagens-deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s527/deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="285" data-original-width="527" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s320/deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo que você está lendo caro leitor. Ele tanto
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/413-deus-aprova-as-chantagens-deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="285" data-original-width="527" src="/images/posts/413-deus-aprova-as-chantagens-deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo que você está lendo caro leitor. Ele tanto
 aprova que permite que façamos como ele. Na bíblia encontramos algumas
 passagens que dizem que devemos ser seus imitadores. Então, logicamente, se ele
 chantageia as suas criaturas podemos fazer o mesmo entre nós. Ademais, ele leva

@@ -1,10 +1,10 @@
 ---
 title: "Efeitos da pornografia na alma"
 date: 2016-01-26T19:28:00.001Z
-heroImage: "/images/pornografia2.png"
+heroImage: "/images/posts/1456-efeitos-da-pornografia-na-alma-pornografia2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBJZAcEuqegkt5f5RZ-pEAFOQsCMjqZlu2vN2SJkVdQbAFCoJVHTp9FaOp6Ztdd2cjvXYpAXNomxtxiLLw9OfnXVkdSvWcUHKPGPfmkQKrhyQDtTRMe-9CaYlezYF0TFBqcClC9qJTOpw/s1600/pornografia2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBJZAcEuqegkt5f5RZ-pEAFOQsCMjqZlu2vN2SJkVdQbAFCoJVHTp9FaOp6Ztdd2cjvXYpAXNomxtxiLLw9OfnXVkdSvWcUHKPGPfmkQKrhyQDtTRMe-9CaYlezYF0TFBqcClC9qJTOpw/s320/pornografia2.png" width="320" height="278" data-original-width="491" data-original-height="426" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1456-efeitos-da-pornografia-na-alma-pornografia2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1456-efeitos-da-pornografia-na-alma-pornografia2.png" width="320" height="278" data-original-width="491" data-original-height="426" /></a></div>
 </br>
 Retomando uma longa tradição ascética, formada por autores como Evágrio Pôntico, São João Cassiano e São João Damasceno, Santo Tomás de Aquino define a acídia (ακηδία, em grego) como um tipo de tristeza. Esta é a reação do ser humano ao mal presente. O que especifica a acídia é que se trata de "uma tristeza proveniente de um bem espiritual". A pessoa acometida por essa doença interpreta o bem que Deus tem para ela como um mal e, por isso, fica triste.</br>
 </br>

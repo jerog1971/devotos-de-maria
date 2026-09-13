@@ -1,10 +1,10 @@
 ---
 title: "Domingo de Ramos"
 date: 2016-03-21T13:46:00Z
-heroImage: "/images/domingo_de_ramos.png"
+heroImage: "/images/posts/235-domingo-de-ramos-domingo_de_ramos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_3rN2ztM1BYH1mhgkCSlRiuBoa_zLWHCSMDC5ITOpdHIlZZCHG2hUKAL3sxajLSdNqVfEmg4DQTK-n2MpX18jrppYCB_OikAQCyAaDFTf8HNylLIbDmcBqdVcfODkrsKurHEi8WRdM-o/s1600/domingo_de_ramos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_3rN2ztM1BYH1mhgkCSlRiuBoa_zLWHCSMDC5ITOpdHIlZZCHG2hUKAL3sxajLSdNqVfEmg4DQTK-n2MpX18jrppYCB_OikAQCyAaDFTf8HNylLIbDmcBqdVcfODkrsKurHEi8WRdM-o/s320/domingo_de_ramos.png" width="320" height="218" data-original-width="560" data-original-height="381" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/235-domingo-de-ramos-domingo_de_ramos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/235-domingo-de-ramos-domingo_de_ramos.png" width="320" height="218" data-original-width="560" data-original-height="381" /></a></div>
 1ª Cor 15,14 - Se Cristo não ressuscitou, é vã a nossa pregação, e também é vã a vossa fé. Eis aí caros leitores, resumido em um único versículo o centro de nosso Cristianismo. Jesus passou pela sua paixão pré-anunciada pelos profetas e confirmada por ele para nos resgatar da dívida impagável. Não perdendo sua natureza divina, assumiu nossa condição humana porém, isento de pecado. Em toda a história da humanidade, o acontecimento de sua ressureição é um marco histórico, sem precedentes como nunca houve e nunca haverá.</br>
 </br>
 E desde ontem, neste ano no dia 20 de março, os católicos “entram” na comemoração da semana santa, revivendo os últimos momentos daquele que aceitou sofrer por nós para nos salvar. Pensemos bem, muitos de nós nem sequer cogitamos algum sofrimento voluntário em nossas vidas ou quando recebemos de Deus alguma provação corremos logo pedir libertação. Quantos de nós pedem a graça de suportar por amor a Deus tudo pelo que passamos? Pouquíssimos. Fogem das dores e dos sofrimentos enquanto condição espiritual.</br>

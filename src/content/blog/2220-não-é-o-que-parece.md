@@ -1,10 +1,10 @@
 ---
 title: "Não é o que parece"
 date: 2018-03-21T15:55:00Z
-heroImage: "/images/mandamentos.png"
+heroImage: "/images/posts/2220-não-é-o-que-parece-mandamentos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwIQRi_4MvMGsD9GftL4F_mXmlZhCc-p1ZzfhKhV4S5NN5JyQdZiZ1mhx7JImFdOuvTgctXmgi__6jA86ZrukzmLxBI76DGK_zDofF_TZ2tpBsL4twmTyHL5jPyoWvhMJC4HgSnPXwPJc/s1600/mandamentos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwIQRi_4MvMGsD9GftL4F_mXmlZhCc-p1ZzfhKhV4S5NN5JyQdZiZ1mhx7JImFdOuvTgctXmgi__6jA86ZrukzmLxBI76DGK_zDofF_TZ2tpBsL4twmTyHL5jPyoWvhMJC4HgSnPXwPJc/s320/mandamentos.png" width="320" height="241" data-original-width="591" data-original-height="446" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2220-não-é-o-que-parece-mandamentos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2220-não-é-o-que-parece-mandamentos.png" width="320" height="241" data-original-width="591" data-original-height="446" /></a></div>
 Muitos acham que os mandamentos da lei de Deus são acorrentamentos, fardos e proibições que impedem o ser humano de ser livre e fazer o que lhe apetece. Afinal é ensinado que cada um é responsável pela sua felicidade e ninguém é capaz de nos fazer feliz. Então os que pensam assim, decidem pagar o preço da felicidade terrena. Aos certinhos tudo parece mais difícil e quase não existe recompensas e pedidos dirigidos ao céu atendidos. Aos liberais e de mente aberta as correntes do Deus castigador e imperador, escravizador pelo sofrimento que “paga” a entrada no paraíso, são conceitos superados e que repousam em águas passadas.</br>
 </br>
 O mundo diz que a humanidade evolui e que isso é inevitável. Não importa, seja como for, o que Deus coloca como um mandato sempre irá parecer para muitos uma lista de proibições. Mesmo que Jesus tenha dito que não, quando nos explicou que tudo se remete a partir dos dois mandamentos do amor. Ora, se são mandamentos de amor que dão origem aos demais, como podem ser proibições?</br>

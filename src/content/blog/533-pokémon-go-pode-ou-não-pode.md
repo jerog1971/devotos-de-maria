@@ -1,10 +1,10 @@
 ---
 title: "Pokémon GO, pode ou não pode?"
 date: 2016-08-15T17:13:00Z
-heroImage: "/images/pokemon.png"
+heroImage: "/images/posts/533-pokémon-go-pode-ou-não-pode-pokemon.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbw1bYHjXPV40T4-grBSLwUX5quJJYdzYiffQ3AiYU5VQOGnAf5kNc0t9MWP-ddkmwPB1YSCD0GD2TPBQYNqmnrkzERc9BwfuPJ06gqVNGsPjTlzlNnKih7ez1M3CXODYrCsj4LmirPc/s1600/pokemon.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbw1bYHjXPV40T4-grBSLwUX5quJJYdzYiffQ3AiYU5VQOGnAf5kNc0t9MWP-ddkmwPB1YSCD0GD2TPBQYNqmnrkzERc9BwfuPJ06gqVNGsPjTlzlNnKih7ez1M3CXODYrCsj4LmirPc/s320/pokemon.png" width="320" height="270" data-original-width="495" data-original-height="417" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/533-pokémon-go-pode-ou-não-pode-pokemon.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/533-pokémon-go-pode-ou-não-pode-pokemon.png" width="320" height="270" data-original-width="495" data-original-height="417" /></a></div>
 Após a nova febre de entretenimento invadir o tão disputado tempo das pessoas, segue-se a pergunta de muitos pais e responsáveis pela sadia educação de seus filhos, num esforço para colocar em primeiro lugar os princípios cristãos. Pois muito bem, vamos aproveitar o momento desta mais recente febre das redes sociais para refletirmos um pouco a respeito do uso que se faz da diversão e dos passatempos.</br>
 </br>
 Digo febre do momento porque a expressão “casa” muito bem com os acontecimentos que periodicamente aparecem para aprimora a “robotização” do comportamento humano. A sociedade que revestida de soberba bate no peito para anunciar a sua constante evolução, colocando no pedestal sua inteligência e habilidades em fazer desta terra um paraíso sem Deus, não enxerga que ao se tornar cada vez mais amiga do mundo, se torna inimiga de Deus (Tiago 4,4).</br>

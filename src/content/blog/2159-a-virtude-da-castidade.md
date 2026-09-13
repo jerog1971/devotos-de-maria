@@ -1,10 +1,10 @@
 ---
 title: "A virtude da Castidade"
 date: 2016-07-08T20:00:00.001Z
-heroImage: "/images/Maria_Goretti.png"
+heroImage: "/images/posts/2159-a-virtude-da-castidade-Maria_Goretti.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfpYD9dHou_P3QJ3wjd7ETSDgtFHWE_YaHOMCPq63ovkTTSbZlSwIL03VT_Qp5IHgtXoyAW_mdyVOfWFleerhFpJYWXw6UqBzcHHWydcZHVYx200cA5f9QGx5ipCo9jOS-hpUu-7qmow8/s1600/Maria_Goretti.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfpYD9dHou_P3QJ3wjd7ETSDgtFHWE_YaHOMCPq63ovkTTSbZlSwIL03VT_Qp5IHgtXoyAW_mdyVOfWFleerhFpJYWXw6UqBzcHHWydcZHVYx200cA5f9QGx5ipCo9jOS-hpUu-7qmow8/s320/Maria_Goretti.png" width="320" height="261" data-original-width="612" data-original-height="500" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2159-a-virtude-da-castidade-Maria_Goretti.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2159-a-virtude-da-castidade-Maria_Goretti.png" width="320" height="261" data-original-width="612" data-original-height="500" /></a></div>
 </br>
 Existiram e existem algumas épocas, que são particularmente insensíveis à virtude da castidade. É o caso da nossa geração, que ainda experimenta os frutos amargos da Revolução Sexual. O advento da pílula anticoncepcional – e o consequente divórcio entre o prazer e a geração dos filhos –, as chamadas "uniões livres", bem como a adoção do divórcio em várias legislações mundo afora, fortaleceram a ideia de que o ser humano poderia fazer de sua sexualidade o que bem entendesse, não dando a mínima para as leis inscritas pelo Criador em seu próprio coração.</br>
 </br>

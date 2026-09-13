@@ -1,10 +1,10 @@
 ---
 title: "Os dois lados da história"
 date: 2021-01-15T15:06:00.002Z
-heroImage: "/images/agir_do_catolico.png"
+heroImage: "/images/posts/1144-os-dois-lados-da-história-agir_do_catolico.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh10_GzR3S2AzfdCQjySiEEjZSmhAdfo4ofSyy1RrfpjrRAMV7Mcu30oVZhmf3P6dnQaMsWTOWqIdHhKN7AAn9W7KXRPKQPEND9MeNELudGjO8q8F4XJUeGQkDzvy_scAWhLFDYVN-OC8k/s297/agir_do_catolico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh10_GzR3S2AzfdCQjySiEEjZSmhAdfo4ofSyy1RrfpjrRAMV7Mcu30oVZhmf3P6dnQaMsWTOWqIdHhKN7AAn9W7KXRPKQPEND9MeNELudGjO8q8F4XJUeGQkDzvy_scAWhLFDYVN-OC8k/s0/agir_do_catolico.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Normalmente a história é contada pelo lado vencedor, o lado
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1144-os-dois-lados-da-história-agir_do_catolico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="297" src="/images/posts/1144-os-dois-lados-da-história-agir_do_catolico.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Normalmente a história é contada pelo lado vencedor, o lado
 que sai perdendo fica abafado. O lado vencedor “pinta” o lado que perdeu como
 merecedor disso, enfatizando o porquê de seu sucesso na vitória. Ou seja, temos
 que acreditar que a versão de quem ganha é a única verdadeira, pois a versão de

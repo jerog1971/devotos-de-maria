@@ -1,10 +1,10 @@
 ---
 title: "Escritor com síndrome de down fala aos políticos"
 date: 2017-11-10T18:38:00Z
-heroImage: "/images/frank_stephens.png"
+heroImage: "/images/posts/1522-escritor-com-síndrome-de-down-fala-aos-políticos-frank_stephens.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3rjcI46ztP5zINMzfG7j7Q3PO2ZEpcPxXC98Fd6RV2TWyojlh4RNjZ13FJlAT-mU_ikjwVAf6QRSXZ1tR5hahLiCfLMEvXdeTTBl93ely2XL5QBbjockAitN7YWHqDhEsBzIIjsbZD8/s1600/frank_stephens.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3rjcI46ztP5zINMzfG7j7Q3PO2ZEpcPxXC98Fd6RV2TWyojlh4RNjZ13FJlAT-mU_ikjwVAf6QRSXZ1tR5hahLiCfLMEvXdeTTBl93ely2XL5QBbjockAitN7YWHqDhEsBzIIjsbZD8/s320/frank_stephens.png" width="320" height="291" data-original-width="394" data-original-height="358" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1522-escritor-com-síndrome-de-down-fala-aos-políticos-frank_stephens.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1522-escritor-com-síndrome-de-down-fala-aos-políticos-frank_stephens.png" width="320" height="291" data-original-width="394" data-original-height="358" /></a></div>
 A recente intervenção de Frank Stephens no Congresso dos Estados Unidos não deixou ninguém indiferente. Em apenas alguns dias, o seu discurso, cheio de razões e emoção, deu a volta ao mundo. Frank Stephens é ator, escritor, porta-voz da Global Down Syndrome Foundation e membro da equipe administrativa de Special Olympics no estado da Virgínia. Com um discurso de apenas 7 minutos clamou contra a “solução final” contra as pessoas com síndrome de Down.</br>
 </br>
 O seu discurso na Câmara de Deputados dos Estados Unidos ocorreu durante uma comissão sobre investigação científica, questão que Stephens aproveitou para fazer uma introdução brilhante ao seu discurso. “Para que não haja confusão, quero dizer que não sou cientista nem pesquisador. Entretanto, ninguém sabe mais da vida de uma pessoa com Síndrome de Down do que eu. Seja o que for que aprenderam hoje, lembrem-se disso: sou um homem com Síndrome de Down e a minha vida vale a pena”, começou Stephens.</br>

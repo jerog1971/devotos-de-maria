@@ -1,10 +1,10 @@
 ---
 title: "Não faz mais que a obrigação"
 date: 2025-01-15T21:35:00.002Z
-heroImage: "/images/Jesus pede renúncia total.png"
+heroImage: "/images/posts/696-não-faz-mais-que-a-obrigação-img-706662872.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzz2ri8BJ1UglA8Q3dycJe5cHxltadk4N7nf6gFLOZW_foTWUgIWfuiBwSXjaiFD0CQoZQjWl801ByutjfhWBv5NksVcRXyqIPJixlBbTJfZ9butdS81-jVIjzisBNHIIo-ZMnAYzlDKauOdNfvPNCDv0JuDsOXEfBL0WtGFGeyVcYBm_uNcSmzUjdXxk/s166/Jesus%20pede%20ren%C3%BAncia%20total.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="162" data-original-width="166" height="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzz2ri8BJ1UglA8Q3dycJe5cHxltadk4N7nf6gFLOZW_foTWUgIWfuiBwSXjaiFD0CQoZQjWl801ByutjfhWBv5NksVcRXyqIPJixlBbTJfZ9butdS81-jVIjzisBNHIIo-ZMnAYzlDKauOdNfvPNCDv0JuDsOXEfBL0WtGFGeyVcYBm_uNcSmzUjdXxk/w247-h241/Jesus%20pede%20ren%C3%BAncia%20total.png" width="247" /></a></div><p></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p>
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/696-não-faz-mais-que-a-obrigação-img-706662872.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="162" data-original-width="166" height="241" src="/images/posts/696-não-faz-mais-que-a-obrigação-img-1773776568.png" width="247" /></a></div><p></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p>
 
 
 	

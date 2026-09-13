@@ -1,10 +1,10 @@
 ---
 title: "O cálice que o cristão deve beber"
 date: 2022-02-25T18:42:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1511-o-cálice-que-o-cristão-deve-beber-AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki_s370.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki=s370" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="370" data-original-width="340" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki=s320" width="294" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como cristãos, somos sempre chamados a santidade, e o
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1511-o-cálice-que-o-cristão-deve-beber-AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki_s370.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="370" data-original-width="340" height="320" src="/images/posts/1511-o-cálice-que-o-cristão-deve-beber-AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki_s320.jpg" width="294" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como cristãos, somos sempre chamados a santidade, e o
 sentido da palavra santo é "outro" ou "separado". Santo é
 aquilo/aquele que está separado do impuro ou do profano para o serviço de Deus.
 Não podemos, em situação alguma, fazer parte de algo que está em oposição a

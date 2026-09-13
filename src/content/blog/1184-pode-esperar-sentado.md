@@ -1,10 +1,10 @@
 ---
 title: "Pode esperar sentado"
 date: 2017-09-18T13:49:00Z
-heroImage: "/images/sentado.png"
+heroImage: "/images/posts/1184-pode-esperar-sentado-sentado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFcIygVYTEFNhuQSkmo1sgj_YOIhi6oYoW423z4YL7ctQodPQf5pl5yfFEepJo3vJpE3BHXjTPjwTDIU7IOnoRUHNtIZp5nkEqu4hwbHLz1QbGZpZKgdcCC6Z-HKEd7SbIEiMig0z-n8/s1600/sentado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFcIygVYTEFNhuQSkmo1sgj_YOIhi6oYoW423z4YL7ctQodPQf5pl5yfFEepJo3vJpE3BHXjTPjwTDIU7IOnoRUHNtIZp5nkEqu4hwbHLz1QbGZpZKgdcCC6Z-HKEd7SbIEiMig0z-n8/s320/sentado.png" width="320" height="320" data-original-width="168" data-original-height="168" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1184-pode-esperar-sentado-sentado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1184-pode-esperar-sentado-sentado.png" width="320" height="320" data-original-width="168" data-original-height="168" /></a></div>
 Nascemos, por conta do projeto de Deus para nossa existência, chegamos a este mundo. Cada um com sua particularidade e individualismo que não será jamais igual ao de pessoa alguma. Alerta! Aqui já enxergamos a primeira tentativa do diabo em tornar a todos iguais a ele. Por conta da maciça avalanche de tentações que soterram aqueles que se iludirem com suas ofertas, o comportamento humano se torna globalizado e a linha de conduta cristã, apresentada a cada um por Deus, rapidamente dá lugar ao viver o paraíso aqui na terra sem o seu criador.</br>
 </br>
 Quando nossos pulmões inflam pela primeira vez, e a vida fora do ventre da mãe começa a terminar nesta terra, começamos a absorver tudo de Deus e tudo do mundo. Somos lançados nesta vida como a corda de um cabo de guerra. Ora por nossas fraquezas pendemos para o mal, ora por nossas certezas pendemos para o bem, ora por nossas dúvidas ficamos no meio, em cima do muro, em atitude morna. O problema, infelizmente, não se simplifica à medida que passamos por essas experiências. Vão restando, se permitirmos, sequelas depois de cada situação que passamos e essas experiências de vida vão nos moldando e traçando para Deus e para o próximo, um perfil da nossa pessoa.</br>

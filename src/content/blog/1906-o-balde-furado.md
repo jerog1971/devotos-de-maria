@@ -1,10 +1,10 @@
 ---
 title: "O balde furado"
 date: 2017-07-11T13:42:00Z
-heroImage: "/images/balde.png"
+heroImage: "/images/posts/1906-o-balde-furado-balde.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn56wVx8SL1NweQAlpuY0uHwO7tP1L_e7E0S-arg2yVgAvnZc5AgF1JLx2Rgfulh5_fj4OLp_UTxNBsMIgKxD7WOHALgz7FkaNyixpi2krtNKojjdXo3JI_lfsZV6SG_dYYKq__bO_oPg/s1600/balde.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn56wVx8SL1NweQAlpuY0uHwO7tP1L_e7E0S-arg2yVgAvnZc5AgF1JLx2Rgfulh5_fj4OLp_UTxNBsMIgKxD7WOHALgz7FkaNyixpi2krtNKojjdXo3JI_lfsZV6SG_dYYKq__bO_oPg/s320/balde.png" width="258" height="320" data-original-width="255" data-original-height="316" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1906-o-balde-furado-balde.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1906-o-balde-furado-balde.png" width="258" height="320" data-original-width="255" data-original-height="316" /></a></div>
 É inútil tentar encher um balde de água que está furado. Assim pode ser a nossa disposição frente ao pecado. É preciso romper com o pecado, renunciar ao demônio e se abrir a Deus com o propósito de não mais pecar. Ou seja, primeiro é preciso tampar o buraco, para depois encher o balde. Do contrário nossa má disposição para agir conforme Deus espera esbarra nessa tibieza que irá promover a passagem da graça ficando pouco sobre nós. Vamos compreender. Imaginemos um pedaço de gelo, uma telha de barro e uma telha de zinco. Estes três objetos são colocados sob a luz do sol. O que acontece? Bem, sabemos que o gelo irá se derreter, sabemos também que a telha de barro irá esquentar menos do que a telha de zinco. Embora o sol seja o mesmo o resultado de seus raios sob cada objeto é diferente. Assim também é a disposição de cada um.</br>
 </br>
 São Tomás de Aquino nos recorda que a disposição do penitente tem impacto direto na forma como a graça divina atua sobre a pessoa. Conforme o grau de sincero arrependimento podemos sair do sacramento da confissão, num estado de graça maior, num estado de graça igual ou ainda num estado de graça menor do que antes de termos ofendido a Deus. A eficiência do sacramento atua em graus diferentes conforme a disposição do penitente.</br>

@@ -1,10 +1,10 @@
 ---
 title: "O matrimônio"
 date: 2016-07-13T13:00:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1364-o-matrimônio-matrim_25C3_25B4nio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOW2VG3ns595yG7gPkbDprCA51jjJYYziow3x-D5JCvKWA0m80FYTe_eVfs7AcC6qo02ALhgJ-HaVXBRmgE-xhqPUe7UyVCb4a7BlVGe5-L7Xmo5dd4EpXQaUP-3n2UMli0kuaxkVXhew/s1600/matrim%25C3%25B4nio.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="392" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOW2VG3ns595yG7gPkbDprCA51jjJYYziow3x-D5JCvKWA0m80FYTe_eVfs7AcC6qo02ALhgJ-HaVXBRmgE-xhqPUe7UyVCb4a7BlVGe5-L7Xmo5dd4EpXQaUP-3n2UMli0kuaxkVXhew/s320/matrim%25C3%25B4nio.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1364-o-matrimônio-matrim_25C3_25B4nio.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="392" height="223" src="/images/posts/1364-o-matrimônio-matrim_25C3_25B4nio.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
 
 Vez por outra podemos nos deparar em meio a alguma conversa com a seguinte pergunta: "Você é casado?" E certas vezes a resposta é "só no civil".
 

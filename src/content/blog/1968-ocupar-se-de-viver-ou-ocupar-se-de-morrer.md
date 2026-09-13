@@ -1,10 +1,10 @@
 ---
 title: "Ocupar-se de viver ou ocupar-se de morrer"
 date: 2021-04-04T23:12:00Z
-heroImage: "/images/morrer.png"
+heroImage: "/images/posts/1968-ocupar-se-de-viver-ou-ocupar-se-de--morrer.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMi8bH1m2avNBYbtYJRy82lz_jl67rzNTldOb3M-oNMnPHbc_V-JivzY3R3b3wmX2_v-dEUygntcDm0Q0YWVWsVboWntlaOxssTvQi8RcJjEunpHjfcrKI21mXs2mo_h_ZCG0xQFGEIc/s308/morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMi8bH1m2avNBYbtYJRy82lz_jl67rzNTldOb3M-oNMnPHbc_V-JivzY3R3b3wmX2_v-dEUygntcDm0Q0YWVWsVboWntlaOxssTvQi8RcJjEunpHjfcrKI21mXs2mo_h_ZCG0xQFGEIc/s0/morrer.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que fazemos com o tempo de vida que Deus nos dá? Tão logo
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1968-ocupar-se-de-viver-ou-ocupar-se-de--morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" src="/images/posts/1968-ocupar-se-de-viver-ou-ocupar-se-de--morrer.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que fazemos com o tempo de vida que Deus nos dá? Tão logo
 adquirimos consciência sobre nossa natureza aprendemos que um dia iremos
 morrer. O ensinamento cristão – aos que escolheram seguir a Cristo – explica que
 o ser humano é um composto de corpo e alma – matéria e espírito. O corpo, parte

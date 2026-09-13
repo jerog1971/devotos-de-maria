@@ -1,10 +1,10 @@
 ---
 title: "As novelas envenenam as famílias"
 date: 2016-07-04T11:30:00.002Z
-heroImage: "/images/veneno.png"
+heroImage: "/images/posts/456-as-novelas-envenenam-as-famílias-veneno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGQosP_2Epu8BeqCa6h0O5yMzdEkHfnY5WGslJs1TiVbnokAKBRWN8V7R6BHa0nj0kfCd7Ju6K_40XI1ylBEG7no3e_dkJmpJCXuZS_MsxYGeT_paCPDqFObZLmrWSqcsBkjAOoowZVmA/s1600/veneno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGQosP_2Epu8BeqCa6h0O5yMzdEkHfnY5WGslJs1TiVbnokAKBRWN8V7R6BHa0nj0kfCd7Ju6K_40XI1ylBEG7no3e_dkJmpJCXuZS_MsxYGeT_paCPDqFObZLmrWSqcsBkjAOoowZVmA/s320/veneno.png" width="320" height="245" data-original-width="506" data-original-height="387" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/456-as-novelas-envenenam-as-famílias-veneno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/456-as-novelas-envenenam-as-famílias-veneno.png" width="320" height="245" data-original-width="506" data-original-height="387" /></a></div>
 </br>
 As novelas envenenam os valores que a família possui, atingindo a mente até dos cristãos. Certa vez, um amigo chamado Franz Victor, psicólogo já falecido, disse-me que as novelas fazem uma pregação sistemática de antivalores. Embora isso já faça bastante tempo, eu nunca esqueci essa frase. Meu amigo me disse uma grande verdade.</br>
 </br>

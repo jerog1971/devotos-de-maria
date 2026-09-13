@@ -1,10 +1,10 @@
 ---
 title: "Ou vai com tudo ou fica sem nada"
 date: 2023-05-26T20:04:00.004Z
-heroImage: "/images/vai com tudo ou fica sem nada.png"
+heroImage: "/images/posts/391-ou-vai-com-tudo-ou-fica-sem-nada-img-1490345313.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxOoo6W2SFJ-uLrs_SdIfbPIv506NY886HTWVO8ciFMeJe3PnHxe2kx9pT7P4Lp8QTKw5cvj1vPbhzKRIrsRGh2LHI0ybTrjfmlabd8AoAhBiBeX0qUGHAgLVo29J6dK-qX6ZHQODyGVFUgHPJ-3XxdIKRNfghPNU527SdT94h6oaHar6pkyjiYGxI/s547/vai%20com%20tudo%20ou%20fica%20sem%20nada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="547" height="246" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxOoo6W2SFJ-uLrs_SdIfbPIv506NY886HTWVO8ciFMeJe3PnHxe2kx9pT7P4Lp8QTKw5cvj1vPbhzKRIrsRGh2LHI0ybTrjfmlabd8AoAhBiBeX0qUGHAgLVo29J6dK-qX6ZHQODyGVFUgHPJ-3XxdIKRNfghPNU527SdT94h6oaHar6pkyjiYGxI/s320/vai%20com%20tudo%20ou%20fica%20sem%20nada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, afinal, não é assim que Jesus colocou os termos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/391-ou-vai-com-tudo-ou-fica-sem-nada-img-1490345313.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="547" height="246" src="/images/posts/391-ou-vai-com-tudo-ou-fica-sem-nada-img-1344972326.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, afinal, não é assim que Jesus colocou os termos
 de nossa salvação? Quando ele diz que o morno ele vomita, se refere a pessoa
 que está em cima do muro, que ainda não se decidiu. Todavia, a coisa pende mais
 ainda para o lado da rigidez do ressuscitado quando o assunto é a salvação de

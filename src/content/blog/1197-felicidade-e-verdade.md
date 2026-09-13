@@ -1,10 +1,10 @@
 ---
 title: "Felicidade e Verdade"
 date: 2016-09-20T13:10:00.001Z
-heroImage: "/images/felicidade.png"
+heroImage: "/images/posts/1197-felicidade-e-verdade-felicidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3IBa4HEqzWIDDJidUOhhtU6L3TsDm4bSFlmqoN8adAiGz0IRlfybB3DMGSV4-VZgq6fslgQfFk62yKem-0DzUpaKiL-sDF6G_ef7Iw3icBLY4jZKVB8ydKEOk0jxM_VE0qOQlN0XOuXs/s1600/felicidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3IBa4HEqzWIDDJidUOhhtU6L3TsDm4bSFlmqoN8adAiGz0IRlfybB3DMGSV4-VZgq6fslgQfFk62yKem-0DzUpaKiL-sDF6G_ef7Iw3icBLY4jZKVB8ydKEOk0jxM_VE0qOQlN0XOuXs/s320/felicidade.png" width="320" height="290" data-original-width="469" data-original-height="425" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1197-felicidade-e-verdade-felicidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1197-felicidade-e-verdade-felicidade.png" width="320" height="290" data-original-width="469" data-original-height="425" /></a></div>
 Longe de mim, longe do coração de teu servo, Senhor, que a ti se confessa, a ideia de encontrar a felicidade não importa em que alegria! A felicidade é uma alegria que não é concedida aos ímpios, mas àqueles que te servem por puro amor: tu és essa alegria! Alegrar-se de ti, em ti e por ti: isso é felicidade. E  não há outra. Os que imaginam outra felicidade, apegam-se a uma alegria que não é a verdadeira. Contudo, sempre há uma imagem da alegria da qual sua vontade 
 não se afasta.</br>
 </br>

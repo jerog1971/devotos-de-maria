@@ -1,10 +1,10 @@
 ---
 title: "Abominável aos Olhos de Deus"
 date: 2016-12-09T15:17:00Z
-heroImage: "/images/abominavel.png"
+heroImage: "/images/posts/2069-abominável-aos-olhos-de-deus-abominavel.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NsgEG7phe-CTDv4tnvs7OxbJrfwr4sN58q78-OPoGnazaMEI2nsLN76QZ6ITsH9b47a4iRnYzP1CEkm-0s47BCWwZDoHe7vy5LUwlxOGGHdoT1Ys5w3YSaiY7A011bcUhWnJzKKaZbk/s1600/abominavel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NsgEG7phe-CTDv4tnvs7OxbJrfwr4sN58q78-OPoGnazaMEI2nsLN76QZ6ITsH9b47a4iRnYzP1CEkm-0s47BCWwZDoHe7vy5LUwlxOGGHdoT1Ys5w3YSaiY7A011bcUhWnJzKKaZbk/s320/abominavel.png" width="317" height="320" data-original-width="220" data-original-height="222" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2069-abominável-aos-olhos-de-deus-abominavel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2069-abominável-aos-olhos-de-deus-abominavel.png" width="317" height="320" data-original-width="220" data-original-height="222" /></a></div>
 Não é de hoje que a conduta do “politicamente correto”, do comportamento que preciso ter para que os outros não falem mal de mim pois podem pensar o que? E ainda aquele comportamento ou maneira de agir esperado pela onda da maioria que proclama a inevitável evolução da humanidade, só que, detalhe, o que chamam de evolução caminha num sentindo muito oposto ao caminho das pedras que termina na porta do céu. Não é de hoje que isso tudo só aponta para um caminho que não é o da salvação (Apocalipse 21,8 – 1ª Coríntios 6,9-10 – Gálatas 5,19-21 – Romanos 1,28-32).</br>
 </br>
 A bíblia nos ensina que Deus não faz distinção e pessoas (Atos 10,34). Nos ensina que ele ama o pecador e odeia o pecado. Por isso, Deus que é amor e que nos amou primeiro (1ª João 4,19) não espera nossa conversão para nos amar. Ele está muito acima dos nossos pequenos e falhos sentimentos. Mas, em nossa não conversão e consequente inimizade voluntária com Deus, nos satisfazemos com o seu cuidado genérico, como o cuidado que Deus tem com uma espécie de animal irracional. Nos contentamos que ele nos deixe em paz com seus castigos e exigência para que vivamos um paraíso já aqui na terra sem ele, agitando a estrondosa e escandalosa bandeira da igualdade entre os homens.</br>

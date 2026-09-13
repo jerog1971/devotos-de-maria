@@ -1,10 +1,10 @@
 ---
 title: "Como você está convivendo com sua irritação?"
 date: 2019-07-03T15:32:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1537-como-você-está-convivendo-com-sua-irritação-irrita_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyP6nkl2l9GDOsi6jv_0QFwpSonpaszhoOCsYkWdDiW5ISRwGuoHayQe0xuIooWL1fhUREgmHiRFYmw-K0q8yVJeB8eJPeKI7Y8KoWW9iCfn7LVW3r-m9wed3cwXPh8OpJLgRqkWhBt7g/s1600/irrita%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyP6nkl2l9GDOsi6jv_0QFwpSonpaszhoOCsYkWdDiW5ISRwGuoHayQe0xuIooWL1fhUREgmHiRFYmw-K0q8yVJeB8eJPeKI7Y8KoWW9iCfn7LVW3r-m9wed3cwXPh8OpJLgRqkWhBt7g/s320/irrita%25C3%25A7%25C3%25A3o.png" width="320" height="289" data-original-width="311" data-original-height="281" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1537-como-você-está-convivendo-com-sua-irritação-irrita_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1537-como-você-está-convivendo-com-sua-irritação-irrita_25C3_25A7_25C3_25A3o.png" width="320" height="289" data-original-width="311" data-original-height="281" /></a></div>
 No início da própria conversão, as pessoas abandonam os pecados mais grosseiros (bebedeiras, orgias, roubos, etc), e a sua vida assume certa sobriedade e constância para as coisas do Céu. Elas já rezam com mais frequência, praticam algumas virtudes e, quando percebem suas faltas, não demoram para procurar o auxílio de um sacerdote. Apesar desse progresso, no entanto, essas almas ainda têm de enfrentar um obstáculo dificílimo para realmente progredirem na santidade: a irritação.</br>
 </br>
 Não é difícil encontrar pessoas que a qualquer sinal de contrariedade demonstram uma ira surpreendente. Basta que lhe façam uma única injustiça para que o mundo venha abaixo.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Bastaria seguir a lei maior"
 date: 2020-11-30T13:24:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/376-bastaria-seguir-a-lei-maior-lei_do_amor.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5rXqHEAZKY3q0RJt0ZN8xxz32VLMN2UrhwSS39mvWdHcmkTj64Li5PYeoMXl4fQ3DtlDe_rS-YIo67b0gjY30Itl5qGGmL8GSKMcqwsh39V3J4VQaD5muvWnde0U0Up-ynoW8n-ET3TE/s350/lei+do+amor.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="350" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5rXqHEAZKY3q0RJt0ZN8xxz32VLMN2UrhwSS39mvWdHcmkTj64Li5PYeoMXl4fQ3DtlDe_rS-YIo67b0gjY30Itl5qGGmL8GSKMcqwsh39V3J4VQaD5muvWnde0U0Up-ynoW8n-ET3TE/s320/lei+do+amor.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Atentando-se apenas ao âmbito religioso, especificamente ao
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/376-bastaria-seguir-a-lei-maior-lei_do_amor.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="350" src="/images/posts/376-bastaria-seguir-a-lei-maior-lei_do_amor.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Atentando-se apenas ao âmbito religioso, especificamente ao
 meio cristão, infelizmente a necessidade humana de prevalecer ao seu favor tudo
 que for possível, por meio de jogo de palavras e variadas interpretações –
 algumas ridículas – o ser humano incansavelmente faz adaptações e largos

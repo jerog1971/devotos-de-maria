@@ -1,10 +1,10 @@
 ---
 title: "Um Diamante por uns trocados"
 date: 2016-02-26T13:35:00Z
-heroImage: "/images/filomena.png"
+heroImage: "/images/posts/374-um-diamante-por-uns-trocados-filomena.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRIZla8qPEF3Xx5DpDyNvuIKFOPiRVfB19vXwS3vgd2h9-0dMIBY70UfXVJzr_6ey9idGjdxTppl-N2WeiZmfLw23ImVP1H4DR79w7tqr4mtkBPcKudGT8HJfejqLxm56bQAlDIB-U5JU/s1600/filomena.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRIZla8qPEF3Xx5DpDyNvuIKFOPiRVfB19vXwS3vgd2h9-0dMIBY70UfXVJzr_6ey9idGjdxTppl-N2WeiZmfLw23ImVP1H4DR79w7tqr4mtkBPcKudGT8HJfejqLxm56bQAlDIB-U5JU/s320/filomena.png" width="211" height="320" data-original-width="310" data-original-height="470" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/374-um-diamante-por-uns-trocados-filomena.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/374-um-diamante-por-uns-trocados-filomena.png" width="211" height="320" data-original-width="310" data-original-height="470" /></a></div>
 Caros leitores,</br>
 </br>
 Eles vendem verdadeiros diamantes por uns trocados...</br>

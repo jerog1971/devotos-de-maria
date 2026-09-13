@@ -1,10 +1,10 @@
 ---
 title: "Os detalhes do adultério"
 date: 2019-11-18T16:11:00.004Z
-heroImage: "/images/minimizar.png"
+heroImage: "/images/posts/2035-os-detalhes-do-adultério-minimizar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3tghLe1nAHyH60H2r7PT4bdn-aPF-OvZQqWWyDUmEDiAh1Q-mf4PL37VLgfFl-XVaSnvLFCB_y0owGH8uhDBCqQrNqRXrc0CARWsvtMvPDgqkUiGnY6F4CsFB9nZ4ZQ73tSLnZXwysX0/s1600/minimizar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="615" height="169" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3tghLe1nAHyH60H2r7PT4bdn-aPF-OvZQqWWyDUmEDiAh1Q-mf4PL37VLgfFl-XVaSnvLFCB_y0owGH8uhDBCqQrNqRXrc0CARWsvtMvPDgqkUiGnY6F4CsFB9nZ4ZQ73tSLnZXwysX0/s320/minimizar.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2035-os-detalhes-do-adultério-minimizar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="615" height="169" src="/images/posts/2035-os-detalhes-do-adultério-minimizar.png" width="320" /></a></div>
 Muitas pessoas tratam os pecados com muita simplicidade e relatividade, diminuem sua importância espiritual, sua gravidade e suas consequências. Agindo assim (como quer o diabo), promovem uma grande destruição em suas vidas e na vida de muitas pessoas. Normalmente o centro do pecado é aquele ponto em que a pedra atirada no lago bate na água; suas consequências são as ondas que são originadas (como um “mini tsunami”) atingindo o que quer que for. Assim acontece com todas as formas de pecado. Se nos exames de consciência fosse dado atenção a tudo isso, certamente ele seria evitado. Vamos dar uma pequena olhada, como exercício, no pecado contra o sexto mandamento da lei de Deus, o pecado contra a castidade: “não cometerás adultério”.<div><br /></div><div>São oito consequências que derivam desse pecado:
 
 <b>Primeiro:</b> o pecado atinge o próprio adúltero, responsável por seus atos e culpado diante de Deus;

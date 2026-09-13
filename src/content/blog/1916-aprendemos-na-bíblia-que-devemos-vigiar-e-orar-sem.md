@@ -1,10 +1,10 @@
 ---
 title: "Aprendemos na bíblia que devemos vigiar e orar sem cessar"
 date: 2020-07-24T15:49:00.002Z
-heroImage: "/images/anti.png"
+heroImage: "/images/posts/1916-aprendemos-na-bíblia-que-devemos-vi-img-1275807110.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLO-BTMFpUHO5Ti7M_2O0g-Ue1bfkUxVMUmmz23x6ekeyZZ7mAtIoDeUpYN-p1RER-Dz6IgnaenNhDqGJcuDxsFluQCK5yixhO55iWKzjzuV3qNNMEYB56q8Owte3XSHA0rE1pEGpFVGo/s1560/Igreja_antiga_bairro_do_port%25C3%25A3o.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="1560" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLO-BTMFpUHO5Ti7M_2O0g-Ue1bfkUxVMUmmz23x6ekeyZZ7mAtIoDeUpYN-p1RER-Dz6IgnaenNhDqGJcuDxsFluQCK5yixhO55iWKzjzuV3qNNMEYB56q8Owte3XSHA0rE1pEGpFVGo/s320/Igreja_antiga_bairro_do_port%25C3%25A3o.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não só em tempos de necessidades, ou como o tempo em que
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1916-aprendemos-na-bíblia-que-devemos-vi-img-1275807110.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="1560" src="/images/posts/1916-aprendemos-na-bíblia-que-devemos-vi-img-1300788759.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não só em tempos de necessidades, ou como o tempo em que
 estamos passando. Todavia, sabe-se que a oração tem maior valor na tribulação,
 pois isso move a pessoa a retirar forças das entranhas da alma e do coração entoando
 em tom de verdadeira e sincera súplica seus pedidos a Deus.</p>
@@ -27,7 +27,7 @@ ingênuos, de fato os sofrimentos são ruins mesmo, mas o Cristo nos ensinou que
 são necessários. Esse é um passo bem difícil de se dar na fé: passar nessa vida
 pelas dores de parto para sair do outro lado cobertos pela glória celeste. O
 que devemos é pedir forças para suportarmos o que Deus nos envia e nos
-mantermos na paz do Senhor.</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWpJYwmS-py1bQh5ripQiD2rHvCyw_xgdwYTBzInN2iaYmwdv8RfvPJ4q3kUOiFqFiZG50RiPa5OjM8aDuGBJLX3CrdrxdHFZWKB31v5cDrUJCeGaL0XW8l_uK5V7ODjCehOpOIO1iQpY/s1224/rezando+em+tempo+de+pandemia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="918" data-original-width="1224" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWpJYwmS-py1bQh5ripQiD2rHvCyw_xgdwYTBzInN2iaYmwdv8RfvPJ4q3kUOiFqFiZG50RiPa5OjM8aDuGBJLX3CrdrxdHFZWKB31v5cDrUJCeGaL0XW8l_uK5V7ODjCehOpOIO1iQpY/s320/rezando+em+tempo+de+pandemia.jpg" width="320" /></a></div><p class="MsoNormal"><br /></p>
+mantermos na paz do Senhor.</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1916-aprendemos-na-bíblia-que-devemos-vi-rezando_em_tempo_de_pandemia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="918" data-original-width="1224" src="/images/posts/1916-aprendemos-na-bíblia-que-devemos-vi-rezando_em_tempo_de_pandemia.jpg" width="320" /></a></div><p class="MsoNormal"><br /></p>
 
 <p class="MsoNormal">Romanos 12,12 – “Sede alegres na esperança, pacientes na
 tribulação e perseverantes na oração”.</p>

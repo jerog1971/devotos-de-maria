@@ -1,10 +1,10 @@
 ---
 title: "Relacionamentos Difíceis"
 date: 2016-10-14T12:12:00Z
-heroImage: "/images/brigas.png"
+heroImage: "/images/posts/1892-relacionamentos-difíceis-brigas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oo5kmsStxfX7sgOy7t2pL8hJ_0WoFkO7vfHFpTL3Rpwzzc4JV1RZQ-n7KOw4oLHZbbOnUr_v7zq0p-s3_rOdMx7FiO4w0bH4GlQ2tsl9vsWDbNxD3iU22BKpXGJJjeJ9YO23esLKK7o/s1600/brigas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oo5kmsStxfX7sgOy7t2pL8hJ_0WoFkO7vfHFpTL3Rpwzzc4JV1RZQ-n7KOw4oLHZbbOnUr_v7zq0p-s3_rOdMx7FiO4w0bH4GlQ2tsl9vsWDbNxD3iU22BKpXGJJjeJ9YO23esLKK7o/s320/brigas.png" width="320" height="195" data-original-width="666" data-original-height="405" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1892-relacionamentos-difíceis-brigas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1892-relacionamentos-difíceis-brigas.png" width="320" height="195" data-original-width="666" data-original-height="405" /></a></div>
 1ª Pedro 3,7-12 – “ó maridos, comportai-vos sabiamente no vosso convívio com as vossas mulheres, pois são de um sexo mais fraco. Porquanto elas são herdeiras, com o mesmo direito que vós outros, da graça que dá a vida. Tratai-as com todo respeito para que nada se oponha às vossas orações. Finalmente, tende todos um só coração e uma só alma, sentimentos de amor fraterno, de misericórdia, de humildade. Não pagueis mal com mal, nem injúria com injúria. Ao contrário, abençoai, pois para isto fostes chamados, para que sejais herdeiros da bênção. Com efeito, quem quiser amar a vida e ver dias felizes, refreie sua língua do mal e seus lábios de palavras enganadoras; aparte-se do mal e faça o bem, busque a paz e siga-a. Porque os olhos do Senhor estão sobre os justos e seus ouvidos, atentos a seus rogos; mas a força do Senhor está contra os que fazem o mal.”</br>
 </br>
 Olá caros leitores, é sempre um bom pano de fundo, as relações interpessoais que o sacramento do matrimônio apresenta às pessoas que buscam a santificação por esta via. Digo desta maneira, porque segundo nos recorda o catecismo da igreja católica ou se anda pela via da castidade ou pela via da virgindade. Outra forma de corresponder ao amor a Deus não há.</br>

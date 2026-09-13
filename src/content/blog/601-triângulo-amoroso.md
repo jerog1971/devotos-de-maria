@@ -1,10 +1,10 @@
 ---
 title: "Triângulo amoroso"
 date: 2021-10-22T16:14:00.005Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/601-triângulo-amoroso-tri_25C3_25A2ngulo_amoroso.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguos2m6W4FQa_DNk656CVFWGv2LunWxO6Z6VxaZnrKlrxMqiZLbVxVLLjHZv0HDMbSIkoKjMKrxbPBpt7r5lIBofZIFWBsBZF6gZKUaEkKEf___dlgWvBtGLo6kwl59bfCmCzIbQcyPg8/s477/tri%25C3%25A2ngulo+amoroso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="462" data-original-width="477" height="310" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguos2m6W4FQa_DNk656CVFWGv2LunWxO6Z6VxaZnrKlrxMqiZLbVxVLLjHZv0HDMbSIkoKjMKrxbPBpt7r5lIBofZIFWBsBZF6gZKUaEkKEf___dlgWvBtGLo6kwl59bfCmCzIbQcyPg8/s320/tri%25C3%25A2ngulo+amoroso.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos nas sagradas escrituras que certos tipos de triângulo
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/601-triângulo-amoroso-tri_25C3_25A2ngulo_amoroso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="462" data-original-width="477" height="310" src="/images/posts/601-triângulo-amoroso-tri_25C3_25A2ngulo_amoroso.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos nas sagradas escrituras que certos tipos de triângulo
 amoroso são abominados por Deus. Antes, porém, de partirmos para esta reflexão,
 poderíamos nos perguntar: então, quais são ou qual é o triângulo amoroso que é
 permitido? Se é que existe ou existem? Pois bem, podemos apontar alguns sabidamente

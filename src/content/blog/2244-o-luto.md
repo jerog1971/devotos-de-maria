@@ -1,10 +1,10 @@
 ---
 title: "O luto"
 date: 2016-07-15T19:00:00.002Z
-heroImage: "/images/luto.png"
+heroImage: "/images/posts/2244-o-luto-luto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin-O49lWjzweDXmis3uQzsHjvAICISyKaVsysZkqenCt74zVQEj6zDKbryrZXS3Rr17aYU5SAv6QoNRL0eWz2tcJ_8udSNyDAThfUGhbrArJkmiejhO2mIE5F9ARMrbbVCvq0RVdnnt8g/s1600/luto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin-O49lWjzweDXmis3uQzsHjvAICISyKaVsysZkqenCt74zVQEj6zDKbryrZXS3Rr17aYU5SAv6QoNRL0eWz2tcJ_8udSNyDAThfUGhbrArJkmiejhO2mIE5F9ARMrbbVCvq0RVdnnt8g/s320/luto.png" width="320" height="296" data-original-width="534" data-original-height="494" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2244-o-luto-luto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2244-o-luto-luto.png" width="320" height="296" data-original-width="534" data-original-height="494" /></a></div>
 </br>
 Um dos temas pouco discutidos entre os círculos de pessoas sem dúvida é a morte. Ela é sim acompanhada de perto e ao mesmo tempo de longe. De perto pois estamos sempre vendo e ouvindo nos noticiários a morte de alguém, mas este cotidiano passa pelas nossas vidas sem passar.</br>
 </br>

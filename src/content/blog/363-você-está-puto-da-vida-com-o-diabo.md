@@ -1,10 +1,10 @@
 ---
 title: "Você está puto da vida com o diabo?"
 date: 2019-06-24T19:01:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/363-você-está-puto-da-vida-com-o-diabo-lev_25C3_25ADtico_20_252C13.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj91GM1PcVexTXz70TH_pck9VptAW3LgdAqFwK55cJkwo12foiFK9f_eG9GxTea1WA9a8kfwhcRS_aZeBfZmjkmgjyMPWU9EK93EhbJDz-zlwfZcVMFw6YvFm_BxbrQyriYXZCgpvui9aw/s1600/lev%25C3%25ADtico_20%252C13.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="322" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj91GM1PcVexTXz70TH_pck9VptAW3LgdAqFwK55cJkwo12foiFK9f_eG9GxTea1WA9a8kfwhcRS_aZeBfZmjkmgjyMPWU9EK93EhbJDz-zlwfZcVMFw6YvFm_BxbrQyriYXZCgpvui9aw/s320/lev%25C3%25ADtico_20%252C13.png" width="316" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/363-você-está-puto-da-vida-com-o-diabo-lev_25C3_25ADtico_20_252C13.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="322" height="320" src="/images/posts/363-você-está-puto-da-vida-com-o-diabo-lev_25C3_25ADtico_20_252C13.png" width="316" /></a></div>
 Se não está e se intitula um cristão, você deveria estar. Ele se rebelou contra Deus e seu projeto para a humanidade, quis ser “outro deus”, convenceu a muitos (e ainda convence) e dissemina por todo o planeta suas mentiras endossando ano após ano que tudo isso faz parte da natural evolução da humanidade. Sobre a lápide do preconceito, que o mundo insiste em manter a sete palmos faz de tudo para que os valores divinos se mantenham abaixo da linha vermelha.
 
 Levítico 20,13 – “Se um homem dormir com outro homem, como se fosse mulher, ambos cometerão uma coisa abominável. Serão punidos de morte e levarão a sua culpa”. Como vemos, Deus nem precisa de muitas palavras e muitas linhas para nos dizer que agir conforme a natureza criada e pensada por ele simplesmente, além de proibido, trará como resultado a condenação ao fogo do inferno, a segunda morte, a morte da alma. E ele ainda é bem claro, “levarão a sua culpa” – não será por culpa de alguém. A culpa é do sujeito mesmo, porque sabia que não podia e não devia e escolheu fazer.

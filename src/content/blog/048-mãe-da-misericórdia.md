@@ -1,10 +1,10 @@
 ---
 title: "Mãe da Misericórdia"
 date: 2020-06-21T15:43:00.002Z
-heroImage: "/images/nos.JPG"
+heroImage: "/images/posts/048-mãe-da-misericórdia-Nossa_Senhora.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtkF_LytpNO4OKysbE62g1j0g4CcLeAFlxwEQ2_cpH73GG7fOL_JSf5cPnev8usMJ_35wzfovSsn6S33G0REqtL9KFFoQV8YWTjXp3XOYx8ay1WjbsvclKSkEL4nsWrZchDP_TsoYW7yY/s427/Nossa+Senhora.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="427" data-original-width="290" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtkF_LytpNO4OKysbE62g1j0g4CcLeAFlxwEQ2_cpH73GG7fOL_JSf5cPnev8usMJ_35wzfovSsn6S33G0REqtL9KFFoQV8YWTjXp3XOYx8ay1WjbsvclKSkEL4nsWrZchDP_TsoYW7yY/s320/Nossa+Senhora.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal"></p><p class="MsoNormal">Tem sido a Santíssima Virgem elevada à dignidade de Mãe de
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/048-mãe-da-misericórdia-Nossa_Senhora.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="427" data-original-width="290" height="320" src="/images/posts/048-mãe-da-misericórdia-Nossa_Senhora.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal"></p><p class="MsoNormal">Tem sido a Santíssima Virgem elevada à dignidade de Mãe de
 Deus, com justa razão a Santa Igreja a honra, e quer que de todos seja honrada
 com título glorioso de rainha. Se o filho é rei, diz Pseudo-Atanásio,
 justamente a mãe deve considerar-se e chamar-se rainha. Desde o momento em que

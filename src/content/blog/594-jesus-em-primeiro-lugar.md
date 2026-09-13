@@ -1,10 +1,10 @@
 ---
 title: "Jesus em primeiro lugar"
 date: 2020-05-20T20:18:00Z
-heroImage: "/images/tchau_Jesus.png"
+heroImage: "/images/posts/594-jesus-em-primeiro-lugar-img-1647160291.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ86suIIYVpvOe2cDnUh1H9YhKeosROa493DN4I-02IHBj_38vdZoJHZhn65HL7RE8asiHr_htCeB2Qclteg1UmzWSM3vPB7AtznSu4brpd6-puXX_Y12SDtNEeRWUyvTyFIqxpCb2wYQ/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="677" data-original-width="906" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ86suIIYVpvOe2cDnUh1H9YhKeosROa493DN4I-02IHBj_38vdZoJHZhn65HL7RE8asiHr_htCeB2Qclteg1UmzWSM3vPB7AtznSu4brpd6-puXX_Y12SDtNEeRWUyvTyFIqxpCb2wYQ/s320/tchau_Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Atos 5,29 – “Pedro e os apóstolos replicaram: Importa
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/594-jesus-em-primeiro-lugar-img-1647160291.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="677" data-original-width="906" src="/images/posts/594-jesus-em-primeiro-lugar-img-1647160291.jpgs320/tchau_Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Atos 5,29 – “Pedro e os apóstolos replicaram: Importa
 obedecer antes a Deus do que aos homens.”</p>
 
 <p class="MsoNormal">Gálatas 1,10 – “É, porventura, o favor dos homens que eu

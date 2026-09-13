@@ -1,10 +1,10 @@
 ---
 title: "Quem não vive os prazeres da vida, está vivendo errado!"
 date: 2019-07-01T20:21:00.002Z
-heroImage: "/images/prazeres.png"
+heroImage: "/images/posts/1263-quem-não-vive-os-prazeres-da-vida-está-vivendo-err-prazeres_da_vida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QAE1Hes8jc36pmFMaZ7nDJQwJ3ZkF0q3PySSj2qXMQz3sK3kxIqbFOu_4Zz1JwMRKlHVu5LAKB4cMB9vO7pCrZCf4U37PV-tD4fjiClUsrUEYM5wIm1Yf9NQrBDAT2rwZp3djVE3qyo/s1600/prazeres+da+vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QAE1Hes8jc36pmFMaZ7nDJQwJ3ZkF0q3PySSj2qXMQz3sK3kxIqbFOu_4Zz1JwMRKlHVu5LAKB4cMB9vO7pCrZCf4U37PV-tD4fjiClUsrUEYM5wIm1Yf9NQrBDAT2rwZp3djVE3qyo/s320/prazeres+da+vida.png" width="320" height="310" data-original-width="511" data-original-height="495" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1263-quem-não-vive-os-prazeres-da-vida-está-vivendo-err-prazeres_da_vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1263-quem-não-vive-os-prazeres-da-vida-está-vivendo-err-prazeres_da_vida.png" width="320" height="310" data-original-width="511" data-original-height="495" /></a></div>
 Essa afirmação foi proclamada em um programa num canal de tv por assinatura por uma pessoa que se diz psicóloga. A alegação em geral dos psicólogos é que a depressão pode ser evitada e combatida se uma pessoa não se abstêm daquilo que lhe agrade, que lhe dê prazeres, alegrias e felicidades. Pois bem, no entanto, é inevitável a pergunta: o que é viver errado?</br>
 </br>
 Aparentemente se os valores da vida forem relativizados ou colocados sob a tutela de gostos pessoais, o viver errado para um, não será necessariamente viver errado para outro. A vida está repleta de “manual de instruções” dizendo o que é certo e o que é errado. Isso tudo complica e muito a vida de todos. Muitos procuram ver o lado bom do que prega uma doutrina de valores e acata aquela conduta para si; olha para outro código de ética e adota outros valores que julga positivos e benéficos para si e vai, de galho em galho, colhendo os diversos frutos que lhe apetecem e no final dessa macaquice toda termina por viver uma doutrina de salada de frutas.</br>

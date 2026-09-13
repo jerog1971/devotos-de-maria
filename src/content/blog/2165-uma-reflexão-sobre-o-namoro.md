@@ -1,10 +1,10 @@
 ---
 title: "Uma reflexão sobre o namoro"
 date: 2019-06-12T22:34:00Z
-heroImage: "/images/namorados.png"
+heroImage: "/images/posts/2165-uma-reflexão-sobre-o-namoro-namorados.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQLmyL4Ne-qZe3eukG31h_-vqHhVjdC2Bm9WONP7lsxIgKzYzbR2mM67_-P_ksX9Ne-NheC8EW_APbIc89cwuaGuHO5154RG88j9N1UIeoxNEq-emaaGzdzvLriwmVpb6oD2ov0KbdPCw/s1600/namorados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQLmyL4Ne-qZe3eukG31h_-vqHhVjdC2Bm9WONP7lsxIgKzYzbR2mM67_-P_ksX9Ne-NheC8EW_APbIc89cwuaGuHO5154RG88j9N1UIeoxNEq-emaaGzdzvLriwmVpb6oD2ov0KbdPCw/s320/namorados.png" width="286" height="320" data-original-width="177" data-original-height="198" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2165-uma-reflexão-sobre-o-namoro-namorados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2165-uma-reflexão-sobre-o-namoro-namorados.png" width="286" height="320" data-original-width="177" data-original-height="198" /></a></div>
 Caros leitores, segue um trecho transcrito e adaptado a respeito desse tema elaborado pelo sacerdote Reginaldo Manzotti:</br>
 </br>
 “Se há algum tempo buscássemos o significado da palavra “namoro”, encontraríamos como definição o período que antecede o estabelecimento de um vínculo definitivo, no qual duas pessoas aproveitavam para se conhecer nos campos afetivo, social e também espiritual. Esse período levava a um amadurecimento da relação e à decisão de avançar cada vez mais, passando pelo noivado até chegar ao casamento.</br>

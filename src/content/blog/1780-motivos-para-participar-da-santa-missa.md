@@ -1,10 +1,10 @@
 ---
 title: "Motivos para participar da Santa Missa"
 date: 2015-10-20T10:34:00Z
-heroImage: "/images/crianças_na_missa.png"
+heroImage: "/images/posts/1780-motivos-para-participar-da-santa-mi-missa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhMOoKKbpB_54zrgtbXddkyiH6fmMY6tLl_S4zJDPyPbQADICSrvLBWRHEGNTXooMGmO_DiaElq-LR8P5fbsXugDuz-YnerFNpXIdyhHxfj9aydBoZ6PlmN5yJXHH-dzv7V54gkoiJtU/s1600/missa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhMOoKKbpB_54zrgtbXddkyiH6fmMY6tLl_S4zJDPyPbQADICSrvLBWRHEGNTXooMGmO_DiaElq-LR8P5fbsXugDuz-YnerFNpXIdyhHxfj9aydBoZ6PlmN5yJXHH-dzv7V54gkoiJtU/s320/missa.png" width="320" height="213" data-original-width="781" data-original-height="519" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1780-motivos-para-participar-da-santa-mi-missa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1780-motivos-para-participar-da-santa-mi-missa.png" width="320" height="213" data-original-width="781" data-original-height="519" /></a></div>
 </br>
 Por São Leonardo de Porto Maurício</br>
 </br>

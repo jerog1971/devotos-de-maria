@@ -1,10 +1,10 @@
 ---
 title: "A importância dos pais na catequese dos filhos"
 date: 2016-08-18T17:33:00.001Z
-heroImage: "/images/importancia.png"
+heroImage: "/images/posts/1137-a-importância-dos-pais-na-catequese-dos-filhos-importancia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ivYZ_SpVzA5dehkCbxPb_61HanYbl-uRHUx-5fKDFcudAeekr9-047pQ17invllaZrhWxJdrEj10p7BO6vIaDDMFZFi3jRMftPFUrXrmQ8KrAFIQkWs3N6DMHOvxuSgKa2DC-HJl3zY/s1600/importancia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="387" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ivYZ_SpVzA5dehkCbxPb_61HanYbl-uRHUx-5fKDFcudAeekr9-047pQ17invllaZrhWxJdrEj10p7BO6vIaDDMFZFi3jRMftPFUrXrmQ8KrAFIQkWs3N6DMHOvxuSgKa2DC-HJl3zY/s320/importancia.png" width="244" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1137-a-importância-dos-pais-na-catequese-dos-filhos-importancia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="387" height="320" src="/images/posts/1137-a-importância-dos-pais-na-catequese-dos-filhos-importancia.png" width="244" /></a></div>
 Catequese significa “fazer ecoar a palavra de Deus”. Sendo assim, a catequese dos filhos é algo que precisa ser levado em primeiro lugar pelos pais (Mateus 6,33). Infelizmente, a falta de conhecimento, empenho, dedicação e amor pela causa, que é tão importante na vida dos filhos, acaba fazendo com que pais e responsáveis terceirizem a parte que lhes cabem.
 
 Nem sempre foi assim. Em gerações passadas o ensino religioso vinha numa constante e forte tradição de pai para filho. Tradição esta que é comprovada biblicamente (2ª Tessalonicenses 3,6). Sempre, o que se recebeu passou-se adiante. E também esta tradição foi um mandato divino concedido por Deus Pai: Deuteronômio 6,6-7: “Os mandamentos que hoje te dou serão gravados no teu coração. Tu os inculcarás a teus filhos, e deles falarás, seja sentado em tua casa, seja andando pelo caminho, ao te deitares e ao te levantares.”

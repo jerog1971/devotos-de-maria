@@ -1,10 +1,10 @@
 ---
 title: "Pega leve"
 date: 2018-11-23T15:12:00.001Z
-heroImage: "/images/pega_leve.png"
+heroImage: "/images/posts/1973-pega-leve-pega_leve.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyF6HGKXUTDFcSMUf4xJAt2fJ8HA53PGmKYWF7nyb9A3_Nn7KIu2fOLopRfwXyL6LOdvqJYIpdhYo632vo-2iCJOHA6-2qRsWUJ9G2xkoChguNwnWl4C8JLdYkNmwOQiahqasYjfLQ5Q/s1600/pega_leve.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyF6HGKXUTDFcSMUf4xJAt2fJ8HA53PGmKYWF7nyb9A3_Nn7KIu2fOLopRfwXyL6LOdvqJYIpdhYo632vo-2iCJOHA6-2qRsWUJ9G2xkoChguNwnWl4C8JLdYkNmwOQiahqasYjfLQ5Q/s320/pega_leve.png" width="320" height="318" data-original-width="345" data-original-height="343" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1973-pega-leve-pega_leve.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1973-pega-leve-pega_leve.png" width="320" height="318" data-original-width="345" data-original-height="343" /></a></div>
 Com trinta e três anos de catequese já percorridos, uma coisa posso atestar com propriedade: quanto mais o tempo passa mais o diabo faz seu esforço para “transformar” o mundo num liquidificador. E basta um olhar mais atento e apurado para se concluir que ele tem obtido êxito. A radicalidade pedida por Jesus nos evangelhos sempre foi duramente combatida, já nos tempos em que ele se sujeitou a caminhar entre nós; a violência praticada contra aquilo que Deus quer de nós e aquilo que nós queremos (dele para nós e de nós) movimentou a humanidade em muitas direções, todas, adaptadas.</br>
 </br>
 Seguir uma religião, defendendo-a com unhas e dentes, está sendo cada vez mais uma tarefa de proporções titânicas. Basta experimentar sairmos em defesa da fé, aquela fé descrita no capítulo onze da carta aos Hebreus que pronto, feita a discussão. Porém, se ainda fosse uma discussão entre rivais que pregam “verdades” diferentes (suas verdades), ainda poderíamos dar um desconto. O problema é que tantas vezes, as discussões acontecem dentro da farinha que está no mesmo saco. Onde já se viu?</br>

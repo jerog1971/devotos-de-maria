@@ -1,10 +1,10 @@
 ---
 title: "O terror"
 date: 2024-12-12T18:57:00.002Z
-heroImage: "/images/termina o terror.png"
+heroImage: "/images/posts/1231-o-terror-terror.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDUQi-rxHB9etQKF9sCoqd12BR858jBy5kJoPp9vBLgJ59XhxQryVNICulhwJOL-_epmIi-Kto-peSYw0L0MpjgCsNu0zfg4fMJcEnW1COX8iOMaSQY-pNU9KOcAsk1kwDONZ1FzgNJKa-Z89-5h7zb5cyUplGOkSDSZ9xavIfNssSHYobB7OavWUyYOg/s705/terror.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="395" data-original-width="705" height="179" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDUQi-rxHB9etQKF9sCoqd12BR858jBy5kJoPp9vBLgJ59XhxQryVNICulhwJOL-_epmIi-Kto-peSYw0L0MpjgCsNu0zfg4fMJcEnW1COX8iOMaSQY-pNU9KOcAsk1kwDONZ1FzgNJKa-Z89-5h7zb5cyUplGOkSDSZ9xavIfNssSHYobB7OavWUyYOg/s320/terror.png" width="320" /></a></div><br />&nbsp;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1231-o-terror-terror.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="395" data-original-width="705" height="179" src="/images/posts/1231-o-terror-terror.png" width="320" /></a></div><br />&nbsp;
 
 <p></p><p class="MsoNormal">No cinema os filmes de terror e seus subgêneros se
 manifestam de várias formas; no entanto, sempre buscam aterrorizar e colocar medo

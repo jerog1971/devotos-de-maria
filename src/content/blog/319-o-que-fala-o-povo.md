@@ -1,10 +1,10 @@
 ---
 title: "O que fala o povo"
 date: 2018-11-27T18:31:00.001Z
-heroImage: "/images/casal.png"
+heroImage: "/images/posts/319-o-que-fala-o-povo-casal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYvw59DBbVkuSIUUzacdcVlN4PgK4JG_nQXpl72CfAaOmqdrEPJQ2eHDO-RIZPJoJVrL66wBQi0rZzus72wMoA_LwzHCFMqdYwJUNjr6cWjs4ocjuYQlaSJ_RbHt5PS2u__vXwzRwaMYg/s1600/casal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYvw59DBbVkuSIUUzacdcVlN4PgK4JG_nQXpl72CfAaOmqdrEPJQ2eHDO-RIZPJoJVrL66wBQi0rZzus72wMoA_LwzHCFMqdYwJUNjr6cWjs4ocjuYQlaSJ_RbHt5PS2u__vXwzRwaMYg/s320/casal.png" width="320" height="277" data-original-width="293" data-original-height="254" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/319-o-que-fala-o-povo-casal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/319-o-que-fala-o-povo-casal.png" width="320" height="277" data-original-width="293" data-original-height="254" /></a></div>
 Numa pequena varredura pelos sites que tratam de reflexões sobre relacionamentos é possível colher depoimentos das mais diversas naturezas. Existe o pessoal que defende que o que é certo é o que se faz de errado, existe o pessoal que defende que o que se faz errado nunca será o certo e existem aqueles que procuram ficar em cima do muro conforme seja melhor para a própria situação.</br>
 </br>
 O pano de fundo que vamos colocar aqui é a questão de duas pessoas que se acordaram em matrimônio lidarem com o cometimento da traição e adultério. Ressaltamos aqui que é uma transcrição colhida no site reginanavarro:</br>

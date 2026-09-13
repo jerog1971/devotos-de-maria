@@ -1,10 +1,10 @@
 ---
 title: "São Vito"
 date: 2020-06-15T23:19:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/246-são-vito-S_25C3_25A3o_Vito.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5XT_yKt5IAfSNyNR8jg8FbMMEqUU55D4MJZoh3QN65v_E9Zj6jfxIJadWVVNrU4ESQdOQeVorxXF5WLlUy7jz3y163U_c90EK0Fmnb1yS-ZzZ0nKmdoOcgy8cYozEdaiH3_RtBkVl1k8/s436/S%25C3%25A3o+Vito.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="354" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5XT_yKt5IAfSNyNR8jg8FbMMEqUU55D4MJZoh3QN65v_E9Zj6jfxIJadWVVNrU4ESQdOQeVorxXF5WLlUy7jz3y163U_c90EK0Fmnb1yS-ZzZ0nKmdoOcgy8cYozEdaiH3_RtBkVl1k8/s320/S%25C3%25A3o+Vito.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segundo consta nos anais, São Vito nasceu na Sicília e
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/246-são-vito-S_25C3_25A3o_Vito.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="354" height="320" src="/images/posts/246-são-vito-S_25C3_25A3o_Vito.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segundo consta nos anais, São Vito nasceu na Sicília e
 sofreu o martírio por volta do ano 300. A sua vida está em volta em lendas e
 fatos extraordinários. Conforme as atas do seu martírio, São Vito foi instruído
 secretamente na doutrina cristã por Modesto, seu preceptor.<span style="mso-spacerun: yes;">&nbsp; </span>Ao descobrir, Hilas, seu pai, tentou

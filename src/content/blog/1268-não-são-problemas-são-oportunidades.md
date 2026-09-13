@@ -1,10 +1,10 @@
 ---
 title: "Não são problemas, são oportunidades"
 date: 2017-11-29T17:34:00.002Z
-heroImage: "/images/ranzinza.png"
+heroImage: "/images/posts/1268-não-são-problemas-são-oportunidades-ranzinza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANM2a9L0eJuVo0dC5B-xlQMW24H4mCQHgbcsHY61Rv9kNX3lZR03gssmrjKdQqfhnzTzTb5KVZEMxWxf8yHMvJeQ0vFuizl1NOSdcR_L0EjVnuueewnwhvJDiXfL0oIPuRhYuwUQ2Rqc/s1600/ranzinza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANM2a9L0eJuVo0dC5B-xlQMW24H4mCQHgbcsHY61Rv9kNX3lZR03gssmrjKdQqfhnzTzTb5KVZEMxWxf8yHMvJeQ0vFuizl1NOSdcR_L0EjVnuueewnwhvJDiXfL0oIPuRhYuwUQ2Rqc/s320/ranzinza.png" width="320" height="319" data-original-width="344" data-original-height="343" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1268-não-são-problemas-são-oportunidades-ranzinza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1268-não-são-problemas-são-oportunidades-ranzinza.png" width="320" height="319" data-original-width="344" data-original-height="343" /></a></div>
 Convenhamos, se existe uma coisa que perturba a paciência de qualquer pessoa são os problemas. Nem precisamos correr atrás deles porque sempre, esgueirados em qualquer cantinho mais discreto, lá estão eles, à nossa espreita esperando para invadirem nosso belo caminhar. Eles não se cansam de nos atormentar, resolvemos um, já existe outro esperando na fila para se apresentar. Alguns são cotidianos, outros são crônicos, outros ainda, são sazonais. Seja como for, não adianta, aí estão eles, dos mais variados tamanhos a nos acompanharem por toda a vida.</br>
 </br>
 Quando estamos na escola, durante a matéria de matemática o professor passa no quadro um problema desta matéria para que resolvamos no caderno. Ele dá um tempo e depois resolve no quadro para todos verem a solução. Ah se a vida se resumisse apenas nesses tipos de problemas. Passa muito longe disso. Logo que tomamos consciência de nossa realidade aqui neste mundo, nos deparamos com um dos primeiros e importantes problemas a serem resolvidos. Temos que escolher se viveremos nossa eternidade junto de Deus ou sem ele. Até nem parece um problema tão difícil, muitos irão pensar, mas é aí que as coisas mudam de figura.</br>

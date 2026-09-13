@@ -1,10 +1,10 @@
 ---
 title: "As influências do mundo"
 date: 2020-08-10T20:04:00Z
-heroImage: "/images/influencias.png"
+heroImage: "/images/posts/1647-as-influências-do-mundo-influencias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMOhYX3ZUio9vvG1GTaF_0z-ApDpXzUeDS56JC-T4mVL_po9RVMH9Vy_hkQR-Ir352P9enAHHKpFr1WpqJOzKrUmkT4v7xMZrX1TQ1dj_bhI8qia0jN3f1VNbOgGJ8Yl6BCwJFxm2bXGY/s447/influencias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="447" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMOhYX3ZUio9vvG1GTaF_0z-ApDpXzUeDS56JC-T4mVL_po9RVMH9Vy_hkQR-Ir352P9enAHHKpFr1WpqJOzKrUmkT4v7xMZrX1TQ1dj_bhI8qia0jN3f1VNbOgGJ8Yl6BCwJFxm2bXGY/s0/influencias.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto mais a história da humanidade avança, mais de tudo e
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1647-as-influências-do-mundo-influencias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="447" src="/images/posts/1647-as-influências-do-mundo-influencias.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto mais a história da humanidade avança, mais de tudo e
 mais coisas ela possui à sua disposição. Esta chamada globalização e a
 disseminação internacional da informação e do ponto de vista de cada um. Nossa
 vida, que é composta de duas partes: primeira parte do nascimento até a morte e

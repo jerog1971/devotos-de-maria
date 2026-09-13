@@ -1,10 +1,10 @@
 ---
 title: "Tomai e comei, tomai e bebei"
 date: 2020-04-08T18:30:00.001Z
-heroImage: "/images/Agradecer a Jesus.png"
+heroImage: "/images/posts/2115-tomai-e-comei-tomai-e-bebei-jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s1600/jesus.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" height="291" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s320/jesus.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2115-tomai-e-comei-tomai-e-bebei-jesus.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" height="291" src="/images/posts/2115-tomai-e-comei-tomai-e-bebei-jesus.png" width="320" /></a></div>
 Lemos na bíblia que na última ceia Jesus pega o pão, eleva aos céus e dá graça, faz o mesmo com o vinho e distribui aos seus discípulos. Faz isso e diz que devíamos repetir para lembrarmos dele (fazei isto em memória de mim – Lucas 22,19). De tudo que ele nos trouxe, de tudo que ensinou. Nesse momento, ele dizia aos apóstolos que se recordassem do momento, de estarem todos juntos na última refeição, pois, simbolicamente descreveu que seu corpo (carne e sangue) seria entregue para a remissão dos pecados da humanidade.
 
 Ademais, sabemos também pela bíblia que jorrou “sangue e água” de seu peito quando o soldado romano fez a verificação de morte, confirmando suas palavras que seu sangue seria derramado por vós e seu corpo entregue por vós (Lucas 22,19-20). No evangelho de São João Jesus vai dizendo em seus ensinamentos que é muita coisa.

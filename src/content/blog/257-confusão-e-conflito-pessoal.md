@@ -1,10 +1,10 @@
 ---
 title: "Confusão e conflito pessoal"
 date: 2019-09-20T19:28:00.001Z
-heroImage: "/images/star-wars-rebels-darth-vader.jpg"
+heroImage: "/images/posts/257-confusão-e-conflito-pessoal-star-wars-rebels-darth-vader.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnwRocP2hj8ILgQXk1nxvRLIruSR_F50W1aSBXfGlvx4cN08GPvZPTXjruRFLu4N32munu1yRw1Z3rtT-Adqvvqi2aS_QMScBlB95SofLs3tNUn3DvemB8hMbD1JxjaeFAUenH7vCMU/s1600/star-wars-rebels-darth-vader.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnwRocP2hj8ILgQXk1nxvRLIruSR_F50W1aSBXfGlvx4cN08GPvZPTXjruRFLu4N32munu1yRw1Z3rtT-Adqvvqi2aS_QMScBlB95SofLs3tNUn3DvemB8hMbD1JxjaeFAUenH7vCMU/s320/star-wars-rebels-darth-vader.jpg" width="320" height="160" data-original-width="1000" data-original-height="500" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/257-confusão-e-conflito-pessoal-star-wars-rebels-darth-vader.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/257-confusão-e-conflito-pessoal-star-wars-rebels-darth-vader.jpg" width="320" height="160" data-original-width="1000" data-original-height="500" /></a></div>
 A condição dada por Deus a cada um nos permite espalhar os pensamentos para todos os lados. Não existe um “freio divino”, uma limitação imposta por nosso criador. Ele nos criou e nos explicou como são as coisas. São verdades duríssimas. Não conseguimos, isso sim, por critérios divinos, compreender tudo que gostaríamos. Se a bíblia narra a história da criação de um modo, onde entram os dinossauros e sua época nisso tudo? A evolução do homem primata até o homo sapiens onde se encaixa? Foram outros criadores? Foi Deus mesmo e existe lacunas que não sabemos? Pobre mente humana, não pode alcançar tudo.</br>
 </br>
 E para piorar as coisas a falta de muitíssimas informações e a falta de muitas procedências das informações que existem inundam mentes e pensamentos de todos colocando cada um a prova e promovendo uma potencial situação de desconcerto interior. Se mencionarmos a questão dos porquês então a coisa parece não ter fim. Atrás dos porquês terminamos esquecendo porque estamos agindo assim.</br>

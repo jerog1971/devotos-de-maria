@@ -1,10 +1,10 @@
 ---
 title: "Ouvidos atentos"
 date: 2022-05-29T13:51:00Z
-heroImage: "/images/ate.jpg"
+heroImage: "/images/posts/2130-ouvidos-atentos-ouvidos_20atentos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTy_ahCWdtI_lwkYku3TnZ7GVeecMayB0iNQhktS097qU8QC3F9vEt5KYQM5TASnD_HspAM0eHsZP3dguKPfIU8NYSxmCA41KW5T2BR5gWxQMV0s-FgqRRdO22fuAvyZL7UbKCl13qVyNCeOtJRbB6ZYASONZ3TzQV3opl1C-xfp9fbPuv63dOpjXD/s459/ouvidos%20atentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="451" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTy_ahCWdtI_lwkYku3TnZ7GVeecMayB0iNQhktS097qU8QC3F9vEt5KYQM5TASnD_HspAM0eHsZP3dguKPfIU8NYSxmCA41KW5T2BR5gWxQMV0s-FgqRRdO22fuAvyZL7UbKCl13qVyNCeOtJRbB6ZYASONZ3TzQV3opl1C-xfp9fbPuv63dOpjXD/s320/ouvidos%20atentos.png" width="314" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Os olhos do Senhor estão voltados para os justos, e seus
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2130-ouvidos-atentos-ouvidos_20atentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="451" height="320" src="/images/posts/2130-ouvidos-atentos-ouvidos_20atentos.png" width="314" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Os olhos do Senhor estão voltados para os justos, e seus
 ouvidos atentos aos seus clamores” – Salmo 33,16. “Senhor, ouvi minha oração.
 Que vossos ouvidos estejam atentos à voz de minha súplica. Se tiverdes em conta
 nossos pecados, Senhor, Senhor, quem poderá subsistir diante de vós? Mas em vós

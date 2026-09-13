@@ -1,10 +1,10 @@
 ---
 title: "O Sagrado x o microfone"
 date: 2020-06-15T18:57:00.001Z
-heroImage: "/images/homenagem.png"
+heroImage: "/images/posts/1266-o-sagrado-x-o-microfone-homenagem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxESZEvmC3FSutjHDQaQsdsPoSIj2xAgrW_iuaGbWtkBJPTTbWq1nK-K5oe4RbPAQmt016RyF5zkC5PE985LsrF_8ezZHVSPfWlIhcPQ38oGyCGvedkitXmwSn-i4vIcDVMzN-aS6tNhc/s678/homenagem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="678" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxESZEvmC3FSutjHDQaQsdsPoSIj2xAgrW_iuaGbWtkBJPTTbWq1nK-K5oe4RbPAQmt016RyF5zkC5PE985LsrF_8ezZHVSPfWlIhcPQ38oGyCGvedkitXmwSn-i4vIcDVMzN-aS6tNhc/s320/homenagem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">
+<div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1266-o-sagrado-x-o-microfone-homenagem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="678" src="/images/posts/1266-o-sagrado-x-o-microfone-homenagem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">
 
 <p>Segue na íntegra matéria transcrita nesse site por concordarmos
 com o conteúdo do artigo:</p>

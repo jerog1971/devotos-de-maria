@@ -1,10 +1,10 @@
 ---
 title: "Família só atrapalha"
 date: 2021-04-12T18:37:00.003Z
-heroImage: "/images/pai_e_filha.png"
+heroImage: "/images/posts/934-família-só-atrapalha-pai_e_filha.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirOC5V0WrQsL7g06XPQHGXscKyzV9TpcxjvRe0r5SE4boWWDWOPyyxVysQbyDaAA_q4qfzPN0mDdV11_p-3V-3cRABE7IE3wV8lHiU4y_F9mKgZxxs1gyGErVb5iKp6bHNdL_WrPp8GO4/s402/pai_e_filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="402" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirOC5V0WrQsL7g06XPQHGXscKyzV9TpcxjvRe0r5SE4boWWDWOPyyxVysQbyDaAA_q4qfzPN0mDdV11_p-3V-3cRABE7IE3wV8lHiU4y_F9mKgZxxs1gyGErVb5iKp6bHNdL_WrPp8GO4/s320/pai_e_filha.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem alguma coisa na vida de um sujeito que dá dor de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/934-família-só-atrapalha-pai_e_filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="402" src="/images/posts/934-família-só-atrapalha-pai_e_filha.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem alguma coisa na vida de um sujeito que dá dor de
 cabeça é sua família. Com certeza, ela dá despesa, prejuízo, tira sua privacidade,
 te corrige, te proíbe, te tira todo o sossego, seu tempo, seus hábitos de
 solteiro e vive exigindo de você muitas coisas. Só para início de conversa.<o:p></o:p></p><div class="separator" style="clear: both;">

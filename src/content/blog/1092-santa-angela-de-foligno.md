@@ -1,10 +1,10 @@
 ---
 title: "Santa Angela de Foligno"
 date: 2019-02-04T14:28:00Z
-heroImage: "/images/santa_angela_de_foligno.png"
+heroImage: "/images/posts/1092-santa-angela-de-foligno-santa_angela_de_foligno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDt67_ADY3Mss5TUDnKG6JHyWwGg8etsG0VQZvHoAbTRLKQwqC3ZgyZ67T_GG0XtBySn4PHJBCbv8Pkn94_j637cPj-R2CdmbZWSD0AtoidJQv4xv5ppC_HL7Xe22y-1fCUCO6zCTN1c/s1600/santa_angela_de_foligno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDt67_ADY3Mss5TUDnKG6JHyWwGg8etsG0VQZvHoAbTRLKQwqC3ZgyZ67T_GG0XtBySn4PHJBCbv8Pkn94_j637cPj-R2CdmbZWSD0AtoidJQv4xv5ppC_HL7Xe22y-1fCUCO6zCTN1c/s320/santa_angela_de_foligno.png" width="320" height="320" data-original-width="294" data-original-height="294" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1092-santa-angela-de-foligno-santa_angela_de_foligno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1092-santa-angela-de-foligno-santa_angela_de_foligno.png" width="320" height="320" data-original-width="294" data-original-height="294" /></a></div>
 </br>
 A história de Santa Ângela, considerada uma das primeiras místicas italianas, poderia ser o roteiro de um romance ou novela, com final feliz, é claro. Transformou-se de mulher fútil e despreocupada em mística e devota, depois literata, teóloga e, finalmente, santa. A data mais aceita para o nascimento de Ângela, em Foligno, perto de Assis e de Roma, é o ano 1248. Ela pertencia à uma família relativamente rica e bem situada socialmente. Ainda muito jovem casou-se com um nobre e passou a levar uma vida ainda mais confortável, voltada para as vaidades, festas e recreações mundanas. Assim viveu até os trinta e sete anos, quando uma tragédia avassaladora mudou sua vida.</br> 
 </br>
@@ -21,7 +21,7 @@ Em sua autobiografia ela nos conta:</br>
 </br>
 Na Santa Missa, ela muitas vezes via Jesus Cristo na Santa Hóstia. Morreu, em 04 de janeiro 1309, já sexagenária. Ângela, faleceu cercada por sua comunidade de discípulos. Seus restos mortais repousam incorruptos (seu cadáver nunca se deteriorou) na igreja de São Francisco, em Foligno. Muitos milagres atribuídos a ela, foram realizados em seu túmulo.</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUyCw6d0L-XkVibKTksoYKf8ew-_LuLhES9ovn0-Fzlf0wJX-DNnOy-PGjlmw8dKpG3NvhFyQzEkUwrB_hEnZcdO6E-PjceyQLpEZaGKOd_N9C5t_lE0Ach5rVZvsR9i8jOvok84WUIY8/s1600/angela2.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUyCw6d0L-XkVibKTksoYKf8ew-_LuLhES9ovn0-Fzlf0wJX-DNnOy-PGjlmw8dKpG3NvhFyQzEkUwrB_hEnZcdO6E-PjceyQLpEZaGKOd_N9C5t_lE0Ach5rVZvsR9i8jOvok84WUIY8/s320/angela2.png" width="320" height="227" data-original-width="297" data-original-height="211" /></a>
+<a href="/images/posts/1092-santa-angela-de-foligno-angela2.png" imageanchor="1" ><img border="0" src="/images/posts/1092-santa-angela-de-foligno-angela2.png" width="320" height="227" data-original-width="297" data-original-height="211" /></a>
 </br>
 <b>PARA REFLETIRMOS:</b></br>
 Alguns trechos das Palavras de Jesus a Santa Angela de Foligno</br>

@@ -1,10 +1,10 @@
 ---
 title: "Por que dos sofrimentos?"
 date: 2020-03-22T01:53:00.001Z
-heroImage: "/images/Deus_coronavirus.png"
+heroImage: "/images/posts/434-por-que-dos-sofrimentos-coronavirus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtbNNd1WaysQ1CJCStRrn9VVWcheUUyhiSuV8q9Ia6tHdoa1Ao-iF_lAjav5JoqnsqdzP2wX8R84blxNTTh1flif_aq_IxwAloeOxhcczxpGGrO42CsW7N3G2WITCwpKe-VJLqyFb3cA/s1600/coronavirus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtbNNd1WaysQ1CJCStRrn9VVWcheUUyhiSuV8q9Ia6tHdoa1Ao-iF_lAjav5JoqnsqdzP2wX8R84blxNTTh1flif_aq_IxwAloeOxhcczxpGGrO42CsW7N3G2WITCwpKe-VJLqyFb3cA/s320/coronavirus.png" width="320" height="249" data-original-width="357" data-original-height="278" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/434-por-que-dos-sofrimentos-coronavirus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/434-por-que-dos-sofrimentos-coronavirus.png" width="320" height="249" data-original-width="357" data-original-height="278" /></a></div>
 No evangelho de João ouvimos: Mestre quem pecou para que ele nascesse cego? Ele ou seus pais? Jesus responde que ninguém porque isso é para a manifestação da glória de Deus. Ademais, a mesma pergunta é o que nos inquieta hoje, vendo o mundo sendo flagelado por uma nova peste, e o mesmo mistério, para deste flagelo fazermos cicatrizes, é o que queremos desvelar até onde alcança a inteligência, seguindo para isso os ensinamentos de São Tomás de Aquino que escreve o seguinte:</br>
 </br>
 1.ª Às vezes, permite Deus que haja sofrimentos para manifestar a sua glória. É o que fez com o cego de nascença, que padeceu por anos dessa privação para que, uma vez curado, gerações inteiras dali para frente se curassem da cegueira da incredulidade. “Isso serve para que as obras de Deus” (isto é, os milagres físicos, signos dos mistérios da graça) “se manifestem nele”. Do sofrimento, portanto, pode Deus tomar ocasião para obrar milagrosamente, em favor tanto do que sofre quanto dos que hão de tirar proveito do milagre, crendo e convertendo-se.</br>

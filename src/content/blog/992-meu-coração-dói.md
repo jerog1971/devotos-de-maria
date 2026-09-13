@@ -1,10 +1,10 @@
 ---
 title: "Meu coração dói"
 date: 2020-06-02T21:20:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/992-meu-coração-dói-img-386978517.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Q7EV-QxKkfaefHsn7q3K5xJ0UDPNRYtQAUnbv5fxjXN-Ziu5ulBolvXJq7KqY4PhWL09xSqnf-EBIv8Sf_dMa_DAOVIGyZK0nm9n2cUxTeqKvV41yGvgY6qtIis9Le2QawlWcFTphck/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Q7EV-QxKkfaefHsn7q3K5xJ0UDPNRYtQAUnbv5fxjXN-Ziu5ulBolvXJq7KqY4PhWL09xSqnf-EBIv8Sf_dMa_DAOVIGyZK0nm9n2cUxTeqKvV41yGvgY6qtIis9Le2QawlWcFTphck/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Meu coração dói quando vejo a verdade dos evangelhos ser
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/992-meu-coração-dói-img-386978517.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="213" src="/images/posts/992-meu-coração-dói-img-386978517.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Meu coração dói quando vejo a verdade dos evangelhos ser
 corrompida,</p>
 
 <p class="MsoNormal">Ele dói quando ela é transformada, travestida.</p>

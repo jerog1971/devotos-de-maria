@@ -1,10 +1,10 @@
 ---
 title: "Auxílio e Prevenção"
 date: 2021-06-14T19:34:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1011-auxílio-e-prevenção-Aux_25C3_25ADlio_e_Preven_25C3_25A7_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpIyy0la8GgJ0gO2ScJMmVIDywOOuDknUb2G9wWaHca5QLYRyYcZabowkw_R71Xe7OndofcmJHPeAASUxN3z1i2WbdEbuRgGQ-nRRE6uBGlhyphenhyphenXm0IawDfwFVMvLZY1nSZGg_OML_66p1g/s950/Aux%25C3%25ADlio+e+Preven%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="851" data-original-width="950" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpIyy0la8GgJ0gO2ScJMmVIDywOOuDknUb2G9wWaHca5QLYRyYcZabowkw_R71Xe7OndofcmJHPeAASUxN3z1i2WbdEbuRgGQ-nRRE6uBGlhyphenhyphenXm0IawDfwFVMvLZY1nSZGg_OML_66p1g/s320/Aux%25C3%25ADlio+e+Preven%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Prevenir é melhor que remediar; todo mundo, arrisco dizer,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1011-auxílio-e-prevenção-Aux_25C3_25ADlio_e_Preven_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="851" data-original-width="950" src="/images/posts/1011-auxílio-e-prevenção-Aux_25C3_25ADlio_e_Preven_25C3_25A7_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Prevenir é melhor que remediar; todo mundo, arrisco dizer,
 já ouviu esse ditado popular. É melhor tomar atitudes que ajudem a evitar males
 maiores – física e espiritualmente falando – que agir desordenadamente e de
 forma desregrada colocando-se em perigo de contrair danos maiores para si.<o:p></o:p></p><div class="separator" style="clear: both;">

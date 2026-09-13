@@ -1,10 +1,10 @@
 ---
 title: "Eleitos ou Escolhidos?"
 date: 2018-08-03T20:35:00.001Z
-heroImage: "/images/escolhidos.jpg"
+heroImage: "/images/posts/1208-eleitos-ou-escolhidos-escolhidos.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEsZyTF48CFF9Chyo_tauSHZHbL6sfEbSpbKRbGCof3fW7LEaNHE-e1bLu4Eyt1E5YvWatmY8Zdrs_DYAhyphenhyphenGKjDlYRo8W9LmQDLh0e1smNkmSFyCXFdN_eXieAHwOtYwIGG4mvHu1T1H8/s1600/escolhidos.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="640" data-original-width="640" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEsZyTF48CFF9Chyo_tauSHZHbL6sfEbSpbKRbGCof3fW7LEaNHE-e1bLu4Eyt1E5YvWatmY8Zdrs_DYAhyphenhyphenGKjDlYRo8W9LmQDLh0e1smNkmSFyCXFdN_eXieAHwOtYwIGG4mvHu1T1H8/s320/escolhidos.jpg" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Mateus 20,16 – “Muitos serão os chamados, mas poucos os ESCOLHIDOS”.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1208-eleitos-ou-escolhidos-escolhidos.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="640" data-original-width="640" height="320" src="/images/posts/1208-eleitos-ou-escolhidos-escolhidos.jpg" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Mateus 20,16 – “Muitos serão os chamados, mas poucos os ESCOLHIDOS”.
 
 Mateus 24,22 e 31 – “Se aqueles dias não fossem abreviados, criatura alguma escaparia; mas por causa dos ESCOLHIDOS, aqueles dias serão abreviados. Ele enviará seus anjos com estridentes trombetas, e juntarão seus ESCOLHIDOS dos quatro ventos, duma extremidade do céu à outra”.
 

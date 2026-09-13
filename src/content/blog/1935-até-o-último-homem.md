@@ -1,10 +1,10 @@
 ---
 title: "Até o último homem"
 date: 2023-07-31T20:42:00.001Z
-heroImage: "/images/até o útimo homem.png"
+heroImage: "/images/posts/1935-até-o-último-homem-img-165704006.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwVwxfu78QaOYhosmE5M0r4NTzAaKj1V3r-jj9oyMzz-3d_L6d6-dYbe9Xn8Do1-y2SPAHSryQrtfxhMndvCc66F5Er8Rj4x4_CyIh1tWSu6RevrzONjw3gS0XB4EM3TcLfKHHB8NQnEE3HFNv6SC7GA9TU65rqa-Ik04ZhvGem6fI8e2dohcPfN8uf6Q/s993/at%C3%A9%20o%20%C3%BAtimo%20homem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="919" data-original-width="993" height="296" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwVwxfu78QaOYhosmE5M0r4NTzAaKj1V3r-jj9oyMzz-3d_L6d6-dYbe9Xn8Do1-y2SPAHSryQrtfxhMndvCc66F5Er8Rj4x4_CyIh1tWSu6RevrzONjw3gS0XB4EM3TcLfKHHB8NQnEE3HFNv6SC7GA9TU65rqa-Ik04ZhvGem6fI8e2dohcPfN8uf6Q/s320/at%C3%A9%20o%20%C3%BAtimo%20homem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Neste filme baseado em fatos reais acompanhamos a história
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1935-até-o-último-homem-img-165704006.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="919" data-original-width="993" height="296" src="/images/posts/1935-até-o-último-homem-img-309718824.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Neste filme baseado em fatos reais acompanhamos a história
 de um cristão - soldado médico – que pede pela ajuda de Deus para não deixar
 para trás nenhum soldado ferido em combate. Assim, fazendo uma comparação um
 tanto barata, nos servimos dessa veracidade para recordar que Jesus Cristo age

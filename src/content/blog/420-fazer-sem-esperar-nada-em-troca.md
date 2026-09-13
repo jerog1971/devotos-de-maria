@@ -1,10 +1,10 @@
 ---
 title: "Fazer sem esperar nada em troca"
 date: 2016-05-09T15:26:00Z
-heroImage: "/images/bolo.png"
+heroImage: "/images/posts/420-fazer-sem-esperar-nada-em-troca-bolo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE7-iAqvThtuksaGKXdB91y9B_1JFRsKL3O5WQuDD582sZ6t1S0Aest3VjPNJaKJ4lEkDox7BkGywxlfgSefdVHedncIyLoWB7kSL1CE9Gt36C-EHFABIGztoCNZN2oMumXKIvp_z2FBI/s1600/bolo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE7-iAqvThtuksaGKXdB91y9B_1JFRsKL3O5WQuDD582sZ6t1S0Aest3VjPNJaKJ4lEkDox7BkGywxlfgSefdVHedncIyLoWB7kSL1CE9Gt36C-EHFABIGztoCNZN2oMumXKIvp_z2FBI/s320/bolo.png" width="320" height="284" data-original-width="588" data-original-height="521" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/420-fazer-sem-esperar-nada-em-troca-bolo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/420-fazer-sem-esperar-nada-em-troca-bolo.png" width="320" height="284" data-original-width="588" data-original-height="521" /></a></div>
 Ainda nos tempos de hoje, existem corações bons em meio a tantos corações ruins. Existem aquelas pessoas que, de forma gratuita, expõem seus sentimentos e agradecimentos por iniciativa própria. Pessoas assim são desapegadas dos achismos. Infelizmente muitas não o são. Estão sempre preocupadas com o que os outros irão achar a seu respeito, o que irão pensar, o que irão falar.</br>
 </br>
 Não me visto como me sinto bem, me visto como manda a moda senão irão falar o que de mim? O que irão pensar de mim se eu disser isso, que acho que é certo? Melhor é ficar no silêncio do anonimato e fazer a política da boa vizinhança. Afinal preciso ficar bem com todo mundo porque um dia posso precisar de alguém. E dessa forma tudo fica girando na difundida tese de que primeiro importa agradar aos homens e depois agradar a Deus.</br>

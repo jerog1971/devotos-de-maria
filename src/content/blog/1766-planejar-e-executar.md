@@ -1,10 +1,10 @@
 ---
 title: "Planejar e Executar"
 date: 2017-05-04T18:50:00.001Z
-heroImage: "/images/urubici.JPG"
+heroImage: "/images/posts/1766-planejar-e-executar-urubici.JPG"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdJ4mxu4AUirvAoKd28Nnal49CbAVycloJiYyD754VCuM3ES6rBfS-ZIRthmaDw6tNycu9Npz79517eGYhSnB7aFRtjRLMmQLePR873FXzsLFtR8y0sBjJA2RYkk4T68mvkLE9XSsAnt0/s1600/urubici.JPG" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="637" data-original-width="425" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdJ4mxu4AUirvAoKd28Nnal49CbAVycloJiYyD754VCuM3ES6rBfS-ZIRthmaDw6tNycu9Npz79517eGYhSnB7aFRtjRLMmQLePR873FXzsLFtR8y0sBjJA2RYkk4T68mvkLE9XSsAnt0/s320/urubici.JPG" width="214" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1766-planejar-e-executar-urubici.JPG" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="637" data-original-width="425" height="320" src="/images/posts/1766-planejar-e-executar-urubici.JPG" width="214" /></a></div>
 A vida precisa ser preenchida por projetos. A expressão muito conhecida por muitos é aquela que diz que “tal coisa é meu projeto de vida” ou então fiz disso “meu projeto de vida”. Sem dúvida, mesmo que não saibamos quanto tempo de vida Deus nos concedeu, não devemos ficar inertes, de braços cruzados esperando a vida passar para depois, como num jogo de dardos, tentar acertar o alvo nos últimos segundos da partida e no último dardo. Aí meu irmãozinho, como se diz na gíria, já era.
 
 Grandes projetos de vida demandam, como se pode imaginar, praticamente a vida toda do momento em que se concebeu e idealizou a ideia. Projetar é reunir através de um planejamento e organização todas as ferramentas necessárias, atitudes, tempo e é claro, muita dedicação e empenho. No entanto, existe segundo o vislumbre que se pode fazer no horizonte, uma espécie de regra geral. Um modo de agir que permite bem executar esses projetos independente de suas dimensões. São as metodologias e regras. Trata-se do como fazer as coisas e de que modo as fazer corretamente. A teoria e a prática. E como a natureza humana imita a natureza divina, a salvação de cada alma passa por isso também. A religião católica a chama de economia da salvação.

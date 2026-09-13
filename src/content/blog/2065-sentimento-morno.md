@@ -1,10 +1,10 @@
 ---
 title: "Sentimento morno"
 date: 2021-03-10T17:13:00.002Z
-heroImage: "/images/morno.png"
+heroImage: "/images/posts/2065-sentimento-morno-morno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKuDQPq7hzhdd4jW9cOo3CDdg6j9TBGebOVe0gl1mX5OTUpCn0MrgWTnf6fR17RrBrS0Dlva403ONp7rnDk-ewXkrVW71_2KnONrzCk8VfyGwinrLNpkMH7xtk4A5S9OaxiLdLhVxBTtk/s631/morno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="606" data-original-width="631" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKuDQPq7hzhdd4jW9cOo3CDdg6j9TBGebOVe0gl1mX5OTUpCn0MrgWTnf6fR17RrBrS0Dlva403ONp7rnDk-ewXkrVW71_2KnONrzCk8VfyGwinrLNpkMH7xtk4A5S9OaxiLdLhVxBTtk/s320/morno.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dificilmente uma pessoa gosta de tomar uma bebida morna; ou
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2065-sentimento-morno-morno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="606" data-original-width="631" src="/images/posts/2065-sentimento-morno-morno.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dificilmente uma pessoa gosta de tomar uma bebida morna; ou
 gosta dela fria, ou gosta dela quente. Morna ou em temperatura ambiente não é
 uma apreciação bem vinda em muitos casos. Ah, aposto que alguém lembrou do leitinho
 morno antes de ir dormir! Pois é, ele cai bem, mas como todos nós sabemos, nem

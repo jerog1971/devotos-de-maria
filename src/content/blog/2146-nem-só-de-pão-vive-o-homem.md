@@ -1,10 +1,10 @@
 ---
 title: "Nem só de pão vive o homem"
 date: 2020-05-05T15:42:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2146-nem-só-de-pão-vive-o-homem-img-521451818.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucEa4SmvDtO-H_VKFiolv8-favVDXhxePnQOdutr7fGqHQpleZQ9YefWS02PWMtYH9OUpo-_gMIqW9G-mho6-tERr3BdZG0xLdQWwy8fVmscMe09EBmtq-pV1hABSBAEavlv7PCjroQA/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="413" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucEa4SmvDtO-H_VKFiolv8-favVDXhxePnQOdutr7fGqHQpleZQ9YefWS02PWMtYH9OUpo-_gMIqW9G-mho6-tERr3BdZG0xLdQWwy8fVmscMe09EBmtq-pV1hABSBAEavlv7PCjroQA/s320/sant%25C3%25ADssimo_sacramento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><p class="MsoNormal" style="text-align: left;">Mas de toda a palavra que procede da boca de Deus. Pois bem,
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2146-nem-só-de-pão-vive-o-homem-img-521451818.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="413" src="/images/posts/2146-nem-só-de-pão-vive-o-homem-img-521451818.jpgs320/sant%25C3%25ADssimo_sacramento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><p class="MsoNormal" style="text-align: left;">Mas de toda a palavra que procede da boca de Deus. Pois bem,
 em tempos como os que estamos vivendo, onde você pode enfrentar grandes
 aglomerações como as do supermercado, mas não pode enfrentar as aglomerações de
 uma celebração paroquial litúrgica como a de uma santa missa, para a “sorte”

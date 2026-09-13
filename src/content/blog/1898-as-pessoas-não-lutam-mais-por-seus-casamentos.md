@@ -1,10 +1,10 @@
 ---
 title: "As pessoas não lutam mais por seus casamentos"
 date: 2019-10-31T19:33:00.002Z
-heroImage: "/images/lutar_pelo_casamento.png"
+heroImage: "/images/posts/1898-as-pessoas-não-lutam-mais-por-seus--lutar_pelo_casamento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80ScaUuWt2kSspUY0ZN-9rl8ij_a6KLFEZV6JlPgx_K5l657Xj09gbT7P_yXk_fH_KpvZfnBl2xKEIuA-NZgv5U61QZkhJeY3jIfu1P589Ke1BEg6x-teWpeJqpaNiCQXRn4Bkthz48s/s1600/lutar_pelo_casamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80ScaUuWt2kSspUY0ZN-9rl8ij_a6KLFEZV6JlPgx_K5l657Xj09gbT7P_yXk_fH_KpvZfnBl2xKEIuA-NZgv5U61QZkhJeY3jIfu1P589Ke1BEg6x-teWpeJqpaNiCQXRn4Bkthz48s/s320/lutar_pelo_casamento.png" width="320" height="250" data-original-width="450" data-original-height="352" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1898-as-pessoas-não-lutam-mais-por-seus--lutar_pelo_casamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1898-as-pessoas-não-lutam-mais-por-seus--lutar_pelo_casamento.png" width="320" height="250" data-original-width="450" data-original-height="352" /></a></div>
 É raro, constatamos isso no mundo afora; casamentos não são mais elevados à categoria de matrimônios. Essa união não consiste apenas em se juntar numa mesma CASA mantiMENTOS e equipaMENTOS de mais de uma pessoa. Assim que as pessoas começam suas vidas de casado rapidamente irão descobrir o quanto não sabem sobre o assunto.</br>
 </br>
 Não é possível adaptar o que dá certo em uma união alheia entre duas pessoas para a sua união com seu cônjuge. Não existem fórmulas porque são pessoas diferentes. Você não pode agir como alguém age e dá certo porque sua esposa ou marido é diferente daquele aparente modelo; tampouco você não é a mesma pessoa do que aquela que quer imitar.</br>

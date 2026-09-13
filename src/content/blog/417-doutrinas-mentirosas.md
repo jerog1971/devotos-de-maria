@@ -1,10 +1,10 @@
 ---
 title: "Doutrinas mentirosas"
 date: 2020-03-03T16:23:00.002Z
-heroImage: "/images/falsas_doutrinas.png"
+heroImage: "/images/posts/417-doutrinas-mentirosas-falsas_doutrinas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMMFQUs8eQkzr1kQmjI958qSlNGP3xMDHxp1AZPbhxaTwd48qieAr9O00vlHzZPcGqknZA_zehp20iHuZiMK3heW2Y40hnnz1VKZSz4Ileg4H4fk3VT1qD1lWwDk751H9lVnm8T2A7X6o/s1600/falsas_doutrinas.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="455" height="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMMFQUs8eQkzr1kQmjI958qSlNGP3xMDHxp1AZPbhxaTwd48qieAr9O00vlHzZPcGqknZA_zehp20iHuZiMK3heW2Y40hnnz1VKZSz4Ileg4H4fk3VT1qD1lWwDk751H9lVnm8T2A7X6o/s320/falsas_doutrinas.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/417-doutrinas-mentirosas-falsas_doutrinas.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="455" height="306" src="/images/posts/417-doutrinas-mentirosas-falsas_doutrinas.png" width="320" /></a></div>
 Religião existe para religar o homem a Deus; com sua queda pelo pecado de Adão a natureza humana devastada por tão imensa desobediência se viu necessitada de cura e redenção total para reaver o direito do céu, desgraçadamente perdido. Então as escrituras nos contam que o Verbo de Deus – Jesus Cristo – veio a esse mundo a mando do Pai para trazer a boa nova. O evangelho. Anunciou muitas verdades, algumas muito dolorosas, porém, libertadoras, e nos apresentou nosso criador sob outro aspecto. Em missão primorosa teve seu ápice na cruz e decretou de forma definitiva que o que Deus quer para cada um, por causa de seu amor, vai até as últimas consequências.
 
 No entanto, é de se admirar que, com o passar do tempo, as pessoas vão ao longo de suas caminhadas afrouxando em seu esmero. O desânimo luta contra o ímpeto de seguir no caminho que leva ao céu. Ele é penoso, árduo, exige esforço e compromisso com Deus e nos faz subir com uma cruz nas costas – Lucas 9,23. Alguns poderiam pensar: ora bolas, não é para se admirar coisa nenhuma, pois, frente a dura tarefa de seguir o alto padrão exigido por Deus em troca nessa vida de tão pouco, pois muita coisa gira em torno de promessas eternas, é de se entender que o ser humano não aguente o percurso previamente traçado por Jesus.

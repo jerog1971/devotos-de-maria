@@ -1,10 +1,10 @@
 ---
 title: "A Administração do Tempo"
 date: 2016-09-19T15:26:00Z
-heroImage: "/images/passando o tempo.png"
+heroImage: "/images/posts/1464-a-administração-do-tempo-tempo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34imB2C3fY9uHAA13hyIJCAajtgpLcaM3Q88YZAtPM-s064oCIP1nKtmM1Lo0b5hcIn_ncvfMwT7lL9W856ZIlcTRIKeG7R0FXGU5jmXypeskrOJ0GT6bHpq3u8w5zC02W3TiutXwCdc/s1600/tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34imB2C3fY9uHAA13hyIJCAajtgpLcaM3Q88YZAtPM-s064oCIP1nKtmM1Lo0b5hcIn_ncvfMwT7lL9W856ZIlcTRIKeG7R0FXGU5jmXypeskrOJ0GT6bHpq3u8w5zC02W3TiutXwCdc/s320/tempo.png" width="319" height="320" data-original-width="517" data-original-height="519" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1464-a-administração-do-tempo-tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1464-a-administração-do-tempo-tempo.png" width="319" height="320" data-original-width="517" data-original-height="519" /></a></div>
 Não importa o que seja dito. O fato é que todos possuem apenas 24 horas por dia para fazerem tudo que precisam. Não adianta se revoltar contra esta questão, por dia este é o tempo que temos e não se fala mais nisso. No entanto a conversa não para por aqui. A inteligência humana logo tratou de solucionar esse problema parcelando suas atividades em mais de um dia. Porém, o que estamos a tratar aqui neste artigo é a administração do tempo de 24 horas por dia.</br>
 </br>
 Como bem sabemos temos afazeres de ordem natural e de ordem espiritual que precisamos fazer durante esse tempo. É bem verdade, embora muitos não se deem conta disso, que o diabo até nisso está metido. Ele apresenta para as pessoas a tentação do amanhã. Vejam um exemplo. Para muitas pessoas o processo de conversão é fortemente combatido com essa tentação. As pessoas dizem assim: amanhã eu rezo, amanhã eu me confesso, hoje não posso ir na missa, amanhã eu vou e assim por diante. Aos poucos as pessoas vão transformando esse amanhã em depois de amanhã, mais tarde em semana que vem, adiante em mês que vem, mais à frente em semestre que vem, ano que vem e finalmente quando der.</br>

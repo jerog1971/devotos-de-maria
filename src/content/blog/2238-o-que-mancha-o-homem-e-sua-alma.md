@@ -1,10 +1,10 @@
 ---
 title: "O que mancha o homem e sua alma"
 date: 2022-03-02T14:15:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2238-o-que-mancha-o-homem-e-sua-alma-img-1949935975.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEga8v7MjE9IuUxDcuAMyBh4sPJmNXdvflhg1MPRNpl1zDkQ8gaGH9p7UKa1uoJgMWPcRIi3gN1ymzwtK0UfTwYZS5iflcO3W45HneMOb45lAD4zh4Tsr2ZRV6hJwfNSwT_dBv55U3h8v5pXGkfmmWFzEuneJrmd_j3Gyy-GA3wLP8qVZK18kTKbVC99=s478" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="434" data-original-width="478" height="291" src="https://blogger.googleusercontent.com/img/a/AVvXsEga8v7MjE9IuUxDcuAMyBh4sPJmNXdvflhg1MPRNpl1zDkQ8gaGH9p7UKa1uoJgMWPcRIi3gN1ymzwtK0UfTwYZS5iflcO3W45HneMOb45lAD4zh4Tsr2ZRV6hJwfNSwT_dBv55U3h8v5pXGkfmmWFzEuneJrmd_j3Gyy-GA3wLP8qVZK18kTKbVC99=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como todo cristão bem sabe, o céu é um lugar onde o três
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2238-o-que-mancha-o-homem-e-sua-alma-img-1949935975.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="434" data-original-width="478" height="291" src="/images/posts/2238-o-que-mancha-o-homem-e-sua-alma-img-1949934851.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como todo cristão bem sabe, o céu é um lugar onde o três
 vezes santo, o Deus altíssimo, irá admitir as almas puras e sem mancha, que
 viveram segundo seu agrado, incansavelmente pregando evangelho de nosso Senhor
 Jesus Cristo e amando-os acima de todas as coisas e ao próximo com a si mesmas.<o:p></o:p></p><div class="separator" style="clear: both;">

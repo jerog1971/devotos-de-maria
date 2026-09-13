@@ -1,10 +1,10 @@
 ---
 title: "Jesus foi cancelado"
 date: 2022-08-08T15:48:00.002Z
-heroImage: "/images/Ela.jpg"
+heroImage: "/images/posts/974-jesus-foi-cancelado-Jesus_20foi_20cancelado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDJN7EHEVkZWcr2BjaziRtl4xgX1wEeTnjT0ZT9WKqrKXUpoIzli0OJJhlMJ_FhN7JokhQKrSIMOQX_9XYYE3S314OTHCoJYZB4iU8B3eeajubipaijYuRw7K67ZKNbhgujw5ziLEOkGZS78_iRqx5S6Wc5p2dI9aDSpsKCM9iXRUE9qz0M1xixCiM/s519/Jesus%20foi%20cancelado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="461" data-original-width="519" height="284" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDJN7EHEVkZWcr2BjaziRtl4xgX1wEeTnjT0ZT9WKqrKXUpoIzli0OJJhlMJ_FhN7JokhQKrSIMOQX_9XYYE3S314OTHCoJYZB4iU8B3eeajubipaijYuRw7K67ZKNbhgujw5ziLEOkGZS78_iRqx5S6Wc5p2dI9aDSpsKCM9iXRUE9qz0M1xixCiM/s320/Jesus%20foi%20cancelado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Muito se tem falado, comentado e “espalhado” pelos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/974-jesus-foi-cancelado-Jesus_20foi_20cancelado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="461" data-original-width="519" height="284" src="/images/posts/974-jesus-foi-cancelado-Jesus_20foi_20cancelado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Muito se tem falado, comentado e “espalhado” pelos
 ventiladores da sociedade a respeito de uma das modas em voga denominadas de ‘cultura
 do cancelamento’. Cancelar alguém, algo ou alguma coisa tem recebido caráter de
 empoderamento para muitas pessoas, mas, como tudo que percorre a vastidão desse

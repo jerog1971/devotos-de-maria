@@ -1,10 +1,10 @@
 ---
 title: "Ave Maria de um protestante (história real)"
 date: 2016-02-05T13:25:00Z
-heroImage: "/images/ave-maria.png"
+heroImage: "/images/posts/1213-ave-maria-de-um-protestante-história-real-ave-maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeMrrUI1b_V5uYuyGkmzqNQGVKYOI52kMToC0gBs8r99S-T9ZyAJ3J0qRlITeV4CbYZ39vUQbUeuecSBwVV8BB50adOIKfBZc7AF0EJBJT-0WG3uXgGdsovNH59_-bOBPGtgnTjFXQlnQ/s1600/ave-maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeMrrUI1b_V5uYuyGkmzqNQGVKYOI52kMToC0gBs8r99S-T9ZyAJ3J0qRlITeV4CbYZ39vUQbUeuecSBwVV8BB50adOIKfBZc7AF0EJBJT-0WG3uXgGdsovNH59_-bOBPGtgnTjFXQlnQ/s320/ave-maria.png" width="239" height="320" data-original-width="236" data-original-height="316" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1213-ave-maria-de-um-protestante-história-real-ave-maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1213-ave-maria-de-um-protestante-história-real-ave-maria.png" width="239" height="320" data-original-width="236" data-original-height="316" /></a></div>
 </br>
 Um garotinho protestante de apenas 6 anos sempre ouvia seus amiguinhos católicos rezando a Ave Maria, ele gostou tanto da oração que copiou-a num papel e recitava-as todos os dias. “Olha, mamãe, que oração linda!”, disse o garotinho um dia a sua mãe. “Nunca repita-a, meu filho!”, respondeu a mãe. “Esta é uma oração supersticiosa dos católicos, que adoram ídolos e pensam que Maria é uma espécie de Deusa. Mas na verdade ela não passa de uma mulher como uma outra qualquer. Pegue esta Bíblia e leia-a, nela encontramos tudo o que devemos e o que não devemos fazer”.</br>
 </br>

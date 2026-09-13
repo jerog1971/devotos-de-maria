@@ -1,10 +1,10 @@
 ---
 title: "Ser mau é a única coisa que sei fazer bem"
 date: 2020-10-15T18:35:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1864-ser-mau-é-a-única-coisa-que-sei-faz-ser_mau.png"
 ---
 
-<div class="separator" style="clear: both;"><p class="MsoNormal"><img alt="" border="0" data-original-height="526" data-original-width="534" height="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPO2ax5_xhJmJ7q9kEKs3Y-_qRuYyeD6MMliqn7fmFLvZlmT-3Z0HOnyfWV4Z05hJ7Hue3VdgOOcaoFOreNdZMEptiKcvZeJbavI-3GhO1u_fy_RJqdgISdIYMKqNwWatqOnpxMILHGlU/w320-h315/ser+mau.png" width="320" /></p><p class="MsoNormal">Somos bons em alguma coisa? Ruins em outras? Bons na maioria
+<div class="separator" style="clear: both;"><p class="MsoNormal"><img alt="" border="0" data-original-height="526" data-original-width="534" height="315" src="/images/posts/1864-ser-mau-é-a-única-coisa-que-sei-faz-ser_mau.png" width="320" /></p><p class="MsoNormal">Somos bons em alguma coisa? Ruins em outras? Bons na maioria
 delas? Ruins? Pois bem, perguntas que fazem parte de uma reflexão sincera. É sempre
 fácil enaltecer o melhor e diminuir o pior em nós. Se queremos nos definir como
 boas pessoas iremos nos comparar com as piores pessoas que conhecemos. Que

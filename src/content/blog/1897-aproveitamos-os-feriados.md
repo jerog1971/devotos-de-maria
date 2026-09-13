@@ -1,10 +1,10 @@
 ---
 title: "Aproveitamos os Feriados?"
 date: 2016-05-25T11:38:00Z
-heroImage: "/images/escadaria.png"
+heroImage: "/images/posts/1897-aproveitamos-os-feriados-escadaria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi321aixu6Yd349v14XWkwfvV5Zr1Gk0xHZxn1pSU-lu7Q53G4Lxqzl8fVu7lTpWio3HIGNPGv2YrZGqiK56iKTArV57VSingQSQC4xLmRTk0vTxES1OBNgoNd20dncoW2PBkOhIa7DtNI/s1600/escadaria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi321aixu6Yd349v14XWkwfvV5Zr1Gk0xHZxn1pSU-lu7Q53G4Lxqzl8fVu7lTpWio3HIGNPGv2YrZGqiK56iKTArV57VSingQSQC4xLmRTk0vTxES1OBNgoNd20dncoW2PBkOhIa7DtNI/s320/escadaria.png" width="320" height="239" data-original-width="694" data-original-height="518" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1897-aproveitamos-os-feriados-escadaria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1897-aproveitamos-os-feriados-escadaria.png" width="320" height="239" data-original-width="694" data-original-height="518" /></a></div>
 </br>
 Em alguns meses do ano, coincide que algumas datas religiosas para nós católicos "caem" em dias propícios para o que se costuma chamar de "emendar" o feriado, ou ainda o chamado "feriadão" prolongado. Sem dúvida alguma é sempre um ótimo período para trocar as atividades do dia a dia e realizar alguma coisa fora da rotina.</br>
 </br>

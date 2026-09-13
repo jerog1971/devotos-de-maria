@@ -1,10 +1,10 @@
 ---
 title: "Um grande testemunho sobre a Eucaristia"
 date: 2016-01-21T17:51:00Z
-heroImage: "/images/menina.png"
+heroImage: "/images/posts/733-um-grande-testemunho-sobre-a-eucaris-menina.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLc9uM7XufgpnAQlnbtQmKDI-_qieCLr3YDJsR1-ykN_giF97EwuvQGp73JJ_HUPz0UBbzmo7z9oAtfKYf5OPIivW5l_sn-QBvVvBF95wKPw-_jjsg77cyLjTHP0b5UEjRc4YFswa7vds/s1600/menina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLc9uM7XufgpnAQlnbtQmKDI-_qieCLr3YDJsR1-ykN_giF97EwuvQGp73JJ_HUPz0UBbzmo7z9oAtfKYf5OPIivW5l_sn-QBvVvBF95wKPw-_jjsg77cyLjTHP0b5UEjRc4YFswa7vds/s320/menina.png" width="320" height="211" data-original-width="503" data-original-height="331" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/733-um-grande-testemunho-sobre-a-eucaris-menina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/733-um-grande-testemunho-sobre-a-eucaris-menina.png" width="320" height="211" data-original-width="503" data-original-height="331" /></a></div>
 </br>
 Alguns meses antes de sua morte, o Bispo Fulton J. Sheen foi entrevistado pela rede nacional de televisão: “Bispo Sheen, milhares de pessoas em todo o mundo inspiram-se em você. Em quem você se inspirou? Foi por acaso em algum Papa?”.</br>
 </br>

@@ -1,10 +1,10 @@
 ---
 title: "Meu pecado de estimação"
 date: 2020-03-04T19:56:00.002Z
-heroImage: "/images/pecadinhos.png"
+heroImage: "/images/posts/1573-meu-pecado-de-estimação-pecadinhos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaO4ZZEuPNJkSBREOL5G9qdiuM3K4ieGjF2fhrmhtu50hK6C6LwzaFw4i_A3PAKPE6pLKJc0wWEA7jqPl4qUjbJCTN-lQ-uFmWvzsWNgpWFG5liu3mXL_WRc1sLo_YDvF1wWWXjYmmfZM/s1600/pecadinhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaO4ZZEuPNJkSBREOL5G9qdiuM3K4ieGjF2fhrmhtu50hK6C6LwzaFw4i_A3PAKPE6pLKJc0wWEA7jqPl4qUjbJCTN-lQ-uFmWvzsWNgpWFG5liu3mXL_WRc1sLo_YDvF1wWWXjYmmfZM/s320/pecadinhos.png" width="320" height="235" data-original-width="402" data-original-height="295" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1573-meu-pecado-de-estimação-pecadinhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1573-meu-pecado-de-estimação-pecadinhos.png" width="320" height="235" data-original-width="402" data-original-height="295" /></a></div>
 Hum, que maravilha que ele é, ele nutre meus desejos, satisfaz minhas vontades, sacia meus sentimentos reprimidos. Sempre posso recorrer a ele. Ele está sempre de braços abertos e quer envelhecer ao meu lado, me recebe nos momentos que estou angustiado e preciso desabafar. Meu pecado de estimação me conhece e sabe como me deixar pra cima.</br>
 </br>
 Os tempos vão passando e ele, que mais íntimo fica de mim, me acompanha onde quer que eu vá. Quando não posso estar praticando as coisas que o envolvem, não tem problema, fico pensando nele e em tudo que está relacionado. Não importa o quanto demore, mais cedo ou mais tarde vou procurar estar com ele.</br>

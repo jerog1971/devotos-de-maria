@@ -1,10 +1,10 @@
 ---
 title: "São João e São Paulo"
 date: 2020-06-26T15:46:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/672-são-joão-e-são-paulo-Santos_Jo_25C3_25A3o_e_Paulo.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7aCd1qHAhoSahhlZLEd4JK4U-teB_IY5cfMqCKWxBU1Re6CZdGS0yZauuLItKvgLzhb2Zzj0hIGkrj6ssdfW78Bh_iZDMwxO89FyrpaQHpAKjZW9JTVbii92vJalNFzp5lg7BAidXUNg/s219/Santos+Jo%25C3%25A3o+e+Paulo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="219" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7aCd1qHAhoSahhlZLEd4JK4U-teB_IY5cfMqCKWxBU1Re6CZdGS0yZauuLItKvgLzhb2Zzj0hIGkrj6ssdfW78Bh_iZDMwxO89FyrpaQHpAKjZW9JTVbii92vJalNFzp5lg7BAidXUNg/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">João e Paulo eram irmãos. Deram testemunho de sua fé durante
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/672-são-joão-e-são-paulo-Santos_Jo_25C3_25A3o_e_Paulo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="219" src="/images/posts/672-são-joão-e-são-paulo-img-1104556773.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">João e Paulo eram irmãos. Deram testemunho de sua fé durante
 a perseguição de Juliano, o apóstata, em junho de 362. Eram ricos, e tudo
 indica que haviam sido oficiais da guarda imperial. Renunciaram aos cargos e se
 recolheram em sua propriedade no Monte Célio, dedicando-se à oração e ao

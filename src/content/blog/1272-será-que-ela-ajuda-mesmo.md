@@ -1,10 +1,10 @@
 ---
 title: "Será que ela ajuda mesmo?"
 date: 2021-08-27T18:27:00.001Z
-heroImage: "/images/Maria.gif"
+heroImage: "/images/posts/1272-será-que-ela-ajuda-mesmo-A_ajuda_da_Virgem_Maria.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5LC14vmNGjTrAVnXA85B3Bug4sqagYgImRygwvnaWLH2CCU9ghE9yaekbRGEW8t9tWM5hR85UhfLMwsHqcbLFtlDeXAyvL9L7Mut4yzaMujLoyYyjrwgkRjhziGhBtJk8K2fyN3guVHk/s541/A+ajuda+da+Virgem+Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="541" data-original-width="532" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5LC14vmNGjTrAVnXA85B3Bug4sqagYgImRygwvnaWLH2CCU9ghE9yaekbRGEW8t9tWM5hR85UhfLMwsHqcbLFtlDeXAyvL9L7Mut4yzaMujLoyYyjrwgkRjhziGhBtJk8K2fyN3guVHk/s320/A+ajuda+da+Virgem+Maria.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A polêmica em torno da assistência de Maria Santíssima aos pecadores
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1272-será-que-ela-ajuda-mesmo-A_ajuda_da_Virgem_Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="541" data-original-width="532" height="320" src="/images/posts/1272-será-que-ela-ajuda-mesmo-A_ajuda_da_Virgem_Maria.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A polêmica em torno da assistência de Maria Santíssima aos pecadores
 é uma das coisas que irão cercar a realidade da humanidade até o fim dos
 tempos. A bíblia diz que Jesus é o único mediador e que só devemos adorar a
 Deus. E então? Se Jesus disse que ele é o caminho, a verdade e a vida e que ninguém

@@ -1,10 +1,10 @@
 ---
 title: "Pessoas mandonas"
 date: 2022-06-08T15:52:00.004Z
-heroImage: "/images/pessoas mandonas.png"
+heroImage: "/images/posts/1390-pessoas-mandonas-pessoas_20mandonas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwkiHTl8pQg74xdg5FkN6G70GpcngkMi_mWirmO8dBKEPzOxG_1R1nBMY9P8-BKEIyAOzEgp0jTMvAG7JzmuzYyvXDYh3seRp_XQFDAnCmL48NK3UtZOyDAlpfjflCDWbD91lwToaQnS3payp_IbAk2Jca3RPHZ41Ce-mGhC6n-HKnOZTBgpGlei3U/s270/pessoas%20mandonas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="248" data-original-width="270" height="248" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwkiHTl8pQg74xdg5FkN6G70GpcngkMi_mWirmO8dBKEPzOxG_1R1nBMY9P8-BKEIyAOzEgp0jTMvAG7JzmuzYyvXDYh3seRp_XQFDAnCmL48NK3UtZOyDAlpfjflCDWbD91lwToaQnS3payp_IbAk2Jca3RPHZ41Ce-mGhC6n-HKnOZTBgpGlei3U/s1600/pessoas%20mandonas.png" width="270" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A história da humanidade está cheia delas; tiranetes dos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1390-pessoas-mandonas-pessoas_20mandonas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="248" data-original-width="270" height="248" src="/images/posts/1390-pessoas-mandonas-pessoas_20mandonas.png" width="270" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A história da humanidade está cheia delas; tiranetes dos
 mais variados calibres transformam seu mundo ou seu mundinho, num amontoado de
 pessoas que existem só para se ajoelharem diante deles, reverencia-los e seguir
 suas ordens. Tentam seguir a conduta de Deus, que pode ordenar e cobrar e é

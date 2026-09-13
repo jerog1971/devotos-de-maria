@@ -1,10 +1,10 @@
 ---
 title: "Dificuldades na minha vida"
 date: 2018-09-25T15:54:00Z
-heroImage: "/images/sofrimento.png"
+heroImage: "/images/posts/622-dificuldades-na-minha-vida-sofrimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ41xa4HyxtgW23tSxsNBs6dZdEzzk9kFpveuZqXtyA4YbTcHl5XClEkAoOo-uxbvXg_VczKqZ5V8d-OFinRYob3tdgBfCpVR5aweRcfAhCezzJ7Zhl3Xq-cPApg5FhCmNsRJzrWTdI7s/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ41xa4HyxtgW23tSxsNBs6dZdEzzk9kFpveuZqXtyA4YbTcHl5XClEkAoOo-uxbvXg_VczKqZ5V8d-OFinRYob3tdgBfCpVR5aweRcfAhCezzJ7Zhl3Xq-cPApg5FhCmNsRJzrWTdI7s/s320/sofrimento.png" width="320" height="317" data-original-width="378" data-original-height="375" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/622-dificuldades-na-minha-vida-sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/622-dificuldades-na-minha-vida-sofrimento.png" width="320" height="317" data-original-width="378" data-original-height="375" /></a></div>
 Pessoal, uma coisa é certa, não se conhece alguém vivo que possa dizer que sua vida é uma maravilha, é uma vida livre de preocupações, dificuldades, desafios, tribulações, provações ou qualquer tipo de obstáculo que seja capaz de tirar-lhe horas de sono ou, como se diz no dito popular, branquear-lhe os cabelos. Porém, parece contraditório o que vou escrever, mas mesmo assim vou fazê-lo: animemo-nos se a vida é assim, é sinal de que não estamos sozinhos no mundo e de que a “regra” do jogo é a mesma para qualquer um.</br>
 </br>
 Todavia alguém poderá ser tentado a pensar: de que adianta eu não estar sozinho se mesmo assim meus problemas continuam sendo somente meus? É a famosa conclusão apressada de quem acha que seus problemas não são da conta de ninguém. Quem pensa assim não poderia estar mais errado. Vamos compreender?</br>

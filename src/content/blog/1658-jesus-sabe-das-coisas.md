@@ -1,10 +1,10 @@
 ---
 title: "Jesus sabe das coisas"
 date: 2021-10-14T20:16:00.005Z
-heroImage: "/images/Jesus.png"
+heroImage: "/images/posts/1658-jesus-sabe-das-coisas-Jesus_sabe_das_coisas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhumtBJdKN9-cmicyu2sa2wlvYSztzZ677EL9bx84WtI8KtwSKOMO3NwitFtP-ti0IiKO7mTKkgJ98y9UjQdgW2Wo3Z1EJqkx5w3rClk7m5RP-jLP4cvx90YDLR1SVYSi9j4gv9iH4pjG0/s707/Jesus+sabe+das+coisas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="706" data-original-width="707" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhumtBJdKN9-cmicyu2sa2wlvYSztzZ677EL9bx84WtI8KtwSKOMO3NwitFtP-ti0IiKO7mTKkgJ98y9UjQdgW2Wo3Z1EJqkx5w3rClk7m5RP-jLP4cvx90YDLR1SVYSi9j4gv9iH4pjG0/s320/Jesus+sabe+das+coisas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Aprendei de mim que sou manso e humilde de coração”. Nestas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1658-jesus-sabe-das-coisas-Jesus_sabe_das_coisas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="706" data-original-width="707" height="320" src="/images/posts/1658-jesus-sabe-das-coisas-Jesus_sabe_das_coisas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Aprendei de mim que sou manso e humilde de coração”. Nestas
 palavras do Cristo, como em muitas outras que lemos em todo o evangelho, uma
 coisa é certa: ele sabe das coisas. Não é à toa que Deus lhe concedeu a missão
 de julgar aos vivos e os mortos e de comandar um reino que não terá fim. Ele

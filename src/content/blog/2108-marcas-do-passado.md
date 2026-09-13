@@ -1,10 +1,10 @@
 ---
 title: "Marcas do Passado"
 date: 2018-07-23T23:22:00.001Z
-heroImage: "/images/passado.png"
+heroImage: "/images/posts/2108-marcas-do-passado-passado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-T85PVvAoR-7rF6W1iMXy0_Gcz_FcuN-MRCEFgXoT4jg0P0OREq_l_xFTCjF8XTSzpKWJ7mvy4la1kmihrc9INrPBJsLNpOFBTBfDZd4wlFv26n366ttPdA8oeRQqCqHnS_3A8gV9DpA/s1600/passado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-T85PVvAoR-7rF6W1iMXy0_Gcz_FcuN-MRCEFgXoT4jg0P0OREq_l_xFTCjF8XTSzpKWJ7mvy4la1kmihrc9INrPBJsLNpOFBTBfDZd4wlFv26n366ttPdA8oeRQqCqHnS_3A8gV9DpA/s320/passado.png" width="308" height="320" data-original-width="177" data-original-height="184" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2108-marcas-do-passado-passado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2108-marcas-do-passado-passado.png" width="308" height="320" data-original-width="177" data-original-height="184" /></a></div>
 Não se pode mudar o passado, mas pode-se aprender com ele. No curso de nossa história somos convidados a perceber que Deus nos concede apenas o dia de hoje. O ontem não existe mais, o amanhã não existe ainda. Serviram e nos servirão, porém, depende de Deus quanto tempo ainda teremos. Por isso que se costuma dizer que o católico sempre deve estar com a malinha pronta para a viagem. Não sabemos se nossa contagem regressiva, aberta no momento de nosso nascimento, está a poucos minutos, poucos metros, poucos dias, enfim, não sabemos. Mesmo em caso de doenças terminais, o segundo final, o momento final é sabido apenas pelo Pai Eterno.</br>
 </br>
 Se pararmos para refletir em nossa relação com o tempo, o que fizemos, fazemos e faremos, nos fica muito clara a sensação de não sermos senhores absolutos dele. Cabe aqui um exemplo? Basta pensarmos nos imprevistos, eles são especialistas em atrapalhar nossos planos futuros. No entanto, biblicamente falando, recebemos de Jesus o aprendizado de vigiarmos e orarmos sem cessar; também nos foi ensinado para sermos simples como as pombas e prudentes como as serpentes; também prontos em ouvir e tantos outros ensinamentos relacionados ao nosso aqui e agora.</br>

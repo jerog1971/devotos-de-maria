@@ -1,10 +1,10 @@
 ---
 title: "Apontando a direção"
 date: 2020-09-04T15:12:00.002Z
-heroImage: "/images/homenagem_filhas.jpg"
+heroImage: "/images/posts/827-apontando-a-direção-homenagem_filhas.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijuqoD_5oG2dL9oY-cdn7p8mhmMpYQ4NMiErvygGhbdJjbgabg9fFxgHNllJlKvrJaahyphenhyphenC1CNlZ3ox4opMbwA7PtTJmmJ4DNT211J6-heu3VUhC6_m0uScYq5Nx3pcY_dnbeUIOaqePys/s1040/homenagem_filhas.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1040" data-original-width="780" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijuqoD_5oG2dL9oY-cdn7p8mhmMpYQ4NMiErvygGhbdJjbgabg9fFxgHNllJlKvrJaahyphenhyphenC1CNlZ3ox4opMbwA7PtTJmmJ4DNT211J6-heu3VUhC6_m0uScYq5Nx3pcY_dnbeUIOaqePys/w300-h400/homenagem_filhas.jpg" width="300" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Primeiro veio Deus e através dos profetas apontava a direção
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/827-apontando-a-direção-homenagem_filhas.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1040" data-original-width="780" height="400" src="/images/posts/827-apontando-a-direção-homenagem_filhas.jpg" width="300" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Primeiro veio Deus e através dos profetas apontava a direção
 para seu povo. Depois veio o Cristo e, além de se mostrar como se faz, nos
 apontou mais uma vez a direção. Nos mostrou que é para “lá” que devemos seguir.
 É o famoso caminho apertado que nos leva para a porta estreita. A porta do céu.<o:p></o:p></p><div class="separator" style="clear: both;">

@@ -1,10 +1,10 @@
 ---
 title: "Pelo menos eu tentei"
 date: 2017-11-16T19:19:00Z
-heroImage: "/images/tentar.png"
+heroImage: "/images/posts/1210-pelo-menos-eu-tentei-tentar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHro_U_DksJW1rYC69wN2xEmeFEi0_7tXyz8DegqlY4Z49k8sC1hjiJSa-m5GfqrwXsdbbd5Turs3sqXQ2O7WSqoRePWGXDwtp3yKHknLhx9qPS-ZBpvkYFxTCW1g3W319t6Tymh9ZR8/s1600/tentar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHro_U_DksJW1rYC69wN2xEmeFEi0_7tXyz8DegqlY4Z49k8sC1hjiJSa-m5GfqrwXsdbbd5Turs3sqXQ2O7WSqoRePWGXDwtp3yKHknLhx9qPS-ZBpvkYFxTCW1g3W319t6Tymh9ZR8/s320/tentar.png" width="235" height="320" data-original-width="380" data-original-height="518" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1210-pelo-menos-eu-tentei-tentar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1210-pelo-menos-eu-tentei-tentar.png" width="235" height="320" data-original-width="380" data-original-height="518" /></a></div>
 Pessoal, vamos concordar numa coisa. O título desse artigo pode ser uma consolação ou uma desculpa dependendo do contexto em que ele se insere. Se temos um objetivo e fazemos de tudo ao nosso alcance para alcança-lo, e falo tudo de forma sincera, humilde e honesta, e não atingimos nossa meta, então não viveremos com a dúvida do “e se”. E se eu tivesse me esforçado mais, e se eu tivesse me dedicado mais, e se eu tivesse escutado mais, e se eu tivesse parado, refletido e ponderado mais antes de responder no impulso da discussão. Como vemos, se não fazemos corpo mole, podemos deitar nossas cabeças no travesseiro com a consciência tranquila na certeza de que lutamos o bom combate.</br>
 </br>
 Agora, se agimos no oposto da possibilidade, não colocando um verdadeiro esmero naquilo que fazemos, por displicência consciente e má vontade deslavada, se cobrarem de nós alguma coisa ou até mesmo se nossa consciência nos cobrar alguma coisa, podemos de forma muito rápida sair dizendo, ou melhor, se desculpando, pelo intento não alcançado. Querem ver como a coisa é grave? Basta lembrarmos de Poncio Pilatos. Quando ele, “lavou as mãos” publicamente querendo mostrar que era inocente na causa que o povo promovia contra Jesus, no fundo ele quis dizer publicamente: pelo menos eu tentei.</br>

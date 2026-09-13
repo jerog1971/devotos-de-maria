@@ -1,10 +1,10 @@
 ---
 title: "Ninguém morre em paz se não perdoar"
 date: 2021-07-05T11:07:00.002Z
-heroImage: "/images/perdoar.png"
+heroImage: "/images/posts/840-ninguém-morre-em-paz-se-não-perdoar-perdoar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9wwyVK_xWkTC0ihrMhjkC2U5FqyMzmJMYCSRCosUzq2D1hA-zXb7js_QJ877X5BbrRqh5pRxNhZqjPNU7M37KkeHO7WzNcRdf618qnVd00rWb8Wubz0R5_P-Q8Y-5damaDP0sQuxg-w/s289/perdoar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="289" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9wwyVK_xWkTC0ihrMhjkC2U5FqyMzmJMYCSRCosUzq2D1hA-zXb7js_QJ877X5BbrRqh5pRxNhZqjPNU7M37KkeHO7WzNcRdf618qnVd00rWb8Wubz0R5_P-Q8Y-5damaDP0sQuxg-w/s0/perdoar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O perdão, que exige abrir mão da justiça, liberta a alma
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/840-ninguém-morre-em-paz-se-não-perdoar-perdoar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="289" src="/images/posts/840-ninguém-morre-em-paz-se-não-perdoar-perdoar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O perdão, que exige abrir mão da justiça, liberta a alma
 pois, existe mais alegria em dar do que receber, lemos nas sagradas escrituras.
 Quando se perdoa a alma é lavada, de ambos os lados, porque é dado maior crédito
 para os frutos do amor do que para sentimentos menores, que aprisionam o

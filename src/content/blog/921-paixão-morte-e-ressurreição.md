@@ -1,10 +1,10 @@
 ---
 title: "Paixão, morte e ressurreição"
 date: 2022-03-28T19:28:00.003Z
-heroImage: "/images/Pai.jpg"
+heroImage: "/images/posts/921-paixão-morte-e-ressurreição-paix_C3_A3o_20de_20cristo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdkTLKulslgRXZgV-gejPEz7dJRFqp180_7mr9yPDJUU7QcapLa0xNiGVoqSybP8t_NuDHlCnV1xNPmuIkwBiNxpyhLr09cj4F_TxGilkiu4XNwPUdtY3bt-Z2Q95fcvbWSw3pUpFAC96Q5yC7ggPHPxS6I4M0He_TDXsvnvGeEb5t1LtRyPT4FIgW/s557/paix%C3%A3o%20de%20cristo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="460" data-original-width="557" height="264" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdkTLKulslgRXZgV-gejPEz7dJRFqp180_7mr9yPDJUU7QcapLa0xNiGVoqSybP8t_NuDHlCnV1xNPmuIkwBiNxpyhLr09cj4F_TxGilkiu4XNwPUdtY3bt-Z2Q95fcvbWSw3pUpFAC96Q5yC7ggPHPxS6I4M0He_TDXsvnvGeEb5t1LtRyPT4FIgW/s320/paix%C3%A3o%20de%20cristo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo cristão sabe do que se tratam estas três palavras que intitulam
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/921-paixão-morte-e-ressurreição-paix_C3_A3o_20de_20cristo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="460" data-original-width="557" height="264" src="/images/posts/921-paixão-morte-e-ressurreição-paix_C3_A3o_20de_20cristo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo cristão sabe do que se tratam estas três palavras que intitulam
 este artigo. Trata-se das últimas doze horas que Cristo viveu aqui na terra e o
 período de três dias entre sua morte e ressurreição após sua crucificação.<o:p></o:p></p><div class="separator" style="clear: both;">
 

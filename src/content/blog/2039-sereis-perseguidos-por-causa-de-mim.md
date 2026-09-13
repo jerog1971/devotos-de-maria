@@ -1,10 +1,10 @@
 ---
 title: "Sereis perseguidos por causa de mim"
 date: 2016-12-20T13:41:00Z
-heroImage: "/images/freira.png"
+heroImage: "/images/posts/2039-sereis-perseguidos-por-causa-de-mim-freira.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-rs1fSEetqZ8Jdm5UXLnVgBEx_DAhLZToySMzn8u-tcKNTUIx63MM7ICHGgcetAdTQuxajQU-QjYMJNMhpa9ai9T4U0aSTkRHcPdhoXxo76YTp_TY2uBSlNOT-RrXuAl9W-iypz9EVs/s1600/freira.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-rs1fSEetqZ8Jdm5UXLnVgBEx_DAhLZToySMzn8u-tcKNTUIx63MM7ICHGgcetAdTQuxajQU-QjYMJNMhpa9ai9T4U0aSTkRHcPdhoXxo76YTp_TY2uBSlNOT-RrXuAl9W-iypz9EVs/s320/freira.png" width="320" height="291" data-original-width="395" data-original-height="359" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2039-sereis-perseguidos-por-causa-de-mim-freira.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2039-sereis-perseguidos-por-causa-de-mim-freira.png" width="320" height="291" data-original-width="395" data-original-height="359" /></a></div>
 Para toda pessoa que se esforça para viver os ensinamentos dos evangelhos o título deste artigo é bem lembrado por todos os católicos praticantes. Está no sermão da montanha (Mateus 5). Por duas vezes o Cristo diz que devemos nos alegrar por causa das perseguições que iríamos sofrer. Nos disse também que o servo não é maior que o seu mestre e que se o perseguiram, perseguirão também a nós (João 15,20).</br>
 </br>
 Pois bem, com uma busca atenta por toda a história da cristandade encontra-se até com certa facilidade, relatos sobre o martírio que muitas pessoas sofrem por amor a Deus, a Jesus e seu evangelho e a religião católica. Vale lembrar que a palavra “martírio” quer dizer “testemunho”. Morre-se dando sua vida por amor a Cristo pois “quem perder a sua vida por causa dele (de mim – diz no evangelho) irá salvá-la.”</br>

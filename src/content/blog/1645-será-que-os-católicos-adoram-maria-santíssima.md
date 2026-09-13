@@ -1,10 +1,10 @@
 ---
 title: "Será que os católicos adoram Maria Santíssima?"
 date: 2017-02-01T21:21:00.001Z
-heroImage: "/images/venerar.png"
+heroImage: "/images/posts/1645-será-que-os-católicos-adoram-maria-santíssima-venerar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlS7nvO4x8oo1sV47WIseur4gH_DFvRyA268RJXws6UZCHyj02ixnzsLiGyts6zD_7LDnYTcSJ4hLOHlwrJRE3i1eX9BgOLzGTisrH1dmNT3d6MDGgXek5eW35P3M6KCN87L2QudpClw/s1600/venerar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlS7nvO4x8oo1sV47WIseur4gH_DFvRyA268RJXws6UZCHyj02ixnzsLiGyts6zD_7LDnYTcSJ4hLOHlwrJRE3i1eX9BgOLzGTisrH1dmNT3d6MDGgXek5eW35P3M6KCN87L2QudpClw/s320/venerar.png" width="320" height="298" data-original-width="512" data-original-height="476" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1645-será-que-os-católicos-adoram-maria-santíssima-venerar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1645-será-que-os-católicos-adoram-maria-santíssima-venerar.png" width="320" height="298" data-original-width="512" data-original-height="476" /></a></div>
 Os evangélicos acusam os católicos de adorar Maria Santíssima, os católicos dizem que não. Qual a diferença? O católico ajoelha na frente da estátua de Maria, pede pra ela, diz pra ela todos os louvores que na Bíblia se diz que pertencem somente a Deus e que Deus não divide a sua glória com ninguém, conforme vemos em Isaías 42,8. Como é que fica? Caros leitores, vamos com calma, o Catecismo da Igreja Católica nos ensina que “a idolatria não diz respeito apenas aos falsos cultos do paganismo. Continua a ser uma tentação constante para a fé. Ela consiste em divinizar o que não é Deus. Há idolatria desde o momento em que o homem honra e reverencia uma criatura em lugar de Deus.”</br>
 </br>
 A Santíssima Virgem é, com razão, venerada pelos cristãos com culto especial, de um modo ou de outro, desde que existiu Igreja, e não haveria como ser diferente. Tanto é assim que a Igreja distingue três tipos de culto: o de latria, que significa adoração; o de dulia, que quer dizer honra, veneração; o de hiperdulia, que significa acima, mais alto. Todas, de origem grega.</br>

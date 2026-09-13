@@ -1,10 +1,10 @@
 ---
 title: "Homenagens dentro da Santa Missa?"
 date: 2016-05-04T12:18:00Z
-heroImage: "/images/homenagem.png"
+heroImage: "/images/posts/401-homenagens-dentro-da-santa-missa-homenagem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2HFLSW-JAagp5gLMm6SnZ7v6lMoHpcbVaQVj4l76LZzxU6uTX_uLobUarLiOalds4V3bV7La8R_D-Qo_K3D1A6rV21oFldZ0nBCs4oLy21RVg3t8tt6uopuPAkKG2U5N0fZpJxCsrZM/s1600/homenagem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2HFLSW-JAagp5gLMm6SnZ7v6lMoHpcbVaQVj4l76LZzxU6uTX_uLobUarLiOalds4V3bV7La8R_D-Qo_K3D1A6rV21oFldZ0nBCs4oLy21RVg3t8tt6uopuPAkKG2U5N0fZpJxCsrZM/s320/homenagem.png" width="320" height="244" data-original-width="678" data-original-height="516" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/401-homenagens-dentro-da-santa-missa-homenagem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/401-homenagens-dentro-da-santa-missa-homenagem.png" width="320" height="244" data-original-width="678" data-original-height="516" /></a></div>
 O ser humano sempre esbarra numa tendência de se comportar de forma estreita em alguns aspectos da vida. Por exemplo, o seu agir fica em muitos casos tendo uma reação praticamente automática e sobretudo quando a razão não impera sobre os sentimentos. Vamos entender melhor, vamos com calma.</br>
 </br>
 É sabido de todos nós que, quando agimos sem pensar, no impulso das emoções que afloram a pele, muitas vezes nos pegando de surpresa, nossas reações na grande maioria das vezes, nos leva, a cometer atos que, por questão de segundos nos custam consequências desastrosas. E como sabemos que isso aconteceu? Simples. Sobre vem em nós o arrependimento. Falamos sem pensar e magoamos alguém, agimos sem pensar e ferimos alguém. E tantas e tantas vezes o saldo disso tudo acaba por não ser bom, para nós e para quem participou conosco, direta ou indiretamente.</br>

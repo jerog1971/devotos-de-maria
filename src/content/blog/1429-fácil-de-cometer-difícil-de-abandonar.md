@@ -1,10 +1,10 @@
 ---
 title: "Fácil de cometer, difícil de abandonar"
 date: 2021-05-13T23:08:00Z
-heroImage: "/images/pecado.png"
+heroImage: "/images/posts/1429-fácil-de-cometer-difícil-de-abandonar-pecados_da_carne.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWwCf26gXUAuAszG9-omKl83_ewDd7dUMTwwqEHSqhZSQmRd7TWl22BMyfNO_wEb7OrabIaUOpYTOkZwcPWppzgJnexTGHjn6S48H5qfSBvMuuY9oxmjaA8-p_ooT0LIAYo761LVatgN8/s311/pecados+da+carne.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="311" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWwCf26gXUAuAszG9-omKl83_ewDd7dUMTwwqEHSqhZSQmRd7TWl22BMyfNO_wEb7OrabIaUOpYTOkZwcPWppzgJnexTGHjn6S48H5qfSBvMuuY9oxmjaA8-p_ooT0LIAYo761LVatgN8/s0/pecados+da+carne.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nas palavras do Padre Tomaz de Kemphis assim se refere o
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1429-fácil-de-cometer-difícil-de-abandonar-pecados_da_carne.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="311" src="/images/posts/1429-fácil-de-cometer-difícil-de-abandonar-pecados_da_carne.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nas palavras do Padre Tomaz de Kemphis assim se refere o
 sacerdote em relação aos pecados dos prazeres, que embotam a mente, o corpo e
 os sentidos e, como os entorpecentes, mexem na química do corpo promovendo
 inclusive uma alteração da razão. Assim, afastados de Deus por estar

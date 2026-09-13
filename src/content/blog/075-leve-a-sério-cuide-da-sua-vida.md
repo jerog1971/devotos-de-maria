@@ -1,10 +1,10 @@
 ---
 title: "Leve a sério, cuide da sua vida"
 date: 2020-04-12T17:55:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/075-leve-a-sério-cuide-da-sua-vida-corrim_25C3_25A3o_contaminado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHf2sW9mflnrJF_YKZU0t3vGMr2PAjEvwr2Ykf5kC0ZVYBWR0E618j6J7zDZ8kb6ZP1i-tX37guLsxado9Hz65CKFA5GZ0JUKp2FLSQlxUtCIsa9wLy12kNu_YsFWHWLcm7iH10jZz7cY/s1600/corrim%25C3%25A3o_contaminado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHf2sW9mflnrJF_YKZU0t3vGMr2PAjEvwr2Ykf5kC0ZVYBWR0E618j6J7zDZ8kb6ZP1i-tX37guLsxado9Hz65CKFA5GZ0JUKp2FLSQlxUtCIsa9wLy12kNu_YsFWHWLcm7iH10jZz7cY/s320/corrim%25C3%25A3o_contaminado.png" width="320" height="213" data-original-width="367" data-original-height="244" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/075-leve-a-sério-cuide-da-sua-vida-corrim_25C3_25A3o_contaminado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/075-leve-a-sério-cuide-da-sua-vida-corrim_25C3_25A3o_contaminado.png" width="320" height="213" data-original-width="367" data-original-height="244" /></a></div>
 A vida é movida por muitas engrenagens, haja vista a história bíblica da criação; e tudo se relaciona por desejo do criador de forma harmoniosa. Todo mundo compreende que as coisas são assim mesmo. O egoísmo capitalista devasta os recursos naturais e o planeta age com retaliação. O homem que recebeu a missão de Deus de cuidar, administrar tudo que lhe foi submetido tomou para si o mandato e refez o seu propósito para benefício próprio e não mais, benefício comum como era e ainda é o desejo de Deus.</br>
 </br>
 O que fazem as pessoas? Agem no esquema do cada um por si. Recorrendo mais uma vez ao contexto das escrituras nos parece visualizar que em todo relato bíblico sempre existiu na natureza humana a faculdade da desobediência. Parece que se rebelar contra algo faz parte do agir humano. Todavia o homem não nasceu doente, ficou doente. Sabemos que desde o princípio o mal acomete contra todos por causa de Deus.</br>

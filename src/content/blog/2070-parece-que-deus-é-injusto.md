@@ -1,10 +1,10 @@
 ---
 title: "Parece que Deus é injusto"
 date: 2022-08-29T15:36:00Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/2070-parece-que-deus-é-injusto-img-124378148.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4d3K2I8icYJFcTtWSKgUTqC_Mfw3y5ACIEWskjjpRS-rxtkmZ-R5PdromyqF2mywUw90RCmlPa_qOtbw9wZvUnwd1KPxt5npqyv1zuHMCstUpQkOgXgIlaQeDB-yo0yvdTKI4fB8z4qXRMR6Q0zkPQ9itDq6P7mSQ2n6_c9Fsd3jLr0rpY6UXGcbr/s313/parece%20que%20deus%20%C3%A9%20injusto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="313" data-original-width="270" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4d3K2I8icYJFcTtWSKgUTqC_Mfw3y5ACIEWskjjpRS-rxtkmZ-R5PdromyqF2mywUw90RCmlPa_qOtbw9wZvUnwd1KPxt5npqyv1zuHMCstUpQkOgXgIlaQeDB-yo0yvdTKI4fB8z4qXRMR6Q0zkPQ9itDq6P7mSQ2n6_c9Fsd3jLr0rpY6UXGcbr/s1600/parece%20que%20deus%20%C3%A9%20injusto.png" width="270" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dentro das perspectivas humanas saudáveis, o homem sonha e
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2070-parece-que-deus-é-injusto-img-124378148.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="313" data-original-width="270" height="313" src="/images/posts/2070-parece-que-deus-é-injusto-img-49545882.png" width="270" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dentro das perspectivas humanas saudáveis, o homem sonha e
 planeja constituir uma família e com ela, viver as alegrias da vida. Em seu
 curso de caminhada, porém, espera que a tendência natural percebida pela
 humanidade aconteça, ou seja: que os mais velhos morram primeiro que os mais

@@ -1,10 +1,10 @@
 ---
 title: "O corredor da morte"
 date: 2018-04-26T16:01:00Z
-heroImage: "/images/corredor_hospital.png"
+heroImage: "/images/posts/177-o-corredor-da-morte-corredor_hospital.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRkAcmzKOyicbV-eNbD4EXQANQWSjsOO_jrnQdt0SU82pRxZnBfyA2r7XTYmma-dLJgVQq2M83ApC8te7qA8evKH0hyphenhyphenwZ-2FrvCKxHoSnO1PHDFFCk-d2efDc3LmnxMIAYk6vnYfX9G8/s1600/corredor_hospital.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRkAcmzKOyicbV-eNbD4EXQANQWSjsOO_jrnQdt0SU82pRxZnBfyA2r7XTYmma-dLJgVQq2M83ApC8te7qA8evKH0hyphenhyphenwZ-2FrvCKxHoSnO1PHDFFCk-d2efDc3LmnxMIAYk6vnYfX9G8/s320/corredor_hospital.png" width="320" height="303" data-original-width="665" data-original-height="630" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/177-o-corredor-da-morte-corredor_hospital.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/177-o-corredor-da-morte-corredor_hospital.png" width="320" height="303" data-original-width="665" data-original-height="630" /></a></div>
 Essa é uma expressão muito conhecida do povo em geral. Quando ouvimos alguém falar a respeito dela logo mentalizamos a visão de um transgressor que por praticar crimes de alta gravidade, foi condenado pela justiça de seu país a cumprir uma pena chamada de pena de morte. Enquanto não chega o dia do cumprimento de sua sentença ele espera na ala do presídio onde outros, assim como ele, contam seus dias aqui nesta terra.</br>
 </br>
 Pois bem, aproveitando-me dessa introdução um tanto análoga para o tema que pretendo refletir, começo dizendo que em nossa vida, e falo aqui com os que temem a Deus e procuram viver agradando-o, vivemos num caminhar que muito bem poderia ser relacionado a um corredor. Pelo caminho vamos andando por este corredor e muitas portas de ambos os lados vamos deixando para trás. Cada uma delas possui um título, porém, todas não passam de tentações. A cada porta que deixamos para trás com a graça de Cristo vencemos mais uma oferta do inimigo.

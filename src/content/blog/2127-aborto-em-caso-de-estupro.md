@@ -1,10 +1,10 @@
 ---
 title: "Aborto em caso de Estupro"
 date: 2015-11-02T18:37:00Z
-heroImage: "/images/aborto_estupro.png"
+heroImage: "/images/posts/2127-aborto-em-caso-de-estupro-aborto_estupro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgovUr7a_5qLwC7TtOPCFYQ6tNTo6_AVO1GCBHrMn9GXNIauPY7-kxb2F7zhEBkZkzwfgOl9yQrvFqbI4EkSRcRQriChS6UEvcintcUeCLR16NgRcBBe6UawQP2GQ-zXX-WX1sz9SI5f-I/s1600/aborto_estupro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgovUr7a_5qLwC7TtOPCFYQ6tNTo6_AVO1GCBHrMn9GXNIauPY7-kxb2F7zhEBkZkzwfgOl9yQrvFqbI4EkSRcRQriChS6UEvcintcUeCLR16NgRcBBe6UawQP2GQ-zXX-WX1sz9SI5f-I/s320/aborto_estupro.png" width="320" height="291" data-original-width="393" data-original-height="357" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2127-aborto-em-caso-de-estupro-aborto_estupro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2127-aborto-em-caso-de-estupro-aborto_estupro.png" width="320" height="291" data-original-width="393" data-original-height="357" /></a></div>
 </br>
 A história de Lianna Rebolledo – a mãe que, com apenas 12 anos, engravidou por causa de um estupro – é realmente chocante. A violação de que foi vítima deixou-a "semimorta" e "com sua face e pescoço horrivelmente desfigurados". Ela mesmo confessa, mais de duas décadas depois do ocorrido, que pensou que seus agressores iam matá-la. Não há palavras que possam expressar suficientemente a dor e a indignação de qualquer pessoa moralmente sadia diante de um crime como este. Embora a "cultura pornográfica" vigente procure até mesmo justificar este tipo de abuso, sabemos que se trata de "um atentado contra a justiça e a caridade", que "ofende profundamente o direito de cada um ao respeito, à liberdade e à integridade física e moral" e "causa um prejuízo grave, que pode marcar a vítima para toda a vida".</br>
 </br>

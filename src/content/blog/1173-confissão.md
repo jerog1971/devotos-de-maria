@@ -1,7 +1,7 @@
 ---
 title: "Confissão"
 date: 2019-05-17T17:33:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1173-confissão-confiss_25C3_25A3o.png"
 ---
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.2%;"><iframe src="https://gloria.tv/embed/+/video/yP47xuSVnSQu34GqK1SMCUiuU" width="768" height="432" frameborder="0" scrolling="no" allowfullscreen style="position:absolute;top:0;right:0;bottom:0;left:0;height:100%;width:100%;"></iframe></div>
@@ -35,7 +35,7 @@ SUGESTÃO DE LOCAL PARA CONFISSÃO EM CURITIBA</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terça a Sexta - das 10:30 às 12:00 (no confessionário)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terça a Sexta - das 14:30 às 16:30 (em sala fechada)</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt3qeULxWZX5d5TXZKQD3UmuRsZkM7Zy6MSubn4oy1Pi0Udqo3R8P8e204FTlLBtEk_Sb9P51cbErjaWLRuJZPArq_7EtSC1lcvUuwlsArD728XTmcTM_IWAzg_FkdP_VuxRQ3SGP3bkw/s1600/confiss%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt3qeULxWZX5d5TXZKQD3UmuRsZkM7Zy6MSubn4oy1Pi0Udqo3R8P8e204FTlLBtEk_Sb9P51cbErjaWLRuJZPArq_7EtSC1lcvUuwlsArD728XTmcTM_IWAzg_FkdP_VuxRQ3SGP3bkw/s200/confiss%25C3%25A3o.png" width="168" height="200" data-original-width="296" data-original-height="352" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1173-confissão-confiss_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1173-confissão-confiss_25C3_25A3o.png" width="168" height="200" data-original-width="296" data-original-height="352" /></a></div>
 <h2>Oração para antes da Confissão:</h2></br>
 </br>
 Senhor, iluminai-me para me ver a mim próprio tal como Vós me vedes, e dai-me a graça de me arrepender verdadeira e efetivamente dos meus pecados. O Virgem Santíssima, ajudai-me a fazer uma boa confissão.</br>
@@ -126,7 +126,7 @@ E também: Observei as leis da Igreja sobre o matrimônio, ou seja, quanto ao ma
 </br>
 <b>Finalmente:</b> Recebi a Sagrada Comunhão em estado de pecado mortal? (Este é um sacrilégio muito grave.)</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWG9wu8rGyx56BbAcy4XjQz1V30c3VsYHEkx5r1QWzJQsGazr3lvAzDcgdsl3NOGYd4aiLLEWaw0NWgBYnRZVJeyLDn5qQnf3sqi4ekIXQbS3vpvilT0yjDFL0EZO0Af1AZpU7ANxJNc/s1600/claret.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilWG9wu8rGyx56BbAcy4XjQz1V30c3VsYHEkx5r1QWzJQsGazr3lvAzDcgdsl3NOGYd4aiLLEWaw0NWgBYnRZVJeyLDn5qQnf3sqi4ekIXQbS3vpvilT0yjDFL0EZO0Af1AZpU7ANxJNc/s200/claret.png" width="167" height="200" data-original-width="249" data-original-height="298" /></a></div>></br>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1173-confissão-claret.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1173-confissão-claret.png" width="167" height="200" data-original-width="249" data-original-height="298" /></a></div>></br>
 </br>
 <h2>O exame dos pecados veniais de Santo Antonio Maria Claret</h2></br>
 </br>
@@ -154,7 +154,7 @@ Meu Deus, por causa dos meus pecados graves crucifiquei de novo o Vosso Divino F
 </br>
 <h2>Exame de Consciência (baseado nos mandamentos) para uma boa confissão para os pecados graves:</h2></br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiof325gZ8DVs-_6_2Dlt_anWNfOb65fOfvh9WNSWUUTDgUt7VlhemurWEa717BhMUhQi2nX9BZKxval0lVDfWbeehgdiNQzcn6np1N_hDeVCZ2K9XhZ6NV3QMfqD70InAd9wmLNBBPrNg/s1600/alei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiof325gZ8DVs-_6_2Dlt_anWNfOb65fOfvh9WNSWUUTDgUt7VlhemurWEa717BhMUhQi2nX9BZKxval0lVDfWbeehgdiNQzcn6np1N_hDeVCZ2K9XhZ6NV3QMfqD70InAd9wmLNBBPrNg/s200/alei.png" width="200" height="192" data-original-width="370" data-original-height="356" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1173-confissão-alei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1173-confissão-alei.png" width="200" height="192" data-original-width="370" data-original-height="356" /></a></div>
 </br>
 <b>1º MANDAMENTO: “AMARÁS O SENHOR TEU DEUS DE TODO O TEU CORAÇÃO, DE TODA A TUA ALMA, COM TODAS AS TUAS FORÇAS.”</b></br>
 </br>

@@ -1,10 +1,10 @@
 ---
 title: "Padres que desobedecem mandamentos"
 date: 2020-05-17T15:38:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1893-padres-que-desobedecem-mandamentos-img-1252373052.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV4CXchKNG2NxIDgEKG0ZHqH0vuT_ewe2SmdGH5FiV2XEi7BfYneXlo_Lm189g6RmGI2c8ctLQWJbhDKa1qVItFFOZ7ubm9vgJ_09k-awlxNKLdWddtDh29848AhRksfCBXR7IsEHCR0/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="261" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV4CXchKNG2NxIDgEKG0ZHqH0vuT_ewe2SmdGH5FiV2XEi7BfYneXlo_Lm189g6RmGI2c8ctLQWJbhDKa1qVItFFOZ7ubm9vgJ_09k-awlxNKLdWddtDh29848AhRksfCBXR7IsEHCR0/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Amar a Deus sobre todas as coisas significa, como diz João
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1893-padres-que-desobedecem-mandamentos-img-1252373052.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="261" src="/images/posts/1893-padres-que-desobedecem-mandamentos-img-1252373052.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Amar a Deus sobre todas as coisas significa, como diz João
 Batista, diminuirmos para que o Cristo apareça. É o pleno exercício da
 humildade. Um padre tem que ficar nos bastidores, é o ministro de Cristo, o que
 importa é Jesus. Louvável são os padres que não se exaltam, que não transformam

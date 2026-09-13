@@ -1,10 +1,10 @@
 ---
 title: "Ou ouvimos Jesus, ou ouvimos o mundo"
 date: 2016-05-30T14:00:00Z
-heroImage: "/images/estuprada.png"
+heroImage: "/images/posts/1757-ou-ouvimos-jesus-ou-ouvimos-o-mundo-estuprada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi3ONJNCOkBysiIyZ6BmRGHcpmCp1gbqfODm1s43ajq5oQ_Ks4Tcdfxb-U3gE4j8UCDfy_gHxaCDFvCUHcCrFdvjbogdWZp6_6SNs_mbr2s9UWDq7RdgC7SXQjqMUKkhHmqktFbsQm4wE/s1600/estuprada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi3ONJNCOkBysiIyZ6BmRGHcpmCp1gbqfODm1s43ajq5oQ_Ks4Tcdfxb-U3gE4j8UCDfy_gHxaCDFvCUHcCrFdvjbogdWZp6_6SNs_mbr2s9UWDq7RdgC7SXQjqMUKkhHmqktFbsQm4wE/s320/estuprada.png" width="320" height="298" data-original-width="303" data-original-height="282" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1757-ou-ouvimos-jesus-ou-ouvimos-o-mundo-estuprada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1757-ou-ouvimos-jesus-ou-ouvimos-o-mundo-estuprada.png" width="320" height="298" data-original-width="303" data-original-height="282" /></a></div>
 Eclesiástico 3,1-4 - Os filhos da sabedoria formam a assembléia dos justos, e o novo que compõem é, todo ele, obediência e amor. Ouvi, meus filhos, os conselhos de vosso pai, segui-os de tal modo que sejais salvos. Pois Deus quis honrar os pais pelos filhos, e cuidadosamente fortaleceu a autoridade da mãe sobre eles. Aquele que ama a Deus o roga pelos seus pecados, acautela-se para não cometê-los no porvir. Ele é ouvido em sua prece cotidiana.</br>
 </br>
 Vira e mexe a pornéia, doença espiritual responsável pelos pecados da luxúria, varre com sua calda, de tempos em tempos, mais uma leva de pessoas que, dominadas pelos prazeres carnais desordenados e por isso, fora do contexto da sacralidade querida e desejada por Deus, cometem em seus abusos e consequentes pecados mortais, verdadeiras atrocidades que fazem o inferno aplaudirem os protagonistas de tamanha ofensa ao amor de Deus e a dignidade que Ele nos concede pela teologia do corpo.</br>

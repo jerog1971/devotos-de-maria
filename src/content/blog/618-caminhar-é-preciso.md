@@ -1,10 +1,10 @@
 ---
 title: "Caminhar é preciso"
 date: 2020-06-17T17:09:00.003Z
-heroImage: "/images/a_caminhada.png"
+heroImage: "/images/posts/618-caminhar-é-preciso-a_caminhada.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD5uxxfMv7UxsWD6i0UrVVXN2WsPDcmulFPnRF-G4ujUnZd3PvUHDFRj-oHVsN9ODj9KOfttdiQ9MihYd1eR_yI68SUKdxzztmZGzDdYgLfqUaHtmNbk8h36NKTU535Vqfm2MlzH1dFNI/s893/a_caminhada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="619" data-original-width="893" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD5uxxfMv7UxsWD6i0UrVVXN2WsPDcmulFPnRF-G4ujUnZd3PvUHDFRj-oHVsN9ODj9KOfttdiQ9MihYd1eR_yI68SUKdxzztmZGzDdYgLfqUaHtmNbk8h36NKTU535Vqfm2MlzH1dFNI/s320/a_caminhada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todo cristão que se preze e se preocupa com a salvação de
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/618-caminhar-é-preciso-a_caminhada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="619" data-original-width="893" src="/images/posts/618-caminhar-é-preciso-a_caminhada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todo cristão que se preze e se preocupa com a salvação de
 sua alma, das almas daqueles que ama e, se almeja um alto grau de santidade, a
 salvação dos pobres pecadores, sabe que isso tudo é uma questão de se caminhar.
 Jesus nos apresenta uma comparação entre os caminhos que podemos escolher, fala

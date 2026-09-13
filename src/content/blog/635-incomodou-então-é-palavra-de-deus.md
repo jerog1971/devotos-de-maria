@@ -1,10 +1,10 @@
 ---
 title: "Incomodou? Então é palavra de Deus"
 date: 2021-09-02T20:03:00.002Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/635-incomodou-então-é-palavra-de-deus-a_palavra_de_deus_incomoda.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9zx5bKyHykIKcIbQWPBkdMnv7X5KAgSwg7oW89hBS_dimx7wJU6mLSKXNpMl-2tg1R3RbOr4C7pYfOQMSuKUFOfuxzQpRNTALqOIjLIIzN1FlB_NQf4nNfTjEeuORnW7K7fLBT7FGZTg/s409/a+palavra+de+deus+incomoda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="354" data-original-width="409" height="277" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9zx5bKyHykIKcIbQWPBkdMnv7X5KAgSwg7oW89hBS_dimx7wJU6mLSKXNpMl-2tg1R3RbOr4C7pYfOQMSuKUFOfuxzQpRNTALqOIjLIIzN1FlB_NQf4nNfTjEeuORnW7K7fLBT7FGZTg/s320/a+palavra+de+deus+incomoda.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus diz que a verdade vos libertará. De fato, a
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/635-incomodou-então-é-palavra-de-deus-a_palavra_de_deus_incomoda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="354" data-original-width="409" height="277" src="/images/posts/635-incomodou-então-é-palavra-de-deus-a_palavra_de_deus_incomoda.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus diz que a verdade vos libertará. De fato, a
 intensidade e a força de suas palavras, se mergulharmos bem a fundo em cada,
 causará em nós uma transformação vitalícia e incapaz de ser modificada por
 força alguma, mesmo se esta for além de nossas capacidades. Deus não precisaria,

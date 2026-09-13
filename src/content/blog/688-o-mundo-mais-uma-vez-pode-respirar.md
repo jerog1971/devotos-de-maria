@@ -1,10 +1,10 @@
 ---
 title: "O mundo mais uma vez pode respirar"
 date: 2020-03-24T15:02:00Z
-heroImage: "/images/morrer.png"
+heroImage: "/images/posts/688-o-mundo-mais-uma-vez-pode-respirar-morrer.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMi8bH1m2avNBYbtYJRy82lz_jl67rzNTldOb3M-oNMnPHbc_V-JivzY3R3b3wmX2_v-dEUygntcDm0Q0YWVWsVboWntlaOxssTvQi8RcJjEunpHjfcrKI21mXs2mo_h_ZCG0xQFGEIc/s1600/morrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMi8bH1m2avNBYbtYJRy82lz_jl67rzNTldOb3M-oNMnPHbc_V-JivzY3R3b3wmX2_v-dEUygntcDm0Q0YWVWsVboWntlaOxssTvQi8RcJjEunpHjfcrKI21mXs2mo_h_ZCG0xQFGEIc/s320/morrer.png" width="320" height="297" data-original-width="308" data-original-height="286" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/688-o-mundo-mais-uma-vez-pode-respirar-morrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/688-o-mundo-mais-uma-vez-pode-respirar-morrer.png" width="320" height="297" data-original-width="308" data-original-height="286" /></a></div>
 Com a atual pandemia sobre o nome de coronavirus mais uma vez a natureza se rebela contra a humanidade uma vez que essa, com seu egoísmo desenfreado, acha que pode tratar a natureza como bem entender, subjugá-la e ainda exigir o bem em troca. Como se engana, o mundo responde vez por outra e quando responde todos sabem muito bem o poder destruidor que possui.</br>
 </br>
 Gênesis 2,8-15 – “O Senhor Deus tinha plantado um jardim no Éden, do lado do oriente, e colocou nele o homem que havia criado. O Senhor Deus fez brotar da terra toda sorte de árvores, de aspecto agradável, e de frutos bons para comer; e a árvore da vida no meio do jardim, e a árvore da ciência do bem e do mal. Um rio saía do Éden para regar o jardim, e dividia-se em seguida em quatro braços:</br>

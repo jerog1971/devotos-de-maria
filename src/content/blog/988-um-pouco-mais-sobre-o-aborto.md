@@ -1,10 +1,10 @@
 ---
 title: "Um pouco mais sobre o aborto"
 date: 2024-11-28T18:10:00.002Z
-heroImage: "/images/aborto.png"
+heroImage: "/images/posts/988-um-pouco-mais-sobre-o-aborto-aborto.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyCWS583qyItPEWWS5y7n2gwh-ZxBUNMaDE-fluuqA7fiNpFer9hzzK3nylaazfGKG28rMvb_r_SKv4tN3B8XWrZFvkbBvTai4rx5FexpQLxeN6C8StI_yylmxR5Xnmjgkl1oNBgVIiHF3hR7pqmHkZY9GtoUoPKa7VUAzBlcYvQh0chG3MPMDwA9kAHI/s482/aborto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="482" height="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyCWS583qyItPEWWS5y7n2gwh-ZxBUNMaDE-fluuqA7fiNpFer9hzzK3nylaazfGKG28rMvb_r_SKv4tN3B8XWrZFvkbBvTai4rx5FexpQLxeN6C8StI_yylmxR5Xnmjgkl1oNBgVIiHF3hR7pqmHkZY9GtoUoPKa7VUAzBlcYvQh0chG3MPMDwA9kAHI/s320/aborto.png" width="320" /></a></div><br />&nbsp;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/988-um-pouco-mais-sobre-o-aborto-aborto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="482" height="302" src="/images/posts/988-um-pouco-mais-sobre-o-aborto-aborto.png" width="320" /></a></div><br />&nbsp;
 
 <p></p><p class="MsoNormal">Caro leitor, quando os militares em missão planejada, por
 algum motivo percebem não haver êxito na investida, cujo um dos motivos seja,

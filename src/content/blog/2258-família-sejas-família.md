@@ -1,10 +1,10 @@
 ---
 title: "Família, sejas Família"
 date: 2016-07-19T11:00:00.002Z
-heroImage: "/images/familia2.png"
+heroImage: "/images/posts/2258-família-sejas-família-familia2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKKMHDlMZ3yt7_ZQc_Tjv2hyRAEPEcBKH7X8JM3Dsdv-y-Y77YRmQC7igRACRczqFAOQBU7MHS_VbjhQi_0JGID4LXVgvOHs78pVAuveSSm5tkP2KBxKMTGs812g4-FKDzYAy2A73MlAQ/s1600/familia2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKKMHDlMZ3yt7_ZQc_Tjv2hyRAEPEcBKH7X8JM3Dsdv-y-Y77YRmQC7igRACRczqFAOQBU7MHS_VbjhQi_0JGID4LXVgvOHs78pVAuveSSm5tkP2KBxKMTGs812g4-FKDzYAy2A73MlAQ/s320/familia2.png" width="320" height="257" data-original-width="646" data-original-height="519" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2258-família-sejas-família-familia2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2258-família-sejas-família-familia2.png" width="320" height="257" data-original-width="646" data-original-height="519" /></a></div>
 A família está no centro das grandes discussões mundiais. A instituição familiar passa por uma crise sem precedentes na história. Recentemente, assistimos perplexos à aprovação do tão chamado “casamento” gay em duas nações de antiga tradição cristã: Irlanda e Estados Unidos. O que estaria na origem de tudo isso? Como os cristãos podem reagir a essa mudança de valores que, a princípio, parece incontrolável?</br>
 </br>
 A primeira coisa a reconhecer, para nossa tristeza, é o fracasso das famílias no que se refere ao testemunho das virtudes evangélicas e humanas. O “casamento” gay é apenas a ponta do iceberg. O problema vai muito além das uniões entre pessoas do mesmo sexo. Quando os heterossexuais, desgraçadamente, aceitaram a proposta do divórcio como uma via legítima de solução para os conflitos entre marido e mulher, eles simplesmente abriram caminho para que outros parceiros sexuais reivindicassem seus “direitos” civis.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Família é para todos os momentos"
 date: 2016-01-14T11:11:00Z
-heroImage: "/images/gemma_walker_depois.png"
+heroImage: "/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_depois.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaVovfOUF_Ui_idrLj7H1xgo-oIwCrtUKLccKArhe9w1fanfxH6GR91PukSZ9ke12p1IBkGP7SOK2fhCjSg5ivii4D41u6YpKqT4oN21E77fZZ5j4nzKTyocG7Qbmw4MgfsUUmhtu3BQw/s1600/gemma_walker_depois.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaVovfOUF_Ui_idrLj7H1xgo-oIwCrtUKLccKArhe9w1fanfxH6GR91PukSZ9ke12p1IBkGP7SOK2fhCjSg5ivii4D41u6YpKqT4oN21E77fZZ5j4nzKTyocG7Qbmw4MgfsUUmhtu3BQw/s320/gemma_walker_depois.png" width="214" height="320" data-original-width="348" data-original-height="520" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_depois.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_depois.png" width="214" height="320" data-original-width="348" data-original-height="520" /></a></div>
 </br>
 Olá caros leitores vamos neste artigo refletir um pouco sobre alguns distúrbios relacionados com o culto a imagem do ser humano, movido pela intensa cobrança que a sociedade insiste em impor ao longo de toda a sua história. Dizemos ao longo porque em outras épocas o que se cultuava eram as mulheres corpulentas, visível sinal de saúde e vigor para a ocasião. Também em outro momento histórico o bronzeado do corpo era mal visto pois indicava que aquela pessoa era de classe muito baixa, trabalhadora que exercia suas funções sob o sol. Pois bem falemos aqui um pouco sobre dois distúrbios bem interligados. A bulimia e a anorexia nervosa.</br>
 </br>
@@ -29,7 +29,7 @@ Com tanto sofrimento, ela tomou a iniciativa de tentar se recuperar. A jovem che
 </br>
 Gemma afirma que hoje se sente melhor e atribuiu a sua recuperação ao apoio de sua família.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5dod3LKc1XmY_I5JQSz75790SxjFAWB-tSiXZ5q2rDLQ0Wk5TyzPeyEP9185TDJocFUXWLWm6erNNxRMg1T8YGBN4aK9metftmstWo5OPeHtlO3x3uDgX8gqqwsVQcBEkfUWyAJvvSrY/s1600/gemma_walker_antes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5dod3LKc1XmY_I5JQSz75790SxjFAWB-tSiXZ5q2rDLQ0Wk5TyzPeyEP9185TDJocFUXWLWm6erNNxRMg1T8YGBN4aK9metftmstWo5OPeHtlO3x3uDgX8gqqwsVQcBEkfUWyAJvvSrY/s200/gemma_walker_antes.png" width="147" height="200" data-original-width="299" data-original-height="406" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_antes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_antes.png" width="147" height="200" data-original-width="299" data-original-height="406" /></a></div>
 </br>
 “— Eles passaram por tudo isso sempre ao meu lado.”</br>
 </br>

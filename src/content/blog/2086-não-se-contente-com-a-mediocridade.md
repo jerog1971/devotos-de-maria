@@ -1,10 +1,10 @@
 ---
 title: "Não se contente com a mediocridade"
 date: 2025-03-14T18:28:00.004Z
-heroImage: "/images/mediocridade.png"
+heroImage: "/images/posts/2086-não-se-contente-com-a-mediocridade-mediocridade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgywU1BMtMEnB2ArxLUXVZIyWBCJLf7SvsQP0jfX3k-IE3VMf3jRC87mNn574Y_fOV7QbYUXZpP4b99EnYKzlehxBBUI48Ja2cEtIbFZ5Ks7U7CcgcXqA8rICXqmUf3GpVnCxKqn9zoHVF4XYQop_TcyTGQopIIlQsyQC_CgRSAgnsGGq8NWOEpUYjKx2Y/s582/mediocridade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="555" data-original-width="582" height="305" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgywU1BMtMEnB2ArxLUXVZIyWBCJLf7SvsQP0jfX3k-IE3VMf3jRC87mNn574Y_fOV7QbYUXZpP4b99EnYKzlehxBBUI48Ja2cEtIbFZ5Ks7U7CcgcXqA8rICXqmUf3GpVnCxKqn9zoHVF4XYQop_TcyTGQopIIlQsyQC_CgRSAgnsGGq8NWOEpUYjKx2Y/s320/mediocridade.png" width="320" /></a></div><br />&nbsp;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2086-não-se-contente-com-a-mediocridade-mediocridade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="555" data-original-width="582" height="305" src="/images/posts/2086-não-se-contente-com-a-mediocridade-mediocridade.png" width="320" /></a></div><br />&nbsp;
 <p></p><p class="MsoNormal">Na caminhada cristã existe uma pequena cilada imposta durante
 a jornada. Essa “cilada” foi apresentada por Jesus em seu evangelho. Era o jovem
 rico que queria saber do Cristo o que devia fazer para ser “perfeito”. E Jesus

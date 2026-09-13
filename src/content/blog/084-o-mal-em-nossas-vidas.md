@@ -1,10 +1,10 @@
 ---
 title: "O mal em nossas vidas"
 date: 2019-11-01T19:43:00Z
-heroImage: "/images/A vigilância do mal.png"
+heroImage: "/images/posts/084-o-mal-em-nossas-vidas-mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAl1dSHptKkFmq0QneOVS5XZYdpzOO8BCCA-YsCdUkeEK8gfIACsqTnmy40YoYoeNd9t1UsruJmRO3_DkAwUpGAX5dPAFN_sqc_6RjmtT6SNDru1DiTYDyaccfkY-W820KfrgW_Xm9yg8/s1600/mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAl1dSHptKkFmq0QneOVS5XZYdpzOO8BCCA-YsCdUkeEK8gfIACsqTnmy40YoYoeNd9t1UsruJmRO3_DkAwUpGAX5dPAFN_sqc_6RjmtT6SNDru1DiTYDyaccfkY-W820KfrgW_Xm9yg8/s320/mal.png" width="320" height="244" data-original-width="574" data-original-height="437" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/084-o-mal-em-nossas-vidas-mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/084-o-mal-em-nossas-vidas-mal.png" width="320" height="244" data-original-width="574" data-original-height="437" /></a></div>
 Efésios 6,12 – “Pois não é contra homens de carne e sangue que temos de lutar, mas contra os principados e potestades, contra os príncipes deste mundo tenebroso, contra as forças 
 espirituais do mal (espalhadas) nos ares”. O mal existe, a maldade pura ou maculada é uma realidade. O ódio a Deus por tudo que ele é e representa atinge proporções imensas. Como Deus não pode ser prejudicado por este mal praticado por seus inimigos, termina que seus herdeiros (os filhos de Deus pela graça do batismo), sofrem os ataques do inimigo.</br>
 </br>

@@ -1,10 +1,10 @@
 ---
 title: "Quem educa quem?"
 date: 2016-07-11T12:00:00.001Z
-heroImage: "/images/educar.png"
+heroImage: "/images/posts/1441-quem-educa-quem-educar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhGKYLf_xtZEB3vr6Cu0OFyIZk7Qss_WW-wj7yPT3e_yAQv90X0AjLajzC0STGwOR9F3JZaaEwMdlpUoRGbS-d4L048xvvZpPN53DKqZRjAgj2ncj8gRihKdhICJFWl0ANDNl-6975hwY/s1600/educar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhGKYLf_xtZEB3vr6Cu0OFyIZk7Qss_WW-wj7yPT3e_yAQv90X0AjLajzC0STGwOR9F3JZaaEwMdlpUoRGbS-d4L048xvvZpPN53DKqZRjAgj2ncj8gRihKdhICJFWl0ANDNl-6975hwY/s320/educar.png" width="320" height="204" data-original-width="478" data-original-height="304" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1441-quem-educa-quem-educar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1441-quem-educa-quem-educar.png" width="320" height="204" data-original-width="478" data-original-height="304" /></a></div>
 </br>
 É inicio de semana, saio para ir ao trabalho. Uma caminhada voluntária de quase 20 minutos de casa ao terminal de ônibus. Em frente de onde moro vejo pais deixando seus filhos em uma creche. Numa das mãos ou no colo, a criança. Na outra, o "outro" membro da família, eterno companheiro da atualidade: o celular.</br>
 </br>

@@ -1,10 +1,10 @@
 ---
 title: "Sigamos o que vem de Deus"
 date: 2016-02-18T17:49:00Z
-heroImage: "/images/olho_grego.png"
+heroImage: "/images/posts/1410-sigamos-o-que-vem-de-deus-olho_grego.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9dxx6n9N5n8oJAWv1PJqb4-iDCnlM8Ww-vDkFBvyfTEeGuH0qBhmE5GIAU_P6v8cTHNpG2n1F4AX4yoqT71iNVnXHSqGVkeXFhQn-FompnNfpQ7liioEjJwuTFvq2oiIP9Gl6R7XaYsM/s1600/olho_grego.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9dxx6n9N5n8oJAWv1PJqb4-iDCnlM8Ww-vDkFBvyfTEeGuH0qBhmE5GIAU_P6v8cTHNpG2n1F4AX4yoqT71iNVnXHSqGVkeXFhQn-FompnNfpQ7liioEjJwuTFvq2oiIP9Gl6R7XaYsM/s320/olho_grego.png" width="314" height="320" data-original-width="155" data-original-height="158" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1410-sigamos-o-que-vem-de-deus-olho_grego.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1410-sigamos-o-que-vem-de-deus-olho_grego.png" width="314" height="320" data-original-width="155" data-original-height="158" /></a></div>
 Deuteronômio 18, 10 - Não se ache no meio de ti quem faça passar pelo fogo seu filho ou sua filha, nem quem se dê à adivinhação, à astrologia, aos agouros, ao feiticismo,
 11 à magia, ao espiritismo, à adivinhação ou â invocação dos mortos,
 12 porque o Senhor, teu Deus, abomina aqueles que se dão a essas práticas, e é por causa dessas abominações que o Senhor, teu Deus, expulsa diante de ti essas nações.

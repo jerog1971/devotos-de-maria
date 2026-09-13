@@ -1,10 +1,10 @@
 ---
 title: "Último ato heroico"
 date: 2024-12-03T18:10:00.003Z
-heroImage: "/images/morte na água.png"
+heroImage: "/images/posts/011-último-ato-heroico-morte_20na_20_C3_A1gua.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_A0Zwhd6n50VS3v_C1XHTV4kQosyGHunqfSJ9Ks0cqqqrhpbP4Fwlf_K7HCdy6VlsDarmNz6KEbGb4Z6auy2g_XqZqAeO96VUMLV-DDp-uxVbnxOPzVrPKhSr_NQwzHwqfWcY4hhWwBYaTQbZ22DzFTEWOqYrzEqGABl2-adB6etdCNAazcLC8t-p6KM/s968/morte%20na%20%C3%A1gua.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="635" data-original-width="968" height="210" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_A0Zwhd6n50VS3v_C1XHTV4kQosyGHunqfSJ9Ks0cqqqrhpbP4Fwlf_K7HCdy6VlsDarmNz6KEbGb4Z6auy2g_XqZqAeO96VUMLV-DDp-uxVbnxOPzVrPKhSr_NQwzHwqfWcY4hhWwBYaTQbZ22DzFTEWOqYrzEqGABl2-adB6etdCNAazcLC8t-p6KM/s320/morte%20na%20%C3%A1gua.png" width="320" /></a></div><p>&nbsp;</p><p>Uma parcela das pessoas gosta de filmes de heróis; uma oportunidade
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/011-último-ato-heroico-morte_20na_20_C3_A1gua.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="635" data-original-width="968" height="210" src="/images/posts/011-último-ato-heroico-morte_20na_20_C3_A1gua.png" width="320" /></a></div><p>&nbsp;</p><p>Uma parcela das pessoas gosta de filmes de heróis; uma oportunidade
 para descontrair e aproveitar uma história idealizada para divertir, emocionar,
 fazer pensar e colher reflexões de várias naturezas. Em tempos atuais, para aqueles
 que não estão bem familiarizados com os quadrinhos, cada vez mais os filmes,

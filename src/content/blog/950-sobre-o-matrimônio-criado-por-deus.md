@@ -1,10 +1,10 @@
 ---
 title: "Sobre o matrimônio criado por Deus"
 date: 2020-01-17T21:40:00.003Z
-heroImage: "/images/casamento.png"
+heroImage: "/images/posts/950-sobre-o-matrimônio-criado-por-deus-casamento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPC0xwiPkl4azd5JXrM0ZEWCvyYPhm2QgYVm1dNll759l-OyD3CLw3Vjti6PstnK9dblt5YXjB0KdkKQ60kJkjwVu48BhVkOWdsDo6YQganJDvMjRJrdvLITvrSseISbJ7LcM8ds781qs/s1600/casamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPC0xwiPkl4azd5JXrM0ZEWCvyYPhm2QgYVm1dNll759l-OyD3CLw3Vjti6PstnK9dblt5YXjB0KdkKQ60kJkjwVu48BhVkOWdsDo6YQganJDvMjRJrdvLITvrSseISbJ7LcM8ds781qs/s320/casamento.png" width="320" height="315" data-original-width="366" data-original-height="360" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/950-sobre-o-matrimônio-criado-por-deus-casamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/950-sobre-o-matrimônio-criado-por-deus-casamento.png" width="320" height="315" data-original-width="366" data-original-height="360" /></a></div>
 Descobri que meu casamento não tinha quebrado, só não sabia fazer funcionar. Mulher é como uma flor, se a tratar bem ela vai florescer, senão, ela vai definhar. Sabe o que significa a aliança de casamento? Que está casado(a)! É, mas também quer dizer que você fez uma pacto para a vida toda; até colocou essa aliança quando fazia o juramento. O triste é que a maioria das pessoas promete na alegria e na tristeza, na verdade é só na alegria.</br>
 </br>
 Vejamos: sal e pimenta são completamente diferentes. A composição é diferente, a cor e o sabor também; mas você sempre os vê juntos. Pois bem, quando duas pessoas se casam, é na alegria e na tristeza, na riqueza e na pobreza, na saúde e na doença. Alguns vão dizer: “eu sei disso, mas os casamentos não são à prova de fogo, às vezes se queima.” No entanto, isso não quer dizer que o fogo nunca vai se aproximar, mas se acontecer você pode resistir.</br>

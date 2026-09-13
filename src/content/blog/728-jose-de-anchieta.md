@@ -1,10 +1,10 @@
 ---
 title: "Jose de Anchieta"
 date: 2020-06-09T15:38:00Z
-heroImage: "/images/a alegria dos santos.png"
+heroImage: "/images/posts/728-jose-de-anchieta-santos.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIvFjzhAI-cbD5IThcbJ58cIkSO_5m8TyvFQ964ZfqimbSwG-KchXtm98L_Ue0mXX6ud408X9FzsWc40zVHPTQYbRCmqrBq5ms1Jfu5PAbrvxoOqGKBicDegYgX8jeXM6AM0xdV4FCdYs/s344/santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIvFjzhAI-cbD5IThcbJ58cIkSO_5m8TyvFQ964ZfqimbSwG-KchXtm98L_Ue0mXX6ud408X9FzsWc40zVHPTQYbRCmqrBq5ms1Jfu5PAbrvxoOqGKBicDegYgX8jeXM6AM0xdV4FCdYs/s320/santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em São Cristóvão da Laguna, na ilha de Tenerife,
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/728-jose-de-anchieta-santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="/images/posts/728-jose-de-anchieta-santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em São Cristóvão da Laguna, na ilha de Tenerife,
 Canárias. Em 1551, ingressou na Companhia de Jesus e em 1553 fez sua profissão
 perpétua. No mesmo ano, partiu para o Brasil. Estabeleceu-se no Colégio de São
 Paulo, no planalto de Piratininga, contribuindo para a fundação daquela que se

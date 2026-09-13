@@ -1,10 +1,10 @@
 ---
 title: "Uma mudança do dogma é impensável"
 date: 2016-07-05T11:00:00.001Z
-heroImage: "/images/dogma.png"
+heroImage: "/images/posts/093-uma-mudança-do-dogma-é-impensável-dogma.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKWEVp47-dZYE29SBM7sOe-aqBDaVV6CAfxNge8BCFGXXZFlgL1fRfWrzGqQTQTTG0h6C0Oo16i1Ese5jjQGoizrLQkEamZhN2CwLFm9mtZrcE8UdLQ7dId7FhSux6Raj0l8eBHJlx5jk/s1600/dogma.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKWEVp47-dZYE29SBM7sOe-aqBDaVV6CAfxNge8BCFGXXZFlgL1fRfWrzGqQTQTTG0h6C0Oo16i1Ese5jjQGoizrLQkEamZhN2CwLFm9mtZrcE8UdLQ7dId7FhSux6Raj0l8eBHJlx5jk/s320/dogma.png" width="320" height="287" data-original-width="398" data-original-height="357" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/093-uma-mudança-do-dogma-é-impensável-dogma.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/093-uma-mudança-do-dogma-é-impensável-dogma.png" width="320" height="287" data-original-width="398" data-original-height="357" /></a></div>
 </br>
 O Cardeal Walter Brandmüller tem sido uma das principais vozes críticas às propostas circulantes no Sínodo Extraordinário sobre a Família, que aconteceu em 2015, que correm o risco de subverter a doutrina católica sobre os Sacramentos e sobre a moral. Ele foi um dos cinco cardeais a contribuir com o livro Remaining in the Truth of Christ ["Permanecer na Verdade de Cristo"], que condenou a proposta do Cardeal Walter Kasper de liberar a Comunhão àqueles que vivem em uniões sexuais irregulares.</br>
 </br>

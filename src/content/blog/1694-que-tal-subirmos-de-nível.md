@@ -1,10 +1,10 @@
 ---
 title: "Que tal subirmos de nível?"
 date: 2022-11-18T15:40:00.001Z
-heroImage: "/images/subir de nível.png"
+heroImage: "/images/posts/1694-que-tal-subirmos-de-nível-subir_20de_20n_C3_ADvel.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZr1YaiaGu3i59Cb8EfXiRU8FV84LTtN1ENpO1IkDH6J0WOeq6mYE3ylTkXI7i8T66ZuVeS_dT4FylSItQvsTlk1tkZcFlBqGniCJVLP17S3T5_Pq2SM88W67HKSq_-eOEd5s15aVYUI5tVS0DajqrKxcZH3g5qQd7C4W_EbNhvk__gkmLT2403yU7/s371/subir%20de%20n%C3%ADvel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="371" height="227" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZr1YaiaGu3i59Cb8EfXiRU8FV84LTtN1ENpO1IkDH6J0WOeq6mYE3ylTkXI7i8T66ZuVeS_dT4FylSItQvsTlk1tkZcFlBqGniCJVLP17S3T5_Pq2SM88W67HKSq_-eOEd5s15aVYUI5tVS0DajqrKxcZH3g5qQd7C4W_EbNhvk__gkmLT2403yU7/s320/subir%20de%20n%C3%ADvel.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Afinal, é o que Deus espera de cada um: que sejamos elevados
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1694-que-tal-subirmos-de-nível-subir_20de_20n_C3_ADvel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="371" height="227" src="/images/posts/1694-que-tal-subirmos-de-nível-subir_20de_20n_C3_ADvel.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Afinal, é o que Deus espera de cada um: que sejamos elevados
 ao grau de santidade, pois, o céu é uma nação de santos. Quanto a isto, não
 resta dúvida alguma, já somos ensinados na bíblia que “devemos buscar as coisas
 do alto (Colossenses 3,1), as coisas de Deus, buscar o paraíso. Ademais,

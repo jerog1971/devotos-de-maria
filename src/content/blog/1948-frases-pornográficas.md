@@ -1,10 +1,10 @@
 ---
 title: "Frases Pornográficas"
 date: 2016-07-08T14:38:00Z
-heroImage: "/images/pornografia.png"
+heroImage: "/images/posts/1948-frases-pornográficas-pornografia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgktO_lsdI2WBj66_12MHG06TblupakHEtVj1S7pyr3tFFHvDH_4Qp6jqyVHhFcsIroZ-OTE5SR0HVCa8PklJOBwt-B-_MCJd8ZZO1c1Xy78pXR-zv_v9Md3H_nToSi9uLyty-PsmpJc48/s1600/pornografia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgktO_lsdI2WBj66_12MHG06TblupakHEtVj1S7pyr3tFFHvDH_4Qp6jqyVHhFcsIroZ-OTE5SR0HVCa8PklJOBwt-B-_MCJd8ZZO1c1Xy78pXR-zv_v9Md3H_nToSi9uLyty-PsmpJc48/s320/pornografia.png" width="320" height="319" data-original-width="270" data-original-height="269" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1948-frases-pornográficas-pornografia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1948-frases-pornográficas-pornografia.png" width="320" height="319" data-original-width="270" data-original-height="269" /></a></div>
 Antes de mais nada, vamos resolver a curiosidade de um artigo com um título como este. O que faz ele aqui neste site católico? Vamos esclarecer, mas em primeiro lugar vamos colocar a definição da palavra “trepar” encontrada em alguns dicionários, para podermos refletir a respeito. Imaginemos a seguinte frase "Casal trepando gostoso". Segue então a definição:</br>
 </br>
 Trepar - ir de baixo para cima de (algo), agarrando-se com os pés e as mãos; galgar. Deslocar-se para (lugar mais alto e/ou íngreme); subir.</br>

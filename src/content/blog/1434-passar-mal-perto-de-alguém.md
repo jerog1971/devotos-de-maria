@@ -1,10 +1,10 @@
 ---
 title: "Passar mal perto de alguém"
 date: 2016-09-22T20:52:00Z
-heroImage: "/images/passar_mal.png"
+heroImage: "/images/posts/1434-passar-mal-perto-de-alguém-passar_mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAglvwYb-IIgAuq7vqkS0XSFx1ohLbQMcJfQJ22mZZMwSe-QGYguLxAeCH4z53tTdJlvGi3n0M3PGH7gHQQaBIH2CfbUnw7vyb64MTCjeJsWeFjniRot4CxZ3XnnH8tC3md13v38kQKNU/s1600/passar_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAglvwYb-IIgAuq7vqkS0XSFx1ohLbQMcJfQJ22mZZMwSe-QGYguLxAeCH4z53tTdJlvGi3n0M3PGH7gHQQaBIH2CfbUnw7vyb64MTCjeJsWeFjniRot4CxZ3XnnH8tC3md13v38kQKNU/s320/passar_mal.png" width="320" height="297" data-original-width="559" data-original-height="518" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1434-passar-mal-perto-de-alguém-passar_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1434-passar-mal-perto-de-alguém-passar_mal.png" width="320" height="297" data-original-width="559" data-original-height="518" /></a></div>
 A questão em reflexão neste artigo tem diversas raízes. Podemos passar mal por vários motivos, tanto fisiológicos, como psicológicos e até por questões intelectuais. Como o ser humano é um composto de corpo e alma, em alguns casos os motivos para este tipo de sensação, de se passar mal, pode ter uma, mais de uma ou até uma razão com ingredientes das duas naturezas.</br>
 </br>
 Ao se observar um grupo de estudantes no intervalo do recreio, este tipo de situação é muito facilmente verificado. Vemos os grupinhos reunidos. As turminhas e também aquelas pessoas isoladas ou em duplas. Podemos concordar facilmente também que estes grupos de pessoas procuram ficar assim agrupadas por alguns motivos que são afins entre os membros. Os góticos num canto do pátio, os roqueiros no outro canto, os estudiosos no outro canto, os gordinhos no outro canto e tantas outras “espécies” de turmas. E por quê?</br>

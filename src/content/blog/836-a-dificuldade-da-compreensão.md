@@ -1,10 +1,10 @@
 ---
 title: "A dificuldade da compreensão"
 date: 2022-01-20T00:24:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/836-a-dificuldade-da-compreensão-img-1746386962.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjoIG5w_Y5Y1y9Sji_dB3wva89yVjTpNZVhRy7tHsOhjIIP2aLKXxcSmCVcmMLY3SjScDbkBqvAnx-8d3g4II0HkMzespQB5Vcjxe_YY3rO1CNxOhdJjiQFJvi3ttxURTghOc-kXlSKHLccHdD1ZaTsmD5OSXUtz2phpICpKOHp5-4fP4h3Fr5C-nAc=s210" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="187" data-original-width="210" height="243" src="https://blogger.googleusercontent.com/img/a/AVvXsEjoIG5w_Y5Y1y9Sji_dB3wva89yVjTpNZVhRy7tHsOhjIIP2aLKXxcSmCVcmMLY3SjScDbkBqvAnx-8d3g4II0HkMzespQB5Vcjxe_YY3rO1CNxOhdJjiQFJvi3ttxURTghOc-kXlSKHLccHdD1ZaTsmD5OSXUtz2phpICpKOHp5-4fP4h3Fr5C-nAc=w273-h243" width="273" /></a></div><p>Dar ouvidos ao que dizem é uma coisa, ouvir o que se diz
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/836-a-dificuldade-da-compreensão-img-1746386962.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="187" data-original-width="210" height="243" src="/images/posts/836-a-dificuldade-da-compreensão-img-1706512139.jpg" width="273" /></a></div><p>Dar ouvidos ao que dizem é uma coisa, ouvir o que se diz
 também, agora, escutar e entender é outra questão ainda. Colocamos as coisas
 dessa forma porque podemos ouvir atentamente, palavra por palavra e não
 entendermos nada; lermos, ouvirmos e nada do que escutamos parece fazer

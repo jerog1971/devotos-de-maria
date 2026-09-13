@@ -1,10 +1,10 @@
 ---
 title: "Fui crismado, e agora?"
 date: 2015-09-01T20:52:00Z
-heroImage: "/images/crismandos.png"
+heroImage: "/images/posts/205-fui-crismado-e-agora-crismandos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsBH7SfyX4hZZTjAICNlfxrJl9POLJ8qeQUpxelQWCGm07aeBibpf5ECLmZJ1NOs8cCUNfgO2UiCbnK45625V5sa9zO0vMw97XsI5NACAASqbzLP_b9vJvFut4Ig1GPeFROlraAUpQ3Lo/s1600/crismandos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsBH7SfyX4hZZTjAICNlfxrJl9POLJ8qeQUpxelQWCGm07aeBibpf5ECLmZJ1NOs8cCUNfgO2UiCbnK45625V5sa9zO0vMw97XsI5NACAASqbzLP_b9vJvFut4Ig1GPeFROlraAUpQ3Lo/s320/crismandos.png" width="320" height="186" data-original-width="541" data-original-height="314" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/205-fui-crismado-e-agora-crismandos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/205-fui-crismado-e-agora-crismandos.png" width="320" height="186" data-original-width="541" data-original-height="314" /></a></div>
 </br>
 Muitos são os fiéis que cultivam ainda depois de toda a sua catequese, seja ela regular ou catecumenal essa questão. Com o sacramento do crisma encerra-se a catequese de iniciação cristã. E como o nome bem sugere se trata apenas do inicio de uma caminhada agora como soldados de Cristo, defensores e propagadores do evangelho.</br>
 </br>

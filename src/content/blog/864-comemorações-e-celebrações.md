@@ -1,10 +1,10 @@
 ---
 title: "Comemorações e celebrações"
 date: 2021-10-31T16:04:00.003Z
-heroImage: "/images/Ele.jpg"
+heroImage: "/images/posts/864-comemorações-e-celebrações-img-281961481.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTD7dxOMt8WqxgvcIJ7RZhpBRjGYTbRjUdfVvSb6tpTYVX-MMCGvJ30hR4GvExfwB1vgDL7bA7yPunIFGHABqjETBg8XKcv7SeOMrIlegUsl3FnpejAyt-Zfg2vSt4jin9dlhK-dTZ_Uo/s317/comemora%25C3%25A7%25C3%25B5es+e+celebra%25C3%25A7%25C3%25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="315" height="317" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTD7dxOMt8WqxgvcIJ7RZhpBRjGYTbRjUdfVvSb6tpTYVX-MMCGvJ30hR4GvExfwB1vgDL7bA7yPunIFGHABqjETBg8XKcv7SeOMrIlegUsl3FnpejAyt-Zfg2vSt4jin9dlhK-dTZ_Uo/s0/comemora%25C3%25A7%25C3%25B5es+e+celebra%25C3%25A7%25C3%25B5es.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">À primeira vista um olhar mais destreinado sobre a questão
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/864-comemorações-e-celebrações-img-281961481.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="315" height="317" src="/images/posts/864-comemorações-e-celebrações-img-1261826688.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">À primeira vista um olhar mais destreinado sobre a questão
 pode imaginar que as palavras são sinônimas; o que não estaria errado, pois, de
 fato, são. Todavia, embora sejam, para certos casos e ocasiões, uma se encaixa
 melhor do que a outra. Em verdade, não é assim em muitas circunstâncias da

@@ -1,10 +1,10 @@
 ---
 title: "Levar a Sério"
 date: 2015-12-16T13:00:00Z
-heroImage: "/images/Jefferson_Diego.png"
+heroImage: "/images/posts/1741-levar-a-sério-Jefferson_Diego.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNd4y4UwQcWlnGBhhqSK1L6VgFIUtvKIJNTS3x_f09vom2xbsRIIR09ACFsJwlyUOiEiPTxuQThyphenhyphenc_VH_3a27COh3ZeUkcQx-8zLWPO9hc1IqkEfFN1p1-KgSlQYilKW31L2jC9TnpJlE/s1600/Jefferson_Diego.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNd4y4UwQcWlnGBhhqSK1L6VgFIUtvKIJNTS3x_f09vom2xbsRIIR09ACFsJwlyUOiEiPTxuQThyphenhyphenc_VH_3a27COh3ZeUkcQx-8zLWPO9hc1IqkEfFN1p1-KgSlQYilKW31L2jC9TnpJlE/s320/Jefferson_Diego.png" width="320" height="210" data-original-width="412" data-original-height="271" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1741-levar-a-sério-Jefferson_Diego.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1741-levar-a-sério-Jefferson_Diego.png" width="320" height="210" data-original-width="412" data-original-height="271" /></a></div>
 </br>
 É sempre preciso estar atento, é sempre preciso levarmos tudo a sério, inclusive as brincadeiras. Isso mesmo, é preciso pensar assim para que a essência da pessoa não se perca no meio das tentações. Vamos explicar com um exemplo.</br>
 </br>
@@ -20,7 +20,7 @@ Consolador também é recordar outra passagem bíblica que nos ensina que “nem
 </br>
 Todavia, falemos um pouco da questão dos padrinhos, de forma um tanto resumida mas com um conteúdo suficiente para nos conscientizarmos da questão.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1AFn57v79MhUuLnr0o6o0UpoZJCdU1ZyQbXnY0XyhH1tFhl3Tvx6NVsu32QaR8dRKMp6Epp__M3S09o4iUKsy9pszIjYonaidbKwQcPnED5xjGPGLIsWg706vnsNrA66Z9W5bI96BMmc/s1600/Yasmin_Diego.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1AFn57v79MhUuLnr0o6o0UpoZJCdU1ZyQbXnY0XyhH1tFhl3Tvx6NVsu32QaR8dRKMp6Epp__M3S09o4iUKsy9pszIjYonaidbKwQcPnED5xjGPGLIsWg706vnsNrA66Z9W5bI96BMmc/s200/Yasmin_Diego.png" width="200" height="131" data-original-width="785" data-original-height="515" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1741-levar-a-sério-Yasmin_Diego.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1741-levar-a-sério-Yasmin_Diego.png" width="200" height="131" data-original-width="785" data-original-height="515" /></a></div>
 </br>
 Em nossa religião católica temos que os padrinhos são aqueles que “abraçam” uma causa, assumem um compromisso. Quando se casam, marido e mulher assumem perante Deus a condição de receber e educar os filhos dentro das verdades celestes. Muito bem. Quando estes filhos chegam, os pais instruídos pela igreja são orientados a designarem padrinhos para que estes, contribuam no compromisso dos pais de educar os filhos na fé da igreja. E este compromisso pode ficar mais sério, caso os pais falhem nos ensinamentos ou faltem os pais.</br>
 </br>

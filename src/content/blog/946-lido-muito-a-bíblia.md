@@ -1,10 +1,10 @@
 ---
 title: "Lido muito a bíblia?"
 date: 2020-03-31T20:19:00.002Z
-heroImage: "/images/leitura.png"
+heroImage: "/images/posts/946-lido-muito-a-bíblia-leitura.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgycvGAJi18Wv82zw4UERYOOnzjSYYHy_eOLTJzhyphenhyphenX5gN3jP-jWDlh4urJYJpJ8u_L8fvqN0rAKE3UYBlmGFKn7JmTS7u5UOAm4HcL5e9iLP7OXeisjMx7O7N5fQuxM8R9DqMeuEAuJtbY/s1600/leitura.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgycvGAJi18Wv82zw4UERYOOnzjSYYHy_eOLTJzhyphenhyphenX5gN3jP-jWDlh4urJYJpJ8u_L8fvqN0rAKE3UYBlmGFKn7JmTS7u5UOAm4HcL5e9iLP7OXeisjMx7O7N5fQuxM8R9DqMeuEAuJtbY/s320/leitura.png" width="320" height="274" data-original-width="354" data-original-height="303" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/946-lido-muito-a-bíblia-leitura.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/946-lido-muito-a-bíblia-leitura.png" width="320" height="274" data-original-width="354" data-original-height="303" /></a></div>
 Se sim, maravilha! É o que Deus quer de cada um. Se não, poderias cogitar começar a fazê-lo. Afinal, é para teu bem e bem dos que amas que o farás. Veja bem o seguinte exemplo: se você começasse a ler a bíblia uma hora por dia, começando no dia primeiro de maio, quando chegasse no dia dezessete de outubro você teria terminado de lê-la, sem correrias. Basta dar a ela o nível de importância que ela pode te proporcionar em sua vida.</br>
 </br>
 Vejamos, por dia as pessoas passam muitas horas “navegando” pela internet em suas redes sociais. É muito, mas muito fácil mesmo gastar um tempo desses nas mídias sociais ou na Netflix. Convenhamos, é fácil mesmo; ou então aquela passeada pelo shopping para olhar vitrines, entrar em algumas lojas, quem sabe comprar algo não estritamente necessário e por fim terminar o passeio na praça de alimentação.</br>

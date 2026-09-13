@@ -1,10 +1,10 @@
 ---
 title: "Uma reflexão sobre o Rosário"
 date: 2017-05-22T16:11:00.001Z
-heroImage: "/images/biblia_e_rosario.png"
+heroImage: "/images/posts/709-uma-reflexão-sobre-o-rosário-rosario.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbLGQx-xPOXn5eF1UPz4-5MkvMRLBfYoiq76PyQnfHzJ25hTzsqT2bCz691xbxF4HtBa5TNKT3j55BbGM5HshCJTmBxSDiMmISK2JOdb5AvXKnzqWIuXXljFl3cpT8xM2xTPWzpP9IfiQ/s1600/rosario.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="717" height="230" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbLGQx-xPOXn5eF1UPz4-5MkvMRLBfYoiq76PyQnfHzJ25hTzsqT2bCz691xbxF4HtBa5TNKT3j55BbGM5HshCJTmBxSDiMmISK2JOdb5AvXKnzqWIuXXljFl3cpT8xM2xTPWzpP9IfiQ/s320/rosario.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/709-uma-reflexão-sobre-o-rosário-rosario.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="717" height="230" src="/images/posts/709-uma-reflexão-sobre-o-rosário-rosario.png" width="320" /></a></div>
 Para aqueles que acham que a oração do Santo Rosário ou até mesmo do Santo Terço é uma prática antiquada e monótona por ser repetitiva, iremos refletir um pouco sobre essa questão da repetição para concluirmos que muitas coisas planejadas por Deus em sua criação seguem o fator de continuidade das ações. Vejamos:
 
 Para nos mantermos em estado de vida precisamos respirar, inspirando e expirando continuamente e repetidamente para movimentarmos nosso aparelho respiratório.

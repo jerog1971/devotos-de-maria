@@ -1,10 +1,10 @@
 ---
 title: "Amor e Desejo"
 date: 2016-04-27T18:08:00Z
-heroImage: "/images/na_cama.png"
+heroImage: "/images/posts/206-amor-e-desejo-na_cama.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGbMNQtXTtzQNmUjGKVJTP8wRZexwUVUoPtyann45JB4UTTCzY7fKNaJr7v5xvDqQJM1WJbZDRGq2nv0ISkYhwUlje2ize6UPbp9g7TdNxt7GyNysoYvxi51-vQkYsXqaCBrwFfImq3mw/s1600/na_cama.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGbMNQtXTtzQNmUjGKVJTP8wRZexwUVUoPtyann45JB4UTTCzY7fKNaJr7v5xvDqQJM1WJbZDRGq2nv0ISkYhwUlje2ize6UPbp9g7TdNxt7GyNysoYvxi51-vQkYsXqaCBrwFfImq3mw/s320/na_cama.png" width="320" height="297" data-original-width="288" data-original-height="267" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/206-amor-e-desejo-na_cama.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/206-amor-e-desejo-na_cama.png" width="320" height="297" data-original-width="288" data-original-height="267" /></a></div>
 Vira e mexe nos deparamos com pessoas que defendem a corrente de pensamento de que amor e desejo podem ser separados da realidade humana e, desta forma, a brilhante solução humana abre espaço para muitas possibilidades no que diz respeito ao relacionamento a dois.</br>
 </br>
 E quando ouvimos suas explicações o entoar de suas palavras parecem tão convincente que lá se vai mais um cristão ceder as tentações da carne, um dos três inimigos da alma. Os defensores da felicidade a todo custo dizem assim: que o amor é uma coisa e o desejo é outra, então é possível atitudes diferentes para situações diferentes. Vejam na prática como fica a coisa.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Evangelho e o Livro da Sabedoria"
 date: 2016-08-04T13:03:00.001Z
-heroImage: "/images/Agradecer a Jesus.png"
+heroImage: "/images/posts/1946-evangelho-e-o-livro-da-sabedoria-Jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR9AWomnZS_CYkYaBCVJKxSWNEyaGRS52U_k4KAdoIVufUdCMpOzs1f062ZdwEXG2M4U8k8nCh3tQt7iBNYy-ftM4TMVIzz5CNc39ZWRwaZxSz5sqOc5RDay3q9tYU8L-dFqGByyG2YUM/s1600/Jesus.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="218" data-original-width="243" height="287" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR9AWomnZS_CYkYaBCVJKxSWNEyaGRS52U_k4KAdoIVufUdCMpOzs1f062ZdwEXG2M4U8k8nCh3tQt7iBNYy-ftM4TMVIzz5CNc39ZWRwaZxSz5sqOc5RDay3q9tYU8L-dFqGByyG2YUM/s320/Jesus.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>“Ele se gaba de conhecer a Deus, e se chama a si mesmo filho do Senhor! Porque, se o justo é filho de Deus, Deus o defenderá, e o tirará das mãos dos seus adversários. “
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1946-evangelho-e-o-livro-da-sabedoria-Jesus.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="218" data-original-width="243" height="287" src="/images/posts/1946-evangelho-e-o-livro-da-sabedoria-Jesus.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>“Ele se gaba de conhecer a Deus, e se chama a si mesmo filho do Senhor! Porque, se o justo é filho de Deus, Deus o defenderá, e o tirará das mãos dos seus adversários. “
 
 “Confiou em Deus, Deus o livre agora, se o ama, porque ele disse: Eu sou o Filho de Deus! “
 

@@ -1,10 +1,10 @@
 ---
 title: "Escondido nas profundezas"
 date: 2021-08-02T15:08:00.001Z
-heroImage: "/images/escondido.jpg"
+heroImage: "/images/posts/1506-escondido-nas-profundezas-escondido.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbNsDWhJ6oQewtQjHMZ6V-n3gbMiQqU2z2fXzBR6U5PDwMClWJsjHucdbxPgZL8zDyVz1P2msRKZibsl-83PR8_0vg8JcfpZCOXfw_w_bL5fPAGzZdSeirFKKH_hEgekRdzi6gvyNb02Y/s2048/escondido.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbNsDWhJ6oQewtQjHMZ6V-n3gbMiQqU2z2fXzBR6U5PDwMClWJsjHucdbxPgZL8zDyVz1P2msRKZibsl-83PR8_0vg8JcfpZCOXfw_w_bL5fPAGzZdSeirFKKH_hEgekRdzi6gvyNb02Y/s320/escondido.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 6,19-24 – “Não ajunteis para vós tesouros na terra,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1506-escondido-nas-profundezas-escondido.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="320" src="/images/posts/1506-escondido-nas-profundezas-escondido.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 6,19-24 – “Não ajunteis para vós tesouros na terra,
 onde a ferrugem e as traças corroem, onde os ladrões furtam e roubam. Ajuntai
 para vós tesouros no céu, onde não os consomem nem as traças nem a ferrugem, e
 os ladrões não furtam nem roubam. Porque onde está o teu tesouro, lá também

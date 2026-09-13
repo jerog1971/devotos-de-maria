@@ -1,10 +1,10 @@
 ---
 title: "Um passo de cada vez"
 date: 2023-11-14T16:58:00.004Z
-heroImage: "/images/um passo de cada vez.png"
+heroImage: "/images/posts/985-um-passo-de-cada-vez-um_20passo_20de_20cada_20vez.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0OnGOI7fPEGcTW_vdsxE_y9x36pIdEuWirobjP1zRY98TiEjCNKKwZ1uQsalZw4GS93V2c83t7vU6ga5xGHdOxwfKaCgZ9yLlgfkLFae1j4r-uozEj1lZR64866BWN_FjeaFirRFxYe_0uXj7qEnSSQgfEhR2Rq_IfZXNVQz2c_U4kU90RFIpFcWsDxc/s395/um%20passo%20de%20cada%20vez.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="353" data-original-width="395" height="286" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0OnGOI7fPEGcTW_vdsxE_y9x36pIdEuWirobjP1zRY98TiEjCNKKwZ1uQsalZw4GS93V2c83t7vU6ga5xGHdOxwfKaCgZ9yLlgfkLFae1j4r-uozEj1lZR64866BWN_FjeaFirRFxYe_0uXj7qEnSSQgfEhR2Rq_IfZXNVQz2c_U4kU90RFIpFcWsDxc/s320/um%20passo%20de%20cada%20vez.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Um soco, um passo, um round de cada vez”; ouvimos essa
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/985-um-passo-de-cada-vez-um_20passo_20de_20cada_20vez.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="353" data-original-width="395" height="286" src="/images/posts/985-um-passo-de-cada-vez-um_20passo_20de_20cada_20vez.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Um soco, um passo, um round de cada vez”; ouvimos essa
 frase no filme Creed – Nascido para Lutar. Na mensagem que o personagem passa
 está o fato de que devemos seguir pela trilha cientes de que não existem caminhos
 fáceis na vida, ainda mais quanto mais alto é o preço das conquistas que

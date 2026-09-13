@@ -1,10 +1,10 @@
 ---
 title: "Sempre é hora de trabalhar"
 date: 2022-05-01T14:32:00.004Z
-heroImage: "/images/sempre devemos trabalhar.png"
+heroImage: "/images/posts/1630-sempre-é-hora-de-trabalhar-sempre_20devemos_20trabalhar.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1UKFQL9hWvrbvSS_z0xAgls9vs-TTwBr9Ez_oHfmb03ixvntzTAItmKSH9oTbiVV1Eb3Gd9ezrJS-c99rpHJ4tOkxIWuzW9ZHkCM1m5vR0oQsQe09KvznShoF59rqDDrw4homdSl03p9p2a8VcdYCTXcqNiWE8KKWRA3pXGe3MefH0pVaK9zr648Z/s222/sempre%20devemos%20trabalhar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="222" height="214" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1UKFQL9hWvrbvSS_z0xAgls9vs-TTwBr9Ez_oHfmb03ixvntzTAItmKSH9oTbiVV1Eb3Gd9ezrJS-c99rpHJ4tOkxIWuzW9ZHkCM1m5vR0oQsQe09KvznShoF59rqDDrw4homdSl03p9p2a8VcdYCTXcqNiWE8KKWRA3pXGe3MefH0pVaK9zr648Z/s1600/sempre%20devemos%20trabalhar.png" width="222" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E aqui estamos a falar do empenho em sempre trabalharmos com
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1630-sempre-é-hora-de-trabalhar-sempre_20devemos_20trabalhar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="222" height="214" src="/images/posts/1630-sempre-é-hora-de-trabalhar-sempre_20devemos_20trabalhar.png" width="222" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E aqui estamos a falar do empenho em sempre trabalharmos com
 afinco, temor e tremor de Deus, pela salvação de nossa alma, pois, “os desejos
 do preguiçoso o matam porque suas mãos recusam o trabalho” – Provérbios 21,25.
 E trabalhar durante a vida para que um dia alcancemos o céu, segundo a base de fé

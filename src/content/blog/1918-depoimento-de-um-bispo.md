@@ -1,10 +1,10 @@
 ---
 title: "Depoimento de um Bispo"
 date: 2018-11-23T14:15:00Z
-heroImage: "/images/bispo.jpg"
+heroImage: "/images/posts/1918-depoimento-de-um-bispo-bispo.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQlqlLRX5xmzsVLcsx-dL8JAIgZMfn10XkmUQ67pteERUPOHFR53LohtaXuqk8EbH1tmbE1m0kQWNLqLdvVGfiBTVzkKwVvD-yQLS_Jsjw5ZqVeDFm2x6Is4HAfr3gIWyk_1nspFyE3bc/s1600/bispo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQlqlLRX5xmzsVLcsx-dL8JAIgZMfn10XkmUQ67pteERUPOHFR53LohtaXuqk8EbH1tmbE1m0kQWNLqLdvVGfiBTVzkKwVvD-yQLS_Jsjw5ZqVeDFm2x6Is4HAfr3gIWyk_1nspFyE3bc/s320/bispo.jpg" width="255" height="320" data-original-width="284" data-original-height="357" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1918-depoimento-de-um-bispo-bispo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1918-depoimento-de-um-bispo-bispo.jpg" width="255" height="320" data-original-width="284" data-original-height="357" /></a></div>
 Nossa Senhora está presente aqui, como ela estava em Lourdes”. Estas são as palavras do monsenhor Michael Kennedy, o bispo australiano que gosta de visitar Medjugorje e descreve sua experiência da seguinte maneira:</br>
 </br>
 “Tenho a sensação de algo grandioso e muito sério. Toda vez que venho, sinto algo mais e melhor. Tenho a certeza absoluta de que Nossa Senhora está presente aqui, como estava em Lourdes. A paz que é sentida aqui é difícil de encontrar em outro lugar na terra ”.</br>

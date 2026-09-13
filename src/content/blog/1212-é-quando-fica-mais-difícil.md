@@ -1,10 +1,10 @@
 ---
 title: "É quando fica mais difícil"
 date: 2024-04-22T17:16:00.001Z
-heroImage: "/images/é quando fica mais difícil.png"
+heroImage: "/images/posts/1212-é-quando-fica-mais-difícil-_C3_A9_20quando_20fica_20mais_20dif_C3_ADcil.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUKbd0OFnk8MxnKuWxDvqvBuKTleOb9jPH5ezuonNpNrGw7tM-mnWOQA0yXoPQqLwnLcQ4aWcyKhfKICqifEwekdIxEy8QPhvYBd2wY49_HFwsx7MM4xaGO7bv1aaS9uWKVPP98Ok8wrZGbIlVmoQP7Ig8wtgAIJFmVlI4EhSKtGhJLUBKaWU5zFal_8/s596/%C3%A9%20quando%20fica%20mais%20dif%C3%ADcil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="433" data-original-width="596" height="232" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUKbd0OFnk8MxnKuWxDvqvBuKTleOb9jPH5ezuonNpNrGw7tM-mnWOQA0yXoPQqLwnLcQ4aWcyKhfKICqifEwekdIxEy8QPhvYBd2wY49_HFwsx7MM4xaGO7bv1aaS9uWKVPP98Ok8wrZGbIlVmoQP7Ig8wtgAIJFmVlI4EhSKtGhJLUBKaWU5zFal_8/s320/%C3%A9%20quando%20fica%20mais%20dif%C3%ADcil.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vale o lembrete de quão é difícil caminhar por esta terra.
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1212-é-quando-fica-mais-difícil-_C3_A9_20quando_20fica_20mais_20dif_C3_ADcil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="433" data-original-width="596" height="232" src="/images/posts/1212-é-quando-fica-mais-difícil-_C3_A9_20quando_20fica_20mais_20dif_C3_ADcil.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vale o lembrete de quão é difícil caminhar por esta terra.
 Tão difícil também, algumas vezes, parece entender porque Deus que diz nos
 amar, permite tantas dificuldades pela vida. Seja lá como for, as coisas são
 assim mesmo e reclamar não vai mudar nada. Em Malaquias 6,7 lemos que “eu sou o

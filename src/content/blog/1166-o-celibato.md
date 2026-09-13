@@ -1,10 +1,10 @@
 ---
 title: "O celibato"
 date: 2016-01-08T13:35:00Z
-heroImage: "/images/celibato.png"
+heroImage: "/images/posts/1166-o-celibato-celibato.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROwdW-V2OmYIN8qvgLAgVsAHFf1poN_P6nWRTqLqHx5vBAs0UVglH8wi0OcHHl2qWalWSYQzoD4g2znaba2RhejTxmg_Ui7u34eK1sKVV9SkLsOZbj5BIJE2rD-q940emAzYzeMjePwM/s1600/celibato.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROwdW-V2OmYIN8qvgLAgVsAHFf1poN_P6nWRTqLqHx5vBAs0UVglH8wi0OcHHl2qWalWSYQzoD4g2znaba2RhejTxmg_Ui7u34eK1sKVV9SkLsOZbj5BIJE2rD-q940emAzYzeMjePwM/s320/celibato.png" width="320" height="276" data-original-width="397" data-original-height="342" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1166-o-celibato-celibato.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1166-o-celibato-celibato.png" width="320" height="276" data-original-width="397" data-original-height="342" /></a></div>
 </br>
 Carlos leitores, para encaminhar a questão do celibato sacerdotal, vamos discutir o que é superior: o Matrimônio ou o "estado de virgindade" consagrada a Deus. Veremos que, segundo as Escrituras, espiritualmente o estado de virgindade é superior ao dos casados. O próprio Senhor Jesus Cristo atesta que:</br>
 </br>

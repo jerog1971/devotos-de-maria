@@ -1,10 +1,10 @@
 ---
 title: "O significado do domingo de ramos"
 date: 2020-04-05T14:03:00.003Z
-heroImage: "/images/domingo_de_ramos.png"
+heroImage: "/images/posts/1483-o-significado-do-domingo-de-ramos-domingo_de_ramos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuZIecUiqeK0xHrfliglsgxP8zWiIkNDbhN7gZ6E-1KH4YzmzghU2dwNa7LQoqFzR_zG1lwbwpT0p8eaOQd5_9BEn4er8R7RsXjITHskpVbB9xYOEMiw1Xc1kIkn2ErZhwYmA0SNQr6t8/s1600/domingo_de_ramos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuZIecUiqeK0xHrfliglsgxP8zWiIkNDbhN7gZ6E-1KH4YzmzghU2dwNa7LQoqFzR_zG1lwbwpT0p8eaOQd5_9BEn4er8R7RsXjITHskpVbB9xYOEMiw1Xc1kIkn2ErZhwYmA0SNQr6t8/s320/domingo_de_ramos.png" width="305" height="320" data-original-width="394" data-original-height="414" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1483-o-significado-do-domingo-de-ramos-domingo_de_ramos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1483-o-significado-do-domingo-de-ramos-domingo_de_ramos.png" width="305" height="320" data-original-width="394" data-original-height="414" /></a></div>
 De imediato vamos logo colocando que o significado deste dia, distante da páscoa uma semana, é relembrar o evangelho de Lucas, no qual conta a chegada de Jesus a Jerusalém. Depois dos 40 dias de deserto, Cristo volta à sua cidade montado em um burrico e é saudado pelo povo com ramos nas mãos. Ademais, o verdadeiro sentido dos ramos em nossas casas é lembrar que Jesus é nosso rei e que devemos sempre dar-lhes as boas-vindas em nosso lar.</br>
 </br>
 Fora isso as crendices populares contam as mais diversas serventias para os ramos bentos, como “acalmar tempestades”, “fazer chá para dor de barriga e cólica de criança”, “colocar-se na janela para diminuir ventanias” e assim por diante. Todavia o caso não é esse, quando abençoados na celebração eles possuem outro papel.</br>

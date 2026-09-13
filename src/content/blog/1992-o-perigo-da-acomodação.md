@@ -1,10 +1,10 @@
 ---
 title: "O perigo da acomodação"
 date: 2025-10-02T12:37:00.001Z
-heroImage: "/images/cansado.png"
+heroImage: "/images/posts/1992-o-perigo-da-acomodação-cansado.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz6obCS2um4Z42Yg1zaoEwiIh5hu1wq585wYoTgo2g2wKSQgrR6r4w6HWKVJUTKZOKU4mDuRTrhDkuundCDudcq-RMpLRj3piin2z86jxFoKrVpekzKBzMLj0tCNzIphAhNUip6onq-x8Ow-Tm1cvUHIYcMeDdofU6b5XCCzrkYLrKWNFA382uwSUnewE/s172/cansado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="167" data-original-width="172" height="167" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz6obCS2um4Z42Yg1zaoEwiIh5hu1wq585wYoTgo2g2wKSQgrR6r4w6HWKVJUTKZOKU4mDuRTrhDkuundCDudcq-RMpLRj3piin2z86jxFoKrVpekzKBzMLj0tCNzIphAhNUip6onq-x8Ow-Tm1cvUHIYcMeDdofU6b5XCCzrkYLrKWNFA382uwSUnewE/s1600/cansado.png" width="172" /></a></div><br /><p></p><p style="line-height: 100%; margin-bottom: 0cm;">
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1992-o-perigo-da-acomodação-cansado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="167" data-original-width="172" height="167" src="/images/posts/1992-o-perigo-da-acomodação-cansado.png" width="172" /></a></div><br /><p></p><p style="line-height: 100%; margin-bottom: 0cm;">
 De conforto podemos dizer que a maioria das pessoas gostam, não
 podemos dizer sobre todas, mas o cenário aponta para um número que
 é considerável haja vista o mundo não se cansar de oferecer

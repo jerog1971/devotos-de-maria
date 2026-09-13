@@ -1,10 +1,10 @@
 ---
 title: "O mundo não prega a salvação que vem de Deus"
 date: 2016-08-19T13:35:00Z
-heroImage: "/images/armadura.png"
+heroImage: "/images/posts/493-o-mundo-não-prega-a-salvação-que-vem-armadura.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDUz9gt3fLsHSQSZqYLPXCpMwQI3f3E5LVDDdla-Jy_vljnOQeMfScJh7ui4POe9VR8tVEk7De1g3vF3NIFZlz_yVbNU23LgKCJLDtxsSRk1_hsXpclHqgv95s94nEMlqFcLcs8QKYLE/s1600/armadura.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDUz9gt3fLsHSQSZqYLPXCpMwQI3f3E5LVDDdla-Jy_vljnOQeMfScJh7ui4POe9VR8tVEk7De1g3vF3NIFZlz_yVbNU23LgKCJLDtxsSRk1_hsXpclHqgv95s94nEMlqFcLcs8QKYLE/s320/armadura.png" width="320" height="295" data-original-width="409" data-original-height="377" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/493-o-mundo-não-prega-a-salvação-que-vem-armadura.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/493-o-mundo-não-prega-a-salvação-que-vem-armadura.png" width="320" height="295" data-original-width="409" data-original-height="377" /></a></div>
 Um dos constantes desafios que permanecem na vida dos pais é o de levar aos corações e mentes de seus filhos a capacidade de compreenderem com perfeita clareza a distinção entre o bem e o mal, entre aquilo que é bom e aquilo que é mau. Para isso, porém, não estamos sozinhos porque Jesus nos disse em Mateus 18,19-20 que “se dois de vós se unirem sobre a terra para pedir, seja o que for, consegui-lo-ão de meu Pai que está nos céus. Porque onde dois ou três estão reunidos em meu nome, aí estou eu no meio deles.”</br>
 </br>
 E já começamos bem não é mesmo caros leitores. Somos nós contra o mundo. O mundo cujo príncipe satanás (João 14,6) tem permissão para agir incansavelmente fazendo suas manobras, tornou-se rebelde e quer que todos os filhos de Deus também o sejam. Nunca podemos esquecer, ou “somos amigos de Deus ou inimigos do mundo” (Tiago 4,4).</br>

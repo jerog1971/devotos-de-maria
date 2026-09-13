@@ -1,10 +1,10 @@
 ---
 title: "Trajetórias e Aventuras"
 date: 2023-08-22T16:53:00.005Z
-heroImage: "/images/Star Trek - Kirk.png"
+heroImage: "/images/posts/713-trajetórias-e-aventuras-Star_20Trek_20-_20Kirk.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4T7kcyrZs_lghAX-6C2F7mKbXKKA0efkj6vtBKXGozJFF7AVADSYlYXcaQKJzr3Ut2CMqNPZJUxgz9FyukEorn3n-yg7Po0gW0D3AvJD6DCT7nQ3PdPCR8J9nEWg6uQww8s8LkTWq2RGAzU2O-ktuYCMj_gIdx-GrKY6BtdTvwWTKcilIBEZSunbbIxY/s683/Star%20Trek%20-%20Kirk.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="424" data-original-width="683" height="199" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4T7kcyrZs_lghAX-6C2F7mKbXKKA0efkj6vtBKXGozJFF7AVADSYlYXcaQKJzr3Ut2CMqNPZJUxgz9FyukEorn3n-yg7Po0gW0D3AvJD6DCT7nQ3PdPCR8J9nEWg6uQww8s8LkTWq2RGAzU2O-ktuYCMj_gIdx-GrKY6BtdTvwWTKcilIBEZSunbbIxY/s320/Star%20Trek%20-%20Kirk.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Temos um percurso a percorrer; quando nascemos somos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/713-trajetórias-e-aventuras-Star_20Trek_20-_20Kirk.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="424" data-original-width="683" height="199" src="/images/posts/713-trajetórias-e-aventuras-Star_20Trek_20-_20Kirk.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Temos um percurso a percorrer; quando nascemos somos
 acometidos da primeira e mais certa de todas as certezas: passaremos pela
 experiência da morte. O bondoso Deus, em sua sabedoria infinita faz de tudo
 para que um dia passemos a morar com ele na eternidade, felicidade e glória do

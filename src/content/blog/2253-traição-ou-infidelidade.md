@@ -1,10 +1,10 @@
 ---
 title: "Traição ou Infidelidade?"
 date: 2018-08-10T16:24:00Z
-heroImage: "/images/infidelidade_religiosa.png"
+heroImage: "/images/posts/2253-traição-ou-infidelidade-infidelidade_religiosa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmICRZ2j-RDzriT8QZdMpy-CjeG-SC8mjVs5CDnw7-jLsTob_f4vdsPh3e7yEd8KIlujWKfKvte8FBGAex0F2aFMc0779MjYw93G0eIzXC0FGsg5laPl8kc4D_IYYFXrLVFNOsotgcihI/s1600/infidelidade_religiosa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmICRZ2j-RDzriT8QZdMpy-CjeG-SC8mjVs5CDnw7-jLsTob_f4vdsPh3e7yEd8KIlujWKfKvte8FBGAex0F2aFMc0779MjYw93G0eIzXC0FGsg5laPl8kc4D_IYYFXrLVFNOsotgcihI/s320/infidelidade_religiosa.png" width="320" height="311" data-original-width="395" data-original-height="384" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2253-traição-ou-infidelidade-infidelidade_religiosa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2253-traição-ou-infidelidade-infidelidade_religiosa.png" width="320" height="311" data-original-width="395" data-original-height="384" /></a></div>
 Em linhas gerais as pessoas podem imaginar que trair e ser infiel são sinônimos, o que não é verdade; em verdade, poderíamos dizer que essas duas expressões, dependendo do contexto, podem andar de mãos dadas ou não. Vamos ilustrar um pouco a reflexão.</br>
 </br>
 Uma pessoa com pouca mobilidade, já com certa idade e uma mente não tão ativa assim, decide, à beira de uma rua, atravessa-la. O fluxo de veículos é intenso, em determinado momento ela vê um espaço entre eles, calcula ser possível atravessar a rua sem ser atropelada e se projeta a caminhar. Para sua surpresa, as variáveis, distância entre ela e os carros, distância entre ela e o outro lado da rua, velocidade empregada por ela ao se deslocar e velocidade empregada pelos diferentes veículos da via, tudo para ser calculado em pouquíssimo tempo, abre margem muito grande para o resultado ser inapropriado. E supondo neste exemplo que ela não calculou bem, sendo TRAÍDA por algum dos fatores internos ou externos, termina por sofrer um acidente. Outro exemplo.</br>

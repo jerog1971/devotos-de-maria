@@ -1,10 +1,10 @@
 ---
 title: "Um pouco sobre Indulgências"
 date: 2016-09-27T16:31:00.002Z
-heroImage: "/images/indulgencias.png"
+heroImage: "/images/posts/1746-um-pouco-sobre-indulgências-indulgencias.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmjOrJIabHjslQqvW7J-PDGhrawUIfe6r65JG8RzO46TTx3aU5sJeNjCeGTabDMQgMoAWtUyy9LtBFhGO0zlda5s7OLNhYsEm_fi5OSojb8uVYLZNU0GVFX5WEmB2rFI7BXOQ49bnwMwY/s1600/indulgencias.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="428" height="259" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmjOrJIabHjslQqvW7J-PDGhrawUIfe6r65JG8RzO46TTx3aU5sJeNjCeGTabDMQgMoAWtUyy9LtBFhGO0zlda5s7OLNhYsEm_fi5OSojb8uVYLZNU0GVFX5WEmB2rFI7BXOQ49bnwMwY/s320/indulgencias.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1746-um-pouco-sobre-indulgências-indulgencias.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="428" height="259" src="/images/posts/1746-um-pouco-sobre-indulgências-indulgencias.png" width="320" /></a></div>
 Muito se fala a respeito das indulgências. O que são, qual sua origem, para que serve, como se adquire e quais os tipos. A doutrina da igreja e sua Tradição são riquíssimas nessa matéria e muito tem a oferecer aos seus fiéis. No entanto neste breve artigo, usarei de linguagem simples e popular para levar até você caro fiel um pouco desse ensinamento para aprendizado, reflexão e motivação para que você se aprofunde cada vez mais na religião que você vive.
 
 O Papa Paulo VI, no ano de 1967, publicou um documento apostólico sobre a doutrina das indulgências intitulado Indulgentiarum Doctrina, que trata especificamente com bastante clareza a respeito desse tema. O documento é bastante elucidativo e junto com o atual catecismo da igreja católica, presenteado ao fieis por São João Paulo II, é material bastante instrutivo sobre a questão, sendo recomendado a todos que queiram um norte a seguir. Outro documento bastante importante para se ler é o manual as indulgências que faz referência a tantos outros documentos da igreja e reúne em local único, ainda mais sobre a questão indulgenciaria.

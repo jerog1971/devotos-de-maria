@@ -1,10 +1,10 @@
 ---
 title: "Glorificai a Deus com vosso corpo"
 date: 2019-11-04T15:02:00.001Z
-heroImage: "/images/proibido_tatuar.png"
+heroImage: "/images/posts/1031-glorificai-a-deus-com-vosso-corpo-proibido_tatuar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEiJmSz2RjnKQe20e3r9zKuWQMuaePUf6yoxr_WXP11xzpSAwLSin-RHyBA3AX-8JKOSrCWihUoRJApXdsrvkQLTcXxrMVsmgNNTgyw6DDtdvhzkgAgBcKBXxRo4mb2zGxk7Yi-eDDP0/s1600/proibido_tatuar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="278" data-original-width="365" height="244" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEiJmSz2RjnKQe20e3r9zKuWQMuaePUf6yoxr_WXP11xzpSAwLSin-RHyBA3AX-8JKOSrCWihUoRJApXdsrvkQLTcXxrMVsmgNNTgyw6DDtdvhzkgAgBcKBXxRo4mb2zGxk7Yi-eDDP0/s320/proibido_tatuar.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1031-glorificai-a-deus-com-vosso-corpo-proibido_tatuar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="278" data-original-width="365" height="244" src="/images/posts/1031-glorificai-a-deus-com-vosso-corpo-proibido_tatuar.png" width="320" /></a></div>
 Você sabia que teu corpo não te pertence? É isso mesmo que você leu caro leitor! Nosso corpo não nos pertence. Dá uma lida nisso aqui: 1ª Coríntios 6,19-20 – “Ou não sabeis que o vosso corpo é templo do Espírito Santo, que habita em vós, o qual recebestes de Deus e que, por isso mesmo, já não vos pertenceis? Porque fostes comprados por um grande preço. Glorificai, pois, a Deus no vosso corpo.”
 
 Pois bem, nós que pertencemos a Deus por consequência lógica não possuímos nada, tudo é dele, isso inclui o corpo, para o desprazer de muitos. Ele está cedido por este tempo em que caminhamos no vale de lágrimas. Não podemos transforma-lo numa vitrine, num parque de diversões sexual ou ainda modifica-lo tirando sua originalidade divina. Infelizmente, o pecado, que é uma realidade do espírito, tem em seu cometimento a participação maior ou menor do corpo. A razão, que Jesus ensinou que deve brotar do coração, cede espaço aos impulsos da vontade e lá se vai o sujeito a glorificar seus desejos com a ajuda do seu corpo. Que contraste!

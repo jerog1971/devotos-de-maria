@@ -1,10 +1,10 @@
 ---
 title: "O outro que se dane"
 date: 2019-04-05T19:53:00.001Z
-heroImage: "/images/egoismo.jpg"
+heroImage: "/images/posts/1914-o-outro-que-se-dane-egoismo.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaBuy_J-K3ipKpRJX68MhQa9WdntNIysDPQJdpRDzhiOV5yQ8rt7H9IC5NIQhPmIFotC9ImDLrnDrkhD-yhshwApF5J90N1l1zppNLtY2xROn6L75QKp4I1A_pL6k8bm2jyTmNdYv7K6c/s1600/egoismo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaBuy_J-K3ipKpRJX68MhQa9WdntNIysDPQJdpRDzhiOV5yQ8rt7H9IC5NIQhPmIFotC9ImDLrnDrkhD-yhshwApF5J90N1l1zppNLtY2xROn6L75QKp4I1A_pL6k8bm2jyTmNdYv7K6c/s320/egoismo.jpg" width="320" height="240" data-original-width="1600" data-original-height="1200" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1914-o-outro-que-se-dane-egoismo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1914-o-outro-que-se-dane-egoismo.jpg" width="320" height="240" data-original-width="1600" data-original-height="1200" /></a></div>
 Primeiro os meus interesses, primeiro eles. Se rezo pedindo algo, peço primeiro para mim. Depois peço algo do meu interesse, depois peço coisas que necessito, que preciso, que desejo e a lista pessoal e egoísta vai aumentando. Peço que nada de mau me aconteça e tudo de bom me aconteça. Em resumo pessoas assim imaginam que Deus deve se comportar como a famosa palha de aço chamada Bombril, que os comerciais televisivos diziam em seus slogans que tem “mil e uma utilidades”.</br>
 </br>
 É assim que Jesus é encarado. Jesus eu preciso disso, Jesus eu quero aquilo e Jesus quero aquele outro. Para ser aceito por pessoas assim ele precisa se comportar como um banqueiro que provê dinheiro, um empresário, que provê emprego, um médico, que provê saúde, um segurança, que provê paz e tranquilidade, um pacificador que promove os acordos e harmonias, um separatista, que afasta pessoas de diferentes pensamentos e comportamentos e assim por diante.</br>

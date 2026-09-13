@@ -1,10 +1,10 @@
 ---
 title: "Mary Wagner é mais uma perseguida"
 date: 2017-09-05T18:53:00.001Z
-heroImage: "/images/mary_wagner.png"
+heroImage: "/images/posts/616-mary-wagner-é-mais-uma-perseguida-mary_wagner.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGzBriC2pr10V5IjCKeIIxo_106omGuP4r8vkVHRNcc2ZAHsJemE2xD8_bWjqC7pH9r2OfaFP6lvUTQBDnvuIj8SXGuoCMU6llvDX3ZLFEz0Lxg1DImzSapCeQbWVNv-WM2Kloazv-nHE/s1600/mary_wagner.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGzBriC2pr10V5IjCKeIIxo_106omGuP4r8vkVHRNcc2ZAHsJemE2xD8_bWjqC7pH9r2OfaFP6lvUTQBDnvuIj8SXGuoCMU6llvDX3ZLFEz0Lxg1DImzSapCeQbWVNv-WM2Kloazv-nHE/s200/mary_wagner.png" width="200" height="160" data-original-width="279" data-original-height="223" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/616-mary-wagner-é-mais-uma-perseguida-mary_wagner.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/616-mary-wagner-é-mais-uma-perseguida-mary_wagner.png" width="200" height="160" data-original-width="279" data-original-height="223" /></a></div>
 Mary Wagner, pró-vida canadense que foi presa diversas vezes por tentar convencer mulheres a deixarem de matar seus filhos nascituros, será julgada novamente no próximo dia 12 de setembro. Mary entrava em clínicas de aborto no Canadá portando rosas brancas e vermelhas, panfletos e cartões. Algumas das perguntas que ela fazia às mulheres que encontrava nas clínicas eram:</br>
 </br>
 “Tem certeza de que quer matar o seu bebê?”</br>

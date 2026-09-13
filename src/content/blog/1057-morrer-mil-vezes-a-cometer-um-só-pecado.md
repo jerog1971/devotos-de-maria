@@ -1,10 +1,10 @@
 ---
 title: "Morrer mil vezes a cometer um só pecado"
 date: 2017-10-02T20:23:00Z
-heroImage: "/images/cemiterio.png"
+heroImage: "/images/posts/1057-morrer-mil-vezes-a-cometer-um-só-pecado-cemiterio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRkfF_donatVx6r7UECPTpR2DKkLAeN4dL4gPri4NsHKfAqu2ITAXqh7QEkXUonGGowxSpJzO_pBEbZuT6shqkg6GGgLyNqPKWU84at3kE7y51-gX258CnqVM71XxNLRSD3v76Q3pQG68/s1600/cemiterio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRkfF_donatVx6r7UECPTpR2DKkLAeN4dL4gPri4NsHKfAqu2ITAXqh7QEkXUonGGowxSpJzO_pBEbZuT6shqkg6GGgLyNqPKWU84at3kE7y51-gX258CnqVM71XxNLRSD3v76Q3pQG68/s320/cemiterio.png" width="318" height="320" data-original-width="424" data-original-height="426" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1057-morrer-mil-vezes-a-cometer-um-só-pecado-cemiterio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1057-morrer-mil-vezes-a-cometer-um-só-pecado-cemiterio.png" width="318" height="320" data-original-width="424" data-original-height="426" /></a></div>
 Na vida e exemplo dos santos, realidade que nos apresenta também uma verdadeira enciclopédia angelical, encontramos inúmeros comportamentos de homens, mulheres, crianças, jovens, adultos e idosos, que nos transportam para grandes exemplos de uma vida pautada no dom do Espírito Santo da Piedade e do Temor de Deus. Vamos compreender.</br>
 </br>
 Em linhas muito resumidas podemos dizer que o dom da piedade é aquele dom que faz com que a pessoa realmente se sinta filha de Deus. Com esse dom nós passamos a agradecer mais e pedir menos, passamos a nos sentirmos filhos de Deus e termos horror ao pecado. Na outra ponta encontramos o dom do temor de Deus, que consiste em ter medo de se afastar dele e de entristece-lo.</br>

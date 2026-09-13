@@ -1,10 +1,10 @@
 ---
 title: "Biblia - Palavra de Deus"
 date: 2020-04-18T16:33:00.001Z
-heroImage: "/images/barco.png"
+heroImage: "/images/posts/1129-biblia-palavra-de-deus-barco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9Iof4T_b_UfBR9qpxm99P6AgiTCg7e9EUgk2RyBGTFOiu-GjVMzfTiPXBpuFEGulNL8FhykoJ1Inv6UzEHDmGApikZ0BzL7qjXHt4Z7OzGbdTFPvyaI7b_YrWJ5TU58UUh8b-mOdHdw/s1600/barco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9Iof4T_b_UfBR9qpxm99P6AgiTCg7e9EUgk2RyBGTFOiu-GjVMzfTiPXBpuFEGulNL8FhykoJ1Inv6UzEHDmGApikZ0BzL7qjXHt4Z7OzGbdTFPvyaI7b_YrWJ5TU58UUh8b-mOdHdw/s320/barco.png" width="242" height="320" data-original-width="297" data-original-height="393" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1129-biblia-palavra-de-deus-barco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1129-biblia-palavra-de-deus-barco.png" width="242" height="320" data-original-width="297" data-original-height="393" /></a></div>
 É fundamental que nós, católicos, compreendamos que a Palavra de Deus, em sentido pleno, é Nosso Senhor Jesus Cristo, o Verbo Encarnado.</br>
 Depois disto, num nível diferente (em grau de perfeição), podemos chamar também "Palavra de Deus" às Sagradas Escrituras (Bíblia), e à Tradição Apostólica, como atesta a própria Bíblia (2Ts 2,15; 3,6). Num outro sentido, a Palavra de Deus também se faz "ouvir" (por assim dizer) no Magistério da Igreja divinamente instituída (Mt 16,18). A Igreja, sendo Corpo de Cristo, é a continuação histórica do Cristo na Terra, e é por isso que aqueles que perseguem a Igreja perseguem o próprio Jesus Cristo, como revelou o Senhor mesmo a S. Paulo no caminho para Damasco (At 9,4ss). E como a Igreja se identifica assim tão intimamente com o seu Fundador, – Jesus, que é Deus, – também a palavra da Igreja, por meio do sagrado Magistério, é Palavra de Deus.</br>
 </br>

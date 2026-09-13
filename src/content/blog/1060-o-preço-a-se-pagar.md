@@ -1,10 +1,10 @@
 ---
 title: "O preço a se pagar"
 date: 2018-08-17T19:44:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1060-o-preço-a-se-pagar-solteiro_x_casado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAgCGzH8j59SODBbuKW47Oz1SqXwq4H5MidArc4zUgFP7bQVosc5OyqflSkhmBoGa_ucTZbEhVJ66RFRhGMhKCQKI-awiKCLhoHMCvqqytHd9evo20Cqdtuamu-J1lJyA6J4sdKyxljgo/s1600/solteiro+x+casado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAgCGzH8j59SODBbuKW47Oz1SqXwq4H5MidArc4zUgFP7bQVosc5OyqflSkhmBoGa_ucTZbEhVJ66RFRhGMhKCQKI-awiKCLhoHMCvqqytHd9evo20Cqdtuamu-J1lJyA6J4sdKyxljgo/s320/solteiro+x+casado.png" width="320" height="273" data-original-width="968" data-original-height="826" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1060-o-preço-a-se-pagar-solteiro_x_casado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1060-o-preço-a-se-pagar-solteiro_x_casado.png" width="320" height="273" data-original-width="968" data-original-height="826" /></a></div>
 Uma coisa é muito certa, percebo que todos que já caminharam um bom bocado nesta vida podem atestar na prática a responsabilidade que é envolvida nas escolhas que são feitas. Os ditados populares dizem que para tudo temos que pagar. Paga-se para nascer, paga-se para viver e paga-se para morrer. Ou seja, tudo tem um preço. Triste realidade do mundo em que vivemos, capitalista, competitivo e individualista. Atualmente compartilhar é algo muito diferente do que se lê em Atos dos Apóstolos quando as pessoas compartilhavam bens para o sustento e bem-estar das pessoas.</br>
 </br>
 Hoje em dia compartilhar é algo que não vai exigir de quem compartilha nenhum compromisso ou doação. Haja vista as redes sociais. Existe até um botãozinho para se enviar para alguém alguma coisa; tudo está digitalizado. Que cômodo, se dispara para a rede de amigos (essa é boa viu, “mui amigos”) aquele link, foto, vídeo ou mensagem que achou bela. Pois bem, é assim que é, a escolha de compartilhar uma vida a dois, depois a três, depois a quatro vai tomando rumos muito distantes do ingrediente da responsabilidade e do preço da escolha.

@@ -1,10 +1,10 @@
 ---
 title: "A caridade aos olhos de Deus"
 date: 2020-06-26T16:06:00.002Z
-heroImage: "/images/acolher.png"
+heroImage: "/images/posts/604-a-caridade-aos-olhos-de-deus-acolher.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8OVdrMd3iVO3AFiaTvUsSJwTVxpC6USYz3SaBBmdept3oUEWgmbERuYLUkHzd4Z0qcqNQ2aVqdL2PS1zqHL11wXNdZ2gYWztSx3zr5GNQz0QzTyIj-KMA6fDDCWNOo_K_WfiCCgPNfQ/s344/acolher.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="344" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8OVdrMd3iVO3AFiaTvUsSJwTVxpC6USYz3SaBBmdept3oUEWgmbERuYLUkHzd4Z0qcqNQ2aVqdL2PS1zqHL11wXNdZ2gYWztSx3zr5GNQz0QzTyIj-KMA6fDDCWNOo_K_WfiCCgPNfQ/s320/acolher.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em várias partes do evangelho vemos Jesus exortar as pessoas
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/604-a-caridade-aos-olhos-de-deus-acolher.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="344" src="/images/posts/604-a-caridade-aos-olhos-de-deus-acolher.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em várias partes do evangelho vemos Jesus exortar as pessoas
 de que, o bem que ele fizera não devia ser anunciado publicamente ao toque da
 trombeta. Jesus queria demonstrar com sua atitude que importa a Deus o bem que
 fazemos ao próximo e não a nós mesmos. E para que, além de seus exemplos,

@@ -1,10 +1,10 @@
 ---
 title: "Destruição das famílias"
 date: 2017-03-07T22:13:00Z
-heroImage: "/images/familias.png"
+heroImage: "/images/posts/530-destruição-das-famílias-familias.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDL7N-c9dD-O8i3q9PTCXjAvPwjXC72_a3OfLiy3vt-dBn61CnCNrUQeAH2nC4nQrL_gKCDBR26IKge8debc-U5bDxEfgLgdui1IPBWOUC6e2iJztWDoYh1uwDXzn7TcAp2O7H-S6Io9M/s1600/familias.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDL7N-c9dD-O8i3q9PTCXjAvPwjXC72_a3OfLiy3vt-dBn61CnCNrUQeAH2nC4nQrL_gKCDBR26IKge8debc-U5bDxEfgLgdui1IPBWOUC6e2iJztWDoYh1uwDXzn7TcAp2O7H-S6Io9M/s320/familias.png" width="320" height="284" data-original-width="320" data-original-height="284" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/530-destruição-das-famílias-familias.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/530-destruição-das-famílias-familias.png" width="320" height="284" data-original-width="320" data-original-height="284" /></a></div>
 Não é de hoje que nosso inimigo cruel tenta arruinar os planos divinos para sua criação. No início da criação enxergamos a inveja satânica que, ao querer ser como um deus instigou os primeiros humanos a terem uma visão do seu criador que os colocava meio que como seus inimigos. Era o jardim do Éden e toda a criação feita nos seis dias seria então colocada para os cuidados da obra prima de Deus: o ser humano. Mas, tem quem não gostou e por conta disso promoveu toda a balburdia que se desenrola até os dias de hoje.
 Pela invenção angélica, ao entrar o pecado no mundo, toda a descendência passou a sofrer as consequências trazidas pela desobediência em comer o fruto da árvore da sabedoria e do conhecimento do bem e do mal. De fato tem sido sempre assim. Mas a criação desejada, planejada e concebida por Deus segue o seu curso, afinal, pode Deus infinitamente muito mais que o diabo. No entanto, mesmo podendo pouco, o anjo caído e toda a sua caterva infernal, fazem um estrago daqueles no meio dos homens. Sem dúvida alguma bate de frente na preciosidade divina denominada família. Deus quis a realidade da família e se fez família vindo ao mundo para nos redimir pelo ventre virginal de Maria Santíssima.</br>
 </br>

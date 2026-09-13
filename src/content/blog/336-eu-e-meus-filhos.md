@@ -1,10 +1,10 @@
 ---
 title: "Eu e meus filhos"
 date: 2022-12-12T16:01:00.001Z
-heroImage: "/images/Pai.jpg"
+heroImage: "/images/posts/336-eu-e-meus-filhos-eu_20e_20meu_20pai.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgapfiY2CbRSDj7JIW2BP16FZrql8fMoXv3mTgOy3gldbria8a8kus_Fj5KNFTHBTjT90WUCoPo7WTnVQ6PH8ObdtcA5u8FP0MKApbQB8V_Fl5CemG3z0yEfCxqvBiUM_14tXQjcLCXEUWolbs0uKGdE8x0XFRd87gBHXng7t8gFIviBTvDmqiUMVvL/s630/eu%20e%20meu%20pai.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="592" data-original-width="630" height="301" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgapfiY2CbRSDj7JIW2BP16FZrql8fMoXv3mTgOy3gldbria8a8kus_Fj5KNFTHBTjT90WUCoPo7WTnVQ6PH8ObdtcA5u8FP0MKApbQB8V_Fl5CemG3z0yEfCxqvBiUM_14tXQjcLCXEUWolbs0uKGdE8x0XFRd87gBHXng7t8gFIviBTvDmqiUMVvL/s320/eu%20e%20meu%20pai.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sobre filhos e pais muito se falou, fala e se irá falar. A
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/336-eu-e-meus-filhos-eu_20e_20meu_20pai.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="592" data-original-width="630" height="301" src="/images/posts/336-eu-e-meus-filhos-eu_20e_20meu_20pai.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sobre filhos e pais muito se falou, fala e se irá falar. A
 situação é tema recorrente na história da humanidade desde suas origens. Paternidades
 e maternidades são vocações concedidas aos seres humanos. Infelizmente, por conta
 do livre arbítrio, tantos escolhem, por seus motivos pessoais, não exercer o
@@ -16,7 +16,7 @@ financeiramente, espiritualmente, moralmente e modestamente falando. Só para
 colocar algumas importâncias sobre a questão. Há quem diga que não quer ter
 filhos porque não gosta de criança, porque não leva jeito para cuidar delas,
 porque não tem condições, seja lá de que natureza for, de sustenta-las e
-provê-las todo o necessário...<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF6dq45m_5VteA_ZyHAExk8JC1tcw55f2prxoEIwXeQ5GGFCIhoxYLOyWa0oX9xbrfPlrac3_tZHoeZvpbsvyq4hNWx1iCqrd-y9XP84jZNbCzSuTXk21SWuavlDeMP_FI10nAiqusm-pLc4tPr0-346jV-ef2goXlkD_paMddbDDpaGIY2P4buPX5/s670/eu%20e%20meu%20pai%202.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="615" data-original-width="670" height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF6dq45m_5VteA_ZyHAExk8JC1tcw55f2prxoEIwXeQ5GGFCIhoxYLOyWa0oX9xbrfPlrac3_tZHoeZvpbsvyq4hNWx1iCqrd-y9XP84jZNbCzSuTXk21SWuavlDeMP_FI10nAiqusm-pLc4tPr0-346jV-ef2goXlkD_paMddbDDpaGIY2P4buPX5/s320/eu%20e%20meu%20pai%202.png" width="320" /></a></div><br /><p class="MsoNormal">Enfim, no outro lado da moeda existem os que se esforçam em
+provê-las todo o necessário...<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/336-eu-e-meus-filhos-eu_20e_20meu_20pai_202.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="615" data-original-width="670" height="294" src="/images/posts/336-eu-e-meus-filhos-eu_20e_20meu_20pai_202.png" width="320" /></a></div><br /><p class="MsoNormal">Enfim, no outro lado da moeda existem os que se esforçam em
 seu melhor para desempenhar bem o papel; e para a tristeza familiar, falham e
 trazem consequências desastrosas para o caráter e formação dos seus filhos. Nem
 precisamos ir tão longe, cada um pode aprender sobre o assunto investigando na

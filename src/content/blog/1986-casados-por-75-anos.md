@@ -1,10 +1,10 @@
 ---
 title: "Casados por 75 anos"
 date: 2016-07-20T11:00:00.001Z
-heroImage: "/images/casados75.png"
+heroImage: "/images/posts/1986-casados-por-75-anos-casados75.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeMxqM7hQMod0StQHFWSeflrYaCOTExDqRgzniD-5SRAd5B1cZxD_D4ipfEMTyAMhcFjc7IWxb4NNa0LnUJ8ZHyBUujYCGaG1cYJ1Rhy-3tOtsr8w9bZv5cEhazYvRLSY-vHauiHP1BUg/s1600/casados75.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeMxqM7hQMod0StQHFWSeflrYaCOTExDqRgzniD-5SRAd5B1cZxD_D4ipfEMTyAMhcFjc7IWxb4NNa0LnUJ8ZHyBUujYCGaG1cYJ1Rhy-3tOtsr8w9bZv5cEhazYvRLSY-vHauiHP1BUg/s320/casados75.png" width="299" height="320" data-original-width="456" data-original-height="488" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1986-casados-por-75-anos-casados75.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1986-casados-por-75-anos-casados75.png" width="299" height="320" data-original-width="456" data-original-height="488" /></a></div>
 </br>
 Jeanette Dolores e Alexander Joseph Toczko eram amigos desde seus oito anos de idade, logo se apaixonaram e nunca mais se separaram.</br>
 </br>

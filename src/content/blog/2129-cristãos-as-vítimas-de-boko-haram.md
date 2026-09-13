@@ -1,10 +1,10 @@
 ---
 title: "Cristãos, as vítimas de Boko Haram"
 date: 2015-05-22T11:48:00.001Z
-heroImage: "/images/quenia_boko_haram.png"
+heroImage: "/images/posts/2129-cristãos-as-vítimas-de-boko-haram-quenia_boko_haram.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ZkGtljN8b9bRwAH7dDq3C9tJLYGc31bfdMsPZVB3VlBpn-qKiMJdM3sBzGFfqjVZ32NyDonCIJUNdQomwJxa4up_oPDzE9DaV7kgwNd8wZnaoFr0y4sxKDa7DQYc2hMS02NklJOim4Y/s1600/quenia_boko_haram.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ZkGtljN8b9bRwAH7dDq3C9tJLYGc31bfdMsPZVB3VlBpn-qKiMJdM3sBzGFfqjVZ32NyDonCIJUNdQomwJxa4up_oPDzE9DaV7kgwNd8wZnaoFr0y4sxKDa7DQYc2hMS02NklJOim4Y/s320/quenia_boko_haram.png" width="320" height="202" data-original-width="637" data-original-height="403" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2129-cristãos-as-vítimas-de-boko-haram-quenia_boko_haram.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2129-cristãos-as-vítimas-de-boko-haram-quenia_boko_haram.png" width="320" height="202" data-original-width="637" data-original-height="403" /></a></div>
 </br>
 BOKO HARAM O ASSASSINO DOS CRISTÃOS</br>
 </br>

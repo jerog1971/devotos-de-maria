@@ -1,10 +1,10 @@
 ---
 title: "Constantes ameaças"
 date: 2021-05-14T13:27:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/443-constantes-ameaças-amea_25C3_25A7as.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1HJBJwEv-OAfKuBPiWUyVM_gk7gL1Ijzp8U_F5if9JT-SgNa7oMgVaa-MgU4_qRo-TdtDj8XW-C4hnTf1N8-S_mulOtigXEi6tNSceDY5V5e0moykXDCQ-RxTQvHvBoAid3tvzZubMWE/s372/amea%25C3%25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="372" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1HJBJwEv-OAfKuBPiWUyVM_gk7gL1Ijzp8U_F5if9JT-SgNa7oMgVaa-MgU4_qRo-TdtDj8XW-C4hnTf1N8-S_mulOtigXEi6tNSceDY5V5e0moykXDCQ-RxTQvHvBoAid3tvzZubMWE/s320/amea%25C3%25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A tribulação de nossas vidas é repleta de eventos e
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/443-constantes-ameaças-amea_25C3_25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="372" src="/images/posts/443-constantes-ameaças-amea_25C3_25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A tribulação de nossas vidas é repleta de eventos e
 situações ameaçadoras; visíveis e invisíveis. Como todos bem sabem, elementos
 microscópicos podem, em pouco tempo, “colocar na lona” uma pessoa que se
 considerava forte, saudável e gozando de plena vitalidade. Pobre humanidade,

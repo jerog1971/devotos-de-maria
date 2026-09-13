@@ -1,10 +1,10 @@
 ---
 title: "Tudo vem do Alto"
 date: 2016-08-03T14:14:00Z
-heroImage: "/images/luz_do_ceu.png"
+heroImage: "/images/posts/357-tudo-vem-do-alto-luz_do_ceu.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBG3TB4mm08nVc6M-yRMg2K8TMAmwy9XpsLNRcjegVFKkoDi6927GBpJQphE4ziTH6jTlF2P7aI2aoWdYGNDs8ZUo_KY253gkLMz-sE4KCldCGCiosLK2OQDhg1jOb4j5G34_Sbti_u8c/s1600/luz_do_ceu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBG3TB4mm08nVc6M-yRMg2K8TMAmwy9XpsLNRcjegVFKkoDi6927GBpJQphE4ziTH6jTlF2P7aI2aoWdYGNDs8ZUo_KY253gkLMz-sE4KCldCGCiosLK2OQDhg1jOb4j5G34_Sbti_u8c/s320/luz_do_ceu.png" width="320" height="320" data-original-width="246" data-original-height="246" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/357-tudo-vem-do-alto-luz_do_ceu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/357-tudo-vem-do-alto-luz_do_ceu.png" width="320" height="320" data-original-width="246" data-original-height="246" /></a></div>
 “Porque é do Senhor que recebestes o poder, e é do Altíssimo que tendes o poderio; é ele que examinará vossas obras e sondará vossos pensamentos! “ Caros leitores do site, neste artigo inicio com este belíssimo versículo bíblico que ao lermos, nós que buscamos caminhar na fé, conseguimos sem sombra de dúvida compreender que é assim mesmo que as coisas funcionam.</br>
 </br>
 Até o próprio Cristo disse isso a Pilatos, se referindo que tudo vem do Pai (João 19,11). Pois bem, nós católicos e felizes por poder aprender todo o ensinamento da sagrada escritura sabemos bem que todos os setenta e três livros da bíblia contêm ensinamentos salutares para nossa vida aqui na terra na construção de nossas obras que nos permitirão entrar no céu.</br>

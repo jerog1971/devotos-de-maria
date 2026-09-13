@@ -1,10 +1,10 @@
 ---
 title: "A curva de aprendizagem"
 date: 2024-11-08T19:39:00.008Z
-heroImage: "/images/curva de aprendizagem.png"
+heroImage: "/images/posts/1672-a-curva-de-aprendizagem-curva_20de_20aprendizagem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="350" data-original-width="352" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLQh9z__FhGP-Xfd5SCUOlxgeJV6PCdGagHOaGmDEzeYAvQoee_iqMB-U3dIuhNF7Myv69nQec7ohmBCthRRtwszBCbtye5StRNxjGK0Mh3HD2ocywFaaMPk1hneQ-YKN15bJYsT_kpqqFhoMsojULLj8BW3AdH2PK3I98oIxBTVWJ19YK_9ElhAr5grk/s320/curva%20de%20aprendizagem.png" width="320" /></div><br />A complexidade do ser humano o torna uma máquina divinamente
+<p></p><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="350" data-original-width="352" height="318" src="/images/posts/1672-a-curva-de-aprendizagem-curva_20de_20aprendizagem.png" width="320" /></div><br />A complexidade do ser humano o torna uma máquina divinamente
 projetada para suportar imensas cargas de todos os tipos. Mesmo assim, apesar
 do grande aporte que Deus nos concedeu, insistimos em desafiar limites, testar
 o alcance e forçar nossas capacidades incansavelmente. Que bom que Deus nos fez

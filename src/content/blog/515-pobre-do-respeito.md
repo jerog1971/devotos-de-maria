@@ -1,10 +1,10 @@
 ---
 title: "Pobre do respeito"
 date: 2022-04-18T15:33:00.003Z
-heroImage: "/images/pobre do respeito.png"
+heroImage: "/images/posts/515-pobre-do-respeito-pobre_20do_20respeito.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3UjvRtG-SUVHDx_HsEM35WyHZvNJeFzhAwRKMTrRJDfSv2POHL0lnM4rzXBUjnOJ8ioW4_RYNcYBJKVgqG5RjEAeIUUT0nGumxXWdfs747dfw4APeu4HDSydIYOJ0NHplr3LY9zp_XXcGKVCZNALZpo1nYDqFVL5h_1dZSv4QyhYqs77TKTI_MNom/s609/pobre%20do%20respeito.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="609" data-original-width="587" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3UjvRtG-SUVHDx_HsEM35WyHZvNJeFzhAwRKMTrRJDfSv2POHL0lnM4rzXBUjnOJ8ioW4_RYNcYBJKVgqG5RjEAeIUUT0nGumxXWdfs747dfw4APeu4HDSydIYOJ0NHplr3LY9zp_XXcGKVCZNALZpo1nYDqFVL5h_1dZSv4QyhYqs77TKTI_MNom/s320/pobre%20do%20respeito.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, não vamos ser radicais, ainda existe o respeito no
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/515-pobre-do-respeito-pobre_20do_20respeito.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="609" data-original-width="587" height="320" src="/images/posts/515-pobre-do-respeito-pobre_20do_20respeito.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, não vamos ser radicais, ainda existe o respeito no
 mundo, mas ele é uma bandeira difícil de se manter hasteada. Respeito é mais um
 dos valores que sofreu e sofre com a ação do tempo. Agora, respeita-se alguém
 quando convém ou não se tem opção. Como o respeito não caminha sozinho, sofre

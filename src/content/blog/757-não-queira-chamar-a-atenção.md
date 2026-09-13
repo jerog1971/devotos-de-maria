@@ -1,10 +1,10 @@
 ---
 title: "Não queira chamar a atenção"
 date: 2021-07-20T16:30:00.002Z
-heroImage: "/images/ate.jpg"
+heroImage: "/images/posts/757-não-queira-chamar-a-atenção-img-974350729.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfajuVf8UHDsnd-W81VVU6sIFOIVY5ElD_IoM9xLs2cco9bsQBeIdI8rZSO31YuRlNzphl7jA27ZTj3pc-x2Kuiy5Dw9xuQ3uu2dmZaam2SMpNnugrbq4pslfEuLomAK0RCCbqn0nRvE4/s551/chamar+a+aten%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="551" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfajuVf8UHDsnd-W81VVU6sIFOIVY5ElD_IoM9xLs2cco9bsQBeIdI8rZSO31YuRlNzphl7jA27ZTj3pc-x2Kuiy5Dw9xuQ3uu2dmZaam2SMpNnugrbq4pslfEuLomAK0RCCbqn0nRvE4/s320/chamar+a+aten%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 6,1-6 – “Guardai-vos de fazer vossas boas obras
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/757-não-queira-chamar-a-atenção-img-974350729.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="551" src="/images/posts/757-não-queira-chamar-a-atenção-img-1172063657.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 6,1-6 – “Guardai-vos de fazer vossas boas obras
 diante dos homens, para serdes vistos por eles. Do contrário, não tereis
 recompensa junto de vosso Pai que está no céu. Quando, pois, dás esmola, não
 toques a trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas

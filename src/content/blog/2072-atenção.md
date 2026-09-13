@@ -1,10 +1,10 @@
 ---
 title: "Atenção!"
 date: 2017-05-16T18:35:00Z
-heroImage: "/images/ate.jpg"
+heroImage: "/images/posts/2072-atenção-aten_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7kUfHyRyHJ5pIkoMGhvJNd6T4fuUewHx2cunfGWMnalTFbJdeVWxy_HWiGal8qmgW1Q3GC7st71JfPKsOUjLIlv5aqlfSIZHTT25adRrwqIsSB32gA016ZA-PR2yMVvPf-tw8zO6HhM/s1600/aten%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7kUfHyRyHJ5pIkoMGhvJNd6T4fuUewHx2cunfGWMnalTFbJdeVWxy_HWiGal8qmgW1Q3GC7st71JfPKsOUjLIlv5aqlfSIZHTT25adRrwqIsSB32gA016ZA-PR2yMVvPf-tw8zO6HhM/s320/aten%25C3%25A7%25C3%25A3o.png" width="320" height="268" data-original-width="362" data-original-height="303" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2072-atenção-aten_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2072-atenção-aten_25C3_25A7_25C3_25A3o.png" width="320" height="268" data-original-width="362" data-original-height="303" /></a></div>
 Existe uma expressão que diz que “se uma coisa pode dar errado, provavelmente ela vai dar errado”. Um dos motivos que a expressão procura mostrar é a falta de atenção. Ela meio que desmascara a atitude que as pessoas têm em frente aos seus afazeres e também demonstra a falta de preparo. Vamos ilustrar um pouco a questão para compreendermos um pouquinho mais. A expressão quer nos passar a mensagem de que por não agirmos com a devida atenção e o cuidado abrimos espaço, por conta desse nosso comportamento um tanto “relaxado”, para a possibilidade de cometermos um erro, engano, falha ou desatenção que, culminarão num resultado negativo para aquilo que fazemos.</br>
 </br>
 Aí mora o perigo pois dependendo da gravidade da situação, o saldo negativo que se apresenta a nós, não poderá mais ser desfeito ou remediado. Vamos dar um exemplo. Se uma pessoa está andando a pé pela cidade, num trânsito movimentado, se estiver com a cabeça em pensamentos distantes, corre o risco de ser atropelada ao tentar atravessar um cruzamento movimentado e ficar gravemente ferida, com sequelas ou perder a vida. Já ouvimos as pessoas dizerem que para certas situações e ocasiões todo cuidado é pouco. Ou seja, devemos ter a máxima atenção que conseguimos produzir com nossos sentidos.</br>

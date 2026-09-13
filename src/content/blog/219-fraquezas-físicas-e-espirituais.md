@@ -1,10 +1,10 @@
 ---
 title: "Fraquezas físicas e espirituais"
 date: 2021-07-29T20:24:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/219-fraquezas-físicas-e-espirituais-fraqueza_espiritual.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRwiLm6bmYb4gOYyGqefzqWaTSo0zzHTHp6lw_3mdItVc-GXvjqYvSuk2WMQWsbsOU0EvQu1MXKrzafOiG6LFqVqDB_vpUCKYHLO2aIDH85M8kqqZdujiaX2xJaw0MAbYd0Mi7xpL0BE/s246/fraqueza+espiritual.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="218" data-original-width="246" height="218" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRwiLm6bmYb4gOYyGqefzqWaTSo0zzHTHp6lw_3mdItVc-GXvjqYvSuk2WMQWsbsOU0EvQu1MXKrzafOiG6LFqVqDB_vpUCKYHLO2aIDH85M8kqqZdujiaX2xJaw0MAbYd0Mi7xpL0BE/s0/fraqueza+espiritual.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que fazer em relação a elas? O ser humano não nasceu
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/219-fraquezas-físicas-e-espirituais-fraqueza_espiritual.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="218" data-original-width="246" height="218" src="/images/posts/219-fraquezas-físicas-e-espirituais-fraqueza_espiritual.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que fazer em relação a elas? O ser humano não nasceu
 doente, tornou-se doente por conta de suas escolhas. Se elas o afastam das
 coisas do alto, das coisas de Deus, elas ampliam o que de mal existe dentro de
 cada um. O mesmo vale, graças a Deus, ao que é bom, se as escolhas nos aproximam

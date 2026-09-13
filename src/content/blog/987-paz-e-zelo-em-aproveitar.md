@@ -1,10 +1,10 @@
 ---
 title: "Paz e zelo em aproveitar"
 date: 2020-06-14T17:32:00.001Z
-heroImage: "/images/amizade.png"
+heroImage: "/images/posts/987-paz-e-zelo-em-aproveitar-amizade.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWpu2zd38vJqBov7kQDEosdEYzPgk30duwqGEB-ECSfUieR599fgV19x5ooevDYcmsJu7Bnl4WvaDpy6sQkw8bhQBOrqDfNpyvkpXAsaDLSY8iSjBF_2T5Royd15kZS1iojAYq3RFj15A/s549/amizade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="549" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWpu2zd38vJqBov7kQDEosdEYzPgk30duwqGEB-ECSfUieR599fgV19x5ooevDYcmsJu7Bnl4WvaDpy6sQkw8bhQBOrqDfNpyvkpXAsaDLSY8iSjBF_2T5Royd15kZS1iojAYq3RFj15A/s320/amizade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Muita paz podíamos gozar, se não nos quiséssemos ocupar com os
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/987-paz-e-zelo-em-aproveitar-amizade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="549" src="/images/posts/987-paz-e-zelo-em-aproveitar-amizade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Muita paz podíamos gozar, se não nos quiséssemos ocupar com os
 ditos e fatos alheios que não pertencem ao nosso cuidado. Como pode ficar em
 paz por muito tempo aquele que se intromete em negócios alheios, que busca
 relações exteriores, que raras vezes e mal se recolhe interiormente?

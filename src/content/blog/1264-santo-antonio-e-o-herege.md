@@ -1,10 +1,10 @@
 ---
 title: "Santo Antonio e o herege"
 date: 2016-02-19T10:34:00.001Z
-heroImage: "/images/santo_antonio_e_a_mula.png"
+heroImage: "/images/posts/1264-santo-antonio-e-o-herege-santo_antonio_e_a_mula.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXt-VcPfqGFkvdqdQlYcUzP3WqFdPfF_sVqAWtL8BNSuSUM3yOZqBwHtrhX32xWGIATjb5ek5ysrt07zo91CPGB22IqCoNJiCYoa9BuxJwkKB79H7kujhPYSWK6IWnrfsTm5iasseDtmo/s1600/santo_antonio_e_a_mula.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXt-VcPfqGFkvdqdQlYcUzP3WqFdPfF_sVqAWtL8BNSuSUM3yOZqBwHtrhX32xWGIATjb5ek5ysrt07zo91CPGB22IqCoNJiCYoa9BuxJwkKB79H7kujhPYSWK6IWnrfsTm5iasseDtmo/s320/santo_antonio_e_a_mula.png" width="320" height="225" data-original-width="396" data-original-height="278" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1264-santo-antonio-e-o-herege-santo_antonio_e_a_mula.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1264-santo-antonio-e-o-herege-santo_antonio_e_a_mula.png" width="320" height="225" data-original-width="396" data-original-height="278" /></a></div>
 Caro leitor, você conhece esse MILAGRE de Santo Antônio?</br>
 </br>
 Aconteceu em uma das viagens que o Santo fazia para pregar as palavras de Nosso Senhor. Um dia ele estava pregando sobre a Presença Real de Deus na Sagrada Eucaristia, em Tolosa (França), para um número considerável de pessoas. Mas havia entre eles um herege que ria jocosamente das palavras dele; ele não acreditava na presença real de Nosso Senhor na Eucaristia, e zombava de Santo Antônio. Então, inspirado pelo Espírito Santo, S. Antônio disse ao desgraçado herege:</br>

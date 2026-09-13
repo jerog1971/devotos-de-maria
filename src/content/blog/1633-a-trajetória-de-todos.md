@@ -1,10 +1,10 @@
 ---
 title: "A trajetória de todos"
 date: 2020-03-09T16:15:00.002Z
-heroImage: "/images/jefferson_roger.png"
+heroImage: "/images/posts/1633-a-trajetória-de-todos-jefferson_roger.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7y624YqFvZqB3sTooFn_4TepTvodSJ4cV4-n2f5FNuPK7nJ3n077QSyqZZcR2uP7cwuXZK4Lexb9j6qjpu0NB_Dpm6TDGGA5I_K9SyC4pi9DRdhmZl545bJajdnXaZR94bJh3_QANVn0/s1600/jefferson_roger.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7y624YqFvZqB3sTooFn_4TepTvodSJ4cV4-n2f5FNuPK7nJ3n077QSyqZZcR2uP7cwuXZK4Lexb9j6qjpu0NB_Dpm6TDGGA5I_K9SyC4pi9DRdhmZl545bJajdnXaZR94bJh3_QANVn0/s320/jefferson_roger.png" width="242" height="320" data-original-width="579" data-original-height="766" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1633-a-trajetória-de-todos-jefferson_roger.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1633-a-trajetória-de-todos-jefferson_roger.png" width="242" height="320" data-original-width="579" data-original-height="766" /></a></div>
 Lemos nas escrituras que todos somos predestinados para a santidade. Neste início, meio e fim de nossas vidas, a certeza de morte e da cruz para carregarmos todos os dias, não podemos cair na tentação de achar que alguém possui um caminhar mais facilitado por Deus do que o seu próprio. Pensar assim é afirmar que Deus é parcial e injusto.</br>
 </br>
 Por mais que possa parecer que alguém leve vida melhor que a nossa e com menores sofrimentos ainda assim nunca teremos condições de confirmar ou afirmar que as coisas de fato sejam dessa forma. Nosso julgamento sempre será humano, não dispomos da sabedoria divina. Deus disse nas escrituras que todos serão julgados conforme os critérios dele e não o critério dos homens.</br>

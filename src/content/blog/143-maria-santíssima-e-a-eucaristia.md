@@ -1,10 +1,10 @@
 ---
 title: "Maria Santíssima e a Eucaristia"
 date: 2017-02-21T15:55:00Z
-heroImage: "/images/rosario2.png"
+heroImage: "/images/posts/143-maria-santíssima-e-a-eucaristia-rosario2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0-WrFHSDkYyoxjOSoxX0XfKwa6Mn4Dy7AFiH9QVOa4mBUZ-Z_EvaIUriKp7ltXJlUX5ykP2buzwn0_jPCZTZMNa_huPOJWjS5hxeWAW33Gdq45sDt8vIeq939KYzTyxpLplI5e0kZAGc/s1600/rosario2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0-WrFHSDkYyoxjOSoxX0XfKwa6Mn4Dy7AFiH9QVOa4mBUZ-Z_EvaIUriKp7ltXJlUX5ykP2buzwn0_jPCZTZMNa_huPOJWjS5hxeWAW33Gdq45sDt8vIeq939KYzTyxpLplI5e0kZAGc/s320/rosario2.png" width="320" height="227" data-original-width="459" data-original-height="326" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/143-maria-santíssima-e-a-eucaristia-rosario2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/143-maria-santíssima-e-a-eucaristia-rosario2.png" width="320" height="227" data-original-width="459" data-original-height="326" /></a></div>
 A palavra Eucaristia significa agradecer, dar graças. Por isso receber a santa comunhão, receber a eucaristia é receber o hóspede da alma, com um coração e alma profundamente “agradecidos” a Jesus e dispostos a renunciar as coisas que passam. Do contrário inúmeras comunhões recebidas não terão em nós um efeito eucarístico e toda a grandeza do amor de Deus, não passará de um rito. Mas, e Maria Santíssima, que meditava tudo em seu coração? (Lucas 2,19 e 51)</br>
 </br>
 Deus quis enviar seu filho Jesus por meio dela, não quis que ele chegasse na terra já como adulto. Como Deus poderia, mas não quis, quis servir-se de Maria para a salvação e redenção dos homens. Maria, que é mãe da igreja nos entregou seu filho, gerou em seu ventre o salvador. Com o seu sim, nos abriu a possibilidade de nos encontrar com aquele que veio para nos salvar. Ela, toda agraciada por Deus, bem nos ensina que devemos fazer tudo o que ele nos disser. E mais ainda. Sua vida toda reclusa e diminuída, para conservar o propósito de Deus para a humanidade nos traz uma essencial verdade. Onde está o filho, aí está sua mãe.

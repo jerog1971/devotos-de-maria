@@ -1,10 +1,10 @@
 ---
 title: "As coisas antigas já se passaram?"
 date: 2020-02-05T00:08:00.001Z
-heroImage: "/images/Pai.jpg"
+heroImage: "/images/posts/575-as-coisas-antigas-já-se-passaram-paix_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKUWFcl-VhpDZZmVJooc0MhVhQLKixbKCmyEJco0jUnzM9DXe8EShtBdFZCR2OeJSnXLqS73LCBWGb5cKBcUeKh2Lh2oFN7P1WYigRNs-_9t07YndQDaUCekqSt34K1hAovHGCumbguho/s1600/paix%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKUWFcl-VhpDZZmVJooc0MhVhQLKixbKCmyEJco0jUnzM9DXe8EShtBdFZCR2OeJSnXLqS73LCBWGb5cKBcUeKh2Lh2oFN7P1WYigRNs-_9t07YndQDaUCekqSt34K1hAovHGCumbguho/s320/paix%25C3%25A3o.png" width="242" height="320" data-original-width="222" data-original-height="294" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/575-as-coisas-antigas-já-se-passaram-paix_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/575-as-coisas-antigas-já-se-passaram-paix_25C3_25A3o.png" width="242" height="320" data-original-width="222" data-original-height="294" /></a></div>
 Então, o bom e velho passado está repleto de lembranças. Dos mais variados tipos, essa é a realidade de todas as pessoas, Deus não concedeu exceção a ninguém. O presente ao passar, deixa de ser atual e se torna antigo, no entanto, pode ser relembrado ou vivido mais uma vez sob um novo presente. Podemos comer hoje o mesmo prato de alimento no almoço como o do almoço do dia anterior, mas não é o que se comeu, é mais do mesmo tipo de alimento.</br>
 </br>
 Assim acontece em nossas vidas, podemos fazer as mesmas coisas; isso, todavia, reflete o lado bom ou ruim da situação. Podemos repetir atitudes boas ou repetir atitudes ruins. Nisso o processo de conversão de uma pessoa está presente. A conversão nos permite mudar de direção na vida, tomar o rumo certo (o rumo que agrada a Deus), e servir-se do passado como exemplo de como éramos.</br>

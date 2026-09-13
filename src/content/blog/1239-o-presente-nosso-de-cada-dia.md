@@ -1,10 +1,10 @@
 ---
 title: "O presente nosso de cada dia"
 date: 2021-07-13T15:20:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1239-o-presente-nosso-de-cada-dia-presente_da_vida.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-w-aET4QeE5kaWAgxs2H2AD244NZojsMxvnO6_MdPYPF9JzDxvSKinETMVewptg0v8p_PueuNhpN2v5HiFZmiZ5uX3c_wLExqXYBXU6BRnIH35GFJhAkm7oroethwLv_QPDBUaohyZRc/s1515/presente+da+vida.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="828" data-original-width="1515" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-w-aET4QeE5kaWAgxs2H2AD244NZojsMxvnO6_MdPYPF9JzDxvSKinETMVewptg0v8p_PueuNhpN2v5HiFZmiZ5uX3c_wLExqXYBXU6BRnIH35GFJhAkm7oroethwLv_QPDBUaohyZRc/s320/presente+da+vida.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa vida percorre uma trajetória de início, meio e fim. Quanto
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1239-o-presente-nosso-de-cada-dia-presente_da_vida.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="828" data-original-width="1515" src="/images/posts/1239-o-presente-nosso-de-cada-dia-presente_da_vida.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa vida percorre uma trajetória de início, meio e fim. Quanto
 ao período em que ela se passa nunca soubemos, nem saberemos; não sabemos
 quando começará, nem se estamos no fim, tampouco se irá acabar naquele exato
 momento. Ela é assim, tem uma duração que desconhecemos e por isso, se torna um

@@ -1,10 +1,10 @@
 ---
 title: "Devemos sempre evitar o mal"
 date: 2021-12-06T16:24:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/732-devemos-sempre-evitar-o-mal-img-1757511441.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEi5D7eZAM7nfzLUFGMA2QC_jIoNxe1Ti5j_iBfnqswZtk1EZdaVaPiZ67si5GF1A9KsekiCIC-OrH2fiasVteNcBds3p0tzT7b37CIQx96VLB1ethtwgdBcjWgmJMPVe4GAEUwUSzy0NuDuVHArElmroJyvS-zS998_asq6SFux66RLx_XuyIL6I7fZ=s539" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="539" height="261" src="https://blogger.googleusercontent.com/img/a/AVvXsEi5D7eZAM7nfzLUFGMA2QC_jIoNxe1Ti5j_iBfnqswZtk1EZdaVaPiZ67si5GF1A9KsekiCIC-OrH2fiasVteNcBds3p0tzT7b37CIQx96VLB1ethtwgdBcjWgmJMPVe4GAEUwUSzy0NuDuVHArElmroJyvS-zS998_asq6SFux66RLx_XuyIL6I7fZ=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As famosas ocasiões de perigo; todo mundo já ouviu falar
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/732-devemos-sempre-evitar-o-mal-img-1757511441.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="539" height="261" src="/images/posts/732-devemos-sempre-evitar-o-mal-img-1757509479.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As famosas ocasiões de perigo; todo mundo já ouviu falar
 sobre elas. São situações onde a probabilidade de coisas ruins acontecerem
 conosco é maior do que o normal. Sabemos que o perigo está em toda a parte,
 mas, de forma mais especial, ele ronda por setores da nossa vida com maior

@@ -1,10 +1,10 @@
 ---
 title: "Desobediência ou Teimosia"
 date: 2022-05-10T02:54:00.004Z
-heroImage: "/images/desobediência ou teimosia.png"
+heroImage: "/images/posts/1019-desobediência-ou-teimosia-desobedi_C3_AAncia_20ou_20teimosia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNRSMqDiNOnaGTernDj48fNX2AeRmateyOA4Yh1inT4M8WdJaHBUpyvCVzBBGlGJcq0vesoTudyJ0UfcAKAiSRqQqGlyfWcx5mJF4-GG9U-wSQlwTgqseiMGf_KIMfe9jo0zZw32rU3aCsHAxeLyW0vqGeX27nEN6kcX_rlRBZgjnQPaAhPxu56GXm/s354/desobedi%C3%AAncia%20ou%20teimosia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="353" data-original-width="354" height="319" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNRSMqDiNOnaGTernDj48fNX2AeRmateyOA4Yh1inT4M8WdJaHBUpyvCVzBBGlGJcq0vesoTudyJ0UfcAKAiSRqQqGlyfWcx5mJF4-GG9U-wSQlwTgqseiMGf_KIMfe9jo0zZw32rU3aCsHAxeLyW0vqGeX27nEN6kcX_rlRBZgjnQPaAhPxu56GXm/s320/desobedi%C3%AAncia%20ou%20teimosia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essas duas ações existem, não se pode nega-las. No entanto, a
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1019-desobediência-ou-teimosia-desobedi_C3_AAncia_20ou_20teimosia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="353" data-original-width="354" height="319" src="/images/posts/1019-desobediência-ou-teimosia-desobedi_C3_AAncia_20ou_20teimosia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essas duas ações existem, não se pode nega-las. No entanto, a
 inteligência concedida ao homem, por Deus, e também seu livre-arbítrio, permitem
 que esse utilize no curso de sua vida da maneira que melhor lhe convir. Eis o
 perigo da coisa, pois, o diabo nos tenta para que pratiquemos a desobediência e

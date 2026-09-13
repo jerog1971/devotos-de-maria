@@ -1,10 +1,10 @@
 ---
 title: "A obrigação e o dever dos bispos"
 date: 2020-05-12T18:27:00Z
-heroImage: "/images/bispos_dedicados.png"
+heroImage: "/images/posts/1050-a-obrigação-e-o-dever-dos-bispos-AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="381" data-original-width="359" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0/s320/bispos_dedicados.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segundo o documento Christus Dominus:<o:p></o:p></p>
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1050-a-obrigação-e-o-dever-dos-bispos-AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="381" data-original-width="359" height="320" src="/images/posts/1050-a-obrigação-e-o-dever-dos-bispos-AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0.jpgs320/bispos_dedicados.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segundo o documento Christus Dominus:<o:p></o:p></p>
 
 <p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>“Vigiem que a
 instrução catequética, que se orienta a fazer com que a fé, ilustrada pela doutrina,

@@ -1,10 +1,10 @@
 ---
 title: "O mal em ação"
 date: 2022-04-05T18:12:00.003Z
-heroImage: "/images/satanismo.png"
+heroImage: "/images/posts/1594-o-mal-em-ação-satanismo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjICtV_4y5WZG-RicPxFQiroX96FlNDYaUrXyVKT-CLmT8--6wvTIRyT6jEbJj7DaXVgZi6MW41bXRlPv2KpXy9xERqubkTL_iPlqTlbf2-VHH7aZIWv3iKWA5Gmn2XKVfCIHjoB1bPNTq_aXTaNSlBiI1zfnuNOFb7K6w-PlGyi-CQwx3i48tUdMNK/s453/satanismo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="453" height="259" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjICtV_4y5WZG-RicPxFQiroX96FlNDYaUrXyVKT-CLmT8--6wvTIRyT6jEbJj7DaXVgZi6MW41bXRlPv2KpXy9xERqubkTL_iPlqTlbf2-VHH7aZIWv3iKWA5Gmn2XKVfCIHjoB1bPNTq_aXTaNSlBiI1zfnuNOFb7K6w-PlGyi-CQwx3i48tUdMNK/s320/satanismo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vejam só caros leitores, estamos nos aproximando mais uma
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1594-o-mal-em-ação-satanismo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="453" height="259" src="/images/posts/1594-o-mal-em-ação-satanismo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vejam só caros leitores, estamos nos aproximando mais uma
 vez da grande festa central do Cristianismo. Enquanto isso, os contrários ao divino,
 a tudo que vem dos céus, parodia uma manjedoura que ao invés do menino Jesus, encontra-se
 uma figura distorcida de um demônio bebê chamado Baphomet. E detalhe, a imagem

@@ -1,10 +1,10 @@
 ---
 title: "Pais que enterram os filhos"
 date: 2016-08-24T12:24:00Z
-heroImage: "/images/enterro_do_filho.png"
+heroImage: "/images/posts/1980-pais-que-enterram-os-filhos-enterro_do_filho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBRnLK1AwZdPF3LizfXXjet2wcL6hbklnNfcHyrSkDZJ9GdZwlA5uN05FBq4LfFmqIXFxG0-whs3bwporPWUuPo1HY44HhT6pYVYqQics2myrG0119Sic1y8R0ygAsu8bkAcYHsl0omk/s1600/enterro_do_filho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBRnLK1AwZdPF3LizfXXjet2wcL6hbklnNfcHyrSkDZJ9GdZwlA5uN05FBq4LfFmqIXFxG0-whs3bwporPWUuPo1HY44HhT6pYVYqQics2myrG0119Sic1y8R0ygAsu8bkAcYHsl0omk/s320/enterro_do_filho.png" width="320" height="237" data-original-width="701" data-original-height="520" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1980-pais-que-enterram-os-filhos-enterro_do_filho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1980-pais-que-enterram-os-filhos-enterro_do_filho.png" width="320" height="237" data-original-width="701" data-original-height="520" /></a></div>
 Em linhas gerais é de comum acordo de que o curso da vida promova primeiro a morte das pessoas com idade mais avançada. E este pensamento se deve ao fato de que, aparentemente aos olhos da humanidade, morrem mais anciãos do que prematuros na vida. No entanto, contrária a lógica da idade, o fato reside na condição de não se saber a hora da morte e, por conseguinte, não existe uma ordem convencional para que as coisas aconteçam.</br>
 </br>
 Filhos costumam enterrar seus pais, é verdade. Mas o oposto também ocorre e quando acontece restam aos que ficam a dor e o sofrimento daqueles que viram nascer neste mundo seus entes queridos. Caro leitor, vós que estais a ler este artigo talvez já tenha de algum modo passado pela experiência ou tomado ciência desta situação que aconteceu bem próximo de ti.</br>

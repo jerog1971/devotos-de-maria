@@ -1,10 +1,10 @@
 ---
 title: "Ano novo e pandemia velha"
 date: 2022-01-01T15:03:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1549-ano-novo-e-pandemia-velha-AVvXsEiQ4T7oGOrk8tQdNxRED8wU3t1EzXr2ktUedWWCGnp74revmrTY1qvXO9FOQqH2wefno66ZV44a_U5iTRTOxacakuCnrk19l5_MnQpFXPPsEVeXbF3AP2VgKCfaykTiiV3iFd7CH3M1WFi5_8D9L2dtNeyDnDMLAzDcmEUBi7xtHdBwpW1YIjQtuAhZ_s278.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiQ4T7oGOrk8tQdNxRED8wU3t1EzXr2ktUedWWCGnp74revmrTY1qvXO9FOQqH2wefno66ZV44a_U5iTRTOxacakuCnrk19l5_MnQpFXPPsEVeXbF3AP2VgKCfaykTiiV3iFd7CH3M1WFi5_8D9L2dtNeyDnDMLAzDcmEUBi7xtHdBwpW1YIjQtuAhZ=s278" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="278" height="264" src="https://blogger.googleusercontent.com/img/a/AVvXsEiQ4T7oGOrk8tQdNxRED8wU3t1EzXr2ktUedWWCGnp74revmrTY1qvXO9FOQqH2wefno66ZV44a_U5iTRTOxacakuCnrk19l5_MnQpFXPPsEVeXbF3AP2VgKCfaykTiiV3iFd7CH3M1WFi5_8D9L2dtNeyDnDMLAzDcmEUBi7xtHdBwpW1YIjQtuAhZ" width="278" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Outra virada nos números do calendário, outra rodada de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1549-ano-novo-e-pandemia-velha-AVvXsEiQ4T7oGOrk8tQdNxRED8wU3t1EzXr2ktUedWWCGnp74revmrTY1qvXO9FOQqH2wefno66ZV44a_U5iTRTOxacakuCnrk19l5_MnQpFXPPsEVeXbF3AP2VgKCfaykTiiV3iFd7CH3M1WFi5_8D9L2dtNeyDnDMLAzDcmEUBi7xtHdBwpW1YIjQtuAhZ_s278.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="278" height="264" src="/images/posts/1549-ano-novo-e-pandemia-velha-AVvXsEiQ4T7oGOrk8tQdNxRED8wU3t1EzXr2ktUedWWCGnp74revmrTY1qvXO9FOQqH2wefno66ZV44a_U5iTRTOxacakuCnrk19l5_MnQpFXPPsEVeXbF3AP2VgKCfaykTiiV3iFd7CH3M1WFi5_8D9L2dtNeyDnDMLAzDcmEUBi7xtHdBwpW1YIjQtuAhZ.jpg" width="278" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Outra virada nos números do calendário, outra rodada de
 repetições de promessas, novas tentativas de colocar projetos antigos em prática
 e novas perspectivas, além da sempre renovação dos pedidos e agradecimentos. Desta
 vez, no entanto, a atual geração convive mais acentuadamente com um dos três

@@ -1,10 +1,10 @@
 ---
 title: "Sigo uma religião"
 date: 2022-07-27T19:16:00.002Z
-heroImage: "/images/juiz.png"
+heroImage: "/images/posts/754-sigo-uma-religião-juiz.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4WiPbvdVpO-BEpxjlsKOTafHwflfeyXYwWK9SkfjRP2fY0UqladvpE6zaTQLYwvHrn0ORF_kZQI-TR2YokVnC8ZIfuxkH8qtbbBeySbIJsdhL-ILP7W4mdX_W6mIQg0RtBXTFWMjSOEEvxT3_sxBPlfXF0Zd8On5DxDu0OoKu8zSx4l3IYlSdcdLx/s318/juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4WiPbvdVpO-BEpxjlsKOTafHwflfeyXYwWK9SkfjRP2fY0UqladvpE6zaTQLYwvHrn0ORF_kZQI-TR2YokVnC8ZIfuxkH8qtbbBeySbIJsdhL-ILP7W4mdX_W6mIQg0RtBXTFWMjSOEEvxT3_sxBPlfXF0Zd8On5DxDu0OoKu8zSx4l3IYlSdcdLx/s1600/juiz.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, religião vem do latim que significa religar-se a
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/754-sigo-uma-religião-juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="/images/posts/754-sigo-uma-religião-juiz.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, religião vem do latim que significa religar-se a
 Deus. Isso, depois que o homem caiu no paraíso ao desobedecer a ordem que lhe
 proibia de comer da árvore da sabedoria do bem e do mal. Convenhamos, podia
 comer de tudo, menos do fruto daquela árvore; não podia contentar-se com isso?

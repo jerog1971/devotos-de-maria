@@ -1,10 +1,10 @@
 ---
 title: "São Romualdo"
 date: 2020-06-19T15:36:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/335-são-romualdo-S_25C3_25A3o_Romualdo.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFu03hbjynmsPTfwukxRkpeQgsffKTQzf10BwfJsw9i-WGst6UI9jbcgus44pUPx36X85v3xwKR9MttwKNxXFhDvknEWZv8iZ6pR3_e7vw7s86KorVs8cIrm6VtOrWS7Yd0QAo36mOZNA/s426/S%25C3%25A3o+Romualdo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="426" data-original-width="403" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFu03hbjynmsPTfwukxRkpeQgsffKTQzf10BwfJsw9i-WGst6UI9jbcgus44pUPx36X85v3xwKR9MttwKNxXFhDvknEWZv8iZ6pR3_e7vw7s86KorVs8cIrm6VtOrWS7Yd0QAo36mOZNA/s320/S%25C3%25A3o+Romualdo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Romualdo nasceu na Toscana e viveu no final do século X
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/335-são-romualdo-S_25C3_25A3o_Romualdo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="426" data-original-width="403" height="320" src="/images/posts/335-são-romualdo-S_25C3_25A3o_Romualdo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Romualdo nasceu na Toscana e viveu no final do século X
 e início do século XI. Reformador da vida monástica, chegou à vida religiosa
 marcado por um triste acontecimento: seu pai matara em duelo um parente.</p>
 

@@ -1,10 +1,10 @@
 ---
 title: "Arcebispo proíbe comunhão na boca"
 date: 2020-03-13T16:25:00.002Z
-heroImage: "/images/igreja_profanada.png"
+heroImage: "/images/posts/416-arcebispo-proíbe-comunhão-na-boca-igreja_profanada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNaF030DxL5H_UN99_1qpEc7gEP_b45X8k1kCRoUg0-Xe4oGpcAXWrRX8iaxk4OuWq76asRUF-5sODjqTFFakDyIf6hR-PKdK4R29weoapfPNkCvW8R2MzRKLstQtoq3mqRm-sLTjMipU/s1600/igreja_profanada.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="448" data-original-width="532" height="269" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNaF030DxL5H_UN99_1qpEc7gEP_b45X8k1kCRoUg0-Xe4oGpcAXWrRX8iaxk4OuWq76asRUF-5sODjqTFFakDyIf6hR-PKdK4R29weoapfPNkCvW8R2MzRKLstQtoq3mqRm-sLTjMipU/s320/igreja_profanada.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/416-arcebispo-proíbe-comunhão-na-boca-igreja_profanada.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="448" data-original-width="532" height="269" src="/images/posts/416-arcebispo-proíbe-comunhão-na-boca-igreja_profanada.png" width="320" /></a></div>
 O arcebispo da capital paranaense atendeu jornalistas nesta quinta-feira, 12 de março, à tarde na Cúria Metropolitana para comentar sobre orientações e medidas recomendadas às paróquias e comunidades católicas frente às preocupações atuais de contágio do novo coronavírus. O pronunciamento foi realizado como forma de atender simultaneamente aos pedidos de informação sobre o assunto que chegam à arquidiocese especialmente desde ontem, 11 de março (fonte – arquidiocese da capital).
 
 Falou então sobre as recomendações nas igrejas da abrangência da arquidiocese sob sua tutela: “Nós católicos, frequentamos as igrejas e vamos seguir frequentando, mas por agora, há algumas recomendações a nossos padres e fiéis”. Entre as medidas às paróquias e comunidades, listou:

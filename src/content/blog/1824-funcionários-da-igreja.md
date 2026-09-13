@@ -1,10 +1,10 @@
 ---
 title: "Funcionários da igreja"
 date: 2021-02-08T10:48:00.004Z
-heroImage: "/images/igreja.png"
+heroImage: "/images/posts/1824-funcionários-da-igreja-funcionario_da_igreja.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrzpqZX0-lpEFqi-sa01FSeXmQQDDXUfIwaNXV_vfQpLq_uc_9tOg4bhALhixOaL5HOCul4bb8mG9FevmFTgEnPVcyrpihb2p4FISHGXiblztSLBylut2ULJz94dA3E9c6zZVTKGJ4Cg/s340/funcionario+da+igreja.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="311" data-original-width="340" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrzpqZX0-lpEFqi-sa01FSeXmQQDDXUfIwaNXV_vfQpLq_uc_9tOg4bhALhixOaL5HOCul4bb8mG9FevmFTgEnPVcyrpihb2p4FISHGXiblztSLBylut2ULJz94dA3E9c6zZVTKGJ4Cg/s320/funcionario+da+igreja.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De tempos em tempos o povo de Deus é obrigado a ouvir barbaridades
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1824-funcionários-da-igreja-funcionario_da_igreja.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="311" data-original-width="340" src="/images/posts/1824-funcionários-da-igreja-funcionario_da_igreja.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De tempos em tempos o povo de Deus é obrigado a ouvir barbaridades
 e heresias do clero que pensa ser funcionário da igreja, obediente ao seu
 superior (o bispo e o Papa). Defendem acima de tudo – e isso inclui o evangelho
 de nosso senhor Jesus Cristo – o que a igreja diz, mesmo que isso seja

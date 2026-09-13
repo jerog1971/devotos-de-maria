@@ -1,10 +1,10 @@
 ---
 title: "Depois da Escola com Satã"
 date: 2016-09-20T12:17:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1073-depois-da-escola-com-satã-sat_25C3_25A3.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3dgmkzC2aFup-Gns9-tUqjUrIBpVilbzBaseJCERcG-7iOSuya-1LY3qslLogw8DJP04FltPgsvedbSI-WQ2tlYZFj1Kfb-Q_F1iMBHB_ZCshsujpinxz1TFveQVdYU5Gn6gr8RtcRRU/s1600/sat%25C3%25A3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3dgmkzC2aFup-Gns9-tUqjUrIBpVilbzBaseJCERcG-7iOSuya-1LY3qslLogw8DJP04FltPgsvedbSI-WQ2tlYZFj1Kfb-Q_F1iMBHB_ZCshsujpinxz1TFveQVdYU5Gn6gr8RtcRRU/s320/sat%25C3%25A3.png" width="320" height="297" data-original-width="524" data-original-height="487" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1073-depois-da-escola-com-satã-sat_25C3_25A3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1073-depois-da-escola-com-satã-sat_25C3_25A3.png" width="320" height="297" data-original-width="524" data-original-height="487" /></a></div>
 Caros leitores, é de conhecimento de todo bom cristão católico que está preocupado com a salvação de sua alma e a de seus irmãos, que desde o jardim do Éden está estabelecida a inimizade entre a descendência da serpente e a descendência da mulher. A luta do bem contra o mal todos nós sabemos que irá até o último dia deste mundo. Dito isto trago a vocês recentes acontecimentos que tem acontecido aqui no ocidente, mais especificamente nos Estados Unidos. Naquele país a corrente satanista está tentando aprovar um projeto que aqui no Brasil nós conhecemos como contra turno escolar. Vejam como funciona.</br>
 </br>
 Em nosso país, a atividade de contra turno escolar acontece num horário diferente daquele em que as crianças recebem a educação regular. Se o aluno estuda pela manhã, seu reforço escolar acontecerá no contra turno no período da tarde. Pois muito bem, o que estão tentando implantar nos Estados Unidos. Lá os satanistas organizados em uma instituição denominada “O Templo Satânico”, protocolou junto a justiça um projeto para ser implantado em nove locais daquele país onde existem sedes de sua instituição. O projeto se chama “Depois da Escola com Satã”.</br>

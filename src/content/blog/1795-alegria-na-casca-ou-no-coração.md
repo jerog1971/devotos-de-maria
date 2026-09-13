@@ -1,10 +1,10 @@
 ---
 title: "Alegria na casca ou no coração"
 date: 2023-02-20T01:39:00.004Z
-heroImage: "/images/a alegria dos santos.png"
+heroImage: "/images/posts/1795-alegria-na-casca-ou-no-coração-a_20alegria_20dos_20santos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzPaIJHhsGmRoQuTE6J18LgyV9hES4tqKn7eL8PydMuaDeF_kkpI431l7vR_Gcay0KGfa06K8D3x8nklK3lHXEZRExkDyJlYDXpAPZPaByQ6NnhrtLDWMcbDhWtugnK73nuJMfssYzhAf4dvigR3ALLM9G4QazLnQSlk3p4aSGa-YZCZAyAAgKQ0J/s452/a%20alegria%20dos%20santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="419" data-original-width="452" height="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzPaIJHhsGmRoQuTE6J18LgyV9hES4tqKn7eL8PydMuaDeF_kkpI431l7vR_Gcay0KGfa06K8D3x8nklK3lHXEZRExkDyJlYDXpAPZPaByQ6NnhrtLDWMcbDhWtugnK73nuJMfssYzhAf4dvigR3ALLM9G4QazLnQSlk3p4aSGa-YZCZAyAAgKQ0J/s320/a%20alegria%20dos%20santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Os santos passavam por tribulações tremendas aqui nessa
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1795-alegria-na-casca-ou-no-coração-a_20alegria_20dos_20santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="419" data-original-width="452" height="297" src="/images/posts/1795-alegria-na-casca-ou-no-coração-a_20alegria_20dos_20santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Os santos passavam por tribulações tremendas aqui nessa
 terra e, no entanto, tinham sempre no fundo do seu coração uma alegria que não
 se apagava. Enquanto as pessoas que vivem no pecado têm uma alegria externa e
 uma tristeza lá no fundo da alma. Não sei se você já parou para ver isto;

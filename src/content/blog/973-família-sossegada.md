@@ -1,10 +1,10 @@
 ---
 title: "Família Sossegada"
 date: 2020-10-13T13:19:00.003Z
-heroImage: "/images/devoção a familia.png"
+heroImage: "/images/posts/973-família-sossegada-familia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz3KomwlmKSAkcS9Ki_qzO11_IhQel29qVXKN9B6xGoO0Glx8itTHrMVBQspkHsu2Eo-QKpFx3gn917UHW14PT7pf-8DsmF0Xi32FoekKEALNIS7AHJz3E_5vIoV8lyyGI7ieJoa4qmwo/s462/familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="462" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz3KomwlmKSAkcS9Ki_qzO11_IhQel29qVXKN9B6xGoO0Glx8itTHrMVBQspkHsu2Eo-QKpFx3gn917UHW14PT7pf-8DsmF0Xi32FoekKEALNIS7AHJz3E_5vIoV8lyyGI7ieJoa4qmwo/s320/familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que o diabo faz muito bem é não deixar a
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/973-família-sossegada-familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="462" src="/images/posts/973-família-sossegada-familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que o diabo faz muito bem é não deixar a
 família sossegada. Algo que o deixa furioso é uma família vivendo em harmonia,
 na fidelidade entre pais e filhos, marido e mulher, família e Deus. Nesse
 contexto, que já é repleto de adversidades – porque aprendemos quem tudo contribui

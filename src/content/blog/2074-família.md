@@ -1,10 +1,10 @@
 ---
 title: "Família"
 date: 2024-08-05T16:30:00.004Z
-heroImage: "/images/Bom humor em família.jpg"
+heroImage: "/images/posts/2074-família-fam_C3_ADlia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqQCeypnvA3A_ioq0OaqC9k3HBwStuArS-25Ni3SixjEtsfVp74AVoj27UhqXd1dqQ64WgFxo7IqaiPCw4smUiAFMFqZB_k3HYA01423vKmKlMzlsKMd4RiOb3myy6OgssNsZY-tr_SsfXkYqQmittGaDmIJI6FEGnpHErGc4JziogSny2LNf_8La5yY/s1600/fam%C3%ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="719" data-original-width="1600" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqQCeypnvA3A_ioq0OaqC9k3HBwStuArS-25Ni3SixjEtsfVp74AVoj27UhqXd1dqQ64WgFxo7IqaiPCw4smUiAFMFqZB_k3HYA01423vKmKlMzlsKMd4RiOb3myy6OgssNsZY-tr_SsfXkYqQmittGaDmIJI6FEGnpHErGc4JziogSny2LNf_8La5yY/w367-h165/fam%C3%ADlia.jpg" width="367" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Por aqui, vira e mexe, estamos a falar da realidade pensada,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2074-família-fam_C3_ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="719" data-original-width="1600" height="165" src="/images/posts/2074-família-fam_C3_ADlia.jpg" width="367" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Por aqui, vira e mexe, estamos a falar da realidade pensada,
 querida e criada por Deus: a família; sobretudo as famílias cristãs. Alvo de
 muitos ataques ao longo da história da humanidade, tanto espirituais quanto de
 outras naturezas, sempre será o foco principal de nosso inimigo número um e dos

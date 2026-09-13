@@ -1,10 +1,10 @@
 ---
 title: "Os pecadinhos de estimação"
 date: 2018-09-24T20:39:00.001Z
-heroImage: "/images/pecadinhos.png"
+heroImage: "/images/posts/1232-os-pecadinhos-de-estimação-pecadinhos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKHs3dowqLlxsqHiVxR6pWgCfCjgEvHxHzrPcTmJvnbz2e1efkFEIQcdS-FXUYTFHBeMwBY0q9AyEJBGeHRLasHX4PB8AGV6AN5wiDHccCUYCJq9Vivg6TrXMPol3CSzz1hasXSJFa9k/s1600/pecadinhos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="295" data-original-width="402" height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKHs3dowqLlxsqHiVxR6pWgCfCjgEvHxHzrPcTmJvnbz2e1efkFEIQcdS-FXUYTFHBeMwBY0q9AyEJBGeHRLasHX4PB8AGV6AN5wiDHccCUYCJq9Vivg6TrXMPol3CSzz1hasXSJFa9k/s320/pecadinhos.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Fáceis de cometer, difíceis de abandonar. Assim são definidos pelos santos e santas da igreja católica e também pela patrística, os pecados que, segundo Nossa Senhora em suas aparições, são os que mais condenam almas ao inferno.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1232-os-pecadinhos-de-estimação-pecadinhos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="295" data-original-width="402" height="235" src="/images/posts/1232-os-pecadinhos-de-estimação-pecadinhos.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Fáceis de cometer, difíceis de abandonar. Assim são definidos pelos santos e santas da igreja católica e também pela patrística, os pecados que, segundo Nossa Senhora em suas aparições, são os que mais condenam almas ao inferno.
 
 São Tomás de Aquino vai logo nos esclarecendo que este tipo de pecado, o tal “pecadinho”, de pecadinho não tem nada, ele está na natureza de uma das seis possibilidades de se pecar contra o Espírito Santo. Vale lembrar que Jesus no disse que somente os pecados contra o Paráclito não possuem perdão, nem nesta vida, nem na vindoura.
 

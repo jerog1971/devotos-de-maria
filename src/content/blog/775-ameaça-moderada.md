@@ -1,10 +1,10 @@
 ---
 title: "Ameaça moderada"
 date: 2024-04-18T18:44:00.003Z
-heroImage: "/images/ameaça moderada.png"
+heroImage: "/images/posts/775-ameaça-moderada-amea_C3_A7a_20moderada.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0dJpGUyYoUCC-5rgC18tOeILukkdMAv24UV-qDt4wHSM97bYT0MivP7Z5yHiwXQrwjaFi0yK543-uAMz5HVkioIlThv6WUY80FeV3wFWa5_B12PROrHQ_Vvh-ATrQa5bFIHG0yQ4_95PQUt0DAP_06lIUAqC_vG-ClYoTwbtWOgEq83naV4yysBTgBv0/s510/amea%C3%A7a%20moderada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="510" height="279" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0dJpGUyYoUCC-5rgC18tOeILukkdMAv24UV-qDt4wHSM97bYT0MivP7Z5yHiwXQrwjaFi0yK543-uAMz5HVkioIlThv6WUY80FeV3wFWa5_B12PROrHQ_Vvh-ATrQa5bFIHG0yQ4_95PQUt0DAP_06lIUAqC_vG-ClYoTwbtWOgEq83naV4yysBTgBv0/s320/amea%C3%A7a%20moderada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme da franquia de cinema, Resident Evil 2: Apocalipse,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/775-ameaça-moderada-amea_C3_A7a_20moderada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="510" height="279" src="/images/posts/775-ameaça-moderada-amea_C3_A7a_20moderada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme da franquia de cinema, Resident Evil 2: Apocalipse,
 um dos vilões do filme, o Nêmesis, possuía grande força e resistência para
 combates mortais. No filme, quando ele avistava alguém, em seu visor, após uma
 análise feita da pessoa, o resultado lhe informava qual era o nível de ameaça

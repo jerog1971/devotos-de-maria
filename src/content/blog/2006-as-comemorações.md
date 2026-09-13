@@ -1,10 +1,10 @@
 ---
 title: "As comemorações"
 date: 2020-09-04T15:10:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2006-as-comemorações-Anivers_25C3_25A1rio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibBFNyoTkBRc04esvsc8731OcHSvvkNQ_ISzQajPkqu5VEyBkqkfvV2Vl-IwwBuu1O_V8Ce4CUyrTQzUZ-NGHuK7o6lqvGAbeH78u2Whjjf-nZaVNPpq515BUAWYIq7p_zqhURHB_2CVI/s470/Anivers%25C3%25A1rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="469" data-original-width="470" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibBFNyoTkBRc04esvsc8731OcHSvvkNQ_ISzQajPkqu5VEyBkqkfvV2Vl-IwwBuu1O_V8Ce4CUyrTQzUZ-NGHuK7o6lqvGAbeH78u2Whjjf-nZaVNPpq515BUAWYIq7p_zqhURHB_2CVI/s320/Anivers%25C3%25A1rio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos nas escrituras que Deus dá e tira quando lhe aprouve.
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2006-as-comemorações-Anivers_25C3_25A1rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="469" data-original-width="470" src="/images/posts/2006-as-comemorações-Anivers_25C3_25A1rio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos nas escrituras que Deus dá e tira quando lhe aprouve.
 Isso nos serve para entendermos que é ele quem está no comando de nossa
 jornada. Não sabemos de quanto tempo dispomos; por isso importa o que fazemos
 com o tempo que nos é concedido. Ou acumulamos “pontos” ou “descréditos”.<o:p></o:p></p><div class="separator" style="clear: both;">

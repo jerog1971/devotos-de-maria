@@ -1,10 +1,10 @@
 ---
 title: "Um dia a menos"
 date: 2023-11-12T14:16:00.008Z
-heroImage: "/images/nos.JPG"
+heroImage: "/images/posts/860-um-dia-a-menos-um_20dia_20a_20menos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijBr8AwiWhFhq2g9j8qNgc8LlPva4bmeCs6_A3c8UP6LX-NaMPR3LXvuHLu7wrkWSSs8-8w8rotDNdknQKfMiC6lNf6-XW_XxccknxYk1XhwZ9lmxWwJLTxrCKBkHYvCS6iVCINJ6iyZFOy0Sc6YZ6Ic4WxhZmKq_kDJcZo5v8t2HmZchvzbc4QvnIPmU/s222/um%20dia%20a%20menos.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="222" height="194" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijBr8AwiWhFhq2g9j8qNgc8LlPva4bmeCs6_A3c8UP6LX-NaMPR3LXvuHLu7wrkWSSs8-8w8rotDNdknQKfMiC6lNf6-XW_XxccknxYk1XhwZ9lmxWwJLTxrCKBkHYvCS6iVCINJ6iyZFOy0Sc6YZ6Ic4WxhZmKq_kDJcZo5v8t2HmZchvzbc4QvnIPmU/w287-h194/um%20dia%20a%20menos.png" width="287" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ontem, dentro da contagem regressiva desta história, oito dias
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/860-um-dia-a-menos-um_20dia_20a_20menos.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="222" height="194" src="/images/posts/860-um-dia-a-menos-um_20dia_20a_20menos.png" width="287" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ontem, dentro da contagem regressiva desta história, oito dias
 se seguirão até que saiba o leitor como esse acontecimento termina, ou começa.
 A mãe tinha partido, começara então uma desestruturação familiar. Sim, em
 famílias precisam existir alicerces do contrário, como nas construções de

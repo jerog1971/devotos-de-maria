@@ -1,10 +1,10 @@
 ---
 title: "Só a oração poderá nos salvar"
 date: 2019-10-31T15:56:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1120-só-a-oração-poderá-nos-salvar-ora_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV2Jx_vkn8dSDB4sJaEipLWSUu_ZRB5cXqdiPY2aJwFmJZNMmr7v9I1anIKVfVgctWgEvYOx48JnCLlVM0d7fAisYgg6xGf-ziWA8JmYbXiuNmDdw5pcQAtt2qu5Ik-Tj-3xSFYAhfE9I/s1600/ora%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV2Jx_vkn8dSDB4sJaEipLWSUu_ZRB5cXqdiPY2aJwFmJZNMmr7v9I1anIKVfVgctWgEvYOx48JnCLlVM0d7fAisYgg6xGf-ziWA8JmYbXiuNmDdw5pcQAtt2qu5Ik-Tj-3xSFYAhfE9I/s320/ora%25C3%25A7%25C3%25A3o.png" width="320" height="220" data-original-width="488" data-original-height="335" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1120-só-a-oração-poderá-nos-salvar-ora_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1120-só-a-oração-poderá-nos-salvar-ora_25C3_25A7_25C3_25A3o.png" width="320" height="220" data-original-width="488" data-original-height="335" /></a></div>
 Santo Antão, o monge do deserto, dizia que combatia o mal com a única arma do cristão: a oração. Por que será? Será que ela é uma espécie de fórmula mágica que basta recita-la que tudo está resolvido? Nossa, que legal! Se for assim a bíblia pode ser considerada um livro de rituais de magia cheio de encantamentos. Basta abrir em algum lugar e lá está uma oração pronta para solucionar seus problemas.</br>
 </br>
 Pois bem, sabemos que não é assim; a profundidade da oração e sua eficácia está ligada a uma condição de comunhão com Deus e uma fé que não pode ser percentual. Se a oração não “funcionou” alguma coisa ficou para trás, não foi feita ou ainda a oração não pode ser atendida porque não se está pedindo da maneira certa ou conforme o desejo de Deus. A partir do momento que passamos a querer para nossas vidas aquilo que Deus quer as orações certamente começam a se tornarem concretas em nossa existência. Seus resultados são vivenciados sem dúvida alguma.</br>

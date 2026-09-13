@@ -1,10 +1,10 @@
 ---
 title: "Almas desapegadas"
 date: 2021-12-13T15:27:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/669-almas-desapegadas-img-1280524605.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhX7AADHPIGKfzHBd9_6ahk5tdmvGDDZn2PpGuM0fjJyGEAwVuMKACgrjP25TLbzRyDe1nWnBmUYyzOXpA9rXFw4MnlFFa8rXiuQ9nFGRN2qz109BB1BFD73LdiYU_e1teknlvdkZnmszHOStnzGiTX36_MeY2GjRsivDjk4SaXXWdUvNTslMGjcVts=s767" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="767" data-original-width="587" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEhX7AADHPIGKfzHBd9_6ahk5tdmvGDDZn2PpGuM0fjJyGEAwVuMKACgrjP25TLbzRyDe1nWnBmUYyzOXpA9rXFw4MnlFFa8rXiuQ9nFGRN2qz109BB1BFD73LdiYU_e1teknlvdkZnmszHOStnzGiTX36_MeY2GjRsivDjk4SaXXWdUvNTslMGjcVts=s320" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo em sua radicalidade, confirma que Deus pede das
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/669-almas-desapegadas-img-1280524605.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="767" data-original-width="587" height="320" src="/images/posts/669-almas-desapegadas-img-1280520630.jpg" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo em sua radicalidade, confirma que Deus pede das
 pessoas um amor incondicional para com ele e ao próximo também. No entanto, a
 coisa parece, para olhares destreinados, meio paradoxal, pois, parece que amar
 assim denota uma grande dose de apego. Como amar sem se apegar? É o que

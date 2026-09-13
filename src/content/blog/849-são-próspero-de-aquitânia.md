@@ -1,10 +1,10 @@
 ---
 title: "São Próspero de Aquitânia"
 date: 2020-06-25T16:10:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/849-são-próspero-de-aquitânia-img-1608227990.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgggJNuZCviubVudq3sboWuWUBVRhesoZcfO6VaU5DZpeVHF7S-EHmJUfcR8vuKiJ4LDDwucW8obt48-VjgLjCi51Q5t-MyJclT9BHXAWmPrCtBosv_kLUxq5Fgrk8udHpJzkfOTpZ7Up4/s392/S%25C3%25A3o+Pr%25C3%25B3spero+de+Aquit%25C3%25A2nia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="380" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgggJNuZCviubVudq3sboWuWUBVRhesoZcfO6VaU5DZpeVHF7S-EHmJUfcR8vuKiJ4LDDwucW8obt48-VjgLjCi51Q5t-MyJclT9BHXAWmPrCtBosv_kLUxq5Fgrk8udHpJzkfOTpZ7Up4/s320/S%25C3%25A3o+Pr%25C3%25B3spero+de+Aquit%25C3%25A2nia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu n Aquitânia, França, no século IV. Filósofo e poeta
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/849-são-próspero-de-aquitânia-img-1608227990.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="380" height="320" src="/images/posts/849-são-próspero-de-aquitânia-img-290560997.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu n Aquitânia, França, no século IV. Filósofo e poeta
 De um esposo à esposa, julga-se que fosse casado, pois dirige-se à mulher
 nestes termos:</p>
 

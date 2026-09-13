@@ -1,10 +1,10 @@
 ---
 title: "Os tipos de pecadores"
 date: 2019-04-29T20:28:00.003Z
-heroImage: "/images/homenagem.png"
+heroImage: "/images/posts/883-os-tipos-de-pecadores-homenagem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgTGGYfNM0Ow6IFogJAWGt5YLP1CpwYddatp_cVA16FIfpM2hCWVghdAE_gjm_SLk2XGqlZgvic-D2Za2ZmtlJPn3PH7NGhj8ZHg35YcPu2cADVbuPUa7yuLSzwV-jK8hLBMQQRBNk_SU/s1600/homenagem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgTGGYfNM0Ow6IFogJAWGt5YLP1CpwYddatp_cVA16FIfpM2hCWVghdAE_gjm_SLk2XGqlZgvic-D2Za2ZmtlJPn3PH7NGhj8ZHg35YcPu2cADVbuPUa7yuLSzwV-jK8hLBMQQRBNk_SU/s320/homenagem.png" width="320" height="244" data-original-width="678" data-original-height="516" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/883-os-tipos-de-pecadores-homenagem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/883-os-tipos-de-pecadores-homenagem.png" width="320" height="244" data-original-width="678" data-original-height="516" /></a></div>
 Apocalipse 21,8</br>
 Lista dos 8 tipos de pecadores condenados: </br>
 </br>

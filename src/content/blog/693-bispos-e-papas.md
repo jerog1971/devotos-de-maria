@@ -1,10 +1,10 @@
 ---
 title: "Bispos e Papas"
 date: 2020-03-17T16:25:00.004Z
-heroImage: "/images/francisco_e_peruzzo_hereges.png"
+heroImage: "/images/posts/693-bispos-e-papas-francisco_e_peruzzo_hereges.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia9y7CxJuh1E8Y7lpdKXDoWqmGVt8CSIdaHPo-vCwChV5yj9EDER62fsVAYcwZaLQEziRkvUTZ0Wlu-1tRxo2fic32aLBw5OYQVs8v3ZT1D0zG9ioMd-JAJNWVNE1hysGnm9FoO2UtXYk/s1600/francisco_e_peruzzo_hereges.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia9y7CxJuh1E8Y7lpdKXDoWqmGVt8CSIdaHPo-vCwChV5yj9EDER62fsVAYcwZaLQEziRkvUTZ0Wlu-1tRxo2fic32aLBw5OYQVs8v3ZT1D0zG9ioMd-JAJNWVNE1hysGnm9FoO2UtXYk/s320/francisco_e_peruzzo_hereges.png" width="320" height="280" data-original-width="550" data-original-height="481" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/693-bispos-e-papas-francisco_e_peruzzo_hereges.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/693-bispos-e-papas-francisco_e_peruzzo_hereges.png" width="320" height="280" data-original-width="550" data-original-height="481" /></a></div>
 É isso mesmo que infelizmente acontece no meio do povo de Deus. Aqueles que deviam servir a Jesus Cristo e sua Igreja insistem em se comportar como se fossem empresários de uma grande instituição. Sobre o Francisco muito já se sabe, além dos relatos que podem ser encontrados aqui neste site, facilmente uma séria pesquisa pela internet pode encontrar no mundo da informação muitos desabonos sobre sua pessoa e conduta como pastor (lobo em pele de ovelha) das ovelhas de Jesus Cristo.</br>
 </br>
 E como Jesus disse que o fruto não cai longe do pé, não é de se espantar que muitos bispos seguem fielmente a cartilha do herege argentino. Não honram suas batinas, seus sacerdócios, a palavra de Deus e o compromisso de batizados. Estão muito longe de exercerem aquilo que Jesus pede em seu evangelho. Ainda bem que o Ressuscitado disse que existirá julgamento com maior rigor para pessoas como eles.</br>

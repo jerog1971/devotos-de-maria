@@ -1,10 +1,10 @@
 ---
 title: "No ano do Centenário, papa irá comemorar Reforma Protestante"
 date: 2016-07-08T12:16:00Z
-heroImage: "/images/reforma_protestante.png"
+heroImage: "/images/posts/1769-no-ano-do-centenário-papa-irá-comem-reforma_protestante.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilT1PPJb0VPKtOkaAQLuRZMT8Gbm65L9McyNZyNJuZdO7UdDRkIrcUi4_JzOBAd1YUHY49xJ4djLKdtJpZxl_1EzHHp4RrzWL_-a7i8pB8-H_w4d-6zI824Po3OA1Dk_h8-pRbWUo4cX4/s1600/reforma_protestante.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilT1PPJb0VPKtOkaAQLuRZMT8Gbm65L9McyNZyNJuZdO7UdDRkIrcUi4_JzOBAd1YUHY49xJ4djLKdtJpZxl_1EzHHp4RrzWL_-a7i8pB8-H_w4d-6zI824Po3OA1Dk_h8-pRbWUo4cX4/s320/reforma_protestante.png" width="320" height="238" data-original-width="634" data-original-height="471" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1769-no-ano-do-centenário-papa-irá-comem-reforma_protestante.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1769-no-ano-do-centenário-papa-irá-comem-reforma_protestante.png" width="320" height="238" data-original-width="634" data-original-height="471" /></a></div>
 O Papa Francisco anunciou no dia 18 de dezembro de 2015, que a Igreja comemorará o V Centenário da Reforma Protestante, que foi liderada pelo monge herege Martinho Lutero. Essa decisão de comemorar em conjunto com os protestantes esta “revolução”, que tanto mal trouxe à Igreja e  às almas ( quantas almas se perderam seguindo as seitas!) é algo inusitado e inconcebível em épocas passadas, sobretudo a iniciativa vindo de um Papa.</br>
 </br>
 Celebrar e comemorar o que? A apostasia? A teimosia de um monge insano? Comemorar a negação da Presença real de Jesus na eucaristia e os sacrilégios acontecidos na Alemanha e noutras partes pelos protestantes inflamados do orgulho luterano? Celebrar a exclusão do culto à Nossa Senhora, a negação dos dogmas e as blasfêmias contra a  Toda Santa Mãe de Deus? Aplaudir a  separação dos protestantes da Igreja, como também o desdém que nutrem contra a Sé de Pedro e todo seu edifício sacramental?</br>

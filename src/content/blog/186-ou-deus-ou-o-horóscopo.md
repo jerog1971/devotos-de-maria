@@ -1,10 +1,10 @@
 ---
 title: "Ou Deus ou o Horóscopo"
 date: 2016-10-03T15:20:00Z
-heroImage: "/images/horoscopo.png"
+heroImage: "/images/posts/186-ou-deus-ou-o-horóscopo-horoscopo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlHnbkP6kT6mpg83FaCfDGTVUCwN5UZ0CEut-zEhC6TfMFrAy4tIP2DV6DUYD_piaI8P9_HQwZWNXKYaZJqZRxyF7EjwFXvggVAJiLQDkVnDQ_Dz0nTC7_N1iz13xwLp5S6U4EWyFe-xM/s1600/horoscopo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlHnbkP6kT6mpg83FaCfDGTVUCwN5UZ0CEut-zEhC6TfMFrAy4tIP2DV6DUYD_piaI8P9_HQwZWNXKYaZJqZRxyF7EjwFXvggVAJiLQDkVnDQ_Dz0nTC7_N1iz13xwLp5S6U4EWyFe-xM/s320/horoscopo.png" width="320" height="294" data-original-width="322" data-original-height="296" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/186-ou-deus-ou-o-horóscopo-horoscopo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/186-ou-deus-ou-o-horóscopo-horoscopo.png" width="320" height="294" data-original-width="322" data-original-height="296" /></a></div>
 Pois bem, indo direto ao ponto é essencial compreendermos que, nossa vida é regida por Deus e não pelos astros, cuja atividade chamada horóscopo se encarrega de estudar e difundir essa prática. Deus que é criador do céu e da terra, de todas as coisas visíveis e invisíveis, é o dono do pedaço e nada escapa ao seu olhar e a sua vontade. Como é bom podermos dizer na oração do Pai Nosso “seja feita a vossa vontade, assim na terra como no céu”.</br>
 </br>
 E como é bom também podermos dizer que “tudo acontece por desejo ou permissão divina”.</br>

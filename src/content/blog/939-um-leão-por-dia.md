@@ -1,10 +1,10 @@
 ---
 title: "Um leão por dia"
 date: 2020-04-06T21:31:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/939-um-leão-por-dia-le_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQKkVB-qunBZTjgFdenGt3PWjzZRi7_bq2TbO4xdQ9VhRCzf-cE4DpAVcwaoEOZx7C7mjaQKXhRKqGLJnyrbvIVwpMXbjuvnoJ_CuIQHaCffTCsSIzb-PWaKq4V6zZfQW2LWFtA0583MI/s1600/le%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQKkVB-qunBZTjgFdenGt3PWjzZRi7_bq2TbO4xdQ9VhRCzf-cE4DpAVcwaoEOZx7C7mjaQKXhRKqGLJnyrbvIVwpMXbjuvnoJ_CuIQHaCffTCsSIzb-PWaKq4V6zZfQW2LWFtA0583MI/s320/le%25C3%25A3o.png" width="320" height="239" data-original-width="438" data-original-height="327" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/939-um-leão-por-dia-le_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/939-um-leão-por-dia-le_25C3_25A3o.png" width="320" height="239" data-original-width="438" data-original-height="327" /></a></div>
 Provérbios 21,29-31 – “O ímpio aparenta um ar firme; o homem correto consolida seu proceder. Nem a sabedoria, nem prudência, nem conselho podem prevalecer contra o Senhor. Prepara-se o cavalo para o dia da batalha, mas é do senhor que depende a vitória.” Como vemos, temos a nossa parte a fazer, a nossa colaboração no projeto salvífico de Deus. Como não somos desprovidos da inteligência compreendemos que nessa etapa de nossas vidas temos um papel a cumprir.</br>
 </br>
 Qualquer pessoa já sentiu isso na pele; ficar com os braços cruzados esperando as coisas caírem do céu, como se diz no ditado popular, não leva a nada. Filipenses 2,12 – “trabalhai na vossa salvação com temor e tremor”. No que consiste isso? Nesta selva de pedra em que vivemos fala-se que os apuros da vida podem ser comparados ao caçador que derrota sua presa (inimigo) diariamente. O apelidado rei da selva, o leão, é metaforizado para a realidade humana de nosso cotidiano para ilustrar a tarefa diária e árdua que é viver.</br>

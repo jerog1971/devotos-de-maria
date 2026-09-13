@@ -1,10 +1,10 @@
 ---
 title: "O tempo e o ser humano"
 date: 2022-01-24T17:43:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1902-o-tempo-e-o-ser-humano-img-9852172.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgdp3pMCfi5NlL3kcQ54PpPfit1RR_Qg4_IsQj6MDBHNzOoYik74nGG5NpLrTRk6x72QF9cXaIycg7r29ngNmw0pvgtXJbs7uEK9RAO0PJiKVDcV9XcvLdAuntwF_oQyAMtjBGZ9vCeJItp9cVGSAJXD-Dn_ISk35DWH3IN4nsqlbx320r5uTphJWcu=s566" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="538" data-original-width="566" height="304" src="https://blogger.googleusercontent.com/img/a/AVvXsEgdp3pMCfi5NlL3kcQ54PpPfit1RR_Qg4_IsQj6MDBHNzOoYik74nGG5NpLrTRk6x72QF9cXaIycg7r29ngNmw0pvgtXJbs7uEK9RAO0PJiKVDcV9XcvLdAuntwF_oQyAMtjBGZ9vCeJItp9cVGSAJXD-Dn_ISk35DWH3IN4nsqlbx320r5uTphJWcu=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sobre o tempo muito se pode refletir; há quem diga que a
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1902-o-tempo-e-o-ser-humano-img-9852172.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="538" data-original-width="566" height="304" src="/images/posts/1902-o-tempo-e-o-ser-humano-img-9850120.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sobre o tempo muito se pode refletir; há quem diga que a
 única coisa que não muda é o tempo, há quem diga também que o tempo muda tudo.
 Outros argumentam que as atitudes mudam, pois o tempo não altera nada e sim
 ações humanas. Alguns ainda comentam que o tempo muda as pessoas.<o:p></o:p></p><div class="separator" style="clear: both;">

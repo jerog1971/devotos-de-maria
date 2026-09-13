@@ -1,10 +1,10 @@
 ---
 title: "Crianças atacadas"
 date: 2022-02-09T16:32:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1873-crianças-atacadas-img-604568907.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiazIlc7ESMWgalwk1Aoxj3N24Jyi10079BPPU7m26J-S9NVwNIB1pFBQZV4XW9gRs8LziKynP3nMP_k1y0Ajy6JiwAvQwZpUJuMErAfokqZuWaHL7VbVBaoIYDWWWFrpNaiWDS4pdycKIGLCWDAnXgtWeiCDzAXoTsKmhdSl8z0UuzmD7l8fC9vQSR=s466" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="466" height="299" src="https://blogger.googleusercontent.com/img/a/AVvXsEiazIlc7ESMWgalwk1Aoxj3N24Jyi10079BPPU7m26J-S9NVwNIB1pFBQZV4XW9gRs8LziKynP3nMP_k1y0Ajy6JiwAvQwZpUJuMErAfokqZuWaHL7VbVBaoIYDWWWFrpNaiWDS4pdycKIGLCWDAnXgtWeiCDzAXoTsKmhdSl8z0UuzmD7l8fC9vQSR=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus é bem direto quando adverte as pessoas sob o mal que
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1873-crianças-atacadas-img-604568907.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="466" height="299" src="/images/posts/1873-crianças-atacadas-img-604569998.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus é bem direto quando adverte as pessoas sob o mal que
 elas pretendam fazer para as crianças. Nem poderia ser diferente. A inocência
 de uma criança, sua pureza, sua ingenuidade, sua capacidade de enxergar o bem
 acima de tudo e perceber nos detalhes a beleza da criação divina, entre outras

@@ -1,10 +1,10 @@
 ---
 title: "O drama dos homossexuais"
 date: 2018-08-16T18:44:00.003Z
-heroImage: "/images/homossexual.png"
+heroImage: "/images/posts/2214-o-drama-dos-homossexuais-homossexual.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4K3t5AFRo9Y6Tml2ozAoCp9tBOZAg8O3tJVxLgPyk9zxZilf42whgqC_eYBphVwe67wreld4t9WgcLgWVs4khkB4KUzBQMMAlkHNL8UHRQurKVHabXiarDgd66XdScLDSGsJFXlNPsfs/s1600/homossexual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4K3t5AFRo9Y6Tml2ozAoCp9tBOZAg8O3tJVxLgPyk9zxZilf42whgqC_eYBphVwe67wreld4t9WgcLgWVs4khkB4KUzBQMMAlkHNL8UHRQurKVHabXiarDgd66XdScLDSGsJFXlNPsfs/s320/homossexual.png" width="318" height="320" data-original-width="152" data-original-height="153" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2214-o-drama-dos-homossexuais-homossexual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2214-o-drama-dos-homossexuais-homossexual.png" width="318" height="320" data-original-width="152" data-original-height="153" /></a></div>
 Olá caros leitores, transcrevo na íntegra essa matéria encontrada em padrepauloricardo.org por conter os ensinamentos defendidos por este site:</br>
 </br>
 O drama que os homossexuais vivem é semelhante ao de todos os seres humanos marcados pelo pecado original. Todos possuem um “canto de sereia", uma tentação demoníaca que diz: seja feliz, procure a felicidade aqui nesta terra. É buscando essa felicidade que o alcoólatra se embriaga, que o drogado se entorpece, que a prostituta se destrói, que o adúltero acaba com sua família e que o homossexual mendiga afeto de relação em relação. É buscando essa felicidade que o homem vive uma vida de desventura nesta terra. No entanto, Nosso Senhor não prometeu felicidade para ninguém aqui, mas sim no céu. Ele disse: “Na casa de meu Pai há muitas moradas. [...] Vou preparar um lugar para vós." (João, 14,2). Isso se dá porque diversas são as cruzes que devem ser carregadas.</br>

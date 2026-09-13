@@ -1,10 +1,10 @@
 ---
 title: "Interpretando as Escrituras"
 date: 2016-03-07T13:36:00Z
-heroImage: "/images/escrituras.png"
+heroImage: "/images/posts/227-interpretando-as-escrituras-escrituras.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDA2AeFVgtSXAaqXCPekXQqTwonwyv6v3iRGKojvUBx1T1GLVcpkQa8pe52GUTf7qzxJ9PlDJ5Wpe-Oo12m5uziN5iVLTHUBJOLm3AiZvRM4oJZC7xt6iIs5urdQ5kNe9qbFLJGjV-S24/s1600/escrituras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDA2AeFVgtSXAaqXCPekXQqTwonwyv6v3iRGKojvUBx1T1GLVcpkQa8pe52GUTf7qzxJ9PlDJ5Wpe-Oo12m5uziN5iVLTHUBJOLm3AiZvRM4oJZC7xt6iIs5urdQ5kNe9qbFLJGjV-S24/s320/escrituras.png" width="310" height="320" data-original-width="501" data-original-height="517" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/227-interpretando-as-escrituras-escrituras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/227-interpretando-as-escrituras-escrituras.png" width="310" height="320" data-original-width="501" data-original-height="517" /></a></div>
 2ª Carta de Pedro 1,20-21 - 20 Antes de tudo, sabei que nenhuma profecia da Escritura é de interpretação pessoal. 21 Porque jamais uma profecia foi proferida por efeito de uma vontade humana. Homens inspirados pelo Espírito Santo falaram da parte de Deus.</br>
 </br>
 Belíssimo trecho da bíblia que confirma a inspiração do Espírito Santo, autor das escrituras sagradas. E esta verdade é tão concreta e objetiva que derruba todas as denominações religiosas que pregam que o seu jeito de ensinar o conteúdo sagrado é que está certo. É bem sabido que muitos, fazem o seu cursinho de seis meses de pastor e já se acham aptos para ensinar as verdades celestes alegando que foi o Espírito Santo que lhes expirou assim. Sem falar nos padres que “resolvem” fazer do seu ministério sacerdotal um verdadeiro carnaval, misturando a catequese do mundo com as verdades celestes.</br>

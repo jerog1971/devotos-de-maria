@@ -1,10 +1,10 @@
 ---
 title: "Tudo é entre você e Deus"
 date: 2022-01-10T03:06:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1010-tudo-é-entre-você-e-deus-AVvXsEgMhMWF3PmJxtWLwb6oCARCISXnvG7FDb8AUVUqtg_L-rJm8BR2zx7BUhU9lXbanU8YQnXy__JDwSGYPLV-HU2RWBvrtY96-dn0pyGl-FaaXQ-1lPRLFRqTu9FxTefzQZdwhB3MoFumkEb_T1aRYmv-UJgUo-KVKN7t0lDGRtHp0M3Ru2LRHllST_z-_s297.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgMhMWF3PmJxtWLwb6oCARCISXnvG7FDb8AUVUqtg_L-rJm8BR2zx7BUhU9lXbanU8YQnXy__JDwSGYPLV-HU2RWBvrtY96-dn0pyGl-FaaXQ-1lPRLFRqTu9FxTefzQZdwhB3MoFumkEb_T1aRYmv-UJgUo-KVKN7t0lDGRtHp0M3Ru2LRHllST_z-=s297" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="165" data-original-width="297" height="165" src="https://blogger.googleusercontent.com/img/a/AVvXsEgMhMWF3PmJxtWLwb6oCARCISXnvG7FDb8AUVUqtg_L-rJm8BR2zx7BUhU9lXbanU8YQnXy__JDwSGYPLV-HU2RWBvrtY96-dn0pyGl-FaaXQ-1lPRLFRqTu9FxTefzQZdwhB3MoFumkEb_T1aRYmv-UJgUo-KVKN7t0lDGRtHp0M3Ru2LRHllST_z-" width="297" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está frase foi dita por muitas pessoas, entre elas, Santa
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1010-tudo-é-entre-você-e-deus-AVvXsEgMhMWF3PmJxtWLwb6oCARCISXnvG7FDb8AUVUqtg_L-rJm8BR2zx7BUhU9lXbanU8YQnXy__JDwSGYPLV-HU2RWBvrtY96-dn0pyGl-FaaXQ-1lPRLFRqTu9FxTefzQZdwhB3MoFumkEb_T1aRYmv-UJgUo-KVKN7t0lDGRtHp0M3Ru2LRHllST_z-_s297.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="165" data-original-width="297" height="165" src="/images/posts/1010-tudo-é-entre-você-e-deus-AVvXsEgMhMWF3PmJxtWLwb6oCARCISXnvG7FDb8AUVUqtg_L-rJm8BR2zx7BUhU9lXbanU8YQnXy__JDwSGYPLV-HU2RWBvrtY96-dn0pyGl-FaaXQ-1lPRLFRqTu9FxTefzQZdwhB3MoFumkEb_T1aRYmv-UJgUo-KVKN7t0lDGRtHp0M3Ru2LRHllST_z-.jpg" width="297" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está frase foi dita por muitas pessoas, entre elas, Santa
 Teresa de Calcutá que disse que “no final das contas tudo é entre você e Deus.
 Não existem atravessadores. Você não irá entrar no céu pelo mérito de outra
 pessoa, tampouco será condenado ao inferno por algo que alguém fez de mal. A

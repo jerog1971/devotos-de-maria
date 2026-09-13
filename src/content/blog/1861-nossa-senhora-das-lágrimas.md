@@ -1,10 +1,10 @@
 ---
 title: "Nossa Senhora das Lágrimas"
 date: 2019-02-04T14:48:00Z
-heroImage: "/images/amalia.png"
+heroImage: "/images/posts/1861-nossa-senhora-das-lágrimas-amalia.png"
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7wKx0uy2PyI6Lnfo99Z9jP-Vgh2Hk6j1rKz2fUD-yfBWWW63jt2AnWx3OoBzcCHd9aYoEW8dhwAsiYQ8K0alfvxstybGmMwVcmHNAK38GIkKXq2wNXlbQfNDY-gekyTbn4ESt5YLBYwI/s1600/amalia.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7wKx0uy2PyI6Lnfo99Z9jP-Vgh2Hk6j1rKz2fUD-yfBWWW63jt2AnWx3OoBzcCHd9aYoEW8dhwAsiYQ8K0alfvxstybGmMwVcmHNAK38GIkKXq2wNXlbQfNDY-gekyTbn4ESt5YLBYwI/s320/amalia.png" width="204" height="320" data-original-width="283" data-original-height="444" /></a></br>
+<a href="/images/posts/1861-nossa-senhora-das-lágrimas-amalia.png" imageanchor="1" ><img border="0" src="/images/posts/1861-nossa-senhora-das-lágrimas-amalia.png" width="204" height="320" data-original-width="283" data-original-height="444" /></a></br>
 </br>
 <b>NOSSA SENHORA DAS LÁGRIMAS DE SANGUE</b></br>
 </br>
@@ -16,7 +16,7 @@ Nessa época, um parente da Irmã Amália estava em grande aflição porque a su
 </br>
 E acrescentou: «Minha filha: tudo o que os homens Me pedirem em atenção às Lágrimas de Minha Mãe, Eu amorosamente lhes concederei. Mais tarde, a Minha Mãe concederá este tesouro ao nosso querido Instituto como um ímã de Misericórdia.» Isto aconteceu no dia 8 de Novembro de 1929.</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh39jl8ukWg_THeYAdB0HPwCn81eYCu-eORH3TGqvlU1hpvL886VgKbSD56Y9scM-DjJ5xKwVEXzMes4GzZ1WQPs6FkW_PTnhiq9pfNlhgw_zeXy1y3_UY5u75dZvnMXc3wUKY_lypAwuM/s1600/lagrimas.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh39jl8ukWg_THeYAdB0HPwCn81eYCu-eORH3TGqvlU1hpvL886VgKbSD56Y9scM-DjJ5xKwVEXzMes4GzZ1WQPs6FkW_PTnhiq9pfNlhgw_zeXy1y3_UY5u75dZvnMXc3wUKY_lypAwuM/s320/lagrimas.png" width="205" height="320" data-original-width="209" data-original-height="327" /></a></br>
+<a href="/images/posts/1861-nossa-senhora-das-lágrimas-lagrimas.png" imageanchor="1" ><img border="0" src="/images/posts/1861-nossa-senhora-das-lágrimas-lagrimas.png" width="205" height="320" data-original-width="209" data-original-height="327" /></a></br>
 </br>
 No dia 8 de Março de 1930, a Irmã Amália de Jesus Flagelado estava na capela, de joelhos, nos degraus do altar, quando, de repente, sentiu-se como que elevada para o alto. Em seguida, uma Senhora, de uma indizível beleza, aproximou-se dela. Trazia um vestido roxo, um manto azul e um véu branco que a envolvia até ao peito. Com um sorriso aproximou-se da Irmã Amália, pairando. Tinha nas mãos um terço a que Ela mesma chamou de «coroa». As suas contas brilhavam como o Sol e eram brancas como a neve. Entregando-lhe esse Rosário, a Santíssima Virgem Maria disse: «Esta coroa [ou terço] é a Coroa de Minhas Lágrimas».</br>
 </br>

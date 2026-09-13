@@ -1,10 +1,10 @@
 ---
 title: "Sobre o Anjo da Guarda"
 date: 2016-09-30T13:31:00.001Z
-heroImage: "/images/anjo_da_guarda.png"
+heroImage: "/images/posts/1168-sobre-o-anjo-da-guarda-anjo_da_guarda.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha8fzod0ZJq7EA6pFrp_TDOwC6yYBH_OGFpZGDD0bH1wpSZlAOeOSpuLEgP9bCd9bb8JHJku6BrW7BY6jbRHe6Az2FbaAPQ5LlBHc18UmkpDvSL6Xaa8H6wXbbSmpNEhuvqMWzfswxIw/s1600/anjo_da_guarda.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="404" data-original-width="543" height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha8fzod0ZJq7EA6pFrp_TDOwC6yYBH_OGFpZGDD0bH1wpSZlAOeOSpuLEgP9bCd9bb8JHJku6BrW7BY6jbRHe6Az2FbaAPQ5LlBHc18UmkpDvSL6Xaa8H6wXbbSmpNEhuvqMWzfswxIw/s320/anjo_da_guarda.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1168-sobre-o-anjo-da-guarda-anjo_da_guarda.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="404" data-original-width="543" height="238" src="/images/posts/1168-sobre-o-anjo-da-guarda-anjo_da_guarda.png" width="320" /></a></div>
 Superiores a nós, pois foram criados do fogo e do Espírito de Deus, na história da humanidade são vários os relatos de suas assistências. Divididos hierarquicamente seguem as ordens do criador e executam tantas e tantas tarefas nesse mundo, em todas as esferas, sempre com um fim único, a salvação das pessoas.
 
 Esse Deus, que é amor e se preocupa com cada um de nós, nos deixou, a cada um, um guarda espadas, um fiel escudeiro, um braço direito, um aliado poderoso, que não nos cobra nada pelos seus serviços, auxílios e assistências: nosso anjo da guarda. Sua missão principal é nos conduzir até o céu não interferindo em nosso livre arbítrio concedido por Deus. Que tarefa difícil não é mesmo! Digo difícil porque muitos de nós humanos, entristecem a Deus diariamente quando abrem mão deste presente tão bem quisto por ele, que é a companhia incessante deste anjo da guarda em nossas vidas.

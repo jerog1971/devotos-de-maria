@@ -1,10 +1,10 @@
 ---
 title: "As quinze dores secretas de Jesus"
 date: 2025-12-18T13:19:00.001Z
-heroImage: "/images/as-dores-de-jesus.png"
+heroImage: "/images/posts/809-as-quinze-dores-secretas-de-jesus-as-dores-de-jesus.png"
 ---
 
-<div class="separator" style="clear: both;"><img alt="" border="0" data-original-height="672" data-original-width="515" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhiHZEcdCP5zqk5Ti2gCKyvsZ8U-SvIYh0QfRDaND9h0eAeidu_6nAy6ZALOzVyT60dYhMLTwSBjVLHn8bu7j-oJEuGbLW9PE3B1526QDARgQ1KX-2bhPSys7pWekogbbAOCpxvAYYHi8FjTnDIzG6RtwRTNKuOmR_dgL2NFS9ZR8Ga8YymerSrgoaK_s/s320/as-dores-de-jesus.png" />&nbsp;</div><div class="separator" style="clear: both;">&nbsp;</div><div class="separator" style="clear: both;"><p><span style="font-weight: normal;">Esta devoção foi aprovada e recomendada pelo Sacro Colégio dos Cardeais e pelo Papa Clemente XII (1730-1740).</span></p><p><span style="font-weight: normal;">Estando
+<div class="separator" style="clear: both;"><img alt="" border="0" data-original-height="672" data-original-width="515" height="320" src="/images/posts/809-as-quinze-dores-secretas-de-jesus-as-dores-de-jesus.png" />&nbsp;</div><div class="separator" style="clear: both;">&nbsp;</div><div class="separator" style="clear: both;"><p><span style="font-weight: normal;">Esta devoção foi aprovada e recomendada pelo Sacro Colégio dos Cardeais e pelo Papa Clemente XII (1730-1740).</span></p><p><span style="font-weight: normal;">Estando
  piedosamente recolhida em oração, Irmã Maria Madalena, da Ordem de 
 Santa Clara, que vivia em Roma e morreu em fama de santidade. Ela 
 recebeu a visita de Nosso Senhor, dizendo que gostaria de revelar-lhe as

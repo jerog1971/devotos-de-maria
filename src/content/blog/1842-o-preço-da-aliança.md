@@ -1,10 +1,10 @@
 ---
 title: "O preço da aliança"
 date: 2021-01-25T15:40:00.004Z
-heroImage: "/images/testemunho.png"
+heroImage: "/images/posts/1842-o-preço-da-aliança-testemunho.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR9q1XQAQtefYJT8aBX4YArz3ZmcIuDkMam1jI53zDAfNeHg64zeOStSxsAozRC8Q56x1oRYSpM-tjb2I5kMUTyeVysDC79zr-UL5N0CsuD5DaSuwANKkJwsF7XPP-heqjz22i-YDYbks/s171/testemunho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="159" data-original-width="171" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR9q1XQAQtefYJT8aBX4YArz3ZmcIuDkMam1jI53zDAfNeHg64zeOStSxsAozRC8Q56x1oRYSpM-tjb2I5kMUTyeVysDC79zr-UL5N0CsuD5DaSuwANKkJwsF7XPP-heqjz22i-YDYbks/s0/testemunho.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo que decide se iniciar nos caminhos que levam até
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1842-o-preço-da-aliança-testemunho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="159" data-original-width="171" src="/images/posts/1842-o-preço-da-aliança-testemunho.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo que decide se iniciar nos caminhos que levam até
 Deus, dentro de pouco tempo irá descobrir que Deus quis assumir um grande
 compromisso com suas criaturas: a expressão dessa iniciativa dele conhecemos
 com o nome de aliança. Baruc 2,35 – “Com eles estabelecerei eterna aliança; e

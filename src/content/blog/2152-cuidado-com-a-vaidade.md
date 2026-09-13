@@ -1,10 +1,10 @@
 ---
 title: "Cuidado com a vaidade"
 date: 2016-03-16T16:38:00.001Z
-heroImage: "/images/vaidade.png"
+heroImage: "/images/posts/2152-cuidado-com-a-vaidade-vaidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Z9YTl0D9Cc8lxZeTo68NKx_K7iFUSEOw2r2QNG7lFvKAFHEoACQJGxvQqhKH4hmzJa0uPzmf1PpGa9fFxQozlLGOg4M5WcmuQ7NRxyxaLugvJF6lr3kYnsbY2Ok9w_tkDJBSdkpGIKQ/s1600/vaidade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="405" data-original-width="640" height="203" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Z9YTl0D9Cc8lxZeTo68NKx_K7iFUSEOw2r2QNG7lFvKAFHEoACQJGxvQqhKH4hmzJa0uPzmf1PpGa9fFxQozlLGOg4M5WcmuQ7NRxyxaLugvJF6lr3kYnsbY2Ok9w_tkDJBSdkpGIKQ/s320/vaidade.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2152-cuidado-com-a-vaidade-vaidade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="405" data-original-width="640" height="203" src="/images/posts/2152-cuidado-com-a-vaidade-vaidade.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
 Tudo é vaidade, diz o livro do Eclesiastes, filho de Davi, rei de Jerusalém. Neste livro que contém 12 capítulos a expressão “vaidade” aparece 29 vezes para tratar a respeito do tema. O principal tema do livro, por conseguinte, é a vaidade das coisas humanas, dando a lição de desapego dos bens terrestres, negando a felicidade dos ricos e preparando o povo para entender que "bem-aventurados são os pobres" (Lc 6, 20).
 
 Como diz Jesus, bem-aventurados os pobres de espírito pois deles é o reino dos céus. É preciso ficar bem claro desde o início que a pobreza aqui tem sua relação direta com o desapego as coisas que passam, as coisas terrenas, finitas e cuja a ferrugem e a traça corroem. Mas Jesus pede de nós, no mínimo, o máximo.<div><br /></div><div>Vejamos para melhor refletirmos alguns versículos do livro do Eclesiastes:

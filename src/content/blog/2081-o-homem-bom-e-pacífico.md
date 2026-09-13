@@ -1,10 +1,10 @@
 ---
 title: "O homem bom e pacífico"
 date: 2020-06-28T23:03:00Z
-heroImage: "/images/santidade_do_pai.png"
+heroImage: "/images/posts/2081-o-homem-bom-e-pacífico-santidade_do_pai.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnBZeFe_rsXP_1WNCZN_yL28_zZcXbpP5w-RmximGN3vcgHrPt1ktvaeYL2ybV0TvbcC6mjPyGsWw9jGdC8hcI7awO1lznpmBRawXOro_DREkYsNulCbV7WQwSmb3PO0BhFEqo3g48RwU/s401/santidade_do_pai.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="401" data-original-width="397" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnBZeFe_rsXP_1WNCZN_yL28_zZcXbpP5w-RmximGN3vcgHrPt1ktvaeYL2ybV0TvbcC6mjPyGsWw9jGdC8hcI7awO1lznpmBRawXOro_DREkYsNulCbV7WQwSmb3PO0BhFEqo3g48RwU/s320/santidade_do_pai.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Primeiro conserva-te em paz, e depois poderás pacificar os
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2081-o-homem-bom-e-pacífico-santidade_do_pai.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="401" data-original-width="397" height="320" src="/images/posts/2081-o-homem-bom-e-pacífico-santidade_do_pai.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Primeiro conserva-te em paz, e depois poderás pacificar os
 outros. O homem apaixonado, até o bem converte em mal e facilmente acredita no
 mal; o homem bom e pacífico, pelo contrário; faz com que tudo se converta em
 bem. Quem está em boa paz de ninguém desconfia; o descontente e perturbado,

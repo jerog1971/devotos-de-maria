@@ -1,10 +1,10 @@
 ---
 title: "Bom ou Mau Humor"
 date: 2017-05-03T17:35:00.001Z
-heroImage: "/images/Sofia03052017.jpg"
+heroImage: "/images/posts/907-bom-ou-mau-humor-Sofia03052017.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDdEKKZ0WoDAhTqQYOdcvmOaEReAs2IapNCza-JoQPwGe8T__xNUUy49J9HrU47fiqs1ZvUhnbpm62chI6OLsncY1Zuczz5XQLfSOOmrPY750SFaaUvN6MJOyLckHOtwQvEQNZalQw7Ps/s1600/Sofia03052017.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="565" data-original-width="578" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDdEKKZ0WoDAhTqQYOdcvmOaEReAs2IapNCza-JoQPwGe8T__xNUUy49J9HrU47fiqs1ZvUhnbpm62chI6OLsncY1Zuczz5XQLfSOOmrPY750SFaaUvN6MJOyLckHOtwQvEQNZalQw7Ps/s320/Sofia03052017.jpg" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/907-bom-ou-mau-humor-Sofia03052017.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="565" data-original-width="578" height="313" src="/images/posts/907-bom-ou-mau-humor-Sofia03052017.jpg" width="320" /></a></div>
 "Jezabel, sua mulher, veio ter com ele e disse-lhe: Por que estás de mau humor e não queres comer? (I Reis 21, 5)"
 
 "O Senhor Deus fez crescer um pé de mamona, que se levantou acima de Jonas, para fazer sombra à sua cabeça e curá-lo de seu mau humor. Jonas alegrou-se grandemente com aquela mamoneira. (Jonas 4, 6)"

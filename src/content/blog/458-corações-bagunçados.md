@@ -1,10 +1,10 @@
 ---
 title: "Corações bagunçados"
 date: 2022-02-24T13:15:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/458-corações-bagunçados-img-1044687740.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgqkkH2PLvh_Y8vdWUhsHWYo1y6B2MpowIgw_Ij03KTMy8EcQLv6pgyUdV-XGS3Hp6YbS8Y-fbw20Kl6Jc5w1-JhcRSI2NaLH7Cqlbs7i7UDNEgqrfb5DtziVYM2pUk-IM4LKs4kEi7RUuWjW0N5xx5crPb8BhV5K5x8lAvtbDcot_gyIi9PsnmI2Bz=s295" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="295" data-original-width="295" height="295" src="https://blogger.googleusercontent.com/img/a/AVvXsEgqkkH2PLvh_Y8vdWUhsHWYo1y6B2MpowIgw_Ij03KTMy8EcQLv6pgyUdV-XGS3Hp6YbS8Y-fbw20Kl6Jc5w1-JhcRSI2NaLH7Cqlbs7i7UDNEgqrfb5DtziVYM2pUk-IM4LKs4kEi7RUuWjW0N5xx5crPb8BhV5K5x8lAvtbDcot_gyIi9PsnmI2Bz" width="295" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se existe um alvo para ser o centro das atenções nesse mundo,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/458-corações-bagunçados-img-1044687740.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="295" data-original-width="295" height="295" src="/images/posts/458-corações-bagunçados-img-899240140.jpg" width="295" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se existe um alvo para ser o centro das atenções nesse mundo,
 tanto deste quanto de nosso cruel inimigo número um, esse alvo é o coração. E a
 resposta é muito simples, foi dada por Jesus. Ele disse que todas as coisas
 nascem no coração. Não é à toa que o diabo foca sua atenção e esforços

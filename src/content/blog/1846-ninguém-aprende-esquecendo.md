@@ -1,10 +1,10 @@
 ---
 title: "Ninguém aprende esquecendo"
 date: 2020-07-06T15:08:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1846-ninguém-aprende-esquecendo-esquecidos.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuegq_ka7rJDB-_8UHLUpbxczuxYpYaQyD1LIPKQJlTVyC1Fs6kvXBTfEZw4cWGW87p0f-CRGc3Ey9nxM_L859PQt8zKXfyZNeQrzKSPepJCqi-VKP1TPIz27c9626CzVt6q5NCoT8mAQ/s299/esquecidos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuegq_ka7rJDB-_8UHLUpbxczuxYpYaQyD1LIPKQJlTVyC1Fs6kvXBTfEZw4cWGW87p0f-CRGc3Ey9nxM_L859PQt8zKXfyZNeQrzKSPepJCqi-VKP1TPIz27c9626CzVt6q5NCoT8mAQ/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Deuteronômio 8,17-20 – “Não digas no teu coração: a minha
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1846-ninguém-aprende-esquecendo-esquecidos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="299" src="/images/posts/1846-ninguém-aprende-esquecendo-img-59701732.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Deuteronômio 8,17-20 – “Não digas no teu coração: a minha
 força e o vigor do meu braço adquiriram-me todos esses bens. Lembra-te de que
 ,é o Senhor, teu Deus, quem te dá a força para adquiri-los, a fim de confirmar,
 como o faz hoje, a aliança que jurou a teus pais. Se, esquecendo-te do Senhor,

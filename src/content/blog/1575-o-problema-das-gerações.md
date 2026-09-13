@@ -1,10 +1,10 @@
 ---
 title: "O problema das gerações"
 date: 2023-01-28T18:37:00.004Z
-heroImage: "/images/sejamos virtuosos.png"
+heroImage: "/images/posts/1575-o-problema-das-gerações-sejamos_20virtuosos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6xT452BOrwURAA79npK1z342YTDpjoSZiZPAyGASttNtE7zbTDZ_9z6IK-2wMhEfb-bUOJeaps1SlVrVVJDwQiXyroBHgRFyca8g4BIjsrVM20VAs_Ys8-8QxgL5uxAoQ4wCQZdTxhXX1bLl9Qda8yRwEkbJESJjL5mhHC6AjhmuYNWRypv7W-YZv/s245/sejamos%20virtuosos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="198" data-original-width="245" height="198" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6xT452BOrwURAA79npK1z342YTDpjoSZiZPAyGASttNtE7zbTDZ_9z6IK-2wMhEfb-bUOJeaps1SlVrVVJDwQiXyroBHgRFyca8g4BIjsrVM20VAs_Ys8-8QxgL5uxAoQ4wCQZdTxhXX1bLl9Qda8yRwEkbJESJjL5mhHC6AjhmuYNWRypv7W-YZv/s1600/sejamos%20virtuosos.png" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que está acontecendo com as gerações presentes no mundo de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1575-o-problema-das-gerações-sejamos_20virtuosos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="198" data-original-width="245" height="198" src="/images/posts/1575-o-problema-das-gerações-sejamos_20virtuosos.png" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que está acontecendo com as gerações presentes no mundo de
 hoje? Como um homem católico de 51 anos, vejo muitos em um estado degenerado.
 Age-se sem pensar. A humanidade segue mantras como "Apenas faça isso"
 e "Você só vive uma vez". É egocêntrico e infantil. Estamos quebrados

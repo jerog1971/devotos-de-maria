@@ -1,10 +1,10 @@
 ---
 title: "Que Deus é esse?"
 date: 2021-01-04T14:52:00.002Z
-heroImage: "/images/biblia.png"
+heroImage: "/images/posts/343-que-deus-é-esse-biblia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFgHy48GNPIxsBDwZRJzcU7ezXCJMES8ZdqOha74g8jMkdZD3fTmP7sO9U2WjI8Pkhf_LKEpVR-RFFOSr0UChzzIzYViSV6pmu7emJs5_eC7R26uUHoUPja05MGM57ESbEchU3-tmYsz4/s336/biblia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="336" data-original-width="293" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFgHy48GNPIxsBDwZRJzcU7ezXCJMES8ZdqOha74g8jMkdZD3fTmP7sO9U2WjI8Pkhf_LKEpVR-RFFOSr0UChzzIzYViSV6pmu7emJs5_eC7R26uUHoUPja05MGM57ESbEchU3-tmYsz4/s320/biblia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto mistério envolve a pessoa de Deus... Para muitos é
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/343-que-deus-é-esse-biblia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="336" data-original-width="293" height="320" src="/images/posts/343-que-deus-é-esse-biblia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto mistério envolve a pessoa de Deus... Para muitos é
 difícil conectar o “Deus” do antigo testamento, que mandava povos serem
 exterminados, com o “Deus” do novo testamento, que é denominado como sinônimo
 de amor. Um Deus que pune, castiga, exige sofrimentos sem conta e nos fornece

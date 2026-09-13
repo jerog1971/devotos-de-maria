@@ -1,10 +1,10 @@
 ---
 title: "Substituir o pedido de desculpas"
 date: 2017-01-19T17:11:00Z
-heroImage: "/images/desculpas.png"
+heroImage: "/images/posts/162-substituir-o-pedido-de-desculpas-desculpas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZyUuu8yjmwAVVwqMoUuUI81daCAZ6EA_nj6XntgZHhRXV_-_2ABbuQGEV8njzTcMB1uVySX1f564QwnC4QThiOquiL0DH6ZltJxEnlR3ZRQfKVq0xj1etgIQ5_Okxe9FBfGFp6Sc06N0/s1600/desculpas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZyUuu8yjmwAVVwqMoUuUI81daCAZ6EA_nj6XntgZHhRXV_-_2ABbuQGEV8njzTcMB1uVySX1f564QwnC4QThiOquiL0DH6ZltJxEnlR3ZRQfKVq0xj1etgIQ5_Okxe9FBfGFp6Sc06N0/s320/desculpas.png" width="320" height="320" data-original-width="317" data-original-height="317" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/162-substituir-o-pedido-de-desculpas-desculpas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/162-substituir-o-pedido-de-desculpas-desculpas.png" width="320" height="320" data-original-width="317" data-original-height="317" /></a></div>
 Mateus 18,21-22 – “Então Pedro se aproximou dele e disse: Senhor, quantas vezes devo perdoar a meu irmão, quando ele pecar contra mim? Até sete vezes? Respondeu Jesus: Não te digo até sete vezes, mas até setenta vezes sete.”
 </br>
 Mateus – 6,12,14-15 – “perdoai-nos as nossas ofensas, assim como nós perdoamos aos que nos ofenderam. Porque, se perdoardes aos homens as suas ofensas, vosso Pai celeste também vos perdoará. Mas se não perdoardes aos homens, tampouco vosso Pai vos perdoará.”</br>

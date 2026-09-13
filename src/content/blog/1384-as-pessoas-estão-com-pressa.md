@@ -1,10 +1,10 @@
 ---
 title: "As pessoas estão com pressa"
 date: 2020-04-30T22:35:00.002Z
-heroImage: "/images/o povo tem pressa.png"
+heroImage: "/images/posts/1384-as-pessoas-estão-com-pressa-pressa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyGAPEEEb5rb9j_TLfi9lnR60uViiV1-AU63zCiS6bDd9F8JmaiinyIxLIr5q2pvcdiDBcK8NkywMLobyzjdwsp28EFde3oJXINkMu39A5N77K5uHnyPtWeWYhZ4U_TCenyhWt6W1iJyQ/s1600/pressa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyGAPEEEb5rb9j_TLfi9lnR60uViiV1-AU63zCiS6bDd9F8JmaiinyIxLIr5q2pvcdiDBcK8NkywMLobyzjdwsp28EFde3oJXINkMu39A5N77K5uHnyPtWeWYhZ4U_TCenyhWt6W1iJyQ/s320/pressa.png" width="305" height="320" data-original-width="312" data-original-height="327" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1384-as-pessoas-estão-com-pressa-pressa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1384-as-pessoas-estão-com-pressa-pressa.png" width="305" height="320" data-original-width="312" data-original-height="327" /></a></div>
 Após algum tempo de pandemia aos poucos já é possível assistir nos noticiários manchetes anunciando o relaxamento do isolamento social e outras medidas que buscam acelerar o retorno à normalidade social. Todavia, essas mesmas lideranças mundiais impacientes, paradoxalmente informaram nos mesmos anúncios, um pedido de desculpas antecipado, caso exista a transparência de um erro de cálculo. Ou seja, caso tenha sido prematuro, voltar-se-á atrás.</br>
 </br>
 Esse é o mal do capitalismo, a máquina engrenada há muito tempo para movimentar o mundo, não consegue mover-se com nenhum combustível alternativo. Sua característica egoísta sacrifica até valores cristãos, morais e éticos. Não importa colocar em risco um familiar, um vizinho, uma comunidade, colegas de trabalho ou quem quer que seja. Não existe ainda perspectiva alguma de melhora para o cenário pandêmico que vivemos, a curva de contágio ainda está em ascensão. Está muito claro que ainda não é o tempo de retomada, pelo menos da forma como tem sido anunciada.</br>

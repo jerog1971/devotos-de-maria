@@ -1,10 +1,10 @@
 ---
 title: "Bons e Maus Sacerdotes"
 date: 2016-06-28T12:18:00.001Z
-heroImage: "/images/vianney.png"
+heroImage: "/images/posts/2092-bons-e-maus-sacerdotes-vianney.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfKL6ps1yF1eL2VBa6gNZKGn839ggaGVHeyymwVyuc7JkZZDSVZxFLECX97QdE_6plyyX_r7uzr23Db3lGI-cSGyp-44Sv8JzXYo5km4v_4sAncoB8rNrVm2QAzAfkSORO6r9m1e6wb9o/s1600/vianney.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfKL6ps1yF1eL2VBa6gNZKGn839ggaGVHeyymwVyuc7JkZZDSVZxFLECX97QdE_6plyyX_r7uzr23Db3lGI-cSGyp-44Sv8JzXYo5km4v_4sAncoB8rNrVm2QAzAfkSORO6r9m1e6wb9o/s320/vianney.png" width="320" height="315" data-original-width="361" data-original-height="355" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2092-bons-e-maus-sacerdotes-vianney.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2092-bons-e-maus-sacerdotes-vianney.png" width="320" height="315" data-original-width="361" data-original-height="355" /></a></div>
 A pergunta que desmascara toda a infidelidade de um sacerdote, aquela que mostra qual caminho ele está trilhando é a seguinte: contra o que ele luta? Ela parece de fácil resposta porque, em geral, os padres estão sempre lutando por algo (melhor catequese, em favor dos pobres, contra a injustiça, para mais confissão, menos pecado, melhoria na paróquia etc). Lutas positivas que são muito necessárias. Mas não só isso:</br>
 </br>
 1- um padre pode lutar contra coisas corretas: contra o pecado dentro dele mesmo, para que o seu rebanho combata o pecado real e concreto e que almeje a vida eterna, contra a heresia, a apostasia, os abusos litúrgicos, a falta de sacralidade, de modéstia, contra o sexo desregrado, a fornicação e tudo o mais que prejudica a Igreja e a salvação dos fiéis. Este padre luta o bom combate.</br>

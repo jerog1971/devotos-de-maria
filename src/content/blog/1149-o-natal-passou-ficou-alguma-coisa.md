@@ -1,10 +1,10 @@
 ---
 title: "O natal passou, ficou alguma coisa?"
 date: 2021-12-27T14:37:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1149-o-natal-passou-ficou-alguma-coisa-AVvXsEjVYj2t7Lv3Sw94gqnLdh8YOysuO8V9-wbyz2Ta_f2D9Qnkba0Eo0yM6Z4a0nwUe-kMclhCmaGXyuusHZOqp8YMZmQH9kfRkWNfRrm-7kzr-hoopNFftSww-lmXNqwyZU5EzuyhW-ExrFXU34-1YeYUbCvl7eZMxVBeTwYeD4ZJ7BMzWxZi-dUZk7lC_s1117.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjVYj2t7Lv3Sw94gqnLdh8YOysuO8V9-wbyz2Ta_f2D9Qnkba0Eo0yM6Z4a0nwUe-kMclhCmaGXyuusHZOqp8YMZmQH9kfRkWNfRrm-7kzr-hoopNFftSww-lmXNqwyZU5EzuyhW-ExrFXU34-1YeYUbCvl7eZMxVBeTwYeD4ZJ7BMzWxZi-dUZk7lC=s1117" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1077" data-original-width="1117" height="309" src="https://blogger.googleusercontent.com/img/a/AVvXsEjVYj2t7Lv3Sw94gqnLdh8YOysuO8V9-wbyz2Ta_f2D9Qnkba0Eo0yM6Z4a0nwUe-kMclhCmaGXyuusHZOqp8YMZmQH9kfRkWNfRrm-7kzr-hoopNFftSww-lmXNqwyZU5EzuyhW-ExrFXU34-1YeYUbCvl7eZMxVBeTwYeD4ZJ7BMzWxZi-dUZk7lC=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou será que a data passou e só o que ficou foi ressaca por
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1149-o-natal-passou-ficou-alguma-coisa-AVvXsEjVYj2t7Lv3Sw94gqnLdh8YOysuO8V9-wbyz2Ta_f2D9Qnkba0Eo0yM6Z4a0nwUe-kMclhCmaGXyuusHZOqp8YMZmQH9kfRkWNfRrm-7kzr-hoopNFftSww-lmXNqwyZU5EzuyhW-ExrFXU34-1YeYUbCvl7eZMxVBeTwYeD4ZJ7BMzWxZi-dUZk7lC_s1117.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1077" data-original-width="1117" height="309" src="/images/posts/1149-o-natal-passou-ficou-alguma-coisa-AVvXsEjVYj2t7Lv3Sw94gqnLdh8YOysuO8V9-wbyz2Ta_f2D9Qnkba0Eo0yM6Z4a0nwUe-kMclhCmaGXyuusHZOqp8YMZmQH9kfRkWNfRrm-7kzr-hoopNFftSww-lmXNqwyZU5EzuyhW-ExrFXU34-1YeYUbCvl7eZMxVBeTwYeD4ZJ7BMzWxZi-dUZk7lC_s320.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou será que a data passou e só o que ficou foi ressaca por
 causa da farra gastronômica e divertimentos desregrados, além dos presentes?
 Todo ano o natal é comemorado, infelizmente, a data vem recheada de mais de um
 motivo para as comemorações. Bom, até aí nada de mais, afinal, não existe

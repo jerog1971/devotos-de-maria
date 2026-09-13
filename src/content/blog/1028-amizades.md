@@ -1,10 +1,10 @@
 ---
 title: "Amizades..."
 date: 2016-07-08T11:30:00Z
-heroImage: "/images/amizade.png"
+heroImage: "/images/posts/1028-amizades-amizade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXPa2Gf4EtGidWgWvsaACZ3dMLt6WYKqrpHYTx0AsjAKu-tBcmfG9ia4Q3dssVowvR-73F17YNJl5T2Vco2k_tFhHeWwFHC2AClKL6Pe9o62hCZ94TJYEdeavDe7-GkvEqR5yGghjMsXg/s1600/amizade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXPa2Gf4EtGidWgWvsaACZ3dMLt6WYKqrpHYTx0AsjAKu-tBcmfG9ia4Q3dssVowvR-73F17YNJl5T2Vco2k_tFhHeWwFHC2AClKL6Pe9o62hCZ94TJYEdeavDe7-GkvEqR5yGghjMsXg/s320/amizade.png" width="320" height="303" data-original-width="549" data-original-height="520" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1028-amizades-amizade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1028-amizades-amizade.png" width="320" height="303" data-original-width="549" data-original-height="520" /></a></div>
 Abrimos esta postagem com esse pequeno vídeo de 10 minutos, mostrando um pequeno exemplo de uma verdadeira amizade <b>desinteressada</b>. Uma amizade pautada no amor, com nos ensina Jesus nos Evangelhos. "Não existe amor maior do que aquele que dá a vida pelo irmão. Sermos verdadeiros amigos de alguém deve, em primeiro lugar, mover nosso coração para que esse alguém alcance a santidade e sua salvação eterna.</br>
 </br>
 A <b>caridade fraterna</b> é parte imprescindível da espiritualidade cristã. Sem ela, cairíamos com facilidade na tentação do individualismo, algo, infelizmente, tão difundido em nossa época.</br>

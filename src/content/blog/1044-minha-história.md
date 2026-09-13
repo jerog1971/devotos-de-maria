@@ -1,10 +1,10 @@
 ---
 title: "Minha história"
 date: 2016-03-16T02:15:00Z
-heroImage: "/images/YasminSofia.png"
+heroImage: "/images/posts/1044-minha-história-YasminSofia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE61ZjLv8gRP89ysK5E4_9y1QJaCMctqKmmAniPuby9KDMJlvoBxGP5pJczzzhip1cnKdGW2G2gOS7uFBVejrt2Z9rm7EUZfxrHe2Sb5YIUojQHdXdd9TE479HG4kONgAJxHe4mTiPtGk/s1600/YasminSofia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE61ZjLv8gRP89ysK5E4_9y1QJaCMctqKmmAniPuby9KDMJlvoBxGP5pJczzzhip1cnKdGW2G2gOS7uFBVejrt2Z9rm7EUZfxrHe2Sb5YIUojQHdXdd9TE479HG4kONgAJxHe4mTiPtGk/s320/YasminSofia.png" width="195" height="320" data-original-width="316" data-original-height="518" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1044-minha-história-YasminSofia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1044-minha-história-YasminSofia.png" width="195" height="320" data-original-width="316" data-original-height="518" /></a></div>
 “Deixar vir a mim as criancinhas”, assim disse Jesus. E mais, em Deuteronômio 6,6 somos ensinados que devemos guardar em nossos corações os mandamentos que recebemos do Senhor e que devemos a todo o instante transmiti-los aos nossos familiares, sobretudo aos nossos filhos.</br>
 </br>
 Sobre a questão da família muito se sabe através dos ensinamentos da sagrada escritura. E nem poderia ser diferente, pois Deus nos pensou como família, e se fez família nascendo em Belém, nos mostrando que a realidade da humanidade passa pela célula básica chamada família e como exemplo temos o maior de todos os exemplos a seguirmos que é a sagrada família Jesus, Maria e José.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Testemunhando o Cansaço"
 date: 2016-04-18T14:53:00Z
-heroImage: "/images/cansado.png"
+heroImage: "/images/posts/192-testemunhando-o-cansaço-cansado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiuqOifyd78G7k8g0suybjzJsdNspfd0aQ6CFFMdbPH4cctoz5Brd9rO_rqnwbQim69U4PJHZgzzzeW4XgBwO8Ldf5_UszwRpnDDy-zXDXsm046KpaKNzvBsAiZSZVwACwBWJq948f8rc/s1600/cansado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiuqOifyd78G7k8g0suybjzJsdNspfd0aQ6CFFMdbPH4cctoz5Brd9rO_rqnwbQim69U4PJHZgzzzeW4XgBwO8Ldf5_UszwRpnDDy-zXDXsm046KpaKNzvBsAiZSZVwACwBWJq948f8rc/s320/cansado.png" width="320" height="313" data-original-width="285" data-original-height="279" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/192-testemunhando-o-cansaço-cansado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/192-testemunhando-o-cansaço-cansado.png" width="320" height="313" data-original-width="285" data-original-height="279" /></a></div>
 É muito fácil de se assimilar o ditado popular que diz que “na descida todo o santo ajuda”. E como é verdade esse dito. Vamos desdobrar um pouquinho para vislumbrarmos o que Jesus espera de nós. Pois bem, Jesus Cristo verdadeiro Deus e verdadeiro homem, enquanto assumiu nossa condição humana para viver conosco e passar por tudo que passou, muitas vezes é visto apenas no contexto de nossas meditações e reflexões como um Jesus que é apenas divino.</br>
 </br>
 Muitas pessoas se esquecem que toda a vida pública dele não se constituiu em atos de heroísmos. Jesus cansava, Jesus dormia, se irritava, se divertia e se alegrava. Caminhava barbaridade não é mesmo e rezava mais do que ninguém. Porque é importante resgatarmos esta que é uma realidade pela qual ele passou?</br>

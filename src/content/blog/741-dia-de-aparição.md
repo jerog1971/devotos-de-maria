@@ -1,10 +1,10 @@
 ---
 title: "Dia de Aparição"
 date: 2025-05-13T18:13:00.001Z
-heroImage: "/images/uns sim - outros não.png"
+heroImage: "/images/posts/741-dia-de-aparição-img-196840978.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1QxVVVOr2NBPczrxYdAd6NxtR-0OUblniR7rXbU4bw-M4pwHk0pjVy20YDfNkXR1x9YWn7yGq1IkG5Pe0uVQv21ICarAFooW3nbSvrpxKao6_8pYPf4CU70beaLkb4_DGradmYnASIdzk2Br-Q4FBlzyjUfshSW7x_WTWsCMlkD6c8-d3Xblycy6u0x8/s452/uns%20sim%20-%20outros%20n%C3%A3o.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="382" data-original-width="452" height="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1QxVVVOr2NBPczrxYdAd6NxtR-0OUblniR7rXbU4bw-M4pwHk0pjVy20YDfNkXR1x9YWn7yGq1IkG5Pe0uVQv21ICarAFooW3nbSvrpxKao6_8pYPf4CU70beaLkb4_DGradmYnASIdzk2Br-Q4FBlzyjUfshSW7x_WTWsCMlkD6c8-d3Xblycy6u0x8/s320/uns%20sim%20-%20outros%20n%C3%A3o.png" width="320" /></a></div><p>&nbsp;</p><p>Hoje os católicos celebram a aparição de Nossa Senhora em
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/741-dia-de-aparição-img-196840978.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="382" data-original-width="452" height="270" src="/images/posts/741-dia-de-aparição-img-406871566.png" width="320" /></a></div><p>&nbsp;</p><p>Hoje os católicos celebram a aparição de Nossa Senhora em
 Fátima, Portugal. Um marco na doutrina da mãe de Jesus que, traz grandes reflexões
 e advertências em seu apelo para que ouçamos e sigamos o Ressuscitado enquanto
 ainda há tempo, um tempo que se esgota rápido e que para cada um tem uma medida

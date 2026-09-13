@@ -1,10 +1,10 @@
 ---
 title: "Conselhos de São Dom Bosco aos pais para Educar os Filhos"
 date: 2016-07-11T11:30:00Z
-heroImage: "/images/dom_bosco.png"
+heroImage: "/images/posts/2077-conselhos-de-são-dom-bosco-aos-pais-dom_bosco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-dAJpevoKku49Mpzd8oZdfDT_ZESfpfGoCmrGfalJBjhM8vac8LHbsWmKy3RfaDzhgtKC1cMposPWa4SLH_xGsn3VEwZG0MgRFVjvA9D_LS7qLGNm-UM2chJVdbUlI5PlFJlJwBP4UJo/s1600/dom_bosco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-dAJpevoKku49Mpzd8oZdfDT_ZESfpfGoCmrGfalJBjhM8vac8LHbsWmKy3RfaDzhgtKC1cMposPWa4SLH_xGsn3VEwZG0MgRFVjvA9D_LS7qLGNm-UM2chJVdbUlI5PlFJlJwBP4UJo/s320/dom_bosco.png" width="320" height="308" data-original-width="415" data-original-height="399" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2077-conselhos-de-são-dom-bosco-aos-pais-dom_bosco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2077-conselhos-de-são-dom-bosco-aos-pais-dom_bosco.png" width="320" height="308" data-original-width="415" data-original-height="399" /></a></div>
 </br>
 1. Valorize o seu filho. Quando respeitado e estimado, o jovem progride e amadurece.</br>
 </br>

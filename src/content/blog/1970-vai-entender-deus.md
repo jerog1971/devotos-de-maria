@@ -1,10 +1,10 @@
 ---
 title: "Vai entender Deus"
 date: 2019-05-31T17:41:00.001Z
-heroImage: "/images/dores_da_vida.png"
+heroImage: "/images/posts/1970-vai-entender-deus-dores_da_vida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbFu5w3zLJYd2Id4FNup9nSZe9_sOeq5Qn8UwgwLwT0-Bm5Jkd4zrVmxMeH2HvbUKBZfLTQ2zsKPIJvYXvq_-4UXOl5mxdfvH76q5jrW9PKiEuLJbzEbxQO83xh7w51bfJWwNaKg9Bjk/s1600/dores_da_vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbFu5w3zLJYd2Id4FNup9nSZe9_sOeq5Qn8UwgwLwT0-Bm5Jkd4zrVmxMeH2HvbUKBZfLTQ2zsKPIJvYXvq_-4UXOl5mxdfvH76q5jrW9PKiEuLJbzEbxQO83xh7w51bfJWwNaKg9Bjk/s320/dores_da_vida.png" width="320" height="269" data-original-width="567" data-original-height="476" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1970-vai-entender-deus-dores_da_vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1970-vai-entender-deus-dores_da_vida.png" width="320" height="269" data-original-width="567" data-original-height="476" /></a></div>
 Acreditamos que Deus é infinitamente justiça, sabedoria e amor. Todavia não compreendemos muitas coisas relacionadas às suas atitudes. Vá lá não compreende-las até porque a bíblia diz que o que não devemos saber é porque Deus não quis nos revelar. No entanto, uma coisa é certa, e ela é quem pode resolver as aparentes contradições e injustiças: Deus trata cada um de forma mega e de forma micro.</br>
 </br>
 Cada um faz parte do plano de salvação geral, criado para todas as almas. Porém, é fato observado que existe uma individualidade que cada pessoa atravessa em vida para atravessar a porta do céu. Lemos nas escrituras que o Espírito Santo distribui os variados dons como quer e a quem quer visando o bem comum. Opa! Perceberam? São Paulo diz isso em suas cartas.</br>

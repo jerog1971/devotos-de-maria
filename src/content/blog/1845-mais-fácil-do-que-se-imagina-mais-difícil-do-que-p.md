@@ -1,10 +1,10 @@
 ---
 title: "Mais fácil do que se imagina, mais difícil do que parece"
 date: 2022-08-09T15:21:00.004Z
-heroImage: "/images/mais fácil do que se imagina.png"
+heroImage: "/images/posts/1845-mais-fácil-do-que-se-imagina-mais-d-img-1556138275.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTSr1nYKNOTSSvOOvV9-uw_aJtUKlxMdNZ3uh4XSskEffRUxUfGnuThsJ2_srBflK6Q4a3J-pT_55jOEvLZCupby3yIiTMbFUysXyb1vXQah2VwA9Q2nc4DpCyfs1Of9MI62n_ZGYwaCV7zozlsNjLb4IMt0Ccndk355miharWqmvfxXmVIZYb1T_l/s296/mais%20f%C3%A1cil%20do%20que%20se%20imagina.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="228" data-original-width="296" height="228" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTSr1nYKNOTSSvOOvV9-uw_aJtUKlxMdNZ3uh4XSskEffRUxUfGnuThsJ2_srBflK6Q4a3J-pT_55jOEvLZCupby3yIiTMbFUysXyb1vXQah2VwA9Q2nc4DpCyfs1Of9MI62n_ZGYwaCV7zozlsNjLb4IMt0Ccndk355miharWqmvfxXmVIZYb1T_l/s1600/mais%20f%C3%A1cil%20do%20que%20se%20imagina.png" width="296" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esta reflexão certamente pode ser aplicada em nossas vidas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1845-mais-fácil-do-que-se-imagina-mais-d-img-1556138275.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="228" data-original-width="296" height="228" src="/images/posts/1845-mais-fácil-do-que-se-imagina-mais-d-img-2065830583.png" width="296" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esta reflexão certamente pode ser aplicada em nossas vidas
 em muitas áreas. Muitos segmentos sofrem este tipo de influência, erros
 acontecem, situações indevidas, problemas de várias naturezas e toda gama de
 acontecimentos são provocados por conta de encararmos os percursos da vida de

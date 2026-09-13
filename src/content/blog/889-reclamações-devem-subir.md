@@ -1,10 +1,10 @@
 ---
 title: "Reclamações devem subir"
 date: 2020-06-03T18:22:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/889-reclamações-devem-subir-img-217973021.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJziQcmDGQgQS5uDzAQvZWxOgrTEZC3cO3lyoG1f2JCPxJhzVpvW0vVrUllRIPoPUMXDX9zpZ908DwB56UXFoX0XQg7gxnvLLWjucTscOgbHofoqNc8ZdRXSmyHuWn1AY69P-ZsnvjS6k/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJziQcmDGQgQS5uDzAQvZWxOgrTEZC3cO3lyoG1f2JCPxJhzVpvW0vVrUllRIPoPUMXDX9zpZ908DwB56UXFoX0XQg7gxnvLLWjucTscOgbHofoqNc8ZdRXSmyHuWn1AY69P-ZsnvjS6k/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Essa é a natureza da situação. Existe uma hierarquia.
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/889-reclamações-devem-subir-img-217973021.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="314" src="/images/posts/889-reclamações-devem-subir-img-217973021.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Essa é a natureza da situação. Existe uma hierarquia.
 Funcionários de um setor reclamam para seu supervisor, o supervisor reclama
 para seu superior, este leva a reclamação para seu chefe e assim por diante. Na
 área militar acontece o mesmo. O soldado relata para o cabo, este para o

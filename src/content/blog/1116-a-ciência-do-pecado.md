@@ -1,10 +1,10 @@
 ---
 title: "A ciência do pecado"
 date: 2020-02-12T15:40:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1116-a-ciência-do-pecado-ci_25C3_25AAncia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKPMV3eOQXkOnsULGh5ZjQlE2rBOWqhK8-d2AaLPsmhrI5JprmdUMUHH0z_I4SXo5Yw8z9ucDWLfz4gDuV8QRc9HvuV7faYLvwnY1EDkKE6p-_uqcvUWp9RQEKxHsaHeNzgLu9Rm2aaU/s1600/ci%25C3%25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKPMV3eOQXkOnsULGh5ZjQlE2rBOWqhK8-d2AaLPsmhrI5JprmdUMUHH0z_I4SXo5Yw8z9ucDWLfz4gDuV8QRc9HvuV7faYLvwnY1EDkKE6p-_uqcvUWp9RQEKxHsaHeNzgLu9Rm2aaU/s320/ci%25C3%25AAncia.png" width="320" height="277" data-original-width="563" data-original-height="487" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1116-a-ciência-do-pecado-ci_25C3_25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1116-a-ciência-do-pecado-ci_25C3_25AAncia.png" width="320" height="277" data-original-width="563" data-original-height="487" /></a></div>
 Os estudos científicos, graça divina concedida para que seja colocada a serviço da humanidade, foi capaz de explicar como funciona nosso corpo, quimicamente falando, em relação ao pecado. Como funciona o mecanismo que atua no contexto das tentações, que como já sabemos, são uma realidade permitida por Deus para que nessa batalha cresçamos no amor.</br>
 </br>
 Dentro do cérebro existe uma substância que é injetada quando existe uma satisfação pela busca de um objetivo alcançado. É uma espécie de sistema de recompensa. Após saciarmos o nosso desejo pela busca empreendida, o seu êxito é recompensado com a agradável e prazerosa sensação de saciedade. Essa substância é conhecida pelo nome de “Dopamina”. Até aqui, a explicação não abrange o comportamento frente ao pecado, pois estamos vendo que esse sistema de recompensas atua de uma forma geral na psique humana. Ora, se estudamos para um concurso público e mais tarde quando recebemos a notícia que fomos aprovados, muito felizes ficarmos, sem dúvida estaremos sob o êxtase desse prazer químico. Ou quando vencemos uma competição esportiva para a qual nos preparamos também iremos experimentar o prazer da recompensa promovido pela dopamina.</br>

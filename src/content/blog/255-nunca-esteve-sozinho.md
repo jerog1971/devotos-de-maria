@@ -1,10 +1,10 @@
 ---
 title: "Nunca esteve sozinho"
 date: 2023-08-30T21:56:00.003Z
-heroImage: "/images/nunca esteve sozinho.png"
+heroImage: "/images/posts/255-nunca-esteve-sozinho-nunca_20esteve_20sozinho.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheOLj1A_5TOZxTNDQKHcJoBxSwgEvRrn5RiyMUtSXW4xb38WPj9W7uD2L_4uJQG9DAOPciJe3IbJZXkUF_jYuEWveKENPTVfWWjjmj41ImJ7SdTSXe8M41DqEzXyevUAON2EDI9B0v0fHlOb89yBvUj0P0RFDkzd7GDcwfjhftPEs5gaYcG_Mr8Z3XM10/s732/nunca%20esteve%20sozinho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="505" data-original-width="732" height="221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheOLj1A_5TOZxTNDQKHcJoBxSwgEvRrn5RiyMUtSXW4xb38WPj9W7uD2L_4uJQG9DAOPciJe3IbJZXkUF_jYuEWveKENPTVfWWjjmj41ImJ7SdTSXe8M41DqEzXyevUAON2EDI9B0v0fHlOb89yBvUj0P0RFDkzd7GDcwfjhftPEs5gaYcG_Mr8Z3XM10/s320/nunca%20esteve%20sozinho.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme Star Trek V o personagem Capitão Kirk diz logo no
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/255-nunca-esteve-sozinho-nunca_20esteve_20sozinho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="505" data-original-width="732" height="221" src="/images/posts/255-nunca-esteve-sozinho-nunca_20esteve_20sozinho.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme Star Trek V o personagem Capitão Kirk diz logo no
 início do filme – enquanto estavam a tirar uma folga de seus serviços – ao doutor
 e Spock enquanto acampavam sobre a certeza de que ele, Kirk, não morreria em
 determinado momento de uma de suas aventuras (ele estava a escalar uma

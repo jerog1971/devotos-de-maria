@@ -1,10 +1,10 @@
 ---
 title: "Decretos divinos"
 date: 2021-08-04T15:13:00.003Z
-heroImage: "/images/amantes.png"
+heroImage: "/images/posts/1883-decretos-divinos-amantes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid0pe27xTtLpxAjoLf8duRWs0ciZT1Z1Z5oegWWNWZkWGAZAj6dlwrnP_L73Mbh6g4LM-wTT1Ibgt6A0Vl0z7wsj0W-GBmaYzB3RG_nFZfdToEGIx5jaFJ-dE1TGVM2oVy-CIegXeauns/s251/amantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="208" data-original-width="251" height="208" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid0pe27xTtLpxAjoLf8duRWs0ciZT1Z1Z5oegWWNWZkWGAZAj6dlwrnP_L73Mbh6g4LM-wTT1Ibgt6A0Vl0z7wsj0W-GBmaYzB3RG_nFZfdToEGIx5jaFJ-dE1TGVM2oVy-CIegXeauns/s0/amantes.png" width="251" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Gênesis 2,24 – “O homem deixa o seu pai e sua mãe para se
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1883-decretos-divinos-amantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="208" data-original-width="251" height="208" src="/images/posts/1883-decretos-divinos-amantes.png" width="251" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Gênesis 2,24 – “O homem deixa o seu pai e sua mãe para se
 unir à sua mulher; e já não são mais que uma só carne”. Mateus 19,4-6 – “Respondeu-lhes
 Jesus: Não lestes que o Criador, no começo, fez o homem e a mulher e disse: Por
 isso, o homem deixará seu pai e sua mãe e se unirá à sua mulher; e os dois

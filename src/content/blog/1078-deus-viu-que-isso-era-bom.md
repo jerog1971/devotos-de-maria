@@ -1,10 +1,10 @@
 ---
 title: "Deus viu que isso era bom"
 date: 2021-11-08T01:41:00Z
-heroImage: "/images/cordeiro.png"
+heroImage: "/images/posts/1078-deus-viu-que-isso-era-bom-cordeiro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZtdaNpNVJ2QA3USqtUvvfKooSBlGvCTqWOvmRiXKf3f1TPoKK-u4uM4ehZX46XIwN48JdzxB_pEwzA_0xyYXMZxDEHkz75Fz4dovt7C_Mg7mUhUVzwNrn6L1-lcEJi4YhyphenhyphenK0dtMiqNbE/s219/cordeiro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="219" height="206" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZtdaNpNVJ2QA3USqtUvvfKooSBlGvCTqWOvmRiXKf3f1TPoKK-u4uM4ehZX46XIwN48JdzxB_pEwzA_0xyYXMZxDEHkz75Fz4dovt7C_Mg7mUhUVzwNrn6L1-lcEJi4YhyphenhyphenK0dtMiqNbE/s0/cordeiro.png" width="219" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus criou muitas coisas, viu que tudo era bom, mas, quando
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1078-deus-viu-que-isso-era-bom-cordeiro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="219" height="206" src="/images/posts/1078-deus-viu-que-isso-era-bom-cordeiro.png" width="219" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus criou muitas coisas, viu que tudo era bom, mas, quando
 criou o homem viu que isso era muito bom e viu que não era bom que ele vivesse
 só: deu-lhe uma companheira. Pois bem, nosso criador vê as coisas boas e
 certamente, por conta de sua onipotência e onisciência, vê as que não são.<o:p></o:p></p><div class="separator" style="clear: both;">

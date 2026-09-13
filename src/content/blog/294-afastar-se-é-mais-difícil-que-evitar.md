@@ -1,10 +1,10 @@
 ---
 title: "Afastar-se é mais difícil que evitar"
 date: 2022-03-14T12:05:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/294-afastar-se-é-mais-difícil-que-evitar-img-826878180.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEidLclGkNJP4qT9yzgT_yvSHXXmNUieUm9CMXYz_UJZ3xGCYSEGDQ9oQCejW6N-_llfRBJwrDlv5wkk-uashhU64Lnv_3xtALwyLYQ3nh5uQ_KKG4uhuk68ISLyovKNZvmolfDEIhWIYZN76Ar94_Ow0dDX_V9Piar_hgKHcAfVKSXU2-YrDnJ6AFMm=s221" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" height="267" src="https://blogger.googleusercontent.com/img/a/AVvXsEidLclGkNJP4qT9yzgT_yvSHXXmNUieUm9CMXYz_UJZ3xGCYSEGDQ9oQCejW6N-_llfRBJwrDlv5wkk-uashhU64Lnv_3xtALwyLYQ3nh5uQ_KKG4uhuk68ISLyovKNZvmolfDEIhWIYZN76Ar94_Ow0dDX_V9Piar_hgKHcAfVKSXU2-YrDnJ6AFMm=w275-h267" width="275" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus em seu evangelho nos ensinou sobre a gravidade que é a
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/294-afastar-se-é-mais-difícil-que-evitar-img-826878180.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" height="267" src="/images/posts/294-afastar-se-é-mais-difícil-que-evitar-img-1741532129.jpg" width="275" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus em seu evangelho nos ensinou sobre a gravidade que é a
 recaída no pecado. Quando perdoava os que lhe procuravam dizia: vá e não peques
 mais. Se Jesus disse isso, ele, que sabe infinitamente mais do que todos nós
 está, nas entrelinhas, afirmando uma coisa: que é possível não pecar. Todavia,

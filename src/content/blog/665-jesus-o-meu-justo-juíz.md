@@ -1,10 +1,10 @@
 ---
 title: "Jesus, o meu justo juíz"
 date: 2020-07-22T16:27:00Z
-heroImage: "/images/encontradoporjesus.png"
+heroImage: "/images/posts/665-jesus-o-meu-justo-juíz-encontradoporjesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMpo8Nqf1Pflimxwo372ALQylGhJ5FSwaEpkxrpp_vgy07_AqAorNehUYY_bFjX4rL-aTPRz4dzjnp-sWAAG-pTbecWIrTQmBVESdVkSkSfcVW0HhG1_qL12VxgjeYKF5qOi1ZzJhY2oU/s401/encontradoporjesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="378" data-original-width="401" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMpo8Nqf1Pflimxwo372ALQylGhJ5FSwaEpkxrpp_vgy07_AqAorNehUYY_bFjX4rL-aTPRz4dzjnp-sWAAG-pTbecWIrTQmBVESdVkSkSfcVW0HhG1_qL12VxgjeYKF5qOi1ZzJhY2oU/s320/encontradoporjesus.png" width="320" /></a></div><p class="MsoNormal"><br /></p><p class="MsoNormal">Muitos gostam de enfatizar o lado misericordioso de Jesus;
+<div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/665-jesus-o-meu-justo-juíz-encontradoporjesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="378" data-original-width="401" src="/images/posts/665-jesus-o-meu-justo-juíz-encontradoporjesus.png" width="320" /></a></div><p class="MsoNormal"><br /></p><p class="MsoNormal">Muitos gostam de enfatizar o lado misericordioso de Jesus;
 como exemplo podemos destacar o que se recita em dois terços dirigidos à sua
 misericórdia. Num, dizemos: “pela sua dolorosa paixão, tende misericórdia de
 nós e do mundo inteiro”; no outro, dizemos: “meu Jesus, perdão e misericórdia,

@@ -1,10 +1,10 @@
 ---
 title: "Confessemos os nossos pecados"
 date: 2016-02-24T19:17:00.001Z
-heroImage: "/images/confessar.png"
+heroImage: "/images/posts/1740-confessemos-os-nossos-pecados-confessar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy43Bz7Ocu5aK47GblhUR844dhvNJxqrg2RrvqUV3t0awmMC7QLoBMyt1_kthJOcWtHRAxNrSc8KRVx63-xYf8BljPmnNuQCXKXTQqFpj8CRk5V1V9ZUbyAuiRnyqcJRB-rDPG3BGFc3Q/s1600/confessar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="467" height="226" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy43Bz7Ocu5aK47GblhUR844dhvNJxqrg2RrvqUV3t0awmMC7QLoBMyt1_kthJOcWtHRAxNrSc8KRVx63-xYf8BljPmnNuQCXKXTQqFpj8CRk5V1V9ZUbyAuiRnyqcJRB-rDPG3BGFc3Q/s320/confessar.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Hoje em mais uma participação minha na santa missa do meio-dia, aqui próximo do local onde trabalho. Pude testemunhar a densa procura dos fiéis pelo sacramento da confissão antes e durante a celebração da santa missa.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1740-confessemos-os-nossos-pecados-confessar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="467" height="226" src="/images/posts/1740-confessemos-os-nossos-pecados-confessar.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Hoje em mais uma participação minha na santa missa do meio-dia, aqui próximo do local onde trabalho. Pude testemunhar a densa procura dos fiéis pelo sacramento da confissão antes e durante a celebração da santa missa.
 
 A começar por mim. Eu, que tenho cada vez mais me esforçado para fazer a vontade de Deus Pai, me aproximando de Jesus por Maria, através da consagração total pelo método de São Luiz Maria Grignion de Monfort, procuro sempre e a cada vez mais, manter uma vida de muita oração e proximidade com o sagrado. E hoje, saí para o intervalo do almoço às 11:30 da manhã. Desde cedo logo ao acordar, já ouvia dentro de mim o chamado para a confissão. Normalmente é meu anjo da guarda que intui em mim essas coisas.
 

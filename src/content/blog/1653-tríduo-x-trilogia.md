@@ -1,10 +1,10 @@
 ---
 title: "Tríduo x Trilogia"
 date: 2019-04-22T15:45:00Z
-heroImage: "/images/Vingadores_Ultimato.png"
+heroImage: "/images/posts/1653-tríduo-x-trilogia-Vingadores_Ultimato.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBJiX_r0rYX7AGjmKKiA92TYVKafEg2sHwhqcwnhYFCriOBtu64lGr2Y21okOTPOs6BFxGL8KVlpqVe5wtRXZ41ef6YngWzLZyO3OAU4gd_e_IBVfc7uMyG40OTgeGstQkdQPTqpQUT9s/s1600/Vingadores_Ultimato.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBJiX_r0rYX7AGjmKKiA92TYVKafEg2sHwhqcwnhYFCriOBtu64lGr2Y21okOTPOs6BFxGL8KVlpqVe5wtRXZ41ef6YngWzLZyO3OAU4gd_e_IBVfc7uMyG40OTgeGstQkdQPTqpQUT9s/s320/Vingadores_Ultimato.png" width="302" height="320" data-original-width="362" data-original-height="383" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1653-tríduo-x-trilogia-Vingadores_Ultimato.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1653-tríduo-x-trilogia-Vingadores_Ultimato.png" width="302" height="320" data-original-width="362" data-original-height="383" /></a></div>
 De certo tempo para cá as pessoas têm se acostumado com a expressão trilogia. A trilogia deste filme, a trilogia daquele filme, essa trilogia, aquela outra e assim por diante. Em relação aos filmes ainda existe um porém. Em sua maioria cada filme que compõe a trilogia aproxima-se das três horas de duração, seja para mais ou para menos.</br>
 </br>
 Pois muito bem, ademais, se aquele que assistiu uma trilogia gostou do que viu, é muito provável que repita a dose. Seja no estilo maratona (tudo em uma sentada só), seja em três dias seguidos ou não. Não importa como, importa que por muito ter gostado irá rever mais vezes. Onde se encaixa essa questão neste artigo? Vamos acompanhar e já quero ir adiantando que este site não é contra trilogias. Ao contrário, assisto a muitas delas e volto a revê-las. </br>

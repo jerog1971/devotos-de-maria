@@ -1,10 +1,10 @@
 ---
 title: "Amor Verdadeiro"
 date: 2015-07-13T14:05:00.002Z
-heroImage: "/images/jonathan_e_kellem.png"
+heroImage: "/images/posts/1976-amor-verdadeiro-jonathan_e_kellem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwVyzxtkafVCONeKPnWddMFSOczmrwlAciT9kc-k-st3RM9ddY2sgIfOXta-H0LbzrnQ9GurPoZHVXHtmDJ-bfV5uZopgcAIqT8gI6awpGPd6h9hbR5kyPYbBOPjBTpMnMlp35efQt1Dk/s1600/jonathan_e_kellem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwVyzxtkafVCONeKPnWddMFSOczmrwlAciT9kc-k-st3RM9ddY2sgIfOXta-H0LbzrnQ9GurPoZHVXHtmDJ-bfV5uZopgcAIqT8gI6awpGPd6h9hbR5kyPYbBOPjBTpMnMlp35efQt1Dk/s320/jonathan_e_kellem.png" width="320" height="211" data-original-width="618" data-original-height="408" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1976-amor-verdadeiro-jonathan_e_kellem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1976-amor-verdadeiro-jonathan_e_kellem.png" width="320" height="211" data-original-width="618" data-original-height="408" /></a></div>
 </br>
 É fácil estar ao lado do namorado, noivo ou marido quando tudo está bem. No entanto, quando as finanças aper­tam e a saúde se vai muitos se arrependem dos votos firmados e decidem seguir a vida sozinhos. O araucariense Jonathan Ralf da Silva, de 31 anos, sabe muito bem o que isso significa. Casado há 12 anos com Kelem Andressa de Oliveira, ele viu sua amada enfrentar os resultados da diabetes e dar adeus à vitalidade que possuía nos primeiros anos da união. Jonathan conta que há três anos ela teve um glaucoma e, infelizmente, ficou completamente cega. Além disso, desde o ano passado passou a ter pro­blemas nos rins e precisa realizar hemodiálises constantes.</br>
 </br>

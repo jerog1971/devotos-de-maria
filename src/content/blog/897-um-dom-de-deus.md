@@ -1,10 +1,10 @@
 ---
 title: "Um dom de Deus"
 date: 2023-11-16T20:04:00Z
-heroImage: "/images/Sofia_8.jpg"
+heroImage: "/images/posts/897-um-dom-de-deus-Sofia_8.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoebMWbqorj9Ju2ijq5UdrI-jcXup0KH6lL6ywBprw1-50XoWyOD6S5ioiPRRnwwKdLxpbZCA7-sbw4d_EkgaOQ0lDftkuAsugXr3a38xWJTdjFO-XkW48zDKRknTuzLhBrjdMEjdPlFbw_vTrRPymRYtoFWnkKPUQFcVyalqD0Ku_ZY-0qA2CLok9ab4/s1254/Sofia_8.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1254" data-original-width="720" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoebMWbqorj9Ju2ijq5UdrI-jcXup0KH6lL6ywBprw1-50XoWyOD6S5ioiPRRnwwKdLxpbZCA7-sbw4d_EkgaOQ0lDftkuAsugXr3a38xWJTdjFO-XkW48zDKRknTuzLhBrjdMEjdPlFbw_vTrRPymRYtoFWnkKPUQFcVyalqD0Ku_ZY-0qA2CLok9ab4/s320/Sofia_8.jpg" width="184" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já lemos nos salmos que eles são um dom de Deus. Venham como
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/897-um-dom-de-deus-Sofia_8.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1254" data-original-width="720" height="320" src="/images/posts/897-um-dom-de-deus-Sofia_8.jpg" width="184" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já lemos nos salmos que eles são um dom de Deus. Venham como
 venham, sejam com sejam. O amor que nasce e costura essa relação de pais e
 filhos não se quebra por qualquer coisa. Arrisco ir mais fundo e dizer que
 nunca se finda, mesmo na morte. Ora, não lemos na bíblia que nem a morte nos

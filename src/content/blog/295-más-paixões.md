@@ -1,10 +1,10 @@
 ---
 title: "Más Paixões"
 date: 2021-07-26T19:41:00.001Z
-heroImage: "/images/Pai.jpg"
+heroImage: "/images/posts/295-más-paixões-m_25C3_25A1s_paix_25C3_25B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWUJPSCiSRroJd-F_4hmL90ueZYxtcDrb6sQE5CnWVZY3pMnGtQeXKY1D6-jGpBwkgc2gX61WGOyPHAu68jd4aXQl0EBpQV4M4zpfDH4kR2BjkEWfre2ntpjDyN8aTgMdxqpk1E5gWEG8/s357/m%25C3%25A1s+paix%25C3%25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="326" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWUJPSCiSRroJd-F_4hmL90ueZYxtcDrb6sQE5CnWVZY3pMnGtQeXKY1D6-jGpBwkgc2gX61WGOyPHAu68jd4aXQl0EBpQV4M4zpfDH4kR2BjkEWfre2ntpjDyN8aTgMdxqpk1E5gWEG8/s320/m%25C3%25A1s+paix%25C3%25B5es.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Pela intercessão de São Miguel e do coro celeste das
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/295-más-paixões-m_25C3_25A1s_paix_25C3_25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="326" height="320" src="/images/posts/295-más-paixões-m_25C3_25A1s_paix_25C3_25B5es.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Pela intercessão de São Miguel e do coro celeste das
 Dominações, para que o Senhor nos conceda a graça de dominar nossos sentidos, e
 de nos corrigir de nossas más paixões. Amém!” Essa é a quarta saudação que
 fazemos quando rezamos o terço de São Miguel. Sobre as paixões, recordemos

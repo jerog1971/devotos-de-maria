@@ -1,10 +1,10 @@
 ---
 title: "Boas proibições"
 date: 2023-01-13T13:20:00.003Z
-heroImage: "/images/boas proibições.png"
+heroImage: "/images/posts/2049-boas-proibições-boas_20proibi_C3_A7_C3_B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPEWqsrgitzzH7bcw4xVjJfrAdEilYUfNgPI9O8AC0QK-HcGj9JcY9ngFJ6VjO2nlIc8odRKpLmcpBdyoc4voP5O6-yxADlOfNCN8SDGki6dRSNjImYvniH1hi3zFWpM3NeV735Om5IRmIBjvwrCMG5XeOJ-pqCQQHzx59rD59G3JUkj6NGmfqerLQ/s358/boas%20proibi%C3%A7%C3%B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="358" height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPEWqsrgitzzH7bcw4xVjJfrAdEilYUfNgPI9O8AC0QK-HcGj9JcY9ngFJ6VjO2nlIc8odRKpLmcpBdyoc4voP5O6-yxADlOfNCN8SDGki6dRSNjImYvniH1hi3zFWpM3NeV735Om5IRmIBjvwrCMG5XeOJ-pqCQQHzx59rD59G3JUkj6NGmfqerLQ/s320/boas%20proibi%C3%A7%C3%B5es.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O diabo, grande amigo da onça e inimigo da humanidade,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2049-boas-proibições-boas_20proibi_C3_A7_C3_B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="358" height="235" src="/images/posts/2049-boas-proibições-boas_20proibi_C3_A7_C3_B5es.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O diabo, grande amigo da onça e inimigo da humanidade,
 sempre irá insistir que proibição tem relação com algo ruim. Não chega a ser
 mentira, olha aí ele usando de meias verdades, mas o problema está na ótica em
 que ele quer que aceitemos. Se dermos uma olhadinha nos mandamentos de Deus,

@@ -1,10 +1,10 @@
 ---
 title: "Esbarrando em exemplos"
 date: 2022-06-28T16:14:00.003Z
-heroImage: "/images/darth_vader.jpg"
+heroImage: "/images/posts/1894-esbarrando-em-exemplos-darth_vader.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfLeA6Wg9YEjZMgybwmNbKXBaUeh0CxArlPhOiTgXqoI8bHbNIVc0maRVGiUs8GUEPURB8lTW6J6meTyZrAjhR4kXdzqb3SPOADA17Q0LHGiDBoTjnbPJTjq-ohQAFM0Qfb9N3pRT563FXE8vbHnOf-chPfsXb5I8xRlyjLejWF0eDNJatZqrdk0sQ/s1308/darth_vader.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1308" data-original-width="736" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfLeA6Wg9YEjZMgybwmNbKXBaUeh0CxArlPhOiTgXqoI8bHbNIVc0maRVGiUs8GUEPURB8lTW6J6meTyZrAjhR4kXdzqb3SPOADA17Q0LHGiDBoTjnbPJTjq-ohQAFM0Qfb9N3pRT563FXE8vbHnOf-chPfsXb5I8xRlyjLejWF0eDNJatZqrdk0sQ/s320/darth_vader.jpg" width="180" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que a ficção imita a realidade; não é
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1894-esbarrando-em-exemplos-darth_vader.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1308" data-original-width="736" height="320" src="/images/posts/1894-esbarrando-em-exemplos-darth_vader.jpg" width="180" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que a ficção imita a realidade; não é
 novidade que muitos produtores de nossa cultura se aproveitam de seus
 mecanismos para, além de entreter o público, transmitir grandes mensagens e
 valores éticos, morais e familiares. Quantas vezes já não assistimos a filmes baseados

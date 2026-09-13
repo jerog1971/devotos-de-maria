@@ -1,10 +1,10 @@
 ---
 title: "A palavra Amém"
 date: 2015-10-21T10:21:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/169-a-palavra-amém-am_25C3_25A9m.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirjITA38X6g9MlswmU-7XrhRGtkXR78z7XVF85EuF8Woh9-t3Jsy6Uo-fCb8NGfntWfJV0e7-l74TUhc2oPusxJRqVJZFhiBtXCf-KzTEFhX5onoXcqz2Di-GL9NsIKThTZmAOmNPYqtc/s1600/am%25C3%25A9m.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirjITA38X6g9MlswmU-7XrhRGtkXR78z7XVF85EuF8Woh9-t3Jsy6Uo-fCb8NGfntWfJV0e7-l74TUhc2oPusxJRqVJZFhiBtXCf-KzTEFhX5onoXcqz2Di-GL9NsIKThTZmAOmNPYqtc/s320/am%25C3%25A9m.png" width="320" height="202" data-original-width="462" data-original-height="292" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/169-a-palavra-amém-am_25C3_25A9m.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/169-a-palavra-amém-am_25C3_25A9m.png" width="320" height="202" data-original-width="462" data-original-height="292" /></a></div>
 </br>
 “Amém” é uma palavra cujo uso na língua hebraica é muito antigo. Do ponto de vista etimológico, “amém” deriva do verbo “aman”, usado para reforçar ou confirmar algo. Basicamente, significa “que conste”, “em verdade”.</br>
 </br>

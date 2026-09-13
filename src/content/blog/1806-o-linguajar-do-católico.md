@@ -1,10 +1,10 @@
 ---
 title: "O linguajar do católico"
 date: 2018-04-23T20:25:00Z
-heroImage: "/images/linguajar.png"
+heroImage: "/images/posts/1806-o-linguajar-do-católico-linguajar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9e-pV6p44eBGu4Tm0jzEGzqsJqYwLcK54ExIDnDULF4McEtuDsWpPHyYb2gq8sKwe8P80arYrq4vT_giZLJNpZSrZTq3jOYDiW5zAVwbKjcbWxli6uQ37TA0Qb9ZOwrVYWQRiKEDjlVw/s1600/linguajar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9e-pV6p44eBGu4Tm0jzEGzqsJqYwLcK54ExIDnDULF4McEtuDsWpPHyYb2gq8sKwe8P80arYrq4vT_giZLJNpZSrZTq3jOYDiW5zAVwbKjcbWxli6uQ37TA0Qb9ZOwrVYWQRiKEDjlVw/s320/linguajar.png" width="298" height="320" data-original-width="148" data-original-height="159" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1806-o-linguajar-do-católico-linguajar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1806-o-linguajar-do-católico-linguajar.png" width="298" height="320" data-original-width="148" data-original-height="159" /></a></div>
 A tradição católica nos conta que certo camponês foi até o mosteiro vizinho à sua aldeia levar alguns frangos para os bons frades, que viviam de esmolas e da caridade do povo. No caminho, um dos frangos desvencilhou-se das mãos do campônio e desandou a correr. Correu o pobre atrás da ave, xingando e praguejando:</br>
 </br>
 “Frango do diabo! Volta aqui,seu ..."</br>

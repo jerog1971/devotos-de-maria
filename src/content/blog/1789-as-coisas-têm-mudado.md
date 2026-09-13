@@ -1,10 +1,10 @@
 ---
 title: "As coisas têm mudado"
 date: 2018-03-23T15:59:00Z
-heroImage: "/images/As_faces_do_mal.png"
+heroImage: "/images/posts/1789-as-coisas-têm-mudado-o_mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyGx8ie8d6LygLYFn6BACGgQWf1n1ycle1fRudtdh7FrWWhkYomTyxSt-k8Deqm3LINUInfF8e5HdByS_NzGylnSTAyH9qch5CPIKigs2AtlucjlO35R_0VmTZfijCA-xznBHpQjdUc_k/s1600/o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyGx8ie8d6LygLYFn6BACGgQWf1n1ycle1fRudtdh7FrWWhkYomTyxSt-k8Deqm3LINUInfF8e5HdByS_NzGylnSTAyH9qch5CPIKigs2AtlucjlO35R_0VmTZfijCA-xznBHpQjdUc_k/s320/o_mal.png" width="320" height="318" data-original-width="603" data-original-height="599" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1789-as-coisas-têm-mudado-o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1789-as-coisas-têm-mudado-o_mal.png" width="320" height="318" data-original-width="603" data-original-height="599" /></a></div>
 O mundo, um dos três inimigos da alma, tem rotineiramente sistematizado e popularizado o pecado, dando para ele uma roupagem nova. Com a desculpa do ultrapassado, do superado, do obsoleto, o esforço mundano que caminha de braço dado com o diabo, arquiteta sempre novas formas de apresentar seu salário de morte em aparências muito belas, sedutoras e cativantes.</br>
 </br>
 A tradição, os bons costumes, a modéstia e o pudor, valores morais que dignificam o ser humano constantemente passam, ou são obrigados a passar, por mutações que retiram do seu cerne toda a essência de suas origens. Fala-se em teologia da libertação, da ideologia da relatividade, da liberdade e direitos próprios, mas tudo, absolutamente tudo, não pode seguir em frente no curso da história sem passar pelo crivo do seu criador. A religião criada para religar o homem a Deus, foi transformada numa forma de viver, numa das muitas opções de encarar e viver a vida. Deus faz parte de um leque de opções, embora seja evidente que sua supremacia não se discuta e até na hora do perigo iminente de morte um ateu corre o risco, quando não o deixa de fazer, de invocar o seu santo nome.</br>

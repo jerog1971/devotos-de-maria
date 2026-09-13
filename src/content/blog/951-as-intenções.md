@@ -1,10 +1,10 @@
 ---
 title: "As intenções"
 date: 2017-10-11T19:22:00Z
-heroImage: "/images/atividade.jpg"
+heroImage: "/images/posts/951-as-intenções-atividade.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfAoxUiafIb7BvpteWg_GCztK-0FfOnWuv3td4E2eHLOi4e0anWhinKUGuYQ_d1Gh3mnyVW_SSP75Kl4GHzdTLjZT4Fpcsvd2JGUHZ3DiRH-sRDfxI0W392wyKKIEjBAMA-JhQG7rbXEw/s1600/atividade.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfAoxUiafIb7BvpteWg_GCztK-0FfOnWuv3td4E2eHLOi4e0anWhinKUGuYQ_d1Gh3mnyVW_SSP75Kl4GHzdTLjZT4Fpcsvd2JGUHZ3DiRH-sRDfxI0W392wyKKIEjBAMA-JhQG7rbXEw/s320/atividade.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/951-as-intenções-atividade.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/951-as-intenções-atividade.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>
 Já paramos para pensar o que são as intenções? Por que temos intenções em fazer alguma coisa? Por que algumas são más e outras são boas? Pois bem, sabe-se que a intenção é uma ideia que depois de amadurecer, vira um propósito que será colocado em prática. As vezes ela é uma meta, as vezes uma atitude e as vezes não sai do papel, vamos assim dizer. Vamos lembrar de alguns exemplos? Sempre é bom não é mesmo!</br>
 </br>
 A pessoa tem intenção de emagrecer. Se esta intenção se tornar um propósito de perder peso, ela a coloca em prática e começa a mudar os hábitos alimentares e praticar exercícios físicos. Outra pessoa que tem intenção de emagrecer. Se esta intenção for vencida pelas constantes tentações da gula e dos maus hábitos, ela nunca sairá do papel e a pessoa permanecerá escrava de suas vontades menores. Como vemos, as intenções, que Jesus ensinou que brotam no coração, passam pela peneira da mente para depois de fato acontecerem, se tornarem concretas.</br>

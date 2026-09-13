@@ -1,10 +1,10 @@
 ---
 title: "A escala de valores do cristão"
 date: 2017-05-05T15:09:00.002Z
-heroImage: "/images/anti valores.png"
+heroImage: "/images/posts/1515-a-escala-de-valores-do-cristão-valores.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAFXEhow-3rDXymwEs4snGZkUiMc3SbJtOKiU9I3wGJA9Cu0Agqk1Uxi5hfsaXX6b337gOdnQT4Oc_dSrR4v5saCiS5bCAglwM3gpux112_rK9TjKGWdRjiGHytMYvYSzpnDgMoz8DCPk/s1600/valores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAFXEhow-3rDXymwEs4snGZkUiMc3SbJtOKiU9I3wGJA9Cu0Agqk1Uxi5hfsaXX6b337gOdnQT4Oc_dSrR4v5saCiS5bCAglwM3gpux112_rK9TjKGWdRjiGHytMYvYSzpnDgMoz8DCPk/s320/valores.png" width="320" height="285" data-original-width="282" data-original-height="251" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1515-a-escala-de-valores-do-cristão-valores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1515-a-escala-de-valores-do-cristão-valores.png" width="320" height="285" data-original-width="282" data-original-height="251" /></a></div>
 Muitas pessoas possuem uma escala de valores desordenada. Culpa da prioridade com que elegem estes valores com base muitas vezes naquilo que querem ao invés daquilo que precisam. Já outras pessoas estão cientes da correta sequência, mas não conseguem transpor para a prática essas verdades. Acabam deixando de lado aquilo que é importante porque fazem daquilo que mais lhe apetece, algo urgente. Sendo assim, o primeiro passo que devemos dar relacionado a isso, é colocar em ordem essa escala de valores, segundo o ponto de vista de Deus, claramente ensinado a todos nas sagradas escrituras. Depois é fazer o esforço necessário para colocá-lo em prática.</br>
 </br>
 <h2>Deus em Primeiro Lugar</h2></br>

@@ -1,10 +1,10 @@
 ---
 title: "O que Cristo ensina ou o que a Igreja ensina?"
 date: 2018-11-19T18:28:00Z
-heroImage: "/images/igreja_dividida.png"
+heroImage: "/images/posts/251-o-que-cristo-ensina-ou-o-que-a-igrej-igreja_dividida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaT_3Cdgb-0vmcgRwNeRVTDfhbpu63gdIX5gfK4pKmlZxTEQUJEE_xiNjn_u6btENb2LgGrFfudCsDc20KXFtPKS2M5mw97u2_VKBgvAfp-2nN5fhyphenhyphenaHi9HaJARMmgkTi1VxjHhS84emQ/s1600/igreja_dividida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaT_3Cdgb-0vmcgRwNeRVTDfhbpu63gdIX5gfK4pKmlZxTEQUJEE_xiNjn_u6btENb2LgGrFfudCsDc20KXFtPKS2M5mw97u2_VKBgvAfp-2nN5fhyphenhyphenaHi9HaJARMmgkTi1VxjHhS84emQ/s320/igreja_dividida.png" width="320" height="233" data-original-width="523" data-original-height="381" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/251-o-que-cristo-ensina-ou-o-que-a-igrej-igreja_dividida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/251-o-que-cristo-ensina-ou-o-que-a-igrej-igreja_dividida.png" width="320" height="233" data-original-width="523" data-original-height="381" /></a></div>
 Começo o artigo apontando para uma frase dita por Nossa Senhora em suas aparições, em resposta à indagação a respeito do porquê das aparições. Primeiro, ela diz que Deus Pai permite as aparições para que os homens sejam lembrados daquilo que deixaram de seguir, de fazer e de acreditar. Segundo: ela diz que seu filho Jesus nos deixou tudo que precisamos para nos salvar, nos evangelhos. Como não lemos, seguimos e não vivemos o evangelho, as aparições se tornaram necessárias por constituírem-se um modo de lembrar a humanidade a respeito desta verdade.</br>
 </br>
 Colocado isso de forma muito clara pela mãe de Deus e nossa mãe, fica muito fácil de se compreender porque tantas coisas não andam bem na relação homem-Deus-religião.  Como religião consiste em ligar-se novamente a Deus e Jesus veio para eliminar o muro que o pecado de Adão e Eva ergueu sob a investida da serpente para a desgraça da humanidade, percebe-se o cabo de guerra que coloca o homem no meio da situação é o responsável por tanta baderna.</br>

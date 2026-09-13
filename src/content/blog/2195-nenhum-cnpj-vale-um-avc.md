@@ -1,10 +1,10 @@
 ---
 title: "Nenhum CNPJ vale um AVC"
 date: 2025-01-30T18:49:00Z
-heroImage: "/images/correria do dia a dia.png"
+heroImage: "/images/posts/2195-nenhum-cnpj-vale-um-avc-correria_20do_20dia_20a_20dia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-jJVIyth6AFqquxQbgE2lZtjCNg-U1PlpQ_NfVMCN-00v9l1j0MjfZQ8gTWYiysB5sSfykUMGoKrSjpAjEpYQ1avRuRfhG-Xdxcx2ViDOp9OilgPIwSa6XuZRGGFvfBnD6vFpD3vejp5M5uXlaugkrhb01KgGeucK-zU6OpgSAQ0nFY1SugLnTFxZgWU/s284/correria%20do%20dia%20a%20dia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="270" data-original-width="284" height="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-jJVIyth6AFqquxQbgE2lZtjCNg-U1PlpQ_NfVMCN-00v9l1j0MjfZQ8gTWYiysB5sSfykUMGoKrSjpAjEpYQ1avRuRfhG-Xdxcx2ViDOp9OilgPIwSa6XuZRGGFvfBnD6vFpD3vejp5M5uXlaugkrhb01KgGeucK-zU6OpgSAQ0nFY1SugLnTFxZgWU/s1600/correria%20do%20dia%20a%20dia.png" width="284" /></a></div><br />&nbsp;
+<p></p><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2195-nenhum-cnpj-vale-um-avc-correria_20do_20dia_20a_20dia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="270" data-original-width="284" height="270" src="/images/posts/2195-nenhum-cnpj-vale-um-avc-correria_20do_20dia_20a_20dia.png" width="284" /></a></div><br />&nbsp;
 
 
 	

@@ -1,10 +1,10 @@
 ---
 title: "A imposição da Nova Ordem Mundial"
 date: 2017-07-05T17:25:00Z
-heroImage: "/images/charlie.png"
+heroImage: "/images/posts/175-a-imposição-da-nova-ordem-mundial-charlie.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeAsgok-M7Xmh5sCEv9pRqKOUt-YbSQOd8FZ6ejLdn4oP_1MfrdEh5T9brQROb6ivjHC9faz330Cr87ZiiafWq8PU1_VDDr6TwqWzcHiEGGrHud3dMaGnmBmpcE7_gyZOYh7yHM0CHWo/s1600/charlie.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeAsgok-M7Xmh5sCEv9pRqKOUt-YbSQOd8FZ6ejLdn4oP_1MfrdEh5T9brQROb6ivjHC9faz330Cr87ZiiafWq8PU1_VDDr6TwqWzcHiEGGrHud3dMaGnmBmpcE7_gyZOYh7yHM0CHWo/s320/charlie.png" width="320" height="296" data-original-width="558" data-original-height="517" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/175-a-imposição-da-nova-ordem-mundial-charlie.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/175-a-imposição-da-nova-ordem-mundial-charlie.png" width="320" height="296" data-original-width="558" data-original-height="517" /></a></div>
 No dia 27/06/17 um bebê de 10 meses, Charlie Gard, foi condenado à morte. O fato em si já deveria ser chocante, mas há outras nuances do processo que o tornam ainda mais amedrontador. Charlie Gard é um bebê que sofre de uma rara doença genética, que causa danos ao seu cérebro e vem sendo tratado no Hospital Great Ormond Street em Londres. Segundo o Hospital, o bebê não tem mais condições de recuperação e, por isso, seus aparelhos devem ser desligados.</br>
 </br>
 Os pais do bebê Charlie, Connie e Chris, conseguiram arrecadar 1,4 milhão de libras, para que ele possa ser transferido para os Estados Unidos, para continuar o tratamento. Daí veio o segundo golpe: o Hospital não quer permitir a liberação da criança! Os pais recorreram à lei e, após passar por todas as instâncias possíveis, chegaram na Corte Europeia de Direitos Humanos, que negou o pedido dos pais. Não há mais onde recorrer. O pequeno Charlie será morto a qualquer momento.</br>

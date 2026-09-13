@@ -1,7 +1,7 @@
 ---
 title: "Santa Gema Galgani"
 date: 2019-09-12T15:42:00Z
-heroImage: "/images/gemma.png"
+heroImage: "/images/posts/1969-santa-gema-galgani-gemma.png"
 ---
 
 <b>A Mística da redenção.</b></br>
@@ -123,7 +123,7 @@ Muitas pessoas, incluindo respeitosos membros da Igreja, testemunharam este mila
 </br>
 Como São Francisco de Assis e recentemente Padre Pio, Gema pode dizer também: Nemo mihi molestus sit. Ego enim stigmata Domini Jesu in corpore meo porto: Que ninguém me faça mal, pois eu levo as marcas do Senhor Jesus no meu corpo.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAxdBrW78uw7zV3uoWkWos-No1-8tADAoMiCZbsHQHprOTbKjHHfBQOl0_oWCOhhwbTF3GvnwVjzr0dpXh6ee9mUXSu3NPQyyB2-uSsF3amUBOlc7fQAz-5qKzaJUGz1KU4epoqpvM2os/s1600/gemma.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAxdBrW78uw7zV3uoWkWos-No1-8tADAoMiCZbsHQHprOTbKjHHfBQOl0_oWCOhhwbTF3GvnwVjzr0dpXh6ee9mUXSu3NPQyyB2-uSsF3amUBOlc7fQAz-5qKzaJUGz1KU4epoqpvM2os/s200/gemma.png" width="172" height="200" data-original-width="342" data-original-height="397" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1969-santa-gema-galgani-gemma.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1969-santa-gema-galgani-gemma.png" width="172" height="200" data-original-width="342" data-original-height="397" /></a></div>
 <b>Vida de Oração.</b></br>
 </br>
 Com 21 anos, Gema foi acolhida por uma generosa família italiana, os Giannini. A família tinha já 11 filhos, mas estava feliz em receber esta jovem e piedosa órfã em sua casa. A mãe da família, a Senhora Giustina Giannini, diria mais tarde sobre Gema: “Posso jurar que, durante os 3 anos e 8 meses em que Gema esteve conosco, eu nunca soube do menor problema em nossa família que fosse provocado por ela e nunca vi nela o menor defeito. Repito, nem o menor problema, nem o menor defeito”.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Católicos Ecumênicos"
 date: 2016-04-28T14:53:00.001Z
-heroImage: "/images/infieis.png"
+heroImage: "/images/posts/1052-católicos-ecumênicos-infieis.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpNyWYgyK1ipjJlthG8rOu-tlEvXIRuYKmVmNN3ypbfg7WqbrTMtQKDCBk35KgPDQb2U8vzLV0Rm8vi5mkJNqDrTWUx7IY3KZM2h9JNQIwTAWE_PEhPWiM2sGxgHllEZPr5AdD52lTY74/s1600/infieis.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpNyWYgyK1ipjJlthG8rOu-tlEvXIRuYKmVmNN3ypbfg7WqbrTMtQKDCBk35KgPDQb2U8vzLV0Rm8vi5mkJNqDrTWUx7IY3KZM2h9JNQIwTAWE_PEhPWiM2sGxgHllEZPr5AdD52lTY74/s320/infieis.png" width="320" height="214" data-original-width="674" data-original-height="451" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1052-católicos-ecumênicos-infieis.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1052-católicos-ecumênicos-infieis.png" width="320" height="214" data-original-width="674" data-original-height="451" /></a></div>
 Assim como o mundo tem suas modas e tantas pessoas aderem aos mais diferentes modismos, a igreja católica tem se comportado da mesma forma em algumas instancias religiosas. Vira e mexe ela bate na tecla do ecumenismo. Mas não se enganem com a simpatia do ecumenismo pois ele defende a bandeira de que “fiquemos com o que nos une e deixemos de lado o que nos separa”.</br>
 </br>
 Só por este prisma já dá para ver a proporção do erro. O céu é católico e o inferno é ecumênico. Se essa iniciativa de promover um movimento ecumênico tivesse um único objetivo</br>

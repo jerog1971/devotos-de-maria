@@ -1,10 +1,10 @@
 ---
 title: "Quem é ela?"
 date: 2018-03-31T00:24:00.001Z
-heroImage: "/images/precisar.png"
+heroImage: "/images/posts/1697-quem-é-ela-precisar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofb3SgtNnizYsrI-srTDNIp7D0R7VFQ3FLZjFoqmAQGEjW-MeAj92XYe1Uk2plz9766CFxwVKIT9m9yC2Xj3HbHvcfGg0hIVpN7_0_6BeAG23tYRhS7OBzy0qdx5Et62W6tz_s2vqcso/s1600/precisar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="273" height="309" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofb3SgtNnizYsrI-srTDNIp7D0R7VFQ3FLZjFoqmAQGEjW-MeAj92XYe1Uk2plz9766CFxwVKIT9m9yC2Xj3HbHvcfGg0hIVpN7_0_6BeAG23tYRhS7OBzy0qdx5Et62W6tz_s2vqcso/s320/precisar.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1697-quem-é-ela-precisar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="273" height="309" src="/images/posts/1697-quem-é-ela-precisar.png" width="320" /></a></div>
 Saiu a passear, sem destino e sem rumo, iria passear, apenas isso. Feriado talvez, não se sabe, mas isso não importava, importava que iria passear. E assim começou, a moça surda e muda, com alguns dedos faltando, roupa simples e chinelo de dedo andava feliz da vida em seu passeio. Tilintava seus pequenos passos como se cantarolasse apenas músicas preferidas que nunca ouvira.
 
 Mas adiante, deparou-se com um grupo de outras moças, estas belas e bem vestidas que também brincavam em meio ao bosque. As moças debocharam de suas vestes e a ignoraram por causa de seus defeitos. Entristecida compreendeu as más atitudes e as perdoou de coração, pois ainda assim, passeava.
@@ -19,7 +19,7 @@ Ao chegar ao ponto do riacho, onde estava a mulher, esta estava presa em meio a 
 
 A menina sorriu, pegou nas mãos da mulher e a abraçou, e gesticulando quis dizer que poderia ser ela mesma a estar ali. Então a mulher ao entender chorou muito, um choro de rancor e orgulho que saía do peito e purificava sua alma. Depois disso seguiram viagem juntas. Logo à frente depararam-se com o vira-lata, com a pata machucada e muito fraco; tinha sido apedrejado com certeza.
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGmeJFMSKhAAjwLRy2d-U2wOYjP7GE7Omgr4WTpq00sJ1X0LMWKdFLF-mGUJp5Kpzme9dpSY2TBGbBC4bnRoNK38cxWtxbPYjvlUXznYmY6tlHtAzlVcSr3tNZ3r68_SFZxgTutf3T5J0/s1600/amizade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="549" height="303" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGmeJFMSKhAAjwLRy2d-U2wOYjP7GE7Omgr4WTpq00sJ1X0LMWKdFLF-mGUJp5Kpzme9dpSY2TBGbBC4bnRoNK38cxWtxbPYjvlUXznYmY6tlHtAzlVcSr3tNZ3r68_SFZxgTutf3T5J0/s320/amizade.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1697-quem-é-ela-amizade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="549" height="303" src="/images/posts/1697-quem-é-ela-amizade.png" width="320" /></a></div>
 Nesse ponto a mulher e a menina confortaram o cachorro a beira do carreiro, deram-lhe água do balde da mulher, que havia sido resgatado e limparam seus ferimentos. O cachorro olhou firmemente para as duas como se quisesse dizer obrigado, mas cachorro não fala, porém, demonstra e bastou para que elas entendessem. Continuaram a viagem, a mulher, a menina e o cachorro, carregado pela mulher e o balde pela menina, ainda com água.
 
 Em certo ponto da viagem, depararam-se com os meninos, um caído e o outro ao seu lado chorando sem saber o que fazer.

@@ -1,10 +1,10 @@
 ---
 title: "Meu próximo, meu inimigo?"
 date: 2018-07-26T15:16:00.001Z
-heroImage: "/images/artimanhas do inimigo.png"
+heroImage: "/images/posts/1735-meu-próximo-meu-inimigo-inimigo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVmk5yUhFp7eaoIi8o2jtcr7kwag-AccGIIysWaliyu6diygznXS_l4s0GqMhIexRHmYWHGz3i308aDHCcL9psLo-mZ9WN7WG1SRpIPWum1vjavrYkQBbfZtmnWwC-nhtPN3sqHH76cA/s1600/inimigo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVmk5yUhFp7eaoIi8o2jtcr7kwag-AccGIIysWaliyu6diygznXS_l4s0GqMhIexRHmYWHGz3i308aDHCcL9psLo-mZ9WN7WG1SRpIPWum1vjavrYkQBbfZtmnWwC-nhtPN3sqHH76cA/s320/inimigo.png" width="320" height="252" data-original-width="393" data-original-height="309" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1735-meu-próximo-meu-inimigo-inimigo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1735-meu-próximo-meu-inimigo-inimigo.png" width="320" height="252" data-original-width="393" data-original-height="309" /></a></div>
 Relacionamentos interpessoais são a cereja do bolo na história de nossa humanidade. Sintonia, harmonia e demais virtudes relacionadas com a boa convivência, aceitação, tolerância e compaixão são partes integrantes de uma lista que se parece com aquelas em que se elencam os candidatos à extinção. Ora, Jesus entrou em Jerusalém ovacionado, depois, entrou na presença de Pilatos para ouvir os brados de crucifica-o. Calado, falando o mínimo indispensável, como vimos nos relatos dos evangelhos, com seu exemplo nos ensina como agirmos com o próximo, mesmo quando esse próximo se coloca como nosso inimigo.</br>
 </br>
 Todavia, existem os dois lados da moeda; nosso inimigo pode receber esse título de nós ou pode se impor. Ademais, termos inimigos não é algo de todo prejudicial, é preciso que eles existam. Os inimigos não estão conosco em concórdia. Retomo aqui, um exemplo clássico que é de fácil entendimento para todos: Jesus e Satanás. Entre eles não existe acordo. Jesus da parte de Deus, nos pede o que pede; Satanás, de sua parte nos oferece o que oferece. Não há concórdia em ponto algum.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Nossa Senhora do Bom Sucesso"
 date: 2024-01-27T15:14:00.001Z
-heroImage: "/images/Nossa Senhora do Bom Sucesso.png"
+heroImage: "/images/posts/643-nossa-senhora-do-bom-sucesso-img-1599578948.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrV_Y3_OeVXi4rYGGTLfRC-gvUZ94afDRekyHq451cCPKnTBuKBm9c5klloQ2CnXgpBRVaeKd46sMjB0T-KZxe_oAJCjREoWEFNh54o6pIY5G68nDs2pQ0E4SZOAese1GvMg30rtHESPOPD6DCcY569YPMUZv9RwD3XeKGzB0gNyloVHhu8-E_u__Ke4/s397/Nossa%20Senhora%20do%20Bom%20Sucesso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="321" data-original-width="397" height="259" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrV_Y3_OeVXi4rYGGTLfRC-gvUZ94afDRekyHq451cCPKnTBuKBm9c5klloQ2CnXgpBRVaeKd46sMjB0T-KZxe_oAJCjREoWEFNh54o6pIY5G68nDs2pQ0E4SZOAese1GvMg30rtHESPOPD6DCcY569YPMUZv9RwD3XeKGzB0gNyloVHhu8-E_u__Ke4/s320/Nossa%20Senhora%20do%20Bom%20Sucesso.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Durante os séculos XV e XVI, Nossa Senhora do Bom Sucesso
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/643-nossa-senhora-do-bom-sucesso-img-1599578948.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="321" data-original-width="397" height="259" src="/images/posts/643-nossa-senhora-do-bom-sucesso-img-672784796.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Durante os séculos XV e XVI, Nossa Senhora do Bom Sucesso
 apareceu em Quito, Equador, a uma freira espanhola – Mariana de Jesus Torres – cuja
 vida era pouco conhecida, mas extraordinária, profetizando muitas coisas que têm
 uma ligação direta com nossos dias; seguem aqui alguns trechos da fala de Nossa

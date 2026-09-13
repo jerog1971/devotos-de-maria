@@ -1,10 +1,10 @@
 ---
 title: "Aventuras inúteis"
 date: 2024-04-19T19:04:00.003Z
-heroImage: "/images/aventuras inúteis.png"
+heroImage: "/images/posts/430-aventuras-inúteis-aventuras_20in_C3_BAteis.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN9TUrsQyuyV19VUpyjZ-hp2DrejfrB6t6X32GF3rxQK5Gi88DG9e2VTOArtifVvf5V4c2cv5QEwGy8FfxH9IhTMnLp2zjJ-n8w8bKCmEpQQsFZVJtAIodU6oBc9RUIyabBcUZAJ7tjXHAotXmGi2jk9o55MwU-GhwNxAbavnuM9jMcIciJJ2Mk58LCrI/s502/aventuras%20in%C3%BAteis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="424" data-original-width="502" height="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN9TUrsQyuyV19VUpyjZ-hp2DrejfrB6t6X32GF3rxQK5Gi88DG9e2VTOArtifVvf5V4c2cv5QEwGy8FfxH9IhTMnLp2zjJ-n8w8bKCmEpQQsFZVJtAIodU6oBc9RUIyabBcUZAJ7tjXHAotXmGi2jk9o55MwU-GhwNxAbavnuM9jMcIciJJ2Mk58LCrI/s320/aventuras%20in%C3%BAteis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Bom, todo mundo sabe muito bem que o diabo precisa disfarçar
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/430-aventuras-inúteis-aventuras_20in_C3_BAteis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="424" data-original-width="502" height="270" src="/images/posts/430-aventuras-inúteis-aventuras_20in_C3_BAteis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Bom, todo mundo sabe muito bem que o diabo precisa disfarçar
 suas intenções misturando verdades com mentiras para ludibriar as almas divinas
 que caminham por este vale de lágrimas rumo ao céu. Sutil, muito esperto e com
 séculos de sabedoria em sua bagagem, além de conhecer a santa palavra e toda a

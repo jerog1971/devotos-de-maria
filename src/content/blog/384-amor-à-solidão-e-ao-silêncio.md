@@ -1,10 +1,10 @@
 ---
 title: "Amor à solidão e ao silêncio"
 date: 2020-06-20T14:24:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/384-amor-à-solidão-e-ao-silêncio-ora_25C3_25A7_25C3_25A3o.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXHqAUCaYaliXXrLii9LlFIKAbusY_Qvm_ftUuTZ7a-cp3O-Firnz0E8LI-8Tt_eNKfMGzrjIl0UWPGqHf9-YtkxTyPdgxu0ctVtCW_gG0KE4meAyGkJe8dgNnlik7sys6OWlhuS5gGmw/s325/ora%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="325" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXHqAUCaYaliXXrLii9LlFIKAbusY_Qvm_ftUuTZ7a-cp3O-Firnz0E8LI-8Tt_eNKfMGzrjIl0UWPGqHf9-YtkxTyPdgxu0ctVtCW_gG0KE4meAyGkJe8dgNnlik7sys6OWlhuS5gGmw/s320/ora%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Procura tempo oportuno para cuidar de ti e relembra a miúdo
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/384-amor-à-solidão-e-ao-silêncio-ora_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="325" src="/images/posts/384-amor-à-solidão-e-ao-silêncio-ora_25C3_25A7_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Procura tempo oportuno para cuidar de ti e relembra a miúdo
 os benefícios de Deus. Renuncia às curiosidades e escolhe leituras tais, que
 mais sirvam para te compungir, que para te distrair. Se abstiveres de
 conversações supérfluas e passeios ociosos, como também de ouvir novidades e

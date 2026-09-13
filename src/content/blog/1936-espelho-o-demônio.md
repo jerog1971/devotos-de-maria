@@ -1,10 +1,10 @@
 ---
 title: "Espelho: o demônio"
 date: 2016-07-20T11:30:00.001Z
-heroImage: "/images/espelho.png"
+heroImage: "/images/posts/1936-espelho-o-demônio-espelho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC4DX3n9ZfTJnJH4NWXmqAOh3cwRCmpP5XQbY_HFiu3s961LTYNWADe0ZL3UqcK2KiDVsXATy1fFn0dCh30ujy9SA8GgXb9jDmqX_rz_bex3pNhh81gW6cB2rjL8VyPjHWNniFHPHojtg/s1600/espelho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC4DX3n9ZfTJnJH4NWXmqAOh3cwRCmpP5XQbY_HFiu3s961LTYNWADe0ZL3UqcK2KiDVsXATy1fFn0dCh30ujy9SA8GgXb9jDmqX_rz_bex3pNhh81gW6cB2rjL8VyPjHWNniFHPHojtg/s320/espelho.png" width="320" height="208" data-original-width="536" data-original-height="349" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1936-espelho-o-demônio-espelho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1936-espelho-o-demônio-espelho.png" width="320" height="208" data-original-width="536" data-original-height="349" /></a></div>
 Poucas coisas representam tão bem o perigo do amor próprio desordenado quanto um espelho. Os cômodos de nossas casas sempre têm algum e as nossas ruas estão todas repletas deles – e não há quem passe em frente a uma vitrine sem admirar um pouco a si mesmo. Nas academias – não as de ciências, mas as de ginástica –, onde reina a exaltação do próprio ego, os espelhos são indispensáveis: praticamente nenhum canto foge ao alcance de suas vistas. Em uma sociedade em que praticamente todos se olham tanto e com tanta frequência, no entanto, nunca o conhecimento de si mesmo foi tão desprezado e negligenciado. É que as pessoas estão excessivamente preocupadas com a "imagem" que os outros têm de si, mais que com aquilo que realmente são.</br>
 </br>
 O que pode servir para a própria edificação também se pode tornar, todavia, um grande instrumento de vaidade. Por isso, o padre António Vieira, em seu Sermão sobre o Demônio Mudo, compara o espelho ao próprio diabo: "Desde sua mesma origem não há duas coisas que Deus criasse mais parecidas e semelhantes que o demônio e o espelho. O demônio primeiro foi anjo, e depois demônio; o espelho primeiro foi instrumento do conhecimento próprio, e depois do amor-próprio, que é a raiz de todos os vícios".</br>

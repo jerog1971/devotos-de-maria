@@ -1,10 +1,10 @@
 ---
 title: "Na hora certa"
 date: 2025-07-24T19:17:00.006Z
-heroImage: "/images/confissão(1).png"
+heroImage: "/images/posts/085-na-hora-certa-confiss_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrFO97jVEvWTmMCdN-g6OrA45P-M9qbrWOBNk7iDcA8eYsno1n2HEQkgVVVx8v80IjNNJlPttoefgiYCk297QleTh2mF3rLc1yQLw9egvtSfrp4waHN0l1tdlhu55kobermfo-PAYx9fB3EF0OORHskgNiTwGkZd_raTPvAgHxUzbUZB7yt5IECUA4hJ4/s313/confiss%C3%A3o.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="313" height="207" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrFO97jVEvWTmMCdN-g6OrA45P-M9qbrWOBNk7iDcA8eYsno1n2HEQkgVVVx8v80IjNNJlPttoefgiYCk297QleTh2mF3rLc1yQLw9egvtSfrp4waHN0l1tdlhu55kobermfo-PAYx9fB3EF0OORHskgNiTwGkZd_raTPvAgHxUzbUZB7yt5IECUA4hJ4/s1600/confiss%C3%A3o.png" width="313" /></a></div><br />Teus pecados estão perdoados, vá e não peques mais para que não
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/085-na-hora-certa-confiss_C3_A3o.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="313" height="207" src="/images/posts/085-na-hora-certa-confiss_C3_A3o.png" width="313" /></a></div><br />Teus pecados estão perdoados, vá e não peques mais para que não
 lhe aconteça coisa pior. Está é uma das afirmações de Jesus
 Cristo muito fácil de se entender; existem algumas maneiras de
 compreender o que Jesus ensina com essa advertência, sempre é

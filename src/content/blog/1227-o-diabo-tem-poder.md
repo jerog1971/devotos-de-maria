@@ -1,10 +1,10 @@
 ---
 title: "O diabo tem poder"
 date: 2021-03-17T10:15:00.001Z
-heroImage: "/images/burro.png"
+heroImage: "/images/posts/1227-o-diabo-tem-poder-o_cavalo_e_o_burro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjApvunMTE3Wtzz7yDTR08KBf65D9I5L2Hgtfd6eJqtOk0wkDQgRzySMxVBJJpFG1N-de1vXXMid8itBEY0WGPeeGOHhwhWOEvZCB46k8ZoPncxu-pET6PJQEERkcLMPjyoUGbK9HRNG5Y/s338/o+cavalo+e+o+burro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="288" data-original-width="338" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjApvunMTE3Wtzz7yDTR08KBf65D9I5L2Hgtfd6eJqtOk0wkDQgRzySMxVBJJpFG1N-de1vXXMid8itBEY0WGPeeGOHhwhWOEvZCB46k8ZoPncxu-pET6PJQEERkcLMPjyoUGbK9HRNG5Y/s320/o+cavalo+e+o+burro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O poderio do demônio para aliciar uma alma induzindo-a ao
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1227-o-diabo-tem-poder-o_cavalo_e_o_burro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="288" data-original-width="338" src="/images/posts/1227-o-diabo-tem-poder-o_cavalo_e_o_burro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O poderio do demônio para aliciar uma alma induzindo-a ao
 pecado é imenso. Tanto é que num confronto direto contra ele não possuímos
 meios para vence-lo; por isso Jesus Cristo nos ensinou que sem ele (Jesus) não
 podemos fazer nada – João 15,5. E se o Cristo disse esse “nada”, certamente

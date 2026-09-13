@@ -1,11 +1,11 @@
 ---
 title: "A bíblia e a igreja"
 date: 2020-04-18T17:18:00Z
-heroImage: "/images/biblia.png"
+heroImage: "/images/posts/1297-a-bíblia-e-a-igreja-biblia.png"
 ---
 
 <h2>A estrutura histórica da bíblia</h2>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjStODC8KZI6HOLIIMH8nAOeIRRTIwjcKce5j1VvOOX4TgN2nvYWnyVabIOgcVPocz2MABR3pS45_aXA3vvTPcNBRFcLBtIxHILAKEpuP4h3ilzpGl6T87Q0iVPq_Kudbz140vN_Ao9WNc/s1600/biblia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjStODC8KZI6HOLIIMH8nAOeIRRTIwjcKce5j1VvOOX4TgN2nvYWnyVabIOgcVPocz2MABR3pS45_aXA3vvTPcNBRFcLBtIxHILAKEpuP4h3ilzpGl6T87Q0iVPq_Kudbz140vN_Ao9WNc/s200/biblia.png" width="174" height="200" data-original-width="293" data-original-height="336" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1297-a-bíblia-e-a-igreja-biblia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1297-a-bíblia-e-a-igreja-biblia.png" width="174" height="200" data-original-width="293" data-original-height="336" /></a></div>
 </br>
 Demoraram alguns séculos para que a Igreja Católica chegasse à forma final da Bíblia, com os 72 livros como temos hoje. Em vários Concílios, ao longo da história, a Igreja, assistida pelo Espírito Santo (cf. Jo 16,12-13) estudou e definiu o Índice (cânon) da Bíblia; uma vez que nenhum de seus livros traz o seu Índice. Foi a Igreja Católica quem berçou a Bíblia. Garante-nos o Catecismo da Igreja e o Concílio Vaticano II que: “Foi a Tradição apostólica que fez a Igreja discernir que escritos deviam ser enumerados na lista dos Livros Sagrados” (Dei Verbum 8; CIC,120). Portanto, sem a Tradição da Igreja não teríamos a Bíblia. Santo Agostinho dizia: “Eu não acreditaria no Evangelho, se a isso não me levasse a autoridade da Igreja Católica” (CIC,119).</br>
 </br>
@@ -44,7 +44,7 @@ Vários Concílios confirmaram isto: os Concílios regionais de Hipona (ano 393)
 Neste fato fundamental para a vida da Igreja (a Bíblia completa) vemos a importância da Tradição da Igreja, que nos legou a Bíblia como a temos hoje. Disse o último Concílio: “Pela Tradição torna-se conhecido à Igreja o Cânon completo dos livros sagrados e as próprias Sagradas Escrituras são nelas cada vez mais profundamente compreendidas e se fazem sem cessar, atuantes.” (DV,8). Se negarmos o valor indispensável da Igreja Católica e de sua Sagrada Tradição, negaremos a autenticidade da própria Bíblia. Note que os seguidores de Lutero não acrescentaram nenhum livro na Bíblia, o que mostra que aceitaram o discernimento da Igreja Católica desde o primeiro século ao definir o Índice da Bíblia. É interessante notar que o Papa São Dâmaso (366-384), no século IV, pediu a S.Jerônimo que fizesse uma revisão das muitas traduções latinas que havia da Bíblia, o que gerava certas confusões entre os cristãos. São Jerônimo revisou o texto grego do Novo Testamento e traduziu do hebraico o Antigo Testamento, dando origem ao texto latino chamado de Vulgata, usado até hoje.</br>
 </br>
 <h2>A salvação está dentro da Igreja</h2>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmoAgoMnCTEc69K6M57wsvtdwYDsNh-83y7_Y296JhHZla6xkjSPuLQPcz5szMCy6tuZfb_mEYHdfHbLSasmWXPJtqpbKwzM7_zZxIJNJgrfYXB3G8eK7wosRmzuyhvhwV-UoXx7aquI/s1600/agostinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmoAgoMnCTEc69K6M57wsvtdwYDsNh-83y7_Y296JhHZla6xkjSPuLQPcz5szMCy6tuZfb_mEYHdfHbLSasmWXPJtqpbKwzM7_zZxIJNJgrfYXB3G8eK7wosRmzuyhvhwV-UoXx7aquI/s200/agostinho.png" width="141" height="200" data-original-width="192" data-original-height="272" /></a></div></br>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1297-a-bíblia-e-a-igreja-agostinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1297-a-bíblia-e-a-igreja-agostinho.png" width="141" height="200" data-original-width="192" data-original-height="272" /></a></div></br>
 </br>
 Santo Agostinho nos ensina:</br>
 </br>

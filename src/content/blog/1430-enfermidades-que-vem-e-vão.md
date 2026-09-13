@@ -1,10 +1,10 @@
 ---
 title: "Enfermidades que vem e vão"
 date: 2021-05-30T12:22:00.004Z
-heroImage: "/images/enfermidades.png"
+heroImage: "/images/posts/1430-enfermidades-que-vem-e-vão-enfermidades.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFZB6P8YrO0ES0rXwWGnit4Zd-DqhbVHa8406_jVqga05muvN2qDJcerltnubBqxgOiZ7N_90z6gBhBtYB2WK8dXRA7LqMjRiXh5gakdW-sWuUb5hS5gVLNfSqBfQISZYWnRJy9jczHs/s440/enfermidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="435" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFZB6P8YrO0ES0rXwWGnit4Zd-DqhbVHa8406_jVqga05muvN2qDJcerltnubBqxgOiZ7N_90z6gBhBtYB2WK8dXRA7LqMjRiXh5gakdW-sWuUb5hS5gVLNfSqBfQISZYWnRJy9jczHs/s320/enfermidades.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eclesiástico 7,36-40 – “Estende a mão para o pobre, a fim de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1430-enfermidades-que-vem-e-vão-enfermidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="435" height="320" src="/images/posts/1430-enfermidades-que-vem-e-vão-enfermidades.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eclesiástico 7,36-40 – “Estende a mão para o pobre, a fim de
 que sejam perfeitos teu sacrifício e tua oferenda. Dá de boa vontade a todos os
 vivos, não recuses esse benefício a um morto (a sua oração feita de boa
 vontade, pedindo a Deus por ele e o consolo aos familiares). Não deixes de

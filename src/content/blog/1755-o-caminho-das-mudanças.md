@@ -1,10 +1,10 @@
 ---
 title: "O caminho das mudanças"
 date: 2018-11-28T16:55:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1755-o-caminho-das-mudanças-mudan_25C3_25A7a.png"
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPEC5K1sT4ALOpYHpOgerxWTWuhSmBDCcUfFLbNiPBLeqoT-tCMiJuQG0YVwYuR1h0oUSG0qu9PKeEeGhCn11lL1xIZzw8XoP30P4Vm5uHgb0YGIGaUBsPot0VBY3F5vXJDKb4FoVfP0A/s1600/mudan%25C3%25A7a.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPEC5K1sT4ALOpYHpOgerxWTWuhSmBDCcUfFLbNiPBLeqoT-tCMiJuQG0YVwYuR1h0oUSG0qu9PKeEeGhCn11lL1xIZzw8XoP30P4Vm5uHgb0YGIGaUBsPot0VBY3F5vXJDKb4FoVfP0A/s320/mudan%25C3%25A7a.png" width="320" height="255" data-original-width="323" data-original-height="257" /></a>
+<a href="/images/posts/1755-o-caminho-das-mudanças-mudan_25C3_25A7a.png" imageanchor="1" ><img border="0" src="/images/posts/1755-o-caminho-das-mudanças-mudan_25C3_25A7a.png" width="320" height="255" data-original-width="323" data-original-height="257" /></a>
 </br>
 <b>O</b> lhe para seu erro e aprenda</br>
 </br>

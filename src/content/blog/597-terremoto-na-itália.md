@@ -1,10 +1,10 @@
 ---
 title: "Terremoto na Itália"
 date: 2016-08-30T17:55:00Z
-heroImage: "/images/terremoto.png"
+heroImage: "/images/posts/597-terremoto-na-itália-terremoto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn2fjHqEiG6cjSxDofA7gBmz1XdHPMMlTYI8mjGBtpiA8OsNeM-srQabgspbSLrS-iK7hnENlXje9bhHl21x1Ka6Jue5LGdryQODF2gC3fqrUFGfS6uvv0MQNPohUTE0Ljl8S3TMKTccg/s1600/terremoto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn2fjHqEiG6cjSxDofA7gBmz1XdHPMMlTYI8mjGBtpiA8OsNeM-srQabgspbSLrS-iK7hnENlXje9bhHl21x1Ka6Jue5LGdryQODF2gC3fqrUFGfS6uvv0MQNPohUTE0Ljl8S3TMKTccg/s320/terremoto.png" width="320" height="300" data-original-width="530" data-original-height="497" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/597-terremoto-na-itália-terremoto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/597-terremoto-na-itália-terremoto.png" width="320" height="300" data-original-width="530" data-original-height="497" /></a></div>
 Mais um acontecimento de grande proporção assolou nosso planeta, e falo aqui de acontecimentos de ordem natural. Desta vez, foi na Itália e mais uma vez, como sempre tem acontecido pelos continentes afora, Deus em meio a um mau sempre pode colher algo de bom. E aqui, qual é a mensagem?</br>
 </br>
 Os relatos estão espalhados pelos noticiários. Quando acontece alguma tragédia sempre é possível encontrar alguma expressão da vontade divina representada como testemunho daquilo que a fé, dom de Deus, procura manter acesa no coração dos fiéis. Para o fiel católico não existe coincidência, porque essa tal coincidência é uma expressão utilizada para tentar afastar a verdade demonstrada aos olhos de todos.</br>

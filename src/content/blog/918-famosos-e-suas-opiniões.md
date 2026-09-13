@@ -1,10 +1,10 @@
 ---
 title: "Famosos e suas opiniões"
 date: 2020-11-06T14:23:00.004Z
-heroImage: "/images/xuxa_18.png"
+heroImage: "/images/posts/918-famosos-e-suas-opiniões-xuxa_18.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiG-ya6cMHHp46qjIi1JG7zQs7N4BEM1sq8qedWMnw0LxJimcdV2pwT7Z9e3mawv1IQP-b_drj1UsBC5-iT53Z4qh5JVUFXupMc6cAxiHL3vkZGg2SjaqfD0NQYiOvSXoThiAw-1JMiE/s782/xuxa_18.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="669" data-original-width="782" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiG-ya6cMHHp46qjIi1JG7zQs7N4BEM1sq8qedWMnw0LxJimcdV2pwT7Z9e3mawv1IQP-b_drj1UsBC5-iT53Z4qh5JVUFXupMc6cAxiHL3vkZGg2SjaqfD0NQYiOvSXoThiAw-1JMiE/s320/xuxa_18.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que a humanidade tem diante de si duas,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/918-famosos-e-suas-opiniões-xuxa_18.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="669" data-original-width="782" src="/images/posts/918-famosos-e-suas-opiniões-xuxa_18.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que a humanidade tem diante de si duas,
 podemos colocar desse modo, “ideologias”: uma divina e outra secular. Deus,
 depois de toda a tradição passar e repassar seus ensinamentos e regras para
 suas criaturas, deixou pela autoria do seu Espírito Santo, por escrito, as suas

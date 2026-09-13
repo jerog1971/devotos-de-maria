@@ -1,10 +1,10 @@
 ---
 title: "O milagre de Lanciano"
 date: 2015-12-22T11:33:00Z
-heroImage: "/images/lanciano.png"
+heroImage: "/images/posts/348-o-milagre-de-lanciano-lanciano.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS5GAWAcWYwMf3S_NoGVu4Lti9kiaLcUoDsQ6moPjskN2N7YoIScoQNxMS4TSYgc0MMEudzaJrAzNCtvkfbPemKeRAe3DOXzmEmJxfpWD2X_MxZmQ5RH9_qtA0iYSzV_Av7szau7DYGp8/s1600/lanciano.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS5GAWAcWYwMf3S_NoGVu4Lti9kiaLcUoDsQ6moPjskN2N7YoIScoQNxMS4TSYgc0MMEudzaJrAzNCtvkfbPemKeRAe3DOXzmEmJxfpWD2X_MxZmQ5RH9_qtA0iYSzV_Av7szau7DYGp8/s320/lanciano.png" width="220" height="320" data-original-width="355" data-original-height="516" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/348-o-milagre-de-lanciano-lanciano.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/348-o-milagre-de-lanciano-lanciano.png" width="220" height="320" data-original-width="355" data-original-height="516" /></a></div>
 </br>
 Era uma manhã de domingo comum, na cidade italiana de Lanciano, no mosteiro de São Legoziano, onde viviam os Monges de São Basílio. O mais incrédulo deles proferia as palavras da Oração Eucarística, quando, de repente, ocorreu o inesperado. Os olhos assustados do religioso denunciavam o evento. Deus havia condecorado a sua suspeita quanto à transubstanciação com o mais prodigioso dos milagres eucarísticos de que se ouviu falar.</br>
 </br>

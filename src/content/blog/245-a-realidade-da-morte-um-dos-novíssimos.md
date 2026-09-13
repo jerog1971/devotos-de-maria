@@ -1,10 +1,10 @@
 ---
 title: "A realidade da morte - um dos novíssimos"
 date: 2016-09-01T14:16:00Z
-heroImage: "/images/chegada_da_morte.png"
+heroImage: "/images/posts/245-a-realidade-da-morte-um-dos-novíssim-morte.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig8UttKADE0i71vYcR2SO73V8QQGsJgVimXPFT5YfrMHp54JJFQ242NscQc_7p3OuXkAiITdBB8HtQQLM-C0FtK-tbtqO07Zm7rqy1_p2GTZdwuiMgD4Kl4G_3z6IJBldOMHJNY81_LuY/s1600/morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig8UttKADE0i71vYcR2SO73V8QQGsJgVimXPFT5YfrMHp54JJFQ242NscQc_7p3OuXkAiITdBB8HtQQLM-C0FtK-tbtqO07Zm7rqy1_p2GTZdwuiMgD4Kl4G_3z6IJBldOMHJNY81_LuY/s320/morte.png" width="320" height="224" data-original-width="395" data-original-height="277" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/245-a-realidade-da-morte-um-dos-novíssim-morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/245-a-realidade-da-morte-um-dos-novíssim-morte.png" width="320" height="224" data-original-width="395" data-original-height="277" /></a></div>
 Livro do Eclesiástico 7,40 - " Em tudo o que fizeres, lembra-te de teu fim, e jamais pecarás".</br>
 </br>
 Meu irmão, se quiseres viver bem, procura, durante o tempo de vida que te resta, viver pensando sempre na morte. Ao veres um túmulo, ao assistires às exéquias de um amigo ou parente, ao verdes um cadáver sendo levado à sepultura, contempla nisso a tua própria imagem e o que um dia há de ser de ti. Reflete então e dize contigo: Dentro em poucos anos, talvez meses ou dias tudo acabará para mim; meu corpo será apenas podridão e vermes. Estando então perdida a alma, tudo estará perdido para mim, e perdido para sempre.</br>

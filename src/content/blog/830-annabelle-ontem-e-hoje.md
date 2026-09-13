@@ -1,10 +1,10 @@
 ---
 title: "Annabelle, ontem e hoje"
 date: 2023-02-20T02:06:00.005Z
-heroImage: "/images/Annabelle.png"
+heroImage: "/images/posts/830-annabelle-ontem-e-hoje-Annabelle.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI33qwSHKx94Kl0_DaTL7yQTPU9e0rAOCLIzOTUPVUHNsIsQFZ4Wn-iE9_PHtUJ7mqXzVChMNh6tOIZdmQ7tJgmp05kOjNlzqhN1IlYZIBQ7SujlPzoyiGI5lmTnJuYicPiTgLEq-IQCPt1g1ini1QC0RA4i_HCe0mv75GyiztYJQt2YzL7SFMipc6/s614/Annabelle.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="534" data-original-width="614" height="278" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI33qwSHKx94Kl0_DaTL7yQTPU9e0rAOCLIzOTUPVUHNsIsQFZ4Wn-iE9_PHtUJ7mqXzVChMNh6tOIZdmQ7tJgmp05kOjNlzqhN1IlYZIBQ7SujlPzoyiGI5lmTnJuYicPiTgLEq-IQCPt1g1ini1QC0RA4i_HCe0mv75GyiztYJQt2YzL7SFMipc6/s320/Annabelle.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A boneca possuída mais famosa do mundo é também um dos casos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/830-annabelle-ontem-e-hoje-Annabelle.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="534" data-original-width="614" height="278" src="/images/posts/830-annabelle-ontem-e-hoje-Annabelle.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A boneca possuída mais famosa do mundo é também um dos casos
 mais populares investigados pelos Warren. Bem diferente da aparência
 assustadora dos filmes, Annabelle era uma boneca de pano que uma jovem
 enfermeira chamada Donna ganhou de sua mãe. Porém, ela e sua colega de

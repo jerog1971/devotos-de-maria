@@ -1,10 +1,10 @@
 ---
 title: "O povo cabeça dura"
 date: 2021-02-02T15:32:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1182-o-povo-cabeça-dura-cabe_25C3_25A7a_dura.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_qnV91UXHmxjSPvx2bbncRNSSrzHaix0tglTKx3NwvcF7ktVy_t_VJnDAXH4cTwdVxfltxBYKhLcNF2YdGDyYMo5TMQ25t0r3R4nnu6VnS9xgQtPn_TkCZihffSN7tNcgQeUTd2_qAZM/s414/cabe%25C3%25A7a+dura.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="387" data-original-width="414" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_qnV91UXHmxjSPvx2bbncRNSSrzHaix0tglTKx3NwvcF7ktVy_t_VJnDAXH4cTwdVxfltxBYKhLcNF2YdGDyYMo5TMQ25t0r3R4nnu6VnS9xgQtPn_TkCZihffSN7tNcgQeUTd2_qAZM/s320/cabe%25C3%25A7a+dura.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No livro do Deuteronômio ouvimos a exclamação que Deus faz
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1182-o-povo-cabeça-dura-cabe_25C3_25A7a_dura.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="387" data-original-width="414" src="/images/posts/1182-o-povo-cabeça-dura-cabe_25C3_25A7a_dura.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No livro do Deuteronômio ouvimos a exclamação que Deus faz
 de seu povo chamando-o de cabeça dura. Mais adiante, já no novo testamento,
 essa mesma índole humana é relembrada pelo apóstolo Estevão. No livro
 aprendemos que através de calúnias os contrários a pregação do evangelho de Jesus

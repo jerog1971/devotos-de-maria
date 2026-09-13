@@ -1,10 +1,10 @@
 ---
 title: "São Francisco Régis"
 date: 2020-06-17T16:56:00Z
-heroImage: "/images/21.png"
+heroImage: "/images/posts/396-são-francisco-régis-img-492309424.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijkfSnAGYxA3wa6Q85XsCxp8cpo7N9Nxdm4V1nXNjPsUr5YKJwi-ilTHOSB2kur-CzEu_uiTbCPLEaCcjTCJNRvYXNbyl1f0FWRU8r76vQqPlMzSaL5t21_dfzTb4WaBUmvbTvCBSiNuU/s282/S%25C3%25A3o+Francisco+R%25C3%25A9gis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="282" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijkfSnAGYxA3wa6Q85XsCxp8cpo7N9Nxdm4V1nXNjPsUr5YKJwi-ilTHOSB2kur-CzEu_uiTbCPLEaCcjTCJNRvYXNbyl1f0FWRU8r76vQqPlMzSaL5t21_dfzTb4WaBUmvbTvCBSiNuU/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu no dia 31 de janeiro d 1597, na vila de Francouverte,
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/396-são-francisco-régis-img-492309424.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="282" src="/images/posts/396-são-francisco-régis-img-173114904.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu no dia 31 de janeiro d 1597, na vila de Francouverte,
 nas proximidades de Narbonne, França. Ingressou na Companhia de Jesus em 1616.
 Em 1630 foi ordenado sacerdote e partiu para Vivarais, Velay e Cevennes.
 Empenhou-se ardorosamente na catequese das crianças e na pregação do evangelho

@@ -1,10 +1,10 @@
 ---
 title: "A morte lhe cai bem?"
 date: 2019-10-04T15:21:00.001Z
-heroImage: "/images/chegada_da_morte.png"
+heroImage: "/images/posts/1955-a-morte-lhe-cai-bem-morte.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosNvTeOLZgbt9AqVtxdqB239fc86RKQCfuGxi5PNkPbxs79lwhOD5SVZq263i0rGs837RJZmKxAF7Un4QMrq5vOYEa95gTmF01_V1Y1GpzyLdrPmHuKo2EoTZhESmAy9oUh1gtZBMmbA/s1600/morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosNvTeOLZgbt9AqVtxdqB239fc86RKQCfuGxi5PNkPbxs79lwhOD5SVZq263i0rGs837RJZmKxAF7Un4QMrq5vOYEa95gTmF01_V1Y1GpzyLdrPmHuKo2EoTZhESmAy9oUh1gtZBMmbA/s320/morte.png" width="320" height="230" data-original-width="543" data-original-height="391" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1955-a-morte-lhe-cai-bem-morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1955-a-morte-lhe-cai-bem-morte.png" width="320" height="230" data-original-width="543" data-original-height="391" /></a></div>
 Em tempos atuais há quem diga que a morte é a solução de muitos ou de todos os problemas. Certamente, por motivos errados, as pessoas que se suicidam pensam algo relacionado a isso. São Paulo na carta aos filipenses capítulo 01, versículo 21 vai dizer que “para mim o viver é Cristo e o morrer é lucro”. No entanto, as palavras do apóstolo denotam uma direção bem diferente daquela que leva pessoas a tirarem suas vidas.</br>
 </br>
 A vida nos cansa diariamente e chegamos ao ponto de não a querermos mais. Perde-se o sentido, se é que existia algum, e tudo se torna um verdadeiro carregar de pedras. Sofrimentos, dificuldades, angústias de todos os tipos, frustrações e toda uma bateria de tribulações. São Francisco chamava a morte de “sua irmã”, muitos santos e santas de Deus desejavam a morte e sobretudo, quando estavam passando por esse momento, o momento derradeiro, alegravam-se de tal forma que esse acontecimento lhes causava imensa alegria. Como assim, pode pensar o leitor. De fato, para eles, significava que esta parte da jornada estava acabando e o encontro com Deus já se aproximava. Misturada essa alegria com uma ansiedade a entrega voluntária do espírito marcava (e ainda marca) uma vida de eternas alegrias no paraíso feito para todos que querem ser de Deus, vivendo aquilo que ele pede.</br>

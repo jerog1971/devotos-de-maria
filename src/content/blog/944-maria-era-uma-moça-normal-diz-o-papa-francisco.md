@@ -1,10 +1,10 @@
 ---
 title: "Maria era uma moça normal, diz o Papa Francisco"
 date: 2019-04-24T19:43:00.001Z
-heroImage: "/images/Papa_Francisco.png"
+heroImage: "/images/posts/944-maria-era-uma-moça-normal-diz-o-papa-Papa_Francisco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr0H1aGtNUOsw_v94zpZxyf9wZEuzYTgKjsM3BPJKGbWDeX_vfgS3DHT2wAsIMa6bMb_68sf0yrXx5QK2XA9wjItTPoaH0L25PKJeizFFQ9ocmFGxE4GZ35_FKb1hX7VSLm2Nh9uR-1co/s1600/Papa_Francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr0H1aGtNUOsw_v94zpZxyf9wZEuzYTgKjsM3BPJKGbWDeX_vfgS3DHT2wAsIMa6bMb_68sf0yrXx5QK2XA9wjItTPoaH0L25PKJeizFFQ9ocmFGxE4GZ35_FKb1hX7VSLm2Nh9uR-1co/s320/Papa_Francisco.png" width="320" height="320" data-original-width="225" data-original-height="225" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/944-maria-era-uma-moça-normal-diz-o-papa-Papa_Francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/944-maria-era-uma-moça-normal-diz-o-papa-Papa_Francisco.png" width="320" height="320" data-original-width="225" data-original-height="225" /></a></div>
 Pois muito bem caros leitores, recentemente em outra entrevista concedida ao jornal italiano “Corriere della Será”, Francisco saiu com mais essa, para confusão dos fiéis e deleite dos não católicos:</br>
 </br>
 “Uma moça normal, normal, uma moça de hoje […] normal, normal, educada normalmente, disposta a casar-se, a constituir família. […] Depois, após a concepção de Jesus, ainda uma mulher normal. […] Sem nada de extraordinário na vida, uma mãe normal: mesmo no seu casamento virginal, casto no quadro da virgindade, Maria foi normal. Trabalhava, fazia as compras, ajudava o Filho, ajudava o marido: normal”. </br>

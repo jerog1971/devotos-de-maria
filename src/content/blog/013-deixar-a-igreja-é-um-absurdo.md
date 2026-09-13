@@ -1,10 +1,10 @@
 ---
 title: "Deixar a igreja é um absurdo"
 date: 2016-08-25T19:44:00Z
-heroImage: "/images/Os perigos da Igreja.png"
+heroImage: "/images/posts/013-deixar-a-igreja-é-um-absurdo-igreja.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwrA8HSej9smgvna9YyRFwILQASM4eHzAF9XCXtjRpbpJk-ZD5CecfUETDY-OUJn45E92PmFVXfInixb6ewodzi4WqvFyijmBKLgwcxQUvpPPd5K6g_ysmilIWirRMnw-Tw6LYRiL_S9M/s1600/igreja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwrA8HSej9smgvna9YyRFwILQASM4eHzAF9XCXtjRpbpJk-ZD5CecfUETDY-OUJn45E92PmFVXfInixb6ewodzi4WqvFyijmBKLgwcxQUvpPPd5K6g_ysmilIWirRMnw-Tw6LYRiL_S9M/s320/igreja.png" width="320" height="215" data-original-width="637" data-original-height="427" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/013-deixar-a-igreja-é-um-absurdo-igreja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/013-deixar-a-igreja-é-um-absurdo-igreja.png" width="320" height="215" data-original-width="637" data-original-height="427" /></a></div>
 O abandono de Cristo começa quando se nega, os Sacramentos, o primado do Papa e a comunhão dos santos.</br>
 </br>
 Primeiro, porque foi Ele próprio quem disse aos Apóstolos: "Quem vos ouve, a Mim ouve; quem vos rejeita, a Mim rejeita" (Lucas 10,16), isto é, "tudo o que é dito pelos santos apóstolos deve ser aceito, porque quem os escuta, escuta a Cristo. Inevitável é, pois, a pena dos hereges, que rejeitam as palavras dos apóstolos". </br>

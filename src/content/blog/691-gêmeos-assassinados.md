@@ -1,10 +1,10 @@
 ---
 title: "Gêmeos assassinados"
 date: 2016-08-10T19:26:00Z
-heroImage: "/images/gemeos.png"
+heroImage: "/images/posts/691-gêmeos-assassinados-gemeos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRJUk-1EcyE7uWeY6ak-Z60YGZ_IFohU5Fu9_7zVSRvXfjziQNDT_qth2BC77_dzdW0mtVQrE1zTmURK_vUmz_QZos-MJAo0ncPQ56w-RpqrFBD6Pc8IuHDBKDoakAO7D9nZTAjDUq2tE/s1600/gemeos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRJUk-1EcyE7uWeY6ak-Z60YGZ_IFohU5Fu9_7zVSRvXfjziQNDT_qth2BC77_dzdW0mtVQrE1zTmURK_vUmz_QZos-MJAo0ncPQ56w-RpqrFBD6Pc8IuHDBKDoakAO7D9nZTAjDUq2tE/s320/gemeos.png" width="320" height="167" data-original-width="797" data-original-height="417" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/691-gêmeos-assassinados-gemeos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/691-gêmeos-assassinados-gemeos.png" width="320" height="167" data-original-width="797" data-original-height="417" /></a></div>
 Segundo a rede de notícias de Goiânia, reproduzida por toda a internet, cujo transcrição aqui reproduzida é do portal R7 e comentada pelo autor deste site, “um homem de 26 anos, é suspeito de matar os bebês gêmeos da ex-namorada por vingança, pois não aceitava o fim do relacionamento. A jovem foi esfaqueada, mas não corre risco de vida. As duas crianças completariam um ano de vida na próxima semana. A jovem de 23 anos tinha dois bebês — Davi Luis e Lucas Felipe —, de 11 meses.</br>
 </br>
 Quando as crianças eram mais novas, ela conheceu Antonio, de 26, um vaqueiro que trabalhava numa fazenda na zona rural de São Miguel do Araguaia, distante 470 km de Goiânia (GO). Os dois começaram a namorar e, cerca de um mês depois, foram morar juntos com os bebês. Porém, o relacionamento não deu certo e eles se separaram. Antonio parecia ter aceitado o fim do namoro até descobrir que a ex estava namorando outro rapaz.</br>

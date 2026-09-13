@@ -1,10 +1,10 @@
 ---
 title: "Maria do Divino Coração"
 date: 2020-06-08T12:59:00Z
-heroImage: "/images/a alegria dos santos.png"
+heroImage: "/images/posts/296-maria-do-divino-coração-santos.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIvFjzhAI-cbD5IThcbJ58cIkSO_5m8TyvFQ964ZfqimbSwG-KchXtm98L_Ue0mXX6ud408X9FzsWc40zVHPTQYbRCmqrBq5ms1Jfu5PAbrvxoOqGKBicDegYgX8jeXM6AM0xdV4FCdYs/s344/santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIvFjzhAI-cbD5IThcbJ58cIkSO_5m8TyvFQ964ZfqimbSwG-KchXtm98L_Ue0mXX6ud408X9FzsWc40zVHPTQYbRCmqrBq5ms1Jfu5PAbrvxoOqGKBicDegYgX8jeXM6AM0xdV4FCdYs/s320/santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Ela pertencia à Congregação de Nossa Senhora da Caridade do
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/296-maria-do-divino-coração-santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="/images/posts/296-maria-do-divino-coração-santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Ela pertencia à Congregação de Nossa Senhora da Caridade do
 Bom Pastor. Natural de Münster, Alemanha, Maria do Divino Coração nasceu em
 1863. Em 1888 ingressou no Convento das Irmãs do Bom Pastor, cujo apostolado
 específico se realiza junto à juventude feminina marginalizada. Em 1894, aos 31

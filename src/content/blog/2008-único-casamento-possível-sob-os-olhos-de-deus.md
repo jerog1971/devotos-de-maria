@@ -1,10 +1,10 @@
 ---
 title: "Único casamento possível sob os olhos de Deus"
 date: 2016-07-20T11:15:00Z
-heroImage: "/images/unico.png"
+heroImage: "/images/posts/2008-único-casamento-possível-sob-os-olh-unico.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxQn1xN2tdOj2_rzRmIdAyKv7YgeEI0yMnYVSgjdy1kC1E8oQ2iraI2oiJ5jMDw6rUjATvWvp9dM6FGefRAxJs1D33An266xrzPvUIWNeGCa1b343NsXrPdsIfHmgk5N_vIWKCV42aGE/s1600/unico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxQn1xN2tdOj2_rzRmIdAyKv7YgeEI0yMnYVSgjdy1kC1E8oQ2iraI2oiJ5jMDw6rUjATvWvp9dM6FGefRAxJs1D33An266xrzPvUIWNeGCa1b343NsXrPdsIfHmgk5N_vIWKCV42aGE/s320/unico.png" width="319" height="320" data-original-width="349" data-original-height="350" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2008-único-casamento-possível-sob-os-olh-unico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2008-único-casamento-possível-sob-os-olh-unico.png" width="319" height="320" data-original-width="349" data-original-height="350" /></a></div>
 </br>
 Sabe o que as Sagradas Escrituras dizem sobre o “casamento” homossexual?</br>
 </br>

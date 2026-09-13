@@ -1,10 +1,10 @@
 ---
 title: "Vamos aproveitar"
 date: 2018-04-06T20:18:00Z
-heroImage: "/images/festa.png"
+heroImage: "/images/posts/1433-vamos-aproveitar-festa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7ctX_QJTasKJhAV0EjD1b2RTufsx_GexP9tdSNjuJWVzpWIZ2cjUALscnaAmoZY17v0d3ZAVjHqC1ZJxfsITj0oAafwC1r-tmBObd7FS3RLg_cHFQbibjKNd9_KBZbuGPo_ezaIxgMU/s1600/festa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7ctX_QJTasKJhAV0EjD1b2RTufsx_GexP9tdSNjuJWVzpWIZ2cjUALscnaAmoZY17v0d3ZAVjHqC1ZJxfsITj0oAafwC1r-tmBObd7FS3RLg_cHFQbibjKNd9_KBZbuGPo_ezaIxgMU/s320/festa.png" width="290" height="320" data-original-width="362" data-original-height="400" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1433-vamos-aproveitar-festa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1433-vamos-aproveitar-festa.png" width="290" height="320" data-original-width="362" data-original-height="400" /></a></div>
 Afinal como se lê no livro do Gênesis 3,19 – “Comerás o teu pão com o suor do teu rosto, até que voltes à terra de que foste tirado; porque és pó, e pó te hás de tornar”; com esta passagem muitos acreditam que depois dessa vida não há mais o que se fazer. E pior, a passagem ainda fala que a vida terá sua dose de sofrimento diário. Como podemos ver, é nessa aparente sensação de que as coisas são mesmo ruins, que o diabo se aproveita do pessoal para vender a ideia de que é melhor então aproveitar a vida, já que está decretado por escrito que depois tudo se acaba.</br>
 </br>
 A visão dos que pensam assim é bem pequena, ou porque querem ou porque não conseguem enxergar aquilo que está posto aos olhos. Embora seja muito claro, tanto no antigo testamento (Deuteronômio 28) quanto no novo testamento (Carta aos Romanos 1) de que se optarmos em virar as costas para Deus, por causa do nosso livre poder de escolha concedido por ele, seremos lançados na sarjeta da vida enquanto achamos que boa coisa fazemos aproveitando a vida, mesmo assim muitos ignoram a exortação. Vivem iludidos.</br>

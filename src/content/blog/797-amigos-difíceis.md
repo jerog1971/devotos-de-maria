@@ -1,10 +1,10 @@
 ---
 title: "Amigos difíceis"
 date: 2024-04-29T17:13:00.005Z
-heroImage: "/images/Amigos difíceis 2.jpg"
+heroImage: "/images/posts/797-amigos-difíceis-Amigos_20dif_C3_ADceis.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS278H0y0l8Ze-MJLL_3G3JE1YR4PKY9V9oxeUt0qxfjXmdCiNG24eWKJSL9N9_W-d3yCeb-LhuoLiZugPNtQZzveg8d-IlB5NToByxCdwmteb22khgToRGLUYUxfCbhcectKEPDXjsnTn8p2V21SRyCdyw7Ezm-rCyU1eJUG32e0VxMhfttvavVkGt7k/s1600/Amigos%20dif%C3%ADceis.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="948" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS278H0y0l8Ze-MJLL_3G3JE1YR4PKY9V9oxeUt0qxfjXmdCiNG24eWKJSL9N9_W-d3yCeb-LhuoLiZugPNtQZzveg8d-IlB5NToByxCdwmteb22khgToRGLUYUxfCbhcectKEPDXjsnTn8p2V21SRyCdyw7Ezm-rCyU1eJUG32e0VxMhfttvavVkGt7k/s320/Amigos%20dif%C3%ADceis.jpg" width="190" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ditados populares sobre amigos e amizades existem aos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/797-amigos-difíceis-Amigos_20dif_C3_ADceis.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="948" height="320" src="/images/posts/797-amigos-difíceis-Amigos_20dif_C3_ADceis.jpg" width="190" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ditados populares sobre amigos e amizades existem aos
 montes; nem é o caso de por aqui colocarmos alguns deles. Tenho certeza de que
 todo mundo conhece algum ou já ouviu falar e não lhe é estranho se ouvi-lo
 outra vez. Pois bem, sobre estes há de se separar o joio do trigo, pois existem
@@ -18,7 +18,7 @@ tarefa principal em nos tirar da jogada.<o:p></o:p></p><div class="separator" st
 conseguimos e por aí vai. Talvez isso aconteça com eles e para evitar que você
 os supere em felicidade e propósitos de vida, vão logo “enchendo sua cabeça de
 minhocas” para que você saia da reta, deixe o caminho livre, seja um a menos
-para disputar as conquistas que te esperam pela vida, nesta selva de pedra.<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtTX_drrYQ2Soj5Rc-iMcEvGdbFrtcwRakYqyrB5xkVU7HiX3ghkkGyAxBkFVeYjeEbgCSkpjitDote3pxao9L_eocuQRB9tzMONA1AK9vKPoIXMPLs0_p2Ueo8HQvADyQvPRBhziRF8-wD8RGtyBRcQnpIR_kcwTXiruzcWL2E9LbQzU32x40y9qTCDM/s1600/Amigos%20dif%C3%ADceis%202.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtTX_drrYQ2Soj5Rc-iMcEvGdbFrtcwRakYqyrB5xkVU7HiX3ghkkGyAxBkFVeYjeEbgCSkpjitDote3pxao9L_eocuQRB9tzMONA1AK9vKPoIXMPLs0_p2Ueo8HQvADyQvPRBhziRF8-wD8RGtyBRcQnpIR_kcwTXiruzcWL2E9LbQzU32x40y9qTCDM/s320/Amigos%20dif%C3%ADceis%202.jpg" width="320" /></a></div><br /><p class="MsoNormal">Todavia, a coisa ainda pode piorar, você pode cair na
+para disputar as conquistas que te esperam pela vida, nesta selva de pedra.<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/797-amigos-difíceis-Amigos_20dif_C3_ADceis_202.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1600" height="240" src="/images/posts/797-amigos-difíceis-Amigos_20dif_C3_ADceis_202.jpg" width="320" /></a></div><br /><p class="MsoNormal">Todavia, a coisa ainda pode piorar, você pode cair na
 tentação de ouvi-los, concordar com eles e depois, para consagração de sua
 desgraça, acreditar em tudo e começar a falar a si mesmo que não pode, que não consegue,
 que é difícil e assim por diante. Pronto, piorou de vez, antes mesmo de começar
@@ -29,7 +29,7 @@ instituição, retratou justamente essa experiência: dos seus amigos, ao ouvire
 o que ela queria fazer da vida, depois que terminasse essa etapa de seus estudos
 (disse que queria ir para a faculdade), ao que lhe disseram que é difícil,
 caro, falta tempo para quem tem família e uma série de outras barreiras.
-Perguntada sobre esse seu desânimo, ela contou que foram seus amigos que lhe disseram.</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0L_B9dfL603PFEPwe85oNWeLm27nw5eMCBMrYKFGzruX4ghq8Tz7R2SVp8bQti2mzZwsMCnW9nahNM1YIw4I1kU867wR0RKKoL8SNT9EYzD_JJUqBeQ5IrWxMBIZ8MsIUh1yR4zm-3CmsYQARvW5P5Mkkh8IB1OMW0GULPjjzDzTMOIufl_SCQ4RLA9U/s1600/Amigos%20dif%C3%ADceis%203.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1028" data-original-width="1600" height="206" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0L_B9dfL603PFEPwe85oNWeLm27nw5eMCBMrYKFGzruX4ghq8Tz7R2SVp8bQti2mzZwsMCnW9nahNM1YIw4I1kU867wR0RKKoL8SNT9EYzD_JJUqBeQ5IrWxMBIZ8MsIUh1yR4zm-3CmsYQARvW5P5Mkkh8IB1OMW0GULPjjzDzTMOIufl_SCQ4RLA9U/s320/Amigos%20dif%C3%ADceis%203.jpg" width="320" /></a></div><br /><p class="MsoNormal">Ora bolas, mui amigos não concordam?! A professora lhe disse
+Perguntada sobre esse seu desânimo, ela contou que foram seus amigos que lhe disseram.</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/797-amigos-difíceis-Amigos_20dif_C3_ADceis_203.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1028" data-original-width="1600" height="206" src="/images/posts/797-amigos-difíceis-Amigos_20dif_C3_ADceis_203.jpg" width="320" /></a></div><br /><p class="MsoNormal">Ora bolas, mui amigos não concordam?! A professora lhe disse
 para refletir se de fato são os amigos que ela precisa e, por conta dessa
 situação, veio até mim e fomos até ela com essa aula toda especial, onde se
 falou dos desejos (que são passageiros) e dos anseios (gravados na alma e impressos

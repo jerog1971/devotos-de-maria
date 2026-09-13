@@ -1,10 +1,10 @@
 ---
 title: "O início das aparições em Medjugorje"
 date: 2020-06-24T16:56:00.001Z
-heroImage: "/images/videntes_de_medjugorje.png"
+heroImage: "/images/posts/1118-o-início-das-aparições-em-medjugorje-videntes_de_medjugorje.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3jhnk_YO3p0Q-y6TLF4TYTkK3htWqLma4Y1yac9nJxvu-1SfMw6dkR8jOzuIBv5-kgNwGMGH919cUfRarogOyY6VkgKZAdIaMieURM7B9Nr4JbX6C9aO-QjORvC_h_r98RUAghyqsULI/s541/videntes_de_medjugorje.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="541" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3jhnk_YO3p0Q-y6TLF4TYTkK3htWqLma4Y1yac9nJxvu-1SfMw6dkR8jOzuIBv5-kgNwGMGH919cUfRarogOyY6VkgKZAdIaMieURM7B9Nr4JbX6C9aO-QjORvC_h_r98RUAghyqsULI/s320/videntes_de_medjugorje.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A Virgem Maria apareceu pela primeira vez em Medjugorje em
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1118-o-início-das-aparições-em-medjugorje-videntes_de_medjugorje.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="541" src="/images/posts/1118-o-início-das-aparições-em-medjugorje-videntes_de_medjugorje.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A Virgem Maria apareceu pela primeira vez em Medjugorje em
 24 de junho de 1981, no dia da festa de São João Batista, no seu dia a
 proclamador da vinda do Messias. Porque era um dia de festa, as crianças locais
 estavam livres da escola, bem como do trabalho nos campos, onde os agricultores

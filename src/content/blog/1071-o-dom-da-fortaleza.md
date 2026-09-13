@@ -1,10 +1,10 @@
 ---
 title: "O Dom da Fortaleza"
 date: 2016-09-15T16:03:00Z
-heroImage: "/images/fortaleza.png"
+heroImage: "/images/posts/1071-o-dom-da-fortaleza-fortaleza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuVVC3Q7VirLdI2bP_3ltzI5C2IOeRDxEj1xCfS8LNo4ybUhsN9fkegJWTJSNTGE_ZGK-QCqjX8LBvz4WOtFzf9S7rIFrjvWlWfO-GMBpyx-cUPz56xmQmq-239bXqykcJtT0AYgfTkUs/s1600/fortaleza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuVVC3Q7VirLdI2bP_3ltzI5C2IOeRDxEj1xCfS8LNo4ybUhsN9fkegJWTJSNTGE_ZGK-QCqjX8LBvz4WOtFzf9S7rIFrjvWlWfO-GMBpyx-cUPz56xmQmq-239bXqykcJtT0AYgfTkUs/s320/fortaleza.png" width="317" height="320" data-original-width="470" data-original-height="474" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1071-o-dom-da-fortaleza-fortaleza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1071-o-dom-da-fortaleza-fortaleza.png" width="317" height="320" data-original-width="470" data-original-height="474" /></a></div>
 Quando nos deparamos com esta palavra, “Fortaleza”, logo a nossa mente nos vem a tendência de pensar e imaginar algo intransponível, algo muito forte, indestrutível, de difícil acesso, inabalável e por aí vai. Um grande castelo com altas muralhas, fortemente guardado e vigiado é o que podemos dizer, se formos dar um exemplo de fortaleza. No entanto, para nós católicos, a fortaleza constitui num Dom que recebemos de Deus através do Espírito Santo.</br>
 </br>
 Vamos recordar. O sacramento da confirmação, onde a pessoa irá em sua maturidade de fé concluir sua iniciação cristã, são ditas as seguintes palavras: “Recebe por este sinal o Espírito Santo, Dom de Deus”. Desta forma precisamos compreender que recebemos o Espírito em sua totalidade de dons. Isto está afirmado na bíblia:</br>

@@ -1,10 +1,10 @@
 ---
 title: "Os pecados da carne"
 date: 2016-06-30T02:00:00.002Z
-heroImage: "/images/desobediência e pecados.png"
+heroImage: "/images/posts/758-os-pecados-da-carne-pecados.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimgmUa9HyAOthyphenhyphen8JZXqc54U_ZBvF0AMaW92SoCulq9DtXPXE1dx25QBksFnRO6DW-KjwQq3MgYhtnMnyrpcN_YxBmm83bbGQWn5gvYXtRDhXHwtGEVl4rqb25NVfwyXoDWgyK8lT_yk_g/s1600/pecados.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="242" data-original-width="246" height="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimgmUa9HyAOthyphenhyphen8JZXqc54U_ZBvF0AMaW92SoCulq9DtXPXE1dx25QBksFnRO6DW-KjwQq3MgYhtnMnyrpcN_YxBmm83bbGQWn5gvYXtRDhXHwtGEVl4rqb25NVfwyXoDWgyK8lT_yk_g/s320/pecados.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/758-os-pecados-da-carne-pecados.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="242" data-original-width="246" height="315" src="/images/posts/758-os-pecados-da-carne-pecados.png" width="320" /></a></div>
 1ª Coríntios, 6,15-20 - Não sabeis que vossos corpos são membros de Cristo? Tomarei, então, os membros de Cristo e os farei membros de uma prostituta? De modo algum! Ou não sabeis que o que se ajunta a uma prostituta se torna um só corpo com ela? Está escrito: Os dois serão uma só carne (Gênesis 2,24). Pelo contrário, quem se une ao Senhor torna-se com ele um só espírito. Fugi da FORNICAÇÃO. Qualquer outro pecado que o homem comete é fora do corpo, mas o IMPURO peca contra o seu próprio corpo. Ou não sabeis que o vosso corpo é templo do Espírito Santo, que habita em vós, o qual recebestes de Deus e que, por isso mesmo, já não vos pertenceis? Porque fostes comprados por um grande preço. Glorificai, pois, a Deus no vosso corpo.
 
 Olá caros leitores, mais uma vez hoje iremos refletir sobre o tema dos pecados da impureza. Os pecados com a maior participação do corpo, como o adultério e a fornicação. Relembrando de forma bastante sintetizada temos:

@@ -1,10 +1,10 @@
 ---
 title: "Reunião na companhia da mãe"
 date: 2017-09-22T20:07:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1026-reunião-na-companhia-da-mãe-reuni_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlwuX2XD6dwuJCT4hjd8CjRYwvoeUcNk3yIqAXnmkhAaGoTD1dwHy09jWaJCq7ByIZDa0hGoGpj5GWxzaeQw8D_50bNd-bLpMcit7B-PASSKdb3AG7cQ-CngsShw5LwadRTnKyuiczEnw/s1600/reuni%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlwuX2XD6dwuJCT4hjd8CjRYwvoeUcNk3yIqAXnmkhAaGoTD1dwHy09jWaJCq7ByIZDa0hGoGpj5GWxzaeQw8D_50bNd-bLpMcit7B-PASSKdb3AG7cQ-CngsShw5LwadRTnKyuiczEnw/s320/reuni%25C3%25A3o.png" width="320" height="282" data-original-width="778" data-original-height="685" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1026-reunião-na-companhia-da-mãe-reuni_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1026-reunião-na-companhia-da-mãe-reuni_25C3_25A3o.png" width="320" height="282" data-original-width="778" data-original-height="685" /></a></div>
 Por todos os lugares mundo afora, reúnem-se os cristãos seguidores do evangelho a muitos séculos para celebrarem o mistério da fé. Aprendemos da tradição católica que desde a época da perseguição dos primeiros cristãos, aqueles que creram e foram batizados, levavam uma vida em Cristo, dando testemunho de fé até o sangue. Já na época apostólica começaram, conforme acompanhamos no livro de Atos dos Apóstolos, os primeiros movimentos ordeiros em torno de todo o contexto da igreja fundada sobre a profissão de fé de Pedro (Mateus 16,18).</br>
 </br>
 Realmente é muito bonito observar o fervor em torno do cristianismo dos primeiros passos da igreja católica. Passos esses que empunhavam em riste e lá no alto o sentimento transformador de ser cristão, viver a religião do Deus vivo. Claro que o inimigo, idiota como sempre mas nada burro, viu que a cristandade não iria se acoar frente ao barulho do mundo pagão, e como sempre fez e faz até os dias de hoje, tratou de infernizar e sempre infernizar a vida daqueles que renunciam aos inimigos da alma.</br>

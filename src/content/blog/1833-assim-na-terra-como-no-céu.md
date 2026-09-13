@@ -1,10 +1,10 @@
 ---
 title: "Assim na terra como no céu"
 date: 2022-04-13T16:11:00.001Z
-heroImage: "/images/assim na terra como no céu.png"
+heroImage: "/images/posts/1833-assim-na-terra-como-no-céu-img-966726945.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DC1yNYxoV72I3WRvvFKal-11Szeu-HLKQGg1aIadxO5zfsDco_NWw4ibR3uqJr5RCO45OSaPu6UvY_Ty1O9Fi_cxLVgyH9IoPxS4V1qeXczOeYTJIw3NBktTND2MJQqKAeIJNTfVHOQbYmm7xMfsVsV5G5WyxMVoL-OlVTsb7V1oj7gXG47oDzUH/s392/assim%20na%20terra%20como%20no%20c%C3%A9u.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="359" data-original-width="392" height="293" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DC1yNYxoV72I3WRvvFKal-11Szeu-HLKQGg1aIadxO5zfsDco_NWw4ibR3uqJr5RCO45OSaPu6UvY_Ty1O9Fi_cxLVgyH9IoPxS4V1qeXczOeYTJIw3NBktTND2MJQqKAeIJNTfVHOQbYmm7xMfsVsV5G5WyxMVoL-OlVTsb7V1oj7gXG47oDzUH/s320/assim%20na%20terra%20como%20no%20c%C3%A9u.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, certamente em nossas vidas muitas coisas não
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1833-assim-na-terra-como-no-céu-img-966726945.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="359" data-original-width="392" height="293" src="/images/posts/1833-assim-na-terra-como-no-céu-img-1172284538.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, certamente em nossas vidas muitas coisas não
 queremos pensar; preferimos deixar para lá e viver como se essas realidades não
 fossem presentes. Damos o exemplo da morte, que é certa e irá nos acometer,
 provavelmente sem aviso algum. Digo provavelmente porque pode ser que, pela

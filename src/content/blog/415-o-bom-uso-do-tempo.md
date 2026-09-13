@@ -1,10 +1,10 @@
 ---
 title: "O bom uso do tempo"
 date: 2016-08-03T13:15:00Z
-heroImage: "/images/uso_do_tempo.png"
+heroImage: "/images/posts/415-o-bom-uso-do-tempo-uso_do_tempo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1Hi-cQRHRiQfB6F6jI5ERmkUOz-f7TddnjgUtUZjdT7TYVAShwsJlhwuh0uYwFG2L45uQIzG9FRq_FNiEXlTW_ycOGqYNIPzoCU5jbsePpbaxkihNwdyJoViyF1w1L17nhd8O-lSB_k/s1600/uso_do_tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1Hi-cQRHRiQfB6F6jI5ERmkUOz-f7TddnjgUtUZjdT7TYVAShwsJlhwuh0uYwFG2L45uQIzG9FRq_FNiEXlTW_ycOGqYNIPzoCU5jbsePpbaxkihNwdyJoViyF1w1L17nhd8O-lSB_k/s320/uso_do_tempo.png" width="320" height="262" data-original-width="317" data-original-height="260" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/415-o-bom-uso-do-tempo-uso_do_tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/415-o-bom-uso-do-tempo-uso_do_tempo.png" width="320" height="262" data-original-width="317" data-original-height="260" /></a></div>
 A tecnologia presente no mundo de hoje, nos permite acompanhar em tempo real todos os acontecimentos pelos quais passa a humanidade. Pelo que podemos perceber, praticamente tudo, falando-se de notícias, está ao alcance dos olhos e dos ouvidos. A informação ganhou uma dimensão globalizada e o que antigamente eram cartas, cuja correspondência demora meses para chegar ao destino, passando pelo telégrafo, telefone e meios televisivos, hoje, qualquer aparelhinho, que no passado, sim, já é passado, chamavam-se celular, é capaz de trazer ao alcance de um toque aquilo que queremos saber.</br>
 </br>
 O que ocorre, no entanto, e agora entramos na espiritualidade das coisas, é que nosso cruel inimigo, o diabo sabe muito bem disso, e com toda a esperteza que tem, também é assíduo frequentador deste meio. Isso é de fácil constatação, pois vemos o bem e o mal disponíveis em toda a parte, e falo aqui das informações, não percamos o foco.</br>

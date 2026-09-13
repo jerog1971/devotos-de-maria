@@ -1,10 +1,10 @@
 ---
 title: "Inculturação nas missas, fruto da fumaça de satanás"
 date: 2016-03-04T12:18:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/278-inculturação-nas-missas-fruto-da-fum-incultura_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhKIOTTKcFyr2S_KTFNA2aT50Q5XbFhoQ4OYX4SVc_yBLXlaZdW_HBScXMBzw8lHmLjru_roDxYaxT2ivfz2-3msLZKOXBH_3JbtUByyDd511_qES2jKLM6nuwgY43am_JzSoaNjtf9Q/s1600/incultura%25C3%25A7%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="468" data-original-width="499" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhKIOTTKcFyr2S_KTFNA2aT50Q5XbFhoQ4OYX4SVc_yBLXlaZdW_HBScXMBzw8lHmLjru_roDxYaxT2ivfz2-3msLZKOXBH_3JbtUByyDd511_qES2jKLM6nuwgY43am_JzSoaNjtf9Q/s320/incultura%25C3%25A7%25C3%25A3o.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/278-inculturação-nas-missas-fruto-da-fum-incultura_25C3_25A7_25C3_25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="468" data-original-width="499" height="300" src="/images/posts/278-inculturação-nas-missas-fruto-da-fum-incultura_25C3_25A7_25C3_25A3o.png" width="320" /></a></div>
 O termo inculturação que tem suas raízes na expressão cultura é uma tentativa desastrosa e satânica de trazer o mundo para dentro da igreja. De trazer elementos não sagrados, culturais e tradicionais para dentro do acontecimento sagrado, desejado por Jesus, que é a celebração da santa missa. Isto está completamente errado porque esse tipo de atitude não deve jamais macular este contato que o céu faz com a terra em cada sacrifício incruento que acontece em memória do nosso salvador.<div><br /></div><div>Ainda bem, que os católicos resistentes deste mundo não abrem a guarda em prol dessa imundice que a fumaça de satanás, como dizia o papa Paulo VI, promove dentro da igreja.
 
 E vale lembrar que é direito do fiel conforme descrito no documento da própria igreja:

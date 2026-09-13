@@ -1,10 +1,10 @@
 ---
 title: "O coronavirus age como Deus: não faz distinção de pessoas"
 date: 2020-04-24T17:58:00.002Z
-heroImage: "/images/Deus_coronavirus.png"
+heroImage: "/images/posts/2232-o-coronavirus-age-como-deus-não-faz-Deus_coronavirus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCXbbCPWbSNwGoH2Au6H0CQ9pFfUMRvalCYGb_fCgu0szywH88sLfKyRIC1b-4wlJHmvqr2dy-Mzhjx9q6I9y0SDliZH5J44BwherR9UyNt9gp2hoMbx26zUyGvrq7G6YNEA4t4Co_AA/s1600/Deus_coronavirus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCXbbCPWbSNwGoH2Au6H0CQ9pFfUMRvalCYGb_fCgu0szywH88sLfKyRIC1b-4wlJHmvqr2dy-Mzhjx9q6I9y0SDliZH5J44BwherR9UyNt9gp2hoMbx26zUyGvrq7G6YNEA4t4Co_AA/s320/Deus_coronavirus.png" width="320" height="283" data-original-width="463" data-original-height="409" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2232-o-coronavirus-age-como-deus-não-faz-Deus_coronavirus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2232-o-coronavirus-age-como-deus-não-faz-Deus_coronavirus.png" width="320" height="283" data-original-width="463" data-original-height="409" /></a></div>
 Atos 10, 34-36 – “Então Pedro tomou a palavra e disse: Em verdade, reconheço que Deus não faz distinção de pessoas, mas em toda nação lhe é agradável aquele que o temer e fizer o que é justo. Deus enviou a sua palavra aos filhos de Israel, anunciando-lhes a boa nova da paz, por meio de Jesus Cristo. Este é o Senhor de todos.”</br>
 </br>
 Embora existam os chamados grupos de risco, sabe-se pelas notícias que pessoas de todas as idades e condições de saúde estão sendo acometidas por este vírus. Ou seja, é como o comportamento de Deus: ele não faz distinção, mas lhe agrada quem o teme e age com justiça. Assim age o vírus, ele tem suas preferências (grupos de risco), mas não descarta contaminar alguém.</br>

@@ -1,10 +1,10 @@
 ---
 title: "O ajuste de contas"
 date: 2021-02-04T14:34:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1828-o-ajuste-de-contas-ajuste_de_contas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PN52F4LksaX3N-NSL8Wl8wCM9hF_GrogL8h-_YzOhfTBqIZ6ij81gDiteWfMu8rrKt3WS1s0ave4xbA0JE_iiwxFgmrv4-Py3ot-IDyU0Uj38qafhyr0oPntfWe9x4KGlOlc2O8LdAo/s363/ajuste+de+contas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="363" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PN52F4LksaX3N-NSL8Wl8wCM9hF_GrogL8h-_YzOhfTBqIZ6ij81gDiteWfMu8rrKt3WS1s0ave4xbA0JE_iiwxFgmrv4-Py3ot-IDyU0Uj38qafhyr0oPntfWe9x4KGlOlc2O8LdAo/s320/ajuste+de+contas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia em muitas passagens nos ensina que haverá um ajuste
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1828-o-ajuste-de-contas-ajuste_de_contas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="363" src="/images/posts/1828-o-ajuste-de-contas-ajuste_de_contas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia em muitas passagens nos ensina que haverá um ajuste
 de contas. Nessa vida, enquanto percorremos dia após dia a meta que é o retorno
 para a pátria celeste (pelo menos é o que Deus espera de cada um), esbarramos
 em muitos percalços e muitas distrações. Tudo contribui para tornar nossa

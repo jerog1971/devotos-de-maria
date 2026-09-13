@@ -1,10 +1,10 @@
 ---
 title: "Sexo Livre"
 date: 2015-12-18T11:56:00.002Z
-heroImage: "/images/livre.png"
+heroImage: "/images/posts/581-sexo-livre-sexo_livre.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWB8mVgfDaAyIZGp1zR0A-kiubhufqUkrezgFp1nDHrfwhmLYKzRIKs1AlLF7decSJtrDHDuXpFa2epRTZFXarEJpGGX6ijdhHVPsxZFzWdRZeB-Ucc6m71So0VPqHdfoj_mCXTc1osYo/s1600/sexo+livre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWB8mVgfDaAyIZGp1zR0A-kiubhufqUkrezgFp1nDHrfwhmLYKzRIKs1AlLF7decSJtrDHDuXpFa2epRTZFXarEJpGGX6ijdhHVPsxZFzWdRZeB-Ucc6m71So0VPqHdfoj_mCXTc1osYo/s320/sexo+livre.png" width="320" height="318" data-original-width="357" data-original-height="355" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/581-sexo-livre-sexo_livre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/581-sexo-livre-sexo_livre.png" width="320" height="318" data-original-width="357" data-original-height="355" /></a></div>
 </br>
 A palavra vício diz respeito àqueles maus hábitos adquiridos ao longo da vida, cuja consequência mais direta é a dependência. Uma pessoa viciada em algo dificilmente consegue libertar-se, a não ser por meio de grandes esforços de ascese e de renúncia. O primeiro passo no caminho da recuperação é a humildade para reconhecer-se escravo, e, conforme as possibilidades, buscar o tratamento certo.</br>
 </br>

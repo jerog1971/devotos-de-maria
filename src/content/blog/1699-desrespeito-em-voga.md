@@ -1,10 +1,10 @@
 ---
 title: "Desrespeito em voga"
 date: 2025-02-28T20:03:00.001Z
-heroImage: "/images/diretora ameaçada.png"
+heroImage: "/images/posts/1699-desrespeito-em-voga-diretora_20amea_C3_A7ada.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUoZZsZk-defjaFtn1oRIuaQMKQ5sgS9UW9s8Jl3PI2uAKbjk5wio2WZWnO6CtgyPY0Au1B1HkXtZbpmSkoakK95UpF-YLkMkPnVG7iQVQEXJE1cksRJhSPBLiDcD2fxFtk8oKqNRVQ3rQyI1iXV9PR-MxPR-3SC85I1glh9szgbtz48gAnUSVVpN-Kc/s634/diretora%20amea%C3%A7ada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="634" height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUoZZsZk-defjaFtn1oRIuaQMKQ5sgS9UW9s8Jl3PI2uAKbjk5wio2WZWnO6CtgyPY0Au1B1HkXtZbpmSkoakK95UpF-YLkMkPnVG7iQVQEXJE1cksRJhSPBLiDcD2fxFtk8oKqNRVQ3rQyI1iXV9PR-MxPR-3SC85I1glh9szgbtz48gAnUSVVpN-Kc/s320/diretora%20amea%C3%A7ada.png" width="320" /></a></div><br />
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1699-desrespeito-em-voga-diretora_20amea_C3_A7ada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="634" height="239" src="/images/posts/1699-desrespeito-em-voga-diretora_20amea_C3_A7ada.png" width="320" /></a></div><br />
 
 <p></p><p class="MsoNormal">Seria isso mesmo? Há muito tempo que não bastam para as
 pessoas os dez mandamentos da lei de Deus e toda a sua palavra. O homem cria

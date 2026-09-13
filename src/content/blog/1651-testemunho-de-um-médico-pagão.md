@@ -1,10 +1,10 @@
 ---
 title: "Testemunho de um médico pagão"
 date: 2015-10-26T11:22:00.002Z
-heroImage: "/images/testemunho.png"
+heroImage: "/images/posts/1651-testemunho-de-um-médico-pagão-testemunho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTzCL6edIHoQeZZklnivWtlHxwGBB7ejdLa4SnEFPFhuHm-D1xuBbJOUh1RMN5U-JarZIhVVFkowKkFhm7R2WgwJG5eQWoiCkZjaXMR53n3bR7PpOHaPHRGj8zEcaPWr1_RRYGvjMfpsA/s1600/testemunho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTzCL6edIHoQeZZklnivWtlHxwGBB7ejdLa4SnEFPFhuHm-D1xuBbJOUh1RMN5U-JarZIhVVFkowKkFhm7R2WgwJG5eQWoiCkZjaXMR53n3bR7PpOHaPHRGj8zEcaPWr1_RRYGvjMfpsA/s320/testemunho.png" width="320" height="209" data-original-width="546" data-original-height="357" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1651-testemunho-de-um-médico-pagão-testemunho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1651-testemunho-de-um-médico-pagão-testemunho.png" width="320" height="209" data-original-width="546" data-original-height="357" /></a></div>
 </br>
 Olhando retrospectivamente para os meus 29 anos de médico, acho que o ano em que passei no hospital do câncer foi o mais difícil de todos. Toda quarta-feira e fim de semana, sem falta, eu cobria a unidade de terapia intensiva por 24 horas, como médico residente intermediário. Durante todo o tempo em que passei ali, não vi um único paciente sobreviver, embora não fosse por falta de tentativa. Nenhum sequer.</br>
 </br>

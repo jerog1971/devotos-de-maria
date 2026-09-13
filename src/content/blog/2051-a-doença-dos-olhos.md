@@ -1,10 +1,10 @@
 ---
 title: "A doença dos olhos"
 date: 2019-02-21T17:16:00.001Z
-heroImage: "/images/olhar_doente.png"
+heroImage: "/images/posts/2051-a-doença-dos-olhos-olhar_doente.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZs_aUdL555GOyuX21sIDAQ_YLsdhuoDz56Xf4YUD53RH2D5FSIjUecYaJdixLqUCvOHnptmIJPlZdxsHRwgg2t855HFwAKeiTXPZ334SbfqgPTmqpwYiXz6PRJrTuIlOWHgwA9BteXM/s1600/olhar_doente.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="477" data-original-width="494" height="309" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZs_aUdL555GOyuX21sIDAQ_YLsdhuoDz56Xf4YUD53RH2D5FSIjUecYaJdixLqUCvOHnptmIJPlZdxsHRwgg2t855HFwAKeiTXPZ334SbfqgPTmqpwYiXz6PRJrTuIlOWHgwA9BteXM/s320/olhar_doente.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>E disse Jesus – Mateus 5,28 – “todo aquele que lançar um olhar de cobiça para uma mulher, já adulterou com ela em seu coração”.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2051-a-doença-dos-olhos-olhar_doente.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="477" data-original-width="494" height="309" src="/images/posts/2051-a-doença-dos-olhos-olhar_doente.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>E disse Jesus – Mateus 5,28 – “todo aquele que lançar um olhar de cobiça para uma mulher, já adulterou com ela em seu coração”.
 
 Caros leitores, é por isso que os pecados da carne, impulsionados pelos sentidos com destaque para os olhos, são pecados mortais. Olhar para uma pessoa na rua e fantasiar experiências sexuais com ela, olhar para pessoas na internet e consumir a pornografia digital, olhar para as fotos de pessoas estranhas ou nem tão estranhas assim e alimentar os desejos de relações carnais com elas, tudo isso, que acontece longe do contato físico, conforme nos ensina Jesus é pecado grave contra a castidade (sexto mandamento da lei de Deus e de quebra contra o nono e o primeiro mandamentos). 
 

@@ -1,10 +1,10 @@
 ---
 title: "A catequese do tubo"
 date: 2019-08-27T15:06:00.003Z
-heroImage: "/images/tudo_do_ligeirinho.png"
+heroImage: "/images/posts/1125-a-catequese-do-tubo-tudo_do_ligeirinho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5celNOLUd5M_ES1DKqaWu9dIEJyV7VGiySiLfHH74fssxV9N2AnPz3RBKvm6qAHRxN2sVWnNrp1crC9gh8zwhSzNUuIKBXSm0LI75GxgO9TO-oOCovmrlP1JivcLrvnbBYGi6tEpgG-I/s1600/tudo_do_ligeirinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5celNOLUd5M_ES1DKqaWu9dIEJyV7VGiySiLfHH74fssxV9N2AnPz3RBKvm6qAHRxN2sVWnNrp1crC9gh8zwhSzNUuIKBXSm0LI75GxgO9TO-oOCovmrlP1JivcLrvnbBYGi6tEpgG-I/s320/tudo_do_ligeirinho.png" width="320" height="261" data-original-width="264" data-original-height="215" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1125-a-catequese-do-tubo-tudo_do_ligeirinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1125-a-catequese-do-tubo-tudo_do_ligeirinho.png" width="320" height="261" data-original-width="264" data-original-height="215" /></a></div>
 Às vezes as pessoas se perguntam: porque é que rezo tanto se não adianta e nem vejo tanta necessidade assim? As pessoas não enxergam além do que os olhos alcançam, aprendem a ficar muito dependentes dos sentidos, sobretudo o da visão. Um simples teste basta para comprovação: experimente fechar os olhos e dar alguns passos em linha reta exatamente como você caminharia com seus olhos abertos. Muito provavelmente irá sentir grande insegurança e dificuldade, talvez até se desequilibre e não consiga fazê-lo. Não se preocupe, isso não é uma deficiência, é uma condição adquirida ao longo dos anos.</br>
 </br>
 Você nasceu, por permissão divina, enxergando, portanto, seu cérebro foi ensinado a se apoiar no sentido da visão para te auxiliar a se locomover. Esse pequeno teste causa uma “pane” intencional no “sistema” e com as especificações alteradas você claramente percebe as consequências. Pois bem, em nossa caminhada de fé precisamos agir exatamente como as pessoas desprovidas do sentido da visão, precisamos “enxergar” além daquilo que podemos ver.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Por ele e por elas"
 date: 2018-12-10T15:26:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/707-por-ele-e-por-elas-fam_25C3_25ADlia.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI9fqJ3_MnIyLS1mkEwog-8Fqr5HsI3-BC1zi7ZPsMC-48GLI6V5v3tT-rArJOcV32zuNm08YcbzcNLQomIVjgdXGD3V6vdYBXj5ESLhzDxQ66Ep_3WhR9rmS045nysvzttaCcgv_PyJE/s1600/fam%25C3%25ADlia.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI9fqJ3_MnIyLS1mkEwog-8Fqr5HsI3-BC1zi7ZPsMC-48GLI6V5v3tT-rArJOcV32zuNm08YcbzcNLQomIVjgdXGD3V6vdYBXj5ESLhzDxQ66Ep_3WhR9rmS045nysvzttaCcgv_PyJE/s320/fam%25C3%25ADlia.jpg" width="320" height="320" data-original-width="640" data-original-height="640" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/707-por-ele-e-por-elas-fam_25C3_25ADlia.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/707-por-ele-e-por-elas-fam_25C3_25ADlia.jpg" width="320" height="320" data-original-width="640" data-original-height="640" /></a></div>
 Quando questionado sobre qual seria o maior mandamento de Deus, Jesus respondeu que o maior deles é “amar a Deus acima de todas as coisas com todo o teu coração, alma e entendimento”, porém, como o Cristo não dá ponto sem nó e não deixa por acabar aquilo que começa, foi logo em sua resposta integralizando a mesma com uma totalidade indubitável. Completou dizendo que depois deste o segundo maior consiste em “amar o próximo como a nós mesmos”.</br>
 </br>
 Fecha-se dessa maneira um triângulo amoroso, polígono fechado em três vértices. E por que? Porque para que ele funcione (o triângulo amoroso) mais nada deve fazer parte nessa configuração. Deus é um dos vértices, você é o outro e o terceiro vértice é o próximo.</br>

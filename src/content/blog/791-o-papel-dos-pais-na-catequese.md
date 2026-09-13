@@ -1,10 +1,10 @@
 ---
 title: "O papel dos pais na catequese"
 date: 2016-05-31T20:05:00.002Z
-heroImage: "/images/Capa1.jpg"
+heroImage: "/images/posts/791-o-papel-dos-pais-na-catequese-Capa1.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhof7Xpz3s60POQhnGYWk7-8eDodK5KcjifFCHFtw4HmxycIs6IfEIvaKIDZYXPukoqw_ly6GEmnuadWY69u42AtSzu0KvFFNve7_BnUHBoayUGfi-nc0HHaQfT1OGzTryDxjjql8vIcYI/s1600/Capa1.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="612" data-original-width="481" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhof7Xpz3s60POQhnGYWk7-8eDodK5KcjifFCHFtw4HmxycIs6IfEIvaKIDZYXPukoqw_ly6GEmnuadWY69u42AtSzu0KvFFNve7_BnUHBoayUGfi-nc0HHaQfT1OGzTryDxjjql8vIcYI/s320/Capa1.jpg" width="252" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/791-o-papel-dos-pais-na-catequese-Capa1.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="612" data-original-width="481" height="320" src="/images/posts/791-o-papel-dos-pais-na-catequese-Capa1.jpg" width="252" /></a></div>
 Não é comum nos dias de hoje, e pode-se dizer que já há muito tempo, que a expressão terceirizar tem tomado conta de muitas áreas da sociedade, tanto no âmbito material como no âmbito espiritual. Vamos ver como isso funciona. Trato aqui da questão colocando sob o olhar dos holofotes a figura dos pais.<div><br /></div><div>Os pais pensam estarem evoluindo e por isso, modernizando-se aderem a ferramenta chamada terceirização, aplicando-a em atividades cujas responsabilidades não podem ser transferidas. Já começa aos pés do altar, na hora do matrimônio. Os noivos se comprometem educar na fé os filhos que Deus enviar. Como é que alguns pais esquecem disso tão rápido?
 
 Deus nos disse em Deuteronômio 6,6-7 que “Os mandamentos que hoje te dou serão gravados no teu coração. Tu os inculcarás a teus filhos, e deles falarás, seja sentado em tua casa, seja andando pelo caminho, ao te deitares e ao te levantares”.</div><div><br /></div><div>Ou, num bom português: em todos os momentos da vida.

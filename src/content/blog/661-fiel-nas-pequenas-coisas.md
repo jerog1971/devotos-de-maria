@@ -1,10 +1,10 @@
 ---
 title: "Fiel nas pequenas coisas"
 date: 2017-05-16T19:02:00Z
-heroImage: "/images/fiel.png"
+heroImage: "/images/posts/661-fiel-nas-pequenas-coisas-fiel.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNj9a71u-TfZaChx4q2Mh2h1vtr7b6ak1SSp55mtbqfaJUlm2nqRMZOiL4zzj5Ci9L32s7fi3xOG4_ZHsSVnt4uQ_SNcstgnys2DLEtPfUYxfAPKJfuo3H19Kr94iX38FlzFhyphenhyphen5yjZ7E/s1600/fiel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNj9a71u-TfZaChx4q2Mh2h1vtr7b6ak1SSp55mtbqfaJUlm2nqRMZOiL4zzj5Ci9L32s7fi3xOG4_ZHsSVnt4uQ_SNcstgnys2DLEtPfUYxfAPKJfuo3H19Kr94iX38FlzFhyphenhyphen5yjZ7E/s320/fiel.png" width="295" height="320" data-original-width="234" data-original-height="254" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/661-fiel-nas-pequenas-coisas-fiel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/661-fiel-nas-pequenas-coisas-fiel.png" width="295" height="320" data-original-width="234" data-original-height="254" /></a></div>
 Lucas 16,10-12 – “Aquele que é fiel nas coisas pequenas será também fiel nas coisas grandes. E quem é injusto nas coisas pequenas, sê-lo-á também nas grandes. Se, pois, não tiverdes sido fiéis nas riquezas injustas, quem vos confiará as verdadeiras? E se não fostes fiéis no alheio, quem vos dará o que é vosso?”</br>
 </br>
 Na medida que crescemos e amadurecemos vamos adquirindo vivência de vida, novas responsabilidades, novos compromissos, a confiança das pessoas, o aumento de nossa fé e, o que é mais importante, vamos sendo cada vez mais agradáveis a Deus. E de todas essas coisas elencadas, uma que é de grande importância é a confiança. Todas as pessoas de bem sabem perfeitamente quanto tempo se leva para se conquistar a confiança de alguém. É uma tarefa titânica. Já ouvimos o povo dizer que “confiança não se conquista do dia para noite”. Quanta verdade nesta frase pois não se conquista mesmo. Vários ingredientes formam a confiança e por ser um item de grande nobreza para o ser humano, até o diabo dá um jeitinho de meter o bedelho na situação para se aproveitar dessa tal de confiança.</br>

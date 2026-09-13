@@ -1,10 +1,10 @@
 ---
 title: "Motéis"
 date: 2016-02-22T12:48:00.002Z
-heroImage: "/images/motel.png"
+heroImage: "/images/posts/406-motéis-motel.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAKh1fSfFG9zM4mAhO6xcXF1Ug0kcfhn4S0NOkQuhBduOtZEDgAv0nxKC_Z8sfrE-7crQcra55Vsu67vDmYoRJEzoB60wG90DTzIw_hWhKxe8mWjeAU97YeZ617ZWjdylEviFhQpSDnIM/s1600/motel.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="240" data-original-width="336" height="229" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAKh1fSfFG9zM4mAhO6xcXF1Ug0kcfhn4S0NOkQuhBduOtZEDgAv0nxKC_Z8sfrE-7crQcra55Vsu67vDmYoRJEzoB60wG90DTzIw_hWhKxe8mWjeAU97YeZ617ZWjdylEviFhQpSDnIM/s320/motel.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/406-motéis-motel.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="240" data-original-width="336" height="229" src="/images/posts/406-motéis-motel.png" width="320" /></a></div>
 Deus vê no oculto, assim diz a sagrada escritura. E se a pessoa está fazendo algo escondido, ou se escondendo para fazer algo, já é um sinal de que algo de ilícito está partindo de seu coração. Sim, pois é no coração que brotam todas as coisas. Jesus nos ensinou que onde está o nosso coração, ali está o nosso tesouro. E vamos recordar, nosso cruel inimigo, o diabo, sabe muito bem dessas coisas, é bem conhecedor da fraqueza humana e bem conhecedor das escrituras. Vale recordar também, que no episódio em que Jesus foi tentado por satanás no deserto, o infeliz tentou Jesus citando passagens bíblicas. Triste fatalidade para ele não é mesmo! Mais uma derrota para sua coleção.
 
 Porém, contra nós a investida do inimigo é constante e acirrada. Afinal, somos fracas criaturas e por isso constantemente pecadoras. E quem se revoltar com isso saiba que o digo está escrito na bíblia.<div><br /></div><div>Livro dos Provérbios 24,16. Lá diz que o justo peca até sete vezes por dia. Se o justo, aquele que aos olhos de Deus pode cometer seus erros perante o Altíssimo, o que dizer de nós, que caímos e levantamos tantas e tantas vezes nessa caminhada.

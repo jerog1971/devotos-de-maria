@@ -1,10 +1,10 @@
 ---
 title: "A fala profética de Pio XII"
 date: 2020-05-05T18:35:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2149-a-fala-profética-de-pio-xii-img-628960809.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGAgB5-ME1lJ9yi5Zg83ljfDX1zsR3U_rWfYIgF_GVCV6WH-vBIo1ieVsII4dUkdh1YlhmEDn5xMuBpc311h-XB0LY8kdBxZkRljBC4dy6rrEaCJq7XMLK_VD93BfrAMKdLBEHa8rQXI/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGAgB5-ME1lJ9yi5Zg83ljfDX1zsR3U_rWfYIgF_GVCV6WH-vBIo1ieVsII4dUkdh1YlhmEDn5xMuBpc311h-XB0LY8kdBxZkRljBC4dy6rrEaCJq7XMLK_VD93BfrAMKdLBEHa8rQXI/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">“Preocupo-me com as mensagens da Virgem Santíssima à pequena
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2149-a-fala-profética-de-pio-xii-img-628960809.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="315" src="/images/posts/2149-a-fala-profética-de-pio-xii-img-628960809.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">“Preocupo-me com as mensagens da Virgem Santíssima à pequena
 Lúcia de Fátima. A insistência de Maria acerca dos perigos que ameaçam a Igreja
 é uma advertência divina contra o suicídio de se alterar a fé, em sua liturgia,
 em sua teologia e em sua alma… Ouço a minha volta inovadores que desejam

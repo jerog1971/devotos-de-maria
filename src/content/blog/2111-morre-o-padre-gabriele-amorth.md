@@ -1,10 +1,10 @@
 ---
 title: "Morre o Padre Gabriele Amorth"
 date: 2016-09-20T19:57:00.002Z
-heroImage: "/images/amorth2.png"
+heroImage: "/images/posts/2111-morre-o-padre-gabriele-amorth-amorth2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT15sOIOJsbk1Jyugv6ZVgOELGuyRy4i5IaSjyh4jzI2QbAKv4NCK78F5ze4OAUiSugjNNdu2WESVwhZd6x3cT9aXs832E2jD5usq665HX6R5Vjqldb5LdNiHkG8FLHK7bAkxYxrCqonM/s1600/amorth2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="327" data-original-width="335" height="312" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT15sOIOJsbk1Jyugv6ZVgOELGuyRy4i5IaSjyh4jzI2QbAKv4NCK78F5ze4OAUiSugjNNdu2WESVwhZd6x3cT9aXs832E2jD5usq665HX6R5Vjqldb5LdNiHkG8FLHK7bAkxYxrCqonM/s320/amorth2.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2111-morre-o-padre-gabriele-amorth-amorth2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="327" data-original-width="335" height="312" src="/images/posts/2111-morre-o-padre-gabriele-amorth-amorth2.png" width="320" /></a></div>
 Um dia após a igreja católica celebrar a memória de Nossa Senhora das Dores, os jornais italianos noticiaram que o famoso sacerdote exorcista, autor de vários livros, que atuava na Diocese de Roma, veio a falecer após um internamento de algumas semanas, por complicações pulmonares, no Hospital Fundação Santa Lucia. Era a manhã do dia 16 de setembro. Com seus 91 anos de idade, este incansável servo de Cristo trilhou uma belíssima trajetória aqui neste mundo a serviço da igreja católica.
 
 A mim chegou o conhecimento da pessoa dele, quando ao assistir uma palestra de outro sacerdote exorcista, este da Diocese de Lamego em Portugal, ouvi em em sua fala que ele tinha vivido ao lado do Padre Gabriele para acompanhar na prática, este serviço ao povo de Deus. A tão boa indicação que o Padre Duarte fez a respeito do Padre Amorth foi muito suficiente para eu procurar me inteirar a respeito dele.

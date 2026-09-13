@@ -1,10 +1,10 @@
 ---
 title: "O sorriso que faz bem"
 date: 2021-09-23T19:53:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1282-o-sorriso-que-faz-bem-sorriso_que_faz_bem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6AjfCoBCSeL67qkbauIeFQVR6sE39ScGWbpFL5O8DzSZIV15-K6C4uZNW4anOm0tJv18UZ-phoqs045QK-JRUJbsns83xhlTa1UkjVa9kL-37n44A65oX1RR-2k125G0IsOTbcFtkc4/s185/sorriso+que+faz+bem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="180" data-original-width="185" height="224" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6AjfCoBCSeL67qkbauIeFQVR6sE39ScGWbpFL5O8DzSZIV15-K6C4uZNW4anOm0tJv18UZ-phoqs045QK-JRUJbsns83xhlTa1UkjVa9kL-37n44A65oX1RR-2k125G0IsOTbcFtkc4/w230-h224/sorriso+que+faz+bem.png" width="230" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia a palavra sorriso aparece apenas duas vezes, no
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1282-o-sorriso-que-faz-bem-sorriso_que_faz_bem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="180" data-original-width="185" height="224" src="/images/posts/1282-o-sorriso-que-faz-bem-sorriso_que_faz_bem.png" width="230" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia a palavra sorriso aparece apenas duas vezes, no
 livro do Eclesiástico, capítulo 13. Lá ela ensina que o sorriso pode ser usado
 para o mal e que devemos, portanto, estarmos atentos. Já em outra parte da
 bíblia, aprendemos que se nosso olhar é sadio, todo nosso corpo também o será.

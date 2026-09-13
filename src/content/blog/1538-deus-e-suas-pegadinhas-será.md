@@ -1,10 +1,10 @@
 ---
 title: "Deus e suas pegadinhas, será?"
 date: 2021-08-12T15:40:00.002Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/1538-deus-e-suas-pegadinhas-será-Deus_e_suas_pegadinhas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6gz85fUAwzltnWEGOYGscKyG4M8whCCUIuG_JhxN6OZ23X2wWLQZS14uqVUzszNFnRvHBGp1ZGVlb8xumYjOveBOefhuxSk7SyI_t2r6z4d1UeO7DOlAQ-zXGVQ53K_leOx9u7-f546I/s402/Deus+e+suas+pegadinhas.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="390" data-original-width="402" height="310" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6gz85fUAwzltnWEGOYGscKyG4M8whCCUIuG_JhxN6OZ23X2wWLQZS14uqVUzszNFnRvHBGp1ZGVlb8xumYjOveBOefhuxSk7SyI_t2r6z4d1UeO7DOlAQ-zXGVQ53K_leOx9u7-f546I/s320/Deus+e+suas+pegadinhas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esse Deus, que Jesus diz ser “amor” – 1ª João 4,8, está
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1538-deus-e-suas-pegadinhas-será-Deus_e_suas_pegadinhas.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="390" data-original-width="402" height="310" src="/images/posts/1538-deus-e-suas-pegadinhas-será-Deus_e_suas_pegadinhas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esse Deus, que Jesus diz ser “amor” – 1ª João 4,8, está
 descrito na bíblia como “bom (Mateus 19,17) e rico em misericórdia” (Efésios
 2,4). Todavia, se as coisas não são feitas por nós como ele quer, a bíblia
 declara que “a vingança é dele” (Deuteronômio 32,35) e que seremos julgados “segundo

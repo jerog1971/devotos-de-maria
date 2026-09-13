@@ -1,10 +1,10 @@
 ---
 title: "O prejuízo da alma"
 date: 2020-03-12T19:37:00.001Z
-heroImage: "/images/veneno.png"
+heroImage: "/images/posts/1592-o-prejuízo-da-alma-veneno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicapyHHAOqXQueDE_Kab84WbQeRB8lDAJogEnm5oyQlD9zwobnnBxBTwNSlRdjFxPZJ6U3NXjxckIc5jvuWRcIYnOdJnrxTo5etRf7BDDPBZlsccBGhQuYktvaYEF5nEY4d7NWOC9YWHs/s1600/veneno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicapyHHAOqXQueDE_Kab84WbQeRB8lDAJogEnm5oyQlD9zwobnnBxBTwNSlRdjFxPZJ6U3NXjxckIc5jvuWRcIYnOdJnrxTo5etRf7BDDPBZlsccBGhQuYktvaYEF5nEY4d7NWOC9YWHs/s320/veneno.png" width="320" height="312" data-original-width="379" data-original-height="369" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1592-o-prejuízo-da-alma-veneno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1592-o-prejuízo-da-alma-veneno.png" width="320" height="312" data-original-width="379" data-original-height="369" /></a></div>
 Todo cristão filho de Deus acredita que a alma poderá eternamente viver na presença de Deus ou em sua ausência. A bíblia diz que para os que amam a Deus e o seguem a morte é lucro. Viver á algo muito penoso, de fato, uma verdadeira penitência; e isso, constitui-se numa graça de Deus que nos dá essa imensa oportunidade de anos para, como diz Jesus em Mateus 4,17, fazermos penitência.</br>
 </br>
 Eclesiástico 4,23-26 – “Meu filho, aproveita-te do tempo, evita o mal; para o bem de tua alma, não te envergonhes de dizer a verdade, pois há uma vergonha que conduz ao pecado, e uma vergonha que atrai glória da graça. Em teu próprio prejuízo não te mostres parcial, não mintas em prejuízo de tua alma.</br>

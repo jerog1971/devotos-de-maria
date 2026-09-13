@@ -1,10 +1,10 @@
 ---
 title: "A reação do pecador frente a verdade é o ódio"
 date: 2015-09-04T22:14:00.004Z
-heroImage: "/images/montenegro.png"
+heroImage: "/images/posts/239-a-reação-do-pecador-frente-a-verdade-montenegro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrbhuDgVG2Iaesetp2jgh8bX8OOOUFdzo09PCBoUWUn36YplnfcMrA5ajCUtxPRUJJZn1rB2eRALr4vZLsC-7gu0NiGSfajy-xovqDdnHk1eyYk3BL17N17_BIjkIESfgyD8lhAC5hI8/s1600/montenegro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrbhuDgVG2Iaesetp2jgh8bX8OOOUFdzo09PCBoUWUn36YplnfcMrA5ajCUtxPRUJJZn1rB2eRALr4vZLsC-7gu0NiGSfajy-xovqDdnHk1eyYk3BL17N17_BIjkIESfgyD8lhAC5hI8/s320/montenegro.png" width="320" height="297" data-original-width="367" data-original-height="341" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/239-a-reação-do-pecador-frente-a-verdade-montenegro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/239-a-reação-do-pecador-frente-a-verdade-montenegro.png" width="320" height="297" data-original-width="367" data-original-height="341" /></a></div>
 </br>
 Em declaração dada em entrevista para a Globonews uma as atrizes da mundana novela da globo, babilônia, Fernanda Montenegro, disse que o fracasso da novela se deu por causa do racismo. Pasmem caros leitores com essas palavras. Ela disse que já que "o racismo dá cadeia" então o público concentrou suas críticas no homossexualismo, isentando-se assim da sua atuação pois fica claro que a atriz quis dizer que tanto faria quem fizesse o papel. Pois bem, dada a introdução vamos para as considerações deste blog, sempre com um olhar católico e embasado nos ensinamentos de Cristo.</br>
 </br>

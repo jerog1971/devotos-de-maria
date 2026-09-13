@@ -1,10 +1,10 @@
 ---
 title: "Sem força de \"dobra\" não podemos escapar"
 date: 2017-06-08T18:52:00Z
-heroImage: "/images/dobra.png"
+heroImage: "/images/posts/613-sem-força-de-dobra-não-podemos-escap-dobra.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFGUTAo1R_gLG50sEhEZ-RlJ7QhEHwSgrIL-0Ls4CGr6A8x0SdSbqrTRs1KSIrJ3dC1jjkLpak3TRBzhyphenhyphen1w4I6IOQTNa-ldM3sx9GpAmZbOezuhIQWijlbHaKs_7TRymNWCREnAB3Ug7g/s1600/dobra.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFGUTAo1R_gLG50sEhEZ-RlJ7QhEHwSgrIL-0Ls4CGr6A8x0SdSbqrTRs1KSIrJ3dC1jjkLpak3TRBzhyphenhyphen1w4I6IOQTNa-ldM3sx9GpAmZbOezuhIQWijlbHaKs_7TRymNWCREnAB3Ug7g/s320/dobra.png" width="320" height="288" data-original-width="375" data-original-height="338" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/613-sem-força-de-dobra-não-podemos-escap-dobra.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/613-sem-força-de-dobra-não-podemos-escap-dobra.png" width="320" height="288" data-original-width="375" data-original-height="338" /></a></div>
 No filme Jornada nas Estrelas II – A ira de Khan, após uma batalha estelar que resultou na avaria do motor de “dobras” da Enterprise, para que a nave ficasse fora de perigo, uma vez que uma explosão de um mecanismo a bordo da nave inimiga havia sido iniciada, era preciso que ela se distanciasse muito rapidamente do local da batalha para que não fosse envolvida nos efeitos da explosão, que resultaria na morte de todos os tripulantes. Porém, como a nave só tinha a chamada força de impulso e ciente da iminente explosão, o almirante Kirk perguntou ao capitão Spock sobre as chances de se escapar somente com força de impulso.
 E o capitão Spock respondeu: Capitão, uma coisa é certa, não podemos escapar somente com força de impulso.</br>
 </br>

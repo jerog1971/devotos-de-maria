@@ -1,10 +1,10 @@
 ---
 title: "Os devotos e a santa missa"
 date: 2020-07-17T15:19:00Z
-heroImage: "/images/devotos.png"
+heroImage: "/images/posts/1623-os-devotos-e-a-santa-missa-devotos_na_missa.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAqC-iDsB-RamAltcGd7viN172qn44byEgZ4qJS8A8vGGaOskQwnJ-JZchUWZo6P18KDMadifcSq6VvBNsLlF4r-K2tHXCFug3lr44etLzgHKPlCkBod8hciZwSZseCIHm09YJ5Y5u9d8/s459/devotos+na+missa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="459" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAqC-iDsB-RamAltcGd7viN172qn44byEgZ4qJS8A8vGGaOskQwnJ-JZchUWZo6P18KDMadifcSq6VvBNsLlF4r-K2tHXCFug3lr44etLzgHKPlCkBod8hciZwSZseCIHm09YJ5Y5u9d8/s320/devotos+na+missa.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Dizia-nos São Leonardo de Porto Maurício, ardoroso apóstolo
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1623-os-devotos-e-a-santa-missa-devotos_na_missa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="459" src="/images/posts/1623-os-devotos-e-a-santa-missa-devotos_na_missa.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Dizia-nos São Leonardo de Porto Maurício, ardoroso apóstolo
 da Santa Missa, a respeito desta, o seguinte: “Eis o meio mais adequado para
 assistir com fruto a Santa Missa: consiste em irdes à igreja como se fôsseis ao
 Calvário, e de vos comportardes diante do altar como o faríeis diante do Trono

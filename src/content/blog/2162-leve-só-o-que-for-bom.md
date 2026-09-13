@@ -1,10 +1,10 @@
 ---
 title: "Leve só o que for bom"
 date: 2023-03-17T20:19:00.004Z
-heroImage: "/images/leve só o que for bom.png"
+heroImage: "/images/posts/2162-leve-só-o-que-for-bom-img-618734918.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8VIkvP0mFRQoshL4PkD9G5WmI8pZgzID4WARFNzZXqN_XBgf-RqgJFuDn9GUBROi3vRsQTYxVQjcdErjBdk3vDVKCmwOJqW3XZDb7fpY7v_ue91pYJRKVaP3ZADqLHZFqZ8VTaIa3966cQL5ZOVcofxrT68J6y7kNwnh9iWQfCKTO-_oTzZrHNIIj/s1431/leve%20s%C3%B3%20o%20que%20for%20bom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1216" data-original-width="1431" height="272" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8VIkvP0mFRQoshL4PkD9G5WmI8pZgzID4WARFNzZXqN_XBgf-RqgJFuDn9GUBROi3vRsQTYxVQjcdErjBdk3vDVKCmwOJqW3XZDb7fpY7v_ue91pYJRKVaP3ZADqLHZFqZ8VTaIa3966cQL5ZOVcofxrT68J6y7kNwnh9iWQfCKTO-_oTzZrHNIIj/s320/leve%20s%C3%B3%20o%20que%20for%20bom.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos nos versículos bíblicos que devemos apenas reter para
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2162-leve-só-o-que-for-bom-img-618734918.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1216" data-original-width="1431" height="272" src="/images/posts/2162-leve-só-o-que-for-bom-img-1928849300.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos nos versículos bíblicos que devemos apenas reter para
 nossas vidas aquilo que for bom, e bom segundo os desígnios divinos. Eis aí um
 dos grandes problemas, pois muitas vezes o que é bom para o ser humano –
 segundo sua própria visão – não é bom aos olhos de Deus. Padre Kempis vai dizer

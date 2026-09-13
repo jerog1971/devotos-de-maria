@@ -1,10 +1,10 @@
 ---
 title: "Se está fora do lugar, por que insistir?"
 date: 2022-03-10T12:43:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1214-se-está-fora-do-lugar-por-que-insistir-AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV_s459.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV=s459" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="457" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV=s320" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, é o que muito se vê por aí. Na contrapartida, as
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1214-se-está-fora-do-lugar-por-que-insistir-AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV_s459.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="457" height="320" src="/images/posts/1214-se-está-fora-do-lugar-por-que-insistir-AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV_s320.jpg" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, é o que muito se vê por aí. Na contrapartida, as
 pessoas não dizem que “gostam de tudo nos eixos”, tudo “preto no branco”, tudo “alinhado
 e nos <i>trinks</i>”? Pois é, dizem tudo isso, mas não aplicam tudo isso em
 todas as áreas de sua vida. Agem como lhes convém, quando o que realmente

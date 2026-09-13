@@ -1,10 +1,10 @@
 ---
 title: "A finalidade do Corpo"
 date: 2016-09-20T16:01:00Z
-heroImage: "/images/corpos.png"
+heroImage: "/images/posts/133-a-finalidade-do-corpo-corpos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXb4CB-z5pWPOA3PKaCJTSfqk7RSbfiaI3hwf9P5BV4Nk4jfq03VEqXsxN2Ty-Gw6yVeucAF4mP73i9DdlyTk3U4RaUgNG3LFFpnujWPhf8tdIulr-x4CV2LQOBegjPLBS3KOuULa_PXE/s1600/corpos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXb4CB-z5pWPOA3PKaCJTSfqk7RSbfiaI3hwf9P5BV4Nk4jfq03VEqXsxN2Ty-Gw6yVeucAF4mP73i9DdlyTk3U4RaUgNG3LFFpnujWPhf8tdIulr-x4CV2LQOBegjPLBS3KOuULa_PXE/s320/corpos.png" width="320" height="239" data-original-width="693" data-original-height="517" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/133-a-finalidade-do-corpo-corpos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/133-a-finalidade-do-corpo-corpos.png" width="320" height="239" data-original-width="693" data-original-height="517" /></a></div>
 Nossa natureza material e espiritual, que faz de nós um composto que luta constantemente neste campo de batalha, chamado mundo, é objeto futuro de desejo entre as partes deste combate. Por um lado, Deus nos quer no céu. Por outro, o diabo nos quer no inferno. E nós, o que queremos? Muitos poderiam dizer que esta é uma pergunta boba, ora bolas, todos nós queremos morar eternamente no paraíso! Mas, sabemos que não existe essa unanimidade entre os membros da raça humana. Existem, vamos resumir, dois grupos: os que querem ir ao céu e os que não querem.</br>
 </br>
 Os que querem ir ao céu já fizeram seu encontro com o Cristo Ressuscitado, acreditaram, foram batizados, renunciaram a si mesmos e tomaram sua cruz para segui-lo dia após dia. Já os que não querem ir ao céu passaram por um caminho semelhante. Alguns não se encontraram ainda com Jesus e outros se encontraram, mas não aceitaram a proposta do seu evangelho. São aqueles que querem ser amigos do mundo. São Tiago sobre estes nos diz que são inimigos de Deus (Tiago 4,4).

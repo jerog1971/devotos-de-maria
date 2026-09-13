@@ -1,10 +1,10 @@
 ---
 title: "As verdades do Eclesiástico"
 date: 2020-10-29T13:51:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1296-as-verdades-do-eclesiástico-prova_25C3_25A7_25C3_25A3o_crist_25C3_25A3.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEbbhS3plyt0ZtLQlnzHbwMkSvXXJvtOvdDhVDJZc40IXozw-xz3jWu1ktmutwCWMhQ7RThPY7Q90ARQk4c5ItQe7pSdajKRnlrs0ywBEj9Otq3v3LHhiTnNKibiDBKSMlXLpnzRs2Mlg/s297/prova%25C3%25A7%25C3%25A3o+crist%25C3%25A3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEbbhS3plyt0ZtLQlnzHbwMkSvXXJvtOvdDhVDJZc40IXozw-xz3jWu1ktmutwCWMhQ7RThPY7Q90ARQk4c5ItQe7pSdajKRnlrs0ywBEj9Otq3v3LHhiTnNKibiDBKSMlXLpnzRs2Mlg/s0/prova%25C3%25A7%25C3%25A3o+crist%25C3%25A3.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sem dúvida um dos livros bíblicos muito apreciado pelos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1296-as-verdades-do-eclesiástico-prova_25C3_25A7_25C3_25A3o_crist_25C3_25A3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="297" src="/images/posts/1296-as-verdades-do-eclesiástico-prova_25C3_25A7_25C3_25A3o_crist_25C3_25A3.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sem dúvida um dos livros bíblicos muito apreciado pelos
 cristãos que se esforçam por viverem aquilo que Deus nos pede. É sempre um
 desafio diário alinhar a felicidade terrena com a felicidade que brota de um
 coração onde a santíssima trindade habita. Desafio porque elas não se combinam

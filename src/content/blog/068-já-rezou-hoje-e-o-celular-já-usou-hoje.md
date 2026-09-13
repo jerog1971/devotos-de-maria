@@ -1,10 +1,10 @@
 ---
 title: "Já rezou hoje? E o celular, já usou hoje?"
 date: 2016-09-16T18:42:00Z
-heroImage: "/images/celular.png"
+heroImage: "/images/posts/068-já-rezou-hoje-e-o-celular-já-usou-hoje-celular.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB-liqawKM5iBIv_nTsOmRVg9GbmIBEvROH_73Jz3Wk9Nmxuun1jX2uYY7YtKL-UlTpo4m2ZXVo0CXFChzB6MB8uYR5yPU-FHGsTUc0jo1nyhJormDTTdDqv49VWcDS5LL0Qxu1LroDRs/s1600/celular.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB-liqawKM5iBIv_nTsOmRVg9GbmIBEvROH_73Jz3Wk9Nmxuun1jX2uYY7YtKL-UlTpo4m2ZXVo0CXFChzB6MB8uYR5yPU-FHGsTUc0jo1nyhJormDTTdDqv49VWcDS5LL0Qxu1LroDRs/s320/celular.png" width="320" height="304" data-original-width="485" data-original-height="461" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/068-já-rezou-hoje-e-o-celular-já-usou-hoje-celular.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/068-já-rezou-hoje-e-o-celular-já-usou-hoje-celular.png" width="320" height="304" data-original-width="485" data-original-height="461" /></a></div>
 Para se conversar com Jesus usamos a oração e para conversarmos com as pessoas usamos o celular. Jesus que nos disse que subiria aos céus, mas que estaria conosco todos os dias até o fim dos tempos não tem celular. Para falar com ele não precisamos de internet rápida com velocidade 4g, nem de smartphone de última geração. Tão pouco precisamos de um pacote mensal de plano de telefonia e internet com bônus disso e vantagens naquilo para sermos fiéis a esta ou aquela operadora. Nenhum dinheiro precisa ser gasto para nos mantermos conectados a Jesus.</br>
 </br>
 A diferença é estrondosa. Muitos utilizam o despertador do celular pela manhã para começarem o seu dia. Enquanto estão se aprontando para irem ao trabalho, o celular já começa a tocar ou vibrar anunciando os primeiros chamados de bom dia ou aquelas mensagens do dia anterior que não vimos. Muitos saem de suas casas e pelo caminho colocam seu fone de ouvido para escutarem suas músicas a caminho de seus afazeres. Enquanto isso é possível ir olhando as redes sociais e as mensagens instantâneas. Não importa se estão de carro ou de ônibus.</br>

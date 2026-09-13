@@ -1,10 +1,10 @@
 ---
 title: "O que fazer para ser salvo? Jesus disse"
 date: 2020-04-07T15:22:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/070-o-que-fazer-para-ser-salvo-jesus-disse-eu_sou.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyZeHTkrjkGeq3e36cbdTzqz8q8WxTb8gp0PpZlk2d2B24zmA6QLWaB60Rio41urXXx5iXBfgiRFH-W197tzqT9cKw5w2OE-jSyXWZlNmZi86S3ouwcKOq3O6fDNg17Nh1VEY-PE0Kz8o/s1600/eu+sou.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="317" height="208" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyZeHTkrjkGeq3e36cbdTzqz8q8WxTb8gp0PpZlk2d2B24zmA6QLWaB60Rio41urXXx5iXBfgiRFH-W197tzqT9cKw5w2OE-jSyXWZlNmZi86S3ouwcKOq3O6fDNg17Nh1VEY-PE0Kz8o/s320/eu+sou.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Mateus 19,16-22 – “Um jovem aproximou-se de Jesus e lhe perguntou: Mestre, que devo fazer de bom para ter a vida eterna? [para ser salvo?] Disse-lhe Jesus: Por que me perguntas a respeito do que se deve fazer de bom? Só Deus é bom. Se queres entrar na vida [eterna], <b>observa os mandamentos</b>. Quais?, perguntou ele. Jesus respondeu:
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/070-o-que-fazer-para-ser-salvo-jesus-disse-eu_sou.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="317" height="208" src="/images/posts/070-o-que-fazer-para-ser-salvo-jesus-disse-eu_sou.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Mateus 19,16-22 – “Um jovem aproximou-se de Jesus e lhe perguntou: Mestre, que devo fazer de bom para ter a vida eterna? [para ser salvo?] Disse-lhe Jesus: Por que me perguntas a respeito do que se deve fazer de bom? Só Deus é bom. Se queres entrar na vida [eterna], <b>observa os mandamentos</b>. Quais?, perguntou ele. Jesus respondeu:
 
 1- Não matarás,
 2- Não cometerás adultério,

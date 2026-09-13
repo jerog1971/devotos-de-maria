@@ -1,7 +1,7 @@
 ---
 title: "Comunhão"
 date: 2019-05-15T17:21:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1395-comunhão-comunh_25C3_25A3o.png"
 ---
 
 <!DOCTYPE html>
@@ -9,7 +9,7 @@ heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 <body>
 <h2>A HISTÓRIA DA COMUNHÃO NA MÃO</h2>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzScbtx3qzEd3-84vFTyAilHO8UdLq_0MZCgbriRCCpvKa3kQb2Nnw78jjpoOPYFPqZASu9geyrX8yOrlIsjog2GvtcXqOoQhcsLrNYBHh9DbATg0Pay0dNf4UQpmHOJ7D-lOG0WqOqdI/s1600/comunh%25C3%25A3o.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzScbtx3qzEd3-84vFTyAilHO8UdLq_0MZCgbriRCCpvKa3kQb2Nnw78jjpoOPYFPqZASu9geyrX8yOrlIsjog2GvtcXqOoQhcsLrNYBHh9DbATg0Pay0dNf4UQpmHOJ7D-lOG0WqOqdI/s320/comunh%25C3%25A3o.png" width="320" height="301" data-original-width="394" data-original-height="371" /></a></br>
+<a href="/images/posts/1395-comunhão-comunh_25C3_25A3o.png" imageanchor="1" ><img border="0" src="/images/posts/1395-comunhão-comunh_25C3_25A3o.png" width="320" height="301" data-original-width="394" data-original-height="371" /></a></br>
 </br>
 <h2>OS ANTECEDENTES</h2></br> 
 </br>
@@ -44,7 +44,7 @@ O procedimento de receber a comunhão de pé e na mão não consta do Livreto "L
 Quanto à questão de ser a comunhão feita de pé, salvo a menção feita na  "Missa de Dom A. Nocent", nada se encontra em documento algum. Todavia, é um procedimento que acompanha naturalmente à decisão de permitir a comunhão na mão, pois ninguém vai se ajoelhar para receber a comunhão desse modo e, hoje em dia, os comungantes só recebem a comunhão de pé; até mesmo aqueles que a querem receber na boca.</br>
 A comunhão na mão foi especificamente autorizada pela Instrução "Memoriale Dómini" (encontrada na íntegra aqui neste blog) – Instrução essa redigida "por mandato especial de Paulo VI e por ele mesmo aprovada em razão de sua autoridade apostólica" (28/05/69) – e na qual a Sagrada Congregação para o Culto Divino, na esteira de outros autores, afirma que "em épocas muito antigas se fez uso da comunhão na mão",  dando a entender que este era o procedimento normal. É este o tema que vamos aprofundar neste ensaio, para mostrar a verdadeira história da comunhão na mão.</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieEaNXHn3dpyYQimBZu-NfGTpy7CJ3onOMxr8LuhQBeqdTj5cYKcusFHPa81474QYqTrdqs7GbE2PtIgL-ZOmiWTqDjmQDbOleJjc5J6512AAPy39u-B-loVqY85HDP8ReU5qLIdEKgKY/s1600/adora%25C3%25A7%25C3%25A3o.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieEaNXHn3dpyYQimBZu-NfGTpy7CJ3onOMxr8LuhQBeqdTj5cYKcusFHPa81474QYqTrdqs7GbE2PtIgL-ZOmiWTqDjmQDbOleJjc5J6512AAPy39u-B-loVqY85HDP8ReU5qLIdEKgKY/s320/adora%25C3%25A7%25C3%25A3o.png" width="320" height="301" data-original-width="314" data-original-height="295" /></a></br>
+<a href="/images/posts/1395-comunhão-adora_25C3_25A7_25C3_25A3o.png" imageanchor="1" ><img border="0" src="/images/posts/1395-comunhão-adora_25C3_25A7_25C3_25A3o.png" width="320" height="301" data-original-width="314" data-original-height="295" /></a></br>
 </br>
 <h2>COMO É QUE APARECEU AGORA A COMUNHÃO NA MÃO?</h2></br>
 </br>

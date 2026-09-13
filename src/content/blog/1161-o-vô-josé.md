@@ -1,10 +1,10 @@
 ---
 title: "O vô José"
 date: 2016-06-29T13:59:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1161-o-vô-josé-v_25C3_25B4_Jos_25C3_25A9.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqtoyZqErh-S0j56LChAeJhJwKWBWidL9oy1zVF4_Lt7olD98XaFxyLUhJiwxMo_iyn9JYq75JvRYD9bxq9JEJw50RRjA-pTv1y-AaY7jnxKYecg-tkY8_tsrtI4ORF_jcp_o2OSDIIfI/s1600/v%25C3%25B4_Jos%25C3%25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqtoyZqErh-S0j56LChAeJhJwKWBWidL9oy1zVF4_Lt7olD98XaFxyLUhJiwxMo_iyn9JYq75JvRYD9bxq9JEJw50RRjA-pTv1y-AaY7jnxKYecg-tkY8_tsrtI4ORF_jcp_o2OSDIIfI/s320/v%25C3%25B4_Jos%25C3%25A9.png" width="319" height="320" data-original-width="377" data-original-height="378" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1161-o-vô-josé-v_25C3_25B4_Jos_25C3_25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1161-o-vô-josé-v_25C3_25B4_Jos_25C3_25A9.png" width="319" height="320" data-original-width="377" data-original-height="378" /></a></div>
 Neste ano de 2016 o vô José completou 72 anos. Nascido em 1944, natural de Morretes-PR viveu e foi criado em sua primeira etapa da vida pela sua tia, irmã de sua mãe. Logo cedo, começou a trabalhar, ajudando seu tio. Foi desportista praticando o ciclismo e o pedestrianismo por muitos anos. Com uma vida no lar bastante cheia de regras esforçou-se para trabalhar e custear seus estudos.</br>
 </br>
 A vida foi passando e de um pequeno cubículo passou a morar em sua própria casa. Hoje aposentado como servidor público da polícia civil foi aquele pai, que enquanto tinha os filhos debaixo da barra de sua calça, nunca deixou que lhes faltasse nada. Absolutamente nada no que diz respeito ao sustento que a vida impõe.

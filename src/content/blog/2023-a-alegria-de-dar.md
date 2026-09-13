@@ -1,10 +1,10 @@
 ---
 title: "A alegria de \"dar\""
 date: 2016-01-15T12:39:00Z
-heroImage: "/images/dar.png"
+heroImage: "/images/posts/2023-a-alegria-de-dar-dar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwef5RkcrVXMqMoUW-THrF-pR4x5pOGoUj6LPfpZNercg9gguHwzoVxPnaHXL353N4FUetH4Zv6uK-UwkcGNOTVR-u3PZkO6c4tBPwuN5RcnIWS47fVkqZa9XSlhyphenhyphenbB2f7JyVj3dBnR38/s1600/dar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwef5RkcrVXMqMoUW-THrF-pR4x5pOGoUj6LPfpZNercg9gguHwzoVxPnaHXL353N4FUetH4Zv6uK-UwkcGNOTVR-u3PZkO6c4tBPwuN5RcnIWS47fVkqZa9XSlhyphenhyphenbB2f7JyVj3dBnR38/s320/dar.png" width="320" height="282" data-original-width="498" data-original-height="439" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2023-a-alegria-de-dar-dar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2023-a-alegria-de-dar-dar.png" width="320" height="282" data-original-width="498" data-original-height="439" /></a></div>
 </br>
 Atos 20,35 - Em tudo vos tenho mostrado que assim, trabalhando, convém acudir os fracos e lembrar-se das palavras do Senhor Jesus, porquanto ele mesmo disse: É maior felicidade dar que receber!</br>
 </br>

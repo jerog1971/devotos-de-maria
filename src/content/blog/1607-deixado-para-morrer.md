@@ -1,10 +1,10 @@
 ---
 title: "Deixado para morrer"
 date: 2019-06-11T19:34:00.001Z
-heroImage: "/images/left_4_dead_2.jpg"
+heroImage: "/images/posts/1607-deixado-para-morrer-left_4_dead_2.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuOmOdliUPRmcscDRea6kDNlzvaXqdKzkuRFQhda6eV798hid1UgPz-3TyGTmAMVjOsjelzUdbTWzzRLt3LTL6mhgEQ7rFg5zDjaQWImoBfDo2YbTkYEg5sxZkfCat8NACrhVfZEb5Nc/s1600/left_4_dead_2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuOmOdliUPRmcscDRea6kDNlzvaXqdKzkuRFQhda6eV798hid1UgPz-3TyGTmAMVjOsjelzUdbTWzzRLt3LTL6mhgEQ7rFg5zDjaQWImoBfDo2YbTkYEg5sxZkfCat8NACrhVfZEb5Nc/s320/left_4_dead_2.jpg" width="320" height="187" data-original-width="752" data-original-height="440" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1607-deixado-para-morrer-left_4_dead_2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1607-deixado-para-morrer-left_4_dead_2.jpg" width="320" height="187" data-original-width="752" data-original-height="440" /></a></div>
 Com certeza para muitas pessoas parece que Deus fica sentadinho lá em cima com sua lupa só olhando as formiguinhas aqui na terra (nós seres humanos), tentando levar uma vida sem serem queimados pela luz do sol que sua lupa pode aumentar e muito nos fazer sofrer. Fica lá, divertindo-se em ver quem será que vai conseguir ao final de sua jornada escapar do seu furor e conseguir o imerecido céu. Parece que somos deixados aqui na terra com nossos problemas enquanto ele fica lá em cima acompanhando tudo. E não adianta, rezar, rezar e rezar, pedir, pedir e pedir, parece mesmo que fomos deixados aqui para morrer.</br>
 </br>
 De fato, a vida do homem aqui na terra é uma batalha constante. Em pleno século vinte e um ainda existem pessoas que vivem uma vida que não é baseada em alguma crença religiosa. Elas acham que depois que a morte chegar elas farão parte da não existência eterna. Parecem ateus, embora se saiba que existem três tipos de ateus:</br>

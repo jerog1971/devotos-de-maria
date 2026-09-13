@@ -1,10 +1,10 @@
 ---
 title: "O que é uma DROGA?"
 date: 2018-07-16T15:20:00Z
-heroImage: "/images/com aborto e com drogas.png"
+heroImage: "/images/posts/1882-o-que-é-uma-droga-drogas.png"
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjPrM2qVBozgiFEmQKtdOI6JU2i-_WEyZsdNGGGn5AMl9Mg2dVz6GekiNMLrOFBbenjMbRHLfdbM1SFy1-22JA9aXsU4M4ig8BJ9C5dT-EP3hD3gbx_VfTydaPwqO_Hr5-rFv8GzG0Iw/s1600/drogas.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjPrM2qVBozgiFEmQKtdOI6JU2i-_WEyZsdNGGGn5AMl9Mg2dVz6GekiNMLrOFBbenjMbRHLfdbM1SFy1-22JA9aXsU4M4ig8BJ9C5dT-EP3hD3gbx_VfTydaPwqO_Hr5-rFv8GzG0Iw/s320/drogas.png" width="320" height="294" data-original-width="463" data-original-height="425" /></a></br>
+<a href="/images/posts/1882-o-que-é-uma-droga-drogas.png" imageanchor="1" ><img border="0" src="/images/posts/1882-o-que-é-uma-droga-drogas.png" width="320" height="294" data-original-width="463" data-original-height="425" /></a></br>
 <b>D</b> eixou de</br>
 <b>R</b> ealmente produzir algum fruto em nossas vidas quando</br>
 <b>O</b> lhamos para o aspecto físico e espiritual? Nosso</br>

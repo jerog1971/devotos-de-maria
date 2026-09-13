@@ -1,10 +1,10 @@
 ---
 title: "O povo de Deus, no deserto andava..."
 date: 2019-01-07T13:29:00Z
-heroImage: "/images/o_povo_de_Deus.png"
+heroImage: "/images/posts/805-o-povo-de-deus-no-deserto-andava-o_povo_de_Deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNRUD-NkarChtkg3PV5LTGpHdS7zzdkX-ry1Xr8do7MESKsnxEwVIa5eIC7DYSuQV8C6ONqwsgD3ovR-8EUmDUNn3Q8jZX5x0rEfcBaJmUTt_KK0fkD5eGdZ70YLZjAELWolGytgq4Grk/s1600/o_povo_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNRUD-NkarChtkg3PV5LTGpHdS7zzdkX-ry1Xr8do7MESKsnxEwVIa5eIC7DYSuQV8C6ONqwsgD3ovR-8EUmDUNn3Q8jZX5x0rEfcBaJmUTt_KK0fkD5eGdZ70YLZjAELWolGytgq4Grk/s320/o_povo_de_Deus.png" width="320" height="308" data-original-width="367" data-original-height="353" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/805-o-povo-de-deus-no-deserto-andava-o_povo_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/805-o-povo-de-deus-no-deserto-andava-o_povo_de_Deus.png" width="320" height="308" data-original-width="367" data-original-height="353" /></a></div>
 Este é um trecho de uma música bem antiga que se canta durante as missas. Digo bem antiga porque quando eu tinha sete anos já se cantava nas celebrações esse cântico. Hoje com meus quarenta e sete anos, ainda é possível ouvi-la nas santas missas. Já se vão pelos menos mais de quarenta anos de sua existência e sua letra continua atual e marcante, assim como a palavra de Deus.</br>
 </br>
 “O povo de Deus, no deserto andava, mas a sua frente alguém caminhava, o povo de Deus era rico de nada, só tinha esperança e o pó da estrada...” As palavras desse cântico são repletas de uma belíssima catequese. Elas nos colocam exatamente em frente ao significado do que representa para cada um de nós, sermos filhos do altíssimo, no que consiste e no que implica.</br>

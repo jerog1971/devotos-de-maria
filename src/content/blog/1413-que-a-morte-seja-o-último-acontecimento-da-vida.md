@@ -1,10 +1,10 @@
 ---
 title: "Que a morte seja o último acontecimento da vida"
 date: 2018-09-25T20:01:00.001Z
-heroImage: "/images/chegada_da_morte.png"
+heroImage: "/images/posts/1413-que-a-morte-seja-o-último-acontecimento-da-vida-morte.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYPgND_CJW99RCmoWgzGlaHdIIIO3_Wl6JHiNCLtiVMLu_G8MoCnJXY10TKjHeo_XNlBX0bUyitGrsrzALq5_1tgVtgkHYCL-jd3rwcjPu-5t76i7h4PLPytntv0mp1m-X42eaMAbGZU/s1600/morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYPgND_CJW99RCmoWgzGlaHdIIIO3_Wl6JHiNCLtiVMLu_G8MoCnJXY10TKjHeo_XNlBX0bUyitGrsrzALq5_1tgVtgkHYCL-jd3rwcjPu-5t76i7h4PLPytntv0mp1m-X42eaMAbGZU/s320/morte.png" width="320" height="306" data-original-width="443" data-original-height="423" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1413-que-a-morte-seja-o-último-acontecimento-da-vida-morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1413-que-a-morte-seja-o-último-acontecimento-da-vida-morte.png" width="320" height="306" data-original-width="443" data-original-height="423" /></a></div>
 Caros leitores, desejar para alguém que a morte seja a última coisa que lhe aconteça ou desejar que a morte seja a última coisa que nos aconteça parece, para os olhares menos atentos, que um desejo deste, beira, no mínimo, o absurdo. Ora, muitos podem pensar, não há sentido em desejar que a morte seja o último acontecimento da vida porque segundo se sabe, se não formos da geração que irá presenciar a vinda gloriosa de Jesus, todos seremos chamados à sua presença antes desse dia.</br>
 </br>
 Porém, as coisas não são como parecem ser, acreditem! O cunho religioso deste site, que tem o objetivo de colocar a luz em questões referentes a fé católica, espera contribuir mais uma vez com esse assunto pertinente a crença dos filhos de Deus. Pois bem, estudando a vida dos santos pode-se aprender com eles que a preparação para uma boa morte é uma boa vida. A morte, não planejada por Deus, entrou no mundo pelo pecado e para nós cristãos, esse castigo por conta de nossa desobediência constitui-se numa espécie de remédio.</br>

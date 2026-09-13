@@ -1,10 +1,10 @@
 ---
 title: "Presenciando a comunhão"
 date: 2016-02-03T17:46:00Z
-heroImage: "/images/padre_edson_odaguiri.png"
+heroImage: "/images/posts/351-presenciando-a-comunhão-padre_edson_odaguiri.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Xv-IsyGWVAUPzwpR1e8pEG194VP2sWLw25eDgvj-ySPjtqS-MwBazsTHrmMTo_dx__Get-R-wkWuIw7WrHaWq9sMvtjQFHacrlpUg2lcxhd86UHh7TmIwbaCbuX1c-KzA5Q26QxQ9Wc/s1600/padre_edson_odaguiri.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Xv-IsyGWVAUPzwpR1e8pEG194VP2sWLw25eDgvj-ySPjtqS-MwBazsTHrmMTo_dx__Get-R-wkWuIw7WrHaWq9sMvtjQFHacrlpUg2lcxhd86UHh7TmIwbaCbuX1c-KzA5Q26QxQ9Wc/s320/padre_edson_odaguiri.png" width="320" height="304" data-original-width="285" data-original-height="271" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/351-presenciando-a-comunhão-padre_edson_odaguiri.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/351-presenciando-a-comunhão-padre_edson_odaguiri.png" width="320" height="304" data-original-width="285" data-original-height="271" /></a></div>
 </br>
 Queridos leitores. Como bom católico que sou, uma das práticas que muito exerço é a participação da santa missa. Muitos santos já ensinaram que é mais salutar uma missa devotamente assistida em vida do que muitas encomendadas após nossa morte. E um sacerdote palestrava dizendo que achava muito estranho estar a cinco minutos de uma celebração e podendo, não participar por preguiça ou qualquer outro motivo que rapidamente se transforma em pretexto ou desculpa. E este sacerdote, o Padre Duarte Sousa Lara conclui dizendo que depois, no dia de nosso juízo, quando olharmos para traz, iremos perceber a estupidez que fizemos com nossa negligência.</br>
 </br>

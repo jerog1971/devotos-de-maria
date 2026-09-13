@@ -1,10 +1,10 @@
 ---
 title: "Esqueça os dez mandamentos"
 date: 2022-02-18T11:53:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1853-esqueça-os-dez-mandamentos-img-1706122860.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEj3AfY7FfV0c4_ttwdTrSZub4HeTEpbAXI8rFKuzxeVTW7cZ-gLACBwe-U4Eg6_kZissdamD-_c6d55S1tu5uF1LlRwtrLsk_uXZOSNO90xS4iLHFQ7CBtKU-jZi7parZiXFyqqDtsouWaYaCtq2fn94D678jN61Eb-1fFfWyQQVTh4wcEuEzwYjmat=s370" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="370" height="308" src="https://blogger.googleusercontent.com/img/a/AVvXsEj3AfY7FfV0c4_ttwdTrSZub4HeTEpbAXI8rFKuzxeVTW7cZ-gLACBwe-U4Eg6_kZissdamD-_c6d55S1tu5uF1LlRwtrLsk_uXZOSNO90xS4iLHFQ7CBtKU-jZi7parZiXFyqqDtsouWaYaCtq2fn94D678jN61Eb-1fFfWyQQVTh4wcEuEzwYjmat=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Podemos dizer que a grande maioria das pessoas que de alguma
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1853-esqueça-os-dez-mandamentos-img-1706122860.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="370" height="308" src="/images/posts/1853-esqueça-os-dez-mandamentos-img-1706122705.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Podemos dizer que a grande maioria das pessoas que de alguma
 forma se envolvem com Deus ou o que dele procede, termina por conhecer que ele
 propôs para a humanidade mandamentos, que visam o correto comportamento do
 homem para com ele e do homem para com o próximo. O antigo testamento elenca em

@@ -1,10 +1,10 @@
 ---
 title: "Falsos deuses e profetas"
 date: 2022-04-22T14:21:00Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/1443-falsos-deuses-e-profetas-falsos_20deuses_20e_20profetas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeYz0zopNYkQe2Z1DCiu8LY-MOnIUsVAowlTUBvJZIivqyuklPj6W4Vb7C1PBsEVsFFR4wl1Nz-JLaYaK1q3j22rRe8RjEY52Vt-02vFnE2J7xztNvmal9fBocKZjfO1DtYirgtQzlV_L7p3MvvKGa0y6ebv1SMcdY71e0g1GAMPgwutpuxMKOOdtV/s439/falsos%20deuses%20e%20profetas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="439" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeYz0zopNYkQe2Z1DCiu8LY-MOnIUsVAowlTUBvJZIivqyuklPj6W4Vb7C1PBsEVsFFR4wl1Nz-JLaYaK1q3j22rRe8RjEY52Vt-02vFnE2J7xztNvmal9fBocKZjfO1DtYirgtQzlV_L7p3MvvKGa0y6ebv1SMcdY71e0g1GAMPgwutpuxMKOOdtV/s320/falsos%20deuses%20e%20profetas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia nos fala a respeito daqueles que se passam e passarão
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1443-falsos-deuses-e-profetas-falsos_20deuses_20e_20profetas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="439" height="318" src="/images/posts/1443-falsos-deuses-e-profetas-falsos_20deuses_20e_20profetas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia nos fala a respeito daqueles que se passam e passarão
 por falsos profetas, tentando enganar o povo de Deus, os eleitos e escolhidos.
 E também nos ensina que o Deus vivo, nosso criador, deve ser colocado acima de
 todas as coisas; quem assim não o faz, idolatra outras coisas ou pessoas,

@@ -1,10 +1,10 @@
 ---
 title: "O cristão não deve viver de dilemas"
 date: 2021-12-22T15:08:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/779-o-cristão-não-deve-viver-de-dilemas-img-1630778838.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiDTtVTM5MBbYJk47bg0zPC1r1eHUu-0hPT6dJ60suhz_o3g-83YUfSoxS5yQBy-IwPoi0oJx7QuVY-94nNS9pYP47q_ZxR7iV82Y1uVEh0EdyIIAesKJL5qRtJ98VylZi5vsL9Vng6YGS8hmV1N6RUqmH1uKoRk1JajQoO3VgYTLOoeRf9frCJdhC3=s417" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="305" data-original-width="417" height="234" src="https://blogger.googleusercontent.com/img/a/AVvXsEiDTtVTM5MBbYJk47bg0zPC1r1eHUu-0hPT6dJ60suhz_o3g-83YUfSoxS5yQBy-IwPoi0oJx7QuVY-94nNS9pYP47q_ZxR7iV82Y1uVEh0EdyIIAesKJL5qRtJ98VylZi5vsL9Vng6YGS8hmV1N6RUqmH1uKoRk1JajQoO3VgYTLOoeRf9frCJdhC3=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Romanos 12,2 – “Não vos conformeis com este mundo, mas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/779-o-cristão-não-deve-viver-de-dilemas-img-1630778838.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="305" data-original-width="417" height="234" src="/images/posts/779-o-cristão-não-deve-viver-de-dilemas-img-1630777901.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Romanos 12,2 – “Não vos conformeis com este mundo, mas
 transformai-vos pela renovação do vosso espírito, para que possais discernir
 qual é a vontade de Deus, o que é bom, o que lhe agrada e o que é perfeito”. Pois
 bem, é isso que que Deus espera de seus filhos, aqueles que desejam

@@ -1,10 +1,10 @@
 ---
 title: "Abusos na Santa Missa"
 date: 2016-05-04T11:21:00Z
-heroImage: "/images/abusos.png"
+heroImage: "/images/posts/2234-abusos-na-santa-missa-abusos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuP2Q59-MLZKwThMcEPyWauPCJEHm388BMKhEuyWCeSfFq1HH0YASpmufPLd-nQjgAwNtQ0qjhEsEMeX2255B9cob5NrHYLC9d6U2HCoN-MCGHss8kkTOSR5gd9xOHICn6yrjP0brYGEo/s1600/abusos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuP2Q59-MLZKwThMcEPyWauPCJEHm388BMKhEuyWCeSfFq1HH0YASpmufPLd-nQjgAwNtQ0qjhEsEMeX2255B9cob5NrHYLC9d6U2HCoN-MCGHss8kkTOSR5gd9xOHICn6yrjP0brYGEo/s320/abusos.png" width="320" height="226" data-original-width="411" data-original-height="290" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2234-abusos-na-santa-missa-abusos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2234-abusos-na-santa-missa-abusos.png" width="320" height="226" data-original-width="411" data-original-height="290" /></a></div>
 Dentro da celebração da santa missa, vez por outra incorremos em presenciar situações que são chamadas de abusos litúrgicos. Trata-se de atitudes praticadas que não estão prescritas nas normas litúrgicas que a Igreja de Cristo tutela para garantir a plena validade da celebração e a sua máxima eficácia da graça. Pois bem sabemos que quando queremos fazer algo bem feito em nossas vidas, seja na escola, no trabalho ou em qualquer área, precisamos seguir uma ordem de execução para bem proceder naquilo que queremos bem fazer. Ou seja, procuramos caprichar, fazer corretamente e da maneira certa.</br>
 </br>
 Seja como for, em nossas vidas estamos sempre a procurar fazer tudo bem feito, para que possamos colher os frutos, os resultados que esperamos ou que esperam que alcancemos.</br>

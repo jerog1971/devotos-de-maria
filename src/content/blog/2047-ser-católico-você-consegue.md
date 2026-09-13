@@ -1,10 +1,10 @@
 ---
 title: "Ser católico, você consegue?"
 date: 2015-09-17T13:23:00.001Z
-heroImage: "/images/agir_do_catolico.png"
+heroImage: "/images/posts/2047-ser-católico-você-consegue-catolico.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDXbT8ssDBBRapoK0PdVwDgkRH3xHE9LboEvW8hBBGvIK6m2lkWFH9b_eGv9uIAs4jrnsxXfkOKsxAIlRvHdy-okDz1nCY3qjnDcUcCluIYmtUnogyleHwNJtt5R2LgrQ6nM19U-bb8MQ/s1600/catolico.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="519" data-original-width="571" height="291" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDXbT8ssDBBRapoK0PdVwDgkRH3xHE9LboEvW8hBBGvIK6m2lkWFH9b_eGv9uIAs4jrnsxXfkOKsxAIlRvHdy-okDz1nCY3qjnDcUcCluIYmtUnogyleHwNJtt5R2LgrQ6nM19U-bb8MQ/s320/catolico.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2047-ser-católico-você-consegue-catolico.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="519" data-original-width="571" height="291" src="/images/posts/2047-ser-católico-você-consegue-catolico.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
 
 Quanto mais o tempo passa e mais a humanidade se imagina evoluindo, mais nós católicos, eu falo dos católicos autênticos, percebemos que nosso catolicismo tem sido cada vez mais alvo de críticas, preconceitos e outras barbaridades.
 
@@ -16,7 +16,7 @@ Em Fátima, Portugal, Nossa Senhora alertou para as modas que viriam ao mundo e 
 
 É de se indignar junto com Jesus. Como podem as pessoas não aceitarem que foram feitas por Deus, para servi-Lo, amá-Lo e amar ao próximo fazendo o que é de Sua vontade? Éramos um "nada" e agora viveremos para sempre, nos bastando apenas escolher se viveremos com Deus ou sem Ele. Muitos podem dizer que não é simples assim ou que não é tão fácil assim.
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBzF-raEgdLrLbN69l_NlmUClJPMlWwkNzXElj5qq3_A8B_5-v1mlemFTadZnugeRVQuiwuAN9KxTp3DbaPiOaCOhE6M_WEpONNHGHwO67nb2ZHCdq-moBE94GEkVHG4YvLKLtAs9oVdM/s1600/Missa2+14-07-2015.JPG" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="456" data-original-width="690" height="132" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBzF-raEgdLrLbN69l_NlmUClJPMlWwkNzXElj5qq3_A8B_5-v1mlemFTadZnugeRVQuiwuAN9KxTp3DbaPiOaCOhE6M_WEpONNHGHwO67nb2ZHCdq-moBE94GEkVHG4YvLKLtAs9oVdM/s200/Missa2+14-07-2015.JPG" width="200" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2047-ser-católico-você-consegue-Missa2_14-07-2015.JPG" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="456" data-original-width="690" height="132" src="/images/posts/2047-ser-católico-você-consegue-Missa2_14-07-2015.JPG" width="200" /></a></div>
 
 Na verdade depende do "olhar" que lançamos sobre a questão. É preciso sempre refletir sobre tudo com um olhar cristão, verdadeiramente voltado para o céu. Santo Antonio Maria Claret dizia: <i>Quem quer se salvar precisa ter o paraíso na mente, Deus no coração e o mundo debaixo dos seus pés</i>. Afinal nossa alma, vamos recordar, tem três inimigos. Isso mesmo, três. E este detalhe é muito importante pois se não ficarmos atentos a esta realidade não faremos um bom combate rumo à nossa salvação.
 

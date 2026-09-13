@@ -1,10 +1,10 @@
 ---
 title: "Recordando polêmicas"
 date: 2020-05-12T19:38:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/385-recordando-polêmicas-img-947491323.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4mIh9AJBU7nblt1tVZ1_J0Za6lytugkg65r77GAJc0eKnjClkpVxeAaTalgczZCovDD_GJrbwhkk7qh-0x7ZlsWyM8dW4YfCunsbHNHWsbn27M__z-bSaiP2_hrjF8ZBTEObhiP9IIBw/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="235" data-original-width="276" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4mIh9AJBU7nblt1tVZ1_J0Za6lytugkg65r77GAJc0eKnjClkpVxeAaTalgczZCovDD_GJrbwhkk7qh-0x7ZlsWyM8dW4YfCunsbHNHWsbn27M__z-bSaiP2_hrjF8ZBTEObhiP9IIBw/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É sempre bom recordarmos alguns fatos que envolvem a
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/385-recordando-polêmicas-img-947491323.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="235" data-original-width="276" src="/images/posts/385-recordando-polêmicas-img-947491323.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É sempre bom recordarmos alguns fatos que envolvem a
 doutrina e a fé (este há cerca de seis anos). Há tempos atrás o padre Fabio de
 Melo em algumas entrevistas causou polêmicas com pronunciamentos que causaram
 muita indignação aos católicos ao ponto de emitirem abaixo assinado para que

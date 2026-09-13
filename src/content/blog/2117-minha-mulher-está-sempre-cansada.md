@@ -1,10 +1,10 @@
 ---
 title: "Minha mulher está sempre cansada"
 date: 2016-07-29T17:55:00Z
-heroImage: "/images/mulher_cansada.png"
+heroImage: "/images/posts/2117-minha-mulher-está-sempre-cansada-mulher_cansada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXejiONhV2YgN345Vp5gL608Q9q27CX8veeggcUA9GMFf9WgiyU2ppUHAuq7WBDs3Rcf-D4k0Q0fbd5B2HdCFc75uTC173YMld0mrciRZsViMgOataOeQwJ9OrV8LWMNUxbxnsm5zfJ-E/s1600/mulher_cansada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXejiONhV2YgN345Vp5gL608Q9q27CX8veeggcUA9GMFf9WgiyU2ppUHAuq7WBDs3Rcf-D4k0Q0fbd5B2HdCFc75uTC173YMld0mrciRZsViMgOataOeQwJ9OrV8LWMNUxbxnsm5zfJ-E/s320/mulher_cansada.png" width="320" height="277" data-original-width="573" data-original-height="496" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2117-minha-mulher-está-sempre-cansada-mulher_cansada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2117-minha-mulher-está-sempre-cansada-mulher_cansada.png" width="320" height="277" data-original-width="573" data-original-height="496" /></a></div>
 Essa é uma das reclamações que mais são faladas pelos homens. Até aí, nada demais, porque a natureza do ser humano corrompida pelo mundo, o faz reclamar de tudo. Se está frio, dizem “ai que frio”. Se está calor, dizem “ai que calor”. Se estão com sono, dizem “ai que sono”. E tantos outros exemplos.</br>
 </br>
 O que ocorre, já que se reclama de tudo, o que é um erro, lembremos bem, é para qual direção estamos apontando quando falamos. Parece coisa sem importância, mas nosso inimigo cruel, o diabo, nunca descarta nenhuma situação, pois ele vê em tudo uma oportunidade para nos derrubar.</br>

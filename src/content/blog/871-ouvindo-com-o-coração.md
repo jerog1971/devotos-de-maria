@@ -1,10 +1,10 @@
 ---
 title: "Ouvindo com o coração"
 date: 2023-06-07T21:41:00.005Z
-heroImage: "/images/oração.png"
+heroImage: "/images/posts/871-ouvindo-com-o-coração-img-1506836306.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6hOUOc1RLHeb0FFKLSYF7A9kLLxPzajJghFMokg5By6mddVAlMnhade9h5GfFrOrCCtzAB_ulW4cPytdQKk3erGRWCe_GWQIm-M_Fc2XrEkGzCFCciTPr0J4hfw21nPEU3AujzLw1FL3lfiM6KjXFX9Yw3nl3fiDNm8n02FfZBjCagfN_8UOo15iz/s1328/ouvindo%20com%20o%20cora%C3%A7%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1089" data-original-width="1328" height="262" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6hOUOc1RLHeb0FFKLSYF7A9kLLxPzajJghFMokg5By6mddVAlMnhade9h5GfFrOrCCtzAB_ulW4cPytdQKk3erGRWCe_GWQIm-M_Fc2XrEkGzCFCciTPr0J4hfw21nPEU3AujzLw1FL3lfiM6KjXFX9Yw3nl3fiDNm8n02FfZBjCagfN_8UOo15iz/s320/ouvindo%20com%20o%20cora%C3%A7%C3%A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente se a dúvida existe no coração o diabo prontamente
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/871-ouvindo-com-o-coração-img-1506836306.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1089" data-original-width="1328" height="262" src="/images/posts/871-ouvindo-com-o-coração-img-1935610935.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente se a dúvida existe no coração o diabo prontamente
 se apressa a convencer o cristão de que isso é bobagem! Continue sua vida em
 meio aos seus prazeres e alegrias do mundo e não faça mal a ninguém. E assim, ouvindo
 do inimigo exatamente o que esperaria ouvir de Deus, o sujeito se lança na

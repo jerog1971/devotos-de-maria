@@ -1,10 +1,10 @@
 ---
 title: "Contente com o que temos"
 date: 2020-08-26T22:02:00.001Z
-heroImage: "/images/Jefferson_brincando.png"
+heroImage: "/images/posts/463-contente-com-o-que-temos-Jefferson_brincando.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggjLs26ERz4V-sSLd-boY1Dseu5BCqh7Kg0z-9jrpdovyyzYqCrIKo3dhyMULTCQ-o0doiRiN7CjJ8xgKLhtRF9kPTHQRm77B121_-X9jfMu23XBdP9qZHTLXN1W3Ohcc3d201hFCs66E/s573/Jefferson_brincando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="521" data-original-width="573" height="333" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggjLs26ERz4V-sSLd-boY1Dseu5BCqh7Kg0z-9jrpdovyyzYqCrIKo3dhyMULTCQ-o0doiRiN7CjJ8xgKLhtRF9kPTHQRm77B121_-X9jfMu23XBdP9qZHTLXN1W3Ohcc3d201hFCs66E/w366-h333/Jefferson_brincando.png" width="366" /></a><div style="text-align: left;"><br /></div><p class="MsoNormal" style="text-align: left;">O ser humano, desejado e criado por Deus, por ele foi
+<p></p><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/463-contente-com-o-que-temos-Jefferson_brincando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="521" data-original-width="573" height="333" src="/images/posts/463-contente-com-o-que-temos-Jefferson_brincando.png" width="366" /></a><div style="text-align: left;"><br /></div><p class="MsoNormal" style="text-align: left;">O ser humano, desejado e criado por Deus, por ele foi
 ensinado que precisamos do que é essencial para viver. Tanto é que nos providencia
 tudo que precisamos para isso. Aí começam os problemas.<o:p></o:p></p>
 

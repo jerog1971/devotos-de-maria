@@ -1,10 +1,10 @@
 ---
 title: "Mimica"
 date: 2015-09-18T16:15:00.001Z
-heroImage: "/images/mimica2.jpg"
+heroImage: "/images/posts/1814-mimica-mimica2.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggb_u9_MaXTTSRX8uHbh6VwLk2V3mtibBPq0nauhU4WPgWHJSiw1z_ARnHoeOpqbCRpVGWVARBJLjfr757LIQGTMTFbPOcusB_TTJJMwL6O6RbO-XddVP-YPbfNu6dJsAI_vtYrSi3oxE/s1600/mimica2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggb_u9_MaXTTSRX8uHbh6VwLk2V3mtibBPq0nauhU4WPgWHJSiw1z_ARnHoeOpqbCRpVGWVARBJLjfr757LIQGTMTFbPOcusB_TTJJMwL6O6RbO-XddVP-YPbfNu6dJsAI_vtYrSi3oxE/s200/mimica2.jpg" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1814-mimica-mimica2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1814-mimica-mimica2.jpg" /></a></div>
 </br>
 A palavra mímica vem de mímico, cuja origem vem do grego "mimikós" e do latim "mimicu", ambas significando "mímico".</br>
 </br>

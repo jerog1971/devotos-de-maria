@@ -1,10 +1,10 @@
 ---
 title: "Persistência ou Teimosia?"
 date: 2018-05-03T18:57:00Z
-heroImage: "/images/desobediência ou teimosia.png"
+heroImage: "/images/posts/1965-persistência-ou-teimosia-teimosia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeFfbKjeAevVqDntPX98-udntYESLqiIrF-cXh823AdjH63Cewz3UwdOQCFJ1d0IKpCt5CXeukTY5h0cXMrDsyyjA2EKmv7CJUu_ixKvQyWRNHCCkak9UtBCiWoYTxj3We_qw6tSqNzg/s1600/teimosia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeFfbKjeAevVqDntPX98-udntYESLqiIrF-cXh823AdjH63Cewz3UwdOQCFJ1d0IKpCt5CXeukTY5h0cXMrDsyyjA2EKmv7CJUu_ixKvQyWRNHCCkak9UtBCiWoYTxj3We_qw6tSqNzg/s320/teimosia.png" width="320" height="158" data-original-width="589" data-original-height="290" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1965-persistência-ou-teimosia-teimosia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1965-persistência-ou-teimosia-teimosia.png" width="320" height="158" data-original-width="589" data-original-height="290" /></a></div>
 Lá vamos nós caros leitores com mais uma dualidade que as vezes alguns confundem com um grau de ambiguidade. Sob o ponto de vista que todo cristão deve colocar sob sua vida (um olhar sobrenatural), essa questão fica muito bem esclarecida afastando de forma definitiva os “achismos”. De fato, é preciso sempre termos consciência do que essas duas atitudes representam em nosso caminhar espiritual, porque dessa forma estaremos atentos em relação à direção para qual se está caminhando.</br>
 </br>
 Pessoal, já ouviram a expressão que diz que o “besouro voa de teimoso”? E se comparado a uma borboleta entendemos facilmente o porquê dessa expressão. Uma borboleta, pelo menos até onde se sabe, jamais “deu com os burros na água”. Muito pelo contrário, ela voa graciosamente e com uma perfeição só. Já o nosso amigo, o besouro, sabe-se sobre ele que em sua vida de inseto voador, vamos colocar assim, vez por outra ele “dá de frente” com algum obstáculo. É notório o porquê, ele não é tão aerodinâmico como os pássaros ou como a nossa borboleta. E já que falamos em pássaros vamos lembrar que nunca vimos uma galinha cortando os céus em belo e gracioso voo?</br>

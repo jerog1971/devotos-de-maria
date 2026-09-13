@@ -1,10 +1,10 @@
 ---
 title: "Solidão, será que existe?"
 date: 2019-02-05T15:52:00.001Z
-heroImage: "/images/nunca esteve sozinho.png"
+heroImage: "/images/posts/792-solidão-será-que-existe-sozinho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZJxSsweE_dEjKBBpG4OyQtpF4WJX45SSQEX5ili3ifqwILIAqagIX8T2VoMy0-edFkcuJfJRGfJ_ViVGKAE8aEYQS8MU1iflH9OeKBxHEJ0h0zC9CMCI_c2V4EDueIN8RVjV3mevUtcA/s1600/sozinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZJxSsweE_dEjKBBpG4OyQtpF4WJX45SSQEX5ili3ifqwILIAqagIX8T2VoMy0-edFkcuJfJRGfJ_ViVGKAE8aEYQS8MU1iflH9OeKBxHEJ0h0zC9CMCI_c2V4EDueIN8RVjV3mevUtcA/s320/sozinho.png" width="320" height="298" data-original-width="350" data-original-height="326" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/792-solidão-será-que-existe-sozinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/792-solidão-será-que-existe-sozinho.png" width="320" height="298" data-original-width="350" data-original-height="326" /></a></div>
 Vamos logo sem rodeios afirmando que não existe solidão. É isso mesmo caro leitor que você acabou de ler; com essa pequena reflexão pautada nas sagradas escrituras iremos demonstrar que o buraco é mais embaixo. Adiante.</br>
 </br>
 O primeiro impacto ao se ouvir dizer que solidão é uma coisa que não existe reside no fato de que, na mente do indivíduo paira a pergunta: “solidão é estar/ficar sozinho, se estou ou fiquei sozinho (num estado contínuo) então estou só, estou vivendo na solidão”. Não é assim que a tendência humana nos faz pensar? Pois é, mas lembra do buraco que eu falei no primeiro parágrafo? Vamos a ele.</br>

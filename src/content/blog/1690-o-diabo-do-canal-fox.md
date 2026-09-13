@@ -1,10 +1,10 @@
 ---
 title: "O diabo do canal FOX"
 date: 2016-02-05T11:21:00Z
-heroImage: "/images/diabo_na_fox.png"
+heroImage: "/images/posts/1690-o-diabo-do-canal-fox-diabo_na_fox.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik7tLhR8-yoQi7S6IJKGIMyQO0th1093n-4kEQZAKRmSCx4Vpdazhv65V_QEGZQ7i6Ae6DcQaXm_c4Sb1pDervGRZ6RQrWdbXBF9AZJ6ukiXSh-Jv9cbeKlOl3In9WG66T1mfD5L2mKQs/s1600/diabo_na_fox.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik7tLhR8-yoQi7S6IJKGIMyQO0th1093n-4kEQZAKRmSCx4Vpdazhv65V_QEGZQ7i6Ae6DcQaXm_c4Sb1pDervGRZ6RQrWdbXBF9AZJ6ukiXSh-Jv9cbeKlOl3In9WG66T1mfD5L2mKQs/s320/diabo_na_fox.png" width="320" height="180" data-original-width="632" data-original-height="355" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1690-o-diabo-do-canal-fox-diabo_na_fox.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1690-o-diabo-do-canal-fox-diabo_na_fox.png" width="320" height="180" data-original-width="632" data-original-height="355" /></a></div>
 </br>
 A nova estrela do canal Fox é ninguém menos que o próprio diabo. Trata-se de mais uma guinada da televisão para o satanismo.</br>
 </br>

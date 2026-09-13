@@ -1,10 +1,10 @@
 ---
 title: "A miséria humana"
 date: 2020-06-22T15:13:00.002Z
-heroImage: "/images/sofrimento.png"
+heroImage: "/images/posts/574-a-miséria-humana-sofrimento.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9S2P7nRQiaD6Npqyw9uznSzKqEzUjKrAZqd_CsEzfyYpKrg_LX9qa-MlYuZsn0fbLBnB_3FfMwikg5PBIwr6gpN6dSTriw_5pQkhdBsMhvXfkLFWkXG_zTkN9AAoiNYFwX2W4XuYpyTo/s408/sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9S2P7nRQiaD6Npqyw9uznSzKqEzUjKrAZqd_CsEzfyYpKrg_LX9qa-MlYuZsn0fbLBnB_3FfMwikg5PBIwr6gpN6dSTriw_5pQkhdBsMhvXfkLFWkXG_zTkN9AAoiNYFwX2W4XuYpyTo/s320/sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Miserável serás, onde quer que estejas e onde quer que te
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/574-a-miséria-humana-sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" src="/images/posts/574-a-miséria-humana-sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Miserável serás, onde quer que estejas e onde quer que te
 voltes, se não te voltares para Deus. Por que te afliges, quando não te correm
 as coisas a teu gosto e vontade? Quem é que tem tudo à medida de teu desejo?
 Nem eu, nem tu, nem homem algum sobre a terra. Ninguém há no mundo sem nenhuma

@@ -1,10 +1,10 @@
 ---
 title: "O que você busca eu não posso te dar"
 date: 2018-01-02T16:48:00Z
-heroImage: "/images/morte alegria tristeza.png"
+heroImage: "/images/posts/264-o-que-você-busca-eu-não-posso-te-dar-tristeza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGLl-wyTaoHTYf-SWn2FaCevwIKIqJpiCKxKlIkLTeV-PcZNg3_Z40USyEMSasuHmAsKwNyz0Si8RFTLRGYCzmivEe1B8JrH9dZfQTU5v4bXbu-tcEXpcfds4cJ4KqPNFb1AJVsgkJ1SE/s1600/tristeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGLl-wyTaoHTYf-SWn2FaCevwIKIqJpiCKxKlIkLTeV-PcZNg3_Z40USyEMSasuHmAsKwNyz0Si8RFTLRGYCzmivEe1B8JrH9dZfQTU5v4bXbu-tcEXpcfds4cJ4KqPNFb1AJVsgkJ1SE/s320/tristeza.png" width="320" height="272" data-original-width="300" data-original-height="255" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/264-o-que-você-busca-eu-não-posso-te-dar-tristeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/264-o-que-você-busca-eu-não-posso-te-dar-tristeza.png" width="320" height="272" data-original-width="300" data-original-height="255" /></a></div>
 Na trilogia do filme O Senhor dos Anéis, acontece um enamorar por parte de uma personagem chamada Eowyn, vivida pela atriz Miranda Otto, em relação ao personagem Aragorn, interpretado pelo ator Viggo Mortensen. Na trama cinematográfica o telespectador aprende que Aragorn tem seu coração “voltado” para uma terceira personagem, a elfa Arwen vivida pela atriz Liv Tyler. Colocada a situação dessa maneira, durante o desenrolar da trilogia Eowyn se encanta por Aragorn e quer levar adiante esse sentimento demonstrando de forma respeitosa, delicada e sem vulgaridades ou apelos para o seu amado que esse é o seu desejo.</br>
 </br>
 Pois muito bem, Aragorn devolve na mesma moeda e para encerrar a questão e não deixar margem para falsas esperanças ele diz para a moça que “o que você busca eu não posso te dar”. Caros leitores, para os que por ventura ainda não saibam, os autores de Narnia e Senhor dos Anéis, autores católicos, deixaram claro em vida que tinham o anseio em transmitir na literatura que desenvolveram os traços da sua religiosidade. Os livros que escreveram deixam isso muito claro e as adaptações cinematográficas não ficaram atrás.</br>

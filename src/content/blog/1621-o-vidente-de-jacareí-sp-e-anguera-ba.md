@@ -1,10 +1,10 @@
 ---
 title: "O Vidente de Jacareí, SP e Anguera, BA"
 date: 2016-08-25T19:07:00Z
-heroImage: "/images/videntes.png"
+heroImage: "/images/posts/1621-o-vidente-de-jacareí-sp-e-anguera-ba-videntes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSLO21idTjnzcgWnBJO4lPUk5q_mEJrMebBeH0E_jf9rrGR534ZZuWlsef5r6NODUuJQQ-VPQSp830AliWREMngW3AP5H2I98HMzMNypQZIO1NONhrBwNYRxpcC88XjUkMiOtV6G50Q4/s1600/videntes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSLO21idTjnzcgWnBJO4lPUk5q_mEJrMebBeH0E_jf9rrGR534ZZuWlsef5r6NODUuJQQ-VPQSp830AliWREMngW3AP5H2I98HMzMNypQZIO1NONhrBwNYRxpcC88XjUkMiOtV6G50Q4/s320/videntes.png" width="320" height="246" data-original-width="336" data-original-height="258" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1621-o-vidente-de-jacareí-sp-e-anguera-ba-videntes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1621-o-vidente-de-jacareí-sp-e-anguera-ba-videntes.png" width="320" height="246" data-original-width="336" data-original-height="258" /></a></div>
 “Quem quiser acreditar que acredite, quem não quiser, que se dane, me deixe em paz. Passo por cima de todo mundo e faço o que eu quero, “tô” sempre com razão, eu nunca erro eu nunca me engano e eu não vou mudar meu jeito de ser e pronto acabou. E quem quiser ficar comigo fique, quem não quiser, me largue e me deixe, não preciso das pessoas pra nada. Como amigo eu sou muito bom, mas como inimigo eu sou melhor ainda”. Quem disse essas palavras foi Marcos Tadeu, o autoproclamado vidente das aparições de Jacareí, em resposta aos católicos que, com a igreja, defendem a reta doutrina católica. Belo perfil e humildade tem esse vidente hein pessoal! E ainda se diz consagrado a Maria. Que sacrilégio, um servo de Maria não age assim (Efésios 5,26).</br>
 </br>
 Pois bem caros leitores, após muitos anos de pesquisas e investigações particulares a respeito das aparições da Virgem Maria pelo mundo afora, através deste pequeno artigo irei colocar algumas questões que, de antemão, quero deixar claro que são de opinião própria. Adiante...

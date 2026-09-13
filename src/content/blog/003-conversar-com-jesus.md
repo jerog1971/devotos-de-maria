@@ -1,10 +1,10 @@
 ---
 title: "Conversar com Jesus"
 date: 2017-12-06T19:24:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/003-conversar-com-jesus-serm_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s1600/serm%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s320/serm%25C3%25A3o.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Se existe uma coisa que as pessoas gostam de fazer é conversar. Usam abusadamente da fala para expressarem as mais variadas situações, casos, assuntos, pontos de vista, pensamentos, ensinos, desabafos, alegrias, tristezas, ofensas, elogios e a lista não para tão cedo. De fato, as pessoas gostam de conversar, gostam de tagarelar e sofrem por conta disso o mal da língua que, como membro do corpo pode trabalhar para o bem ou para o mal.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/003-conversar-com-jesus-serm_25C3_25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="/images/posts/003-conversar-com-jesus-serm_25C3_25A3o.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Se existe uma coisa que as pessoas gostam de fazer é conversar. Usam abusadamente da fala para expressarem as mais variadas situações, casos, assuntos, pontos de vista, pensamentos, ensinos, desabafos, alegrias, tristezas, ofensas, elogios e a lista não para tão cedo. De fato, as pessoas gostam de conversar, gostam de tagarelar e sofrem por conta disso o mal da língua que, como membro do corpo pode trabalhar para o bem ou para o mal.
 
 Tiago 1,26 – “Se alguém pensa ser piedoso, mas não refreia a sua língua e engana o seu coração, então é vã a sua religião.”
 

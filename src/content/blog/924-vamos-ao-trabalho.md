@@ -1,10 +1,10 @@
 ---
 title: "Vamos ao trabalho"
 date: 2020-08-20T23:15:00.002Z
-heroImage: "/images/sempre devemos trabalhar.png"
+heroImage: "/images/posts/924-vamos-ao-trabalho-trabalhar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedpEkKXZngaFpnsRBvavxdrXgQ3nYF41_y-K5FZ_fjIJXg5KWjRG2pCqFVNX9zfbnAtSMzDBLrL5SU3cvYUbrLgBcnZLF_d0Wc-j0g5lqVglIAfO6hyphenhyphenObj4g_N1RobJdhEjxgTnBGYG4/s314/trabalhar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedpEkKXZngaFpnsRBvavxdrXgQ3nYF41_y-K5FZ_fjIJXg5KWjRG2pCqFVNX9zfbnAtSMzDBLrL5SU3cvYUbrLgBcnZLF_d0Wc-j0g5lqVglIAfO6hyphenhyphenObj4g_N1RobJdhEjxgTnBGYG4/s0/trabalhar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 21-28-31 – “Que vos parece? Um homem tinha dois
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/924-vamos-ao-trabalho-trabalhar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="314" src="/images/posts/924-vamos-ao-trabalho-trabalhar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 21-28-31 – “Que vos parece? Um homem tinha dois
 filhos. Dirigindo-se ao primeiro, disse-lhe: - Meu filho, vai trabalhar hoje na
 vinha. Respondeu ele: - Não quero. Mas, em seguida, tocado de arrependimento,
 foi. Dirigindo-se depois ao outro, disse-lhe a mesma coisa. O filho respondeu:

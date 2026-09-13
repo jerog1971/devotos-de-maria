@@ -1,10 +1,10 @@
 ---
 title: "Porque os Papas mudam de nome"
 date: 2025-05-08T21:36:00.002Z
-heroImage: "/images/o primeiro papa.png"
+heroImage: "/images/posts/1856-porque-os-papas-mudam-de-nome-o_20primeiro_20papa.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQySCInLR2auRbP5TsceJVPzOWR5Ctr5QFEooytinMi7f5ojnaYHpmQx-bWfF8f6Aey11BQMUpxRqULqO8ZaUCDC0xX5tTb7ZuS5TSFy0n4CXkfIPgsqp1Oo0xqDyJDlN7ZYGOlkwqpiBoedvrOM6NR-ha2sA_0g4U0TxEq2oX_5wot6TE7FsIrnOBNhM/s392/o%20primeiro%20papa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="321" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQySCInLR2auRbP5TsceJVPzOWR5Ctr5QFEooytinMi7f5ojnaYHpmQx-bWfF8f6Aey11BQMUpxRqULqO8ZaUCDC0xX5tTb7ZuS5TSFy0n4CXkfIPgsqp1Oo0xqDyJDlN7ZYGOlkwqpiBoedvrOM6NR-ha2sA_0g4U0TxEq2oX_5wot6TE7FsIrnOBNhM/s320/o%20primeiro%20papa.png" width="262" /></a></div><br />&nbsp;
+<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1856-porque-os-papas-mudam-de-nome-o_20primeiro_20papa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="321" height="320" src="/images/posts/1856-porque-os-papas-mudam-de-nome-o_20primeiro_20papa.png" width="262" /></a></div><br />&nbsp;
 
 <p></p><p class="MsoNormal">Até o século VI, os Papas não mudavam de nome. Ao assumirem
 a cátedra de São Pedro, mantinham todos o nome de batismo. Até que escolheram

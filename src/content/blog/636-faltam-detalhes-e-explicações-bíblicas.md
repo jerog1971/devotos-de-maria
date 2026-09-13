@@ -1,10 +1,10 @@
 ---
 title: "Faltam detalhes e explicações bíblicas"
 date: 2022-01-20T20:43:00.003Z
-heroImage: "/images/21.png"
+heroImage: "/images/posts/636-faltam-detalhes-e-explicações-bíblic-img-1120786407.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEg6dCgK4xm36VgGiN6teuofp9tthOK7UjZzM7cZrmuKtPCiRDYZ21YgmkgE_2GslRM-l92v8n3csIKGlbLyyt14spnyqPfxmfmyfwIYiuZHZ1bQRk-g7trSYGOwvLJ47TYxXHn75mu7pAasWHx91MaQnCRmsAjJIdslHl-myoDmBKX6ZE7JWr9sE5rx=s214" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" height="272" src="https://blogger.googleusercontent.com/img/a/AVvXsEg6dCgK4xm36VgGiN6teuofp9tthOK7UjZzM7cZrmuKtPCiRDYZ21YgmkgE_2GslRM-l92v8n3csIKGlbLyyt14spnyqPfxmfmyfwIYiuZHZ1bQRk-g7trSYGOwvLJ47TYxXHn75mu7pAasWHx91MaQnCRmsAjJIdslHl-myoDmBKX6ZE7JWr9sE5rx=w248-h272" width="248" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente qualquer pessoa que dedicou grande parte de seu
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/636-faltam-detalhes-e-explicações-bíblic-img-1120786407.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" height="272" src="/images/posts/636-faltam-detalhes-e-explicações-bíblic-img-399637148.jpg" width="248" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente qualquer pessoa que dedicou grande parte de seu
 tempo em estudar a bíblia se deparou com muitas falhas dentro da mesma. A
 quantidade de coisas que não possuem explicações claras e a falta de coerência nas
 narrativas, seja aqui ou acolá, coloca naturalmente muita dúvida sobre os

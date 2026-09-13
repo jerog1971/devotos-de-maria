@@ -1,10 +1,10 @@
 ---
 title: "Que bom quando Deus está de acordo conosco"
 date: 2024-01-07T17:12:00.004Z
-heroImage: "/images/precisar.png"
+heroImage: "/images/posts/1045-que-bom-quando-deus-está-de-acordo-conosco-precisar.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQXBajbA2LF71TbgKf5lzQ-Bpbzhyphenhyphenl0_tfy3AItlxEYC8jU42jn13dQdHRZIQOMljsBBUuPpABZbjkE4LC7ec3b4Viag_bdN_B1odwAWxFXmjVECrHIQrBqEVMs7LEMcZCpa26FE1UAnMrqwG5qEnk9JHqoHerPnSD5-LUQMwdU5NBNRCsv83DrspZB1I/s273/precisar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="273" height="264" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQXBajbA2LF71TbgKf5lzQ-Bpbzhyphenhyphenl0_tfy3AItlxEYC8jU42jn13dQdHRZIQOMljsBBUuPpABZbjkE4LC7ec3b4Viag_bdN_B1odwAWxFXmjVECrHIQrBqEVMs7LEMcZCpa26FE1UAnMrqwG5qEnk9JHqoHerPnSD5-LUQMwdU5NBNRCsv83DrspZB1I/s1600/precisar.png" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, quando pedimos, pedimos e pedimos e parece Deus não
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1045-que-bom-quando-deus-está-de-acordo-conosco-precisar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="273" height="264" src="/images/posts/1045-que-bom-quando-deus-está-de-acordo-conosco-precisar.png" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, quando pedimos, pedimos e pedimos e parece Deus não
 estar nem aí para nossas súplicas corremos rapidamente a reclamar dele para
 todos e, infelizmente, esses brados raivosos são ouvidos até pelo mais atento
 dos ouvintes: o demônio. Mal sabemos que o erro é gravíssimo, além de ser

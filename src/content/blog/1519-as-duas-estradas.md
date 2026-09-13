@@ -1,10 +1,10 @@
 ---
 title: "As duas estradas"
 date: 2016-07-25T12:00:00.001Z
-heroImage: "/images/porta_estreita.png"
+heroImage: "/images/posts/1519-as-duas-estradas-porta_estreita.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p9bqXlAgfyaBOQMaXbX06_pr_-xpb2ajzQ5WiNBs03sMDw48AqwDzFNAW4zshdyLnKGQ2UDt2r4BFx9W6W27Xz9-gnySEMe3n-wsfNpmvHUlLKi41ig8MS7EfBS6BG-Bt063eG-a8T8/s1600/porta_estreita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p9bqXlAgfyaBOQMaXbX06_pr_-xpb2ajzQ5WiNBs03sMDw48AqwDzFNAW4zshdyLnKGQ2UDt2r4BFx9W6W27Xz9-gnySEMe3n-wsfNpmvHUlLKi41ig8MS7EfBS6BG-Bt063eG-a8T8/s320/porta_estreita.png" width="255" height="320" data-original-width="323" data-original-height="405" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1519-as-duas-estradas-porta_estreita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1519-as-duas-estradas-porta_estreita.png" width="255" height="320" data-original-width="323" data-original-height="405" /></a></div>
 </br>
 Um dia, vi duas estradas:</br>
 </br>

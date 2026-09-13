@@ -1,10 +1,10 @@
 ---
 title: "Foco nos detalhes"
 date: 2024-05-24T19:41:00.007Z
-heroImage: "/images/foco nos detalhes.jpg"
+heroImage: "/images/posts/659-foco-nos-detalhes-foco_20nos_20detalhes.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5eyLwqlXNjfNCt8dpS1Ml0h8jpBsyeltWn_YLMi7c7WsS29lM7TSLW6R4zewEn9AYmQaJ77tcwMy2tE2mmXPyMNXgFd1Rujdp8s0T9uKM9sVECeopqQ4Vzb9Xu_YW18EaveKXGPiOM2yoLxxz38qDEYOlrPNolxaXFGhGmZ2tzYHNwi_vOXPg0WSxqc/s1600/foco%20nos%20detalhes.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5eyLwqlXNjfNCt8dpS1Ml0h8jpBsyeltWn_YLMi7c7WsS29lM7TSLW6R4zewEn9AYmQaJ77tcwMy2tE2mmXPyMNXgFd1Rujdp8s0T9uKM9sVECeopqQ4Vzb9Xu_YW18EaveKXGPiOM2yoLxxz38qDEYOlrPNolxaXFGhGmZ2tzYHNwi_vOXPg0WSxqc/s320/foco%20nos%20detalhes.jpg" width="180" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ser um bom observador ajuda muito. De fato, quando paramos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/659-foco-nos-detalhes-foco_20nos_20detalhes.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="/images/posts/659-foco-nos-detalhes-foco_20nos_20detalhes.jpg" width="180" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ser um bom observador ajuda muito. De fato, quando paramos
 para prestar a atenção nas coisas podemos colher bons frutos e perceber os
 frutos ruins que não devemos pegar. Não é novidade a questão, já líamos na bíblia
 que tudo nos é apresentado, mas nem tudo nos convém; também já aprendemos na santa

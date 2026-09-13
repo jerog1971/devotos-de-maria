@@ -1,10 +1,10 @@
 ---
 title: "Passando o tempo pensando"
 date: 2021-08-17T16:16:00.002Z
-heroImage: "/images/tempo.png"
+heroImage: "/images/posts/126-passando-o-tempo-pensando-passando_o_tempo.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIHO97tDUWjkr_-Lnb5uJyon1Q311Fx_H4sIYcK0TG5zVkTbMkQ-pgNsZBENMAIlxq89FjRdyD2amF5fnAc2UeNbtX1xUPSVd6HBHsHMyw9RUCMIpURuBzKePV94Y32AGFI114tKASVK0/s533/passando+o+tempo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="522" data-original-width="533" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIHO97tDUWjkr_-Lnb5uJyon1Q311Fx_H4sIYcK0TG5zVkTbMkQ-pgNsZBENMAIlxq89FjRdyD2amF5fnAc2UeNbtX1xUPSVd6HBHsHMyw9RUCMIpURuBzKePV94Y32AGFI114tKASVK0/s320/passando+o+tempo.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Quão precioso é nosso tempo; todo dia ao acordarmos supomos
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/126-passando-o-tempo-pensando-passando_o_tempo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="522" data-original-width="533" height="313" src="/images/posts/126-passando-o-tempo-pensando-passando_o_tempo.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Quão precioso é nosso tempo; todo dia ao acordarmos supomos
 que Deus nos concedeu para este dia um “crédito” de vinte e quatro horas, para
 ser gasto da forma que quisermos. O cristão, aquele que sabe que deve viver o
 seu dia como se fosse o último e estar com sua “mala” pronta para a viagem, pois,

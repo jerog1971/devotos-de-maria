@@ -1,10 +1,10 @@
 ---
 title: "Fatos da depressão"
 date: 2017-10-26T19:32:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1831-fatos-da-depressão-depress_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGm9yzmX1-Ln5W4EazO1AN9NJnZkUyx1-TbYk8faSNG8Ki6u6rt8nldL2TGwl4BRp_tpOkgkrdZZQnyxmfgKoCA9WaOv3UgKYDWZmYBKEQa7maSowMru2O6nfKT1YUqw8N0fuW1OaX9ZE/s1600/depress%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGm9yzmX1-Ln5W4EazO1AN9NJnZkUyx1-TbYk8faSNG8Ki6u6rt8nldL2TGwl4BRp_tpOkgkrdZZQnyxmfgKoCA9WaOv3UgKYDWZmYBKEQa7maSowMru2O6nfKT1YUqw8N0fuW1OaX9ZE/s320/depress%25C3%25A3o.png" width="320" height="310" data-original-width="283" data-original-height="274" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1831-fatos-da-depressão-depress_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1831-fatos-da-depressão-depress_25C3_25A3o.png" width="320" height="310" data-original-width="283" data-original-height="274" /></a></div>
 Está comprovadamente anunciado que a depressão já é a doença mais incapacitante do mundo. Segundo pesquisas, nos últimos dezesseis anos, as mortes por depressão cresceram pouco mais de 700% aqui no Brasil. Também já se sabe que a depressão já é a maior causa de suicídios e somente neste ano de 2017, oitocentos mil jovens já se mataram. Vale mencionar que este número de mortes supera o número de mortes por HIV, o vírus da AIDS. Segundo estudos, verificou-se que sete entre dez pessoas não sabem que sofrem de depressão e aqui em nosso país, sabe-se que o número de pessoas depressivas já ultrapassou a marca de 11 milhões de pessoas. Recordem que caminhamos para a marca populacional de 300 milhões.</br>
 </br>
 Pois bem, agora quem vos fala, fala com conhecimento católico e uma pouca experiência de vida que alcançou a marca de 46 anos. Em todas as pesquisas, todas as conversas, todos os testemunhos, documentários ou onde quer que se leia a respeito do tema depressão, é possível enxergar nas entrelinhas um pré-requisito. Falo, vamos ter em mente, com conhecimento de causa cristão.</br>

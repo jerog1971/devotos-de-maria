@@ -1,10 +1,10 @@
 ---
 title: "A Preguiça pode te condenar"
 date: 2016-04-06T12:43:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1615-a-preguiça-pode-te-condenar-pregui_25C3_25A7a.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSiN5nYA7bMP-R7c-VuDBYspzIgEAfIXxYGTeKRFzUXgqf0uToWRW83GD-jf_Usdi00s4DP2vTm3LEE5sHqb0oDlkGJCraf8TK8P4fiYJbqOusJ2u86OziK-89LRCq5nzfbsMzRYJvRFw/s1600/pregui%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSiN5nYA7bMP-R7c-VuDBYspzIgEAfIXxYGTeKRFzUXgqf0uToWRW83GD-jf_Usdi00s4DP2vTm3LEE5sHqb0oDlkGJCraf8TK8P4fiYJbqOusJ2u86OziK-89LRCq5nzfbsMzRYJvRFw/s320/pregui%25C3%25A7a.png" width="320" height="216" data-original-width="317" data-original-height="214" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1615-a-preguiça-pode-te-condenar-pregui_25C3_25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1615-a-preguiça-pode-te-condenar-pregui_25C3_25A7a.png" width="320" height="216" data-original-width="317" data-original-height="214" /></a></div>
 A preguiça é um mal muito severo e perigoso que nosso inimigo cruel enfeita com tantos adereços para torna-la atrativa e sedutora. Assim, como bem sabemos, sempre age satanás pois ele não pode nos oferecer as ocasiões de pecado de forma direta e transparente. Ele precisa disfarçar e iludir, misturar verdades com mentiras e decorar bem o prato do pecado para que seja atrativo aos sentidos do corpo e da alma.</br>
 </br>
 Sobretudo devemos ter em mente que, sendo um mal, a preguiça nos atinge de várias formas e pode ser diretamente um pecado grave ou um pecado venial. Ou ainda uma ocasião de pecado. Sendo assim podemos enxergar que ela nunca irá brotar de uma fonte saudável para a vida do católico. Já dizia Jesus que de uma árvore boa não pode dar fruto ruim e de uma árvore ruim não pode se colher bons frutos.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Os sacramentos católicos tem base bíblica?"
 date: 2020-04-07T21:27:00.001Z
-heroImage: "/images/Os perigos da Igreja.png"
+heroImage: "/images/posts/1732-os-sacramentos-católicos-tem-base-b-igreja.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5hMbBA9DYAxSBNP8kgbvDMuaKmEQQIybH3v6K2MD2YDzltd6lOQofZiWZ0C7nV4dju5n9iixLwvjDcoQoy45j0EtJYKqh2RPPztDnmhkbFmiPCd1N5SqtAKgt2af4mRX8tMExsET2Ew/s1600/igreja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5hMbBA9DYAxSBNP8kgbvDMuaKmEQQIybH3v6K2MD2YDzltd6lOQofZiWZ0C7nV4dju5n9iixLwvjDcoQoy45j0EtJYKqh2RPPztDnmhkbFmiPCd1N5SqtAKgt2af4mRX8tMExsET2Ew/s320/igreja.png" width="320" height="215" data-original-width="637" data-original-height="427" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1732-os-sacramentos-católicos-tem-base-b-igreja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1732-os-sacramentos-católicos-tem-base-b-igreja.png" width="320" height="215" data-original-width="637" data-original-height="427" /></a></div>
 A igreja romana defende que sim e ilustra sua crença em algumas passagens retiradas com pinça para comprovar o que afirmam. Para cada sacramento existe algum versículo; ela ensina que foram instituídos por Jesus e fazem parte do cristianismo proferido pelos católicos apostólicos romanos. No entanto o poder santificante dos sacramentos, tão propagado e defendido por muitos esbarra numa grande realidade que muita gente pode experimentar por si própria.</br>
 </br>
 Não é todo mundo que pode dizer que depois do sacramento tornou-se outra pessoa. E antes da reflexão já vamos colocando que se ensina que os sacramentos atuam na medida da disposição do penitente, não possuem uma força motriz que independe do sujeito. Vamos lá. O sujeito comunga e confessa muitas vezes durante sua vida. Ao olhar em certa altura para ela pode dizer que se tornou pessoa melhor? Pode dizer que foi por causa desses dois sacramentos? Ademais se diz que eles fornecem graças espirituais. Tudo muito abstrato e por isso precisam as pessoas se ancorarem fortemente na fé para colherem algum fruto.</br>

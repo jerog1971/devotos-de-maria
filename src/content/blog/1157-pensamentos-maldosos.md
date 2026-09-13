@@ -1,10 +1,10 @@
 ---
 title: "Pensamentos Maldosos"
 date: 2024-12-19T17:42:00.004Z
-heroImage: "/images/mal.png"
+heroImage: "/images/posts/1157-pensamentos-maldosos-pensamentos_20maldosos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOiRtaJcNNThPjVF3mGTzYzUCvZJt8h9_hDGi8fdrkK-PEEYlhd9N0sEMwMGSkINPBrYXWRNDf4E-8iaJxEJqt3aPC5cgHW1-GGAI9sphp5RUEMFRePOqI_J5fIWNQ5VyySjSSXATS75zcVxPnMPDcBfFhvXX1NOW2OAT6ztI34yXq999R2pQHkMurDw/s441/pensamentos%20maldosos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="429" data-original-width="441" height="311" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOiRtaJcNNThPjVF3mGTzYzUCvZJt8h9_hDGi8fdrkK-PEEYlhd9N0sEMwMGSkINPBrYXWRNDf4E-8iaJxEJqt3aPC5cgHW1-GGAI9sphp5RUEMFRePOqI_J5fIWNQ5VyySjSSXATS75zcVxPnMPDcBfFhvXX1NOW2OAT6ztI34yXq999R2pQHkMurDw/s320/pensamentos%20maldosos.png" width="320" /></a></div><br />&nbsp;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1157-pensamentos-maldosos-pensamentos_20maldosos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="429" data-original-width="441" height="311" src="/images/posts/1157-pensamentos-maldosos-pensamentos_20maldosos.png" width="320" /></a></div><br />&nbsp;
 
 <p></p><p class="MsoNormal">O pensamento de um homem pode direcioná-lo de várias formas
 e para situações bem diferentes. A inquietude da alma, já dizia o padre que escreveu

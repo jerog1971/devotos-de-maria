@@ -1,10 +1,10 @@
 ---
 title: "O início das famílias"
 date: 2021-12-01T16:16:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/054-o-início-das-famílias-O_in_25C3_25ADcio_das_fam_25C3_25ADlias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jdKpTrzTRS8pwM_hl_H4naJ8Tmh_MMtbC-hTBYPGDJ4yqjiBqf_4_oOZpffgmXclzRbJTMfOC_bJnrKDaqseOLhhooXgAqDJMIDrppq3FeuBxJiVy54BYYpd80KSc-rHGNy9VQhrCPw/s1577/O+in%25C3%25ADcio+das+fam%25C3%25ADlias.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1577" data-original-width="1070" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jdKpTrzTRS8pwM_hl_H4naJ8Tmh_MMtbC-hTBYPGDJ4yqjiBqf_4_oOZpffgmXclzRbJTMfOC_bJnrKDaqseOLhhooXgAqDJMIDrppq3FeuBxJiVy54BYYpd80KSc-rHGNy9VQhrCPw/s320/O+in%25C3%25ADcio+das+fam%25C3%25ADlias.png" width="217" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Existe o tempo para tudo, lemos no livro do Eclesiastes.
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/054-o-início-das-famílias-O_in_25C3_25ADcio_das_fam_25C3_25ADlias.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1577" data-original-width="1070" height="320" src="/images/posts/054-o-início-das-famílias-O_in_25C3_25ADcio_das_fam_25C3_25ADlias.png" width="217" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Existe o tempo para tudo, lemos no livro do Eclesiastes.
 Tempo para acertar, tempo para errar, tempo a não se perder, para se
 arrepender, tempo para se dedicar aos valores que importam e as pessoas que se
 importam conosco e com as quais nos importamos. Hoje, aos 50 anos e vivendo

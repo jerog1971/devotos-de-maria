@@ -1,10 +1,10 @@
 ---
 title: "Ofensas contra Jesus e Maria Santíssima"
 date: 2017-01-20T16:08:00Z
-heroImage: "/images/Aparecida.png"
+heroImage: "/images/posts/1587-ofensas-contra-jesus-e-maria-santíssima-aparecida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkwF4iLU894o7zWNm2wpzpkMwsDPznLmleXDFBdRQIAN3BXItB_ys1ayaCX9l9bY5IvdNBqk9tPCshb2dFpTFBC8TglJsAQ2TP6IpVCj7nrSv5pyZf15L_QKTXYU-z1CNVcBfj0GRDKw/s1600/aparecida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkwF4iLU894o7zWNm2wpzpkMwsDPznLmleXDFBdRQIAN3BXItB_ys1ayaCX9l9bY5IvdNBqk9tPCshb2dFpTFBC8TglJsAQ2TP6IpVCj7nrSv5pyZf15L_QKTXYU-z1CNVcBfj0GRDKw/s320/aparecida.png" width="320" height="318" data-original-width="317" data-original-height="315" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1587-ofensas-contra-jesus-e-maria-santíssima-aparecida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1587-ofensas-contra-jesus-e-maria-santíssima-aparecida.png" width="320" height="318" data-original-width="317" data-original-height="315" /></a></div>
 Quando uma pastora quebra uma imagem de Nossa Senhora Aparecida com marretadas, é porque ela sabe que os católicos brasileiros estão cada vez mais frios e pouco devotos de Nossa Mãe. E que nenhuma voz do clero vai se levantar em defesa dEla. <a href="https://gloria.tv/video/YEszyJb88sNj468sq4pChrqLn">(clique aqui para assistir o vídeo da pastora)</a></br>
 </br>
 Quando um pastor cobra 8 milhões para se tocar em sua camisa ensanguentada, que produziria milagres... comete-se mais um pecado horrível contra Nosso Senhor Jesus Cristo que...verteu sangue abundantemente para nos salvar, não cobrou nada, e agora vê as almas que ele resgatou acreditar em charlatães.</br>

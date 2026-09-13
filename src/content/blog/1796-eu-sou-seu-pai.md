@@ -1,10 +1,10 @@
 ---
 title: "Eu sou seu pai"
 date: 2019-06-03T15:23:00.003Z
-heroImage: "/images/darth_vader.png"
+heroImage: "/images/posts/1796-eu-sou-seu-pai-darth_vader.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkJYL9OA3cby4PzJ43JmQXTvnLf-C1QTVIJsZx-zoYti-skn7At_w26kUtCOlOATUKlnWPd1u3pQwpFiiHn0E87JKuyapvOokn8lbqF05ocKPef4P5cVIzfZr6LRLD_sYRYUtqTMGiY28/s1600/darth_vader.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkJYL9OA3cby4PzJ43JmQXTvnLf-C1QTVIJsZx-zoYti-skn7At_w26kUtCOlOATUKlnWPd1u3pQwpFiiHn0E87JKuyapvOokn8lbqF05ocKPef4P5cVIzfZr6LRLD_sYRYUtqTMGiY28/s320/darth_vader.png" width="320" height="252" data-original-width="1279" data-original-height="1006" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1796-eu-sou-seu-pai-darth_vader.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1796-eu-sou-seu-pai-darth_vader.png" width="320" height="252" data-original-width="1279" data-original-height="1006" /></a></div>
 Na saga Star Wars acontece a revelação de que Anakin Skywalker é pai de Luke. No meio de uma batalha entre eles, um representando o mal e o outro o bem, Luke recebe do então Darth Vader essa revelação, como última tentativa de traze-lo para si, para o lado negro da força a fim de governarem a galáxia juntos.</br>
 </br>
 Como dito acima, neste filme de ficção vimos que o pai de Luke o quer contigo para juntos governarem a galáxia, porém, Luke, convencido dos ideais errôneos do pai, não abre mão de suas convicções sobre o que é certo e segue em frente o seu caminho lutando pelo bem. Em nossas vidas as coisas não acontecem exatamente dessa maneira? O diabo, disfarçado de bonzinho e bom provedor das facilidades e prazeres, ao nos esticar a mão nos oferece nada menos do que suas mentiras. Tenta nos convencer, ao bom estilo amigo da onça, que ele é a vítima da história e que Deus quer o mesmo para cada um de nós.</br>

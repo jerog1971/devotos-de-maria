@@ -1,10 +1,10 @@
 ---
 title: "Perseguições"
 date: 2022-09-26T20:21:00.001Z
-heroImage: "/images/perseguições(1).png"
+heroImage: "/images/posts/591-perseguições-persegui_C3_A7_C3_B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8lOKnkn27KqFf_Q6VvUkNwdelyCwmixS3LsBaIpVxCEJls5tC9q_2QLty6gofhtbW98ijfY7Jfb9gAx0nBu7hix3dfQCgO4GZqxWRCHHWnFr4r3O_si86cxM8MuCNggF7HbIbQESzihBcH8ulXk3jG25tyxcr8qW9Zr1pcy6erP7TaRC4SusQ1oMb/s150/persegui%C3%A7%C3%B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="149" height="199" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8lOKnkn27KqFf_Q6VvUkNwdelyCwmixS3LsBaIpVxCEJls5tC9q_2QLty6gofhtbW98ijfY7Jfb9gAx0nBu7hix3dfQCgO4GZqxWRCHHWnFr4r3O_si86cxM8MuCNggF7HbIbQESzihBcH8ulXk3jG25tyxcr8qW9Zr1pcy6erP7TaRC4SusQ1oMb/w198-h199/persegui%C3%A7%C3%B5es.png" width="198" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div>Certamente todo mundo, arrisco dizer, já deve ter passado
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/591-perseguições-persegui_C3_A7_C3_B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="149" height="199" src="/images/posts/591-perseguições-persegui_C3_A7_C3_B5es.png" width="198" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div>Certamente todo mundo, arrisco dizer, já deve ter passado
 pela experiência de se perguntar: “o que será que fiz para Deus para merecer
 tudo isso”. Senão exatamente com estas palavras, com outras que significam a mesma
 coisa. Vive-se numa sensação de perseguição constante; mal termina um problema,

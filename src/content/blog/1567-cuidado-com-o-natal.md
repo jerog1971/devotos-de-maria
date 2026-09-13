@@ -1,10 +1,10 @@
 ---
 title: "Cuidado com o Natal"
 date: 2019-12-20T17:50:00Z
-heroImage: "/images/natal.png"
+heroImage: "/images/posts/1567-cuidado-com-o-natal-natal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrqyzfY_dqv17R9xcCg1myi9NhbNPYhCBw-KvD8DdqI9qJBeNd5sPNcHrDbE74NSFIF0q28aR0QjiFV3RclUAdfXKid4j8V2Pg6NwcCqbyrOMsdUQXfgsOegKx2WRIf610mwYX49vjWM/s1600/natal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrqyzfY_dqv17R9xcCg1myi9NhbNPYhCBw-KvD8DdqI9qJBeNd5sPNcHrDbE74NSFIF0q28aR0QjiFV3RclUAdfXKid4j8V2Pg6NwcCqbyrOMsdUQXfgsOegKx2WRIf610mwYX49vjWM/s320/natal.png" width="309" height="320" data-original-width="275" data-original-height="285" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1567-cuidado-com-o-natal-natal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1567-cuidado-com-o-natal-natal.png" width="309" height="320" data-original-width="275" data-original-height="285" /></a></div>
 E aí, a data em que se comemora o nascimento de Jesus Cristo, que trouxe uma mudança de escala mundial na história da humanidade está sendo recebida por você da mesma forma que o ano passado? É mais uma data em que não se trabalha, as lojas ficam abarrotadas de pessoas gastando o que não poderiam com lembrancinhas e presentes para todos? Imagine, pensa você, o que é que vão pensar se eu não der um presentinho, uma lembrancinha. É só para não passar em branco.</br>
 </br>
 Pobre Jesus, seu presépio desapareceu, agora, para não dizer a muito tempo, até São Nicolau foi transformado em bom velhinho e recebeu pela empresa Coca-Cola uma roupa vermelha (a original era verde). Em alguns momentos até se tentou atribuir para a data duas comemorações; diziam que no natal se comemorava o nascimento do menino Jesus e a vinda do papai Noel, duas situações bem diferentes. Papai Noel ficava com a questão dos presentes e Jesus com os bons votos para o fim do ano e ano que iria começar. Paz, saúde, prosperidade, essas coisas.</br>

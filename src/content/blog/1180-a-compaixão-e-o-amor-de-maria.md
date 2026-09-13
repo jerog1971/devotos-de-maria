@@ -1,10 +1,10 @@
 ---
 title: "A compaixão e o amor de Maria"
 date: 2015-09-25T15:58:00.001Z
-heroImage: "/images/glorias_de_maria.png"
+heroImage: "/images/posts/1180-a-compaixão-e-o-amor-de-maria-glorias_de_maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRR5lcIDRCoXixoIuwe__E8P8HzK9daaSobA1B2WKTGGLxgCPzaHxApCETWYlF0-v5okSaC27vUif72lYK2PL7yahotAdIOfE7ctjLIR_MPm8K4PQpQaGe76pD-hnSrGXZrzUW4XRt6U/s1600/glorias_de_maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRR5lcIDRCoXixoIuwe__E8P8HzK9daaSobA1B2WKTGGLxgCPzaHxApCETWYlF0-v5okSaC27vUif72lYK2PL7yahotAdIOfE7ctjLIR_MPm8K4PQpQaGe76pD-hnSrGXZrzUW4XRt6U/s320/glorias_de_maria.png" width="231" height="320" data-original-width="247" data-original-height="342" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1180-a-compaixão-e-o-amor-de-maria-glorias_de_maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1180-a-compaixão-e-o-amor-de-maria-glorias_de_maria.png" width="231" height="320" data-original-width="247" data-original-height="342" /></a></div>
 </br>
 Conta o Padre Bóvio que uma mulher perdida, chamada Helena, foi um dia à igreja e aí ouviu casualmente um sermão sobre o rosário. Saindo, trocou-se um rosário; mas trazia-o escondido, para que não fosse visto. Começou logo a rezá-lo. E ainda que o recitasse sem devoção, a Santíssima Virgem lhe infundiu tantas consolações e doçura em rezar, que depois não podia deixar de o fazer. Ao mesmo tempo nela inspirou o Senhor um profundo nojo da má vida que levava. Helena não podia encontrar mais repouso e viu-se como impelida a ir confessar-se. Realmente confessou-se com tanta contrição, que fez pasmar o confessor.</br>
 </br>

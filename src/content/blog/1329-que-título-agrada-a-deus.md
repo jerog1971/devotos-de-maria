@@ -1,10 +1,10 @@
 ---
 title: "Que título agrada a Deus?"
 date: 2016-06-30T14:02:00Z
-heroImage: "/images/estudar.png"
+heroImage: "/images/posts/1329-que-título-agrada-a-deus-estudar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTIAuqtjJk8ZWlNmUR71akC8RvF1EI0sftCHSa1BzUlZvy3sFU9plrFDUc3XbYBiWwBjooqjCSc4hDJWv3zJZBjZYfC5RFABfBbIVOx8IX1b4r7b-M5UcX_8fpfida1StJ6w5w3DxYffo/s1600/estudar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTIAuqtjJk8ZWlNmUR71akC8RvF1EI0sftCHSa1BzUlZvy3sFU9plrFDUc3XbYBiWwBjooqjCSc4hDJWv3zJZBjZYfC5RFABfBbIVOx8IX1b4r7b-M5UcX_8fpfida1StJ6w5w3DxYffo/s320/estudar.png" width="320" height="310" data-original-width="328" data-original-height="318" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1329-que-título-agrada-a-deus-estudar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1329-que-título-agrada-a-deus-estudar.png" width="320" height="310" data-original-width="328" data-original-height="318" /></a></div>
 Certa vez, numa palestra que participei sobre ideologia de gênero, proferida pelo pró-vida professor Felipe Neri testemunhei, assim como todos os presentes, uma contra resposta referente a apresentação que o organizador do evento fez em menção aos diversos cursos e diplomas que o professor tinha. Após toda a lista ter sido apresentada, o professor Felipe Neri, dirigiu-se ao palco do auditório, empunhou o microfone e disse:</br>
 </br>
 “Boa tarde a todos, antes de mais nada quero ressaltar que foi esquecido de mencionar algumas coisas referentes a minha apresentação que são as mais importantes. Eu sou filho de Deus, católico e pai de cinco filhos, quatro vivos e um falecido, todos com a mesma mulher, minha esposa”.</br>

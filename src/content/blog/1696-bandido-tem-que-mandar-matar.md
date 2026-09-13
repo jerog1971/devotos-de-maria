@@ -1,10 +1,10 @@
 ---
 title: "Bandido tem que mandar matar"
 date: 2019-05-08T20:12:00.001Z
-heroImage: "/images/assalto.png"
+heroImage: "/images/posts/1696-bandido-tem-que-mandar-matar-assalto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUWv0ZvQkitCOcOpOP79sVtRxVD7Tm8GX8RLnXOSbsvYtCYPHTZIK5Owxs9U8XGt-lOMOczMm3qJx3yKRN23ZjbBJJ1vzIEfKZprNmsc4gz954ii2F6iZhmmT5OokD3nXy-Qd1n-49B8/s1600/assalto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUWv0ZvQkitCOcOpOP79sVtRxVD7Tm8GX8RLnXOSbsvYtCYPHTZIK5Owxs9U8XGt-lOMOczMm3qJx3yKRN23ZjbBJJ1vzIEfKZprNmsc4gz954ii2F6iZhmmT5OokD3nXy-Qd1n-49B8/s320/assalto.png" width="320" height="215" data-original-width="571" data-original-height="384" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1696-bandido-tem-que-mandar-matar-assalto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1696-bandido-tem-que-mandar-matar-assalto.png" width="320" height="215" data-original-width="571" data-original-height="384" /></a></div>
 Essa e tantas outras frases que muitas pessoas já ouviram, e quem sabe até falaram, denotam duas coisas: um sinal de revolta e um sinal grave de falta de fé. Vamos entender.</br>
 </br>
 O sujeito que é uma pessoa de bem, se esforça para levar uma vida honesta, acorda cedo, estuda, trabalha, ganha pouco e precisa gerenciar com maestria seu salário, passa muito tempo atrás do ganha pão e pouco com a família e no lazer, sabe muito bem o que é viver sob a sensação constante das dificuldades que circulam sua vida. Uma pessoa assim, quando houve alguma notícia contrária ao que é bom, salutar e que atesta contra o pudor, a moral e a modéstia, de forma natural ou até impulsiva, quem sabe instintiva, reage ao ocorrido com um tom de revolta. Se testemunhou o fato ou vivenciou, a dose da revolta pode ser maior ainda. </br>

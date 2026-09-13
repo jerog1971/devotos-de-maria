@@ -1,10 +1,10 @@
 ---
 title: "O ódio é coisa boa sabia?"
 date: 2016-05-09T13:51:00Z
-heroImage: "/images/odio.png"
+heroImage: "/images/posts/1619-o-ódio-é-coisa-boa-sabia-odio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZQT33fuTTh4KB1KV3O-5SLifsLMJaZ70GWq7lWHn6QxZR45XOFamcr-Rov39RV2ya1D4KPMGrQdF6EhVdFzl_rXwb3Bio8Ae0qUN03Gq950iMD-4xS77gYd9rSQpn06rJqxJ-bpZtuM/s1600/odio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZQT33fuTTh4KB1KV3O-5SLifsLMJaZ70GWq7lWHn6QxZR45XOFamcr-Rov39RV2ya1D4KPMGrQdF6EhVdFzl_rXwb3Bio8Ae0qUN03Gq950iMD-4xS77gYd9rSQpn06rJqxJ-bpZtuM/s320/odio.png" width="320" height="197" data-original-width="486" data-original-height="299" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1619-o-ódio-é-coisa-boa-sabia-odio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1619-o-ódio-é-coisa-boa-sabia-odio.png" width="320" height="197" data-original-width="486" data-original-height="299" /></a></div>
 Efésio 4,26-27 - Mesmo em cólera, não pequeis. Não se ponha o sol sobre o vosso ressentimento. Não deis lugar ao demônio.</br>
 </br>
 Como é comum os impulsos humanos aflorarem e sobrepujarem a razão causando muitos estragos sobretudo, nos relacionamentos humanos. A questão é muito antiga e ela remonta aos primórdios da civilização. A contenda sempre irá existir entre as pessoas e tenhamos consciência disto: quem mais nos ofende é quem mais perto de nós está e mais convive conosco.</br>

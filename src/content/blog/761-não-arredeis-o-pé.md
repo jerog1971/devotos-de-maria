@@ -1,10 +1,10 @@
 ---
 title: "Não arredeis o pé"
 date: 2018-03-20T16:05:00Z
-heroImage: "/images/sofrimento.png"
+heroImage: "/images/posts/761-não-arredeis-o-pé-sofrimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2TJt9MGbzBlD64rXD09Gja_QOJ9UvL12yKlUfQwGmQKTqFi8USFiYoezYsZ1jBypZWLpDXp2-iAgrub1UNKyAJGV_WcspAQU9S7Rtu9HgRzagX2K84h7iP7XbzgtcUTea2JFbd3PbmI/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2TJt9MGbzBlD64rXD09Gja_QOJ9UvL12yKlUfQwGmQKTqFi8USFiYoezYsZ1jBypZWLpDXp2-iAgrub1UNKyAJGV_WcspAQU9S7Rtu9HgRzagX2K84h7iP7XbzgtcUTea2JFbd3PbmI/s320/sofrimento.png" width="300" height="320" data-original-width="191" data-original-height="204" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/761-não-arredeis-o-pé-sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/761-não-arredeis-o-pé-sofrimento.png" width="300" height="320" data-original-width="191" data-original-height="204" /></a></div>
 Pois, se o fizer e não cuidar estando de pé, podes cair com um simples esbarrão. Uma vez ao chão, ferido, sem orgulho e queixo erguido, pressionado a ficar ali, prostrado, na posição dos derrotados que não conseguem olhar para cima para poder enxergar que alguém lhe estende a mão, torna-se incapaz de retomar a caminhada.</br>
 </br>
 A cada queda mais marcas e cicatrizes vão se desenhando em nossos corpos. O movimento de caminhar rumo à pátria celeste vai consumindo muitos recursos e provando tantos outros. O marasmo das comodidades silenciosamente e sutilmente dá sinal de que o tsunami que ainda não se vê, está a caminho. Os distraídos, lembrados por São Pedro em suas cartas, são os que caem vítimas do bote do inimigo que como um leão, espreita atrás de quem atacar.</br>

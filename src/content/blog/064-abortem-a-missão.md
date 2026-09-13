@@ -1,10 +1,10 @@
 ---
 title: "Abortem a missão"
 date: 2020-04-23T13:10:00.001Z
-heroImage: "/images/aborto.png"
+heroImage: "/images/posts/064-abortem-a-missão-aborto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUn3CdOI-JIA_5T0iG09ApNCTQCn0qg2v1JqqDI95TLropT1pUv5XR8PC8-zNbKyd4IWNRYFWEr5F60Z5Pj_XdlYQ04a82jXL_nPLeTec-9keCT7JQ2uRLYdqmgMAcwXZT7G_mpHvy610/s1600/aborto.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="482" height="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUn3CdOI-JIA_5T0iG09ApNCTQCn0qg2v1JqqDI95TLropT1pUv5XR8PC8-zNbKyd4IWNRYFWEr5F60Z5Pj_XdlYQ04a82jXL_nPLeTec-9keCT7JQ2uRLYdqmgMAcwXZT7G_mpHvy610/s320/aborto.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/064-abortem-a-missão-aborto.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="482" height="302" src="/images/posts/064-abortem-a-missão-aborto.png" width="320" /></a></div>
 Vemos em muitos filmes que quando algo planejado vai dar errado por força de uma circunstância maior, o contexto muitas vezes exige que aquilo que foi pensado e projetado, por causa de um fator não previsto, sofre as consequências da ação e como resultado é preciso abortar a missão, se existir o famoso plano “B”, ele é colocado em prática.
 
 Para um pequeno exemplo colocamos um trecho da animação da Pixar – Os Incríveis. Helena Pera segue em missão solo para resgatar o senhor Incrível, aprisionado na ilha do inimigo. Não sabe ela que seus filhos embarcaram na missão escondidos. Pouco antes de chegarem ao desfecho o inimigo descobrindo a ação lança mísseis para abater o avião. Antes um pouco, Helena (a mulher elástica) descobre a intrusão das crianças (fator imprevisto) e não podendo retornar segue na missão. Todavia, em perigo de morte, ela envia mensagem ao inimigo pedindo que o ataque fosse abortado, pois havia crianças a bordo.

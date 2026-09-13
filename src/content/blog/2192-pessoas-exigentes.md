@@ -1,10 +1,10 @@
 ---
 title: "Pessoas exigentes"
 date: 2022-09-12T16:04:00.005Z
-heroImage: "/images/pessoas exigentes.png"
+heroImage: "/images/posts/2192-pessoas-exigentes-pessoas_20exigentes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikW4oWMKurt1doO2IBb00nkUU1bYSoyTvUFFtrwZtUjiBwbNP8sM35A5uAG-nMyqRbWS4UTJxUu1wPR3AXP2HgJdarWltgMXHeVY-0HnRFF1W_qJ4UTtJDFWhIJva9gu7lSEZ6Y78zdoFL9mGRALABaAisf-OzH9QJhQ612t1YdfH64NxupipLMic6/s814/pessoas%20exigentes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="709" data-original-width="814" height="279" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikW4oWMKurt1doO2IBb00nkUU1bYSoyTvUFFtrwZtUjiBwbNP8sM35A5uAG-nMyqRbWS4UTJxUu1wPR3AXP2HgJdarWltgMXHeVY-0HnRFF1W_qJ4UTtJDFWhIJva9gu7lSEZ6Y78zdoFL9mGRALABaAisf-OzH9QJhQ612t1YdfH64NxupipLMic6/s320/pessoas%20exigentes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente na hora de exigirmos somos muito bons, já na hora
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2192-pessoas-exigentes-pessoas_20exigentes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="709" data-original-width="814" height="279" src="/images/posts/2192-pessoas-exigentes-pessoas_20exigentes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente na hora de exigirmos somos muito bons, já na hora
 que exigem de nós a coisa muda um pouco de figura. Parece que o ser humano vive
 com duas leis, duas regras de vida: uma que lhe beneficia e outra que beneficia
 o próximo. Age assim porque as duas leis não podem conviver juntas. Se o outro

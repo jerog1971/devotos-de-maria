@@ -1,10 +1,10 @@
 ---
 title: "Enfrentando desafios"
 date: 2021-06-10T18:49:00.004Z
-heroImage: "/images/desafios.png"
+heroImage: "/images/posts/1885-enfrentando-desafios-enfrentando_desafios.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQrVbIY1YW_XYNTDcLM0o-epvoKr_J7W3AJZmG_RlqHMbb82QTa-Fr91OQ-wM-5ToebAcDR7tSVPcmiXsVQxfIccbfV6lm39F4DCjrdBJclyr8ihMxMxf5XkjqfxjV5USOCaoa-aPOsn4/s403/enfrentando+desafios.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="403" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQrVbIY1YW_XYNTDcLM0o-epvoKr_J7W3AJZmG_RlqHMbb82QTa-Fr91OQ-wM-5ToebAcDR7tSVPcmiXsVQxfIccbfV6lm39F4DCjrdBJclyr8ihMxMxf5XkjqfxjV5USOCaoa-aPOsn4/s320/enfrentando+desafios.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Naum 1,2-7 – “O Senhor é um Deus zeloso e vingador, o Senhor
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1885-enfrentando-desafios-enfrentando_desafios.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="403" src="/images/posts/1885-enfrentando-desafios-enfrentando_desafios.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Naum 1,2-7 – “O Senhor é um Deus zeloso e vingador, o Senhor
 é um vingador irascível; o Senhor toma vingança de seus adversários e trata com
 rigor os seus inimigos. O Senhor é paciente e grande em poder, não deixa impune
 o culpado. O Senhor caminha em meio à tempestade e sobre o vento impetuoso, as

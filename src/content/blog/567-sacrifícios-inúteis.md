@@ -1,10 +1,10 @@
 ---
 title: "Sacrifícios inúteis"
 date: 2022-06-14T15:14:00.001Z
-heroImage: "/images/sacrifícios inúteis.png"
+heroImage: "/images/posts/567-sacrifícios-inúteis-img-811456787.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VtAUHTvqUeDWa032hshvF3jyh6219HDo8_0FVN5-iLCzk4z3fLQOiyb2rR9TQoEZ904L6XuPi5nPwKl_aymAwN8FjtbIsLlY7LHcBR7rt0n6B0A8J_frL4pC_uRPGSGy_X4wUZHoVt-MS6IP8rGGFM6ny2vpq21gWUptb49kIvCV0xdJa4MV-DNF/s481/sacrif%C3%ADcios%20in%C3%BAteis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="472" data-original-width="481" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VtAUHTvqUeDWa032hshvF3jyh6219HDo8_0FVN5-iLCzk4z3fLQOiyb2rR9TQoEZ904L6XuPi5nPwKl_aymAwN8FjtbIsLlY7LHcBR7rt0n6B0A8J_frL4pC_uRPGSGy_X4wUZHoVt-MS6IP8rGGFM6ny2vpq21gWUptb49kIvCV0xdJa4MV-DNF/s320/sacrif%C3%ADcios%20in%C3%BAteis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ditado popular já nos recorda de longa data que não
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/567-sacrifícios-inúteis-img-811456787.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="472" data-original-width="481" height="314" src="/images/posts/567-sacrifícios-inúteis-img-197485207.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ditado popular já nos recorda de longa data que não
 adianta dar murro em ponta de faca. Forçar soluções próprias tentando “burlar”
 as leis divinas não leva a pessoa muito longe; ou melhor, se pensarmos bem, em
 termos de contexto espiritual, leva sim, leva para a condenação eterna.<o:p></o:p></p><div class="separator" style="clear: both;">

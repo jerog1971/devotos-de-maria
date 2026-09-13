@@ -1,10 +1,10 @@
 ---
 title: "Tem que pegar pesado"
 date: 2021-09-10T17:36:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1013-tem-que-pegar-pesado-tem_que_pesar_pesado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeI9GLOqUMpZzRmfJV8Lv3tCf4ESMxuHv2Q_QMm9vk8i-K02KNLaw7miNpoUwkuiQ7sWeF1mIpx3Hy93GqYtCXT-3ufyZOzZWMBAkvY_YQxChHW94CyUc1W0_NcXtctbrnN1QSWmlmjbU/s288/tem+que+pesar+pesado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="272" data-original-width="288" height="272" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeI9GLOqUMpZzRmfJV8Lv3tCf4ESMxuHv2Q_QMm9vk8i-K02KNLaw7miNpoUwkuiQ7sWeF1mIpx3Hy93GqYtCXT-3ufyZOzZWMBAkvY_YQxChHW94CyUc1W0_NcXtctbrnN1QSWmlmjbU/s0/tem+que+pesar+pesado.png" width="288" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Traduzido para o bom e direto português é exatamente isso de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1013-tem-que-pegar-pesado-tem_que_pesar_pesado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="272" data-original-width="288" height="272" src="/images/posts/1013-tem-que-pegar-pesado-tem_que_pesar_pesado.png" width="288" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Traduzido para o bom e direto português é exatamente isso de
 que trata o versículo quatro, do capítulo doze da carta aos Hebreus. O limite
 mínimo que devemos alcançar no combate diário, diga-se de passagem, é bem alto
 e bem caro. Afinal, nem poderia ser diferente a menos que alguém julgue que a

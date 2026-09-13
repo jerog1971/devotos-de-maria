@@ -1,10 +1,10 @@
 ---
 title: "Ah, o que é que tem? Todo mundo faz!"
 date: 2019-03-18T15:21:00Z
-heroImage: "/images/contra_a_correnteza.png"
+heroImage: "/images/posts/1316-ah-o-que-é-que-tem-todo-mundo-faz-contra_a_correnteza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7ao_vycL5DQFkuzwk453f7hDGsEVEa6MJxLdf2EqigSMTIVRv2PcZkPxaf3l4OnS62uarrNYftgzbxeB66GXIYPFJn38lMmLfeU1AT3HDBw5GGHBIo_f-Cpxr3VuHZLhfvxHEOKfrO4/s1600/contra_a_correnteza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7ao_vycL5DQFkuzwk453f7hDGsEVEa6MJxLdf2EqigSMTIVRv2PcZkPxaf3l4OnS62uarrNYftgzbxeB66GXIYPFJn38lMmLfeU1AT3HDBw5GGHBIo_f-Cpxr3VuHZLhfvxHEOKfrO4/s320/contra_a_correnteza.png" width="320" height="310" data-original-width="185" data-original-height="179" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1316-ah-o-que-é-que-tem-todo-mundo-faz-contra_a_correnteza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1316-ah-o-que-é-que-tem-todo-mundo-faz-contra_a_correnteza.png" width="320" height="310" data-original-width="185" data-original-height="179" /></a></div>
 Pois é, caros leitores, lá vai mais uma das muitas desculpas que as pessoas arrumam para justificar seus atos, como se o que a maioria relativa faz fosse endosso para o que fazemos. No entanto é bem verdade também que essa história do todo mundo faz é muitas vezes substituída por “fulano” faz. Dessa forma fica muito claro que existe pelo menos algum cuidado em preservar do olhar alheio, incriminador e crítico, nossas atitudes, para não falar em detalhes da tentativa em nos convencermos de que não existe erro naquilo que fazemos; afinal: todo mundo faz ou aquela pessoa faz.</br>
 </br>
 Pois muito bem, existe a história do buraco, vamos recordar o dito popular que fala que o buraco é mais profundo do que parece. Um dos trunfos de nosso inimigo número um (lembre-se: Satanás), é divulgar no mundo que o comum é certo. Aquele que não está conforme o curso da correnteza é visto com preconceito, ultrapassado, quadrado, antiquado, desmancha prazeres, esnobe, diferente e por aí vai. </br>

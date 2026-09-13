@@ -1,10 +1,10 @@
 ---
 title: "Educar para o amor"
 date: 2016-07-26T11:00:00.001Z
-heroImage: "/images/educar.png"
+heroImage: "/images/posts/632-educar-para-o-amor-educar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzeegqH6kGzaj0oRAJYwGe8zzKiJoWppKipxFFwjzKBiGNgDooEavEfCOoTy91biTTnQZRtJlxaJDuKGWetJHan95QqHyDUoP9pkEExS3Cl0pssINYeoOg7dOMJfT5QPWbLcYtWFrCA8/s1600/educar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzeegqH6kGzaj0oRAJYwGe8zzKiJoWppKipxFFwjzKBiGNgDooEavEfCOoTy91biTTnQZRtJlxaJDuKGWetJHan95QqHyDUoP9pkEExS3Cl0pssINYeoOg7dOMJfT5QPWbLcYtWFrCA8/s320/educar.png" width="320" height="276" data-original-width="282" data-original-height="243" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/632-educar-para-o-amor-educar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/632-educar-para-o-amor-educar.png" width="320" height="276" data-original-width="282" data-original-height="243" /></a></div>
 </br>
 Os homens, imersos no universo do sexo pornográfico, olham para o ato sexual cada vez mais como uma "oportunidade". O que interessa é alcançar o clímax sexual, sejam quais forem os meios. Nessa lógica, as mulheres – que deveriam ser as suas companheiras de vida, respeitadas e amadas – se convertem em mero "instrumento" para a obtenção de um prazer fácil e passageiro.</br>
 </br>

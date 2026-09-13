@@ -1,10 +1,10 @@
 ---
 title: "Isso nunca vai melhorar"
 date: 2016-10-14T12:49:00Z
-heroImage: "/images/desanimo.png"
+heroImage: "/images/posts/191-isso-nunca-vai-melhorar-desanimo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQ69TegwjKRrUct0Z1z1jy_sAFf9S53M-fQq2SNz7opdCQb4CiSte7EoajGFBKSUwd8kzcD365Ss2gX0OvTsylKwyDSYWaEYqFRhHlk4SuCYGbFyonL-p0jCVEK_VC-xj1YAeO1aCvwg/s1600/desanimo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQ69TegwjKRrUct0Z1z1jy_sAFf9S53M-fQq2SNz7opdCQb4CiSte7EoajGFBKSUwd8kzcD365Ss2gX0OvTsylKwyDSYWaEYqFRhHlk4SuCYGbFyonL-p0jCVEK_VC-xj1YAeO1aCvwg/s320/desanimo.png" width="320" height="207" data-original-width="292" data-original-height="189" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/191-isso-nunca-vai-melhorar-desanimo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/191-isso-nunca-vai-melhorar-desanimo.png" width="320" height="207" data-original-width="292" data-original-height="189" /></a></div>
 Essa sensação com certeza muitas pessoas passam. A sensação de que alguma coisa, algum aspecto em sua vida ou alguma situação que perdura, seja como for, essa sensação de que nunca vai melhorar, para o esclarecimento de todo filho de Deus, conforme aprendemos das sagradas escrituras, são as provações, tribulações, tentações e dificuldades que acontecem na vida de todos por permissão do todo poderoso Deus do Universo. Vejamos um trecho bíblico para acompanharmos a reflexão.
 Eclesiástico 34,9-11 – “Que sabe aquele que não foi experimentado? O homem de grande experiência tem inúmeras ideias; aquele que muito aprendeu fala com sabedoria. Aquele que não tem experiência pouca coisa sabe, mas o que passou por muitas dificuldades desenvolve a prudência. Que sabe aquele que não foi tentado? ”</br>
 </br>

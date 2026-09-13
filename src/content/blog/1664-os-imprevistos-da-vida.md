@@ -1,10 +1,10 @@
 ---
 title: "Os imprevistos da vida"
 date: 2021-06-16T15:08:00.004Z
-heroImage: "/images/Imprevistos.jpg"
+heroImage: "/images/posts/1664-os-imprevistos-da-vida-Imprevistos.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rFqRlKDMK3tSpvZjHJZCgAwv0nSshbIHjEf7ZNyxP4v905A0ee35BKmLJRFU3g1PQOhZgLrFmQRQGbVyMirU92rMgmiC-IIe97VtX5H8W9EG0f_OKUJj5wgTQ_qeWe90ZxPXCGK2oFw/s1560/Imprevistos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="1560" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rFqRlKDMK3tSpvZjHJZCgAwv0nSshbIHjEf7ZNyxP4v905A0ee35BKmLJRFU3g1PQOhZgLrFmQRQGbVyMirU92rMgmiC-IIe97VtX5H8W9EG0f_OKUJj5wgTQ_qeWe90ZxPXCGK2oFw/s320/Imprevistos.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como seria bom se a vida caminhasse dentro dos eixos, se
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1664-os-imprevistos-da-vida-Imprevistos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="1560" src="/images/posts/1664-os-imprevistos-da-vida-Imprevistos.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como seria bom se a vida caminhasse dentro dos eixos, se
 tudo saísse como planejado e se mudando de endereço as dificuldades não nos acompanhassem,
 mas, não é assim. Não podemos sequer em nossas vidas dar conta do planejado,
 quem dirá, do não planejado. Nem o minuto seguinte de nossas vidas temos

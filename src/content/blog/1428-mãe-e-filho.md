@@ -1,10 +1,10 @@
 ---
 title: "Mãe e Filho"
 date: 2016-07-18T17:36:00.001Z
-heroImage: "/images/mae_e_filho.png"
+heroImage: "/images/posts/1428-mãe-e-filho-mae_e_filho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqN7BMsVcSNvy56t1EX0wdE3SPwJz2u51YA9t7EM_mN-gRYVzdh231lR4zWabaH4190ffYNRhWFAYF-LY8mTpyUOWtXeXjGy861EEhezLoyI_PXd18dYe4UwSZp3OQR4hywUGRQG6uF2o/s1600/mae_e_filho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqN7BMsVcSNvy56t1EX0wdE3SPwJz2u51YA9t7EM_mN-gRYVzdh231lR4zWabaH4190ffYNRhWFAYF-LY8mTpyUOWtXeXjGy861EEhezLoyI_PXd18dYe4UwSZp3OQR4hywUGRQG6uF2o/s320/mae_e_filho.png" width="320" height="305" data-original-width="411" data-original-height="392" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1428-mãe-e-filho-mae_e_filho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1428-mãe-e-filho-mae_e_filho.png" width="320" height="305" data-original-width="411" data-original-height="392" /></a></div>
 Criança e Deus</br>
 </br>
 Uma criança pronta para nascer perguntou a Deus:</br>

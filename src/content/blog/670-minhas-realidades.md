@@ -1,10 +1,10 @@
 ---
 title: "Minhas realidades"
 date: 2021-08-27T16:11:00.003Z
-heroImage: "/images/idade.png"
+heroImage: "/images/posts/670-minhas-realidades-minhas_realidades.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIGgdr83j7gi2bfBqz2Kq0kmzul_qcnbgQiiTa0H2Srh63oZzG3snpeH_nHKq7yWqp8llt0ZAAZYCORlgkD7wC0lmgSDI6CtGnwun-R8X4PVke7j687b5eykPf-MnimV61eIhs4epOqfY/s546/minhas+realidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="546" height="319" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIGgdr83j7gi2bfBqz2Kq0kmzul_qcnbgQiiTa0H2Srh63oZzG3snpeH_nHKq7yWqp8llt0ZAAZYCORlgkD7wC0lmgSDI6CtGnwun-R8X4PVke7j687b5eykPf-MnimV61eIhs4epOqfY/s320/minhas+realidades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, olhando para a vida que levamos podemos concluir
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/670-minhas-realidades-minhas_realidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="546" height="319" src="/images/posts/670-minhas-realidades-minhas_realidades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, olhando para a vida que levamos podemos concluir
 que somos pessoas que prestam ou que não prestam. Pessoas predominantemente
 boas, predominantemente ruins ou, pior ainda, pessoas intermediárias, nem boas
 e nem ruins. Porque dizemos “pior”, já paramos para refletir? A dica vem do próprio

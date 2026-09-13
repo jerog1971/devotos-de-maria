@@ -1,10 +1,10 @@
 ---
 title: "Sacerdotes do Senhor"
 date: 2020-08-03T15:57:00.002Z
-heroImage: "/images/padre.png"
+heroImage: "/images/posts/1978-sacerdotes-do-senhor-Padre_Everton_da_Roza_Lara.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxnqB2jKOoIsLNOmrSw01ugw5SiJ8Mrbr6kftYEWb_uQ3cKjQhD22BRF1HdE-BKdiRJSSVTolZciiVLzEWlQ0W6RFXVGcfgzZoTlSGwa6CtDUdH-Og4FXd6MNUfgX4n-YJ7kuwwWjtnME/s264/Padre+Everton+da+Roza+Lara.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxnqB2jKOoIsLNOmrSw01ugw5SiJ8Mrbr6kftYEWb_uQ3cKjQhD22BRF1HdE-BKdiRJSSVTolZciiVLzEWlQ0W6RFXVGcfgzZoTlSGwa6CtDUdH-Og4FXd6MNUfgX4n-YJ7kuwwWjtnME/s0/Padre+Everton+da+Roza+Lara.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todos os cristãos já passaram em suas vidas pela experiência
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1978-sacerdotes-do-senhor-Padre_Everton_da_Roza_Lara.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="241" src="/images/posts/1978-sacerdotes-do-senhor-Padre_Everton_da_Roza_Lara.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todos os cristãos já passaram em suas vidas pela experiência
 de convívio com muitas pessoas, dentre elas, os sacerdotes. Nossa Senhora disse
 em suas aparições que devemos sempre rezar por eles, pois, são um grande
 presente de Deus para seus filhos. De fato, os santos diziam que: se em sua

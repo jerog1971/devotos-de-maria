@@ -1,10 +1,10 @@
 ---
 title: "O caminho do abismo"
 date: 2016-06-30T11:30:00Z
-heroImage: "/images/abismo.png"
+heroImage: "/images/posts/2155-o-caminho-do-abismo-abismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_btoYaW2z2HINA9XdwLXF4phlqVTVbZWwQeW-9PJNLQmzNOp-mQ2E2ii1SkgD23DLFLgVFCM4AdPUzlJYJBZAY0yab_DmOpP6AO8fkWC3KJi_4T7ryikDwUtjoO2FHb0iiQMOMovd820/s1600/abismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_btoYaW2z2HINA9XdwLXF4phlqVTVbZWwQeW-9PJNLQmzNOp-mQ2E2ii1SkgD23DLFLgVFCM4AdPUzlJYJBZAY0yab_DmOpP6AO8fkWC3KJi_4T7ryikDwUtjoO2FHb0iiQMOMovd820/s320/abismo.png" width="320" height="281" data-original-width="592" data-original-height="519" /></a></div></br>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2155-o-caminho-do-abismo-abismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2155-o-caminho-do-abismo-abismo.png" width="320" height="281" data-original-width="592" data-original-height="519" /></a></div></br>
 </br>
 <h1>
 Ateus, mas adoram o demônio</br>
@@ -22,7 +22,7 @@ Já nos ensinava Santo Agostinho, se não teme pelo seu pecado venial, espanta-t
 </br>
 De passo em passo, até o extremo deste tenebroso processo, qualquer tipo de culto satânico se torna possível e até provável. Chega-se ao fundo do abismo, e lá longe, bem no fundo, completa-se o “caminho fácil” de adoração ao demônio. Este nem se dá a conhecer, mas poucos resistem às suas ofertas. Não retornam mais ao Caminho de Deus na condição de penitentes. A grande maioria aceita, parcial ou totalmente, as exigências do demônio, podendo incluir ou não os cultos satânicos. <b>O inimigo conhece o caminho mais adequado a cada vítima</b>.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxc4scOXH5Q7pTi_Pt8jbboVPLQwwv2yw0nCbCdatf5J7ISCa727YS01lPfoVOPJlbtx3gksax1znSBqdqFAgNH-7In5uDAkl3ksu31qiF3nJeNTKXvwD0H2LKTJPIFWaXWC-cYYTWQyk/s1600/adoradores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxc4scOXH5Q7pTi_Pt8jbboVPLQwwv2yw0nCbCdatf5J7ISCa727YS01lPfoVOPJlbtx3gksax1znSBqdqFAgNH-7In5uDAkl3ksu31qiF3nJeNTKXvwD0H2LKTJPIFWaXWC-cYYTWQyk/s200/adoradores.png" width="200" height="183" data-original-width="289" data-original-height="264" /></a></div></br>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2155-o-caminho-do-abismo-adoradores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2155-o-caminho-do-abismo-adoradores.png" width="200" height="183" data-original-width="289" data-original-height="264" /></a></div></br>
 </br>
 As primeiras derrapadas geralmente conduzem a pessoa à descrença, ao pensamento destrutivo de que Deus não ajuda, só proíbe e cobra. Em seguida, começam-se a procurar facilidades, com a ajuda de quem parece amigo de outro “todo-poderoso”. Daí a fazer pacto com ele e ceder em tudo o que quer, inclusive na adoração explícita, é questão de tempo. Muitos percorrem o caminho de volta, mas infelizmente a maioria não retorna.</br>
 </br>

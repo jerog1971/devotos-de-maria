@@ -1,12 +1,12 @@
 ---
 title: "Santa Paulina"
 date: 2024-12-03T18:47:00Z
-heroImage: "/images/paulina.png"
+heroImage: "/images/posts/1723-santa-paulina-paulina.png"
 ---
 
 <b>SANTA PAULINA</b></br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjntHQZeQVaMVsWX1LNuENeamxyLo1vXUWn-pwHLuAfOsYr_P9CnLDXENFvQXVnWZRwCLPycgfJ7p6tb0gdw0GUd39gmEVCUK9oZOh3MbOBjFJCpXXhyRneeWkFF1y6YfoK46J6u0fveE/s1600/paulina.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjntHQZeQVaMVsWX1LNuENeamxyLo1vXUWn-pwHLuAfOsYr_P9CnLDXENFvQXVnWZRwCLPycgfJ7p6tb0gdw0GUd39gmEVCUK9oZOh3MbOBjFJCpXXhyRneeWkFF1y6YfoK46J6u0fveE/s320/paulina.png" width="236" height="320" data-original-width="379" data-original-height="514" /></a></br>
+<a href="/images/posts/1723-santa-paulina-paulina.png" imageanchor="1" ><img border="0" src="/images/posts/1723-santa-paulina-paulina.png" width="236" height="320" data-original-width="379" data-original-height="514" /></a></br>
 </br>
 Nascida no dia 16 de dezembro de 1865, em Vígolo Vattaro, Trentino Alto Ádige, norte da Itália recebeu o nome de Amábile Lúcia Visintainer. Era a segunda filha de Antônio Napoleone Visintainer e Anna Pianezzer.</br>
 </br>
@@ -30,7 +30,7 @@ Em 1918, Santa Paulina é chamada a viver na sede Geral da Congregação, onde t
 </br>
 Santa Paulina morre aos 76 anos, na Casa Geral em São Paulo, dia 9 de julho de 1942, com fama de santidade; pois viveu em grau heróico as virtudes de FÉ, ESPERANÇA e CARIDADE e demais virtudes.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2xfrDp_v7IdUuRyRXFF60bywZ1UVUxCAAPoV739awrdik2o6x1bxc2ghEhccx-KmI-tTaMEfJB5976Z34kE0Sy1mReMp52aCWJhSnPc6id_5qCvpi4_jDZmBiXpVP9Ue6-Dk2o2pi6Xs/s1600/paulina2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2xfrDp_v7IdUuRyRXFF60bywZ1UVUxCAAPoV739awrdik2o6x1bxc2ghEhccx-KmI-tTaMEfJB5976Z34kE0Sy1mReMp52aCWJhSnPc6id_5qCvpi4_jDZmBiXpVP9Ue6-Dk2o2pi6Xs/s320/paulina2.png" width="248" height="320" data-original-width="252" data-original-height="325" /></a></div></br>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1723-santa-paulina-paulina2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1723-santa-paulina-paulina2.png" width="248" height="320" data-original-width="252" data-original-height="325" /></a></div></br>
 </br>
 <b>PROCESSOS DE BEATIFICAÇÃO E CANONIZAÇÃO</b></br>
 </br>

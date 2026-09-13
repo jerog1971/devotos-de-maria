@@ -1,10 +1,10 @@
 ---
 title: "Segredos e curiosidades"
 date: 2021-12-10T15:16:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1712-segredos-e-curiosidades-img-1533095655.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiQ-vDC1a4rKQE3AoSd1NHnDG9pjMJqF_CiOCNTeqoFlolMiD8UCIMz1w1njEM9xttrMOClvByev5Gl2b1egNbuhScjukH7wnohOwXKql3MgVGo5QBK9zm1jR9dI5LwzZsbeVZxQfuQe4TK3VkKTFWCXynrrMDk1qmoSJRihTYvzf9hBTuA2qFUlPMD=s503" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="503" data-original-width="482" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEiQ-vDC1a4rKQE3AoSd1NHnDG9pjMJqF_CiOCNTeqoFlolMiD8UCIMz1w1njEM9xttrMOClvByev5Gl2b1egNbuhScjukH7wnohOwXKql3MgVGo5QBK9zm1jR9dI5LwzZsbeVZxQfuQe4TK3VkKTFWCXynrrMDk1qmoSJRihTYvzf9hBTuA2qFUlPMD=s320" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia, em deuteronômio, que o que nos é necessário
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1712-segredos-e-curiosidades-img-1533095655.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="503" data-original-width="482" height="320" src="/images/posts/1712-segredos-e-curiosidades-img-1533093792.jpg" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia, em deuteronômio, que o que nos é necessário
 saber, nos foi revelado por Deus. Fora isso, o altíssimo, oculta de nós, em
 segredo, o que não nos cabe saber, como por exemplo, o dia de nossa morte. E aliás,
 diga-se de passagem, por um motivo muito importante para nossas vidas, pois, se

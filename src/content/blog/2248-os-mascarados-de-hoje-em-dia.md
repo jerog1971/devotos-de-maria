@@ -1,10 +1,10 @@
 ---
 title: "Os mascarados de hoje em dia"
 date: 2020-04-16T16:28:00.002Z
-heroImage: "/images/mascarados.png"
+heroImage: "/images/posts/2248-os-mascarados-de-hoje-em-dia-mascarados.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzYFnaiXkixeNtWbj9lxmQ1VGNynDTpYM3V7RnS1H2gh8RSy0KX-u4RY26JTqKJlo9cwBYH78I2b7P4nSvgxXIMk4QMyenLMcMa9H34QmwZrt7t5MZV0pLFOUtDgfS-xQmRETEgC8PRg/s1600/mascarados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzYFnaiXkixeNtWbj9lxmQ1VGNynDTpYM3V7RnS1H2gh8RSy0KX-u4RY26JTqKJlo9cwBYH78I2b7P4nSvgxXIMk4QMyenLMcMa9H34QmwZrt7t5MZV0pLFOUtDgfS-xQmRETEgC8PRg/s320/mascarados.png" width="263" height="320" data-original-width="764" data-original-height="931" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2248-os-mascarados-de-hoje-em-dia-mascarados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2248-os-mascarados-de-hoje-em-dia-mascarados.png" width="263" height="320" data-original-width="764" data-original-height="931" /></a></div>
 A palavra hipócrita em sua origem quer dizer personagem, máscara. Jesus ao usá-la contra os fariseus ilustra o modo falso como agiam, pois falavam uma coisa e faziam outra; dizia a respeito deles que eram como sepulcros caiados, de aparência por fora, mas por dentro... E quantas vezes ensinando as verdades do evangelho ouvimos o Cristo sobre os fariseus pronunciar os seus “ais”.</br>
 </br>
 Já dizia o ditado popular que “quem vê cara, não vê coração”. As feições do rosto podem enganar facilmente os olhares mais atentos. Se não fosse isso verdade, as pessoas não cairiam nos chamados golpes, onde a boa fala e a boa cara iludem a muitos. No entanto a questão não é novidade.</br>

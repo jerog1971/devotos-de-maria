@@ -1,10 +1,10 @@
 ---
 title: "Se você só acreditar, não vai adiantar nada"
 date: 2019-06-19T20:22:00.001Z
-heroImage: "/images/acreditar.png"
+heroImage: "/images/posts/949-se-você-só-acreditar-não-vai-adianta-acreditar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT3FfAqlUk4LxPQMRY3I2ic4rO6AK1iY9hiFwIs5BwHxvq7MBbiKnM69vSQKW3EXjyhoknvhwX1hxWn1kf8BLmaVnbzH3mKz-xR9UF8Z0QNighO8DScDsOp0-bNfBJg0HHclUpFzUppqk/s1600/acreditar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT3FfAqlUk4LxPQMRY3I2ic4rO6AK1iY9hiFwIs5BwHxvq7MBbiKnM69vSQKW3EXjyhoknvhwX1hxWn1kf8BLmaVnbzH3mKz-xR9UF8Z0QNighO8DScDsOp0-bNfBJg0HHclUpFzUppqk/s320/acreditar.png" width="320" height="289" data-original-width="272" data-original-height="246" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/949-se-você-só-acreditar-não-vai-adianta-acreditar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/949-se-você-só-acreditar-não-vai-adianta-acreditar.png" width="320" height="289" data-original-width="272" data-original-height="246" /></a></div>
 Crer por acreditar, intelectualmente falando, pouca coisa resolve na vida de uma pessoa. Vamos entender. A pessoa diz assim: “ah eu acredito em Deus”. Tudo bem, e o que a pessoa faz com isso? Nada, ela acredita em Deus mas deixa ele lá no seu cantinho, ele que fique lá e eu fico aqui. Não me meto em seus assuntos e por isso não quero que interfira nos meus.</br>
 </br>
 Com o passar do tempo as experiências da vida vão colocando o sujeito à prova. Ele vai percebendo que acreditar de braços cruzados não acrescenta nada, precisa existir um movimento por causa dessa crença. É o famoso “por causa de Deus” e também “por amor a Deus”. Vamos exemplificar com um exemplo pequeno e cotidiano.</br>

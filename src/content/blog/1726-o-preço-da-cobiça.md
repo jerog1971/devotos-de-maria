@@ -1,10 +1,10 @@
 ---
 title: "O preço da cobiça"
 date: 2017-05-30T16:27:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1726-o-preço-da-cobiça-cobi_25C3_25A7a.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTj2rnY788sClCkqGUvZfq816NKh0UODMZF5cYYbb_g9YM1swc7dd5LkQ1-lElcyon_dcIR_50lO7Pk2pIMIdEhH5iJg4foZPJ0GhxYxRUY7M8fS8hnziEUfZCnTwsK1SaqLXgp0CKlo/s1600/cobi%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTj2rnY788sClCkqGUvZfq816NKh0UODMZF5cYYbb_g9YM1swc7dd5LkQ1-lElcyon_dcIR_50lO7Pk2pIMIdEhH5iJg4foZPJ0GhxYxRUY7M8fS8hnziEUfZCnTwsK1SaqLXgp0CKlo/s320/cobi%25C3%25A7a.png" width="320" height="304" data-original-width="432" data-original-height="410" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1726-o-preço-da-cobiça-cobi_25C3_25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1726-o-preço-da-cobiça-cobi_25C3_25A7a.png" width="320" height="304" data-original-width="432" data-original-height="410" /></a></div>
 Cobiça: desejo ardente, desmedido e imoderado de possuir ou conseguir alguma coisa. Eis aí, caros leitores, algo muito perigoso para a salvação da nossa alma, movida pela concupiscência, se ela for alimentada os resultados são desastrosos. De tão sério que é o assunto de se dar asas para cobiça, ela até está envolvida nos pecados contra os mandamentos da lei de Deus. Vejamos:</br>
 </br>
 Mateus 5,27-28 – “Ouvistes que foi dito aos antigos: Não cometerás adultério. Eu (Jesus), porém, vos digo: todo aquele que lançar um olhar de cobiça para uma mulher, já adulterou com ela em seu coração.”</br>

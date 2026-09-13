@@ -1,10 +1,10 @@
 ---
 title: "Sai o dia e vem a noite"
 date: 2020-07-03T16:23:00.002Z
-heroImage: "/images/dor.png"
+heroImage: "/images/posts/536-sai-o-dia-e-vem-a-noite-img-1347843640.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNXj3Ebf-elJIaDvnDoEv4LGDwzM8VQY3BGmT9cDueoTl78xRCS6QXoFYi__dDOpN7PTK7MJt7bEdF8-uuv3KtJx2vlsuwegLjwHAtM2KmYMgY9rALU-OD_uAJvw3bQPHG8lbQxz8r6YM/s572/adora%25C3%25A7%25C3%25A3o_b%25C3%25B3snia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="503" data-original-width="572" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNXj3Ebf-elJIaDvnDoEv4LGDwzM8VQY3BGmT9cDueoTl78xRCS6QXoFYi__dDOpN7PTK7MJt7bEdF8-uuv3KtJx2vlsuwegLjwHAtM2KmYMgY9rALU-OD_uAJvw3bQPHG8lbQxz8r6YM/s320/adora%25C3%25A7%25C3%25A3o_b%25C3%25B3snia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 40,1-12 – “Uma grande inquietação foi imposta a
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/536-sai-o-dia-e-vem-a-noite-img-1347843640.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="503" data-original-width="572" src="/images/posts/536-sai-o-dia-e-vem-a-noite-img-1527838663.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 40,1-12 – “Uma grande inquietação foi imposta a
 todos os homens, e um pesado jugo acabrunha os filhos de Adão, desde o dia em
 que saem do seio materno, até o dia em que são sepultados no seio da mãe comum:
 seus pensamentos, os temores de seu coração, a apreensão do que esperam, e o

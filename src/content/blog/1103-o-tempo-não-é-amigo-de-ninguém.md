@@ -1,10 +1,10 @@
 ---
 title: "O tempo não é amigo de ninguém"
 date: 2018-07-16T15:54:00.001Z
-heroImage: "/images/passando o tempo.png"
+heroImage: "/images/posts/1103-o-tempo-não-é-amigo-de-ninguém-tempo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHRbTWjxUk1FIZw21fskNlcdcrbuz-sZAe1oBsIuVBzmajQPkyl6lyzC0v0WKSHAygZNU-aJhgDf4VNUMLhLinw9Ezk2HloUKkzRTH4NXMY1ck9CnAqDrwutlJH7IC3m2PB57AQyJfHIM/s1600/tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHRbTWjxUk1FIZw21fskNlcdcrbuz-sZAe1oBsIuVBzmajQPkyl6lyzC0v0WKSHAygZNU-aJhgDf4VNUMLhLinw9Ezk2HloUKkzRTH4NXMY1ck9CnAqDrwutlJH7IC3m2PB57AQyJfHIM/s320/tempo.png" width="320" height="300" data-original-width="258" data-original-height="242" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1103-o-tempo-não-é-amigo-de-ninguém-tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1103-o-tempo-não-é-amigo-de-ninguém-tempo.png" width="320" height="300" data-original-width="258" data-original-height="242" /></a></div>
 Eis aí um dos recursos que o ser humano dispõe de maneira justa, não importando sua condição social, status, profissão ou seja lá o que for. Todo mundo possui um tempo diário em vida de 24 horas. Não existe alguém que possua mais desse recurso do que outra pessoa. Se estamos vivos, possuímos a mesma quantidade desse recurso. O tempo, fator presente nessa etapa de nossas vidas, que antecede a eternidade que irá substituí-lo, pode ser encarado por cada um como lhe convém. Um pequeno exemplo cai muito bem aqui. Vejamos.</br>
 </br>
 Um bom profissional é colocado ao lado de um profissional que não possui o mesmo nível de habilidade e talento para fazerem um teste a fim de disputarem pela admissão de uma vaga numa empresa. Para cada um, neste exame prático, são oferecidos tempo e ferramentas necessárias para executarem a tarefa. Um será o vencedor, mas ambos possuíram os mesmos recursos: tempo e ferramentas. Onde se encontra o motivo do vencedor? Sem dúvida, todos nós podemos apontar várias qualidades que se tornaram peça chave na conclusão deste embate e possivelmente todos nós estaremos certos. O que conta, no entanto, é que está por trás deste sucesso.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Festa do diabo"
 date: 2020-03-19T15:24:00.001Z
-heroImage: "/images/Aparecida.png"
+heroImage: "/images/posts/503-festa-do-diabo-img-140427585.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXGjKFR7bk88BWh5qxPcVauj0meyxToui9fugCq6v7WUtNUvC-RcWA2EXreF4VUim_5yQ_P-Hxc7_cjbceAeb6vmp6CKPpJbIitIBhFamTDKGzYemGQVSdQXVVA5PYuo4jv_6ASL8zyHI/s1600/santu%25C3%25A1rio_de_aparecida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXGjKFR7bk88BWh5qxPcVauj0meyxToui9fugCq6v7WUtNUvC-RcWA2EXreF4VUim_5yQ_P-Hxc7_cjbceAeb6vmp6CKPpJbIitIBhFamTDKGzYemGQVSdQXVVA5PYuo4jv_6ASL8zyHI/s320/santu%25C3%25A1rio_de_aparecida.png" width="320" height="271" data-original-width="525" data-original-height="444" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/503-festa-do-diabo-img-140427585.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/503-festa-do-diabo-img-257549329.png" width="320" height="271" data-original-width="525" data-original-height="444" /></a></div>
 O memorial da paixão, morte e ressurreição de Nosso Senhor Jesus Cristo (fazei isso em memória de mim – Lucas 22,19) foi, para a alegria do diabo, interrompido por período indeterminado. Grandes santuários ao redor do mundo interromperam a prática do sacramento da confissão e da celebração da santa missa. Valha-me Deus, onde isso vai parar?</br>
 </br>
 Será que Deus, para o bem comum da saúde global, permitiria, aceitaria ou ordenaria uma medida nesta direção, algo completamente contraditório aos seus ensinamentos? Teria Jesus que disse – quem come a minha carne e bebe o meu sangue permanece em mim e eu nele e terá a vida eterna – agora resolveu que a comunhão com Deus será alterada para uma nova forma? Todos os XXI séculos de sua doutrina agora simplesmente, vão por água abaixo, assim tão facilmente, promovido por decretos mundanos? Ainda que para o alegado bem da saúde pública?</br>

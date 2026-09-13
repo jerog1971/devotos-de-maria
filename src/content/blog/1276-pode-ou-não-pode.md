@@ -1,10 +1,10 @@
 ---
 title: "Pode ou não pode?"
 date: 2016-05-02T17:35:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1276-pode-ou-não-pode-pode_ou_n_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPEum4iPKs-0MtLw0HANFnqMqo9JV4curRQmj2g20UYNNl566xmVBUubGtR6VRemzyYL8taAML8SyPwxVTQ391WSyhsuhOyp02dVgkOT9rrpU9t3nG4D7c0TsPHB-_pWvcyhkX4DeMG0/s1600/pode_ou_n%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPEum4iPKs-0MtLw0HANFnqMqo9JV4curRQmj2g20UYNNl566xmVBUubGtR6VRemzyYL8taAML8SyPwxVTQ391WSyhsuhOyp02dVgkOT9rrpU9t3nG4D7c0TsPHB-_pWvcyhkX4DeMG0/s320/pode_ou_n%25C3%25A3o.png" width="320" height="244" data-original-width="390" data-original-height="297" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1276-pode-ou-não-pode-pode_ou_n_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1276-pode-ou-não-pode-pode_ou_n_25C3_25A3o.png" width="320" height="244" data-original-width="390" data-original-height="297" /></a></div>
 Lucas 14,26-27,33: 26 Se alguém vem a mim e não odeia seu pai, sua mãe, sua mulher, seus filhos, seus irmãos, suas irmãs e até a sua própria vida, NÃO PODE ser meu discípulo. 27 E quem não carrega a sua cruz e me segue, NÃO PODE ser meu discípulo. 33 Assim, pois, qualquer um de vós que não renuncia a tudo o que possui NÃO PODE ser meu discípulo.</br>
 </br>
 De tempos em tempos esbarramos no debate a respeito de se pregar normas, leis e regulamentos tendo em vista, entre os reunidos, de que Jesus, que é amor e misericórdia está acima dos nossos pecados. Deus, não está obcecado anotando nossas falhas para depois nos cobrar pois ele está interessado naquilo que fazemos de bom muito mais do que fazemos de ruim. E os defensores deste ponto de vista afirmam que nossa religião católica não deve ser uma religião do “pode” e “não pode”.</br>

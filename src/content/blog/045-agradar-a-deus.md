@@ -1,10 +1,10 @@
 ---
 title: "Agradar a Deus"
 date: 2015-12-02T11:30:00Z
-heroImage: "/images/servo.png"
+heroImage: "/images/posts/045-agradar-a-deus-servo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1ardnXrPRrUi2NC1S1DDE6k7odG3QJ-3l17wYsABEIP25R41gAxH61dfIeVh4T7N6a8F1e8vDebA2bjUQFLs6jbvkJ41JlFa5Pfe2AC3t8adJsnqa_7RXQTT976xB5VjADuvd1hd1j8/s1600/servo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1ardnXrPRrUi2NC1S1DDE6k7odG3QJ-3l17wYsABEIP25R41gAxH61dfIeVh4T7N6a8F1e8vDebA2bjUQFLs6jbvkJ41JlFa5Pfe2AC3t8adJsnqa_7RXQTT976xB5VjADuvd1hd1j8/s320/servo.png" width="320" height="278" data-original-width="190" data-original-height="165" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/045-agradar-a-deus-servo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/045-agradar-a-deus-servo.png" width="320" height="278" data-original-width="190" data-original-height="165" /></a></div>
 </br>
 Carta aos Gálatas 1,7-12</br>
 </br>

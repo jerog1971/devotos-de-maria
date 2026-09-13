@@ -1,10 +1,10 @@
 ---
 title: "O traste do inferno"
 date: 2017-09-04T12:18:00Z
-heroImage: "/images/traste.png"
+heroImage: "/images/posts/879-o-traste-do-inferno-traste.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehsFlPeUiIQbGYT8yZYUtt3hdDnP4gEhxPjStm81cK_rLRJYc5hzn3mW4AXtyDyFQXqZ1-9ykCdungqoGnNRzFqsqAZWx5acO6GWKIXcwccP_MWcW0CU2waRFubb1gP66AlTk8rripbo/s1600/traste.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehsFlPeUiIQbGYT8yZYUtt3hdDnP4gEhxPjStm81cK_rLRJYc5hzn3mW4AXtyDyFQXqZ1-9ykCdungqoGnNRzFqsqAZWx5acO6GWKIXcwccP_MWcW0CU2waRFubb1gP66AlTk8rripbo/s320/traste.png" width="310" height="320" data-original-width="435" data-original-height="449" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/879-o-traste-do-inferno-traste.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/879-o-traste-do-inferno-traste.png" width="310" height="320" data-original-width="435" data-original-height="449" /></a></div>
 A palavra traste originalmente significa coisa velha, de pouco valor, antigamente utilizada para se referir a alguma coisa em casa de pouco valor. Com o passar do tempo, a expressão sempre viva e em constante mutação, que chamamos de linguagem falada, adotou essa palavra para também se referir a uma pessoa que presta para nada, que é inútil. Colocadas as coisas dessa maneira, podemos enxergar claramente uma ligação dessa expressão coloquial popular com algumas passagens bíblicas que apontam para essa possível realidade na vida de uma pessoa.</br>
 </br>
 Eclesiástico 15,21-22 – “Ele (Deus) não deu ordem a ninguém para fazer o mal, e a ninguém deu licença para pecar; pois não deseja uma multidão de filhos infiéis e INÚTEIS.</br>

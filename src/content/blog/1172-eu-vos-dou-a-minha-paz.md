@@ -1,10 +1,10 @@
 ---
 title: "Eu vos dou a minha Paz"
 date: 2017-05-19T20:30:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1172-eu-vos-dou-a-minha-paz-salva_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpt7Ae7I-5Z1lPYRiPpbonFy3gGdHU36xFEOAvTmyvhcY9S91efGGG0tbnB2kOeyoh7OONfMiQv7YuGXXvP7ci4clDIaEvw35yOvq55KAdvtJDikfn5FY58QDC8KOszRRUkkqwnq2C1uo/s1600/salva%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpt7Ae7I-5Z1lPYRiPpbonFy3gGdHU36xFEOAvTmyvhcY9S91efGGG0tbnB2kOeyoh7OONfMiQv7YuGXXvP7ci4clDIaEvw35yOvq55KAdvtJDikfn5FY58QDC8KOszRRUkkqwnq2C1uo/s320/salva%25C3%25A7%25C3%25A3o.png" width="320" height="224" data-original-width="742" data-original-height="520" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1172-eu-vos-dou-a-minha-paz-salva_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1172-eu-vos-dou-a-minha-paz-salva_25C3_25A7_25C3_25A3o.png" width="320" height="224" data-original-width="742" data-original-height="520" /></a></div>
 João 14,27 – “Deixo-vos a paz, dou-vos a minha paz. Não vo-la dou como o mundo a dá. Não se perturbe o vosso coração, nem se atemorize!”</br>
 </br>
 A primeira fonte de paz em nossas vidas é Jesus. Ele somente é capaz de nos conceder a paz verdadeira. Paz não é ausência de problemas, ausência de dificuldades, ausência de tribulações e nem ausência de provações ou o oposto da guerra. Estamos, percebam, a refletir sobre a paz que vem de Deus, não a paz do mundo que é outra coisa, como bem recordou Jesus em seu evangelho.</br>

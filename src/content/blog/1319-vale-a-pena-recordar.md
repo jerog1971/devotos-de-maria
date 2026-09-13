@@ -1,10 +1,10 @@
 ---
 title: "Vale a pena recordar"
 date: 2018-10-25T18:56:00.001Z
-heroImage: "/images/Padre_Stefano_Gobi.png"
+heroImage: "/images/posts/1319-vale-a-pena-recordar-Padre_Stefano_Gobi.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY42UC43gpCdroifEleBZMfSOpAxe-osER3raoh6fqTWcPL7cqmjABuHuv3kO6Vgx_-r3zURz1I3k1iWmJdSa9Q8jYin7m7YUBdtZomgfv2Wx7SDGzvA_sek2p-w9UzaTqgfNZhIyQNYU/s1600/Padre_Stefano_Gobi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY42UC43gpCdroifEleBZMfSOpAxe-osER3raoh6fqTWcPL7cqmjABuHuv3kO6Vgx_-r3zURz1I3k1iWmJdSa9Q8jYin7m7YUBdtZomgfv2Wx7SDGzvA_sek2p-w9UzaTqgfNZhIyQNYU/s320/Padre_Stefano_Gobi.png" width="317" height="320" data-original-width="326" data-original-height="329" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1319-vale-a-pena-recordar-Padre_Stefano_Gobi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1319-vale-a-pena-recordar-Padre_Stefano_Gobi.png" width="317" height="320" data-original-width="326" data-original-height="329" /></a></div>
 Mensagem recebida pelo Padre Stefano Gobbi em 13/05/1979 (aniversário da primeira aparição em Fátima), já falecido em 29/06/2011 com 81 anos, fundador do movimento sacerdotal mariano, que se iniciou depois que a Virgem Santíssima lhe dirigiu uma locução interior em 1972, no Santuário de Fátima em Portugal: ““Vim do Céu para vos revelar o meu desígnio nesta luta que envolve todos, alinhados para o combate às ordens de dois comandantes opostos: a Mulher vestida de sol e o dragão vermelho. Indiquei-vos o caminho a percorrer: é o caminho da oração e da penitência.</br>
 </br>
 Convidei-vos à conversão interior da vossa vida. Preparei-vos também o refúgio para serdes recolhidos, para serdes protegidos e fortalecidos durante a presente tempestade que se tornará ainda maior. O refúgio é o meu Coração Imaculado. Agora anuncio-vos que este é o tempo da batalha decisiva. Nestes anos, eu mesma intervenho, como a Mulher vestida de sol, para levar ao cumprimento o Triunfo do meu Coração Imaculado que já comecei por meio de vós, meus filhos prediletos.</br>

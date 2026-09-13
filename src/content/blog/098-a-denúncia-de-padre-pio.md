@@ -1,10 +1,10 @@
 ---
 title: "A denúncia de Padre Pio"
 date: 2016-03-03T14:46:00.001Z
-heroImage: "/images/padre_pio.png"
+heroImage: "/images/posts/098-a-denúncia-de-padre-pio-padre_pio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyU9tDy5dwNc4BsxnBqyoD4b4s2W3tqlAUtLkfXXsLL60gs7Db_TsFCS94MB8PyCd8bCYmIDMxaqn2q3rEp7uQAKCGrYH6Bt6tYvHjjo1IW1YZpCVUGzmZHDsTaT55q4uO6E10TbFK42M/s1600/padre_pio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyU9tDy5dwNc4BsxnBqyoD4b4s2W3tqlAUtLkfXXsLL60gs7Db_TsFCS94MB8PyCd8bCYmIDMxaqn2q3rEp7uQAKCGrYH6Bt6tYvHjjo1IW1YZpCVUGzmZHDsTaT55q4uO6E10TbFK42M/s320/padre_pio.png" width="252" height="320" data-original-width="268" data-original-height="340" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/098-a-denúncia-de-padre-pio-padre_pio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/098-a-denúncia-de-padre-pio-padre_pio.png" width="252" height="320" data-original-width="268" data-original-height="340" /></a></div>
 O ímpio século XX teve dois grandiosíssimos santos, ambos franciscanos: o polonês São Maximiliano Maria Kolbe e o italiano São Pio de Pietrelcina, ou Padre Pio, como é popularmente conhecido. Eles sempre denunciaram a maior organização criada pelos filhos das trevas para corromper as almas: a maçonaria. O combate de São Maximiliano Maria Kolbe a essa seita é conhecido de seus verdadeiros devotos. Quanto  ao Santo Padre Pio, muitos só falam de seu hospital para cuidar dos doentes, como se ele não passasse de  “um bom velhinho”, esquecendo ou omitindo suas denúncias contra a maçonaria que, no decorrer dos séculos, vem destruindo na sociedade a noção de civilização cristã, do bem e do mal, do certo e do errado.</br>
 </br>
 Cumpre frisar que embora muitas pessoas não façam parte dos planos da maçonaria ou sejam membros desta, se possuírem um espirito revolucionário, igualitário, a favor do comunismo, da destruição da propriedade privada, do divorcio, do aborto e das práticas homossexuais, acabam por se filiar indiretamente a essa seita.</br>

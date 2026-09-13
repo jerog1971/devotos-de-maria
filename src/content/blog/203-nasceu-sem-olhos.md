@@ -1,10 +1,10 @@
 ---
 title: "Nasceu sem olhos"
 date: 2015-09-18T16:30:00.001Z
-heroImage: "/images/richie_lopez.png"
+heroImage: "/images/posts/203-nasceu-sem-olhos-richie_lopez.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPxnYeWhNuZwoDsFQd1LAT8mvTzEDtAiDUcHWcV3jbMDpL-MqKvSaOFsVzDmWN9sq_Ce63YIhHRSWpEcnTHnfME0ajNKRImMgM_rPM2Q-IwjVGliCnYyZLkW9WUcgEZH2uh_MfpWWIWQ/s1600/richie_lopez.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPxnYeWhNuZwoDsFQd1LAT8mvTzEDtAiDUcHWcV3jbMDpL-MqKvSaOFsVzDmWN9sq_Ce63YIhHRSWpEcnTHnfME0ajNKRImMgM_rPM2Q-IwjVGliCnYyZLkW9WUcgEZH2uh_MfpWWIWQ/s320/richie_lopez.png" width="320" height="221" data-original-width="445" data-original-height="307" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/203-nasceu-sem-olhos-richie_lopez.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/203-nasceu-sem-olhos-richie_lopez.png" width="320" height="221" data-original-width="445" data-original-height="307" /></a></div>
 </br>
 Richie tem 3 meses, nasceu sem olhos e está fazendo muita gente enxergar mais longe.</br>
 </br>
@@ -20,7 +20,7 @@ A notícia chocante só veio 13 dias depois, confirmada pela ressonância magné
 </br>
 "Ficamos todos chocados", conta a mãe. "O primeiro pensamento foi: como é que isso aconteceu? E por que não notamos antes?".</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUfCbiZCsXRn4lPNbClux1NEJArYH6wJo0c5g1PAzHsPuOYtfn0sedLXUkQ-W5zBMr-t60QAZaR05movNRJGW0RRHwa1utFw-JW-g5EFeLyUc28snHqAGofd_R1ZFpIsiYCWl7gLiCnw/s1600/richie_lopez2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUfCbiZCsXRn4lPNbClux1NEJArYH6wJo0c5g1PAzHsPuOYtfn0sedLXUkQ-W5zBMr-t60QAZaR05movNRJGW0RRHwa1utFw-JW-g5EFeLyUc28snHqAGofd_R1ZFpIsiYCWl7gLiCnw/s200/richie_lopez2.png" width="200" height="163" data-original-width="406" data-original-height="330" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/203-nasceu-sem-olhos-richie_lopez2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/203-nasceu-sem-olhos-richie_lopez2.png" width="200" height="163" data-original-width="406" data-original-height="330" /></a></div>
 </br>
 A família ainda não tem todas as respostas para este caso extremamente raro.</br>
 </br>
@@ -40,6 +40,6 @@ O amor triunfou mais uma vez! A fé e a esperança estão transformando uma prov
 </br>
 Força Richie! Continue sorrindo!</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9VtI-4FgAiCobrc3WHaa2iUBhs8QqjTNeya8wZ89urd5jVHm_lZLmz-bxbJWh5o1hTDAMDYWJF2tixTdLun4SJRgRqxUKQnRr9xxUozviW-OjBwshW26VpAK_jLcedFfhXUoSgKYuiQ/s1600/richie_lopez3.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9VtI-4FgAiCobrc3WHaa2iUBhs8QqjTNeya8wZ89urd5jVHm_lZLmz-bxbJWh5o1hTDAMDYWJF2tixTdLun4SJRgRqxUKQnRr9xxUozviW-OjBwshW26VpAK_jLcedFfhXUoSgKYuiQ/s200/richie_lopez3.png" width="200" height="199" data-original-width="339" data-original-height="337" /></a>
+<a href="/images/posts/203-nasceu-sem-olhos-richie_lopez3.png" imageanchor="1" ><img border="0" src="/images/posts/203-nasceu-sem-olhos-richie_lopez3.png" width="200" height="199" data-original-width="339" data-original-height="337" /></a>
 </br>
 adaptado da fonte: aleteia.org

@@ -1,10 +1,10 @@
 ---
 title: "O sustento divino"
 date: 2022-04-30T15:20:00.003Z
-heroImage: "/images/Ausência de Deus.png"
+heroImage: "/images/posts/1337-o-sustento-divino-deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwAxI_EvtXEWiDq6iq7vbwxQFROh7PVimGGi_meqbj77IQwUBP1M5bxcp839yZpK0ZtoF5Tt6OQn82xGz6PTjjH0GyRbu2SD0h4k80SQys5hNZau4q4cGL-EDbQ765i1Iw9YFOkZJkAt_E9fqapz-PrcG-qx6dhILahIbqFY55PGPaPYswN_JiAM4t/s527/deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="285" data-original-width="527" height="173" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwAxI_EvtXEWiDq6iq7vbwxQFROh7PVimGGi_meqbj77IQwUBP1M5bxcp839yZpK0ZtoF5Tt6OQn82xGz6PTjjH0GyRbu2SD0h4k80SQys5hNZau4q4cGL-EDbQ765i1Iw9YFOkZJkAt_E9fqapz-PrcG-qx6dhILahIbqFY55PGPaPYswN_JiAM4t/s320/deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nesta vida tão corrida, todos sabem a loucura que é,<o:p></o:p></p><div class="separator" style="clear: both;">
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1337-o-sustento-divino-deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="285" data-original-width="527" height="173" src="/images/posts/1337-o-sustento-divino-deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nesta vida tão corrida, todos sabem a loucura que é,<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">É preciso no dia a dia, perante os desafios, manter-se de
 pé.<o:p></o:p></p>

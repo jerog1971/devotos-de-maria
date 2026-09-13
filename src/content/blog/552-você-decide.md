@@ -1,10 +1,10 @@
 ---
 title: "Você Decide"
 date: 2018-09-05T16:34:00.001Z
-heroImage: "/images/escolha.png"
+heroImage: "/images/posts/552-você-decide-escolha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWeZfZN2EssATBmnN6scxt4JkN86Nffx-wRF6oT8vQWmiZqoVnrlMVyxmY8N3b2s2vPuXcztR6tc_Jc80ejsDjn59SgQ1JIML4bb-4xAezo9WE09yI8X43nWkHW2UNcr8O2yTH2CP7Uw/s1600/escolha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWeZfZN2EssATBmnN6scxt4JkN86Nffx-wRF6oT8vQWmiZqoVnrlMVyxmY8N3b2s2vPuXcztR6tc_Jc80ejsDjn59SgQ1JIML4bb-4xAezo9WE09yI8X43nWkHW2UNcr8O2yTH2CP7Uw/s320/escolha.png" width="320" height="283" data-original-width="705" data-original-height="623" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/552-você-decide-escolha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/552-você-decide-escolha.png" width="320" height="283" data-original-width="705" data-original-height="623" /></a></div>
 Tiago 4,4 – “Quem se faz amigo do mundo, se faz inimigo de Deus”. Pois bem, caro leitor, a afirmação bíblica é direta e não permite concessões, nem meios termos. Ou é uma coisa ou é outra. Não podeis agradar a dois senhores, disse Jesus. Pessoal, a coisa é muito simples e o ser humano, que se acha o tal, trata logo de complica-la para poder se justificar quanto ao seu modo de vida. Sim, é exatamente isso! Porque essa automassagem no ego e o apego desregrado pelas coisas que passam, como disse o Padre Tomas Kemphis em seu livro A Imitação de Cristo, esse tipo de conduta e atitude não é raro desagradar a Deus.</br>
 </br>
 Começamos bem, ou deveríamos dizer, começamos mal? Não se trata de se “mongeficar”, nada disso, com faziam os monges e santos padres do deserto, sito como exemplo Santo Antão. Não é necessário cairmos em depressão e lamentos constantes olhando para nossa religião como um militarismo imposto por Deus que irá nos colocar em mais alta provação durante toda a vida para, caso consigamos com nosso esforço titânico sobreviver ao confronto diário do pode e do não pode, receber o prêmio da coroa da glória eterna.</br>

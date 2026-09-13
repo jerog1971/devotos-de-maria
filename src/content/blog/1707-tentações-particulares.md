@@ -1,10 +1,10 @@
 ---
 title: "Tentações Particulares"
 date: 2016-09-16T15:21:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1707-tentações-particulares-tenta_25C3_25A7_25C3_25B5es.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtQ52H7gUqBCBqcNac_hhDwRIQTvv0v6KlcRfdnmBv7VzKILrP5sf_W3ao_DCTN_hdQ39xDcYyEseB0o8PxgnjoWpFtjUBbYi8CtqIiIccZmmpVtklZzlsUffV5fnlV7c37GreysTjMM/s1600/tenta%25C3%25A7%25C3%25B5es.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtQ52H7gUqBCBqcNac_hhDwRIQTvv0v6KlcRfdnmBv7VzKILrP5sf_W3ao_DCTN_hdQ39xDcYyEseB0o8PxgnjoWpFtjUBbYi8CtqIiIccZmmpVtklZzlsUffV5fnlV7c37GreysTjMM/s320/tenta%25C3%25A7%25C3%25B5es.png" width="284" height="320" data-original-width="304" data-original-height="343" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1707-tentações-particulares-tenta_25C3_25A7_25C3_25B5es.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1707-tentações-particulares-tenta_25C3_25A7_25C3_25B5es.png" width="284" height="320" data-original-width="304" data-original-height="343" /></a></div>
 Na bíblia encontramos o ensinamento de que o diabo anda à espreita esperando ocasião para dar o seu bote, assim como faz o leão. Ora, isso não é de se estranhar porque ele não pode nos apresentar suas tentações numa investida direta e frontal pois isso facilmente nos afugentaria do mal que está sendo oferecido. Ele sabe muito bem disso e, portanto, vive a nos tentar às escondidas.</br>
 </br>
 Bem verdade também é, que nosso inimigo cruel tem suas audácias. Certas abordagens que faz são verdadeiras demonstrações do seu ódio contra o ser humano, criado a imagem e semelhança de Deus. Basta estudarmos a vida dos santos. Nestas heroicas biografias aprendemos que o diabo ataca com um furor verdadeiramente puro e cheio de ódio por cada um daqueles que muito amam tudo aquilo que satanás odeia. Haja vista o próprio Jesus ser tentado no deserto pelo próprio anjo caído.</br>

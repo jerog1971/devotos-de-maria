@@ -1,10 +1,10 @@
 ---
 title: "Ficar quieto ou não fazer nada?"
 date: 2016-08-31T20:27:00Z
-heroImage: "/images/quieto.png"
+heroImage: "/images/posts/1960-ficar-quieto-ou-não-fazer-nada-quieto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDFW5qGVDIC_35N7TprQy2kFr9iK8dSbCMGHsyfHzkRj2Tqy5GRzg6M9q1JVu_RaqU3WIgi8C40NMiFlkaUDsll-Hquvf0o_gKoTztlRy9ilJbmnp4mrm3nlvGF-eMufTEYZMp9hC2OPY/s1600/quieto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDFW5qGVDIC_35N7TprQy2kFr9iK8dSbCMGHsyfHzkRj2Tqy5GRzg6M9q1JVu_RaqU3WIgi8C40NMiFlkaUDsll-Hquvf0o_gKoTztlRy9ilJbmnp4mrm3nlvGF-eMufTEYZMp9hC2OPY/s320/quieto.png" width="320" height="314" data-original-width="343" data-original-height="337" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1960-ficar-quieto-ou-não-fazer-nada-quieto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1960-ficar-quieto-ou-não-fazer-nada-quieto.png" width="320" height="314" data-original-width="343" data-original-height="337" /></a></div>
 Eis duas expressões que muitas pessoas deixam passar despercebidas. Muitas acham que são sinônimos e que no fundo querem dizer a mesma coisa. Mas não é bem assim que funciona. Vamos com calma refletir um pouco a este respeito.</br>
 </br>
 Nas sagradas escrituras encontramos uma passagem a respeito da expressão ficar quieto no Livro de Jó 31,33-34. Lá encontramos em meio aos lamentos de Jó que ele não iria ter uma atitude hipócrita perante os outros ficando quieto para que não viesse à tona suas fraquezas e defeitos. Jó deixa claro em suas palavras que ele é transparente aos olhos de Deus e dos homens. Como já poderíamos intuir, ficar quieto é não fazer alarde, não fazer barulho e fazer silêncio, exatamente como comprova a sagrada escritura.</br>

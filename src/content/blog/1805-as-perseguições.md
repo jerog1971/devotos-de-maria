@@ -1,10 +1,10 @@
 ---
 title: "As perseguições"
 date: 2021-06-18T16:03:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1805-as-perseguições-persegui_25C3_25A7_25C3_25B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUj0PMZ2uGnx4TGqtFdC8FkJZS-T_Wm3xQO1XpcrZ3KmYQXDmksQNz50xz4jtT_osKFU_tkrTlafmMEKBEkFiVt1ooA5KP4fm_rcFKe2Ok8UfFIFBdCA7QIeN2hjXpwhtVB7Iod4i-nEQ/s638/persegui%25C3%25A7%25C3%25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="548" data-original-width="638" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUj0PMZ2uGnx4TGqtFdC8FkJZS-T_Wm3xQO1XpcrZ3KmYQXDmksQNz50xz4jtT_osKFU_tkrTlafmMEKBEkFiVt1ooA5KP4fm_rcFKe2Ok8UfFIFBdCA7QIeN2hjXpwhtVB7Iod4i-nEQ/s320/persegui%25C3%25A7%25C3%25B5es.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As coisas que nos pertencem não podem ser delegadas,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1805-as-perseguições-persegui_25C3_25A7_25C3_25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="548" data-original-width="638" src="/images/posts/1805-as-perseguições-persegui_25C3_25A7_25C3_25B5es.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As coisas que nos pertencem não podem ser delegadas,
 transferidas, postergadas, deixadas de lado ou algo do gênero. Se lhe cabe o
 fardo e o jugo, não há como comportar-se como se assim não fosse. Isso de que “a
 culpa é sua e, portanto, você coloca em quem quiser” não resolve nada.<o:p></o:p></p><div class="separator" style="clear: both;">

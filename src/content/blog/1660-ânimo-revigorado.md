@@ -1,10 +1,10 @@
 ---
 title: "Ânimo revigorado"
 date: 2022-09-21T19:54:00.001Z
-heroImage: "/images/nostalgia.png"
+heroImage: "/images/posts/1660-ânimo-revigorado-nostalgia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMwIlsGrZpVMBxLp1uYRlTHf6z_v6b4Hw-iu7BnvlpLyClB9gKkosgWRQmmSv49TqFwWBqpupR1dZ0e2UavFtx-Y3daiU4xPIr2EVIIPKS4wtIY94QRzB_hPKp9wOQl4EjIHh5PDmOudhWsRfRuRsCgeb3jRv6zuzzsqxen9H5JhF--vrLImdCD7Bg/s537/nostalgia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="434" data-original-width="537" height="259" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMwIlsGrZpVMBxLp1uYRlTHf6z_v6b4Hw-iu7BnvlpLyClB9gKkosgWRQmmSv49TqFwWBqpupR1dZ0e2UavFtx-Y3daiU4xPIr2EVIIPKS4wtIY94QRzB_hPKp9wOQl4EjIHh5PDmOudhWsRfRuRsCgeb3jRv6zuzzsqxen9H5JhF--vrLImdCD7Bg/s320/nostalgia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aos leitores da década de sessenta e setenta podemos nos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1660-ânimo-revigorado-nostalgia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="434" data-original-width="537" height="259" src="/images/posts/1660-ânimo-revigorado-nostalgia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aos leitores da década de sessenta e setenta podemos nos
 referir com este pequeno artigo dizendo que reviver momentos, rever conceitos,
 valores, crenças, tudo isso que em vida e em nossas realidades passamos,
 reproduzidos na ficção científica, como neste seriado “Star Trek - Strange New

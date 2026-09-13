@@ -1,10 +1,10 @@
 ---
 title: "Mulher objeto"
 date: 2018-04-19T16:02:00Z
-heroImage: "/images/mulher_objeto.png"
+heroImage: "/images/posts/498-mulher-objeto-mulher_objeto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuaCgj8bCGRZ0_s51uCKJKfC2wjvNuU38PKuUYjSSCcZNLBU1swoIPquNDpfaxtnQ0vfKE0IsE3xmd7jf-GVfDuiFz4nMUzUVTduqprnSgkRQQigV96a3RJuqVECVrfKXpmQ8by-ohuT8/s1600/mulher_objeto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuaCgj8bCGRZ0_s51uCKJKfC2wjvNuU38PKuUYjSSCcZNLBU1swoIPquNDpfaxtnQ0vfKE0IsE3xmd7jf-GVfDuiFz4nMUzUVTduqprnSgkRQQigV96a3RJuqVECVrfKXpmQ8by-ohuT8/s320/mulher_objeto.png" width="320" height="304" data-original-width="506" data-original-height="481" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/498-mulher-objeto-mulher_objeto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/498-mulher-objeto-mulher_objeto.png" width="320" height="304" data-original-width="506" data-original-height="481" /></a></div>
 Aprendi quando era criança,</br>
 Que brincava com meus brinquedos,</br>
 Com eles me divertia pelos terrenos</br>

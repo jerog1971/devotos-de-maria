@@ -1,10 +1,10 @@
 ---
 title: "Elos que não se desfazem"
 date: 2024-03-19T21:47:00.003Z
-heroImage: "/images/elos que não se desfazem.png"
+heroImage: "/images/posts/816-elos-que-não-se-desfazem-img-394218485.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQrfWa2kmTa7EOSSRiiPiesAqDGBtkpc18FjdFa5lZsf0iRJAAGxrPa0nTOAcKk9pAE8IJljs18ReNKXvY8pmlGNjABcAFkJ-5QSysJZHPKySLHRm9hfFe0USbysLH_UhN63KMNHTZ1jYk9jVZxoqtW5xhs1sA4mng1g6UQ-RNY6uRwWtnudN28jNlzI4/s462/elos%20que%20n%C3%A3o%20se%20desfazem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="462" height="251" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQrfWa2kmTa7EOSSRiiPiesAqDGBtkpc18FjdFa5lZsf0iRJAAGxrPa0nTOAcKk9pAE8IJljs18ReNKXvY8pmlGNjABcAFkJ-5QSysJZHPKySLHRm9hfFe0USbysLH_UhN63KMNHTZ1jYk9jVZxoqtW5xhs1sA4mng1g6UQ-RNY6uRwWtnudN28jNlzI4/s320/elos%20que%20n%C3%A3o%20se%20desfazem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que é certeira são os elos. Para o bom
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/816-elos-que-não-se-desfazem-img-394218485.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="462" height="251" src="/images/posts/816-elos-que-não-se-desfazem-img-2007723660.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que é certeira são os elos. Para o bom
 português vale lembrar: não os chamemos de elos de ligação, porque, se são
 elos, só podem ser de ligação! Feita a introdução com essa pitadinha ortográfica
 aqui estamos nós a falarmos mais uma vez das lembranças. O pano de fundo para a

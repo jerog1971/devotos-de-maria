@@ -1,10 +1,10 @@
 ---
 title: "Palavras da pequena Jacinta Marto"
 date: 2020-06-23T19:06:00.002Z
-heroImage: "/images/nos.JPG"
+heroImage: "/images/posts/1752-palavras-da-pequena-jacinta-marto-fatima2.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOc3wJDURXGtfw1UdnA9Rnc-yjGFe2rPsHtUYUitcR09b_Ly0qPUFNosA6Bor1VR7m0FSmq8ZkFhjz86satBCKYeINFXgxYm7LRS_6hNwcsVdymOPi_P2PtewqZvMlA5SnSVY9doClEYg/s221/fatima2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOc3wJDURXGtfw1UdnA9Rnc-yjGFe2rPsHtUYUitcR09b_Ly0qPUFNosA6Bor1VR7m0FSmq8ZkFhjz86satBCKYeINFXgxYm7LRS_6hNwcsVdymOPi_P2PtewqZvMlA5SnSVY9doClEYg/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Como bem sabemos, nós adultos não temos desculpa; Nossa
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1752-palavras-da-pequena-jacinta-marto-fatima2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" src="/images/posts/1752-palavras-da-pequena-jacinta-marto-img-264102118.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Como bem sabemos, nós adultos não temos desculpa; Nossa
 Senhora pediu para três crianças que rezassem o terço todos os dias. O céu
 nunca nos pede o impossível. Os homens colocam obstáculos naquilo que Deus nos
 pede. Ora bolas! Ele preparou nossa morada eterna no céu e as pessoas ainda

@@ -1,10 +1,10 @@
 ---
 title: "A preocupação de Jesus"
 date: 2018-03-22T20:26:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/739-a-preocupação-de-jesus-penit_25C3_25AAncia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGn3zTDRW_GTnLfT-kmaN_0nkkQlWl7kN6pdX8H0TAOtY9NT_Z8d9RZ7a3l5Kmfmwj0UeBzSjWe5WYLZgcoxUTcJ0jBtG3crO4UT4K_zfrEDV7RMCQXSaZCHti2W4AdhOK5H2wql03Bw/s1600/penit%25C3%25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGn3zTDRW_GTnLfT-kmaN_0nkkQlWl7kN6pdX8H0TAOtY9NT_Z8d9RZ7a3l5Kmfmwj0UeBzSjWe5WYLZgcoxUTcJ0jBtG3crO4UT4K_zfrEDV7RMCQXSaZCHti2W4AdhOK5H2wql03Bw/s320/penit%25C3%25AAncia.png" width="318" height="320" data-original-width="383" data-original-height="385" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/739-a-preocupação-de-jesus-penit_25C3_25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/739-a-preocupação-de-jesus-penit_25C3_25AAncia.png" width="318" height="320" data-original-width="383" data-original-height="385" /></a></div>
 Após o jejum do deserto (período de preparação de Jesus), ao iniciar seu ministério conta-nos o evangelho em Mateus 4,17 que “desde então, Jesus começou a pregar: Fazei penitência, pois o Reino dos céus está próximo”.</br>
 </br>
 E com este arranque já nos fica muito claro, com a clareza de sempre do nosso salvador, que a coisa é muito séria, o mar não está para peixe. Depois que o leite for derramado não foi por falta de aviso. A penitência em tempo de graça, que é o tempo em que vivemos, pode ser meritória embora sempre seja satisfatória. Na confissão, após a absolvição dos pecados, o sacerdote impõe a penitência em contraposição às consequências do mal, do pecado que cometemos. A pena temporal precisa ser reparada uma vez que Deus já perdoou o pecado arrependido.

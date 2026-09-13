@@ -1,10 +1,10 @@
 ---
 title: "Negar os Ensinamentos da Nova Aliança"
 date: 2016-08-02T12:03:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/113-negar-os-ensinamentos-da-nova-aliança-s_25C3_25A3o_paulo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj13SPV2iI20iWrh4Kjil7idqsj5XTk1RX1Zy-6FxJ3-iC2nxo4PGdM2LX1yZd1YB09OvJ0ynTj4JTE5ybyWAxM2a4WvPiauJ9dSPxZ1kWZrRBvdA0YaLm9SKY4npMDrpVaRo_zuDvW3xg/s1600/s%25C3%25A3o_paulo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj13SPV2iI20iWrh4Kjil7idqsj5XTk1RX1Zy-6FxJ3-iC2nxo4PGdM2LX1yZd1YB09OvJ0ynTj4JTE5ybyWAxM2a4WvPiauJ9dSPxZ1kWZrRBvdA0YaLm9SKY4npMDrpVaRo_zuDvW3xg/s320/s%25C3%25A3o_paulo.png" width="320" height="309" data-original-width="497" data-original-height="480" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/113-negar-os-ensinamentos-da-nova-aliança-s_25C3_25A3o_paulo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/113-negar-os-ensinamentos-da-nova-aliança-s_25C3_25A3o_paulo.png" width="320" height="309" data-original-width="497" data-original-height="480" /></a></div>
 É muito comum, certas denominações religiosas enraizarem seus ensinamentos doutrinários exclusivamente na antiga aliança, contida no antigo testamento. Parecem se comportar como os judeus, que ainda esperam a vinda do messias, enquanto nós católicos, que vivemos segundo a nova e eterna aliança, esperamos a nova vinda do Cristo Salvador.</br>
 </br>
 Pois bem, hábitos assim, já historicamente comprovados, levam as pessoas a serem privadas de toda a palavra de Deus e os frutos que ela pode produzir na vida de cada um. Abstendo-se de sete livros em suas bíblias e ainda se utilizando de bíblias com traduções personalizadas, ferem a própria sagrada escritura, que afirma que nenhuma profecia é de interpretação pessoal, pois os homens santos de Deus, falaram inspirados pelo Espírito Santo (2ª Pedro 1,20-21).</br>

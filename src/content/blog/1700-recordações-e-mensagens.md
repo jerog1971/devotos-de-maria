@@ -1,10 +1,10 @@
 ---
 title: "Recordações e mensagens"
 date: 2023-04-25T21:37:00.003Z
-heroImage: "/images/Recordações e mensagens.png"
+heroImage: "/images/posts/1700-recordações-e-mensagens-img-1652026854.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhys2O64uGmyYEEdMy32bCu1Ed1OmCqSOftWjUYR-5H012GFD3duCa4K6wUiB14d_tsYnMaAxVRPhBBeM2XFstnl1978p1b3p_ga51pI7DoQxBGmPGQi7JseMEDip5P8Ne5nxzgdtJ8Lzi7sMWoSjWmSnj5ILiZdnaacOVfWioUou6bpOkhHauKOuGb/s767/Recorda%C3%A7%C3%B5es%20e%20mensagens.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="767" height="220" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhys2O64uGmyYEEdMy32bCu1Ed1OmCqSOftWjUYR-5H012GFD3duCa4K6wUiB14d_tsYnMaAxVRPhBBeM2XFstnl1978p1b3p_ga51pI7DoQxBGmPGQi7JseMEDip5P8Ne5nxzgdtJ8Lzi7sMWoSjWmSnj5ILiZdnaacOVfWioUou6bpOkhHauKOuGb/w440-h220/Recorda%C3%A7%C3%B5es%20e%20mensagens.png" width="440" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já comentamos aqui neste site sobre a possibilidade de se
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1700-recordações-e-mensagens-img-1652026854.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="767" height="220" src="/images/posts/1700-recordações-e-mensagens-img-815311097.png" width="440" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já comentamos aqui neste site sobre a possibilidade de se
 absorver boas mensagens através do entretenimento televisivo. Sempre existe por
 trás de uma produção, de um produtor, a intenção de transmitir valores e bons
 valores. Por aqui, entre os artigos que tratamos dessa questão destacamos a

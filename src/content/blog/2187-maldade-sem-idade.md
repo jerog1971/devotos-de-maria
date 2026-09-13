@@ -1,10 +1,10 @@
 ---
 title: "Maldade sem idade"
 date: 2020-12-22T19:24:00.002Z
-heroImage: "/images/maldade.png"
+heroImage: "/images/posts/2187-maldade-sem-idade-maldade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMKN122pE0VtcULeL7izK8eLDyMOa4inAvROj8vXzZq5X74lMiFPmFoenAvwWGkg9NFR5b3Ukx6W95AyfgngG0-y_FWLXHAJUvENsGqWuHk3bu0WlTczZcO7XKtp2LQtqldUhwHftIlo4/s653/maldade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="514" data-original-width="653" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMKN122pE0VtcULeL7izK8eLDyMOa4inAvROj8vXzZq5X74lMiFPmFoenAvwWGkg9NFR5b3Ukx6W95AyfgngG0-y_FWLXHAJUvENsGqWuHk3bu0WlTczZcO7XKtp2LQtqldUhwHftIlo4/s320/maldade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não existe preferência para o diabo quando o assunto é o
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2187-maldade-sem-idade-maldade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="514" data-original-width="653" src="/images/posts/2187-maldade-sem-idade-maldade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não existe preferência para o diabo quando o assunto é o
 recrutamento das pessoas para o seu lado; consiste isso em voltar-se contra
 Deus. Ou alguém acha que Jesus mentiu quando disse que ninguém pode agradar a
 dois senhores? Pois bem, felizmente, o mesmo vale para a bondade. Lembra-se do

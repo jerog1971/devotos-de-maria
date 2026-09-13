@@ -1,10 +1,10 @@
 ---
 title: "Condenados por Deus?"
 date: 2022-10-13T16:05:00.004Z
-heroImage: "/images/Condenados por Deus.png"
+heroImage: "/images/posts/1993-condenados-por-deus-Condenados_20por_20Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5LSy2YpqjAfEeSaUeCp7BfG0hdb2GpncVap04QyvoA1JpB6jHjMfUGkKKTVo1kHvTmXq6ep-e8LEU_YImFU8Jrvz37NHVVWyCA9P7hAA2g8sKDB1dESEFjpWYYDABVvjmV6NPc80IUBJWAO6GOyHznolA4fAwzteOp36LmJT9NnvNJqfZ5_hKdhZ/s563/Condenados%20por%20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="537" data-original-width="563" height="305" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5LSy2YpqjAfEeSaUeCp7BfG0hdb2GpncVap04QyvoA1JpB6jHjMfUGkKKTVo1kHvTmXq6ep-e8LEU_YImFU8Jrvz37NHVVWyCA9P7hAA2g8sKDB1dESEFjpWYYDABVvjmV6NPc80IUBJWAO6GOyHznolA4fAwzteOp36LmJT9NnvNJqfZ5_hKdhZ/s320/Condenados%20por%20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nada disso, ele pode ser bom para os outros, que levam vida
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1993-condenados-por-deus-Condenados_20por_20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="537" data-original-width="563" height="305" src="/images/posts/1993-condenados-por-deus-Condenados_20por_20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nada disso, ele pode ser bom para os outros, que levam vida
 mais fácil que a minha, possuem mais facilidades, mais confortos, maior
 condição financeira, mais desejos realizados. A grama do vizinho realmente é
 mais verde que a minha, sua conta bancária mais gorda, sua família dá menos

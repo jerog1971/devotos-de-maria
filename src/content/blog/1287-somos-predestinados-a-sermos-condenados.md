@@ -1,10 +1,10 @@
 ---
 title: "Somos predestinados a sermos condenados?"
 date: 2019-06-12T16:10:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1287-somos-predestinados-a-sermos-condenados-justi_25C3_25A7a_divina.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpCnbJK-5Ima7bnPWC-grO4SO29f3ij_tArRwPJuYC1BrTWBtKudscXfI8QtHvK4aCRz3LMDhOL8UZXUN6dtbksUhFmshZ_FP-YyoxPr9R2aHerglhk6ua82i6E6w-yAoHwZqCLR29d0I/s1600/justi%25C3%25A7a_divina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpCnbJK-5Ima7bnPWC-grO4SO29f3ij_tArRwPJuYC1BrTWBtKudscXfI8QtHvK4aCRz3LMDhOL8UZXUN6dtbksUhFmshZ_FP-YyoxPr9R2aHerglhk6ua82i6E6w-yAoHwZqCLR29d0I/s320/justi%25C3%25A7a_divina.png" width="320" height="267" data-original-width="341" data-original-height="284" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1287-somos-predestinados-a-sermos-condenados-justi_25C3_25A7a_divina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1287-somos-predestinados-a-sermos-condenados-justi_25C3_25A7a_divina.png" width="320" height="267" data-original-width="341" data-original-height="284" /></a></div>
 Algumas pessoas caem, até com certo grau de frequência, na tentação de achar que algumas pessoas são predestinadas ao céu, outras não, parecem ter nascido para depois da devassidão de suas vidas rumarem direto para os abismos infernais.</br>
 </br>
 Pois bem, falta um pouco de atenção nesta dúvida; está escrito nas sagradas escrituras que “Deus quer que todos os homens se salvem e cheguem ao conhecimento da verdade”. Então, alguém mais atento já pode se perguntar: mas como fica a passagem que diz que todos somos predestinados à santidade?</br>

@@ -1,10 +1,10 @@
 ---
 title: "Promessas divinas e terrenas"
 date: 2021-07-19T18:47:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1205-promessas-divinas-e-terrenas-promessas_divinas_e_terrenas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4TiW_J2ptmzB49uH_qnGcEdrt9D2ZHpbBK36foiGMN1B9pAU7s1uxOHBbYXSiZIM9Yz7CDFyVYzkQ-x84HPL4zeUh820AurnP6pfoh1Ykq4h7Loc_Mj8NNAu3Fdr6kABXOtkq-uHpP0E/s461/promessas+divinas+e+terrenas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="456" data-original-width="461" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4TiW_J2ptmzB49uH_qnGcEdrt9D2ZHpbBK36foiGMN1B9pAU7s1uxOHBbYXSiZIM9Yz7CDFyVYzkQ-x84HPL4zeUh820AurnP6pfoh1Ykq4h7Loc_Mj8NNAu3Fdr6kABXOtkq-uHpP0E/s320/promessas+divinas+e+terrenas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, todo cristão sabe e até mesmo aqueles que se dispuseram
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1205-promessas-divinas-e-terrenas-promessas_divinas_e_terrenas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="456" data-original-width="461" src="/images/posts/1205-promessas-divinas-e-terrenas-promessas_divinas_e_terrenas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, todo cristão sabe e até mesmo aqueles que se dispuseram
 a conhecer um pouco sobre a “pessoa” de Jesus Cristo e a mensagem que ele trouxe
 do Pai, que sua palavra é definitiva. O que está dito não será mudado. Malaquias
 3,6 – “Sou o Senhor e não mudo”. Isaías 45,23 – “Minhas palavras não serão

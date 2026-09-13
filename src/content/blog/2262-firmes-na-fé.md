@@ -1,10 +1,10 @@
 ---
 title: "Firmes na fé"
 date: 2021-02-23T20:57:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2262-firmes-na-fé-firmes_na_f_25C3_25A9.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAC26wUGPmVEpAO8GLwKbNOGJp9aRC8hacHLKyfVpkzM3b5fMJELBR7sn8hXNEmiw63HdmInSXWMQMo1u8fFoC9HobTyzVNIwvaPFofCi_Ad910NBNuE11X5QrdfM9c86W2PHsEOBlUjY/s568/firmes+na+f%25C3%25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="568" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAC26wUGPmVEpAO8GLwKbNOGJp9aRC8hacHLKyfVpkzM3b5fMJELBR7sn8hXNEmiw63HdmInSXWMQMo1u8fFoC9HobTyzVNIwvaPFofCi_Ad910NBNuE11X5QrdfM9c86W2PHsEOBlUjY/s320/firmes+na+f%25C3%25A9.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos na santa palavra de Deus que fé é a certeza a respeito
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2262-firmes-na-fé-firmes_na_f_25C3_25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="568" src="/images/posts/2262-firmes-na-fé-firmes_na_f_25C3_25A9.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos na santa palavra de Deus que fé é a certeza a respeito
 daquilo que não se vê, é acreditar naquilo que não se vê. Possivelmente a
 maioria das pessoas conhece a fala que diz que “só acredito vendo, eu sou como
 São Tomé”. Jesus diz: felizes os que creem sem terem visto. E no caso dos cristãos,

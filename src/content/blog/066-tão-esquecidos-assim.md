@@ -1,10 +1,10 @@
 ---
 title: "Tão esquecidos assim?"
 date: 2019-05-07T15:54:00Z
-heroImage: "/images/esquecidos.png"
+heroImage: "/images/posts/066-tão-esquecidos-assim-esquecidos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGyw6wwz_6w9YXn-a7suxzUoGbhyphenhyphenyY8cl6SnHMBs5da2wRYoY_y-MEcOesfCCL0AzAqUbOHfJf2LVFiiYzZmvDj9kdTYnlXJkmg5kaG5j51rzZsEtWyVzPqPtOj_6Wm5k7CHNOc26VoPY/s1600/esquecidos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGyw6wwz_6w9YXn-a7suxzUoGbhyphenhyphenyY8cl6SnHMBs5da2wRYoY_y-MEcOesfCCL0AzAqUbOHfJf2LVFiiYzZmvDj9kdTYnlXJkmg5kaG5j51rzZsEtWyVzPqPtOj_6Wm5k7CHNOc26VoPY/s320/esquecidos.png" width="320" height="307" data-original-width="476" data-original-height="457" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/066-tão-esquecidos-assim-esquecidos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/066-tão-esquecidos-assim-esquecidos.png" width="320" height="307" data-original-width="476" data-original-height="457" /></a></div>
 Com grande chance de acerto podemos dizer que a maioria das pessoas já deve ter passado pela experiência de constatar que alguém esqueceu de alguma coisa ou algum compromisso que precisava ser feito. Você pergunta para o sujeito: fulano fez tal coisa? E o sujeito diz: não, esqueci! Pois é, mas aquelas tantas outras coisas do seu interesse facilmente podem-se observar que esse mesmo sujeito não esqueceu, não esquece ou não esquecerá.</br>
 </br>
 A vida vai passando e para pessoas assim é um tal de esqueci para cá, esqueci para lá, não consigo me lembrar. O que ocorre não é culpa de tanta falta de memória assim, já dissemos linhas acima, está relacionado com o interesse. Para aquilo que temos interesse tratamos de colocar em local privilegiado em nossa mente.</br>

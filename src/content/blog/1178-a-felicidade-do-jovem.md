@@ -1,10 +1,10 @@
 ---
 title: "A Felicidade do Jovem"
 date: 2016-09-02T13:49:00Z
-heroImage: "/images/felicidade2.png"
+heroImage: "/images/posts/1178-a-felicidade-do-jovem-felicidade2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6EhOClTcQNkFJUtE2K_XYKM30ht_iRh1KuXT-goqdi_sAbhTCQuPvWx7biw8CKFawhiJXM_AQKHVotv08FoUbIdQWYObKIZZP3miJq0qq-U6EW5tM_bdsoOB4QzO6WkS6Mtj9w7ae42s/s1600/felicidade2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6EhOClTcQNkFJUtE2K_XYKM30ht_iRh1KuXT-goqdi_sAbhTCQuPvWx7biw8CKFawhiJXM_AQKHVotv08FoUbIdQWYObKIZZP3miJq0qq-U6EW5tM_bdsoOB4QzO6WkS6Mtj9w7ae42s/s320/felicidade2.png" width="320" height="279" data-original-width="568" data-original-height="496" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1178-a-felicidade-do-jovem-felicidade2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1178-a-felicidade-do-jovem-felicidade2.png" width="320" height="279" data-original-width="568" data-original-height="496" /></a></div>
 Todos nós um dia já fomos jovens. Alguns ainda irão ser. Outros são. Alguns não querem deixar de ser. Outros não sabem que são. Tantos não sabem o que é ser. Estas são verdades que acompanham as pessoas no decorrer de suas vidas. A juventude é um período que em alguns casos trazem um pouco de confusão nas mentes em desenvolvimento em suas constantes e diárias descobertas de si e do mundo afora.</br>
 </br>
 Não existe ainda no jovem alguns conceitos plenamente formados e definidos porque ele está justamente a passar por um período de crescimento e aprendizado. Porém, independente do aprendizado que estão a passar, no fundo todas as etapas da vida acabam por viverem esta mesma condição. E isto vale para todos nós, jovens ou não. Estamos sempre aprendendo algo pois do contrário para que viver? Para se isolar num mundinho egoísta e não ser humilde para aceitar tudo que Deus tem a nos ensinar por meio da nossa vida? Parece que isso não soa bem não é mesmo!</br>

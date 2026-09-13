@@ -1,10 +1,10 @@
 ---
 title: "Missa de Sétimo Dia"
 date: 2022-08-30T15:59:00Z
-heroImage: "/images/missa de sétimo dia.png"
+heroImage: "/images/posts/2239-missa-de-sétimo-dia-missa_20de_20s_C3_A9timo_20dia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga0-Wms8oXtmS85DrXzHZmdmbDS3I7u1ESF6in86LG6KXNpw1-BADW3EHITUZmRTtd__vT8ky2365XCvS4hiM5ZQqVJ3GQe0aVxH6r22r9WMypl2BsWdbFZdE9i5ZDmdrAxEv0WakDsD5pfavyTo55PMXPRxw51Ppomdd7NU1Xeqcg9tyFG7wS93_o/s664/missa%20de%20s%C3%A9timo%20dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="531" data-original-width="664" height="256" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga0-Wms8oXtmS85DrXzHZmdmbDS3I7u1ESF6in86LG6KXNpw1-BADW3EHITUZmRTtd__vT8ky2365XCvS4hiM5ZQqVJ3GQe0aVxH6r22r9WMypl2BsWdbFZdE9i5ZDmdrAxEv0WakDsD5pfavyTo55PMXPRxw51Ppomdd7NU1Xeqcg9tyFG7wS93_o/s320/missa%20de%20s%C3%A9timo%20dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O costume tradicional e universal é a celebração da missa de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2239-missa-de-sétimo-dia-missa_20de_20s_C3_A9timo_20dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="531" data-original-width="664" height="256" src="/images/posts/2239-missa-de-sétimo-dia-missa_20de_20s_C3_A9timo_20dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O costume tradicional e universal é a celebração da missa de
 corpo presente, seguida do sepultamento do falecido. Todavia, tal prática “ganha”
 uma solução adaptada para a realidade de nosso país continental. Desde os
 tempos da colonização, as grandes distâncias que separavam os parentes e amigos

@@ -1,10 +1,10 @@
 ---
 title: "Encarando Situações"
 date: 2023-07-31T21:02:00.006Z
-heroImage: "/images/encarando situações.png"
+heroImage: "/images/posts/214-encarando-situações-img-1691797347.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC-vUAI_ephG8pLdXOQlW4NBokcjsvlFTgVcdYdm2atosjKYLId66maLZJS5rVm2EJvmzmYlnps5qoMGHZerql57HGAk9P_oFEwsV51k80VSKLTJD9tK9ddqfxkPgDNeMoZb9FmMZyJTczrpngWfraVpEhgSSwdI6R6lN22YBSDf11fWV-zX5vZCVs5xs/s574/encarando%20situa%C3%A7%C3%B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="574" height="211" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC-vUAI_ephG8pLdXOQlW4NBokcjsvlFTgVcdYdm2atosjKYLId66maLZJS5rVm2EJvmzmYlnps5qoMGHZerql57HGAk9P_oFEwsV51k80VSKLTJD9tK9ddqfxkPgDNeMoZb9FmMZyJTczrpngWfraVpEhgSSwdI6R6lN22YBSDf11fWV-zX5vZCVs5xs/w381-h211/encarando%20situa%C3%A7%C3%B5es.png" width="381" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não há como negar, não se passa ileso pela vida; sempre
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/214-encarando-situações-img-1691797347.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="574" height="211" src="/images/posts/214-encarando-situações-img-642386178.png" width="381" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não há como negar, não se passa ileso pela vida; sempre
 existe a cada dia a possibilidade de esbarramos com um problema. Problemas são
 algo que ainda não se sabe a solução; caso não exista, algo a esse respeito
 precisa ser feito, pois, do contrário, ele dificilmente desaparecerá com o tempo,

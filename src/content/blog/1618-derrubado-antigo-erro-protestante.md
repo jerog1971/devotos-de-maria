@@ -1,10 +1,10 @@
 ---
 title: "Derrubado antigo erro protestante"
 date: 2015-11-19T11:23:00Z
-heroImage: "/images/biblia.png"
+heroImage: "/images/posts/1618-derrubado-antigo-erro-protestante-biblia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAb5CCcwKLq06_V6s9jm14K3OnQHd3vSR8JPujWLpsKju4FcmKftRalhMxLn9wXUzPIWUXxlixcE91F5GTdhk76BJEofHCMqSkQ_OplMbGgEzrzpW98xwAueaqwqC_uEH2jDR_PE3pXD4/s1600/biblia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAb5CCcwKLq06_V6s9jm14K3OnQHd3vSR8JPujWLpsKju4FcmKftRalhMxLn9wXUzPIWUXxlixcE91F5GTdhk76BJEofHCMqSkQ_OplMbGgEzrzpW98xwAueaqwqC_uEH2jDR_PE3pXD4/s320/biblia.png" width="262" height="320" data-original-width="262" data-original-height="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1618-derrubado-antigo-erro-protestante-biblia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1618-derrubado-antigo-erro-protestante-biblia.png" width="262" height="320" data-original-width="262" data-original-height="320" /></a></div>
 </br>
 AINDA É COMUM nos meios protestantes, infelizmente, ouvir-se a afirmação de que “a Igreja Católica acrescentou sete livros à Bíblia" em algum momento da História. Segundo esta absurda teoria, esses livros (Tobias, Judite, Sabedoria, Eclesiástico, Baruc, Carta de Jeremias e os livros dos Macabeus, além de partes de Daniel e Ester) seriam “apócrifos”. Um lamentável equívoco, – entre muitos outros, – difundido às vezes por puro desconhecimento e outras com a nítida intenção de caluniar a Igreja Católica.</br>
 </br>
@@ -34,7 +34,7 @@ De fato, o termo "apócrifo" sempre significou um "escrito de assunto sagrado n�
 </br>
 Aqui não há o que corrigir, pois a SBB simplesmente confessa que a Septuaginta, isto é, o Velho Testamento da Bíblia cristã e católica de sempre, foi sempre utilizada pela Igreja, desde o princípio, inclusive nas sinagogas "de todas as regiões do Mediterrâneo" como "instrumento fundamental" para a evangelização. Corretíssimo. Isso explica o porquê de tais livros já se encontrarem, inclusive, na Bíblia de Gutemberg, impressa cerca de um século antes da Reforma Protestante.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYFGaafUxRZ4m_J72CCuB8RH5uDgnMUvYGxjo0u_l7Nxxx-yHp_PD1tfEy7GAq6TKvhxR9J5WSs0dQpliB55WuOTBDttQr2HcPQwFBBFfDY751uMi3MUaxLTc5PYWQBT9_BzbWoKqo0JY/s1600/lutero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYFGaafUxRZ4m_J72CCuB8RH5uDgnMUvYGxjo0u_l7Nxxx-yHp_PD1tfEy7GAq6TKvhxR9J5WSs0dQpliB55WuOTBDttQr2HcPQwFBBFfDY751uMi3MUaxLTc5PYWQBT9_BzbWoKqo0JY/s200/lutero.png" width="182" height="200" data-original-width="177" data-original-height="194" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1618-derrubado-antigo-erro-protestante-lutero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1618-derrubado-antigo-erro-protestante-lutero.png" width="182" height="200" data-original-width="177" data-original-height="194" /></a></div>
 </br>
 Lutero traduziu para o alemão os livros deuterocanônicos. Sua edição de 1534 traz o mesmo catálogo dos católicos. A sociedade Bíblica protestante, até o séc. XIX, incluía os deuterocanônicos em suas edições da Bíblia. Depois disso os excluiu, e para justificar essa grave heresia, elaborou uma coleção de calúnias contra a Igreja Católica. Até hoje certas seitas pentecostais e neo pentecostais costumam levianamente pregar uma justificativa mentirosa para cada livro que renegaram.</br>
 </br>

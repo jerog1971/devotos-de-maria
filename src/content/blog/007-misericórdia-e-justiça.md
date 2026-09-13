@@ -1,10 +1,10 @@
 ---
 title: "Misericórdia e Justiça"
 date: 2016-10-19T11:19:00Z
-heroImage: "/images/faustina.png"
+heroImage: "/images/posts/007-misericórdia-e-justiça-faustina.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7-n6HOKOahLLghWaggQH4PZcM6MO7TsWbrEx9hFN-WkJtgMSJXRnzGclwuI6Iz5FlTaN7vRwEVVnBnfUafsturZtAOBipq5gz0YTWSyzrNrdtEkFDeKsb94XtXFi8WtzxO5KbnV3EHls/s1600/faustina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7-n6HOKOahLLghWaggQH4PZcM6MO7TsWbrEx9hFN-WkJtgMSJXRnzGclwuI6Iz5FlTaN7vRwEVVnBnfUafsturZtAOBipq5gz0YTWSyzrNrdtEkFDeKsb94XtXFi8WtzxO5KbnV3EHls/s320/faustina.png" width="239" height="320" data-original-width="267" data-original-height="357" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/007-misericórdia-e-justiça-faustina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/007-misericórdia-e-justiça-faustina.png" width="239" height="320" data-original-width="267" data-original-height="357" /></a></div>
 Santa Maria Faustina Kowalska, a mensageira da misericórdia, levou uma vida de constante oração, confissão e adoração ao Senhor, sempre vivendo diariamente em sua companhia e sendo aquela que se diminuía para que Jesus aparecesse. Como grande graça concedida para a humanidade, através dessa grande santa, nos foi deixado por ela, a mando de Jesus, um relato em forma de diário para que o povo de Deus viva ainda melhor, os ensinamentos do evangelho. Esse testemunho pessoal que Santa Faustina deixa para todos, serve para nos mostrar como pode e deve ser nosso relacionamento com o Cristo Ressuscitado.</br>
 </br>
 Em seu diário, cuja leitura recomendo a todos os católicos, em seu número 1728, Jesus faz um pequeno lembrete da sua condição de Jesus Misericordioso e Jesus Justo Juiz, nos recordando que sua misericórdia é infinita, não pode ser vencida mas, existe o braço da justiça que irá pender sobre todos. Vejamos o trecho do diário:</br>

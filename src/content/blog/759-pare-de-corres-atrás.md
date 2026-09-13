@@ -1,10 +1,10 @@
 ---
 title: "Pare de corres atrás"
 date: 2022-12-12T17:08:00.004Z
-heroImage: "/images/pare de correr atrás.png"
+heroImage: "/images/posts/759-pare-de-corres-atrás-img-146836201.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7HPYAahhed7csn0QalQYs12DbsknOXhotxWexKveUzBxQkNJJa0g1Ubzt3zqeaHGATRqJ0aYmI9gP2qPJzb__uvl6FK8bKlLbpmK-AMP8ywcZ8ZZi4aEWhEsh0oZRWWNllGiQvCSEujeBI28V_gY1KO0REdwklwM3H9jVqdc8JuM-mqp97ZVBh9zn/s788/pare%20de%20correr%20atr%C3%A1s.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="563" data-original-width="788" height="229" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7HPYAahhed7csn0QalQYs12DbsknOXhotxWexKveUzBxQkNJJa0g1Ubzt3zqeaHGATRqJ0aYmI9gP2qPJzb__uvl6FK8bKlLbpmK-AMP8ywcZ8ZZi4aEWhEsh0oZRWWNllGiQvCSEujeBI28V_gY1KO0REdwklwM3H9jVqdc8JuM-mqp97ZVBh9zn/s320/pare%20de%20correr%20atr%C3%A1s.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O Padre Kemphis, autor atribuído ao livro Imitação de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/759-pare-de-corres-atrás-img-146836201.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="563" data-original-width="788" height="229" src="/images/posts/759-pare-de-corres-atrás-img-7444957.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O Padre Kemphis, autor atribuído ao livro Imitação de
 Cristo, já dizia que uma alma se torna inquieta enquanto não alcança aquilo que
 busca. Além de ser uma grande verdade isso constitui um grande perigo. Sim,
 porque a inquietude pode ter origens não tão saudáveis para a alma e para

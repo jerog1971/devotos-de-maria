@@ -1,10 +1,10 @@
 ---
 title: "Você se recorda do dia em que se casou?"
 date: 2019-01-29T11:16:00Z
-heroImage: "/images/casando.png"
+heroImage: "/images/posts/140-você-se-recorda-do-dia-em-que-se-casou-casando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOrRDpUd8bMq7EQSleQRmS1CIx-WjzZ49DPIK9o7FnJl3Hl7fKEyhHkSvfAVWFR8xFjzt7x8pOe3eMUu0M8iR34nFVf5ieqLMRjxNvE9ItgzypjCQ40cr_tBbDtpCEFEvws_lM_LqG6LY/s1600/casando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOrRDpUd8bMq7EQSleQRmS1CIx-WjzZ49DPIK9o7FnJl3Hl7fKEyhHkSvfAVWFR8xFjzt7x8pOe3eMUu0M8iR34nFVf5ieqLMRjxNvE9ItgzypjCQ40cr_tBbDtpCEFEvws_lM_LqG6LY/s320/casando.png" width="320" height="302" data-original-width="551" data-original-height="520" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/140-você-se-recorda-do-dia-em-que-se-casou-casando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/140-você-se-recorda-do-dia-em-que-se-casou-casando.png" width="320" height="302" data-original-width="551" data-original-height="520" /></a></div>
 Caros leitores, por que não recordarmos o que é assumido em forma de compromisso na presença de tantas testemunhas e principalmente na presença de Deus? O que se vê por aí é que tão logo termina a cerimônia que celebra o sacramento do matrimônio, transformada em evento social, o que ali ficou sacramentado rapidamente cede lugar aos mandatos do mundo, a começar pela festa de casamento. Recordemos então algumas passagens do rito do matrimônio para que seja possível uma breve reflexão a respeito daquilo que se diz e aquilo que se faz. Pedimos tantas coisas para Deus, mas não abrimos nossos corações para aquilo que pedimos e tampouco fazemos aquilo que nos comprometemos. Depois, ainda por cima, culpamos os outros.</br>
 </br>
 Rito do Matrimônio</br>

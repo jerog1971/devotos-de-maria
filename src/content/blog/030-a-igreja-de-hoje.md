@@ -1,10 +1,10 @@
 ---
 title: "A igreja de hoje"
 date: 2015-12-17T14:16:00.002Z
-heroImage: "/images/padre_malachi.png"
+heroImage: "/images/posts/030-a-igreja-de-hoje-padre_malachi.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjHEQ3UISQb7J8H0EnLI1FCEn-vU8LglQm0tgfLxf2utkvuaEHJaeueItDqu1rlRnqmq-Pwj0PktrRirSK5whaYIUV284kgYM7eR9cb-ta7kbhQhkggOuYIJ11x21RO2UkNiFlrbj6thU/s1600/padre_malachi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjHEQ3UISQb7J8H0EnLI1FCEn-vU8LglQm0tgfLxf2utkvuaEHJaeueItDqu1rlRnqmq-Pwj0PktrRirSK5whaYIUV284kgYM7eR9cb-ta7kbhQhkggOuYIJ11x21RO2UkNiFlrbj6thU/s320/padre_malachi.png" width="319" height="320" data-original-width="444" data-original-height="446" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/030-a-igreja-de-hoje-padre_malachi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/030-a-igreja-de-hoje-padre_malachi.png" width="319" height="320" data-original-width="444" data-original-height="446" /></a></div>
 </br>
 Malachi Brendan Martin (23 de julho de 1921 - 27 de julho de 1999) foi um padre católico irlandês e escritor sobre a Igreja Católica. Originalmente ordenado padre jesuíta, se tornou professor de Paleontologia no Pontifício Instituto Bíblico do Vaticano, e a partir de 1958, Martin também atuou como consultor teológico do Cardeal Augustin Bea durante os preparativos para o Concílio Vaticano II.</br>
 </br>

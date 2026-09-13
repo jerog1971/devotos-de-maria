@@ -1,10 +1,10 @@
 ---
 title: "Dom Athanasius Schneider, em entrevista ao jornal católico “The Remnant”, fala sobre a proibição das Missas públicas e a necessidade de conversão"
 date: 2020-05-26T16:12:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1354-dom-athanasius-schneider-em-entrevista-ao-jornal-c-AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="230" data-original-width="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segue a matéria na íntegra com tradução feita pelo site
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1354-dom-athanasius-schneider-em-entrevista-ao-jornal-c-AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="230" data-original-width="304" src="/images/posts/1354-dom-athanasius-schneider-em-entrevista-ao-jornal-c-AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segue a matéria na íntegra com tradução feita pelo site
 montfort.org.br:</p>
 
 <p class="MsoNormal">Diane Montagna (DM): Excelência, qual é a sua impressão

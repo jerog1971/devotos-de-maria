@@ -1,10 +1,10 @@
 ---
 title: "Protesto cristão"
 date: 2024-08-13T16:29:00.005Z
-heroImage: "/images/protesto cristão 2.png"
+heroImage: "/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBorM-CUC2-bZomo1m8v1MXDRdIqgynh5hIkYJRNccdom2lzrmNTYrWfpUpj9TCPLC6XEbSow5BM2Ka56ZH-hxL9RGqpPhTMDdMtYW3QR2HovfW4v4IK1EOh-8rk8utP77FTpIVRQGGz6jKxqPkLznNmcBHBPVR60cbuUwRvTYbgjG-En9B3gTCBVEn6U/s647/protesto%20crist%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="486" data-original-width="647" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBorM-CUC2-bZomo1m8v1MXDRdIqgynh5hIkYJRNccdom2lzrmNTYrWfpUpj9TCPLC6XEbSow5BM2Ka56ZH-hxL9RGqpPhTMDdMtYW3QR2HovfW4v4IK1EOh-8rk8utP77FTpIVRQGGz6jKxqPkLznNmcBHBPVR60cbuUwRvTYbgjG-En9B3gTCBVEn6U/s320/protesto%20crist%C3%A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois dos acontecimentos polêmicos que ocorreram na cerimônia
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="486" data-original-width="647" height="240" src="/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois dos acontecimentos polêmicos que ocorreram na cerimônia
 de abertura dos jogos olímpicos deste ano, onde atitudes controversas e
 questionáveis mobilizou os católicos do mundo inteiro, uma equipe de uma
 entidade destinada a lutar pelo bem cristão e sua doutrina saindo em defesa da
@@ -38,7 +38,7 @@ marchas, não a um ônibus solitário com uma mensagem simples.”<o:p></o:p></p
 nossos valentes amigos foram algemados e levados para uma segunda instalação
 segura. Todos os seus pertences foram confiscados, eles foram despidos e
 revistados, negaram-lhes a oportunidade de contactar seus advogados e alguns
-nem sequer puderam contactar seus familiares.”<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qpMYWqttgwNNJPxgzzQna_pJLdXJ_Ae_BQq2YY6VOq4UBiicypG_DWfMbtlxt5Jj97WLaNhxPQWWrJR0Q7sLE_SOG_bCqZ-JfApc30VNap8Hg8QFKzkHwnwy-GI9deY-I5feAOY-zySbpCtz13P_gulr3v65RtxWeJ-TxqUTzPZ8gOJBNasarMwCixg/s642/protesto%20crist%C3%A3o%202.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="484" data-original-width="642" height="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qpMYWqttgwNNJPxgzzQna_pJLdXJ_Ae_BQq2YY6VOq4UBiicypG_DWfMbtlxt5Jj97WLaNhxPQWWrJR0Q7sLE_SOG_bCqZ-JfApc30VNap8Hg8QFKzkHwnwy-GI9deY-I5feAOY-zySbpCtz13P_gulr3v65RtxWeJ-TxqUTzPZ8gOJBNasarMwCixg/s320/protesto%20crist%C3%A3o%202.png" width="320" /></a></div><br /><p class="MsoNormal">“Não só isso, mas eles foram submetidos a uma pressão
+nem sequer puderam contactar seus familiares.”<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o_202.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="484" data-original-width="642" height="241" src="/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o_202.png" width="320" /></a></div><br /><p class="MsoNormal">“Não só isso, mas eles foram submetidos a uma pressão
 psicológica severa, com ameaças de detenção prolongada e&nbsp;<b>passaram a
 noite em condições deploráveis, alguns até sendo privados de comida e água,
 tudo por causa de acusações inexistentes. </b>Finalmente conseguimos obter para

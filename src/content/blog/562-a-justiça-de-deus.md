@@ -1,10 +1,10 @@
 ---
 title: "A justiça de Deus"
 date: 2020-12-18T15:18:00.001Z
-heroImage: "/images/juiz.png"
+heroImage: "/images/posts/562-a-justiça-de-deus-juiz.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7SZAzDxcNaWtqaI_r87Lca8oqu-r2h78oSwplncLJyuoR0IbXEQA34zyzAOAQlOGwfhSvGzuncUqzhSQvtaZlOcagTgBus2IUKcchB5gqtYp7oEQEgnXzZ2rToIzJKpeUAUdazZqUNk/s318/juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7SZAzDxcNaWtqaI_r87Lca8oqu-r2h78oSwplncLJyuoR0IbXEQA34zyzAOAQlOGwfhSvGzuncUqzhSQvtaZlOcagTgBus2IUKcchB5gqtYp7oEQEgnXzZ2rToIzJKpeUAUdazZqUNk/s0/juiz.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sempre motivo de grande polêmica motivada por aqueles que
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/562-a-justiça-de-deus-juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" src="/images/posts/562-a-justiça-de-deus-juiz.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sempre motivo de grande polêmica motivada por aqueles que
 teimam em entrar para o serviço do altíssimo: Eclesiástico 2,1-6 – “Meu filho,
 se entrares para o serviço de Deus, permanece firme na justiça e no temor, e
 prepara a tua alma para a provação; humilha teu coração, espera com paciência,

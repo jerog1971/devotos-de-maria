@@ -1,10 +1,10 @@
 ---
 title: "Pensamos em tudo"
 date: 2021-05-06T16:20:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/762-pensamos-em-tudo-pensamos_em_tudo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinBMT7xMYwJVr57uxG5MPIQKlB0RtGzi6JNrI_7jdBIdlwsid6DwrfDlKrHG8g8ojR80R97vhNZDFTek5OhYid3VHM3UoN7fDD1BPt-EVjhxSbu7HJRB4cM-KNMPKriTmlJwJK2xe3HTw/s236/pensamos+em+tudo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="204" data-original-width="236" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinBMT7xMYwJVr57uxG5MPIQKlB0RtGzi6JNrI_7jdBIdlwsid6DwrfDlKrHG8g8ojR80R97vhNZDFTek5OhYid3VHM3UoN7fDD1BPt-EVjhxSbu7HJRB4cM-KNMPKriTmlJwJK2xe3HTw/s0/pensamos+em+tudo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De fato, pensamos em muita coisa, ainda mais com a avalanche
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/762-pensamos-em-tudo-pensamos_em_tudo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="204" data-original-width="236" src="/images/posts/762-pensamos-em-tudo-pensamos_em_tudo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De fato, pensamos em muita coisa, ainda mais com a avalanche
 de ofertas do mundo. A quem diga que não suporte o silêncio e que não consiga
 se concentrar em algo ou ainda pensar em apenas uma coisa apenas, focalizar. O
 pensamento consegue com muita facilidade bater asas. As ideias vêm e vão com

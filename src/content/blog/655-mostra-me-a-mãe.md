@@ -1,10 +1,10 @@
 ---
 title: "Mostra-me a mãe"
 date: 2023-11-05T17:32:00Z
-heroImage: "/images/Mãe e Filha.png"
+heroImage: "/images/posts/655-mostra-me-a-mãe-m_C3_A3e.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEKRn9x_OXsq-vZXQcIDw4o09_qMWHlOtAiVmwGWOiJn2e4VxWcpm-j5DRxuxNVmCt-9dnw57g5NWXDqs0Jw7e9JnxCxLXkRIEVqqWDi_6pZHG0EHAGjUpUN-wij76qmLDbNk87DpPAoldawK5ZDr_E7WzcOAkGb01jJrnrElhVQbr0oRlXGh3d2m4ZT4/s3264/m%C3%A3e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEKRn9x_OXsq-vZXQcIDw4o09_qMWHlOtAiVmwGWOiJn2e4VxWcpm-j5DRxuxNVmCt-9dnw57g5NWXDqs0Jw7e9JnxCxLXkRIEVqqWDi_6pZHG0EHAGjUpUN-wij76qmLDbNk87DpPAoldawK5ZDr_E7WzcOAkGb01jJrnrElhVQbr0oRlXGh3d2m4ZT4/s320/m%C3%A3e.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um filme dos irmãos Kendricks que se intitula “Mostra-me
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/655-mostra-me-a-mãe-m_C3_A3e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/655-mostra-me-a-mãe-m_C3_A3e.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um filme dos irmãos Kendricks que se intitula “Mostra-me
 o Pai”. O filme retrata em forma de documentário as importâncias da figura do
 pai no seio familiar. Com algumas histórias o filme vai demonstrando o quão é
 importante a presença paterna para os filhos. Se assim o é em relação ao pai,

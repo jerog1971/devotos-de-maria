@@ -1,10 +1,10 @@
 ---
 title: "Padre Francês é degolado durante a Santa Missa"
 date: 2016-07-29T15:11:00Z
-heroImage: "/images/padre_jacques_hamel.png"
+heroImage: "/images/posts/554-padre-francês-é-degolado-durante-a-s-padre_jacques_hamel.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoI-SCjAm1iWe98SGA-Xv8XXmfLrmSLY6gaDR_-RR04QBKyXhsgobP2wgTzgdNGX2PwOATdkJJFi2qqxLwd-mezDTV1deUwgrKVyFr69ffqubJcQ9tl5du8S52zObAl3_xiPg6bobIEc/s1600/padre_jacques_hamel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoI-SCjAm1iWe98SGA-Xv8XXmfLrmSLY6gaDR_-RR04QBKyXhsgobP2wgTzgdNGX2PwOATdkJJFi2qqxLwd-mezDTV1deUwgrKVyFr69ffqubJcQ9tl5du8S52zObAl3_xiPg6bobIEc/s320/padre_jacques_hamel.png" width="320" height="303" data-original-width="484" data-original-height="459" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/554-padre-francês-é-degolado-durante-a-s-padre_jacques_hamel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/554-padre-francês-é-degolado-durante-a-s-padre_jacques_hamel.png" width="320" height="303" data-original-width="484" data-original-height="459" /></a></div>
 Mais uma vez corre pelo mundo outra noticia que foi assumida pelo grupo Estado Islâmico. Desta vez, ou diria melhor, mais uma vez, a França foi alvo dos ataques. Durante a celebração da santa missa, dois homens invadiram a igreja, fizeram o Padre Jacques Hamel de 84 anos refém, forçaram-no a se ajoelhar e o decapitaram. Após fuga a polícia francesa acabou por matar os assassinos durante perseguição, vindo a prender um menor de idade suspeito de ligação.</br>
 </br>
 O sacerdote atuava a mais de 20 anos na igreja de Saint-Etienne-du-Rouvray, na região da Normandia, no norte da França.</br>

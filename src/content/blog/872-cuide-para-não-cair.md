@@ -1,10 +1,10 @@
 ---
 title: "Cuide para não cair"
 date: 2016-08-04T20:39:00.001Z
-heroImage: "/images/caindo.png"
+heroImage: "/images/posts/872-cuide-para-não-cair-caindo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXDebqVAUfG8p7HOypCZSx0KQT9zbYY9x5pTwnfM6TMHAo_eth64SahXFiBG7CQrZ7vTqcNbMENUoedqLhV8hAvD_Aclh_C_lhG-1mZWxWhyphenhyphen41WMreUu-S0H0Nrqli0KgRZz5_DmDEgKc/s1600/caindo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="298" data-original-width="286" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXDebqVAUfG8p7HOypCZSx0KQT9zbYY9x5pTwnfM6TMHAo_eth64SahXFiBG7CQrZ7vTqcNbMENUoedqLhV8hAvD_Aclh_C_lhG-1mZWxWhyphenhyphen41WMreUu-S0H0Nrqli0KgRZz5_DmDEgKc/s320/caindo.png" width="307" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>1ª Coríntios 10,12 - Portanto, quem pensa estar de pé veja que não caia. Com esta chamada de atenção, o apóstolo São Paulo, nos relembra de uma realidade que deve estar muito presente em nossas vidas e que foi dita por Jesus: “vigiai”.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/872-cuide-para-não-cair-caindo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="298" data-original-width="286" height="320" src="/images/posts/872-cuide-para-não-cair-caindo.png" width="307" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>1ª Coríntios 10,12 - Portanto, quem pensa estar de pé veja que não caia. Com esta chamada de atenção, o apóstolo São Paulo, nos relembra de uma realidade que deve estar muito presente em nossas vidas e que foi dita por Jesus: “vigiai”.
 
 Vigiar é ficar atento, é estar atento, é tomar conta, é não se distrair. Quando se diz que quem está de pé, cuide para não cair, a lição espiritual que vemos aqui está diretamente relacionada com a distração que nos faz pecar através de nossas “quedas” ao aceitarmos as tentações em nossas vidas. É onde, sem dúvida o cuidado para não “cairmos” no pecado, deve ser redobrado, senão triplicado. Afinal, a questão da salvação de nossas almas é assunto muito sério. O diabo nunca está para brincadeira. Ele não se cansa e não desanima. Por que nós vamos relaxar em nossa vigilância?
 

@@ -1,10 +1,10 @@
 ---
 title: "Pobres adúlteros"
 date: 2022-09-15T17:10:00.003Z
-heroImage: "/images/pobres adúlteros.png"
+heroImage: "/images/posts/091-pobres-adúlteros-pobres_20ad_C3_BAlteros.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe2Z1eMNU5ZWLdWVZvGwNQG-jMzahK78DaRiELEyD_CFyDkFLkN26eZKrgOLMhqMnYBuHyjPDTMOaoQpv9tYKbGtp37hreAm2qCiyStoidfzwsw1UMjyf2N7lyqTyD8ogor9BW9hNv3uCJ8nmFVEXHLiOEUXhGoV4HOM_FSils6wz0UOVNTej2ZrXS/s582/pobres%20ad%C3%BAlteros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="570" data-original-width="582" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe2Z1eMNU5ZWLdWVZvGwNQG-jMzahK78DaRiELEyD_CFyDkFLkN26eZKrgOLMhqMnYBuHyjPDTMOaoQpv9tYKbGtp37hreAm2qCiyStoidfzwsw1UMjyf2N7lyqTyD8ogor9BW9hNv3uCJ8nmFVEXHLiOEUXhGoV4HOM_FSils6wz0UOVNTej2ZrXS/s320/pobres%20ad%C3%BAlteros.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos lá, primeira carta aos Coríntios, capítulo seis, versículos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/091-pobres-adúlteros-pobres_20ad_C3_BAlteros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="570" data-original-width="582" height="313" src="/images/posts/091-pobres-adúlteros-pobres_20ad_C3_BAlteros.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos lá, primeira carta aos Coríntios, capítulo seis, versículos
 do nove ao dez; nela, o apóstolo vai elencar a lista dos onze tipos de
 pecadores condenados. Entre estes temos os adúlteros. Na carta aos Gálatas,
 capítulo cinco, versículos do dezenove ao vinte e um, uma nova lista, esta com

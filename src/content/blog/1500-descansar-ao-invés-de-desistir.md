@@ -1,10 +1,10 @@
 ---
 title: "Descansar ao invés de desistir"
 date: 2021-10-05T12:22:00.003Z
-heroImage: "/images/dencansar.png"
+heroImage: "/images/posts/1500-descansar-ao-invés-de-desistir-dencansar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb__hz-ycBJp5Xlo_y-ajqKRYBygpGTApUZ_grOF9S6sCVP0HUsbIw0VhvkiOow8NS9UYZ9Yq60vcav2hgAyK__xhyphenhyphenCfOA3v6AWNN3wAAJouxELpCIicfMgNFXajs4bSlN8WJL0R8FhMc/s403/dencansar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="394" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb__hz-ycBJp5Xlo_y-ajqKRYBygpGTApUZ_grOF9S6sCVP0HUsbIw0VhvkiOow8NS9UYZ9Yq60vcav2hgAyK__xhyphenhyphenCfOA3v6AWNN3wAAJouxELpCIicfMgNFXajs4bSlN8WJL0R8FhMc/s320/dencansar.png" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É o que as pessoas precisam aprender. Muitas vezes cansam durante
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1500-descansar-ao-invés-de-desistir-dencansar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="394" height="320" src="/images/posts/1500-descansar-ao-invés-de-desistir-dencansar.png" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É o que as pessoas precisam aprender. Muitas vezes cansam durante
 a caminhada para a porta estreita, a porta do céu, a entrada para a Jerusalém
 Celeste, pois, fala sério, dá trabalho subir toda essa ladeira ainda mais com
 nossa cruz nas costas, e quando cansam fazem o que? Desistem! Buscam o plano B,

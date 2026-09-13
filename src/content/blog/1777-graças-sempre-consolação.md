@@ -1,10 +1,10 @@
 ---
 title: "Graças sempre, consolação..."
 date: 2020-11-09T14:34:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1777-graças-sempre-consolação-ora_25C3_25A7_25C3_25A3o3.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPNKD1lArN0X3jDbE9wO6rx2upAAKgFUVjcBiPvmlEfTnNai8fw3a_mOQctMSXJgQ9y28QAGRzkBz4FBIFWvn1wBapn1IbPosaeN2Ox2NighKQJLbX-bGg6ma_xcDFNW2mmpz6O8JquI/s297/ora%25C3%25A7%25C3%25A3o3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="297" data-original-width="281" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPNKD1lArN0X3jDbE9wO6rx2upAAKgFUVjcBiPvmlEfTnNai8fw3a_mOQctMSXJgQ9y28QAGRzkBz4FBIFWvn1wBapn1IbPosaeN2Ox2NighKQJLbX-bGg6ma_xcDFNW2mmpz6O8JquI/s0/ora%25C3%25A7%25C3%25A3o3.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A experiência do título deste artigo arrisco dizer que já
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1777-graças-sempre-consolação-ora_25C3_25A7_25C3_25A3o3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="297" data-original-width="281" src="/images/posts/1777-graças-sempre-consolação-ora_25C3_25A7_25C3_25A3o3.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A experiência do título deste artigo arrisco dizer que já
 foi vivida por todas as pessoas que já se colocaram a rezar. A pessoa pede em
 orações muitas coisas, variados tipos de graças e sente na carne, no dia a dia,
 que parece Deus peneirar, e com uma peneira muito fina, aquilo que pedimos. A

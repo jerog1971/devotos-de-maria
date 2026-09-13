@@ -1,10 +1,10 @@
 ---
 title: "O diabo zomba de você?"
 date: 2020-02-27T19:16:00Z
-heroImage: "/images/o_diabo_ataca.png"
+heroImage: "/images/posts/686-o-diabo-zomba-de-você-o_diabo_ataca.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8CED9t3fgmcns4GBTdoFn6Li5nVw6Zv9uhwgsv044dLasBERA5EttAfzlh_Ole86XF2RUXOknrcKNQmjKqsfF0a90Wk1M4pEZhtB2s31wueERjUKbV_8zxVo2vAAIGFeZ7_92Le0kVY/s1600/o_diabo_ataca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8CED9t3fgmcns4GBTdoFn6Li5nVw6Zv9uhwgsv044dLasBERA5EttAfzlh_Ole86XF2RUXOknrcKNQmjKqsfF0a90Wk1M4pEZhtB2s31wueERjUKbV_8zxVo2vAAIGFeZ7_92Le0kVY/s320/o_diabo_ataca.png" width="311" height="320" data-original-width="432" data-original-height="445" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/686-o-diabo-zomba-de-você-o_diabo_ataca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/686-o-diabo-zomba-de-você-o_diabo_ataca.png" width="311" height="320" data-original-width="432" data-original-height="445" /></a></div>
 Você reza, reza e reza e as coisas não vão para a frente. Você faz isso por anos e nada. Vai na missa assiduamente, recita o rosário todos os dias há anos, se confessa e comunga com frequência, se esforça para colocar em prática os ensinamento bíblicos, os quais você é assíduo leitor; procura ser bom exemplo na comunidade em que vive, sua família e para as pessoas que convivem com você. Empunha com vigor a bandeira do evangelho, mas... de repente...</br>
 </br>
 Aquele filho que você prometeu a Deus que iria educar com temor e tremor na fé em Jesus Cristo, no dia em que estava se casando saiu dos trilhos que pai e mãe tanto se esforçaram para ensinar.</br>

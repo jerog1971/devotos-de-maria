@@ -1,10 +1,10 @@
 ---
 title: "Os seguidores de Nestório"
 date: 2016-07-20T11:20:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1460-os-seguidores-de-nestório-nest_25C3_25B3rio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFr7mk3XikQHa7UeQ52KwAFaANDVZtkVx1IyBB1HHLzJFQSCZfER59pZVWUYohva3sZ-bZjf_VyrHsrA4PLJKl57K8q9InTELZgXPn-s72DtvBiewnDFGYun3sWSgx3QxPClCYAiO4mWY/s1600/nest%25C3%25B3rio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFr7mk3XikQHa7UeQ52KwAFaANDVZtkVx1IyBB1HHLzJFQSCZfER59pZVWUYohva3sZ-bZjf_VyrHsrA4PLJKl57K8q9InTELZgXPn-s72DtvBiewnDFGYun3sWSgx3QxPClCYAiO4mWY/s320/nest%25C3%25B3rio.png" width="320" height="319" data-original-width="354" data-original-height="353" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1460-os-seguidores-de-nestório-nest_25C3_25B3rio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1460-os-seguidores-de-nestório-nest_25C3_25B3rio.png" width="320" height="319" data-original-width="354" data-original-height="353" /></a></div>
 O Espírito Santo põe na boca do profeta Isaías "um sinal": "a jovem conceberá e dará à luz um filho e lhe porá o nome de Emanuel" (Is 7, 14). Aquilo que então era desconhecido para os homens já era sabido da parte de Deus. Desde todos os séculos, Ele havia escolhido uma mulher para ser a mãe do Verbo, da segunda Pessoa da Santíssima Trindade.</br>
 </br>
 Se o fato de Jesus ter nascido de uma virgem fosse tão irrelevante, como alguns protestantes irreverentemente gostam de dizer, por que mereceu ser consignado nas Sagradas Escrituras? Se a maternidade de Maria fosse tão pouco importante, como sugerem, como explicar que os primeiros discípulos de Cristo fossem tão ligados e guardasse tanto amor à Mãe de Deus?</br>

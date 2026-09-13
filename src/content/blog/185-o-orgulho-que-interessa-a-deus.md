@@ -1,10 +1,10 @@
 ---
 title: "O orgulho que interessa a Deus"
 date: 2020-06-29T16:00:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/185-o-orgulho-que-interessa-a-deus-Eu_me_acho.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjph9bhwtvYRTPMOKlnf2VXh6kLnkVgdh2ZPdQPeYxL-HMHlsyXrkrApXsHmwSsgRFL9eQQ2mpJkwT56bOnWesPAgQcK-ek0zx3aMqgKFtkjkbm4NFXBW6hkU_YW0shHyy7ktyB4Asksik/s268/Eu_me_acho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="268" data-original-width="266" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjph9bhwtvYRTPMOKlnf2VXh6kLnkVgdh2ZPdQPeYxL-HMHlsyXrkrApXsHmwSsgRFL9eQQ2mpJkwT56bOnWesPAgQcK-ek0zx3aMqgKFtkjkbm4NFXBW6hkU_YW0shHyy7ktyB4Asksik/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É preciso tomar muito cuidado com os sentimentos, na bíblia
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/185-o-orgulho-que-interessa-a-deus-Eu_me_acho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="268" data-original-width="266" src="/images/posts/185-o-orgulho-que-interessa-a-deus-img-1738316474.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É preciso tomar muito cuidado com os sentimentos, na bíblia
 aprendemos que eles brotam do coração e, como nos recorda o padre Tomás de
 Kempis, não é raro que eles desagradem a Deus. Podemos alimentar nossos
 corações da forma que quisermos, somos livres para isso. Podemos buscar as

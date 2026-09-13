@@ -1,10 +1,10 @@
 ---
 title: "A realidade do purgatório"
 date: 2015-10-19T11:54:00Z
-heroImage: "/images/purgatorio.png"
+heroImage: "/images/posts/583-a-realidade-do-purgatório-purgatorio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTItriCyp0d47sYBtIyx4SDUPQDObFSQy4YLFQf4GR3N-Z0UTJy_vCu9RuEtIiRtTsUP-QrripLdhV4c3QYcaIOh_6gsn_2JHgVk3OT3-cqWsCznLInVYa1LOKee9NPqCYBhyq4Ra33Ks/s1600/purgatorio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTItriCyp0d47sYBtIyx4SDUPQDObFSQy4YLFQf4GR3N-Z0UTJy_vCu9RuEtIiRtTsUP-QrripLdhV4c3QYcaIOh_6gsn_2JHgVk3OT3-cqWsCznLInVYa1LOKee9NPqCYBhyq4Ra33Ks/s320/purgatorio.png" width="223" height="320" data-original-width="361" data-original-height="518" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/583-a-realidade-do-purgatório-purgatorio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/583-a-realidade-do-purgatório-purgatorio.png" width="223" height="320" data-original-width="361" data-original-height="518" /></a></div>
 </br>
 A realidade do purgatório já confirmada pela doutrina e pelo magistério da igreja, ao contrário do que muitos pensam, tem origem bíblica. São várias as passagens em toda a sagrada escritura que comprovam essa realidade, tanto no antigo testamento, quanto no novo testamento. Por isso, é preciso ficar bem claro para todo o católico que se: se quer aprender algo sobre alguma verdade, dentro das sagradas escrituras, é preciso compreender qual é o ensinamento bíblico em todo o seu contexto e, sobre tudo, para o católico, o que existe é tradição e sagradas escrituras, e uma não existe sem a outra, tampouco contradiz a outra.</br>
 </br>
@@ -28,7 +28,7 @@ Aqui neste trecho do Evangelho, os estudiosos sérios da bíblia confirmam que e
 </br>
 Seguindo adiante neste assunto temos também as confirmações que a divina providência nos revela através dos santos, como é o caso de uma grande santa chamada Santa Francisca Romana, que relatou sua experiência concedida por Deus sobre o purgatório que abaixo transcrevemos:</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOKG6XhuftsOc4P-JtFqqN9Lbz3lrA0CGLAvGSpZx8mwfy1jOY2mc8qldPbHxfgr88OgY8laAJa-k243ciuO6u-ZcxbnN5Lt2bhqwFmngM1hxm4beoMOULSXydYkptAiSSfKkPabwG3LI/s1600/santa_francisca_romana.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOKG6XhuftsOc4P-JtFqqN9Lbz3lrA0CGLAvGSpZx8mwfy1jOY2mc8qldPbHxfgr88OgY8laAJa-k243ciuO6u-ZcxbnN5Lt2bhqwFmngM1hxm4beoMOULSXydYkptAiSSfKkPabwG3LI/s200/santa_francisca_romana.png" width="176" height="200" data-original-width="415" data-original-height="472" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/583-a-realidade-do-purgatório-santa_francisca_romana.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/583-a-realidade-do-purgatório-santa_francisca_romana.png" width="176" height="200" data-original-width="415" data-original-height="472" /></a></div>
 </br>
 Admirável é a luz que derramam sobre esta importante doutrina as revelações de Santa Francisca Romana. Na relação que delas fez, por ordem do seu confessor, a Santa diz que foi levada ao Purgatório pelo Arcanjo São Rafael, e que lhe foram mostradas as almas padecentes em três regiões ou esferas, uma acima da outra.</br>
 </br>

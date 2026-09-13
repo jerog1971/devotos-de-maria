@@ -1,10 +1,10 @@
 ---
 title: "Não existe amizade entre homem e mulher"
 date: 2017-07-11T19:08:00Z
-heroImage: "/images/amizades.png"
+heroImage: "/images/posts/731-não-existe-amizade-entre-homem-e-mul-amizades.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii5H_RzGbo_Q-uogz7vV5BSX1uW2wzcOULnVI57C_I1i32Jpn71Jhp1CGfayBKmaTYXw2lq7XMAdhB5IvZN2bOUYbrU5ymkNmyM1Q0h5nTAhdOWdUCj7s9OCVq8jktZdphPB5Gel2sM_I/s1600/amizades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii5H_RzGbo_Q-uogz7vV5BSX1uW2wzcOULnVI57C_I1i32Jpn71Jhp1CGfayBKmaTYXw2lq7XMAdhB5IvZN2bOUYbrU5ymkNmyM1Q0h5nTAhdOWdUCj7s9OCVq8jktZdphPB5Gel2sM_I/s320/amizades.png" width="320" height="280" data-original-width="498" data-original-height="435" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/731-não-existe-amizade-entre-homem-e-mul-amizades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/731-não-existe-amizade-entre-homem-e-mul-amizades.png" width="320" height="280" data-original-width="498" data-original-height="435" /></a></div>
 Caros leitores, muita calma nessa hora. Vou colocar alguns argumentos que invalidam qualquer possibilidade de existir de fato uma amizade entre homem e mulher excetuando-se é claro a condição de que existe a rara exceção. Antes de mais nada vamos recordar, é sempre bom, a definição acadêmica e prática que encontramos sobre a expressão “amizade”.</br>
 </br>
 1- "Amizade: É a afeição recíproca entre dois entes. Boas relações."</br>

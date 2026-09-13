@@ -1,10 +1,10 @@
 ---
 title: "Se faço o que é errado como posso ensinar o que é certo?"
 date: 2022-08-03T14:49:00.002Z
-heroImage: "/images/ensinando coisas erradas.png"
+heroImage: "/images/posts/967-se-faço-o-que-é-errado-como-posso-en-ensinando_20coisas_20erradas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7iLtsW_yoKygnmx9xlJMPvIWRbPF3DxwVqxCVWdeAy8N7uuM6c4tfQ86BmjmdG90-oyvnauapJIJnVFOccqr4lmb6pX9hHOdS84OF4aS8DbYFGwR6MbOv4pgHscFz4B7mscLSEvqR6yTCmd0gAPNzUsx51U57R17McQWsv25nkrkj5WwRBTU055Fv/s316/ensinando%20coisas%20erradas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="316" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7iLtsW_yoKygnmx9xlJMPvIWRbPF3DxwVqxCVWdeAy8N7uuM6c4tfQ86BmjmdG90-oyvnauapJIJnVFOccqr4lmb6pX9hHOdS84OF4aS8DbYFGwR6MbOv4pgHscFz4B7mscLSEvqR6yTCmd0gAPNzUsx51U57R17McQWsv25nkrkj5WwRBTU055Fv/s1600/ensinando%20coisas%20erradas.png" width="316" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo a respeito deste tipo de comportamento determina
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/967-se-faço-o-que-é-errado-como-posso-en-ensinando_20coisas_20erradas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="316" height="274" src="/images/posts/967-se-faço-o-que-é-errado-como-posso-en-ensinando_20coisas_20erradas.png" width="316" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo a respeito deste tipo de comportamento determina
 que as pessoas que agem assim, ensinando o que é certo, mas fazendo o que é
 errado, são os hipócritas. Na cultura popular, o ditado diz “faça o que eu
 falo, mas não faça o que eu faço”. Que pesar, é uma confirmação de que as

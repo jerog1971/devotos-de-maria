@@ -1,10 +1,10 @@
 ---
 title: "Concessões para Indulgência Parcial"
 date: 2016-09-27T16:29:00.001Z
-heroImage: "/images/indulgencias2.png"
+heroImage: "/images/posts/1195-concessões-para-indulgência-parcial-indulgencias2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pLjykErr3fCrRkQtar19LvmfVI9hSi73GU2xF1maaxy2qHjyCXulMmuy-yv-4LmX88Ql_7utA9-6EiJ-dWZGs0r4QMFPncAGQ64bakDXXhphfeK0J8y0zS6bYJHmb22KkRpWWzjZqGg/s1600/indulgencias2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="403" height="224" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pLjykErr3fCrRkQtar19LvmfVI9hSi73GU2xF1maaxy2qHjyCXulMmuy-yv-4LmX88Ql_7utA9-6EiJ-dWZGs0r4QMFPncAGQ64bakDXXhphfeK0J8y0zS6bYJHmb22KkRpWWzjZqGg/s320/indulgencias2.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1195-concessões-para-indulgência-parcial-indulgencias2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="403" height="224" src="/images/posts/1195-concessões-para-indulgência-parcial-indulgencias2.png" width="320" /></a></div>
 Propõem-se em primeiro lugar três concessões de indulgências, com as quais se aconselha o fiel a informar de espírito cristão as ações de sua existência cotidiana e a tender em seu estado de vida à perfeição da caridade. A primeira e segunda concessão equivalem a muitas concessões que existiam outrora de maneira diferente. A terceira convém especialmente aos nossos tempos em que os fiéis devem ser movidos à penitência, além da obrigação da abstinência e do jejum, aliás bastante mitigada. 
 
 Considere-se, por exemplo, a primeira concessão, cujos termos são os seguintes: "Concede-se indulgência parcial ao fiel que, no cumprimento de seus deveres e na tolerância das aflições da vida, ergue o espírito a Deus com humilde confiança, acrescentando alguma piedosa invocação, mesmo só em pensamento".

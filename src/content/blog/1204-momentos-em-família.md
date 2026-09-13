@@ -1,10 +1,10 @@
 ---
 title: "Momentos em família"
 date: 2021-11-16T18:28:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1204-momentos-em-família-Momentos_em_fam_25C3_25ADlia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMt83vZJSKE4gvphbGxbx5rJZJzIloqTXFxPPboGyeHxvDK57p-MrGJOByEauWEhpxG8X_diygt0IicA8Cbw0WGQRwy1sIwTBkGJwujm50jPKbs1SL3fINNEXWNeHDRxWs0c2paFVqBdo/s1422/Momentos+em+fam%25C3%25ADlia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1422" data-original-width="930" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMt83vZJSKE4gvphbGxbx5rJZJzIloqTXFxPPboGyeHxvDK57p-MrGJOByEauWEhpxG8X_diygt0IicA8Cbw0WGQRwy1sIwTBkGJwujm50jPKbs1SL3fINNEXWNeHDRxWs0c2paFVqBdo/s320/Momentos+em+fam%25C3%25ADlia.png" width="209" /></a></div><br /><p></p><p class="MsoNormal">Jesus Cristo veio para anunciar a paz a vós que estáveis
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1204-momentos-em-família-Momentos_em_fam_25C3_25ADlia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1422" data-original-width="930" height="320" src="/images/posts/1204-momentos-em-família-Momentos_em_fam_25C3_25ADlia.png" width="209" /></a></div><br /><p></p><p class="MsoNormal">Jesus Cristo veio para anunciar a paz a vós que estáveis
 longe, e a paz também àqueles que estavam perto; porquanto é por ele que ambos
 temos acesso junto ao Pai num mesmo espírito. Consequentemente, já não sois
 hóspedes nem peregrinos, mas sois concidadãos dos santos e membros da família

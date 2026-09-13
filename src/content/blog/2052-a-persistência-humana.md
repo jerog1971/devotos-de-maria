@@ -1,10 +1,10 @@
 ---
 title: "A persistência humana"
 date: 2021-03-02T17:57:00.005Z
-heroImage: "/images/persistencia.png"
+heroImage: "/images/posts/2052-a-persistência-humana-persistencia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqTBZcBkJTpnmf2qtHIisrae79XdSY9dsUsJ64ezo41wHYVnH2Z1gYSYe0sVIjGRBwa3uRehb0K1kfLM3s7thGpXt02qU-Zvbin5aR5LqMXN7-5uR9zcp0bylDjYOhRYtgr53FVeb1N7I/s350/persistencia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="350" data-original-width="348" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqTBZcBkJTpnmf2qtHIisrae79XdSY9dsUsJ64ezo41wHYVnH2Z1gYSYe0sVIjGRBwa3uRehb0K1kfLM3s7thGpXt02qU-Zvbin5aR5LqMXN7-5uR9zcp0bylDjYOhRYtgr53FVeb1N7I/s320/persistencia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente muitas pessoas já ouviram falar do seguinte
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2052-a-persistência-humana-persistencia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="350" data-original-width="348" height="320" src="/images/posts/2052-a-persistência-humana-persistencia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente muitas pessoas já ouviram falar do seguinte
 ditado popular: “errar é humano, mas persistir no erro é burrice”. Pois bem,
 dizemos sempre por aqui que os ditos populares são o evangelho do povo; isso
 porque estudando cada um deles é possível sim, compreender a mensagem, a lição

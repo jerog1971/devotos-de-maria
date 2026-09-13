@@ -1,10 +1,10 @@
 ---
 title: "Perdoar"
 date: 2024-04-22T20:16:00.002Z
-heroImage: "/images/Perdonar.png"
+heroImage: "/images/posts/2036-perdoar-Perdonar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj5RXlNGaAyvszYKONx5Lq24uEgmoB0Y4dY7SV9poXiSH4NgGUMBVuQnHJuvwwHRRBJYww1SqtcClFMrthQvrhJ2veVuvQJLumHN6CnpmtiZ2XsqvDCcP-f8LR8bpdDjV_MPAZmTUqsuSjrv_sU4wL33V5ZGITGbJA-P_hNAnp3VR5_hsMvNgc4lyJez4/s564/Perdonar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="564" data-original-width="464" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj5RXlNGaAyvszYKONx5Lq24uEgmoB0Y4dY7SV9poXiSH4NgGUMBVuQnHJuvwwHRRBJYww1SqtcClFMrthQvrhJ2veVuvQJLumHN6CnpmtiZ2XsqvDCcP-f8LR8bpdDjV_MPAZmTUqsuSjrv_sU4wL33V5ZGITGbJA-P_hNAnp3VR5_hsMvNgc4lyJez4/s320/Perdonar.png" width="263" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, Jesus nos avisou que se não perdoarmos as ofensas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2036-perdoar-Perdonar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="564" data-original-width="464" height="320" src="/images/posts/2036-perdoar-Perdonar.png" width="263" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, Jesus nos avisou que se não perdoarmos as ofensas
 (pecados) cometidos contra nós, tampouco Deus nos perdoará. Ou seja, existe aí
 uma condição divina: perdoou, eu te perdoo; não perdoou, não lhe perdoo. Que coisa
 hein! E ainda vai mais longe a questão: quando o apóstolo Pedro perguntou a

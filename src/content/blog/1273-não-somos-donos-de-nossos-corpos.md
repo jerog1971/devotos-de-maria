@@ -1,10 +1,10 @@
 ---
 title: "Não somos donos de nossos corpos"
 date: 2020-08-10T19:21:00Z
-heroImage: "/images/melo.png"
+heroImage: "/images/posts/1273-não-somos-donos-de-nossos-corpos-Fabio_de_Melo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZpnYXS4rq09CRiL1ZU5W8D4bLuc58foRyPE3feUNcdOnj9PqW4pY8PkujJmTEyqqjUmSKunFrKblvQ9O1PEdULKa7dfirngJ8CmAykjEv3XCkuXRIQ9iiSn6w7dE0EAbU739PFbk5lXo/s212/Fabio+de+Melo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="212" data-original-width="206" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZpnYXS4rq09CRiL1ZU5W8D4bLuc58foRyPE3feUNcdOnj9PqW4pY8PkujJmTEyqqjUmSKunFrKblvQ9O1PEdULKa7dfirngJ8CmAykjEv3XCkuXRIQ9iiSn6w7dE0EAbU739PFbk5lXo/s0/Fabio+de+Melo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas pessoas pelo mundo afora defendem ideologias dizendo
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1273-não-somos-donos-de-nossos-corpos-Fabio_de_Melo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="212" data-original-width="206" src="/images/posts/1273-não-somos-donos-de-nossos-corpos-Fabio_de_Melo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas pessoas pelo mundo afora defendem ideologias dizendo
 que podem fazer o que quiserem com seus corpos porque estes são de sua
 pertença. Julgam-se no direito de o tratarem como bem entenderem. Pois bem, o
 mundo tem disso: ideologias e seus adeptos ou não. Como faz parte da vida

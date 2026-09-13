@@ -1,10 +1,10 @@
 ---
 title: "Perder a cabeça"
 date: 2016-08-29T12:25:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2053-perder-a-cabeça-perder_a_cabe_25C3_25A7a.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz0P4EWLeGbpjYzVEXLisSQMb7inetXvRQ2Ds3MJGwedfaK_0jp8SsuRwiHGV130m7i3nNxCDOcHoToiE3woLxhERaCxIvcxi66-YN6Qmn3bTHk15QjFYVRI_PqtmyjGk383KGP0tgkQ0/s1600/perder_a_cabe%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz0P4EWLeGbpjYzVEXLisSQMb7inetXvRQ2Ds3MJGwedfaK_0jp8SsuRwiHGV130m7i3nNxCDOcHoToiE3woLxhERaCxIvcxi66-YN6Qmn3bTHk15QjFYVRI_PqtmyjGk383KGP0tgkQ0/s320/perder_a_cabe%25C3%25A7a.png" width="320" height="286" data-original-width="298" data-original-height="266" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2053-perder-a-cabeça-perder_a_cabe_25C3_25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2053-perder-a-cabeça-perder_a_cabe_25C3_25A7a.png" width="320" height="286" data-original-width="298" data-original-height="266" /></a></div>
 Dentro das celebrações da santa igreja, o dia 29 de agosto é destinado à celebração do martírio de São João Batista, aquele que não era nem “digno de desamarrar as sandálias” de Jesus. O precursor do salvador que veio preparar o caminho do anunciado e esperado Messias. O nascimento de João Batista é celebrado em 24 de junho e na data de hoje (29/08) a sua morte. Por não fugir a verdade foi decapitado no cárcere a mando de Herodes. Porém sua vida e missão não passaram por covardia nenhuma e seu testemunho de vida até os momentos finais nos deixam imensas lições de vida que contribuem para a nossa salvação.</br>
 </br>
 Em Efésios 4,26-27 está escrito: “Mesmo em cólera, não pequeis. Não se ponha o sol sobre o vosso ressentimento. Não deis lugar ao demônio.” E a mensagem não deixa dúvidas nenhuma de que, quando ficamos com raiva, estamos sujeitos a cometer atos impensados meio que motivados pelos impulsos. Pior ainda é se, como diz a sagrada escritura, deixarmos as adversidades que enfrentamos nos acompanharem pela vida, pois elas nos enfraquecem se não nos colocarmos sob os cuidados de Deus. Agindo assim, como nos diz na bíblia, abrimos espaço para que nosso cruel inimigo possa agir.</br>

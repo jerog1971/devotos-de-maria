@@ -1,10 +1,10 @@
 ---
 title: "Deus sempre te deixa na mão?"
 date: 2021-05-30T13:07:00.003Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/1516-deus-sempre-te-deixa-na-mão-deus_me_deixa_na_m_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLTaWOLBBiGpstrsEa7Uos1RT1M5AuSdL2brPEnTJZBmZ6SMf05Wj2J-m5_2MCWmy5GtkBydkUC3Y7irR_bXtELDBAgXJT_GoIe99aHEwwsoF_jB5ad8xUC98Psh815kK8ElzadiuGCPg/s449/deus+me+deixa+na+m%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="449" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLTaWOLBBiGpstrsEa7Uos1RT1M5AuSdL2brPEnTJZBmZ6SMf05Wj2J-m5_2MCWmy5GtkBydkUC3Y7irR_bXtELDBAgXJT_GoIe99aHEwwsoF_jB5ad8xUC98Psh815kK8ElzadiuGCPg/s320/deus+me+deixa+na+m%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Duas coisas acontecem em nossa vida, relacionadas ao convívio
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1516-deus-sempre-te-deixa-na-mão-deus_me_deixa_na_m_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="449" src="/images/posts/1516-deus-sempre-te-deixa-na-mão-deus_me_deixa_na_m_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Duas coisas acontecem em nossa vida, relacionadas ao convívio
 com Deus; depois mais outras duas, dependendo das escolhas que fazemos. Deus
 pode se alegrar ou entristecer conosco e a culpa disso são as atitudes que
 tomamos por causa das escolhas que fazemos. Certamente todos que exercem o dom

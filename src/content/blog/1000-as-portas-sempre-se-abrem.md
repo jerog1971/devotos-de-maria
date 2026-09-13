@@ -1,10 +1,10 @@
 ---
 title: "As portas sempre se abrem"
 date: 2017-05-10T20:30:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1000-as-portas-sempre-se-abrem-em_frente.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvq7rifQajkJVOPXoOhbijSFaqG_hDFBwkVa1uuNSBWRcVlF4XtyXmcDwb-FUsyb06IxkiYKb_KfYY5zdS6A7woAaQ19Yf1Tojsa6wfg0MFUtiUZ6WfzRR7N84tezc7A5R6Krpo2kO1Yo/s1600/em+frente.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="242" data-original-width="245" height="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvq7rifQajkJVOPXoOhbijSFaqG_hDFBwkVa1uuNSBWRcVlF4XtyXmcDwb-FUsyb06IxkiYKb_KfYY5zdS6A7woAaQ19Yf1Tojsa6wfg0MFUtiUZ6WfzRR7N84tezc7A5R6Krpo2kO1Yo/s320/em+frente.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Mateus 7,7-8 – “Pedi e se vos dará. Buscai e achareis. Batei e vos será aberto.
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1000-as-portas-sempre-se-abrem-em_frente.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="242" data-original-width="245" height="316" src="/images/posts/1000-as-portas-sempre-se-abrem-em_frente.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Mateus 7,7-8 – “Pedi e se vos dará. Buscai e achareis. Batei e vos será aberto.
 
 Porque todo aquele que pede, recebe. Quem busca, acha. A quem bate, abrir-se-á.” Quão confortante é saber que Jesus, o bom pastor, olha para suas ovelhas com tamanha atenção. E é assim que precisamos nos sentir, como suas ovelhas. Como analogia percebamos o porquê dessa utilização nos textos bíblicos. O animal propriamente dito é de característica mansa, tem suas agitações, mas que são diminutas perante o todo. Quem já pôde visitar uma feira agropecuária ou mesmo alguma fazenda que tinham ovelhas sabe muito bem do que estou a falar. Observei nelas uma característica muito interessante, que pode se estender para toda a criação do reino animal. Quando novas, pequenas e filhotes, são agitadas e serelepes, inquietas. A medida que crescem, vão se desenvolvendo, amadurecendo, aprendendo coisas da vida e seguindo em frente. E não é assim com o ser humano?
 

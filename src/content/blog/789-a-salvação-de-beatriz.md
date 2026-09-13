@@ -1,10 +1,10 @@
 ---
 title: "A salvação de Beatriz"
 date: 2022-08-06T17:25:00.001Z
-heroImage: "/images/salvação de beatriz.jpg"
+heroImage: "/images/posts/789-a-salvação-de-beatriz-img-1638917608.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiajAf__ggiU1fmlp-uOEJ7MJJ_xmNqcYd9F8fHw2tO9gQq25o2qAYaz6ASS8zST7jwPSJWhTNe3HNPHDyWc8-ocu_dIHTRbIFxTmUp94mPPC1HgzMxZjJRGrR2HgAYxC6BHFrNdU3OT1LUa9KkXDf1w5EQtMpkBJkFl6JdxfmJK8k118ViRvNmcxFF/s3264/salva%C3%A7%C3%A3o%20de%20beatriz.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3264" data-original-width="2448" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiajAf__ggiU1fmlp-uOEJ7MJJ_xmNqcYd9F8fHw2tO9gQq25o2qAYaz6ASS8zST7jwPSJWhTNe3HNPHDyWc8-ocu_dIHTRbIFxTmUp94mPPC1HgzMxZjJRGrR2HgAYxC6BHFrNdU3OT1LUa9KkXDf1w5EQtMpkBJkFl6JdxfmJK8k118ViRvNmcxFF/s320/salva%C3%A7%C3%A3o%20de%20beatriz.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está é uma história criada por uma turma de catequese do
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/789-a-salvação-de-beatriz-img-1638917608.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3264" data-original-width="2448" height="320" src="/images/posts/789-a-salvação-de-beatriz-img-1082096082.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está é uma história criada por uma turma de catequese do
 primeiro ano, situada em uma paróquia de Curitiba-PR. A missão das crianças
 era, de forma compartilhada, fazendo analogia ao esforço comunitário, criar uma
 história e um desenho de uma pessoa com problemas e dificuldades dando para ela

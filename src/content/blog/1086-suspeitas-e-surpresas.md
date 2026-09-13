@@ -1,10 +1,10 @@
 ---
 title: "Suspeitas e surpresas"
 date: 2024-09-04T20:29:00.004Z
-heroImage: "/images/Surpresas.jpg"
+heroImage: "/images/posts/1086-suspeitas-e-surpresas-Surpresas.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibv5JVs-QPQPYra40-mSrkejHsbyTwK18BjRw07Utv8WwBhi0sPu9i5fYm6rjlCHzMCF3beuWvVgQc9q2B0UZ8S0gF3XaDVP9GPpj3Q9_zgTr8s2kguY2xXXyUSApH7iJIFUZ0QbOwDvJvNuFtuhRVM-FmK1Y9aOICnYbL2SJWmW5zKxtzcVTDGaoEZqo/s3264/Surpresas.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibv5JVs-QPQPYra40-mSrkejHsbyTwK18BjRw07Utv8WwBhi0sPu9i5fYm6rjlCHzMCF3beuWvVgQc9q2B0UZ8S0gF3XaDVP9GPpj3Q9_zgTr8s2kguY2xXXyUSApH7iJIFUZ0QbOwDvJvNuFtuhRVM-FmK1Y9aOICnYbL2SJWmW5zKxtzcVTDGaoEZqo/s320/Surpresas.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Quando as pessoas se preocupam em demonstrar seu contentamento para
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1086-suspeitas-e-surpresas-Surpresas.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/1086-suspeitas-e-surpresas-Surpresas.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Quando as pessoas se preocupam em demonstrar seu contentamento para
 com alguém, possuem muitas maneiras de expressarem seus sentimentos
 e contentações. Para nós professores, os alunos sempre serão um
 impulsionador, uma alavanca que move o ideal de ensinar sem esperar

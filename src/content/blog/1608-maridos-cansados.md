@@ -1,10 +1,10 @@
 ---
 title: "Maridos Cansados"
 date: 2018-12-12T17:24:00Z
-heroImage: "/images/maridos_cansados.png"
+heroImage: "/images/posts/1608-maridos-cansados-maridos_cansados.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_1eseFKUj21t4zy_P3POAIbB8Cj2vlz9Z62BqeULPgOx7S97SSrZ7mdgC6KtxzCvHzSQKyWBacVJ43fPKbDPHbOvULTkKbxM-7yBbSzReeNkhQHdWallYEqBmQVMBayvOC9IQ2BoUkc/s1600/maridos_cansados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_1eseFKUj21t4zy_P3POAIbB8Cj2vlz9Z62BqeULPgOx7S97SSrZ7mdgC6KtxzCvHzSQKyWBacVJ43fPKbDPHbOvULTkKbxM-7yBbSzReeNkhQHdWallYEqBmQVMBayvOC9IQ2BoUkc/s320/maridos_cansados.png" width="312" height="320" data-original-width="487" data-original-height="500" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1608-maridos-cansados-maridos_cansados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1608-maridos-cansados-maridos_cansados.png" width="312" height="320" data-original-width="487" data-original-height="500" /></a></div>
 O tema é bastante peculiar, controverso, delicado e polêmico; e ainda poderíamos dizer que, em tempos como os que vivemos hoje, qual assunto não gera muita discussão? Este é mais um dos artigos que o site aborda na temática da relação matrimonial. Experiências existem para serem compartilhadas, transmitidas, servirem de exemplo e contribuírem de alguma forma para a boa emancipação do ser humano enquanto pessoa de corpo e alma. Dizemos assim porque não é possível o corpo estar saudável se a alma não estiver também.</br>
 </br>
 São Paulo vai dizer em suas cartas que aquele que não está casado é melhor que não se case, e vai dizer também que aquele que está casado, viva como se não estivesse. Porém, diz que para que não se abrase, então que se case. Vamos entender um pouquinho a questão.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Apesar de tudo, temos Jesus"
 date: 2022-03-25T17:59:00.004Z
-heroImage: "/images/Agradecer a Jesus.png"
+heroImage: "/images/posts/1258-apesar-de-tudo-temos-jesus-jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ_odw0fQ1HmJdn-yDi7JzDl4AcV9pC7wMGdDGhiWZ-RK3A37A6PedRYNY31S5d_kABAc6XNwmqvUXujWKVNmCkZVDwyxVm58tmYe6Jvdv3ZdUMe8DQ4XqLjEbL1WdTnvnW-ko9rCBIaaLrdNf4YBrMSs0Nk0pMXWiNy0AgrD6YzgUiTY4ATblZRpr/s341/jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" height="291" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ_odw0fQ1HmJdn-yDi7JzDl4AcV9pC7wMGdDGhiWZ-RK3A37A6PedRYNY31S5d_kABAc6XNwmqvUXujWKVNmCkZVDwyxVm58tmYe6Jvdv3ZdUMe8DQ4XqLjEbL1WdTnvnW-ko9rCBIaaLrdNf4YBrMSs0Nk0pMXWiNy0AgrD6YzgUiTY4ATblZRpr/s320/jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele nos disse que não devemos perturbar nossos corações, que
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1258-apesar-de-tudo-temos-jesus-jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" height="291" src="/images/posts/1258-apesar-de-tudo-temos-jesus-jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele nos disse que não devemos perturbar nossos corações, que
 devemos colocar nossa confiança nele. Nos disse que estará conosco até o fim
 dos dias. Ele nos desejou a sua paz, não como a paz pregada pelo mundo. Também
 nos advertiu que quem não está com ele, está contra ele.<o:p></o:p></p><div class="separator" style="clear: both;">

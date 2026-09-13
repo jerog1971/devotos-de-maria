@@ -1,10 +1,10 @@
 ---
 title: "A matança na bíblia"
 date: 2021-09-17T15:59:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2040-a-matança-na-bíblia-img-1957548559.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_-bCaIKsaeti10ZOnpQa0s6Nx7BM6_b9bCKZLEV6ID0qjq7R8RtcUmtPyhknXtxrPy8kcK44JXdSnzwl6RDzbw1cHv35pYY8ZeUsfnWZV9CHJJQg_Cp79s_3LmfUuiofbECjZrxmGh4/s581/a+matan%25C3%25A7a+na+b%25C3%25ADblia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="581" height="242" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_-bCaIKsaeti10ZOnpQa0s6Nx7BM6_b9bCKZLEV6ID0qjq7R8RtcUmtPyhknXtxrPy8kcK44JXdSnzwl6RDzbw1cHv35pYY8ZeUsfnWZV9CHJJQg_Cp79s_3LmfUuiofbECjZrxmGh4/s320/a+matan%25C3%25A7a+na+b%25C3%25ADblia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como consequência a reflexão feita no artigo <a href="https://www.devotos-de-maria.com.br/2021/09/injusticas-de-deus.html" target="_blank">"Injustiças de Deus?"</a>, transcrevo aqui na íntegra a pregação do Frei Capuchinho Inácio
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2040-a-matança-na-bíblia-img-1957548559.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="581" height="242" src="/images/posts/2040-a-matança-na-bíblia-img-549142028.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como consequência a reflexão feita no artigo <a href="https://www.devotos-de-maria.com.br/2021/09/injusticas-de-deus.html" target="_blank">"Injustiças de Deus?"</a>, transcrevo aqui na íntegra a pregação do Frei Capuchinho Inácio
 Cantalamessa – feita numa sexta-feira santa – para complementar o ponto de
 vista abordado anteriormente:<o:p></o:p></p><div class="separator" style="clear: both;">
 

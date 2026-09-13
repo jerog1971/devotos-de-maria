@@ -1,10 +1,10 @@
 ---
 title: "Os perigos da Igreja"
 date: 2021-10-13T16:29:00.004Z
-heroImage: "/images/igreja.png"
+heroImage: "/images/posts/112-os-perigos-da-igreja-Os_perigos_da_Igreja.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-CwJFOPDZqW_-jAQkmjqBjQrURClpF4e0rRAyoe-pElXXpHFMMN3gW5WmtowAjqqKZ9iewP_96r-nxmrggkZFVxBlo5uQ0gkrI6wZP2VOet4b9dVHUAfY_MaTA050PYjUAfzKkWQVBMo/s753/Os+perigos+da+Igreja.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="589" data-original-width="753" height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-CwJFOPDZqW_-jAQkmjqBjQrURClpF4e0rRAyoe-pElXXpHFMMN3gW5WmtowAjqqKZ9iewP_96r-nxmrggkZFVxBlo5uQ0gkrI6wZP2VOet4b9dVHUAfY_MaTA050PYjUAfzKkWQVBMo/s320/Os+perigos+da+Igreja.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é de hoje que o atual papa sofre no tabuleiro de xadrez
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/112-os-perigos-da-igreja-Os_perigos_da_Igreja.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="589" data-original-width="753" height="250" src="/images/posts/112-os-perigos-da-igreja-Os_perigos_da_Igreja.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é de hoje que o atual papa sofre no tabuleiro de xadrez
 de seu pontificado. A partida é dura pois não consegue colocar do mesmo lado os
 católicos conservadores-ortodoxos com os progressistas-modernistas. Com base
 doutrinal tradicionalmente ortodoxa a igreja sofreu, sofre e sempre irá sofrer –

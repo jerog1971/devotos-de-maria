@@ -1,10 +1,10 @@
 ---
 title: "Contando os dias"
 date: 2023-11-10T21:12:00.002Z
-heroImage: "/images/contando os dias.png"
+heroImage: "/images/posts/1832-contando-os-dias-contando_20os_20dias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhVdrBn1Y4vuA08m2ZjkA-olSuM5isffiALt8nmg1Y-QliAYjy3M_4urnG4kOA8_i_Q2stHu2m5HuGeH4noWp0wV7CYvtPk7kyg-vwSesx86Ut8fI4H_NQvclKhwTFOl2sMq3phv9RUi-6iP7qMliO8s58tbASdwJgamlDe_cjERxCohNJluPMmLamTfU/s529/contando%20os%20dias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="529" data-original-width="509" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhVdrBn1Y4vuA08m2ZjkA-olSuM5isffiALt8nmg1Y-QliAYjy3M_4urnG4kOA8_i_Q2stHu2m5HuGeH4noWp0wV7CYvtPk7kyg-vwSesx86Ut8fI4H_NQvclKhwTFOl2sMq3phv9RUi-6iP7qMliO8s58tbASdwJgamlDe_cjERxCohNJluPMmLamTfU/s320/contando%20os%20dias.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A história que vou contar, como a maioria das histórias de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1832-contando-os-dias-contando_20os_20dias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="529" data-original-width="509" height="320" src="/images/posts/1832-contando-os-dias-contando_20os_20dias.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A história que vou contar, como a maioria das histórias de
 nossas vidas, caracteriza-se como um momento único, que nunca mais irá se
 repetir. Nossa vida, de fato, é muito rica; não dizem os ditados que daria para
 escrever um livro? Pois bem, acredito que daria sim. Porém, por aqui, faltando

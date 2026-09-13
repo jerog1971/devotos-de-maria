@@ -1,10 +1,10 @@
 ---
 title: "Não se prejudique"
 date: 2023-08-08T21:03:00.004Z
-heroImage: "/images/não se prejudique.jpg"
+heroImage: "/images/posts/254-não-se-prejudique-n_C3_A3o_20se_20prejudique.jpg"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_TOGktulLb6PC89w39cnPRe26pNT49bZTScFZaUdnBMBJMf-ihZqccT-8F4M-jYFkB1RGlehOhsBk_mdlSD3CeHWL9Hw7uZtfO0pWW6psRt4WMxZM1AJX0xnILy7mBis6WHc4kVfBUv2nM7f2JMXk-58nNZxkXGC_rrXs4uT3gWQo5jyE7vuSfOdfr2g/s539/n%C3%A3o%20se%20prejudique.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="525" data-original-width="539" height="312" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_TOGktulLb6PC89w39cnPRe26pNT49bZTScFZaUdnBMBJMf-ihZqccT-8F4M-jYFkB1RGlehOhsBk_mdlSD3CeHWL9Hw7uZtfO0pWW6psRt4WMxZM1AJX0xnILy7mBis6WHc4kVfBUv2nM7f2JMXk-58nNZxkXGC_rrXs4uT3gWQo5jyE7vuSfOdfr2g/s320/n%C3%A3o%20se%20prejudique.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A habilidade de embotar a mente de uma pessoa é uma das
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/254-não-se-prejudique-n_C3_A3o_20se_20prejudique.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="525" data-original-width="539" height="312" src="/images/posts/254-não-se-prejudique-n_C3_A3o_20se_20prejudique.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A habilidade de embotar a mente de uma pessoa é uma das
 grandes capacidades que nosso inimigo número um de nossas almas possui. Com extrema
 taxa de sucesso ele consegue convencer o ser humano que se afasta um pouquinho
 que seja de Deus, sobre coisas que não lhe farão bem e lhe acarretarão em sua

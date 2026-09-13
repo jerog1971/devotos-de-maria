@@ -1,10 +1,10 @@
 ---
 title: "Não deixe o que é importante de lado"
 date: 2020-05-20T19:13:00Z
-heroImage: "/images/invasores.png"
+heroImage: "/images/posts/1984-não-deixe-o-que-é-importante-de-lad-img-2030226624.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjggMxiUtsQtup3XvtcZe_caH8VSLpqdoQV72Ve1Jv3qI9WkfZq09jgUxTTUyEfd5li14GYI7x4eL6BXrZv7-Jv3Tk_9bQmZX-UVPWErLSt4AqklMFUF7N1EeEmvgURjjaX3Ghyphenhyphen1e3bVJk/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="676" data-original-width="868" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjggMxiUtsQtup3XvtcZe_caH8VSLpqdoQV72Ve1Jv3qI9WkfZq09jgUxTTUyEfd5li14GYI7x4eL6BXrZv7-Jv3Tk_9bQmZX-UVPWErLSt4AqklMFUF7N1EeEmvgURjjaX3Ghyphenhyphen1e3bVJk/s320/invasores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 23,23 – “Ai de vós, escribas e fariseus hipócritas!
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1984-não-deixe-o-que-é-importante-de-lad-img-2030226624.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="676" data-original-width="868" src="/images/posts/1984-não-deixe-o-que-é-importante-de-lad-img-2030226624.jpgs320/invasores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 23,23 – “Ai de vós, escribas e fariseus hipócritas!
 Pagais o dízimo da hortelã, do endro e do cominho e desprezais os preceitos
 mais importantes da lei: a justiça, a misericórdia, a fidelidade. Eis o que era
 preciso praticar em primeiro lugar, sem contudo deixar o restante.”</p>

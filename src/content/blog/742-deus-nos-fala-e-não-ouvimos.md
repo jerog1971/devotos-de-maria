@@ -1,10 +1,10 @@
 ---
 title: "Deus nos fala e não ouvimos"
 date: 2017-01-21T23:05:00Z
-heroImage: "/images/fala.png"
+heroImage: "/images/posts/742-deus-nos-fala-e-não-ouvimos-fala.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBX1XDpYqYeee28C_CSOFwH-awJEBzP1dWwKvR11TRHiS1m5u_DHt6sHbsr3VWNIybFfeGH3cI2hBWDUl8dJQeM6tnFDTTV_esT4YgqCHQ7Dim8uqH7uQvkZ9OI8zDlQ9CnJ5Honcnb_U/s1600/fala.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBX1XDpYqYeee28C_CSOFwH-awJEBzP1dWwKvR11TRHiS1m5u_DHt6sHbsr3VWNIybFfeGH3cI2hBWDUl8dJQeM6tnFDTTV_esT4YgqCHQ7Dim8uqH7uQvkZ9OI8zDlQ9CnJ5Honcnb_U/s320/fala.png" width="320" height="257" data-original-width="316" data-original-height="254" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/742-deus-nos-fala-e-não-ouvimos-fala.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/742-deus-nos-fala-e-não-ouvimos-fala.png" width="320" height="257" data-original-width="316" data-original-height="254" /></a></div>
 E disse Jesus em João 8,43-47 – “Por que não compreendeis a minha linguagem? É porque não podeis ouvir a minha palavra. Vós tendes como pai o demônio e quereis fazer os desejos de vosso pai. Ele era homicida desde o princípio e não permaneceu na verdade, porque a verdade não está nele. Quando diz a mentira, fala do que lhe é próprio, porque é mentiroso e pai da mentira. Mas eu, porque vos digo a verdade, não me credes. Quem de vós me acusará de pecado? Se vos falo a verdade, por que me não credes? Quem é de Deus ouve as palavras de Deus, e se vós não as ouvis é porque não sois de Deus.”</br>
 </br>
 Caros leitores, os ditados populares, que são as parábolas do povo, dizem assim: “quanto mais eu rezo, mais assombração me aparece”, “eu rezo, rezo, rezo e nada melhora”, “porque Deus não me atende, eu que procuro fazer tudo direito? – para aquele outro, que leva uma vida sem Deus, tudo lhe é mais fácil e a vida é melhor”. E assim, facilmente tantas pessoas poderiam aqui incluir uma série de expressões que muito bem ilustram o descontentamento que o ser humano tem em relação ao seu criador.</br>

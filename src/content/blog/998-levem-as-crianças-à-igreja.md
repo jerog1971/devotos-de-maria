@@ -1,10 +1,10 @@
 ---
 title: "Levem as crianças à Igreja"
 date: 2020-05-10T18:55:00.001Z
-heroImage: "/images/missa.png"
+heroImage: "/images/posts/998-levem-as-crianças-à-igreja-img-721488353.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1mHU66ejY1yhDN-WAs7a3NQx1caCXXfPCVEC6OGkqAnIL7FuoPsbADJZ8QUlrxN64kR_fGQbtb8yIISJjyPz7f3B3cumvtYthji6Ti7ryMR074KIDrCFDxFErxKOps9cL_6xbazfuXtg/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="411" data-original-width="411" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1mHU66ejY1yhDN-WAs7a3NQx1caCXXfPCVEC6OGkqAnIL7FuoPsbADJZ8QUlrxN64kR_fGQbtb8yIISJjyPz7f3B3cumvtYthji6Ti7ryMR074KIDrCFDxFErxKOps9cL_6xbazfuXtg/s320/crian%25C3%25A7as_na_missa.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,2-6 – “Jesus chamou uma criancinha, colocou-a no
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/998-levem-as-crianças-à-igreja-img-721488353.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="411" data-original-width="411" height="320" src="/images/posts/998-levem-as-crianças-à-igreja-img-721488353.jpgs320/crian%25C3%25A7as_na_missa.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,2-6 – “Jesus chamou uma criancinha, colocou-a no
 meio deles e disse: Em verdade vos declaro: se não vos transformardes e vos
 tornardes como criancinhas, não entrareis no Reino dos céus. Aquele que se
 fizer humilde como esta criança será maior no Reino dos céus. E o que recebe em

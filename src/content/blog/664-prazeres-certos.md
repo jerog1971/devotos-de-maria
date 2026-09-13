@@ -1,10 +1,10 @@
 ---
 title: "Prazeres certos"
 date: 2025-03-07T19:01:00.004Z
-heroImage: "/images/prazeres certos.png"
+heroImage: "/images/posts/664-prazeres-certos-prazeres_20certos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivHCzu7ziVQTNwt1Nq2ei-j652RN2jGSpNgzJ9vuukvWVXPlk3MsGOHgq6EUOcA7XYjEBoH-q5oyzDSz8y40vRgkE44CjAHddu_4tfe2rozvRKTIzY_VsG897mOVC5bOAc4_-ogahXwxKYFGFJ_l7w9B26o15-9NOOygaaMv4qpu9gEKUCArTudyjUCIo/s400/prazeres%20certos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="339" data-original-width="400" height="271" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivHCzu7ziVQTNwt1Nq2ei-j652RN2jGSpNgzJ9vuukvWVXPlk3MsGOHgq6EUOcA7XYjEBoH-q5oyzDSz8y40vRgkE44CjAHddu_4tfe2rozvRKTIzY_VsG897mOVC5bOAc4_-ogahXwxKYFGFJ_l7w9B26o15-9NOOygaaMv4qpu9gEKUCArTudyjUCIo/s320/prazeres%20certos.png" width="320" /></a></div><br />&nbsp;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/664-prazeres-certos-prazeres_20certos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="339" data-original-width="400" height="271" src="/images/posts/664-prazeres-certos-prazeres_20certos.png" width="320" /></a></div><br />&nbsp;
 
 <p></p><p class="MsoNormal">Fala-se por aí, que a pessoa precisa passar pela experiência
 de conhecer o amor de Cristo. Também já se ouviu, da parte de Nossa Senhora em

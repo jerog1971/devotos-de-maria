@@ -1,10 +1,10 @@
 ---
 title: "Sempre corremos riscos"
 date: 2021-12-13T15:26:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2028-sempre-corremos-riscos-img-644626223.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEg3TIEDMhmPYFysbnXJFtLOm8IUbDvhzEJ0oqOXs9RMJYRBkqXV_Ymhx3glNVb8Mvz4txroVQIjfj7k8bJ-vdwkivb810gY5y7GHM-0MLhj26GWl_B_1IFDLpEvkcsFtYBboGLlUfSvdnwH7CBglVn-2UMN2izQBmyStBkXzq29dB25yYJQwFo90s_T=s483" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="404" data-original-width="483" height="268" src="https://blogger.googleusercontent.com/img/a/AVvXsEg3TIEDMhmPYFysbnXJFtLOm8IUbDvhzEJ0oqOXs9RMJYRBkqXV_Ymhx3glNVb8Mvz4txroVQIjfj7k8bJ-vdwkivb810gY5y7GHM-0MLhj26GWl_B_1IFDLpEvkcsFtYBboGLlUfSvdnwH7CBglVn-2UMN2izQBmyStBkXzq29dB25yYJQwFo90s_T=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente não podemos ser ingênuos quando o assunto consiste
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2028-sempre-corremos-riscos-img-644626223.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="404" data-original-width="483" height="268" src="/images/posts/2028-sempre-corremos-riscos-img-644627373.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente não podemos ser ingênuos quando o assunto consiste
 na salvação de nossa alma. Poderíamos dizer, conforme o olhar que colocamos
 sobre a questão, que somos disputados pelo bem e pelo mal, como se estivéssemos
 no meio de um cabo de guerra. No entanto, da parte de Deus, isso se aplica se

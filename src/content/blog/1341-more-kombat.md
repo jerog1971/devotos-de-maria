@@ -1,10 +1,10 @@
 ---
 title: "More Kombat"
 date: 2025-07-30T21:29:00.003Z
-heroImage: "/images/more kombat.png"
+heroImage: "/images/posts/1341-more-kombat-more_20kombat.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BOKfBGtRcehuOtC3ssfDXC2lgDR-fZBZVW9AMU8LP93kM16fecXXNQdNz6kf_aQxVTW59hOLBEEYpynKyvY1ORtL2KXrkCGgTBx7f9UK270fcBp8rYq48NHYb6rwhgztEHhmg2hzB30hhT0KStouZ0KcS0Kxvm77RL4VTlHRpc0GTpmJ2xyznKKo2hA/s467/more%20kombat.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="467" data-original-width="464" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BOKfBGtRcehuOtC3ssfDXC2lgDR-fZBZVW9AMU8LP93kM16fecXXNQdNz6kf_aQxVTW59hOLBEEYpynKyvY1ORtL2KXrkCGgTBx7f9UK270fcBp8rYq48NHYb6rwhgztEHhmg2hzB30hhT0KStouZ0KcS0Kxvm77RL4VTlHRpc0GTpmJ2xyznKKo2hA/s320/more%20kombat.png" width="318" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 115%; margin-bottom: 0cm;">&nbsp;Não basta combater o mal, evitando-o e não dando ouvidos às suas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1341-more-kombat-more_20kombat.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="467" data-original-width="464" height="320" src="/images/posts/1341-more-kombat-more_20kombat.png" width="318" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 115%; margin-bottom: 0cm;">&nbsp;Não basta combater o mal, evitando-o e não dando ouvidos às suas
 propostas. Enquanto vivermos por aqui, neste campo de batalhas
 intermináveis, diárias e constantes, não nos é possível jogar a
 toalha. Se o fizermos aceitaremos a derrota e mais, ofenderemos a

@@ -1,10 +1,10 @@
 ---
 title: "Só mais uma semana"
 date: 2023-11-12T14:17:00.007Z
-heroImage: "/images/só mais uma semana.png"
+heroImage: "/images/posts/1974-só-mais-uma-semana-s_C3_B3_20mais_20uma_20semana.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixIY1p02PXOIhv4NiLY-wJiHmSGFTz4GDJCudJjqd7QmUCcm203vw20By-qqpnqakqmhfBo9nWiewCA5JFZhnvmJC6DTi7sSFYwLZMpYsMx6W87MgTuWlhYy4VpdIyCHUAmIRU22LXTVUVo3YxxlQnOJj7tvFoDpb5R6kOtxj-3IcfOBwCcUXUygTgysc/s282/s%C3%B3%20mais%20uma%20semana.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="261" data-original-width="282" height="261" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixIY1p02PXOIhv4NiLY-wJiHmSGFTz4GDJCudJjqd7QmUCcm203vw20By-qqpnqakqmhfBo9nWiewCA5JFZhnvmJC6DTi7sSFYwLZMpYsMx6W87MgTuWlhYy4VpdIyCHUAmIRU22LXTVUVo3YxxlQnOJj7tvFoDpb5R6kOtxj-3IcfOBwCcUXUygTgysc/s1600/s%C3%B3%20mais%20uma%20semana.png" width="282" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, doze mais sete é igual a dezenove. Pois é, dia
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1974-só-mais-uma-semana-s_C3_B3_20mais_20uma_20semana.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="261" data-original-width="282" height="261" src="/images/posts/1974-só-mais-uma-semana-s_C3_B3_20mais_20uma_20semana.png" width="282" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, doze mais sete é igual a dezenove. Pois é, dia
 dezenove de novembro será um domingo. Neste dia um marco chegará e será fincado
 no mapa e história de minha vida. Mas vamos em frente, temos que preencher as lacunas
 que separam estes dias. Dissera eu no artigo anterior que meu aniversário, o

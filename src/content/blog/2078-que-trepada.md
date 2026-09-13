@@ -1,10 +1,10 @@
 ---
 title: "Que trepada"
 date: 2018-09-12T18:06:00.001Z
-heroImage: "/images/trepada.png"
+heroImage: "/images/posts/2078-que-trepada-trepada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp3aZFDlKgq2CECNOs-6LN9RSuoT_HmFfg8P2Q3FqS1zr8nlUKiaJ0sKFuAc8KWXTBgGVkrqrzufIQzXorA9ccgx69FK6KS7lm5r3WfTRTUWILPPSwaYDj5K28lhRSUMHvHpi7KWKkSWw/s1600/trepada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp3aZFDlKgq2CECNOs-6LN9RSuoT_HmFfg8P2Q3FqS1zr8nlUKiaJ0sKFuAc8KWXTBgGVkrqrzufIQzXorA9ccgx69FK6KS7lm5r3WfTRTUWILPPSwaYDj5K28lhRSUMHvHpi7KWKkSWw/s320/trepada.png" width="320" height="277" data-original-width="527" data-original-height="456" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2078-que-trepada-trepada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2078-que-trepada-trepada.png" width="320" height="277" data-original-width="527" data-original-height="456" /></a></div>
 Olá caros leitores, antes que alguém imagine que o assunto não cabe para o teor deste site, vou logo esclarecendo que os dicionários informam que trepada significa “caminho íngreme; ladeira”. É por aí que transcorrerá este artigo e não pelos caminhos do português baixo que atribui outro significado para o título da matéria.</br>
 </br>
 Seguindo adiante queremos refletir que essa expressão pode acontecer em tom de constatação, de confirmação do fato. A porta do céu, tão almejada pelos cristãos que procuram viver uma vida que ofereça condições de transpô-la, está separada de nossa existência atual por uma distância preenchida por este caminho íngreme, por esta ladeira, por esta trepada, um caminho que, além de ser subida, não é pavimentado, espaçoso, tampouco bem estruturado, com quiosques para descanso, muita área de recreação e um serviço de assistência que tem por objetivo nos promover um conforto durante a caminhada.</br>

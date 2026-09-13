@@ -1,10 +1,10 @@
 ---
 title: "O Jejum da Tecnologia"
 date: 2016-11-22T15:59:00.001Z
-heroImage: "/images/jejum.png"
+heroImage: "/images/posts/136-o-jejum-da-tecnologia-jejum.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Xsd_8ZbeBmk4hB8_EZ1A5F-1SFgSj-SLAE2w54AGSgNkdi4SgSRuWGrydrhXh1RIyUngp25kL4g5_pwLVoJqjLHRjkbOHZdMM3rgNs831ThR7tgO8d9Xd2wKonRNE7KNAxiixtitMis/s1600/jejum.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="355" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Xsd_8ZbeBmk4hB8_EZ1A5F-1SFgSj-SLAE2w54AGSgNkdi4SgSRuWGrydrhXh1RIyUngp25kL4g5_pwLVoJqjLHRjkbOHZdMM3rgNs831ThR7tgO8d9Xd2wKonRNE7KNAxiixtitMis/s320/jejum.png" width="283" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/136-o-jejum-da-tecnologia-jejum.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="355" height="320" src="/images/posts/136-o-jejum-da-tecnologia-jejum.png" width="283" /></a></div>
 Duas coisas são bem sabidas entre aqueles que se esforçam para trilhar o caminho da porta estreita. A necessidade do jejum e a necessidade de servir-se da tecnologia e não de ser seu servo ou escravo. A tecnologia pressupõe “técnicas inteligentes” para colaborar com o ser humano no cotidiano de sua vida facilitando os vários aspectos do seu dia a dia. Ainda me lembro que em tempo que não são tão distantes, dizia-se que se poderia fazer melhor e em menos tempo alguma tarefa, graças a tecnologia, restando ao ser humano mais tempo para se dedicar, por exemplo, a família e ao lazer.
 
 E de fato isso aconteceu e acontece até os dias de hoje. A facilidade que os meios tecnológicos trouxeram em vários setores da humanidade é, sem dúvida alguma, inegável. Vamos recordar do gramofone? Aparelho que se dava corda e tocava música? Depois veio o disco de vinil, a fita cassete em meio magnético, os discos de gravação a laser e atualmente o meio digital de armazenamento, que pode ser no virtual local chamado de nuvem. É apenas um pequeno exemplo, qualquer um de nós pode exemplificar facilmente sobre o que estamos a refletir.

@@ -1,10 +1,10 @@
 ---
 title: "Semelhantes a Deus? Será?"
 date: 2016-11-21T13:35:00Z
-heroImage: "/images/semelhantes.png"
+heroImage: "/images/posts/299-semelhantes-a-deus-será-semelhantes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEI2_KXW6wQFukWWyjdQiJgNySroFiA1uEUNhLDmwOmRa9iSw0rH1FlPsBTihLPtZnKgzVOHVpoTMvm-AMBH70WNX0sElyxzi4Uzi2LLn2leIOZrhOPCMoXlF_lo82R4YPLJDnpiGPIJg/s1600/semelhantes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEI2_KXW6wQFukWWyjdQiJgNySroFiA1uEUNhLDmwOmRa9iSw0rH1FlPsBTihLPtZnKgzVOHVpoTMvm-AMBH70WNX0sElyxzi4Uzi2LLn2leIOZrhOPCMoXlF_lo82R4YPLJDnpiGPIJg/s320/semelhantes.png" width="320" height="320" data-original-width="351" data-original-height="351" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/299-semelhantes-a-deus-será-semelhantes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/299-semelhantes-a-deus-será-semelhantes.png" width="320" height="320" data-original-width="351" data-original-height="351" /></a></div>
 O ser humano, criado a imagem e semelhança de Deus (Gênesis 1,26), conforme nos relata as sagradas escrituras, se parar para pensar um pouquinho, ou ainda se estudar um pouco mais a bíblia verá que em outra passagem está escrito que ninguém pode se assemelhar a Deus (Isaías 40,18). Como ficam as coisas? Parece contradição não é mesmo mas, se cremos que a bíblia é inspirada por completo pelo Espírito Santo, então devemos procurar compreender a mensagem contida nessa aparente contradição.</br>
 </br>
 De cara, o que se aprende já na catequese é o que se diz no livro do Gênesis. E qualquer um pode compreender essa passagem intuindo para si que somos semelhantes a Deus enquanto aparência. Dessa forma, um elefante, também criado por Deus, não é semelhante a ele, assim como nenhum animal. Apenas, segundo as escrituras, o ser humano. Indo um pouco mais adiante, encontramos no Salmo 85,8 que “não há semelhante a ti entre os deuses, Senhor”. Se as escrituras afirmam isso, com relação as divindades pagãs e o próprio criador do universo, o que dizer então da raça humana? Sem dúvida, pelo que nos ensina o salmo, não somos semelhantes a Deus, já que nem os deuses pagãos o são.</br>

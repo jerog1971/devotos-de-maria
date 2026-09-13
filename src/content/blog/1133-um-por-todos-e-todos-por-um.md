@@ -1,10 +1,10 @@
 ---
 title: "Um por todos e todos por um"
 date: 2019-06-05T19:07:00.001Z
-heroImage: "/images/Jesus_crucificado.png"
+heroImage: "/images/posts/1133-um-por-todos-e-todos-por-um-Jesus_crucificado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkurs9TheiLkG-R5Ti6GIIj_5t8TTPVhFWFvHqsxwHRPHjCH0uy8wOeuWYmtggRfcCmBYwovvWghpmsHAg0NIxWoH0RXZsQZGVqzOCrCMZ2lBSfeJGYgeeLg1ha5Posc0Rgd3m0RdRSbk/s1600/Jesus_crucificado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkurs9TheiLkG-R5Ti6GIIj_5t8TTPVhFWFvHqsxwHRPHjCH0uy8wOeuWYmtggRfcCmBYwovvWghpmsHAg0NIxWoH0RXZsQZGVqzOCrCMZ2lBSfeJGYgeeLg1ha5Posc0Rgd3m0RdRSbk/s320/Jesus_crucificado.png" width="320" height="313" data-original-width="453" data-original-height="443" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1133-um-por-todos-e-todos-por-um-Jesus_crucificado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1133-um-por-todos-e-todos-por-um-Jesus_crucificado.png" width="320" height="313" data-original-width="453" data-original-height="443" /></a></div>
 Pessoal, se dermos aquela investigada nas sagradas escrituras visando compreender por quem Jesus morreu, iremos deparar em duas grandes vertentes. Alguns estudiosos afirmam que Jesus morreu por todos, outros confirmam que ele morreu por muitos, não por todos. Como ficamos nós? Alguns pontos de reflexão podemos elencar nessa questão para vivermos felizes alimentando nossa fé.</br>
 </br>
 Em linhas resumidas vemos na bíblia que Jesus morreu na cruz para a remissão dos pecados do mundo. Aqui, o mundo são todos os pecadores, toda a humanidade. Na cruz aconteceu a garantia da salvação objetiva. Antes perdida por culpa do pecado herdado de Adão e Eva. Ou seja, Jesus com sua morte abriu novamente a possibilidade de todos se salvarem. Neste ponto de sua trajetória está bem claro que não foi uma morte com fins limitados; se assim o fosse o que seriam daqueles os quais Jesus não tivesse morrido por eles? Isso não existe pois na bíblia lemos que somos todos pecadores, então a morte do Cristo oferece a salvação à todos.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Namorando com as tentações? Cuidado!"
 date: 2020-03-11T18:55:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1912-namorando-com-as-tentações-cuidado-cobi_25C3_25A7a.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6D_P4y7ibzpe4yXY8ImJmnDqgjzmZaK17vFqvnBrcCy8kYB3pcA6jXg8s-A69JWyPVHuQeM1S0SgRssFDMGfxwPu9phbRbzoA-6IfmaLmCSS1-PYNMOcxrti_MPV7o_IiGVlc-r__zQ/s1600/cobi%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6D_P4y7ibzpe4yXY8ImJmnDqgjzmZaK17vFqvnBrcCy8kYB3pcA6jXg8s-A69JWyPVHuQeM1S0SgRssFDMGfxwPu9phbRbzoA-6IfmaLmCSS1-PYNMOcxrti_MPV7o_IiGVlc-r__zQ/s320/cobi%25C3%25A7a.png" width="320" height="304" data-original-width="432" data-original-height="410" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1912-namorando-com-as-tentações-cuidado-cobi_25C3_25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1912-namorando-com-as-tentações-cuidado-cobi_25C3_25A7a.png" width="320" height="304" data-original-width="432" data-original-height="410" /></a></div>
 Eclesiástico 3,27-29 – “O coração empedernido acabará por ser infeliz. Quem ama o PERIGO nele perecerá. O coração de caminhos tortuosos não triunfará, e a alma corrompida neles achará ocasião de queda. O coração perverso ficará acabrunhado de tristeza, e o pecador ajuntará pecado sobre pecado.” No entanto, o remédio assim como o aviso, pode ser encontrado nas sagradas escrituras.</br>
 </br>
 Provérbios 28,26 – “O que se fia em seu próprio coração, é um tolo; quem caminha com SABEDORIA, escapará do PERIGO.” Tiago 1,5-8 – “Se alguém de vós necessita de SABEDORIA, peça-a a Deus - que a todos dá liberalmente, com simplicidade e sem recriminação - e ser-lhe-á dada. Mas peça-a com fé, sem nenhuma vacilação, porque o homem que vacila assemelha-se à onda do mar, levantada pelo vento e agitada de um lado para o outro. Não pense, portanto, tal homem que alcançará alguma coisa do Senhor, pois é um homem irresoluto, inconstante em todo o seu proceder.”</br>

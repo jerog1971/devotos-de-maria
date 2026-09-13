@@ -1,10 +1,10 @@
 ---
 title: "O rock e as tatuagens"
 date: 2020-02-08T18:08:00.001Z
-heroImage: "/images/rock_tatuagem.png"
+heroImage: "/images/posts/1404-o-rock-e-as-tatuagens-rock_tatuagem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOCckV0_4MOqNKyEakmGObz92zolPD5quaBMfwebYWrFNPG_8U5a-FT2sGeh6dsM3RqW02PwNy_s5ItZ-B81b7naxqp2jV6lpjRAaHasdzlj0GnEd3AB6AwP1cooBt3FOy2ng7hVNgOg8/s1600/rock_tatuagem.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="443" data-original-width="636" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOCckV0_4MOqNKyEakmGObz92zolPD5quaBMfwebYWrFNPG_8U5a-FT2sGeh6dsM3RqW02PwNy_s5ItZ-B81b7naxqp2jV6lpjRAaHasdzlj0GnEd3AB6AwP1cooBt3FOy2ng7hVNgOg8/s320/rock_tatuagem.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1404-o-rock-e-as-tatuagens-rock_tatuagem.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="443" data-original-width="636" height="223" src="/images/posts/1404-o-rock-e-as-tatuagens-rock_tatuagem.png" width="320" /></a></div>
 Toda cultura moderna de alguma forma está revestida de uma mentalidade revolucionária, então, o que é que as pessoas quiseram fazer quando, por exemplo, fizeram o rock? O rock é uma revolução da música em que sentido; a música normal, primeiro ela é melodia, depois harmonia e por fim ela é ritmo. O rock é isso de cabeça para baixo. O rock é em primeiro lugar um ritmo, um ritmo onde tem harmonias e só muito vagamente alguma melodia. Então como podemos ver que foi colocado de cabeça para baixo.
 
 Depois o rock foi se radicalizando e a melodia foi jogada fora, ficando somente harmonia e ritmo. Quando chega aos extremos como temos hoje em dia, como hip-hop e afins, nem existe mais a harmonia ficando só o ritmo, puro ritmo. Isso, portanto, nada mais é do que revolucionar a beleza criada por Deus. É quebrar a harmonia e as coisas não são assim, tanto faz como tanto fez. Muito pelo contrário.

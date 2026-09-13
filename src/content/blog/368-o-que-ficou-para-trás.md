@@ -1,10 +1,10 @@
 ---
 title: "O que ficou para trás"
 date: 2024-01-15T18:21:00.001Z
-heroImage: "/images/virar as costas.png"
+heroImage: "/images/posts/368-o-que-ficou-para-trás-virar_20as_20costas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVtSbqZdfQQ2mjmFwfUOHb8zIH6ZvwMgrHLkrlc5rtSgDouqg0yeqYBlBiMO-u6qK2LjIXxgBku_DUYUg3TsjkIgkkhHds6IYbrk9Zmcncwu9V-D1AtbDR6b_yKRWE75RO5mBOElydFGl_dxIMXupm3YyazkANkeOtVMXTWGdMrnTn2DYIocUNp4IXy74/s428/virar%20as%20costas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="428" height="267" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVtSbqZdfQQ2mjmFwfUOHb8zIH6ZvwMgrHLkrlc5rtSgDouqg0yeqYBlBiMO-u6qK2LjIXxgBku_DUYUg3TsjkIgkkhHds6IYbrk9Zmcncwu9V-D1AtbDR6b_yKRWE75RO5mBOElydFGl_dxIMXupm3YyazkANkeOtVMXTWGdMrnTn2DYIocUNp4IXy74/s320/virar%20as%20costas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E então, enquanto caminhamos rumo a porta estreita, estamos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/368-o-que-ficou-para-trás-virar_20as_20costas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="428" height="267" src="/images/posts/368-o-que-ficou-para-trás-virar_20as_20costas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E então, enquanto caminhamos rumo a porta estreita, estamos
 deixando coisas para trás? Essa é uma das coisas que Jesus nos ensinou e nos cobra
 todos os dias. Em seu evangelho ele responde ao jovem rico que, se quer ser
 salvo, siga os mandamentos. Quando o jovem diz já fazer isso e lhe pergunta o

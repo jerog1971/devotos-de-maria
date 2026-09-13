@@ -1,10 +1,10 @@
 ---
 title: "Dia de Santa Gemma Galgani"
 date: 2024-04-11T17:46:00.001Z
-heroImage: "/images/Santa Gemma Galgani.png"
+heroImage: "/images/posts/366-dia-de-santa-gemma-galgani-Santa_20Gemma_20Galgani.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJv1dBparKFRZW6Gti5J1gjViz8gBLD6fcgcwSueR9DcnTBy4Ie4l87NHyn9yUN3H9b6vg_7-K8EfiUKNjB5j61usN03CrjRX2ub-NDSpQ9gjQXEF6-EPi80LvEG55WJsbN733L5VrxLmX906OKuK9ho7mAeNzzpDwh2lzrpjWsH9-YJA0-Y46Whx0TPE/s260/Santa%20Gemma%20Galgani.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="260" data-original-width="255" height="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJv1dBparKFRZW6Gti5J1gjViz8gBLD6fcgcwSueR9DcnTBy4Ie4l87NHyn9yUN3H9b6vg_7-K8EfiUKNjB5j61usN03CrjRX2ub-NDSpQ9gjQXEF6-EPi80LvEG55WJsbN733L5VrxLmX906OKuK9ho7mAeNzzpDwh2lzrpjWsH9-YJA0-Y46Whx0TPE/s1600/Santa%20Gemma%20Galgani.png" width="255" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Hoje comemora-se o dia de Santa Gemma Galgani. Por aqui,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/366-dia-de-santa-gemma-galgani-Santa_20Gemma_20Galgani.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="260" data-original-width="255" height="260" src="/images/posts/366-dia-de-santa-gemma-galgani-Santa_20Gemma_20Galgani.png" width="255" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Hoje comemora-se o dia de Santa Gemma Galgani. Por aqui,
 quem vos escreve a tem como uma das minhas santas padroeiras. Pobre santa, deve
 ser de dar dó, caso isso fosse possível, contemplar os contínuos desgostos
 diários que eu a dou. Logo uma santa de vida tão radical pautada no evangelho,

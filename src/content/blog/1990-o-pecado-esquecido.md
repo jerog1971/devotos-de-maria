@@ -1,10 +1,10 @@
 ---
 title: "O pecado esquecido"
 date: 2019-01-25T00:17:00Z
-heroImage: "/images/Agradecer a Jesus.png"
+heroImage: "/images/posts/1990-o-pecado-esquecido-jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s1600/jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s320/jesus.png" width="320" height="291" data-original-width="341" data-original-height="310" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1990-o-pecado-esquecido-jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1990-o-pecado-esquecido-jesus.png" width="320" height="291" data-original-width="341" data-original-height="310" /></a></div>
 Caros leitores, sobretudo os católicos; dentre as bombas atômicas que nosso senhor Jesus Cristo deixou como remédio em sua igreja (Mateus 16,18), uma das mais potentes (não a mais potente, já vamos compreender adiante), chama-se “sacramento da confissão”. Já dizia o sacerdote Duarte Sousa Lara, um dos grandes segredos para sermos santos, que é sinônimo de sermos felizes, é o sacramento da confissão.</br>
 </br>
 Como já estão a perceber, metaforicamente falando, as sete bombas atômicas fazem referência aos sete sacramentos. Remédios diferentes para necessidades específicas que, num todo servem para uma necessidade única: a salvação de nossas almas em sua resistência no combate contra o mal.

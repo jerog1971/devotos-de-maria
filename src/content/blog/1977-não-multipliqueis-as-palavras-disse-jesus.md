@@ -1,10 +1,10 @@
 ---
 title: "Não multipliqueis as palavras, disse Jesus"
 date: 2021-12-07T15:24:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1977-não-multipliqueis-as-palavras-disse-img-1235518763.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhvrw0OcqEMCI9cPC7vPmLQeANADNEsw1ydnuXxSDVhzKDN3t1vt5mrHxK8dgWPgkEuWsqTogHcq8zEt_LB0H0GIt9xqCErcOg_ympwPrV_1bSFd9kWo38KEUObeu-uUkvD8sRpM9ktL7Zt4-yLAL9W2nWSdbAgABYgfpegORb2Yw3cM5dXSTiDATQ4=s1160" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1070" data-original-width="1160" height="295" src="https://blogger.googleusercontent.com/img/a/AVvXsEhvrw0OcqEMCI9cPC7vPmLQeANADNEsw1ydnuXxSDVhzKDN3t1vt5mrHxK8dgWPgkEuWsqTogHcq8zEt_LB0H0GIt9xqCErcOg_ympwPrV_1bSFd9kWo38KEUObeu-uUkvD8sRpM9ktL7Zt4-yLAL9W2nWSdbAgABYgfpegORb2Yw3cM5dXSTiDATQ4=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos nas sagradas escrituras que não temos autoridade
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1977-não-multipliqueis-as-palavras-disse-img-1235518763.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1070" data-original-width="1160" height="295" src="/images/posts/1977-não-multipliqueis-as-palavras-disse-img-1484163264.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos nas sagradas escrituras que não temos autoridade
 para “arrancarmos” de Deus o que queremos; ele, que não é surdo, já ouviu da primeira
 vez que nos dirigimos com agradecimentos, súplicas, reclamações, pedidos, exigências
 e outras formas de uso que atribuímos às nossas orações.<o:p></o:p></p><div class="separator" style="clear: both;">

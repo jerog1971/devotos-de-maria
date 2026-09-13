@@ -1,10 +1,10 @@
 ---
 title: "Pequenas confirmações"
 date: 2024-07-31T18:31:00.005Z
-heroImage: "/images/pequenas confirmações.png"
+heroImage: "/images/posts/2170-pequenas-confirmações-img-390390257.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukqqFEFIoxxzQFB_hVhA6xf_4qYMnwLa2iBTkz2TYi3x3dTeZw-RFC1LBFqjbRyycPwNgKb5u9JOhujg3oeB8ra8EnpvLCFBrSTszX8jR7tanKaFspO09GQewVzeYIWoXcJ7jOiIqIRcnPyIMAx6ps3sSjds5FyRVD4PnZ1ML6fxmE2wwgSmoX4-EKAA/s492/pequenas%20confirma%C3%A7%C3%B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="492" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukqqFEFIoxxzQFB_hVhA6xf_4qYMnwLa2iBTkz2TYi3x3dTeZw-RFC1LBFqjbRyycPwNgKb5u9JOhujg3oeB8ra8EnpvLCFBrSTszX8jR7tanKaFspO09GQewVzeYIWoXcJ7jOiIqIRcnPyIMAx6ps3sSjds5FyRVD4PnZ1ML6fxmE2wwgSmoX4-EKAA/s320/pequenas%20confirma%C3%A7%C3%B5es.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De tempos em tempos, por conta da fraqueza humana em sua
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2170-pequenas-confirmações-img-390390257.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="492" height="274" src="/images/posts/2170-pequenas-confirmações-img-1749511795.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De tempos em tempos, por conta da fraqueza humana em sua
 tentativa de agradar a Deus, nos perguntamos se nosso esforço está surtindo algum
 efeito. Os anos vão passando e vamos levantando das quedas e dificuldades da vida
 e, calejados pelas provações, é natural o ser humano se perguntar se está a

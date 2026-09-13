@@ -1,10 +1,10 @@
 ---
 title: "A lembrança dos valores"
 date: 2021-07-23T20:24:00.001Z
-heroImage: "/images/valores.png"
+heroImage: "/images/posts/1447-a-lembrança-dos-valores-a_lembran_25C3_25A7a_dos_valores.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT0rJ-25D3K8z00-ifxU2JT4z9LaFWXANapL3I9X5xrywOjqJHQNbxfrksdMYNRX00fo9gAo_IUgeX6eyt-Ul5CAHreb-Iiiu13hWwTqf8V_W8qTOHGj_qw8ka2px_xC9S3HoqPyUQX58/s1040/a+lembran%25C3%25A7a+dos+valores.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="1040" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT0rJ-25D3K8z00-ifxU2JT4z9LaFWXANapL3I9X5xrywOjqJHQNbxfrksdMYNRX00fo9gAo_IUgeX6eyt-Ul5CAHreb-Iiiu13hWwTqf8V_W8qTOHGj_qw8ka2px_xC9S3HoqPyUQX58/s320/a+lembran%25C3%25A7a+dos+valores.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa vida é cheia de propósitos; passamos ano após ano
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1447-a-lembrança-dos-valores-a_lembran_25C3_25A7a_dos_valores.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="1040" src="/images/posts/1447-a-lembrança-dos-valores-a_lembran_25C3_25A7a_dos_valores.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa vida é cheia de propósitos; passamos ano após ano
 prometendo aos outros, prometendo a nós mesmos e prometendo a Deus muitas
 coisas. Todavia, em nosso caminhar toda essa gama de promessas vai cotidianamente
 sendo peneirada. Lucas 22,31-32 – “Simão, Simão, eis que Satanás vos reclamou

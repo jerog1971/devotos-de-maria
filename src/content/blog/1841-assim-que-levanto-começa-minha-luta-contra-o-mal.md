@@ -1,10 +1,10 @@
 ---
 title: "Assim que levanto começa minha luta contra o mal"
 date: 2019-08-06T15:16:00.002Z
-heroImage: "/images/batalha_contra_o_mal.png"
+heroImage: "/images/posts/1841-assim-que-levanto-começa-minha-luta-batalha_contra_o_mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePC9atHhm6ikaUVWTgYC47Iq05YhAgZex34IQvONGMQfXfPPxkk2ncIKKEB3dpYdbdkZIr0g3a_ig5DHRI2M-vLld4Q2ffl8nuWG5fzRUwIY0qCjmiaDavn2kcJfrqaNAdjgbOmzBKpI/s1600/batalha_contra_o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePC9atHhm6ikaUVWTgYC47Iq05YhAgZex34IQvONGMQfXfPPxkk2ncIKKEB3dpYdbdkZIr0g3a_ig5DHRI2M-vLld4Q2ffl8nuWG5fzRUwIY0qCjmiaDavn2kcJfrqaNAdjgbOmzBKpI/s320/batalha_contra_o_mal.png" width="320" height="319" data-original-width="516" data-original-height="514" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1841-assim-que-levanto-começa-minha-luta-batalha_contra_o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1841-assim-que-levanto-começa-minha-luta-batalha_contra_o_mal.png" width="320" height="319" data-original-width="516" data-original-height="514" /></a></div>
 Ou alguém acha que é diferente? Alguém acha que o diabo vai acordar um belo dia de bom humor e vai dar uma de papai Noel dizendo: “Ora ele tem se comportado tão bem, olha quanto esforço para caminhar no bem, vou lhe conceder hoje uma folga, uma trégua, nada de importuna-lo hoje com minhas tentações, afinal ele tem sido boa pessoa”. E então? É bem assim que ele atua não é mesmo!</br>
 </br>
 E melhor ainda, se não o importunarmos com nossas práticas religiosas aí sim é que satanás fica numa boa no seu canto nos deixando no nosso! Ah pare né, acordamos do sonho? Ou é uma dose de tolerância gigantesca para as investidas do maligno. Seja como for já está avisado para cada um; Jesus mesmo encarregou-se de deixar muito claro “que o mundo jaz sob o poder do maligno”. Pobres os que pensam que contra o mal existe trégua, existe negociação. Os padres exorcistas nos dizem que com o diabo não tem conversa, não se deve dar ouvidos à ele pois não pode haver uma alternativa ao que Deus nos propõe que nos seja mais lucrativa para a alma.</br>

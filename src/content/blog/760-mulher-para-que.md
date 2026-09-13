@@ -1,10 +1,10 @@
 ---
 title: "Mulher para que?"
 date: 2018-05-30T18:11:00Z
-heroImage: "/images/dormindo.png"
+heroImage: "/images/posts/760-mulher-para-que-dormindo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoxIKd100AKpx6Z92F8Yi2IyCnHVH5P4AXIZVl00MhpTVxZQ9JS4q4_Hn-ecGV-3tyqYbyNFPy_oma1-1Y_sD8tPYXSyn5qg8NbDxGmBidpt0FSIZSgDTvS0IQy3yp9Nj0jgvoiGYG1GI/s1600/dormindo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoxIKd100AKpx6Z92F8Yi2IyCnHVH5P4AXIZVl00MhpTVxZQ9JS4q4_Hn-ecGV-3tyqYbyNFPy_oma1-1Y_sD8tPYXSyn5qg8NbDxGmBidpt0FSIZSgDTvS0IQy3yp9Nj0jgvoiGYG1GI/s320/dormindo.png" width="320" height="287" data-original-width="558" data-original-height="500" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/760-mulher-para-que-dormindo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/760-mulher-para-que-dormindo.png" width="320" height="287" data-original-width="558" data-original-height="500" /></a></div>
 O mundo tratou ao longo da história da humanidade em modificar, por culpa ou desculpa melhor dizendo, da evolução da mesma, os conceitos e atribuições que aquela que Deus, vendo que não era bom que o homem ficasse sozinho, a chamou de companheira, ajuda, colocando na natureza dessa parceria no mundo não uma dupla, mas um casal, unidos em uma só carne (Gênesis 2,18 e 24).</br>
 </br>
 A mulher se transformou em muitas coisas, ainda permanece bravamente a existência de sua natureza pensada e criada por Deus, a maternidade e o cuidado com o lar e sua família. Porém, ela foi ganhando novas “funções”, para se usar uma expressão muito inadequada, mas, que infelizmente se encaixa no contexto porque ela recebeu características de objeto. Um televisor é um objeto, se você deseja ter um vai até a loja, escolhe o modelo conforme seus gostos, características do aparelho, recursos, funcionalidades, facilidades e adaptação ao seu desejo pessoal de satisfação. O mesmo vale, em linhas gerais, para a maioria dos objetos. E como os objetos são vendidos? Simples você vai dizer, é feito um trabalho de propaganda sobre ele para que se torne atrativo e todos ou o maior número de pessoas se interessem em adquiri-lo, pagando inclusive o que for preciso pagar.</br>

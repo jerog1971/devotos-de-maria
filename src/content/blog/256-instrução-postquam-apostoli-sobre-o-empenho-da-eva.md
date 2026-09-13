@@ -1,10 +1,10 @@
 ---
 title: "Instrução Postquam Apostoli - sobre o empenho da evangelização"
 date: 2020-05-12T17:19:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/256-instrução-postquam-apostoli-sobre-o--img-1347899976.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuAuf7OoLybb8NvkznCpr7is9ZdxTJAVzt5Yt9VFCJJYq0cU3WWj-8IeTrTe2Qov0HS_42dIsZJbjWiEi5fnT7Lz2ixrUxsk3RrqML8SkDurSQsNVAOpx4_qvpTQ2AQ6ch9BRuj1NAKI/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="208" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuAuf7OoLybb8NvkznCpr7is9ZdxTJAVzt5Yt9VFCJJYq0cU3WWj-8IeTrTe2Qov0HS_42dIsZJbjWiEi5fnT7Lz2ixrUxsk3RrqML8SkDurSQsNVAOpx4_qvpTQ2AQ6ch9BRuj1NAKI/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,14 – E disse Jesus – “Assim é a vontade de vosso
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/256-instrução-postquam-apostoli-sobre-o--img-1347899976.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="208" src="/images/posts/256-instrução-postquam-apostoli-sobre-o--img-1347899976.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,14 – E disse Jesus – “Assim é a vontade de vosso
 Pai celeste, que não se perca um só destes pequeninos.” João 6,39-40 – “Ora,
 esta é a vontade daquele que me enviou: que eu não deixe perecer nenhum
 daqueles que me deu, mas que os ressuscite no último dia. Esta é a vontade de

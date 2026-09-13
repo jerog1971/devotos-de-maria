@@ -1,10 +1,10 @@
 ---
 title: "Importa o que temos"
 date: 2020-11-24T13:47:00.001Z
-heroImage: "/images/trindade.png"
+heroImage: "/images/posts/1498-importa-o-que-temos-trindade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMSjl3BUQZk5Z7ACMfOmlwVrz5n7ivGkcaVxuh3YvIQBgncexF0vkJ2KtpARnGhWlU0uGHAVceEXGiMrXyvZNiVaLTlqGdLEaY4PyzmqlS5ajrHD89fw_FXfxJZfmkidg8hgrKqMOd1LE/s458/trindade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="416" data-original-width="458" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMSjl3BUQZk5Z7ACMfOmlwVrz5n7ivGkcaVxuh3YvIQBgncexF0vkJ2KtpARnGhWlU0uGHAVceEXGiMrXyvZNiVaLTlqGdLEaY4PyzmqlS5ajrHD89fw_FXfxJZfmkidg8hgrKqMOd1LE/s320/trindade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eclesiástico 6,37 – “Concentra teu pensamento nos preceitos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1498-importa-o-que-temos-trindade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="416" data-original-width="458" src="/images/posts/1498-importa-o-que-temos-trindade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eclesiástico 6,37 – “Concentra teu pensamento nos preceitos
 de Deus, sê assíduo à meditação de seus mandamentos. Ele próprio te dará um
 coração, e ser-te-á concedida a sabedoria que desejas”. Eclesiástico 5,10 – “Não
 te inquietes à procura de riquezas injustas, de nada te servirão no dia do

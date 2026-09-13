@@ -1,10 +1,10 @@
 ---
 title: "A podridão"
 date: 2017-05-30T18:37:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2032-a-podridão-podrid_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglhs2CFT1SkEAQnjNV9hmC_Oe3hNIIRTXsDJimVyFt17TX5LUWWV0umo5F1Sj1gz_D6kFblrZMWoEjc9FTSYEdK80v8H1i7uzh78WHSowV-SzDTJadl1FvIwQApqZJ8x6H8BNsRDAlSZA/s1600/podrid%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="395" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglhs2CFT1SkEAQnjNV9hmC_Oe3hNIIRTXsDJimVyFt17TX5LUWWV0umo5F1Sj1gz_D6kFblrZMWoEjc9FTSYEdK80v8H1i7uzh78WHSowV-SzDTJadl1FvIwQApqZJ8x6H8BNsRDAlSZA/s320/podrid%25C3%25A3o.png" width="314" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2032-a-podridão-podrid_25C3_25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="395" height="320" src="/images/posts/2032-a-podridão-podrid_25C3_25A3o.png" width="314" /></a></div>
 Em vários relatos pelo mundo, onde os sacerdotes exorcistas participaram e ainda participam, sempre acontece nessas situações, nos períodos de manifestações, opressões e obsessões, ocorrer um odor fétido e característico de podridão e enxofre. Tanto verdade é, que até as produções cinematográficas e documentários mencionam este fato em seus trabalhos.
 
 No entanto esse aroma do mal não se mostra como é desde o princípio. No início dos acontecimentos, quando o diabo decide, após longa vigília, quais pessoas vai unir em adultério ou fornicação, trata logo de providenciar o cenário adequado para que os dois pretendentes a uma vaga no inferno comecem o seu relacionamento. Se arrumam, se embelezam e é claro se perfumam. Transformam seus corpos num atrativo agradável aos olhos e ao olfato. Se envolvem nos toques da pele, dos lábios e dos corpos e se despedem a cada encontro levando nas narinas e nas roupas um pouco da lembrança do outro através dos deliciosos cheiros de perfumes, sabonetes e cremes que foram passados como que exclusivamente para agradar o parceiro.

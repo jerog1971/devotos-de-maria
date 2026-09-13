@@ -1,10 +1,10 @@
 ---
 title: "As chagas de Nosso Senhor Jesus Cristo"
 date: 2020-07-16T20:02:00Z
-heroImage: "/images/Maria.gif"
+heroImage: "/images/posts/1826-as-chagas-de-nosso-senhor-jesus-cri-Maria_Marta_Chambon.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAhiMLG5N_rMyZvDbb_pC-IVq0H9samGeL23xV8Isihh6tK3igEksG83MSQ4xe0_KkMdznx79k2zTOKlroYnpX3tshXck0IFaOWL0d5jWeaN63tUdZR2Fi6M5PccDhae6_37o5_BgBDLM/s234/Maria+Marta+Chambon.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="234" data-original-width="232" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAhiMLG5N_rMyZvDbb_pC-IVq0H9samGeL23xV8Isihh6tK3igEksG83MSQ4xe0_KkMdznx79k2zTOKlroYnpX3tshXck0IFaOWL0d5jWeaN63tUdZR2Fi6M5PccDhae6_37o5_BgBDLM/s0/Maria+Marta+Chambon.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Já sabemos através de revelações privadas que nosso Salvador
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1826-as-chagas-de-nosso-senhor-jesus-cri-Maria_Marta_Chambon.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="234" data-original-width="232" src="/images/posts/1826-as-chagas-de-nosso-senhor-jesus-cri-Maria_Marta_Chambon.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Já sabemos através de revelações privadas que nosso Salvador
 pretende que suas santas chagas estejam visíveis por toda a eternidade nos céus
 para que seja memória de quanto ele se sujeito por amor a todos os pecadores. Não
 foi por uma vã glória, ou para se aparecer, ou para “ficar bem na foto” com

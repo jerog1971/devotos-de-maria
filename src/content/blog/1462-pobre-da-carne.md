@@ -1,10 +1,10 @@
 ---
 title: "Pobre da carne"
 date: 2019-03-08T20:26:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1462-pobre-da-carne-lux_25C3_25BAria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Mdnk_Z7ZQ4t7GI1UF3E4Vup6MILjjw97029otm4n6LkjNTzKd7w2uGhF88CxtH1jYAV5RV-09oG5csjZzx22xIXfmLSsQCatGUYv93rUDNrTwsSh_kDDIBboESGYcY8UeRSJ_TCNpqY/s1600/lux%25C3%25BAria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Mdnk_Z7ZQ4t7GI1UF3E4Vup6MILjjw97029otm4n6LkjNTzKd7w2uGhF88CxtH1jYAV5RV-09oG5csjZzx22xIXfmLSsQCatGUYv93rUDNrTwsSh_kDDIBboESGYcY8UeRSJ_TCNpqY/s320/lux%25C3%25BAria.png" width="290" height="320" data-original-width="224" data-original-height="247" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1462-pobre-da-carne-lux_25C3_25BAria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1462-pobre-da-carne-lux_25C3_25BAria.png" width="290" height="320" data-original-width="224" data-original-height="247" /></a></div>
 Jesus já nos avisou que o espírito (o nosso espírito) está pronto, mas nos alertou que a carne é fraca. E por quê? Porque é através da colaboração do corpo (seus sentidos e intelecto) que o espírito peca. Se por ventura alguém ainda não se deu conta ou não percebeu por conta da sutileza da situação, vamos logo recordar: o pecado é uma realidade do espírito.</br>
 </br>
 E este espírito, parte daquilo que somos pois sabemos que como um composto de corpo e alma, um dia teremos esse corpo transformado num corpo glorioso (recorde-se do corpo de Jesus após sua ressurreição) que unido a nossa alma gozará das alegrias eternas ou, será ressuscitado no último dia, como atestam as escrituras, para o fogo do inferno preparado para o diabo e seus demônios e com muito, mas muito lugar para abarcar os ímpios que para lá desejaram ir ao virarem as costas para seu criador. </br>

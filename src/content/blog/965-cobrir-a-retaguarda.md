@@ -1,10 +1,10 @@
 ---
 title: "Cobrir a retaguarda"
 date: 2020-08-31T19:12:00.004Z
-heroImage: "/images/retaguarda.png"
+heroImage: "/images/posts/965-cobrir-a-retaguarda-retaguarda.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJd1ZeaCg-lX_50MlxhVTJNp2-OcFlhS1Xs1KLVQOMebZRgwfyKJ5fWt2RGK__cDgspDqT9wzimEOXo2oG-_DFe54ELi0C6afY2e6J-4FX8Y5hXQhky5Ek_w37bCjcQEL0v3frhmjB4M4/s561/retaguarda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="537" data-original-width="561" height="429" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJd1ZeaCg-lX_50MlxhVTJNp2-OcFlhS1Xs1KLVQOMebZRgwfyKJ5fWt2RGK__cDgspDqT9wzimEOXo2oG-_DFe54ELi0C6afY2e6J-4FX8Y5hXQhky5Ek_w37bCjcQEL0v3frhmjB4M4/w449-h429/retaguarda.png" width="449" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eu vou na frente, cubra a minha retaguarda – essa fala é
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/965-cobrir-a-retaguarda-retaguarda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="537" data-original-width="561" height="429" src="/images/posts/965-cobrir-a-retaguarda-retaguarda.png" width="449" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eu vou na frente, cubra a minha retaguarda – essa fala é
 muito costumeira de se ouvir em filmes de ação e guerra. Num combate contras as
 forças inimigas, enquanto avança, a equipe cuida um do outro, vigiando onde
 cada um não pode estar cuidando a todo instante. Alguma associação com nosso

@@ -1,10 +1,10 @@
 ---
 title: "Cuidado, você pode bater"
 date: 2023-10-12T15:43:00.001Z
-heroImage: "/images/Cuidado, você pode bater.jpg"
+heroImage: "/images/posts/393-cuidado-você-pode-bater-img-1464424994.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqBW1kyCym7suO7BV_rci53J6iBOYPjARmt6rlvwtXSi6wBkCv9IF_C5nqS2p7DwdujTTrqH-PODE1Yo4317ChJFU9IJgf6ol5uHURXG9rZ2COjU6mwdJBGGusGh_Q2dyROgWJe1bPdD2Zmj3rpzJhImd3AoKLRPvHUPxr90wgdIlSNktVW0Qq9qb6M4/s1600/Cuidado,%20voc%C3%AA%20pode%20bater.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1385" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqBW1kyCym7suO7BV_rci53J6iBOYPjARmt6rlvwtXSi6wBkCv9IF_C5nqS2p7DwdujTTrqH-PODE1Yo4317ChJFU9IJgf6ol5uHURXG9rZ2COjU6mwdJBGGusGh_Q2dyROgWJe1bPdD2Zmj3rpzJhImd3AoKLRPvHUPxr90wgdIlSNktVW0Qq9qb6M4/s320/Cuidado,%20voc%C3%AA%20pode%20bater.jpg" width="277" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um ditado que diz que a pessoa dá com os burros na
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/393-cuidado-você-pode-bater-img-1464424994.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1385" height="320" src="/images/posts/393-cuidado-você-pode-bater-img-1481920740.jpg" width="277" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um ditado que diz que a pessoa dá com os burros na
 água; significa que tentou alguma coisa e não deu certo. Até aqui parece
 simples, mas a diversidade de opções pode complicar bem mais o erro que se
 comete. Tratam-se dos riscos que as pessoas intencionalmente decidem correr.

@@ -1,10 +1,10 @@
 ---
 title: "Santo de casa não faz milagre"
 date: 2016-06-29T12:37:00Z
-heroImage: "/images/santo_de_casa.png"
+heroImage: "/images/posts/275-santo-de-casa-não-faz-milagre-santo_de_casa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxFnnFETHFkyN_UTomE5DeA2ztsBy8b8Lb9Cg7PsRFIgbAeGigKHuHqQvu01jprtbfXBdmrT4Yx0GeLruN0WX_mvde5c83JgIazJJozMYek0SNffep9DAnhSrs0MkV_SWgaWubHnW4vM/s1600/santo_de_casa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxFnnFETHFkyN_UTomE5DeA2ztsBy8b8Lb9Cg7PsRFIgbAeGigKHuHqQvu01jprtbfXBdmrT4Yx0GeLruN0WX_mvde5c83JgIazJJozMYek0SNffep9DAnhSrs0MkV_SWgaWubHnW4vM/s320/santo_de_casa.png" width="320" height="265" data-original-width="392" data-original-height="325" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/275-santo-de-casa-não-faz-milagre-santo_de_casa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/275-santo-de-casa-não-faz-milagre-santo_de_casa.png" width="320" height="265" data-original-width="392" data-original-height="325" /></a></div>
 Marcos 6,1-6 - Depois, ele partiu dali e foi para a sua pátria, seguido de seus discípulos. Quando chegou o dia de sábado, começou a ensinar na sinagoga. Muitos o ouviam e, tomados de admiração, diziam: Donde lhe vem isso? Que sabedoria é essa que lhe foi dada, e como se operam por suas mãos tão grandes milagres? Não é ele o carpinteiro, o filho de Maria, o irmão de Tiago, de José, de Judas e de Simão? Não vivem aqui entre nós também suas irmãs? E ficaram perplexos a seu respeito. Mas Jesus disse-lhes: Um profeta só é desprezado na sua pátria, entre os seus parentes e na sua própria casa. Não pôde fazer ali milagre algum. Curou apenas alguns poucos enfermos, impondo-lhes as mãos. Admirava-se ele da desconfiança deles. E ensinando, percorria as aldeias circunvizinhas.</br>
 </br>
 João 1,43-46 - No dia seguinte, tinha Jesus a intenção de dirigir-se à Galiléia. Encontra Filipe e diz-lhe: Segue-me. (Filipe era natural de Betsaida, cidade de André e Pedro.) Filipe encontra Natanael e diz-lhe: Achamos aquele de quem Moisés escreveu na lei e que os profetas anunciaram: é Jesus de Nazaré, filho de José. Respondeu-lhe Natanael: Pode, porventura, vir coisa boa de Nazaré? Filipe retrucou: Vem e vê.</br>

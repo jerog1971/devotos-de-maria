@@ -1,10 +1,10 @@
 ---
 title: "A Bênção do Santíssimo"
 date: 2020-07-01T16:44:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/874-a-bênção-do-santíssimo-img-1632573760.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOjHWzZGS6H5FzTsbQnlGgAlHP3xjAYF2nCL8ooDtsBaEl7XDR4JKePzHuejNikRwha_vDaLTC_ICwosX6yQ-mrUcrrNlz4Qrp08btVYmro8smY7Fw3v0parPUqHFkEhGBcPqAKUZkBI/s540/B%25C3%25AAn%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="505" data-original-width="540" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOjHWzZGS6H5FzTsbQnlGgAlHP3xjAYF2nCL8ooDtsBaEl7XDR4JKePzHuejNikRwha_vDaLTC_ICwosX6yQ-mrUcrrNlz4Qrp08btVYmro8smY7Fw3v0parPUqHFkEhGBcPqAKUZkBI/s320/B%25C3%25AAn%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em alguns lugares do mundo, apesar da pandemia, as
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/874-a-bênção-do-santíssimo-img-1632573760.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="505" data-original-width="540" src="/images/posts/874-a-bênção-do-santíssimo-img-684413184.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em alguns lugares do mundo, apesar da pandemia, as
 autoridades não fecharam as portas das igrejas e ainda acontecem, com os
 devidos cuidados sanitários e profiláticos para se evitar a propagação do vírus,
 as santas missas. São lugares de grande fervor cristão, a missa não é apenas a

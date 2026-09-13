@@ -1,10 +1,10 @@
 ---
 title: "O mundo tem um príncipe"
 date: 2020-10-23T13:56:00.001Z
-heroImage: "/images/dom.png"
+heroImage: "/images/posts/1933-o-mundo-tem-um-príncipe-sob_o_dom_25C3_25ADnio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnqisppWz8gfxM-t4rtzX7WGuaCuTFqeUqSUjugrPwSbEihygYa9tDPYIQ7rgM3FPpyJXB1YC1GmRVytx38mXU48m2UOulmh6DFNjmSsatl0ZogNTMN7V1K8dNXMjNMjxCihU2eS8Ssuc/s605/sob+o+dom%25C3%25ADnio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="568" data-original-width="605" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnqisppWz8gfxM-t4rtzX7WGuaCuTFqeUqSUjugrPwSbEihygYa9tDPYIQ7rgM3FPpyJXB1YC1GmRVytx38mXU48m2UOulmh6DFNjmSsatl0ZogNTMN7V1K8dNXMjNMjxCihU2eS8Ssuc/s320/sob+o+dom%25C3%25ADnio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pouco antes de subir aos céus Jesus nomeia Satanás em João
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1933-o-mundo-tem-um-príncipe-sob_o_dom_25C3_25ADnio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="568" data-original-width="605" src="/images/posts/1933-o-mundo-tem-um-príncipe-sob_o_dom_25C3_25ADnio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pouco antes de subir aos céus Jesus nomeia Satanás em João
 14,30 como “príncipe deste mundo”; ainda alerta que não tem parte com ele. Em
 1ª João 5,19 ouvimos que o mundo jaz sob o maligno. Isso sempre foi e será um
 mistério para a compreensão humana. Por que Deus que, segundo a bíblia é amor e

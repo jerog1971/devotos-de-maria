@@ -1,10 +1,10 @@
 ---
 title: "Músicos na missa?"
 date: 2019-03-15T20:26:00.001Z
-heroImage: "/images/musicos_na_missa.png"
+heroImage: "/images/posts/1311-músicos-na-missa-musicos_na_missa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjxcbmHVIbUilVGNp48MUfzGBrk9EqODYfMaCXmUSl73d0h8DXKKN1SqQOxWauPSg2lrF3sO9YIj8k0P9Lgn5HOy3HabXK50S8s6zCKms7Mi5q4H4KLRBMetagYpX3xPXdTpl0u6Ex24/s1600/musicos_na_missa.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="247" data-original-width="258" height="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjxcbmHVIbUilVGNp48MUfzGBrk9EqODYfMaCXmUSl73d0h8DXKKN1SqQOxWauPSg2lrF3sO9YIj8k0P9Lgn5HOy3HabXK50S8s6zCKms7Mi5q4H4KLRBMetagYpX3xPXdTpl0u6Ex24/s320/musicos_na_missa.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1311-músicos-na-missa-musicos_na_missa.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="247" data-original-width="258" height="306" src="/images/posts/1311-músicos-na-missa-musicos_na_missa.png" width="320" /></a></div>
 Se existe uma coisa que desgraçadamente acontece dentro da santa missa é a participação mundana das pessoas que compõe a equipe de música. Em sua grande maioria e começo o artigo dessa forma porque existem pessoas que cantam dentro da igreja e comportam-se conforme o agrado de Deus. No entanto, em sua grande maioria, repito, comportam-se como se fossem estrelas de um show. Acompanhemos alguns pequenos pontos que podem ser observados durante as celebrações.
 
 Primeiro, a equipe de música deveria estudar a introdução geral ao missal romano; lá está escrito que a oração do “glória” e do “santo” podem ser cantadas (não substituídas). E o que acontece? Pois é, mudam por outras músicas que falam da glória de Deus e de sua santidade. Onde estão os sacerdotes que permitem uma balburdia dessas? Não são párocos com a missão de conduzir esse rebanho comunitário? Ficam calados e não se envolvem, são uns covardes ou então frouxos. Segundo, os padres ficam à mercê dos músicos. Eles precisam ficar esperando os cantores terminarem a sequência dos cantos quando teria que ser exatamente o contrário, a música deve acompanhar os ritos e não o oposto. O que vemos são padres de cabeça baixa olhando para a hóstia aguardando os músicos terminarem o refrão ou a estrofe. 

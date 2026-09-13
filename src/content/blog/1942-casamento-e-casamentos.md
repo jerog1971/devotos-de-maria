@@ -1,10 +1,10 @@
 ---
 title: "Casamento e casamentos"
 date: 2023-02-22T13:58:00.003Z
-heroImage: "/images/Bom humor em família.jpg"
+heroImage: "/images/posts/1942-casamento-e-casamentos-fam_C3_ADlia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTAKv3WqT20rhXRO5a_LsHQycuhrjDazMNpwj9sZQ44oBQArxh9g9YxYJn4bx2utpF37EsR-eSvPjSnPiekKGkQXrybPUGGqUwgyxACJFz-aZB8IPvVZcjZ-6QtZ8hzrq8h9C-Rxv4yYtBhSPMWkHqYZFynx7uuHvkIICL4Ml2n2NLk6mAq2xxlX71/s2771/fam%C3%ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="2771" height="283" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTAKv3WqT20rhXRO5a_LsHQycuhrjDazMNpwj9sZQ44oBQArxh9g9YxYJn4bx2utpF37EsR-eSvPjSnPiekKGkQXrybPUGGqUwgyxACJFz-aZB8IPvVZcjZ-6QtZ8hzrq8h9C-Rxv4yYtBhSPMWkHqYZFynx7uuHvkIICL4Ml2n2NLk6mAq2xxlX71/s320/fam%C3%ADlia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Então o Senhor Deus mandou ao homem um profundo sono; e
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1942-casamento-e-casamentos-fam_C3_ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="2771" height="283" src="/images/posts/1942-casamento-e-casamentos-fam_C3_ADlia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Então o Senhor Deus mandou ao homem um profundo sono; e
 enquanto ele dormia, tomou-lhe uma costela e fechou com carne o seu lugar. E da
 costela que tinha tomado do homem, o Senhor Deus fez uma mulher, e levou-a para
 junto do homem. “Eis agora aqui, disse o homem, o osso de meus ossos e a carne

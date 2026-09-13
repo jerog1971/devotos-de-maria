@@ -1,10 +1,10 @@
 ---
 title: "Cada padre tem o seu jeito?"
 date: 2020-05-31T21:12:00Z
-heroImage: "/images/jeito_do_padre.png"
+heroImage: "/images/posts/903-cada-padre-tem-o-seu-jeito-img-1484753404.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK11Dk37tkhz5glhNS3tCmpL20a496Fq8t14tMowPboFQBU9MsEW0jZbfLC87Us6ddL5xeVxQZ31PNPg21kITeGrGS7-6ceEh4x1y4efN4Bhft7oCWM4wro0HfnCiiodzoNgS1ou7aez4/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="452" data-original-width="494" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK11Dk37tkhz5glhNS3tCmpL20a496Fq8t14tMowPboFQBU9MsEW0jZbfLC87Us6ddL5xeVxQZ31PNPg21kITeGrGS7-6ceEh4x1y4efN4Bhft7oCWM4wro0HfnCiiodzoNgS1ou7aez4/s320/jeito_do_padre.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Vamos mais longe: cada um tem o seu jeito. Por isso, desde
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/903-cada-padre-tem-o-seu-jeito-img-1484753404.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="452" data-original-width="494" src="/images/posts/903-cada-padre-tem-o-seu-jeito-img-1484753404.jpgs320/jeito_do_padre.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Vamos mais longe: cada um tem o seu jeito. Por isso, desde
 os princípios históricos a humanidade percebeu a necessidade de se criarem
 leis. Pois bem, logo se viu que as pessoas não podem sair por aí a fazer tudo
 do jeito que bem entendem, como querem, quando querem e à sua maneira. Vários

@@ -1,10 +1,10 @@
 ---
 title: "A catequese do arado"
 date: 2021-01-29T17:53:00.002Z
-heroImage: "/images/arado.png"
+heroImage: "/images/posts/184-a-catequese-do-arado-arado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7FYIeFasiRL_i6nc0Ddyj67vBUam5a6nGwQZ2hNNnNdHVLEl-pTmTI1QV4KcOW0v-6POTOH8b7WRwyl0bcBQqJWnbaLsznE56roLiparqcsW8-1UlBBt7wJfk1yf0W-XAt385rQsZho/s342/arado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="342" data-original-width="333" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7FYIeFasiRL_i6nc0Ddyj67vBUam5a6nGwQZ2hNNnNdHVLEl-pTmTI1QV4KcOW0v-6POTOH8b7WRwyl0bcBQqJWnbaLsznE56roLiparqcsW8-1UlBBt7wJfk1yf0W-XAt385rQsZho/s320/arado.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lucas 9,62 – “Mas Jesus disse-lhe: Aquele que põe a mão no
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/184-a-catequese-do-arado-arado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="342" data-original-width="333" height="320" src="/images/posts/184-a-catequese-do-arado-arado.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lucas 9,62 – “Mas Jesus disse-lhe: Aquele que põe a mão no
 arado e olha para trás, não é apto para o Reino de Deus”.<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Certamente Jesus está a nos ensinar que o desapego as coisas

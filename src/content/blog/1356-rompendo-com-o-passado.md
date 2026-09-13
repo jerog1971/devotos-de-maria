@@ -1,10 +1,10 @@
 ---
 title: "Rompendo com o passado"
 date: 2021-08-24T15:46:00.003Z
-heroImage: "/images/passado.png"
+heroImage: "/images/posts/1356-rompendo-com-o-passado-rompendo_com_o_passado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfZUdRdlZXPuGO3paiflMWIA1PRCel3p9YNICIHZnIbI9i1ax3ZKT0DqnyLmE5s4jhXJTlYjEl66Z0QiBUPlDjog6lC2uL8LAwN5uuYIJDvkpHqu82fs2CM0xi6ggTLOl67FBg-WOYZb0/s624/rompendo+com+o+passado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="610" data-original-width="624" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfZUdRdlZXPuGO3paiflMWIA1PRCel3p9YNICIHZnIbI9i1ax3ZKT0DqnyLmE5s4jhXJTlYjEl66Z0QiBUPlDjog6lC2uL8LAwN5uuYIJDvkpHqu82fs2CM0xi6ggTLOl67FBg-WOYZb0/s320/rompendo+com+o+passado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A química dos pecados se instala por toda a parte no ser
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1356-rompendo-com-o-passado-rompendo_com_o_passado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="610" data-original-width="624" height="313" src="/images/posts/1356-rompendo-com-o-passado-rompendo_com_o_passado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A química dos pecados se instala por toda a parte no ser
 humano. De fato, ele se aproveita de toda oportunidade e toda forma de contágio
 possível para com o homem. Ele pode entrar em nossas vidas através do que
 ouvimos, através do que vemos, do que sentimos no corpo. E por falar em corpo,

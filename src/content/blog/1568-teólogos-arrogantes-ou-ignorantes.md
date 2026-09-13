@@ -1,10 +1,10 @@
 ---
 title: "Teólogos Arrogantes ou Ignorantes?"
 date: 2019-02-20T16:32:00Z
-heroImage: "/images/teologos_arrogantes.png"
+heroImage: "/images/posts/1568-teólogos-arrogantes-ou-ignorantes-teologos_arrogantes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9B4oIzRMhktH-Vxkuirfjmv9RLbBKR8iY9lb5idtw9MokYrv5rk5dP8yQF9kK1RQZ0EZErngZyzf9uS__wa31lrPKJGYI7EPf2n3M977HAuYu0ODuqYh7mCGtkFw8j0m8gw7uN6lBPM/s1600/teologos_arrogantes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9B4oIzRMhktH-Vxkuirfjmv9RLbBKR8iY9lb5idtw9MokYrv5rk5dP8yQF9kK1RQZ0EZErngZyzf9uS__wa31lrPKJGYI7EPf2n3M977HAuYu0ODuqYh7mCGtkFw8j0m8gw7uN6lBPM/s320/teologos_arrogantes.png" width="320" height="289" data-original-width="421" data-original-height="380" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1568-teólogos-arrogantes-ou-ignorantes-teologos_arrogantes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1568-teólogos-arrogantes-ou-ignorantes-teologos_arrogantes.png" width="320" height="289" data-original-width="421" data-original-height="380" /></a></div>
 <b>T</b> odo o esforço que o homem</br>
 <b>E</b> mpreende para tentar</br>
 <b>O</b> lhar para o divino e compreender o</br>

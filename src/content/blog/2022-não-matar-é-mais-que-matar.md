@@ -1,10 +1,10 @@
 ---
 title: "Não matar é mais que \"matar\""
 date: 2016-11-08T11:35:00.001Z
-heroImage: "/images/juiz.png"
+heroImage: "/images/posts/2022-não-matar-é-mais-que-matar-juiz.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSvvKqSLreGyRmVo3VBsjzJw8mDThqFW4RM6IVr5fGNMR4qfpREy2rOb9kZv5xYlWMRJ9-TwLTCFujECjfqscaF09WJuItu2w-gpDptI5ZAWAU6MtxwkNGClRejo0TMeCUZMe7Soi1NeQ/s1600/juiz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSvvKqSLreGyRmVo3VBsjzJw8mDThqFW4RM6IVr5fGNMR4qfpREy2rOb9kZv5xYlWMRJ9-TwLTCFujECjfqscaF09WJuItu2w-gpDptI5ZAWAU6MtxwkNGClRejo0TMeCUZMe7Soi1NeQ/s320/juiz.png" width="249" height="320" data-original-width="247" data-original-height="318" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2022-não-matar-é-mais-que-matar-juiz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2022-não-matar-é-mais-que-matar-juiz.png" width="249" height="320" data-original-width="247" data-original-height="318" /></a></div>
 A observância aos mandamentos da lei de Deus, que são acatados pelo católico por estarem na nova aliança, no novo testamento, confirmado por aquele que faz novas todas as coisas (Apocalipse 21,5), comumente é reduzido pelos fiéis a uma interpretação um tanto simplista. Para muitos, obedecer ao quinto mandamento: não matar, simplesmente significa não tirar a vida de alguém com intenção de se praticar este ato.</br>
 </br>
 Mas, a exigência que o amor de Deus nos apresenta pede muito mais. O padrão com que seremos julgados é altíssimo. Não nos é possível conceber uma ideia de que Jesus Misericordioso irá passar a mão na cabeça do cristão, como o vovô faz com o netinho, querendo conforta-lo porque o pai ou a mãe o corrigiu por alguma malcriação. Muitos esquecem que o tempo da graça é agora. Agora, como nos disse Jesus, através da mensageira da misericórdia Santa Maria Faustina Kowalska, é o tempo da misericórdia onde as comportas do seu coração derramam abundantes rios de graças aos que o pedem e se deixam conduzir pela sua mão.</br>

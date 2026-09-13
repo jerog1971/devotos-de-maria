@@ -1,10 +1,10 @@
 ---
 title: "Pornografia"
 date: 2016-01-26T19:02:00Z
-heroImage: "/images/pornografia3.png"
+heroImage: "/images/posts/2207-pornografia-pornografia3.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2G7sKDzEFiT3wFtX56KInl-KMceLhdCizkf3MjVYb9eN5uxpaBAWilj9C_bcrUqCqicUKqDuQ_5TttFdF5nJmkviF-2UODPiOpQ8ZmQr36iS5SPZYILl8PbyX7TouV7YAji0unV3aN7Y/s1600/pornografia3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2G7sKDzEFiT3wFtX56KInl-KMceLhdCizkf3MjVYb9eN5uxpaBAWilj9C_bcrUqCqicUKqDuQ_5TttFdF5nJmkviF-2UODPiOpQ8ZmQr36iS5SPZYILl8PbyX7TouV7YAji0unV3aN7Y/s320/pornografia3.png" width="320" height="317" data-original-width="464" data-original-height="459" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2207-pornografia-pornografia3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2207-pornografia-pornografia3.png" width="320" height="317" data-original-width="464" data-original-height="459" /></a></div>
 </br>
 Tomografias computadorizadas atestam: a pornografia e a masturbação alteram o funcionamento do cérebro humano e podem causar dependência. Não é exagero. A pornografia é realmente um novo tipo de droga, tanto quanto a cocaína ou a heroína.</br>
 </br>

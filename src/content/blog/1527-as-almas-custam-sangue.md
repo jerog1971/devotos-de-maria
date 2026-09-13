@@ -1,10 +1,10 @@
 ---
 title: "As almas custam sangue"
 date: 2020-06-25T16:30:00.002Z
-heroImage: "/images/padre.png"
+heroImage: "/images/posts/1527-as-almas-custam-sangue-padre_pio.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb80tp_y65ffc1nsezde_5RnJnj0L1OPT4_OaRrkRaeSX7m3Zyi-5A2BBYkifrd3tkA9uK7icNH4TEzGo__3-XMVb3H957j56yhVlCjavSJz59WgVhloSSWvgQZdc7MUbNCHSfUiNJ_hw/s537/padre+pio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="358" data-original-width="537" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb80tp_y65ffc1nsezde_5RnJnj0L1OPT4_OaRrkRaeSX7m3Zyi-5A2BBYkifrd3tkA9uK7icNH4TEzGo__3-XMVb3H957j56yhVlCjavSJz59WgVhloSSWvgQZdc7MUbNCHSfUiNJ_hw/s320/padre+pio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Assim dizia o padre Pio, grande modelo de sacerdote, um
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1527-as-almas-custam-sangue-padre_pio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="358" data-original-width="537" src="/images/posts/1527-as-almas-custam-sangue-padre_pio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Assim dizia o padre Pio, grande modelo de sacerdote, um
 santo portentoso que pela sua estatura de santidade sempre nos trouxe palavras
 que não carecem de dúvida ou suspeita alguma. Tão radical no segmento de Jesus
 que lhe custou até a perseguição da igreja, pois, ele tão mergulhado no amor de

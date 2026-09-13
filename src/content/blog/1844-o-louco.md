@@ -1,10 +1,10 @@
 ---
 title: "O louco"
 date: 2019-09-06T17:15:00.001Z
-heroImage: "/images/louco.png"
+heroImage: "/images/posts/1844-o-louco-louco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2_mox8QXjJGjKqt0WS0y1fznBFIQPWedkxYsFp3Mw_UH4bALFsoo2h9XRas2RTO8fd3T4ur5_HCTyBHmqFh9gIbD-fqkvh94235qg2MVSrpn7HTbqkpJK9CeOjZDuUgGbIaL2bbbpuU/s1600/louco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2_mox8QXjJGjKqt0WS0y1fznBFIQPWedkxYsFp3Mw_UH4bALFsoo2h9XRas2RTO8fd3T4ur5_HCTyBHmqFh9gIbD-fqkvh94235qg2MVSrpn7HTbqkpJK9CeOjZDuUgGbIaL2bbbpuU/s320/louco.png" width="320" height="317" data-original-width="302" data-original-height="299" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1844-o-louco-louco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1844-o-louco-louco.png" width="320" height="317" data-original-width="302" data-original-height="299" /></a></div>
 Lemos na primeira carta aos Coríntios que “ninguém se engane a si mesmo. Se alguém dentre vós se julga sábio à maneira deste mundo, faça-se louco para tornar-se sábio, porque a sabedoria deste mundo é loucura diante de Deus; pois (diz a Escritura) ele apanhará os sábios na sua própria astúcia (Jó 5,13)” – 1ª Coríntios 3,18-19.</br>
 </br>
 Por isso podemos compreender porque os santos diziam que era preciso internar os pecadores num hospício; é uma loucura a vida oferecida pela sabedoria do mundo, insistente em afastar seu teor da sabedoria divina. São Paulo apontava nessa direção porque a lógica mundana rotula os seguidores de Cristo dessa maneira. Não foram e ainda não são muitos martirizados por amor a Jesus? Imperadores romanos, estado islâmico e outras vertentes?</br>

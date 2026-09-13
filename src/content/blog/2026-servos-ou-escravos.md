@@ -1,10 +1,10 @@
 ---
 title: "Servos ou Escravos"
 date: 2015-09-24T00:40:00Z
-heroImage: "/images/servos_de_cristo.png"
+heroImage: "/images/posts/2026-servos-ou-escravos-servos_de_cristo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJPGM_dqAlkIjW2l9iFiUclLANYB3WqVN3J2YHrNaoKwH97Q7YYRELs4n7SvrTgyL4jGGd528KDj5tUgNa7Rb28mwrqxIJU0JWMAemyhy9jkXh7nZ65vQ5Pi2BVvxldJk5P5Jk6OzQlns/s1600/servos_de_cristo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJPGM_dqAlkIjW2l9iFiUclLANYB3WqVN3J2YHrNaoKwH97Q7YYRELs4n7SvrTgyL4jGGd528KDj5tUgNa7Rb28mwrqxIJU0JWMAemyhy9jkXh7nZ65vQ5Pi2BVvxldJk5P5Jk6OzQlns/s320/servos_de_cristo.png" width="320" height="253" data-original-width="371" data-original-height="293" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2026-servos-ou-escravos-servos_de_cristo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2026-servos-ou-escravos-servos_de_cristo.png" width="320" height="253" data-original-width="371" data-original-height="293" /></a></div>
 </br>
 Do que Jesus é para nós. concluímos que não nos pertencemos, como diz o apóstolo (1 Cor 6,19), e sim a Ele, inteiramente, como seus membros e seus escravos, comprados que fomos por um preço infinitamente caro, o preço de seu sangue. Antes do batismo o demônio nos possuía como escravos, e o batismo nos transformou em escravos de Jesus Cristo e só devemos viver, trabalhar e morrer para produzir frutos para o homem-Deus (Rm 7,4), glorificá-lo em nosso corpo e fazê-lo reinar em nossa alma, pois somos sua conquista, seu povo adquirido, sua herança. Pelo mesmo motivo o Espírito Santo nos compara, conforme Sl 1,3; Jo15,1; 10,11; Mt 13,3,8:</br>
 1º - a árvores plantadas ao longo das águas da graça, nos campos da igreja, árvores que devam dar seus frutos no tempo adequado;</br>

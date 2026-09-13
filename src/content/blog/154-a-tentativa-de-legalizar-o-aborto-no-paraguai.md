@@ -1,10 +1,10 @@
 ---
 title: "A Tentativa de legalizar o aborto no Paraguai"
 date: 2015-05-13T12:48:00.001Z
-heroImage: "/images/aborto_paraguai.png"
+heroImage: "/images/posts/154-a-tentativa-de-legalizar-o-aborto-no-paraguai-aborto_paraguai.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLz7UwQNn5OyfjTv-eomjvawVAHSMKBApCFBP9iw4My4beHpDPrfj96pr4LX9vJ4qBL2hjlzf14Zg8QMv0jdeJ-4jZBCcrJ-WqPLO8kuCegfcg4IUHS_e2CTdT3nw0Q0Qgd-cZ8lQprps/s1600/aborto_paraguai.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLz7UwQNn5OyfjTv-eomjvawVAHSMKBApCFBP9iw4My4beHpDPrfj96pr4LX9vJ4qBL2hjlzf14Zg8QMv0jdeJ-4jZBCcrJ-WqPLO8kuCegfcg4IUHS_e2CTdT3nw0Q0Qgd-cZ8lQprps/s320/aborto_paraguai.png" width="320" height="224" data-original-width="501" data-original-height="350" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/154-a-tentativa-de-legalizar-o-aborto-no-paraguai-aborto_paraguai.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/154-a-tentativa-de-legalizar-o-aborto-no-paraguai-aborto_paraguai.png" width="320" height="224" data-original-width="501" data-original-height="350" /></a></div>
 </br>
 "Menina de 10 anos grávida por estupro no Paraguai": uma manchete assim, sem dúvidas, é de chocar e paralisar qualquer um. Como mãe de uma menina de 12 anos que vive no Paraguai, não posso sequer começar a imaginar o que sentiria em meu coração se algo desse tipo acontecesse a minha filha.</br>
 </br>

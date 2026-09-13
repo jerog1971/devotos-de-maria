@@ -1,10 +1,10 @@
 ---
 title: "Os desigrejados"
 date: 2017-09-28T19:51:00Z
-heroImage: "/images/desigrejados.png"
+heroImage: "/images/posts/1838-os-desigrejados-desigrejados.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdwnc5RF6aaedkxe4bdZWWk57xmW04Hk7bIQxo3AOc8UWUnj8vDGeAMiqf_nDrHC9uusLaGms8Xw8X_6ykr5rAAtbkIROre5w-0mowCEETkhentj6TWTgHnSXe3Vwp2Ndnf7JJqtH9kw4/s1600/desigrejados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdwnc5RF6aaedkxe4bdZWWk57xmW04Hk7bIQxo3AOc8UWUnj8vDGeAMiqf_nDrHC9uusLaGms8Xw8X_6ykr5rAAtbkIROre5w-0mowCEETkhentj6TWTgHnSXe3Vwp2Ndnf7JJqtH9kw4/s320/desigrejados.png" width="320" height="269" data-original-width="555" data-original-height="467" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1838-os-desigrejados-desigrejados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1838-os-desigrejados-desigrejados.png" width="320" height="269" data-original-width="555" data-original-height="467" /></a></div>
 Existe pelo mundo afora, e também por aqui no Brasil, uma denominação de pessoas que se intitulam desigrejados. Essa bandeira eles sustentam com muito orgulho pois afirmam seguir a igreja de Cristo (Mateus 16,18) e não as instituições físicas que se intitulam igrejas. Porém, motivados por alguns argumentos até válidos e sinceros, a atitude da pessoa que abandona a igreja, enquanto instituição, esbarra num problema muito grande: eles amam o Cristo cabeça mas não querem fazer parte do corpo de Cristo. Segundo eles, os desigrejados, não é necessário fazer parte de uma instituição para seguir Jesus. Pelo que vi, no histórico dessas pessoas, existem alguns fatores que corroboram para essa guinada.</br>
 </br>
 Frustrações, decepções, indignações e incapacidade de seguir um magistério estão entre as principais causas. Uma coisa é certa. Eles defendem que a pessoa precisa ler muito a bíblia para compreenderem porque não devem fazer parte de qualquer instituição chamada de igreja. Defendem a tese de que a palavra original “igreja” quer dizer assembleia e em nenhum momento na bíblia se encontra essa denominação relacionando-a com as instituições e seus prédios. Bom pessoal, como católico que sou, agora vou defender a religião que pertenço e a sua igreja, que é a católica. Vamos lá.</br>

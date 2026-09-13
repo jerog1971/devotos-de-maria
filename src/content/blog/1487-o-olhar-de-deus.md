@@ -1,10 +1,10 @@
 ---
 title: "O olhar de Deus"
 date: 2015-09-18T16:31:00.001Z
-heroImage: "/images/olhar_de_deus.png"
+heroImage: "/images/posts/1487-o-olhar-de-deus-olhar_de_deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIRyixXnjVO7gpMbC7j5-crmq13wLRCqAmMIZ6KvHreS___vYkVUrruNnoAP_8F0zZEGqeNRNS4K9AcUU6YtwmI-_FjNpp-mPQsxYmJnqUecUXzQaTcQI_vjQlDsZKy1h5rx9nVPfV3no/s1600/olhar_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIRyixXnjVO7gpMbC7j5-crmq13wLRCqAmMIZ6KvHreS___vYkVUrruNnoAP_8F0zZEGqeNRNS4K9AcUU6YtwmI-_FjNpp-mPQsxYmJnqUecUXzQaTcQI_vjQlDsZKy1h5rx9nVPfV3no/s320/olhar_de_deus.png" width="320" height="292" data-original-width="534" data-original-height="488" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1487-o-olhar-de-deus-olhar_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1487-o-olhar-de-deus-olhar_de_deus.png" width="320" height="292" data-original-width="534" data-original-height="488" /></a></div>
 </br>
 Deus não faz distinção de pessoas (At 10,34)</br>
 </br>
@@ -20,7 +20,7 @@ Pois bem, é preciso portanto e isso também é um mandamento de nosso Senhor Je
 </br>
 Como disse Jesus ninguém pode servir a dois senhores e portanto, mesmo em nosso livre arbítrio é preciso entendermos que somos livres para fazer a Sua vontade e não nos deixarmos escravizar pelo mundo.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihO6Q50z5QZKUjn5-d_iABB7BJ3BeVKJI-q4UKDIhvcZAZHD7AANJBS55EqgDDuDjNaKDOOk0h4hFUctg_v3Mggk05sq1ezH0ZTVyPLhWO8-JMzFMKZ9uQXp-xkgbqgA6q0bpYJUa8E-s/s1600/inclus%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihO6Q50z5QZKUjn5-d_iABB7BJ3BeVKJI-q4UKDIhvcZAZHD7AANJBS55EqgDDuDjNaKDOOk0h4hFUctg_v3Mggk05sq1ezH0ZTVyPLhWO8-JMzFMKZ9uQXp-xkgbqgA6q0bpYJUa8E-s/s200/inclus%25C3%25A3o.png" width="200" height="197" data-original-width="383" data-original-height="378" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1487-o-olhar-de-deus-inclus_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1487-o-olhar-de-deus-inclus_25C3_25A3o.png" width="200" height="197" data-original-width="383" data-original-height="378" /></a></div>
 </br>
 Pois assim como o mundo nos quer escravizar, nossa opção por ele, o mundo, ofende muito a Deus, muitas vezes nos conduz ao pecado, contra Deus e contra o próximo e nos afasta do caminho da retidão. O pecado é "pintado" como "belo" e isso envenena a nossa alma afastando a caridade e o amor ao próximo e recordemos: são ensinamentos de Jesus.</br>
 </br>

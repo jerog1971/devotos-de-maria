@@ -1,10 +1,10 @@
 ---
 title: "Mulher é assassinada porque se negou a ter relações fora do matrimônio"
 date: 2016-02-05T11:31:00Z
-heroImage: "/images/kiran.png"
+heroImage: "/images/posts/1770-mulher-é-assassinada-porque-se-nego-kiran.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkoeLP6MuDIVwOBhuHWpLwoltn6b3moJHO3ffIB8iQqfxKtcSNMkM_duw4cENG1rYS273s7O0sQuTizpZsYNZGaNH4zVfJSbj2eDWxt2crpZIMER3Wy-lpYAy4g-A2IwCky8Ka0VmzVyo/s1600/kiran.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkoeLP6MuDIVwOBhuHWpLwoltn6b3moJHO3ffIB8iQqfxKtcSNMkM_duw4cENG1rYS273s7O0sQuTizpZsYNZGaNH4zVfJSbj2eDWxt2crpZIMER3Wy-lpYAy4g-A2IwCky8Ka0VmzVyo/s320/kiran.png" width="320" height="286" data-original-width="573" data-original-height="513" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1770-mulher-é-assassinada-porque-se-nego-kiran.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1770-mulher-é-assassinada-porque-se-nego-kiran.png" width="320" height="286" data-original-width="573" data-original-height="513" /></a></div>
 </br>
 Uma jovem cristã de 17 anos foi brutalmente assassinada no Paquistão porque se recusou a manter relações sexuais com jovens muçulmanos. O caso aconteceu na noite do dia 13 de janeiro, em um bairro de classe alta da cidade de Lahore, extremo leste do país.</br>
 </br>

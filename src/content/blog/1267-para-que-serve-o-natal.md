@@ -1,10 +1,10 @@
 ---
 title: "Para que serve o Natal"
 date: 2020-12-15T14:58:00Z
-heroImage: "/images/Natal_mundano.png"
+heroImage: "/images/posts/1267-para-que-serve-o-natal-Natal_mundano.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYJ7gz5hOEKcbHwrC_Dcc4rs5WwngZC7u4hVeug6YRo1664_PZxCRwyhrfZfqPvAQQJrwjPYRyYrNEHQi3-GwyQAlvJrqO_qppy9_hLVx2ElWXbsXF7TtaTJPugDgCb0nu3rrMYuaU27k/s247/Natal_mundano.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="247" data-original-width="236" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYJ7gz5hOEKcbHwrC_Dcc4rs5WwngZC7u4hVeug6YRo1664_PZxCRwyhrfZfqPvAQQJrwjPYRyYrNEHQi3-GwyQAlvJrqO_qppy9_hLVx2ElWXbsXF7TtaTJPugDgCb0nu3rrMYuaU27k/s0/Natal_mundano.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nos dias de hoje ou até poderíamos dizer, desde certo tempo
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1267-para-que-serve-o-natal-Natal_mundano.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="247" data-original-width="236" src="/images/posts/1267-para-que-serve-o-natal-Natal_mundano.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nos dias de hoje ou até poderíamos dizer, desde certo tempo
 atrás, o significado e o propósito do Natal recebeu várias inserções quanto a
 sua natureza originária. Ele serve para muita coisa, algumas coisas boas, mas
 infelizmente outras ruins e outras ainda que nem conseguimos definir ao certo. Pois

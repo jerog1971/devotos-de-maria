@@ -1,10 +1,10 @@
 ---
 title: "Indo para o inferno"
 date: 2023-02-18T13:09:00.002Z
-heroImage: "/images/Sofia-primeiro dia de aula-2023.jpg"
+heroImage: "/images/posts/804-indo-para-o-inferno-img-1581206939.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWDQ-tiDi73wVzh4fON4cove1XQN5hUu-kW96mErjBHS7HwSShjvUuA8lau7cld7bW6LzJiBjnN7CVqoynjcZXswU50oj80pHhjl9FgQK58TDeey2AyFBwcpeUtlJHHmvTUkbn8peYV-EawJmMntdll_KRLsVmqawbSsScqdvyTuVKyGkmtGrwhFgO/s932/Sofia-primeiro%20dia%20de%20aula-2023.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="932" data-original-width="720" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWDQ-tiDi73wVzh4fON4cove1XQN5hUu-kW96mErjBHS7HwSShjvUuA8lau7cld7bW6LzJiBjnN7CVqoynjcZXswU50oj80pHhjl9FgQK58TDeey2AyFBwcpeUtlJHHmvTUkbn8peYV-EawJmMntdll_KRLsVmqawbSsScqdvyTuVKyGkmtGrwhFgO/s320/Sofia-primeiro%20dia%20de%20aula-2023.jpg" width="247" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus, sobre as criancinhas, deixou muito claro que os céus
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/804-indo-para-o-inferno-img-1581206939.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="932" data-original-width="720" height="320" src="/images/posts/804-indo-para-o-inferno-img-1955388542.jpg" width="247" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus, sobre as criancinhas, deixou muito claro que os céus
 amam a pureza e sinceridade de um ser humano que podem facilmente ser
 encontradas nelas. Indo mais além, usou-as como referência para ensinar a todos
 que precisamos nos assemelhar a elas se desejamos um dia morar no paraíso por

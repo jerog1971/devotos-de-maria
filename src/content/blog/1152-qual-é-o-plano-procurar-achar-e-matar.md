@@ -1,10 +1,10 @@
 ---
 title: "Qual é o plano? Procurar, Achar e Matar"
 date: 2017-02-24T12:58:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1152-qual-é-o-plano-procurar-achar-e-matar-o_plano.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKvsgCN-XDiGYEIPx-0trLP0qTxvvXtMj-JKQ6mY_FJC9UyE6plVOaK_5m8VV666s46fH9Q6OWk3iNPKJs_XY5nLq7R0vz9MjWeprWLt_orCYEzEJ3aRP5AMRPJmEN5Bw_KD887z4e8E/s1600/o+plano.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKvsgCN-XDiGYEIPx-0trLP0qTxvvXtMj-JKQ6mY_FJC9UyE6plVOaK_5m8VV666s46fH9Q6OWk3iNPKJs_XY5nLq7R0vz9MjWeprWLt_orCYEzEJ3aRP5AMRPJmEN5Bw_KD887z4e8E/s320/o+plano.png" width="320" height="312" data-original-width="234" data-original-height="228" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1152-qual-é-o-plano-procurar-achar-e-matar-o_plano.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1152-qual-é-o-plano-procurar-achar-e-matar-o_plano.png" width="320" height="312" data-original-width="234" data-original-height="228" /></a></div>
 Pois muito bem caros leitores, se o título deste artigo lhe é familiar, informo que sua suspeita está certa. Ele foi retirado de um diálogo entre os atores Jason Statham e Silvester Stallone que contracenaram no filme Os Mercenários – parte 2. Na ocasião após um desfecho imprevisto na conclusão da missão, eis que o vilão do filme termina por tirar a vida de um dos integrantes da equipe de Stallone, que foi interpretado pelo ator que na atualidade vive o personagem Thor nos filmes da Marvel. Revoltados com o acontecido, Jason Statham pergunta qual será o plano e Stallone responde o que fariam em decorrência da atitude do vilão. E o que esse tipo de introdução pode nos oferecer neste artigo caros leitores? Vamos acompanhar.</br>
 </br>
 Deixando de lado o caráter “hollywoodiano” das produções cinematográficas, vamos transportar a pergunta e a resposta para a nossa realidade de católicos batizados e filhos de Deus. Lá, no filme, o inimigo ceifou uma vida e os “mocinhos” em troca decidem puni-lo com a morte. Por aqui, na realidade cristã que vivemos temos que agir da mesma forma mas dentro da nossa condição cristã. Vamos entender.</br>

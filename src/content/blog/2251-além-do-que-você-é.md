@@ -1,10 +1,10 @@
 ---
 title: "Além do que você é"
 date: 2017-08-08T14:54:00Z
-heroImage: "/images/modelos de santidade.png"
+heroImage: "/images/posts/2251-além-do-que-você-é-santidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZmhIwgA0ZH282pWv_gbkei6yh_mG8SRu_qn0n6oRn5nT5M1yJKr3S6cplr8fJwoaa2pApFKAZg3tfku76MFe4_DOz5RG34SsNSx7a8dsT5VOZ0mYdgEpj0JHgb9opCXUFzm61J3VxfLs/s1600/santidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZmhIwgA0ZH282pWv_gbkei6yh_mG8SRu_qn0n6oRn5nT5M1yJKr3S6cplr8fJwoaa2pApFKAZg3tfku76MFe4_DOz5RG34SsNSx7a8dsT5VOZ0mYdgEpj0JHgb9opCXUFzm61J3VxfLs/s320/santidade.png" width="320" height="303" data-original-width="408" data-original-height="386" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2251-além-do-que-você-é-santidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2251-além-do-que-você-é-santidade.png" width="320" height="303" data-original-width="408" data-original-height="386" /></a></div>
 Somos predestinados a morrermos uma única vez e somos predestinados à santidade, assim aprendemos nas sagradas escrituras. Em nossas vidas, divinamente concebidas, nos cabe, portanto, um esforço que deve ser feito apenas nesse sentido. Como é sabido por qualquer um, nossa existência caminha muito longe de uma vida que pode ser vivida como se ela fosse um constante parque de diversões. Na vida de cada um existe todo tipo de acontecimento. Por conta disso, já que as coisas são configuradas a esta maneira e, unido a isto, existe outro ingrediente principal, que é o fato de não sabermos quanto tempo temos de vida, nosso esforço deve ser voltado e focado apenas numa direção.</br>
 </br>
 Se somos um composto de corpo e alma, destinados a morrermos uma única vez, capazes por providência divina a alcançarmos a estatura de Cristo para podermos entrar no céu, e ignorantes quanto a quantidade de tempo que nos resta nessa etapa de nossas vidas, o que é que muitos de nós ficam fazendo perdendo seus tempos fazendo coisas para as quais não foram concebidos e agindo na contramão da própria natureza e fim último?</br>

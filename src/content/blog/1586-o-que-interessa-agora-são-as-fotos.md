@@ -1,10 +1,10 @@
 ---
 title: "O que interessa agora são as fotos"
 date: 2018-08-13T16:21:00Z
-heroImage: "/images/vaidosas.png"
+heroImage: "/images/posts/1586-o-que-interessa-agora-são-as-fotos-vaidosas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_NoTV17IODZ06ZabyHeHKtRMss_7p4XUhw_MUi6hzoatsoLj6ke3XK07V5yVZmYIbdQm4e0do2Tbiggm_FqTuyUjo5YdSotbhKYUTFxgY5j-CPuAUqOr4fL99el5p4QCsKOl8j7xhPo/s1600/vaidosas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_NoTV17IODZ06ZabyHeHKtRMss_7p4XUhw_MUi6hzoatsoLj6ke3XK07V5yVZmYIbdQm4e0do2Tbiggm_FqTuyUjo5YdSotbhKYUTFxgY5j-CPuAUqOr4fL99el5p4QCsKOl8j7xhPo/s320/vaidosas.png" width="320" height="309" data-original-width="279" data-original-height="269" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1586-o-que-interessa-agora-são-as-fotos-vaidosas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1586-o-que-interessa-agora-são-as-fotos-vaidosas.png" width="320" height="309" data-original-width="279" data-original-height="269" /></a></div>
 Pais desinteressados e desobedientes a palavra de Deus que lhes ordena a educarem seus filhos na doutrina, amor e temor do Senhor, são muito provavelmente os grandes responsáveis pela perdição de seus filhos. Não é possível atribuir a perdição de um filho para o mundo das drogas, da prostituição, da vida boêmia, da vida ilícita e de tantas outras formas desregradas que o mundo insiste em dizer que são normais e comuns, para alguma causa que não esteja interligada aos pais.</br>
 </br>
 O filho, desde seu nascimento e podemos dizer até antes disso, já está sendo colocado no centro de um cabo de guerra. De um lado o mundo, com suas ofertas; de outro lado Deus, com suas propostas. O elemento diferenciador que poderia e pode causar um desequilíbrio para o bem da criança, elemento esse chamado de PAIS, simplesmente não tem, a cada ano que passa, tomado as corretas atitudes que um pai, temente a Deus, deve tomar.</br>

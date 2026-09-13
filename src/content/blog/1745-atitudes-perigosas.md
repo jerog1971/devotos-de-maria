@@ -1,10 +1,10 @@
 ---
 title: "Atitudes perigosas"
 date: 2024-04-01T19:42:00.003Z
-heroImage: "/images/idade.png"
+heroImage: "/images/posts/1745-atitudes-perigosas-img-1428607651.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86FSa7SlOuiOQW_eh3h1CEjVSQroKsQhyeJ7HwE1Vb6SuqHIHUNkct6APiNOq35jW-Ei9lcqgfcoaJzaLwXuOQIrIKBLoNdKLmzGosHgMWcRQV_mL6plg61oYiIdsBZ2UdWybe1GZDgKLwcqJ6kVnoPHjhWc5Z598CMwokU_tY0XIe7xs_pBefjFeh3s/s585/outro%20n%C3%ADvel%20de%20periculosidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="550" data-original-width="585" height="301" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86FSa7SlOuiOQW_eh3h1CEjVSQroKsQhyeJ7HwE1Vb6SuqHIHUNkct6APiNOq35jW-Ei9lcqgfcoaJzaLwXuOQIrIKBLoNdKLmzGosHgMWcRQV_mL6plg61oYiIdsBZ2UdWybe1GZDgKLwcqJ6kVnoPHjhWc5Z598CMwokU_tY0XIe7xs_pBefjFeh3s/s320/outro%20n%C3%ADvel%20de%20periculosidade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É bem assim como vemos nos quadrinhos, existem pessoas que
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1745-atitudes-perigosas-img-1428607651.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="550" data-original-width="585" height="301" src="/images/posts/1745-atitudes-perigosas-img-686735362.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É bem assim como vemos nos quadrinhos, existem pessoas que
 nos surpreendem e mal esperávamos um comportamento daquela natureza. Eis o mal
 por cairmos na tentação de julgarmos livros pelas capas, pessoas antes de
 abrirem a boca e situações antes de conhecermos os motivos.<o:p></o:p></p><div class="separator" style="clear: both;">

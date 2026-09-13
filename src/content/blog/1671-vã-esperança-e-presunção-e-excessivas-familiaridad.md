@@ -1,10 +1,10 @@
 ---
 title: "Vã esperança e presunção e excessivas familiaridades"
 date: 2020-06-11T19:19:00.001Z
-heroImage: "/images/amizades.png"
+heroImage: "/images/posts/1671-vã-esperança-e-presunção-e-excessivas-familiaridad-amizades.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYuqLWI6KZjGhWmYvngqGSOJlK1c9VeNtdxldqQjKePNtWNaObnOt7At4QqkeNmSbn0kjtnOFFAjecAPG8gy2vNr786S7W2X_1-dvoEsn2mWlr0cynbWv7p6uh7YCHIoQVGSbgJXig0us/s498/amizades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="498" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYuqLWI6KZjGhWmYvngqGSOJlK1c9VeNtdxldqQjKePNtWNaObnOt7At4QqkeNmSbn0kjtnOFFAjecAPG8gy2vNr786S7W2X_1-dvoEsn2mWlr0cynbWv7p6uh7YCHIoQVGSbgJXig0us/s320/amizades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Insensato é quem põe sua esperança nos homens ou nas
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1671-vã-esperança-e-presunção-e-excessivas-familiaridad-amizades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="498" src="/images/posts/1671-vã-esperança-e-presunção-e-excessivas-familiaridad-amizades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Insensato é quem põe sua esperança nos homens ou nas
 criaturas. Não te envergonhes de servir a outrem por Jesus Cristo, e ser tido
 como pobre neste mundo. Não confies em ti mesmo, mas põe em Deus tua esperança.
 Faze de tua parte o que puderes, e Deus ajudará tua boa vontade. Não confies em

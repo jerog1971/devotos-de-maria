@@ -1,10 +1,10 @@
 ---
 title: "A vida paralela"
 date: 2016-08-22T20:46:00Z
-heroImage: "/images/vida_paralela.png"
+heroImage: "/images/posts/2055-a-vida-paralela-vida_paralela.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO-7Hc6cVr0_GUwO8GlbC-KeBpnY4hq0sV9YheSycaBnGhPbSmHHqNAvhTosih6-COQrpYCbA_70pE5tYKW2PVDqV8rUHXiQcnPVxhrF06CzaPO0AOcoeHPdk8nn9Zz3dizulFKZNDWuk/s1600/vida_paralela.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO-7Hc6cVr0_GUwO8GlbC-KeBpnY4hq0sV9YheSycaBnGhPbSmHHqNAvhTosih6-COQrpYCbA_70pE5tYKW2PVDqV8rUHXiQcnPVxhrF06CzaPO0AOcoeHPdk8nn9Zz3dizulFKZNDWuk/s320/vida_paralela.png" width="320" height="281" data-original-width="379" data-original-height="333" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2055-a-vida-paralela-vida_paralela.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2055-a-vida-paralela-vida_paralela.png" width="320" height="281" data-original-width="379" data-original-height="333" /></a></div>
 Na época em que estamos passando pelo período escolar de nossas vidas, aprendemos na disciplina de matemática que retas paralelas são dois segmentos que tendem a se encontrar no infinito apenas. Trazendo a definição acadêmica para nossa realidade espiritual que vivemos neste mundo, não poderia existir analogia melhor para podermos ilustrar um pouco esta reflexão sobre a condição de se ter uma vida paralela.</br>
 </br>
 Antes, porém, também podemos enriquecer o conteúdo lembrando que a expressão também tem sido usada para descrever algo que se faz ao mesmo tempo. Vejamos alguns exemplos:</br>

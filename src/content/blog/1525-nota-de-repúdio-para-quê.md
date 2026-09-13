@@ -1,10 +1,10 @@
 ---
 title: "Nota de repúdio para quê?"
 date: 2017-10-30T19:11:00Z
-heroImage: "/images/repudio.png"
+heroImage: "/images/posts/1525-nota-de-repúdio-para-quê-repudio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2BPRtXOjMd6buTNmKe69PBDQqSTeyf4BVY8N1vIFDw-sYofSOiuTTLVxA7gJp7zaoc18NKSRUZz6HI8yTqW4yOoz03tuZDR0UMBVMMGo73WsnSuWNHG4W6fHwZRlz-m_Y3lOqTAXTsiA/s1600/repudio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2BPRtXOjMd6buTNmKe69PBDQqSTeyf4BVY8N1vIFDw-sYofSOiuTTLVxA7gJp7zaoc18NKSRUZz6HI8yTqW4yOoz03tuZDR0UMBVMMGo73WsnSuWNHG4W6fHwZRlz-m_Y3lOqTAXTsiA/s320/repudio.png" width="320" height="266" data-original-width="482" data-original-height="401" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1525-nota-de-repúdio-para-quê-repudio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1525-nota-de-repúdio-para-quê-repudio.png" width="320" height="266" data-original-width="482" data-original-height="401" /></a></div>
 Não é de hoje que a natureza das coisas nesta etapa de nossas vidas se movimenta favorecendo os maus. Vamos deixar claras as coisas, para que não exista a tentação de acharmos que o autor anda perdendo a fé no Deus do impossível. Existe o bem no mundo e ele ainda pode ser encontrado, porém, aos olhos de qualquer pessoa, é comprovado que o mal caminha ao som de sua bela fanfarra instrumentando suas diversas melodias para todos os cantos do planeta.</br>
 </br>
 Caro leitor, qualquer um vê quanto do mal vive a nossa volta. Se ligarmos os noticiários policiais, todos os dias somos atualizados com manchetes sempre inéditas que giram em torno de todo o tipo de brutalidade contra a vida humana. O mau se apresenta todos os dias com a vestimenta do assassinato, das drogas, do aborto, do sexo desregrado e fora do contexto divino, da ideologia de gênero, guerras civis, políticas e religiosas e tudo isso incentivado e promovido pelas quatro frentes de opressão: a indústria farmacêutica, a educação, o lobby político e as mídias sociais; e a lista das barbaridades anticristãs ainda prossegue. Muitos afirmam que a riqueza monetária do mundo está na mão de poucos por cento da população mundial e acho que é muito difícil alguém descordar dessa afirmação.</br>

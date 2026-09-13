@@ -1,10 +1,10 @@
 ---
 title: "A doutrina do medo"
 date: 2020-05-12T14:04:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1365-a-doutrina-do-medo-AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="299" data-original-width="278" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O medo é algo conhecido por todos, para certos tipos desse
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1365-a-doutrina-do-medo-AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="299" data-original-width="278" src="/images/posts/1365-a-doutrina-do-medo-AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O medo é algo conhecido por todos, para certos tipos desse
 sentimento podemos dizer até que de maneira “saudável” ele é benéfico, pois
 instiga as pessoas a serem prudentes. Se você não sabe nadar, certamente o medo
 de morrer afogado o impedirá de se atirar numa lagoa profunda para tentar

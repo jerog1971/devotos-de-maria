@@ -1,10 +1,10 @@
 ---
 title: "Isso na bíblia eu não aceito"
 date: 2016-10-27T14:42:00Z
-heroImage: "/images/aceitar.png"
+heroImage: "/images/posts/1496-isso-na-bíblia-eu-não-aceito-aceitar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWybal4GMvX7LYKuHUIaUOKqA4WbRNvZDnnhr2k3Lh4byrubzkltrkYPQQAJiiTUVn4ymx-P6e0lQGqY9naRYFoILS8MW5jF-tBCKh4ZCbonlY1v4JQ_DwiZZdFGlAZi4wm-Jop0N4cQQ/s1600/aceitar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWybal4GMvX7LYKuHUIaUOKqA4WbRNvZDnnhr2k3Lh4byrubzkltrkYPQQAJiiTUVn4ymx-P6e0lQGqY9naRYFoILS8MW5jF-tBCKh4ZCbonlY1v4JQ_DwiZZdFGlAZi4wm-Jop0N4cQQ/s320/aceitar.png" width="320" height="218" data-original-width="588" data-original-height="401" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1496-isso-na-bíblia-eu-não-aceito-aceitar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1496-isso-na-bíblia-eu-não-aceito-aceitar.png" width="320" height="218" data-original-width="588" data-original-height="401" /></a></div>
 São Tomás de Aquino nos recorda em seus ensinamentos que a primeira reação do pecador frente ao seu pecado é o ódio. Jesus no episódio da pecadora pega em adultério advertiu que quem não tiver pecado que atire a primeira pedra (João 8,7). É o famoso ditado popular que diz que quem tem telhado de vidro não atire pedra no telhado do outro. No entanto neste ensinamento de Jesus podemos ainda refletir que, caso existisse alguém sem pecado no meio da multidão e tivesse atirado a primeira pedra, os demais prosseguiriam atirando pedras? Mesmo tendo pecados? Podemos tirar alguns ensinamentos nisso tudo.</br>
 </br>
 Depois que alguém tivesse atirado a primeira pedra, então os demais estariam liberados para atirarem as suas pedras. Ou então se a primeira pedra fosse atirada, os demais iriam olhar para Jesus para aguardar uma atitude de Cristo. De qualquer forma o episódio encontra uma perfeição na atitude do Messias. Se tenho pecado não posso atirar a primeira pedra. Mesmo que alguém atire uma pedra, a primeira pedra, continuo não podendo atirar a minha pedra, porque tenho pecados que me impediram de atira-la por primeiro. O fato de alguém ter atirado a sua não me libera para atirar a minha. Ainda continuo com meus pecados.</br>

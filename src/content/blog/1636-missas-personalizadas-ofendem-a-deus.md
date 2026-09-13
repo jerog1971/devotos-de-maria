@@ -1,10 +1,10 @@
 ---
 title: "Missas Personalizadas ofendem a Deus"
 date: 2016-06-27T11:43:00Z
-heroImage: "/images/helio.png"
+heroImage: "/images/posts/1636-missas-personalizadas-ofendem-a-deus-helio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBm2XCy5KZ1ofzC4JAXCGh5qmVsQddqNV2BhhITyQuMmhN75EqrbS9vg0U2nBpjdeNOiK4L6TO2nY-d42c9yohnDXv9v7Mi5EBlQGtNdN_h9u1HLgnCBCokQ5NSet0cMH34-006KcTOj0/s1600/helio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBm2XCy5KZ1ofzC4JAXCGh5qmVsQddqNV2BhhITyQuMmhN75EqrbS9vg0U2nBpjdeNOiK4L6TO2nY-d42c9yohnDXv9v7Mi5EBlQGtNdN_h9u1HLgnCBCokQ5NSet0cMH34-006KcTOj0/s320/helio.png" width="320" height="298" data-original-width="426" data-original-height="397" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1636-missas-personalizadas-ofendem-a-deus-helio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1636-missas-personalizadas-ofendem-a-deus-helio.png" width="320" height="298" data-original-width="426" data-original-height="397" /></a></div>
 <b>Ezequiel 22,26</b> = Seus sacerdotes violam a minha lei, profanam o meu santuário, tratam indiferentemente o sagrado e o profano e não ensinam a distinguir o que é puro do que é impuro.</br>
 <b>Lucas 16,15</b> = Ele lhes disse: Vós pretendeis passar por justos perante os homens, mas Deus conhece-vos os corações: porque o que para os homens é estimável, é abominável perante Deus.</br>
 Pois bem caros leitores, estamos mais uma vez aqui para falar dos “tiranetes” que insistem em se denominar sacerdotes de Cristo, mas que, no entanto, só para citar algumas passagens bíblicas não prestam um culto agradável a Deus, ferem a sacralidade e a liturgia das celebrações que garantem o culto e mais, encerro o parágrafo com uma frase de Nossa Senhora onde ela diz: “Cada sacerdote é responsabilizado perante Meu Filho”!</br>

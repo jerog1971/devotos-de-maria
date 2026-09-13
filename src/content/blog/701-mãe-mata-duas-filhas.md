@@ -1,10 +1,10 @@
 ---
 title: "Mãe mata duas filhas"
 date: 2016-05-18T12:09:00Z
-heroImage: "/images/jasmine.png"
+heroImage: "/images/posts/701-mãe-mata-duas-filhas-jasmine.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYiB_hLJLKzQlRqTkLv0FFsPfWXCUwLq7Btn2vku97lbmujXlNDGZRyHTvwOotcxQfWxTLZ8X-w2cXBeEXwpTrY6y0MkWliXkx0c_RKzUSwdOZEbscFBnJDcTbD2bgrpjqqLIOecX8kWI/s1600/jasmine.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYiB_hLJLKzQlRqTkLv0FFsPfWXCUwLq7Btn2vku97lbmujXlNDGZRyHTvwOotcxQfWxTLZ8X-w2cXBeEXwpTrY6y0MkWliXkx0c_RKzUSwdOZEbscFBnJDcTbD2bgrpjqqLIOecX8kWI/s320/jasmine.png" width="320" height="316" data-original-width="438" data-original-height="432" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/701-mãe-mata-duas-filhas-jasmine.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/701-mãe-mata-duas-filhas-jasmine.png" width="320" height="316" data-original-width="438" data-original-height="432" /></a></div>
 Olá caros leitores, abaixo transcrevo uma notícia de assassinato, mais um assassinato cometido entre familiares para mostrar que, quando não se tem um olhar sobrenatural sobre os acontecimentos da vida, o mal, que nunca descansa, trata de prontamente fazer a sua parte e semear a desgraça na vida de corações afastados de Deus:</br>
 </br>
 Uma situação abominável ocorreu no centro de Bradford, Inglaterra. Samira Lupidi, de 24 anos, matou as duas filhas, Jasmine Weaver, de 17 meses, e Evelyn Lupidi, de três anos, com nove facadas no peito de cada uma enquanto as meninas dormiam. O inacreditável acontecimento deixou o avô das duas transtornado, que precisou de um tempo para encontrar frases. E descrever o sentimento de tristeza que o abateu, ao perceber o quão longe pode chegar a crueldade e a loucura humanas. Para ele o único jeito é carregá-las dentro de seu coração e em suas lembranças. Ele sabe, porém, que também não se livrará da sensação de desespero pelo trágico fim de vidas que mal haviam começado a realizar descobertas e já se depararam com a perversidade justamente de quem as colocou no mundo.</br>

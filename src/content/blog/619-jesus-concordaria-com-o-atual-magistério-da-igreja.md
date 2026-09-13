@@ -1,10 +1,10 @@
 ---
 title: "Jesus concordaria com o atual magistério da igreja?"
 date: 2020-04-01T20:17:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/619-jesus-concordaria-com-o-atual-magist-img-324003433.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnWg336-3KSbqoc7NpstLFyL52QlPuIuXfvfg9RmpOXiA8Pc4EWstWngIaVmyn8QOZkP-ll1KDQ4eclJysM0JT3ifS8Q_krcrKI0pR2cYuRrgUhPuD9XfEUyk6qQp826kFklCsTmeKkA/s1600/sucess%25C3%25A3o_apost%25C3%25B3lica.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="284" data-original-width="328" height="277" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnWg336-3KSbqoc7NpstLFyL52QlPuIuXfvfg9RmpOXiA8Pc4EWstWngIaVmyn8QOZkP-ll1KDQ4eclJysM0JT3ifS8Q_krcrKI0pR2cYuRrgUhPuD9XfEUyk6qQp826kFklCsTmeKkA/s320/sucess%25C3%25A3o_apost%25C3%25B3lica.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/619-jesus-concordaria-com-o-atual-magist-img-324003433.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="284" data-original-width="328" height="277" src="/images/posts/619-jesus-concordaria-com-o-atual-magist-img-1359992571.png" width="320" /></a></div>
 Todo bom católico que conhece um pouco sobre sua religião (vejam bem – um pouco) irá perceber claramente que a resposta para a pergunta do artigo certamente é não. O motivo é muito simples e pode, infelizmente, ser atestado por pessoas não religiosas bastando simples comprovação histórica e lógica.
 
 Vamos a alguns fatos. Nos dias de hoje o que a igreja ensina é muito diferente do que ensinava em seus primórdios. A igreja está corrompida, maus padres, escândalos sexuais, heresias. Paulo VI já tinha alertado sobre a fumaça de Satanás que havia infestado a igreja; não poderia estar mais certo. Em alguns pontos ela quer seguir a tradição (porque lhe convém), em outros quer ser moderna e viver sob seu magistério atualizado.

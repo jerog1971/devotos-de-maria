@@ -1,10 +1,10 @@
 ---
 title: "Cheguei na véspera"
 date: 2023-11-18T20:01:00.001Z
-heroImage: "/images/cheguei na véspera.png"
+heroImage: "/images/posts/392-cheguei-na-véspera-cheguei_20na_20v_C3_A9spera.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcMGpJ4ZoM51TcZBFViAXkz_OrveEYgCeo5o3ML-gR_sDEt_GJ1Pnw-mZC8lUh71lUcv4YePjWO5oaHSTo0vuPyW77aZyI1mMVC0Ro_wjmz_c0-a_DKF-DHy0r-S1jpHTKD17ynyVblOsKE59OYIFS09H7gedRP3D6QphhQvmVKz9-w7ReE4_gI6pSAL8/s386/cheguei%20na%20v%C3%A9spera.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="386" height="287" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcMGpJ4ZoM51TcZBFViAXkz_OrveEYgCeo5o3ML-gR_sDEt_GJ1Pnw-mZC8lUh71lUcv4YePjWO5oaHSTo0vuPyW77aZyI1mMVC0Ro_wjmz_c0-a_DKF-DHy0r-S1jpHTKD17ynyVblOsKE59OYIFS09H7gedRP3D6QphhQvmVKz9-w7ReE4_gI6pSAL8/s320/cheguei%20na%20v%C3%A9spera.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na história da humanidade vemos vários episódios onde a véspera
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/392-cheguei-na-véspera-cheguei_20na_20v_C3_A9spera.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="386" height="287" src="/images/posts/392-cheguei-na-véspera-cheguei_20na_20v_C3_A9spera.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na história da humanidade vemos vários episódios onde a véspera
 de um acontecimento recebe grande importância; é um momento de reflexão e preparação.
 Nas práticas religiosas isso acontece muito. Por exemplo, o tríduo pascal ou as
 novenas. Sem dúvida a expectativa sempre aumenta. Vejamos também outro exemplo:

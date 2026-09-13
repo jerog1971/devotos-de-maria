@@ -1,10 +1,10 @@
 ---
 title: "Mais dia, menos dia"
 date: 2021-09-01T20:14:00Z
-heroImage: "/images/nos.JPG"
+heroImage: "/images/posts/1385-mais-dia-menos-dia-mais_dia_menos_dia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg815ildRAbP7Ni7VWNJsCx62xq_iBkhdoCDxKqAPz0k2Id6Nft0C_i8gfbRPXkAuZ7aW1GUur5TOTbBNKrCISBFp4IC_PKTHyo-vUAAZemueOx9au1km846V5CAjAXqABIe91yT7SXjBw/s496/mais+dia+menos+dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="492" data-original-width="496" height="317" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg815ildRAbP7Ni7VWNJsCx62xq_iBkhdoCDxKqAPz0k2Id6Nft0C_i8gfbRPXkAuZ7aW1GUur5TOTbBNKrCISBFp4IC_PKTHyo-vUAAZemueOx9au1km846V5CAjAXqABIe91yT7SXjBw/s320/mais+dia+menos+dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E então, a vida é uma sucessão de horas em meio a um caminhar
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1385-mais-dia-menos-dia-mais_dia_menos_dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="492" data-original-width="496" height="317" src="/images/posts/1385-mais-dia-menos-dia-mais_dia_menos_dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E então, a vida é uma sucessão de horas em meio a um caminhar
 sem sentido? Trabalhamos, comemos, dormimos, pagamos as contas, sofremos, nos
 preocupamos e, pincelado no meio disso tudo, estão timidamente colocadas as alegrias.
 Puxa vida! Nossa vida, que é eterna, exige de cada um nesta primeira etapa, um

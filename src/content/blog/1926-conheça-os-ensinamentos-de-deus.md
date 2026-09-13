@@ -1,10 +1,10 @@
 ---
 title: "Conheça os ensinamentos de Deus"
 date: 2016-04-26T19:35:00Z
-heroImage: "/images/rainha.png"
+heroImage: "/images/posts/1926-conheça-os-ensinamentos-de-deus-rainha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRI7YApXXLTlPZa7eBaCqFOsOZ1QMBZGL1iU1KMfX3LdrHp6N2ROhE9flKKEDNgtIagJEnhp6dNCb6yKetqrjtfA6M_vErv9EfyZ9agMCTj-dyf6Dz7pMPWVZMsZd5Ay0ftJvpoVvHgbw/s1600/rainha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRI7YApXXLTlPZa7eBaCqFOsOZ1QMBZGL1iU1KMfX3LdrHp6N2ROhE9flKKEDNgtIagJEnhp6dNCb6yKetqrjtfA6M_vErv9EfyZ9agMCTj-dyf6Dz7pMPWVZMsZd5Ay0ftJvpoVvHgbw/s320/rainha.png" width="320" height="263" data-original-width="594" data-original-height="489" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1926-conheça-os-ensinamentos-de-deus-rainha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1926-conheça-os-ensinamentos-de-deus-rainha.png" width="320" height="263" data-original-width="594" data-original-height="489" /></a></div>
 Como é importante sempre ao tirarmos um tempo de nosso dia para entrarmos em contato com a palavra de Deus, antes de mais nada invocar a assistência do Espírito Santo, autor das escrituras, que inspirou os homens santos de Deus (2Pe 1,20). Assim procedendo iremos sempre aprender aquilo que realmente precisamos para nosso crescimento diário rumo a nossa pátria eterna. Precisamos então, com o coração aberto, estarmos atentos ao que o mestre nos ensina. Vamos ver um de seus ensinamentos?</br>
 </br>
 Num contexto histórico do antigo testamento conta-se que havia uma rainha cuja virtude de destaque era a virtude da admiração. Além das suas muitas riquezas esta virtude era o que mais lhe sobressaía. Sendo assim, deslumbrada pela sabedoria, grandiosidade e beleza das obras do Rei Salomão, filho de Davi, que ao seu conhecimento chegaram, quis a rainha conhece-lo. Então, com sua numerosa comitiva empreendeu grande caminhada trazendo grande quantidade de ouro e pedras preciosas.</br>

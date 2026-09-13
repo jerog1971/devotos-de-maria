@@ -1,10 +1,10 @@
 ---
 title: "Nossos tempos são os últimos?"
 date: 2020-03-25T20:29:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/314-nossos-tempos-são-os-últimos-Irm_25C3_25A3_Lucia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMtiINRuN7fQgKj5YVG7iIqiFBgS5ELb8RMG4vJMYKNjhfJIPh2y5Lcnvwr5E9Hk3XhHakoSZxUaw9JrUeYKEVP95kRf5dnq6LKlFW5JYOrB4E1RkmgkqFxC_9Dxleh_xDVvicCZTn9cc/s1600/Irm%25C3%25A3_Lucia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMtiINRuN7fQgKj5YVG7iIqiFBgS5ELb8RMG4vJMYKNjhfJIPh2y5Lcnvwr5E9Hk3XhHakoSZxUaw9JrUeYKEVP95kRf5dnq6LKlFW5JYOrB4E1RkmgkqFxC_9Dxleh_xDVvicCZTn9cc/s320/Irm%25C3%25A3_Lucia.png" width="320" height="235" data-original-width="386" data-original-height="283" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/314-nossos-tempos-são-os-últimos-Irm_25C3_25A3_Lucia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/314-nossos-tempos-são-os-últimos-Irm_25C3_25A3_Lucia.png" width="320" height="235" data-original-width="386" data-original-height="283" /></a></div>
 Carta aos Hebreus cap. 1 e 2 – “Muitas vezes e de diversos modos outrora falou Deus aos nossos pais pelos profetas. Nesses tempos, que são os últimos, nos falou por seu Filho, que constituiu herdeiro universal, pelo qual criou todas as coisas. Por isso, é necessário prestarmos a maior atenção à mensagem que temos recebido, para não acontecer que nos desviemos do caminho reto.”</br>
 </br>
 E para acrescentar, ilustramos com trechos da conversa entre a Irmã Lucia de Fátima e o Padre Agustín, ocorrida em dezembro de 1957, entrevista que recebeu aprovação episcopal incluindo o bispo de Fátima:</br>

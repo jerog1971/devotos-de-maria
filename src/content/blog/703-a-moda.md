@@ -1,10 +1,10 @@
 ---
 title: "A moda"
 date: 2019-12-11T18:47:00.002Z
-heroImage: "/images/a_moda.png"
+heroImage: "/images/posts/703-a-moda-a_moda.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbB_W7qVFwDMOw3I2h0DVMRB1ItMJVv9bEAkSVIQKaL90jTb_2rEqEdyrdaWnxkTr0PVQFPpevV_4Ov5va6ZqWdKeuY1gG_0yVyWirGKVvOJWsOLC6j4za_8lm6Vqshghxj42RFoYH5e4/s1600/a_moda.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="367" data-original-width="274" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbB_W7qVFwDMOw3I2h0DVMRB1ItMJVv9bEAkSVIQKaL90jTb_2rEqEdyrdaWnxkTr0PVQFPpevV_4Ov5va6ZqWdKeuY1gG_0yVyWirGKVvOJWsOLC6j4za_8lm6Vqshghxj42RFoYH5e4/s320/a_moda.png" width="239" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/703-a-moda-a_moda.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="367" data-original-width="274" height="320" src="/images/posts/703-a-moda-a_moda.png" width="239" /></a></div>
 Romanos 6,12-13 – “Não reine, pois, o pecado em vosso corpo mortal, de modo que obedeçais aos seus apetites. Nem ofereçais os vossos membros ao pecado, como instrumentos do mal. Oferecei-vos a Deus, como vivos, salvos da morte, para que os vossos membros sejam instrumentos do bem ao seu serviço.” Levítico 19,28 – “Não fareis incisões na vossa carne por um morto, nem fareis figura alguma no vosso corpo. Eu sou o Senhor.”
 
 Eclesiástico 23,23-27 – “O homem que abusa de seu próprio corpo, não terá sossego enquanto não acender uma fogueira. Para o fornicador todo o alimento é doce; não se cansará de pecar até à morte. O homem que profana seu leito prejudica-se a si mesmo, e diz: Quem me vê? As trevas me rodeiam, as paredes me escondem; ninguém me olha; a quem temerei? O Altíssimo não se recordará de meus pecados. E ele não compreende que o olhar de Deus tudo vê.”

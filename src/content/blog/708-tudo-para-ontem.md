@@ -1,10 +1,10 @@
 ---
 title: "Tudo para ontem"
 date: 2025-06-13T21:14:00.001Z
-heroImage: "/images/vicio.png"
+heroImage: "/images/posts/708-tudo-para-ontem-vicio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdpIYJJ3-us9dhFLR6O3Jx9ngRrifh7V3zoFqd1s36pZtn2cBN2kxkqfV0220-OBXsc4qnzA4j5gYdvH8LAc9yDMs8KWc1B0lwP3mFmwHDNOc-pv8jdpzCl93frS47BtaLZrjJkPdZArpEV8A9wecW4OGnYqAZsQ4GTEFCqLgUX8N8Kb_qbuL4aVxfZs0/s221/vicio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="221" data-original-width="221" height="221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdpIYJJ3-us9dhFLR6O3Jx9ngRrifh7V3zoFqd1s36pZtn2cBN2kxkqfV0220-OBXsc4qnzA4j5gYdvH8LAc9yDMs8KWc1B0lwP3mFmwHDNOc-pv8jdpzCl93frS47BtaLZrjJkPdZArpEV8A9wecW4OGnYqAZsQ4GTEFCqLgUX8N8Kb_qbuL4aVxfZs0/s1600/vicio.png" width="221" /></a></div><br />&nbsp;<p style="line-height: 100%; margin-bottom: 0cm;">
+<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/708-tudo-para-ontem-vicio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="221" data-original-width="221" height="221" src="/images/posts/708-tudo-para-ontem-vicio.png" width="221" /></a></div><br />&nbsp;<p style="line-height: 100%; margin-bottom: 0cm;">
 Podem observar, a humanidade tem sido treinada para o imediatismo, o
 consumismo e a busca pelo ter e pelo prazer. Ainda é possível ouvir
 pessoas dizerem que fazem isso ou aquilo em seu tempo livre, mas isso

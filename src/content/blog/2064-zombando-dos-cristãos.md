@@ -1,10 +1,10 @@
 ---
 title: "Zombando dos Cristãos?"
 date: 2024-07-29T17:28:00.007Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/2064-zombando-dos-cristãos-Festa_20dos_20deuses.png"
 ---
 
-<p></p><br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGttki3PqWFsjIyI4iuwk2qJwamcbX_khua0mQQO6rs4OVJ6UILvQQcVeHxWFnAHZJV8pmiMzFD_q2gfXQBui05eVsQAlaweXYtBCq-7TnlbLXrwWkIAxpvRizDDOlZCTmAGrAJ99F_ZQ_1ltRtO3kUMIDHqGJPZ8kD7TH3n8Ojj1fdDoHWS5bfd0QEkA/s641/Festa%20dos%20deuses.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="494" data-original-width="641" height="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGttki3PqWFsjIyI4iuwk2qJwamcbX_khua0mQQO6rs4OVJ6UILvQQcVeHxWFnAHZJV8pmiMzFD_q2gfXQBui05eVsQAlaweXYtBCq-7TnlbLXrwWkIAxpvRizDDOlZCTmAGrAJ99F_ZQ_1ltRtO3kUMIDHqGJPZ8kD7TH3n8Ojj1fdDoHWS5bfd0QEkA/s320/Festa%20dos%20deuses.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Sobre os desdobramentos que incomodaram cristãos ao redor do
+<p></p><br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2064-zombando-dos-cristãos-Festa_20dos_20deuses.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="494" data-original-width="641" height="247" src="/images/posts/2064-zombando-dos-cristãos-Festa_20dos_20deuses.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Sobre os desdobramentos que incomodaram cristãos ao redor do
 mundo, logo após a abertura dos jogos olímpicos deste anos, a pressão das
 comunidades e entidades religiosas sobre o comitê olímpico sobre a referência
 do quadro da santa ceia de Leonardo da Vinci, famosa pintura retrata este
@@ -61,7 +61,7 @@ declarações foram apoiadas por internautas que viram na sua encenação elemen
 do quadro a "Festa dos Deuses". A pintura feita em óleo mostra o
 Olimpo, onde os deuses estão reunidos em um banquete que celebra o casamento de
 Tétis e Peleu, destacando Apolo coroado ao centro. Além disso, faz referência a
-Dionísio (ou Baco), o deus do vinho e das festividades.<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsS25dVv40Ll73ROMwKBcpcoajutpLRqLPPunR3vHSQZcROVQ6UDLxFYZLjjgfkE7acB5hjx2e96rZwp2FkhZk9GGP99YKkfYV-vOSNyXRc_5SJCCW8JX-EMC1cTBPvg9Q7a-9jWJ7PpcMJSXuUiYXK3lviEpOKtjGu9wzrUAB6josP09wPKhJQcl3cbY/s599/Zombando%20dos%20Crist%C3%A3os.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="301" data-original-width="599" height="161" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsS25dVv40Ll73ROMwKBcpcoajutpLRqLPPunR3vHSQZcROVQ6UDLxFYZLjjgfkE7acB5hjx2e96rZwp2FkhZk9GGP99YKkfYV-vOSNyXRc_5SJCCW8JX-EMC1cTBPvg9Q7a-9jWJ7PpcMJSXuUiYXK3lviEpOKtjGu9wzrUAB6josP09wPKhJQcl3cbY/s320/Zombando%20dos%20Crist%C3%A3os.png" width="320" /></a>&nbsp;(imagem da relação que os cristãos fizeram)</div><br /><p class="MsoNormal">A obra foi concluída em 1514 pelo renascentista italiano
+Dionísio (ou Baco), o deus do vinho e das festividades.<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2064-zombando-dos-cristãos-Zombando_20dos_20Crist_C3_A3os.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="301" data-original-width="599" height="161" src="/images/posts/2064-zombando-dos-cristãos-Zombando_20dos_20Crist_C3_A3os.png" width="320" /></a>&nbsp;(imagem da relação que os cristãos fizeram)</div><br /><p class="MsoNormal">A obra foi concluída em 1514 pelo renascentista italiano
 Giovanni Bellini, e é uma das poucas imagens do artista veneziano. O episódio
 gerou debate sobre os limites da criatividade artística e o respeito às crenças
 religiosas. Apesar de o cerimonialista negar ter havido uma paródia, os

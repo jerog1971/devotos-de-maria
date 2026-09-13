@@ -1,10 +1,10 @@
 ---
 title: "Marcando pessoas"
 date: 2019-12-12T19:59:00.003Z
-heroImage: "/images/marcando_gado.png"
+heroImage: "/images/posts/111-marcando-pessoas-marcando_gado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzkJzm7GP-FKOvgyt7pRMBGs-CqMsh-7yHklZ_-jGN_IMuRLj7UU_Rm1q6bbyXt0IJ1Eg8hPoZIfy2m2AEHZb2YZXcRRzdDyF4l3ZqamREz3AjQS2qPGfc-hIp7wKjRyxBHJuXYnPdlM/s1600/marcando_gado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzkJzm7GP-FKOvgyt7pRMBGs-CqMsh-7yHklZ_-jGN_IMuRLj7UU_Rm1q6bbyXt0IJ1Eg8hPoZIfy2m2AEHZb2YZXcRRzdDyF4l3ZqamREz3AjQS2qPGfc-hIp7wKjRyxBHJuXYnPdlM/s320/marcando_gado.png" width="216" height="320" data-original-width="315" data-original-height="466" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/111-marcando-pessoas-marcando_gado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/111-marcando-pessoas-marcando_gado.png" width="216" height="320" data-original-width="315" data-original-height="466" /></a></div>
 Não faça marcas em seu corpo, lemos no livro do Levítico; porque devemos glorificar a Deus com nosso corpo, um corpo que não nos pertence, pois foi comprado por alto preço, lemos na primeira carta aos Coríntios. Pois bem, não podemos trata-lo como bem quisermos, o que devemos é cuidar dele e entrega-lo em estado original no dia do juízo final. Quantas pessoas não estão fazendo caso algum dessa situação em que se encontram. O corpo para elas é propriedade, acham-se donas do próprio umbigo; enganam-se redondamente e tristemente irão comprovar no dia do julgamento que a teimosia do agora só adiava a verdade.<br>
 </br>
 As pessoas dizem que não querem seguir as normas da igreja. Atacam-na; esquecem que a igreja é de Jesus Cristo (Mateus 16,18). A igreja que é santa é formada por pecadores, não justifica, portanto, adotar uma conduta diferente do evangelho, pois ele vem de Deus, é o verbo encarnado no meio do seu povo que está ensinando e que depois deixou encarregado o Espírito Santo para nos recordar o que disse e ensinar todo o restante.</br>

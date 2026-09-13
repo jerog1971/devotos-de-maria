@@ -1,10 +1,10 @@
 ---
 title: "O comprometimento do católico com a salvação"
 date: 2016-08-19T20:12:00Z
-heroImage: "/images/comprometimento.png"
+heroImage: "/images/posts/780-o-comprometimento-do-católico-com-a--comprometimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiirmxD6NGhhnpRqUpw4Po8vXhsoXcGdyUKXkXHKIOUwd7orrJ4bJsCrbaO-fI9qmF3z8orxzLXb5Z1gLb3lbM5Fh1y75m0pK2THW6PaHX-AhevXh682aHgdPt64MHHy0Yl6nNb9Xylt1U/s1600/comprometimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiirmxD6NGhhnpRqUpw4Po8vXhsoXcGdyUKXkXHKIOUwd7orrJ4bJsCrbaO-fI9qmF3z8orxzLXb5Z1gLb3lbM5Fh1y75m0pK2THW6PaHX-AhevXh682aHgdPt64MHHy0Yl6nNb9Xylt1U/s320/comprometimento.png" width="320" height="304" data-original-width="345" data-original-height="328" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/780-o-comprometimento-do-católico-com-a--comprometimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/780-o-comprometimento-do-católico-com-a--comprometimento.png" width="320" height="304" data-original-width="345" data-original-height="328" /></a></div>
 A guerra civil na Síria, que já dura cerca de 4 anos, tem mostrado ao mundo que esta invenção humana, utilizada sob várias justificativas ao longo da história da humanidade, não é capaz de produzir bons frutos sem deixar sequelas, rastros e cicatrizes na vida de todos os envolvidos. Se bem, que já diz o dito popular que o “fim não justifica os meios”.</br>
 </br>
 Muitos autointitulados especialistas apontam como último recurso a força militar. Atualmente com capacidade para destruir o planeta várias vezes, muitas nações mantém a tensão no ar ao proclamarem o famoso “não mecham comigo”. Porém o decurso histórico comprova que cada vez que por força se tentou impor alguma vontade o resultado passou longe do propósito esperado, o que comprova que, como dizia um grande pensador “numa guerra não existem vencedores, todos saem perdendo”.

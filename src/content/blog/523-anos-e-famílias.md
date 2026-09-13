@@ -1,10 +1,10 @@
 ---
 title: "Anos e famílias"
 date: 2023-01-11T20:53:00.003Z
-heroImage: "/images/circunsição.png"
+heroImage: "/images/posts/523-anos-e-famílias-circunsi_C3_A7_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIEi6lwAm3_muIn_0P66ovSWjH8ACdKGxeNoFvM-RfJNUMGcrVNzpoaC-V4G21gpYJkOv6K48xszyAbP1SfBHR778Y2avfDPOKybRtLw0wjsK6WhDhPSE7mPpVpYoeaEKurk-lPufqXjlx25Pvk1-2rTJzN5ylZrJPblz6wmGKq6jMtT4d0h4QsdSw/s439/circunsi%C3%A7%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="409" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIEi6lwAm3_muIn_0P66ovSWjH8ACdKGxeNoFvM-RfJNUMGcrVNzpoaC-V4G21gpYJkOv6K48xszyAbP1SfBHR778Y2avfDPOKybRtLw0wjsK6WhDhPSE7mPpVpYoeaEKurk-lPufqXjlx25Pvk1-2rTJzN5ylZrJPblz6wmGKq6jMtT4d0h4QsdSw/s320/circunsi%C3%A7%C3%A3o.png" width="298" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os leitores deste humilde site já estão acostumados com as
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/523-anos-e-famílias-circunsi_C3_A7_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="409" height="320" src="/images/posts/523-anos-e-famílias-circunsi_C3_A7_C3_A3o.png" width="298" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os leitores deste humilde site já estão acostumados com as
 bandeiras cristãs que defendemos. Dentre elas estamos sempre a falar das
 famílias no molde querido, pensado e criado por Deus. Pobre das famílias;
 enquanto o mundo avança elas vão enfrentando grande ventos contrários. Quanto

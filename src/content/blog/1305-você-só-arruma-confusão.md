@@ -1,10 +1,10 @@
 ---
 title: "Você só arruma confusão?"
 date: 2020-03-06T15:35:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1305-você-só-arruma-confusão-confus_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYf1o-eXG5y0iTeg1No6rkso6UzIpGJE55BPtRaiWX6TJyIkdOLHmHQZFoXdlfexB8Pu1p_b3duK6DnMxdzqjXeVBR0qCBdkGvirteNafdbuJZ4Cix4ke9yFQqACXh963x-hQvIAh9TPM/s1600/confus%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="507" height="228" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYf1o-eXG5y0iTeg1No6rkso6UzIpGJE55BPtRaiWX6TJyIkdOLHmHQZFoXdlfexB8Pu1p_b3duK6DnMxdzqjXeVBR0qCBdkGvirteNafdbuJZ4Cix4ke9yFQqACXh963x-hQvIAh9TPM/s320/confus%25C3%25A3o.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Eclesiástico 5,16-18 – “Não passes por delator, não caias com embaraço nas armadilhas de tua língua, pois ao ladrão estão reservados a confusão e o arrependimento, à língua dúbia, uma censura severa; ao delator, ódio, inimizade e infâmia. Faze justiça tanto para o pequeno como para o grande.” Eclesiástico 42,1 – “Não repitas o que ouviste. Não reveles um segredo. Assim estarás verdadeiramente isento de confusão.”
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1305-você-só-arruma-confusão-confus_25C3_25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="507" height="228" src="/images/posts/1305-você-só-arruma-confusão-confus_25C3_25A3o.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Eclesiástico 5,16-18 – “Não passes por delator, não caias com embaraço nas armadilhas de tua língua, pois ao ladrão estão reservados a confusão e o arrependimento, à língua dúbia, uma censura severa; ao delator, ódio, inimizade e infâmia. Faze justiça tanto para o pequeno como para o grande.” Eclesiástico 42,1 – “Não repitas o que ouviste. Não reveles um segredo. Assim estarás verdadeiramente isento de confusão.”
 
 Provérbios 18,13 – “Quem responde antes de ouvir, passa por tolo e se cobre de confusão.” 
 

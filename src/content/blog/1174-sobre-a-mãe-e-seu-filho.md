@@ -1,10 +1,10 @@
 ---
 title: "Sobre a mãe e seu filho"
 date: 2023-05-05T19:29:00.005Z
-heroImage: "/images/debsof.png"
+heroImage: "/images/posts/1174-sobre-a-mãe-e-seu-filho-debsof.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5kc9lA2pyb2UjPmwwIhgUMnDpcdA8XGmlQY9VsexrOsa-dHCZuYMEJTBqxDk9wqqDxXrXJhI4RLDqhKdbk-k8ouwAVEucxYbsMGvup9NOk1Z_JctySusGcFzMjgyssvS2-0FqrCo7PTCv7fj2V8Yj16OI9FkzoL_rx3j2tCs9w--Xn1Y4mHBI7Ihg/s359/debsof.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="359" height="296" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5kc9lA2pyb2UjPmwwIhgUMnDpcdA8XGmlQY9VsexrOsa-dHCZuYMEJTBqxDk9wqqDxXrXJhI4RLDqhKdbk-k8ouwAVEucxYbsMGvup9NOk1Z_JctySusGcFzMjgyssvS2-0FqrCo7PTCv7fj2V8Yj16OI9FkzoL_rx3j2tCs9w--Xn1Y4mHBI7Ihg/s320/debsof.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma criança pronta para nascer perguntou a Deus:<o:p></o:p></p><div class="separator" style="clear: both;">
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1174-sobre-a-mãe-e-seu-filho-debsof.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="359" height="296" src="/images/posts/1174-sobre-a-mãe-e-seu-filho-debsof.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma criança pronta para nascer perguntou a Deus:<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">-Disseram-me que estarei sendo enviada à Terra amanhã...
 Como vou viver lá, sendo que sou pequena e indefesa?<o:p></o:p></p>
@@ -24,7 +24,7 @@ instante, você sentirá o amor do seu anjo e será feliz.<o:p></o:p></p>
 conheço a língua que as pessoas falam?<o:p></o:p></p>
 
 <p class="MsoNormal">Com muita paciência e carinho, seu anjo lhe ensinará a
-falar.<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsCycygQXSeWMnOu3okpE48XjbE21xIMk2UgPflp12mV_GpplWRbaxXD4kpOiVze0GXKYW0vG8M3MQqWRProatlP0M0ynnTIioPo3tvkYkurGCHl_eiB5MUbPNFxQqCj0sS8pX52isfHT5q7JEIqHnvIRVZAszaPdG8TwaW_n0kLKf7Me-sQ8F4FW5/s258/joinville.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="200" data-original-width="258" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsCycygQXSeWMnOu3okpE48XjbE21xIMk2UgPflp12mV_GpplWRbaxXD4kpOiVze0GXKYW0vG8M3MQqWRProatlP0M0ynnTIioPo3tvkYkurGCHl_eiB5MUbPNFxQqCj0sS8pX52isfHT5q7JEIqHnvIRVZAszaPdG8TwaW_n0kLKf7Me-sQ8F4FW5/s1600/joinville.png" width="258" /></a></div><br /><p class="MsoNormal">E o que farei quando sentir saudade e quiser falar com você?</p><p class="MsoNormal"><o:p></o:p></p>
+falar.<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1174-sobre-a-mãe-e-seu-filho-joinville.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="200" data-original-width="258" height="200" src="/images/posts/1174-sobre-a-mãe-e-seu-filho-joinville.png" width="258" /></a></div><br /><p class="MsoNormal">E o que farei quando sentir saudade e quiser falar com você?</p><p class="MsoNormal"><o:p></o:p></p>
 
 <p class="MsoNormal">Seu anjo juntará suas mãos e lhe ensinará a orar.<o:p></o:p></p>
 
@@ -50,7 +50,7 @@ favor, o nome do meu anjo.<o:p></o:p></p>
 
 <p class="MsoNormal">-Você chamará seu anjo de... MÃE!<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8HEtooRm5Cr1n2H4fx3L4Ga2x_gRZiEhs-ulc4oupXZCs3dzNeemoGJsv6AchtmdnTE3QAtlS6toyWoxzhMzZauxt4MJTiv-r5t1gqldGiv2B3kxT8xkXuJ1DSot7Gg6NWNbLu0M9lC26nf4L-YJr452EfreQL3xtvNX7i-57BhcTKFPRxFKxg4sa/s780/Jefferson_1972.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="585" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8HEtooRm5Cr1n2H4fx3L4Ga2x_gRZiEhs-ulc4oupXZCs3dzNeemoGJsv6AchtmdnTE3QAtlS6toyWoxzhMzZauxt4MJTiv-r5t1gqldGiv2B3kxT8xkXuJ1DSot7Gg6NWNbLu0M9lC26nf4L-YJr452EfreQL3xtvNX7i-57BhcTKFPRxFKxg4sa/s320/Jefferson_1972.jpg" width="240" /></a></div><br /><p></p><p class="MsoNormal">Este artigo dedico a minha mãe Elizabeth, minha sogra Ernany
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1174-sobre-a-mãe-e-seu-filho-Jefferson_1972.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="585" height="320" src="/images/posts/1174-sobre-a-mãe-e-seu-filho-Jefferson_1972.jpg" width="240" /></a></div><br /><p></p><p class="MsoNormal">Este artigo dedico a minha mãe Elizabeth, minha sogra Ernany
 e minha esposa Debora, mulheres que me trouxeram até onde estou e fizeram de
 mim o homem que sou; a Nossa Senhora que irá me ajudar a chegar até o céu (autor do site Devotos-de-Maria).</p><p class="MsoNormal"><o:p></o:p></p>
 

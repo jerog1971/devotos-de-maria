@@ -1,10 +1,10 @@
 ---
 title: "Alvo das doutrinas"
 date: 2024-01-27T14:37:00.004Z
-heroImage: "/images/Alvo das doutrinas.png"
+heroImage: "/images/posts/1318-alvo-das-doutrinas-Alvo_20das_20doutrinas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dgyKCVMJw89VgQ-gOVGGuVaGMuLxRg6chEfdnIYQoMhETB26epXHOwU3Xlbr8eetdCPk6HFqxEWYdJT1w-i5OIads32V_B7jKopf-41345VipwV2yTPtdbjT_mulFM1dpRbyxLH65pujLTYdKzAsKxfLQTBuaPiKSRbPA5j3idDKKrow65c4yr74SMc/s475/Alvo%20das%20doutrinas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="475" height="183" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dgyKCVMJw89VgQ-gOVGGuVaGMuLxRg6chEfdnIYQoMhETB26epXHOwU3Xlbr8eetdCPk6HFqxEWYdJT1w-i5OIads32V_B7jKopf-41345VipwV2yTPtdbjT_mulFM1dpRbyxLH65pujLTYdKzAsKxfLQTBuaPiKSRbPA5j3idDKKrow65c4yr74SMc/s320/Alvo%20das%20doutrinas.png" width="320" /></a></div><br />Todo cristão sabe que a doutrina divina tem que ocupar
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1318-alvo-das-doutrinas-Alvo_20das_20doutrinas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="475" height="183" src="/images/posts/1318-alvo-das-doutrinas-Alvo_20das_20doutrinas.png" width="320" /></a></div><br />Todo cristão sabe que a doutrina divina tem que ocupar
 espaço com as diversas “doutrinas” que o mundo insiste em divulgar como boas
 opções para a humanidade. Bem analisado, vai-se percebendo que muitas delas
 procuram alargar o campo das permissões e diminuir o das proibições. Sim, pois,

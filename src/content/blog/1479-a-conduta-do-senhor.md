@@ -1,10 +1,10 @@
 ---
 title: "A conduta do Senhor"
 date: 2020-06-24T16:30:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1479-a-conduta-do-senhor-juiz.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlPL39vRXjVa2KHP7nGOkNgeRejrntPVb55w0xLldhzy2saSS0GUgElRbXE7cOaLAfhnLP46WdKP_zk3q-1hBNxfLpOhuVnXDA1kT96rIU2BAGJwBET1A2CJOtdbCCsUVt4xPx_H5NfA/s318/juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlPL39vRXjVa2KHP7nGOkNgeRejrntPVb55w0xLldhzy2saSS0GUgElRbXE7cOaLAfhnLP46WdKP_zk3q-1hBNxfLpOhuVnXDA1kT96rIU2BAGJwBET1A2CJOtdbCCsUVt4xPx_H5NfA/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O Deus vivo, nominado pela expressão “amor” no novo
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1479-a-conduta-do-senhor-juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" src="/images/posts/1479-a-conduta-do-senhor-AVvXsEjzlPL39vRXjVa2KHP7nGOkNgeRejrntPVb55w0xLldhzy2saSS0GUgElRbXE7cOaLAfhnLP46WdKP_zk3q-1hBNxfLpOhuVnXDA1kT96rIU2BAGJwBET1A2CJOtdbCCsUVt4xPx_H5NfA.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O Deus vivo, nominado pela expressão “amor” no novo
 testamento bíblico, prescreve que corrige aqueles que ama e tem por filhos.
 Nele, lemos nas escrituras, que são igualmente rápidas a misericórdia e a
 justiça. Sem dúvida, apesar de compreendermos seu lado misericordioso e

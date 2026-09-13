@@ -1,10 +1,10 @@
 ---
 title: "Amparar e Ajudar"
 date: 2020-12-15T16:37:00.003Z
-heroImage: "/images/amparar.png"
+heroImage: "/images/posts/263-amparar-e-ajudar-amparar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF8529HNEFtdsutDFutUa8axTw8qzBGT5GTjUgAOG_xcfQkA2E_t_nxobkgw_hDMN5TC5u5MHfhQoamJyRRw6G5aeNCrhD827vJqEngb36WqmXnE_Jr_1xmYX5OJjSEjX1vRlucHSo5bs/s773/amparar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="762" data-original-width="773" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF8529HNEFtdsutDFutUa8axTw8qzBGT5GTjUgAOG_xcfQkA2E_t_nxobkgw_hDMN5TC5u5MHfhQoamJyRRw6G5aeNCrhD827vJqEngb36WqmXnE_Jr_1xmYX5OJjSEjX1vRlucHSo5bs/s320/amparar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E ainda mais, como no ensina Jesus, “sem esperar nada em
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/263-amparar-e-ajudar-amparar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="762" data-original-width="773" src="/images/posts/263-amparar-e-ajudar-amparar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E ainda mais, como no ensina Jesus, “sem esperar nada em
 troca”. O Cristo nos ensinou que o interesse do benefício próprio em detrimento
 ao benefício de outrem não é bem querido como ingrediente para se entrar no céu.
 Na foto do artigo vemos duas pombas que pararam sobre o telhado porque uma delas

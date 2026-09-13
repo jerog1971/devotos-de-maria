@@ -1,10 +1,10 @@
 ---
 title: "Meu filho deixou tudo no evangelho"
 date: 2020-04-07T15:16:00.001Z
-heroImage: "/images/Maria.gif"
+heroImage: "/images/posts/1790-meu-filho-deixou-tudo-no-evangelho-Virgem_Maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnf3PY0ilPmpO-T7NbBSSqBgQQQVgGU9-1sXIRiVheCaNvxZhvV2mD_d-843Tf1Ti5geAg2_JGdBFDxl4mf0yq45T9UoFP0atuwCbTrUuoF0pVzKDc5etEq_TwEgkuKMg-LHw9hErXQXY/s1600/Virgem+Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnf3PY0ilPmpO-T7NbBSSqBgQQQVgGU9-1sXIRiVheCaNvxZhvV2mD_d-843Tf1Ti5geAg2_JGdBFDxl4mf0yq45T9UoFP0atuwCbTrUuoF0pVzKDc5etEq_TwEgkuKMg-LHw9hErXQXY/s320/Virgem+Maria.png" width="231" height="320" data-original-width="233" data-original-height="323" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1790-meu-filho-deixou-tudo-no-evangelho-Virgem_Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1790-meu-filho-deixou-tudo-no-evangelho-Virgem_Maria.png" width="231" height="320" data-original-width="233" data-original-height="323" /></a></div>
 Essas são palavras da Virgem Santíssima proferidas em suas aparições. Ao contrário do que muitos pensam, não existe novidade alguma nessa afirmação. Lemos na bíblia que Jesus exortou a todos a pregarem o evangelho por toda a parte. Chamado de boa nova trata-se de um belíssimo esclarecimento que Jesus veio nos dar a mando do pai.</br>
 </br>
 Um esclarecimento a respeito do pai eterno, que embora misericordioso e possuidor de um pesado braço da justiça, com uma aparente atitude descrita no antigo testamento com características vingativas, imperialistas e autoritárias, ao fim das contas é um Deus de amor. E aí começam os problemas para muitos: que amor é esse? Um amor que bate, bate, bate e ainda quer que nos comportemos como filhos?</br>

@@ -1,10 +1,10 @@
 ---
 title: "Artimanhas do inimigo"
 date: 2023-07-25T19:15:00.006Z
-heroImage: "/images/artimanhas do inimigo.png"
+heroImage: "/images/posts/1336-artimanhas-do-inimigo-artimanhas_20do_20inimigo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaeA0UswQ79uoNqPdxLsy2lTC7jjd6ahB_oKs0H3eXcNR2WfUu3X4DsvIJZvyGE0B_q1IwhcA4JHH3-tCzVxlEDRFm2B-UxfcSAzWWsrHeiRsiRGO8Qw0_LgYfpAIhBS8ipkaBREjq4lIJihy-piQ-uknMxoCq1A7XvikwK7To2mRC_ixK-ijnyWIr_TM/s434/artimanhas%20do%20inimigo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="434" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaeA0UswQ79uoNqPdxLsy2lTC7jjd6ahB_oKs0H3eXcNR2WfUu3X4DsvIJZvyGE0B_q1IwhcA4JHH3-tCzVxlEDRFm2B-UxfcSAzWWsrHeiRsiRGO8Qw0_LgYfpAIhBS8ipkaBREjq4lIJihy-piQ-uknMxoCq1A7XvikwK7To2mRC_ixK-ijnyWIr_TM/s320/artimanhas%20do%20inimigo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Arrisco dizer que, possivelmente, o cristão que assistiu ao
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1336-artimanhas-do-inimigo-artimanhas_20do_20inimigo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="434" height="308" src="/images/posts/1336-artimanhas-do-inimigo-artimanhas_20do_20inimigo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Arrisco dizer que, possivelmente, o cristão que assistiu ao
 filme O Exorcista do Papa, onde o Padre Gabriele Amorth, interpretado pelo ator
 Russell Crowe, trava sua luta contra o mal, ao deparar-se perto do final da película,
 onde o epílogo da história já estava em curso, sentiu um grande sentimento de

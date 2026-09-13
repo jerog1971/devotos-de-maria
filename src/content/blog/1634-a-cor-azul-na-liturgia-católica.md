@@ -1,10 +1,10 @@
 ---
 title: "A cor azul na liturgia católica"
 date: 2017-09-12T20:00:00Z
-heroImage: "/images/cor_azul.png"
+heroImage: "/images/posts/1634-a-cor-azul-na-liturgia-católica-cor_azul.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzov78vKc3TL8uNSQOfaPiz2fbzB_lMMxZ2QJBc36twLZE2WTsdwS6jEFxZRZX0Uymzl4Tj2J3JiCQNbr4fJOH_Vgj0MYeT0Hv3l-c2-PdQyiC5tDN_y0IgDGQkC7owSNdgH0jz9ePi6M/s1600/cor_azul.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzov78vKc3TL8uNSQOfaPiz2fbzB_lMMxZ2QJBc36twLZE2WTsdwS6jEFxZRZX0Uymzl4Tj2J3JiCQNbr4fJOH_Vgj0MYeT0Hv3l-c2-PdQyiC5tDN_y0IgDGQkC7owSNdgH0jz9ePi6M/s320/cor_azul.png" width="296" height="320" data-original-width="599" data-original-height="647" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1634-a-cor-azul-na-liturgia-católica-cor_azul.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1634-a-cor-azul-na-liturgia-católica-cor_azul.png" width="296" height="320" data-original-width="599" data-original-height="647" /></a></div>
 E aí pessoal, alguém já participou de alguma missa onde o sacerdote está trajando a cor azul? Já parou para pensar se pode? Se está previsto na Instrução Geral do Missal Romano ou em outro documento da igreja? Vamos dar uma passadinha pelo assunto para melhores entendimentos.</br>
 </br>
 Liturgicamente está documentado e também atestado pela tradição da igreja o uso de algumas cores paramentais que simbolizam algumas passagens celebrativas na vida da igreja. São elas o branco, usado no tempo pascal e Natal do Senhor assim como em suas festas e memórias, menos na sua paixão. Também é usado nas festas e memórias da Virgem Maria, dos Santos Anjos, dos santos que não são mártires, no dia de todos os santos, nascimento de João Batista, do evangelista João, na cátedra de São Pedro e no dia da conversão de São Paulo.</br>

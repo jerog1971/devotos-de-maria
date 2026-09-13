@@ -1,10 +1,10 @@
 ---
 title: "Ecumenismo condenado por Jesus"
 date: 2016-02-12T12:59:00.001Z
-heroImage: "/images/ecumenismo2.png"
+heroImage: "/images/posts/350-ecumenismo-condenado-por-jesus-ecumenismo2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-52kbbJBaXwRUJwRoSyMn8GclInQwIeN8R6k_crV9y8_G__u1HGU9lbOcjvxsQ_8_WiSuM6Y_-F4wjuCvz_1JF-KkReFifAiABj4Ft_yfP74FrMv4vTR7WZrfl8rDITpACj_QgQPyQdY/s1600/ecumenismo2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="477" data-original-width="476" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-52kbbJBaXwRUJwRoSyMn8GclInQwIeN8R6k_crV9y8_G__u1HGU9lbOcjvxsQ_8_WiSuM6Y_-F4wjuCvz_1JF-KkReFifAiABj4Ft_yfP74FrMv4vTR7WZrfl8rDITpACj_QgQPyQdY/s320/ecumenismo2.png" width="319" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/350-ecumenismo-condenado-por-jesus-ecumenismo2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="477" data-original-width="476" height="320" src="/images/posts/350-ecumenismo-condenado-por-jesus-ecumenismo2.png" width="319" /></a></div>
 
 Olá caros leitores. Já tem algum tempo que tenho seguido de perto a trajetória do atual papa Francisco. Penso que todo cristão católico precisa acompanhar o que acontece com o pontífice. Sabemos também que todo o mundo coloca seu olhar sempre atento a conduta deste sacerdote que está no comando da igreja católica.
 Particularmente tenho que dizer que me identifico muito mais com o papa emérito Bento XVI e sem sombra de dúvida alguma com o papa João Paulo II. E digo isso porque em seus papados pude identificar em meus estudos e pesquisas uma afinidade mais aproximada com as verdades do evangelho. Claro que quando começamos a escavar a vida de qualquer papa, sempre vão aparecendo erros aqui e ali. Afinal, somos todos pecadores, sujeitos ao erro pela concupiscência, fruto do pecado original, e como nos recorda o livro dos Provérbios 24,16, ainda que justos pecamos diariamente.

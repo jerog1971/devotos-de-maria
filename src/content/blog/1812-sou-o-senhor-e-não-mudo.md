@@ -1,10 +1,10 @@
 ---
 title: "Sou o Senhor e não mudo"
 date: 2016-01-27T11:18:00Z
-heroImage: "/images/Ausência de Deus.png"
+heroImage: "/images/posts/1812-sou-o-senhor-e-não-mudo-deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s1600/deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s320/deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1812-sou-o-senhor-e-não-mudo-deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1812-sou-o-senhor-e-não-mudo-deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
 </br>
 Malaquias 3,6 – “Sou o Senhor e não mudo”. Pois é caros leitores, lá vamos nós. O ser humano está sempre a insistir que é dono de sua vida e livre para fazer o que quiser. Diz que a vida é curta e que é preciso aproveitá-la. Muitos também, em algum momento de suas vidas acabam passando pela tentação do desânimo. Alguns exemplos. “Me esforço tanto e a vida é tão difícil ao passo que aquela pessoa, que nem é tão boa, para ela tudo é tão fácil na vida... Ou ainda, aquela pessoa não passa dificuldades nenhuma e tudo se ajeita para ela enquanto que para mim as coisas não vão para frente... Nem precisamos continuar. A lista de exemplos ficaria muito grande. Já ouvimos e algumas vezes na vida até agimos assim.</br>
 </br>

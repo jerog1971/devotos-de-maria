@@ -1,10 +1,10 @@
 ---
 title: "Juntos e do mesmo lado: coisas diferentes"
 date: 2024-11-18T18:57:00.002Z
-heroImage: "/images/Ele.jpg"
+heroImage: "/images/posts/012-juntos-e-do-mesmo-lado-coisas-diferentes-lobo_20em_20pele_20de_20ovelha.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="256" data-original-width="239" height="256" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHf6Xu9rB_f8p77oZCxp67-vyxKhaXg9tyB7QU5PvlGJpi2X5aSa7ccKIBoLBS6GWv71m76V_iZvyEB-pJjGsj9MGAOBtUHy2L4-oOhiyJThqTElK0P3RR6kqcdcjHtNFbHGM_qpjtGFhbRHBKRPZYPfUK4FaiLdW8MHjFLZJ4_INvZGYIFOOzsQCwrEU/s1600/lobo%20em%20pele%20de%20ovelha.png" width="239" /></div>&nbsp;<p></p>
+<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="256" data-original-width="239" height="256" src="/images/posts/012-juntos-e-do-mesmo-lado-coisas-diferentes-lobo_20em_20pele_20de_20ovelha.png" width="239" /></div>&nbsp;<p></p>
 
 <p class="MsoNormal">É bem assim como lemos no título do artigo; nem sempre estar
 do mesmo lado significa estar em concórdia com os mesmos ideais e princípios.

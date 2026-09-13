@@ -1,10 +1,10 @@
 ---
 title: "Eu bem que avisei"
 date: 2018-01-19T16:52:00Z
-heroImage: "/images/Athanasius.png"
+heroImage: "/images/posts/418-eu-bem-que-avisei-Athanasius.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZNSQrI4a5RTjlnlnaN-vyKZ3LtP8CcKL-w7j_7juhsdLc9BahD-aRjIKU32Xz2quxUN6Q9tpdFbJ3djPXNREx4I1WkpaxsyRa3yqBwIVhMYK9g7ssueNkUiPNMJDALwpN1z4AqCDCMlo/s1600/Athanasius.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZNSQrI4a5RTjlnlnaN-vyKZ3LtP8CcKL-w7j_7juhsdLc9BahD-aRjIKU32Xz2quxUN6Q9tpdFbJ3djPXNREx4I1WkpaxsyRa3yqBwIVhMYK9g7ssueNkUiPNMJDALwpN1z4AqCDCMlo/s320/Athanasius.png" width="263" height="320" data-original-width="314" data-original-height="382" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/418-eu-bem-que-avisei-Athanasius.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/418-eu-bem-que-avisei-Athanasius.png" width="263" height="320" data-original-width="314" data-original-height="382" /></a></div>
 Não é de hoje que toda a milícia peregrina católica firme nos ensinamentos de Cristo está vigilante com relação aos atos do leviano papa argentino da atualidade. Basta um “passeio” pelas agências de notícias do mundo todo para se tomar conhecimento de suas atitudes que muito, posso falar com tranquilidade de mente e coração e está não é uma posição solitária, desagradam os céus sem dúvida alguma. São várias contradições, sofismas, ambiguidades e disparates afora, e os acorrentados à escravidão em forma de papolatria se vem obrigados a fazerem tremendo esforço laboral numa tentativa que sempre vai ser vã em encaixar nos moldes do que nos pede Jesus, o agir desse atual pontífice.</br>
 </br>
 Felizmente muitos se levantam, aqueles que empunham a partir do coração a bandeira católica do verdadeiro evangelho de Nosso Senhor Jesus Cristo. Entre eles, mais uma vez destaco o bispo Athanasius Schneider, protagonista em tempos atuais em relação ao que é o catolicismo apostólico e tradicional, e o que o papa Francisco, que quer ser popular e politicamente correto, tenta impor goela abaixo. Abaixo destaco um trecho de uma entrevista publicada na íntegra no site “fratesinunum” que o bispo Athanasius de a uma agência de notícias chamada Rorate fez a poucos dias:</br>

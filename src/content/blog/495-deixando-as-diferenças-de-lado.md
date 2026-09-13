@@ -1,10 +1,10 @@
 ---
 title: "Deixando as diferenças de lado"
 date: 2023-07-31T20:43:00.004Z
-heroImage: "/images/deixando as diferenças de lado.png"
+heroImage: "/images/posts/495-deixando-as-diferenças-de-lado-img-1740039549.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjefJUc3N-8FsE2SBJg8PSVDvwRJw1WJx8Kbnza-ipWkTvc7PhzZwVoWWuFiRQZ-J1c2khVQti2RlMqAu4DELWG4dgPpcUrKQt4HMsiFgH3hC_1qvVe9O0d3FQXP5KFipH_TzR4WeWdC9y-1ucHw-DHQthtQBdQNcGs3qOh5dk3asrIDHMfZa8NhTx9ro4/s1042/deixando%20as%20diferen%C3%A7as%20de%20lado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="799" data-original-width="1042" height="245" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjefJUc3N-8FsE2SBJg8PSVDvwRJw1WJx8Kbnza-ipWkTvc7PhzZwVoWWuFiRQZ-J1c2khVQti2RlMqAu4DELWG4dgPpcUrKQt4HMsiFgH3hC_1qvVe9O0d3FQXP5KFipH_TzR4WeWdC9y-1ucHw-DHQthtQBdQNcGs3qOh5dk3asrIDHMfZa8NhTx9ro4/s320/deixando%20as%20diferen%C3%A7as%20de%20lado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos por experiência própria que devemos conviver com
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/495-deixando-as-diferenças-de-lado-img-1740039549.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="799" data-original-width="1042" height="245" src="/images/posts/495-deixando-as-diferenças-de-lado-img-1200380883.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos por experiência própria que devemos conviver com
 afinidades e diferenças das pessoas. De fato, este é um dos grandes desafios humanos:
 exercitar virtudes, corrigir fraquezas, superar defeitos, aprender com o melhor
 de alguém, ajudar o outro a melhorar, aceitar a ajuda que sempre deve ser bem-vinda.

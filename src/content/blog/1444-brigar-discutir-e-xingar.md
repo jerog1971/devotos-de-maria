@@ -1,10 +1,10 @@
 ---
 title: "Brigar, Discutir e Xingar"
 date: 2016-08-29T14:44:00.001Z
-heroImage: "/images/brigar.png"
+heroImage: "/images/posts/1444-brigar-discutir-e-xingar-brigar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilq0rJU8uGc_FmRqdWl-vW41P-EbGjQstjlp9otqDjumBewDIasSp2p-S6p3Ygms0ljtKNGFBEUPmi5L_fGwE8DFWKBSwl-zGkrPcLzrpcvZpt5vFVcWxOFp562Nwml8AJo8YTB3Z4AdE/s1600/brigar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilq0rJU8uGc_FmRqdWl-vW41P-EbGjQstjlp9otqDjumBewDIasSp2p-S6p3Ygms0ljtKNGFBEUPmi5L_fGwE8DFWKBSwl-zGkrPcLzrpcvZpt5vFVcWxOFp562Nwml8AJo8YTB3Z4AdE/s320/brigar.png" width="320" height="292" data-original-width="329" data-original-height="300" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1444-brigar-discutir-e-xingar-brigar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1444-brigar-discutir-e-xingar-brigar.png" width="320" height="292" data-original-width="329" data-original-height="300" /></a></div>
 Em Gálatas 5,20-21 aprendemos que brigas, ódios e discórdias entre outras coisas, se praticadas intencionalmente nos afastam de alcançarmos o reino dos céus. Já o verbo xingar é sinônimo de ofender, blasfemar e maldizer, entre outras expressões. Nas sagradas escrituras encontramos um ensinamento que nos exorta a não proferirmos xingamentos em Tiago 3,8-10: A língua, porém, nenhum homem a pode domar. É um mal irrequieto, cheia de veneno mortífero. Com ela bendizemos o Senhor, nosso Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus. De uma mesma boca procede a bênção e a maldição. Não convém, meus irmãos, que seja assim.</br>
 </br>
 Como vimos caros leitores, nestes dois trechos entre tantos na bíblia, podemos aprender que não convém aos cristãos agir de modo que nosso comportamento seja diferente ao de Cristo. Para isso podemos em nossas orações, recitar o Salmo 118 que nos remete a pedir a Deus força para nos mantermos em seus mandamentos, guarda-los em nossos corações para não nos desviarmos de sua palavra ofendendo-o inclusive na pessoa do irmão. Vejamos:</br>

@@ -1,10 +1,10 @@
 ---
 title: "A desculpa dos pecadores"
 date: 2020-11-26T16:39:00.003Z
-heroImage: "/images/desculpa-do-pecador.png"
+heroImage: "/images/posts/381-a-desculpa-dos-pecadores-desculpa-do-pecador.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNeOHAesjdEht1tmAFD2lm3qUqubdCwJ0LXxeoAltnedUDe1ZFYmlo8aFgDW0T6eAtZp0XUHua5ba-ZaGzmOqGCZjsYUHej5cMZmLRRTVxZMjvHe-_f46I1ffe7r7YKYZLLickx8IuBio/s316/desculpa-do-pecador.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="307" data-original-width="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNeOHAesjdEht1tmAFD2lm3qUqubdCwJ0LXxeoAltnedUDe1ZFYmlo8aFgDW0T6eAtZp0XUHua5ba-ZaGzmOqGCZjsYUHej5cMZmLRRTVxZMjvHe-_f46I1ffe7r7YKYZLLickx8IuBio/s0/desculpa-do-pecador.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando você faz algo errado, fugindo ao padrão estabelecido
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/381-a-desculpa-dos-pecadores-desculpa-do-pecador.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="307" data-original-width="316" src="/images/posts/381-a-desculpa-dos-pecadores-desculpa-do-pecador.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando você faz algo errado, fugindo ao padrão estabelecido
 previamente, você está a cometer um erro. Isso é claro (errado =&gt; erro)! Da
 mesma maneira (certo =&gt; acerto). Divinamente falando o cristão sabe que o
 padrão (aquilo que é certo) foi estipulado por Deus. Pois bem, se andamos fora

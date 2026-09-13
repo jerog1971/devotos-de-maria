@@ -1,10 +1,10 @@
 ---
 title: "Não se arrume para Jesus: isso é desculpa"
 date: 2021-01-08T15:39:00Z
-heroImage: "/images/vaidade.png"
+heroImage: "/images/posts/1574-não-se-arrume-para-jesus-isso-é-desculpa-vaidade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrxJheLdzGSvMSAKtezldwbY2OH0Jmf3gPGRT5RrjtFDs0URTOS0K7AfXaHSR85fYGektVJHjQRnIOCMHrVogUKxhP-H7rsVkUZxoOR5yp1VjunYb9bk1bqcg1g6xdsjkdbghBHpgLxY4/s247/vaidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: left;"><img border="0" data-original-height="247" data-original-width="236" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrxJheLdzGSvMSAKtezldwbY2OH0Jmf3gPGRT5RrjtFDs0URTOS0K7AfXaHSR85fYGektVJHjQRnIOCMHrVogUKxhP-H7rsVkUZxoOR5yp1VjunYb9bk1bqcg1g6xdsjkdbghBHpgLxY4/s0/vaidade.png" /></a></div><br />&nbsp;<p></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p></p><p class="MsoNormal">No século quatorze Jesus disse a Santa Angela de Foligno: “Tu
+<p></p><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1574-não-se-arrume-para-jesus-isso-é-desculpa-vaidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: left;"><img border="0" data-original-height="247" data-original-width="236" src="/images/posts/1574-não-se-arrume-para-jesus-isso-é-desculpa-vaidade.png" /></a></div><br />&nbsp;<p></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p></p><p class="MsoNormal">No século quatorze Jesus disse a Santa Angela de Foligno: “Tu
 foste enviada ao mundo, não para viver, fazer e usar o que te apetece, mas para
 realizar a minha santa vontade. Ou tu estas comigo, ou estás contra mim! Ou estas
 comigo, ou estás com as modas sem pudor... o que escolheres dar-te-á a

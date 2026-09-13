@@ -1,10 +1,10 @@
 ---
 title: "Comparações divinas"
 date: 2021-12-09T16:07:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/312-comparações-divinas-img-1734388143.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhVfJho7y6m-YTFuU0TLKLmZR4sYNEVBGzK_JCI9byyvzGqGDdafyW4ColyyJxSOzurVY_dJsp2dIesk4L8FweujbhzBPd2IZQgvEjl50goSN_M3ZRiFd2xIF4abX4bMl7v33c4IM-2uPxOTLNr2ZkEH6x0VBqe8frxZhrVW_8dMjI2en1eRF06Qn1N=s313" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="313" height="207" src="https://blogger.googleusercontent.com/img/a/AVvXsEhVfJho7y6m-YTFuU0TLKLmZR4sYNEVBGzK_JCI9byyvzGqGDdafyW4ColyyJxSOzurVY_dJsp2dIesk4L8FweujbhzBPd2IZQgvEjl50goSN_M3ZRiFd2xIF4abX4bMl7v33c4IM-2uPxOTLNr2ZkEH6x0VBqe8frxZhrVW_8dMjI2en1eRF06Qn1N" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aos cristãos católicos existe o conhecimento – infelizmente não
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/312-comparações-divinas-img-1734388143.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="313" height="207" src="/images/posts/312-comparações-divinas-img-691507632.jpg" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aos cristãos católicos existe o conhecimento – infelizmente não
 bem vivido por alguns – a respeito dos sacramentos; graças divinas concedidas
 por Deus para auxiliar a vida e caminhada de fé no retorno para a pátria celeste.
 Todos com embasamento bíblico, servem para fortalecer a pessoa no combate

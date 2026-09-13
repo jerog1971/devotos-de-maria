@@ -1,10 +1,10 @@
 ---
 title: "Ninguém aprende esquecendo"
 date: 2022-06-09T15:17:00.003Z
-heroImage: "/images/ninguém aprende esquecendo.png"
+heroImage: "/images/posts/1543-ninguém-aprende-esquecendo-ningu_C3_A9m_20aprende_20esquecendo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqeT49PxrSH0MM0d2vls0FB6vm5W8kbvd6K9MujBG_foHamtLxAoju-ja2_h7SNuIUtpdi9R-xhs552Mn8kNQso-Jd-boVdLP0Rzj8G4K6FmYlMKWMcX2nJNb8quPcd0USGEeM9aLaH86VDbmo6J7Qcoa74kbyCEizsespGdPXsqxzYr5KiGEpkYqe/s226/ningu%C3%A9m%20aprende%20esquecendo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="226" data-original-width="207" height="226" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqeT49PxrSH0MM0d2vls0FB6vm5W8kbvd6K9MujBG_foHamtLxAoju-ja2_h7SNuIUtpdi9R-xhs552Mn8kNQso-Jd-boVdLP0Rzj8G4K6FmYlMKWMcX2nJNb8quPcd0USGEeM9aLaH86VDbmo6J7Qcoa74kbyCEizsespGdPXsqxzYr5KiGEpkYqe/s1600/ningu%C3%A9m%20aprende%20esquecendo.png" width="207" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De fato, todos podem reconhecer que aprendemos praticando;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1543-ninguém-aprende-esquecendo-ningu_C3_A9m_20aprende_20esquecendo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="226" data-original-width="207" height="226" src="/images/posts/1543-ninguém-aprende-esquecendo-ningu_C3_A9m_20aprende_20esquecendo.png" width="207" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De fato, todos podem reconhecer que aprendemos praticando;
 todavia, neste ato de praticar, algumas vezes acertamos e outras vezes erramos.
 Então, podemos corretamente dizer que aprendemos com os erros. No entanto, uma
 coisa é certa e nunca deve passar despercebida: ninguém aprende esquecendo.<o:p></o:p></p><div class="separator" style="clear: both;">

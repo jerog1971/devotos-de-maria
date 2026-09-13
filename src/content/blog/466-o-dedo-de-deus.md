@@ -1,10 +1,10 @@
 ---
 title: "O dedo de Deus"
 date: 2016-04-22T16:11:00Z
-heroImage: "/images/virgem_intacta.png"
+heroImage: "/images/posts/466-o-dedo-de-deus-virgem_intacta.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOM7rI14x98DqKYLdcQg3-Xd43_iZ1mEcFwylLqGolbre1lVGSwic9dZkQpu0MXM3OR8A5paxKgbGI2VUJIqe9xK6l0hc-IMmJJ2lv4hOpc4LZDORKUFyIUPNzGvFb0Eov4elgQekXl6o/s1600/virgem_intacta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOM7rI14x98DqKYLdcQg3-Xd43_iZ1mEcFwylLqGolbre1lVGSwic9dZkQpu0MXM3OR8A5paxKgbGI2VUJIqe9xK6l0hc-IMmJJ2lv4hOpc4LZDORKUFyIUPNzGvFb0Eov4elgQekXl6o/s320/virgem_intacta.png" width="211" height="320" data-original-width="325" data-original-height="493" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/466-o-dedo-de-deus-virgem_intacta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/466-o-dedo-de-deus-virgem_intacta.png" width="211" height="320" data-original-width="325" data-original-height="493" /></a></div>
 A quase uma semana depois do terremoto de 7,8 graus que atingiu o Equador, segue naquele país a atividade de colocar a casa em ordem. No entanto, durante a semana, outro fato, de natureza religiosa, para nós católicos foi a comprovação de que, sempre existe o dedo de Deus em tudo aquilo que acontece em nossas vidas, seja de caráter macro ou de caráter micro.</br>
 </br>
 Desta vez o artigo remete a outra escola com mais 900 alunos onde uma congregação de religiosas trabalhava e que, para o grande testemunho de todos, após ser arrasada pelo grande tremor de terra, após dias de trabalho intenso na remoção dos entulhos e início de reconstrução frente aos prejuízos deixados pelo terremoto, lá estava ela, a estátua de Nossa Senhora intacta no meio dos escombros.</br>

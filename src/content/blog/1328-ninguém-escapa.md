@@ -1,10 +1,10 @@
 ---
 title: "Ninguém escapa"
 date: 2022-09-12T18:43:00Z
-heroImage: "/images/homo.png"
+heroImage: "/images/posts/1328-ninguém-escapa-peppa_20pig_20e_20o_20homossexualismo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH9f9hteHD0CdnU2QpQxVcGCGiHWI8z19pmigZh_xy1U-l4r7LMtt_BPL07c2rrB1jcSQXmGZpW4rPKdEoM96pnlluYFe3RI1uy1uQlu6zLGXO1zhFEFTb2L_HUgMuaxNTPdyvDndmXi32UJYD3aeIDr52Ck043xg-Y7m328WOoZeWFzq8fo4HBwxa/s684/peppa%20pig%20e%20o%20homossexualismo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="541" data-original-width="684" height="253" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH9f9hteHD0CdnU2QpQxVcGCGiHWI8z19pmigZh_xy1U-l4r7LMtt_BPL07c2rrB1jcSQXmGZpW4rPKdEoM96pnlluYFe3RI1uy1uQlu6zLGXO1zhFEFTb2L_HUgMuaxNTPdyvDndmXi32UJYD3aeIDr52Ck043xg-Y7m328WOoZeWFzq8fo4HBwxa/s320/peppa%20pig%20e%20o%20homossexualismo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, todo bom cristão que mantém um olhar bem treinado –
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1328-ninguém-escapa-peppa_20pig_20e_20o_20homossexualismo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="541" data-original-width="684" height="253" src="/images/posts/1328-ninguém-escapa-peppa_20pig_20e_20o_20homossexualismo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, todo bom cristão que mantém um olhar bem treinado –
 sendo imitador do Cristo, 1ª Coríntios 11,1 – sabe que a cultura da morte,
 biblicamente combatida desde os primeiros tempos de existência da humanidade,
 percorre grandes jornadas sempre tentando vascularizar para todos os cantos do

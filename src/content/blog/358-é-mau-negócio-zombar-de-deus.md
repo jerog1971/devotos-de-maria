@@ -1,10 +1,10 @@
 ---
 title: "É mau negócio zombar de Deus"
 date: 2021-02-16T19:43:00.003Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/358-é-mau-negócio-zombar-de-deus-zombar_de_Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihL1bgh0MWk3Y-tLvXZ0F8BgyKEmNByz8x27-3uM95bkfKEXSTj02I6q79G85isC5L24BqRdqfLkA55Yt48VymFbqrgv8uqmhUCuvqAhOMVfx81-To-T5QYqEtuHnrsrQxN1xGtQHvXmE/s408/zombar+de+Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="408" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihL1bgh0MWk3Y-tLvXZ0F8BgyKEmNByz8x27-3uM95bkfKEXSTj02I6q79G85isC5L24BqRdqfLkA55Yt48VymFbqrgv8uqmhUCuvqAhOMVfx81-To-T5QYqEtuHnrsrQxN1xGtQHvXmE/s320/zombar+de+Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Podemos reclamar para ele (até devemos), mas reclamar dele,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/358-é-mau-negócio-zombar-de-deus-zombar_de_Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="408" src="/images/posts/358-é-mau-negócio-zombar-de-deus-zombar_de_Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Podemos reclamar para ele (até devemos), mas reclamar dele,
 que seja para consigo mesmo. Todavia, querer tomar satisfação, ensina-lo,
 julga-lo e ainda por cima dar de ombros contra o altíssimo aí a coisa muda
 completamente de figura. Sim, pois não é possível da estatura em que estamos,

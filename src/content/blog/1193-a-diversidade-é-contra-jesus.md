@@ -1,10 +1,10 @@
 ---
 title: "A diversidade é contra Jesus"
 date: 2019-05-15T19:21:00.002Z
-heroImage: "/images/LGBT.png"
+heroImage: "/images/posts/1193-a-diversidade-é-contra-jesus-LGBT.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhfdPak_uynb34gIDpCZexxX_nOG5ZkY69PFmzc-m1dNyJpzsMCIj5j0GQUCvZEpV92YVLVrOUAwf4vxRWYhzSqILVC-PeE_Gc9vCvzzVxW6TjC3m-W0noljtMVsHJzam0JD80ScKXBI/s1600/LGBT.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="388" height="224" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhfdPak_uynb34gIDpCZexxX_nOG5ZkY69PFmzc-m1dNyJpzsMCIj5j0GQUCvZEpV92YVLVrOUAwf4vxRWYhzSqILVC-PeE_Gc9vCvzzVxW6TjC3m-W0noljtMVsHJzam0JD80ScKXBI/s320/LGBT.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1193-a-diversidade-é-contra-jesus-LGBT.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="388" height="224" src="/images/posts/1193-a-diversidade-é-contra-jesus-LGBT.png" width="320" /></a></div>
 Isso mesmo, caro leitor, Jesus disse que quem não está com ele, está contra ele. E como ele disse que o Pai e ele são um com o Espírito Santo e que fazem morada naquele que os honram com o seu corpo e coração, fica mais do que claro que as lésbicas, gays, bissexuais, travestis, transexuais e transgêneros estão contra Jesus, assim como os que apoiam a causa mesmo não praticando alguma dessas barbaridades.
 
 Como a questão é bíblica e massivamente ensinada nas santas escrituras, não é possível existir qualquer argumento humano que invalide os preceitos divinos. Nenhuma lei humana consegue revogar ou superar uma lei divina. São naturezas diferentes e ninguém na terra pode “bater o martelo” e decretar que Deus errou, que a lei humana é melhor.

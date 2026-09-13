@@ -1,10 +1,10 @@
 ---
 title: "Inquietações divinas e humanas"
 date: 2022-09-05T20:24:00.001Z
-heroImage: "/images/inquietações divinas e humanas.png"
+heroImage: "/images/posts/333-inquietações-divinas-e-humanas-img-1897716144.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZFKPotO-MB9NVfGeW_9MB27fjsxZgcjjJ-9cHkAXI9EbjwAiQYdX7G5tV9oYQF4Z1bS-cMuUJXuc_v2EnMfJYv_OUKgyrABJ_q5gvq2rJUyHFvnsPwoGjXUPL1exgUiygoUmPMfTC8B97r1Su860Hat51sVFZU-9ZNlt_U422qU9SRO9En8Qd0GeZ/s543/inquieta%C3%A7%C3%B5es%20divinas%20e%20humanas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="543" height="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZFKPotO-MB9NVfGeW_9MB27fjsxZgcjjJ-9cHkAXI9EbjwAiQYdX7G5tV9oYQF4Z1bS-cMuUJXuc_v2EnMfJYv_OUKgyrABJ_q5gvq2rJUyHFvnsPwoGjXUPL1exgUiygoUmPMfTC8B97r1Su860Hat51sVFZU-9ZNlt_U422qU9SRO9En8Qd0GeZ/s320/inquieta%C3%A7%C3%B5es%20divinas%20e%20humanas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tudo bem, tudo bem e tudo bem! Lemos e estamos cansados de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/333-inquietações-divinas-e-humanas-img-1897716144.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="543" height="299" src="/images/posts/333-inquietações-divinas-e-humanas-img-1729713581.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tudo bem, tudo bem e tudo bem! Lemos e estamos cansados de
 ler na bíblia que Deus isso, Deus aquilo, Deus aquele outro. Mas, claro, sempre
 existe o “mas”, na prática a teoria ensinada nas sagradas escrituras é muito difícil
 de ser vivida, comprovada e atestada. De vez em quando acontecem alguns

@@ -1,10 +1,10 @@
 ---
 title: "Anti valores e Cultura da morte"
 date: 2021-11-29T16:12:00.003Z
-heroImage: "/images/anti.png"
+heroImage: "/images/posts/1363-anti-valores-e-cultura-da-morte-anti_valores.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEw_YV-9taFxpgU5LpzYOZzaTGrPYM5E91gE32J-HlUC96xxbaPXxU9pXqqVGjfBT1g1BNXmgGJpHepKfe8lgEBh7ah9jpwTC_8QygkAZfYYNs2IXdWYP8sLjpMdTTkLKW-mXtlXyYEw0/s421/anti+valores.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="421" height="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEw_YV-9taFxpgU5LpzYOZzaTGrPYM5E91gE32J-HlUC96xxbaPXxU9pXqqVGjfBT1g1BNXmgGJpHepKfe8lgEBh7ah9jpwTC_8QygkAZfYYNs2IXdWYP8sLjpMdTTkLKW-mXtlXyYEw0/s320/anti+valores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim chamavam o papa Bento XVI e o papa João Paulo II a respeito
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1363-anti-valores-e-cultura-da-morte-anti_valores.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="421" height="247" src="/images/posts/1363-anti-valores-e-cultura-da-morte-anti_valores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim chamavam o papa Bento XVI e o papa João Paulo II a respeito
 da cultura que o mundo vai gradativamente modificando ao longo da história da
 humanidade; tão aos poucos que as pessoas vão se acostumando com as mudanças e
 por conta disso vão esboçando pouca ou nenhuma reação frente às abominações que

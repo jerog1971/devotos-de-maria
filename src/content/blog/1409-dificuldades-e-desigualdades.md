@@ -1,10 +1,10 @@
 ---
 title: "Dificuldades e desigualdades"
 date: 2021-06-30T16:39:00.003Z
-heroImage: "/images/dificuldades.png"
+heroImage: "/images/posts/1409-dificuldades-e-desigualdades-dificuldades.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTTYCzCJdkX5XLg6rv12ZZtD2eeC1SYP4_gWxbsb4ZuMPGpP9kSzjKPzbA97Z2mpHChW-n0UNo6UUtvAhRLrHxclUuCjWc_ksHp7GpcbsXhMZ75kN7uTG5vPWtNfzETp6ygUEVr_FO4OA/s673/dificuldades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="608" data-original-width="673" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTTYCzCJdkX5XLg6rv12ZZtD2eeC1SYP4_gWxbsb4ZuMPGpP9kSzjKPzbA97Z2mpHChW-n0UNo6UUtvAhRLrHxclUuCjWc_ksHp7GpcbsXhMZ75kN7uTG5vPWtNfzETp6ygUEVr_FO4OA/s320/dificuldades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ouve-se no meio do povo que todos são iguais perante Deus;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1409-dificuldades-e-desigualdades-dificuldades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="608" data-original-width="673" src="/images/posts/1409-dificuldades-e-desigualdades-dificuldades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ouve-se no meio do povo que todos são iguais perante Deus;
 de fato isso é verdade e até atestado está nas sagradas escrituras: “Deus não
 faz distinção de pessoas” – Atos 10,34. Da parte do altíssimo então, a mensagem
 é que as moradas celestes foram criadas para todos. Quando na bíblia lemos sobre

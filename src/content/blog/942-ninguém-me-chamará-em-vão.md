@@ -1,10 +1,10 @@
 ---
 title: "Ninguém me chamará em vão"
 date: 2018-10-01T20:26:00Z
-heroImage: "/images/teresinha.png"
+heroImage: "/images/posts/942-ninguém-me-chamará-em-vão-Santa_Teresinha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKJz57eH-SdTA5_EPONjqHU8Du-34S9XNdLu7WG3b_46Lca1FauDTpWhox-B0EE7RqM0UjBU00pSGVtYWH2wZ4zUkmLMrV4hLcdDSvHDCEXLX7mlwK5Q0i5jeGgZ6Of3NPhrKS5IGgro/s1600/Santa+Teresinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKJz57eH-SdTA5_EPONjqHU8Du-34S9XNdLu7WG3b_46Lca1FauDTpWhox-B0EE7RqM0UjBU00pSGVtYWH2wZ4zUkmLMrV4hLcdDSvHDCEXLX7mlwK5Q0i5jeGgZ6Of3NPhrKS5IGgro/s320/Santa+Teresinha.png" width="320" height="278" data-original-width="577" data-original-height="502" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/942-ninguém-me-chamará-em-vão-Santa_Teresinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/942-ninguém-me-chamará-em-vão-Santa_Teresinha.png" width="320" height="278" data-original-width="577" data-original-height="502" /></a></div>
 Essa foi uma das grandes afirmações que Santa Teresinha do Menino Jesus e da Santa Face disse ainda em vida. De criação católica desde o berço, ainda muito jovem dizia para sua mãe que não via a hora que ela morresse. Espantoso para uma filha dizer isso à sua mãe? Com certeza sim, porém, o viés aqui é puramente católico e, tão bem ensinada pelos pais sobre as verdades celestes, compreendia muito bem os assuntos do paraíso e por isso, queria que sua mãe o quanto antes fosse para lá.</br>
 </br>
 A mesma menina que angustiada esperava seu pai chegar em casa do dia de trabalho para pedir-lhe que a levasse para confessar. Teresinha que dedicou seus vinte e quatro anos, duração total de sua vida à Jesus. Conhecida como a Santa da pequena via, uma moça que queria ser como os grandes santos, mas que tinha consciência de sua pequenez e por isso, contentava-se em oferecer a Deus tudo na medida de suas virtudes. Uma santa de clausura.</br>

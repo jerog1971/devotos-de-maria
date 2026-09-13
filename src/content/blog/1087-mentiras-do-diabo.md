@@ -1,10 +1,10 @@
 ---
 title: "Mentiras do diabo"
 date: 2021-06-23T15:08:00.005Z
-heroImage: "/images/diabo.png"
+heroImage: "/images/posts/1087-mentiras-do-diabo-mentiras_do_diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdtHWvAqW8ul1EtTeK1HXaxfyKGaUc64JEVgHrdwJel5PE08ndXsEfirUlzjAKR0u9es1F6ik4nua1Xi75x-RyQEywFhvCaHZM3sopQPwMhanAbOg-kadw2Cf7JNyzbz5a0VvDEhSV6s/s273/mentiras+do+diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdtHWvAqW8ul1EtTeK1HXaxfyKGaUc64JEVgHrdwJel5PE08ndXsEfirUlzjAKR0u9es1F6ik4nua1Xi75x-RyQEywFhvCaHZM3sopQPwMhanAbOg-kadw2Cf7JNyzbz5a0VvDEhSV6s/s0/mentiras+do+diabo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O ladrão não vem senão para matar, roubar e destruir, é o
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1087-mentiras-do-diabo-mentiras_do_diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="247" src="/images/posts/1087-mentiras-do-diabo-mentiras_do_diabo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O ladrão não vem senão para matar, roubar e destruir, é o
 que lemos nas sagradas escrituras. Para isso, sua infinidade de recursos conta
 com um dos artifícios muito usado pelo nosso inimigo número um: a mentira. No livro
 do Eclesiástico lemos “cuida das mentiras”; a situação serve para mão de duas

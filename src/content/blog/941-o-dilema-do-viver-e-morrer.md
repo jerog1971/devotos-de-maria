@@ -1,10 +1,10 @@
 ---
 title: "O dilema do viver e morrer"
 date: 2020-11-11T14:06:00.003Z
-heroImage: "/images/morrer.png"
+heroImage: "/images/posts/941-o-dilema-do-viver-e-morrer-viver_e_morrer.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1s3NwtxrAh7xUE0p02td01_FPPBchY8Dazzrrgz1ND4gKB3vcnCjl0vZEuyyd8wLhpwQxOiyc6V3q71xtkJzF-VA90oLW0D540OOBY15eKI_qmdyvJOP8Hv6bvwgp5PivqI35h9xNx8/s257/viver+e+morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="257" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1s3NwtxrAh7xUE0p02td01_FPPBchY8Dazzrrgz1ND4gKB3vcnCjl0vZEuyyd8wLhpwQxOiyc6V3q71xtkJzF-VA90oLW0D540OOBY15eKI_qmdyvJOP8Hv6bvwgp5PivqI35h9xNx8/s0/viver+e+morrer.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O aspecto que aqui abordamos está vinculado ao princípio
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/941-o-dilema-do-viver-e-morrer-viver_e_morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="257" src="/images/posts/941-o-dilema-do-viver-e-morrer-viver_e_morrer.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O aspecto que aqui abordamos está vinculado ao princípio
 cristão. Sabemos pelas sagradas escrituras que fomos criados para servir e
 adorar a Deus; em servir consiste em pregar o evangelho por toda a parte a toda
 criatura. Consiste também em se viver como é do agrado de Deus e seguir seus

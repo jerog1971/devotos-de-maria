@@ -1,10 +1,10 @@
 ---
 title: "O que Deus faz por você"
 date: 2020-01-30T02:34:00Z
-heroImage: "/images/Ausência de Deus.png"
+heroImage: "/images/posts/558-o-que-deus-faz-por-você-Deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFE-6jz-jRzCSUb4AvTYVstxOylN5mHpEC6vEMa5ng10QB5Udu40Cw074eLucZGQ9ul4TgKg-SambwK1rkBNXtpw8kJc3yH9Bc5BcBBwTXH6Zxj5n9gasTMnNrkT6syrsIG6dfxmSnhQ/s1600/Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFE-6jz-jRzCSUb4AvTYVstxOylN5mHpEC6vEMa5ng10QB5Udu40Cw074eLucZGQ9ul4TgKg-SambwK1rkBNXtpw8kJc3yH9Bc5BcBBwTXH6Zxj5n9gasTMnNrkT6syrsIG6dfxmSnhQ/s320/Deus.png" width="253" height="320" data-original-width="353" data-original-height="447" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/558-o-que-deus-faz-por-você-Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/558-o-que-deus-faz-por-você-Deus.png" width="253" height="320" data-original-width="353" data-original-height="447" /></a></div>
 Para alguns, ele é um Deus castigador; mal param para pensar que suas reações acontecem na medida de nossa obediência. Não é assim entre pais e filhos? Filhos mais obedientes recebem menos repreensões dos pais e ainda que as recebam isso não significa que seus pais os amam menos. Assim é com Deus, ele que não quer escravos mas filhos, se nos repreende e corrige é porque nos quer ver no céu. Se aceitamos seu modo e agir então somos responsáveis por um comportamento digno dessa herança celeste.</br>
 </br>
 Essa medida de resposta, reflexo de nosso comportamento caminha sob nosso encalço. Não devemos dizer que é relativo, mas é fato que quanto mais nos abrirmos para ele, mais nosso coração receberá a plenitude do Espírito Santo. Vamos dar uma olhadinha em sua palavra para comprovarmos suas ações. Numa pequena passada pelos dois primeiros capítulos da carta aos Efésios podemos “ver” como são as coisas.</br>

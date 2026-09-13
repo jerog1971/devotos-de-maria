@@ -1,10 +1,10 @@
 ---
 title: "A pedra de tropeço"
 date: 2018-07-12T15:21:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/207-a-pedra-de-tropeço-trope_25C3_25A7o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDzfzc9VMx-1f_Ie2rh5nNhQYST2Z9RZKjXy8bhyI4f1q7knqyMK8frhqb326mWIH95RLUD2iMxPNFMXapyRJaCtdyx8UTxeEUeIkbwYaA9xLLi2KvtC8a20VRNg65SX465p66kZyoz-Y/s1600/trope%25C3%25A7o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDzfzc9VMx-1f_Ie2rh5nNhQYST2Z9RZKjXy8bhyI4f1q7knqyMK8frhqb326mWIH95RLUD2iMxPNFMXapyRJaCtdyx8UTxeEUeIkbwYaA9xLLi2KvtC8a20VRNg65SX465p66kZyoz-Y/s320/trope%25C3%25A7o.png" width="320" height="299" data-original-width="656" data-original-height="613" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/207-a-pedra-de-tropeço-trope_25C3_25A7o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/207-a-pedra-de-tropeço-trope_25C3_25A7o.png" width="320" height="299" data-original-width="656" data-original-height="613" /></a></div>
 Quando queremos alcançar êxito numa empreitada e algum empecilho não nos permite lograrmos o intento, esse obstáculo que não é desejável, atrapalha muito e sua permanência insiste em mostrar que não é possível transpô-lo sem algumas medidas. Seja sutilmente, ocultamente ou abertamente, não importa, pode ser por descuido de cada um ou por desleixo intencional, o fato é que o atrapalho nos impede de progredir.</br>
 </br>
 Transportando para a realidade cristã, biblicamente falando, a pedra de tropeço, ou as pedras de tropeço, além de serem os inimigos da alma, também é Jesus Cristo, feito pelos homens como aquele que é motivo de queda. 1ªPedro 2,7 – “Para vós, portanto, que tendes crido, cabe a honra. Mas, para os incrédulos, a pedra que os edificadores rejeitaram (Jesus Cristo) tornou-se a pedra angular, uma pedra de tropeço, uma pedra de escândalo.”</br>

@@ -1,10 +1,10 @@
 ---
 title: "Súplicas a Jesus"
 date: 2023-07-25T16:52:00Z
-heroImage: "/images/ClaradeMontefalco2.png"
+heroImage: "/images/posts/978-súplicas-a-jesus-ClaradeMontefalco2.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifz_8GiD7DRIE4TI-3hM9Jmkes_TCqqmgjhO2GoFrqQYzLNbiREMY9o3YfN1Oo0AML4tBw1YRm-M5L1SBMcyBO_PWQGhTAnr2R4TTreqlv7CxWZStG1fNR_09zGLlSE0XEQWiVA7adHOdOJGZun0aw2uIWW0eYDkm-LYlRhOqgyAK-ZKk4GwcQNjCOE4g/s300/ClaradeMontefalco2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="204" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifz_8GiD7DRIE4TI-3hM9Jmkes_TCqqmgjhO2GoFrqQYzLNbiREMY9o3YfN1Oo0AML4tBw1YRm-M5L1SBMcyBO_PWQGhTAnr2R4TTreqlv7CxWZStG1fNR_09zGLlSE0XEQWiVA7adHOdOJGZun0aw2uIWW0eYDkm-LYlRhOqgyAK-ZKk4GwcQNjCOE4g/s1600/ClaradeMontefalco2.png" width="204" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Para que o Senhor Jesus se digne proteger nossas almas
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/978-súplicas-a-jesus-ClaradeMontefalco2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="204" height="300" src="/images/posts/978-súplicas-a-jesus-ClaradeMontefalco2.png" width="204" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Para que o Senhor Jesus se digne proteger nossas almas
 contra as ciladas e tentações de Satanás e seus demônios” – este é um trecho de
 uma oração chamada terço de São Miguel, um dos arcanjos. Tal é a importância
 deste pedido que, no terço de nove partes, por duas vezes o encontramos: na

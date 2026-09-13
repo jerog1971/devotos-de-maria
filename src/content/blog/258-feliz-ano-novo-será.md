@@ -1,10 +1,10 @@
 ---
 title: "Feliz ano novo! Será?"
 date: 2019-12-30T17:05:00.001Z
-heroImage: "/images/ano_novo.png"
+heroImage: "/images/posts/258-feliz-ano-novo-será-ano_novo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_-DnQ3UKRX5VYMoy86VPyeQZtu0ikFeXO1AbLBVugYOYae812pv3SfPxLoR3r9h2t1hizaxJJAZjMOysCXzw0856m1OgauVIlv3CBJ9TlAtT5SMXq1e_1QX1nUWXJkRmQEGpryW1oyxM/s1600/ano_novo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="165" data-original-width="177" height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_-DnQ3UKRX5VYMoy86VPyeQZtu0ikFeXO1AbLBVugYOYae812pv3SfPxLoR3r9h2t1hizaxJJAZjMOysCXzw0856m1OgauVIlv3CBJ9TlAtT5SMXq1e_1QX1nUWXJkRmQEGpryW1oyxM/s320/ano_novo.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/258-feliz-ano-novo-será-ano_novo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="165" data-original-width="177" height="298" src="/images/posts/258-feliz-ano-novo-será-ano_novo.png" width="320" /></a></div>
 
 O ano civil está por terminar, enquanto escrevo este artigo, dia 30/12/2019, me recordo que algumas pessoas já estão de folga de seus trabalhos. Outras não estão de folga porque estão desempregadas. Outras estão hospitalizadas, muito enfermas. Para tantas pessoas assim colocadas a margem da sociedade, a felicidade que o mundo prega lhes foi tolhida seja lá por qual motivo for, embora o mundo descarte que Deus tenha algo a ver. O mundo não coloca Deus em seus planos, não o Deus criador e sim tantos outros deuses que são idolatrados diariamente sob várias peles e assim fica tão conveniente acomodar-se sob o olhar egoísta de que se tudo vai bem vamos lá, o ano novo está chegando. Vamos nos preparar para comemorar a sua chegada.
 

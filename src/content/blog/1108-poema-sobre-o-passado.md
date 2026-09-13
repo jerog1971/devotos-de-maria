@@ -1,10 +1,10 @@
 ---
 title: "Poema sobre o Passado"
 date: 2016-09-28T14:59:00Z
-heroImage: "/images/passado.png"
+heroImage: "/images/posts/1108-poema-sobre-o-passado-passado.png"
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyL43pPcZTUOtuBaWaIyNzBYJLocryk0hC9pCrta-tCdmbbd9ApGCroCsBd3GDfC-sc_UorVQ4AtI-Zf5MTcYiH5VKb6ly-uUTkq-0FG3ub0oTnuo2JZh7O5zoHzooRiSlRlqtts1QfrE/s1600/passado.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyL43pPcZTUOtuBaWaIyNzBYJLocryk0hC9pCrta-tCdmbbd9ApGCroCsBd3GDfC-sc_UorVQ4AtI-Zf5MTcYiH5VKb6ly-uUTkq-0FG3ub0oTnuo2JZh7O5zoHzooRiSlRlqtts1QfrE/s320/passado.png" width="320" height="213" data-original-width="513" data-original-height="342" /></a>
+<a href="/images/posts/1108-poema-sobre-o-passado-passado.png" imageanchor="1" ><img border="0" src="/images/posts/1108-poema-sobre-o-passado-passado.png" width="320" height="213" data-original-width="513" data-original-height="342" /></a>
 Hoje me chega um dia que não existia,</br>
 Nele, posso fazer o que pensado havia,<br>
 Enquanto ele durar posso sentir alegria,</br>

@@ -1,10 +1,10 @@
 ---
 title: "Um homem decente não abandona sua família"
 date: 2021-02-12T19:44:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1590-um-homem-decente-não-abandona-sua-família-homem_decente.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxbu2zuXX6AaqyFgiP9FbHe9sPE3RBAt_aAcfg_XBJZOf9Yj9IGLAy1u4ELhbb4XBctnXCUdIzoVcrwpE6T8ISNd4Dow7bdg6LD0QuT_e43DE99BlTo7pC5jlNzENdzR2LOonp5YHlyeI/s405/homem+decente.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="333" data-original-width="405" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxbu2zuXX6AaqyFgiP9FbHe9sPE3RBAt_aAcfg_XBJZOf9Yj9IGLAy1u4ELhbb4XBctnXCUdIzoVcrwpE6T8ISNd4Dow7bdg6LD0QuT_e43DE99BlTo7pC5jlNzENdzR2LOonp5YHlyeI/s320/homem+decente.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Inicialmente é bom relembrarmos algumas definições que os
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1590-um-homem-decente-não-abandona-sua-família-homem_decente.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="333" data-original-width="405" src="/images/posts/1590-um-homem-decente-não-abandona-sua-família-homem_decente.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Inicialmente é bom relembrarmos algumas definições que os
 dicionários oferecem para o termo <i>decente</i>, que se enquadra em nossa língua
 como um adjetivo: “que demonstra decência, decoro, excesso de pudor; decoroso.
 Que concorda com as normas éticas e morais da sociedade. Que age com

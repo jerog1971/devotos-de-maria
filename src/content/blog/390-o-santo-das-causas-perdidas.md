@@ -1,10 +1,10 @@
 ---
 title: "O santo das causas perdidas"
 date: 2017-10-27T17:54:00Z
-heroImage: "/images/Judas_Tadeu.png"
+heroImage: "/images/posts/390-o-santo-das-causas-perdidas-Judas_Tadeu.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5JqpAxo6JvsxeCXuF66TXYmdGNyjNnc1hQ8ySGnkIQnj5J22dPQaXpR1_3xE_oQgpN4MQlZLHeZ09VHHEnJPdN4RWDoaFrlTb05kA3-Ku0XyuKKRR-5xUH5bXp6SzgIW8feAToa81i_Q/s1600/Judas_Tadeu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5JqpAxo6JvsxeCXuF66TXYmdGNyjNnc1hQ8ySGnkIQnj5J22dPQaXpR1_3xE_oQgpN4MQlZLHeZ09VHHEnJPdN4RWDoaFrlTb05kA3-Ku0XyuKKRR-5xUH5bXp6SzgIW8feAToa81i_Q/s320/Judas_Tadeu.png" width="320" height="309" data-original-width="268" data-original-height="259" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/390-o-santo-das-causas-perdidas-Judas_Tadeu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/390-o-santo-das-causas-perdidas-Judas_Tadeu.png" width="320" height="309" data-original-width="268" data-original-height="259" /></a></div>
 O primo de Nosso Senhor Jesus Cristo, esquecido por muitos por causa de seu nome ser o mesmo daquele que traiu Jesus por trinta moedas, é reconhecido pela Igreja como um grande santo, martirizado por pregar o evangelho de forma missionária, sendo este, um dos escolhidos por Jesus pessoalmente e detalhe, na genealogia de Jesus, sabe-se que Judas Tadeu é primo dele.</br>
 </br>
 Seu nome, Judas, significa “Deus seja louvado”. Judas Tadeu, um dos doze apóstolos era também irmão do apóstolo Tiago, o menor. Devido, como já mencionado, o nome ser o mesmo do traidor, aos poucos a fama do nome Judas foi sendo associada ao longo da história como aquele que é traidor, criminoso, assassino e diabólico, fazendo com que esse fiel seguidor de Jesus fosse pouco recorrido em auxílio. Tanto assim acontecia que na época em que vivia Santa Brígida ela recebeu de Jesus a recomendação, para difundir por toda a igreja, de que ele desejaria conceder graças por intercessão de São Judas Tadeu, intitulado nos altares como o santo das causas perdidas.</br>

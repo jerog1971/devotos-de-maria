@@ -1,10 +1,10 @@
 ---
 title: "A arte de mentir"
 date: 2016-10-24T13:04:00Z
-heroImage: "/images/mentir.png"
+heroImage: "/images/posts/1066-a-arte-de-mentir-mentir.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65ZYHds8k2libH6u_PbR2XUSnW1XwrpRUph5jAdNVHccigZelFEsmTZuellvSIYkzNLcU26E3BKr3xNOiC1Lbo6ddPuiV63Vthj2nq7iC2Dn-JZCnPtn9t1lrPVOwBBNDIdJxQ-wek9E/s1600/mentir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65ZYHds8k2libH6u_PbR2XUSnW1XwrpRUph5jAdNVHccigZelFEsmTZuellvSIYkzNLcU26E3BKr3xNOiC1Lbo6ddPuiV63Vthj2nq7iC2Dn-JZCnPtn9t1lrPVOwBBNDIdJxQ-wek9E/s320/mentir.png" width="320" height="320" data-original-width="224" data-original-height="224" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1066-a-arte-de-mentir-mentir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1066-a-arte-de-mentir-mentir.png" width="320" height="320" data-original-width="224" data-original-height="224" /></a></div>
 A mentira é algo que está presente desde o início da história da humanidade. No decorrer de toda a sagrada escritura, acompanhamos vários relatos que nos mostram como é a conduta que Deus tem com relação a fatos e episódios que possuem a mentira como pano de fundo. E com um estudo atento é possível compreender uma coisa: qual é a finalidade das coisas.</br>
 </br>
 É importante logo compreendermos isso pois do contrário corremos o risco de acharmos que Deus aprova e motiva a mentira. Haja vista, por exemplo, o episódio das parteiras do egito, que mentiram ao faraó e a bíblia nos confirma que foram beneficiadas por Deus (Êxodo 1). Só para citar um exemplo entre tantos.</br>

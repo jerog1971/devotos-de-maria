@@ -1,10 +1,10 @@
 ---
 title: "Tem necessidade isso?"
 date: 2025-05-21T18:37:00.001Z
-heroImage: "/images/reborn macabro(1).png"
+heroImage: "/images/posts/1439-tem-necessidade-isso-reborn_20macabro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO1md8AcovxjCrm2-eTr84aeuCxG2qIabo8kzdqDizbQhXbKIw-TT1u6mcagRwTfK6YWDM42H8LuS5icEcFPjbZ8sVAR4NEoH4mvaPceJ-2Cj1y2zKMIOx3LE2ACaBrK7F7PP9PYISFyy6v01qQHhnGU6bo-Wo1uOBHi7Lh_knbq6V3QU1Lz1ejb3KKcg/s213/reborn%20macabro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="180" data-original-width="213" height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO1md8AcovxjCrm2-eTr84aeuCxG2qIabo8kzdqDizbQhXbKIw-TT1u6mcagRwTfK6YWDM42H8LuS5icEcFPjbZ8sVAR4NEoH4mvaPceJ-2Cj1y2zKMIOx3LE2ACaBrK7F7PP9PYISFyy6v01qQHhnGU6bo-Wo1uOBHi7Lh_knbq6V3QU1Lz1ejb3KKcg/w283-h239/reborn%20macabro.png" width="283" /></a></div><br /><p style="line-height: 100%; margin-bottom: 0cm;">Pessoal, é sério isso? O que dizer sobre essa nova onda
+<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1439-tem-necessidade-isso-reborn_20macabro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="180" data-original-width="213" height="239" src="/images/posts/1439-tem-necessidade-isso-reborn_20macabro.png" width="283" /></a></div><br /><p style="line-height: 100%; margin-bottom: 0cm;">Pessoal, é sério isso? O que dizer sobre essa nova onda
 comportamental onde os bebês realistas estão sendo utilizados para
 se conseguir preferências em benefícios de ordem pública entre
 outras situações. A que ponto chega o ser humano. Já existem

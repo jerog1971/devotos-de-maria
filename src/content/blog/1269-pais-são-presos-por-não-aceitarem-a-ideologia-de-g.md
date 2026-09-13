@@ -1,10 +1,10 @@
 ---
 title: "Pais são presos por não aceitarem a ideologia de gênero"
 date: 2016-07-04T11:30:00Z
-heroImage: "/images/pais_presos.png"
+heroImage: "/images/posts/1269-pais-são-presos-por-não-aceitarem-a-ideologia-de-g-pais_presos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCPxAuPCEa_s1pH7_16V9Xk-6jPbth0rkrK41OWOau3zRWJ2hd8gf-ZsnUSYbOZCc7UmmqT0C0vJHKWrvdyun_okG30M1abV1efR-V_OqNCxUINOUYb75GjCEg6Wg8947cKgXz8EYCiAU/s1600/pais_presos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCPxAuPCEa_s1pH7_16V9Xk-6jPbth0rkrK41OWOau3zRWJ2hd8gf-ZsnUSYbOZCc7UmmqT0C0vJHKWrvdyun_okG30M1abV1efR-V_OqNCxUINOUYb75GjCEg6Wg8947cKgXz8EYCiAU/s320/pais_presos.png" width="320" height="241" data-original-width="634" data-original-height="477" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1269-pais-são-presos-por-não-aceitarem-a-ideologia-de-g-pais_presos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1269-pais-são-presos-por-não-aceitarem-a-ideologia-de-g-pais_presos.png" width="320" height="241" data-original-width="634" data-original-height="477" /></a></div>
 </br>
 Enquanto o Brasil resiste bravamente à implantação legal da ideologia de gênero, alguns fatos ocorridos fora do continente podem ajudar a esclarecer ainda mais de que se trata essa grande farsa, concebida para destruir a sociedade, a família e o próprio homem.</br>
 </br>

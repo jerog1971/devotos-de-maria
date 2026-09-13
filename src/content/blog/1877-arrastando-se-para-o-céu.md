@@ -1,10 +1,10 @@
 ---
 title: "Arrastando-se para o céu"
 date: 2022-12-16T17:52:00.005Z
-heroImage: "/images/arrastando-se para o céu.png"
+heroImage: "/images/posts/1877-arrastando-se-para-o-céu-img-543846296.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiyhnPhpCjOv7T4KisI-gEt9tURijCw-NzcAXAojUlSbOQndwnXkm9t7dhg0G5pfgPICfRP24vcmVgP3P7hqjtHLEPZ1AcoDzMT7oP6D0WYL-PRHY-BLKXNjOKEhEJ00Pm9HNZd7SmTQ0XI6Raz8LHeVsv3wtkYfY4UgLTK3sk95sHshsR94Jb_hXs/s363/arrastando-se%20para%20o%20c%C3%A9u.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="341" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiyhnPhpCjOv7T4KisI-gEt9tURijCw-NzcAXAojUlSbOQndwnXkm9t7dhg0G5pfgPICfRP24vcmVgP3P7hqjtHLEPZ1AcoDzMT7oP6D0WYL-PRHY-BLKXNjOKEhEJ00Pm9HNZd7SmTQ0XI6Raz8LHeVsv3wtkYfY4UgLTK3sk95sHshsR94Jb_hXs/s320/arrastando-se%20para%20o%20c%C3%A9u.png" width="301" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é assim que muitas vezes as pessoas se sentem? Quem sabe
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1877-arrastando-se-para-o-céu-img-543846296.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="341" height="320" src="/images/posts/1877-arrastando-se-para-o-céu-img-1559566873.png" width="301" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é assim que muitas vezes as pessoas se sentem? Quem sabe
 até mesmo nós? Pois é, temos que nos sentir assim mesmo; se não por uma razão,
 então por outra. Vamos entender. Se tudo for bem com nossas práticas religiosas,
 a observância dos mandamentos, do evangelho de Jesus Cristo e da santa palavra

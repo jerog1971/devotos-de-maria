@@ -1,10 +1,10 @@
 ---
 title: "A dificuldade do justo"
 date: 2019-02-19T20:16:00Z
-heroImage: "/images/dificuldade_do_justo.png"
+heroImage: "/images/posts/1171-a-dificuldade-do-justo-dificuldade_do_justo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhswERGI6TNmVuOdJLKblvuwfHWDFW9VfvJBNUSp2DIsqEoabN6AmeLu6YrPsKdW4OGsCVFTjRStXKbfvBz_2z-uv2zg9t1exqOwq7k-rOqtiCFwejhrnELO7iUdCLxUg80J3Qx-Lq8O4M/s1600/dificuldade_do_justo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhswERGI6TNmVuOdJLKblvuwfHWDFW9VfvJBNUSp2DIsqEoabN6AmeLu6YrPsKdW4OGsCVFTjRStXKbfvBz_2z-uv2zg9t1exqOwq7k-rOqtiCFwejhrnELO7iUdCLxUg80J3Qx-Lq8O4M/s320/dificuldade_do_justo.png" width="307" height="320" data-original-width="334" data-original-height="348" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1171-a-dificuldade-do-justo-dificuldade_do_justo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1171-a-dificuldade-do-justo-dificuldade_do_justo.png" width="307" height="320" data-original-width="334" data-original-height="348" /></a></div>
 Vemos nas sagradas escrituras como exemplo de homem justo a pessoa de São José. Muitíssimo acima dos homens, porém, muitíssimo abaixo da Virgem Maria que, mesmo sendo a “cheia de graça” é como um nada perante Deus (São João Maria Vianney).</br>
 </br>
 Tudo isso para que? Para compreendermos que a recomendação que Jesus nos deu de que devemos nos esforçar para alcançarmos a glória dos céus não dispensa ninguém.</br>

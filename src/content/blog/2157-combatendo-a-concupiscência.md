@@ -1,10 +1,10 @@
 ---
 title: "Combatendo a concupiscência"
 date: 2021-04-26T21:41:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/2157-combatendo-a-concupiscência-concupisc_25C3_25AAncia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ZXArZl51RZZNZhEc2n8eqSdl-xCSzZ7YUnC04dtCjO997skMbp2LjKXkFxNq5u59Vq6SUhL2KTNgQlZXBc8Fj4KQZypPM0DGmg8A8YKHpal3a2Hnn5DYe0tt7IZTv_aNWNQrrQsPkpk/s341/concupisc%25C3%25AAncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="341" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ZXArZl51RZZNZhEc2n8eqSdl-xCSzZ7YUnC04dtCjO997skMbp2LjKXkFxNq5u59Vq6SUhL2KTNgQlZXBc8Fj4KQZypPM0DGmg8A8YKHpal3a2Hnn5DYe0tt7IZTv_aNWNQrrQsPkpk/s320/concupisc%25C3%25AAncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Feliz o homem que suporta a tentação. Porque, depois de
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2157-combatendo-a-concupiscência-concupisc_25C3_25AAncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="341" src="/images/posts/2157-combatendo-a-concupiscência-concupisc_25C3_25AAncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Feliz o homem que suporta a tentação. Porque, depois de
 sofrer a provação, receberá a coroa da vida que Deus prometeu aos que o amam.
 Ninguém, quando for tentado, diga: É Deus quem me tenta. Deus é inacessível ao
 mal e não tenta a ninguém. Cada um é tentado pela sua própria concupiscência,

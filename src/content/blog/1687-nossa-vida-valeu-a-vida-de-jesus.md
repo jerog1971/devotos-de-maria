@@ -1,10 +1,10 @@
 ---
 title: "Nossa vida valeu a vida de Jesus"
 date: 2021-07-02T15:21:00.003Z
-heroImage: "/images/Agradecer a Jesus.png"
+heroImage: "/images/posts/1687-nossa-vida-valeu-a-vida-de-jesus-jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s341/jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s320/jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As dificuldades oriundas da desobediência humana causaram em
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1687-nossa-vida-valeu-a-vida-de-jesus-jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" src="/images/posts/1687-nossa-vida-valeu-a-vida-de-jesus-jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As dificuldades oriundas da desobediência humana causaram em
 toda a caminhada sobre esta terra inúmeros percalços e tropeços durante o passo
 a passo rumo as moradas eternas. Deus não abandonou suas criaturas, ao
 contrário, até aliança eterna com elas ele fez. Todavia, apesar dos esforços

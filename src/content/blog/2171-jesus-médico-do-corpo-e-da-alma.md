@@ -1,10 +1,10 @@
 ---
 title: "Jesus, médico do corpo e da alma"
 date: 2022-06-01T15:29:00.003Z
-heroImage: "/images/sermão.png"
+heroImage: "/images/posts/2171-jesus-médico-do-corpo-e-da-alma-serm_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJYRjTrBxQMUsHbzYxLzHMkTWTt48vUBIE9d5wqmoOmc14EG1asYA3mBUkeT8EYUK0jcR3Td2xHinl2p7zEwsrO3Psdo3Xaso69Jxa8GSXnn8flE6sLXG46yP2_c-eHY2SIlf3xbGdhtMVijxBbojK_oOa1zhkpMdbrj8g2XyXIdK22FtmIhAWHzqQ/s553/serm%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJYRjTrBxQMUsHbzYxLzHMkTWTt48vUBIE9d5wqmoOmc14EG1asYA3mBUkeT8EYUK0jcR3Td2xHinl2p7zEwsrO3Psdo3Xaso69Jxa8GSXnn8flE6sLXG46yP2_c-eHY2SIlf3xbGdhtMVijxBbojK_oOa1zhkpMdbrj8g2XyXIdK22FtmIhAWHzqQ/s320/serm%C3%A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma leitura atenta ao evangelho trás, além de grandes e duras
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2171-jesus-médico-do-corpo-e-da-alma-serm_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="/images/posts/2171-jesus-médico-do-corpo-e-da-alma-serm_C3_A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma leitura atenta ao evangelho trás, além de grandes e duras
 verdades, também grandes consolos; pois, aprendemos em sua palavra que Jesus
 Cristo é o médico do corpo e da alma. Afinal, foi ele quem disse: “Vinde a mim,
 vós todos que estais aflitos sob o fardo, e eu vos aliviarei. Tomai meu jugo

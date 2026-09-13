@@ -1,10 +1,10 @@
 ---
 title: "Nossa fé pelas obras"
 date: 2020-04-04T13:41:00Z
-heroImage: "/images/juiz.png"
+heroImage: "/images/posts/1840-nossa-fé-pelas-obras-juiz.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7SZAzDxcNaWtqaI_r87Lca8oqu-r2h78oSwplncLJyuoR0IbXEQA34zyzAOAQlOGwfhSvGzuncUqzhSQvtaZlOcagTgBus2IUKcchB5gqtYp7oEQEgnXzZ2rToIzJKpeUAUdazZqUNk/s1600/juiz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7SZAzDxcNaWtqaI_r87Lca8oqu-r2h78oSwplncLJyuoR0IbXEQA34zyzAOAQlOGwfhSvGzuncUqzhSQvtaZlOcagTgBus2IUKcchB5gqtYp7oEQEgnXzZ2rToIzJKpeUAUdazZqUNk/s320/juiz.png" width="249" height="320" data-original-width="247" data-original-height="318" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1840-nossa-fé-pelas-obras-juiz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1840-nossa-fé-pelas-obras-juiz.png" width="249" height="320" data-original-width="247" data-original-height="318" /></a></div>
 No capítulo dois do livro de São Tiago recebemos o ensinamento muito claro de que as atitudes são movidas a partir do que existe no coração. A fé se instala no coração e oferece ao intelecto a razão para mover as atitudes, descritas na bíblia como obras. E como são importantes.</br>
 </br>
 “De que aproveitará, irmãos, a alguém dizer que tem fé, se não tiver obras? Acaso esta fé poderá salvá-lo? A fé se não tiver obras, é morta em si mesma. Assim como o corpo sem a alma é morto, assim também a fé sem obras é morta.” Ademais, está muito claro que só crer não basta, pois até os demônios creem.</br>

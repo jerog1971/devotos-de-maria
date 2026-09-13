@@ -1,10 +1,10 @@
 ---
 title: "Injustiças de Deus?"
 date: 2021-09-17T15:38:00.006Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/547-injustiças-de-deus-crueldade_de_Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirAjYIj73AxwSEFHozqwsJpH5_f5RBhAxjYfNPVQa5oNHp43jh_SuD9BlRPnF657IFLv08uo2CEQcgzmU8lVeR9yt6-4HIq88cpv9luvPDtzvOqYVOTkJp1_s5MyDqNyjOj78CeCvO6uQ/s587/crueldade+de+Deus.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="587" data-original-width="587" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirAjYIj73AxwSEFHozqwsJpH5_f5RBhAxjYfNPVQa5oNHp43jh_SuD9BlRPnF657IFLv08uo2CEQcgzmU8lVeR9yt6-4HIq88cpv9luvPDtzvOqYVOTkJp1_s5MyDqNyjOj78CeCvO6uQ/s320/crueldade+de+Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O “Deus” do antigo testamento para muitos parece ser uma
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/547-injustiças-de-deus-crueldade_de_Deus.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="587" data-original-width="587" height="320" src="/images/posts/547-injustiças-de-deus-crueldade_de_Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O “Deus” do antigo testamento para muitos parece ser uma
 entidade muito diferente do Deus do novo testamento. Isso porque no primeiro
 testamento bíblico vemos muita crueldade de todo tipo: genocídio, racismo,
 execuções terríveis de adúlteros e homossexuais, o assassinato de seus próprios

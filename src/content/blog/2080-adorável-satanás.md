@@ -1,10 +1,10 @@
 ---
 title: "Adorável Satanás"
 date: 2023-05-17T21:34:00.003Z
-heroImage: "/images/abraço.png"
+heroImage: "/images/posts/2080-adorável-satanás-o_20abra_C3_A7o_20do_20inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVlNo4EAi8wksy9S7xZbTrlILEvPVF6S25_O-pGrrWub3gcp9LHExc2gzouMdyPFZXT0ccxGr4j82RuHUhJK18AnL9D_berankr70kg-CHC8GwtNlH0ue_j3fp3DDAbFfU95-tGCH1Y5qOjTzEOfwHnIWNidcNLP1bthsW-QQpeGqDflV-KmG-hGmv/s552/o%20abra%C3%A7o%20do%20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="552" data-original-width="501" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVlNo4EAi8wksy9S7xZbTrlILEvPVF6S25_O-pGrrWub3gcp9LHExc2gzouMdyPFZXT0ccxGr4j82RuHUhJK18AnL9D_berankr70kg-CHC8GwtNlH0ue_j3fp3DDAbFfU95-tGCH1Y5qOjTzEOfwHnIWNidcNLP1bthsW-QQpeGqDflV-KmG-hGmv/s320/o%20abra%C3%A7o%20do%20inferno.png" width="290" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente um título assim causa estranheza e repulsa para
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2080-adorável-satanás-o_20abra_C3_A7o_20do_20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="552" data-original-width="501" height="320" src="/images/posts/2080-adorável-satanás-o_20abra_C3_A7o_20do_20inferno.png" width="290" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente um título assim causa estranheza e repulsa para
 muitas pessoas. Puxa! Vão logo pensando que é um admirador declarado do inimigo
 número um de nossas almas. Como pode tê-lo em tão alta conta sendo que para o
 católico adorável é Jesus Cristo e sua mãe? E é claro que eu concordarei com a

@@ -1,10 +1,10 @@
 ---
 title: "Das obras feitas com caridade"
 date: 2020-06-17T17:08:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/425-das-obras-feitas-com-caridade-humildes.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbgrM-DkuIFK81zA6Qd9fK4BKQ4dX8yrWCRUatL3Px8q1AcnXn1oqb0oswY6LrTKjdd0jLNZns83jsnP3DgZu8nWTdB9CN-k3ZqzUcKr1cN5sARdLGuFb-lmEQqs67NSGnb1fahbCCE2w/s233/humildes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="220" data-original-width="233" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbgrM-DkuIFK81zA6Qd9fK4BKQ4dX8yrWCRUatL3Px8q1AcnXn1oqb0oswY6LrTKjdd0jLNZns83jsnP3DgZu8nWTdB9CN-k3ZqzUcKr1cN5sARdLGuFb-lmEQqs67NSGnb1fahbCCE2w/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Por nenhuma coisa do mundo, nem por amor de pessoa alguma se
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/425-das-obras-feitas-com-caridade-humildes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="220" data-original-width="233" src="/images/posts/425-das-obras-feitas-com-caridade-img-425044283.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Por nenhuma coisa do mundo, nem por amor de pessoa alguma se
 deve praticar qualquer mal; mas, em prol de algum necessitado, pode-se, às
 vezes, omitir uma boa obra, ou troca-la por outra melhor. Desta sorte, a boa
 obra não se perde, mas se converte em outra melhor. Sem a caridade, nada vale a

@@ -1,10 +1,10 @@
 ---
 title: "Palavras não curam um coração partido"
 date: 2018-03-05T21:41:00Z
-heroImage: "/images/sofrimento.png"
+heroImage: "/images/posts/118-palavras-não-curam-um-coração-partido-sofrimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhzzFQBe6EnTF48vo3_f4QHKIlE6RvUbeMBHsWcxirliExWTFNmrHrfhemSKQwrxzl6X0DY7U9pA0_Hr5icUP2yPoUuWRbnzEvfkaAepl_LaZvs_H-K4vHClEUqwq7xUzVo0sfALIldo/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhzzFQBe6EnTF48vo3_f4QHKIlE6RvUbeMBHsWcxirliExWTFNmrHrfhemSKQwrxzl6X0DY7U9pA0_Hr5icUP2yPoUuWRbnzEvfkaAepl_LaZvs_H-K4vHClEUqwq7xUzVo0sfALIldo/s320/sofrimento.png" width="320" height="308" data-original-width="408" data-original-height="393" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/118-palavras-não-curam-um-coração-partido-sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/118-palavras-não-curam-um-coração-partido-sofrimento.png" width="320" height="308" data-original-width="408" data-original-height="393" /></a></div>
 O bem-estar físico, psíquico, mental e espiritual é uma coisa pela qual muitas, e quem sabe podemos dizer todas, pessoas buscam obter para suas vidas. De fato podemos concordar que buscar um mal-estar, um sofrimento doloroso voluntário cheira como algo que possui em sua essência uma dose de sadomasoquismo. Ou será que não? Querer o sofrimento o felicitar-se com ele não parece algo a se fazer, mas é nesse ponto que, como diz São Paulo, a cruz de Cristo para os cristãos, é loucura. A dor que é filha do amor faz o católico compreender que a cruz é a regra e não a exceção. No entanto, fora da experiência de Jesus, que nos concede a salvação mediante a cruz, não há o que fazer se as dores da vida, como flechadas atingem nossos corações.</br>
 </br>
 Não existe palavra alguma de consolo, pois a seta que perfurou, mesmo que retirada, irá deixar marcas que serão carregadas para toda a vida aqui na terra. Neste ponto para os que se acham autossuficientes e tentam resolver tudo sem a ajuda dos céus, terminam por levarem da vida um tombo ainda maior.</br>

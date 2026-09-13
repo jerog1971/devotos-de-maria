@@ -1,10 +1,10 @@
 ---
 title: "Temos um só Deus"
 date: 2021-05-31T13:52:00.004Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/624-temos-um-só-deus-outros_deuses.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR2wU_0BjUZK53pWZxQ6KUf6avoueC6KblsTesQleVcTq_kjLWpNtn_lpfGwIr8qt3apjelgTUisuTq00ra0AXHFjs5f03FsShNWzcJYeD7X8DH8iq6vXW0EJ05I54HP3sAIO53_RY2LA/s365/outros+deuses.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="354" data-original-width="365" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR2wU_0BjUZK53pWZxQ6KUf6avoueC6KblsTesQleVcTq_kjLWpNtn_lpfGwIr8qt3apjelgTUisuTq00ra0AXHFjs5f03FsShNWzcJYeD7X8DH8iq6vXW0EJ05I54HP3sAIO53_RY2LA/s320/outros+deuses.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Embora o pecado articule e transforme as idolatrias em “novos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/624-temos-um-só-deus-outros_deuses.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="354" data-original-width="365" src="/images/posts/624-temos-um-só-deus-outros_deuses.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Embora o pecado articule e transforme as idolatrias em “novos
 deuses”, colocando-as acima do nosso criador, de fato, essas idolatrias
 completam desejos menores, que não podem preencher um coração criado para ser preenchido
 por aquilo que o mantém seguro nas questões que envolvem a salvação das almas.<o:p></o:p></p><div class="separator" style="clear: both;">

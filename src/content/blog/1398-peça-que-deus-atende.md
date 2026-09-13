@@ -1,10 +1,10 @@
 ---
 title: "Peça que Deus atende"
 date: 2021-05-03T20:05:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1398-peça-que-deus-atende-pedi_e_recebereis.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ0EapNG18GCUN_5m9ZIdvMW8iqF4biIzjfD3MzE3vh-0KNBjpIU1INohPWd1qCycNqOGD5Mib1jC0I7AUXpqKwKl_bcEbuYYHMHZksL4L-Yna6KfoXqCLAWObuAxmwTgrWSUizWWKBXU/s274/pedi+e+recebereis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ0EapNG18GCUN_5m9ZIdvMW8iqF4biIzjfD3MzE3vh-0KNBjpIU1INohPWd1qCycNqOGD5Mib1jC0I7AUXpqKwKl_bcEbuYYHMHZksL4L-Yna6KfoXqCLAWObuAxmwTgrWSUizWWKBXU/s0/pedi+e+recebereis.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Certamente muitas pessoas não acreditam nisso; pois, por experiência
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1398-peça-que-deus-atende-pedi_e_recebereis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="274" src="/images/posts/1398-peça-que-deus-atende-pedi_e_recebereis.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Certamente muitas pessoas não acreditam nisso; pois, por experiência
 própria, pediram, pediram e pediram isso, aquilo e aquele outro e a porcentagem
 do que reivindicaram foi ínfima, quase zero. Pois é, e como entender então essa
 questão? Jesus disse: “Pedi e se vos dará. Buscai e achareis. Batei e vos será

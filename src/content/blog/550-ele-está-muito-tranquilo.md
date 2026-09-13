@@ -1,10 +1,10 @@
 ---
 title: "Ele está muito tranquilo"
 date: 2018-09-27T20:29:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/550-ele-está-muito-tranquilo-d_25C3_25BAvidas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-eRnV_7gX1wsca3EgizSUb8913YMVV6-vEpRKz9ZrEpu1Uu7QZPPML3SLjBKAkZd6nUki7MZDT-IVGxwxbwg13kVlGGL99wRW7O0FtJU7PHUluhFAmDqqjnGTb7kvXRdIgXIrx6KOG8I/s1600/d%25C3%25BAvidas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-eRnV_7gX1wsca3EgizSUb8913YMVV6-vEpRKz9ZrEpu1Uu7QZPPML3SLjBKAkZd6nUki7MZDT-IVGxwxbwg13kVlGGL99wRW7O0FtJU7PHUluhFAmDqqjnGTb7kvXRdIgXIrx6KOG8I/s320/d%25C3%25BAvidas.png" width="310" height="320" data-original-width="392" data-original-height="405" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/550-ele-está-muito-tranquilo-d_25C3_25BAvidas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/550-ele-está-muito-tranquilo-d_25C3_25BAvidas.png" width="310" height="320" data-original-width="392" data-original-height="405" /></a></div>
 A individualidade de cada um confere no receituário da vida muitos ingredientes para modificar o tempero do cotidiano das pessoas. De fato, qualquer um é perito em descrever como funcionam as relações interpessoais. No fundo dizem que elas não funcionam. Vamos entender.</br>
 </br>
 Não funcionam como se esperavam que funcionassem porque o ponto de vista, o termo de comparação acaba, na grande maioria das vezes, sendo o da própria pessoa. De vez em quando não escutamos as pessoas dizerem: “ponha-se no meu lugar”? Pois bem, deve possivelmente ser uma grande verdade, um grande alerta. É sinal de que não existe o “nosso”, existe apenas o “eu”.

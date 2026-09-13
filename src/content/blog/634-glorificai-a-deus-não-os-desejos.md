@@ -1,10 +1,10 @@
 ---
 title: "Glorificai a Deus, não os desejos"
 date: 2021-10-27T15:57:00.004Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/634-glorificai-a-deus-não-os-desejos-img-1906958185.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQFBn0n_X24WQxBiWbADJj7NhstrdMP65c-iYTtubwqaLS6XJ_ipctAJY0Eu7i_7szBOSC7ryVYOaWTEkbqhRD-pPk4LJyYLsstakC4jurYN9plma7W90P6gOItbK95eVpcBXX1fWiFzQ/s265/Glorificai+a+Deus%252C+n%25C3%25A3o+os+desejos.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="256" height="265" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQFBn0n_X24WQxBiWbADJj7NhstrdMP65c-iYTtubwqaLS6XJ_ipctAJY0Eu7i_7szBOSC7ryVYOaWTEkbqhRD-pPk4LJyYLsstakC4jurYN9plma7W90P6gOItbK95eVpcBXX1fWiFzQ/s0/Glorificai+a+Deus%252C+n%25C3%25A3o+os+desejos.png" width="256" /></a></div><br /><p></p><p class="MsoNormal">Eclesiástico 23, 22-28 – “A alma que queima como um fogo
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/634-glorificai-a-deus-não-os-desejos-img-1906958185.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="256" height="265" src="/images/posts/634-glorificai-a-deus-não-os-desejos-img-884464712.png" width="256" /></a></div><br /><p></p><p class="MsoNormal">Eclesiástico 23, 22-28 – “A alma que queima como um fogo
 ardente (de desejo) não se apagará antes de ter devorado alguma coisa. O homem
 que abusa de seu próprio corpo, não terá sossego enquanto não acender uma
 fogueira. Para o fornicador todo o alimento é doce; não se cansará de pecar até

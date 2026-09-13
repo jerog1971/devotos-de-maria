@@ -1,10 +1,10 @@
 ---
 title: "Coisas inúteis e desnecessárias"
 date: 2022-04-04T17:56:00.004Z
-heroImage: "/images/gemma.png"
+heroImage: "/images/posts/1571-coisas-inúteis-e-desnecessárias-gemma.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZu8ge156n4IRVpA2quk_hhvoXjHSuGxRS0pIjBQQzvRZ4feNu7Vid48-IBwKiOoZaM6klP9y_t7u8864hstAzDknFqtanUWzZ2w9rfBbeheNgtRXTOAgwyLSVJyxIQxgT-gXRpm4DxTCS9LBfRmY1jQzH4m5MyN6wQH2RLTzw7fJ4nuDsQm38mvHd/s397/gemma.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="342" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZu8ge156n4IRVpA2quk_hhvoXjHSuGxRS0pIjBQQzvRZ4feNu7Vid48-IBwKiOoZaM6klP9y_t7u8864hstAzDknFqtanUWzZ2w9rfBbeheNgtRXTOAgwyLSVJyxIQxgT-gXRpm4DxTCS9LBfRmY1jQzH4m5MyN6wQH2RLTzw7fJ4nuDsQm38mvHd/s320/gemma.png" width="276" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida de muitos santos e santas de Deus, depois que tiveram
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1571-coisas-inúteis-e-desnecessárias-gemma.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="342" height="320" src="/images/posts/1571-coisas-inúteis-e-desnecessárias-gemma.png" width="276" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida de muitos santos e santas de Deus, depois que tiveram
 a experiência do encontro com Jesus Cristo, assim como os relatos do apóstolo
 São Paulo, passou a ser um grande peso, um grande martírio, porque, com o
 coração preenchido por aquilo que só pode preenche-lo [o amor de Deus], passa a

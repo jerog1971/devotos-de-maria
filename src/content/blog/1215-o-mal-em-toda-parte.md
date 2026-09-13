@@ -1,10 +1,10 @@
 ---
 title: "O mal em toda parte"
 date: 2023-04-19T18:03:00.001Z
-heroImage: "/images/mal.png"
+heroImage: "/images/posts/1215-o-mal-em-toda-parte-o_20mal_20em_20toda_20parte.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7MgsbwaT4LAgwhqjREsenROVCof4Gz3dzWsarrkXgpsEhvgaiWNIaEmN5IeAZf1NuSeWa8gWUFmHlyhIlNpHLrKfwtvX4TILcOINlS_ZJKeB1gNTuUfW1tr1v-52Lua68ZUVP4ptfZ1J72MwuhXK_0LvFXhAfYgPqKAvmzvyY-7bkK-VY6xndCNrt/s688/o%20mal%20em%20toda%20parte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="647" data-original-width="688" height="301" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7MgsbwaT4LAgwhqjREsenROVCof4Gz3dzWsarrkXgpsEhvgaiWNIaEmN5IeAZf1NuSeWa8gWUFmHlyhIlNpHLrKfwtvX4TILcOINlS_ZJKeB1gNTuUfW1tr1v-52Lua68ZUVP4ptfZ1J72MwuhXK_0LvFXhAfYgPqKAvmzvyY-7bkK-VY6xndCNrt/s320/o%20mal%20em%20toda%20parte.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que o mal está em toda parte, pois o “diabo anda
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1215-o-mal-em-toda-parte-o_20mal_20em_20toda_20parte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="647" data-original-width="688" height="301" src="/images/posts/1215-o-mal-em-toda-parte-o_20mal_20em_20toda_20parte.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que o mal está em toda parte, pois o “diabo anda
 como um leão a espreita esperando a oportunidade de dar o bote” – lemos nas
 sagradas escrituras. O mal não é uma ideia ou conceito, ele é personificado em
 alguém: Satanás, segundo as palavras do Padre Gabriele Amorth, mais famoso exorcista

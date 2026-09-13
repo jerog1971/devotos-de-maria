@@ -1,10 +1,10 @@
 ---
 title: "Fiéis Seguidores"
 date: 2021-08-20T15:23:00.003Z
-heroImage: "/images/dor.png"
+heroImage: "/images/posts/1327-fiéis-seguidores-fieis_seguidores.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN4bvirNn-YxCHiEqxQImbLq4zDhPb1KmbpILi6miJ45L-k7fK0NrkrhVaUEhKdDk3jAic-XgrzhHhXOCWCvx2mPYihonJv9iLNKHhRufMJ8_EMi-GvMc52l8OYCPeod15rQYahJaO8MQ/s545/fieis+seguidores.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="525" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN4bvirNn-YxCHiEqxQImbLq4zDhPb1KmbpILi6miJ45L-k7fK0NrkrhVaUEhKdDk3jAic-XgrzhHhXOCWCvx2mPYihonJv9iLNKHhRufMJ8_EMi-GvMc52l8OYCPeod15rQYahJaO8MQ/s320/fieis+seguidores.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De muitas formas o ser humano é fiel; motivado por seus
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1327-fiéis-seguidores-fieis_seguidores.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="525" height="320" src="/images/posts/1327-fiéis-seguidores-fieis_seguidores.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De muitas formas o ser humano é fiel; motivado por seus
 interesses ele se dedica naquilo que muito lhe apetece. Todavia, se algo é de
 suma importância para sua vida física, material e espiritual, mas ele não vê
 nesta perspectiva o que se apresenta a sua frente, lá se vai a possibilidade de

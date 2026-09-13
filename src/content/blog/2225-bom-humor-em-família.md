@@ -1,10 +1,10 @@
 ---
 title: "Bom humor em família"
 date: 2024-09-04T21:09:00Z
-heroImage: "/images/Bom humor em família.jpg"
+heroImage: "/images/posts/2225-bom-humor-em-família-img-1836391137.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj34wHKWjY8ivdRUqYayNAQieIQtVplxQqAaUgiohXV6Ruk1yEjmFBbo2QSPykSTLJ8YyrUopKji_EEe7RhRs9c1zRj9_PmsA0X2V7YAlKGeBGWOaljkNPJ6jbySROPlzsjJz8wSLYYl6CYS3HlD08GUeW7gAQVspzHztQhmxao9z4BK_Mm7DFq1SCSeSc/s960/Bom%20humor%20em%20fam%C3%ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="480" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj34wHKWjY8ivdRUqYayNAQieIQtVplxQqAaUgiohXV6Ruk1yEjmFBbo2QSPykSTLJ8YyrUopKji_EEe7RhRs9c1zRj9_PmsA0X2V7YAlKGeBGWOaljkNPJ6jbySROPlzsjJz8wSLYYl6CYS3HlD08GUeW7gAQVspzHztQhmxao9z4BK_Mm7DFq1SCSeSc/s320/Bom%20humor%20em%20fam%C3%ADlia.jpg" width="160" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Ele é o animal de estimação da família, já está há alguns anos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2225-bom-humor-em-família-img-1836391137.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="480" height="320" src="/images/posts/2225-bom-humor-em-família-img-1463461661.jpg" width="160" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Ele é o animal de estimação da família, já está há alguns anos
 conosco, bem calminho, muito obediente. Não foi o primeiro animal a
 frequentar a casa, mas, nas palavras de minha esposa, ele é sob
 medida. O cachorro veio quando ainda filhote, com pouco tempo de

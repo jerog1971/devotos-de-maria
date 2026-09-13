@@ -1,10 +1,10 @@
 ---
 title: "Cristão, perda de tempo?"
 date: 2015-12-09T10:50:00Z
-heroImage: "/images/santa_terezinha.png"
+heroImage: "/images/posts/1563-cristão-perda-de-tempo-santa_terezinha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhF_jUWqcflRbieX1FkgpFex41ix-NtI-oy8lVsWtwhjBTVXerIl61IK4-rqHtw42VW0Hh5MfVw_ZK5ueqU8hNIOKw5cFhLamGI1CF9MZZQa7SEYoQMY8Y_AS-4L1vRAId1f3t7VYRss/s1600/santa_terezinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhF_jUWqcflRbieX1FkgpFex41ix-NtI-oy8lVsWtwhjBTVXerIl61IK4-rqHtw42VW0Hh5MfVw_ZK5ueqU8hNIOKw5cFhLamGI1CF9MZZQa7SEYoQMY8Y_AS-4L1vRAId1f3t7VYRss/s320/santa_terezinha.png" width="316" height="320" data-original-width="349" data-original-height="353" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1563-cristão-perda-de-tempo-santa_terezinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1563-cristão-perda-de-tempo-santa_terezinha.png" width="316" height="320" data-original-width="349" data-original-height="353" /></a></div>
 </br>
 A uma sociedade que abandonou a fé e considera um "desperdício" ser cristão, a grande Santa Teresinha do Menino Jesus tem uma resposta a oferecer. Para ela, a "perda de tempo" dos que amam a Deus é o "santo desperdício" de quem ganha a eternidade!</br>
 </br>

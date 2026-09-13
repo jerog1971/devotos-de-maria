@@ -1,10 +1,10 @@
 ---
 title: "Sabemos dar coisas boas"
 date: 2020-08-20T23:17:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/522-sabemos-dar-coisas-boas-m_25C3_25A3e_e_filho.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvc2uhY9yDIgH2UiC9o4VOZdomi4ejXqb_I5avndhsNudixg4HvobGuchw_QR5b3IJiaI_iLqflxp14BwTPbaegaNhg2bHqkdsUqLwB7WqsZCriVPUcFFg5b16GeLTuPIIOmdjtfBUpHU/s827/m%25C3%25A3e+e+filho.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="827" data-original-width="780" height="409" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvc2uhY9yDIgH2UiC9o4VOZdomi4ejXqb_I5avndhsNudixg4HvobGuchw_QR5b3IJiaI_iLqflxp14BwTPbaegaNhg2bHqkdsUqLwB7WqsZCriVPUcFFg5b16GeLTuPIIOmdjtfBUpHU/w386-h409/m%25C3%25A3e+e+filho.jpg" width="386" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 7,9-13 – “Quem dentre vós dará uma pedra a seu filho,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/522-sabemos-dar-coisas-boas-m_25C3_25A3e_e_filho.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="827" data-original-width="780" height="409" src="/images/posts/522-sabemos-dar-coisas-boas-m_25C3_25A3e_e_filho.jpg" width="386" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 7,9-13 – “Quem dentre vós dará uma pedra a seu filho,
 se este lhe pedir pão? E, se lhe pedir um peixe, dar-lhe-á uma serpente? Se
 vós, pois, que sois maus, sabeis dar boas coisas a vossos filhos, quanto mais
 vosso Pai celeste dará boas coisas aos que lhe pedirem. Tudo o que quereis que

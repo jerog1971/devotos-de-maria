@@ -1,10 +1,10 @@
 ---
 title: "Em volta da mesa"
 date: 2018-05-04T20:29:00.001Z
-heroImage: "/images/ceia_catequese.jpg"
+heroImage: "/images/posts/340-em-volta-da-mesa-ceia_catequese.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBK0KXpTuz49ubZ0Z6agVzLrF1G8KP5tl83OpEssfbNBAXOieeZb0kmgBHH_OIvRUhbsbLrf7EzlRdrxPR7LTjbvrylTh40IPEW5m3qIC1B5trJzmiqnWoHk6qmCT6q5_IxWyImxLlV2Q/s1600/ceia_catequese.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBK0KXpTuz49ubZ0Z6agVzLrF1G8KP5tl83OpEssfbNBAXOieeZb0kmgBHH_OIvRUhbsbLrf7EzlRdrxPR7LTjbvrylTh40IPEW5m3qIC1B5trJzmiqnWoHk6qmCT6q5_IxWyImxLlV2Q/s320/ceia_catequese.jpg" width="211" height="320" data-original-width="675" data-original-height="1024" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/340-em-volta-da-mesa-ceia_catequese.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/340-em-volta-da-mesa-ceia_catequese.jpg" width="211" height="320" data-original-width="675" data-original-height="1024" /></a></div>
 Na festa dos noivos, quando Jesus transformou água em vinho, os convidados, podemos honestamente imaginar, comemoravam e participavam ao redor de uma mesa. Em outras ocasiões também relatadas nos evangelhos Jesus estava à mesa tomando as refeições com seus anfitriões. Na santa ceia o mesmo aconteceu. Para início de reflexão, com estes pequenos apontamentos podemos facilmente perceber que ao redor de uma mesa, coisas importantes se celebram.</br>
 </br>
 Famílias reuniam-se em volta da mesa desde os tempos antigos para se alimentarem. O alimento e a mesa estiveram juntos desde muitos anos atrás. Quando se vai a passeio num parque para se fazer um piquenique na grama, quem vem lá? A mesa! Isso mesmo, coloca-se uma toalha no chão que comumente é uma toalha de mesa para que todos se sentem ao seu redor e comam. Com poucos exemplos já é possível enxergarmos o grande simbolismo que está associado a ela (a mesa).</br>

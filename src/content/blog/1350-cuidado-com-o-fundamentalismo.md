@@ -1,10 +1,10 @@
 ---
 title: "Cuidado com o fundamentalismo"
 date: 2016-06-29T13:27:00Z
-heroImage: "/images/fundamentalismo.png"
+heroImage: "/images/posts/1350-cuidado-com-o-fundamentalismo-fundamentalismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_zDwVbXpFW1Z18P905rzeOfVZ18q3GVVHKDTIfoAElLS9_6weBx1jTbZ1XZF0_rDSCL9EK_8opaTzj1kuL6aaQVt0TIG4k50me8ZjVOm6NtyM0MkDRR6GqudrtIDmHOoA4XYgd0krLU/s1600/fundamentalismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_zDwVbXpFW1Z18P905rzeOfVZ18q3GVVHKDTIfoAElLS9_6weBx1jTbZ1XZF0_rDSCL9EK_8opaTzj1kuL6aaQVt0TIG4k50me8ZjVOm6NtyM0MkDRR6GqudrtIDmHOoA4XYgd0krLU/s320/fundamentalismo.png" width="319" height="320" data-original-width="491" data-original-height="492" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1350-cuidado-com-o-fundamentalismo-fundamentalismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1350-cuidado-com-o-fundamentalismo-fundamentalismo.png" width="319" height="320" data-original-width="491" data-original-height="492" /></a></div>
 Segue para início de reflexão duas explicações formais sobre a questão do fundamentalismo:</br>
 </br>
 A- Um movimento religioso e conservador, nascido entre os protestantes dos E.U.A. no início do século XX, que enfatiza a interpretação literal da Bíblia como fundamental à vida e à doutrina cristã que, embora militante, não se trata de movimento unificado, e acaba denominando diferentes tendências protestantes dos tempos seguintes.</br>

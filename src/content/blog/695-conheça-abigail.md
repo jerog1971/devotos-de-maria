@@ -1,10 +1,10 @@
 ---
 title: "Conheça Abigail"
 date: 2015-10-14T11:22:00Z
-heroImage: "/images/abigail.png"
+heroImage: "/images/posts/695-conheça-abigail-abigail.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEistgqSrQpwBTJqTyeo7JvmMRmKXF7PPL-KKl3qQP4653im1I6w0MSP_Ce7Ex0tC1f2GiJugTnEhUx2hZgRfhWfSShAoOwaIP4CvoCebEhyyMFMX9pQ2PStx_Ewg0R2RI1KMiMqgUbLpew/s1600/abigail.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEistgqSrQpwBTJqTyeo7JvmMRmKXF7PPL-KKl3qQP4653im1I6w0MSP_Ce7Ex0tC1f2GiJugTnEhUx2hZgRfhWfSShAoOwaIP4CvoCebEhyyMFMX9pQ2PStx_Ewg0R2RI1KMiMqgUbLpew/s320/abigail.png" width="320" height="180" data-original-width="630" data-original-height="355" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/695-conheça-abigail-abigail.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/695-conheça-abigail-abigail.png" width="320" height="180" data-original-width="630" data-original-height="355" /></a></div>
 </br>
 No dia 6 de agosto, Erika e Stephen Jones deram boas vindas à sua segunda filha. Tamanha alegria, no entanto, foi precedida por um misto de preocupação e incertezas. O diagnóstico pré-natal da pequena Abigail previa não apenas um, mas dois problemas de saúde.</br>
 </br>
@@ -22,7 +22,7 @@ Mal seus medos se tinham dissipado e eles começaram a aceitar aquele diagnósti
 </br>
 Por causa do tamanho do tumor, Abigail nasceu de cesárea. Os médicos disseram à família que ela não viveria muito tempo depois do nascimento, mas Abigail ficou bem o suficiente para ser levada para casa. O seu câncer não é curável. O agressivo tratamento da quimioterapia poderia matar um bebê da sua idade. Além disso, os médicos não seriam capazes de remover todo o tumor por meio de uma cirurgia.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivohzjO4iEqEGcUON_Y_dHeSIielZGmjwZ9b_GMA_8gjgjkiFtr4g5bGot_MGq0o6OHwz2JbAU0QTml9XgzWjS1K02uzoYGzJJpFky8eRbwVDW35W5GkEKC0Cdwqe4oWtbjRqdqp1ursI/s1600/abigail2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivohzjO4iEqEGcUON_Y_dHeSIielZGmjwZ9b_GMA_8gjgjkiFtr4g5bGot_MGq0o6OHwz2JbAU0QTml9XgzWjS1K02uzoYGzJJpFky8eRbwVDW35W5GkEKC0Cdwqe4oWtbjRqdqp1ursI/s200/abigail2.png" width="200" height="112" data-original-width="633" data-original-height="356" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/695-conheça-abigail-abigail2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/695-conheça-abigail-abigail2.png" width="200" height="112" data-original-width="633" data-original-height="356" /></a></div>
 </br>
 Hoje, Abigail está em casa com seus pais e sua irmã, e conta com a ajuda de um pediatra. "Essa situação é trágica e inacreditavelmente difícil", diz a mãe de Abigail. "Não queremos perder a nossa filha. Queremos vê-la rir, dançar, brigar com a sua irmã, andar de bicicleta, ir à escola... queremos ver a sua vida. (...) Nossos corações estão partidos e despedaçados pelo tempo que não temos. O que nos sustenta é o fato de que Deus é bom."</br>
 </br>

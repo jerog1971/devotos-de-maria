@@ -1,10 +1,10 @@
 ---
 title: "Você já reclamou hoje?"
 date: 2016-09-13T14:09:00Z
-heroImage: "/images/reclamar.png"
+heroImage: "/images/posts/510-você-já-reclamou-hoje-reclamar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLu2IAz2PfsoIhpi7kbDsnlTk-gedR90CXQgY0eHLPtEFRVpKRlRntKEV4m58cp7i0FudGrKFpx7RPKre3JXbPREXRKILFe5ANB2HMmbe56y0LYi09iA7OHtDAuE6JC6sZwl8p84rd1jA/s1600/reclamar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLu2IAz2PfsoIhpi7kbDsnlTk-gedR90CXQgY0eHLPtEFRVpKRlRntKEV4m58cp7i0FudGrKFpx7RPKre3JXbPREXRKILFe5ANB2HMmbe56y0LYi09iA7OHtDAuE6JC6sZwl8p84rd1jA/s320/reclamar.png" width="320" height="287" data-original-width="235" data-original-height="211" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/510-você-já-reclamou-hoje-reclamar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/510-você-já-reclamou-hoje-reclamar.png" width="320" height="287" data-original-width="235" data-original-height="211" /></a></div>
 A palavra reclamar, se formos pesquisar no dicionário iremos encontrar duas definições. Reclamar no sentido de exigir alguma coisa para si e reclamar no sentido de queixar-se. Também nas sagradas escrituras encontramos ensinamentos nestes dois sentidos tanto no antigo como no novo testamento. Vejamos apenas dois exemplos:</br>
 </br>
 Miqueias 6,8 – “Já te foi dito, ó homem, o que convém, o que o Senhor reclama de ti: que pratiques a justiça, que ames a bondade, e que andes com humildade diante do teu Deus”.</br>

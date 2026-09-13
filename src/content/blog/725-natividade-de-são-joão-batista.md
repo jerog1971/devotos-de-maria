@@ -1,10 +1,10 @@
 ---
 title: "Natividade de São João Batista"
 date: 2020-06-24T16:20:00.003Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/725-natividade-de-são-joão-batista-img-993197909.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEp3QI9yGFM1VUHR8MMh14qWLEa8s4F4ZfOTpc3_aheWEhKkcwKUbbx_xdbaneyYN6ntZEG_Vtki_5w8reuaRBjGKrEWg2Q311C500KxRYvHIoEMBemdPwwwBJ9TisGJu2e1C_QXgplcE/s245/S%25C3%25A3o+Jo%25C3%25A3o+Batista.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="245" data-original-width="218" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEp3QI9yGFM1VUHR8MMh14qWLEa8s4F4ZfOTpc3_aheWEhKkcwKUbbx_xdbaneyYN6ntZEG_Vtki_5w8reuaRBjGKrEWg2Q311C500KxRYvHIoEMBemdPwwwBJ9TisGJu2e1C_QXgplcE/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">João Batista era filho de Zacarias e de Santa Isabel.
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/725-natividade-de-são-joão-batista-img-993197909.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="245" data-original-width="218" src="/images/posts/725-natividade-de-são-joão-batista-img-903589225.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">João Batista era filho de Zacarias e de Santa Isabel.
 Chamava-se “Batista” pelo fato de ser um “batizador”. João, cujo nome significa
 “Deus é propício, veio à luz em idade avançada de seus pais. Parente de Jesus,
 foi o precursor do messias. É João Batista que aponta a Jesus, dizendo: Eis o

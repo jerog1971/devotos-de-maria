@@ -1,10 +1,10 @@
 ---
 title: "Para o céu ou para o inferno"
 date: 2025-01-15T21:52:00.003Z
-heroImage: "/images/Leão XIV e Nossa Senhora.png"
+heroImage: "/images/posts/1162-para-o-céu-ou-para-o-inferno-Nossa_20Senhora.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiZIF9Viws1g1nMVb1cZYboJSMR1X4-czNTcesmf7mqXG9qRaUdmxiSmyNroRfGfTqWQOiJnYlg4UEZO9QfGe9UOVgbDcczGjvcipSebkvItyn6u2FYkWsBevPO6UEBidfONlhjyiOs937pDqqlWKcnLokHAdlwZKtnLcLSXAjiQAdM9dIZeWsPsocEXA/s490/Nossa%20Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="490" data-original-width="395" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiZIF9Viws1g1nMVb1cZYboJSMR1X4-czNTcesmf7mqXG9qRaUdmxiSmyNroRfGfTqWQOiJnYlg4UEZO9QfGe9UOVgbDcczGjvcipSebkvItyn6u2FYkWsBevPO6UEBidfONlhjyiOs937pDqqlWKcnLokHAdlwZKtnLcLSXAjiQAdM9dIZeWsPsocEXA/s320/Nossa%20Senhora.png" width="258" /></a></div><br />&nbsp;<p></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>
+<p></p><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1162-para-o-céu-ou-para-o-inferno-Nossa_20Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="490" data-original-width="395" height="320" src="/images/posts/1162-para-o-céu-ou-para-o-inferno-Nossa_20Senhora.png" width="258" /></a></div><br />&nbsp;<p></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>
 
 
 	

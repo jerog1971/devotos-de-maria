@@ -1,10 +1,10 @@
 ---
 title: "Não há nada de estranho nas provações que sofremos"
 date: 2016-07-05T11:00:00.002Z
-heroImage: "/images/joao_paulo_II.png"
+heroImage: "/images/posts/626-não-há-nada-de-estranho-nas-provaçõe-joao_paulo_II.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHoDb4811OYtx-u9S3eWokZnMuloEfSU8lkeOY8MsN6PmsUpwmGiXqZfjr1MnEpK7XXlKXHUta2iYAxRRGD6LtRXKE62YI9n35f-ksq73Z7n8gy757urSxkSEYAUi-HcQSiAaQnqfFjP0/s1600/joao_paulo_II.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHoDb4811OYtx-u9S3eWokZnMuloEfSU8lkeOY8MsN6PmsUpwmGiXqZfjr1MnEpK7XXlKXHUta2iYAxRRGD6LtRXKE62YI9n35f-ksq73Z7n8gy757urSxkSEYAUi-HcQSiAaQnqfFjP0/s320/joao_paulo_II.png" width="311" height="320" data-original-width="469" data-original-height="483" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/626-não-há-nada-de-estranho-nas-provaçõe-joao_paulo_II.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/626-não-há-nada-de-estranho-nas-provaçõe-joao_paulo_II.png" width="311" height="320" data-original-width="469" data-original-height="483" /></a></div>
 </br>
 A conhecida poesia de Santa Teresa d'Ávila encerra um ensinamento importantíssimo sobre Deus e nossos sofrimentos. Exorta a estrofe: " Nada te turbe / nada te espante; / tudo passa. Deus não muda; / a paciência obtém tudo; / quem possui Deus / nada lhe falta / só Deus basta".</br>
 </br>

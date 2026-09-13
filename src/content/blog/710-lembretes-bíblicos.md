@@ -1,10 +1,10 @@
 ---
 title: "Lembretes bíblicos"
 date: 2023-06-27T16:26:00.001Z
-heroImage: "/images/religiao.png"
+heroImage: "/images/posts/710-lembretes-bíblicos-religiao.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjfDYG9cJcjQojG_CUP1CNkNur-sl716S4LjEVakifcCiBAe2RYGjYRKxIlTyfYE4MIssA7bv6UZZzLWSsr6eyExgOqY965ijFHxUOYrQdlH79xTkINeqA1gIRSyYGQc4AO6mB8CJe_K1p3pDQFqGs2lKFMdCCDnzorfl-qGYDNdKfwscOo5y0VVEbbjo/s310/religiao.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="310" height="276" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjfDYG9cJcjQojG_CUP1CNkNur-sl716S4LjEVakifcCiBAe2RYGjYRKxIlTyfYE4MIssA7bv6UZZzLWSsr6eyExgOqY965ijFHxUOYrQdlH79xTkINeqA1gIRSyYGQc4AO6mB8CJe_K1p3pDQFqGs2lKFMdCCDnzorfl-qGYDNdKfwscOo5y0VVEbbjo/s1600/religiao.png" width="310" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois que o sujeito se depara com as verdades das sagradas
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/710-lembretes-bíblicos-religiao.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="310" height="276" src="/images/posts/710-lembretes-bíblicos-religiao.png" width="310" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois que o sujeito se depara com as verdades das sagradas
 escrituras, não lhe é mais capaz, simplesmente abandonar a descoberta e seguir
 vivendo como se as verdades divinas não passassem de teorias. É assim que as
 coisas funcionam porque uma consciência e um intelecto invadido por este tipo

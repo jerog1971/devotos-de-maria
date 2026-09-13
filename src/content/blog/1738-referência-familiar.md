@@ -1,10 +1,10 @@
 ---
 title: "Referência Familiar"
 date: 2022-06-27T15:37:00.004Z
-heroImage: "/images/A Sofia.jpg"
+heroImage: "/images/posts/1738-referência-familiar-img-1019760059.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHt2ARB5vhDlA2QhVmmOkJePpRSaCJ-FGos8Ij_2Icl5gimjtIqAPZQbdXJDawld0TuiKfvqQUBRvAjT8IjnCdDdv0WmgBmXENHW-hNi1LYGYer-JtYtILu-4j-kwRcp0r_UyEH8Scj2ZSbFhmWrdVJy7cI8TXFUOVJwsCmYg3DJHckM3ICfvIs-3V/s2274/Pai%20Jefferson%20e%20filha%20Sofia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2274" data-original-width="2241" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHt2ARB5vhDlA2QhVmmOkJePpRSaCJ-FGos8Ij_2Icl5gimjtIqAPZQbdXJDawld0TuiKfvqQUBRvAjT8IjnCdDdv0WmgBmXENHW-hNi1LYGYer-JtYtILu-4j-kwRcp0r_UyEH8Scj2ZSbFhmWrdVJy7cI8TXFUOVJwsCmYg3DJHckM3ICfvIs-3V/s320/Pai%20Jefferson%20e%20filha%20Sofia.jpg" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida do ser humano, inserido dentro do seio familiar, é
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1738-referência-familiar-img-1019760059.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2274" data-original-width="2241" height="320" src="/images/posts/1738-referência-familiar-img-1439711033.jpg" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida do ser humano, inserido dentro do seio familiar, é
 pautada pelas referências incontestáveis de pai, mãe e irmãos. Claro, a
 natureza espiritual que possuímos também, de forma prioritária, nos coloca sob
 o jugo de referências mais altas: as referências divinas. Para o cristão, quis

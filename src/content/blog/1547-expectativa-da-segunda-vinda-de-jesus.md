@@ -1,10 +1,10 @@
 ---
 title: "Expectativa da segunda vinda de Jesus"
 date: 2021-01-13T15:56:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1547-expectativa-da-segunda-vinda-de-jesus-segunda_vinda.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHKVwUggsffL6vkKZ2-04EMOqm2PQUTt-WYQroM51yQ5fPA0v0CxNN9ojidum7AsTWYwpgNoPG2ok2I-8yxztwG6n70G4qZPto7UKjjqZgTdtwR_JnE9lnZwNgVvYXJ4cvp9uXPQ9V7es/s399/segunda+vinda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="369" data-original-width="399" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHKVwUggsffL6vkKZ2-04EMOqm2PQUTt-WYQroM51yQ5fPA0v0CxNN9ojidum7AsTWYwpgNoPG2ok2I-8yxztwG6n70G4qZPto7UKjjqZgTdtwR_JnE9lnZwNgVvYXJ4cvp9uXPQ9V7es/s320/segunda+vinda.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O cristão, aquele que verdadeiramente anseia o céu, vive uma
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1547-expectativa-da-segunda-vinda-de-jesus-segunda_vinda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="369" data-original-width="399" src="/images/posts/1547-expectativa-da-segunda-vinda-de-jesus-segunda_vinda.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O cristão, aquele que verdadeiramente anseia o céu, vive uma
 vida de esforço contínuo para agradar a Deus e uma expectativa pelo fim desse
 ciclo da vida na terra e o início do novo ciclo, o da vida eterna, na nova
 Jerusalém celeste, onde Deus enxugará todas as lágrimas.<o:p></o:p></p><div class="separator" style="clear: both;">

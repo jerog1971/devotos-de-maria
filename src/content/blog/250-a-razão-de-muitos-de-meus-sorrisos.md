@@ -1,10 +1,10 @@
 ---
 title: "A razão de muitos de meus sorrisos"
 date: 2024-08-21T17:22:00.006Z
-heroImage: "/images/a razão do meu sorriso.png"
+heroImage: "/images/posts/250-a-razão-de-muitos-de-meus-sorrisos-img-1198808690.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH9ccUa9-ykaFelMPRDUEeSO0G6AK_8z-9yeYHAt_RUm_Zt7TeJUsRfQd6eHOBGd4b4HaoIzug71NfN5WdMfnC5RxClIPbd5RYHB-gI3YW61_pjAeM-6B39U86F8Bjm9z3Gjf7A1rPxuz_OGeaQE9o6dIm9-2XEruR02YdJREXQUIPRsfayfUbPCMwUFk/s957/a%20raz%C3%A3o%20do%20meu%20sorriso.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="957" data-original-width="718" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH9ccUa9-ykaFelMPRDUEeSO0G6AK_8z-9yeYHAt_RUm_Zt7TeJUsRfQd6eHOBGd4b4HaoIzug71NfN5WdMfnC5RxClIPbd5RYHB-gI3YW61_pjAeM-6B39U86F8Bjm9z3Gjf7A1rPxuz_OGeaQE9o6dIm9-2XEruR02YdJREXQUIPRsfayfUbPCMwUFk/s320/a%20raz%C3%A3o%20do%20meu%20sorriso.png" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que nossa realidade nos apresenta tristezas e
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/250-a-razão-de-muitos-de-meus-sorrisos-img-1198808690.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="957" data-original-width="718" height="320" src="/images/posts/250-a-razão-de-muitos-de-meus-sorrisos-img-1785871524.png" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que nossa realidade nos apresenta tristezas e
 alegrias; sabemos muito bem. No entanto, passar por cada uma delas nos traz experiências
 bem diferentes. Ficamos marcados por aquilo que mais prezamos. Sem dúvida, para
 que arrependimentos não se instalem em nossa vida é preciso vivê-la dentro da

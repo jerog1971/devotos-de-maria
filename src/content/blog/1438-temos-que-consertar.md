@@ -1,10 +1,10 @@
 ---
 title: "Temos que consertar"
 date: 2018-10-02T15:49:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1438-temos-que-consertar-oficina_b_25C3_25ADblica.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7eSZDVE4kFS630Sa_cQ9U9XYm4OhHTbH1FfwUQ6wr-f-EMWHgOkICWy48xMnjmftm1G2kYd-HjpCMo6dTF95HiOYMtgy3MmaE2JAJ7C0VmJNhdyH2KIBAEIrd6cTSUNcKS2ETWAt898A/s1600/oficina_b%25C3%25ADblica.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7eSZDVE4kFS630Sa_cQ9U9XYm4OhHTbH1FfwUQ6wr-f-EMWHgOkICWy48xMnjmftm1G2kYd-HjpCMo6dTF95HiOYMtgy3MmaE2JAJ7C0VmJNhdyH2KIBAEIrd6cTSUNcKS2ETWAt898A/s320/oficina_b%25C3%25ADblica.png" width="320" height="267" data-original-width="824" data-original-height="687" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1438-temos-que-consertar-oficina_b_25C3_25ADblica.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1438-temos-que-consertar-oficina_b_25C3_25ADblica.png" width="320" height="267" data-original-width="824" data-original-height="687" /></a></div>
 Se pararmos para analisar a evolução comportamental das pessoas, e porque não dizer, nossa própria evolução, iremos perceber que a medida que vivemos a interação que temos com o mundo, as pessoas, os acontecimentos, movida por interesses pessoais, compulsórios ou necessários, vai causando em nossa integridade e personalidade muitas mudanças.</br>
 </br>
 É comum ouvirmos alguém dizer que cresceu e amadureceu, também é comum, infelizmente, ouvirmos alguém falar que aquele sujeito parece criança, só tem idade. Porém, chegamos num ponto que precisamos deixar a meninice de lado e pensar que onde vivemos, este mundo, não é um paraíso:</br>

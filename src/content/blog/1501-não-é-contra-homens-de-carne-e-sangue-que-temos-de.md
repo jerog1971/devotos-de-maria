@@ -1,10 +1,10 @@
 ---
 title: "Não é contra homens de carne e sangue que temos de lutar"
 date: 2019-07-04T15:20:00.002Z
-heroImage: "/images/batalha_espiritual.png"
+heroImage: "/images/posts/1501-não-é-contra-homens-de-carne-e-sangue-que-temos-de-batalha_espiritual.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAAhVfr4UYL4X0jCs9-PCTDPI11gBImZEtY7IO2BHfBl3tDeiK0F5262vwYZL5gMHOpUH-AJXmh6hDjlopsGgZYLjX7OV8_cn4BdrbvSdcsT3w1vIk3n6MdQsSbBsNiB-eQBY3q46bXQ/s1600/batalha_espiritual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAAhVfr4UYL4X0jCs9-PCTDPI11gBImZEtY7IO2BHfBl3tDeiK0F5262vwYZL5gMHOpUH-AJXmh6hDjlopsGgZYLjX7OV8_cn4BdrbvSdcsT3w1vIk3n6MdQsSbBsNiB-eQBY3q46bXQ/s320/batalha_espiritual.png" width="309" height="320" data-original-width="271" data-original-height="281" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1501-não-é-contra-homens-de-carne-e-sangue-que-temos-de-batalha_espiritual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1501-não-é-contra-homens-de-carne-e-sangue-que-temos-de-batalha_espiritual.png" width="309" height="320" data-original-width="271" data-original-height="281" /></a></div>
 “Mas contra os principados e potestades, contra os príncipes deste mundo tenebroso, contra as forças espirituais do mal (espalhadas) nos ares” – Efésios 6,12. Como vemos, caros leitores, a raiz de nossa batalha é espiritual. Nem poderia ser diferente já que somos um composto de corpo e alma. Porém, muitos podem estar pensando: “e as muitas guerras que a humanidade tem registrado ao longo de sua existência? Pois bem, uma análise bem cuidadosa irá revelar que elas se originaram por conta da aceitação da entrada do pecado na vida das pessoas.</br>
 </br>
 Afinal, não poderia ser a guerra um bom fruto, Jesus disse que tudo nasce no coração, se ele disse tudo, infelizmente, as coisas ruins também nascem. Então, como podemos perceber, antes de travarmos uma luta contra os homens de carne e sangue (caso seja inevitável), precisamos combater incessantemente contra as tentações diárias. Ou alguém acha que passa um dia de sua vida sem ser tentado?</br>

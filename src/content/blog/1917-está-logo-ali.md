@@ -1,10 +1,10 @@
 ---
 title: "Está logo ali"
 date: 2023-11-15T13:45:00.001Z
-heroImage: "/images/casal.jpg"
+heroImage: "/images/posts/1917-está-logo-ali-um_20casal.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR8zYd0qY4uZ8-gf7fzk52YhjaVHKq6EQoWR2eDvQP9_loOSsYLTY4Z-CpN3I-1IVTxsCph7I50eUtnnZjNzRJ_bD2Mr4PtuGFy_ViAbNx4qjLc6EU4j_capZBZDbxdfounrdPJn3_WsF81UvRWIatTshb9tFmmQ0qCoQodIDgx1gAFt_gkOcQ0oPG8yM/s2289/um%20casal.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2095" data-original-width="2289" height="293" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR8zYd0qY4uZ8-gf7fzk52YhjaVHKq6EQoWR2eDvQP9_loOSsYLTY4Z-CpN3I-1IVTxsCph7I50eUtnnZjNzRJ_bD2Mr4PtuGFy_ViAbNx4qjLc6EU4j_capZBZDbxdfounrdPJn3_WsF81UvRWIatTshb9tFmmQ0qCoQodIDgx1gAFt_gkOcQ0oPG8yM/s320/um%20casal.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um ditado que diz que já se pode ver a luz no fim do
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1917-está-logo-ali-um_20casal.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2095" data-original-width="2289" height="293" src="/images/posts/1917-está-logo-ali-um_20casal.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um ditado que diz que já se pode ver a luz no fim do
 túnel. Pois é, vivo uma sensação parecida, pois daqui a quatro dias, se Deus
 quiser, terei atravessado esse túnel. Diria eu, fazendo uma breve analogia, que
 Deus nos coloca numa espécie de túnel, Do ponto em que nascemos até o final da

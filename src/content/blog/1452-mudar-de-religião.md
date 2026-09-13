@@ -1,10 +1,10 @@
 ---
 title: "Mudar de religião?"
 date: 2017-01-21T22:00:00Z
-heroImage: "/images/duvida.png"
+heroImage: "/images/posts/1452-mudar-de-religião-duvida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyOhEi2V7-QnteLpszxfkZjY8pBeir9Ig2b_DQcSHE6t3UeyAoTa1067e-jdgttGnQNssbq6PtusvWc846nRIc-tcctUliSz5k5H4rttipJEs0TgGMsoaimq2tHeH3VpzFACufIf2nxk/s1600/duvida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyOhEi2V7-QnteLpszxfkZjY8pBeir9Ig2b_DQcSHE6t3UeyAoTa1067e-jdgttGnQNssbq6PtusvWc846nRIc-tcctUliSz5k5H4rttipJEs0TgGMsoaimq2tHeH3VpzFACufIf2nxk/s320/duvida.png" width="320" height="226" data-original-width="292" data-original-height="206" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1452-mudar-de-religião-duvida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1452-mudar-de-religião-duvida.png" width="320" height="226" data-original-width="292" data-original-height="206" /></a></div>
 </br>
 Apocalipse 3,15-16</br>
 </br>

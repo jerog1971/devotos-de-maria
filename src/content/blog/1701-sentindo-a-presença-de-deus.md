@@ -1,10 +1,10 @@
 ---
 title: "Sentindo a presença de Deus"
 date: 2023-04-24T14:22:00.007Z
-heroImage: "/images/Deus.png"
+heroImage: "/images/posts/1701-sentindo-a-presença-de-deus-img-1862472203.png"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg90RpNFUcRYBg4JBO6m0EFIwUaAUtMeTXHwIZhEtEBCHRlKFIne9l2PVBIAlEf1GaC5oPQbe1kbbGS3jz7VfxLONbu_DaprdmZOVWYesk1ccVdmmjfYUEJwUiqjf4oP-O0yJc9_JnXxWpTGMJGFIMkvdslbmhBd9_EJuZv99F7Ngh5Rj-7BOpdfRLp/s383/sentindo%20a%20presen%C3%A7a%20de%20Deus.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="327" data-original-width="383" height="244" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg90RpNFUcRYBg4JBO6m0EFIwUaAUtMeTXHwIZhEtEBCHRlKFIne9l2PVBIAlEf1GaC5oPQbe1kbbGS3jz7VfxLONbu_DaprdmZOVWYesk1ccVdmmjfYUEJwUiqjf4oP-O0yJc9_JnXxWpTGMJGFIMkvdslbmhBd9_EJuZv99F7Ngh5Rj-7BOpdfRLp/w286-h244/sentindo%20a%20presen%C3%A7a%20de%20Deus.png" width="286" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Pois bem, o apego do composto de corpo e alma, chamado ser
+<div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1701-sentindo-a-presença-de-deus-img-1862472203.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="327" data-original-width="383" height="244" src="/images/posts/1701-sentindo-a-presença-de-deus-img-1555471350.png" width="286" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Pois bem, o apego do composto de corpo e alma, chamado ser
 humano, notadamente tem muito mais apego ao plano terrestre do que ao plano espiritual.
 Pelo menos até aqui é o que a experiência cotidiana demonstra para todas as
 pessoas. Vai ver Deus quis assim, como dizem os antigos, vai ver não é assim,

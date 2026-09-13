@@ -1,10 +1,10 @@
 ---
 title: "Cuidado com o desrespeito"
 date: 2022-05-06T15:38:00.003Z
-heroImage: "/images/cuidado com o desrespeito.png"
+heroImage: "/images/posts/423-cuidado-com-o-desrespeito-img-634005465.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdBH2nsHZcg9o8h9NGIdEttkAa7DoIvYFgXJLB95zg_O6M1iGn5zX2wCNGFqCCDrc3eFmf_pvIxKI0ESSiMkRlv6qxcjqaQCsE7FPOgUzKhr_xRjxuatiDSMb8KtNfvCa0awL1mMj60dGhO2pdEBVtwQ1Jd3eQEV7vX-qM7NK7KsQKrGi9crxFsLX/s684/cuidado%20com%20o%20desrespeito.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="449" data-original-width="684" height="210" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdBH2nsHZcg9o8h9NGIdEttkAa7DoIvYFgXJLB95zg_O6M1iGn5zX2wCNGFqCCDrc3eFmf_pvIxKI0ESSiMkRlv6qxcjqaQCsE7FPOgUzKhr_xRjxuatiDSMb8KtNfvCa0awL1mMj60dGhO2pdEBVtwQ1Jd3eQEV7vX-qM7NK7KsQKrGi9crxFsLX/s320/cuidado%20com%20o%20desrespeito.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou você respeita, ou deixa de respeitar ou, o que é pior,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/423-cuidado-com-o-desrespeito-img-634005465.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="449" data-original-width="684" height="210" src="/images/posts/423-cuidado-com-o-desrespeito-img-876103768.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou você respeita, ou deixa de respeitar ou, o que é pior,
 desrespeita. O sujeito é assim, se lhe convém, respeita, quando deixar de
 convir, deixa de respeitar e quando a obrigação lhe causa desconforto,
 desrespeita. Sabe-se de longa data que o respeito deve ser ensinado; sobre ele,

@@ -1,10 +1,10 @@
 ---
 title: "Momentos gratificantes"
 date: 2022-07-06T16:20:00.004Z
-heroImage: "/images/momentos gratificantes.png"
+heroImage: "/images/posts/1716-momentos-gratificantes-momentos_20gratificantes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0EYqiZPScD-FkjR9oArvgi5DIBjH-2TMBGeQBRlndOuQ8MvLM-9vOIy_ls51ZV2n5B7IokGj7LKkQb4bKBBeIyhkDgcow-N3sdkHK3F3s14QYpGrNJD1RGQsVYJyjY2eVF09BVpw0B0Oytjswjks5N7tLmU1F47Uup16nToiasMAm3nI5BQlHf-53/s801/momentos%20gratificantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="743" data-original-width="801" height="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0EYqiZPScD-FkjR9oArvgi5DIBjH-2TMBGeQBRlndOuQ8MvLM-9vOIy_ls51ZV2n5B7IokGj7LKkQb4bKBBeIyhkDgcow-N3sdkHK3F3s14QYpGrNJD1RGQsVYJyjY2eVF09BVpw0B0Oytjswjks5N7tLmU1F47Uup16nToiasMAm3nI5BQlHf-53/s320/momentos%20gratificantes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Às vezes, em meio a tantas dificuldades da vida, imposta sem
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1716-momentos-gratificantes-momentos_20gratificantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="743" data-original-width="801" height="297" src="/images/posts/1716-momentos-gratificantes-momentos_20gratificantes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Às vezes, em meio a tantas dificuldades da vida, imposta sem
 exceção a todos, somos agraciados por pequenos instantes que somente um olhar
 atento e treinado e uma alma em paz com Deus pode perceber. No mundo tribulado
 como o que estamos mergulhados nessa atualidade, valores importantes,

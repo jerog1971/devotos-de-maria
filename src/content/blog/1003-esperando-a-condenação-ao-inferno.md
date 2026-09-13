@@ -1,10 +1,10 @@
 ---
 title: "Esperando a condenação ao inferno"
 date: 2023-01-27T12:53:00.003Z
-heroImage: "/images/chegada_da_morte.png"
+heroImage: "/images/posts/1003-esperando-a-condenação-ao-inferno-morte.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmL8Fog7PmL-zlrZo5uo1xl-NRVX1pMl7JMOLEUkPf4D5HzFCDXzQyXXscgnyrwZvvGY_WHoqaZl714snhR5kHd6OJZL2yUu8BBf9aDqRQ1AnNXqcbbdpg1s7naL-awBAs5xp3ml93xGr4YZlJJ-lSva_4Xa9GXIO2N6OiRw2lPSagYcVK2O8LM9Lx/s510/morte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="508" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmL8Fog7PmL-zlrZo5uo1xl-NRVX1pMl7JMOLEUkPf4D5HzFCDXzQyXXscgnyrwZvvGY_WHoqaZl714snhR5kHd6OJZL2yUu8BBf9aDqRQ1AnNXqcbbdpg1s7naL-awBAs5xp3ml93xGr4YZlJJ-lSva_4Xa9GXIO2N6OiRw2lPSagYcVK2O8LM9Lx/s320/morte.png" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos serão os chamados, mas poucos os escolhidos – nos disse
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1003-esperando-a-condenação-ao-inferno-morte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="508" height="320" src="/images/posts/1003-esperando-a-condenação-ao-inferno-morte.png" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos serão os chamados, mas poucos os escolhidos – nos disse
 Jesus. Todos serão convidados para ir ao céu, para todos será apresentada a
 proposta de Deus e tudo que ela implica. Eis aí o começo dos problemas; quando
 o sujeito se depara com a proposta vai logo entendendo que as ofertas são

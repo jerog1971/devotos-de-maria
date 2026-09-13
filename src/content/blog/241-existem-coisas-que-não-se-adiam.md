@@ -1,10 +1,10 @@
 ---
 title: "Existem coisas que não se adiam"
 date: 2022-04-24T16:38:00.003Z
-heroImage: "/images/teimosia em adiar as coisas.png"
+heroImage: "/images/posts/241-existem-coisas-que-não-se-adiam-img-766646567.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwW1dvKL_sSWTZ_SDZGHBsQKHu2XK5meFGdW1GJIcReUUPY-K5jrqITUSzBzj3uIF9UaWzh47daCI9lScZC3gFyK2lU-LC1_Lh1zCAiggEpokgX4eqU3aUaLhLPjlZyisj4Ufembg8l2Z4A2L2JOXxlvlYn0-bpkZeDblJ0idt1fV8n9HTG5eh5Jvt/s447/teimosia%20em%20adiar%20as%20coisas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="412" data-original-width="447" height="295" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwW1dvKL_sSWTZ_SDZGHBsQKHu2XK5meFGdW1GJIcReUUPY-K5jrqITUSzBzj3uIF9UaWzh47daCI9lScZC3gFyK2lU-LC1_Lh1zCAiggEpokgX4eqU3aUaLhLPjlZyisj4Ufembg8l2Z4A2L2JOXxlvlYn0-bpkZeDblJ0idt1fV8n9HTG5eh5Jvt/s320/teimosia%20em%20adiar%20as%20coisas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em sua jornada de vida muitas pessoas, se não a maioria, já
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/241-existem-coisas-que-não-se-adiam-img-766646567.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="412" data-original-width="447" height="295" src="/images/posts/241-existem-coisas-que-não-se-adiam-img-98623699.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em sua jornada de vida muitas pessoas, se não a maioria, já
 passaram pela experiência de planejarem alguma coisa e verem seus planos
 modificados por Deus. De fato, agindo dessa maneira, o altíssimo relembra suas
 criaturas de que as coisas são como ele quer. Até ditado popular sobre o

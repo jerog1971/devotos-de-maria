@@ -1,10 +1,10 @@
 ---
 title: "Ovelhas não chafurdam"
 date: 2018-03-26T19:24:00Z
-heroImage: "/images/lobo em pele de ovelha.png"
+heroImage: "/images/posts/884-ovelhas-não-chafurdam-ovelha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-SGLlsPA5-RSdWcBgJjmqZUflHnJI6TkETVuARRv2UqzPPvSgiTKffxCf6BWXOmQdGthbJHfwlzri7QyVuGHAKtRDLESeeaxRJMAboqlGYg04SKXRyel1IacVUCKCT1sGY78tSKPZdo/s1600/ovelha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-SGLlsPA5-RSdWcBgJjmqZUflHnJI6TkETVuARRv2UqzPPvSgiTKffxCf6BWXOmQdGthbJHfwlzri7QyVuGHAKtRDLESeeaxRJMAboqlGYg04SKXRyel1IacVUCKCT1sGY78tSKPZdo/s320/ovelha.png" width="320" height="305" data-original-width="371" data-original-height="354" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/884-ovelhas-não-chafurdam-ovelha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/884-ovelhas-não-chafurdam-ovelha.png" width="320" height="305" data-original-width="371" data-original-height="354" /></a></div>
 Isso é próprio dos porcos. Não entremos aqui na questão animal, mas nos façamos valer da linha de pensamento e ensino de Jesus Cristo. Vale lembrar que em Mateus 8,30-33 Jesus se utiliza desse animal para ensinar que o triste fim daqueles que não querem aderir ao plano do criador é caírem no abismo da condenação eterna. Aos filhos de Deus pelo batismo, conduzidos por Jesus que se intitula o bom pastor, os conduzidos, as ovelhas do seu rebanho, precisam caminhar com vistas a lavar suas vestes no sangue de Cristo.</br>
 </br>
 A entrada no céu não é franca, é muito difícil e só os violentos que o conquistam (Mateus 11,12). Por isso é que se diz nas cartas apostólicas que precisamos resistir na luta contra o pecado até o sangue (Hebreus 12,4). Muitos santos literalmente apanhavam do demônio, como Santo Antão, São João Maria Vianney e o Padre Pio, só para recordar alguns exemplos. Outros tantos foram além e deles foi exigido que o sangue testemunhasse em forma de martírio o amor pelo Ressuscitado.</br>

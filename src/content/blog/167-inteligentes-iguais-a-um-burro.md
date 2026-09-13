@@ -1,10 +1,10 @@
 ---
 title: "Inteligentes iguais a um burro"
 date: 2017-11-01T17:06:00Z
-heroImage: "/images/burro.png"
+heroImage: "/images/posts/167-inteligentes-iguais-a-um-burro-burro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5bpb-iuv0_EAQ6gG9knCDcwGFQlO8oIv8g8NLvaiMwTfyYWOYS9rlD2M4mrFZSCcYwZmFRZ-4DH3WnVCEYNapDq8LYtSnxS4KcZpaDNlgJtgZkS7enkIsB9QfePKyUCodl6vlq_Ry1eg/s1600/burro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5bpb-iuv0_EAQ6gG9knCDcwGFQlO8oIv8g8NLvaiMwTfyYWOYS9rlD2M4mrFZSCcYwZmFRZ-4DH3WnVCEYNapDq8LYtSnxS4KcZpaDNlgJtgZkS7enkIsB9QfePKyUCodl6vlq_Ry1eg/s320/burro.png" width="320" height="310" data-original-width="504" data-original-height="489" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/167-inteligentes-iguais-a-um-burro-burro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/167-inteligentes-iguais-a-um-burro-burro.png" width="320" height="310" data-original-width="504" data-original-height="489" /></a></div>
 A bíblia nos recorda na carta de São Tiago que a sabedoria terrena é diabólica. Isso é tão verdade e muito fácil de se constatar quanto a diferença entre o dia e a noite. A questão de ser inteligente e portar por causa disso uma sabedoria terrena e como diz na sagrada escritura, diabólica, passa pela questão da mácula que ela sofre por causa das ofertas e tentações do mal. Vamos ler o trecho da referida carta para podermos prosseguir com a reflexão.</br>
 </br>
 Tiago 3,13-18 – “Quem dentre vós é sábio e inteligente? Mostre com um bom proceder as suas obras repassadas de doçura e de sabedoria. Mas, se tendes no coração um ciúme amargo e gosto pelas contendas, não vos glorieis, nem mintais contra a verdade. Esta não é a sabedoria que vem do alto, mas é uma sabedoria terrena, humana, diabólica. Onde houver ciúme e contenda, ali há também perturbação e toda espécie de vícios. A sabedoria, porém, que vem de cima, é primeiramente pura, depois pacífica, condescendente, conciliadora, cheia de misericórdia e de bons frutos, sem parcialidade, nem fingimento. O fruto da justiça semeia-se na paz para aqueles que praticam a paz.”</br>

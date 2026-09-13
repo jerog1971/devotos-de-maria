@@ -1,10 +1,10 @@
 ---
 title: "João Bosco e o Inferno"
 date: 2023-01-31T14:12:00Z
-heroImage: "/images/João Bosco e o Inferno.png"
+heroImage: "/images/posts/1650-joão-bosco-e-o-inferno-Jo_C3_A3o_20Bosco_20e_20o_20Inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmzoOMBF0IYdOD5biOIRBm52v2YmdKPoSPDrODCV7skBSxEWB2rzkPHy9loKNPbMwfX_2Kg3zhcLUMzvi-6MtdgrmVBbLg8rg5bqK-AhibsRcLInO_PDCXC5WL1EqBhZzY0DOLKOrIF9GJkWhuiTIBz--SUfY_WJtMs_g7UPuGCY2u-OX79LYD6tsQ/s368/Jo%C3%A3o%20Bosco%20e%20o%20Inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="368" data-original-width="282" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmzoOMBF0IYdOD5biOIRBm52v2YmdKPoSPDrODCV7skBSxEWB2rzkPHy9loKNPbMwfX_2Kg3zhcLUMzvi-6MtdgrmVBbLg8rg5bqK-AhibsRcLInO_PDCXC5WL1EqBhZzY0DOLKOrIF9GJkWhuiTIBz--SUfY_WJtMs_g7UPuGCY2u-OX79LYD6tsQ/s320/Jo%C3%A3o%20Bosco%20e%20o%20Inferno.png" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Embora favorecido com visitas da Santíssima Mãe e sonhos e
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1650-joão-bosco-e-o-inferno-Jo_C3_A3o_20Bosco_20e_20o_20Inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="368" data-original-width="282" height="320" src="/images/posts/1650-joão-bosco-e-o-inferno-Jo_C3_A3o_20Bosco_20e_20o_20Inferno.png" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Embora favorecido com visitas da Santíssima Mãe e sonhos e
 visões incríveis, ele sempre permaneceu humilde e testemunhando pessoalmente o
 efeito em sua vida por Nossa Santíssima Mãe: "Eu tenho sido um instrumento
 nas mãos de Maria. Ela fez tudo. Se eu tivesse sido um instrumento mais digno,

@@ -1,10 +1,10 @@
 ---
 title: "Cobrar os outros e não fazer?"
 date: 2016-10-27T15:56:00.001Z
-heroImage: "/images/cobrar.png"
+heroImage: "/images/posts/1857-cobrar-os-outros-e-não-fazer-cobrar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8yEsOOjZqPdSbXn7EFwQsexWofDmdVfybqFre91_cMzZx11NEIWOKcVzo6drktsN_dGAzPMgsKrji40utMNnMf1V6ncM5oneemT2mk0dRa33Rht30y3zg7Fn0ujRocNS7vFyq3RG6R8/s1600/cobrar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8yEsOOjZqPdSbXn7EFwQsexWofDmdVfybqFre91_cMzZx11NEIWOKcVzo6drktsN_dGAzPMgsKrji40utMNnMf1V6ncM5oneemT2mk0dRa33Rht30y3zg7Fn0ujRocNS7vFyq3RG6R8/s320/cobrar.png" width="320" height="246" data-original-width="318" data-original-height="244" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1857-cobrar-os-outros-e-não-fazer-cobrar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1857-cobrar-os-outros-e-não-fazer-cobrar.png" width="320" height="246" data-original-width="318" data-original-height="244" /></a></div>
 Jesus em Mateus 23 nos ensina que não devemos ser como os fariseus, que não agem conforme aquilo que professam. Em outras passagens como no sermão da montanha em Mateus 5 a 7 mais uma vez nos mostra que não devemos cobrar um comportamento do irmão e não agirmos conforme aquilo que cobramos do outro.</br>
 </br>
 São Tomás de Aquino nos recorda que “quem não vive o que crê, termina crendo o que vive”. E é a mais pura verdade. Aos poucos a pessoa vai cedendo espaço para a catequese do mundo e deixando de lado a dura e exigente prescrição que o amor de Deus nos apresenta. Desta forma, o desânimo vai se tornando um fardo cada vez mais pesado ao lado da cruz. Em um ombro, o fardo, no outro a cruz. E a medida que a caminhada prossegue a cruz vai perdendo o seu valor e seu propósito e vai se tornando uma cruz de aparência, carregada tão poucas vezes e tantas vezes deixada de lado. Afinal, o fardo do desânimo oferece as delicias dos prazeres. Posso apontar o cisco no olho do irmão sem precisar tirar a trave que está no meu olho (Mateus 7). Errado, é bem o oposto disso.</br>

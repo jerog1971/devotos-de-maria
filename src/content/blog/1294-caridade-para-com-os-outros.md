@@ -1,10 +1,10 @@
 ---
 title: "Caridade para com os outros"
 date: 2021-02-05T20:51:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1294-caridade-para-com-os-outros-Santa_Edwiges.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuHKs-0cOVkJaOTvITWWYSHN5qCTTo0G1X1D71lMxq_K9SwAyMKqdxxOQlQUDKHeLRFaYTlmdYpo-Z40aPhn5UwzIPHbtvcNUcsstUIJPKcxQN_wumt756WW8F7UvYImXcKJZyjI_EPUQ/s361/Santa+Edwiges.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="284" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuHKs-0cOVkJaOTvITWWYSHN5qCTTo0G1X1D71lMxq_K9SwAyMKqdxxOQlQUDKHeLRFaYTlmdYpo-Z40aPhn5UwzIPHbtvcNUcsstUIJPKcxQN_wumt756WW8F7UvYImXcKJZyjI_EPUQ/s320/Santa+Edwiges.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">"A santidade da vida, unida ao saber, garante à alma
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1294-caridade-para-com-os-outros-Santa_Edwiges.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="284" height="320" src="/images/posts/1294-caridade-para-com-os-outros-Santa_Edwiges.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">"A santidade da vida, unida ao saber, garante à alma
 maior glória dos céus". Estas são palavras ditas por uma mulher que viveu
 séculos atrás, que teve uma vida com bons recursos, mas, escolheu dispô-la para
 com os pobres e endividados. Quando Jesus ensinou que devemos desapegar de tudo

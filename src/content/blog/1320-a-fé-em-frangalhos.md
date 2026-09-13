@@ -1,10 +1,10 @@
 ---
 title: "A fé em frangalhos"
 date: 2018-12-06T19:26:00Z
-heroImage: "/images/religiao.png"
+heroImage: "/images/posts/1320-a-fé-em-frangalhos-religiao.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYkPjSvobK-woRbHF2Ta8_KXnZXH1os-jxj9MQ4fUaYhey-Zj3cfNY6gSqRtTfvv10uXaiz1Iyexs3ePZnGg07MFm5yoaei19oOBARHbjmxegB0F9uEKerGQr4rRz7Q3s4GLrw7X3HmQ4/s1600/religiao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYkPjSvobK-woRbHF2Ta8_KXnZXH1os-jxj9MQ4fUaYhey-Zj3cfNY6gSqRtTfvv10uXaiz1Iyexs3ePZnGg07MFm5yoaei19oOBARHbjmxegB0F9uEKerGQr4rRz7Q3s4GLrw7X3HmQ4/s320/religiao.png" width="320" height="285" data-original-width="310" data-original-height="276" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1320-a-fé-em-frangalhos-religiao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1320-a-fé-em-frangalhos-religiao.png" width="320" height="285" data-original-width="310" data-original-height="276" /></a></div>
 Fé, lemos nas sagradas escrituras na carta aos Hebreus, é a certeza a respeito daquilo que não se vê. Sobre fé muito pode ser debatido. A pobre da coitada da fé, muitas vezes é relativizada. Tantas outras é monopolizada. Vezes ainda é misturada com outros conceitos e deixa de ser fé porque não é mais autêntica. Todavia, uma coisa muito grave que acontece com ela é quando se torna porcentual.</br>
 </br>
 Passamos a ter uma fé que não é mais 100%. A fé fica oscilando, como se estivesse numa balança. Pende para próximo de zero, alterna para próximo do máximo, muitas vezes fica no meio do caminho. Porém, em alguns casos, existe ainda outra gravidade; ela nunca chega à totalidade porque as pessoas não querendo desapegarem-se de seus pecados de estimação não se entregam totalmente a Deus e vivem uma fé de conveniência.</br>

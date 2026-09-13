@@ -1,10 +1,10 @@
 ---
 title: "Sentimentos sobrenaturais"
 date: 2021-08-10T15:47:00.005Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1688-sentimentos-sobrenaturais-sentimentos_sobrenaturais.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy_hx3fob-1b7cJD3Hil1VkO_x3z91G-gYXW4jaDF433i2Tn99RdN9WE0v-dyZYUIJFKZn8iHb2LNqWmggb0qQJWJOKgExgNoagFsmZa_QhREtY6NgVTv9np-1M_EGwAC0QuODOAtOeH8/s594/sentimentos+sobrenaturais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="482" data-original-width="594" height="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy_hx3fob-1b7cJD3Hil1VkO_x3z91G-gYXW4jaDF433i2Tn99RdN9WE0v-dyZYUIJFKZn8iHb2LNqWmggb0qQJWJOKgExgNoagFsmZa_QhREtY6NgVTv9np-1M_EGwAC0QuODOAtOeH8/s320/sentimentos+sobrenaturais.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A humanidade através da ciência já descobriu que a matéria
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1688-sentimentos-sobrenaturais-sentimentos_sobrenaturais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="482" data-original-width="594" height="260" src="/images/posts/1688-sentimentos-sobrenaturais-sentimentos_sobrenaturais.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A humanidade através da ciência já descobriu que a matéria
 se forma através da energia condensada e condicionada e se manifesta através dos
 estados vibracionais. Pois bem, essa constatação feita através da ciência em seu
 desdobramento denominado física quântica, serve para ilustrar uma questão que

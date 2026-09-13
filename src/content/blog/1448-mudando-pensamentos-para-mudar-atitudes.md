@@ -1,10 +1,10 @@
 ---
 title: "Mudando pensamentos para mudar atitudes"
 date: 2021-04-15T16:27:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1448-mudando-pensamentos-para-mudar-atitudes-mudando_pensamentos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9r7s0h-1okpb-1YagolK97r4YkvXlKE6Egvas5V_uzbTfx72L3NJX6v8dSQPYEjOvxNUPqsHkfx2c_xEIo00EPAKAtPHoIWvxUiWk-jFVspjm264VMklZXpHz-oMkeQBhDsjBtca2F28/s232/mudando+pensamentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="199" data-original-width="232" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9r7s0h-1okpb-1YagolK97r4YkvXlKE6Egvas5V_uzbTfx72L3NJX6v8dSQPYEjOvxNUPqsHkfx2c_xEIo00EPAKAtPHoIWvxUiWk-jFVspjm264VMklZXpHz-oMkeQBhDsjBtca2F28/s0/mudando+pensamentos.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em Colossenses São Paulo vai nos recordar que quando ainda éramos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1448-mudando-pensamentos-para-mudar-atitudes-mudando_pensamentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="199" data-original-width="232" src="/images/posts/1448-mudando-pensamentos-para-mudar-atitudes-mudando_pensamentos.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em Colossenses São Paulo vai nos recordar que quando ainda éramos
 inimigos de Deus, por pensamentos e obras, ele nos reconciliou através da
 crucificação de seu filho Jesus Cristo. E em Filipenses 2,2-3 lemos: “tende um
 mesmo amor, uma só alma e os mesmos pensamentos. Nada façais por espírito de

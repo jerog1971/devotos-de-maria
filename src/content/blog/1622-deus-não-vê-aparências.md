@@ -1,10 +1,10 @@
 ---
 title: "Deus não vê aparências"
 date: 2020-07-30T23:11:00.002Z
-heroImage: "/images/Seu_outro_lado.jpg"
+heroImage: "/images/posts/1622-deus-não-vê-aparências-Seu_outro_lado.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVs0ZxK1p3reuesKMrGk15dplWQ1lzHoFZ5GsYJzWCs8lm1mwSGw-dZiMD2p_HeSS2Ky_dB61c8xoMZvbo4PlCPvHHvhu1GNtk7Ei3xT_Q_dCYP8jpVBXU-ohC9IQnVYhb_-OQHXyhxPc/s640/Seu_outro_lado.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVs0ZxK1p3reuesKMrGk15dplWQ1lzHoFZ5GsYJzWCs8lm1mwSGw-dZiMD2p_HeSS2Ky_dB61c8xoMZvbo4PlCPvHHvhu1GNtk7Ei3xT_Q_dCYP8jpVBXU-ohC9IQnVYhb_-OQHXyhxPc/s320/Seu_outro_lado.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Marcos 12,14 – “Aproximaram-se dele e disseram-lhe: Mestre,
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1622-deus-não-vê-aparências-Seu_outro_lado.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="640" src="/images/posts/1622-deus-não-vê-aparências-Seu_outro_lado.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Marcos 12,14 – “Aproximaram-se dele e disseram-lhe: Mestre,
 sabemos que és sincero e que não lisonjeias a ninguém; porque não olhas para as
 <b style="mso-bidi-font-weight: normal;"><u>aparências dos homens</u></b>, mas
 ensinas o caminho de Deus segundo a verdade.</p>

@@ -1,10 +1,10 @@
 ---
 title: "Uma vida cheia de cobranças"
 date: 2020-10-19T14:02:00.004Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/049-uma-vida-cheia-de-cobranças-cobran_25C3_25A7as.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-S5p_d4DlavMuMagR_AsIogtH8HCDB3YffDD8JMY0KOLspMwm6CLaX1LCfRcYVfZg6wAxJfAh77aaywHN0AxWViWQYUotyW6KHiZ8_uyCnZ61Mbjk3WRWarlrqM-6mgsAdfSIDXgQ9oY/s601/cobran%25C3%25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="601" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-S5p_d4DlavMuMagR_AsIogtH8HCDB3YffDD8JMY0KOLspMwm6CLaX1LCfRcYVfZg6wAxJfAh77aaywHN0AxWViWQYUotyW6KHiZ8_uyCnZ61Mbjk3WRWarlrqM-6mgsAdfSIDXgQ9oY/s320/cobran%25C3%25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A sociedade tem disso: cobra muito. O indivíduo para se
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/049-uma-vida-cheia-de-cobranças-cobran_25C3_25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="601" src="/images/posts/049-uma-vida-cheia-de-cobranças-cobran_25C3_25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A sociedade tem disso: cobra muito. O indivíduo para se
 inserir nela e galgar degraus desejados precisa submeter-se ao regime das cobranças.
 Fala-se aqui das cobranças financeiras, morais, cívicas, contratuais, acadêmicas
 e por aí vai. E a coisa acaba virando um efeito cascata. O mundo capitalizado

@@ -1,10 +1,10 @@
 ---
 title: "Lideranças mascaradas"
 date: 2020-05-07T21:48:00.002Z
-heroImage: "/images/arado.png"
+heroImage: "/images/posts/1689-lideranças-mascaradas-img-938592488.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCaBp46OPjanRKG0_oIw0qhBNNOQRqr_dplTSGaS36KdorL3rNamoPtj_rTYqblWW_seN_dlMnxrQ9gbgPwsvtuP4gJvewzBEOkoChQHKO2UAxcoGKA-ESahUZp7XIBsPYJ7JO3_7P8xU/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="761" data-original-width="839" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCaBp46OPjanRKG0_oIw0qhBNNOQRqr_dplTSGaS36KdorL3rNamoPtj_rTYqblWW_seN_dlMnxrQ9gbgPwsvtuP4gJvewzBEOkoChQHKO2UAxcoGKA-ESahUZp7XIBsPYJ7JO3_7P8xU/s320/charlat%25C3%25A3o_mascarado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Os líderes dos mega templos que abrigam de uma só vez
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1689-lideranças-mascaradas-img-938592488.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="761" data-original-width="839" src="/images/posts/1689-lideranças-mascaradas-img-938592488.jpgs320/charlat%25C3%25A3o_mascarado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Os líderes dos mega templos que abrigam de uma só vez
 milhares de pessoas tem aqui e ali aproveitado o momento pandêmico para
 incentivar os fiéis a se apegarem a Deus e, é claro, manterem suas contribuições
 em dia. Até aí, tudo bem, nada de errado! Os líderes (até parece) católicos

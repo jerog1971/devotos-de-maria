@@ -1,10 +1,10 @@
 ---
 title: "Isolamento Social"
 date: 2020-04-23T20:44:00Z
-heroImage: "/images/isolamento_social.png"
+heroImage: "/images/posts/1706-isolamento-social-isolamento_social.png"
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiwLyfMgVSQIHPthENA6Hj__CfiFNaxZ5JBqU-a4qdznpuKfz_70K6mX-n-WaBiCyfmBluyl-MOrwuNT8uwQvGZLREu9msGjecqrl87jB0B7xXJG0gSvJ1Gm5BUKP7Tn7jKVG7MqSGpuc/s1600/isolamento_social.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiwLyfMgVSQIHPthENA6Hj__CfiFNaxZ5JBqU-a4qdznpuKfz_70K6mX-n-WaBiCyfmBluyl-MOrwuNT8uwQvGZLREu9msGjecqrl87jB0B7xXJG0gSvJ1Gm5BUKP7Tn7jKVG7MqSGpuc/s320/isolamento_social.png" width="320" height="291" data-original-width="379" data-original-height="345" /></a></br>
+<a href="/images/posts/1706-isolamento-social-isolamento_social.png" imageanchor="1" ><img border="0" src="/images/posts/1706-isolamento-social-isolamento_social.png" width="320" height="291" data-original-width="379" data-original-height="345" /></a></br>
 </br>
 <b>I</b> solar, separar, colocar a parte</br>
 <b>S</b> egregar, bom, é isso: estamos isolados.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Um aniversário"
 date: 2016-09-12T19:41:00Z
-heroImage: "/images/aniversario.png"
+heroImage: "/images/posts/2071-um-aniversário-aniversario.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenSKAa8ggzvSfGvzT4C4DRQas6eP8fqg_wtHeOeg9jMOP09xCAFfI5zxnEhA9NOevdkGHRzy66Q1zwQqNVM70Rj-NdRpFvOG36Eev1e-HFJ5I7_D5T2JKkFf2q0dLBoO3Ma4GZw3TE8E/s1600/aniversario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenSKAa8ggzvSfGvzT4C4DRQas6eP8fqg_wtHeOeg9jMOP09xCAFfI5zxnEhA9NOevdkGHRzy66Q1zwQqNVM70Rj-NdRpFvOG36Eev1e-HFJ5I7_D5T2JKkFf2q0dLBoO3Ma4GZw3TE8E/s320/aniversario.png" width="320" height="245" data-original-width="518" data-original-height="396" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2071-um-aniversário-aniversario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2071-um-aniversário-aniversario.png" width="320" height="245" data-original-width="518" data-original-height="396" /></a></div>
 Caros leitores, mais uma vez vamos atrás da origem das palavras. De origem latina a palavra aniversário é composta pela junção da palavra “annus” que quer dizer ano e “vertere” que quer dizer voltar. Ou seja, aquilo que volta todos os anos. Deixando de lado as origens pagãs e supersticiosas de se comemorar o aniversário, nos tempos em que vivemos, sabe-se que é uma data em que o aniversariante se reúne com seus familiares e pessoas mais próximas de seu convívio para celebrar e agradecer a Deus, em presença de todos, pela graça de ter completado mais um ano de vida. Pelo menos é assim que deveria ser.</br>
 </br>
 Não é possível ao cristão separar a sua realidade de filho de Deus desta comemoração. Pois do contrário seria apenas um acontecimento social, uma reunião de pessoas em torno de uma festa com comes e bebes, muito bate papo e presentes. Digo que não é possível porque ao se comemorar algum aniversário, seja ele qual for, nascimento, casamento, batismo ou outro acontecimento, se não convidarmos Jesus para estar conosco neste dia, de que adianta?

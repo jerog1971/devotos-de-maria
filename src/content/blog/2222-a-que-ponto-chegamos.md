@@ -1,10 +1,10 @@
 ---
 title: "A que ponto chegamos"
 date: 2022-11-28T21:24:00.001Z
-heroImage: "/images/a que ponto chegamos(1).png"
+heroImage: "/images/posts/2222-a-que-ponto-chegamos-a_20que_20ponto_20chegamos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwLoIVymaVDBRd1xLwyzUCT-ZU9j9TwMLZz-mJA-2xB3mdb99jn50w51SE9hAjF7Agfkg1NHKa3e5F7O2AgAgziX1ar8eZsFZm5t2NFc7lzDe_l0BYtAon2DWhpbEKYowTOMSoTe4rbGh37fAlT1MuP9HD69HX2jxD1qIMXtIPlXHogdepg534hA7x/s522/a%20que%20ponto%20chegamos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="522" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwLoIVymaVDBRd1xLwyzUCT-ZU9j9TwMLZz-mJA-2xB3mdb99jn50w51SE9hAjF7Agfkg1NHKa3e5F7O2AgAgziX1ar8eZsFZm5t2NFc7lzDe_l0BYtAon2DWhpbEKYowTOMSoTe4rbGh37fAlT1MuP9HD69HX2jxD1qIMXtIPlXHogdepg534hA7x/s320/a%20que%20ponto%20chegamos.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Tudo pode? Tudo é certo? Tudo vale? Tudo depende? Não vemos
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2222-a-que-ponto-chegamos-a_20que_20ponto_20chegamos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="522" height="213" src="/images/posts/2222-a-que-ponto-chegamos-a_20que_20ponto_20chegamos.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Tudo pode? Tudo é certo? Tudo vale? Tudo depende? Não vemos
 o mal onde ele existe, não vemos a gravidade das coisas onde elas existem; tampouco
 sentimos que o bem que deixamos de fazer irá nos prejudicar.</div><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">
 

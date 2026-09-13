@@ -1,10 +1,10 @@
 ---
 title: "O justo Juiz"
 date: 2016-01-05T11:27:00Z
-heroImage: "/images/juiz.png"
+heroImage: "/images/posts/549-o-justo-juiz-juiz.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7SZAzDxcNaWtqaI_r87Lca8oqu-r2h78oSwplncLJyuoR0IbXEQA34zyzAOAQlOGwfhSvGzuncUqzhSQvtaZlOcagTgBus2IUKcchB5gqtYp7oEQEgnXzZ2rToIzJKpeUAUdazZqUNk/s1600/juiz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7SZAzDxcNaWtqaI_r87Lca8oqu-r2h78oSwplncLJyuoR0IbXEQA34zyzAOAQlOGwfhSvGzuncUqzhSQvtaZlOcagTgBus2IUKcchB5gqtYp7oEQEgnXzZ2rToIzJKpeUAUdazZqUNk/s320/juiz.png" width="249" height="320" data-original-width="247" data-original-height="318" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/549-o-justo-juiz-juiz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/549-o-justo-juiz-juiz.png" width="249" height="320" data-original-width="247" data-original-height="318" /></a></div>
 </br>
 Livro do Eclesiástico 5,6-10</br>
 </br>

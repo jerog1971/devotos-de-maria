@@ -1,10 +1,10 @@
 ---
 title: "Termina o terror"
 date: 2024-04-22T21:56:00.005Z
-heroImage: "/images/termina o terror.png"
+heroImage: "/images/posts/1719-termina-o-terror-termina_20o_20terror.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZMjza6pQTMdvTg1TPHLSwhE9loMTsPOJMKbY5ZA2cocQmc0_22PgNM2VBxOAzkpv95DiHuGJdnFhlZNVe41yVuhVVH2NFrTPGU1IUaax5tugu4ihlNWyxr0NEbgFSK4Q2W3JAQN3Nu8ia9UgIGvPu_vok3OzxcuZQTCVeplBoPen4xzv5jBzpU3Jitc/s487/termina%20o%20terror.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="487" data-original-width="375" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZMjza6pQTMdvTg1TPHLSwhE9loMTsPOJMKbY5ZA2cocQmc0_22PgNM2VBxOAzkpv95DiHuGJdnFhlZNVe41yVuhVVH2NFrTPGU1IUaax5tugu4ihlNWyxr0NEbgFSK4Q2W3JAQN3Nu8ia9UgIGvPu_vok3OzxcuZQTCVeplBoPen4xzv5jBzpU3Jitc/s320/termina%20o%20terror.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia que devemos aproveitar os bons tempos e
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1719-termina-o-terror-termina_20o_20terror.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="487" data-original-width="375" height="320" src="/images/posts/1719-termina-o-terror-termina_20o_20terror.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia que devemos aproveitar os bons tempos e
 lembrar que os maus tempos existem, que eles retornarão para nos assombrar, mas
 que passarão. Por conta disso a perseverança nos é indicada como grande e importante
 arma no combate que se estende por toda a nossa vida. Não importa, mesmo que a coisa

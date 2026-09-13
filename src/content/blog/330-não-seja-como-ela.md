@@ -1,10 +1,10 @@
 ---
 title: "Não seja como ela"
 date: 2020-10-07T13:35:00.001Z
-heroImage: "/images/lobos e ovelhas.png"
+heroImage: "/images/posts/330-não-seja-como-ela-ovelhas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjziMIBDoAEDsKEfx1Q_LyWXPkkG_3bm5AaHRpddJNFRXyx9YZLggDIRxNzl0q76uOaLjUxvx6EpDw-LJYTKZ5gkQGAWp6feXSiDDv6akg-OARjPVDlyTtJk88idGNH2H2mw4HZELjbe9Q/s554/ovelhas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="554" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjziMIBDoAEDsKEfx1Q_LyWXPkkG_3bm5AaHRpddJNFRXyx9YZLggDIRxNzl0q76uOaLjUxvx6EpDw-LJYTKZ5gkQGAWp6feXSiDDv6akg-OARjPVDlyTtJk88idGNH2H2mw4HZELjbe9Q/s320/ovelhas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">João 12,11-15 – “Eu sou o bom pastor. O bom pastor expõe a
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/330-não-seja-como-ela-ovelhas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="554" src="/images/posts/330-não-seja-como-ela-ovelhas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">João 12,11-15 – “Eu sou o bom pastor. O bom pastor expõe a
 sua vida pelas ovelhas. O mercenário, porém, que não é pastor, a quem não
 pertencem as ovelhas, quando vê que o lobo vem vindo, abandona as ovelhas e
 foge; o lobo rouba e dispersa as ovelhas. O mercenário, porém, foge, porque é

@@ -1,10 +1,10 @@
 ---
 title: "O desabafo de um catequista"
 date: 2016-06-08T17:21:00Z
-heroImage: "/images/catequista.png"
+heroImage: "/images/posts/1596-o-desabafo-de-um-catequista-catequista.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsj6JES6-EjBmnYX6tekawCDhLPIx5veGQeQQ9vER9ekH5xG1z8tkl0mgal2_l-rkQPuORt0Kow37t8mgXj8Ik-Pck1jSqpnUll5rcJeJ32kGuXEs1n_dFKCdqD0s_wVbaTe3KIvHlpSI/s1600/catequista.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsj6JES6-EjBmnYX6tekawCDhLPIx5veGQeQQ9vER9ekH5xG1z8tkl0mgal2_l-rkQPuORt0Kow37t8mgXj8Ik-Pck1jSqpnUll5rcJeJ32kGuXEs1n_dFKCdqD0s_wVbaTe3KIvHlpSI/s320/catequista.png" width="320" height="317" data-original-width="344" data-original-height="341" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1596-o-desabafo-de-um-catequista-catequista.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1596-o-desabafo-de-um-catequista-catequista.png" width="320" height="317" data-original-width="344" data-original-height="341" /></a></div>
 Motivados sempre por um chamado que é divino, sim, divino, pois se não for por esta via a empreitada logo se espalha pelos percalços da caminhada; pessoas de diversas idades são chamadas a exercerem dentro da igreja o serviço de evangelização que é pedido por Jesus a todos os batizados.</br>
 </br>
 São os vocacionados catequistas. Normalmente pessoas que tiveram alguma experiência de Deus ou fizeram a diferença na vida de alguma pessoa e evangelizando-a, passam pelo sentimento de que fala São Lucas em Atos 20,35. Ele invade o coração de tal modo que o desejo de que mais pessoas vivam esse encontro com Cristo nos leva para a vida de catequese e serviço dentro da igreja.</br>

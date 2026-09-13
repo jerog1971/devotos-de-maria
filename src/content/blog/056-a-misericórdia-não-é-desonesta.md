@@ -1,10 +1,10 @@
 ---
 title: "A misericórdia não é desonesta"
 date: 2015-11-20T13:45:00.001Z
-heroImage: "/images/minimizar.png"
+heroImage: "/images/posts/056-a-misericórdia-não-é-desonesta-minimizar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3tghLe1nAHyH60H2r7PT4bdn-aPF-OvZQqWWyDUmEDiAh1Q-mf4PL37VLgfFl-XVaSnvLFCB_y0owGH8uhDBCqQrNqRXrc0CARWsvtMvPDgqkUiGnY6F4CsFB9nZ4ZQ73tSLnZXwysX0/s1600/minimizar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3tghLe1nAHyH60H2r7PT4bdn-aPF-OvZQqWWyDUmEDiAh1Q-mf4PL37VLgfFl-XVaSnvLFCB_y0owGH8uhDBCqQrNqRXrc0CARWsvtMvPDgqkUiGnY6F4CsFB9nZ4ZQ73tSLnZXwysX0/s320/minimizar.png" width="320" height="169" data-original-width="615" data-original-height="324" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/056-a-misericórdia-não-é-desonesta-minimizar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/056-a-misericórdia-não-é-desonesta-minimizar.png" width="320" height="169" data-original-width="615" data-original-height="324" /></a></div>
 </br>
 O Arcebispo da Filadélfia (Estados Unidos), Dom Charles Chaput, assegurou que a verdadeira misericórdia e a confiança no poder transformador da graça de Deus são chaves para ajudar os divorciados em nova união.</br>
 </br>

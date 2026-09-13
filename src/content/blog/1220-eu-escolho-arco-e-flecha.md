@@ -1,10 +1,10 @@
 ---
 title: "Eu escolho: arco e flecha"
 date: 2018-10-31T20:20:00Z
-heroImage: "/images/habilidade.png"
+heroImage: "/images/posts/1220-eu-escolho-arco-e-flecha-habilidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjEvlmq-b7cm60S0dm9kQ_HEowqFN7UDCjgGBhif3YCenoCEUGP0hMQzRerSWNlO83V5Kdz8YzSTS9jMWD1uj6nD3Uue6fiKqn3GBpZQBOT-9o16LiQrVoPhknHiTBR2IhDCO6sJNKfDU/s1600/habilidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjEvlmq-b7cm60S0dm9kQ_HEowqFN7UDCjgGBhif3YCenoCEUGP0hMQzRerSWNlO83V5Kdz8YzSTS9jMWD1uj6nD3Uue6fiKqn3GBpZQBOT-9o16LiQrVoPhknHiTBR2IhDCO6sJNKfDU/s320/habilidade.png" width="320" height="306" data-original-width="311" data-original-height="297" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1220-eu-escolho-arco-e-flecha-habilidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1220-eu-escolho-arco-e-flecha-habilidade.png" width="320" height="306" data-original-width="311" data-original-height="297" /></a></div>
 No desenho de animação da Disney chamado “Brave”, traduzido para o Brasil com o título de Valente, vemos a evolução de um relacionamento entre mãe e filha e valores familiares em jogo, aliados à tradição e ao peso que colocam sob os ombros. Em certo momento da história, a fim de dar um “jeitinho” em sua situação, que estava sendo comandada pela mãe, a personagem chamada Merida decidiu intervir em benefício próprio planejando uma interferência nas regras da tradição, justamente colocando em prática sua melhor habilidade.</br>
 </br>
 Sua mão para o casamento seria disputada entre três pretendentes através de uma disputa de tiro ao alvo com arco e flecha. Cada um dos candidatos disparou sua flecha em direção ao alvo; um deles saiu-se melhor, porém, eis que na quebra da tradição, a princesa Merida surge em meio a todos e concluiu a situação disparando três flechas, uma para cada alvo e todas exatamente ao centro deles. O desfecho da situação todos nós conhecemos.</br>

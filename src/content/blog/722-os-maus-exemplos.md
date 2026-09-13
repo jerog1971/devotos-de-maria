@@ -1,10 +1,10 @@
 ---
 title: "Os maus exemplos"
 date: 2016-07-14T11:30:00.001Z
-heroImage: "/images/maus_exemplos.png"
+heroImage: "/images/posts/722-os-maus-exemplos-maus_exemplos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7VbO1UEY7iXQN8bj72GFtzi1KkHzub38WcCUD255YbWJT6dTeZkM5MXNrOvCc79k5ESI4B9wbNDyfPZPbV39GRaKcys09wP2Z5dQGUa4bb_toUH1W8UHekydkUqb4XJrg10R7ZsALs5w/s1600/maus_exemplos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7VbO1UEY7iXQN8bj72GFtzi1KkHzub38WcCUD255YbWJT6dTeZkM5MXNrOvCc79k5ESI4B9wbNDyfPZPbV39GRaKcys09wP2Z5dQGUa4bb_toUH1W8UHekydkUqb4XJrg10R7ZsALs5w/s320/maus_exemplos.png" width="320" height="172" data-original-width="611" data-original-height="328" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/722-os-maus-exemplos-maus_exemplos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/722-os-maus-exemplos-maus_exemplos.png" width="320" height="172" data-original-width="611" data-original-height="328" /></a></div>
 Eis a questão, dar mau exemplo é pecado ou não é?</br>
 </br>
 Vamos inicialmente lembrar o seguinte porém: "mal" é contrário de "bem" e "mau" é contrário de "bom". Na oração do pai nosso nós dizemos: "livrai-nos do "mal". Partindo desta verdade nos fica claro que Deus não nos livra de alguns sofrimentos porque eles nos fazem "bem" para a alma, contribuem para nossa santificação e salvação, são as chamadas tribulações, que fazem parte de nossa cruz dada por Deus segundo a capacidade de cada um, conforme nos ensinam as sagradas escrituras.</br>

@@ -1,10 +1,10 @@
 ---
 title: "Tenha em vista os interesses dos outros"
 date: 2015-12-21T11:40:00Z
-heroImage: "/images/interesses_dos_outros.png"
+heroImage: "/images/posts/2083-tenha-em-vista-os-interesses-dos-ou-interesses_dos_outros.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHAc4qMQJkheE9aoe94_51J2V_1j5oKYX8z0UzJ1daIjosLpuOJmsb1ZjY9gWCKJzgoajYH12yiZX8UAVVD0PMfIin_1oH7wencTUXl0E6laMythrBeJpDn2Gs56kgrdLyEVB0H8wu4I/s1600/interesses_dos_outros.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHAc4qMQJkheE9aoe94_51J2V_1j5oKYX8z0UzJ1daIjosLpuOJmsb1ZjY9gWCKJzgoajYH12yiZX8UAVVD0PMfIin_1oH7wencTUXl0E6laMythrBeJpDn2Gs56kgrdLyEVB0H8wu4I/s320/interesses_dos_outros.png" width="320" height="276" data-original-width="603" data-original-height="521" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2083-tenha-em-vista-os-interesses-dos-ou-interesses_dos_outros.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2083-tenha-em-vista-os-interesses-dos-ou-interesses_dos_outros.png" width="320" height="276" data-original-width="603" data-original-height="521" /></a></div>
 </br>
 Filipenses 2,4 - Cada qual tenha em vista não os seus próprios interesses, e sim os dos outros.</br>
 </br>

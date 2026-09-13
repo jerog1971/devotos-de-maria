@@ -1,10 +1,10 @@
 ---
 title: "Convite ao pecado"
 date: 2023-02-21T01:26:00.001Z
-heroImage: "/images/Convite ao pecado.png"
+heroImage: "/images/posts/1246-convite-ao-pecado-Convite_20ao_20pecado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIKJb3ayeWtOsjOIwXa862WPx1PrSnhwUUjIAqdYaXjsJ7QdPLYpCL3JQPOOhI6U2c02kGGLg0Z_kehb9wIlBX2UjqwusVEAxuCeK9b07OGZkK2ivhOk5dUg0kJfeya7Y4UTLNuU8qSg5JviZHQhT1Fv17G7sXsxNPPSkBIv94ZSV6nAqhwt4uRrr8/s467/Convite%20ao%20pecado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="364" data-original-width="467" height="249" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIKJb3ayeWtOsjOIwXa862WPx1PrSnhwUUjIAqdYaXjsJ7QdPLYpCL3JQPOOhI6U2c02kGGLg0Z_kehb9wIlBX2UjqwusVEAxuCeK9b07OGZkK2ivhOk5dUg0kJfeya7Y4UTLNuU8qSg5JviZHQhT1Fv17G7sXsxNPPSkBIv94ZSV6nAqhwt4uRrr8/s320/Convite%20ao%20pecado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Este ano foi a vez de mais uma escola de samba estimular as
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1246-convite-ao-pecado-Convite_20ao_20pecado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="364" data-original-width="467" height="249" src="/images/posts/1246-convite-ao-pecado-Convite_20ao_20pecado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Este ano foi a vez de mais uma escola de samba estimular as
 pessoas a acreditar que pecado é não ser feliz. Em entrevista jornalística o carnavalesco
 responsável pelo enredo de uma famosa escola de samba do país, afirmou querer
 levar às pessoas o seu ponto de vista relativizando o pecado, criticando

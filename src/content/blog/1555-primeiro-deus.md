@@ -1,10 +1,10 @@
 ---
 title: "Primeiro Deus"
 date: 2016-04-20T12:23:00Z
-heroImage: "/images/stela.png"
+heroImage: "/images/posts/1555-primeiro-deus-stela.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_34agxUC60n6d7U3Q7PRt8eyn9HZHQcsMqpV7CXc6v3Xhy_j1bHcLpn1szrYKpi8PlEBq72eXC1Pca2UM5cx0rEFGfvWcW925w76zjEbvsfYsiXpW6eXlivod4efUWsr_5aMouxuJ8no/s1600/stela.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_34agxUC60n6d7U3Q7PRt8eyn9HZHQcsMqpV7CXc6v3Xhy_j1bHcLpn1szrYKpi8PlEBq72eXC1Pca2UM5cx0rEFGfvWcW925w76zjEbvsfYsiXpW6eXlivod4efUWsr_5aMouxuJ8no/s320/stela.png" width="320" height="287" data-original-width="417" data-original-height="374" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1555-primeiro-deus-stela.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1555-primeiro-deus-stela.png" width="320" height="287" data-original-width="417" data-original-height="374" /></a></div>
 Quase na maioria das vidas de tantos de nós, o corre corre da enxurrada de coisas a fazer que nos permitimos ser soterrados todos os dias, muitas vezes não dão espaço para olharmos ao nosso redor e vermos tudo aquilo que se passa na vida de tantos irmãos e irmãs em Cristo. Não esqueçamos que devemos ser Santos como nosso Pai que está nos céus é Santo (Mateus 5,48). Ele, que faz nascer o sol sob justos e injustos sempre nos dá a prova de que nossa realidade está conectada com o todo. Temos o nosso traço individual, sem dúvida alguma, mas Deus espera de nós que amemos ao próximo como a nós mesmos por amor a Deus.</br>
 </br>
 Dito isto paremos um pouco para acompanhar o que aconteceu dias atrás. Num país muito próximo do Brasil, no Equador, no dia 16 de abril aconteceu um terremoto que culminou em mais uma tragédia noticiada pelos meios de comunicação. Felizmente como sempre acontece, em meio as notícias tristes deste tipo de acontecimento acontecem também, os destacados atos comunitários em favor das vítimas, atos heroicos muitas vezes e até situações que não chegam ao nosso conhecimento.</br>

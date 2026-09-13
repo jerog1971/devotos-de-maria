@@ -1,10 +1,10 @@
 ---
 title: "A poucos passos do inferno"
 date: 2023-01-18T02:27:00.001Z
-heroImage: "/images/Convite ao pecado.png"
+heroImage: "/images/posts/2095-a-poucos-passos-do-inferno-pecado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg4lbhKtDQSisr4G-V2uz-4gG5Oyl8Mje2-QJ4DE_I97xWh8zoG11EngzI3Xk7bTK99nGGBtVl7s4yV0MkaVVpobMNQOs_3gYuTLflYSxTmGUztdY5k1MhbfdEjGBPzU3xzhDznuBS6hM3B7X_iRo7aOkPErtEcQQf2SHgVgR1y8S-YzhG5QIqjGer/s287/pecado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="287" height="266" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg4lbhKtDQSisr4G-V2uz-4gG5Oyl8Mje2-QJ4DE_I97xWh8zoG11EngzI3Xk7bTK99nGGBtVl7s4yV0MkaVVpobMNQOs_3gYuTLflYSxTmGUztdY5k1MhbfdEjGBPzU3xzhDznuBS6hM3B7X_iRo7aOkPErtEcQQf2SHgVgR1y8S-YzhG5QIqjGer/s1600/pecado.png" width="287" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia, na carta de São Tiago, que quem transgride
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2095-a-poucos-passos-do-inferno-pecado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="287" height="266" src="/images/posts/2095-a-poucos-passos-do-inferno-pecado.png" width="287" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia, na carta de São Tiago, que quem transgride
 um item da lei é culpado de desobedece-la por inteiro, porque o promulgador da
 lei que escreve esta norma, também escreve aquela norma. Vamos conferir. “Pois
 quem guardar os preceitos da lei, mas faltar em um só ponto, tornar-se-á

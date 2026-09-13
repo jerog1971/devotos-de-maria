@@ -1,10 +1,10 @@
 ---
 title: "Coragem ou covadia?"
 date: 2019-04-20T21:17:00Z
-heroImage: "/images/João Bosco e o Inferno.png"
+heroImage: "/images/posts/465-coragem-ou-covadia-inferno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGYZTBQJY3XZi28DnibPHc66S5icDW5UEXsqR-8D5nTiGCsFIeRteLATN3pAo0oRRnVtWkhdlU2w6UOxJib1leB2P63FQNM06C7hpteLInAxsya4F35nnxeWfw-sp-IH4GQgCEa5h5M4/s1600/inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGYZTBQJY3XZi28DnibPHc66S5icDW5UEXsqR-8D5nTiGCsFIeRteLATN3pAo0oRRnVtWkhdlU2w6UOxJib1leB2P63FQNM06C7hpteLInAxsya4F35nnxeWfw-sp-IH4GQgCEa5h5M4/s320/inferno.png" width="312" height="320" data-original-width="285" data-original-height="292" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/465-coragem-ou-covadia-inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/465-coragem-ou-covadia-inferno.png" width="312" height="320" data-original-width="285" data-original-height="292" /></a></div>
 Na luta contra o pecado ainda não resististes até o sangue, lemos nas cartas apostólicas. O que vocês acham, será que não lutamos até o sangue contra o pecado por que nos falta coragem ou por que somos covardes? Talvez uma ou outra, ou quem sabe, mais grave ainda, as duas.</br>
 </br>
 O problema é que o diabo, esperto como sempre, joga nessas duas opções. Deixamos de combater o mal porque temos medo ou porque nos falta coragem. Dependendo de qual for nossa maior fraqueza é neste ponto que ele fica martelando, martelando e martelando. Fica minando nossas fraquezas e aproveitando cada brecha que damos para nos envenenar. </br>

@@ -1,10 +1,10 @@
 ---
 title: "Normalmente coisas ruins antecedem coisas boas"
 date: 2023-09-06T21:54:00.002Z
-heroImage: "/images/sofrimento.png"
+heroImage: "/images/posts/1358-normalmente-coisas-ruins-antecedem-coisas-boas-sofrimento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH8VKEZ7pYV1tST0ZymxAeah6IrwD1nR0MH_Jwxv3HZMKZoDSat6gHLoxL6ou2gbfAomz4B9OYk0_i8xHlj0foB4Z9qxuzyVtpr5aSL6xnQmvlaiczRm7a1V1raWuG2Prmj2oi-A-pCxdIIgYWvOcWvqo8dBSUon-t43Y-Q-zjWH0Ma15TpCHlvab1Lo4/s408/sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH8VKEZ7pYV1tST0ZymxAeah6IrwD1nR0MH_Jwxv3HZMKZoDSat6gHLoxL6ou2gbfAomz4B9OYk0_i8xHlj0foB4Z9qxuzyVtpr5aSL6xnQmvlaiczRm7a1V1raWuG2Prmj2oi-A-pCxdIIgYWvOcWvqo8dBSUon-t43Y-Q-zjWH0Ma15TpCHlvab1Lo4/s320/sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Escutei essa frase em um filme e depois de refletir,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1358-normalmente-coisas-ruins-antecedem-coisas-boas-sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="/images/posts/1358-normalmente-coisas-ruins-antecedem-coisas-boas-sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Escutei essa frase em um filme e depois de refletir,
 passando aquele filme de toda minha vida como um filme, vou concordar. E mais,
 a frase tem ainda por cima, respaldo bíblico. Toda a sagrada escritura ilustra
 essa condição que os filhos de Deus precisam viver para um dia serem elevados

@@ -1,10 +1,10 @@
 ---
 title: "Sem medo de ser devoto"
 date: 2017-12-19T18:29:00Z
-heroImage: "/images/devotos_em_Medjugorje.png"
+heroImage: "/images/posts/919-sem-medo-de-ser-devoto-devotos_em_Medjugorje.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrLay6C7EEBV2P18LXc7CZtSBxMJgK5X_GrbGYexF91olieOTqY5QijzaNaN9og5w0CaGLuOinzpBuW3PZqnhyoIEVjpQx-i7jU6BdobpHriFIcYdp74eCX1wRYnLhlfpPGBzE5cRoqxg/s1600/devotos_em_Medjugorje.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrLay6C7EEBV2P18LXc7CZtSBxMJgK5X_GrbGYexF91olieOTqY5QijzaNaN9og5w0CaGLuOinzpBuW3PZqnhyoIEVjpQx-i7jU6BdobpHriFIcYdp74eCX1wRYnLhlfpPGBzE5cRoqxg/s320/devotos_em_Medjugorje.png" width="320" height="313" data-original-width="423" data-original-height="414" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/919-sem-medo-de-ser-devoto-devotos_em_Medjugorje.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/919-sem-medo-de-ser-devoto-devotos_em_Medjugorje.png" width="320" height="313" data-original-width="423" data-original-height="414" /></a></div>
 Muitas pessoas se dizem devotas e não param para pensar no quanto essa alegada devoção auto anunciada, de fato, movimenta a sua espiritualidade. São Luiz Maria Grignion de Monfort, a muitos anos já fazia primorosa catequese a respeito, quando tratava do tema da verdadeira devoção à Virgem Santíssima. Por aqui, vamos dar uma passada por cima, em alguns aspectos básicos e práticos que o devoto precisa ser, ter e viver, se almeja se intitular um devoto.</br>
 </br>
 O devoto não é uma pessoa que tem medo de sê-lo, não pratica sua devoção de modo escondido. Se ele é realmente um devoto, ao andar pelas ruas, em praças públicas, no trabalho, na escola ou qualquer ambiente público, qualquer um corre o risco de perceber que sua devoção não mede esforços, não é mesquinha e nem tampouco tímida. Para o católico, a devoção vivida pode ser manifestada de algumas formas. Comumente vemos um devoto de Maria Santíssima usando no pescoço uma medalha ou uma camiseta com sua estampa. O mesmo também vale para a devoção aos santos de Deus.</br>

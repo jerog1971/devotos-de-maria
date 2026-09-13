@@ -1,10 +1,10 @@
 ---
 title: "Bebês choram.... e dormem...."
 date: 2015-11-23T00:15:00Z
-heroImage: "/images/Sofia.png"
+heroImage: "/images/posts/104-bebês-choram-e-dormem-Sofia_dormindo.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0_gTKgDDOFDvyDg5ObYA_qmcgoAFM8i4p5S5iJmUspezymr1QwbaVsaGhsR3WPRdfkwjATkHmNyjSlKwrVSjs7wDdToP9fNgmGAtgN9AiSwKMG0muWSzGewKGDoi3-uhyXpfVEKPkKQk/s1600/Sofia+dormindo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0_gTKgDDOFDvyDg5ObYA_qmcgoAFM8i4p5S5iJmUspezymr1QwbaVsaGhsR3WPRdfkwjATkHmNyjSlKwrVSjs7wDdToP9fNgmGAtgN9AiSwKMG0muWSzGewKGDoi3-uhyXpfVEKPkKQk/s320/Sofia+dormindo.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/104-bebês-choram-e-dormem-Sofia_dormindo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/104-bebês-choram-e-dormem-Sofia_dormindo.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>
 Um dos três objetivos do matrimônio é a abertura a fecundidade; ter filhos e educá-los no temor ao Senhor. Sua recusa portanto implica na negação à verdade revelada por Deus do Seu desejo de se unir ao homem por amor em perfeita comunhão. "Crescei e multiplicai-vos" - diz a Sagrada Escritura.</br>
 </br>
 Esta finalidade vai ao contrário de qualquer sentimento de egoísmo. Muitos casais, que de casais não possuem nada pois se comportam como uma dupla, escolhem se casar e não terem filhos. E a lista de motivos, muito bem embasados é bem extensa.</br>

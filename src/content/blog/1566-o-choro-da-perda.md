@@ -1,10 +1,10 @@
 ---
 title: "O choro da perda"
 date: 2016-06-15T11:51:00Z
-heroImage: "/images/choro_da_perda.png"
+heroImage: "/images/posts/1566-o-choro-da-perda-choro_da_perda.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnG4a9iCLKWk82PRxSu1IugeiH_tlY0O6bjjwLPakTf09ANsV19bMPxCBrVZ-m3gHFdiA-CXPauoexT2MtBhJTBVvSEsRftpVDG0SomH7_Qk5cY7l-rpls_Us9Uo48IZHBkNa8mO2erbY/s1600/choro_da_perda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnG4a9iCLKWk82PRxSu1IugeiH_tlY0O6bjjwLPakTf09ANsV19bMPxCBrVZ-m3gHFdiA-CXPauoexT2MtBhJTBVvSEsRftpVDG0SomH7_Qk5cY7l-rpls_Us9Uo48IZHBkNa8mO2erbY/s320/choro_da_perda.png" width="320" height="230" data-original-width="709" data-original-height="510" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1566-o-choro-da-perda-choro_da_perda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1566-o-choro-da-perda-choro_da_perda.png" width="320" height="230" data-original-width="709" data-original-height="510" /></a></div>
 Ontem, dia 14/06/2016, enquanto caminhava eu de volta para casa retornando do trabalho, me deparei com uma cena que chamava a atenção dos moradores locais. Uma ambulância do SAMU com o alerta ligado indicava que algo não ia bem naquela casa. O que comprovava a impressão sobre o cenário era uma mulher que chorava e se lamuriava sem cessar. E seu pranto tinha o inconfundível som de um choro de dor, uma dor que está na alma, no coração.</br>
 </br>
 Familiares tentavam consola-la e a vizinhança acompanhava de perto, mais em tom de curiosidade, de vamos ver no que vai dar, do que em atitude de solidariedade e conforto. É sempre assim. Basta um acidente de trânsito e como num passe de mágica o local enche de pessoas que não se sabe de onde, aparecem para ocupar a primeira fila da arquibancada. Querem ver de perto aquilo que não querem ver acontecendo consigo.</br>

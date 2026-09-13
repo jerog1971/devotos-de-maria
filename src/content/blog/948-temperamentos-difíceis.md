@@ -1,10 +1,10 @@
 ---
 title: "Temperamentos difíceis"
 date: 2022-06-03T19:03:00.001Z
-heroImage: "/images/temperamentos difíceis.png"
+heroImage: "/images/posts/948-temperamentos-difíceis-temperamentos_20dif_C3_ADceis.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTKCveNSXnCbXr0fvIwdj_AqjssqH3URBUMbj0IO3xMNgXTjawZqJUI_3PnXFQ2rGHJVy1QYAbsrZmJ-uCLt1nUPFleBaJmXzfiVZJUxAP0DcILsZWCCVAnZTNtakc9wm-G6T_OKDVC9JGRjS_QYqunMLKf64u_PFLg1lr0q-EV35kpZX7L04zL9OL/s811/temperamentos%20dif%C3%ADceis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="811" height="210" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTKCveNSXnCbXr0fvIwdj_AqjssqH3URBUMbj0IO3xMNgXTjawZqJUI_3PnXFQ2rGHJVy1QYAbsrZmJ-uCLt1nUPFleBaJmXzfiVZJUxAP0DcILsZWCCVAnZTNtakc9wm-G6T_OKDVC9JGRjS_QYqunMLKf64u_PFLg1lr0q-EV35kpZX7L04zL9OL/s320/temperamentos%20dif%C3%ADceis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na ira não pequeis, não deixe o sol se por sobre o seu
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/948-temperamentos-difíceis-temperamentos_20dif_C3_ADceis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="811" height="210" src="/images/posts/948-temperamentos-difíceis-temperamentos_20dif_C3_ADceis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na ira não pequeis, não deixe o sol se por sobre o seu
 ressentimento. Convenhamos, interrelações dão muito trabalho; atritos
 praticamente são inevitáveis. Todavia, a questão é: o que fazer em meio às
 adversidades? O cristão tem um modelo a seguir: Jesus Cristo. Se parar para

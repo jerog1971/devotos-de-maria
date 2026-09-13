@@ -1,10 +1,10 @@
 ---
 title: "Deus desistiu de você?"
 date: 2020-02-26T20:06:00.001Z
-heroImage: "/images/Ausência de Deus.png"
+heroImage: "/images/posts/1261-deus-desistiu-de-você-deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s1600/deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s320/deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1261-deus-desistiu-de-você-deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1261-deus-desistiu-de-você-deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
 Você passa uma vida inteira pedindo coisas para ele; se colocasse na ponta do lápis saberia dizer quanto de seus pedidos foram atendidos, respondendo em porcentagem? Primeiro você começa pedindo por suas necessidades pontuais e materiais; depois você aprende que precisa pedir coisas relacionadas com suas necessidades espirituais; em seguida você começa a pedir pelos outros. No entanto, ainda assim pouquíssimas coisas lhe são concedidas. Ah, de repente você aprende que é por causa da fé. Na carta de São Tiago está escrito que para recebermos precisamos pedir com fé.</br>
 </br>
 Tiago 1,5-8 – “Se alguém de vós necessita de sabedoria, peça-a a Deus - que a todos dá liberalmente, com simplicidade e sem recriminação - e ser-lhe-á dada. Mas peça-a com fé, sem nenhuma vacilação, porque o homem que vacila assemelha-se à onda do mar, levantada pelo vento e agitada de um lado para o outro. Não pense, portanto, tal homem que alcançará alguma coisa do Senhor, pois é um homem irresoluto, inconstante em todo o seu proceder.”</br>

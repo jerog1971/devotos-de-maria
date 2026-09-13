@@ -1,10 +1,10 @@
 ---
 title: "O veneno chamado tristeza"
 date: 2019-03-02T20:03:00Z
-heroImage: "/images/morte alegria tristeza.png"
+heroImage: "/images/posts/1854-o-veneno-chamado-tristeza-tristeza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWjR4lvy-5c4xtlT4GDPduj1IXvAuIggSs52vhERhTNR0yHYPOO7PYbh4yElCe23Rh2eaTb1O1h5rkcHml2U4jBZIRKv3vnlvuj0IXHgjp34kSlfgrBFRha2ZZg7EgImSg84JvVkWyPs/s1600/tristeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWjR4lvy-5c4xtlT4GDPduj1IXvAuIggSs52vhERhTNR0yHYPOO7PYbh4yElCe23Rh2eaTb1O1h5rkcHml2U4jBZIRKv3vnlvuj0IXHgjp34kSlfgrBFRha2ZZg7EgImSg84JvVkWyPs/s320/tristeza.png" width="317" height="320" data-original-width="312" data-original-height="315" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1854-o-veneno-chamado-tristeza-tristeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1854-o-veneno-chamado-tristeza-tristeza.png" width="317" height="320" data-original-width="312" data-original-height="315" /></a></div>
 Quando somos contrariados por alguma coisa que caminha na direção oposta daquilo que queremos, precisamos ou pretendemos, uma gama de opções sentimentais apresentam-se para tomarem um lugar muito espaçoso em nossos corações. Alguns podem sentir raiva, outros podem sentir um lamento, outros ainda podem ter um sentimento de decepção ou frustração.</br>
 </br>
 Como vemos e como muito bem sabemos, nossas reações acontecem na medida de nosso envolvimento e conhecimento relacionado com as coisas de Deus. Na balança da vida, pendemos para o lado do mundo ou o lado de Deus. Deus, que nos amou primeiro e demonstra um amor ciumento por cada um vai logo avisando através de Tiago 4,4: “quem é amigo do mundo se faz inimigo de Deus. </br>

@@ -1,10 +1,10 @@
 ---
 title: "Até que ponto?"
 date: 2015-08-25T11:46:00.002Z
-heroImage: "/images/holly.png"
+heroImage: "/images/posts/997-até-que-ponto-holly.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiev-JUKjl3G6VfN1LjSNnRPtUaSJ-xlzCd-m34Tk-CCuELO0NumstlnW2tiAXyy0tSaN58c4-GVM5Fx3GMFylucMCKLCzMNMky8-dB0NDCRoqFHopRGf0hp-_gXO0yvsQt9twCSuxcz-0/s1600/holly.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiev-JUKjl3G6VfN1LjSNnRPtUaSJ-xlzCd-m34Tk-CCuELO0NumstlnW2tiAXyy0tSaN58c4-GVM5Fx3GMFylucMCKLCzMNMky8-dB0NDCRoqFHopRGf0hp-_gXO0yvsQt9twCSuxcz-0/s320/holly.png" width="320" height="230" data-original-width="558" data-original-height="401" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/997-até-que-ponto-holly.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/997-até-que-ponto-holly.png" width="320" height="230" data-original-width="558" data-original-height="401" /></a></div>
 </br>
 O sétimo vídeo da série de denúncias contra a Planned Parenthood (PPFA), divulgado na semana passada, é, sem dúvidas, o mais perturbador de toda a série. O vídeo traz o relato surpreendente de uma ex-funcionária ligada à PPFA, que descreve a coleta do cérebro intacto de uma criança do sexo masculino, que tinha sido abortada tardiamente e cujo <b>coração ainda estava batendo depois do aborto</b>.</br>
 </br>

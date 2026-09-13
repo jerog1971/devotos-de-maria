@@ -1,10 +1,10 @@
 ---
 title: "Cansado das acusações de que os católicos adoram imagens?"
 date: 2016-02-03T12:01:00Z
-heroImage: "/images/Jesus_crucificado.png"
+heroImage: "/images/posts/1165-cansado-das-acusações-de-que-os-católicos-adoram-i-crucificado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU_nGEL3dN62k48eMlSNs8EXNmPUTShxDXb7bvC9Lq0htZ5OBOxhGqjazNM_ahSsv8Kw8zI-EHqbsmXHh7o517I1lIG1Sq5hxZSo7dqt9G8kiqF9Qtebzf-svX7ZLhyphenhyphenUB9lyVx26C4OIA/s1600/crucificado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU_nGEL3dN62k48eMlSNs8EXNmPUTShxDXb7bvC9Lq0htZ5OBOxhGqjazNM_ahSsv8Kw8zI-EHqbsmXHh7o517I1lIG1Sq5hxZSo7dqt9G8kiqF9Qtebzf-svX7ZLhyphenhyphenUB9lyVx26C4OIA/s320/crucificado.png" width="320" height="291" data-original-width="293" data-original-height="266" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1165-cansado-das-acusações-de-que-os-católicos-adoram-i-crucificado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1165-cansado-das-acusações-de-que-os-católicos-adoram-i-crucificado.png" width="320" height="291" data-original-width="293" data-original-height="266" /></a></div>
 </br>
 O uso de imagens e quadros religiosos em igrejas e dentro de casa é muito difundido desde tempos imemoriais. A questão das imagens sagradas costuma ser bastante polêmica; e na relação entre a Igreja e as pessoas que pretendem seguir a Cristo fora dela, a polêmica se acirra mais ainda, porque essas pessoas, entre muitos outros erros, acham que a Igreja católica adora imagens, o que não é verdade.</br>
  </br>
@@ -30,7 +30,7 @@ O que muitos desconhecem é que, assim como existe uma proibição de cultuar im
 </br>
 Vamos levar em consideração que a proibição se refere diretamente à adoração das imagens em si mesmas, e não ao simples fato de fazê-las para que elas sirvam apenas como sinal da presença de Deus. Neste sentido, Deus mesmo manda fazer coisas, objetos e imagens. É o caso da Arca da Aliança, com seus querubins de ouro e com o propiciatório também de ouro puro (Ex 25, 10-22). São elementos que não merecem as honras divinas: não podemos render culto a eles como se eles fossem Deus.<br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiahVby3YPHRn4zXtAfNDQnXnP1kj20ji99tyuljrA460zPT52cf2BiojMFTGMJqm1kn_cbRUQKchVGIqe7vE2Inv3c61RcHHssrP8xIQL9vwEWS8v7GEDxYdBsIqPbrKbbAJ47NM60qWA/s1600/bentoXVI_e_Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiahVby3YPHRn4zXtAfNDQnXnP1kj20ji99tyuljrA460zPT52cf2BiojMFTGMJqm1kn_cbRUQKchVGIqe7vE2Inv3c61RcHHssrP8xIQL9vwEWS8v7GEDxYdBsIqPbrKbbAJ47NM60qWA/s200/bentoXVI_e_Maria.png" width="200" height="161" data-original-width="512" data-original-height="411" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1165-cansado-das-acusações-de-que-os-católicos-adoram-i-bentoXVI_e_Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1165-cansado-das-acusações-de-que-os-católicos-adoram-i-bentoXVI_e_Maria.png" width="200" height="161" data-original-width="512" data-original-height="411" /></a></div>
 </br>
 Mas o povo precisava (e precisa ainda) desses sinais sensíveis. Deus mandou construir aquele sinal da sua presença no meio do povo. Recorre-se à Arca de Deus para fazer oração porque ela é sinal da presença de Deus. Prova disso é que a própria tenda do encontro foi construída por ordem divina e estava cheia de imagens. O Templo de Jerusalém também as tinha. E fica claro que elas não violavam a proibição decretada por Deus.</br>
 </br>

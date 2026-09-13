@@ -1,7 +1,7 @@
 ---
 title: "Santa Teresa de Calcutá"
 date: 2019-04-15T19:01:00Z
-heroImage: "/images/calcuta2.png"
+heroImage: "/images/posts/1765-santa-teresa-de-calcutá-calcuta2.png"
 ---
 
 <!DOCTYPE html>
@@ -14,7 +14,7 @@ heroImage: "/images/calcuta2.png"
 </font>
 </h1>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw34rVfzYCacNdqJSq-gJ-X3mib-HWmFVQRXkb34l_sf1bgAFHZvGImDh135AgTsIjxRs0Ye3z93tuOM356t7eIASPYK6QqL95nT9NL3XwwVOJ7b9TbvlI6qUKWLZi2mA3xu8Lf_Mmy0/s1600/calcuta2.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw34rVfzYCacNdqJSq-gJ-X3mib-HWmFVQRXkb34l_sf1bgAFHZvGImDh135AgTsIjxRs0Ye3z93tuOM356t7eIASPYK6QqL95nT9NL3XwwVOJ7b9TbvlI6qUKWLZi2mA3xu8Lf_Mmy0/s320/calcuta2.png" width="320" height="178" data-original-width="297" data-original-height="165" /></a>
+<a href="/images/posts/1765-santa-teresa-de-calcutá-calcuta2.png" imageanchor="1" ><img border="0" src="/images/posts/1765-santa-teresa-de-calcutá-calcuta2.png" width="320" height="178" data-original-width="297" data-original-height="165" /></a>
 </br>
 Resumo da vida de Santa Teresa de Calcutá:</br>
 </br>
@@ -80,7 +80,7 @@ Invocada, a religiosa rapidamente interveio, vindo em auxílio de uma pessoa em 
 </br>
 <h2>Uma mulher de profunda comunhão com Deus</h2></br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ0xCyKY2kHVtzN89zYx8FXQgWwCvdrmLRGpkku5dx4an6SWV9V8578UY0BoJXxqMNSDH4gxkHUBqjOCutqoMnIUebzXEEF5gdtf5QuvT-ysJCVZwdZu_Nn4y5LXJfsK64MPQOsc9hUjo/s1600/calcuta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ0xCyKY2kHVtzN89zYx8FXQgWwCvdrmLRGpkku5dx4an6SWV9V8578UY0BoJXxqMNSDH4gxkHUBqjOCutqoMnIUebzXEEF5gdtf5QuvT-ysJCVZwdZu_Nn4y5LXJfsK64MPQOsc9hUjo/s200/calcuta.png" width="159" height="200" data-original-width="265" data-original-height="334" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1765-santa-teresa-de-calcutá-calcuta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1765-santa-teresa-de-calcutá-calcuta.png" width="159" height="200" data-original-width="265" data-original-height="334" /></a></div>
 </br>
 O trabalho de Santa Teresa de Calcutá junto aos pobres é amplamente conhecido. O que permanece oculto para muitos é a sua profunda intimidade com o Santíssimo Sacramento, a qual constituía a força de toda a sua vida e apostolado. "A Missa é o alimento espiritual que me sustenta", ela dizia. "Sem ela, eu não conseguiria completar sequer um dia ou uma hora da minha vida."</br>
 </br>

@@ -1,10 +1,10 @@
 ---
 title: "Primeiro dedicação, depois paz"
 date: 2021-09-23T17:59:00.001Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1369-primeiro-dedicação-depois-paz-dedica_25C3_25A7_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhisNfQbzABvOrLA3kXH6JBtWWtSUg4jDfpLiGo_lRmWIFeoyKrWzjvQUvdGtcy0V-1929NCHcgscaplt9lllUDBnDSh9B9fBfN_OnEJMDyoBq5HoSD53TNk0NqgH85KaJHtETj1je2XNc/s349/dedica%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="349" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhisNfQbzABvOrLA3kXH6JBtWWtSUg4jDfpLiGo_lRmWIFeoyKrWzjvQUvdGtcy0V-1929NCHcgscaplt9lllUDBnDSh9B9fBfN_OnEJMDyoBq5HoSD53TNk0NqgH85KaJHtETj1je2XNc/s320/dedica%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A paz do coração, dada somente por Jesus Cristo, é a certeza
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1369-primeiro-dedicação-depois-paz-dedica_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="349" height="318" src="/images/posts/1369-primeiro-dedicação-depois-paz-dedica_25C3_25A7_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A paz do coração, dada somente por Jesus Cristo, é a certeza
 de sua companhia e seu auxílio em todos os momentos de nossas vidas; a menos
 que voluntariamente viremos as costas para ele, como se fôssemos inimigos de
 Deus. De fato, podemos acertadamente dizer, que todas as pessoas, em algum

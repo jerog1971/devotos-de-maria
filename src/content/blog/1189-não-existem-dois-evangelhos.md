@@ -1,10 +1,10 @@
 ---
 title: "Não existem dois evangelhos"
 date: 2016-05-10T16:01:00Z
-heroImage: "/images/dois_evangelhos.png"
+heroImage: "/images/posts/1189-não-existem-dois-evangelhos-dois_evangelhos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTa-4GH3yYoSmoELyLxf6r2arRpthC2plGjg6YXjCyrkE_55Rd-5G9lf86l6DWtXeuFqOFRnBEllPGzkmA9tJXIIpNLuGuFATtgmhgyY39SEWQt7t7Mo6wqPBtH_ZwzPMtYkWxQ1iMbc/s1600/dois_evangelhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTa-4GH3yYoSmoELyLxf6r2arRpthC2plGjg6YXjCyrkE_55Rd-5G9lf86l6DWtXeuFqOFRnBEllPGzkmA9tJXIIpNLuGuFATtgmhgyY39SEWQt7t7Mo6wqPBtH_ZwzPMtYkWxQ1iMbc/s320/dois_evangelhos.png" width="320" height="171" data-original-width="433" data-original-height="231" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1189-não-existem-dois-evangelhos-dois_evangelhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1189-não-existem-dois-evangelhos-dois_evangelhos.png" width="320" height="171" data-original-width="433" data-original-height="231" /></a></div>
 Gálatas 1,7-9 - De fato, não há dois (evangelhos): há apenas pessoas que semeiam a confusão entre vós e querem perturbar o Evangelho de Cristo. Mas, ainda que alguém - nós ou um anjo baixado do céu - vos anunciasse um evangelho diferente do que vos temos anunciado, que ele seja anátema. Repito aqui o que acabamos de dizer: se alguém pregar doutrina diferente da que recebestes, seja ele excomungado!</br>
 </br>
 Anátema do latim anathema, significa etimologicamente oferenda, porém, no seu uso principal leva um sentido de condenação, ao se colocar de lado ou separar alguém, cortando-o do seu ambiente, de sua comunidade. A palavra Anátema será de certa forma uma sentença pronunciada e mediante a qual se expulsava alguém considerado um “herege” do seio da sociedade religiosa.</br>

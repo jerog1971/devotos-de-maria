@@ -1,10 +1,10 @@
 ---
 title: "Como Cristo cuida de sua Igreja"
 date: 2016-07-27T19:24:00Z
-heroImage: "/images/brigida.png"
+heroImage: "/images/posts/380-como-cristo-cuida-de-sua-igreja-brigida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb0VQd8YX1mzqM9WbIWcyKbVe14BZmmJIFZGD4HMkOyuNB1ivW42vHPhbcqokjixo8xqhSU_DY4V0rfVEPGTHBHWJIBAAY0Ff3sTM4mOc5q5jk15-XEy7e11v3iUMNK0jFAMhIikjXMzU/s1600/brigida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb0VQd8YX1mzqM9WbIWcyKbVe14BZmmJIFZGD4HMkOyuNB1ivW42vHPhbcqokjixo8xqhSU_DY4V0rfVEPGTHBHWJIBAAY0Ff3sTM4mOc5q5jk15-XEy7e11v3iUMNK0jFAMhIikjXMzU/s320/brigida.png" width="320" height="233" data-original-width="699" data-original-height="510" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/380-como-cristo-cuida-de-sua-igreja-brigida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/380-como-cristo-cuida-de-sua-igreja-brigida.png" width="320" height="233" data-original-width="699" data-original-height="510" /></a></div>
 Trecho "retirado dos escritos de Santa Brigida" onde a santa recebe de Jesus e Maria uma verdadeira catequese sobre tantos temas do evangelho. Neste texto que transcrevo aqui, Jesus está a falar e relembrar para a santa a respeito dos cuidados que Ele tem para com sua igreja fundada sobre a profissão de fé de São Pedro:</br>
 </br>
 A Santa Igreja, que construí com meu próprio sangue e o dos santos. Eu mesmo a cimentei com minha caridade e depois coloquei nela meus eleitos e amigos. Seu fundamento é a fé, ou seja, a crença em que Sou um Juiz justo e misericordioso. Este fundamento tem sido agora deturpado porque todos creem e pregam que sou misericordioso, mas quase ninguém crê que Eu seja um Juiz justo. Consideram-me um juiz iníquo. De fato, um juiz seria iníquo, se, à margem da misericórdia, deixasse os maus sem castigo de forma que pudessem continuar oprimindo os justos.</br>

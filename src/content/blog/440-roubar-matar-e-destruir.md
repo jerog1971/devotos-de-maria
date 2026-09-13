@@ -1,10 +1,10 @@
 ---
 title: "Roubar, matar e destruir"
 date: 2020-12-29T13:05:00.001Z
-heroImage: "/images/assalto.png"
+heroImage: "/images/posts/440-roubar-matar-e-destruir-assalto.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUWv0ZvQkitCOcOpOP79sVtRxVD7Tm8GX8RLnXOSbsvYtCYPHTZIK5Owxs9U8XGt-lOMOczMm3qJx3yKRN23ZjbBJJ1vzIEfKZprNmsc4gz954ii2F6iZhmmT5OokD3nXy-Qd1n-49B8/s571/assalto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="571" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUWv0ZvQkitCOcOpOP79sVtRxVD7Tm8GX8RLnXOSbsvYtCYPHTZIK5Owxs9U8XGt-lOMOczMm3qJx3yKRN23ZjbBJJ1vzIEfKZprNmsc4gz954ii2F6iZhmmT5OokD3nXy-Qd1n-49B8/s320/assalto.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O diabo prima por essas três coisas: ele quer roubar nossa
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/440-roubar-matar-e-destruir-assalto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="571" src="/images/posts/440-roubar-matar-e-destruir-assalto.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O diabo prima por essas três coisas: ele quer roubar nossa
 felicidade, quer matar nossa fé em Jesus Cristo e quer destruir nossas famílias.<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Roubando nossa verdadeira felicidade ele desvenda nossas

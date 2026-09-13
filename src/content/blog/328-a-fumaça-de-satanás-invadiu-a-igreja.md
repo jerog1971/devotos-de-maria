@@ -1,10 +1,10 @@
 ---
 title: "A fumaça de satanás invadiu a igreja"
 date: 2016-07-06T11:30:00.002Z
-heroImage: "/images/genivaldo.png"
+heroImage: "/images/posts/328-a-fumaça-de-satanás-invadiu-a-igreja-genivaldo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt7HKMMnnZTVt_TqfJzc_MWXT6yfM56KQ5GQRyNuPyOkcJVWRAz10PATBRRMgXOp1sW_2bDQwy5sPSkghMrfJT4BauMlIBUKbMN-wyEnNcsyngt1-K_5HZ3pdjJfVJ1VbvYZv76GYPZc/s1600/genivaldo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt7HKMMnnZTVt_TqfJzc_MWXT6yfM56KQ5GQRyNuPyOkcJVWRAz10PATBRRMgXOp1sW_2bDQwy5sPSkghMrfJT4BauMlIBUKbMN-wyEnNcsyngt1-K_5HZ3pdjJfVJ1VbvYZv76GYPZc/s320/genivaldo.png" width="310" height="320" data-original-width="179" data-original-height="185" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/328-a-fumaça-de-satanás-invadiu-a-igreja-genivaldo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/328-a-fumaça-de-satanás-invadiu-a-igreja-genivaldo.png" width="310" height="320" data-original-width="179" data-original-height="185" /></a></div>
 </br>
 Estas foram as palavras ditas na época do papa Paulo VI, quando ele se referia ao fato de que dentro da doutrina de mais de dois mil anos da fé católica transmitida pelos apóstolos, santos padres dentro da tradição e de toda a documentação da igreja, pessoas começavam a questionar, colocar em dúvida e até mesmo se rebelar contra verdades que guiaram os fieis ao longo de tantos séculos, numa tentativa de implantar a espiritualidade do não precisa. Já nos alertava Santo Tomás de Aquino: "Quem não vive o que crê, termina crendo o que vive." Portanto é esta a tentativa dos inimigos do autêntico catolicismo. Haja vista tantos e tantos exemplos de pessoas que abandonam suas práticas e suas rotinas católicas em prol da mentalidade do "não precisa": para que comungar na boca, para que se confessar todo mês, para que rezar de joelhos, apra que ir na missa, para que ler a bíblia, para quê isso e para quê aquilo.... pare com esse exagero, esse devocionismo exagerado e por aí vai!</br>
 </br>

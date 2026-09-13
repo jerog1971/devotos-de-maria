@@ -1,10 +1,10 @@
 ---
 title: "O temor das coisas ruins"
 date: 2022-04-18T15:10:00.003Z
-heroImage: "/images/o temor das coisas ruins.png"
+heroImage: "/images/posts/905-o-temor-das-coisas-ruins-img-198770039.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEganJyLPMucjF-FQpudf5gHqyiWIR2_6C9l1Hik8EcpRIGZyPAvu5uCEaQKeafoKha_kEjbgZSPemPctbur99nU8op1zNkCdogumBOXpNBCmOR2J-74F8afMDaoE12v_3Xo6D12BaV8jb_P0y-SVZT4PVSLk0ub3EdiCF6j4hPKh8GBygo_qojbqMPA/s602/o%20temor%20das%20coisas%20ruins.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="602" data-original-width="570" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEganJyLPMucjF-FQpudf5gHqyiWIR2_6C9l1Hik8EcpRIGZyPAvu5uCEaQKeafoKha_kEjbgZSPemPctbur99nU8op1zNkCdogumBOXpNBCmOR2J-74F8afMDaoE12v_3Xo6D12BaV8jb_P0y-SVZT4PVSLk0ub3EdiCF6j4hPKh8GBygo_qojbqMPA/s320/o%20temor%20das%20coisas%20ruins.png" width="303" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente o ser humano teme por si e por aqueles que ama. Não
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/905-o-temor-das-coisas-ruins-img-198770039.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="602" data-original-width="570" height="320" src="/images/posts/905-o-temor-das-coisas-ruins-img-707010530.png" width="303" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente o ser humano teme por si e por aqueles que ama. Não
 quer a dor e o sofrimento em sua vida, tampouco na vida dos familiares e dos
 seus próximos. E por querer que coisas ruins não lhe aconteçam toma os devidos
 cuidados para que os agraves de categoria séria não integrem sua existência.<o:p></o:p></p><div class="separator" style="clear: both;">

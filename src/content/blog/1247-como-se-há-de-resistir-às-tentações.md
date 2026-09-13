@@ -1,10 +1,10 @@
 ---
 title: "Como se há de resistir às tentações"
 date: 2020-06-15T23:23:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/1247-como-se-há-de-resistir-às-tentações-cobi_25C3_25A7a.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmpxgH1uu37KoTnKNWZ1vhAdHYxF7HZs5lU3huEM2ncVdkc2kPyQFjfOe1ZtWLbFFiVzCORpABmqH7dbg3bgY0WLPQ-GWwfSCeBvih-m8ae-v8In8g5qnkNGkz_zFjLiSw8ulc93os0Q8/s432/cobi%25C3%25A7a.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="410" data-original-width="432" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmpxgH1uu37KoTnKNWZ1vhAdHYxF7HZs5lU3huEM2ncVdkc2kPyQFjfOe1ZtWLbFFiVzCORpABmqH7dbg3bgY0WLPQ-GWwfSCeBvih-m8ae-v8In8g5qnkNGkz_zFjLiSw8ulc93os0Q8/s320/cobi%25C3%25A7a.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Enquanto vivemos neste mundo, não podemos estar sem
+<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1247-como-se-há-de-resistir-às-tentações-cobi_25C3_25A7a.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="410" data-original-width="432" src="/images/posts/1247-como-se-há-de-resistir-às-tentações-cobi_25C3_25A7a.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Enquanto vivemos neste mundo, não podemos estar sem
 trabalhos e tentações. Por isso lemos estar sem trabalhos e tentações. Por isso
 lemos no livro de Jó 7,1: É um combate a vida do homem sobre a terra. Cada qual, pois,
 deve estar acautelado contra as tentações, mediante a vigilância e a oração,

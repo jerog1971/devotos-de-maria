@@ -1,10 +1,10 @@
 ---
 title: "Deus e o anonimato"
 date: 2021-07-12T16:30:00Z
-heroImage: "/images/anonimato.jpg"
+heroImage: "/images/posts/689-deus-e-o-anonimato-anonimato.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rMmcDiYcKq178jA4hByajdNSzwMmaqgp8s0Ea8nD_TG2Cs86z-RNfPYgjoP9coQsCuZs0uzkmvX_uB1DOZD3GDyoEhoIYQBH0Cr41ZrjeYQvKugPOtIDob1s9t0XAX3BYw_bSVk08g4/s1170/anonimato.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="878" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rMmcDiYcKq178jA4hByajdNSzwMmaqgp8s0Ea8nD_TG2Cs86z-RNfPYgjoP9coQsCuZs0uzkmvX_uB1DOZD3GDyoEhoIYQBH0Cr41ZrjeYQvKugPOtIDob1s9t0XAX3BYw_bSVk08g4/s320/anonimato.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa é uma escolha que cabe a cada um; isso mesmo, pois,
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/689-deus-e-o-anonimato-anonimato.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="878" height="320" src="/images/posts/689-deus-e-o-anonimato-anonimato.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa é uma escolha que cabe a cada um; isso mesmo, pois,
 podemos escolher vivermos debaixo de seu especial cuidado ou podemos escolher
 vivermos apenas sob seus cuidados genéricos, como das espécies animais ou
 vegetais, por exemplo. Deus cuida de toda a fauna e cuida de toda a flora, mas,

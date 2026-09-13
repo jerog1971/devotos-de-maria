@@ -1,10 +1,10 @@
 ---
 title: "Páscoa entre as grades?"
 date: 2020-04-12T17:57:00.002Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/342-páscoa-entre-as-grades-img-1396259101.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7CTQ50Lp6ifQDxJiAwT2Ol805GP4RMDorYJ89_EsmZnysMPHcPqfqiqQar_mAZu6rrROadVf4ZA4yZofXT4U-Zox9c0bvXz8P1T11D9HvbvoJyCF-rL_5uP5X-IT6DQB4D6eqC7_xt-g/s1600/p%25C3%25A1scoa_entre_as_grades.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7CTQ50Lp6ifQDxJiAwT2Ol805GP4RMDorYJ89_EsmZnysMPHcPqfqiqQar_mAZu6rrROadVf4ZA4yZofXT4U-Zox9c0bvXz8P1T11D9HvbvoJyCF-rL_5uP5X-IT6DQB4D6eqC7_xt-g/s320/p%25C3%25A1scoa_entre_as_grades.jpg" width="320" height="308" data-original-width="720" data-original-height="692" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/342-páscoa-entre-as-grades-img-1396259101.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/342-páscoa-entre-as-grades-img-572881455.jpg" width="320" height="308" data-original-width="720" data-original-height="692" /></a></div>
 Os judeus comemoravam a libertação da escravidão do povo no Egito; os cristãos, adeptos do cristianismo comemoram a ressurreição de Jesus Cristo. Seguindo-se a isso veio então por alguns séculos a perseguição aos cristãos. Eram tempos de celebrações em catacumbas, escondidos pela proibição de se praticar uma religião diferente do império, preservavam-se os seguidores do Cristo escondendo-se para poderem celebrar o mistério da fé.</br>
 </br>
 De certa forma não era uma celebração pascal entre “as grades”? Se não eram livres, então eram prisioneiros das circunstâncias, mesmo assim não deixavam de celebrar. No livro de Atos dos Apóstolos vemos o nascimento da igreja de forma familiar e posteriormente locais mais adequados eram construídos para comportar melhor a adesão das pessoas que era crescente.</br>

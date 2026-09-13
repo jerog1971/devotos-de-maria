@@ -1,10 +1,10 @@
 ---
 title: "Como filhos e com os filhos"
 date: 2016-01-19T11:49:00Z
-heroImage: "/images/filhas.png"
+heroImage: "/images/posts/044-como-filhos-e-com-os-filhos-filhas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFB1kHpI1pD4k6WuCadRREwQUE_4jF2lvEHwhAWesnjcKpYaNlNpDw97KpNL1pvD-wjcXfGkKhV5SkuFoEuczNt-MWA7BsLXIZqMIoHso3IZubW1yaohz9DUFULbiQfnBFEkkx0TBmWq8/s1600/filhas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFB1kHpI1pD4k6WuCadRREwQUE_4jF2lvEHwhAWesnjcKpYaNlNpDw97KpNL1pvD-wjcXfGkKhV5SkuFoEuczNt-MWA7BsLXIZqMIoHso3IZubW1yaohz9DUFULbiQfnBFEkkx0TBmWq8/s320/filhas.png" width="317" height="320" data-original-width="516" data-original-height="521" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/044-como-filhos-e-com-os-filhos-filhas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/044-como-filhos-e-com-os-filhos-filhas.png" width="317" height="320" data-original-width="516" data-original-height="521" /></a></div>
 </br>
 Caros leitores, neste artigo vamos refletir um pouco sobre nossa conduta enquanto filhos e filhas e com nossos filhos e filhas, nos fazendo valer de alguns ensinamentos tirados das sagradas escrituras, contidas no livro do Eclesiástico.</br>
 </br>

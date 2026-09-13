@@ -1,10 +1,10 @@
 ---
 title: "Jesus disse: \"tem olhos e não veem\""
 date: 2018-10-18T18:06:00Z
-heroImage: "/images/termina o terror.png"
+heroImage: "/images/posts/859-jesus-disse-tem-olhos-e-não-veem-terror.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0EO-5WUeLOVSIOoVDkT7cXZubfDkBC97J_feL-9pkb72HPBnTUgUHXEDqkkFLYghuEHPicYIz3rsUk0jWYJC_KYRItWtT05KwBbOOUVNxVsnit-vds3-AX_5RINzvVtLNgvcBzM2gob8/s1600/terror.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0EO-5WUeLOVSIOoVDkT7cXZubfDkBC97J_feL-9pkb72HPBnTUgUHXEDqkkFLYghuEHPicYIz3rsUk0jWYJC_KYRItWtT05KwBbOOUVNxVsnit-vds3-AX_5RINzvVtLNgvcBzM2gob8/s320/terror.png" width="320" height="266" data-original-width="671" data-original-height="557" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/859-jesus-disse-tem-olhos-e-não-veem-terror.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/859-jesus-disse-tem-olhos-e-não-veem-terror.png" width="320" height="266" data-original-width="671" data-original-height="557" /></a></div>
 Eclesiástico capítulo 09: “Não lances os olhos para uma mulher leviana, para que não caias em suas ciladas. Não detenhas o olhar sobre uma jovem, para que a sua beleza não venha a causar tua ruína. Desvia os olhos da mulher elegante, não fites com insistência uma beleza desconhecida. Toda mulher que se entrega à devassidão é como o esterco que se pisa na estrada.”</br>
 </br>
 Marcos 13,23 – (Disse Jesus) – “Ficai de sobreaviso. Eis que vos preveni de tudo.”</br>

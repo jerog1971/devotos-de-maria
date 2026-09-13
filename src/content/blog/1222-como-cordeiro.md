@@ -1,10 +1,10 @@
 ---
 title: "Como Cordeiro..."
 date: 2016-07-06T11:30:00.003Z
-heroImage: "/images/cordeiro.png"
+heroImage: "/images/posts/1222-como-cordeiro-cordeiro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL3I9NbuuVCrCrD9DLEzcZR1yOxOrC5vEM41dHQileuz3f5uOBx44ATnO-QSJnv34IwLHitaBqZsmeG6D7SbrsmRqXv5ufeMku_aRsokjOT7VMPW-Cj8oTHPSapnZrf3FWGmSSM3gCl9E/s1600/cordeiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL3I9NbuuVCrCrD9DLEzcZR1yOxOrC5vEM41dHQileuz3f5uOBx44ATnO-QSJnv34IwLHitaBqZsmeG6D7SbrsmRqXv5ufeMku_aRsokjOT7VMPW-Cj8oTHPSapnZrf3FWGmSSM3gCl9E/s320/cordeiro.png" width="320" height="251" data-original-width="457" data-original-height="359" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1222-como-cordeiro-cordeiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1222-como-cordeiro-cordeiro.png" width="320" height="251" data-original-width="457" data-original-height="359" /></a></div>
 </br>
 São João Batista não foi o único a comparar Nosso Senhor a um cordeiro, quando disse a famosa frase: "Eis o Cordeiro de Deus, aquele que tira o pecado do mundo" (Jo 1, 29). No Antigo Testamento, ao profetizar sobre o servo sofredor, Isaías recorre à mesma analogia, porém, sob outro aspecto: "Oprimido, ele se rebaixou, nem abriu a boca! Como cordeiro levado ao matadouro ou ovelha diante do tosquiador, ele ficou calado, sem abrir a boca" (Is 53, 7).</br>
 </br>

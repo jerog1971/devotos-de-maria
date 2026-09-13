@@ -1,10 +1,10 @@
 ---
 title: "Coronavirus supera a fé"
 date: 2020-03-17T17:43:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/452-coronavirus-supera-a-fé-_25C3_25A1lcool_gel.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc06DQDcNGMkr2q3a_MFTDLYejMi6dVFJpOAiw-9tUb0teR_0Gls-91ZdTN8M2ZA3eNpMJu3C6erQxkpFv39Shj3dn4gjHa-9zwNMj578WjxJFyBQ5geKsqaW_xNcfZy7g8R1nB2Jfhs/s1600/%25C3%25A1lcool_gel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc06DQDcNGMkr2q3a_MFTDLYejMi6dVFJpOAiw-9tUb0teR_0Gls-91ZdTN8M2ZA3eNpMJu3C6erQxkpFv39Shj3dn4gjHa-9zwNMj578WjxJFyBQ5geKsqaW_xNcfZy7g8R1nB2Jfhs/s320/%25C3%25A1lcool_gel.png" width="320" height="280" data-original-width="446" data-original-height="390" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/452-coronavirus-supera-a-fé-_25C3_25A1lcool_gel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/452-coronavirus-supera-a-fé-_25C3_25A1lcool_gel.png" width="320" height="280" data-original-width="446" data-original-height="390" /></a></div>
 Vamos refletir: a batalha da ciência contra a fé é duríssima e muito prolongada. Ainda não terminou; ora uma vence um duelo, ora é a vez da outra vencer. Agora nos tempos atuais em que vivemos iremos assistir a religião se ajoelhar perante a ciência, mais uma vez. Vamos lá?</br>
 </br>
 Para o católico a água benta é poderosa, tem o poder de proteger as pessoas do demônio e seus malefícios. Porém, em se tratando da realidade o que acontece é que a água benta pode transmitir o coronavirus, pelo menos aquela água benta deixada nas entradas das igrejas. Que cientificamente não passa de água parada, criadouro de outros focos infecciosos como a dengue, tão conhecida da população.</br>

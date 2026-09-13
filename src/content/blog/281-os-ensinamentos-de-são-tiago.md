@@ -1,10 +1,10 @@
 ---
 title: "Os ensinamentos de São Tiago"
 date: 2016-08-05T12:01:00Z
-heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
+heroImage: "/images/posts/281-os-ensinamentos-de-são-tiago-s_25C3_25A3o_tiago.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiPRt2a9X0mRT_SyG-RFG8cR6nfElfFi-zAmlVrRuoGBYsCev4m-i6sdVjNNTp-Md_32jsJ8j0v83VubCI2Spl8ZQhxpJou77hT8d6uTpzwTFJNdjGDam0Wa5zUcdYccyHgXe2pPzpgT0/s1600/s%25C3%25A3o_tiago.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiPRt2a9X0mRT_SyG-RFG8cR6nfElfFi-zAmlVrRuoGBYsCev4m-i6sdVjNNTp-Md_32jsJ8j0v83VubCI2Spl8ZQhxpJou77hT8d6uTpzwTFJNdjGDam0Wa5zUcdYccyHgXe2pPzpgT0/s320/s%25C3%25A3o_tiago.png" width="273" height="320" data-original-width="201" data-original-height="236" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/281-os-ensinamentos-de-são-tiago-s_25C3_25A3o_tiago.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/281-os-ensinamentos-de-são-tiago-s_25C3_25A3o_tiago.png" width="273" height="320" data-original-width="201" data-original-height="236" /></a></div>
 “Já o sabeis, meus diletíssimos irmãos: todo homem deve ser pronto para ouvir, porém tardo para falar e tardo para se irar; porque a ira do homem não cumpre a justiça de Deus.”</br>
 </br>
 Nos livros do novo testamento encontramos os primorosos ensinamentos contidos na carta de São Tiago. De agradável leitura e fácil compreensão são escritos muito fáceis de se ler e aprender. Nesta passagem que separamos neste artigo, aprendemos que nossa conduta não pode ser pautada em comportamentos impulsivos, porque como bem sabemos, são nesses momentos, que a ira toma conta de nossa razão e sentimentos e durante esses momentos nossas atitudes podem nos trazer problemas de todas as naturezas.</br>

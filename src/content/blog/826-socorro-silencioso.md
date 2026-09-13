@@ -1,10 +1,10 @@
 ---
 title: "Socorro silencioso"
 date: 2022-11-30T15:51:00.002Z
-heroImage: "/images/Socorro silencioso.png"
+heroImage: "/images/posts/826-socorro-silencioso-Socorro_20silencioso.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzLrfBHKbzfp4VvYd7GRqlhr1-D2WPBuv5DEbskMP21-DWG_lhuejmFtiGNH4ImtKDELE6zJIoguVZF66XN6evfGdI1X5AfT-kPpWSv3Z-Ci-qLRhiRS-Mqpj_ENj0Zy3MnH3T3k6RzpICq0F9fR4Zy9-5O9caGlavtKQNUWWcouz3W3mb7lZw2DdD/s432/Socorro%20silencioso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="432" data-original-width="360" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzLrfBHKbzfp4VvYd7GRqlhr1-D2WPBuv5DEbskMP21-DWG_lhuejmFtiGNH4ImtKDELE6zJIoguVZF66XN6evfGdI1X5AfT-kPpWSv3Z-Ci-qLRhiRS-Mqpj_ENj0Zy3MnH3T3k6RzpICq0F9fR4Zy9-5O9caGlavtKQNUWWcouz3W3mb7lZw2DdD/s320/Socorro%20silencioso.png" width="267" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é um mistério o fato de pedirmos tanta ajuda para Deus e
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/826-socorro-silencioso-Socorro_20silencioso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="432" data-original-width="360" height="320" src="/images/posts/826-socorro-silencioso-Socorro_20silencioso.png" width="267" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é um mistério o fato de pedirmos tanta ajuda para Deus e
 nada acontecer em nosso favor? Pelo menos, não da forma como gostaríamos. Em
 verdade, o problema está em nossa birra que teima sempre em ser desenfreada. Se
 queremos algo de Deus, queremos imediatamente, isso, quando não o queremos para

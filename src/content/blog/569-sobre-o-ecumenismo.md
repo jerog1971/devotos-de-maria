@@ -1,12 +1,12 @@
 ---
 title: "Sobre o Ecumenismo"
 date: 2017-08-23T14:45:00Z
-heroImage: "/images/ecumenismo.png"
+heroImage: "/images/posts/569-sobre-o-ecumenismo-ecumenismo.png"
 ---
 
 Não se iluda com a simpatia do Ecumenismo:</br>
 </br>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboM2mc9JI3_tdIvC927ukiBzjiGp4xAQpygP4uUzvsnE-EJaJK-U6vcWz6g8VaQQ7AgjyWzkOfL00ikfrmMDoN4tUwC2_-GipQDEeXPMQwo5fz5bAZWTrSlVwlti8g66HVL1_b4ggK8g/s1600/ecumenismo.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboM2mc9JI3_tdIvC927ukiBzjiGp4xAQpygP4uUzvsnE-EJaJK-U6vcWz6g8VaQQ7AgjyWzkOfL00ikfrmMDoN4tUwC2_-GipQDEeXPMQwo5fz5bAZWTrSlVwlti8g66HVL1_b4ggK8g/s320/ecumenismo.png" width="320" height="259" data-original-width="564" data-original-height="457" /></a></br>
+<a href="/images/posts/569-sobre-o-ecumenismo-ecumenismo.png" imageanchor="1" ><img border="0" src="/images/posts/569-sobre-o-ecumenismo-ecumenismo.png" width="320" height="259" data-original-width="564" data-original-height="457" /></a></br>
 </br>
 Movimento este condenado por Jesus em várias passagens bíblicas e confirmado por Ele em aparições a alguns santos. Com a ideia de que a verdade não é uma exclusividade pregada no Evangelho, esse movimento levanta a bandeira de que "fiquemos com o que nos une, deixando de lado o que nos separa". Como é possível se até nas sagradas escrituras o próprio Cristo nos ensina que é necessária a unidade de todos em sua igreja e em seu caminho, verdade e vida para um dia vivermos as alegrias eternas unidos em um só rebanho? A palavra Ecumenismo de origem grega quer dizer "aberto para todo o mundo" porém esbarra em muitos princípios doutrinários e nos ensinamentos do próprio Salvador, Jesus Cristo verdadeiro Deus e verdadeiro homem, não se contradiz porque Ele, que é a verdade, não se engana e não engana ninguém. A castidade, obediência e fidelidade pregadas, ensinadas e mostradas em exemplos por Jesus jamais mudou de conceito ou foram atualizadas.</br>
 </br>
@@ -22,7 +22,7 @@ Odiamos nossos filhos quando chamamos a atenção deles? Ou o amigo ao repreend�
 </br>
 Para Jesus, amar é exortar, ensinar, corrigir e ajudar o próximo! Ele jamais fez “vista grossa” para os problemas que estavam acontecendo e nunca deixou de expressar sua posição sobre qualquer assunto. Cristo NUNCA pregou ecumenismo e paz, mas sim amor e espada. Satanás, como sempre, distorceu o que o Salvador ensinou. Hoje em dia, se falarmos qualquer coisa contra um padre, pastor, líder, cristão, espírita, homossexual ou até um ateu, somos chamados de juízes. Eles argumentam dizendo que a “bíblia diz”: “Não julgues para não serem julgados”. Quem diz isso é MENTIROSO. Jamais fomos ensinados a não julgar e sim, a manter nossa vida limpa diante do Criador para não sermos julgados nas mesmas coisas que estamos julgando.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiYE290kK9G3xBH39lQCXCjyXzm3No8AcVX45bwQUP9CNdimU0hFZjcLRA-nD3zN3V7MxJeMukXZEoN6M_8LnGX7ZtJtZDA9SA8vLw4TGQQV7I_lAStQeHDpnRkGrTYF0fFAM_22Wcsmw/s1600/ecumenismo2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiYE290kK9G3xBH39lQCXCjyXzm3No8AcVX45bwQUP9CNdimU0hFZjcLRA-nD3zN3V7MxJeMukXZEoN6M_8LnGX7ZtJtZDA9SA8vLw4TGQQV7I_lAStQeHDpnRkGrTYF0fFAM_22Wcsmw/s200/ecumenismo2.png" width="200" height="200" data-original-width="476" data-original-height="477" /></a></div></br>
+<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/569-sobre-o-ecumenismo-ecumenismo2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/569-sobre-o-ecumenismo-ecumenismo2.png" width="200" height="200" data-original-width="476" data-original-height="477" /></a></div></br>
 <i>Recordemos:</i></br>
 </br>
 Mateus 7 - Não julguem, para que vocês não sejam julgados. Pois da mesma forma que julgarem, vocês serão julgados; e a medida que usarem, também será usada para medir vocês. Por que você repara no cisco que está no olho do seu irmão, e não se dá conta da trave que está em seu próprio olho?</br>

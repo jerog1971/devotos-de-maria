@@ -1,10 +1,10 @@
 ---
 title: "Comportamento que decepciona"
 date: 2021-03-17T14:49:00.001Z
-heroImage: "/images/comportamento.png"
+heroImage: "/images/posts/1408-comportamento-que-decepciona-comportamento_que_decepciona.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpDNIeoRglEK2DDdpKtJEv__gKhCZeX9oO4Ky7oTwEqV-E6ExINustWveiSDVlPl6TnYmlYF6nFg_VjjvZETTr_eS7_NTmgBr9VD8-VhEnZabTey7vikJALT4Z-ZhN5tPaxtkduc1MUTI/s437/comportamento+que+decepciona.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="437" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpDNIeoRglEK2DDdpKtJEv__gKhCZeX9oO4Ky7oTwEqV-E6ExINustWveiSDVlPl6TnYmlYF6nFg_VjjvZETTr_eS7_NTmgBr9VD8-VhEnZabTey7vikJALT4Z-ZhN5tPaxtkduc1MUTI/s320/comportamento+que+decepciona.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Alguns sites de notícias pela internet em relação ao assunto
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1408-comportamento-que-decepciona-comportamento_que_decepciona.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="437" src="/images/posts/1408-comportamento-que-decepciona-comportamento_que_decepciona.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Alguns sites de notícias pela internet em relação ao assunto
 pandemia, tem publicado alguns artigos onde médicos, como o diretor Paulo
 Chapchap do Hospital Sírio Libanês em São Paulo, em entrevista a BBC News
 Brasil, que estão atuando na linha de frente desabafam suas indignações frente

@@ -1,10 +1,10 @@
 ---
 title: "O tempo passa"
 date: 2023-12-04T19:45:00Z
-heroImage: "/images/28 anos de namoro.png"
+heroImage: "/images/posts/2213-o-tempo-passa-28_20anos_20de_20namoro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjitm00okur9RRwRJ6HBL37Sexz0hCo6I7Pl9sJi5QxtNngkHO6jd3e1uVLXME2QmL1zLm9XQlG4XTPbhO_gz6WbNHrmDe8JAQ4xD5zJsxLjrOuNbwU8qHTzQ1Fp4zTcT_ajZDmxpaqek0OeGV69xBG1NCv0QjSDAmdw0Mh7hVLRqtsCrFGbOQbAXLZiek/s883/28%20anos%20de%20namoro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="883" data-original-width="642" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjitm00okur9RRwRJ6HBL37Sexz0hCo6I7Pl9sJi5QxtNngkHO6jd3e1uVLXME2QmL1zLm9XQlG4XTPbhO_gz6WbNHrmDe8JAQ4xD5zJsxLjrOuNbwU8qHTzQ1Fp4zTcT_ajZDmxpaqek0OeGV69xBG1NCv0QjSDAmdw0Mh7hVLRqtsCrFGbOQbAXLZiek/s320/28%20anos%20de%20namoro.png" width="233" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O tempo voa e muitas coisas nessa vida continuam numa boa;
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2213-o-tempo-passa-28_20anos_20de_20namoro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="883" data-original-width="642" height="320" src="/images/posts/2213-o-tempo-passa-28_20anos_20de_20namoro.png" width="233" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O tempo voa e muitas coisas nessa vida continuam numa boa;
 porém, outras, precisam de um cuidado especial para que continuem a prosperar.
 Assim é em uma relação a dois. Todo mundo sabe que se não houver esforço dos
 dois lados alguém sairá perdendo nesse cabo de guerra. Os relacionamentos

@@ -1,10 +1,10 @@
 ---
 title: "Isento da culpa"
 date: 2022-09-20T18:47:00.005Z
-heroImage: "/images/isento da culpa.png"
+heroImage: "/images/posts/2203-isento-da-culpa-isento_20da_20culpa.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjS3PvSNlT0flkMUzGgYjkr12YBqnNMvMcHI46qteoht4h2f-074dM9rQd7azDn0mGpu808GNn3Q1OOCUrx6HSQpqHc_BK-hLpLNieYu4RM4Z9HKktrZlQ_avrrC-tvXP7oPf02T7qkT71FtGPYlyDv6TVF5fUMJ-aHJQP8NGLzC2JLQulWzL4qmMV/s525/isento%20da%20culpa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="525" height="317" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjS3PvSNlT0flkMUzGgYjkr12YBqnNMvMcHI46qteoht4h2f-074dM9rQd7azDn0mGpu808GNn3Q1OOCUrx6HSQpqHc_BK-hLpLNieYu4RM4Z9HKktrZlQ_avrrC-tvXP7oPf02T7qkT71FtGPYlyDv6TVF5fUMJ-aHJQP8NGLzC2JLQulWzL4qmMV/s320/isento%20da%20culpa.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A santa palavra de Deus nos ensina que muitas coisas que
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2203-isento-da-culpa-isento_20da_20culpa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="525" height="317" src="/images/posts/2203-isento-da-culpa-isento_20da_20culpa.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A santa palavra de Deus nos ensina que muitas coisas que
 fazemos de errado são por nossa culpa, pois, nos é ensinado que temos sempre a
 opção de escolher: o lado do bem ou do mal. Na carta de Tiago a exortação do
 apóstolo vai nos dizer que não devemos colocar a culpa em Deus por conta de

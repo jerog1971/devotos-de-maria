@@ -1,10 +1,10 @@
 ---
 title: "Voltando no tempo"
 date: 2023-11-05T17:51:00.006Z
-heroImage: "/images/tempo.png"
+heroImage: "/images/posts/1998-voltando-no-tempo-voltando_20no_20tempo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5RElJYD-Zx3_STog9_iRAOxSfr_N5-K8fKoNqOr20l0VFpEVTT96GtcedDSY0Ly91h8IXZnVBjG9iW-l9_Pb-JsOBfpAae7LB09EkG_K-sqg1jvUTlNWLPDnwUn1Yndbe4FFtCWZWv0CA6wHNj4YrTLiwjJfsIWcRVBy56Yr6xfw3B_bHWS6d9qjkCYI/s351/voltando%20no%20tempo.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="351" height="258" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5RElJYD-Zx3_STog9_iRAOxSfr_N5-K8fKoNqOr20l0VFpEVTT96GtcedDSY0Ly91h8IXZnVBjG9iW-l9_Pb-JsOBfpAae7LB09EkG_K-sqg1jvUTlNWLPDnwUn1Yndbe4FFtCWZWv0CA6wHNj4YrTLiwjJfsIWcRVBy56Yr6xfw3B_bHWS6d9qjkCYI/s320/voltando%20no%20tempo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme A Máquina do Tempo de 2002, acompanhamos a trajetória
+<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1998-voltando-no-tempo-voltando_20no_20tempo.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="351" height="258" src="/images/posts/1998-voltando-no-tempo-voltando_20no_20tempo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme A Máquina do Tempo de 2002, acompanhamos a trajetória
 do protagonista que, por conta de acontecimentos imprevistos, se torna obcecado
 em retornar no tempo para interferir em eventos de sua vida que levaram a morte
 de sua amada. Cada vez que ele faz a sua tentativa, de uma forma diferente, sua
