@@ -1,0 +1,171 @@
+---
+// src/components/Sidebar.astro
+
+// Lista de posts que você quer monitorar na sidebar com seus respectivos IDs/slugs no contador
+interface MonitoredPost {
+  title: string;
+  slug: string;
+  namespace: string; // Identificador único no CountAPI (ex: 'devotos-post-1')
+}
+
+const postsToTrack: MonitoredPost[] = [
+  { title: "Feliz dia dos pais", slug: "/posts/feliz-dia-dos-pais", namespace: "feliz-dia-dos-pais" },
+  { title: "Chamam isso de evolução", slug: "/posts/chamam-isso-de-evolucao", namespace: "chamam-isso-de-evolucao" },
+  { title: "A lenda das 13 almas", slug: "/posts/a-lenda-das-13-almas", namespace: "lenda-13-almas" },
+  { title: "Mau uso dos modelos cristãos", slug: "/posts/mau-uso-dos-modelos-cristaos", namespace: "mau-uso-modelos" }
+];
+---
+
+<aside class="sidebar font-sans text-white">
+  <!-- Campo de Busca -->
+  <div class="widget search-widget">
+    <h3 class="widget-title">Pesquisar</h3>
+    <form action="/busca" method="GET" class="search-form">
+      <input type="search" name="q" placeholder="Pesquisar no site..." required />
+      <button type="submit">Buscar</button>
+    </form>
+  </div>
+
+  <!-- Postagens Mais Visitadas (Dinâmico por Contador) -->
+  <div class="widget popular-posts-widget">
+    <h3 class="widget-title">Postagens mais visitadas</h3>
+    <ul id="popular-posts-list" class="popular-posts-list">
+      <!-- O JavaScript vai injetar a lista ordenada aqui em tempo real -->
+      <li class="loading-text">Carregando mais vistas...</li>
+    </ul>
+  </div>
+</aside>
+
+<script define:vars={{ postsToTrack }}>
+  async function loadPopularPosts() {
+    const listContainer = document.getElementById('popular-posts-list');
+    if (!listContainer) return;
+
+    try {
+      // Busca os acessos de cada post em paralelo no serviço gratuito do CountAPI
+      const promises = postsToTrack.map(async (post) => {
+        try {
+          // Namespace fixo no CountAPI para o seu site
+          const res = await fetch(`https://api.countapi.xyz/get/devotos-demaria/${post.namespace}`);
+          const data = await res.json();
+          return { ...post, views: data.value || 0 };
+        } catch (e) {
+          return { ...post, views: 0 };
+        }
+      });
+
+      const results = await Promise.all(promises);
+
+      // Ordena do mais acessado para o menos acessado (Top 10 / Top N)
+      results.sort((a, b) => b.views - a.views);
+
+      // Limpa o container e renderiza a lista ordenada
+      listContainer.innerHTML = '';
+      results.forEach((post) => {
+        const li = document.createElement('li');
+        li.className = 'popular-post-item';
+        li.innerHTML = `
+          <a href="${post.slug}" class="post-link">
+            <div class="post-info">
+              <h4 class="post-item-title">${post.title}</h4>
+              <span class="post-views">${post.views} acessos</span>
+            </div>
+          </a>
+        `;
+        listContainer.appendChild(li);
+      });
+    } catch (err) {
+      listContainer.innerHTML = '<li class="loading-text">Não foi possível carregar o ranking.</li>';
+    }
+  }
+
+  loadPopularPosts();
+</script>
+
+<style>
+  .sidebar {
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .widget {
+    margin-bottom: 30px;
+  }
+
+  .widget-title {
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #333333;
+    padding-bottom: 8px;
+  }
+
+  .search-form {
+    display: flex;
+    gap: 6px;
+  }
+
+  .search-form input {
+    flex: 1;
+    padding: 8px 12px;
+    background-color: #1a1a1a;
+    border: 1px solid #333333;
+    color: #ffffff;
+    border-radius: 4px;
+    font-size: 13px;
+  }
+
+  .search-form button {
+    padding: 8px 14px;
+    background-color: #333333;
+    border: none;
+    color: #ffffff;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+
+  .popular-posts-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .popular-post-item {
+    border-bottom: 1px dotted #333333;
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+  }
+
+  .popular-post-item:last-child {
+    border-bottom: none;
+  }
+
+  .post-link {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .post-item-title {
+    font-size: 13px;
+    color: #ffffff;
+    margin: 0 0 4px 0;
+    line-height: 1.3;
+    font-weight: 500;
+  }
+
+  .post-link:hover .post-item-title {
+    text-decoration: underline;
+  }
+
+  .post-views {
+    font-size: 10px;
+    color: #888888;
+  }
+
+  .loading-text {
+    font-size: 12px;
+    color: #777777;
+  }
+</style>
