@@ -1,45 +1,164 @@
 ---
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../consts';
+
+// Lista das páginas convertidas (as que já estão em src/pages/paginas/)
+const paginas = [
+  { title: "A Bíblia e a Igreja", slug: "a-biblia-e-a-igreja" },
+  { title: "A Santa Missa de Catalina", slug: "a-santa-missa-de-catalina" },
+  { title: "A Virgem Maria", slug: "a-virgem-maria" },
+  { title: "Anjos", slug: "anjos" },
+  { title: "Comunhão", slug: "comunhao" },
+  { title: "Confissão", slug: "confissao" },
+  { title: "Esclarecimentos sobre a Oração", slug: "esclarecimentos-sobre-a-oracao" },
+  { title: "Nossa Senhora", slug: "nossa-senhora" },
+  { title: "Nossa Senhora das Lágrimas", slug: "nossa-senhora-das-lagrimas" },
+  { title: "Orações Diárias", slug: "oracoes-diarias" },
+  { title: "Santa Anastácia", slug: "santa-anastacia" },
+  { title: "Santa Ângela de Foligno", slug: "santa-angela-de-foligno" },
+  { title: "Santa Gema Galgani", slug: "santa-gema-galgani" },
+  { title: "Santa Paulina", slug: "santa-paulina" },
+  { title: "Santa Teresa de Calcutá", slug: "santa-teresa-de-calcuta" },
+];
 ---
 
 <header>
-    <nav>
-        <h2><a href="/blog">{SITE_TITLE}</a></h2>
-        <div class="internal-links">
-            <HeaderLink href="/blog">Blog</HeaderLink>
-            <HeaderLink href="/busca">Pesquisar</HeaderLink>
-            <HeaderLink href="/about">Sobre</HeaderLink>
+  <nav>
+    <h2><a href="/blog">{SITE_TITLE}</a></h2>
+    <div class="internal-links">
+      <HeaderLink href="/blog">Blog</HeaderLink>
+      <HeaderLink href="/busca">Pesquisar</HeaderLink>
+      
+      <!-- Menu Dropdown no lugar do "Sobre" -->
+      <div class="dropdown">
+        <button class="dropdown-button">
+          Páginas
+          <svg class="arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </button>
+        <div class="dropdown-content">
+          <div class="dropdown-scroll">
+            {paginas.map((pagina) => (
+              <a href={`/paginas/${pagina.slug}`}>{pagina.title}</a>
+            ))}
+          </div>
         </div>
-    </nav>
+      </div>
+
+    </div>
+  </nav>
 </header>
 
 <style>
-	header {
-		margin: 0;
-		padding: 0 1em;
-		background: white;
-		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-	}
-	h2 {
-		margin: 0;
-		font-size: 1.4em;
-	}
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
-		color: #1a1a1a;
-	}
-	nav {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		max-width: 960px;
-		margin: 0 auto;
-		padding: 1em 0;
-	}
-	.internal-links {
-		display: flex;
-		gap: 1.5em;
-	}
+  header {
+    margin: 0;
+    padding: 0 1em;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    position: relative;
+    z-index: 100;
+  }
+  h2 {
+    margin: 0;
+    font-size: 1.4em;
+  }
+  h2 a,
+  h2 a.active {
+    text-decoration: none;
+    color: #1a1a1a;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1em 0;
+  }
+  .internal-links {
+    display: flex;
+    align-items: center;
+    gap: 1.5em;
+  }
+
+  /* ESTILOS DO DROPDOWN */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-button {
+    background: none;
+    border: none;
+    font-size: 1em;
+    font-family: inherit;
+    font-weight: 500;
+    color: #2b6cb0;
+    cursor: pointer;
+    padding: 0.5em 0;
+    display: flex;
+    align-items: center;
+    gap: 0.3em;
+    transition: color 0.2s ease;
+  }
+
+  .dropdown-button:hover {
+    color: #1a365d;
+  }
+
+  .arrow {
+    transition: transform 0.2s ease;
+  }
+
+  .dropdown:hover .arrow {
+    transform: rotate(180deg);
+  }
+
+  /* Painel suspenso */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    background-color: #ffffff;
+    min-width: 240px;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    padding: 0.5em 0;
+    z-index: 1000;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  /* Scroll suave para até 46 itens sem quebrar o layout */
+  .dropdown-scroll {
+    max-height: 350px;
+    overflow-y: auto;
+  }
+
+  .dropdown-scroll::-webkit-scrollbar {
+    width: 6px;
+  }
+  .dropdown-scroll::-webkit-scrollbar-thumb {
+    background-color: #cbd5e0;
+    border-radius: 3px;
+  }
+
+  .dropdown-content a {
+    color: #2d3748;
+    padding: 0.6em 1.2em;
+    text-decoration: none;
+    display: block;
+    font-size: 0.95em;
+    transition: background-color 0.15s ease, color 0.15s ease;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #f7fafc;
+    color: #2b6cb0;
+  }
 </style>
