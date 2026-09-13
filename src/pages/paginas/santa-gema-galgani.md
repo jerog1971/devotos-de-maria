@@ -1,7 +1,3 @@
-Aqui está o texto sobre **Santa Gema Galgani** e o **Tríduo** formatado e revisado para facilitar a leitura e meditação:
-
----
-
 # Santa Gema Galgani: A Mística da Redenção
 
 Santa Gema Galgani, em sua breve peregrinação por esta terra, deixou-nos o exemplo de sua intensa vida espiritual, oferecendo-se a Deus como vítima de expiação pelos pecados dos homens. No participar da Paixão, ela desejava ajudar Jesus em suas dores. Criou-se, assim, um pacto de amor de tal modo que Jesus a pudesse oferecer ao Pai como vítima de amor por todos os pecadores.
