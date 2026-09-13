@@ -1,39 +1,102 @@
 ---
 // src/components/Footer.astro
-const year = new Date().getFullYear();
 ---
 
-<footer class="bg-black text-gray-300 pt-10 pb-8 border-t border-gray-800">
-  <div class="max-w-6xl mx-auto px-4">
+<footer class="site-footer">
+  <div class="footer-container">
     <!-- Grid com os 3 Versículos Bíblicos -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10 text-left">
-      <div>
-        <h3 class="text-white font-bold text-lg mb-2">1ª Pedro 3,15:</h3>
-        <p class="text-sm text-gray-400 leading-relaxed">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h3>1ª Pedro 3,15:</h3>
+        <p>
           Estais sempre pronto a responder em vossa defesa a todo aquele que vos pedir a razão da vossa esperança.
         </p>
       </div>
 
-      <div>
-        <h3 class="text-white font-bold text-lg mb-2">Atos 5,29:</h3>
-        <p class="text-sm text-gray-400 leading-relaxed">
+      <div class="footer-col">
+        <h3>Atos 5,29:</h3>
+        <p>
           Importa obedecer antes a Deus do que aos homens.
         </p>
       </div>
 
-      <div>
-        <h3 class="text-white font-bold text-lg mb-2">Hebreus 12,4:</h3>
-        <p class="text-sm text-gray-400 leading-relaxed">
+      <div class="footer-col">
+        <h3>Hebreus 12,4:</h3>
+        <p>
           Ainda não tendes resistido até ao sangue, na luta contra o pecado.
         </p>
       </div>
     </div>
 
-    <!-- Créditos e Direitos Autorais -->
-    <div class="border-t border-gray-900 pt-6 text-center text-xs text-gray-500">
+    <!-- Créditos -->
+    <div class="footer-credits">
       <p>
-        Equipe Pamafil - julho de 2014. Tecnologia desenvolvida com <span class="text-white">Astro</span> no <span class="text-white">GitHub Pages</span>.
+        Equipe Pamafil - julho de 2014. Tecnologia do <a href="https://blogger.com" target="_blank" rel="noopener noreferrer">Blogger</a>.
       </p>
     </div>
   </div>
 </footer>
+
+<style>
+  .site-footer {
+    background-color: #000000;
+    color: #cccccc;
+    padding: 30px 20px 20px 20px;
+    margin-top: 40px;
+    border-top: 1px solid #222222;
+    font-family: inherit;
+  }
+
+  .footer-container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    text-align: left;
+    margin-bottom: 25px;
+  }
+
+  /* Em telas menores (celular), fica em 1 coluna */
+  @media (max-width: 768px) {
+    .footer-grid {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+  }
+
+  .footer-col h3 {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    margin-top: 0;
+  }
+
+  .footer-col p {
+    color: #aaaaaa;
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .footer-credits {
+    text-align: center;
+    border-top: 1px solid #111111;
+    padding-top: 15px;
+    font-size: 12px;
+    color: #777777;
+  }
+
+  .footer-credits a {
+    color: #e25642; /* tom avermelhado parecido com o do Blogger original */
+    text-decoration: none;
+  }
+
+  .footer-credits a:hover {
+    text-decoration: underline;
+  }
+</style>
