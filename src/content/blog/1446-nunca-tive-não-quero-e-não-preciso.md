@@ -1,7 +1,7 @@
 ---
 title: "Nunca tive, não quero e não preciso"
 date: 2021-05-10T16:14:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8pi8uEIrKhzLxvdU_4Uw_eG8EAOji-QhkhIC5HSIirl8YSKerjxPB6NWH0mapiUJ9vT9IgLHfJ_-5qNxlb_LAvs_AIdG9P-9p_BcFHDIpuyEWB34Ul9GXVxnR1dAq0TkCm_UR-1od2qQ/s0/n%25C3%25A3o+preciso.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8pi8uEIrKhzLxvdU_4Uw_eG8EAOji-QhkhIC5HSIirl8YSKerjxPB6NWH0mapiUJ9vT9IgLHfJ_-5qNxlb_LAvs_AIdG9P-9p_BcFHDIpuyEWB34Ul9GXVxnR1dAq0TkCm_UR-1od2qQ/s276/n%25C3%25A3o+preciso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="253" data-original-width="276" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8pi8uEIrKhzLxvdU_4Uw_eG8EAOji-QhkhIC5HSIirl8YSKerjxPB6NWH0mapiUJ9vT9IgLHfJ_-5qNxlb_LAvs_AIdG9P-9p_BcFHDIpuyEWB34Ul9GXVxnR1dAq0TkCm_UR-1od2qQ/s0/n%25C3%25A3o+preciso.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pedi, pedi e pedi a Deus por um auxílio, uma ajuda: nunca

@@ -1,7 +1,7 @@
 ---
 title: "Comparações divinas"
 date: 2021-12-09T16:07:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhVfJho7y6m-YTFuU0TLKLmZR4sYNEVBGzK_JCI9byyvzGqGDdafyW4ColyyJxSOzurVY_dJsp2dIesk4L8FweujbhzBPd2IZQgvEjl50goSN_M3ZRiFd2xIF4abX4bMl7v33c4IM-2uPxOTLNr2ZkEH6x0VBqe8frxZhrVW_8dMjI2en1eRF06Qn1N"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhVfJho7y6m-YTFuU0TLKLmZR4sYNEVBGzK_JCI9byyvzGqGDdafyW4ColyyJxSOzurVY_dJsp2dIesk4L8FweujbhzBPd2IZQgvEjl50goSN_M3ZRiFd2xIF4abX4bMl7v33c4IM-2uPxOTLNr2ZkEH6x0VBqe8frxZhrVW_8dMjI2en1eRF06Qn1N=s313" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="313" height="207" src="https://blogger.googleusercontent.com/img/a/AVvXsEhVfJho7y6m-YTFuU0TLKLmZR4sYNEVBGzK_JCI9byyvzGqGDdafyW4ColyyJxSOzurVY_dJsp2dIesk4L8FweujbhzBPd2IZQgvEjl50goSN_M3ZRiFd2xIF4abX4bMl7v33c4IM-2uPxOTLNr2ZkEH6x0VBqe8frxZhrVW_8dMjI2en1eRF06Qn1N" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aos cristãos católicos existe o conhecimento – infelizmente não

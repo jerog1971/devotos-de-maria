@@ -1,7 +1,7 @@
 ---
 title: "Um leão por dia"
 date: 2020-04-06T21:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQKkVB-qunBZTjgFdenGt3PWjzZRi7_bq2TbO4xdQ9VhRCzf-cE4DpAVcwaoEOZx7C7mjaQKXhRKqGLJnyrbvIVwpMXbjuvnoJ_CuIQHaCffTCsSIzb-PWaKq4V6zZfQW2LWFtA0583MI/s320/le%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQKkVB-qunBZTjgFdenGt3PWjzZRi7_bq2TbO4xdQ9VhRCzf-cE4DpAVcwaoEOZx7C7mjaQKXhRKqGLJnyrbvIVwpMXbjuvnoJ_CuIQHaCffTCsSIzb-PWaKq4V6zZfQW2LWFtA0583MI/s1600/le%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQKkVB-qunBZTjgFdenGt3PWjzZRi7_bq2TbO4xdQ9VhRCzf-cE4DpAVcwaoEOZx7C7mjaQKXhRKqGLJnyrbvIVwpMXbjuvnoJ_CuIQHaCffTCsSIzb-PWaKq4V6zZfQW2LWFtA0583MI/s320/le%25C3%25A3o.png" width="320" height="239" data-original-width="438" data-original-height="327" /></a></div>

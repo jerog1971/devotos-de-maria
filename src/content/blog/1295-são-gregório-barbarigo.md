@@ -1,7 +1,7 @@
 ---
 title: "São Gregório Barbarigo"
 date: 2020-06-18T17:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-vLl2vd_0s6voGOH2RN_D3x9qR3xiRv7qLG2zGYBsX-SaFZVpnRicZ5nhfYsbwEprLbh_aT9-txGxHGSr9e2XN4dHPzjxzSJBIT8Rn-eWopzM2V7AfKrVEvG6BiIljuhzBmYJpZDlBoM/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-vLl2vd_0s6voGOH2RN_D3x9qR3xiRv7qLG2zGYBsX-SaFZVpnRicZ5nhfYsbwEprLbh_aT9-txGxHGSr9e2XN4dHPzjxzSJBIT8Rn-eWopzM2V7AfKrVEvG6BiIljuhzBmYJpZDlBoM/s300/S%25C3%25A3o+Greg%25C3%25B3rio+Barbarigo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-vLl2vd_0s6voGOH2RN_D3x9qR3xiRv7qLG2zGYBsX-SaFZVpnRicZ5nhfYsbwEprLbh_aT9-txGxHGSr9e2XN4dHPzjxzSJBIT8Rn-eWopzM2V7AfKrVEvG6BiIljuhzBmYJpZDlBoM/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Veneza, Itália, em 1625. Em 1648, acompanhou o

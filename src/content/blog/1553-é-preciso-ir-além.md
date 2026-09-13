@@ -1,7 +1,7 @@
 ---
 title: "É preciso ir além"
 date: 2016-10-11T13:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5-UMWmPnev3L8FwkdLge_YBgX5CQCbJsUuD8AEGYeuS0NDTDDSvZtt1aA6RZ5aNUTmBGxeRKygOK4-YnC73fjuy6XJk_ii_oYVlQrYjnapf-Uv1F2uJ2SSpRMFc_T6T8QhbP7Dq165iw/s320/al%25C3%25A9m.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5-UMWmPnev3L8FwkdLge_YBgX5CQCbJsUuD8AEGYeuS0NDTDDSvZtt1aA6RZ5aNUTmBGxeRKygOK4-YnC73fjuy6XJk_ii_oYVlQrYjnapf-Uv1F2uJ2SSpRMFc_T6T8QhbP7Dq165iw/s1600/al%25C3%25A9m.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5-UMWmPnev3L8FwkdLge_YBgX5CQCbJsUuD8AEGYeuS0NDTDDSvZtt1aA6RZ5aNUTmBGxeRKygOK4-YnC73fjuy6XJk_ii_oYVlQrYjnapf-Uv1F2uJ2SSpRMFc_T6T8QhbP7Dq165iw/s320/al%25C3%25A9m.png" width="320" height="306" data-original-width="204" data-original-height="195" /></a></div>

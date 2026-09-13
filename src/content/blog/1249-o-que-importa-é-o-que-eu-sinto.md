@@ -1,7 +1,7 @@
 ---
 title: "O que importa é o que eu sinto"
 date: 2022-01-31T15:42:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEgdnShgGhAFj2qosX9mfXtOWZnxtk6LNiKu1MBK5cFk-eYXDmE_IhLChL4hq9RJFC2deTjsxrQHsJcJTOCFXIqh_r5Q7QnRWL495nFHpBHlYAgvmlrmEKnCWQurxXEGWyN4T7FvqH91c2-GxvVwl7W8iI6hWHmARMzYXWM2UC4nmuzfTnSTC-XqrkuU"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgdnShgGhAFj2qosX9mfXtOWZnxtk6LNiKu1MBK5cFk-eYXDmE_IhLChL4hq9RJFC2deTjsxrQHsJcJTOCFXIqh_r5Q7QnRWL495nFHpBHlYAgvmlrmEKnCWQurxXEGWyN4T7FvqH91c2-GxvVwl7W8iI6hWHmARMzYXWM2UC4nmuzfTnSTC-XqrkuU=s206" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="201" height="206" src="https://blogger.googleusercontent.com/img/a/AVvXsEgdnShgGhAFj2qosX9mfXtOWZnxtk6LNiKu1MBK5cFk-eYXDmE_IhLChL4hq9RJFC2deTjsxrQHsJcJTOCFXIqh_r5Q7QnRWL495nFHpBHlYAgvmlrmEKnCWQurxXEGWyN4T7FvqH91c2-GxvVwl7W8iI6hWHmARMzYXWM2UC4nmuzfTnSTC-XqrkuU" width="201" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E eu quero sentir coisas boas, afinal, querer abraçar o

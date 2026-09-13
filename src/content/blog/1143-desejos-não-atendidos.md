@@ -1,7 +1,7 @@
 ---
 title: "Desejos não atendidos"
 date: 2022-01-21T16:50:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhCnd5Xgrn0EHzJCc1psWONSKnJTeEUThDVHYSwUEU845EmdiudrkUqzyE6PHHpio2jWNx5r5i2gK4fX86S6eRC9MLcGQyrUNeldBtBp6jrcjpp66EQtkB1Cgdlmn1M4d2gq7Y95c_j-DBW4gl7SpETkKGeFTVL_0LryHfpWDZt-aLos1a9LXmzbKwU=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhCnd5Xgrn0EHzJCc1psWONSKnJTeEUThDVHYSwUEU845EmdiudrkUqzyE6PHHpio2jWNx5r5i2gK4fX86S6eRC9MLcGQyrUNeldBtBp6jrcjpp66EQtkB1Cgdlmn1M4d2gq7Y95c_j-DBW4gl7SpETkKGeFTVL_0LryHfpWDZt-aLos1a9LXmzbKwU=s532" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="509" data-original-width="532" height="306" src="https://blogger.googleusercontent.com/img/a/AVvXsEhCnd5Xgrn0EHzJCc1psWONSKnJTeEUThDVHYSwUEU845EmdiudrkUqzyE6PHHpio2jWNx5r5i2gK4fX86S6eRC9MLcGQyrUNeldBtBp6jrcjpp66EQtkB1Cgdlmn1M4d2gq7Y95c_j-DBW4gl7SpETkKGeFTVL_0LryHfpWDZt-aLos1a9LXmzbKwU=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O tema é recorrente por aqui e mais uma vez a reflexão

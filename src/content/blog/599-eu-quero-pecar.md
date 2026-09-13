@@ -1,7 +1,7 @@
 ---
 title: "Eu quero pecar"
 date: 2019-02-20T17:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_kBAvqlVlmHBFe8YEgnRAH_ShTyatmwNsbc024ikB_OuiXjyrCDRQ7ijoxiHSx9WYGlJlYkc7gEvdKhs7-NZPKpaWIiBWe2il0aCxyhaN91tiiIPLmZReQ2rqxKwmYPCohrgjyE5_SJQ/s320/tenta%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_kBAvqlVlmHBFe8YEgnRAH_ShTyatmwNsbc024ikB_OuiXjyrCDRQ7ijoxiHSx9WYGlJlYkc7gEvdKhs7-NZPKpaWIiBWe2il0aCxyhaN91tiiIPLmZReQ2rqxKwmYPCohrgjyE5_SJQ/s1600/tenta%25C3%25A7%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="269" data-original-width="449" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_kBAvqlVlmHBFe8YEgnRAH_ShTyatmwNsbc024ikB_OuiXjyrCDRQ7ijoxiHSx9WYGlJlYkc7gEvdKhs7-NZPKpaWIiBWe2il0aCxyhaN91tiiIPLmZReQ2rqxKwmYPCohrgjyE5_SJQ/s320/tenta%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Quero fazer as coisas que tenho vontade e não encontro tempo para todas elas. São muitos convites, vindos de toda a parte. Dos amigos (mui amigos), da internet, da televisão e das mídias sociais. Tudo e todos, que já abraçaram a causa, trabalham no incansável esforço de propagar a novidade: o pecado é coisa do passado, ele evoluiu e agora é considerado a satisfação pessoal.

@@ -1,7 +1,7 @@
 ---
 title: "A realidade do esforço e do interesse"
 date: 2020-05-15T21:03:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf8xeYs-rJrkwKauFenII0ENufLbIwQHrS9LhY69_ia2yID7pRnLxc_euPugwtKy1H7r6xoU_ZCsEI7LvmEf2wFULIF6HE3nzizE6-9F1Rq2G6OzS9IR-RN8M3asIz6VbNyZqY8gSZhp4/s320/confiss%25C3%25B5es_durante_a_pandemia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf8xeYs-rJrkwKauFenII0ENufLbIwQHrS9LhY69_ia2yID7pRnLxc_euPugwtKy1H7r6xoU_ZCsEI7LvmEf2wFULIF6HE3nzizE6-9F1Rq2G6OzS9IR-RN8M3asIz6VbNyZqY8gSZhp4/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="425" data-original-width="649" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf8xeYs-rJrkwKauFenII0ENufLbIwQHrS9LhY69_ia2yID7pRnLxc_euPugwtKy1H7r6xoU_ZCsEI7LvmEf2wFULIF6HE3nzizE6-9F1Rq2G6OzS9IR-RN8M3asIz6VbNyZqY8gSZhp4/s320/confiss%25C3%25B5es_durante_a_pandemia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Para aquilo que realmente é de interesse de uma pessoa, ela

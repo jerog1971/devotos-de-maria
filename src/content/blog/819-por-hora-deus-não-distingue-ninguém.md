@@ -1,7 +1,7 @@
 ---
 title: "Por hora Deus não distingue ninguém"
 date: 2020-10-06T18:23:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR8ES0U3mhOygg6BoXTdMEUKv6n08PNDWoAIOUvPm8A00j-YxO5_jsshCtW5NVkpe0oldoT7YGech-pP6_ceSczsZuSbr3rAjDBaHv5tv_5zt05n9zoMqDT9K9XB4GOW1he3fazgcnK2Q/s320/o+sol.jpg"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR8ES0U3mhOygg6BoXTdMEUKv6n08PNDWoAIOUvPm8A00j-YxO5_jsshCtW5NVkpe0oldoT7YGech-pP6_ceSczsZuSbr3rAjDBaHv5tv_5zt05n9zoMqDT9K9XB4GOW1he3fazgcnK2Q/s1040/o+sol.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1040" data-original-width="780" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR8ES0U3mhOygg6BoXTdMEUKv6n08PNDWoAIOUvPm8A00j-YxO5_jsshCtW5NVkpe0oldoT7YGech-pP6_ceSczsZuSbr3rAjDBaHv5tv_5zt05n9zoMqDT9K9XB4GOW1he3fazgcnK2Q/s320/o+sol.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 5,44-48 – “Orai pelos que vos [maltratam e]

@@ -1,7 +1,7 @@
 ---
 title: "O justo peca até sete vezes ao dia"
 date: 2020-02-28T14:50:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF8F_ExPQ5PnN7cDGf_bIeFdxfEd78ukdgrmrwo88yqsnixwlHD5RVHpvbbgPW4lt1HijMaOk1S9fHcLeuEGG9z2ThMqpeSDZKlfi_6b9cXuWgT0Qiq2AkI1SUa2yw84lLQdJQUT_YiDU/s320/ora%25C3%25A7%25C3%25A3o2.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF8F_ExPQ5PnN7cDGf_bIeFdxfEd78ukdgrmrwo88yqsnixwlHD5RVHpvbbgPW4lt1HijMaOk1S9fHcLeuEGG9z2ThMqpeSDZKlfi_6b9cXuWgT0Qiq2AkI1SUa2yw84lLQdJQUT_YiDU/s1600/ora%25C3%25A7%25C3%25A3o2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF8F_ExPQ5PnN7cDGf_bIeFdxfEd78ukdgrmrwo88yqsnixwlHD5RVHpvbbgPW4lt1HijMaOk1S9fHcLeuEGG9z2ThMqpeSDZKlfi_6b9cXuWgT0Qiq2AkI1SUa2yw84lLQdJQUT_YiDU/s320/ora%25C3%25A7%25C3%25A3o2.png" width="320" height="303" data-original-width="324" data-original-height="307" /></a></div>

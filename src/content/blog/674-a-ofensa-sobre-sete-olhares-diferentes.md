@@ -1,7 +1,7 @@
 ---
 title: "A ofensa sobre sete olhares diferentes"
 date: 2022-02-23T18:09:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEj4MHXJ7LhsBI5caQHW2sJAMNHGtepYUVKOcyD3xk5-B8HWCZWHiT7z2FiRChd1CmDCZznSZNiS5Iym53mGv3OOsY5J7oLX-ZobeUqovVpTJdycd0wW6vrypG3u858SCDVb_6djtp7GQlR9ZKzfRjaP-CHVKNuwge3On2Sk3yvZUfOPv7tXKIDgdNNo"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEj4MHXJ7LhsBI5caQHW2sJAMNHGtepYUVKOcyD3xk5-B8HWCZWHiT7z2FiRChd1CmDCZznSZNiS5Iym53mGv3OOsY5J7oLX-ZobeUqovVpTJdycd0wW6vrypG3u858SCDVb_6djtp7GQlR9ZKzfRjaP-CHVKNuwge3On2Sk3yvZUfOPv7tXKIDgdNNo=s316" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="311" data-original-width="316" height="311" src="https://blogger.googleusercontent.com/img/a/AVvXsEj4MHXJ7LhsBI5caQHW2sJAMNHGtepYUVKOcyD3xk5-B8HWCZWHiT7z2FiRChd1CmDCZznSZNiS5Iym53mGv3OOsY5J7oLX-ZobeUqovVpTJdycd0wW6vrypG3u858SCDVb_6djtp7GQlR9ZKzfRjaP-CHVKNuwge3On2Sk3yvZUfOPv7tXKIDgdNNo" width="316" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, vamos aqui apresentar sete formas diferentes com

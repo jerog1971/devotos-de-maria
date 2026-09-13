@@ -1,7 +1,7 @@
 ---
 title: "Fatos da depressão"
 date: 2017-10-26T19:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGm9yzmX1-Ln5W4EazO1AN9NJnZkUyx1-TbYk8faSNG8Ki6u6rt8nldL2TGwl4BRp_tpOkgkrdZZQnyxmfgKoCA9WaOv3UgKYDWZmYBKEQa7maSowMru2O6nfKT1YUqw8N0fuW1OaX9ZE/s320/depress%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGm9yzmX1-Ln5W4EazO1AN9NJnZkUyx1-TbYk8faSNG8Ki6u6rt8nldL2TGwl4BRp_tpOkgkrdZZQnyxmfgKoCA9WaOv3UgKYDWZmYBKEQa7maSowMru2O6nfKT1YUqw8N0fuW1OaX9ZE/s1600/depress%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGm9yzmX1-Ln5W4EazO1AN9NJnZkUyx1-TbYk8faSNG8Ki6u6rt8nldL2TGwl4BRp_tpOkgkrdZZQnyxmfgKoCA9WaOv3UgKYDWZmYBKEQa7maSowMru2O6nfKT1YUqw8N0fuW1OaX9ZE/s320/depress%25C3%25A3o.png" width="320" height="310" data-original-width="283" data-original-height="274" /></a></div>

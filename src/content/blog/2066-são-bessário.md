@@ -1,7 +1,7 @@
 ---
 title: "São Bessário"
 date: 2020-06-17T17:03:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT4s2ZI5cJOgr25pyNYGiEsnJGQaSSnNPT5NY4c1kQ2sSFvW6iCgszH-JBB2I0J5KtrjXRtoYSPN1_TeU_cWq05FHWgOEoKkfTtlf9cd0kzQK2aMidJdkLGMSB7EckErJoOMmQdQKvGgo/s320/S%25C3%25A3o+Bess%25C3%25A1rio.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT4s2ZI5cJOgr25pyNYGiEsnJGQaSSnNPT5NY4c1kQ2sSFvW6iCgszH-JBB2I0J5KtrjXRtoYSPN1_TeU_cWq05FHWgOEoKkfTtlf9cd0kzQK2aMidJdkLGMSB7EckErJoOMmQdQKvGgo/s398/S%25C3%25A3o+Bess%25C3%25A1rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="398" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT4s2ZI5cJOgr25pyNYGiEsnJGQaSSnNPT5NY4c1kQ2sSFvW6iCgszH-JBB2I0J5KtrjXRtoYSPN1_TeU_cWq05FHWgOEoKkfTtlf9cd0kzQK2aMidJdkLGMSB7EckErJoOMmQdQKvGgo/s320/S%25C3%25A3o+Bess%25C3%25A1rio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Era egípcio e viveu no século IV. Segundo a tradição foi

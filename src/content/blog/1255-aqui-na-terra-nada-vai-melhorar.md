@@ -1,7 +1,7 @@
 ---
 title: "Aqui na terra nada vai melhorar"
 date: 2017-01-02T15:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5l11Sk68pMXGqKYSri448gItGy5SM79K27RVeyqlpbWdjEUtuP430ZcI6Mc2X1JsbPjfy_Lv86Plb20HYRbCm82QqVHXUYa_jFjs1-85ii8jPSNkb4ORZa6Bu0Yel1IekEZfhE1nGfzw/s320/na%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5l11Sk68pMXGqKYSri448gItGy5SM79K27RVeyqlpbWdjEUtuP430ZcI6Mc2X1JsbPjfy_Lv86Plb20HYRbCm82QqVHXUYa_jFjs1-85ii8jPSNkb4ORZa6Bu0Yel1IekEZfhE1nGfzw/s1600/na%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5l11Sk68pMXGqKYSri448gItGy5SM79K27RVeyqlpbWdjEUtuP430ZcI6Mc2X1JsbPjfy_Lv86Plb20HYRbCm82QqVHXUYa_jFjs1-85ii8jPSNkb4ORZa6Bu0Yel1IekEZfhE1nGfzw/s320/na%25C3%25A7%25C3%25A3o.png" width="320" height="307" data-original-width="290" data-original-height="278" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Tementes a Deus? Para quê?"
 date: 2018-10-16T19:05:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAjY3rfCzLHf64GLJoE3cZ6ooclYsx-_BCu87zDIhThbwk0tZKdsQduZPeUrC6VdQxjotorAzaw6r8NREVJhNByA269o4uAuaO6oCG3-rFXiA0Ex5OtM9y7p2w0C3stuUK3a_vJ1-yYeg/s320/tenta%25C3%25A7%25C3%25B5es.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAjY3rfCzLHf64GLJoE3cZ6ooclYsx-_BCu87zDIhThbwk0tZKdsQduZPeUrC6VdQxjotorAzaw6r8NREVJhNByA269o4uAuaO6oCG3-rFXiA0Ex5OtM9y7p2w0C3stuUK3a_vJ1-yYeg/s1600/tenta%25C3%25A7%25C3%25B5es.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAjY3rfCzLHf64GLJoE3cZ6ooclYsx-_BCu87zDIhThbwk0tZKdsQduZPeUrC6VdQxjotorAzaw6r8NREVJhNByA269o4uAuaO6oCG3-rFXiA0Ex5OtM9y7p2w0C3stuUK3a_vJ1-yYeg/s320/tenta%25C3%25A7%25C3%25B5es.png" width="320" height="300" data-original-width="500" data-original-height="469" /></a></div>

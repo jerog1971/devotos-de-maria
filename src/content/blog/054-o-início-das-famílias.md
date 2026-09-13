@@ -1,7 +1,7 @@
 ---
 title: "O início das famílias"
 date: 2021-12-01T16:16:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jdKpTrzTRS8pwM_hl_H4naJ8Tmh_MMtbC-hTBYPGDJ4yqjiBqf_4_oOZpffgmXclzRbJTMfOC_bJnrKDaqseOLhhooXgAqDJMIDrppq3FeuBxJiVy54BYYpd80KSc-rHGNy9VQhrCPw/s320/O+in%25C3%25ADcio+das+fam%25C3%25ADlias.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jdKpTrzTRS8pwM_hl_H4naJ8Tmh_MMtbC-hTBYPGDJ4yqjiBqf_4_oOZpffgmXclzRbJTMfOC_bJnrKDaqseOLhhooXgAqDJMIDrppq3FeuBxJiVy54BYYpd80KSc-rHGNy9VQhrCPw/s1577/O+in%25C3%25ADcio+das+fam%25C3%25ADlias.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1577" data-original-width="1070" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jdKpTrzTRS8pwM_hl_H4naJ8Tmh_MMtbC-hTBYPGDJ4yqjiBqf_4_oOZpffgmXclzRbJTMfOC_bJnrKDaqseOLhhooXgAqDJMIDrppq3FeuBxJiVy54BYYpd80KSc-rHGNy9VQhrCPw/s320/O+in%25C3%25ADcio+das+fam%25C3%25ADlias.png" width="217" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Existe o tempo para tudo, lemos no livro do Eclesiastes.

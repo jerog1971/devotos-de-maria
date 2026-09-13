@@ -1,7 +1,7 @@
 ---
 title: "Por ele e por elas"
 date: 2018-12-10T15:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI9fqJ3_MnIyLS1mkEwog-8Fqr5HsI3-BC1zi7ZPsMC-48GLI6V5v3tT-rArJOcV32zuNm08YcbzcNLQomIVjgdXGD3V6vdYBXj5ESLhzDxQ66Ep_3WhR9rmS045nysvzttaCcgv_PyJE/s320/fam%25C3%25ADlia.jpg"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI9fqJ3_MnIyLS1mkEwog-8Fqr5HsI3-BC1zi7ZPsMC-48GLI6V5v3tT-rArJOcV32zuNm08YcbzcNLQomIVjgdXGD3V6vdYBXj5ESLhzDxQ66Ep_3WhR9rmS045nysvzttaCcgv_PyJE/s1600/fam%25C3%25ADlia.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI9fqJ3_MnIyLS1mkEwog-8Fqr5HsI3-BC1zi7ZPsMC-48GLI6V5v3tT-rArJOcV32zuNm08YcbzcNLQomIVjgdXGD3V6vdYBXj5ESLhzDxQ66Ep_3WhR9rmS045nysvzttaCcgv_PyJE/s320/fam%25C3%25ADlia.jpg" width="320" height="320" data-original-width="640" data-original-height="640" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Está resolvendo seguir Jesus?"
 date: 2019-01-10T15:05:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s320/serm%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s1600/serm%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCh0J78HPTWveHZffeMWwU9L89gg1COu0iv-kOzzMaf4HKYfSHzFV9E87ImcC2j7EGiDaM7_gF5dNwzVzwDQohPWg-1B0ow23_bwGygZZveYl-gMxIDyncrZtsJ_OhhclY0zpXycTBxQo/s320/serm%25C3%25A3o.png" width="320" height="299" data-original-width="553" data-original-height="516" /></a></div>

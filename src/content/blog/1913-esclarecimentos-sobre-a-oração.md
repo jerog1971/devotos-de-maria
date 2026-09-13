@@ -1,7 +1,7 @@
 ---
 title: "Esclarecimentos sobre a Oração"
 date: 2020-04-18T16:50:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG_DQ3akwitZwcztPOqshvFwLg7ZLPLsYYeLFogENu2Tt5SJfZQuWnnxNKHx7qoqV7sUeIMfysOZurt730xBr9OEGw3OB6Ps9TWk-ourExFuT4ahs8o8DM8f6jDYAygpwB7-2IZTh1rHs/s200/ora%25C3%25A7%25C3%25A3o2.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 A oração infalível

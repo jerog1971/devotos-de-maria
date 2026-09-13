@@ -1,7 +1,7 @@
 ---
 title: "Continuam as Profanações"
 date: 2016-06-23T13:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyKQ3q6x8kwcX6R33HLaXS9w4fbJdtvZiB0yWvqd6MXvLrQGkUVCB43-jEBo2mn5MhRvP4C4ihSr-imRiwfGe7NmwwogLsh83TXXqc3kjdDxrXCw21lWxOTxQZaD7sOdPRXAy-JxStco/s320/profana%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyKQ3q6x8kwcX6R33HLaXS9w4fbJdtvZiB0yWvqd6MXvLrQGkUVCB43-jEBo2mn5MhRvP4C4ihSr-imRiwfGe7NmwwogLsh83TXXqc3kjdDxrXCw21lWxOTxQZaD7sOdPRXAy-JxStco/s1600/profana%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyKQ3q6x8kwcX6R33HLaXS9w4fbJdtvZiB0yWvqd6MXvLrQGkUVCB43-jEBo2mn5MhRvP4C4ihSr-imRiwfGe7NmwwogLsh83TXXqc3kjdDxrXCw21lWxOTxQZaD7sOdPRXAy-JxStco/s320/profana%25C3%25A7%25C3%25A3o.png" width="320" height="219" data-original-width="398" data-original-height="272" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Não tente ser quem você não é"
 date: 2019-02-07T16:51:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnKHDsgHwvDIzjwFErWAPU63X0LO3Bgp5ROtn7BQPTftKQLQ0lT-6VdlYBpXCssb5fCuyoQkCN7xoaW0_f7WPGwGP9nb_dy3JjY8n_xzqg2jH2x5uvOLj4tJGBvCOoa01jP8fcLabMltc/s320/seja_voc%25C3%25AA_mesmo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnKHDsgHwvDIzjwFErWAPU63X0LO3Bgp5ROtn7BQPTftKQLQ0lT-6VdlYBpXCssb5fCuyoQkCN7xoaW0_f7WPGwGP9nb_dy3JjY8n_xzqg2jH2x5uvOLj4tJGBvCOoa01jP8fcLabMltc/s1600/seja_voc%25C3%25AA_mesmo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnKHDsgHwvDIzjwFErWAPU63X0LO3Bgp5ROtn7BQPTftKQLQ0lT-6VdlYBpXCssb5fCuyoQkCN7xoaW0_f7WPGwGP9nb_dy3JjY8n_xzqg2jH2x5uvOLj4tJGBvCOoa01jP8fcLabMltc/s320/seja_voc%25C3%25AA_mesmo.png" width="320" height="305" data-original-width="637" data-original-height="608" /></a></div>

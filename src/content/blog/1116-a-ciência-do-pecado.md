@@ -1,7 +1,7 @@
 ---
 title: "A ciência do pecado"
 date: 2020-02-12T15:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKPMV3eOQXkOnsULGh5ZjQlE2rBOWqhK8-d2AaLPsmhrI5JprmdUMUHH0z_I4SXo5Yw8z9ucDWLfz4gDuV8QRc9HvuV7faYLvwnY1EDkKE6p-_uqcvUWp9RQEKxHsaHeNzgLu9Rm2aaU/s320/ci%25C3%25AAncia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKPMV3eOQXkOnsULGh5ZjQlE2rBOWqhK8-d2AaLPsmhrI5JprmdUMUHH0z_I4SXo5Yw8z9ucDWLfz4gDuV8QRc9HvuV7faYLvwnY1EDkKE6p-_uqcvUWp9RQEKxHsaHeNzgLu9Rm2aaU/s1600/ci%25C3%25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKPMV3eOQXkOnsULGh5ZjQlE2rBOWqhK8-d2AaLPsmhrI5JprmdUMUHH0z_I4SXo5Yw8z9ucDWLfz4gDuV8QRc9HvuV7faYLvwnY1EDkKE6p-_uqcvUWp9RQEKxHsaHeNzgLu9Rm2aaU/s320/ci%25C3%25AAncia.png" width="320" height="277" data-original-width="563" data-original-height="487" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Quando faltam forças"
 date: 2020-11-16T13:35:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpCSB3j4kPkFYyvtYtWxA1F-TJJXR-2SK4EGptXMw6Id-B-j-9KP7W4PnIztkColzLFCmSR8u8T8MSS_8fhWXBKu51SwlpZNVAGQuxgQiI37cNPXMzotkts4cXx0F4tQG_9O7lPUhg5eY/s320/faltam+for%25C3%25A7as.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpCSB3j4kPkFYyvtYtWxA1F-TJJXR-2SK4EGptXMw6Id-B-j-9KP7W4PnIztkColzLFCmSR8u8T8MSS_8fhWXBKu51SwlpZNVAGQuxgQiI37cNPXMzotkts4cXx0F4tQG_9O7lPUhg5eY/s538/faltam+for%25C3%25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="538" data-original-width="508" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpCSB3j4kPkFYyvtYtWxA1F-TJJXR-2SK4EGptXMw6Id-B-j-9KP7W4PnIztkColzLFCmSR8u8T8MSS_8fhWXBKu51SwlpZNVAGQuxgQiI37cNPXMzotkts4cXx0F4tQG_9O7lPUhg5eY/s320/faltam+for%25C3%25A7as.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano foi desejado, pensado e criado por Deus. Feito

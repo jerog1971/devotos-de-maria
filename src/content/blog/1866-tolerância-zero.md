@@ -1,7 +1,7 @@
 ---
 title: "Tolerância zero"
 date: 2021-09-24T19:58:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6mpDiJMIhycSGuw582tH_AiwXR0gn119wC4S_4NuapWaZn5HTi7I3JM32pYcmIvYgUgAmngMvDbAYewH4EfwVQGnvBxfmg_gNhTfQ3nHKC3_HUHj8-0GxSLAjKvr05LpKPLp7rTBZ5IY/s320/toler%25C3%25A2ncia+zero.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6mpDiJMIhycSGuw582tH_AiwXR0gn119wC4S_4NuapWaZn5HTi7I3JM32pYcmIvYgUgAmngMvDbAYewH4EfwVQGnvBxfmg_gNhTfQ3nHKC3_HUHj8-0GxSLAjKvr05LpKPLp7rTBZ5IY/s551/toler%25C3%25A2ncia+zero.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="471" data-original-width="551" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6mpDiJMIhycSGuw582tH_AiwXR0gn119wC4S_4NuapWaZn5HTi7I3JM32pYcmIvYgUgAmngMvDbAYewH4EfwVQGnvBxfmg_gNhTfQ3nHKC3_HUHj8-0GxSLAjKvr05LpKPLp7rTBZ5IY/s320/toler%25C3%25A2ncia+zero.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na carta aos romanos 1,28-32, o apóstolo descreve uma lista

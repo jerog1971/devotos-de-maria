@@ -1,7 +1,7 @@
 ---
 title: "Vivendo com o mínimo"
 date: 2021-09-10T01:06:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGbqpfq6-DYlHNThqdXOh1iCgIgv1AP__nBsKaX75grcHrvnjUi78xwR1HbpRG8UqnqNqxRCcDNr31qmUJDYUpJqU0kS8ASvT3GChI2evy-561xXZQTzt-7QgFXD0adht0qco1QdDOt94/s320/vivendo+com+o+m%25C3%25ADnimo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGbqpfq6-DYlHNThqdXOh1iCgIgv1AP__nBsKaX75grcHrvnjUi78xwR1HbpRG8UqnqNqxRCcDNr31qmUJDYUpJqU0kS8ASvT3GChI2evy-561xXZQTzt-7QgFXD0adht0qco1QdDOt94/s353/vivendo+com+o+m%25C3%25ADnimo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="341" data-original-width="353" height="309" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGbqpfq6-DYlHNThqdXOh1iCgIgv1AP__nBsKaX75grcHrvnjUi78xwR1HbpRG8UqnqNqxRCcDNr31qmUJDYUpJqU0kS8ASvT3GChI2evy-561xXZQTzt-7QgFXD0adht0qco1QdDOt94/s320/vivendo+com+o+m%25C3%25ADnimo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os santos diziam que aquele cujo só o amor de Deus não basta

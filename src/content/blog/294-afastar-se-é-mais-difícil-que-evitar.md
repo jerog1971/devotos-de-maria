@@ -1,7 +1,7 @@
 ---
 title: "Afastar-se é mais difícil que evitar"
 date: 2022-03-14T12:05:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEidLclGkNJP4qT9yzgT_yvSHXXmNUieUm9CMXYz_UJZ3xGCYSEGDQ9oQCejW6N-_llfRBJwrDlv5wkk-uashhU64Lnv_3xtALwyLYQ3nh5uQ_KKG4uhuk68ISLyovKNZvmolfDEIhWIYZN76Ar94_Ow0dDX_V9Piar_hgKHcAfVKSXU2-YrDnJ6AFMm=w275-h267"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEidLclGkNJP4qT9yzgT_yvSHXXmNUieUm9CMXYz_UJZ3xGCYSEGDQ9oQCejW6N-_llfRBJwrDlv5wkk-uashhU64Lnv_3xtALwyLYQ3nh5uQ_KKG4uhuk68ISLyovKNZvmolfDEIhWIYZN76Ar94_Ow0dDX_V9Piar_hgKHcAfVKSXU2-YrDnJ6AFMm=s221" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" height="267" src="https://blogger.googleusercontent.com/img/a/AVvXsEidLclGkNJP4qT9yzgT_yvSHXXmNUieUm9CMXYz_UJZ3xGCYSEGDQ9oQCejW6N-_llfRBJwrDlv5wkk-uashhU64Lnv_3xtALwyLYQ3nh5uQ_KKG4uhuk68ISLyovKNZvmolfDEIhWIYZN76Ar94_Ow0dDX_V9Piar_hgKHcAfVKSXU2-YrDnJ6AFMm=w275-h267" width="275" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus em seu evangelho nos ensinou sobre a gravidade que é a

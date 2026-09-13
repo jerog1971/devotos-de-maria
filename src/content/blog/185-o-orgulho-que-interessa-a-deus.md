@@ -1,7 +1,7 @@
 ---
 title: "O orgulho que interessa a Deus"
 date: 2020-06-29T16:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjph9bhwtvYRTPMOKlnf2VXh6kLnkVgdh2ZPdQPeYxL-HMHlsyXrkrApXsHmwSsgRFL9eQQ2mpJkwT56bOnWesPAgQcK-ek0zx3aMqgKFtkjkbm4NFXBW6hkU_YW0shHyy7ktyB4Asksik/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjph9bhwtvYRTPMOKlnf2VXh6kLnkVgdh2ZPdQPeYxL-HMHlsyXrkrApXsHmwSsgRFL9eQQ2mpJkwT56bOnWesPAgQcK-ek0zx3aMqgKFtkjkbm4NFXBW6hkU_YW0shHyy7ktyB4Asksik/s268/Eu_me_acho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="268" data-original-width="266" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjph9bhwtvYRTPMOKlnf2VXh6kLnkVgdh2ZPdQPeYxL-HMHlsyXrkrApXsHmwSsgRFL9eQQ2mpJkwT56bOnWesPAgQcK-ek0zx3aMqgKFtkjkbm4NFXBW6hkU_YW0shHyy7ktyB4Asksik/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É preciso tomar muito cuidado com os sentimentos, na bíblia

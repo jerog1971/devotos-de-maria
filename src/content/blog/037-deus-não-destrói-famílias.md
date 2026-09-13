@@ -1,7 +1,7 @@
 ---
 title: "Deus não destrói famílias"
 date: 2018-07-29T18:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFfbz786KkFbpMzcoyCQC63Tg9pplHvMsxBOdcSKLCJ-voJJ-GNpqfikQkSxB7w7xLoCzSATPbNnpaMJHxq6l7jGx8C2B2_H7ExpDVZdfh7emoDJdgCI7Lfn3wkNJMWcjvUrb5SYD13A/s320/fam%25C3%25ADlia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFfbz786KkFbpMzcoyCQC63Tg9pplHvMsxBOdcSKLCJ-voJJ-GNpqfikQkSxB7w7xLoCzSATPbNnpaMJHxq6l7jGx8C2B2_H7ExpDVZdfh7emoDJdgCI7Lfn3wkNJMWcjvUrb5SYD13A/s1600/fam%25C3%25ADlia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFfbz786KkFbpMzcoyCQC63Tg9pplHvMsxBOdcSKLCJ-voJJ-GNpqfikQkSxB7w7xLoCzSATPbNnpaMJHxq6l7jGx8C2B2_H7ExpDVZdfh7emoDJdgCI7Lfn3wkNJMWcjvUrb5SYD13A/s320/fam%25C3%25ADlia.png" width="320" height="200" data-original-width="800" data-original-height="500" /></a></div>

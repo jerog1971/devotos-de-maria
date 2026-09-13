@@ -1,7 +1,7 @@
 ---
 title: "Beato Carlo Acutis"
 date: 2020-10-16T20:25:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTikU4cYPZvpS2axCa1XN-u980dPA3uSUVrh0NT6bQMZ8KbzjnKQ-okSfuVUdKLl-y2oz9thPVxzHJq-sRXulS8klqYW9n9oqWaqyta-N2boMvuOtFNH2yMfpGVXekpDEc3TBWCJ5TRxM/s0/Carlo+Acutis.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTikU4cYPZvpS2axCa1XN-u980dPA3uSUVrh0NT6bQMZ8KbzjnKQ-okSfuVUdKLl-y2oz9thPVxzHJq-sRXulS8klqYW9n9oqWaqyta-N2boMvuOtFNH2yMfpGVXekpDEc3TBWCJ5TRxM/s174/Carlo+Acutis.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="174" data-original-width="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTikU4cYPZvpS2axCa1XN-u980dPA3uSUVrh0NT6bQMZ8KbzjnKQ-okSfuVUdKLl-y2oz9thPVxzHJq-sRXulS8klqYW9n9oqWaqyta-N2boMvuOtFNH2yMfpGVXekpDEc3TBWCJ5TRxM/s0/Carlo+Acutis.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os católicos brasileiros tomaram conhecimento poucos dias

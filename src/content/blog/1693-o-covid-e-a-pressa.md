@@ -1,7 +1,7 @@
 ---
 title: "O covid e a pressa"
 date: 2020-06-21T15:51:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQjAIE_IqWuzw-edy_xPRDddM4QRiKoWaTE4zlAVGMIwqimH58dibXaZZ26dJ5MzxX4GV3UPRgnETSIcEnRtw0H-Jo3sLAj6HjMQ9VmJ7QClSeAFuNFC3glRNfixfzS6jbkyZR-FLhSaU/s320/microsc%25C3%25B3pico.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQjAIE_IqWuzw-edy_xPRDddM4QRiKoWaTE4zlAVGMIwqimH58dibXaZZ26dJ5MzxX4GV3UPRgnETSIcEnRtw0H-Jo3sLAj6HjMQ9VmJ7QClSeAFuNFC3glRNfixfzS6jbkyZR-FLhSaU/s379/microsc%25C3%25B3pico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="322" data-original-width="379" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQjAIE_IqWuzw-edy_xPRDddM4QRiKoWaTE4zlAVGMIwqimH58dibXaZZ26dJ5MzxX4GV3UPRgnETSIcEnRtw0H-Jo3sLAj6HjMQ9VmJ7QClSeAFuNFC3glRNfixfzS6jbkyZR-FLhSaU/s320/microsc%25C3%25B3pico.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">As autoridades sanitárias e o pessoal diretamente envolvido

@@ -1,7 +1,7 @@
 ---
 title: "Ano novo e pandemia velha"
 date: 2022-01-01T15:03:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiQ4T7oGOrk8tQdNxRED8wU3t1EzXr2ktUedWWCGnp74revmrTY1qvXO9FOQqH2wefno66ZV44a_U5iTRTOxacakuCnrk19l5_MnQpFXPPsEVeXbF3AP2VgKCfaykTiiV3iFd7CH3M1WFi5_8D9L2dtNeyDnDMLAzDcmEUBi7xtHdBwpW1YIjQtuAhZ"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiQ4T7oGOrk8tQdNxRED8wU3t1EzXr2ktUedWWCGnp74revmrTY1qvXO9FOQqH2wefno66ZV44a_U5iTRTOxacakuCnrk19l5_MnQpFXPPsEVeXbF3AP2VgKCfaykTiiV3iFd7CH3M1WFi5_8D9L2dtNeyDnDMLAzDcmEUBi7xtHdBwpW1YIjQtuAhZ=s278" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="278" height="264" src="https://blogger.googleusercontent.com/img/a/AVvXsEiQ4T7oGOrk8tQdNxRED8wU3t1EzXr2ktUedWWCGnp74revmrTY1qvXO9FOQqH2wefno66ZV44a_U5iTRTOxacakuCnrk19l5_MnQpFXPPsEVeXbF3AP2VgKCfaykTiiV3iFd7CH3M1WFi5_8D9L2dtNeyDnDMLAzDcmEUBi7xtHdBwpW1YIjQtuAhZ" width="278" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Outra virada nos números do calendário, outra rodada de

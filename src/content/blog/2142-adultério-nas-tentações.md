@@ -1,7 +1,7 @@
 ---
 title: "Adultério nas tentações"
 date: 2019-02-01T11:38:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnpZaREbH1Fkwz2dvdWGD9U_xwtnC_FB2Ve-cAQCHigOa6eAX8LeMCExLyaVqCpBruc4mxwxj30XSDisqJDodTPvVnATg2f0_nmvqVFy7lt2J3pjczofyhN_yGVWSccXG8xuzNjzXLuSw/s320/tenta%25C3%25A7%25C3%25A3o_adult%25C3%25A9rio.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnpZaREbH1Fkwz2dvdWGD9U_xwtnC_FB2Ve-cAQCHigOa6eAX8LeMCExLyaVqCpBruc4mxwxj30XSDisqJDodTPvVnATg2f0_nmvqVFy7lt2J3pjczofyhN_yGVWSccXG8xuzNjzXLuSw/s1600/tenta%25C3%25A7%25C3%25A3o_adult%25C3%25A9rio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnpZaREbH1Fkwz2dvdWGD9U_xwtnC_FB2Ve-cAQCHigOa6eAX8LeMCExLyaVqCpBruc4mxwxj30XSDisqJDodTPvVnATg2f0_nmvqVFy7lt2J3pjczofyhN_yGVWSccXG8xuzNjzXLuSw/s320/tenta%25C3%25A7%25C3%25A3o_adult%25C3%25A9rio.png" width="320" height="317" data-original-width="368" data-original-height="365" /></a></div>

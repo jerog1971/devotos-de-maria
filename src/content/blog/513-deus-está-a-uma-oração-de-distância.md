@@ -1,7 +1,7 @@
 ---
 title: "Deus está a uma oração de distância"
 date: 2021-05-21T14:01:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoQ_bwAevW4nbS93jUu39A9UOGjUSrIm0k6G8x1Rivn3SmpnEcO6K9W486Ag9yv50Mnm75Jg2S62hXqvm603mtpqDR3tzVwX4dpiIvDDLqx1D3PJbVJhJdefe0-lrcgGe4R_4XpEVuA2Y/s0/uma+ora%25C3%25A7%25C3%25A3o+de+dist%25C3%25A2ncia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoQ_bwAevW4nbS93jUu39A9UOGjUSrIm0k6G8x1Rivn3SmpnEcO6K9W486Ag9yv50Mnm75Jg2S62hXqvm603mtpqDR3tzVwX4dpiIvDDLqx1D3PJbVJhJdefe0-lrcgGe4R_4XpEVuA2Y/s265/uma+ora%25C3%25A7%25C3%25A3o+de+dist%25C3%25A2ncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="261" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoQ_bwAevW4nbS93jUu39A9UOGjUSrIm0k6G8x1Rivn3SmpnEcO6K9W486Ag9yv50Mnm75Jg2S62hXqvm603mtpqDR3tzVwX4dpiIvDDLqx1D3PJbVJhJdefe0-lrcgGe4R_4XpEVuA2Y/s0/uma+ora%25C3%25A7%25C3%25A3o+de+dist%25C3%25A2ncia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele estende sua mão para nos amparar e está sempre pronto a

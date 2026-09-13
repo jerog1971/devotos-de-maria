@@ -1,7 +1,7 @@
 ---
 title: "A Preguiça pode te condenar"
 date: 2016-04-06T12:43:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSiN5nYA7bMP-R7c-VuDBYspzIgEAfIXxYGTeKRFzUXgqf0uToWRW83GD-jf_Usdi00s4DP2vTm3LEE5sHqb0oDlkGJCraf8TK8P4fiYJbqOusJ2u86OziK-89LRCq5nzfbsMzRYJvRFw/s320/pregui%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSiN5nYA7bMP-R7c-VuDBYspzIgEAfIXxYGTeKRFzUXgqf0uToWRW83GD-jf_Usdi00s4DP2vTm3LEE5sHqb0oDlkGJCraf8TK8P4fiYJbqOusJ2u86OziK-89LRCq5nzfbsMzRYJvRFw/s1600/pregui%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSiN5nYA7bMP-R7c-VuDBYspzIgEAfIXxYGTeKRFzUXgqf0uToWRW83GD-jf_Usdi00s4DP2vTm3LEE5sHqb0oDlkGJCraf8TK8P4fiYJbqOusJ2u86OziK-89LRCq5nzfbsMzRYJvRFw/s320/pregui%25C3%25A7a.png" width="320" height="216" data-original-width="317" data-original-height="214" /></a></div>

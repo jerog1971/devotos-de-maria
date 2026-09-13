@@ -1,7 +1,7 @@
 ---
 title: "Aliança quebrada"
 date: 2018-12-12T16:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUTCshHJmwua3qv1R2O4RXW6FMyij4ntIBXsbdRwskoiY8cT3yMAQ2aOSJvUUESBkI5RcpIrJsb17VBR4z-a637gY-CAL7QXXOgVi0OvFuTkzmDx6_GXF3L4hcxx3DX1M0Wg4GTA4po0/s320/alian%25C3%25A7a_quebrada.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUTCshHJmwua3qv1R2O4RXW6FMyij4ntIBXsbdRwskoiY8cT3yMAQ2aOSJvUUESBkI5RcpIrJsb17VBR4z-a637gY-CAL7QXXOgVi0OvFuTkzmDx6_GXF3L4hcxx3DX1M0Wg4GTA4po0/s1600/alian%25C3%25A7a_quebrada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUTCshHJmwua3qv1R2O4RXW6FMyij4ntIBXsbdRwskoiY8cT3yMAQ2aOSJvUUESBkI5RcpIrJsb17VBR4z-a637gY-CAL7QXXOgVi0OvFuTkzmDx6_GXF3L4hcxx3DX1M0Wg4GTA4po0/s320/alian%25C3%25A7a_quebrada.png" width="320" height="267" data-original-width="481" data-original-height="401" /></a></div>

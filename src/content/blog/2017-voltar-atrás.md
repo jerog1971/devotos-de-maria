@@ -1,7 +1,7 @@
 ---
 title: "Voltar atrás"
 date: 2018-09-18T17:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBcrMaz0-pv-s0DUUvExdYEbHu9QXPtGwCiyUBQUsho85Giq6aggikNjBZSFkZooyTEcbQw-p9J3cWA7wKg0TlwvBu8Uk0I-eJW9-_vfYTg25OYl4ry7J2wSolY9I9__IAw-1Rp4LuLIA/s320/voltar_atr%25C3%25A1s.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBcrMaz0-pv-s0DUUvExdYEbHu9QXPtGwCiyUBQUsho85Giq6aggikNjBZSFkZooyTEcbQw-p9J3cWA7wKg0TlwvBu8Uk0I-eJW9-_vfYTg25OYl4ry7J2wSolY9I9__IAw-1Rp4LuLIA/s1600/voltar_atr%25C3%25A1s.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBcrMaz0-pv-s0DUUvExdYEbHu9QXPtGwCiyUBQUsho85Giq6aggikNjBZSFkZooyTEcbQw-p9J3cWA7wKg0TlwvBu8Uk0I-eJW9-_vfYTg25OYl4ry7J2wSolY9I9__IAw-1Rp4LuLIA/s320/voltar_atr%25C3%25A1s.png" width="320" height="319" data-original-width="348" data-original-height="347" /></a></div>

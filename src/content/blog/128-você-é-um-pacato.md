@@ -1,7 +1,7 @@
 ---
 title: "Você é um pacato?"
 date: 2020-05-31T16:03:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1xOumUI0TfxmdKzvsqhqrHpFwAYUi9yVzucvyg-jNcxA4i_gnlo9H8LdFLVM3O0pZk1tDLDcbCuBvx9yp4UwRwXvkonTnkr6jiw42BTXhtNlalMHI9lm6WveSNeLPxoNY5AxjDMEXz4w/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1xOumUI0TfxmdKzvsqhqrHpFwAYUi9yVzucvyg-jNcxA4i_gnlo9H8LdFLVM3O0pZk1tDLDcbCuBvx9yp4UwRwXvkonTnkr6jiw42BTXhtNlalMHI9lm6WveSNeLPxoNY5AxjDMEXz4w/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="212" data-original-width="242" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1xOumUI0TfxmdKzvsqhqrHpFwAYUi9yVzucvyg-jNcxA4i_gnlo9H8LdFLVM3O0pZk1tDLDcbCuBvx9yp4UwRwXvkonTnkr6jiw42BTXhtNlalMHI9lm6WveSNeLPxoNY5AxjDMEXz4w/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Antes de tudo comecemos relembrando um dos significados para

@@ -1,7 +1,7 @@
 ---
 title: "A lenda das 13 almas"
 date: 2020-04-16T21:37:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxGltXHmwAztQKaS8eMmVs3Mhv-BUpxuRwfxQBOhjBcEXgj6iRikXRiKN0LPT_RiYmVDJY2r89HysquPEMRpLU5wdMU7RZC_nAguzO6iqvZoWjhU1euuzD20qjtVDbFB1QS_lLq-jViqc/s320/13+almas.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxGltXHmwAztQKaS8eMmVs3Mhv-BUpxuRwfxQBOhjBcEXgj6iRikXRiKN0LPT_RiYmVDJY2r89HysquPEMRpLU5wdMU7RZC_nAguzO6iqvZoWjhU1euuzD20qjtVDbFB1QS_lLq-jViqc/s1600/13+almas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxGltXHmwAztQKaS8eMmVs3Mhv-BUpxuRwfxQBOhjBcEXgj6iRikXRiKN0LPT_RiYmVDJY2r89HysquPEMRpLU5wdMU7RZC_nAguzO6iqvZoWjhU1euuzD20qjtVDbFB1QS_lLq-jViqc/s320/13+almas.png" width="320" height="238" data-original-width="183" data-original-height="136" /></a></div>

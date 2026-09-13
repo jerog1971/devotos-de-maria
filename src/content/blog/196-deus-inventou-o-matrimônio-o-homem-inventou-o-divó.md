@@ -1,7 +1,7 @@
 ---
 title: "Deus inventou o matrimônio, o homem inventou o divórcio"
 date: 2021-04-16T18:04:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixUHT8rSXm1cGCbRw6c0fEQrXQAzAsMW9BgNhmFp0HK2aRzp9uraiP7Ew46lr1V2-OhAI0Iy9UOUDV4MIhMebeBFQOyonIRp0UVCG6Tt1mp0f-IOir3Cc4F_S1cJ-iHdF-ZrmRutxENGQ/s320/matrim%25C3%25B4nio+e+div%25C3%25B3rcio.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixUHT8rSXm1cGCbRw6c0fEQrXQAzAsMW9BgNhmFp0HK2aRzp9uraiP7Ew46lr1V2-OhAI0Iy9UOUDV4MIhMebeBFQOyonIRp0UVCG6Tt1mp0f-IOir3Cc4F_S1cJ-iHdF-ZrmRutxENGQ/s348/matrim%25C3%25B4nio+e+div%25C3%25B3rcio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="320" data-original-width="348" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixUHT8rSXm1cGCbRw6c0fEQrXQAzAsMW9BgNhmFp0HK2aRzp9uraiP7Ew46lr1V2-OhAI0Iy9UOUDV4MIhMebeBFQOyonIRp0UVCG6Tt1mp0f-IOir3Cc4F_S1cJ-iHdF-ZrmRutxENGQ/s320/matrim%25C3%25B4nio+e+div%25C3%25B3rcio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Gênesis 2,23-24 – ““Eis agora aqui, disse o homem, o osso de

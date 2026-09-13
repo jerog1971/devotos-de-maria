@@ -1,7 +1,7 @@
 ---
 title: "A blasfêmia de quem não crê"
 date: 2021-04-13T12:12:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb296nHBm3QiT3BWDvze57w4bY0S3txc3ch6GkzWZVGAA0knLWoAzx9n3oCk4zKv-UzT59A7bsRNIlWfulmKy7H05qfWWVpvL3pBT2LB9q8eH9jvnYr2f1CpKSnukwhD4sURQrPm1Lz8/s320/blasf%25C3%25AAmia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb296nHBm3QiT3BWDvze57w4bY0S3txc3ch6GkzWZVGAA0knLWoAzx9n3oCk4zKv-UzT59A7bsRNIlWfulmKy7H05qfWWVpvL3pBT2LB9q8eH9jvnYr2f1CpKSnukwhD4sURQrPm1Lz8/s418/blasf%25C3%25AAmia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="417" data-original-width="418" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqb296nHBm3QiT3BWDvze57w4bY0S3txc3ch6GkzWZVGAA0knLWoAzx9n3oCk4zKv-UzT59A7bsRNIlWfulmKy7H05qfWWVpvL3pBT2LB9q8eH9jvnYr2f1CpKSnukwhD4sURQrPm1Lz8/s320/blasf%25C3%25AAmia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma coisa é não crer, outra coisa é desdenhar da crença de

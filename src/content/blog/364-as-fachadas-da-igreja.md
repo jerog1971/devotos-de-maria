@@ -1,7 +1,7 @@
 ---
 title: "As fachadas da igreja"
 date: 2022-02-13T15:54:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEgZPPzfSXOXHnt-Ou9EcofMwi_meqUKQ9Zhh6p8zEE6PZ3S8dGGfLmoAEXUhwoCVcnC4akBVkeBj-EFjq1rPjCBwnYyO1PJaNvlgk5Zv2Y1eRolz6ibzeb-ClqV5tL9_otpb9O2cus9EzcCiGXSYttYzshJvynyDba2GtkkDzBYzE5imM23QBqfLQo3=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgZPPzfSXOXHnt-Ou9EcofMwi_meqUKQ9Zhh6p8zEE6PZ3S8dGGfLmoAEXUhwoCVcnC4akBVkeBj-EFjq1rPjCBwnYyO1PJaNvlgk5Zv2Y1eRolz6ibzeb-ClqV5tL9_otpb9O2cus9EzcCiGXSYttYzshJvynyDba2GtkkDzBYzE5imM23QBqfLQo3=s333" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="275" data-original-width="333" height="264" src="https://blogger.googleusercontent.com/img/a/AVvXsEgZPPzfSXOXHnt-Ou9EcofMwi_meqUKQ9Zhh6p8zEE6PZ3S8dGGfLmoAEXUhwoCVcnC4akBVkeBj-EFjq1rPjCBwnYyO1PJaNvlgk5Zv2Y1eRolz6ibzeb-ClqV5tL9_otpb9O2cus9EzcCiGXSYttYzshJvynyDba2GtkkDzBYzE5imM23QBqfLQo3=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pobre da igreja fundada por Nosso Senhor Jesus Cristo –

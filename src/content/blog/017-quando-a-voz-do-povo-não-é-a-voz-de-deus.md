@@ -1,7 +1,7 @@
 ---
 title: "Quando a voz do povo não é a voz de Deus"
 date: 2021-12-07T20:31:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiYl_HT8HmwWD96SRKKUfMGuNQjAyCY_B-Uy-VuXUq-Eut-wUNF-NRwvXHqNlOQbitqlSOy2xQQVbFQLBJGOGzNb0-IXnBgsjQcZXRtiE552tE_uUwOwqVYrrACwYYAx0vVpnJx7mLvISr2X0WRsKWcsfMVnu_MIXaYOalaJT24xjmiQUC7VrT4LpO2=w250-h385"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiYl_HT8HmwWD96SRKKUfMGuNQjAyCY_B-Uy-VuXUq-Eut-wUNF-NRwvXHqNlOQbitqlSOy2xQQVbFQLBJGOGzNb0-IXnBgsjQcZXRtiE552tE_uUwOwqVYrrACwYYAx0vVpnJx7mLvISr2X0WRsKWcsfMVnu_MIXaYOalaJT24xjmiQUC7VrT4LpO2=s343" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="343" data-original-width="223" height="385" src="https://blogger.googleusercontent.com/img/a/AVvXsEiYl_HT8HmwWD96SRKKUfMGuNQjAyCY_B-Uy-VuXUq-Eut-wUNF-NRwvXHqNlOQbitqlSOy2xQQVbFQLBJGOGzNb0-IXnBgsjQcZXRtiE552tE_uUwOwqVYrrACwYYAx0vVpnJx7mLvISr2X0WRsKWcsfMVnu_MIXaYOalaJT24xjmiQUC7VrT4LpO2=w250-h385" width="250" /></a>&nbsp;Ouve-se dizer que a voz do povo é a voz de Deus, ouve-se

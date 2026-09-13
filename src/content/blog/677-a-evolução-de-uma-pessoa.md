@@ -1,7 +1,7 @@
 ---
 title: "A evolução de uma pessoa"
 date: 2019-05-17T16:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Cf_bIRSvP8cQo_boGYmI-zLxWi4S0k545I2d23eREFBOg70wfEyX5TzPHICI5iJvS392hEz-kByjYQDOH8knah41YETdzHjpDA9_B1eNsBGbNVPPqei3tRiGsyvd6z8TtpN_iNB7Yd8/s320/Tony+Stark.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Cf_bIRSvP8cQo_boGYmI-zLxWi4S0k545I2d23eREFBOg70wfEyX5TzPHICI5iJvS392hEz-kByjYQDOH8knah41YETdzHjpDA9_B1eNsBGbNVPPqei3tRiGsyvd6z8TtpN_iNB7Yd8/s1600/Tony+Stark.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Cf_bIRSvP8cQo_boGYmI-zLxWi4S0k545I2d23eREFBOg70wfEyX5TzPHICI5iJvS392hEz-kByjYQDOH8knah41YETdzHjpDA9_B1eNsBGbNVPPqei3tRiGsyvd6z8TtpN_iNB7Yd8/s320/Tony+Stark.png" width="320" height="228" data-original-width="674" data-original-height="481" /></a></div>

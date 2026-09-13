@@ -1,7 +1,7 @@
 ---
 title: "Da leitura das Sagradas Escrituras e Afeições Desordenadas"
 date: 2020-06-10T16:44:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHBEaZNcPNmCZTcGiG7lDkuCVujk5qWRfpnTHP4mExw10pcyLvzNGIqTFjtKVNTM60eAWn9gbxVhTP5ZLbVcPLCBgvc-QBaD1jynmpByVuCqg8OFQhDfNxAfpGlN19dvlL89jEsR1BR9I/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHBEaZNcPNmCZTcGiG7lDkuCVujk5qWRfpnTHP4mExw10pcyLvzNGIqTFjtKVNTM60eAWn9gbxVhTP5ZLbVcPLCBgvc-QBaD1jynmpByVuCqg8OFQhDfNxAfpGlN19dvlL89jEsR1BR9I/s214/testamento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHBEaZNcPNmCZTcGiG7lDkuCVujk5qWRfpnTHP4mExw10pcyLvzNGIqTFjtKVNTM60eAWn9gbxVhTP5ZLbVcPLCBgvc-QBaD1jynmpByVuCqg8OFQhDfNxAfpGlN19dvlL89jEsR1BR9I/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nas sagradas escrituras devemos buscar a verdade, e não e

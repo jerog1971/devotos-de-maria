@@ -1,7 +1,7 @@
 ---
 title: "Doenças, mazelas e sequelas"
 date: 2021-06-01T15:24:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3oqt7ZsoJNDBfkgsRDZXXTsi2ualJf4-5hOKBHzPJufAua5RQyUyZsFLVLX2luBR0B543uKvc9mGHw1KK6zYN4FxtlppRECVMonNaFbILbAN-YTYKXUbGkcQzZacC5kh3W2FnQNbu6PU/s320/doen%25C3%25A7as.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3oqt7ZsoJNDBfkgsRDZXXTsi2ualJf4-5hOKBHzPJufAua5RQyUyZsFLVLX2luBR0B543uKvc9mGHw1KK6zYN4FxtlppRECVMonNaFbILbAN-YTYKXUbGkcQzZacC5kh3W2FnQNbu6PU/s396/doen%25C3%25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="396" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3oqt7ZsoJNDBfkgsRDZXXTsi2ualJf4-5hOKBHzPJufAua5RQyUyZsFLVLX2luBR0B543uKvc9mGHw1KK6zYN4FxtlppRECVMonNaFbILbAN-YTYKXUbGkcQzZacC5kh3W2FnQNbu6PU/s320/doen%25C3%25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus é o médico do corpo e da alma, com o poder de nos

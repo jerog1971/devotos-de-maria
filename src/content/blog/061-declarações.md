@@ -1,7 +1,7 @@
 ---
 title: "Declarações"
 date: 2018-09-06T16:39:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiflF5diY2OVHW_Fn30c0QHw3i_80ZsPVgFwWxnGMs_AT1-NpHXxDXSGs2v5ENsmHnNTqJtAEI9J9SSelNN8uUtcryltl-Ds9WvYq5fH7RGrGQDUYoMNxEKtC71Eg4cio2r0DTKnAJ6Od8/s320/declara%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiflF5diY2OVHW_Fn30c0QHw3i_80ZsPVgFwWxnGMs_AT1-NpHXxDXSGs2v5ENsmHnNTqJtAEI9J9SSelNN8uUtcryltl-Ds9WvYq5fH7RGrGQDUYoMNxEKtC71Eg4cio2r0DTKnAJ6Od8/s1600/declara%25C3%25A7%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="333" data-original-width="318" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiflF5diY2OVHW_Fn30c0QHw3i_80ZsPVgFwWxnGMs_AT1-NpHXxDXSGs2v5ENsmHnNTqJtAEI9J9SSelNN8uUtcryltl-Ds9WvYq5fH7RGrGQDUYoMNxEKtC71Eg4cio2r0DTKnAJ6Od8/s320/declara%25C3%25A7%25C3%25A3o.png" width="306" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Declarar é proclamar, pode ser oficialmente ou não. Declarar é deixar claro a proclamação que é existente. Nas relações interpessoais ouvimos muito a expressão que fulano se declarou para fulana. Entendemos logo de cara que o teor sentimental do intuito promoveu uma abertura sincera de coração.

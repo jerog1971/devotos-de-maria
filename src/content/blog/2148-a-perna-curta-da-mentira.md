@@ -1,7 +1,7 @@
 ---
 title: "A perna curta da mentira"
 date: 2017-05-17T18:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGuY_L-28qBhXVhwmbVw_pA-C9EEX1D1kYwyVVpe7TNM1JeTNanGZeoxjdjs2a6K5Db-0N1OXMGbtaFeFtI_EPh0V6OkcEYaNtOnyw5LTgrmPilyhQ3jstr-tBw2-vrAgZEcFwYEb_r2o/s320/trai%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGuY_L-28qBhXVhwmbVw_pA-C9EEX1D1kYwyVVpe7TNM1JeTNanGZeoxjdjs2a6K5Db-0N1OXMGbtaFeFtI_EPh0V6OkcEYaNtOnyw5LTgrmPilyhQ3jstr-tBw2-vrAgZEcFwYEb_r2o/s1600/trai%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGuY_L-28qBhXVhwmbVw_pA-C9EEX1D1kYwyVVpe7TNM1JeTNanGZeoxjdjs2a6K5Db-0N1OXMGbtaFeFtI_EPh0V6OkcEYaNtOnyw5LTgrmPilyhQ3jstr-tBw2-vrAgZEcFwYEb_r2o/s320/trai%25C3%25A7%25C3%25A3o.png" width="320" height="256" data-original-width="493" data-original-height="395" /></a></div>

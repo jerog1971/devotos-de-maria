@@ -1,7 +1,7 @@
 ---
 title: "Depoimento de uma esposa"
 date: 2016-01-29T17:03:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgomnVkYzbBtZuwE17rOHkAwfQj4VV7uneoCGXC48ITAe8AEbT0Kqle-VM_L0zykadWWdmq68Nodmv8q_JfBApwYFTNcSBnNEBfveH-NXICfoSsgibaeqOMUZ1IdgZLp792-3dxI8EjHdI/s320/s%25C3%25A3o_bento.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgomnVkYzbBtZuwE17rOHkAwfQj4VV7uneoCGXC48ITAe8AEbT0Kqle-VM_L0zykadWWdmq68Nodmv8q_JfBApwYFTNcSBnNEBfveH-NXICfoSsgibaeqOMUZ1IdgZLp792-3dxI8EjHdI/s1600/s%25C3%25A3o_bento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgomnVkYzbBtZuwE17rOHkAwfQj4VV7uneoCGXC48ITAe8AEbT0Kqle-VM_L0zykadWWdmq68Nodmv8q_JfBApwYFTNcSBnNEBfveH-NXICfoSsgibaeqOMUZ1IdgZLp792-3dxI8EjHdI/s320/s%25C3%25A3o_bento.png" width="266" height="320" data-original-width="427" data-original-height="513" /></a></div>

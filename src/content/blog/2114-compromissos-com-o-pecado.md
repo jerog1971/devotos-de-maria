@@ -1,7 +1,7 @@
 ---
 title: "Compromissos com o pecado"
 date: 2022-02-18T11:58:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEi1dNcV2G6gSMFwVkdf0jKvT9AiC1ze81T4ef0skveYa9k-_8ANHdftheQTiGx5D0v5KAqkH8qTatG06t4tmcQaSbDwYbi_zXJesE5sQa4hLhxJJFib8WdcviKb2drhUjIQUTHLjGQUiu5P_FZCZQAAmZjMYEXpXcuROUrWz2_og0BsbkdrG8cWJGxl=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEi1dNcV2G6gSMFwVkdf0jKvT9AiC1ze81T4ef0skveYa9k-_8ANHdftheQTiGx5D0v5KAqkH8qTatG06t4tmcQaSbDwYbi_zXJesE5sQa4hLhxJJFib8WdcviKb2drhUjIQUTHLjGQUiu5P_FZCZQAAmZjMYEXpXcuROUrWz2_og0BsbkdrG8cWJGxl=s355" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="355" data-original-width="313" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEi1dNcV2G6gSMFwVkdf0jKvT9AiC1ze81T4ef0skveYa9k-_8ANHdftheQTiGx5D0v5KAqkH8qTatG06t4tmcQaSbDwYbi_zXJesE5sQa4hLhxJJFib8WdcviKb2drhUjIQUTHLjGQUiu5P_FZCZQAAmZjMYEXpXcuROUrWz2_og0BsbkdrG8cWJGxl=s320" width="282" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Todo mundo sabe que à medida que a vida avança para seu

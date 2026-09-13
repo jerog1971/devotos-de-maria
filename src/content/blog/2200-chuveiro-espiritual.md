@@ -1,7 +1,7 @@
 ---
 title: "Chuveiro Espiritual"
 date: 2017-02-23T16:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGDw6tj0MURAFG3ilM-f9o_FQrC4Ig8dfc5po7F5QQzw3iZBPcOQs7UpE9ihcOONjIKvoOTV5DJGgKhnFFMfOsmZCjAyOAwmxMir_dBifVam-xgM9AyuBWDGamH5yyulBi_-Uqv4tzWi8/s320/chuveiro+espiritual.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGDw6tj0MURAFG3ilM-f9o_FQrC4Ig8dfc5po7F5QQzw3iZBPcOQs7UpE9ihcOONjIKvoOTV5DJGgKhnFFMfOsmZCjAyOAwmxMir_dBifVam-xgM9AyuBWDGamH5yyulBi_-Uqv4tzWi8/s1600/chuveiro+espiritual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGDw6tj0MURAFG3ilM-f9o_FQrC4Ig8dfc5po7F5QQzw3iZBPcOQs7UpE9ihcOONjIKvoOTV5DJGgKhnFFMfOsmZCjAyOAwmxMir_dBifVam-xgM9AyuBWDGamH5yyulBi_-Uqv4tzWi8/s320/chuveiro+espiritual.png" width="320" height="211" data-original-width="318" data-original-height="210" /></a></div>

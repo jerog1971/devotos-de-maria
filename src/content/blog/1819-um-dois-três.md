@@ -1,7 +1,7 @@
 ---
 title: "Um, dois, três"
 date: 2018-10-23T20:20:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW4hnQc5qHtAyVbXu2y24YL64ZbmhKtITLf7a3WVBkfNB-gO19gg4ICpl73hKwEIoSA8qF-0ZNiCaE9pBDI9qyto08dRuRVS93Q6Y8NHfgh4EAP-uX2vLAiASLH8K6y7uJA0A-O190Y3c/s320/fam%25C3%25ADlia2.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW4hnQc5qHtAyVbXu2y24YL64ZbmhKtITLf7a3WVBkfNB-gO19gg4ICpl73hKwEIoSA8qF-0ZNiCaE9pBDI9qyto08dRuRVS93Q6Y8NHfgh4EAP-uX2vLAiASLH8K6y7uJA0A-O190Y3c/s1600/fam%25C3%25ADlia2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="672" data-original-width="717" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW4hnQc5qHtAyVbXu2y24YL64ZbmhKtITLf7a3WVBkfNB-gO19gg4ICpl73hKwEIoSA8qF-0ZNiCaE9pBDI9qyto08dRuRVS93Q6Y8NHfgh4EAP-uX2vLAiASLH8K6y7uJA0A-O190Y3c/s320/fam%25C3%25ADlia2.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Na vida sempre estamos a passar por muitas coisas; a vida de todos e de cada um consiste num caminhar que, por nossa livre escolha, pode ser um caminho que desce, de vento em polpa, ou que sobe, degrau por degrau. Sempre, nossas escolhas estão permeadas por quesitos, pré-requisitos, pontos de vista, conceitos adquiridos, desejos e anseios. Muitos ingredientes fazem parte de uma receita que pode fazer o bolo “batumar” ou não.

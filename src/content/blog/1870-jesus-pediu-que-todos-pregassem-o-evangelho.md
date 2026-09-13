@@ -1,7 +1,7 @@
 ---
 title: "Jesus pediu que todos pregassem o evangelho"
 date: 2022-03-04T13:21:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEj8jN_RqC7h7gwL27SH5_CU7VlO4bwSeaEnRhKYARo5xx6V8uhC9lOhwZKAoazhTeHu6oKcUsilASzuZRopF7y-WbNdTeQnTY6Z8k28cmg3oTZGwMCBFEf7GhSm8Md-kXB3YSSRuUL6Fv3VBVM-eXOTmAH4AWleXeK_x0Tj8VGKBWSZ3PxA2gLruDEz=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEj8jN_RqC7h7gwL27SH5_CU7VlO4bwSeaEnRhKYARo5xx6V8uhC9lOhwZKAoazhTeHu6oKcUsilASzuZRopF7y-WbNdTeQnTY6Z8k28cmg3oTZGwMCBFEf7GhSm8Md-kXB3YSSRuUL6Fv3VBVM-eXOTmAH4AWleXeK_x0Tj8VGKBWSZ3PxA2gLruDEz=s553" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="https://blogger.googleusercontent.com/img/a/AVvXsEj8jN_RqC7h7gwL27SH5_CU7VlO4bwSeaEnRhKYARo5xx6V8uhC9lOhwZKAoazhTeHu6oKcUsilASzuZRopF7y-WbNdTeQnTY6Z8k28cmg3oTZGwMCBFEf7GhSm8Md-kXB3YSSRuUL6Fv3VBVM-eXOTmAH4AWleXeK_x0Tj8VGKBWSZ3PxA2gLruDEz=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente, sem dúvida alguma, encontramos nas escrituras

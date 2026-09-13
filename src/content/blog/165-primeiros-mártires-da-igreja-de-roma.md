@@ -1,7 +1,7 @@
 ---
 title: "Primeiros mártires da igreja de Roma"
 date: 2020-06-30T15:58:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQU4ggcypRC-JwBar1Ax6jbeCtQHjPMn_lRIKBvbgLlsAQxgl6nhTw6ZjStAIL7wGN5XmgE6SrFNJyBg1ZG3NDAZpNmI6RtVYXoQe0BrAsWpU31RlMUU1WVZdg_xm5IiTMaeAhrGq8rzs/s320/m%25C3%25A1rtires_de_Roma.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQU4ggcypRC-JwBar1Ax6jbeCtQHjPMn_lRIKBvbgLlsAQxgl6nhTw6ZjStAIL7wGN5XmgE6SrFNJyBg1ZG3NDAZpNmI6RtVYXoQe0BrAsWpU31RlMUU1WVZdg_xm5IiTMaeAhrGq8rzs/s407/m%25C3%25A1rtires_de_Roma.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="407" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQU4ggcypRC-JwBar1Ax6jbeCtQHjPMn_lRIKBvbgLlsAQxgl6nhTw6ZjStAIL7wGN5XmgE6SrFNJyBg1ZG3NDAZpNmI6RtVYXoQe0BrAsWpU31RlMUU1WVZdg_xm5IiTMaeAhrGq8rzs/s320/m%25C3%25A1rtires_de_Roma.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Hoje a igreja celebra a memória dos cristãos que sofreram o

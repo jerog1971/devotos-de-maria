@@ -1,7 +1,7 @@
 ---
 title: "Posso ser feliz no meu lugar"
 date: 2021-04-15T16:24:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglyQsTu6OxKnDHUBgqgU-Sv2dWW8HS4Bj48qjEgkwJf3eNiRWtVyJh3tLHmffZ04rJwRom3o4o39guH55S0uPdnTp-99XBbPzB5wxR6ZpHkjICPykdkv46V-0cJIesfYprKXZB3emImEs/s0/feliz+no+meu+lugar.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglyQsTu6OxKnDHUBgqgU-Sv2dWW8HS4Bj48qjEgkwJf3eNiRWtVyJh3tLHmffZ04rJwRom3o4o39guH55S0uPdnTp-99XBbPzB5wxR6ZpHkjICPykdkv46V-0cJIesfYprKXZB3emImEs/s248/feliz+no+meu+lugar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="240" data-original-width="248" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglyQsTu6OxKnDHUBgqgU-Sv2dWW8HS4Bj48qjEgkwJf3eNiRWtVyJh3tLHmffZ04rJwRom3o4o39guH55S0uPdnTp-99XBbPzB5wxR6ZpHkjICPykdkv46V-0cJIesfYprKXZB3emImEs/s0/feliz+no+meu+lugar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mundo prega um leque de opções para que a felicidade de

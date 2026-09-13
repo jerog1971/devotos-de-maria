@@ -1,7 +1,7 @@
 ---
 title: "A graça da boa saúde"
 date: 2018-05-30T15:19:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTsdx4sofmbdj2kDusljCIR0s0GYQvD5PDmjJwPHtS61WodSIiH2-iNSsqllfT-vIbJIJY_lIj8maOiwmMBG5tNklZAlDCnjfGe3K7Nlnt_7PdUINIJHdN7ubEToaD6FP5NH5lsBWM3o/s320/sa%25C3%25BAde.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTsdx4sofmbdj2kDusljCIR0s0GYQvD5PDmjJwPHtS61WodSIiH2-iNSsqllfT-vIbJIJY_lIj8maOiwmMBG5tNklZAlDCnjfGe3K7Nlnt_7PdUINIJHdN7ubEToaD6FP5NH5lsBWM3o/s1600/sa%25C3%25BAde.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="410" height="264" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTsdx4sofmbdj2kDusljCIR0s0GYQvD5PDmjJwPHtS61WodSIiH2-iNSsqllfT-vIbJIJY_lIj8maOiwmMBG5tNklZAlDCnjfGe3K7Nlnt_7PdUINIJHdN7ubEToaD6FP5NH5lsBWM3o/s320/sa%25C3%25BAde.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Dentro do terço de Santa Bernadete existe uma oração que diz assim: “Senhor, que concedestes a graça a jovem Bernadete de ver Vossa Mãe Santíssima e de com ela conversar e orar, dá-me também uma maior devoção para com Maria Santíssima e a graça da boa saúde e disposição”. De fato, como vemos, isso é algo muito importante para pedirmos a Deus, que tenhamos saúde e disposição. Saúde tanto física quanto espiritual; disposição para que façamos dessa saúde uma oportunidade para não nos acomodarmos ou negligenciarmos a graça recebida dos céus.

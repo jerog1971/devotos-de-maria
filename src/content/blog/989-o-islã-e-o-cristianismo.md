@@ -1,7 +1,7 @@
 ---
 title: "O islã e o Cristianismo"
 date: 2016-08-19T18:37:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU-8CjYoiLqsCikSjtBji8Iy61Kpzlfl-GY2kfp31zuxTuvXdeRPoWZ3HO6rSphJDAakDUvbTZ2LBiAyEkF8uz5ylRLt_xnkGhwkoiQkAf3gm941q9wu6ooiyKuLjnaUTxruAuFChyDPo/s320/isl%25C3%25A2_x_cristinanismo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU-8CjYoiLqsCikSjtBji8Iy61Kpzlfl-GY2kfp31zuxTuvXdeRPoWZ3HO6rSphJDAakDUvbTZ2LBiAyEkF8uz5ylRLt_xnkGhwkoiQkAf3gm941q9wu6ooiyKuLjnaUTxruAuFChyDPo/s1600/isl%25C3%25A2_x_cristinanismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU-8CjYoiLqsCikSjtBji8Iy61Kpzlfl-GY2kfp31zuxTuvXdeRPoWZ3HO6rSphJDAakDUvbTZ2LBiAyEkF8uz5ylRLt_xnkGhwkoiQkAf3gm941q9wu6ooiyKuLjnaUTxruAuFChyDPo/s320/isl%25C3%25A2_x_cristinanismo.png" width="320" height="241" data-original-width="297" data-original-height="224" /></a></div>

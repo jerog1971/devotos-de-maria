@@ -1,7 +1,7 @@
 ---
 title: "Quem não dá assistência abre concorrência"
 date: 2019-05-30T15:58:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfT87ZN4Np5qPgGlq_FNhsla-Wt5RLX2ybiu-4vQCQ7LkTP7XOpG7BbB7gQPoiQQEQf4PwF5S3uyd6lahQA9Uojw3KLXLOCaVzliyq1KzirVygkpwdmtHryU4iLy0cyVkJgOfSARlybSU/s320/assist%25C3%25AAncia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfT87ZN4Np5qPgGlq_FNhsla-Wt5RLX2ybiu-4vQCQ7LkTP7XOpG7BbB7gQPoiQQEQf4PwF5S3uyd6lahQA9Uojw3KLXLOCaVzliyq1KzirVygkpwdmtHryU4iLy0cyVkJgOfSARlybSU/s1600/assist%25C3%25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfT87ZN4Np5qPgGlq_FNhsla-Wt5RLX2ybiu-4vQCQ7LkTP7XOpG7BbB7gQPoiQQEQf4PwF5S3uyd6lahQA9Uojw3KLXLOCaVzliyq1KzirVygkpwdmtHryU4iLy0cyVkJgOfSARlybSU/s320/assist%25C3%25AAncia.png" width="320" height="315" data-original-width="296" data-original-height="291" /></a></div>

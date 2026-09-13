@@ -1,7 +1,7 @@
 ---
 title: "As respostas do Silêncio"
 date: 2017-05-22T20:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2l_C5vSEAJbIAT4z-2GeGKcGnzJAAjIKcfC0tXS9XMpysbVjb52Pi_g9ZitTs-B5c23uFztGy5JH-JooH30607tsSoevW3KusB11NVSefQu6TCWb_wm9jVp3COFTjlfjh9Bzc-ZjRvR0/s320/ora%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2l_C5vSEAJbIAT4z-2GeGKcGnzJAAjIKcfC0tXS9XMpysbVjb52Pi_g9ZitTs-B5c23uFztGy5JH-JooH30607tsSoevW3KusB11NVSefQu6TCWb_wm9jVp3COFTjlfjh9Bzc-ZjRvR0/s1600/ora%25C3%25A7%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="290" data-original-width="382" height="243" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2l_C5vSEAJbIAT4z-2GeGKcGnzJAAjIKcfC0tXS9XMpysbVjb52Pi_g9ZitTs-B5c23uFztGy5JH-JooH30607tsSoevW3KusB11NVSefQu6TCWb_wm9jVp3COFTjlfjh9Bzc-ZjRvR0/s320/ora%25C3%25A7%25C3%25A3o.png" width="320" /></a></div>

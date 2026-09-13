@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus supera a fé"
 date: 2020-03-17T17:43:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc06DQDcNGMkr2q3a_MFTDLYejMi6dVFJpOAiw-9tUb0teR_0Gls-91ZdTN8M2ZA3eNpMJu3C6erQxkpFv39Shj3dn4gjHa-9zwNMj578WjxJFyBQ5geKsqaW_xNcfZy7g8R1nB2Jfhs/s320/%25C3%25A1lcool_gel.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc06DQDcNGMkr2q3a_MFTDLYejMi6dVFJpOAiw-9tUb0teR_0Gls-91ZdTN8M2ZA3eNpMJu3C6erQxkpFv39Shj3dn4gjHa-9zwNMj578WjxJFyBQ5geKsqaW_xNcfZy7g8R1nB2Jfhs/s1600/%25C3%25A1lcool_gel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc06DQDcNGMkr2q3a_MFTDLYejMi6dVFJpOAiw-9tUb0teR_0Gls-91ZdTN8M2ZA3eNpMJu3C6erQxkpFv39Shj3dn4gjHa-9zwNMj578WjxJFyBQ5geKsqaW_xNcfZy7g8R1nB2Jfhs/s320/%25C3%25A1lcool_gel.png" width="320" height="280" data-original-width="446" data-original-height="390" /></a></div>

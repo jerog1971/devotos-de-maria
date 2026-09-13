@@ -1,7 +1,7 @@
 ---
 title: "Inculturação nas missas, fruto da fumaça de satanás"
 date: 2016-03-04T12:18:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhKIOTTKcFyr2S_KTFNA2aT50Q5XbFhoQ4OYX4SVc_yBLXlaZdW_HBScXMBzw8lHmLjru_roDxYaxT2ivfz2-3msLZKOXBH_3JbtUByyDd511_qES2jKLM6nuwgY43am_JzSoaNjtf9Q/s320/incultura%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhKIOTTKcFyr2S_KTFNA2aT50Q5XbFhoQ4OYX4SVc_yBLXlaZdW_HBScXMBzw8lHmLjru_roDxYaxT2ivfz2-3msLZKOXBH_3JbtUByyDd511_qES2jKLM6nuwgY43am_JzSoaNjtf9Q/s1600/incultura%25C3%25A7%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="468" data-original-width="499" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhKIOTTKcFyr2S_KTFNA2aT50Q5XbFhoQ4OYX4SVc_yBLXlaZdW_HBScXMBzw8lHmLjru_roDxYaxT2ivfz2-3msLZKOXBH_3JbtUByyDd511_qES2jKLM6nuwgY43am_JzSoaNjtf9Q/s320/incultura%25C3%25A7%25C3%25A3o.png" width="320" /></a></div>

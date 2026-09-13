@@ -1,7 +1,7 @@
 ---
 title: "Alimentar os doentes"
 date: 2021-05-27T14:40:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0AlNKOqiEME2uVcVMVfUgueJ-vDE7mo0T9YSVue-jugwuiOiIvO6eECDzXuivHcxpVdMktmQAhK7MrdI5Nw__Z9t7xLaD84pFRUtOCgAORXsfj_1KMT3H2JAJSOhxwccyMkYa3aWkRXk/s0/alimentar+os+doentes.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0AlNKOqiEME2uVcVMVfUgueJ-vDE7mo0T9YSVue-jugwuiOiIvO6eECDzXuivHcxpVdMktmQAhK7MrdI5Nw__Z9t7xLaD84pFRUtOCgAORXsfj_1KMT3H2JAJSOhxwccyMkYa3aWkRXk/s285/alimentar+os+doentes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="285" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0AlNKOqiEME2uVcVMVfUgueJ-vDE7mo0T9YSVue-jugwuiOiIvO6eECDzXuivHcxpVdMktmQAhK7MrdI5Nw__Z9t7xLaD84pFRUtOCgAORXsfj_1KMT3H2JAJSOhxwccyMkYa3aWkRXk/s0/alimentar+os+doentes.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 25,34-36 – “Vinde, benditos de meu Pai, tomai posse

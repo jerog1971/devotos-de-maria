@@ -1,7 +1,7 @@
 ---
 title: "Cuide da confissão"
 date: 2016-06-01T13:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi97hoPEzpT8EepTiBVYQLjNUBC1xUolH1BgXnPH7IR8hDhqasQ9ox739HaJ2Y75ImUNuWUXf0d5uTxYludEUWpwI2gLBdT3HaKLu2Rpw2EV30tuuWSOY4JvEE9U1GO41cGHU6RyiSj70c/s320/confiss%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi97hoPEzpT8EepTiBVYQLjNUBC1xUolH1BgXnPH7IR8hDhqasQ9ox739HaJ2Y75ImUNuWUXf0d5uTxYludEUWpwI2gLBdT3HaKLu2Rpw2EV30tuuWSOY4JvEE9U1GO41cGHU6RyiSj70c/s1600/confiss%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi97hoPEzpT8EepTiBVYQLjNUBC1xUolH1BgXnPH7IR8hDhqasQ9ox739HaJ2Y75ImUNuWUXf0d5uTxYludEUWpwI2gLBdT3HaKLu2Rpw2EV30tuuWSOY4JvEE9U1GO41cGHU6RyiSj70c/s320/confiss%25C3%25A3o.png" width="320" height="254" data-original-width="649" data-original-height="516" /></a></div>

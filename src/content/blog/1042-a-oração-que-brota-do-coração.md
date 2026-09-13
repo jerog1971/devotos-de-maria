@@ -1,7 +1,7 @@
 ---
 title: "A oração que brota do coração"
 date: 2020-03-26T15:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfB8CJKt0eLTGgsUrPI8ni7GIf8NI5Pgnc5CD1VhRNwWOtWfmyd-l3IElgIzaeI_qmQuZqfbOrugPUno-OU9rCtA6TMBgkRWzL7zz0l1I0EXsUtDe0STvm294WMGillFMU9Z3XTlHUcuI/s320/ora%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfB8CJKt0eLTGgsUrPI8ni7GIf8NI5Pgnc5CD1VhRNwWOtWfmyd-l3IElgIzaeI_qmQuZqfbOrugPUno-OU9rCtA6TMBgkRWzL7zz0l1I0EXsUtDe0STvm294WMGillFMU9Z3XTlHUcuI/s1600/ora%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfB8CJKt0eLTGgsUrPI8ni7GIf8NI5Pgnc5CD1VhRNwWOtWfmyd-l3IElgIzaeI_qmQuZqfbOrugPUno-OU9rCtA6TMBgkRWzL7zz0l1I0EXsUtDe0STvm294WMGillFMU9Z3XTlHUcuI/s320/ora%25C3%25A7%25C3%25A3o.png" width="320" height="211" data-original-width="325" data-original-height="214" /></a></div>

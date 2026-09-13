@@ -1,7 +1,7 @@
 ---
 title: "O povo tem pressa"
 date: 2021-12-16T20:29:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEibR20_XNEa0b5aaGjilQMpRDFvylvxlxWueUx-o59tWtg-I_vWWE1O_AAeuKV6G7xHUxUULmWf7p96WvZ7tD0ThUYNNSYCFS4TSChEwJMV57xjo6T9-23pGEJTv4bMc2JySa4fbJplm5zQ8HCw7H6LSBhFTKYKtGB1mSvUIWiIrhAz9RDkf8lJ9iuQ=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEibR20_XNEa0b5aaGjilQMpRDFvylvxlxWueUx-o59tWtg-I_vWWE1O_AAeuKV6G7xHUxUULmWf7p96WvZ7tD0ThUYNNSYCFS4TSChEwJMV57xjo6T9-23pGEJTv4bMc2JySa4fbJplm5zQ8HCw7H6LSBhFTKYKtGB1mSvUIWiIrhAz9RDkf8lJ9iuQ=s481" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="481" data-original-width="470" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEibR20_XNEa0b5aaGjilQMpRDFvylvxlxWueUx-o59tWtg-I_vWWE1O_AAeuKV6G7xHUxUULmWf7p96WvZ7tD0ThUYNNSYCFS4TSChEwJMV57xjo6T9-23pGEJTv4bMc2JySa4fbJplm5zQ8HCw7H6LSBhFTKYKtGB1mSvUIWiIrhAz9RDkf8lJ9iuQ=s320" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muita pressa; de que as coisas que quer aconteçam

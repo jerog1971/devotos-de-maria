@@ -1,7 +1,7 @@
 ---
 title: "A descrença"
 date: 2018-11-23T19:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEJyHgH434pwFM_BatnbtTfSE4sCs8rmiRRWEWwevL_lpdCKgO85vXl6fsxTTg5xm2-GmpMyeOdjZHXnPb3UCXnqEzbYkYTaNaL_SZRi3dJEq-8lrd7A5Ooiq1Qo97HZtJHFqidnkHuVM/s320/descren%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEJyHgH434pwFM_BatnbtTfSE4sCs8rmiRRWEWwevL_lpdCKgO85vXl6fsxTTg5xm2-GmpMyeOdjZHXnPb3UCXnqEzbYkYTaNaL_SZRi3dJEq-8lrd7A5Ooiq1Qo97HZtJHFqidnkHuVM/s1600/descren%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEJyHgH434pwFM_BatnbtTfSE4sCs8rmiRRWEWwevL_lpdCKgO85vXl6fsxTTg5xm2-GmpMyeOdjZHXnPb3UCXnqEzbYkYTaNaL_SZRi3dJEq-8lrd7A5Ooiq1Qo97HZtJHFqidnkHuVM/s320/descren%25C3%25A7a.png" width="320" height="312" data-original-width="389" data-original-height="379" /></a></div>

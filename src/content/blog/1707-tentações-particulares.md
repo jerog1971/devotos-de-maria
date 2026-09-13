@@ -1,7 +1,7 @@
 ---
 title: "Tentações Particulares"
 date: 2016-09-16T15:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtQ52H7gUqBCBqcNac_hhDwRIQTvv0v6KlcRfdnmBv7VzKILrP5sf_W3ao_DCTN_hdQ39xDcYyEseB0o8PxgnjoWpFtjUBbYi8CtqIiIccZmmpVtklZzlsUffV5fnlV7c37GreysTjMM/s320/tenta%25C3%25A7%25C3%25B5es.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtQ52H7gUqBCBqcNac_hhDwRIQTvv0v6KlcRfdnmBv7VzKILrP5sf_W3ao_DCTN_hdQ39xDcYyEseB0o8PxgnjoWpFtjUBbYi8CtqIiIccZmmpVtklZzlsUffV5fnlV7c37GreysTjMM/s1600/tenta%25C3%25A7%25C3%25B5es.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtQ52H7gUqBCBqcNac_hhDwRIQTvv0v6KlcRfdnmBv7VzKILrP5sf_W3ao_DCTN_hdQ39xDcYyEseB0o8PxgnjoWpFtjUBbYi8CtqIiIccZmmpVtklZzlsUffV5fnlV7c37GreysTjMM/s320/tenta%25C3%25A7%25C3%25B5es.png" width="284" height="320" data-original-width="304" data-original-height="343" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O aperitivo e o grande retiro espiritual"
 date: 2020-06-10T16:50:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_GAwtVMG3pJA4EA1FsO9Vb6a_c6MA98_zTnEKLPPd3VsEl_kS0QUc6BQD42CM3EoJ6Dq4MBHwk9pwN3CHNL_3XE0DL8DonNA65f3TO-jfYb2K0y8tMP1oFmjAA-lixeTi2r-UocvTtQ/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_GAwtVMG3pJA4EA1FsO9Vb6a_c6MA98_zTnEKLPPd3VsEl_kS0QUc6BQD42CM3EoJ6Dq4MBHwk9pwN3CHNL_3XE0DL8DonNA65f3TO-jfYb2K0y8tMP1oFmjAA-lixeTi2r-UocvTtQ/s301/santidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="301" data-original-width="281" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_GAwtVMG3pJA4EA1FsO9Vb6a_c6MA98_zTnEKLPPd3VsEl_kS0QUc6BQD42CM3EoJ6Dq4MBHwk9pwN3CHNL_3XE0DL8DonNA65f3TO-jfYb2K0y8tMP1oFmjAA-lixeTi2r-UocvTtQ/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Para os marianos que acompanham a permissão dada por Deus

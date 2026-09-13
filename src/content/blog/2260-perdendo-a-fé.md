@@ -1,7 +1,7 @@
 ---
 title: "Perdendo a fé"
 date: 2018-12-18T18:13:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDnQrshtXBuo_DoD9yYEdiMo5IrbopjxpE7bA-NVt6L1K32-qRJJcY4nPskiNDmoKt6CG6S25_7vuRi-NejgeT6d63MSGhVQbS9hiiKcEZgED7SG6CD2VayCWLmd4BTKbAH0jpZ95lnY/s320/perdendo_a_f%25C3%25A9.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDnQrshtXBuo_DoD9yYEdiMo5IrbopjxpE7bA-NVt6L1K32-qRJJcY4nPskiNDmoKt6CG6S25_7vuRi-NejgeT6d63MSGhVQbS9hiiKcEZgED7SG6CD2VayCWLmd4BTKbAH0jpZ95lnY/s1600/perdendo_a_f%25C3%25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDnQrshtXBuo_DoD9yYEdiMo5IrbopjxpE7bA-NVt6L1K32-qRJJcY4nPskiNDmoKt6CG6S25_7vuRi-NejgeT6d63MSGhVQbS9hiiKcEZgED7SG6CD2VayCWLmd4BTKbAH0jpZ95lnY/s320/perdendo_a_f%25C3%25A9.png" width="320" height="313" data-original-width="355" data-original-height="347" /></a></div>

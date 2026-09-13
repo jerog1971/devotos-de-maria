@@ -1,7 +1,7 @@
 ---
 title: "Bico fechado"
 date: 2021-09-15T15:16:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS1XSWLPK-2J1Ee_n14NrvcE3qJY4HY35QpaRv8DfPKiJ8sWD6aXPy4jcPaiiT0Hi4aoHSCE0QRB6ypC1QRnvREfbRzAvLilm7APKryBxJoPZ6F1K5sAA0uPMNkMgorj5VJeXS80bB3Zc/s320/bico+fechado.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS1XSWLPK-2J1Ee_n14NrvcE3qJY4HY35QpaRv8DfPKiJ8sWD6aXPy4jcPaiiT0Hi4aoHSCE0QRB6ypC1QRnvREfbRzAvLilm7APKryBxJoPZ6F1K5sAA0uPMNkMgorj5VJeXS80bB3Zc/s715/bico+fechado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="637" data-original-width="715" height="285" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS1XSWLPK-2J1Ee_n14NrvcE3qJY4HY35QpaRv8DfPKiJ8sWD6aXPy4jcPaiiT0Hi4aoHSCE0QRB6ypC1QRnvREfbRzAvLilm7APKryBxJoPZ6F1K5sAA0uPMNkMgorj5VJeXS80bB3Zc/s320/bico+fechado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus espera de cada um as obras (Apocalipse 22,12), espera

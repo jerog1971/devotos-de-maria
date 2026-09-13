@@ -1,7 +1,7 @@
 ---
 title: "Catequista não tira férias"
 date: 2017-01-28T22:10:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGyBnKtRsyEvp1hPpxgKjx_A9Wyp_WJ_8lkWn-Stn4e7pEr-Le3wUbTAr5ZgJD5brbaWAOC4sEsEIEFHycqKgCnZDB_NTQbz_fvxY6CwwPsXwmJ7pGOyhPJrn1vRXEASmB3xOjWc3pb14/s320/Coroa%25C3%25A7%25C3%25A3o+2014-2.JPG"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGyBnKtRsyEvp1hPpxgKjx_A9Wyp_WJ_8lkWn-Stn4e7pEr-Le3wUbTAr5ZgJD5brbaWAOC4sEsEIEFHycqKgCnZDB_NTQbz_fvxY6CwwPsXwmJ7pGOyhPJrn1vRXEASmB3xOjWc3pb14/s1600/Coroa%25C3%25A7%25C3%25A3o+2014-2.JPG" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="720" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGyBnKtRsyEvp1hPpxgKjx_A9Wyp_WJ_8lkWn-Stn4e7pEr-Le3wUbTAr5ZgJD5brbaWAOC4sEsEIEFHycqKgCnZDB_NTQbz_fvxY6CwwPsXwmJ7pGOyhPJrn1vRXEASmB3xOjWc3pb14/s320/Coroa%25C3%25A7%25C3%25A3o+2014-2.JPG" width="240" /></a></div>

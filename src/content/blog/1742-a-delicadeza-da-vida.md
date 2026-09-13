@@ -1,7 +1,7 @@
 ---
 title: "A delicadeza da vida"
 date: 2021-04-07T11:36:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nKPyAqlrsVwg8_bquyC5VVgbHHVceMSGp4aMq7YGwWmSyrDcPt-9X65M7OYDRcEWpNzUmuDNp1cEL2Kl7rggm_Y3-JZWa14akXtrKd_fvR2hf5em0L8BM-IZ_7oTTVjECdq3DLYtDPc/s320/delicadeza+da+vida.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nKPyAqlrsVwg8_bquyC5VVgbHHVceMSGp4aMq7YGwWmSyrDcPt-9X65M7OYDRcEWpNzUmuDNp1cEL2Kl7rggm_Y3-JZWa14akXtrKd_fvR2hf5em0L8BM-IZ_7oTTVjECdq3DLYtDPc/s346/delicadeza+da+vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="326" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nKPyAqlrsVwg8_bquyC5VVgbHHVceMSGp4aMq7YGwWmSyrDcPt-9X65M7OYDRcEWpNzUmuDNp1cEL2Kl7rggm_Y3-JZWa14akXtrKd_fvR2hf5em0L8BM-IZ_7oTTVjECdq3DLYtDPc/s320/delicadeza+da+vida.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jó 7,7 – “Minha vida nada mais é do que um sopro”, quando

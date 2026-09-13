@@ -1,7 +1,7 @@
 ---
 title: "\"Fazei Penitência...\""
 date: 2016-02-24T13:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX9lh36UcGPd0SRyYzpkuCBXr88ZJUeFTUaKaYiDUM9yitv6K4NViyWnn36CmJ_jTR2AxMgHjhhR6kiVUUvk7xcmzG-KRMLNIknqFYabohCQ7DgIrdGtHsSOrtQu_4e3znQ1Mu3k2NmY/s320/penit%25C3%25AAncia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX9lh36UcGPd0SRyYzpkuCBXr88ZJUeFTUaKaYiDUM9yitv6K4NViyWnn36CmJ_jTR2AxMgHjhhR6kiVUUvk7xcmzG-KRMLNIknqFYabohCQ7DgIrdGtHsSOrtQu_4e3znQ1Mu3k2NmY/s1600/penit%25C3%25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX9lh36UcGPd0SRyYzpkuCBXr88ZJUeFTUaKaYiDUM9yitv6K4NViyWnn36CmJ_jTR2AxMgHjhhR6kiVUUvk7xcmzG-KRMLNIknqFYabohCQ7DgIrdGtHsSOrtQu_4e3znQ1Mu3k2NmY/s320/penit%25C3%25AAncia.png" width="320" height="284" data-original-width="396" data-original-height="352" /></a></div>

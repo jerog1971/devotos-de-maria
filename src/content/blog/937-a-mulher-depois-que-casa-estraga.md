@@ -1,7 +1,7 @@
 ---
 title: "A mulher depois que casa, estraga"
 date: 2021-07-19T20:10:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfFIJJW-CcyAZuCyIwT7iTky0cAv8gGI9xxaLWo6f4AxtoqSGUNV5gQX__PZINSSC94-WZqgbki82dcU3v6VyUFUMhrkTMl8xin2qLas92YHIiAkkTmxWMJ2RGs1UIkukuK3GbXWKljiA/s320/trai%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfFIJJW-CcyAZuCyIwT7iTky0cAv8gGI9xxaLWo6f4AxtoqSGUNV5gQX__PZINSSC94-WZqgbki82dcU3v6VyUFUMhrkTMl8xin2qLas92YHIiAkkTmxWMJ2RGs1UIkukuK3GbXWKljiA/s509/trai%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="456" data-original-width="509" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfFIJJW-CcyAZuCyIwT7iTky0cAv8gGI9xxaLWo6f4AxtoqSGUNV5gQX__PZINSSC94-WZqgbki82dcU3v6VyUFUMhrkTMl8xin2qLas92YHIiAkkTmxWMJ2RGs1UIkukuK3GbXWKljiA/s320/trai%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é assim? O rapaz encontra uma moça, começa o namoro,

@@ -1,7 +1,7 @@
 ---
 title: "Bodas de Ouro"
 date: 2021-09-13T14:58:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUV4A9yfcuJ14dPmqXth7_-z_Ff6Tnezc9_bWmWKUYbQ_i92syUT-g3s1sRE19hErMPP12Nd9_1Bl-hsm_yrqocQ-h7PfLNyPAd6MWkwsYbxm00p_Lm669uAF6y1ZetvvRaoTZ67N_gu4/w400-h220/bodas+de+ouro.jpg"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUV4A9yfcuJ14dPmqXth7_-z_Ff6Tnezc9_bWmWKUYbQ_i92syUT-g3s1sRE19hErMPP12Nd9_1Bl-hsm_yrqocQ-h7PfLNyPAd6MWkwsYbxm00p_Lm669uAF6y1ZetvvRaoTZ67N_gu4/s2048/bodas+de+ouro.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1128" data-original-width="2048" height="220" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUV4A9yfcuJ14dPmqXth7_-z_Ff6Tnezc9_bWmWKUYbQ_i92syUT-g3s1sRE19hErMPP12Nd9_1Bl-hsm_yrqocQ-h7PfLNyPAd6MWkwsYbxm00p_Lm669uAF6y1ZetvvRaoTZ67N_gu4/w400-h220/bodas+de+ouro.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que? Cinquenta anos de casados? Isso mesmo, para quem se

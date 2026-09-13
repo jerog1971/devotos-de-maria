@@ -1,7 +1,7 @@
 ---
 title: "A oração dos três pedidos"
 date: 2021-12-20T20:22:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiuDoNa2UGhaM82eByYbFyqCzmugycxRBZ7z_TV1TtWM30YsArPCdT5h69GRuF2vrfGjsw2s7d1CxZq8ItlqlO68oBF_OlDhqUs8-Cdhb3MJm0nOdc5VSKq6DJ4AGT_lyMQaH9WZ4-OH2iveoA4trNqT1yawS1Otfz3ql46_njJOd7viCNLiQiQIm08"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiuDoNa2UGhaM82eByYbFyqCzmugycxRBZ7z_TV1TtWM30YsArPCdT5h69GRuF2vrfGjsw2s7d1CxZq8ItlqlO68oBF_OlDhqUs8-Cdhb3MJm0nOdc5VSKq6DJ4AGT_lyMQaH9WZ4-OH2iveoA4trNqT1yawS1Otfz3ql46_njJOd7viCNLiQiQIm08=s254" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="254" data-original-width="234" height="254" src="https://blogger.googleusercontent.com/img/a/AVvXsEiuDoNa2UGhaM82eByYbFyqCzmugycxRBZ7z_TV1TtWM30YsArPCdT5h69GRuF2vrfGjsw2s7d1CxZq8ItlqlO68oBF_OlDhqUs8-Cdhb3MJm0nOdc5VSKq6DJ4AGT_lyMQaH9WZ4-OH2iveoA4trNqT1yawS1Otfz3ql46_njJOd7viCNLiQiQIm08" width="234" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano, pelo que se sabe espiritualmente falando, é o

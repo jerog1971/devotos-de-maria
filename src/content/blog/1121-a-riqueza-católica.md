@@ -1,7 +1,7 @@
 ---
 title: "A riqueza católica"
 date: 2019-02-23T17:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZBxoADtGlqeIX9xG_wTjJQyRgGbIMb86Hwtk9xV0KlQ36XM0EC-VhwCDa7k998ksW0JrMSlFmpcYk_yoo1cVEHjef7l2C1poPeprle2nn44lJI3znkOEMHpiUsWt8pLutsAm1rHEIuAI/s320/Forma%25C3%25A7%25C3%25A3o_Divina.jpg"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZBxoADtGlqeIX9xG_wTjJQyRgGbIMb86Hwtk9xV0KlQ36XM0EC-VhwCDa7k998ksW0JrMSlFmpcYk_yoo1cVEHjef7l2C1poPeprle2nn44lJI3znkOEMHpiUsWt8pLutsAm1rHEIuAI/s1600/Forma%25C3%25A7%25C3%25A3o_Divina.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="1280" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZBxoADtGlqeIX9xG_wTjJQyRgGbIMb86Hwtk9xV0KlQ36XM0EC-VhwCDa7k998ksW0JrMSlFmpcYk_yoo1cVEHjef7l2C1poPeprle2nn44lJI3znkOEMHpiUsWt8pLutsAm1rHEIuAI/s320/Forma%25C3%25A7%25C3%25A3o_Divina.jpg" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>A expressão riqueza nos remete imediatamente ao abastamento, ao contrário de pobreza. Talvez pensemos em muito dinheiro, muitos bens, um patrimônio com muitas posses. Nada disso é errado pensar, mas, para podermos contextualizar o artigo, podemos direcionar a expressão da seguinte maneira: riqueza é termos muito de algo.

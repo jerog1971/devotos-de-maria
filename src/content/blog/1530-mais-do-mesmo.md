@@ -1,7 +1,7 @@
 ---
 title: "Mais do mesmo"
 date: 2022-02-28T14:48:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEh7_5ILi5kZA7mth2WlJUChSK_MhMRFbsK5Vf3UoLXHNunOR6izhPDIXuBctSD1a_IePWNWQDluvu-op98F0eBpKXQ6e2R5Ts6BbqaOvyEok3qWY0tqgNaouPrSghzXdr08Xg5gNZaZy9FPXl77VN-NfIwWuU4580qc3ae4wM2SNlsSoTAus7Mcai54=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh7_5ILi5kZA7mth2WlJUChSK_MhMRFbsK5Vf3UoLXHNunOR6izhPDIXuBctSD1a_IePWNWQDluvu-op98F0eBpKXQ6e2R5Ts6BbqaOvyEok3qWY0tqgNaouPrSghzXdr08Xg5gNZaZy9FPXl77VN-NfIwWuU4580qc3ae4wM2SNlsSoTAus7Mcai54=s325" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="305" data-original-width="325" height="300" src="https://blogger.googleusercontent.com/img/a/AVvXsEh7_5ILi5kZA7mth2WlJUChSK_MhMRFbsK5Vf3UoLXHNunOR6izhPDIXuBctSD1a_IePWNWQDluvu-op98F0eBpKXQ6e2R5Ts6BbqaOvyEok3qWY0tqgNaouPrSghzXdr08Xg5gNZaZy9FPXl77VN-NfIwWuU4580qc3ae4wM2SNlsSoTAus7Mcai54=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus, ao longo da história da humanidade, teve que assistir

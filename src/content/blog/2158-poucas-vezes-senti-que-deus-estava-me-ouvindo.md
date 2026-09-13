@@ -1,7 +1,7 @@
 ---
 title: "Poucas vezes senti que Deus estava me ouvindo"
 date: 2019-10-11T16:05:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6b0v7Uxc09ZCzyCt0F7YINcx9JCNjTzTmsQGjDbJmoFfQontWkJXAjLSDpvP0hQxfKWDx1ZgLocjaADzASm-Ezib9LPzxcrB6NjLyc0z4egfgnLvxv7GXKtlx-L7669lzaZAgLWxtwD4/s320/ora%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6b0v7Uxc09ZCzyCt0F7YINcx9JCNjTzTmsQGjDbJmoFfQontWkJXAjLSDpvP0hQxfKWDx1ZgLocjaADzASm-Ezib9LPzxcrB6NjLyc0z4egfgnLvxv7GXKtlx-L7669lzaZAgLWxtwD4/s1600/ora%25C3%25A7%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="252" data-original-width="375" height="215" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6b0v7Uxc09ZCzyCt0F7YINcx9JCNjTzTmsQGjDbJmoFfQontWkJXAjLSDpvP0hQxfKWDx1ZgLocjaADzASm-Ezib9LPzxcrB6NjLyc0z4egfgnLvxv7GXKtlx-L7669lzaZAgLWxtwD4/s320/ora%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Por que será que algumas vezes nos sentimos assim? Com aquela sensação de que a oração está caindo no vazio? Parece a oração não fazer efeito. Bom, para começar, a oração não é uma fórmula mágica como das histórias de ficção. Não funciona como o livro de magia dos magos que, escolhem essa ou aquela “receita” para conseguirem esse ou aquele resultado. Pior ainda é quem coloca sua crença nas chamadas simpatias, pura superstição inclusive biblicamente condenada.

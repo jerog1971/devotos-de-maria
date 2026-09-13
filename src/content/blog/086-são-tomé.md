@@ -1,7 +1,7 @@
 ---
 title: "São Tomé"
 date: 2020-07-03T16:20:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZhiMVpzrEn_MBsatL3bQm28RYSC1T0mzARnmiL1zTt_NbqyXO0YMPvpRvvOlnexn6_y63p1CKqW0-eUn3W9DwfY8tvNfPhDTrR2nDQ1SafNKzYkQn7MRnpT30FivJPdDj5a80wdjVUXg/s320/Tom%25C3%25A9_ap%25C3%25B3stolo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZhiMVpzrEn_MBsatL3bQm28RYSC1T0mzARnmiL1zTt_NbqyXO0YMPvpRvvOlnexn6_y63p1CKqW0-eUn3W9DwfY8tvNfPhDTrR2nDQ1SafNKzYkQn7MRnpT30FivJPdDj5a80wdjVUXg/s439/Tom%25C3%25A9_ap%25C3%25B3stolo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="432" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZhiMVpzrEn_MBsatL3bQm28RYSC1T0mzARnmiL1zTt_NbqyXO0YMPvpRvvOlnexn6_y63p1CKqW0-eUn3W9DwfY8tvNfPhDTrR2nDQ1SafNKzYkQn7MRnpT30FivJPdDj5a80wdjVUXg/s320/Tom%25C3%25A9_ap%25C3%25B3stolo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi um dos doze apóstolos de Jesus. Era israelita. Seu nome

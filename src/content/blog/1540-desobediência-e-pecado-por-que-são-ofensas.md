@@ -1,7 +1,7 @@
 ---
 title: "Desobediência e pecado, por que são ofensas?"
 date: 2022-01-28T17:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEh6QVv6gZTn7TXZovIdRaopkTLBN65aqAGv11vGwdHjoARURUhKIBjamZ11edv83ekBCKhRBRmOKf62_XqGqJIm_pVIODNuVZD3wks0UuDWy0jVDi2osqw5jKk8B2jPm3QN8LXVh6yrTANn-9DM5JxOBO2f8ZB0xd0t01VQ2fGI6Nd1lbwvaLiya_hR=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh6QVv6gZTn7TXZovIdRaopkTLBN65aqAGv11vGwdHjoARURUhKIBjamZ11edv83ekBCKhRBRmOKf62_XqGqJIm_pVIODNuVZD3wks0UuDWy0jVDi2osqw5jKk8B2jPm3QN8LXVh6yrTANn-9DM5JxOBO2f8ZB0xd0t01VQ2fGI6Nd1lbwvaLiya_hR=s417" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="417" data-original-width="403" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEh6QVv6gZTn7TXZovIdRaopkTLBN65aqAGv11vGwdHjoARURUhKIBjamZ11edv83ekBCKhRBRmOKf62_XqGqJIm_pVIODNuVZD3wks0UuDWy0jVDi2osqw5jKk8B2jPm3QN8LXVh6yrTANn-9DM5JxOBO2f8ZB0xd0t01VQ2fGI6Nd1lbwvaLiya_hR=s320" width="309" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O sujeito pode cair na tentação de procurar uma resposta para

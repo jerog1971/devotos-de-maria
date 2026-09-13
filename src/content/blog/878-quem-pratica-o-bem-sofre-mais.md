@@ -1,7 +1,7 @@
 ---
 title: "Quem pratica o bem sofre mais"
 date: 2022-03-17T20:23:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEi1BC4IwmJY0eFDR-9Zud540b41PE01Nb405IsdcJQ9wHwuxvoVlUEUMO-L8V4Cd3ED-r79BRpb_5T3TI8yWl7cK6ApVTAIrK4QX8-_NufyNaYGQhdmQWiYTkBWfoSQDYW9g3BpG2MS-h22xKY3fL-FkRvFgLABQE7GdHqaiw_XW_hn3Yt2kvOL9IBB"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEi1BC4IwmJY0eFDR-9Zud540b41PE01Nb405IsdcJQ9wHwuxvoVlUEUMO-L8V4Cd3ED-r79BRpb_5T3TI8yWl7cK6ApVTAIrK4QX8-_NufyNaYGQhdmQWiYTkBWfoSQDYW9g3BpG2MS-h22xKY3fL-FkRvFgLABQE7GdHqaiw_XW_hn3Yt2kvOL9IBB=s273" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="237" data-original-width="273" height="237" src="https://blogger.googleusercontent.com/img/a/AVvXsEi1BC4IwmJY0eFDR-9Zud540b41PE01Nb405IsdcJQ9wHwuxvoVlUEUMO-L8V4Cd3ED-r79BRpb_5T3TI8yWl7cK6ApVTAIrK4QX8-_NufyNaYGQhdmQWiYTkBWfoSQDYW9g3BpG2MS-h22xKY3fL-FkRvFgLABQE7GdHqaiw_XW_hn3Yt2kvOL9IBB" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é esta a sensação que as pessoas de bem sentem? Parece

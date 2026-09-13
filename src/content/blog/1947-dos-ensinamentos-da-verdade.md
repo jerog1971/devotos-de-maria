@@ -1,7 +1,7 @@
 ---
 title: "Dos ensinamentos da verdade"
 date: 2020-06-09T15:34:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRrHgY_BUCpEgsYRSqvgPTBd8vPIcx0wJpjm4gV3J1ZbX2g55yHHnsYhjHH_1y6tGfih7t_720VQwEDsEejogsIDXGf_OFtDAugJ7uOwNkXJEC1GYwZYJWzmpEttRU12eIoD_fuWQqIQ4/s320/serm%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRrHgY_BUCpEgsYRSqvgPTBd8vPIcx0wJpjm4gV3J1ZbX2g55yHHnsYhjHH_1y6tGfih7t_720VQwEDsEejogsIDXGf_OFtDAugJ7uOwNkXJEC1GYwZYJWzmpEttRU12eIoD_fuWQqIQ4/s553/serm%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRrHgY_BUCpEgsYRSqvgPTBd8vPIcx0wJpjm4gV3J1ZbX2g55yHHnsYhjHH_1y6tGfih7t_720VQwEDsEejogsIDXGf_OFtDAugJ7uOwNkXJEC1GYwZYJWzmpEttRU12eIoD_fuWQqIQ4/s320/serm%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Bem-aventurado aquele a quem a verdade por si mesma ensina,

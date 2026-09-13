@@ -1,7 +1,7 @@
 ---
 title: "A Possessão"
 date: 2019-11-08T19:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXyj-TmIzpLwLIXeJP1fTp1qWwGI4lxt2BXX8a44CJRrL-lhyKSrJZQMkf1rAFSWX97tNq_lQ2nUlP5ZFxYjtFazRDCeG46zHWB89LKHXIb_NJOu8jt8OFM545CHUqylv7-HLWcFz-LI4/s320/possess%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXyj-TmIzpLwLIXeJP1fTp1qWwGI4lxt2BXX8a44CJRrL-lhyKSrJZQMkf1rAFSWX97tNq_lQ2nUlP5ZFxYjtFazRDCeG46zHWB89LKHXIb_NJOu8jt8OFM545CHUqylv7-HLWcFz-LI4/s1600/possess%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXyj-TmIzpLwLIXeJP1fTp1qWwGI4lxt2BXX8a44CJRrL-lhyKSrJZQMkf1rAFSWX97tNq_lQ2nUlP5ZFxYjtFazRDCeG46zHWB89LKHXIb_NJOu8jt8OFM545CHUqylv7-HLWcFz-LI4/s320/possess%25C3%25A3o.png" width="320" height="258" data-original-width="373" data-original-height="301" /></a></div>

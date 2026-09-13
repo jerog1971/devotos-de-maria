@@ -1,7 +1,7 @@
 ---
 title: "Sofrer os defeitos dos outros"
 date: 2020-06-18T17:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyRTN7CMJ3_roQoXe5mFnBaxiwXFAC4VLIrcy0X3fts8FVDGXB52AMbKNMkdkRjza9intmLHqp8EZomRWyTkogOgw57_UuINM_wwBHJ0EtFU5JEL9uNH_IPSSiMUGB7e9AJaouxcqdl-A/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyRTN7CMJ3_roQoXe5mFnBaxiwXFAC4VLIrcy0X3fts8FVDGXB52AMbKNMkdkRjza9intmLHqp8EZomRWyTkogOgw57_UuINM_wwBHJ0EtFU5JEL9uNH_IPSSiMUGB7e9AJaouxcqdl-A/s297/agir_do_catolico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyRTN7CMJ3_roQoXe5mFnBaxiwXFAC4VLIrcy0X3fts8FVDGXB52AMbKNMkdkRjza9intmLHqp8EZomRWyTkogOgw57_UuINM_wwBHJ0EtFU5JEL9uNH_IPSSiMUGB7e9AJaouxcqdl-A/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Aquilo que o homem não pode emendar em si mesmo ou nos

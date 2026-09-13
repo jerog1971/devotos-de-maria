@@ -1,7 +1,7 @@
 ---
 title: "O paraíso artificial"
 date: 2019-09-04T15:28:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFC3mYnU-ICTB4cytDaMW1SQ88O8txLvNax4MwAVDg5Ciflq5oxVSZNe7KCLUUZa919jjfcpCbZUeS9cOI0xu5lhqFSReEfBDgbAcWhFYifQhmNpP9YOaVrPUAU5n5mNP2SAG0lsdedf0/s320/para%25C3%25ADso_artificial.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFC3mYnU-ICTB4cytDaMW1SQ88O8txLvNax4MwAVDg5Ciflq5oxVSZNe7KCLUUZa919jjfcpCbZUeS9cOI0xu5lhqFSReEfBDgbAcWhFYifQhmNpP9YOaVrPUAU5n5mNP2SAG0lsdedf0/s1600/para%25C3%25ADso_artificial.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFC3mYnU-ICTB4cytDaMW1SQ88O8txLvNax4MwAVDg5Ciflq5oxVSZNe7KCLUUZa919jjfcpCbZUeS9cOI0xu5lhqFSReEfBDgbAcWhFYifQhmNpP9YOaVrPUAU5n5mNP2SAG0lsdedf0/s320/para%25C3%25ADso_artificial.png" width="320" height="279" data-original-width="385" data-original-height="336" /></a></div>

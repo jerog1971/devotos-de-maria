@@ -1,7 +1,7 @@
 ---
 title: "O que mancha o homem e sua alma"
 date: 2022-03-02T14:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEga8v7MjE9IuUxDcuAMyBh4sPJmNXdvflhg1MPRNpl1zDkQ8gaGH9p7UKa1uoJgMWPcRIi3gN1ymzwtK0UfTwYZS5iflcO3W45HneMOb45lAD4zh4Tsr2ZRV6hJwfNSwT_dBv55U3h8v5pXGkfmmWFzEuneJrmd_j3Gyy-GA3wLP8qVZK18kTKbVC99=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEga8v7MjE9IuUxDcuAMyBh4sPJmNXdvflhg1MPRNpl1zDkQ8gaGH9p7UKa1uoJgMWPcRIi3gN1ymzwtK0UfTwYZS5iflcO3W45HneMOb45lAD4zh4Tsr2ZRV6hJwfNSwT_dBv55U3h8v5pXGkfmmWFzEuneJrmd_j3Gyy-GA3wLP8qVZK18kTKbVC99=s478" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="434" data-original-width="478" height="291" src="https://blogger.googleusercontent.com/img/a/AVvXsEga8v7MjE9IuUxDcuAMyBh4sPJmNXdvflhg1MPRNpl1zDkQ8gaGH9p7UKa1uoJgMWPcRIi3gN1ymzwtK0UfTwYZS5iflcO3W45HneMOb45lAD4zh4Tsr2ZRV6hJwfNSwT_dBv55U3h8v5pXGkfmmWFzEuneJrmd_j3Gyy-GA3wLP8qVZK18kTKbVC99=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como todo cristão bem sabe, o céu é um lugar onde o três

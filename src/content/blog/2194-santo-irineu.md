@@ -1,7 +1,7 @@
 ---
 title: "Santo Irineu"
 date: 2020-06-28T22:57:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5myGY1bVBH0qrEhQ_GzuRyPQfN3u_GkRHOQFTBUu1TaGq8rheiCvT8jdRJMWsre9DiUvRLZ0NiKl4vxY1DFwFNZ1BbWOGTF0a0DOJdGwmH6DfTwKTQJm4oydpSKoRM-qYj_h5kn69aQg/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5myGY1bVBH0qrEhQ_GzuRyPQfN3u_GkRHOQFTBUu1TaGq8rheiCvT8jdRJMWsre9DiUvRLZ0NiKl4vxY1DFwFNZ1BbWOGTF0a0DOJdGwmH6DfTwKTQJm4oydpSKoRM-qYj_h5kn69aQg/s228/Santo+Irineu.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="228" data-original-width="222" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5myGY1bVBH0qrEhQ_GzuRyPQfN3u_GkRHOQFTBUu1TaGq8rheiCvT8jdRJMWsre9DiUvRLZ0NiKl4vxY1DFwFNZ1BbWOGTF0a0DOJdGwmH6DfTwKTQJm4oydpSKoRM-qYj_h5kn69aQg/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi bispo de Lião. Nasceu provavelmente em Esmirna, na Ásia menor,

@@ -1,7 +1,7 @@
 ---
 title: "Quero? Devo? Posso?"
 date: 2017-03-28T14:47:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3E5re-9Dt136YZgPewSs9yrHtIa3FNi6rpIyXtSaCz1ctrEWExX2BEH1GXsc6OJB44gQ5t6mU2mtTLwJyH0VuXADdQGYx0LeGdAiU0awO99yPv0ig96IrlGbz93PGz9NV5_Z9aBOMxtE/s320/decis%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3E5re-9Dt136YZgPewSs9yrHtIa3FNi6rpIyXtSaCz1ctrEWExX2BEH1GXsc6OJB44gQ5t6mU2mtTLwJyH0VuXADdQGYx0LeGdAiU0awO99yPv0ig96IrlGbz93PGz9NV5_Z9aBOMxtE/s1600/decis%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3E5re-9Dt136YZgPewSs9yrHtIa3FNi6rpIyXtSaCz1ctrEWExX2BEH1GXsc6OJB44gQ5t6mU2mtTLwJyH0VuXADdQGYx0LeGdAiU0awO99yPv0ig96IrlGbz93PGz9NV5_Z9aBOMxtE/s320/decis%25C3%25A3o.png" width="320" height="301" data-original-width="224" data-original-height="211" /></a></div>

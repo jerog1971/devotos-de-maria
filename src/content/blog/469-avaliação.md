@@ -1,7 +1,7 @@
 ---
 title: "Avaliação"
 date: 2019-05-10T17:53:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTq_hwbb3MmnAk1ib6ej1jAzOprzKOjLaoEYJedeUyBruMev9Q-Btm5YBMkVLW0FPnNUgnVY8XRQV-bVppVMU0d699VOLhy2c3Egz5DBEK4xAjJkn-sAzhEH0vhyphenhyphenKpn5QIdHMWnnivaqs/s320/autoavalia%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTq_hwbb3MmnAk1ib6ej1jAzOprzKOjLaoEYJedeUyBruMev9Q-Btm5YBMkVLW0FPnNUgnVY8XRQV-bVppVMU0d699VOLhy2c3Egz5DBEK4xAjJkn-sAzhEH0vhyphenhyphenKpn5QIdHMWnnivaqs/s1600/autoavalia%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTq_hwbb3MmnAk1ib6ej1jAzOprzKOjLaoEYJedeUyBruMev9Q-Btm5YBMkVLW0FPnNUgnVY8XRQV-bVppVMU0d699VOLhy2c3Egz5DBEK4xAjJkn-sAzhEH0vhyphenhyphenKpn5QIdHMWnnivaqs/s320/autoavalia%25C3%25A7%25C3%25A3o.png" width="316" height="320" data-original-width="230" data-original-height="233" /></a></div>

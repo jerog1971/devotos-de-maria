@@ -1,7 +1,7 @@
 ---
 title: "Jesus trouxe a espada"
 date: 2021-12-02T20:24:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEjXveephT4m7Hthf2KfjresLapljBkey9qzGo30GMdUjPGCgs5orjAClI182emwUeW0KldzoYQr_awuWDaFdZ0iTvuubPgx0QyECRBHchqIezQkCuz28fT72z17LeIig_9BkHKnT5_w3hrdYnMAcDc0j6Ayu2ioMPhl3D0qX6yBSErFAjybg1DGovLN"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjXveephT4m7Hthf2KfjresLapljBkey9qzGo30GMdUjPGCgs5orjAClI182emwUeW0KldzoYQr_awuWDaFdZ0iTvuubPgx0QyECRBHchqIezQkCuz28fT72z17LeIig_9BkHKnT5_w3hrdYnMAcDc0j6Ayu2ioMPhl3D0qX6yBSErFAjybg1DGovLN=s218" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="218" data-original-width="207" height="218" src="https://blogger.googleusercontent.com/img/a/AVvXsEjXveephT4m7Hthf2KfjresLapljBkey9qzGo30GMdUjPGCgs5orjAClI182emwUeW0KldzoYQr_awuWDaFdZ0iTvuubPgx0QyECRBHchqIezQkCuz28fT72z17LeIig_9BkHKnT5_w3hrdYnMAcDc0j6Ayu2ioMPhl3D0qX6yBSErFAjybg1DGovLN" width="207" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois muito bem, ele quer dizer com isso que, assim como uma

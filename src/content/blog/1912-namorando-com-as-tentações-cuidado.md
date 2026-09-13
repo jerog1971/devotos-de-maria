@@ -1,7 +1,7 @@
 ---
 title: "Namorando com as tentações? Cuidado!"
 date: 2020-03-11T18:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6D_P4y7ibzpe4yXY8ImJmnDqgjzmZaK17vFqvnBrcCy8kYB3pcA6jXg8s-A69JWyPVHuQeM1S0SgRssFDMGfxwPu9phbRbzoA-6IfmaLmCSS1-PYNMOcxrti_MPV7o_IiGVlc-r__zQ/s320/cobi%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6D_P4y7ibzpe4yXY8ImJmnDqgjzmZaK17vFqvnBrcCy8kYB3pcA6jXg8s-A69JWyPVHuQeM1S0SgRssFDMGfxwPu9phbRbzoA-6IfmaLmCSS1-PYNMOcxrti_MPV7o_IiGVlc-r__zQ/s1600/cobi%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6D_P4y7ibzpe4yXY8ImJmnDqgjzmZaK17vFqvnBrcCy8kYB3pcA6jXg8s-A69JWyPVHuQeM1S0SgRssFDMGfxwPu9phbRbzoA-6IfmaLmCSS1-PYNMOcxrti_MPV7o_IiGVlc-r__zQ/s320/cobi%25C3%25A7a.png" width="320" height="304" data-original-width="432" data-original-height="410" /></a></div>

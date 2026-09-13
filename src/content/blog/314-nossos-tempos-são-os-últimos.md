@@ -1,7 +1,7 @@
 ---
 title: "Nossos tempos são os últimos?"
 date: 2020-03-25T20:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMtiINRuN7fQgKj5YVG7iIqiFBgS5ELb8RMG4vJMYKNjhfJIPh2y5Lcnvwr5E9Hk3XhHakoSZxUaw9JrUeYKEVP95kRf5dnq6LKlFW5JYOrB4E1RkmgkqFxC_9Dxleh_xDVvicCZTn9cc/s320/Irm%25C3%25A3_Lucia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMtiINRuN7fQgKj5YVG7iIqiFBgS5ELb8RMG4vJMYKNjhfJIPh2y5Lcnvwr5E9Hk3XhHakoSZxUaw9JrUeYKEVP95kRf5dnq6LKlFW5JYOrB4E1RkmgkqFxC_9Dxleh_xDVvicCZTn9cc/s1600/Irm%25C3%25A3_Lucia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMtiINRuN7fQgKj5YVG7iIqiFBgS5ELb8RMG4vJMYKNjhfJIPh2y5Lcnvwr5E9Hk3XhHakoSZxUaw9JrUeYKEVP95kRf5dnq6LKlFW5JYOrB4E1RkmgkqFxC_9Dxleh_xDVvicCZTn9cc/s320/Irm%25C3%25A3_Lucia.png" width="320" height="235" data-original-width="386" data-original-height="283" /></a></div>

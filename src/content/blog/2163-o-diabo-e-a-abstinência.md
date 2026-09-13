@@ -1,7 +1,7 @@
 ---
 title: "O diabo e a abstinência"
 date: 2022-01-13T21:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEgfrv5LdufvcdAP0zSbSWIsgIMIVCGBLaDZdaBNHoiVHJUXo8K15zf7W3Xm63zYz-phnfe_mxVnOax11xfai-tvTkDSWwPGD1nGKfIJSpkFyQSfpkndXuewEynYoNSmpp9Gqbw6gO0FmWIevBhYjh1QDbOxy9U2lDNWz0wjJQIBXCvRsXmqeS-XwIHt=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgfrv5LdufvcdAP0zSbSWIsgIMIVCGBLaDZdaBNHoiVHJUXo8K15zf7W3Xm63zYz-phnfe_mxVnOax11xfai-tvTkDSWwPGD1nGKfIJSpkFyQSfpkndXuewEynYoNSmpp9Gqbw6gO0FmWIevBhYjh1QDbOxy9U2lDNWz0wjJQIBXCvRsXmqeS-XwIHt=s851" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="716" data-original-width="851" height="269" src="https://blogger.googleusercontent.com/img/a/AVvXsEgfrv5LdufvcdAP0zSbSWIsgIMIVCGBLaDZdaBNHoiVHJUXo8K15zf7W3Xm63zYz-phnfe_mxVnOax11xfai-tvTkDSWwPGD1nGKfIJSpkFyQSfpkndXuewEynYoNSmpp9Gqbw6gO0FmWIevBhYjh1QDbOxy9U2lDNWz0wjJQIBXCvRsXmqeS-XwIHt=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como sempre se é de esperar, o diabo não abre mão de nada

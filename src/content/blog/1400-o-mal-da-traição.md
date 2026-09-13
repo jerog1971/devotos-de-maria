@@ -1,7 +1,7 @@
 ---
 title: "O mal da traição"
 date: 2022-01-24T19:05:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhGjxBWYqOhmzTNjXRFpDJgXOdwCCsQuExVBB6pwkJ2CBSP1OjyuG235GVvIGpX5syq7srycuy6djB4XuZZ8hwkgjF6s9sIrm8FLvLhq8rvjNi8FEU51W0kB8hDOe1nEFLDEBia8wPeDcLxdUYqIGu9EFehmiKNprjkVLWuTihgl7gy1zQfL7UZPsvu=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhGjxBWYqOhmzTNjXRFpDJgXOdwCCsQuExVBB6pwkJ2CBSP1OjyuG235GVvIGpX5syq7srycuy6djB4XuZZ8hwkgjF6s9sIrm8FLvLhq8rvjNi8FEU51W0kB8hDOe1nEFLDEBia8wPeDcLxdUYqIGu9EFehmiKNprjkVLWuTihgl7gy1zQfL7UZPsvu=s407" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="372" data-original-width="407" height="292" src="https://blogger.googleusercontent.com/img/a/AVvXsEhGjxBWYqOhmzTNjXRFpDJgXOdwCCsQuExVBB6pwkJ2CBSP1OjyuG235GVvIGpX5syq7srycuy6djB4XuZZ8hwkgjF6s9sIrm8FLvLhq8rvjNi8FEU51W0kB8hDOe1nEFLDEBia8wPeDcLxdUYqIGu9EFehmiKNprjkVLWuTihgl7gy1zQfL7UZPsvu=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal"><b>O</b> ato de trair, seja lá como for, é originalmente<o:p></o:p></p><div class="separator" style="clear: both;">

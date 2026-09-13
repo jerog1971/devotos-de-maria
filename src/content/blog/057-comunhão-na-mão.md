@@ -1,7 +1,7 @@
 ---
 title: "Comunhão na mão?"
 date: 2017-08-23T15:57:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCJsWkobUp2Z64_NWrxGvdpxHui1oaavwCRfWnRGzOh_z_7pDJ1gbfpbouRvq2VDA376Czamr92-IhmaaQIAx5-ENm-EKs2eGDa1JFmTbodRzcw-VEEZQew78UVfJD-2CnLicz6EJ6b8k/s320/comunh%25C3%25A3o+na+boca.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <b>Comunhão na mão: recusada pelos bispos em 1969 e imposta a (quase) toda a Igreja</b></br>

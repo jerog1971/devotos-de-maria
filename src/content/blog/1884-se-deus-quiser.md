@@ -1,7 +1,7 @@
 ---
 title: "Se Deus quiser"
 date: 2018-11-08T17:26:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTQqeNA2faraXNq90A-c5rPpQB9Bs2smcf9hfJWg7RJmEMTstiLmV64oRrAOhMwWMMNEg4IgdoGKx7Qff59Zk7QFf_Hbs16SEOMgT5ECy4ve4tWcnQuJbVYZA50GH-P2Lkc8ZCxGe0yCI/s320/pregui%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTQqeNA2faraXNq90A-c5rPpQB9Bs2smcf9hfJWg7RJmEMTstiLmV64oRrAOhMwWMMNEg4IgdoGKx7Qff59Zk7QFf_Hbs16SEOMgT5ECy4ve4tWcnQuJbVYZA50GH-P2Lkc8ZCxGe0yCI/s1600/pregui%25C3%25A7a.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="440" height="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTQqeNA2faraXNq90A-c5rPpQB9Bs2smcf9hfJWg7RJmEMTstiLmV64oRrAOhMwWMMNEg4IgdoGKx7Qff59Zk7QFf_Hbs16SEOMgT5ECy4ve4tWcnQuJbVYZA50GH-P2Lkc8ZCxGe0yCI/s320/pregui%25C3%25A7a.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Caros leitores, a expressão graças a Deus e se Deus quiser, algumas vezes são utilizadas em vão, de forma intencional ou não. Um olhar menos apurado sobre a questão pode ocasionar na desobediência, no mínimo, ao segundo mandamento da lei de Deus.

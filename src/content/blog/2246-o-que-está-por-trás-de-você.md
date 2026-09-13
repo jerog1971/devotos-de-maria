@@ -1,7 +1,7 @@
 ---
 title: "O que está por trás de você?"
 date: 2019-11-27T16:30:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB8ZUlM_AwseMXLMm4rZDuJvQ68t1vdJcbJ5e47sKnv9dqMYUe1UW5j4zKHDpOPXGXA2o2uXRYk5FIdl-ykWZA-Sml_XN73Vx_P4dEG2OKHEdpUhCPLXF6lVMNSkN-5vTee0OUNfHJGb0/s320/por_tr%25C3%25A1s_de_voc%25C3%25AA.jpg"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB8ZUlM_AwseMXLMm4rZDuJvQ68t1vdJcbJ5e47sKnv9dqMYUe1UW5j4zKHDpOPXGXA2o2uXRYk5FIdl-ykWZA-Sml_XN73Vx_P4dEG2OKHEdpUhCPLXF6lVMNSkN-5vTee0OUNfHJGb0/s1600/por_tr%25C3%25A1s_de_voc%25C3%25AA.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB8ZUlM_AwseMXLMm4rZDuJvQ68t1vdJcbJ5e47sKnv9dqMYUe1UW5j4zKHDpOPXGXA2o2uXRYk5FIdl-ykWZA-Sml_XN73Vx_P4dEG2OKHEdpUhCPLXF6lVMNSkN-5vTee0OUNfHJGb0/s320/por_tr%25C3%25A1s_de_voc%25C3%25AA.jpg" width="320" height="180" data-original-width="960" data-original-height="540" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Comunhão diária e confissão frequente"
 date: 2017-02-15T12:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNOoxEOS0FMC20aawcPXqqtCeHvAOXO5HiAs0ucqRap3ZwKZwx24N5128EoJBXXsnSIcwEYRk99ZQ4b2hVVLK5Zd0PW2b24hHa-7WfoVzZvTXIBY0gce51_EbAYkIsasIbtG7kh6nT_TE/s320/confiss%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNOoxEOS0FMC20aawcPXqqtCeHvAOXO5HiAs0ucqRap3ZwKZwx24N5128EoJBXXsnSIcwEYRk99ZQ4b2hVVLK5Zd0PW2b24hHa-7WfoVzZvTXIBY0gce51_EbAYkIsasIbtG7kh6nT_TE/s1600/confiss%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="313" height="212" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNOoxEOS0FMC20aawcPXqqtCeHvAOXO5HiAs0ucqRap3ZwKZwx24N5128EoJBXXsnSIcwEYRk99ZQ4b2hVVLK5Zd0PW2b24hHa-7WfoVzZvTXIBY0gce51_EbAYkIsasIbtG7kh6nT_TE/s320/confiss%25C3%25A3o.png" width="320" /></a></div>

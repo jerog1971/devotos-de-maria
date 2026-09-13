@@ -1,7 +1,7 @@
 ---
 title: "As formas da tentação"
 date: 2018-10-09T15:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VkWaANN3FpYcraO1RAjEWAd5HzIsWo3t8Sh0hv2gKjTNWiC2PdEUYU5EgsxK2zyiZU4DlsuYng58RZC1asUpTrgdCeV3f1jQf2T05xIxZeVIxqgZAZXSQz3XFQ3iSf5gltUS2X-mvCc/s320/tenta%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VkWaANN3FpYcraO1RAjEWAd5HzIsWo3t8Sh0hv2gKjTNWiC2PdEUYU5EgsxK2zyiZU4DlsuYng58RZC1asUpTrgdCeV3f1jQf2T05xIxZeVIxqgZAZXSQz3XFQ3iSf5gltUS2X-mvCc/s1600/tenta%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VkWaANN3FpYcraO1RAjEWAd5HzIsWo3t8Sh0hv2gKjTNWiC2PdEUYU5EgsxK2zyiZU4DlsuYng58RZC1asUpTrgdCeV3f1jQf2T05xIxZeVIxqgZAZXSQz3XFQ3iSf5gltUS2X-mvCc/s320/tenta%25C3%25A7%25C3%25A3o.png" width="320" height="295" data-original-width="339" data-original-height="313" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Tua vida é uma sucessão de pecados?"
 date: 2019-06-17T20:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaQAigKV8j6ylLUN1tEZ4iRbCJUIFSSasKoXd2mg57zJzVuj5yrhF1lBw51H1R59Lw_9OKgQkYW3pSr9syBXSqqlqFzmkmjk9FqNFQEgolIR1E_V07_iqpOP4UavCsSmd2-Hq6LBczwcI/s320/pecadinho_pecad%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaQAigKV8j6ylLUN1tEZ4iRbCJUIFSSasKoXd2mg57zJzVuj5yrhF1lBw51H1R59Lw_9OKgQkYW3pSr9syBXSqqlqFzmkmjk9FqNFQEgolIR1E_V07_iqpOP4UavCsSmd2-Hq6LBczwcI/s1600/pecadinho_pecad%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaQAigKV8j6ylLUN1tEZ4iRbCJUIFSSasKoXd2mg57zJzVuj5yrhF1lBw51H1R59Lw_9OKgQkYW3pSr9syBXSqqlqFzmkmjk9FqNFQEgolIR1E_V07_iqpOP4UavCsSmd2-Hq6LBczwcI/s320/pecadinho_pecad%25C3%25A3o.png" width="320" height="278" data-original-width="497" data-original-height="432" /></a></div>

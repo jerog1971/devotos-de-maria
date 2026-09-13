@@ -1,7 +1,7 @@
 ---
 title: "Isso não tem futuro"
 date: 2021-03-12T14:40:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5duww_5Dx1IjSYwhj_IJzLgHUN4QgKSu9x-4aXOBq292Bo_aG3Fb77p9HCINQlwxywXlt8yacL__o6l71DL9VpT_SREAYLw4uG4dp_eIf_clbuXcNG0Esljf1fDHtp7mhRV4ebreQrOA/s320/sem+futuro.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5duww_5Dx1IjSYwhj_IJzLgHUN4QgKSu9x-4aXOBq292Bo_aG3Fb77p9HCINQlwxywXlt8yacL__o6l71DL9VpT_SREAYLw4uG4dp_eIf_clbuXcNG0Esljf1fDHtp7mhRV4ebreQrOA/s405/sem+futuro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="405" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5duww_5Dx1IjSYwhj_IJzLgHUN4QgKSu9x-4aXOBq292Bo_aG3Fb77p9HCINQlwxywXlt8yacL__o6l71DL9VpT_SREAYLw4uG4dp_eIf_clbuXcNG0Esljf1fDHtp7mhRV4ebreQrOA/s320/sem+futuro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando as pessoas falam sobre acontecimentos vindouros – o chamado

@@ -1,7 +1,7 @@
 ---
 title: "Depois da Escola com Satã"
 date: 2016-09-20T12:17:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3dgmkzC2aFup-Gns9-tUqjUrIBpVilbzBaseJCERcG-7iOSuya-1LY3qslLogw8DJP04FltPgsvedbSI-WQ2tlYZFj1Kfb-Q_F1iMBHB_ZCshsujpinxz1TFveQVdYU5Gn6gr8RtcRRU/s320/sat%25C3%25A3.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3dgmkzC2aFup-Gns9-tUqjUrIBpVilbzBaseJCERcG-7iOSuya-1LY3qslLogw8DJP04FltPgsvedbSI-WQ2tlYZFj1Kfb-Q_F1iMBHB_ZCshsujpinxz1TFveQVdYU5Gn6gr8RtcRRU/s1600/sat%25C3%25A3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3dgmkzC2aFup-Gns9-tUqjUrIBpVilbzBaseJCERcG-7iOSuya-1LY3qslLogw8DJP04FltPgsvedbSI-WQ2tlYZFj1Kfb-Q_F1iMBHB_ZCshsujpinxz1TFveQVdYU5Gn6gr8RtcRRU/s320/sat%25C3%25A3.png" width="320" height="297" data-original-width="524" data-original-height="487" /></a></div>

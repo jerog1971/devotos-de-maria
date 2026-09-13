@@ -1,7 +1,7 @@
 ---
 title: "A fascinação do vício"
 date: 2022-01-10T02:50:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhmUzPQQmzkkbfaqI93X6uUQq5ixILGtkuTOzqu5AN4fJCJrdvRaP-PItVa19cnSlnCeAx8vNkwLZGH2dJnkjtolnb1iwGusPr-ykd8cnL_3YLSNKBpFjHNMPR3HGFd8YVoDf4KpPlXwG8SvWc9npLxLovgj-jUwMKHmCxRH1NvN7SA2uB2B5FC4b06=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhmUzPQQmzkkbfaqI93X6uUQq5ixILGtkuTOzqu5AN4fJCJrdvRaP-PItVa19cnSlnCeAx8vNkwLZGH2dJnkjtolnb1iwGusPr-ykd8cnL_3YLSNKBpFjHNMPR3HGFd8YVoDf4KpPlXwG8SvWc9npLxLovgj-jUwMKHmCxRH1NvN7SA2uB2B5FC4b06=s491" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="426" data-original-width="491" height="278" src="https://blogger.googleusercontent.com/img/a/AVvXsEhmUzPQQmzkkbfaqI93X6uUQq5ixILGtkuTOzqu5AN4fJCJrdvRaP-PItVa19cnSlnCeAx8vNkwLZGH2dJnkjtolnb1iwGusPr-ykd8cnL_3YLSNKBpFjHNMPR3HGFd8YVoDf4KpPlXwG8SvWc9npLxLovgj-jUwMKHmCxRH1NvN7SA2uB2B5FC4b06=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, se o vício não fosse fascinante não existiria razão

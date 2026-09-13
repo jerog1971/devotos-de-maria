@@ -1,7 +1,7 @@
 ---
 title: "As portas sempre se abrem"
 date: 2017-05-10T20:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvq7rifQajkJVOPXoOhbijSFaqG_hDFBwkVa1uuNSBWRcVlF4XtyXmcDwb-FUsyb06IxkiYKb_KfYY5zdS6A7woAaQ19Yf1Tojsa6wfg0MFUtiUZ6WfzRR7N84tezc7A5R6Krpo2kO1Yo/s320/em+frente.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvq7rifQajkJVOPXoOhbijSFaqG_hDFBwkVa1uuNSBWRcVlF4XtyXmcDwb-FUsyb06IxkiYKb_KfYY5zdS6A7woAaQ19Yf1Tojsa6wfg0MFUtiUZ6WfzRR7N84tezc7A5R6Krpo2kO1Yo/s1600/em+frente.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="242" data-original-width="245" height="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvq7rifQajkJVOPXoOhbijSFaqG_hDFBwkVa1uuNSBWRcVlF4XtyXmcDwb-FUsyb06IxkiYKb_KfYY5zdS6A7woAaQ19Yf1Tojsa6wfg0MFUtiUZ6WfzRR7N84tezc7A5R6Krpo2kO1Yo/s320/em+frente.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Mateus 7,7-8 – “Pedi e se vos dará. Buscai e achareis. Batei e vos será aberto.

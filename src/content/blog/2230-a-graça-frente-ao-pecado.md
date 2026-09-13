@@ -1,7 +1,7 @@
 ---
 title: "A graça frente ao pecado"
 date: 2017-01-23T11:02:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpEj6OdtljO2J9fnJh82y-nzMnXlYuM-XPK2B2vj7oVmjD6wGD11tXXlEFYeqz-URs8RuN5Pmn86mTMN1jGXE8MB1ZfnAbtZwhk117QSqgIAQbCcWDBAcsRMEhQZt8pt2ShO0Bo8QR9U/s320/confiss%25C3%25A3o2.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpEj6OdtljO2J9fnJh82y-nzMnXlYuM-XPK2B2vj7oVmjD6wGD11tXXlEFYeqz-URs8RuN5Pmn86mTMN1jGXE8MB1ZfnAbtZwhk117QSqgIAQbCcWDBAcsRMEhQZt8pt2ShO0Bo8QR9U/s1600/confiss%25C3%25A3o2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="266" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpEj6OdtljO2J9fnJh82y-nzMnXlYuM-XPK2B2vj7oVmjD6wGD11tXXlEFYeqz-URs8RuN5Pmn86mTMN1jGXE8MB1ZfnAbtZwhk117QSqgIAQbCcWDBAcsRMEhQZt8pt2ShO0Bo8QR9U/s320/confiss%25C3%25A3o2.png" width="268" /></a></div>

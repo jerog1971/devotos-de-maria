@@ -1,7 +1,7 @@
 ---
 title: "Por prazeres terrenos, sofrem-se tormentos eternos"
 date: 2022-02-06T14:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiNStisd062kHBH0Q0nBsoiXwOa_oeOQc58-bc0AUT_9bFqsFQZSiQcI_V7uXXIacVj3VqZ4qIIwgIc_2P9Ei6ofAJQn5XEbXl-SYEjaYcWxg7dVET_MxPu7IakWEPci1PfXiBTBklzkiRjofgu4-msewbta8vbGfYXcxeiT8eWHGHY7fR03_qpswL1=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiNStisd062kHBH0Q0nBsoiXwOa_oeOQc58-bc0AUT_9bFqsFQZSiQcI_V7uXXIacVj3VqZ4qIIwgIc_2P9Ei6ofAJQn5XEbXl-SYEjaYcWxg7dVET_MxPu7IakWEPci1PfXiBTBklzkiRjofgu4-msewbta8vbGfYXcxeiT8eWHGHY7fR03_qpswL1=s475" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="453" data-original-width="475" height="305" src="https://blogger.googleusercontent.com/img/a/AVvXsEiNStisd062kHBH0Q0nBsoiXwOa_oeOQc58-bc0AUT_9bFqsFQZSiQcI_V7uXXIacVj3VqZ4qIIwgIc_2P9Ei6ofAJQn5XEbXl-SYEjaYcWxg7dVET_MxPu7IakWEPci1PfXiBTBklzkiRjofgu4-msewbta8vbGfYXcxeiT8eWHGHY7fR03_qpswL1=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos não creem que o bondoso Deus possa ter criado o

@@ -1,7 +1,7 @@
 ---
 title: "O que é mais importante"
 date: 2021-12-05T23:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiJJMKGBAqQcJqH22HG6l-s_3_QAw3NWjF-FmH72ur0ep4xsOyg2N7vJpb6mw9r_J1EEBOqf1SNgp4oNwi7jIZq3nsxzL3Fp7R0_zGYC4qiMDrwYDo5I6ytm5xpHPbNxdNmraG4_-WXnOcMofgQbPAQahGa7mc1DXlOL0QHxBiUTA77adlV_dfBFCoV=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiJJMKGBAqQcJqH22HG6l-s_3_QAw3NWjF-FmH72ur0ep4xsOyg2N7vJpb6mw9r_J1EEBOqf1SNgp4oNwi7jIZq3nsxzL3Fp7R0_zGYC4qiMDrwYDo5I6ytm5xpHPbNxdNmraG4_-WXnOcMofgQbPAQahGa7mc1DXlOL0QHxBiUTA77adlV_dfBFCoV=s1600" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEiJJMKGBAqQcJqH22HG6l-s_3_QAw3NWjF-FmH72ur0ep4xsOyg2N7vJpb6mw9r_J1EEBOqf1SNgp4oNwi7jIZq3nsxzL3Fp7R0_zGYC4qiMDrwYDo5I6ytm5xpHPbNxdNmraG4_-WXnOcMofgQbPAQahGa7mc1DXlOL0QHxBiUTA77adlV_dfBFCoV=s320" width="216" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sem dúvida todo mundo tem uma lista das coisas que são mais

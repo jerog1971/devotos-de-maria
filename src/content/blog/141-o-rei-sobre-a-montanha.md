@@ -1,7 +1,7 @@
 ---
 title: "O rei sobre a montanha"
 date: 2020-05-09T22:23:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwuECWJ-Uj9POvoSa9AwPa40pUimpmvlung3_XyKFlHhn0HmU2hu_SgrSUxVTzbfuCRj1yL3zHzRooEPU9LOg1BoUFeFGxEMUG32lgiAdpj2Bc7xezxeg1GxErWI3v1pT7MpMFPzNhc8Y/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwuECWJ-Uj9POvoSa9AwPa40pUimpmvlung3_XyKFlHhn0HmU2hu_SgrSUxVTzbfuCRj1yL3zHzRooEPU9LOg1BoUFeFGxEMUG32lgiAdpj2Bc7xezxeg1GxErWI3v1pT7MpMFPzNhc8Y/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwuECWJ-Uj9POvoSa9AwPa40pUimpmvlung3_XyKFlHhn0HmU2hu_SgrSUxVTzbfuCRj1yL3zHzRooEPU9LOg1BoUFeFGxEMUG32lgiAdpj2Bc7xezxeg1GxErWI3v1pT7MpMFPzNhc8Y/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Desde o princípio, conforme lemos nas sagradas escrituras,

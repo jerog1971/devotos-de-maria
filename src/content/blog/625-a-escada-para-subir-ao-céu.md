@@ -1,7 +1,7 @@
 ---
 title: "A escada para subir ao céu"
 date: 2016-07-07T11:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIQsL1bjsurHQPOcvp8V4eAE16cbEs5e2jvZeb2TFYQUBJ124KgSnVVxks_dlR2opw8DiUMyUuDc0AvU4yXr85FWIVAbuoDkOhKh_mQP-gl74EHPVXuVYbQvRKFTVv_vYncvwomz6ptY/s320/mortifica%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIQsL1bjsurHQPOcvp8V4eAE16cbEs5e2jvZeb2TFYQUBJ124KgSnVVxks_dlR2opw8DiUMyUuDc0AvU4yXr85FWIVAbuoDkOhKh_mQP-gl74EHPVXuVYbQvRKFTVv_vYncvwomz6ptY/s1600/mortifica%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIQsL1bjsurHQPOcvp8V4eAE16cbEs5e2jvZeb2TFYQUBJ124KgSnVVxks_dlR2opw8DiUMyUuDc0AvU4yXr85FWIVAbuoDkOhKh_mQP-gl74EHPVXuVYbQvRKFTVv_vYncvwomz6ptY/s320/mortifica%25C3%25A7%25C3%25A3o.png" width="320" height="273" data-original-width="419" data-original-height="357" /></a></div>

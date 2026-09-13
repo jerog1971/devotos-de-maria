@@ -1,7 +1,7 @@
 ---
 title: "Cuida do seu povo e da sua religião"
 date: 2016-01-25T13:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7iVyPoOpV26TYW-0jWmZJWB9TgGLaceIzBj1lwgdBnU3YuTV1wM0CP5n4JBH_7NGT7Gp8v893a4HX5Zcw7XKIR01aFo9U1xX4G4eV5UOhxBq5Hd0gpp0kSARjTRZHsahkpA3m3ilbFNU/s320/cuida+do+povo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7iVyPoOpV26TYW-0jWmZJWB9TgGLaceIzBj1lwgdBnU3YuTV1wM0CP5n4JBH_7NGT7Gp8v893a4HX5Zcw7XKIR01aFo9U1xX4G4eV5UOhxBq5Hd0gpp0kSARjTRZHsahkpA3m3ilbFNU/s1600/cuida+do+povo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7iVyPoOpV26TYW-0jWmZJWB9TgGLaceIzBj1lwgdBnU3YuTV1wM0CP5n4JBH_7NGT7Gp8v893a4HX5Zcw7XKIR01aFo9U1xX4G4eV5UOhxBq5Hd0gpp0kSARjTRZHsahkpA3m3ilbFNU/s320/cuida+do+povo.png" width="320" height="209" data-original-width="393" data-original-height="257" /></a></div>

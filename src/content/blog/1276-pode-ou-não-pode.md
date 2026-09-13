@@ -1,7 +1,7 @@
 ---
 title: "Pode ou não pode?"
 date: 2016-05-02T17:35:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPEum4iPKs-0MtLw0HANFnqMqo9JV4curRQmj2g20UYNNl566xmVBUubGtR6VRemzyYL8taAML8SyPwxVTQ391WSyhsuhOyp02dVgkOT9rrpU9t3nG4D7c0TsPHB-_pWvcyhkX4DeMG0/s320/pode_ou_n%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPEum4iPKs-0MtLw0HANFnqMqo9JV4curRQmj2g20UYNNl566xmVBUubGtR6VRemzyYL8taAML8SyPwxVTQ391WSyhsuhOyp02dVgkOT9rrpU9t3nG4D7c0TsPHB-_pWvcyhkX4DeMG0/s1600/pode_ou_n%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPEum4iPKs-0MtLw0HANFnqMqo9JV4curRQmj2g20UYNNl566xmVBUubGtR6VRemzyYL8taAML8SyPwxVTQ391WSyhsuhOyp02dVgkOT9rrpU9t3nG4D7c0TsPHB-_pWvcyhkX4DeMG0/s320/pode_ou_n%25C3%25A3o.png" width="320" height="244" data-original-width="390" data-original-height="297" /></a></div>

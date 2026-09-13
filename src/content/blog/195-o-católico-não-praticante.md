@@ -1,7 +1,7 @@
 ---
 title: "O católico não praticante"
 date: 2015-09-16T23:56:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-il88EVY_kmHdHw4aA6ecwVEIvyRtptmDb5_JDH6QHECuc0lgf0rNOAVnhObE7wXqKBmtwm7ISYM44bzCtwuSRLT1ux4gDR_qyGNKJOphaFmkBct6biCnyRKekQXQ9XttajLtM7-Mvbo/s320/n%25C3%25A3o_praticante.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-il88EVY_kmHdHw4aA6ecwVEIvyRtptmDb5_JDH6QHECuc0lgf0rNOAVnhObE7wXqKBmtwm7ISYM44bzCtwuSRLT1ux4gDR_qyGNKJOphaFmkBct6biCnyRKekQXQ9XttajLtM7-Mvbo/s1600/n%25C3%25A3o_praticante.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-il88EVY_kmHdHw4aA6ecwVEIvyRtptmDb5_JDH6QHECuc0lgf0rNOAVnhObE7wXqKBmtwm7ISYM44bzCtwuSRLT1ux4gDR_qyGNKJOphaFmkBct6biCnyRKekQXQ9XttajLtM7-Mvbo/s320/n%25C3%25A3o_praticante.png" width="320" height="268" data-original-width="394" data-original-height="330" /></a></div>

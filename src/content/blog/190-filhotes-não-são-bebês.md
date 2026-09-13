@@ -1,7 +1,7 @@
 ---
 title: "Filhotes não são bebês"
 date: 2020-03-18T19:48:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuEwrVuaEiTEHhOqjRmri6aiSwYVZ3x4ySh1D11nPB8kn91Hajyo3Pq21_xJkDmESuOjX7sO-G6YPEBvgU88D-2TzgFdZbw9947u9KBxBLg6zdh48RqdlDHabuS9ob6y81zypATT441yc/s320/filhotes_n%25C3%25A3o_s%25C3%25A3o_beb%25C3%25AAs.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuEwrVuaEiTEHhOqjRmri6aiSwYVZ3x4ySh1D11nPB8kn91Hajyo3Pq21_xJkDmESuOjX7sO-G6YPEBvgU88D-2TzgFdZbw9947u9KBxBLg6zdh48RqdlDHabuS9ob6y81zypATT441yc/s1600/filhotes_n%25C3%25A3o_s%25C3%25A3o_beb%25C3%25AAs.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuEwrVuaEiTEHhOqjRmri6aiSwYVZ3x4ySh1D11nPB8kn91Hajyo3Pq21_xJkDmESuOjX7sO-G6YPEBvgU88D-2TzgFdZbw9947u9KBxBLg6zdh48RqdlDHabuS9ob6y81zypATT441yc/s320/filhotes_n%25C3%25A3o_s%25C3%25A3o_beb%25C3%25AAs.png" width="320" height="170" data-original-width="755" data-original-height="401" /></a></div>

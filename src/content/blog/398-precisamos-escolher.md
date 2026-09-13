@@ -1,7 +1,7 @@
 ---
 title: "Precisamos escolher"
 date: 2018-04-18T15:39:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFB1MRkmC8G2_vlAQavvlzbKlnCIE3CT39z0_q3CNaQFJifiyCHl_9Hf7R2LN7Zjgkcf01KtdHyZ8jwxbNTOaMjkImUjF0HJMLLqGy7UM2-zM3R2LJKamQyCGwhI9zp5jJe2pjxf2kQ3M/s320/d%25C3%25BAvidas.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFB1MRkmC8G2_vlAQavvlzbKlnCIE3CT39z0_q3CNaQFJifiyCHl_9Hf7R2LN7Zjgkcf01KtdHyZ8jwxbNTOaMjkImUjF0HJMLLqGy7UM2-zM3R2LJKamQyCGwhI9zp5jJe2pjxf2kQ3M/s1600/d%25C3%25BAvidas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFB1MRkmC8G2_vlAQavvlzbKlnCIE3CT39z0_q3CNaQFJifiyCHl_9Hf7R2LN7Zjgkcf01KtdHyZ8jwxbNTOaMjkImUjF0HJMLLqGy7UM2-zM3R2LJKamQyCGwhI9zp5jJe2pjxf2kQ3M/s320/d%25C3%25BAvidas.png" width="320" height="299" data-original-width="373" data-original-height="348" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Crianças atacadas"
 date: 2022-02-09T16:32:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiazIlc7ESMWgalwk1Aoxj3N24Jyi10079BPPU7m26J-S9NVwNIB1pFBQZV4XW9gRs8LziKynP3nMP_k1y0Ajy6JiwAvQwZpUJuMErAfokqZuWaHL7VbVBaoIYDWWWFrpNaiWDS4pdycKIGLCWDAnXgtWeiCDzAXoTsKmhdSl8z0UuzmD7l8fC9vQSR=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiazIlc7ESMWgalwk1Aoxj3N24Jyi10079BPPU7m26J-S9NVwNIB1pFBQZV4XW9gRs8LziKynP3nMP_k1y0Ajy6JiwAvQwZpUJuMErAfokqZuWaHL7VbVBaoIYDWWWFrpNaiWDS4pdycKIGLCWDAnXgtWeiCDzAXoTsKmhdSl8z0UuzmD7l8fC9vQSR=s466" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="466" height="299" src="https://blogger.googleusercontent.com/img/a/AVvXsEiazIlc7ESMWgalwk1Aoxj3N24Jyi10079BPPU7m26J-S9NVwNIB1pFBQZV4XW9gRs8LziKynP3nMP_k1y0Ajy6JiwAvQwZpUJuMErAfokqZuWaHL7VbVBaoIYDWWWFrpNaiWDS4pdycKIGLCWDAnXgtWeiCDzAXoTsKmhdSl8z0UuzmD7l8fC9vQSR=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus é bem direto quando adverte as pessoas sob o mal que

@@ -1,7 +1,7 @@
 ---
 title: "Preparação para Comunhão"
 date: 2017-03-07T12:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6h4vMFLOpTPs4pgQFNcV_LxOc56GtFhDNCyS2AwMdZ06BUt1brUFXTZ0JUCeB0D9HQAP7CJovMiHRcKEtf8EqHGjVDKoEC2RmxdJmmb6PggNq7gR7ykfCchcqC3lw3MR4o7dwedNdXrA/s320/prepara%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6h4vMFLOpTPs4pgQFNcV_LxOc56GtFhDNCyS2AwMdZ06BUt1brUFXTZ0JUCeB0D9HQAP7CJovMiHRcKEtf8EqHGjVDKoEC2RmxdJmmb6PggNq7gR7ykfCchcqC3lw3MR4o7dwedNdXrA/s1600/prepara%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6h4vMFLOpTPs4pgQFNcV_LxOc56GtFhDNCyS2AwMdZ06BUt1brUFXTZ0JUCeB0D9HQAP7CJovMiHRcKEtf8EqHGjVDKoEC2RmxdJmmb6PggNq7gR7ykfCchcqC3lw3MR4o7dwedNdXrA/s320/prepara%25C3%25A7%25C3%25A3o.png" width="320" height="284" data-original-width="348" data-original-height="309" /></a></div>

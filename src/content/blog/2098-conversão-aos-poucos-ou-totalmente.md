@@ -1,7 +1,7 @@
 ---
 title: "Conversão aos poucos ou totalmente?"
 date: 2018-11-27T19:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc5VMbfnJLZnyikeEgz7N67TucDXKnp9b4lg_FRxm8vEWYBIOsj8lXMr7ADNR_kVUzQzOrmsFSwfKk2-7esHNuMvBraxn6C6fFu6ZWxGQTkQ-PJE6HufB1CBdMgEgxdQhQbQO5ejsePM/s320/prop%25C3%25B3sito.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc5VMbfnJLZnyikeEgz7N67TucDXKnp9b4lg_FRxm8vEWYBIOsj8lXMr7ADNR_kVUzQzOrmsFSwfKk2-7esHNuMvBraxn6C6fFu6ZWxGQTkQ-PJE6HufB1CBdMgEgxdQhQbQO5ejsePM/s1600/prop%25C3%25B3sito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc5VMbfnJLZnyikeEgz7N67TucDXKnp9b4lg_FRxm8vEWYBIOsj8lXMr7ADNR_kVUzQzOrmsFSwfKk2-7esHNuMvBraxn6C6fFu6ZWxGQTkQ-PJE6HufB1CBdMgEgxdQhQbQO5ejsePM/s320/prop%25C3%25B3sito.png" width="320" height="257" data-original-width="345" data-original-height="277" /></a></div>

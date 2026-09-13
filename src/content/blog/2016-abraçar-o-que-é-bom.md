@@ -1,7 +1,7 @@
 ---
 title: "Abraçar o que é bom"
 date: 2021-05-15T18:34:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOBevWFFwMoisZLl_Ba90JgXFClzrTpZ3UwW3MUZqfU4qQDNG56Qmk9VYsp857WFDQnZYJCFmR2BnHGH4v1t_F-r2Qi6NpfFtgl7sbOEkZ-7OLsvomHElrMGQKIh1gyLGQ2R9SOi_jCgw/s320/abra%25C3%25A7o+quentinho.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOBevWFFwMoisZLl_Ba90JgXFClzrTpZ3UwW3MUZqfU4qQDNG56Qmk9VYsp857WFDQnZYJCFmR2BnHGH4v1t_F-r2Qi6NpfFtgl7sbOEkZ-7OLsvomHElrMGQKIh1gyLGQ2R9SOi_jCgw/s447/abra%25C3%25A7o+quentinho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="447" data-original-width="335" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOBevWFFwMoisZLl_Ba90JgXFClzrTpZ3UwW3MUZqfU4qQDNG56Qmk9VYsp857WFDQnZYJCFmR2BnHGH4v1t_F-r2Qi6NpfFtgl7sbOEkZ-7OLsvomHElrMGQKIh1gyLGQ2R9SOi_jCgw/s320/abra%25C3%25A7o+quentinho.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">1ª Tessalonincenses 5,21 – “Examinai tudo: abraçai o que é

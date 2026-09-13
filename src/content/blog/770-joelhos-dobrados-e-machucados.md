@@ -1,7 +1,7 @@
 ---
 title: "Joelhos dobrados e machucados"
 date: 2018-08-31T17:19:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVXhJgoBj0KEHMeYB_sqVYcxXqCUMyUD7aHXWw1YWCJ8Fl7_zJAEAyBA3yVW9m9pFoU0MvdcNOzD6C6UWAEU1WE574AaHYYiowcVL0rNNm5OOTgjUHDXmIaTz1jrGMkRWB9-HPtnbQaE/s320/sala_de_confiss%25C3%25A3o.jpg"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVXhJgoBj0KEHMeYB_sqVYcxXqCUMyUD7aHXWw1YWCJ8Fl7_zJAEAyBA3yVW9m9pFoU0MvdcNOzD6C6UWAEU1WE574AaHYYiowcVL0rNNm5OOTgjUHDXmIaTz1jrGMkRWB9-HPtnbQaE/s1600/sala_de_confiss%25C3%25A3o.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbVXhJgoBj0KEHMeYB_sqVYcxXqCUMyUD7aHXWw1YWCJ8Fl7_zJAEAyBA3yVW9m9pFoU0MvdcNOzD6C6UWAEU1WE574AaHYYiowcVL0rNNm5OOTgjUHDXmIaTz1jrGMkRWB9-HPtnbQaE/s320/sala_de_confiss%25C3%25A3o.jpg" width="320" height="211" data-original-width="1024" data-original-height="675" /></a></div>

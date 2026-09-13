@@ -1,7 +1,7 @@
 ---
 title: "Sentimentos sobrenaturais"
 date: 2021-08-10T15:47:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy_hx3fob-1b7cJD3Hil1VkO_x3z91G-gYXW4jaDF433i2Tn99RdN9WE0v-dyZYUIJFKZn8iHb2LNqWmggb0qQJWJOKgExgNoagFsmZa_QhREtY6NgVTv9np-1M_EGwAC0QuODOAtOeH8/s320/sentimentos+sobrenaturais.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy_hx3fob-1b7cJD3Hil1VkO_x3z91G-gYXW4jaDF433i2Tn99RdN9WE0v-dyZYUIJFKZn8iHb2LNqWmggb0qQJWJOKgExgNoagFsmZa_QhREtY6NgVTv9np-1M_EGwAC0QuODOAtOeH8/s594/sentimentos+sobrenaturais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="482" data-original-width="594" height="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy_hx3fob-1b7cJD3Hil1VkO_x3z91G-gYXW4jaDF433i2Tn99RdN9WE0v-dyZYUIJFKZn8iHb2LNqWmggb0qQJWJOKgExgNoagFsmZa_QhREtY6NgVTv9np-1M_EGwAC0QuODOAtOeH8/s320/sentimentos+sobrenaturais.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A humanidade através da ciência já descobriu que a matéria

@@ -1,7 +1,7 @@
 ---
 title: "Não deve haver distância entre nós"
 date: 2018-01-17T19:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GSbeqcHyBgo7fRDVOw7oACCY06jibWZxMEE7pAQepBaLlnu5OD7QyCO-Jdlkk94iWvV7Rn3COh8TYcSlE5aqNcpLBaUvmb_IH084SRm0rP0iMCLYS7NIUzcZCAyi9QYnA-xUQhg07lI/s320/dist%25C3%25A2ncia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GSbeqcHyBgo7fRDVOw7oACCY06jibWZxMEE7pAQepBaLlnu5OD7QyCO-Jdlkk94iWvV7Rn3COh8TYcSlE5aqNcpLBaUvmb_IH084SRm0rP0iMCLYS7NIUzcZCAyi9QYnA-xUQhg07lI/s1600/dist%25C3%25A2ncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GSbeqcHyBgo7fRDVOw7oACCY06jibWZxMEE7pAQepBaLlnu5OD7QyCO-Jdlkk94iWvV7Rn3COh8TYcSlE5aqNcpLBaUvmb_IH084SRm0rP0iMCLYS7NIUzcZCAyi9QYnA-xUQhg07lI/s320/dist%25C3%25A2ncia.png" width="320" height="315" data-original-width="396" data-original-height="390" /></a></div>

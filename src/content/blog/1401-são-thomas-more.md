@@ -1,7 +1,7 @@
 ---
 title: "São Thomas More"
 date: 2020-06-22T15:12:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5c-_gfif9csSIlIKc5RlB8WRS0Ved4FnZXyrn7k8s9Np4GCp65UDT9bdUjmoSNvB3tvpkixCbfxaxVycqpXCeh5icHNz93EgplRYA8Uo7O9IrTFUvJUgpsjjp_vczRtQYtPYZC22EoUc/s320/Thomas+More.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5c-_gfif9csSIlIKc5RlB8WRS0Ved4FnZXyrn7k8s9Np4GCp65UDT9bdUjmoSNvB3tvpkixCbfxaxVycqpXCeh5icHNz93EgplRYA8Uo7O9IrTFUvJUgpsjjp_vczRtQYtPYZC22EoUc/s429/Thomas+More.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="429" data-original-width="407" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5c-_gfif9csSIlIKc5RlB8WRS0Ved4FnZXyrn7k8s9Np4GCp65UDT9bdUjmoSNvB3tvpkixCbfxaxVycqpXCeh5icHNz93EgplRYA8Uo7O9IrTFUvJUgpsjjp_vczRtQYtPYZC22EoUc/s320/Thomas+More.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Londres, em 1477. Estudou na Universidade de

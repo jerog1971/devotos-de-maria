@@ -1,7 +1,7 @@
 ---
 title: "Uma fé morta"
 date: 2016-07-18T12:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDpNU5K4MDkGpmat1MD95Q2BVAY6O1o4K8w7wZEtwBDLTNT5LTp2jZ03IaFZAwAhtSWUVRGXLVznA34pWBygzqXr3arU8F-0HP6Qd0ePghoAX4XCUBB86aFelZaXXHUnI50jyWOa-JAbw/s320/f%25C3%25A9_morta.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDpNU5K4MDkGpmat1MD95Q2BVAY6O1o4K8w7wZEtwBDLTNT5LTp2jZ03IaFZAwAhtSWUVRGXLVznA34pWBygzqXr3arU8F-0HP6Qd0ePghoAX4XCUBB86aFelZaXXHUnI50jyWOa-JAbw/s1600/f%25C3%25A9_morta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDpNU5K4MDkGpmat1MD95Q2BVAY6O1o4K8w7wZEtwBDLTNT5LTp2jZ03IaFZAwAhtSWUVRGXLVznA34pWBygzqXr3arU8F-0HP6Qd0ePghoAX4XCUBB86aFelZaXXHUnI50jyWOa-JAbw/s320/f%25C3%25A9_morta.png" width="320" height="245" data-original-width="683" data-original-height="522" /></a></div>

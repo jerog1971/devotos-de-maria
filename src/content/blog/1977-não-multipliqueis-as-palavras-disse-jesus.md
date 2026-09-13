@@ -1,7 +1,7 @@
 ---
 title: "Não multipliqueis as palavras, disse Jesus"
 date: 2021-12-07T15:24:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhvrw0OcqEMCI9cPC7vPmLQeANADNEsw1ydnuXxSDVhzKDN3t1vt5mrHxK8dgWPgkEuWsqTogHcq8zEt_LB0H0GIt9xqCErcOg_ympwPrV_1bSFd9kWo38KEUObeu-uUkvD8sRpM9ktL7Zt4-yLAL9W2nWSdbAgABYgfpegORb2Yw3cM5dXSTiDATQ4=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhvrw0OcqEMCI9cPC7vPmLQeANADNEsw1ydnuXxSDVhzKDN3t1vt5mrHxK8dgWPgkEuWsqTogHcq8zEt_LB0H0GIt9xqCErcOg_ympwPrV_1bSFd9kWo38KEUObeu-uUkvD8sRpM9ktL7Zt4-yLAL9W2nWSdbAgABYgfpegORb2Yw3cM5dXSTiDATQ4=s1160" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1070" data-original-width="1160" height="295" src="https://blogger.googleusercontent.com/img/a/AVvXsEhvrw0OcqEMCI9cPC7vPmLQeANADNEsw1ydnuXxSDVhzKDN3t1vt5mrHxK8dgWPgkEuWsqTogHcq8zEt_LB0H0GIt9xqCErcOg_ympwPrV_1bSFd9kWo38KEUObeu-uUkvD8sRpM9ktL7Zt4-yLAL9W2nWSdbAgABYgfpegORb2Yw3cM5dXSTiDATQ4=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos nas sagradas escrituras que não temos autoridade

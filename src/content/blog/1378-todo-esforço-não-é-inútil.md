@@ -1,7 +1,7 @@
 ---
 title: "Todo Esforço não é Inútil"
 date: 2020-03-30T15:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQW2ohIaatIQrSLlOSAhmQ_noeLn0FK23zP9o9p5uDgpL25sFRTfEcaHLsjp9WnAanPLGhEWqxOttq4XzODvhNSbi12j-22043jq96Rj9S4tEcg2ozPAl4xK-fdkMBccVX-pJzmOAN2mU/s320/esfor%25C3%25A7o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQW2ohIaatIQrSLlOSAhmQ_noeLn0FK23zP9o9p5uDgpL25sFRTfEcaHLsjp9WnAanPLGhEWqxOttq4XzODvhNSbi12j-22043jq96Rj9S4tEcg2ozPAl4xK-fdkMBccVX-pJzmOAN2mU/s1600/esfor%25C3%25A7o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQW2ohIaatIQrSLlOSAhmQ_noeLn0FK23zP9o9p5uDgpL25sFRTfEcaHLsjp9WnAanPLGhEWqxOttq4XzODvhNSbi12j-22043jq96Rj9S4tEcg2ozPAl4xK-fdkMBccVX-pJzmOAN2mU/s320/esfor%25C3%25A7o.png" width="320" height="245" data-original-width="318" data-original-height="243" /></a></div>

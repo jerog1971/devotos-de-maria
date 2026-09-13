@@ -1,7 +1,7 @@
 ---
 title: "Quem mata mais? Trânsito ou coronavirus?"
 date: 2020-03-18T16:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrDc8_AV_24C7A1nbx2xQREiHpYKk2XX7kdM82sNb1BKaL9nmD9q0UghnRUosJAsxbH9_WQLvpamyQpKP42mKDdJyoyO4J3ifWPB5BPHvMGfOhhRxbmMk37JNtbFDeL-T8WjxYhw5wwk/s320/tr%25C3%25A2nsito.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrDc8_AV_24C7A1nbx2xQREiHpYKk2XX7kdM82sNb1BKaL9nmD9q0UghnRUosJAsxbH9_WQLvpamyQpKP42mKDdJyoyO4J3ifWPB5BPHvMGfOhhRxbmMk37JNtbFDeL-T8WjxYhw5wwk/s1600/tr%25C3%25A2nsito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrDc8_AV_24C7A1nbx2xQREiHpYKk2XX7kdM82sNb1BKaL9nmD9q0UghnRUosJAsxbH9_WQLvpamyQpKP42mKDdJyoyO4J3ifWPB5BPHvMGfOhhRxbmMk37JNtbFDeL-T8WjxYhw5wwk/s320/tr%25C3%25A2nsito.png" width="320" height="294" data-original-width="661" data-original-height="608" /></a></div>

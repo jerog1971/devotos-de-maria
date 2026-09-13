@@ -1,7 +1,7 @@
 ---
 title: "O grande auxílio do demônio: as ocasiões de pecado"
 date: 2022-02-25T18:41:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEgHPKCZVYuQgDxVj8xQ2IxFfDImqVTPMqPoJZRdEKUUgv3BfwlK8cb49z9s5XPNeBhs0Vhs104aup28NrPCQGvW6orTW_E5YrEHHWvqBCpGgxGryx09qG59kdxexoHgIO7OCjAlr-fFUMLj8Gb5L2Z4Xfo55t6G4FstZq6IObcl5YE8Tkl-Cg5L9l3G=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgHPKCZVYuQgDxVj8xQ2IxFfDImqVTPMqPoJZRdEKUUgv3BfwlK8cb49z9s5XPNeBhs0Vhs104aup28NrPCQGvW6orTW_E5YrEHHWvqBCpGgxGryx09qG59kdxexoHgIO7OCjAlr-fFUMLj8Gb5L2Z4Xfo55t6G4FstZq6IObcl5YE8Tkl-Cg5L9l3G=s692" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="568" data-original-width="692" height="263" src="https://blogger.googleusercontent.com/img/a/AVvXsEgHPKCZVYuQgDxVj8xQ2IxFfDImqVTPMqPoJZRdEKUUgv3BfwlK8cb49z9s5XPNeBhs0Vhs104aup28NrPCQGvW6orTW_E5YrEHHWvqBCpGgxGryx09qG59kdxexoHgIO7OCjAlr-fFUMLj8Gb5L2Z4Xfo55t6G4FstZq6IObcl5YE8Tkl-Cg5L9l3G=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nada auxilia tanto os planos do demônio quanto as ocasiões

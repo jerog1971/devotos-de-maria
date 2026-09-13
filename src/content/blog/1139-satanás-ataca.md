@@ -1,7 +1,7 @@
 ---
 title: "Satanás ataca..."
 date: 2016-02-17T18:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KL6FifPnuRZ12uo3IxukilY3TSKqf4djsZvRaCAVX60ET9UWZ-4sE6moYr5BTFfS5H-Ul-IqZzYm-ShVmMHtLgWZQLvZjizH0ZAEQYhmTHprWlgbtvDQJG_JR6xLxS3OLzhFxA6JOpI/s320/ma%25C3%25A7om.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KL6FifPnuRZ12uo3IxukilY3TSKqf4djsZvRaCAVX60ET9UWZ-4sE6moYr5BTFfS5H-Ul-IqZzYm-ShVmMHtLgWZQLvZjizH0ZAEQYhmTHprWlgbtvDQJG_JR6xLxS3OLzhFxA6JOpI/s1600/ma%25C3%25A7om.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7KL6FifPnuRZ12uo3IxukilY3TSKqf4djsZvRaCAVX60ET9UWZ-4sE6moYr5BTFfS5H-Ul-IqZzYm-ShVmMHtLgWZQLvZjizH0ZAEQYhmTHprWlgbtvDQJG_JR6xLxS3OLzhFxA6JOpI/s320/ma%25C3%25A7om.png" width="320" height="214" data-original-width="630" data-original-height="422" /></a></div>

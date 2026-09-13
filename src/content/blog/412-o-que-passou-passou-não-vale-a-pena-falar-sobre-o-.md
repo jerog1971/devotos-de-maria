@@ -1,7 +1,7 @@
 ---
 title: "O que passou, passou. Não vale a pena falar sobre o ocorrido."
 date: 2020-02-21T20:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihBCk7JvNfEjRN34CiLner2vmBkXAJLDSrd-1Hm271U_kCEyVgpFMjV30D9gf5VswDFEsnTq7UAwl7wwxn70r_UOlEvmu8hiN1zwcqeZzTUPU6UznTc6HndIZo2NLjYKUtaFj8kkeMQA8/s320/confiss%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihBCk7JvNfEjRN34CiLner2vmBkXAJLDSrd-1Hm271U_kCEyVgpFMjV30D9gf5VswDFEsnTq7UAwl7wwxn70r_UOlEvmu8hiN1zwcqeZzTUPU6UznTc6HndIZo2NLjYKUtaFj8kkeMQA8/s1600/confiss%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihBCk7JvNfEjRN34CiLner2vmBkXAJLDSrd-1Hm271U_kCEyVgpFMjV30D9gf5VswDFEsnTq7UAwl7wwxn70r_UOlEvmu8hiN1zwcqeZzTUPU6UznTc6HndIZo2NLjYKUtaFj8kkeMQA8/s320/confiss%25C3%25A3o.png" width="320" height="204" data-original-width="610" data-original-height="388" /></a></div>

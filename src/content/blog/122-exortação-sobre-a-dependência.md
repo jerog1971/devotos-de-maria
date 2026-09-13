@@ -1,7 +1,7 @@
 ---
 title: "Exortação sobre a dependência"
 date: 2017-08-18T12:10:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ19hd4q7aVEMfDkHyMQI-WCfpV1RbYmwVB8HwKch-0INMfZLKW7gWzhKLEHyycI4S5yvJU9z7sJkituKPFP5ONb2kSzaBe-4NxuyGPI_tJPL4UtGiP5QkhZsVHDRzmO81E7lV4LsuG1Y/s320/santo+andre.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ19hd4q7aVEMfDkHyMQI-WCfpV1RbYmwVB8HwKch-0INMfZLKW7gWzhKLEHyycI4S5yvJU9z7sJkituKPFP5ONb2kSzaBe-4NxuyGPI_tJPL4UtGiP5QkhZsVHDRzmO81E7lV4LsuG1Y/s1600/santo+andre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ19hd4q7aVEMfDkHyMQI-WCfpV1RbYmwVB8HwKch-0INMfZLKW7gWzhKLEHyycI4S5yvJU9z7sJkituKPFP5ONb2kSzaBe-4NxuyGPI_tJPL4UtGiP5QkhZsVHDRzmO81E7lV4LsuG1Y/s320/santo+andre.png" width="320" height="305" data-original-width="425" data-original-height="405" /></a></div>

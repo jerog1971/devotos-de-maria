@@ -1,7 +1,7 @@
 ---
 title: "Pelos cristãos chineses"
 date: 2015-08-17T11:39:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiioDZYHIGbi8fAqAmH6Jw7Fk50MXinGhg87S6y4vJLWwfyjs3mTGIyij9YoxxKyg-o0958BrUPy7ytkoQFQv_KET5VAZQ9xaWYPDQJybpdIIZDBfQ8ElifXUdYTgErkpBpL1n_rRNaTGU/s320/crist%25C3%25A3os_chineses.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiioDZYHIGbi8fAqAmH6Jw7Fk50MXinGhg87S6y4vJLWwfyjs3mTGIyij9YoxxKyg-o0958BrUPy7ytkoQFQv_KET5VAZQ9xaWYPDQJybpdIIZDBfQ8ElifXUdYTgErkpBpL1n_rRNaTGU/s1600/crist%25C3%25A3os_chineses.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiioDZYHIGbi8fAqAmH6Jw7Fk50MXinGhg87S6y4vJLWwfyjs3mTGIyij9YoxxKyg-o0958BrUPy7ytkoQFQv_KET5VAZQ9xaWYPDQJybpdIIZDBfQ8ElifXUdYTgErkpBpL1n_rRNaTGU/s320/crist%25C3%25A3os_chineses.png" width="320" height="213" data-original-width="746" data-original-height="497" /></a></div>

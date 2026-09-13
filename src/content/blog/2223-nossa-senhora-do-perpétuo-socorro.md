@@ -1,7 +1,7 @@
 ---
 title: "Nossa Senhora do Perpétuo Socorro"
 date: 2020-06-28T00:48:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_3ZWT8kGWhocCjOiYZpTgjC441TQNSbzMq6V6AzQYxmZS02ijvMBbG3bZHi7Uw_3K_6lFbN9H0-KaunMCeqDlDgT6DVr9acnYf9RQcXzX3fld_h_IvJ1sVMRljz2FQCJkg23_8w0N0g/s320/Perp%25C3%25A9tuo+Socorro.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_3ZWT8kGWhocCjOiYZpTgjC441TQNSbzMq6V6AzQYxmZS02ijvMBbG3bZHi7Uw_3K_6lFbN9H0-KaunMCeqDlDgT6DVr9acnYf9RQcXzX3fld_h_IvJ1sVMRljz2FQCJkg23_8w0N0g/s501/Perp%25C3%25A9tuo+Socorro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="501" data-original-width="376" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8_3ZWT8kGWhocCjOiYZpTgjC441TQNSbzMq6V6AzQYxmZS02ijvMBbG3bZHi7Uw_3K_6lFbN9H0-KaunMCeqDlDgT6DVr9acnYf9RQcXzX3fld_h_IvJ1sVMRljz2FQCJkg23_8w0N0g/s320/Perp%25C3%25A9tuo+Socorro.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A devoção a Nossa Senhora do Perpétuo Socorro foi e continua

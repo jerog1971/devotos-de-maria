@@ -1,7 +1,7 @@
 ---
 title: "Morre fundador paroquiano (história verídica)"
 date: 2020-08-26T23:43:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEQ44y0oyU2XWXbJu0CouPClpTR5_oepl6kuDchMGjWyNbh_dvwwjWB3trAGE6fPNcgtmqa1nRc3YO1IB60kj51tZOI5a4HCvy54kz0mXiip6H_7LpPr5DZKSFWZZynGvfw7oqveAxbN8/s0/idoso+falecido.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEQ44y0oyU2XWXbJu0CouPClpTR5_oepl6kuDchMGjWyNbh_dvwwjWB3trAGE6fPNcgtmqa1nRc3YO1IB60kj51tZOI5a4HCvy54kz0mXiip6H_7LpPr5DZKSFWZZynGvfw7oqveAxbN8/s428/idoso+falecido.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="428" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEQ44y0oyU2XWXbJu0CouPClpTR5_oepl6kuDchMGjWyNbh_dvwwjWB3trAGE6fPNcgtmqa1nRc3YO1IB60kj51tZOI5a4HCvy54kz0mXiip6H_7LpPr5DZKSFWZZynGvfw7oqveAxbN8/s0/idoso+falecido.png" /></a></div><p></p><p class="MsoNormal">Era uma vez... sim, isso mesmo:<o:p></o:p></p><div class="separator" style="clear: both;">

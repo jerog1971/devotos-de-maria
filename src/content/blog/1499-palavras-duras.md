@@ -1,7 +1,7 @@
 ---
 title: "Palavras duras"
 date: 2020-05-08T15:48:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhENgD-Va0KbeGVPr87VwCU4ewy35yIFaPDisdCrGaPluL1uXuxEkqxTEK-l5k9tcE8wkMQrp1DQFHi6uH7CRGcu4FJy8Hcb3239jbBoz8P2d_MZ14_vgSV5mVNCKCFKMDu-EUaiVqwtWU/s320/falta+de+%25C3%25A1gua.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhENgD-Va0KbeGVPr87VwCU4ewy35yIFaPDisdCrGaPluL1uXuxEkqxTEK-l5k9tcE8wkMQrp1DQFHi6uH7CRGcu4FJy8Hcb3239jbBoz8P2d_MZ14_vgSV5mVNCKCFKMDu-EUaiVqwtWU/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="308" data-original-width="451" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhENgD-Va0KbeGVPr87VwCU4ewy35yIFaPDisdCrGaPluL1uXuxEkqxTEK-l5k9tcE8wkMQrp1DQFHi6uH7CRGcu4FJy8Hcb3239jbBoz8P2d_MZ14_vgSV5mVNCKCFKMDu-EUaiVqwtWU/s320/falta+de+%25C3%25A1gua.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 18,15-17 – “Meu filho, não mistures a

@@ -1,7 +1,7 @@
 ---
 title: "Dízimo é preceito?"
 date: 2016-09-01T19:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO8i7KtXM4D7rYwTZqITphuIO66BtSc0aDLySYYJJabKcR-u0uKnDCnkNvDw3MJJJyC8MAkr3N06eD9g6c88ypyNXKy2jMlm4MhAQWWqF8VTrNBfPzAHXtSV8TVbLHZ2HBggS0LE9gQk4/s320/d%25C3%25ADzimo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO8i7KtXM4D7rYwTZqITphuIO66BtSc0aDLySYYJJabKcR-u0uKnDCnkNvDw3MJJJyC8MAkr3N06eD9g6c88ypyNXKy2jMlm4MhAQWWqF8VTrNBfPzAHXtSV8TVbLHZ2HBggS0LE9gQk4/s1600/d%25C3%25ADzimo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO8i7KtXM4D7rYwTZqITphuIO66BtSc0aDLySYYJJabKcR-u0uKnDCnkNvDw3MJJJyC8MAkr3N06eD9g6c88ypyNXKy2jMlm4MhAQWWqF8VTrNBfPzAHXtSV8TVbLHZ2HBggS0LE9gQk4/s320/d%25C3%25ADzimo.png" width="315" height="320" data-original-width="328" data-original-height="333" /></a></div>

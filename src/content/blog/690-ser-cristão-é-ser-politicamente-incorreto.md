@@ -1,7 +1,7 @@
 ---
 title: "Ser cristão é ser politicamente incorreto"
 date: 2016-06-23T14:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfelfesM3lbMebs-z-XV7Tt4MfB3_c1BFLDBdQpK00s20OQknknKrTy03Aknd-1oCTSpzQuAdDTmBW4H4vGhbuTGupYPJLK4uVf34yDnd4YlMN_E0pHnhHsh8Jbmqp-Qf2KMC_ZqxSUXs/s320/ser_crist%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfelfesM3lbMebs-z-XV7Tt4MfB3_c1BFLDBdQpK00s20OQknknKrTy03Aknd-1oCTSpzQuAdDTmBW4H4vGhbuTGupYPJLK4uVf34yDnd4YlMN_E0pHnhHsh8Jbmqp-Qf2KMC_ZqxSUXs/s1600/ser_crist%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfelfesM3lbMebs-z-XV7Tt4MfB3_c1BFLDBdQpK00s20OQknknKrTy03Aknd-1oCTSpzQuAdDTmBW4H4vGhbuTGupYPJLK4uVf34yDnd4YlMN_E0pHnhHsh8Jbmqp-Qf2KMC_ZqxSUXs/s320/ser_crist%25C3%25A3o.png" width="320" height="208" data-original-width="381" data-original-height="248" /></a></div>

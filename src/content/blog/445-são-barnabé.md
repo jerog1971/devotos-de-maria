@@ -1,7 +1,7 @@
 ---
 title: "São Barnabé"
 date: 2020-06-11T19:17:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha-vFoK5B47qj2U8cd5HfzbILo-BmyriVItn7SnvffcXhjkRidYNyfXBJnyQpxw821CkHvdXpnNHjydZyK3J_RerwfeND9Yi1GDEMsPHWGGew17Y51pS0Q4Yi5UoODTsBkodM-pIwi9dQ/s320/S%25C3%25A3o_Barnab%25C3%25A9.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha-vFoK5B47qj2U8cd5HfzbILo-BmyriVItn7SnvffcXhjkRidYNyfXBJnyQpxw821CkHvdXpnNHjydZyK3J_RerwfeND9Yi1GDEMsPHWGGew17Y51pS0Q4Yi5UoODTsBkodM-pIwi9dQ/s435/S%25C3%25A3o_Barnab%25C3%25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="292" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha-vFoK5B47qj2U8cd5HfzbILo-BmyriVItn7SnvffcXhjkRidYNyfXBJnyQpxw821CkHvdXpnNHjydZyK3J_RerwfeND9Yi1GDEMsPHWGGew17Y51pS0Q4Yi5UoODTsBkodM-pIwi9dQ/s320/S%25C3%25A3o_Barnab%25C3%25A9.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Era natural da ilha de Chipre. Como São Paulo apóstolo, foi

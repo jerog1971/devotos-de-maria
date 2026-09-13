@@ -1,7 +1,7 @@
 ---
 title: "15 de agosto - Assunção de Maria"
 date: 2016-08-15T12:40:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUgh9ajk_kBwmZZ3qffuIr0VXXnH2Yjiu6ZwN6CVkIUftAgdhfsGXKc5o2zJ89sZsHttrBPlbYxZborFtM_ieCutPoN1GWWRKdlWuaWnvbb9-uBaZO8qVayKa0bOCIkm096h6sZ9hN0Nw/s320/assun%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUgh9ajk_kBwmZZ3qffuIr0VXXnH2Yjiu6ZwN6CVkIUftAgdhfsGXKc5o2zJ89sZsHttrBPlbYxZborFtM_ieCutPoN1GWWRKdlWuaWnvbb9-uBaZO8qVayKa0bOCIkm096h6sZ9hN0Nw/s1600/assun%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUgh9ajk_kBwmZZ3qffuIr0VXXnH2Yjiu6ZwN6CVkIUftAgdhfsGXKc5o2zJ89sZsHttrBPlbYxZborFtM_ieCutPoN1GWWRKdlWuaWnvbb9-uBaZO8qVayKa0bOCIkm096h6sZ9hN0Nw/s320/assun%25C3%25A7%25C3%25A3o.png" width="320" height="316" data-original-width="403" data-original-height="398" /></a></div>

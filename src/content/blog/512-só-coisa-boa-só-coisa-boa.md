@@ -1,7 +1,7 @@
 ---
 title: "Só coisa boa, só coisa boa"
 date: 2021-07-27T15:09:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52waOn6bqC0WSEBDKpw1jnElSM3praLpbxoVz9pWiKhyHfogrOR7tTYC6ps9O5Zn4JKt-0TKv2wbe7mv4GUX9ZcDgzTc7bnq_vNEgQ-0l4tmN4mkLOcJJRri1cdRX8dTHYbWA8oEbS_o/s320/s%25C3%25B3+coisa+boa.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52waOn6bqC0WSEBDKpw1jnElSM3praLpbxoVz9pWiKhyHfogrOR7tTYC6ps9O5Zn4JKt-0TKv2wbe7mv4GUX9ZcDgzTc7bnq_vNEgQ-0l4tmN4mkLOcJJRri1cdRX8dTHYbWA8oEbS_o/s338/s%25C3%25B3+coisa+boa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="336" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52waOn6bqC0WSEBDKpw1jnElSM3praLpbxoVz9pWiKhyHfogrOR7tTYC6ps9O5Zn4JKt-0TKv2wbe7mv4GUX9ZcDgzTc7bnq_vNEgQ-0l4tmN4mkLOcJJRri1cdRX8dTHYbWA8oEbS_o/s320/s%25C3%25B3+coisa+boa.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sofrimentos, tribulações, preocupações, dificuldades,

@@ -1,7 +1,7 @@
 ---
 title: "Quando deres esmola, que tua mão esquerda não saiba o que fez a direita"
 date: 2019-08-30T16:34:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjeZ009sv3vHyVnVxXP8FBFBh2kySkaAIntbVMAdwUsaBKfxoiuLGd715KA-Hle0XgKKL5ZrckienxgkSWT_L6XnfI9kFOUKq8HgbPYqBBEHJNBoWCWc_W8Bp5OhaQySdYvpwmxXTt0Ro/s320/serm%25C3%25A3o_da_montanha.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjeZ009sv3vHyVnVxXP8FBFBh2kySkaAIntbVMAdwUsaBKfxoiuLGd715KA-Hle0XgKKL5ZrckienxgkSWT_L6XnfI9kFOUKq8HgbPYqBBEHJNBoWCWc_W8Bp5OhaQySdYvpwmxXTt0Ro/s1600/serm%25C3%25A3o_da_montanha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjeZ009sv3vHyVnVxXP8FBFBh2kySkaAIntbVMAdwUsaBKfxoiuLGd715KA-Hle0XgKKL5ZrckienxgkSWT_L6XnfI9kFOUKq8HgbPYqBBEHJNBoWCWc_W8Bp5OhaQySdYvpwmxXTt0Ro/s320/serm%25C3%25A3o_da_montanha.png" width="320" height="251" data-original-width="434" data-original-height="341" /></a></div>

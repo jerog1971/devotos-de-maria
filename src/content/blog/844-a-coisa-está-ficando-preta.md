@@ -1,7 +1,7 @@
 ---
 title: "A coisa está ficando preta"
 date: 2019-06-25T17:17:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8RmoC9I74IWNx6JvhW0sF5qI7V2yTxEwD1GVKy3Qdl1mQBcHH38zZMhWThogItWWQaL-pFUGIvMwF371kOTSjKrVXTklGyGPIfGTuvDJ64Nm1Wx6aYvjWjY1RtIqh1imPtXwmdJlVAQ4/s320/sacril%25C3%25A9gio.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8RmoC9I74IWNx6JvhW0sF5qI7V2yTxEwD1GVKy3Qdl1mQBcHH38zZMhWThogItWWQaL-pFUGIvMwF371kOTSjKrVXTklGyGPIfGTuvDJ64Nm1Wx6aYvjWjY1RtIqh1imPtXwmdJlVAQ4/s1600/sacril%25C3%25A9gio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8RmoC9I74IWNx6JvhW0sF5qI7V2yTxEwD1GVKy3Qdl1mQBcHH38zZMhWThogItWWQaL-pFUGIvMwF371kOTSjKrVXTklGyGPIfGTuvDJ64Nm1Wx6aYvjWjY1RtIqh1imPtXwmdJlVAQ4/s320/sacril%25C3%25A9gio.png" width="320" height="313" data-original-width="605" data-original-height="591" /></a></div>

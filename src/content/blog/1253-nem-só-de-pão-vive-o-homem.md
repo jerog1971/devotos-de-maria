@@ -1,7 +1,7 @@
 ---
 title: "Nem só de pão vive o homem"
 date: 2017-04-24T14:13:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzsskvGhjRxf0xv1bMld3I9n6TjpDhJzLMlK65uibdKQ1STricGFTWHzUn2QXyDlFIFCDWcAMW0oN3oIq7m9hVK0Obb0guAHSQyjWfCljcVDxWXYH_Zvsl9ZntEs3kr9Nh1a7BJP3K_8/s320/nem+s%25C3%25B3+de+p%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzsskvGhjRxf0xv1bMld3I9n6TjpDhJzLMlK65uibdKQ1STricGFTWHzUn2QXyDlFIFCDWcAMW0oN3oIq7m9hVK0Obb0guAHSQyjWfCljcVDxWXYH_Zvsl9ZntEs3kr9Nh1a7BJP3K_8/s1600/nem+s%25C3%25B3+de+p%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="287" data-original-width="220" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzsskvGhjRxf0xv1bMld3I9n6TjpDhJzLMlK65uibdKQ1STricGFTWHzUn2QXyDlFIFCDWcAMW0oN3oIq7m9hVK0Obb0guAHSQyjWfCljcVDxWXYH_Zvsl9ZntEs3kr9Nh1a7BJP3K_8/s320/nem+s%25C3%25B3+de+p%25C3%25A3o.png" width="245" /></a></div>

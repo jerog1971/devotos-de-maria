@@ -1,7 +1,7 @@
 ---
 title: "Se as coisas não fossem fáceis não valeriam à pena"
 date: 2020-11-03T16:30:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGmexCe1AxLoZTBy0sEOE7PIYYyqUpfnM7qcuLZQx8ZtX_sjb32eG1uhyTS3QRy4MO4QFUEjPqO2Ja96qqIRObrdop-NkHWOErkZrzaNBo4SsXcEgCb4pf4Bl-dEXdK7TLoCtDmvDKoxw/s320/vale+a+pena.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGmexCe1AxLoZTBy0sEOE7PIYYyqUpfnM7qcuLZQx8ZtX_sjb32eG1uhyTS3QRy4MO4QFUEjPqO2Ja96qqIRObrdop-NkHWOErkZrzaNBo4SsXcEgCb4pf4Bl-dEXdK7TLoCtDmvDKoxw/s466/vale+a+pena.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="379" data-original-width="466" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGmexCe1AxLoZTBy0sEOE7PIYYyqUpfnM7qcuLZQx8ZtX_sjb32eG1uhyTS3QRy4MO4QFUEjPqO2Ja96qqIRObrdop-NkHWOErkZrzaNBo4SsXcEgCb4pf4Bl-dEXdK7TLoCtDmvDKoxw/s320/vale+a+pena.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando chegou a plenitude dos tempos Deus olhou lá do céu,

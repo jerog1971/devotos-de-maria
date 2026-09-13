@@ -1,7 +1,7 @@
 ---
 title: "E assim disse Jesus"
 date: 2020-06-15T17:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBlyA2i7jDSzwZwd7YsEtbszpLwYIfw4CFh3CaGBLclkY9OO8h8RANNIcWsj0zeDIyPUxc-dlLetyIZ1XKi11Q8pSpUdGkWh0eet4nIpJnCTpoR1mrzC5KA0h0bvCuGvJUBXPI0q20sNQ/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBlyA2i7jDSzwZwd7YsEtbszpLwYIfw4CFh3CaGBLclkY9OO8h8RANNIcWsj0zeDIyPUxc-dlLetyIZ1XKi11Q8pSpUdGkWh0eet4nIpJnCTpoR1mrzC5KA0h0bvCuGvJUBXPI0q20sNQ/s304/julgar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="223" data-original-width="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBlyA2i7jDSzwZwd7YsEtbszpLwYIfw4CFh3CaGBLclkY9OO8h8RANNIcWsj0zeDIyPUxc-dlLetyIZ1XKi11Q8pSpUdGkWh0eet4nIpJnCTpoR1mrzC5KA0h0bvCuGvJUBXPI0q20sNQ/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">

@@ -1,7 +1,7 @@
 ---
 title: "Remédios diferentes"
 date: 2018-01-22T17:14:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7PhJokplucV5-mtNvMMPxq1kSjoaIm-KEM2CuB9pwDzx1_VMuAh5sc2jpW9bSzEWmQDKTdnxKGBzT2F9BZOW85BAqvBvSjOfshjmxiFupQRs3iEK8tChAskEOPUj5Cp3dGvHLUaxWH6M/s320/sant%25C3%25ADssimo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7PhJokplucV5-mtNvMMPxq1kSjoaIm-KEM2CuB9pwDzx1_VMuAh5sc2jpW9bSzEWmQDKTdnxKGBzT2F9BZOW85BAqvBvSjOfshjmxiFupQRs3iEK8tChAskEOPUj5Cp3dGvHLUaxWH6M/s1600/sant%25C3%25ADssimo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7PhJokplucV5-mtNvMMPxq1kSjoaIm-KEM2CuB9pwDzx1_VMuAh5sc2jpW9bSzEWmQDKTdnxKGBzT2F9BZOW85BAqvBvSjOfshjmxiFupQRs3iEK8tChAskEOPUj5Cp3dGvHLUaxWH6M/s320/sant%25C3%25ADssimo.png" width="320" height="283" data-original-width="671" data-original-height="593" /></a></div>

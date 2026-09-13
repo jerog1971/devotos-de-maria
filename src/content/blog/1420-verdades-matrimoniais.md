@@ -1,7 +1,7 @@
 ---
 title: "Verdades matrimoniais"
 date: 2021-09-10T01:03:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71GZpCyRV1KC-9ErctWSYlNX_gN7rOzXi9SWpGxtmhpBH_2q0WTXg9V6ALyio_znkcN9qquJAIdfbxqPIoSbVUbkOBf2zODvOidp8tRP4FJGpDnHfQCemnPnSUPy_ms9COWgdsX2tG-g/s0/verdades+matrimoniais.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71GZpCyRV1KC-9ErctWSYlNX_gN7rOzXi9SWpGxtmhpBH_2q0WTXg9V6ALyio_znkcN9qquJAIdfbxqPIoSbVUbkOBf2zODvOidp8tRP4FJGpDnHfQCemnPnSUPy_ms9COWgdsX2tG-g/s304/verdades+matrimoniais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="304" height="273" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71GZpCyRV1KC-9ErctWSYlNX_gN7rOzXi9SWpGxtmhpBH_2q0WTXg9V6ALyio_znkcN9qquJAIdfbxqPIoSbVUbkOBf2zODvOidp8tRP4FJGpDnHfQCemnPnSUPy_ms9COWgdsX2tG-g/s0/verdades+matrimoniais.png" width="304" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A escalada da vida a dois, da vida matrimonial, é cheia de

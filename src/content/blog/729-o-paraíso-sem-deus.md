@@ -1,7 +1,7 @@
 ---
 title: "O paraíso sem Deus"
 date: 2017-09-01T12:17:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrE0qsblEYpErYFCHUdOm1lRST6GFRnSFAzPDEoU9G0euUr_wvZBl2mMWsmQE339FG5IEsXQ5Nl-czjPuai7exIMItyiYpcapg1aUHDLfxTVJDxL7Py4ovOlP6YnE97mSa3QA8bA34v5c/s320/manipula%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrE0qsblEYpErYFCHUdOm1lRST6GFRnSFAzPDEoU9G0euUr_wvZBl2mMWsmQE339FG5IEsXQ5Nl-czjPuai7exIMItyiYpcapg1aUHDLfxTVJDxL7Py4ovOlP6YnE97mSa3QA8bA34v5c/s1600/manipula%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrE0qsblEYpErYFCHUdOm1lRST6GFRnSFAzPDEoU9G0euUr_wvZBl2mMWsmQE339FG5IEsXQ5Nl-czjPuai7exIMItyiYpcapg1aUHDLfxTVJDxL7Py4ovOlP6YnE97mSa3QA8bA34v5c/s320/manipula%25C3%25A7%25C3%25A3o.png" width="320" height="304" data-original-width="337" data-original-height="320" /></a></div>

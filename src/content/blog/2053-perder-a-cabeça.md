@@ -1,7 +1,7 @@
 ---
 title: "Perder a cabeça"
 date: 2016-08-29T12:25:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz0P4EWLeGbpjYzVEXLisSQMb7inetXvRQ2Ds3MJGwedfaK_0jp8SsuRwiHGV130m7i3nNxCDOcHoToiE3woLxhERaCxIvcxi66-YN6Qmn3bTHk15QjFYVRI_PqtmyjGk383KGP0tgkQ0/s320/perder_a_cabe%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz0P4EWLeGbpjYzVEXLisSQMb7inetXvRQ2Ds3MJGwedfaK_0jp8SsuRwiHGV130m7i3nNxCDOcHoToiE3woLxhERaCxIvcxi66-YN6Qmn3bTHk15QjFYVRI_PqtmyjGk383KGP0tgkQ0/s1600/perder_a_cabe%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz0P4EWLeGbpjYzVEXLisSQMb7inetXvRQ2Ds3MJGwedfaK_0jp8SsuRwiHGV130m7i3nNxCDOcHoToiE3woLxhERaCxIvcxi66-YN6Qmn3bTHk15QjFYVRI_PqtmyjGk383KGP0tgkQ0/s320/perder_a_cabe%25C3%25A7a.png" width="320" height="286" data-original-width="298" data-original-height="266" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Deus crê na família"
 date: 2020-10-26T15:29:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZBW-lI-bokrdfo932d2gjDwXzF7JDYEy1b7MhAfJwKakgCtmBUfm0xLQaWTsZyahj9vsSsSHKq6aZS51QgkQloQvBUESSC4tWuZXUPniUf7pmTOBqyS6MZ21KO3HZMfr8A-NF67W4fbs/s320/m%25C3%25A3e+e+filha.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZBW-lI-bokrdfo932d2gjDwXzF7JDYEy1b7MhAfJwKakgCtmBUfm0xLQaWTsZyahj9vsSsSHKq6aZS51QgkQloQvBUESSC4tWuZXUPniUf7pmTOBqyS6MZ21KO3HZMfr8A-NF67W4fbs/s1175/m%25C3%25A3e+e+filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1175" data-original-width="1077" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZBW-lI-bokrdfo932d2gjDwXzF7JDYEy1b7MhAfJwKakgCtmBUfm0xLQaWTsZyahj9vsSsSHKq6aZS51QgkQloQvBUESSC4tWuZXUPniUf7pmTOBqyS6MZ21KO3HZMfr8A-NF67W4fbs/s320/m%25C3%25A3e+e+filha.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E não foi um pensamento que depois ele colocou em prática e

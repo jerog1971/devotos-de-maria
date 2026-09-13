@@ -1,7 +1,7 @@
 ---
 title: "Santa Olívia"
 date: 2020-06-10T16:46:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-IxUH0uOCBINs2tRm7W1VD14CizezKk39MQ2jn88SzWpdktJXKp0lkcw8zjXf1Edj9pF4aApbbOf_C4Ndr_pG_x414j9snxGXQxvyblnkFCiVX4txvntzRw08akT23YLCUPax57Ve-k/s320/Santa_Ol%25C3%25ADvia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-IxUH0uOCBINs2tRm7W1VD14CizezKk39MQ2jn88SzWpdktJXKp0lkcw8zjXf1Edj9pF4aApbbOf_C4Ndr_pG_x414j9snxGXQxvyblnkFCiVX4txvntzRw08akT23YLCUPax57Ve-k/s443/Santa_Ol%25C3%25ADvia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="443" data-original-width="378" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-IxUH0uOCBINs2tRm7W1VD14CizezKk39MQ2jn88SzWpdktJXKp0lkcw8zjXf1Edj9pF4aApbbOf_C4Ndr_pG_x414j9snxGXQxvyblnkFCiVX4txvntzRw08akT23YLCUPax57Ve-k/s320/Santa_Ol%25C3%25ADvia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Palermo, na Sicília, no século IX. Contava 13 anos

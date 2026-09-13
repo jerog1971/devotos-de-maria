@@ -1,7 +1,7 @@
 ---
 title: "Uma vida cheia de cobranças"
 date: 2020-10-19T14:02:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-S5p_d4DlavMuMagR_AsIogtH8HCDB3YffDD8JMY0KOLspMwm6CLaX1LCfRcYVfZg6wAxJfAh77aaywHN0AxWViWQYUotyW6KHiZ8_uyCnZ61Mbjk3WRWarlrqM-6mgsAdfSIDXgQ9oY/s320/cobran%25C3%25A7as.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-S5p_d4DlavMuMagR_AsIogtH8HCDB3YffDD8JMY0KOLspMwm6CLaX1LCfRcYVfZg6wAxJfAh77aaywHN0AxWViWQYUotyW6KHiZ8_uyCnZ61Mbjk3WRWarlrqM-6mgsAdfSIDXgQ9oY/s601/cobran%25C3%25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="601" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-S5p_d4DlavMuMagR_AsIogtH8HCDB3YffDD8JMY0KOLspMwm6CLaX1LCfRcYVfZg6wAxJfAh77aaywHN0AxWViWQYUotyW6KHiZ8_uyCnZ61Mbjk3WRWarlrqM-6mgsAdfSIDXgQ9oY/s320/cobran%25C3%25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A sociedade tem disso: cobra muito. O indivíduo para se

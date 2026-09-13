@@ -1,7 +1,7 @@
 ---
 title: "O céu em degraus"
 date: 2017-08-31T15:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHwkJEnvCL8PQLYc1z1v2vBN2rNCsZRTGWFvSdLvb1EImC3EAsWJGVi6LPFHYH58ivBw1Z-1z7zSm_ymqGojizmrJD27BmjxQ3a7zDHI5wvc9WtGWR0xlogXAgYMadqcRat1ZaE7Pg14A/s320/c%25C3%25A9us.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHwkJEnvCL8PQLYc1z1v2vBN2rNCsZRTGWFvSdLvb1EImC3EAsWJGVi6LPFHYH58ivBw1Z-1z7zSm_ymqGojizmrJD27BmjxQ3a7zDHI5wvc9WtGWR0xlogXAgYMadqcRat1ZaE7Pg14A/s1600/c%25C3%25A9us.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHwkJEnvCL8PQLYc1z1v2vBN2rNCsZRTGWFvSdLvb1EImC3EAsWJGVi6LPFHYH58ivBw1Z-1z7zSm_ymqGojizmrJD27BmjxQ3a7zDHI5wvc9WtGWR0xlogXAgYMadqcRat1ZaE7Pg14A/s320/c%25C3%25A9us.png" width="320" height="199" data-original-width="560" data-original-height="348" /></a></div>

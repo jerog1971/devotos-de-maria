@@ -1,7 +1,7 @@
 ---
 title: "O silêncio interior, atitude de escuta"
 date: 2016-07-01T12:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuk8X9h-9lC8WxH2PJxEwAGSvSSe-rhNWePrFyfLqfYBoHp5jOQaABbx0K8v7c4v5LNevpbgkXKxxFQMYCoLHzWKR6q_oDloBapFtWnBd6cCbc1t_Njy0cGB4fz4kaVrTU4ruvp2Z-bBs/s320/sil%25C3%25AAncio.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuk8X9h-9lC8WxH2PJxEwAGSvSSe-rhNWePrFyfLqfYBoHp5jOQaABbx0K8v7c4v5LNevpbgkXKxxFQMYCoLHzWKR6q_oDloBapFtWnBd6cCbc1t_Njy0cGB4fz4kaVrTU4ruvp2Z-bBs/s1600/sil%25C3%25AAncio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuk8X9h-9lC8WxH2PJxEwAGSvSSe-rhNWePrFyfLqfYBoHp5jOQaABbx0K8v7c4v5LNevpbgkXKxxFQMYCoLHzWKR6q_oDloBapFtWnBd6cCbc1t_Njy0cGB4fz4kaVrTU4ruvp2Z-bBs/s320/sil%25C3%25AAncio.png" width="293" height="320" data-original-width="314" data-original-height="343" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Deus e a distinção de pessoas"
 date: 2021-10-21T00:58:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-EfVbpniVl_tst7y8rLhFIX-QpyHKHMf67hqkK6F_Og_IFe-Nm-HNR5gB7wlaTRCVLnfuekfhwHxT1vkb3dwoFAVKaIGAt6VmRqeDgALZRlYf9Lw8mQbhGpvqKyInVadZyfzlqkzM6o/s0/distin%25C3%25A7%25C3%25A3o+de+pessoas.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-EfVbpniVl_tst7y8rLhFIX-QpyHKHMf67hqkK6F_Og_IFe-Nm-HNR5gB7wlaTRCVLnfuekfhwHxT1vkb3dwoFAVKaIGAt6VmRqeDgALZRlYf9Lw8mQbhGpvqKyInVadZyfzlqkzM6o/s294/distin%25C3%25A7%25C3%25A3o+de+pessoas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="294" height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-EfVbpniVl_tst7y8rLhFIX-QpyHKHMf67hqkK6F_Og_IFe-Nm-HNR5gB7wlaTRCVLnfuekfhwHxT1vkb3dwoFAVKaIGAt6VmRqeDgALZRlYf9Lw8mQbhGpvqKyInVadZyfzlqkzM6o/s0/distin%25C3%25A7%25C3%25A3o+de+pessoas.png" width="294" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas pessoas são facilmente ludibriadas pelo demônio – que

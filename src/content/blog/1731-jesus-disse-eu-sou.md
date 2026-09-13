@@ -1,7 +1,7 @@
 ---
 title: "Jesus disse \"Eu sou\""
 date: 2017-02-13T11:51:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvWeaidOkSBUZLhQpRHMoIlBFIdeaCKQ5Hg3eNdZfwIo3Syge5_f4f-ScnSq-iPlVmk9U1PxFFSf5ToDEu5usABv7NiR_vbYfeIY4uMHIML1F5kD-xw2fvvG-EQD2dOvlzWOjszC0uh_o/s320/eu+sou.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvWeaidOkSBUZLhQpRHMoIlBFIdeaCKQ5Hg3eNdZfwIo3Syge5_f4f-ScnSq-iPlVmk9U1PxFFSf5ToDEu5usABv7NiR_vbYfeIY4uMHIML1F5kD-xw2fvvG-EQD2dOvlzWOjszC0uh_o/s1600/eu+sou.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvWeaidOkSBUZLhQpRHMoIlBFIdeaCKQ5Hg3eNdZfwIo3Syge5_f4f-ScnSq-iPlVmk9U1PxFFSf5ToDEu5usABv7NiR_vbYfeIY4uMHIML1F5kD-xw2fvvG-EQD2dOvlzWOjszC0uh_o/s320/eu+sou.png" width="320" height="208" data-original-width="317" data-original-height="206" /></a></div>

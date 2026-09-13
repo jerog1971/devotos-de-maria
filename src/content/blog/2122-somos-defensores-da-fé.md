@@ -1,7 +1,7 @@
 ---
 title: "Somos defensores da fé"
 date: 2021-11-21T00:18:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnLPBEOw7yTch6PVCoZFzkIiKziI7SJG2mjEKk3x4sq3JLpBtWp39Wma1YNKaP70CnvZiNlsl0-m2ujoBLAKzM8UNyZyUpWucLZCW6sdxvlEHuZ7c7lvwZr0WR6tqgAPC9iIZDQoTmxQw/s0/defensores+da+f%25C3%25A9.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnLPBEOw7yTch6PVCoZFzkIiKziI7SJG2mjEKk3x4sq3JLpBtWp39Wma1YNKaP70CnvZiNlsl0-m2ujoBLAKzM8UNyZyUpWucLZCW6sdxvlEHuZ7c7lvwZr0WR6tqgAPC9iIZDQoTmxQw/s235/defensores+da+f%25C3%25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="235" height="214" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnLPBEOw7yTch6PVCoZFzkIiKziI7SJG2mjEKk3x4sq3JLpBtWp39Wma1YNKaP70CnvZiNlsl0-m2ujoBLAKzM8UNyZyUpWucLZCW6sdxvlEHuZ7c7lvwZr0WR6tqgAPC9iIZDQoTmxQw/s0/defensores+da+f%25C3%25A9.png" width="235" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou pelo menos deveríamos, pois, este é um dos mandatos divinos.

@@ -1,7 +1,7 @@
 ---
 title: "Ao pó voltarás"
 date: 2021-11-02T16:40:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7BCgHKTia8_VD6l2-V17AXb5p6-AUurMG_m9MJsr1f1quwMDEfuv_USQk13HA5IErp8XgU32zQIGCELO3Yb8txdXTYKQ5m3oECnmiIuGxk-Kf9Fhr16lNwVJ1ta3zCXqC9jiVKG0bkEA/s0/ao+p%25C3%25B3+voltar%25C3%25A1s.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7BCgHKTia8_VD6l2-V17AXb5p6-AUurMG_m9MJsr1f1quwMDEfuv_USQk13HA5IErp8XgU32zQIGCELO3Yb8txdXTYKQ5m3oECnmiIuGxk-Kf9Fhr16lNwVJ1ta3zCXqC9jiVKG0bkEA/s198/ao+p%25C3%25B3+voltar%25C3%25A1s.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="194" data-original-width="198" height="194" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7BCgHKTia8_VD6l2-V17AXb5p6-AUurMG_m9MJsr1f1quwMDEfuv_USQk13HA5IErp8XgU32zQIGCELO3Yb8txdXTYKQ5m3oECnmiIuGxk-Kf9Fhr16lNwVJ1ta3zCXqC9jiVKG0bkEA/s0/ao+p%25C3%25B3+voltar%25C3%25A1s.png" width="198" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Gênesis 3,19 – “Comerás o teu pão com o suor do teu rosto,

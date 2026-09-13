@@ -1,7 +1,7 @@
 ---
 title: "A Lista Negra"
 date: 2017-07-11T12:18:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK2PMdUxM4yGgccWZpLJIj3sWngI1P7Ome8vFRmU4XXXcesEMXH5JYIKTSuAGCQUrOE-GoPubnUvXu6SG_qyW10mBcvAJvjlLTxqLLkXeGhkxOAJS_0AkcK51djO3NIoSShF_PKpVT6Fg/s320/lista+negra.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK2PMdUxM4yGgccWZpLJIj3sWngI1P7Ome8vFRmU4XXXcesEMXH5JYIKTSuAGCQUrOE-GoPubnUvXu6SG_qyW10mBcvAJvjlLTxqLLkXeGhkxOAJS_0AkcK51djO3NIoSShF_PKpVT6Fg/s1600/lista+negra.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="373" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK2PMdUxM4yGgccWZpLJIj3sWngI1P7Ome8vFRmU4XXXcesEMXH5JYIKTSuAGCQUrOE-GoPubnUvXu6SG_qyW10mBcvAJvjlLTxqLLkXeGhkxOAJS_0AkcK51djO3NIoSShF_PKpVT6Fg/s320/lista+negra.png" width="320" /></a></div>

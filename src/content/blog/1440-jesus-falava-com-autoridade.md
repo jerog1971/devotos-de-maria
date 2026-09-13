@@ -1,7 +1,7 @@
 ---
 title: "Jesus falava com autoridade"
 date: 2022-01-11T15:33:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiLej7vTpMCzyoqz0HHOWUqMNdsO4VhnL9TWIIvA8IbkHwDnoX5iq8YmJhhp-PdjmC2HulxnfNkxHNSk9liZRq2O7LVCGRyaSI97l1vjEvXayMvEOiUBLingMDbukKTcFN2LnDzq-GWRa6wT97nYqCPxw_d9KnEvsE1V3yhbRHJ-X5_y-tQkS2wSC0F=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiLej7vTpMCzyoqz0HHOWUqMNdsO4VhnL9TWIIvA8IbkHwDnoX5iq8YmJhhp-PdjmC2HulxnfNkxHNSk9liZRq2O7LVCGRyaSI97l1vjEvXayMvEOiUBLingMDbukKTcFN2LnDzq-GWRa6wT97nYqCPxw_d9KnEvsE1V3yhbRHJ-X5_y-tQkS2wSC0F=s553" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="https://blogger.googleusercontent.com/img/a/AVvXsEiLej7vTpMCzyoqz0HHOWUqMNdsO4VhnL9TWIIvA8IbkHwDnoX5iq8YmJhhp-PdjmC2HulxnfNkxHNSk9liZRq2O7LVCGRyaSI97l1vjEvXayMvEOiUBLingMDbukKTcFN2LnDzq-GWRa6wT97nYqCPxw_d9KnEvsE1V3yhbRHJ-X5_y-tQkS2wSC0F=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois do famoso sermão da montanha, “quando Jesus terminou

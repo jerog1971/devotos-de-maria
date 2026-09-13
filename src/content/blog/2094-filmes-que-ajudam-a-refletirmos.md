@@ -1,7 +1,7 @@
 ---
 title: "Filmes que ajudam a refletirmos"
 date: 2019-03-14T18:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAN7Jc7G8dU54HBs1K8SwMvJLikD-xr19DfTMJZ9P91aHmQYGUZ5TlwejsEnOy7Gc2YBp4Ta-CNTk7FY_rmc6skS7jrTVt8Te0SKxK1mh3Hu_6FyIS99D3oEL7dK1n8nf1j-Ha-EQesP0/s320/Alex+Kendrick.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAN7Jc7G8dU54HBs1K8SwMvJLikD-xr19DfTMJZ9P91aHmQYGUZ5TlwejsEnOy7Gc2YBp4Ta-CNTk7FY_rmc6skS7jrTVt8Te0SKxK1mh3Hu_6FyIS99D3oEL7dK1n8nf1j-Ha-EQesP0/s1600/Alex+Kendrick.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAN7Jc7G8dU54HBs1K8SwMvJLikD-xr19DfTMJZ9P91aHmQYGUZ5TlwejsEnOy7Gc2YBp4Ta-CNTk7FY_rmc6skS7jrTVt8Te0SKxK1mh3Hu_6FyIS99D3oEL7dK1n8nf1j-Ha-EQesP0/s320/Alex+Kendrick.png" width="319" height="320" data-original-width="466" data-original-height="468" /></a></div>

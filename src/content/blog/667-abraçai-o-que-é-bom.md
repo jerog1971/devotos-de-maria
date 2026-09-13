@@ -1,7 +1,7 @@
 ---
 title: "Abraçai o que é bom"
 date: 2021-05-04T15:40:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMedsYxGVfwHzRqV3QgDJ-bZIA-NAwmQrmwfIIRgAhNKv8qs5YdTJyzF1gStzt23xS19GG5RNHjfbBvwxv7Krg7gfoJvBl8MJkdQDtTgylhqOMEzcHgJy338RXEDgRj9Nb2-q9UbU0es8/s320/ficai+com+o+que+%25C3%25A9+bom.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMedsYxGVfwHzRqV3QgDJ-bZIA-NAwmQrmwfIIRgAhNKv8qs5YdTJyzF1gStzt23xS19GG5RNHjfbBvwxv7Krg7gfoJvBl8MJkdQDtTgylhqOMEzcHgJy338RXEDgRj9Nb2-q9UbU0es8/s758/ficai+com+o+que+%25C3%25A9+bom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="595" data-original-width="758" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMedsYxGVfwHzRqV3QgDJ-bZIA-NAwmQrmwfIIRgAhNKv8qs5YdTJyzF1gStzt23xS19GG5RNHjfbBvwxv7Krg7gfoJvBl8MJkdQDtTgylhqOMEzcHgJy338RXEDgRj9Nb2-q9UbU0es8/s320/ficai+com+o+que+%25C3%25A9+bom.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nas sagradas escrituras, na primeira carta aos Tessalonicenses,

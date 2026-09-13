@@ -1,7 +1,7 @@
 ---
 title: "Servos de Jesus Cristo a serviço da igreja"
 date: 2020-05-09T22:25:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl3dIcYCw7WDZWSMl4Xf_VziG8IjDQiCzsg8whRLZ8RBhpBxbq-EtBA05kZbpmeGR5vZJgaUl1QhA1uPqpQBvkHPZaxvowx4as9GN2Z2nKGiBgow9CYmf9L7XSTqPNqTxvVKCUOwyupsg/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl3dIcYCw7WDZWSMl4Xf_VziG8IjDQiCzsg8whRLZ8RBhpBxbq-EtBA05kZbpmeGR5vZJgaUl1QhA1uPqpQBvkHPZaxvowx4as9GN2Z2nKGiBgow9CYmf9L7XSTqPNqTxvVKCUOwyupsg/" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="231" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl3dIcYCw7WDZWSMl4Xf_VziG8IjDQiCzsg8whRLZ8RBhpBxbq-EtBA05kZbpmeGR5vZJgaUl1QhA1uPqpQBvkHPZaxvowx4as9GN2Z2nKGiBgow9CYmf9L7XSTqPNqTxvVKCUOwyupsg/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Essa é a definição que os próprios sacerdotes fazem de si

@@ -1,7 +1,7 @@
 ---
 title: "Verdades opostas"
 date: 2022-02-16T18:02:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEgtV1cCKAsM2o92qGThOIr0gPwoA6srxIZhH5EHGUn1fgdemE1a-F0Gty1ZJOT1dEEGD6PZRTywc64HuNvKBvRxMMwMlHl2u6uPNBnY28Et-v4T-oSAQ2-LtxAWSG93TFkthiFIP4pTd5j-orbT44HLiw4hmKOaxaX6XCDE5ubco3URFu30cUTDaQgf"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgtV1cCKAsM2o92qGThOIr0gPwoA6srxIZhH5EHGUn1fgdemE1a-F0Gty1ZJOT1dEEGD6PZRTywc64HuNvKBvRxMMwMlHl2u6uPNBnY28Et-v4T-oSAQ2-LtxAWSG93TFkthiFIP4pTd5j-orbT44HLiw4hmKOaxaX6XCDE5ubco3URFu30cUTDaQgf=s282" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="282" height="263" src="https://blogger.googleusercontent.com/img/a/AVvXsEgtV1cCKAsM2o92qGThOIr0gPwoA6srxIZhH5EHGUn1fgdemE1a-F0Gty1ZJOT1dEEGD6PZRTywc64HuNvKBvRxMMwMlHl2u6uPNBnY28Et-v4T-oSAQ2-LtxAWSG93TFkthiFIP4pTd5j-orbT44HLiw4hmKOaxaX6XCDE5ubco3URFu30cUTDaQgf" width="282" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E hajam verdades espalhadas pelo mundo. Quando o sujeito

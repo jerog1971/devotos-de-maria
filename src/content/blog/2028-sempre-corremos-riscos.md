@@ -1,7 +1,7 @@
 ---
 title: "Sempre corremos riscos"
 date: 2021-12-13T15:26:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEg3TIEDMhmPYFysbnXJFtLOm8IUbDvhzEJ0oqOXs9RMJYRBkqXV_Ymhx3glNVb8Mvz4txroVQIjfj7k8bJ-vdwkivb810gY5y7GHM-0MLhj26GWl_B_1IFDLpEvkcsFtYBboGLlUfSvdnwH7CBglVn-2UMN2izQBmyStBkXzq29dB25yYJQwFo90s_T=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEg3TIEDMhmPYFysbnXJFtLOm8IUbDvhzEJ0oqOXs9RMJYRBkqXV_Ymhx3glNVb8Mvz4txroVQIjfj7k8bJ-vdwkivb810gY5y7GHM-0MLhj26GWl_B_1IFDLpEvkcsFtYBboGLlUfSvdnwH7CBglVn-2UMN2izQBmyStBkXzq29dB25yYJQwFo90s_T=s483" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="404" data-original-width="483" height="268" src="https://blogger.googleusercontent.com/img/a/AVvXsEg3TIEDMhmPYFysbnXJFtLOm8IUbDvhzEJ0oqOXs9RMJYRBkqXV_Ymhx3glNVb8Mvz4txroVQIjfj7k8bJ-vdwkivb810gY5y7GHM-0MLhj26GWl_B_1IFDLpEvkcsFtYBboGLlUfSvdnwH7CBglVn-2UMN2izQBmyStBkXzq29dB25yYJQwFo90s_T=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente não podemos ser ingênuos quando o assunto consiste

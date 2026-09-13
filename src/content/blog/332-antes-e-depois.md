@@ -1,7 +1,7 @@
 ---
 title: "Antes e Depois"
 date: 2017-07-12T16:10:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm-W4gYpV7be6kbew7Jt28TXxSge3efW0NHZQlZrEtN37OgAREfmsA2E8RlRcoI77f4iKbbLQgDJTeY3_nGiu-T49ZibRaHSJsnredY_Kb32uU9OijwGmtL9se2MG20Sg18703UqTDtOc/s320/antes+e+depois.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm-W4gYpV7be6kbew7Jt28TXxSge3efW0NHZQlZrEtN37OgAREfmsA2E8RlRcoI77f4iKbbLQgDJTeY3_nGiu-T49ZibRaHSJsnredY_Kb32uU9OijwGmtL9se2MG20Sg18703UqTDtOc/s1600/antes+e+depois.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm-W4gYpV7be6kbew7Jt28TXxSge3efW0NHZQlZrEtN37OgAREfmsA2E8RlRcoI77f4iKbbLQgDJTeY3_nGiu-T49ZibRaHSJsnredY_Kb32uU9OijwGmtL9se2MG20Sg18703UqTDtOc/s320/antes+e+depois.png" width="320" height="166" data-original-width="742" data-original-height="385" /></a></div>

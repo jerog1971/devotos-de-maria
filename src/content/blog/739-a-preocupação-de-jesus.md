@@ -1,7 +1,7 @@
 ---
 title: "A preocupação de Jesus"
 date: 2018-03-22T20:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGn3zTDRW_GTnLfT-kmaN_0nkkQlWl7kN6pdX8H0TAOtY9NT_Z8d9RZ7a3l5Kmfmwj0UeBzSjWe5WYLZgcoxUTcJ0jBtG3crO4UT4K_zfrEDV7RMCQXSaZCHti2W4AdhOK5H2wql03Bw/s320/penit%25C3%25AAncia.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGn3zTDRW_GTnLfT-kmaN_0nkkQlWl7kN6pdX8H0TAOtY9NT_Z8d9RZ7a3l5Kmfmwj0UeBzSjWe5WYLZgcoxUTcJ0jBtG3crO4UT4K_zfrEDV7RMCQXSaZCHti2W4AdhOK5H2wql03Bw/s1600/penit%25C3%25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGn3zTDRW_GTnLfT-kmaN_0nkkQlWl7kN6pdX8H0TAOtY9NT_Z8d9RZ7a3l5Kmfmwj0UeBzSjWe5WYLZgcoxUTcJ0jBtG3crO4UT4K_zfrEDV7RMCQXSaZCHti2W4AdhOK5H2wql03Bw/s320/penit%25C3%25AAncia.png" width="318" height="320" data-original-width="383" data-original-height="385" /></a></div>

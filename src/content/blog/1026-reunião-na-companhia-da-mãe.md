@@ -1,7 +1,7 @@
 ---
 title: "Reunião na companhia da mãe"
 date: 2017-09-22T20:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlwuX2XD6dwuJCT4hjd8CjRYwvoeUcNk3yIqAXnmkhAaGoTD1dwHy09jWaJCq7ByIZDa0hGoGpj5GWxzaeQw8D_50bNd-bLpMcit7B-PASSKdb3AG7cQ-CngsShw5LwadRTnKyuiczEnw/s320/reuni%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlwuX2XD6dwuJCT4hjd8CjRYwvoeUcNk3yIqAXnmkhAaGoTD1dwHy09jWaJCq7ByIZDa0hGoGpj5GWxzaeQw8D_50bNd-bLpMcit7B-PASSKdb3AG7cQ-CngsShw5LwadRTnKyuiczEnw/s1600/reuni%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlwuX2XD6dwuJCT4hjd8CjRYwvoeUcNk3yIqAXnmkhAaGoTD1dwHy09jWaJCq7ByIZDa0hGoGpj5GWxzaeQw8D_50bNd-bLpMcit7B-PASSKdb3AG7cQ-CngsShw5LwadRTnKyuiczEnw/s320/reuni%25C3%25A3o.png" width="320" height="282" data-original-width="778" data-original-height="685" /></a></div>

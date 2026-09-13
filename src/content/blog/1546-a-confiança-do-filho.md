@@ -1,7 +1,7 @@
 ---
 title: "A confiança do filho"
 date: 2018-09-27T13:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCJ5gCSRKsGG35CMM1CEhtLyknBuuLm58ry3Sfb14nX5ICFQU1DzFFp120wPOCwrm_wQCfCBQNNPW24m2olwjiBL3D5_BOvvImUZntpADBbxwMHAG_rPJ42jCUlCZLCnKUlcmeb43hdIo/s320/confian%25C3%25A7a_dos_filhos.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCJ5gCSRKsGG35CMM1CEhtLyknBuuLm58ry3Sfb14nX5ICFQU1DzFFp120wPOCwrm_wQCfCBQNNPW24m2olwjiBL3D5_BOvvImUZntpADBbxwMHAG_rPJ42jCUlCZLCnKUlcmeb43hdIo/s1600/confian%25C3%25A7a_dos_filhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCJ5gCSRKsGG35CMM1CEhtLyknBuuLm58ry3Sfb14nX5ICFQU1DzFFp120wPOCwrm_wQCfCBQNNPW24m2olwjiBL3D5_BOvvImUZntpADBbxwMHAG_rPJ42jCUlCZLCnKUlcmeb43hdIo/s320/confian%25C3%25A7a_dos_filhos.png" width="320" height="296" data-original-width="381" data-original-height="353" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "A mansidão"
 date: 2017-04-06T14:33:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjydv0BX-YPs5D1S7cO-x1XZczrY8zVBrRB3taJmqQ2cxnud-DPNKDcDmPYUQOqyGqyS78Xnc-Pn2qytBjO44Ef8ScEhwe6l-L8jDyhD7-BDX64tGnrX7994MpvWOKP0mRZ0sr4TzpF38M/s320/mansid%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjydv0BX-YPs5D1S7cO-x1XZczrY8zVBrRB3taJmqQ2cxnud-DPNKDcDmPYUQOqyGqyS78Xnc-Pn2qytBjO44Ef8ScEhwe6l-L8jDyhD7-BDX64tGnrX7994MpvWOKP0mRZ0sr4TzpF38M/s1600/mansid%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjydv0BX-YPs5D1S7cO-x1XZczrY8zVBrRB3taJmqQ2cxnud-DPNKDcDmPYUQOqyGqyS78Xnc-Pn2qytBjO44Ef8ScEhwe6l-L8jDyhD7-BDX64tGnrX7994MpvWOKP0mRZ0sr4TzpF38M/s320/mansid%25C3%25A3o.png" width="320" height="314" data-original-width="608" data-original-height="596" /></a></div>

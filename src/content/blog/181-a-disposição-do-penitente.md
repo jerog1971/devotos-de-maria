@@ -1,7 +1,7 @@
 ---
 title: "A disposição do penitente"
 date: 2020-02-28T15:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6Jtn1FxICubu__Qn8s55y3yGWPBIguPY4gLjzCqq3GZH-X1quiDYjZuLGhMeblTkEhLjkIdFv3T2Fv7PGv_1tAy3Y2aTJ_n3p4hqDrgN-Ag774Pj0K2AU54RKkBA161exnEscYV80IQ/s320/ora%25C3%25A7%25C3%25A3o4.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6Jtn1FxICubu__Qn8s55y3yGWPBIguPY4gLjzCqq3GZH-X1quiDYjZuLGhMeblTkEhLjkIdFv3T2Fv7PGv_1tAy3Y2aTJ_n3p4hqDrgN-Ag774Pj0K2AU54RKkBA161exnEscYV80IQ/s1600/ora%25C3%25A7%25C3%25A3o4.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6Jtn1FxICubu__Qn8s55y3yGWPBIguPY4gLjzCqq3GZH-X1quiDYjZuLGhMeblTkEhLjkIdFv3T2Fv7PGv_1tAy3Y2aTJ_n3p4hqDrgN-Ag774Pj0K2AU54RKkBA161exnEscYV80IQ/s320/ora%25C3%25A7%25C3%25A3o4.png" width="279" height="320" data-original-width="367" data-original-height="421" /></a></div>

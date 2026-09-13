@@ -1,7 +1,7 @@
 ---
 title: "Nem tudo convém àquele que teme a Deus"
 date: 2021-12-17T19:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEh_GscViFyCpik-B9pI8t4DjISzVqWyfRdj5ZT0L5Ya8Ju9Wx_5iTGhNOVAQAQEwoxN35z3F_TVGSXUYzI-ba3Xhy6UQQF0zMUyQ-mWV0LR18TRZaT6rPkEKMdG7ij6689inyg1iMo6_6_pRbR6HrdxFGPP2ybmTU5mvbAYamyVokzNSDY42ReCOQPZ=w308-h256"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh_GscViFyCpik-B9pI8t4DjISzVqWyfRdj5ZT0L5Ya8Ju9Wx_5iTGhNOVAQAQEwoxN35z3F_TVGSXUYzI-ba3Xhy6UQQF0zMUyQ-mWV0LR18TRZaT6rPkEKMdG7ij6689inyg1iMo6_6_pRbR6HrdxFGPP2ybmTU5mvbAYamyVokzNSDY42ReCOQPZ=s194" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="161" data-original-width="194" height="256" src="https://blogger.googleusercontent.com/img/a/AVvXsEh_GscViFyCpik-B9pI8t4DjISzVqWyfRdj5ZT0L5Ya8Ju9Wx_5iTGhNOVAQAQEwoxN35z3F_TVGSXUYzI-ba3Xhy6UQQF0zMUyQ-mWV0LR18TRZaT6rPkEKMdG7ij6689inyg1iMo6_6_pRbR6HrdxFGPP2ybmTU5mvbAYamyVokzNSDY42ReCOQPZ=w308-h256" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Este é um dos muitos assuntos polêmicos que parece que nunca

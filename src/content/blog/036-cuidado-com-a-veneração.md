@@ -1,7 +1,7 @@
 ---
 title: "Cuidado com a veneração"
 date: 2020-04-02T16:27:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUwzVKniygpP6ZBROLFO0BXcgyTD1ncvJ9iBp_HpM0H3uyOWpG9jyAesUsPV1-GShWXjaBFX-MUNxPRjcGtnQOQmQ6jf8Z9s_MKzUPGwH2fbCwyFDI1Ek1AQkwvEWuxBVTKRyOHvvAyUc/s320/venera%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUwzVKniygpP6ZBROLFO0BXcgyTD1ncvJ9iBp_HpM0H3uyOWpG9jyAesUsPV1-GShWXjaBFX-MUNxPRjcGtnQOQmQ6jf8Z9s_MKzUPGwH2fbCwyFDI1Ek1AQkwvEWuxBVTKRyOHvvAyUc/s1600/venera%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUwzVKniygpP6ZBROLFO0BXcgyTD1ncvJ9iBp_HpM0H3uyOWpG9jyAesUsPV1-GShWXjaBFX-MUNxPRjcGtnQOQmQ6jf8Z9s_MKzUPGwH2fbCwyFDI1Ek1AQkwvEWuxBVTKRyOHvvAyUc/s320/venera%25C3%25A7%25C3%25A3o.png" width="320" height="260" data-original-width="519" data-original-height="421" /></a></div>

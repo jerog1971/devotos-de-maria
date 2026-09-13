@@ -1,7 +1,7 @@
 ---
 title: "Ou você é católico ou é carismático – parte 3"
 date: 2020-03-27T17:25:00.006Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSPg8EqfEArFadpycCJ1EUvVSTEvtABVTo3G2WuOr8v8Zt2WAfQkejzgi4mm4ksEhXqrHk6PY5XS-IfY1Dxu8yAsMrVZQbW6WCf5SZILwuprGxnQfDGE-zP040ZMCA3wKorPUXXUvpRXI/s320/cat%25C3%25B3lico_ou_carism%25C3%25A1tico_2.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSPg8EqfEArFadpycCJ1EUvVSTEvtABVTo3G2WuOr8v8Zt2WAfQkejzgi4mm4ksEhXqrHk6PY5XS-IfY1Dxu8yAsMrVZQbW6WCf5SZILwuprGxnQfDGE-zP040ZMCA3wKorPUXXUvpRXI/s1600/cat%25C3%25B3lico_ou_carism%25C3%25A1tico_2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="293" data-original-width="424" height="221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSPg8EqfEArFadpycCJ1EUvVSTEvtABVTo3G2WuOr8v8Zt2WAfQkejzgi4mm4ksEhXqrHk6PY5XS-IfY1Dxu8yAsMrVZQbW6WCf5SZILwuprGxnQfDGE-zP040ZMCA3wKorPUXXUvpRXI/s320/cat%25C3%25B3lico_ou_carism%25C3%25A1tico_2.png" width="320" /></a></div>

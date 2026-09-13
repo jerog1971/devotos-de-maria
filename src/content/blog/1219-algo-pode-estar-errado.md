@@ -1,7 +1,7 @@
 ---
 title: "Algo pode estar errado"
 date: 2021-07-20T17:01:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirpE9ab1YlcUDVVplfVuU6eoGjYzdNMHLcyYJ3GM3TbGQUois0AqmUKztYv9SrS1eEdPGNTTBgegZN0RCBH7SpusAdHDVbYEK_Bkl9ICn8CCM6Zbi9ynaaeaEpwJlffG6qHaKXTBHG6Zc/s320/fazendo+certo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirpE9ab1YlcUDVVplfVuU6eoGjYzdNMHLcyYJ3GM3TbGQUois0AqmUKztYv9SrS1eEdPGNTTBgegZN0RCBH7SpusAdHDVbYEK_Bkl9ICn8CCM6Zbi9ynaaeaEpwJlffG6qHaKXTBHG6Zc/s598/fazendo+certo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="598" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirpE9ab1YlcUDVVplfVuU6eoGjYzdNMHLcyYJ3GM3TbGQUois0AqmUKztYv9SrS1eEdPGNTTBgegZN0RCBH7SpusAdHDVbYEK_Bkl9ICn8CCM6Zbi9ynaaeaEpwJlffG6qHaKXTBHG6Zc/s320/fazendo+certo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma vida de erros e desacertos e insistentes tentativas

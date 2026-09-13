@@ -1,7 +1,7 @@
 ---
 title: "Fazer a diferença"
 date: 2018-12-20T15:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ13rLWSTZ9L21lXyoSlTJAg0CpGHP26a3gWgDv6lxoTsLFfSOARcxoU1NoUkXZmIfgeSBvzCZgRlStaFwr7vHNriUEkJgi-n9e80QCR9y5uWJJuo7rVD1ATZbkskb9T73PjXWcjn05HE/s320/fazer_a_diferen%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ13rLWSTZ9L21lXyoSlTJAg0CpGHP26a3gWgDv6lxoTsLFfSOARcxoU1NoUkXZmIfgeSBvzCZgRlStaFwr7vHNriUEkJgi-n9e80QCR9y5uWJJuo7rVD1ATZbkskb9T73PjXWcjn05HE/s1600/fazer_a_diferen%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ13rLWSTZ9L21lXyoSlTJAg0CpGHP26a3gWgDv6lxoTsLFfSOARcxoU1NoUkXZmIfgeSBvzCZgRlStaFwr7vHNriUEkJgi-n9e80QCR9y5uWJJuo7rVD1ATZbkskb9T73PjXWcjn05HE/s320/fazer_a_diferen%25C3%25A7a.png" width="320" height="310" data-original-width="490" data-original-height="474" /></a></div>

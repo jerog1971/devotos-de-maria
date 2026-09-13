@@ -1,7 +1,7 @@
 ---
 title: "Jesus concordaria com o atual magistério da igreja?"
 date: 2020-04-01T20:17:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnWg336-3KSbqoc7NpstLFyL52QlPuIuXfvfg9RmpOXiA8Pc4EWstWngIaVmyn8QOZkP-ll1KDQ4eclJysM0JT3ifS8Q_krcrKI0pR2cYuRrgUhPuD9XfEUyk6qQp826kFklCsTmeKkA/s320/sucess%25C3%25A3o_apost%25C3%25B3lica.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnWg336-3KSbqoc7NpstLFyL52QlPuIuXfvfg9RmpOXiA8Pc4EWstWngIaVmyn8QOZkP-ll1KDQ4eclJysM0JT3ifS8Q_krcrKI0pR2cYuRrgUhPuD9XfEUyk6qQp826kFklCsTmeKkA/s1600/sucess%25C3%25A3o_apost%25C3%25B3lica.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="284" data-original-width="328" height="277" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnWg336-3KSbqoc7NpstLFyL52QlPuIuXfvfg9RmpOXiA8Pc4EWstWngIaVmyn8QOZkP-ll1KDQ4eclJysM0JT3ifS8Q_krcrKI0pR2cYuRrgUhPuD9XfEUyk6qQp826kFklCsTmeKkA/s320/sucess%25C3%25A3o_apost%25C3%25B3lica.png" width="320" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Tudo é horrível"
 date: 2021-06-16T15:43:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitg6FE_hU3ahLiyy99M5pN7hTfnCxgoLP9YUG6WRZKub9gd-Bq5gIN1BafAXgxiRMyrTiAhOCq8EENylt6f88PRVugCwFE5qPWOf2wRxLIeaYtNBCUXS0XsYg6C6RG42vDhMl8-HOGdUA/s320/horr%25C3%25ADvel.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitg6FE_hU3ahLiyy99M5pN7hTfnCxgoLP9YUG6WRZKub9gd-Bq5gIN1BafAXgxiRMyrTiAhOCq8EENylt6f88PRVugCwFE5qPWOf2wRxLIeaYtNBCUXS0XsYg6C6RG42vDhMl8-HOGdUA/s611/horr%25C3%25ADvel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="611" data-original-width="611" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitg6FE_hU3ahLiyy99M5pN7hTfnCxgoLP9YUG6WRZKub9gd-Bq5gIN1BafAXgxiRMyrTiAhOCq8EENylt6f88PRVugCwFE5qPWOf2wRxLIeaYtNBCUXS0XsYg6C6RG42vDhMl8-HOGdUA/s320/horr%25C3%25ADvel.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos sinônimos se encaixam no adjetivo horrível: horrendo,

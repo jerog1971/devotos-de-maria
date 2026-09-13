@@ -1,7 +1,7 @@
 ---
 title: "A verdadeira aparência do mal"
 date: 2022-01-05T00:10:00Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEjNUuBOiMgUwpcTdYcGRdsKyLKVg_9YBx6l6BhDf7AibpTyT2rsCxW5onmM4Q2zByjM-wntzaDkFP3URNUeJOxVmdMx2fbeR6OhsiQyuVlEvD1f9exNFv4DqlEFfHk6w7gNbRgcJ8cc0pruveLSw2-FtjgpqF88jmtYP_CRKReJZ4F-u4Gp9Gw1h0AT"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjNUuBOiMgUwpcTdYcGRdsKyLKVg_9YBx6l6BhDf7AibpTyT2rsCxW5onmM4Q2zByjM-wntzaDkFP3URNUeJOxVmdMx2fbeR6OhsiQyuVlEvD1f9exNFv4DqlEFfHk6w7gNbRgcJ8cc0pruveLSw2-FtjgpqF88jmtYP_CRKReJZ4F-u4Gp9Gw1h0AT=s244" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="244" data-original-width="239" height="244" src="https://blogger.googleusercontent.com/img/a/AVvXsEjNUuBOiMgUwpcTdYcGRdsKyLKVg_9YBx6l6BhDf7AibpTyT2rsCxW5onmM4Q2zByjM-wntzaDkFP3URNUeJOxVmdMx2fbeR6OhsiQyuVlEvD1f9exNFv4DqlEFfHk6w7gNbRgcJ8cc0pruveLSw2-FtjgpqF88jmtYP_CRKReJZ4F-u4Gp9Gw1h0AT" width="239" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mal comete seus erros e coloca sobre estes uma aparência

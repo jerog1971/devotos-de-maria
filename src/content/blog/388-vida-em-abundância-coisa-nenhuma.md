@@ -1,7 +1,7 @@
 ---
 title: "Vida em abundância coisa nenhuma"
 date: 2018-01-24T19:22:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHxG-nc3i2h50n7IOPn9B4gDX99A7IcHWtlbV23OnQ6WNlm_FOlrUmNWyfuff1Fpxmtch8qhnuY9O55KF2fl6ZtHgAY5YIBxLroOdcoc5R64UGISr77wJILy_OVuwC_7TGBCQdhBgpSo8/s320/Ant%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHxG-nc3i2h50n7IOPn9B4gDX99A7IcHWtlbV23OnQ6WNlm_FOlrUmNWyfuff1Fpxmtch8qhnuY9O55KF2fl6ZtHgAY5YIBxLroOdcoc5R64UGISr77wJILy_OVuwC_7TGBCQdhBgpSo8/s1600/Ant%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="295" data-original-width="292" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHxG-nc3i2h50n7IOPn9B4gDX99A7IcHWtlbV23OnQ6WNlm_FOlrUmNWyfuff1Fpxmtch8qhnuY9O55KF2fl6ZtHgAY5YIBxLroOdcoc5R64UGISr77wJILy_OVuwC_7TGBCQdhBgpSo8/s320/Ant%25C3%25A3o.png" width="317" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Muita gente passa pela tentação de achar que por serem filhos de Deus, todo poderoso e misericordioso, estão isentas de passarem por coisas ruins. Fazem uma associação com uma paternidade que procura dar do bom e do melhor para seu filho e lhe poupar sempre que possível das agruras da vida. Existem várias, mas várias passagens bíblicas que aparentemente se contradizem na prática. As pessoas não conseguem associar, vamos colocar assim, a ruindade de Deus, com o mesmo Deus facilmente associado com sua bondade.

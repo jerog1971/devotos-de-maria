@@ -1,7 +1,7 @@
 ---
 title: "O vô José"
 date: 2016-06-29T13:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqtoyZqErh-S0j56LChAeJhJwKWBWidL9oy1zVF4_Lt7olD98XaFxyLUhJiwxMo_iyn9JYq75JvRYD9bxq9JEJw50RRjA-pTv1y-AaY7jnxKYecg-tkY8_tsrtI4ORF_jcp_o2OSDIIfI/s320/v%25C3%25B4_Jos%25C3%25A9.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqtoyZqErh-S0j56LChAeJhJwKWBWidL9oy1zVF4_Lt7olD98XaFxyLUhJiwxMo_iyn9JYq75JvRYD9bxq9JEJw50RRjA-pTv1y-AaY7jnxKYecg-tkY8_tsrtI4ORF_jcp_o2OSDIIfI/s1600/v%25C3%25B4_Jos%25C3%25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqtoyZqErh-S0j56LChAeJhJwKWBWidL9oy1zVF4_Lt7olD98XaFxyLUhJiwxMo_iyn9JYq75JvRYD9bxq9JEJw50RRjA-pTv1y-AaY7jnxKYecg-tkY8_tsrtI4ORF_jcp_o2OSDIIfI/s320/v%25C3%25B4_Jos%25C3%25A9.png" width="319" height="320" data-original-width="377" data-original-height="378" /></a></div>

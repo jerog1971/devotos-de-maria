@@ -1,7 +1,7 @@
 ---
 title: "A mensagem do silêncio"
 date: 2021-02-12T15:54:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5C6znxncF7c_xD6csgnZZFZOyDJ2W2CLaJy05OwiTXZ93OOGh-snej8AqjzHwx5jH2Ki2QWLGFYXKdUJX-zvrT9cvZldEK_fE9XhlUBjsjx8hr9tq34J09ZAdFQnth-jSM_1vXP34Sro/s320/ser_crist%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5C6znxncF7c_xD6csgnZZFZOyDJ2W2CLaJy05OwiTXZ93OOGh-snej8AqjzHwx5jH2Ki2QWLGFYXKdUJX-zvrT9cvZldEK_fE9XhlUBjsjx8hr9tq34J09ZAdFQnth-jSM_1vXP34Sro/s381/ser_crist%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="248" data-original-width="381" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5C6znxncF7c_xD6csgnZZFZOyDJ2W2CLaJy05OwiTXZ93OOGh-snej8AqjzHwx5jH2Ki2QWLGFYXKdUJX-zvrT9cvZldEK_fE9XhlUBjsjx8hr9tq34J09ZAdFQnth-jSM_1vXP34Sro/s320/ser_crist%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ficar quieto e não fazer nada são coisas completamente

@@ -1,7 +1,7 @@
 ---
 title: "O teste da Fé"
 date: 2016-11-23T15:46:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuAdgNmVjnEJd5H12B51rJfYowshuOqXI8JzPaSaSQukGpjeDQmf084KqoGx-c76mP3tbzuo8gvYE3FJvYzWGlu5FmOmHO3ujdmE49v6gBORL1kt8bDKS96Sm72jci6yhqVNIm10psGt4/s320/f%25C3%25A9.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuAdgNmVjnEJd5H12B51rJfYowshuOqXI8JzPaSaSQukGpjeDQmf084KqoGx-c76mP3tbzuo8gvYE3FJvYzWGlu5FmOmHO3ujdmE49v6gBORL1kt8bDKS96Sm72jci6yhqVNIm10psGt4/s1600/f%25C3%25A9.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="459" height="281" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuAdgNmVjnEJd5H12B51rJfYowshuOqXI8JzPaSaSQukGpjeDQmf084KqoGx-c76mP3tbzuo8gvYE3FJvYzWGlu5FmOmHO3ujdmE49v6gBORL1kt8bDKS96Sm72jci6yhqVNIm10psGt4/s320/f%25C3%25A9.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Como bem sabemos não nos é possível compreendermos todo o alcance dos desígnios de Deus para com suas criaturas. Não nos é possível atingir a plena compreensão do querer divino e sobre isso já nos atesta Nossa Senhora em suas aparições quando diz que “no céu tudo vos será revelado”. E também sobre isso, nos confortam as sagradas escrituras em Deuteronômio 29,29 onde se lê que “o que está oculto pertence ao Senhor, nosso Deus; o que foi revelado é para nós e para nossos filhos, para sempre, a fim de que ponhamos em prática todas as palavras desta lei”.

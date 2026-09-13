@@ -1,7 +1,7 @@
 ---
 title: "A depressão na bíblia"
 date: 2016-08-26T17:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginbQ9MdQgZJAl4gvM8sAf40wXsbNFUSWJmoi4sv49yX4G2OJPy7s21kHCfEWrCm6GwVEaugRU5sjHxz8kWawbliud5YMSzv6NvBJDvc7BF2DRrQa_VJeygKGnikHlQ1rvEYo6g7Dy3z4/s320/depress%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginbQ9MdQgZJAl4gvM8sAf40wXsbNFUSWJmoi4sv49yX4G2OJPy7s21kHCfEWrCm6GwVEaugRU5sjHxz8kWawbliud5YMSzv6NvBJDvc7BF2DRrQa_VJeygKGnikHlQ1rvEYo6g7Dy3z4/s1600/depress%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="259" data-original-width="393" height="211" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginbQ9MdQgZJAl4gvM8sAf40wXsbNFUSWJmoi4sv49yX4G2OJPy7s21kHCfEWrCm6GwVEaugRU5sjHxz8kWawbliud5YMSzv6NvBJDvc7BF2DRrQa_VJeygKGnikHlQ1rvEYo6g7Dy3z4/s320/depress%25C3%25A3o.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Olá caros leitores, sejam sempre bem-vindos. Neste artigo iremos refletir um pouco, com um olhar religioso católico, sobre o tema da depressão que até já recebeu o título de “mal do século XX”. Será que a sagrada escritura tem algo a nos dizer sobre isso? Vejamos:

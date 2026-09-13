@@ -1,7 +1,7 @@
 ---
 title: "Comunhão"
 date: 2019-05-15T17:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzScbtx3qzEd3-84vFTyAilHO8UdLq_0MZCgbriRCCpvKa3kQb2Nnw78jjpoOPYFPqZASu9geyrX8yOrlIsjog2GvtcXqOoQhcsLrNYBHh9DbATg0Pay0dNf4UQpmHOJ7D-lOG0WqOqdI/s320/comunh%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <!DOCTYPE html>

@@ -1,7 +1,7 @@
 ---
 title: "Como você está convivendo com sua irritação?"
 date: 2019-07-03T15:32:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyP6nkl2l9GDOsi6jv_0QFwpSonpaszhoOCsYkWdDiW5ISRwGuoHayQe0xuIooWL1fhUREgmHiRFYmw-K0q8yVJeB8eJPeKI7Y8KoWW9iCfn7LVW3r-m9wed3cwXPh8OpJLgRqkWhBt7g/s320/irrita%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyP6nkl2l9GDOsi6jv_0QFwpSonpaszhoOCsYkWdDiW5ISRwGuoHayQe0xuIooWL1fhUREgmHiRFYmw-K0q8yVJeB8eJPeKI7Y8KoWW9iCfn7LVW3r-m9wed3cwXPh8OpJLgRqkWhBt7g/s1600/irrita%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyP6nkl2l9GDOsi6jv_0QFwpSonpaszhoOCsYkWdDiW5ISRwGuoHayQe0xuIooWL1fhUREgmHiRFYmw-K0q8yVJeB8eJPeKI7Y8KoWW9iCfn7LVW3r-m9wed3cwXPh8OpJLgRqkWhBt7g/s320/irrita%25C3%25A7%25C3%25A3o.png" width="320" height="289" data-original-width="311" data-original-height="281" /></a></div>

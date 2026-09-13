@@ -1,7 +1,7 @@
 ---
 title: "Comunhão liberada no domingo de Páscoa"
 date: 2020-04-10T00:48:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzpBR3qeS2ni8bE5fP3T66ZqGKwxfGO3P5d5rTx9ILwG4m1Cs9mwcgAQ_50fDOj1z6ZlTEp99HgeONg4a2Z-B8JdYqT1JogK4W3nH5Eh137Qw21dl2sJmhYOUFntfA54xd4382lTk-qJo/s320/comunh%25C3%25A3o_na_pascoa.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzpBR3qeS2ni8bE5fP3T66ZqGKwxfGO3P5d5rTx9ILwG4m1Cs9mwcgAQ_50fDOj1z6ZlTEp99HgeONg4a2Z-B8JdYqT1JogK4W3nH5Eh137Qw21dl2sJmhYOUFntfA54xd4382lTk-qJo/s1600/comunh%25C3%25A3o_na_pascoa.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="352" data-original-width="483" height="233" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzpBR3qeS2ni8bE5fP3T66ZqGKwxfGO3P5d5rTx9ILwG4m1Cs9mwcgAQ_50fDOj1z6ZlTEp99HgeONg4a2Z-B8JdYqT1JogK4W3nH5Eh137Qw21dl2sJmhYOUFntfA54xd4382lTk-qJo/s320/comunh%25C3%25A3o_na_pascoa.png" width="320" /></a></div>Na cidade em moro, após o clamor de muitos, o arcebispo da arquidiocese liberou aos fiéis a comunhão eucarística no dia de Páscoa. Atendendo como no início do mês passado as deliberações das autoridades sanitárias e demais recomendações da organização mundial de saúde, somente algumas paróquias, que possuem condições físicas para tal, poderão oferecer o sacramento.

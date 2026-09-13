@@ -1,7 +1,7 @@
 ---
 title: "O único jeito de conseguir o impossível é acreditando que é possível"
 date: 2018-07-09T15:13:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZiAQE6snyYGC2gGXLsG1PMNmPsqQ5MKHdcDr5RUvcPuTBOM6JNzDVlEAnFWjozw7Tfakwj6IvChztfZdc5mgZ89fZOhCewmDSC5nWXoCCl2XoqaPS8uXtQHuSFGkqLt0vxOKN8XuQAps/s320/imposs%25C3%25ADvel.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZiAQE6snyYGC2gGXLsG1PMNmPsqQ5MKHdcDr5RUvcPuTBOM6JNzDVlEAnFWjozw7Tfakwj6IvChztfZdc5mgZ89fZOhCewmDSC5nWXoCCl2XoqaPS8uXtQHuSFGkqLt0vxOKN8XuQAps/s1600/imposs%25C3%25ADvel.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="506" data-original-width="543" height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZiAQE6snyYGC2gGXLsG1PMNmPsqQ5MKHdcDr5RUvcPuTBOM6JNzDVlEAnFWjozw7Tfakwj6IvChztfZdc5mgZ89fZOhCewmDSC5nWXoCCl2XoqaPS8uXtQHuSFGkqLt0vxOKN8XuQAps/s320/imposs%25C3%25ADvel.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Pessoal, sejam sempre bem-vindos ao site, hoje, mais uma vez esta pequena reflexão paira na afirmação bíblica proferida pela boca de Jesus de que Deus Pai é o Deus do impossível. Se pararmos para meditar um pouco na expressão impossível dentro do contexto de nossas vidas, iremos perceber que algumas coisas que no passado eram tidas como impossíveis, hoje não o são mais. Entre estas algumas deixaram de ser porque mais conhecimento foi agregado. Exemplos? Vamos a eles, sempre são elucidativos.

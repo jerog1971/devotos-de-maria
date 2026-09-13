@@ -1,7 +1,7 @@
 ---
 title: "Atração Física Desordenada"
 date: 2018-11-28T17:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYixOjFWyNyDSqlHqrbkM1ZEqfz5tHEGL7X4buIMyvfkIKmaSCWpf5Rn9khqFaq6N-FCkuja3BOVtcaZftnMG2n9E8DWIBvOhuvDj3Jf8nfXU_x81NvsEdnzXH_ibwZMP7t3ZSB_YCgk/s320/atra%25C3%25A7%25C3%25A3o_f%25C3%25ADsica_desordenada.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYixOjFWyNyDSqlHqrbkM1ZEqfz5tHEGL7X4buIMyvfkIKmaSCWpf5Rn9khqFaq6N-FCkuja3BOVtcaZftnMG2n9E8DWIBvOhuvDj3Jf8nfXU_x81NvsEdnzXH_ibwZMP7t3ZSB_YCgk/s1600/atra%25C3%25A7%25C3%25A3o_f%25C3%25ADsica_desordenada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYixOjFWyNyDSqlHqrbkM1ZEqfz5tHEGL7X4buIMyvfkIKmaSCWpf5Rn9khqFaq6N-FCkuja3BOVtcaZftnMG2n9E8DWIBvOhuvDj3Jf8nfXU_x81NvsEdnzXH_ibwZMP7t3ZSB_YCgk/s320/atra%25C3%25A7%25C3%25A3o_f%25C3%25ADsica_desordenada.png" width="320" height="293" data-original-width="518" data-original-height="475" /></a></div>

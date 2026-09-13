@@ -1,7 +1,7 @@
 ---
 title: "Leve a sério, cuide da sua vida"
 date: 2020-04-12T17:55:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHf2sW9mflnrJF_YKZU0t3vGMr2PAjEvwr2Ykf5kC0ZVYBWR0E618j6J7zDZ8kb6ZP1i-tX37guLsxado9Hz65CKFA5GZ0JUKp2FLSQlxUtCIsa9wLy12kNu_YsFWHWLcm7iH10jZz7cY/s320/corrim%25C3%25A3o_contaminado.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHf2sW9mflnrJF_YKZU0t3vGMr2PAjEvwr2Ykf5kC0ZVYBWR0E618j6J7zDZ8kb6ZP1i-tX37guLsxado9Hz65CKFA5GZ0JUKp2FLSQlxUtCIsa9wLy12kNu_YsFWHWLcm7iH10jZz7cY/s1600/corrim%25C3%25A3o_contaminado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHf2sW9mflnrJF_YKZU0t3vGMr2PAjEvwr2Ykf5kC0ZVYBWR0E618j6J7zDZ8kb6ZP1i-tX37guLsxado9Hz65CKFA5GZ0JUKp2FLSQlxUtCIsa9wLy12kNu_YsFWHWLcm7iH10jZz7cY/s320/corrim%25C3%25A3o_contaminado.png" width="320" height="213" data-original-width="367" data-original-height="244" /></a></div>

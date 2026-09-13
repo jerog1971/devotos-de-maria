@@ -1,7 +1,7 @@
 ---
 title: "As duras lições da vida"
 date: 2022-02-04T00:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEgYIe9fbIh4ahNwP_zAZSmki6cUSGLTV7xidw5e0igW0Qr7Ni4sOPxq9MhJhEaePMGyGBqabENvugrHYnZzBWYWX8qNcByU2JGg_GHgYyS28W1u0Z76AKmGBUariw4SuNJuvCjm_qRB0QXO8fkJy2qkWfRNaYdbitReJUR76ZyRrVZrQ31o1MKTA95Y=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgYIe9fbIh4ahNwP_zAZSmki6cUSGLTV7xidw5e0igW0Qr7Ni4sOPxq9MhJhEaePMGyGBqabENvugrHYnZzBWYWX8qNcByU2JGg_GHgYyS28W1u0Z76AKmGBUariw4SuNJuvCjm_qRB0QXO8fkJy2qkWfRNaYdbitReJUR76ZyRrVZrQ31o1MKTA95Y=s480" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="480" height="202" src="https://blogger.googleusercontent.com/img/a/AVvXsEgYIe9fbIh4ahNwP_zAZSmki6cUSGLTV7xidw5e0igW0Qr7Ni4sOPxq9MhJhEaePMGyGBqabENvugrHYnZzBWYWX8qNcByU2JGg_GHgYyS28W1u0Z76AKmGBUariw4SuNJuvCjm_qRB0QXO8fkJy2qkWfRNaYdbitReJUR76ZyRrVZrQ31o1MKTA95Y=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O céu está a uma distância de uma vida. Todavia, não é uma

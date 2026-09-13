@@ -1,7 +1,7 @@
 ---
 title: "Graças sempre, consolação..."
 date: 2020-11-09T14:34:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPNKD1lArN0X3jDbE9wO6rx2upAAKgFUVjcBiPvmlEfTnNai8fw3a_mOQctMSXJgQ9y28QAGRzkBz4FBIFWvn1wBapn1IbPosaeN2Ox2NighKQJLbX-bGg6ma_xcDFNW2mmpz6O8JquI/s0/ora%25C3%25A7%25C3%25A3o3.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPNKD1lArN0X3jDbE9wO6rx2upAAKgFUVjcBiPvmlEfTnNai8fw3a_mOQctMSXJgQ9y28QAGRzkBz4FBIFWvn1wBapn1IbPosaeN2Ox2NighKQJLbX-bGg6ma_xcDFNW2mmpz6O8JquI/s297/ora%25C3%25A7%25C3%25A3o3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="297" data-original-width="281" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPNKD1lArN0X3jDbE9wO6rx2upAAKgFUVjcBiPvmlEfTnNai8fw3a_mOQctMSXJgQ9y28QAGRzkBz4FBIFWvn1wBapn1IbPosaeN2Ox2NighKQJLbX-bGg6ma_xcDFNW2mmpz6O8JquI/s0/ora%25C3%25A7%25C3%25A3o3.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A experiência do título deste artigo arrisco dizer que já

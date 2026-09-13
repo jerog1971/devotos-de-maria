@@ -1,7 +1,7 @@
 ---
 title: "Os seguidores de Nestório"
 date: 2016-07-20T11:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFr7mk3XikQHa7UeQ52KwAFaANDVZtkVx1IyBB1HHLzJFQSCZfER59pZVWUYohva3sZ-bZjf_VyrHsrA4PLJKl57K8q9InTELZgXPn-s72DtvBiewnDFGYun3sWSgx3QxPClCYAiO4mWY/s320/nest%25C3%25B3rio.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFr7mk3XikQHa7UeQ52KwAFaANDVZtkVx1IyBB1HHLzJFQSCZfER59pZVWUYohva3sZ-bZjf_VyrHsrA4PLJKl57K8q9InTELZgXPn-s72DtvBiewnDFGYun3sWSgx3QxPClCYAiO4mWY/s1600/nest%25C3%25B3rio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFr7mk3XikQHa7UeQ52KwAFaANDVZtkVx1IyBB1HHLzJFQSCZfER59pZVWUYohva3sZ-bZjf_VyrHsrA4PLJKl57K8q9InTELZgXPn-s72DtvBiewnDFGYun3sWSgx3QxPClCYAiO4mWY/s320/nest%25C3%25B3rio.png" width="320" height="319" data-original-width="354" data-original-height="353" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "A graça da doença terminal"
 date: 2018-09-28T20:33:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVtNcl0tLxkOiow4UDO16-egKlLPE8Ebj22ZGN5Y7ki4t2y-jt2Y5QHCXAbWmBhHQO_7z6x4K_uLC-FLcIdGaPjfm-H31p1nCKgqoOLd9jO1HuSG07RAE_Df9UjczGrTfAUfIG_IcVvUc/s320/doen%25C3%25A7a_terminal.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVtNcl0tLxkOiow4UDO16-egKlLPE8Ebj22ZGN5Y7ki4t2y-jt2Y5QHCXAbWmBhHQO_7z6x4K_uLC-FLcIdGaPjfm-H31p1nCKgqoOLd9jO1HuSG07RAE_Df9UjczGrTfAUfIG_IcVvUc/s1600/doen%25C3%25A7a_terminal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVtNcl0tLxkOiow4UDO16-egKlLPE8Ebj22ZGN5Y7ki4t2y-jt2Y5QHCXAbWmBhHQO_7z6x4K_uLC-FLcIdGaPjfm-H31p1nCKgqoOLd9jO1HuSG07RAE_Df9UjczGrTfAUfIG_IcVvUc/s320/doen%25C3%25A7a_terminal.png" width="320" height="311" data-original-width="515" data-original-height="500" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Confissão"
 date: 2019-05-17T17:33:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt3qeULxWZX5d5TXZKQD3UmuRsZkM7Zy6MSubn4oy1Pi0Udqo3R8P8e204FTlLBtEk_Sb9P51cbErjaWLRuJZPArq_7EtSC1lcvUuwlsArD728XTmcTM_IWAzg_FkdP_VuxRQ3SGP3bkw/s200/confiss%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div style="position:relative;width:100%;height:0;padding-bottom:56.2%;"><iframe src="https://gloria.tv/embed/+/video/yP47xuSVnSQu34GqK1SMCUiuU" width="768" height="432" frameborder="0" scrolling="no" allowfullscreen style="position:absolute;top:0;right:0;bottom:0;left:0;height:100%;width:100%;"></iframe></div>

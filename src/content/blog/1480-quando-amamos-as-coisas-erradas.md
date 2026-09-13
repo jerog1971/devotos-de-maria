@@ -1,7 +1,7 @@
 ---
 title: "Quando amamos as coisas erradas"
 date: 2021-12-08T15:37:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhdcNHwZ1MH5rUZk-5vjW2UaekXNq-ctyfKgwQ8nPDksVXNI29AQ4BKvQDRfD5GfYABe3ZYS4dVjoAgU4WXi58v1GWQNqbwBv2UBFSxDrD5YUOLYx3bw7Ofjs_8LcBAqCx7WEExA9qDN4YOl7bfrgkndzYGzxEGMfLlaMZCiIgebeBDDsjePQOv_wbZ"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhdcNHwZ1MH5rUZk-5vjW2UaekXNq-ctyfKgwQ8nPDksVXNI29AQ4BKvQDRfD5GfYABe3ZYS4dVjoAgU4WXi58v1GWQNqbwBv2UBFSxDrD5YUOLYx3bw7Ofjs_8LcBAqCx7WEExA9qDN4YOl7bfrgkndzYGzxEGMfLlaMZCiIgebeBDDsjePQOv_wbZ=s200" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="200" data-original-width="177" height="200" src="https://blogger.googleusercontent.com/img/a/AVvXsEhdcNHwZ1MH5rUZk-5vjW2UaekXNq-ctyfKgwQ8nPDksVXNI29AQ4BKvQDRfD5GfYABe3ZYS4dVjoAgU4WXi58v1GWQNqbwBv2UBFSxDrD5YUOLYx3bw7Ofjs_8LcBAqCx7WEExA9qDN4YOl7bfrgkndzYGzxEGMfLlaMZCiIgebeBDDsjePQOv_wbZ" width="177" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossos sentimentos travam uma verdadeira batalha conosco,

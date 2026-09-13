@@ -1,7 +1,7 @@
 ---
 title: "As orações em comunhão"
 date: 2021-05-14T13:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxxs_TGBkUwygLt9gpTQHEY5c9m4eQsG6TxIuUatT5FEFWf9m82ZQ-eenxaSelUuSQ8Y1_i52ukI8QXdEeVWQdHxT1nEu8a7MKsupn95SP5lwxsB-kXdb9c315fF37htQxwSm4QrGugEs/s0/ora%25C3%25A7%25C3%25A3o+em+comunh%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxxs_TGBkUwygLt9gpTQHEY5c9m4eQsG6TxIuUatT5FEFWf9m82ZQ-eenxaSelUuSQ8Y1_i52ukI8QXdEeVWQdHxT1nEu8a7MKsupn95SP5lwxsB-kXdb9c315fF37htQxwSm4QrGugEs/s311/ora%25C3%25A7%25C3%25A3o+em+comunh%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="311" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxxs_TGBkUwygLt9gpTQHEY5c9m4eQsG6TxIuUatT5FEFWf9m82ZQ-eenxaSelUuSQ8Y1_i52ukI8QXdEeVWQdHxT1nEu8a7MKsupn95SP5lwxsB-kXdb9c315fF37htQxwSm4QrGugEs/s0/ora%25C3%25A7%25C3%25A3o+em+comunh%25C3%25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os filhos de Deus vivem uma vida na esteira da corrente das

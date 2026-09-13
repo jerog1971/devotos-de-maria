@@ -1,7 +1,7 @@
 ---
 title: "Na saúde e na doença"
 date: 2021-05-24T10:39:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkKI4C52hyPgC6cREG6n6td-ntG0Nj-oUgCYXO-vBcHLUnP0P1TOIjjEbeF97wqxCoH8Qcpmkw62BCW1zURDVN3YreSBE6bgq9zbcd7UD1ZS3o3QOnuqJiSjlkQVHlq4HvI5DBQE-DaAs/s0/doen%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkKI4C52hyPgC6cREG6n6td-ntG0Nj-oUgCYXO-vBcHLUnP0P1TOIjjEbeF97wqxCoH8Qcpmkw62BCW1zURDVN3YreSBE6bgq9zbcd7UD1ZS3o3QOnuqJiSjlkQVHlq4HvI5DBQE-DaAs/s302/doen%25C3%25A7a.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkKI4C52hyPgC6cREG6n6td-ntG0Nj-oUgCYXO-vBcHLUnP0P1TOIjjEbeF97wqxCoH8Qcpmkw62BCW1zURDVN3YreSBE6bgq9zbcd7UD1ZS3o3QOnuqJiSjlkQVHlq4HvI5DBQE-DaAs/s0/doen%25C3%25A7a.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na saúde é fácil agradecer a Deus por ela, parece que o bondoso

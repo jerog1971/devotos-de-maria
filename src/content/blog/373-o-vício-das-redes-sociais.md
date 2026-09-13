@@ -1,7 +1,7 @@
 ---
 title: "O vício das redes sociais"
 date: 2019-02-06T19:12:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBA6Ok08VYe9tN81s6kEbWaROhACYVgZ5-hzCzUziyr1uCAA2IOEYqx5cajRAQxKbq4hMpSQiSIFtAwW4eBB9Jz4thRL6dy89_DRrof9mIcoWS7tbeiQrsx8lK6bgv38irnm2_NMpLaQE/s320/v%25C3%25ADcio_nas_redes_sociais.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBA6Ok08VYe9tN81s6kEbWaROhACYVgZ5-hzCzUziyr1uCAA2IOEYqx5cajRAQxKbq4hMpSQiSIFtAwW4eBB9Jz4thRL6dy89_DRrof9mIcoWS7tbeiQrsx8lK6bgv38irnm2_NMpLaQE/s1600/v%25C3%25ADcio_nas_redes_sociais.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBA6Ok08VYe9tN81s6kEbWaROhACYVgZ5-hzCzUziyr1uCAA2IOEYqx5cajRAQxKbq4hMpSQiSIFtAwW4eBB9Jz4thRL6dy89_DRrof9mIcoWS7tbeiQrsx8lK6bgv38irnm2_NMpLaQE/s320/v%25C3%25ADcio_nas_redes_sociais.png" width="320" height="294" data-original-width="436" data-original-height="400" /></a></div>

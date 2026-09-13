@@ -1,7 +1,7 @@
 ---
 title: "Sedes como crianças"
 date: 2020-08-18T17:33:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0TGY0DaD5h2xmgijK2EuSQIhIxUKw-b8sZcahDZbjRN8yoH_nPXG9T4rxM-jrdWjPxs2CY0sATo0HM3cBIRtDRjuylnmK-yMSviAV5f6DpaozJe3iMqUHYy9d_c-LYcZcn_pmunIigtY/w384-h512/m%25C3%25A3e+e+filho.jpg"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0TGY0DaD5h2xmgijK2EuSQIhIxUKw-b8sZcahDZbjRN8yoH_nPXG9T4rxM-jrdWjPxs2CY0sATo0HM3cBIRtDRjuylnmK-yMSviAV5f6DpaozJe3iMqUHYy9d_c-LYcZcn_pmunIigtY/s1040/m%25C3%25A3e+e+filho.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1040" data-original-width="780" height="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0TGY0DaD5h2xmgijK2EuSQIhIxUKw-b8sZcahDZbjRN8yoH_nPXG9T4rxM-jrdWjPxs2CY0sATo0HM3cBIRtDRjuylnmK-yMSviAV5f6DpaozJe3iMqUHYy9d_c-LYcZcn_pmunIigtY/w384-h512/m%25C3%25A3e+e+filho.jpg" width="384" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">1ª Pedro 2,1-4 – “Deponde, pois, toda malícia, toda astúcia,

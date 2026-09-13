@@ -1,7 +1,7 @@
 ---
 title: "A Virtude da Temperança"
 date: 2017-05-17T17:03:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBdGthqweja0E4WhPFK5Gfk0MHvEwslpWtFXFJvD789MphuLx4vE1Y51GR9gqoerrZl7bans1DUc-9V-6jzV03CuEePWflmJwBpYgPD3s1FmLXbJI7-XjXtLFq_jRP8XJzwaM-1ZAXEHk/s320/temperan%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBdGthqweja0E4WhPFK5Gfk0MHvEwslpWtFXFJvD789MphuLx4vE1Y51GR9gqoerrZl7bans1DUc-9V-6jzV03CuEePWflmJwBpYgPD3s1FmLXbJI7-XjXtLFq_jRP8XJzwaM-1ZAXEHk/s1600/temperan%25C3%25A7a.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="196" data-original-width="235" height="267" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBdGthqweja0E4WhPFK5Gfk0MHvEwslpWtFXFJvD789MphuLx4vE1Y51GR9gqoerrZl7bans1DUc-9V-6jzV03CuEePWflmJwBpYgPD3s1FmLXbJI7-XjXtLFq_jRP8XJzwaM-1ZAXEHk/s320/temperan%25C3%25A7a.png" width="320" /></a></div>

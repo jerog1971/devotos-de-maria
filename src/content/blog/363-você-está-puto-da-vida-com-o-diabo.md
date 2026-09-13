@@ -1,7 +1,7 @@
 ---
 title: "Você está puto da vida com o diabo?"
 date: 2019-06-24T19:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj91GM1PcVexTXz70TH_pck9VptAW3LgdAqFwK55cJkwo12foiFK9f_eG9GxTea1WA9a8kfwhcRS_aZeBfZmjkmgjyMPWU9EK93EhbJDz-zlwfZcVMFw6YvFm_BxbrQyriYXZCgpvui9aw/s320/lev%25C3%25ADtico_20%252C13.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj91GM1PcVexTXz70TH_pck9VptAW3LgdAqFwK55cJkwo12foiFK9f_eG9GxTea1WA9a8kfwhcRS_aZeBfZmjkmgjyMPWU9EK93EhbJDz-zlwfZcVMFw6YvFm_BxbrQyriYXZCgpvui9aw/s1600/lev%25C3%25ADtico_20%252C13.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="322" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj91GM1PcVexTXz70TH_pck9VptAW3LgdAqFwK55cJkwo12foiFK9f_eG9GxTea1WA9a8kfwhcRS_aZeBfZmjkmgjyMPWU9EK93EhbJDz-zlwfZcVMFw6YvFm_BxbrQyriYXZCgpvui9aw/s320/lev%25C3%25ADtico_20%252C13.png" width="316" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Negar os Ensinamentos da Nova Aliança"
 date: 2016-08-02T12:03:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj13SPV2iI20iWrh4Kjil7idqsj5XTk1RX1Zy-6FxJ3-iC2nxo4PGdM2LX1yZd1YB09OvJ0ynTj4JTE5ybyWAxM2a4WvPiauJ9dSPxZ1kWZrRBvdA0YaLm9SKY4npMDrpVaRo_zuDvW3xg/s320/s%25C3%25A3o_paulo.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj13SPV2iI20iWrh4Kjil7idqsj5XTk1RX1Zy-6FxJ3-iC2nxo4PGdM2LX1yZd1YB09OvJ0ynTj4JTE5ybyWAxM2a4WvPiauJ9dSPxZ1kWZrRBvdA0YaLm9SKY4npMDrpVaRo_zuDvW3xg/s1600/s%25C3%25A3o_paulo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj13SPV2iI20iWrh4Kjil7idqsj5XTk1RX1Zy-6FxJ3-iC2nxo4PGdM2LX1yZd1YB09OvJ0ynTj4JTE5ybyWAxM2a4WvPiauJ9dSPxZ1kWZrRBvdA0YaLm9SKY4npMDrpVaRo_zuDvW3xg/s320/s%25C3%25A3o_paulo.png" width="320" height="309" data-original-width="497" data-original-height="480" /></a></div>

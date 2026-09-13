@@ -1,7 +1,7 @@
 ---
 title: "A podridão"
 date: 2017-05-30T18:37:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglhs2CFT1SkEAQnjNV9hmC_Oe3hNIIRTXsDJimVyFt17TX5LUWWV0umo5F1Sj1gz_D6kFblrZMWoEjc9FTSYEdK80v8H1i7uzh78WHSowV-SzDTJadl1FvIwQApqZJ8x6H8BNsRDAlSZA/s320/podrid%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglhs2CFT1SkEAQnjNV9hmC_Oe3hNIIRTXsDJimVyFt17TX5LUWWV0umo5F1Sj1gz_D6kFblrZMWoEjc9FTSYEdK80v8H1i7uzh78WHSowV-SzDTJadl1FvIwQApqZJ8x6H8BNsRDAlSZA/s1600/podrid%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="395" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglhs2CFT1SkEAQnjNV9hmC_Oe3hNIIRTXsDJimVyFt17TX5LUWWV0umo5F1Sj1gz_D6kFblrZMWoEjc9FTSYEdK80v8H1i7uzh78WHSowV-SzDTJadl1FvIwQApqZJ8x6H8BNsRDAlSZA/s320/podrid%25C3%25A3o.png" width="314" /></a></div>

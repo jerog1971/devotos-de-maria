@@ -1,7 +1,7 @@
 ---
 title: "A pedra de tropeço"
 date: 2018-07-12T15:21:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDzfzc9VMx-1f_Ie2rh5nNhQYST2Z9RZKjXy8bhyI4f1q7knqyMK8frhqb326mWIH95RLUD2iMxPNFMXapyRJaCtdyx8UTxeEUeIkbwYaA9xLLi2KvtC8a20VRNg65SX465p66kZyoz-Y/s320/trope%25C3%25A7o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDzfzc9VMx-1f_Ie2rh5nNhQYST2Z9RZKjXy8bhyI4f1q7knqyMK8frhqb326mWIH95RLUD2iMxPNFMXapyRJaCtdyx8UTxeEUeIkbwYaA9xLLi2KvtC8a20VRNg65SX465p66kZyoz-Y/s1600/trope%25C3%25A7o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDzfzc9VMx-1f_Ie2rh5nNhQYST2Z9RZKjXy8bhyI4f1q7knqyMK8frhqb326mWIH95RLUD2iMxPNFMXapyRJaCtdyx8UTxeEUeIkbwYaA9xLLi2KvtC8a20VRNg65SX465p66kZyoz-Y/s320/trope%25C3%25A7o.png" width="320" height="299" data-original-width="656" data-original-height="613" /></a></div>

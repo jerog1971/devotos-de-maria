@@ -1,7 +1,7 @@
 ---
 title: "Famílias de Deus"
 date: 2020-06-05T18:21:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvxiV8OG-PqFD-yKrFKv8ZSGXr8Ehutg9KsCdLYrGlipgBJOFaJg5H2k5I-sb9NeR4dMmy1SXMiXFz60A52mTqNqnnIzx8_CvgUYdPtHkZDTlYgjd2ft9kBs6nvCyENIIEh_59O71nTbU/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvxiV8OG-PqFD-yKrFKv8ZSGXr8Ehutg9KsCdLYrGlipgBJOFaJg5H2k5I-sb9NeR4dMmy1SXMiXFz60A52mTqNqnnIzx8_CvgUYdPtHkZDTlYgjd2ft9kBs6nvCyENIIEh_59O71nTbU/s304/catequisando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvxiV8OG-PqFD-yKrFKv8ZSGXr8Ehutg9KsCdLYrGlipgBJOFaJg5H2k5I-sb9NeR4dMmy1SXMiXFz60A52mTqNqnnIzx8_CvgUYdPtHkZDTlYgjd2ft9kBs6nvCyENIIEh_59O71nTbU/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">As verdadeiras famílias cristãs são formadas por uma união

@@ -1,7 +1,7 @@
 ---
 title: "Virar as costas"
 date: 2020-08-31T18:05:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid65Kk3AlJdEHPyu_ZsbV_HLiL2ItOrRfJDQmikR4JkC0RI4IhYOsWtYZgGrFlGoUUwyVLq1DiORWsCZIbdwBtGM3fppmKgIh_fJGWaQpPQ1FJvqXUPpFNCMpzBRm65yNwAud847XILKo/s0/virar+as+costas.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid65Kk3AlJdEHPyu_ZsbV_HLiL2ItOrRfJDQmikR4JkC0RI4IhYOsWtYZgGrFlGoUUwyVLq1DiORWsCZIbdwBtGM3fppmKgIh_fJGWaQpPQ1FJvqXUPpFNCMpzBRm65yNwAud847XILKo/s428/virar+as+costas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="428" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid65Kk3AlJdEHPyu_ZsbV_HLiL2ItOrRfJDQmikR4JkC0RI4IhYOsWtYZgGrFlGoUUwyVLq1DiORWsCZIbdwBtGM3fppmKgIh_fJGWaQpPQ1FJvqXUPpFNCMpzBRm65yNwAud847XILKo/s0/virar+as+costas.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O cristão, engajado no segmento de Jesus Cristo sabe

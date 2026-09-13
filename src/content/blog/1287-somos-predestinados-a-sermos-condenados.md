@@ -1,7 +1,7 @@
 ---
 title: "Somos predestinados a sermos condenados?"
 date: 2019-06-12T16:10:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpCnbJK-5Ima7bnPWC-grO4SO29f3ij_tArRwPJuYC1BrTWBtKudscXfI8QtHvK4aCRz3LMDhOL8UZXUN6dtbksUhFmshZ_FP-YyoxPr9R2aHerglhk6ua82i6E6w-yAoHwZqCLR29d0I/s320/justi%25C3%25A7a_divina.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpCnbJK-5Ima7bnPWC-grO4SO29f3ij_tArRwPJuYC1BrTWBtKudscXfI8QtHvK4aCRz3LMDhOL8UZXUN6dtbksUhFmshZ_FP-YyoxPr9R2aHerglhk6ua82i6E6w-yAoHwZqCLR29d0I/s1600/justi%25C3%25A7a_divina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpCnbJK-5Ima7bnPWC-grO4SO29f3ij_tArRwPJuYC1BrTWBtKudscXfI8QtHvK4aCRz3LMDhOL8UZXUN6dtbksUhFmshZ_FP-YyoxPr9R2aHerglhk6ua82i6E6w-yAoHwZqCLR29d0I/s320/justi%25C3%25A7a_divina.png" width="320" height="267" data-original-width="341" data-original-height="284" /></a></div>

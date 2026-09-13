@@ -1,7 +1,7 @@
 ---
 title: "Má confissão"
 date: 2015-09-24T14:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLJgoXelC9BmGbYP-umTQ1RlTt06s6-sxoSAuddmtXQoOCtvfWuEDTrvWzu1QT_-BdM7_pRO9_N3EEJfskGDXEJP3FYQj0gMThpCqLEva4AOC7o3RuGvZhqZOBUVkQ-XwoxoPOpXearZY/s320/m%25C3%25A1_confiss%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLJgoXelC9BmGbYP-umTQ1RlTt06s6-sxoSAuddmtXQoOCtvfWuEDTrvWzu1QT_-BdM7_pRO9_N3EEJfskGDXEJP3FYQj0gMThpCqLEva4AOC7o3RuGvZhqZOBUVkQ-XwoxoPOpXearZY/s1600/m%25C3%25A1_confiss%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLJgoXelC9BmGbYP-umTQ1RlTt06s6-sxoSAuddmtXQoOCtvfWuEDTrvWzu1QT_-BdM7_pRO9_N3EEJfskGDXEJP3FYQj0gMThpCqLEva4AOC7o3RuGvZhqZOBUVkQ-XwoxoPOpXearZY/s320/m%25C3%25A1_confiss%25C3%25A3o.png" width="242" height="320" data-original-width="318" data-original-height="420" /></a></div>

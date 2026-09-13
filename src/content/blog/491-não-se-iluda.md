@@ -1,7 +1,7 @@
 ---
 title: "Não se iluda"
 date: 2019-08-19T20:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehUV3TZX72t_UxJe-4QOzWrnBupTU6lKp8JAz1MmpMkXQTgZN9ivMP0sEaV0lCCt6iGmm0CuxGKrAgzb1-OGLYJsmdJtW8qAuil07uWPwG-sLTmu-xIF9oVHDO1Rz4sk69OEoZHS2R84/s320/n%25C3%25A3o_se_iluda.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehUV3TZX72t_UxJe-4QOzWrnBupTU6lKp8JAz1MmpMkXQTgZN9ivMP0sEaV0lCCt6iGmm0CuxGKrAgzb1-OGLYJsmdJtW8qAuil07uWPwG-sLTmu-xIF9oVHDO1Rz4sk69OEoZHS2R84/s1600/n%25C3%25A3o_se_iluda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehUV3TZX72t_UxJe-4QOzWrnBupTU6lKp8JAz1MmpMkXQTgZN9ivMP0sEaV0lCCt6iGmm0CuxGKrAgzb1-OGLYJsmdJtW8qAuil07uWPwG-sLTmu-xIF9oVHDO1Rz4sk69OEoZHS2R84/s320/n%25C3%25A3o_se_iluda.png" width="320" height="294" data-original-width="592" data-original-height="543" /></a></div>

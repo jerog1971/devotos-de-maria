@@ -1,7 +1,7 @@
 ---
 title: "Pastor reza pela morte de paciente"
 date: 2021-04-19T15:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJsj3p54TAaimguFdhBWmtklDaAF73VCW01A2TZTnWTZh_NHjQCxD4D4pboyFn3SD5W8OZIY03jMC8oLiQrPJOzfmAGKEh1FqIKb-ziCB7sNgR921j0MfzHSLrdZK92by0s3TnxJhaYDo/s320/pastor+jose+olimpio.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJsj3p54TAaimguFdhBWmtklDaAF73VCW01A2TZTnWTZh_NHjQCxD4D4pboyFn3SD5W8OZIY03jMC8oLiQrPJOzfmAGKEh1FqIKb-ziCB7sNgR921j0MfzHSLrdZK92by0s3TnxJhaYDo/s356/pastor+jose+olimpio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJsj3p54TAaimguFdhBWmtklDaAF73VCW01A2TZTnWTZh_NHjQCxD4D4pboyFn3SD5W8OZIY03jMC8oLiQrPJOzfmAGKEh1FqIKb-ziCB7sNgR921j0MfzHSLrdZK92by0s3TnxJhaYDo/s320/pastor+jose+olimpio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os noticiários nos últimos dias divulgaram matéria onde o

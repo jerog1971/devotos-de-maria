@@ -1,7 +1,7 @@
 ---
 title: "Ninguém aprende esquecendo"
 date: 2020-07-06T15:08:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuegq_ka7rJDB-_8UHLUpbxczuxYpYaQyD1LIPKQJlTVyC1Fs6kvXBTfEZw4cWGW87p0f-CRGc3Ey9nxM_L859PQt8zKXfyZNeQrzKSPepJCqi-VKP1TPIz27c9626CzVt6q5NCoT8mAQ/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuegq_ka7rJDB-_8UHLUpbxczuxYpYaQyD1LIPKQJlTVyC1Fs6kvXBTfEZw4cWGW87p0f-CRGc3Ey9nxM_L859PQt8zKXfyZNeQrzKSPepJCqi-VKP1TPIz27c9626CzVt6q5NCoT8mAQ/s299/esquecidos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuegq_ka7rJDB-_8UHLUpbxczuxYpYaQyD1LIPKQJlTVyC1Fs6kvXBTfEZw4cWGW87p0f-CRGc3Ey9nxM_L859PQt8zKXfyZNeQrzKSPepJCqi-VKP1TPIz27c9626CzVt6q5NCoT8mAQ/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Deuteronômio 8,17-20 – “Não digas no teu coração: a minha

@@ -1,7 +1,7 @@
 ---
 title: "Os mistérios da oração"
 date: 2017-12-07T17:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPNKD1lArN0X3jDbE9wO6rx2upAAKgFUVjcBiPvmlEfTnNai8fw3a_mOQctMSXJgQ9y28QAGRzkBz4FBIFWvn1wBapn1IbPosaeN2Ox2NighKQJLbX-bGg6ma_xcDFNW2mmpz6O8JquI/s320/ora%25C3%25A7%25C3%25A3o3.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPNKD1lArN0X3jDbE9wO6rx2upAAKgFUVjcBiPvmlEfTnNai8fw3a_mOQctMSXJgQ9y28QAGRzkBz4FBIFWvn1wBapn1IbPosaeN2Ox2NighKQJLbX-bGg6ma_xcDFNW2mmpz6O8JquI/s1600/ora%25C3%25A7%25C3%25A3o3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPNKD1lArN0X3jDbE9wO6rx2upAAKgFUVjcBiPvmlEfTnNai8fw3a_mOQctMSXJgQ9y28QAGRzkBz4FBIFWvn1wBapn1IbPosaeN2Ox2NighKQJLbX-bGg6ma_xcDFNW2mmpz6O8JquI/s320/ora%25C3%25A7%25C3%25A3o3.png" width="303" height="320" data-original-width="281" data-original-height="297" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Só a oração poderá nos salvar"
 date: 2019-10-31T15:56:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV2Jx_vkn8dSDB4sJaEipLWSUu_ZRB5cXqdiPY2aJwFmJZNMmr7v9I1anIKVfVgctWgEvYOx48JnCLlVM0d7fAisYgg6xGf-ziWA8JmYbXiuNmDdw5pcQAtt2qu5Ik-Tj-3xSFYAhfE9I/s320/ora%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV2Jx_vkn8dSDB4sJaEipLWSUu_ZRB5cXqdiPY2aJwFmJZNMmr7v9I1anIKVfVgctWgEvYOx48JnCLlVM0d7fAisYgg6xGf-ziWA8JmYbXiuNmDdw5pcQAtt2qu5Ik-Tj-3xSFYAhfE9I/s1600/ora%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV2Jx_vkn8dSDB4sJaEipLWSUu_ZRB5cXqdiPY2aJwFmJZNMmr7v9I1anIKVfVgctWgEvYOx48JnCLlVM0d7fAisYgg6xGf-ziWA8JmYbXiuNmDdw5pcQAtt2qu5Ik-Tj-3xSFYAhfE9I/s320/ora%25C3%25A7%25C3%25A3o.png" width="320" height="220" data-original-width="488" data-original-height="335" /></a></div>

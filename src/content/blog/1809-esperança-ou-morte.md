@@ -1,7 +1,7 @@
 ---
 title: "Esperança ou morte"
 date: 2021-12-15T16:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEj_LPL0gM3_uJ7arAlYMyq4ZXJY2qsK31kJYIv1q55pwsFPhEPPKGKUEF5pU1zR-GUcPx4LT48ckU8Z_lQYJ8asU_cZ-oA9m_f1B37po6Iwn3-TY5hB56Y2HNY-xBSdocxy5rasZzW1q279FwTZM15J6fIRv5_EanWb8Qr8thxGLhmpLHKqbJnC2fMi"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEj_LPL0gM3_uJ7arAlYMyq4ZXJY2qsK31kJYIv1q55pwsFPhEPPKGKUEF5pU1zR-GUcPx4LT48ckU8Z_lQYJ8asU_cZ-oA9m_f1B37po6Iwn3-TY5hB56Y2HNY-xBSdocxy5rasZzW1q279FwTZM15J6fIRv5_EanWb8Qr8thxGLhmpLHKqbJnC2fMi=s308" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" height="286" src="https://blogger.googleusercontent.com/img/a/AVvXsEj_LPL0gM3_uJ7arAlYMyq4ZXJY2qsK31kJYIv1q55pwsFPhEPPKGKUEF5pU1zR-GUcPx4LT48ckU8Z_lQYJ8asU_cZ-oA9m_f1B37po6Iwn3-TY5hB56Y2HNY-xBSdocxy5rasZzW1q279FwTZM15J6fIRv5_EanWb8Qr8thxGLhmpLHKqbJnC2fMi" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano tende a acreditar que a esperança é a última

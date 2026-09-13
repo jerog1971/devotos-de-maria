@@ -1,7 +1,7 @@
 ---
 title: "O preço da cobiça"
 date: 2017-05-30T16:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTj2rnY788sClCkqGUvZfq816NKh0UODMZF5cYYbb_g9YM1swc7dd5LkQ1-lElcyon_dcIR_50lO7Pk2pIMIdEhH5iJg4foZPJ0GhxYxRUY7M8fS8hnziEUfZCnTwsK1SaqLXgp0CKlo/s320/cobi%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTj2rnY788sClCkqGUvZfq816NKh0UODMZF5cYYbb_g9YM1swc7dd5LkQ1-lElcyon_dcIR_50lO7Pk2pIMIdEhH5iJg4foZPJ0GhxYxRUY7M8fS8hnziEUfZCnTwsK1SaqLXgp0CKlo/s1600/cobi%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQTj2rnY788sClCkqGUvZfq816NKh0UODMZF5cYYbb_g9YM1swc7dd5LkQ1-lElcyon_dcIR_50lO7Pk2pIMIdEhH5iJg4foZPJ0GhxYxRUY7M8fS8hnziEUfZCnTwsK1SaqLXgp0CKlo/s320/cobi%25C3%25A7a.png" width="320" height="304" data-original-width="432" data-original-height="410" /></a></div>

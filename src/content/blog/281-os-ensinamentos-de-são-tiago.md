@@ -1,7 +1,7 @@
 ---
 title: "Os ensinamentos de São Tiago"
 date: 2016-08-05T12:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiPRt2a9X0mRT_SyG-RFG8cR6nfElfFi-zAmlVrRuoGBYsCev4m-i6sdVjNNTp-Md_32jsJ8j0v83VubCI2Spl8ZQhxpJou77hT8d6uTpzwTFJNdjGDam0Wa5zUcdYccyHgXe2pPzpgT0/s320/s%25C3%25A3o_tiago.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiPRt2a9X0mRT_SyG-RFG8cR6nfElfFi-zAmlVrRuoGBYsCev4m-i6sdVjNNTp-Md_32jsJ8j0v83VubCI2Spl8ZQhxpJou77hT8d6uTpzwTFJNdjGDam0Wa5zUcdYccyHgXe2pPzpgT0/s1600/s%25C3%25A3o_tiago.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiPRt2a9X0mRT_SyG-RFG8cR6nfElfFi-zAmlVrRuoGBYsCev4m-i6sdVjNNTp-Md_32jsJ8j0v83VubCI2Spl8ZQhxpJou77hT8d6uTpzwTFJNdjGDam0Wa5zUcdYccyHgXe2pPzpgT0/s320/s%25C3%25A3o_tiago.png" width="273" height="320" data-original-width="201" data-original-height="236" /></a></div>

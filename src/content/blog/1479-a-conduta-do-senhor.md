@@ -1,7 +1,7 @@
 ---
 title: "A conduta do Senhor"
 date: 2020-06-24T16:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlPL39vRXjVa2KHP7nGOkNgeRejrntPVb55w0xLldhzy2saSS0GUgElRbXE7cOaLAfhnLP46WdKP_zk3q-1hBNxfLpOhuVnXDA1kT96rIU2BAGJwBET1A2CJOtdbCCsUVt4xPx_H5NfA/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlPL39vRXjVa2KHP7nGOkNgeRejrntPVb55w0xLldhzy2saSS0GUgElRbXE7cOaLAfhnLP46WdKP_zk3q-1hBNxfLpOhuVnXDA1kT96rIU2BAGJwBET1A2CJOtdbCCsUVt4xPx_H5NfA/s318/juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlPL39vRXjVa2KHP7nGOkNgeRejrntPVb55w0xLldhzy2saSS0GUgElRbXE7cOaLAfhnLP46WdKP_zk3q-1hBNxfLpOhuVnXDA1kT96rIU2BAGJwBET1A2CJOtdbCCsUVt4xPx_H5NfA/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O Deus vivo, nominado pela expressão “amor” no novo

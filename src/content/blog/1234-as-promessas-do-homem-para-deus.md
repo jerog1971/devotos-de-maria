@@ -1,7 +1,7 @@
 ---
 title: "As promessas do homem para Deus"
 date: 2021-12-02T15:47:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiOMNm--KuyR2rdtHNz5c4lQoorAQGllHHqy0y54W4TZM5JB9N_CU74VjnLuRe_AzCBDNqokd-bR_JRNWqJijLf62Lq9WZRWujSERblBDIo_DdpyJFsLh1tf7WePmYhxyAGI7SH57bcur4HuHH7iyKsrqHmzsXQlIYLkGIDinNS8o1ocFUAeyb2BSW7=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEiOMNm--KuyR2rdtHNz5c4lQoorAQGllHHqy0y54W4TZM5JB9N_CU74VjnLuRe_AzCBDNqokd-bR_JRNWqJijLf62Lq9WZRWujSERblBDIo_DdpyJFsLh1tf7WePmYhxyAGI7SH57bcur4HuHH7iyKsrqHmzsXQlIYLkGIDinNS8o1ocFUAeyb2BSW7=s522" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="490" data-original-width="522" height="300" src="https://blogger.googleusercontent.com/img/a/AVvXsEiOMNm--KuyR2rdtHNz5c4lQoorAQGllHHqy0y54W4TZM5JB9N_CU74VjnLuRe_AzCBDNqokd-bR_JRNWqJijLf62Lq9WZRWujSERblBDIo_DdpyJFsLh1tf7WePmYhxyAGI7SH57bcur4HuHH7iyKsrqHmzsXQlIYLkGIDinNS8o1ocFUAeyb2BSW7=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Especificamente aos casados, que querem levar uma vida que

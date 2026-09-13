@@ -1,7 +1,7 @@
 ---
 title: "O preço a se pagar"
 date: 2018-08-17T19:44:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAgCGzH8j59SODBbuKW47Oz1SqXwq4H5MidArc4zUgFP7bQVosc5OyqflSkhmBoGa_ucTZbEhVJ66RFRhGMhKCQKI-awiKCLhoHMCvqqytHd9evo20Cqdtuamu-J1lJyA6J4sdKyxljgo/s320/solteiro+x+casado.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAgCGzH8j59SODBbuKW47Oz1SqXwq4H5MidArc4zUgFP7bQVosc5OyqflSkhmBoGa_ucTZbEhVJ66RFRhGMhKCQKI-awiKCLhoHMCvqqytHd9evo20Cqdtuamu-J1lJyA6J4sdKyxljgo/s1600/solteiro+x+casado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAgCGzH8j59SODBbuKW47Oz1SqXwq4H5MidArc4zUgFP7bQVosc5OyqflSkhmBoGa_ucTZbEhVJ66RFRhGMhKCQKI-awiKCLhoHMCvqqytHd9evo20Cqdtuamu-J1lJyA6J4sdKyxljgo/s320/solteiro+x+casado.png" width="320" height="273" data-original-width="968" data-original-height="826" /></a></div>

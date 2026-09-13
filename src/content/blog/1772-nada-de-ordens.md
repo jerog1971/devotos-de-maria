@@ -1,7 +1,7 @@
 ---
 title: "Nada de ordens"
 date: 2022-03-12T14:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEg_t_RF1GNBILf8tG-qWHFgNAEbacxsRznWBWtrwVzt0jPNQL0p3cLttd8_ljQS5LBsJ8ZfF_KPljw0rMdozyva_gg07Mem4tNK8N5qI31sNKwmFZy2CyM9CO5Syl0mKFlTN49yuFT5NWr2lMhwLDkKPQMcFQZ1SRK3py9wPoBQNCLCPoD4LMhFeBgw=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEg_t_RF1GNBILf8tG-qWHFgNAEbacxsRznWBWtrwVzt0jPNQL0p3cLttd8_ljQS5LBsJ8ZfF_KPljw0rMdozyva_gg07Mem4tNK8N5qI31sNKwmFZy2CyM9CO5Syl0mKFlTN49yuFT5NWr2lMhwLDkKPQMcFQZ1SRK3py9wPoBQNCLCPoD4LMhFeBgw=s3611" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3611" data-original-width="2848" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEg_t_RF1GNBILf8tG-qWHFgNAEbacxsRznWBWtrwVzt0jPNQL0p3cLttd8_ljQS5LBsJ8ZfF_KPljw0rMdozyva_gg07Mem4tNK8N5qI31sNKwmFZy2CyM9CO5Syl0mKFlTN49yuFT5NWr2lMhwLDkKPQMcFQZ1SRK3py9wPoBQNCLCPoD4LMhFeBgw=s320" width="252" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem alguma coisa que o ser humano vai tomando ciência à

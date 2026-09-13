@@ -1,7 +1,7 @@
 ---
 title: "Tentações vencidas"
 date: 2021-05-26T12:52:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2wX37ksn6xAVEgM9Nt0uUuO60fuObPbMP0H3p-HQWPAboTJTPdRWKDrn3cCyCY2pO9OJpvrmyMcYLfksx74PV963PwUtc-hkoEC-_IxiXqOd6y4PTCANe9Uhi-bvyOiQnxscINaC4s4w/s320/tenta%25C3%25A7%25C3%25B5es+vencidas.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2wX37ksn6xAVEgM9Nt0uUuO60fuObPbMP0H3p-HQWPAboTJTPdRWKDrn3cCyCY2pO9OJpvrmyMcYLfksx74PV963PwUtc-hkoEC-_IxiXqOd6y4PTCANe9Uhi-bvyOiQnxscINaC4s4w/s385/tenta%25C3%25A7%25C3%25B5es+vencidas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="385" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2wX37ksn6xAVEgM9Nt0uUuO60fuObPbMP0H3p-HQWPAboTJTPdRWKDrn3cCyCY2pO9OJpvrmyMcYLfksx74PV963PwUtc-hkoEC-_IxiXqOd6y4PTCANe9Uhi-bvyOiQnxscINaC4s4w/s320/tenta%25C3%25A7%25C3%25B5es+vencidas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sempre existirão, Deus quis que o homem atravesse seu

@@ -1,7 +1,7 @@
 ---
 title: "Hereges disfarçados de padres"
 date: 2020-05-05T16:27:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJeCBt7egYZuWo7G4iyRt-9DSLFPtj910drfJSuvZ4PULAXQiL1WWqLSo71UjN0ENp2NeNFZ8UYtTJ5UedfruVTCDnuTd7VYWp16oUWJQwIBq-5LIPispOiVEoyTS3pEvsN6sw3bYr6I/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJeCBt7egYZuWo7G4iyRt-9DSLFPtj910drfJSuvZ4PULAXQiL1WWqLSo71UjN0ENp2NeNFZ8UYtTJ5UedfruVTCDnuTd7VYWp16oUWJQwIBq-5LIPispOiVEoyTS3pEvsN6sw3bYr6I/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="193" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJeCBt7egYZuWo7G4iyRt-9DSLFPtj910drfJSuvZ4PULAXQiL1WWqLSo71UjN0ENp2NeNFZ8UYtTJ5UedfruVTCDnuTd7VYWp16oUWJQwIBq-5LIPispOiVEoyTS3pEvsN6sw3bYr6I/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Isso mesmo, já vai o tempo em que os sacerdotes poderiam

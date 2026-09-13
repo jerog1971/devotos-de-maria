@@ -1,7 +1,7 @@
 ---
 title: "O que Deus faz para te agradar?"
 date: 2019-09-06T16:22:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKfBxZu1IH-t3pnvWw05NoIApUd2tdxJ-0l_jvtzv6WJIm8jrWT8zMa6PWdLeNJcI4EQFX8U5_vpjTM8vqLPnmi3M7ai59n7ksBALLwQtWzAOHbcoDkiauh9_m4d6F3NHnzB3a0FscxIQ/s320/amor_e_justi%25C3%25A7a.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKfBxZu1IH-t3pnvWw05NoIApUd2tdxJ-0l_jvtzv6WJIm8jrWT8zMa6PWdLeNJcI4EQFX8U5_vpjTM8vqLPnmi3M7ai59n7ksBALLwQtWzAOHbcoDkiauh9_m4d6F3NHnzB3a0FscxIQ/s1600/amor_e_justi%25C3%25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKfBxZu1IH-t3pnvWw05NoIApUd2tdxJ-0l_jvtzv6WJIm8jrWT8zMa6PWdLeNJcI4EQFX8U5_vpjTM8vqLPnmi3M7ai59n7ksBALLwQtWzAOHbcoDkiauh9_m4d6F3NHnzB3a0FscxIQ/s320/amor_e_justi%25C3%25A7a.png" width="320" height="232" data-original-width="226" data-original-height="164" /></a></div>

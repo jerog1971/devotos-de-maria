@@ -1,7 +1,7 @@
 ---
 title: "Instrução Postquam Apostoli - sobre o empenho da evangelização"
 date: 2020-05-12T17:19:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuAuf7OoLybb8NvkznCpr7is9ZdxTJAVzt5Yt9VFCJJYq0cU3WWj-8IeTrTe2Qov0HS_42dIsZJbjWiEi5fnT7Lz2ixrUxsk3RrqML8SkDurSQsNVAOpx4_qvpTQ2AQ6ch9BRuj1NAKI/"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuAuf7OoLybb8NvkznCpr7is9ZdxTJAVzt5Yt9VFCJJYq0cU3WWj-8IeTrTe2Qov0HS_42dIsZJbjWiEi5fnT7Lz2ixrUxsk3RrqML8SkDurSQsNVAOpx4_qvpTQ2AQ6ch9BRuj1NAKI/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="208" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuAuf7OoLybb8NvkznCpr7is9ZdxTJAVzt5Yt9VFCJJYq0cU3WWj-8IeTrTe2Qov0HS_42dIsZJbjWiEi5fnT7Lz2ixrUxsk3RrqML8SkDurSQsNVAOpx4_qvpTQ2AQ6ch9BRuj1NAKI/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,14 – E disse Jesus – “Assim é a vontade de vosso

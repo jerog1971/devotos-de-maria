@@ -1,7 +1,7 @@
 ---
 title: "Ideologia de gênero x Paraná..... Vitória também no segundo turno da votação"
 date: 2015-06-23T18:47:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKLqi-M_msaBjHKXPsQMFreOViekJgjK8_8-AYowuKY_LofrG3l-QFGGn2PI3yOYGn9ym4el4h4W3o4svjBda1yxcThQ1mvySi7653bQXQSmefBwsyvkaSXllGdfyY4pVT28H_S0F8suA/s200/vota%25C3%25A7%25C3%25A3o_genero.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKLqi-M_msaBjHKXPsQMFreOViekJgjK8_8-AYowuKY_LofrG3l-QFGGn2PI3yOYGn9ym4el4h4W3o4svjBda1yxcThQ1mvySi7653bQXQSmefBwsyvkaSXllGdfyY4pVT28H_S0F8suA/s1600/vota%25C3%25A7%25C3%25A3o_genero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKLqi-M_msaBjHKXPsQMFreOViekJgjK8_8-AYowuKY_LofrG3l-QFGGn2PI3yOYGn9ym4el4h4W3o4svjBda1yxcThQ1mvySi7653bQXQSmefBwsyvkaSXllGdfyY4pVT28H_S0F8suA/s200/vota%25C3%25A7%25C3%25A3o_genero.png" width="200" height="149" data-original-width="296" data-original-height="220" /></a></div>

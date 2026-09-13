@@ -1,7 +1,7 @@
 ---
 title: "Abraçar"
 date: 2017-12-11T16:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9OjdSqM8YitxeFuazz4QHcngxcHfom2ok_j0DiZB1ktRp_0ZGvHFKhcui2ZElcyQ6hHMa7OdlX8wmakRKJ9UdgTnkRgm8i3ZvgtCLOwjA-ljJkSYmUQAaYSEl3FjOfxXdGaEv1QAWPEw/s320/abra%25C3%25A7o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9OjdSqM8YitxeFuazz4QHcngxcHfom2ok_j0DiZB1ktRp_0ZGvHFKhcui2ZElcyQ6hHMa7OdlX8wmakRKJ9UdgTnkRgm8i3ZvgtCLOwjA-ljJkSYmUQAaYSEl3FjOfxXdGaEv1QAWPEw/s1600/abra%25C3%25A7o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9OjdSqM8YitxeFuazz4QHcngxcHfom2ok_j0DiZB1ktRp_0ZGvHFKhcui2ZElcyQ6hHMa7OdlX8wmakRKJ9UdgTnkRgm8i3ZvgtCLOwjA-ljJkSYmUQAaYSEl3FjOfxXdGaEv1QAWPEw/s320/abra%25C3%25A7o.png" width="320" height="313" data-original-width="339" data-original-height="332" /></a></div>

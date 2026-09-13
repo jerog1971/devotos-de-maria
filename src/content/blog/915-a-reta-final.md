@@ -1,7 +1,7 @@
 ---
 title: "A Reta Final"
 date: 2017-04-24T12:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07RjiiR-TTLoXNU50gLQYyYNiVxiNAcak0Zv_QOtGekaWsGT1advnlBnEy_v3k0JAY9jGg4DVcg_lT4sGtksaLqz4x1a0swl3PpQyeIqoiJj7WWupd1BmfccfENX-KMXa0x2Yf2f-ce4/s320/reta+final.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07RjiiR-TTLoXNU50gLQYyYNiVxiNAcak0Zv_QOtGekaWsGT1advnlBnEy_v3k0JAY9jGg4DVcg_lT4sGtksaLqz4x1a0swl3PpQyeIqoiJj7WWupd1BmfccfENX-KMXa0x2Yf2f-ce4/s1600/reta+final.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07RjiiR-TTLoXNU50gLQYyYNiVxiNAcak0Zv_QOtGekaWsGT1advnlBnEy_v3k0JAY9jGg4DVcg_lT4sGtksaLqz4x1a0swl3PpQyeIqoiJj7WWupd1BmfccfENX-KMXa0x2Yf2f-ce4/s320/reta+final.png" width="320" height="284" data-original-width="503" data-original-height="446" /></a></div>

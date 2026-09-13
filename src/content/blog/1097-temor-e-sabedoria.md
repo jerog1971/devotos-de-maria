@@ -1,7 +1,7 @@
 ---
 title: "Temor e Sabedoria"
 date: 2021-04-13T13:45:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6aS9aotqb9-xd0gnqkpEFDbTOgHYgrn61O34e2Rvh2X6SUucwlxI3Ic-7E62TeMQCFgs17jKEhnzs5KRu7G2aKBRkmQMhDq2N9lYhYL7zxcEQeNLtuT24CpWo8VafXhbfKBQVSzmpPrE/s320/justi%25C3%25A7a_divina.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6aS9aotqb9-xd0gnqkpEFDbTOgHYgrn61O34e2Rvh2X6SUucwlxI3Ic-7E62TeMQCFgs17jKEhnzs5KRu7G2aKBRkmQMhDq2N9lYhYL7zxcEQeNLtuT24CpWo8VafXhbfKBQVSzmpPrE/s341/justi%25C3%25A7a_divina.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="284" data-original-width="341" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6aS9aotqb9-xd0gnqkpEFDbTOgHYgrn61O34e2Rvh2X6SUucwlxI3Ic-7E62TeMQCFgs17jKEhnzs5KRu7G2aKBRkmQMhDq2N9lYhYL7zxcEQeNLtuT24CpWo8VafXhbfKBQVSzmpPrE/s320/justi%25C3%25A7a_divina.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Duas coisas essenciais para que em nós frutifique o que

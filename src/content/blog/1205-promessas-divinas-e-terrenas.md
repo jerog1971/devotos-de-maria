@@ -1,7 +1,7 @@
 ---
 title: "Promessas divinas e terrenas"
 date: 2021-07-19T18:47:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4TiW_J2ptmzB49uH_qnGcEdrt9D2ZHpbBK36foiGMN1B9pAU7s1uxOHBbYXSiZIM9Yz7CDFyVYzkQ-x84HPL4zeUh820AurnP6pfoh1Ykq4h7Loc_Mj8NNAu3Fdr6kABXOtkq-uHpP0E/s320/promessas+divinas+e+terrenas.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4TiW_J2ptmzB49uH_qnGcEdrt9D2ZHpbBK36foiGMN1B9pAU7s1uxOHBbYXSiZIM9Yz7CDFyVYzkQ-x84HPL4zeUh820AurnP6pfoh1Ykq4h7Loc_Mj8NNAu3Fdr6kABXOtkq-uHpP0E/s461/promessas+divinas+e+terrenas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="456" data-original-width="461" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4TiW_J2ptmzB49uH_qnGcEdrt9D2ZHpbBK36foiGMN1B9pAU7s1uxOHBbYXSiZIM9Yz7CDFyVYzkQ-x84HPL4zeUh820AurnP6pfoh1Ykq4h7Loc_Mj8NNAu3Fdr6kABXOtkq-uHpP0E/s320/promessas+divinas+e+terrenas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, todo cristão sabe e até mesmo aqueles que se dispuseram

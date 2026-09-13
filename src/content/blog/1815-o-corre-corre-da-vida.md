@@ -1,7 +1,7 @@
 ---
 title: "O corre-corre da vida"
 date: 2018-05-29T20:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnpYQfM23p2P75sZEZdehbmAb7igmM1F-d4Fxiv6S2b5h_Gm4ybVvZ-8e0qV2caJrooxHqo-Vye39NEqUgE36SHwAordc_32AXU3_d2fehAUBR6YOxwhnPm0FnjP2PEOZJEQEjEb7bgBM/s320/ex%25C3%25A9rcito.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnpYQfM23p2P75sZEZdehbmAb7igmM1F-d4Fxiv6S2b5h_Gm4ybVvZ-8e0qV2caJrooxHqo-Vye39NEqUgE36SHwAordc_32AXU3_d2fehAUBR6YOxwhnPm0FnjP2PEOZJEQEjEb7bgBM/s1600/ex%25C3%25A9rcito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnpYQfM23p2P75sZEZdehbmAb7igmM1F-d4Fxiv6S2b5h_Gm4ybVvZ-8e0qV2caJrooxHqo-Vye39NEqUgE36SHwAordc_32AXU3_d2fehAUBR6YOxwhnPm0FnjP2PEOZJEQEjEb7bgBM/s320/ex%25C3%25A9rcito.png" width="320" height="299" data-original-width="588" data-original-height="549" /></a></div>

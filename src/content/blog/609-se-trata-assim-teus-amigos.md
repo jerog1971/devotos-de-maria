@@ -1,7 +1,7 @@
 ---
 title: "Se trata assim teus amigos"
 date: 2018-08-24T16:03:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYhkXNmScw22-3zjvWUflSS-vfcxPWm-xFIHNjE6vw0nBR2m-PHBxXe77HPCOBZX8W9mIYxp3iWy7i4wKZpZASvStjkSVz3b_Uqg2zZ0PhEbBxQJCIUXb4Jus2v62kDPiVcLBDhJAAy0k/s320/Santa+Teresa.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYhkXNmScw22-3zjvWUflSS-vfcxPWm-xFIHNjE6vw0nBR2m-PHBxXe77HPCOBZX8W9mIYxp3iWy7i4wKZpZASvStjkSVz3b_Uqg2zZ0PhEbBxQJCIUXb4Jus2v62kDPiVcLBDhJAAy0k/s1600/Santa+Teresa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYhkXNmScw22-3zjvWUflSS-vfcxPWm-xFIHNjE6vw0nBR2m-PHBxXe77HPCOBZX8W9mIYxp3iWy7i4wKZpZASvStjkSVz3b_Uqg2zZ0PhEbBxQJCIUXb4Jus2v62kDPiVcLBDhJAAy0k/s320/Santa+Teresa.png" width="320" height="298" data-original-width="396" data-original-height="369" /></a></div>

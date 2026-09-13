@@ -1,7 +1,7 @@
 ---
 title: "As realidades do mundo"
 date: 2020-03-26T20:26:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4OWq3MLSf0IdPhfGcb7wtiECslAFL9G1YSWEUCjAouo4lwAzUU6pmFwNxrz1cJilor7uuYGzZ1gVKlyKg9ZYSLtbKfLu92XoTvqUWbPyY1uITO1NfH98frvN2FHVSPaHZGdKDPS3OZiI/s320/na%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4OWq3MLSf0IdPhfGcb7wtiECslAFL9G1YSWEUCjAouo4lwAzUU6pmFwNxrz1cJilor7uuYGzZ1gVKlyKg9ZYSLtbKfLu92XoTvqUWbPyY1uITO1NfH98frvN2FHVSPaHZGdKDPS3OZiI/s1600/na%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4OWq3MLSf0IdPhfGcb7wtiECslAFL9G1YSWEUCjAouo4lwAzUU6pmFwNxrz1cJilor7uuYGzZ1gVKlyKg9ZYSLtbKfLu92XoTvqUWbPyY1uITO1NfH98frvN2FHVSPaHZGdKDPS3OZiI/s320/na%25C3%25A7%25C3%25A3o.png" width="320" height="307" data-original-width="290" data-original-height="278" /></a></div>

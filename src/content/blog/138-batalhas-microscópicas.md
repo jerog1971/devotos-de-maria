@@ -1,7 +1,7 @@
 ---
 title: "Batalhas microscópicas"
 date: 2020-04-06T21:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBwujgqC3LDmAsfyteVCI3mrrDNfwCqITUVtb9JH65AIeVgcDaIzaIPD3ljpXPjbpHSHPKSE1ioGAMy5XexncLXCDJnOdOIO9JvxaU5f5fHzWkVjyg391l71ikqppvC7Kgue4xcbu_Cl0/s320/microsc%25C3%25B3pico.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBwujgqC3LDmAsfyteVCI3mrrDNfwCqITUVtb9JH65AIeVgcDaIzaIPD3ljpXPjbpHSHPKSE1ioGAMy5XexncLXCDJnOdOIO9JvxaU5f5fHzWkVjyg391l71ikqppvC7Kgue4xcbu_Cl0/s1600/microsc%25C3%25B3pico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBwujgqC3LDmAsfyteVCI3mrrDNfwCqITUVtb9JH65AIeVgcDaIzaIPD3ljpXPjbpHSHPKSE1ioGAMy5XexncLXCDJnOdOIO9JvxaU5f5fHzWkVjyg391l71ikqppvC7Kgue4xcbu_Cl0/s320/microsc%25C3%25B3pico.png" width="320" height="272" data-original-width="379" data-original-height="322" /></a></div>

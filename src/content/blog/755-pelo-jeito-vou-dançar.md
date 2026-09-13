@@ -1,7 +1,7 @@
 ---
 title: "Pelo jeito vou dançar"
 date: 2018-08-02T23:04:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaSUEGn1sayZS_oe9ZZLFVcJKPrGW2i12z8XvDWcDKBZkqgxgQH8SiqftR3OiO6UphgB7fkzrW1h6UeJP1isCfoZUKsEMLnqRaAYhoEJ1sHbjMzoIuQPlXDu1eprJp51LNBenxj8s92RA/s320/vou_dan%25C3%25A7ar.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaSUEGn1sayZS_oe9ZZLFVcJKPrGW2i12z8XvDWcDKBZkqgxgQH8SiqftR3OiO6UphgB7fkzrW1h6UeJP1isCfoZUKsEMLnqRaAYhoEJ1sHbjMzoIuQPlXDu1eprJp51LNBenxj8s92RA/s1600/vou_dan%25C3%25A7ar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaSUEGn1sayZS_oe9ZZLFVcJKPrGW2i12z8XvDWcDKBZkqgxgQH8SiqftR3OiO6UphgB7fkzrW1h6UeJP1isCfoZUKsEMLnqRaAYhoEJ1sHbjMzoIuQPlXDu1eprJp51LNBenxj8s92RA/s320/vou_dan%25C3%25A7ar.png" width="313" height="320" data-original-width="332" data-original-height="339" /></a></div>

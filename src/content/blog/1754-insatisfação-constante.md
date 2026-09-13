@@ -1,7 +1,7 @@
 ---
 title: "Insatisfação constante"
 date: 2022-01-04T03:25:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEjbGYZxjdhrTlcvi7ZxIMmTRGi__SyjFykBf6HupSyDIngbMqigjOihUBhOJhNYF71Ufm42lBUdsinywjVN43ancm9GxGheGGRA1tKDIDoN89MdN3C-APbzA7sUt7W_kddLKkAEMDSVDPlEJ_ePw1K6NArKYYqbSet2_1ms69nn10vAxdLwuH3XdPiG=s320"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjbGYZxjdhrTlcvi7ZxIMmTRGi__SyjFykBf6HupSyDIngbMqigjOihUBhOJhNYF71Ufm42lBUdsinywjVN43ancm9GxGheGGRA1tKDIDoN89MdN3C-APbzA7sUt7W_kddLKkAEMDSVDPlEJ_ePw1K6NArKYYqbSet2_1ms69nn10vAxdLwuH3XdPiG=s363" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="363" height="287" src="https://blogger.googleusercontent.com/img/a/AVvXsEjbGYZxjdhrTlcvi7ZxIMmTRGi__SyjFykBf6HupSyDIngbMqigjOihUBhOJhNYF71Ufm42lBUdsinywjVN43ancm9GxGheGGRA1tKDIDoN89MdN3C-APbzA7sUt7W_kddLKkAEMDSVDPlEJ_ePw1K6NArKYYqbSet2_1ms69nn10vAxdLwuH3XdPiG=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os santos padres já diziam que uma alma se torna inquieta

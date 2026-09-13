@@ -1,7 +1,7 @@
 ---
 title: "Santo Otão"
 date: 2020-07-02T16:33:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv8qKNbRCQeNJ0jenlFXQfB_mp8sZDSnJ0T2vFk4VaYat_OeTT_POFtQ8Q8DZs70-39OX5TxK8-vVCjLAjWhyphenhyphenzLNquHx7CD64Tjvru_Xs3SIlb-tabJIVVUvLPeaU1BJtbKqXueINXFc/s320/Santo_Ot%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv8qKNbRCQeNJ0jenlFXQfB_mp8sZDSnJ0T2vFk4VaYat_OeTT_POFtQ8Q8DZs70-39OX5TxK8-vVCjLAjWhyphenhyphenzLNquHx7CD64Tjvru_Xs3SIlb-tabJIVVUvLPeaU1BJtbKqXueINXFc/s412/Santo_Ot%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="412" data-original-width="299" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv8qKNbRCQeNJ0jenlFXQfB_mp8sZDSnJ0T2vFk4VaYat_OeTT_POFtQ8Q8DZs70-39OX5TxK8-vVCjLAjWhyphenhyphenzLNquHx7CD64Tjvru_Xs3SIlb-tabJIVVUvLPeaU1BJtbKqXueINXFc/s320/Santo_Ot%25C3%25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi Bispo de Bamberg e é chamado o apóstolo da Pomerânia.

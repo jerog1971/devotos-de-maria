@@ -1,7 +1,7 @@
 ---
 title: "O Sagrado Coração de Jesus"
 date: 2018-12-06T16:04:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFrvpjq1p7FOPoLt_9qudv7arKcrv59uBTSPNX8fku9jEUx8CjK0-Y_MH3sk-JuSjPEeGtloYKvFkgJD3jBBCkKjyHTmdwdvbOfh6PuO9QmPq-r7F-pk0BuZ6phN0wisKc6pW5zTra3Eg/s200/sagrado+cora%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFrvpjq1p7FOPoLt_9qudv7arKcrv59uBTSPNX8fku9jEUx8CjK0-Y_MH3sk-JuSjPEeGtloYKvFkgJD3jBBCkKjyHTmdwdvbOfh6PuO9QmPq-r7F-pk0BuZ6phN0wisKc6pW5zTra3Eg/s1600/sagrado+cora%25C3%25A7%25C3%25A3o.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFrvpjq1p7FOPoLt_9qudv7arKcrv59uBTSPNX8fku9jEUx8CjK0-Y_MH3sk-JuSjPEeGtloYKvFkgJD3jBBCkKjyHTmdwdvbOfh6PuO9QmPq-r7F-pk0BuZ6phN0wisKc6pW5zTra3Eg/s200/sagrado+cora%25C3%25A7%25C3%25A3o.png" width="155" height="200" data-original-width="372" data-original-height="480" /></a></br>

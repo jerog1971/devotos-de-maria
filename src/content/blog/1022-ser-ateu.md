@@ -1,7 +1,7 @@
 ---
 title: "Ser ateu..."
 date: 2016-02-01T18:48:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrBpx8aHQkqTdXDVilJ8hIDFWfWhGe-4iDhT21OTD_b6YSVKi0FsQUj61cd4puV8fZLDYSz-q3N6IEZO5urD79uotZGv6_PBNXGVCJCPQkK-kEIU_sle9_E2Psvi9AyxiQLPghPpfHC1k/s320/andrea_beltr%25C3%25A3o.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrBpx8aHQkqTdXDVilJ8hIDFWfWhGe-4iDhT21OTD_b6YSVKi0FsQUj61cd4puV8fZLDYSz-q3N6IEZO5urD79uotZGv6_PBNXGVCJCPQkK-kEIU_sle9_E2Psvi9AyxiQLPghPpfHC1k/s1600/andrea_beltr%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrBpx8aHQkqTdXDVilJ8hIDFWfWhGe-4iDhT21OTD_b6YSVKi0FsQUj61cd4puV8fZLDYSz-q3N6IEZO5urD79uotZGv6_PBNXGVCJCPQkK-kEIU_sle9_E2Psvi9AyxiQLPghPpfHC1k/s320/andrea_beltr%25C3%25A3o.png" width="320" height="316" data-original-width="434" data-original-height="429" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Qual é o plano? Procurar, Achar e Matar"
 date: 2017-02-24T12:58:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKvsgCN-XDiGYEIPx-0trLP0qTxvvXtMj-JKQ6mY_FJC9UyE6plVOaK_5m8VV666s46fH9Q6OWk3iNPKJs_XY5nLq7R0vz9MjWeprWLt_orCYEzEJ3aRP5AMRPJmEN5Bw_KD887z4e8E/s320/o+plano.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKvsgCN-XDiGYEIPx-0trLP0qTxvvXtMj-JKQ6mY_FJC9UyE6plVOaK_5m8VV666s46fH9Q6OWk3iNPKJs_XY5nLq7R0vz9MjWeprWLt_orCYEzEJ3aRP5AMRPJmEN5Bw_KD887z4e8E/s1600/o+plano.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKvsgCN-XDiGYEIPx-0trLP0qTxvvXtMj-JKQ6mY_FJC9UyE6plVOaK_5m8VV666s46fH9Q6OWk3iNPKJs_XY5nLq7R0vz9MjWeprWLt_orCYEzEJ3aRP5AMRPJmEN5Bw_KD887z4e8E/s320/o+plano.png" width="320" height="312" data-original-width="234" data-original-height="228" /></a></div>

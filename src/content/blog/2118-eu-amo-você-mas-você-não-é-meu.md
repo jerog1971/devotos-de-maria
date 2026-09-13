@@ -1,7 +1,7 @@
 ---
 title: "Eu amo você, mas você não é meu"
 date: 2020-02-17T20:24:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3oxrDH4BVf6zLcHTa0x0d6Mlaeg96Al1XtTBjzxPfs739nCjHDqmgsOn2dg6uIwnELLzwTNpD8fJ_E0icKqlFniU_jG4h4RUy1vWTVOsFAf2HovanjasURszlfj3Vsr5rgGwnCD5dFnc/s320/amo_voc%25C3%25AA.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3oxrDH4BVf6zLcHTa0x0d6Mlaeg96Al1XtTBjzxPfs739nCjHDqmgsOn2dg6uIwnELLzwTNpD8fJ_E0icKqlFniU_jG4h4RUy1vWTVOsFAf2HovanjasURszlfj3Vsr5rgGwnCD5dFnc/s1600/amo_voc%25C3%25AA.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="413" data-original-width="398" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3oxrDH4BVf6zLcHTa0x0d6Mlaeg96Al1XtTBjzxPfs739nCjHDqmgsOn2dg6uIwnELLzwTNpD8fJ_E0icKqlFniU_jG4h4RUy1vWTVOsFAf2HovanjasURszlfj3Vsr5rgGwnCD5dFnc/s320/amo_voc%25C3%25AA.png" width="308" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>

@@ -1,7 +1,7 @@
 ---
 title: "Bom Pastor ou Mercenário"
 date: 2021-04-27T16:51:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxXSRkRE1VzH3B-O9kSxPwQVlCgfqbIgqXc7q_vOoWyK1XZqI4yq86hORPcluoMFPgA8MQ7qaBJs7ZghMvRoSaCZV0RdNcG4PAEL9vI29YYotkUYtySeg7c8vA44pX4f-7wCiZqAwWcDI/s320/Bom+Pastor+ou+Mercen%25C3%25A1rio.png"
+heroImage: "/images/000-muitos-tem-a-biblia-em-casa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxXSRkRE1VzH3B-O9kSxPwQVlCgfqbIgqXc7q_vOoWyK1XZqI4yq86hORPcluoMFPgA8MQ7qaBJs7ZghMvRoSaCZV0RdNcG4PAEL9vI29YYotkUYtySeg7c8vA44pX4f-7wCiZqAwWcDI/s1215/Bom+Pastor+ou+Mercen%25C3%25A1rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1019" data-original-width="1215" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxXSRkRE1VzH3B-O9kSxPwQVlCgfqbIgqXc7q_vOoWyK1XZqI4yq86hORPcluoMFPgA8MQ7qaBJs7ZghMvRoSaCZV0RdNcG4PAEL9vI29YYotkUYtySeg7c8vA44pX4f-7wCiZqAwWcDI/s320/Bom+Pastor+ou+Mercen%25C3%25A1rio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo foi taxativo quanto a responsabilidade que os sacerdotes
