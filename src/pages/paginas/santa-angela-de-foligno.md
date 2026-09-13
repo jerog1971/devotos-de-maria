@@ -5,9 +5,9 @@ description: 'Biografia e reflexões de Santa Ângela de Foligno.'
 pubDate: '2026-09-05'
 ---
 
-![Santa Ângela de Foligno](./images/santa_angela_de_foligno.png)
+![Santa Ângela de Foligno](/images/santa_angela_de_foligno.png)
 
-A história de Santa Ângela, considerada uma das primeiras místicas italianas...![Santa Ângela de Foligno](./images/santa_angela_de_foligno.png)
+A história de Santa Ângela, considerada uma das primeiras místicas italianas...![Santa Ângela de Foligno](/images/santa_angela_de_foligno.png)
 
 A história de Santa Ângela, considerada uma das primeiras místicas italianas, poderia ser o roteiro de um romance ou novela, com final feliz, é claro. Transformou-se de mulher fútil e despreocupada em mística e devota, depois literata, teóloga e, finalmente, santa. A data mais aceita para o nascimento de Ângela, em Foligno, perto de Assis e de Roma, é o ano 1248. Ela pertencia à uma família relativamente rica e bem situada socialmente. Ainda muito jovem casou-se com um nobre e passou a levar uma vida ainda mais confortável, voltada para as vaidades, festas e recreações mundanas. Assim viveu até os trinta e sete anos, quando uma tragédia avassaladora mudou sua vida.
 
@@ -25,7 +25,7 @@ Em sua autobiografia ela nos conta:
 
 Na Santa Missa, ela muitas vezes via Jesus Cristo na Santa Hóstia. Morreu, em 04 de janeiro 1309, já sexagenária. Ângela faleceu cercada por sua comunidade de discípulos. Seus restos mortais repousam incorruptos (seu cadáver nunca se deteriorou) na igreja de São Francisco, em Foligno. Muitos milagres atribuídos a ela foram realizados em seu túmulo.
 
-![Ângela](./images/angela2.png)
+![Ângela](/images/angela2.png)
 
 ---
 
