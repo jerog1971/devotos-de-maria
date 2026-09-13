@@ -27,8 +27,6 @@ Em 1918, Santa Paulina é chamada a viver na sede Geral da Congregação, onde t
 
 Santa Paulina morre aos 76 anos, na Casa Geral em São Paulo, dia 9 de julho de 1942, com fama de santidade; pois viveu em grau heróico as virtudes de FÉ, ESPERANÇA e CARIDADE e demais virtudes.
 
-![Santa Paulina](/images/paginas/paulina2.png)
-
 ### PROCESSOS DE BEATIFICAÇÃO E CANONIZAÇÃO
 
 Para a Congregação das Irmãzinhas da Imaculada Conceição, a comemoração dos 10 anos de Canonização (em 2012) faz recordar todo o processo de beatificação e canonização de Santa Paulina. O primeiro milagre foi registrado em Imbituba (SC), no qual foi reconhecida a cura instantânea, perfeita e duradoura de Eluíza Rosa de Souza, que possuía uma doença complexa: a morte intra-uterina do feto e sua retenção por alguns meses; extração com instrumentos e revisão do útero, seguida de grande hemorragia e choque irreversível. O caso foi discutido e, posteriormente, o Santo Padre ratificou em decreto aprovando as conclusões da Congregação para as Causas dos Santos.
