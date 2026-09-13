@@ -1,7 +1,3 @@
-Aqui está o conteúdo da página **Confissão** limpo do código HTML residual e totalmente formatado em Markdown, pronto para você colar no seu arquivo:
-
----
-
 # Confissão
 
 ## Oração para antes da Confissão
