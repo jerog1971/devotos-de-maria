@@ -5,12 +5,10 @@ import https from 'https';
 const BLOG_DIR = path.join(process.cwd(), 'src/content/blog');
 const OUTPUT_IMG_DIR = path.join(process.cwd(), 'public/images/posts');
 
-// Garante que a pasta de destino exista
 if (!fs.existsSync(OUTPUT_IMG_DIR)) {
   fs.mkdirSync(OUTPUT_IMG_DIR, { recursive: true });
 }
 
-// Função para baixar uma imagem via HTTPS
 function downloadImage(url, filepath) {
   return new Promise((resolve, reject) => {
     const file = fs.createWriteStream(filepath);
@@ -19,7 +17,7 @@ function downloadImage(url, filepath) {
         return downloadImage(response.headers.location, filepath).then(resolve).catch(reject);
       }
       if (response.statusCode !== 200) {
-        return reject(new Error(`Falha ao baixar imagem (${response.statusCode}): ${url}`));
+        return reject(new Error(`Status HTTP ${response.statusCode}`));
       }
       response.pipe(file);
       file.on('finish', () => {
@@ -32,14 +30,47 @@ function downloadImage(url, filepath) {
   });
 }
 
-// Sanitiza o nome do arquivo baixado
+// Limpa e sanitiza o nome da imagem, decodificando caracteres de URL e cortando nomes longos
 function getSanitizedFilename(url) {
+  let decoded = url;
+  try {
+    decoded = decodeURIComponent(url);
+  } catch (e) {
+    // Caso a URL tenha caracteres malformados para o decode
+  }
+
   const urlPath = new URL(url).pathname;
   let basename = path.basename(urlPath);
+  
   if (!path.extname(basename)) {
     basename += '.jpg';
   }
-  return basename.replace(/[^a-zA-Z0-9.-]/g, '_');
+
+  // Se o nome vindo da URL for uma hash gigante do Google (maior que 40 caracteres), simplifica para hash simples
+  const ext = path.extname(basename);
+  let nameOnly = path.basename(basename, ext);
+  if (nameOnly.length > 30) {
+    nameOnly = 'img-' + Math.abs(hashCode(url));
+  }
+
+  // Remove caracteres especiais mantendo padrão legível
+  const cleanName = nameOnly
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "") // Remove acentos
+    .replace(/[^a-zA-Z0-9.-]/g, '_')
+    .replace(/_+/g, '_');
+
+  return `${cleanName}${ext}`;
+}
+
+// Helper simples para gerar hash curto em URLs muito longas
+function hashCode(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = (hash << 5) - hash + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return hash;
 }
 
 async function processFiles() {
@@ -52,7 +83,6 @@ async function processFiles() {
     const filePath = path.join(BLOG_DIR, file);
     let content = fs.readFileSync(filePath, 'utf8');
 
-    // Regex para capturar URLs do Google/Blogger
     const googleImgRegex = /(https?:\/\/(?:lh\d+\.googleusercontent\.com|bp\.blogspot\.com|blogger\.googleusercontent\.com)[^\s"'>\)]+)/g;
     const matches = [...new Set(content.match(googleImgRegex) || [])];
 
@@ -61,7 +91,11 @@ async function processFiles() {
     let firstLocalImgPath = null;
 
     for (const imgUrl of matches) {
-      const filename = `${path.basename(file, '.md')}-${getSanitizedFilename(imgUrl)}`;
+      // Limita o prefixo do nome do arquivo a 40 caracteres para evitar estouro de nome no sistema de arquivos
+      const fileSlug = path.basename(file, '.md').substring(0, 40);
+      const cleanImgName = getSanitizedFilename(imgUrl);
+      const filename = `${fileSlug}-${cleanImgName}`;
+      
       const localFilePath = path.join(OUTPUT_IMG_DIR, filename);
       const publicUrlPath = `/images/posts/${filename}`;
 
@@ -69,22 +103,19 @@ async function processFiles() {
         firstLocalImgPath = publicUrlPath;
       }
 
-      // Baixa a imagem se ainda não existir localmente
       if (!fs.existsSync(localFilePath)) {
         try {
           await downloadImage(imgUrl, localFilePath);
           console.log(`Baixada: ${filename}`);
         } catch (err) {
-          console.error(`Erro ao baixar ${imgUrl}:`, err.message);
+          console.error(`Aviso: Falha ao baixar ${imgUrl} (${err.message})`);
           continue;
         }
       }
 
-      // Substitui o link do Google pelo caminho local no conteúdo
       content = content.replaceAll(imgUrl, publicUrlPath);
     }
 
-    // Atualiza o heroImage no frontmatter com a primeira imagem encontrada
     if (firstLocalImgPath) {
       content = content.replace(/heroImage:\s*["'].*?["']/g, `heroImage: "${firstLocalImgPath}"`);
     }
@@ -93,7 +124,7 @@ async function processFiles() {
     updatedCount++;
   }
 
-  console.log(`Processamento concluído! ${updatedCount} arquivos foram atualizados.`);
+  console.log(`Processamento concluído com sucesso! ${updatedCount} arquivos atualizados.`);
 }
 
 processFiles();
