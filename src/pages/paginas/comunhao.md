@@ -1,7 +1,3 @@
-Aqui está o conteúdo da página **Comunhão** limpo de qualquer código HTML residual e totalmente formatado em Markdown, pronto para você utilizar no seu arquivo:
-
----
-
 # A História da Comunhão na Mão
 
 ## Os Antecedentes
