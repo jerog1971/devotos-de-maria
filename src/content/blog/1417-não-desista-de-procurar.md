@@ -1,7 +1,7 @@
 ---
 title: "Não desista de procurar"
 date: 2024-03-25T19:19:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilA95v2LJMikOwypy-BNjxglzXICEe5ByAldNpeB8Ko9Mid8T7PAgCFFWHB9O1lltzX4yFZY73UwtQnY8RXx75fMnnwwF4bh6UcLqWpNqdQMsR3QcAmNk51tk6wEUKES-H3OlDw8jzugOoI3-9WD-Frr1ai-IVXIHT6IEdsbAYCKo-S1ECJduqOphAk2g/s320/N%C3%A3o%20desista%20de%20procurar.jpg"
+heroImage: "/images/Não desista de procurar.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilA95v2LJMikOwypy-BNjxglzXICEe5ByAldNpeB8Ko9Mid8T7PAgCFFWHB9O1lltzX4yFZY73UwtQnY8RXx75fMnnwwF4bh6UcLqWpNqdQMsR3QcAmNk51tk6wEUKES-H3OlDw8jzugOoI3-9WD-Frr1ai-IVXIHT6IEdsbAYCKo-S1ECJduqOphAk2g/s1632/N%C3%A3o%20desista%20de%20procurar.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilA95v2LJMikOwypy-BNjxglzXICEe5ByAldNpeB8Ko9Mid8T7PAgCFFWHB9O1lltzX4yFZY73UwtQnY8RXx75fMnnwwF4bh6UcLqWpNqdQMsR3QcAmNk51tk6wEUKES-H3OlDw8jzugOoI3-9WD-Frr1ai-IVXIHT6IEdsbAYCKo-S1ECJduqOphAk2g/s320/N%C3%A3o%20desista%20de%20procurar.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 7,7-8 – “Pedi e se vos dará. Buscai e achareis. Batei

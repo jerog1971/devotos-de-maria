@@ -1,7 +1,7 @@
 ---
 title: "Adoráveis sofrimentos"
 date: 2025-10-02T12:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBgH5xBxfcarS8J-DX2SKGxl50UGjT05rdBOf_YgsUhsPp_3EVMoFY-Aeo8csIkz-C_eV4L2p1Tbnewir1yYE-_VRj7A_nDWv-IqedAOcYHtRTvVpEIWPMcmM5oJSlN6CKv5qX0BumtztXOu3FsjBnT0O2J98CCWIhiJgsTqRGwhrTh-Ypz342TfZDSGE/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBgH5xBxfcarS8J-DX2SKGxl50UGjT05rdBOf_YgsUhsPp_3EVMoFY-Aeo8csIkz-C_eV4L2p1Tbnewir1yYE-_VRj7A_nDWv-IqedAOcYHtRTvVpEIWPMcmM5oJSlN6CKv5qX0BumtztXOu3FsjBnT0O2J98CCWIhiJgsTqRGwhrTh-Ypz342TfZDSGE/s408/sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBgH5xBxfcarS8J-DX2SKGxl50UGjT05rdBOf_YgsUhsPp_3EVMoFY-Aeo8csIkz-C_eV4L2p1Tbnewir1yYE-_VRj7A_nDWv-IqedAOcYHtRTvVpEIWPMcmM5oJSlN6CKv5qX0BumtztXOu3FsjBnT0O2J98CCWIhiJgsTqRGwhrTh-Ypz342TfZDSGE/s320/sofrimento.png" width="320" /></a></div><br />&nbsp;<p></p><p style="line-height: 100%; margin-bottom: 0cm;">

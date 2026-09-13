@@ -1,7 +1,7 @@
 ---
 title: "Testemunho de um ex-protestante"
 date: 2016-02-02T15:30:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaadCT7bFcD5OLfMcPvFbu_gCVRRsSnhZGA16-VcgHx0G9JZjqGHC-xGuGgbJj8XFMYDsxEO8cs-xGVFWTodb2szU3IZufkxYC0ikERpofZewYWhV250luXBWzdd3anUhiLR5aB-zHWgM/s320/convertido.png"
+heroImage: "/images/convertido.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaadCT7bFcD5OLfMcPvFbu_gCVRRsSnhZGA16-VcgHx0G9JZjqGHC-xGuGgbJj8XFMYDsxEO8cs-xGVFWTodb2szU3IZufkxYC0ikERpofZewYWhV250luXBWzdd3anUhiLR5aB-zHWgM/s1600/convertido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaadCT7bFcD5OLfMcPvFbu_gCVRRsSnhZGA16-VcgHx0G9JZjqGHC-xGuGgbJj8XFMYDsxEO8cs-xGVFWTodb2szU3IZufkxYC0ikERpofZewYWhV250luXBWzdd3anUhiLR5aB-zHWgM/s320/convertido.png" width="315" height="320" data-original-width="448" data-original-height="455" /></a></div>

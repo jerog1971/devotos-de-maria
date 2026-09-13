@@ -1,7 +1,7 @@
 ---
 title: "Os pais devem saber dizer “sim” e “não”"
 date: 2016-08-19T12:33:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSFzfaAgfgPG2ZQousKRtv8mBGPOsf99rqi0i0yDk96rlKAM5ug_BawusN0tCZmLJXwaNbzeFbvTBJMa10UuqnENj49ylBShO5Z1eUpYgloaTUYXyn9-tJtE8FNhl6BMN9rLluNg89uKQ/s320/debsof.png"
+heroImage: "/images/debsof.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSFzfaAgfgPG2ZQousKRtv8mBGPOsf99rqi0i0yDk96rlKAM5ug_BawusN0tCZmLJXwaNbzeFbvTBJMa10UuqnENj49ylBShO5Z1eUpYgloaTUYXyn9-tJtE8FNhl6BMN9rLluNg89uKQ/s1600/debsof.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSFzfaAgfgPG2ZQousKRtv8mBGPOsf99rqi0i0yDk96rlKAM5ug_BawusN0tCZmLJXwaNbzeFbvTBJMa10UuqnENj49ylBShO5Z1eUpYgloaTUYXyn9-tJtE8FNhl6BMN9rLluNg89uKQ/s320/debsof.png" width="320" height="297" data-original-width="359" data-original-height="333" /></a></div>

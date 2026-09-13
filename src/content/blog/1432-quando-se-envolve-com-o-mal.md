@@ -1,7 +1,7 @@
 ---
 title: "Quando se envolve com o mal"
 date: 2020-08-03T20:27:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbEFjmI3QV0cOApshwym78HNWJzfZJPXL4LeSe5gBAnbI79OiuHeJu7OEiHhoX4UUlO35M3P6GuZru_fOgigeLRKUy7jXiOKumzw3wFJJZerZHAkg3byLyxposOBv7zQj9pIQAqVR98fs/w424-h386/Efeitos_do_mal.png"
+heroImage: "/images/Efeitos_do_mal.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbEFjmI3QV0cOApshwym78HNWJzfZJPXL4LeSe5gBAnbI79OiuHeJu7OEiHhoX4UUlO35M3P6GuZru_fOgigeLRKUy7jXiOKumzw3wFJJZerZHAkg3byLyxposOBv7zQj9pIQAqVR98fs/s531/Efeitos_do_mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="483" data-original-width="531" height="386" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbEFjmI3QV0cOApshwym78HNWJzfZJPXL4LeSe5gBAnbI79OiuHeJu7OEiHhoX4UUlO35M3P6GuZru_fOgigeLRKUy7jXiOKumzw3wFJJZerZHAkg3byLyxposOBv7zQj9pIQAqVR98fs/w424-h386/Efeitos_do_mal.png" width="424" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se alguém se aproximar de você e lhe oferecer um copo de

@@ -1,7 +1,7 @@
 ---
 title: "Mostra-me o Pai"
 date: 2021-11-26T18:36:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRp9_VWQXri4TJvEo52CpQzdE2onO5N4WyKICe_ABz2XVhXh1hqfEQeiOC5Q0Xow1TQkfskMzDSh291gbBKtcZ1lkn9DWgyVZt4IC7LPGdhNiJjwidlmXQjedIR0LW25c3kWyKZ8uFns0/s320/mostra-me+o+pai.png"
+heroImage: "/images/Pai.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRp9_VWQXri4TJvEo52CpQzdE2onO5N4WyKICe_ABz2XVhXh1hqfEQeiOC5Q0Xow1TQkfskMzDSh291gbBKtcZ1lkn9DWgyVZt4IC7LPGdhNiJjwidlmXQjedIR0LW25c3kWyKZ8uFns0/s844/mostra-me+o+pai.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="844" data-original-width="597" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRp9_VWQXri4TJvEo52CpQzdE2onO5N4WyKICe_ABz2XVhXh1hqfEQeiOC5Q0Xow1TQkfskMzDSh291gbBKtcZ1lkn9DWgyVZt4IC7LPGdhNiJjwidlmXQjedIR0LW25c3kWyKZ8uFns0/s320/mostra-me+o+pai.png" width="226" /></a></div><br /><p></p><p class="MsoNormal">Jesus já nos dizia que conheceremos a árvore pelos frutos,

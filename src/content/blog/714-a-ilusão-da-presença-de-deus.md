@@ -1,7 +1,7 @@
 ---
 title: "A ilusão da presença de Deus"
 date: 2016-01-29T13:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43Cp2s35xMvq87j0Z9d-v1brXp6th0ABdocB4S196HpELKhzaprSJKwFSSyAsfmpNRUHYHqjdUMgdaxPoPm71zQySyKUced31Me3xfe0j3Uz01k_E0sHYRXNPLGG0MiVm1A0P5qM_-dA/s320/wathey.png"
+heroImage: "/images/wathey.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43Cp2s35xMvq87j0Z9d-v1brXp6th0ABdocB4S196HpELKhzaprSJKwFSSyAsfmpNRUHYHqjdUMgdaxPoPm71zQySyKUced31Me3xfe0j3Uz01k_E0sHYRXNPLGG0MiVm1A0P5qM_-dA/s1600/wathey.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43Cp2s35xMvq87j0Z9d-v1brXp6th0ABdocB4S196HpELKhzaprSJKwFSSyAsfmpNRUHYHqjdUMgdaxPoPm71zQySyKUced31Me3xfe0j3Uz01k_E0sHYRXNPLGG0MiVm1A0P5qM_-dA/s320/wathey.png" width="320" height="234" data-original-width="313" data-original-height="229" /></a></div>

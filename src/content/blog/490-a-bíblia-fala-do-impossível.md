@@ -1,7 +1,7 @@
 ---
 title: "A bíblia fala do impossível"
 date: 2018-07-05T15:48:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWlhhIU0ErNChRCsvsQtJ-kO5f9W-HC6dtPCjoKbKda9GOegeUd55GFO94FvMv6lJlrUTQH_YbKVQu1AryAOus8923Iv4Kse7-RwDqsBFcyGBYyX9UF7KajAOcMvsXy9CAvdP0558kMwU/s320/impossivel.png"
+heroImage: "/images/impossivel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWlhhIU0ErNChRCsvsQtJ-kO5f9W-HC6dtPCjoKbKda9GOegeUd55GFO94FvMv6lJlrUTQH_YbKVQu1AryAOus8923Iv4Kse7-RwDqsBFcyGBYyX9UF7KajAOcMvsXy9CAvdP0558kMwU/s1600/impossivel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWlhhIU0ErNChRCsvsQtJ-kO5f9W-HC6dtPCjoKbKda9GOegeUd55GFO94FvMv6lJlrUTQH_YbKVQu1AryAOus8923Iv4Kse7-RwDqsBFcyGBYyX9UF7KajAOcMvsXy9CAvdP0558kMwU/s320/impossivel.png" width="320" height="307" data-original-width="484" data-original-height="464" /></a></div>

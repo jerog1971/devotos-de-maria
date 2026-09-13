@@ -1,7 +1,7 @@
 ---
 title: "Seguir Jesus"
 date: 2016-02-15T17:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXqcFwr93c33vy5jEdgJerClg0AoprDsuDqSYqA3Dn_AYN2AwNSFcvUYBULI3Mfd30oUMCJstWOpoCnfSXgWnPVCnR-qA_Li0UO1c0ky46tN4Hbpw4rSaCGssTE3I5EbMRw2DH6H0MyVQ/s200/n%25C3%25A3o-catolicos.png"
+heroImage: "/images/catolico.png"
 ---
 
 Leitores assíduos e ocasionais, sejam bem-vindos mais uma vez ao meu blog. Neste artigo iremos refletir um pouco sobre o comportamento do cristão. Como bem nos recorda São Paulo, devemos ser imitadores de Cristo. É o famoso exame de consciência diário e constante: Jesus faria isso? Como Jesus agiria nesta situação? Estou agradando a Jesus com esta atitude? E tanto é verdade que iremos começar a reflexão acrescentando uma exortação que o próprio salvador fez no século XIII em uma aparição que Ele fez a Santa Angela de Foligno, exemplo de mulher que, após perder em curto espaço de tempo, marido e numerosos filhos, buscou o arrependimento através da conversão, confissão, penitências e vida ascética. Assim disse Jesus:</br>

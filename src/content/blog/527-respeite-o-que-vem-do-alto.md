@@ -1,7 +1,7 @@
 ---
 title: "Respeite o que vem do alto"
 date: 2016-12-23T12:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2szKvCtJNLarpEMtgi7fZPFomueDKoR_KEdkbcU-Q07tSnUQlyUXQGuigVU62pRF7qiPlgHi9uBEexyEgHp2QQCPt8iAAzYCeHNiisFTojEhU_eJN1254hUcuFeuU-rTpWoNY-ah1Jg/s320/sacrilegio.png"
+heroImage: "/images/sacrilegio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2szKvCtJNLarpEMtgi7fZPFomueDKoR_KEdkbcU-Q07tSnUQlyUXQGuigVU62pRF7qiPlgHi9uBEexyEgHp2QQCPt8iAAzYCeHNiisFTojEhU_eJN1254hUcuFeuU-rTpWoNY-ah1Jg/s1600/sacrilegio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2szKvCtJNLarpEMtgi7fZPFomueDKoR_KEdkbcU-Q07tSnUQlyUXQGuigVU62pRF7qiPlgHi9uBEexyEgHp2QQCPt8iAAzYCeHNiisFTojEhU_eJN1254hUcuFeuU-rTpWoNY-ah1Jg/s320/sacrilegio.png" width="320" height="161" data-original-width="805" data-original-height="405" /></a></div>Com o passar do tempo o que se vê é uma adesão cada vez maior a proposta do mundo onde satanás prega que não é necessária uma vida ascética tão enraizada nos caminhos do evangelho, já trilhados por tantos santos e santas da nossa religião católica. Como o esforço que se emprega para descer a ladeira é bem menor do que o esforço para subi-la, é de se compreender porque tantas pessoas vivem com um falso alívio de consciência por ter abraçado conceitos que, para elas, são uma verdadeira rota alternativa para fugir do tão congestionado aclive pedregoso que separa o aqui da eternidade do paraíso.</br>

@@ -1,7 +1,7 @@
 ---
 title: "O corredor da morte"
 date: 2018-04-26T16:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRkAcmzKOyicbV-eNbD4EXQANQWSjsOO_jrnQdt0SU82pRxZnBfyA2r7XTYmma-dLJgVQq2M83ApC8te7qA8evKH0hyphenhyphenwZ-2FrvCKxHoSnO1PHDFFCk-d2efDc3LmnxMIAYk6vnYfX9G8/s320/corredor_hospital.png"
+heroImage: "/images/corredor_hospital.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRkAcmzKOyicbV-eNbD4EXQANQWSjsOO_jrnQdt0SU82pRxZnBfyA2r7XTYmma-dLJgVQq2M83ApC8te7qA8evKH0hyphenhyphenwZ-2FrvCKxHoSnO1PHDFFCk-d2efDc3LmnxMIAYk6vnYfX9G8/s1600/corredor_hospital.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRkAcmzKOyicbV-eNbD4EXQANQWSjsOO_jrnQdt0SU82pRxZnBfyA2r7XTYmma-dLJgVQq2M83ApC8te7qA8evKH0hyphenhyphenwZ-2FrvCKxHoSnO1PHDFFCk-d2efDc3LmnxMIAYk6vnYfX9G8/s320/corredor_hospital.png" width="320" height="303" data-original-width="665" data-original-height="630" /></a></div>

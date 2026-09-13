@@ -1,7 +1,7 @@
 ---
 title: "A vida toda fomos bonzinhos, o que ganhamos com isso?"
 date: 2017-05-08T16:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkLz0hrb1Dtr469OHz6Q5T_9i89EIL_qwRBLwxTq7y8qdUpejti9agTDlrkb-PvTsqk8Iq5li240ikzVOkzx65COzrsB1P_03rS6mopzMMSF2C18AwDe3bJuyMd6csuGFNjjt42E6hLg/s320/risco.png"
+heroImage: "/images/risco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkLz0hrb1Dtr469OHz6Q5T_9i89EIL_qwRBLwxTq7y8qdUpejti9agTDlrkb-PvTsqk8Iq5li240ikzVOkzx65COzrsB1P_03rS6mopzMMSF2C18AwDe3bJuyMd6csuGFNjjt42E6hLg/s1600/risco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkLz0hrb1Dtr469OHz6Q5T_9i89EIL_qwRBLwxTq7y8qdUpejti9agTDlrkb-PvTsqk8Iq5li240ikzVOkzx65COzrsB1P_03rS6mopzMMSF2C18AwDe3bJuyMd6csuGFNjjt42E6hLg/s320/risco.png" width="317" height="320" data-original-width="434" data-original-height="438" /></a></div>

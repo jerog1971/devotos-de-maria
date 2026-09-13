@@ -1,7 +1,7 @@
 ---
 title: "Os negociantes e a santa missa"
 date: 2016-07-14T11:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs9MffRYremP5W_utckqcjAmzwdNYTY86N5PSOnAgwoT0T3G3nRYyFZRLyymdwlabJ_AntOBhbiIYTKwYC5bRARd7RV0FyHA93qEutG9bvY7Bq3Jjr4Vwqn5tkTRIRtSpYG3UqGgILNRU/s320/LeonardoP.png"
+heroImage: "/images/LeonardoP.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs9MffRYremP5W_utckqcjAmzwdNYTY86N5PSOnAgwoT0T3G3nRYyFZRLyymdwlabJ_AntOBhbiIYTKwYC5bRARd7RV0FyHA93qEutG9bvY7Bq3Jjr4Vwqn5tkTRIRtSpYG3UqGgILNRU/s1600/LeonardoP.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs9MffRYremP5W_utckqcjAmzwdNYTY86N5PSOnAgwoT0T3G3nRYyFZRLyymdwlabJ_AntOBhbiIYTKwYC5bRARd7RV0FyHA93qEutG9bvY7Bq3Jjr4Vwqn5tkTRIRtSpYG3UqGgILNRU/s320/LeonardoP.png" width="288" height="320" data-original-width="248" data-original-height="276" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Adolescentes dispersos"
 date: 2018-11-06T18:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7W0iP1_P4BpeftGiC2GPrgMcIFUhnPERRRkWc3V4fzcl_4dmXPBfUmKFeUOP7CUO-bfWo2XuNBvKPM2l9hZh8z-bF7iD7hr0wiOjYrreKeRr2LEYnAFl7iNLJ_q1GihLOt1Fp2OphAI/s320/adolescentes.png"
+heroImage: "/images/adolescentes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7W0iP1_P4BpeftGiC2GPrgMcIFUhnPERRRkWc3V4fzcl_4dmXPBfUmKFeUOP7CUO-bfWo2XuNBvKPM2l9hZh8z-bF7iD7hr0wiOjYrreKeRr2LEYnAFl7iNLJ_q1GihLOt1Fp2OphAI/s1600/adolescentes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7W0iP1_P4BpeftGiC2GPrgMcIFUhnPERRRkWc3V4fzcl_4dmXPBfUmKFeUOP7CUO-bfWo2XuNBvKPM2l9hZh8z-bF7iD7hr0wiOjYrreKeRr2LEYnAFl7iNLJ_q1GihLOt1Fp2OphAI/s320/adolescentes.png" width="318" height="320" data-original-width="393" data-original-height="395" /></a></div>

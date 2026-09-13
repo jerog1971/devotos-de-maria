@@ -1,7 +1,7 @@
 ---
 title: "Vocês são a minha família?"
 date: 2019-06-25T18:08:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgUJlnJ3Et9WEl1TDe9_Tqgp6jKmyRaGRXMBesGjgSB6lUqYYJrR1yWCBgrrZwsgTLKy0AStZZXYnUXfNgIu1iDwfh1iLCw9EPf-GYS0DIej7Uj5u9Desi4CJ14kVCqzLIAHGLYci8E4A/s320/Yasmin.png"
+heroImage: "/images/Yasmin.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgUJlnJ3Et9WEl1TDe9_Tqgp6jKmyRaGRXMBesGjgSB6lUqYYJrR1yWCBgrrZwsgTLKy0AStZZXYnUXfNgIu1iDwfh1iLCw9EPf-GYS0DIej7Uj5u9Desi4CJ14kVCqzLIAHGLYci8E4A/s1600/Yasmin.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgUJlnJ3Et9WEl1TDe9_Tqgp6jKmyRaGRXMBesGjgSB6lUqYYJrR1yWCBgrrZwsgTLKy0AStZZXYnUXfNgIu1iDwfh1iLCw9EPf-GYS0DIej7Uj5u9Desi4CJ14kVCqzLIAHGLYci8E4A/s320/Yasmin.png" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Meu povo se perde por falta de conhecimento"
 date: 2017-02-23T14:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinesCpapEiBHtdnqQdj7O_0zJyL6QsgpRzHUbNsu7Ka6g8jrSzECkptaTPWZ3jlHvtK-5o35-FwfLomL8Nbu5hlk9vUVjRo1i6dY8_rTmap0CNBloNO7xLpsOVI2u45vaz4_DAz8IWVn0/s320/curso.png"
+heroImage: "/images/curso.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinesCpapEiBHtdnqQdj7O_0zJyL6QsgpRzHUbNsu7Ka6g8jrSzECkptaTPWZ3jlHvtK-5o35-FwfLomL8Nbu5hlk9vUVjRo1i6dY8_rTmap0CNBloNO7xLpsOVI2u45vaz4_DAz8IWVn0/s1600/curso.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinesCpapEiBHtdnqQdj7O_0zJyL6QsgpRzHUbNsu7Ka6g8jrSzECkptaTPWZ3jlHvtK-5o35-FwfLomL8Nbu5hlk9vUVjRo1i6dY8_rTmap0CNBloNO7xLpsOVI2u45vaz4_DAz8IWVn0/s320/curso.png" width="294" height="320" data-original-width="254" data-original-height="276" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Não posso dispor do meu corpo"
 date: 2017-03-20T12:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzs06Lb6Pzrgw9QM5icxWCDb55TkA3duH_47RQbB3HMZlT1Kot1mY5-6BKCgaN_sepkxganv3BoJMN7CLmOAsdxx8KYBks6PCEyUioQYv2tR7Pe2ycAj8a1QXPfeH7rJyUTmwbmnhqns/s320/trair.png"
+heroImage: "/images/não_trair.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzs06Lb6Pzrgw9QM5icxWCDb55TkA3duH_47RQbB3HMZlT1Kot1mY5-6BKCgaN_sepkxganv3BoJMN7CLmOAsdxx8KYBks6PCEyUioQYv2tR7Pe2ycAj8a1QXPfeH7rJyUTmwbmnhqns/s1600/trair.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzs06Lb6Pzrgw9QM5icxWCDb55TkA3duH_47RQbB3HMZlT1Kot1mY5-6BKCgaN_sepkxganv3BoJMN7CLmOAsdxx8KYBks6PCEyUioQYv2tR7Pe2ycAj8a1QXPfeH7rJyUTmwbmnhqns/s320/trair.png" width="320" height="320" data-original-width="422" data-original-height="422" /></a></div>

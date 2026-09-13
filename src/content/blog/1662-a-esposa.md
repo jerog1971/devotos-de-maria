@@ -1,7 +1,7 @@
 ---
 title: "A esposa"
 date: 2024-09-04T21:27:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNa91Itw8v10NqEKZsArvr9TbY0FfXQACzIn4hNc_8voNfQEBVlgESYRGbqydbLGbDjh3HDOUn6kcTuXJJ0z84yH0KbBJkO2nWDJQy0ifWwb7JesSmhJHPiA_YWSb_g1uZTu71bifYdgb2TWwWaL3iqiBVa4aBK20GM5e5bnXk_r70ArZnrfzQeUTbmws/s320/A%20esposa.jpg"
+heroImage: "/images/A esposa.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNa91Itw8v10NqEKZsArvr9TbY0FfXQACzIn4hNc_8voNfQEBVlgESYRGbqydbLGbDjh3HDOUn6kcTuXJJ0z84yH0KbBJkO2nWDJQy0ifWwb7JesSmhJHPiA_YWSb_g1uZTu71bifYdgb2TWwWaL3iqiBVa4aBK20GM5e5bnXk_r70ArZnrfzQeUTbmws/s563/A%20esposa.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="563" data-original-width="480" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNa91Itw8v10NqEKZsArvr9TbY0FfXQACzIn4hNc_8voNfQEBVlgESYRGbqydbLGbDjh3HDOUn6kcTuXJJ0z84yH0KbBJkO2nWDJQy0ifWwb7JesSmhJHPiA_YWSb_g1uZTu71bifYdgb2TWwWaL3iqiBVa4aBK20GM5e5bnXk_r70ArZnrfzQeUTbmws/s320/A%20esposa.jpg" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Vira e mexe falo sobre a família, sobre as famílias de um modo

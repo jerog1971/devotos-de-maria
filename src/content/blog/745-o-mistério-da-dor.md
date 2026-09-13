@@ -1,7 +1,7 @@
 ---
 title: "O mistério da Dor"
 date: 2017-04-03T19:44:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghmA39jLoSGJVYCKoSfGDYZZtlricetG3GG7he7uIFT_KgDoScVPbyTubZ0L_e9N14A5EG3W-O6m9zKMxaoOp2gO9g_4hFCeWdZxbL5L0o9oDuNy6lYnyqfbXw2ox88qEvjlBF8f5AuGw/s320/sofrer.png"
+heroImage: "/images/sofrer.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghmA39jLoSGJVYCKoSfGDYZZtlricetG3GG7he7uIFT_KgDoScVPbyTubZ0L_e9N14A5EG3W-O6m9zKMxaoOp2gO9g_4hFCeWdZxbL5L0o9oDuNy6lYnyqfbXw2ox88qEvjlBF8f5AuGw/s1600/sofrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghmA39jLoSGJVYCKoSfGDYZZtlricetG3GG7he7uIFT_KgDoScVPbyTubZ0L_e9N14A5EG3W-O6m9zKMxaoOp2gO9g_4hFCeWdZxbL5L0o9oDuNy6lYnyqfbXw2ox88qEvjlBF8f5AuGw/s320/sofrer.png" width="314" height="320" data-original-width="265" data-original-height="270" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Cristãos sob ataque outra vez"
 date: 2025-07-04T19:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPj28133t9iRVSymJIiAzn12KtXReGXyLYlWI2wk_3GsSve9oQiWpEQ7vQjpQlY7B-deOawrCnqndXK6SeLIsUx7tHmJBFFciRbnkRAO7xBbgV5yPvHJnwDqC9KinDwmeoUAJC6npc2slrfEjI3R79tYIPuL0frVl-qOI_QFFhiWO7Y7eYR_WFsqvSXc8/s320/Seriado%20blasfemo.png"
+heroImage: "/images/Seriado blasfemo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPj28133t9iRVSymJIiAzn12KtXReGXyLYlWI2wk_3GsSve9oQiWpEQ7vQjpQlY7B-deOawrCnqndXK6SeLIsUx7tHmJBFFciRbnkRAO7xBbgV5yPvHJnwDqC9KinDwmeoUAJC6npc2slrfEjI3R79tYIPuL0frVl-qOI_QFFhiWO7Y7eYR_WFsqvSXc8/s465/Seriado%20blasfemo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="298" data-original-width="465" height="205" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPj28133t9iRVSymJIiAzn12KtXReGXyLYlWI2wk_3GsSve9oQiWpEQ7vQjpQlY7B-deOawrCnqndXK6SeLIsUx7tHmJBFFciRbnkRAO7xBbgV5yPvHJnwDqC9KinDwmeoUAJC6npc2slrfEjI3R79tYIPuL0frVl-qOI_QFFhiWO7Y7eYR_WFsqvSXc8/s320/Seriado%20blasfemo.png" width="320" /></a></div><br />&nbsp;<p></p><p>“Desta

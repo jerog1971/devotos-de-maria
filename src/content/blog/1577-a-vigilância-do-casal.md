@@ -1,7 +1,7 @@
 ---
 title: "A vigilância do casal"
 date: 2017-04-27T14:10:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGvNYnLTBkB3FdXCXXL4PFujTdCIUJGvwvwN7AzuSL9vD72qrDd14JKl0i0NneEyI_R-yEmWKxtYv3tQlRwJnQMZ-rlx-mH4i1cm6CPJAe8vqkPMi33IlWLl5ynIKwCrbzVLJ4wF3vMgM/s320/diabonomeio.png"
+heroImage: "/images/diabonomeio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGvNYnLTBkB3FdXCXXL4PFujTdCIUJGvwvwN7AzuSL9vD72qrDd14JKl0i0NneEyI_R-yEmWKxtYv3tQlRwJnQMZ-rlx-mH4i1cm6CPJAe8vqkPMi33IlWLl5ynIKwCrbzVLJ4wF3vMgM/s1600/diabonomeio.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="369" data-original-width="299" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGvNYnLTBkB3FdXCXXL4PFujTdCIUJGvwvwN7AzuSL9vD72qrDd14JKl0i0NneEyI_R-yEmWKxtYv3tQlRwJnQMZ-rlx-mH4i1cm6CPJAe8vqkPMi33IlWLl5ynIKwCrbzVLJ4wF3vMgM/s320/diabonomeio.png" width="259" /></a></div>

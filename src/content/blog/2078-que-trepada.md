@@ -1,7 +1,7 @@
 ---
 title: "Que trepada"
 date: 2018-09-12T18:06:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp3aZFDlKgq2CECNOs-6LN9RSuoT_HmFfg8P2Q3FqS1zr8nlUKiaJ0sKFuAc8KWXTBgGVkrqrzufIQzXorA9ccgx69FK6KS7lm5r3WfTRTUWILPPSwaYDj5K28lhRSUMHvHpi7KWKkSWw/s320/trepada.png"
+heroImage: "/images/trepada.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp3aZFDlKgq2CECNOs-6LN9RSuoT_HmFfg8P2Q3FqS1zr8nlUKiaJ0sKFuAc8KWXTBgGVkrqrzufIQzXorA9ccgx69FK6KS7lm5r3WfTRTUWILPPSwaYDj5K28lhRSUMHvHpi7KWKkSWw/s1600/trepada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp3aZFDlKgq2CECNOs-6LN9RSuoT_HmFfg8P2Q3FqS1zr8nlUKiaJ0sKFuAc8KWXTBgGVkrqrzufIQzXorA9ccgx69FK6KS7lm5r3WfTRTUWILPPSwaYDj5K28lhRSUMHvHpi7KWKkSWw/s320/trepada.png" width="320" height="277" data-original-width="527" data-original-height="456" /></a></div>

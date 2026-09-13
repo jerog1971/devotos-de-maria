@@ -1,7 +1,7 @@
 ---
 title: "A intercessão de Nossa Senhora"
 date: 2018-12-21T18:27:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhhSPOKFbWoxbosdcb7Rvthz2b106qVoz8o_Xpe-me1X2BJnDMce1hPMGbVXe4vkM2g2TMZ6lcWvjjFKXAc-kfKLB3DIg6MNrxquwLqjSOS72kf0lYG6BhsWPwZndkxh-P3wbRQ0OKuwo/s320/interse%25C3%25A7%25C3%25A3o_de_Nossa_Senhora.png"
+heroImage: "/images/Nossa_Senhora.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhhSPOKFbWoxbosdcb7Rvthz2b106qVoz8o_Xpe-me1X2BJnDMce1hPMGbVXe4vkM2g2TMZ6lcWvjjFKXAc-kfKLB3DIg6MNrxquwLqjSOS72kf0lYG6BhsWPwZndkxh-P3wbRQ0OKuwo/s1600/interse%25C3%25A7%25C3%25A3o_de_Nossa_Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhhSPOKFbWoxbosdcb7Rvthz2b106qVoz8o_Xpe-me1X2BJnDMce1hPMGbVXe4vkM2g2TMZ6lcWvjjFKXAc-kfKLB3DIg6MNrxquwLqjSOS72kf0lYG6BhsWPwZndkxh-P3wbRQ0OKuwo/s320/interse%25C3%25A7%25C3%25A3o_de_Nossa_Senhora.png" width="320" height="232" data-original-width="486" data-original-height="352" /></a></div>

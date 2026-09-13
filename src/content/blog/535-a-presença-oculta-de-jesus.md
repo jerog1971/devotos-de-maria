@@ -1,7 +1,7 @@
 ---
 title: "A presença oculta de Jesus"
 date: 2018-05-10T15:48:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWA2ZYboMs89wvwYc_wk3IPRbMqSfVb9pZpPu4xq64hdMXuGtrqWdusDTkQTWVr90-mfxOANS7r39K9mIJjBNoyZUXyxqHmrG99eBtUUq5xh1fk_AMiX8_1Z95RWIDc8QiMbeOPkQRUuo/s320/Jesus_oculto.jpg"
+heroImage: "/images/Jesus_oculto.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWA2ZYboMs89wvwYc_wk3IPRbMqSfVb9pZpPu4xq64hdMXuGtrqWdusDTkQTWVr90-mfxOANS7r39K9mIJjBNoyZUXyxqHmrG99eBtUUq5xh1fk_AMiX8_1Z95RWIDc8QiMbeOPkQRUuo/s1600/Jesus_oculto.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWA2ZYboMs89wvwYc_wk3IPRbMqSfVb9pZpPu4xq64hdMXuGtrqWdusDTkQTWVr90-mfxOANS7r39K9mIJjBNoyZUXyxqHmrG99eBtUUq5xh1fk_AMiX8_1Z95RWIDc8QiMbeOPkQRUuo/s320/Jesus_oculto.jpg" width="320" height="315" data-original-width="720" data-original-height="708" /></a></div>

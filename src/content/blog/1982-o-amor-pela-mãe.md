@@ -1,7 +1,7 @@
 ---
 title: "O amor pela mãe"
 date: 2022-05-02T20:05:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-oZmsMDwbDqjjB5ppuiRdwjEAIuYIaG_l0WWTwoOLdRRpiVjcvuFg5IrPm2gJt6aYdObfh5yuXADkiQdzDuohdt80InZB1XTm6C6BGovpzEgF7KBbGTqYuckEQW3fH0UqvzRaQUPuzeEH6Pm4q-QRWI08P5DFBuMrZe4-zPoWV9vs_g1seSRZBFH/s320/o%20amor%20pela%20m%C3%A3e.png"
+heroImage: "/images/Ela.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-oZmsMDwbDqjjB5ppuiRdwjEAIuYIaG_l0WWTwoOLdRRpiVjcvuFg5IrPm2gJt6aYdObfh5yuXADkiQdzDuohdt80InZB1XTm6C6BGovpzEgF7KBbGTqYuckEQW3fH0UqvzRaQUPuzeEH6Pm4q-QRWI08P5DFBuMrZe4-zPoWV9vs_g1seSRZBFH/s376/o%20amor%20pela%20m%C3%A3e.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="376" height="303" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-oZmsMDwbDqjjB5ppuiRdwjEAIuYIaG_l0WWTwoOLdRRpiVjcvuFg5IrPm2gJt6aYdObfh5yuXADkiQdzDuohdt80InZB1XTm6C6BGovpzEgF7KBbGTqYuckEQW3fH0UqvzRaQUPuzeEH6Pm4q-QRWI08P5DFBuMrZe4-zPoWV9vs_g1seSRZBFH/s320/o%20amor%20pela%20m%C3%A3e.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo gosta da sua mãe, todo mundo dela precisa muito e

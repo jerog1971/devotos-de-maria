@@ -1,7 +1,7 @@
 ---
 title: "Tolerância x Preconceito"
 date: 2016-09-22T20:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Bs_EKKSnkb4ODRRuO31LmMel4WH7F9n3xPa5iy5KjgA-Keo7VXB-YiOMZok8zy81fEhWTVeo89ecMgdp2vC6YH3Wi_USvrWoWIHHd_Wz3F7-3H7rqk1x0t2ED2m7iKOEFUE6CwgO_rs/s320/acolher.png"
+heroImage: "/images/acolher.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Bs_EKKSnkb4ODRRuO31LmMel4WH7F9n3xPa5iy5KjgA-Keo7VXB-YiOMZok8zy81fEhWTVeo89ecMgdp2vC6YH3Wi_USvrWoWIHHd_Wz3F7-3H7rqk1x0t2ED2m7iKOEFUE6CwgO_rs/s1600/acolher.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Bs_EKKSnkb4ODRRuO31LmMel4WH7F9n3xPa5iy5KjgA-Keo7VXB-YiOMZok8zy81fEhWTVeo89ecMgdp2vC6YH3Wi_USvrWoWIHHd_Wz3F7-3H7rqk1x0t2ED2m7iKOEFUE6CwgO_rs/s320/acolher.png" width="320" height="229" data-original-width="344" data-original-height="246" /></a></div>

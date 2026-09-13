@@ -1,7 +1,7 @@
 ---
 title: "Fora do rumo e do prumo"
 date: 2025-03-14T18:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjticg9h-_LeWzm5WBScTtmZpEWsMMgo1Jl0vQDe67BYD-TuUfajERCubToKz0_Yy1XMufZFzw-QA1oYqqfZ3xXXevb_JlGSUI3hz7J4G65PgWbz-loIqRntjmeBac2rdSblAvtMwOEkaWqe0V3mxZ_fXtvAz3yNyY4jY8wHWUOh3epFTdSxpP9lqrsYsQ/s320/fora%20do%20prumo.png"
+heroImage: "/images/fora do prumo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjticg9h-_LeWzm5WBScTtmZpEWsMMgo1Jl0vQDe67BYD-TuUfajERCubToKz0_Yy1XMufZFzw-QA1oYqqfZ3xXXevb_JlGSUI3hz7J4G65PgWbz-loIqRntjmeBac2rdSblAvtMwOEkaWqe0V3mxZ_fXtvAz3yNyY4jY8wHWUOh3epFTdSxpP9lqrsYsQ/s433/fora%20do%20prumo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="433" height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjticg9h-_LeWzm5WBScTtmZpEWsMMgo1Jl0vQDe67BYD-TuUfajERCubToKz0_Yy1XMufZFzw-QA1oYqqfZ3xXXevb_JlGSUI3hz7J4G65PgWbz-loIqRntjmeBac2rdSblAvtMwOEkaWqe0V3mxZ_fXtvAz3yNyY4jY8wHWUOh3epFTdSxpP9lqrsYsQ/s320/fora%20do%20prumo.png" width="320" /></a></div><br />&nbsp;

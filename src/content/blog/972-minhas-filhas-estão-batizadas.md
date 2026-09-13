@@ -1,7 +1,7 @@
 ---
 title: "Minhas filhas estão batizadas"
 date: 2016-05-30T15:48:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87S_8Oqj37IBTrLsqVfJ_h-GXsyjCk992Xawrtwvtcx8A-9Fw-deEBmbg6_C74jbSQa8Ndsqv1oK_hKeqayryljNE3asRyO2kzPINMAFnY3lEp5SB4cGolI4H6u8_KROE_Cum6LABrAo/s320/Sofia+Chuca.jpg"
+heroImage: "/images/Sofia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87S_8Oqj37IBTrLsqVfJ_h-GXsyjCk992Xawrtwvtcx8A-9Fw-deEBmbg6_C74jbSQa8Ndsqv1oK_hKeqayryljNE3asRyO2kzPINMAFnY3lEp5SB4cGolI4H6u8_KROE_Cum6LABrAo/s1600/Sofia+Chuca.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87S_8Oqj37IBTrLsqVfJ_h-GXsyjCk992Xawrtwvtcx8A-9Fw-deEBmbg6_C74jbSQa8Ndsqv1oK_hKeqayryljNE3asRyO2kzPINMAFnY3lEp5SB4cGolI4H6u8_KROE_Cum6LABrAo/s320/Sofia+Chuca.jpg" width="320" height="307" data-original-width="356" data-original-height="341" /></a></div>

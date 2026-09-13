@@ -1,7 +1,7 @@
 ---
 title: "Ecumenismo condenado por Jesus"
 date: 2016-02-12T12:59:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-52kbbJBaXwRUJwRoSyMn8GclInQwIeN8R6k_crV9y8_G__u1HGU9lbOcjvxsQ_8_WiSuM6Y_-F4wjuCvz_1JF-KkReFifAiABj4Ft_yfP74FrMv4vTR7WZrfl8rDITpACj_QgQPyQdY/s320/ecumenismo2.png"
+heroImage: "/images/ecumenismo2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-52kbbJBaXwRUJwRoSyMn8GclInQwIeN8R6k_crV9y8_G__u1HGU9lbOcjvxsQ_8_WiSuM6Y_-F4wjuCvz_1JF-KkReFifAiABj4Ft_yfP74FrMv4vTR7WZrfl8rDITpACj_QgQPyQdY/s1600/ecumenismo2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="477" data-original-width="476" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-52kbbJBaXwRUJwRoSyMn8GclInQwIeN8R6k_crV9y8_G__u1HGU9lbOcjvxsQ_8_WiSuM6Y_-F4wjuCvz_1JF-KkReFifAiABj4Ft_yfP74FrMv4vTR7WZrfl8rDITpACj_QgQPyQdY/s320/ecumenismo2.png" width="319" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Cansado das acusações de que os católicos adoram imagens?"
 date: 2016-02-03T12:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU_nGEL3dN62k48eMlSNs8EXNmPUTShxDXb7bvC9Lq0htZ5OBOxhGqjazNM_ahSsv8Kw8zI-EHqbsmXHh7o517I1lIG1Sq5hxZSo7dqt9G8kiqF9Qtebzf-svX7ZLhyphenhyphenUB9lyVx26C4OIA/s320/crucificado.png"
+heroImage: "/images/Jesus_crucificado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU_nGEL3dN62k48eMlSNs8EXNmPUTShxDXb7bvC9Lq0htZ5OBOxhGqjazNM_ahSsv8Kw8zI-EHqbsmXHh7o517I1lIG1Sq5hxZSo7dqt9G8kiqF9Qtebzf-svX7ZLhyphenhyphenUB9lyVx26C4OIA/s1600/crucificado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU_nGEL3dN62k48eMlSNs8EXNmPUTShxDXb7bvC9Lq0htZ5OBOxhGqjazNM_ahSsv8Kw8zI-EHqbsmXHh7o517I1lIG1Sq5hxZSo7dqt9G8kiqF9Qtebzf-svX7ZLhyphenhyphenUB9lyVx26C4OIA/s320/crucificado.png" width="320" height="291" data-original-width="293" data-original-height="266" /></a></div>

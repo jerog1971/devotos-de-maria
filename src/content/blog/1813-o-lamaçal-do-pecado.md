@@ -1,7 +1,7 @@
 ---
 title: "O lamaçal do pecado"
 date: 2017-05-26T19:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuD3BrqJUC76-hGGePyyyBX781yv07p6-f-N6M48G0t_-0Y4kAbhgwh36vWGoobdMf-J7Sp0DUKDumpZy7drIEQq-N1skG9KHuj8pBq-LNJR0Vrv6ZXe_P21oH5n3PL5hHUcUB78RY68/s320/lamacal.png"
+heroImage: "/images/lamacal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuD3BrqJUC76-hGGePyyyBX781yv07p6-f-N6M48G0t_-0Y4kAbhgwh36vWGoobdMf-J7Sp0DUKDumpZy7drIEQq-N1skG9KHuj8pBq-LNJR0Vrv6ZXe_P21oH5n3PL5hHUcUB78RY68/s1600/lamacal.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="450" data-original-width="493" height="292" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuD3BrqJUC76-hGGePyyyBX781yv07p6-f-N6M48G0t_-0Y4kAbhgwh36vWGoobdMf-J7Sp0DUKDumpZy7drIEQq-N1skG9KHuj8pBq-LNJR0Vrv6ZXe_P21oH5n3PL5hHUcUB78RY68/s320/lamacal.png" width="320" /></a></div>

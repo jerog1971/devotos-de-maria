@@ -1,7 +1,7 @@
 ---
 title: "Será que Maria passa na frente?"
 date: 2021-10-10T16:07:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhevED4GhlqfFR_n1F8gH_rs2iZjojhUIf12V4f4UDqbPaYkPqI03Cgi9P1MbJMiukKMWMqKzqXA8kkXrnCd7qElPk3IF4dKYvwuKODJCEJjsvZQknFluxxZWda_pxYbpN85Rq0Npe9v6E/s320/Maria+passa+na+frente.png"
+heroImage: "/images/Maria.gif"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhevED4GhlqfFR_n1F8gH_rs2iZjojhUIf12V4f4UDqbPaYkPqI03Cgi9P1MbJMiukKMWMqKzqXA8kkXrnCd7qElPk3IF4dKYvwuKODJCEJjsvZQknFluxxZWda_pxYbpN85Rq0Npe9v6E/s559/Maria+passa+na+frente.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="534" data-original-width="559" height="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhevED4GhlqfFR_n1F8gH_rs2iZjojhUIf12V4f4UDqbPaYkPqI03Cgi9P1MbJMiukKMWMqKzqXA8kkXrnCd7qElPk3IF4dKYvwuKODJCEJjsvZQknFluxxZWda_pxYbpN85Rq0Npe9v6E/s320/Maria+passa+na+frente.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Entre as muitas devoções que a população experimenta durante

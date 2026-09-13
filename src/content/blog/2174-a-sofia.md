@@ -1,7 +1,7 @@
 ---
 title: "A Sofia"
 date: 2024-09-04T20:42:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6PA0hclyU5ritCFUvB6DOmEmgv-NDb8NV7d6a5JcMyNjIlaTKv3gLeF15HL86xioyRxxiLfie53REv0b70Un6Wk16hdm7uxDKwkZkeCDMj7a3nHSt0lOrfA15KEKfQYllpe840utyujQ9wWKVS9sMIOkTYMFSIwJkG2EkgbMK5M2O414ToG9BYi2MMg8/s320/A%20Sofia.jpg"
+heroImage: "/images/A Sofia.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6PA0hclyU5ritCFUvB6DOmEmgv-NDb8NV7d6a5JcMyNjIlaTKv3gLeF15HL86xioyRxxiLfie53REv0b70Un6Wk16hdm7uxDKwkZkeCDMj7a3nHSt0lOrfA15KEKfQYllpe840utyujQ9wWKVS9sMIOkTYMFSIwJkG2EkgbMK5M2O414ToG9BYi2MMg8/s960/A%20Sofia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="480" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6PA0hclyU5ritCFUvB6DOmEmgv-NDb8NV7d6a5JcMyNjIlaTKv3gLeF15HL86xioyRxxiLfie53REv0b70Un6Wk16hdm7uxDKwkZkeCDMj7a3nHSt0lOrfA15KEKfQYllpe840utyujQ9wWKVS9sMIOkTYMFSIwJkG2EkgbMK5M2O414ToG9BYi2MMg8/s320/A%20Sofia.jpg" width="160" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Ela é uma das minhas filhas, uma maravilha de criança, muito

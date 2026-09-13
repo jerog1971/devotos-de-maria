@@ -1,7 +1,7 @@
 ---
 title: "Como Cordeiro..."
 date: 2016-07-06T11:30:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL3I9NbuuVCrCrD9DLEzcZR1yOxOrC5vEM41dHQileuz3f5uOBx44ATnO-QSJnv34IwLHitaBqZsmeG6D7SbrsmRqXv5ufeMku_aRsokjOT7VMPW-Cj8oTHPSapnZrf3FWGmSSM3gCl9E/s320/cordeiro.png"
+heroImage: "/images/cordeiro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL3I9NbuuVCrCrD9DLEzcZR1yOxOrC5vEM41dHQileuz3f5uOBx44ATnO-QSJnv34IwLHitaBqZsmeG6D7SbrsmRqXv5ufeMku_aRsokjOT7VMPW-Cj8oTHPSapnZrf3FWGmSSM3gCl9E/s1600/cordeiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL3I9NbuuVCrCrD9DLEzcZR1yOxOrC5vEM41dHQileuz3f5uOBx44ATnO-QSJnv34IwLHitaBqZsmeG6D7SbrsmRqXv5ufeMku_aRsokjOT7VMPW-Cj8oTHPSapnZrf3FWGmSSM3gCl9E/s320/cordeiro.png" width="320" height="251" data-original-width="457" data-original-height="359" /></a></div>

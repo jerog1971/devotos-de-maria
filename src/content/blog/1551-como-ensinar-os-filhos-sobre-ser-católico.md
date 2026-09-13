@@ -1,7 +1,7 @@
 ---
 title: "Como ensinar os filhos sobre \"ser católico\""
 date: 2016-08-18T18:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWaRBL2DQBwO0yjbbZb91M1DXt7Xg3aMfWmJhXrImAL94tYTaXtyjPeNwPHERcF7Q9baZLsivrFheRqNp9iMDBILWPIoYE0sBCGIXG9ce6d1rhLCDrQXurVC_WMlOqpYNqotry46hLFNU/s320/quatro.jpg"
+heroImage: "/images/quatro.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWaRBL2DQBwO0yjbbZb91M1DXt7Xg3aMfWmJhXrImAL94tYTaXtyjPeNwPHERcF7Q9baZLsivrFheRqNp9iMDBILWPIoYE0sBCGIXG9ce6d1rhLCDrQXurVC_WMlOqpYNqotry46hLFNU/s1600/quatro.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWaRBL2DQBwO0yjbbZb91M1DXt7Xg3aMfWmJhXrImAL94tYTaXtyjPeNwPHERcF7Q9baZLsivrFheRqNp9iMDBILWPIoYE0sBCGIXG9ce6d1rhLCDrQXurVC_WMlOqpYNqotry46hLFNU/s320/quatro.jpg" width="315" height="320" data-original-width="620" data-original-height="629" /></a></div>

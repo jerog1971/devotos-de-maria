@@ -1,7 +1,7 @@
 ---
 title: "A fé em frangalhos"
 date: 2018-12-06T19:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYkPjSvobK-woRbHF2Ta8_KXnZXH1os-jxj9MQ4fUaYhey-Zj3cfNY6gSqRtTfvv10uXaiz1Iyexs3ePZnGg07MFm5yoaei19oOBARHbjmxegB0F9uEKerGQr4rRz7Q3s4GLrw7X3HmQ4/s320/religiao.png"
+heroImage: "/images/religiao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYkPjSvobK-woRbHF2Ta8_KXnZXH1os-jxj9MQ4fUaYhey-Zj3cfNY6gSqRtTfvv10uXaiz1Iyexs3ePZnGg07MFm5yoaei19oOBARHbjmxegB0F9uEKerGQr4rRz7Q3s4GLrw7X3HmQ4/s1600/religiao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYkPjSvobK-woRbHF2Ta8_KXnZXH1os-jxj9MQ4fUaYhey-Zj3cfNY6gSqRtTfvv10uXaiz1Iyexs3ePZnGg07MFm5yoaei19oOBARHbjmxegB0F9uEKerGQr4rRz7Q3s4GLrw7X3HmQ4/s320/religiao.png" width="320" height="285" data-original-width="310" data-original-height="276" /></a></div>

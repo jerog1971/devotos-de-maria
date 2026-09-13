@@ -1,7 +1,7 @@
 ---
 title: "UNESCO – Comandada por satanás"
 date: 2016-11-21T11:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO21leDW4QJvhDle831uhd_Y1qVLEE9FpSOPLx9zDrVw0vRVNxYb9lBoGacffsMPR_cbmsXyVc9Pkp6YZKYN4uOPGDebVRNXLaSRebffbgHVQzg6U-BZc7SERvYPiQQrDNPsii1fIfMPw/s320/unesco.png"
+heroImage: "/images/unesco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO21leDW4QJvhDle831uhd_Y1qVLEE9FpSOPLx9zDrVw0vRVNxYb9lBoGacffsMPR_cbmsXyVc9Pkp6YZKYN4uOPGDebVRNXLaSRebffbgHVQzg6U-BZc7SERvYPiQQrDNPsii1fIfMPw/s1600/unesco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO21leDW4QJvhDle831uhd_Y1qVLEE9FpSOPLx9zDrVw0vRVNxYb9lBoGacffsMPR_cbmsXyVc9Pkp6YZKYN4uOPGDebVRNXLaSRebffbgHVQzg6U-BZc7SERvYPiQQrDNPsii1fIfMPw/s320/unesco.png" width="320" height="156" data-original-width="456" data-original-height="223" /></a></div>

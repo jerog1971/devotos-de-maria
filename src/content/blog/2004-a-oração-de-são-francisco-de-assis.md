@@ -1,7 +1,7 @@
 ---
 title: "A oração de São Francisco de Assis"
 date: 2017-12-12T13:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmOg4MqPQ2SRhHBBPYpGqRuheRigWG4y15xtjBlurmns4DiA2TT4OKfghqaN9AMElbjx5oz5hy3cImHWGD4IlOc-Qf76eG21S8mLs6UK0toopJ_kAJCECBSxq6XiSq9Eg6kJBbKsuxUZo/s320/oracao_sao_francisco_de_assis.png"
+heroImage: "/images/oracao_sao_francisco_de_assis.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmOg4MqPQ2SRhHBBPYpGqRuheRigWG4y15xtjBlurmns4DiA2TT4OKfghqaN9AMElbjx5oz5hy3cImHWGD4IlOc-Qf76eG21S8mLs6UK0toopJ_kAJCECBSxq6XiSq9Eg6kJBbKsuxUZo/s1600/oracao_sao_francisco_de_assis.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmOg4MqPQ2SRhHBBPYpGqRuheRigWG4y15xtjBlurmns4DiA2TT4OKfghqaN9AMElbjx5oz5hy3cImHWGD4IlOc-Qf76eG21S8mLs6UK0toopJ_kAJCECBSxq6XiSq9Eg6kJBbKsuxUZo/s320/oracao_sao_francisco_de_assis.png" width="320" height="314" data-original-width="453" data-original-height="445" /></a></div>

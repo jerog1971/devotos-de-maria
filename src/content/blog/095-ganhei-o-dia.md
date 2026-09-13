@@ -1,7 +1,7 @@
 ---
 title: "Ganhei o dia"
 date: 2018-09-04T20:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX_kMwPDnzITU8qjWVDbqdVX6s8LR0pCrP0KUq8yZXnN9_HNhYwGNjBh00pzSyXeZHgD_pqNgOXjMItdRd-xbRCQh1W6dqNkwHXwVmrwWBes5ognzDo_Fl6iJRPRAq_937dxwODM9CoZI/s320/ganhei_o_dia.jpg"
+heroImage: "/images/ganhei_o_dia.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX_kMwPDnzITU8qjWVDbqdVX6s8LR0pCrP0KUq8yZXnN9_HNhYwGNjBh00pzSyXeZHgD_pqNgOXjMItdRd-xbRCQh1W6dqNkwHXwVmrwWBes5ognzDo_Fl6iJRPRAq_937dxwODM9CoZI/s1600/ganhei_o_dia.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX_kMwPDnzITU8qjWVDbqdVX6s8LR0pCrP0KUq8yZXnN9_HNhYwGNjBh00pzSyXeZHgD_pqNgOXjMItdRd-xbRCQh1W6dqNkwHXwVmrwWBes5ognzDo_Fl6iJRPRAq_937dxwODM9CoZI/s320/ganhei_o_dia.jpg" width="211" height="320" data-original-width="1055" data-original-height="1600" /></a></div>

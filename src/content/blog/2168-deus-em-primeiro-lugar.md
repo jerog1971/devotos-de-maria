@@ -1,7 +1,7 @@
 ---
 title: "Deus em primeiro lugar"
 date: 2020-08-17T19:06:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh2lgp117STPGzihffpycBk0qW6-IZ3TDSgWZLiD3ETQ37h3TmDmXjerRlB_eP0IvMlDvRmPxcI72WpVr8_9K9k2jAhJ294fmWE7-qN8veUZZ-byilirX6pM3eYq1SaR_Kvldx2nN-7o/w409-h322/maus_padres_6.jpg"
+heroImage: "/images/maus_padres_6.jpg"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh2lgp117STPGzihffpycBk0qW6-IZ3TDSgWZLiD3ETQ37h3TmDmXjerRlB_eP0IvMlDvRmPxcI72WpVr8_9K9k2jAhJ294fmWE7-qN8veUZZ-byilirX6pM3eYq1SaR_Kvldx2nN-7o/s768/maus_padres_6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="604" data-original-width="768" height="322" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh2lgp117STPGzihffpycBk0qW6-IZ3TDSgWZLiD3ETQ37h3TmDmXjerRlB_eP0IvMlDvRmPxcI72WpVr8_9K9k2jAhJ294fmWE7-qN8veUZZ-byilirX6pM3eYq1SaR_Kvldx2nN-7o/w409-h322/maus_padres_6.jpg" width="409" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Começo o artigo com uma exortação do Papa Bento XVI: “Não se

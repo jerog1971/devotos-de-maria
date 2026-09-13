@@ -1,7 +1,7 @@
 ---
 title: "Por que não recebo graças?"
 date: 2017-10-17T11:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qQsGeHaqEgn4a9k3lBNAfQAITIDNVNafy-pMPHU9E-0GUjeFbgyaGCeVJySZg7CGgFhxsgkkShQUSjntYmx57Afhvnm8_Z4SSqShPb90yrB-1ulozIm9nCjSko-nAsuZbJqiCrEOaU4/s320/deserto.png"
+heroImage: "/images/deserto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qQsGeHaqEgn4a9k3lBNAfQAITIDNVNafy-pMPHU9E-0GUjeFbgyaGCeVJySZg7CGgFhxsgkkShQUSjntYmx57Afhvnm8_Z4SSqShPb90yrB-1ulozIm9nCjSko-nAsuZbJqiCrEOaU4/s1600/deserto.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="319" height="295" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qQsGeHaqEgn4a9k3lBNAfQAITIDNVNafy-pMPHU9E-0GUjeFbgyaGCeVJySZg7CGgFhxsgkkShQUSjntYmx57Afhvnm8_Z4SSqShPb90yrB-1ulozIm9nCjSko-nAsuZbJqiCrEOaU4/s320/deserto.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Pessoal, com certeza todo mundo já passou por aquela sensação de estar rezando, rezando, rezando e rezando, pedindo, pedindo, pedindo e pedindo e nada de Deus lhe conceder aquilo que estais a pedir não é mesmo! Pois bem, e em seguida muitos de nós podem cair na tentação de pensar: o que será que eu fiz a Deus para merecer tudo isso? Fulano nem leva a vida tão a sério e para ele tudo é mais fácil e para mim, que me esforço para seguir Jesus, tudo é mais difícil! É isso caro leitor, bem-vindo ao mundo cristão.

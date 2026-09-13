@@ -1,7 +1,7 @@
 ---
 title: "A repreensão"
 date: 2017-01-20T13:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pl8dgePUuSGFUF-d21sz0skCn-bEzEH82UzLv_Q5tR4fuTuqbRigoak8cQOgC6FeFxRZrSpe2Yhzgd-V3PCLlJ77gXfeHBX-NQ9e7RLnx90WUBar0E7jFWQCyCen2fv1ouQ9SMxu53Q/s320/repreender.png"
+heroImage: "/images/repreender.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pl8dgePUuSGFUF-d21sz0skCn-bEzEH82UzLv_Q5tR4fuTuqbRigoak8cQOgC6FeFxRZrSpe2Yhzgd-V3PCLlJ77gXfeHBX-NQ9e7RLnx90WUBar0E7jFWQCyCen2fv1ouQ9SMxu53Q/s1600/repreender.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pl8dgePUuSGFUF-d21sz0skCn-bEzEH82UzLv_Q5tR4fuTuqbRigoak8cQOgC6FeFxRZrSpe2Yhzgd-V3PCLlJ77gXfeHBX-NQ9e7RLnx90WUBar0E7jFWQCyCen2fv1ouQ9SMxu53Q/s320/repreender.png" width="320" height="283" data-original-width="318" data-original-height="281" /></a></div>

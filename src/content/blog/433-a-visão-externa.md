@@ -1,7 +1,7 @@
 ---
 title: "A visão externa"
 date: 2018-11-13T14:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHFp0638jYKxJKmafe2P9rCbO-K1zsxulKkWsDHOaDq-vqSuE3BydLgWsQDzS2V2riIVzKNLNawNsrDUpuxIJm1YOo7kRjeHFBzXmxm66KkxmyJQU6rHpQkEOtEH7UrrlEkr7SAngZZw/s320/evangelicos.png"
+heroImage: "/images/evangelicos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHFp0638jYKxJKmafe2P9rCbO-K1zsxulKkWsDHOaDq-vqSuE3BydLgWsQDzS2V2riIVzKNLNawNsrDUpuxIJm1YOo7kRjeHFBzXmxm66KkxmyJQU6rHpQkEOtEH7UrrlEkr7SAngZZw/s1600/evangelicos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHFp0638jYKxJKmafe2P9rCbO-K1zsxulKkWsDHOaDq-vqSuE3BydLgWsQDzS2V2riIVzKNLNawNsrDUpuxIJm1YOo7kRjeHFBzXmxm66KkxmyJQU6rHpQkEOtEH7UrrlEkr7SAngZZw/s320/evangelicos.png" width="320" height="260" data-original-width="401" data-original-height="326" /></a></div>

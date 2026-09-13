@@ -1,7 +1,7 @@
 ---
 title: "Finjir a cura para arrecadar mais"
 date: 2016-01-11T14:08:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeSJ49o2h2nLsZdHG8q7dmo7UTksu378nWJFFPu1mhItleOJ9aLDjw4-4UraSwW6pvKOWF72ufBZYnNpzt6VS26fRFTa4OZvnk4NOvTbQvD3FR0B02OJBvqZYE4JSLxhvPz73P32HfuPQ/s320/waldemiro.png"
+heroImage: "/images/waldemiro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeSJ49o2h2nLsZdHG8q7dmo7UTksu378nWJFFPu1mhItleOJ9aLDjw4-4UraSwW6pvKOWF72ufBZYnNpzt6VS26fRFTa4OZvnk4NOvTbQvD3FR0B02OJBvqZYE4JSLxhvPz73P32HfuPQ/s1600/waldemiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeSJ49o2h2nLsZdHG8q7dmo7UTksu378nWJFFPu1mhItleOJ9aLDjw4-4UraSwW6pvKOWF72ufBZYnNpzt6VS26fRFTa4OZvnk4NOvTbQvD3FR0B02OJBvqZYE4JSLxhvPz73P32HfuPQ/s320/waldemiro.png" width="273" height="320" data-original-width="370" data-original-height="434" /></a></div>

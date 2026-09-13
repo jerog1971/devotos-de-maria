@@ -1,7 +1,7 @@
 ---
 title: "O choro da perda"
 date: 2016-06-15T11:51:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnG4a9iCLKWk82PRxSu1IugeiH_tlY0O6bjjwLPakTf09ANsV19bMPxCBrVZ-m3gHFdiA-CXPauoexT2MtBhJTBVvSEsRftpVDG0SomH7_Qk5cY7l-rpls_Us9Uo48IZHBkNa8mO2erbY/s320/choro_da_perda.png"
+heroImage: "/images/choro_da_perda.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnG4a9iCLKWk82PRxSu1IugeiH_tlY0O6bjjwLPakTf09ANsV19bMPxCBrVZ-m3gHFdiA-CXPauoexT2MtBhJTBVvSEsRftpVDG0SomH7_Qk5cY7l-rpls_Us9Uo48IZHBkNa8mO2erbY/s1600/choro_da_perda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnG4a9iCLKWk82PRxSu1IugeiH_tlY0O6bjjwLPakTf09ANsV19bMPxCBrVZ-m3gHFdiA-CXPauoexT2MtBhJTBVvSEsRftpVDG0SomH7_Qk5cY7l-rpls_Us9Uo48IZHBkNa8mO2erbY/s320/choro_da_perda.png" width="320" height="230" data-original-width="709" data-original-height="510" /></a></div>

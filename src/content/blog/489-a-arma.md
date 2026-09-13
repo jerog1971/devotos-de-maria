@@ -1,7 +1,7 @@
 ---
 title: "A Arma"
 date: 2017-03-10T23:13:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFDAUUyry54fNKcFKvQ8HKq52xI6skk0kVhHpp7TN68zRC3GYVwk2PN3usgNggmsFb-pOYz_lDdNxtIvA6QHb8wyHaVYaIbXp_FUq9h9fwwHe9MFjmxODn44fJni01JdIL_aIZtfzxsU/s320/rosario.png"
+heroImage: "/images/biblia_e_rosario.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFDAUUyry54fNKcFKvQ8HKq52xI6skk0kVhHpp7TN68zRC3GYVwk2PN3usgNggmsFb-pOYz_lDdNxtIvA6QHb8wyHaVYaIbXp_FUq9h9fwwHe9MFjmxODn44fJni01JdIL_aIZtfzxsU/s1600/rosario.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="717" height="230" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFDAUUyry54fNKcFKvQ8HKq52xI6skk0kVhHpp7TN68zRC3GYVwk2PN3usgNggmsFb-pOYz_lDdNxtIvA6QHb8wyHaVYaIbXp_FUq9h9fwwHe9MFjmxODn44fJni01JdIL_aIZtfzxsU/s320/rosario.png" width="320" /></a></div>

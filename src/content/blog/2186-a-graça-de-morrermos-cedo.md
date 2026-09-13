@@ -1,7 +1,7 @@
 ---
 title: "A graça de morrermos cedo"
 date: 2022-01-10T02:44:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEh8LMWlyjjrUpBXW6ehZPabf2bjEvYcUvbizAcYjzP9nKsLrkyD9CKWmJanIY1y5b3Q19jjz9FJ40WTV44jl-UdyhQcEs2MzsO1vdJ9fcrScVYiBPaem4GR3k5KmywPYLzIye0YudovMxPpsrBBKC4RoUNJhqkfITk6rbsoJjLDzvh41jzdJRmWiiuL=s320"
+heroImage: "/images/wiiU.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh8LMWlyjjrUpBXW6ehZPabf2bjEvYcUvbizAcYjzP9nKsLrkyD9CKWmJanIY1y5b3Q19jjz9FJ40WTV44jl-UdyhQcEs2MzsO1vdJ9fcrScVYiBPaem4GR3k5KmywPYLzIye0YudovMxPpsrBBKC4RoUNJhqkfITk6rbsoJjLDzvh41jzdJRmWiiuL=s510" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="508" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEh8LMWlyjjrUpBXW6ehZPabf2bjEvYcUvbizAcYjzP9nKsLrkyD9CKWmJanIY1y5b3Q19jjz9FJ40WTV44jl-UdyhQcEs2MzsO1vdJ9fcrScVYiBPaem4GR3k5KmywPYLzIye0YudovMxPpsrBBKC4RoUNJhqkfITk6rbsoJjLDzvh41jzdJRmWiiuL=s320" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, quando alguém se vai em idade não avançada alguns

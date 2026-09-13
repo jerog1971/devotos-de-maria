@@ -1,7 +1,7 @@
 ---
 title: "A espiritualidade do \"Convém\""
 date: 2017-08-21T12:44:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFOJbLspbhRU2uHxBLY9VvKlqP4GlLMRwijhDatHjtL9MpkTjMuBebSvZLhfg71wylo_-N6do8XqeJfQW2fgJxS7KQBdCXWf91Dd5XEDg6RQLA-jz4YSUbC7wTxgssHEujD6crD49JpNg/s320/convem.png"
+heroImage: "/images/convem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFOJbLspbhRU2uHxBLY9VvKlqP4GlLMRwijhDatHjtL9MpkTjMuBebSvZLhfg71wylo_-N6do8XqeJfQW2fgJxS7KQBdCXWf91Dd5XEDg6RQLA-jz4YSUbC7wTxgssHEujD6crD49JpNg/s1600/convem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFOJbLspbhRU2uHxBLY9VvKlqP4GlLMRwijhDatHjtL9MpkTjMuBebSvZLhfg71wylo_-N6do8XqeJfQW2fgJxS7KQBdCXWf91Dd5XEDg6RQLA-jz4YSUbC7wTxgssHEujD6crD49JpNg/s320/convem.png" width="320" height="314" data-original-width="402" data-original-height="394" /></a></div>

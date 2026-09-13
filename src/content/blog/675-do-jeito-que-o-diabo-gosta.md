@@ -1,7 +1,7 @@
 ---
 title: "Do jeito que o diabo gosta"
 date: 2016-09-19T16:10:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCkee8GIO_B3MfUXmwsZSa-F5oLvKTSy1aYFtjW9s6Mkf9ro6pICvtz_pwdKfWY7jgdz2Z5ejZt_0sDEpiYF02dK4qZAItWKKKSjc6fGf62BHqHwz2BlMt18X_RKI_pZ1tpJhe_dTD8zI/s320/diabo.png"
+heroImage: "/images/Jesus_Diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCkee8GIO_B3MfUXmwsZSa-F5oLvKTSy1aYFtjW9s6Mkf9ro6pICvtz_pwdKfWY7jgdz2Z5ejZt_0sDEpiYF02dK4qZAItWKKKSjc6fGf62BHqHwz2BlMt18X_RKI_pZ1tpJhe_dTD8zI/s1600/diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCkee8GIO_B3MfUXmwsZSa-F5oLvKTSy1aYFtjW9s6Mkf9ro6pICvtz_pwdKfWY7jgdz2Z5ejZt_0sDEpiYF02dK4qZAItWKKKSjc6fGf62BHqHwz2BlMt18X_RKI_pZ1tpJhe_dTD8zI/s320/diabo.png" width="320" height="288" data-original-width="304" data-original-height="274" /></a></div>

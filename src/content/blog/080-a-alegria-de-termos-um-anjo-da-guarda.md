@@ -1,7 +1,7 @@
 ---
 title: "A alegria de termos um anjo da guarda"
 date: 2020-07-21T15:50:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw1EzdKtNqHqWKHbH08hn1jYl_V6L-F-tFAiCQO3RWMe2myuGOL8L8hlxtTeEVRln0Dk0mU60isVXn7BWTJMJGfyBVL9l_qhxeuNPRs3QTdTUuBlSLSIj_-S06PLXmWmrkjdyc8XGZwN0/s320/anjo_defensor.jpg"
+heroImage: "/images/anjo_defensor.jpg"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw1EzdKtNqHqWKHbH08hn1jYl_V6L-F-tFAiCQO3RWMe2myuGOL8L8hlxtTeEVRln0Dk0mU60isVXn7BWTJMJGfyBVL9l_qhxeuNPRs3QTdTUuBlSLSIj_-S06PLXmWmrkjdyc8XGZwN0/s860/anjo_defensor.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="688" data-original-width="860" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw1EzdKtNqHqWKHbH08hn1jYl_V6L-F-tFAiCQO3RWMe2myuGOL8L8hlxtTeEVRln0Dk0mU60isVXn7BWTJMJGfyBVL9l_qhxeuNPRs3QTdTUuBlSLSIj_-S06PLXmWmrkjdyc8XGZwN0/s320/anjo_defensor.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nosso defensor, nosso guarda espadas que não cobra nada por

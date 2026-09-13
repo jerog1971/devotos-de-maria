@@ -1,7 +1,7 @@
 ---
 title: "Blasfêmias"
 date: 2023-01-28T18:40:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE57DKakAfo1Fng6fCJi0POqhcK-dN4O4HdqS9BHT9iB3NTpMGuEzU6fjmpVof6Ifm1Hd2D_DQ6hyGp9IWlFVXBDelbwnSER4RzM12JbgmvthdY-3WyA7FrIOevtQUwhpCl_g5tRNIVNr8ZMK40d7aRheIBS_3VPxd3_V_ZXQ_ah9hj2tZhGUZsDIf/s320/blasf%C3%AAmia.png"
+heroImage: "/images/Blasfêmia em Viena(1).jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE57DKakAfo1Fng6fCJi0POqhcK-dN4O4HdqS9BHT9iB3NTpMGuEzU6fjmpVof6Ifm1Hd2D_DQ6hyGp9IWlFVXBDelbwnSER4RzM12JbgmvthdY-3WyA7FrIOevtQUwhpCl_g5tRNIVNr8ZMK40d7aRheIBS_3VPxd3_V_ZXQ_ah9hj2tZhGUZsDIf/s555/blasf%C3%AAmia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="383" data-original-width="555" height="221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE57DKakAfo1Fng6fCJi0POqhcK-dN4O4HdqS9BHT9iB3NTpMGuEzU6fjmpVof6Ifm1Hd2D_DQ6hyGp9IWlFVXBDelbwnSER4RzM12JbgmvthdY-3WyA7FrIOevtQUwhpCl_g5tRNIVNr8ZMK40d7aRheIBS_3VPxd3_V_ZXQ_ah9hj2tZhGUZsDIf/s320/blasf%C3%AAmia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A blasfêmia é desenfreada hoje em dia. Algumas das coisas

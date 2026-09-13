@@ -1,7 +1,7 @@
 ---
 title: "O Jejum da Tecnologia"
 date: 2016-11-22T15:59:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Xsd_8ZbeBmk4hB8_EZ1A5F-1SFgSj-SLAE2w54AGSgNkdi4SgSRuWGrydrhXh1RIyUngp25kL4g5_pwLVoJqjLHRjkbOHZdMM3rgNs831ThR7tgO8d9Xd2wKonRNE7KNAxiixtitMis/s320/jejum.png"
+heroImage: "/images/jejum.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Xsd_8ZbeBmk4hB8_EZ1A5F-1SFgSj-SLAE2w54AGSgNkdi4SgSRuWGrydrhXh1RIyUngp25kL4g5_pwLVoJqjLHRjkbOHZdMM3rgNs831ThR7tgO8d9Xd2wKonRNE7KNAxiixtitMis/s1600/jejum.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="355" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Xsd_8ZbeBmk4hB8_EZ1A5F-1SFgSj-SLAE2w54AGSgNkdi4SgSRuWGrydrhXh1RIyUngp25kL4g5_pwLVoJqjLHRjkbOHZdMM3rgNs831ThR7tgO8d9Xd2wKonRNE7KNAxiixtitMis/s320/jejum.png" width="283" /></a></div>

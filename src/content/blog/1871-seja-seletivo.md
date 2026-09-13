@@ -1,7 +1,7 @@
 ---
 title: "Seja Seletivo"
 date: 2025-06-30T20:48:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiIf_aUzi3Yatbr1UNU30gMS1WpkfLZp-ngmWhHbljMhWH7yHmnvUMmjqYgR11Hv3hL2wZChpWLV2N_3gCBBX9tvi87sYh6K0xat4xixcVQrefSLbqtxws3Z-94dGVe15oT_GfZR4exaHcOJVFEGrnJBjpJ4GT4s3mNTiq0zb_ogAY9i2Uk1Wg2uoZ4rc/s320/Seja%20Seletivo.png"
+heroImage: "/images/Ele.jpg"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiIf_aUzi3Yatbr1UNU30gMS1WpkfLZp-ngmWhHbljMhWH7yHmnvUMmjqYgR11Hv3hL2wZChpWLV2N_3gCBBX9tvi87sYh6K0xat4xixcVQrefSLbqtxws3Z-94dGVe15oT_GfZR4exaHcOJVFEGrnJBjpJ4GT4s3mNTiq0zb_ogAY9i2Uk1Wg2uoZ4rc/s429/Seja%20Seletivo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="389" data-original-width="429" height="290" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiIf_aUzi3Yatbr1UNU30gMS1WpkfLZp-ngmWhHbljMhWH7yHmnvUMmjqYgR11Hv3hL2wZChpWLV2N_3gCBBX9tvi87sYh6K0xat4xixcVQrefSLbqtxws3Z-94dGVe15oT_GfZR4exaHcOJVFEGrnJBjpJ4GT4s3mNTiq0zb_ogAY9i2Uk1Wg2uoZ4rc/s320/Seja%20Seletivo.png" width="320" /></a></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">

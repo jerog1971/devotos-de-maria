@@ -1,7 +1,7 @@
 ---
 title: "Sacerdote concebido em estupro"
 date: 2015-11-06T16:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBlSAx8hydF_tphlQ071LohihDibOqKQviEkN1OyOWoCq7eQM4rgjuuq6Eip1aElpnna68Y8H0v_giFqmJtSSHBmB0ed7WgHHezST16OGvT-VwpIoCa_Hu0T3tMoIESFqM7O_ns2VjazU/s320/padre.png"
+heroImage: "/images/jeito_do_padre.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBlSAx8hydF_tphlQ071LohihDibOqKQviEkN1OyOWoCq7eQM4rgjuuq6Eip1aElpnna68Y8H0v_giFqmJtSSHBmB0ed7WgHHezST16OGvT-VwpIoCa_Hu0T3tMoIESFqM7O_ns2VjazU/s1600/padre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBlSAx8hydF_tphlQ071LohihDibOqKQviEkN1OyOWoCq7eQM4rgjuuq6Eip1aElpnna68Y8H0v_giFqmJtSSHBmB0ed7WgHHezST16OGvT-VwpIoCa_Hu0T3tMoIESFqM7O_ns2VjazU/s320/padre.png" width="320" height="309" data-original-width="264" data-original-height="255" /></a></div>

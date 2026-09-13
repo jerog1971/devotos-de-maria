@@ -1,7 +1,7 @@
 ---
 title: "Não se enganem com o Papa Francisco"
 date: 2017-10-03T14:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJVftwINy87S7KWtBQYl60GD_Y3aMAiJ9P-0IJyYPPlZ_lSe8VdNMnTH_FpCDfFgsgkEx4sgQhg1QLgMgRdZVh-o6bBPrihfk0UPUM1PP9GZ04XDk6ld9Sk_MtCflLUfACKOeCP8Z-8U/s320/francisco.png"
+heroImage: "/images/Francisco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJVftwINy87S7KWtBQYl60GD_Y3aMAiJ9P-0IJyYPPlZ_lSe8VdNMnTH_FpCDfFgsgkEx4sgQhg1QLgMgRdZVh-o6bBPrihfk0UPUM1PP9GZ04XDk6ld9Sk_MtCflLUfACKOeCP8Z-8U/s1600/francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJVftwINy87S7KWtBQYl60GD_Y3aMAiJ9P-0IJyYPPlZ_lSe8VdNMnTH_FpCDfFgsgkEx4sgQhg1QLgMgRdZVh-o6bBPrihfk0UPUM1PP9GZ04XDk6ld9Sk_MtCflLUfACKOeCP8Z-8U/s320/francisco.png" width="320" height="312" data-original-width="436" data-original-height="425" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "As revelações privadas que Deus nos concede"
 date: 2019-04-24T17:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH78CTMOU6emCZZG8ubOtrPgsMUPQJx6xuF0zNa87e0yAK6GolmFjLhXPFK4l_3BmyRpnZKJ5szmTPwslJtuiCtbNiMU4vrLLAQ9MvG44SxCVKM8Ls3orARTq34Or0XEZk8YsKJahxLQM/s320/purgatorio.png"
+heroImage: "/images/purgatorio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH78CTMOU6emCZZG8ubOtrPgsMUPQJx6xuF0zNa87e0yAK6GolmFjLhXPFK4l_3BmyRpnZKJ5szmTPwslJtuiCtbNiMU4vrLLAQ9MvG44SxCVKM8Ls3orARTq34Or0XEZk8YsKJahxLQM/s1600/purgatorio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH78CTMOU6emCZZG8ubOtrPgsMUPQJx6xuF0zNa87e0yAK6GolmFjLhXPFK4l_3BmyRpnZKJ5szmTPwslJtuiCtbNiMU4vrLLAQ9MvG44SxCVKM8Ls3orARTq34Or0XEZk8YsKJahxLQM/s320/purgatorio.png" width="320" height="298" data-original-width="443" data-original-height="413" /></a></div>

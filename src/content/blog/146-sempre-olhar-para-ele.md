@@ -1,7 +1,7 @@
 ---
 title: "Sempre olhar para Ele"
 date: 2017-06-14T19:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYL6628do1qCD05r0FMOz9geFZcQq5knVQu_nbC3x3n5X9oHLW77PoFekG7PJTV0FR5yKd7TSOo-QrQ_rwXTO8Db1bvQpjbl3oT1_XAxTWvBdYitkHXNrWWFUkVZOOT48tGJLlCi4FZpg/s320/girassol.png"
+heroImage: "/images/girassol.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYL6628do1qCD05r0FMOz9geFZcQq5knVQu_nbC3x3n5X9oHLW77PoFekG7PJTV0FR5yKd7TSOo-QrQ_rwXTO8Db1bvQpjbl3oT1_XAxTWvBdYitkHXNrWWFUkVZOOT48tGJLlCi4FZpg/s1600/girassol.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYL6628do1qCD05r0FMOz9geFZcQq5knVQu_nbC3x3n5X9oHLW77PoFekG7PJTV0FR5yKd7TSOo-QrQ_rwXTO8Db1bvQpjbl3oT1_XAxTWvBdYitkHXNrWWFUkVZOOT48tGJLlCi4FZpg/s320/girassol.png" width="320" height="289" data-original-width="569" data-original-height="513" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Sua oração está caindo no vazio? Tua absolvição também?"
 date: 2019-07-03T15:11:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2tm2b2hW1n3R7MA9KSDzIzQxPVkuiDKsG8cxjGQ3qHw7GlhsKV07d8GNosI5tIlztWR4pnmFfxzZ-wu5d06lsNAD0-ZTfHJR0G976xgWUEMH_z_71NgBsCibGexq4uPuECqDLBw1cBeA/s320/sentir_Deus.png"
+heroImage: "/images/sentir_Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2tm2b2hW1n3R7MA9KSDzIzQxPVkuiDKsG8cxjGQ3qHw7GlhsKV07d8GNosI5tIlztWR4pnmFfxzZ-wu5d06lsNAD0-ZTfHJR0G976xgWUEMH_z_71NgBsCibGexq4uPuECqDLBw1cBeA/s1600/sentir_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2tm2b2hW1n3R7MA9KSDzIzQxPVkuiDKsG8cxjGQ3qHw7GlhsKV07d8GNosI5tIlztWR4pnmFfxzZ-wu5d06lsNAD0-ZTfHJR0G976xgWUEMH_z_71NgBsCibGexq4uPuECqDLBw1cBeA/s320/sentir_Deus.png" width="320" height="316" data-original-width="389" data-original-height="384" /></a></div>

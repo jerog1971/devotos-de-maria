@@ -1,7 +1,7 @@
 ---
 title: "Ensinar a Doutrina"
 date: 2015-12-18T12:22:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s320/catequisando.png"
+heroImage: "/images/catequisando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s1600/catequisando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s320/catequisando.png" width="320" height="306" data-original-width="304" data-original-height="291" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Histórias por toda a parte"
 date: 2024-03-11T19:24:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhms-nGk2dMR1CmWHUhcTC7UnqcKF_HBLBkGcTmbPs9oBYD7c5YXfWvhmRKg7a0WmFljJGJEj82pJz67Q9K2w3q9cjyHFHRv7FIkFetuxlwHmHFAhd9_Aznu3hlXG6HhhlTwu3I4LOxMx3yiyAYu6KnWvk2IlchdlyVYeikva26__2QRWy_LrjWwHcrEyI/s320/Jeff%20e%20Deb%2003.jpg"
+heroImage: "/images/Jeff e Deb 03.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhms-nGk2dMR1CmWHUhcTC7UnqcKF_HBLBkGcTmbPs9oBYD7c5YXfWvhmRKg7a0WmFljJGJEj82pJz67Q9K2w3q9cjyHFHRv7FIkFetuxlwHmHFAhd9_Aznu3hlXG6HhhlTwu3I4LOxMx3yiyAYu6KnWvk2IlchdlyVYeikva26__2QRWy_LrjWwHcrEyI/s720/Jeff%20e%20Deb%2003.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="686" data-original-width="720" height="305" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhms-nGk2dMR1CmWHUhcTC7UnqcKF_HBLBkGcTmbPs9oBYD7c5YXfWvhmRKg7a0WmFljJGJEj82pJz67Q9K2w3q9cjyHFHRv7FIkFetuxlwHmHFAhd9_Aznu3hlXG6HhhlTwu3I4LOxMx3yiyAYu6KnWvk2IlchdlyVYeikva26__2QRWy_LrjWwHcrEyI/s320/Jeff%20e%20Deb%2003.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se alguém discordar que nossas vidas são páginas e mais páginas

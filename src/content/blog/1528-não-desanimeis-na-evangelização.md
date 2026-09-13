@@ -1,7 +1,7 @@
 ---
 title: "Não desanimeis na evangelização"
 date: 2017-08-18T12:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGx426YxYFmI2W3K3gRtDyFcsKTT-meaixPpNHa2P6_HLhvPRdvdsMg_uR13ghZvG4zm2dpOb7SxbIHf3ZLMtLb_pR8XxzDBOgW8l7eWq1dbfrdh6dK8hUk6AFWLEwrjHxwulErF5Dmg/s320/catequisando.png"
+heroImage: "/images/catequisando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGx426YxYFmI2W3K3gRtDyFcsKTT-meaixPpNHa2P6_HLhvPRdvdsMg_uR13ghZvG4zm2dpOb7SxbIHf3ZLMtLb_pR8XxzDBOgW8l7eWq1dbfrdh6dK8hUk6AFWLEwrjHxwulErF5Dmg/s1600/catequisando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGx426YxYFmI2W3K3gRtDyFcsKTT-meaixPpNHa2P6_HLhvPRdvdsMg_uR13ghZvG4zm2dpOb7SxbIHf3ZLMtLb_pR8XxzDBOgW8l7eWq1dbfrdh6dK8hUk6AFWLEwrjHxwulErF5Dmg/s320/catequisando.png" width="320" height="306" data-original-width="304" data-original-height="291" /></a></div>

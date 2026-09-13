@@ -1,7 +1,7 @@
 ---
 title: "Levar a Sério"
 date: 2015-12-16T13:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNd4y4UwQcWlnGBhhqSK1L6VgFIUtvKIJNTS3x_f09vom2xbsRIIR09ACFsJwlyUOiEiPTxuQThyphenhyphenc_VH_3a27COh3ZeUkcQx-8zLWPO9hc1IqkEfFN1p1-KgSlQYilKW31L2jC9TnpJlE/s320/Jefferson_Diego.png"
+heroImage: "/images/Jefferson_Diego.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNd4y4UwQcWlnGBhhqSK1L6VgFIUtvKIJNTS3x_f09vom2xbsRIIR09ACFsJwlyUOiEiPTxuQThyphenhyphenc_VH_3a27COh3ZeUkcQx-8zLWPO9hc1IqkEfFN1p1-KgSlQYilKW31L2jC9TnpJlE/s1600/Jefferson_Diego.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNd4y4UwQcWlnGBhhqSK1L6VgFIUtvKIJNTS3x_f09vom2xbsRIIR09ACFsJwlyUOiEiPTxuQThyphenhyphenc_VH_3a27COh3ZeUkcQx-8zLWPO9hc1IqkEfFN1p1-KgSlQYilKW31L2jC9TnpJlE/s320/Jefferson_Diego.png" width="320" height="210" data-original-width="412" data-original-height="271" /></a></div>

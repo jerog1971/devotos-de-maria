@@ -1,7 +1,7 @@
 ---
 title: "O amor que te afasta de Deus"
 date: 2019-08-16T15:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY3nXEJJSBqoFyt2IghpmYjgK0fuFkyHMXXerZcoQWmBrAwKXYyWXPf1obbjQensZ8rWZOsTk9_PZav36W9o1XDbi-hv42q1Zjd-j99WdwE9E0tyUBmTiDcE1y0-_yFgDiOf-sHOotjzw/s320/afastamento_de_Deus.png"
+heroImage: "/images/afastamento_de_Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY3nXEJJSBqoFyt2IghpmYjgK0fuFkyHMXXerZcoQWmBrAwKXYyWXPf1obbjQensZ8rWZOsTk9_PZav36W9o1XDbi-hv42q1Zjd-j99WdwE9E0tyUBmTiDcE1y0-_yFgDiOf-sHOotjzw/s1600/afastamento_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY3nXEJJSBqoFyt2IghpmYjgK0fuFkyHMXXerZcoQWmBrAwKXYyWXPf1obbjQensZ8rWZOsTk9_PZav36W9o1XDbi-hv42q1Zjd-j99WdwE9E0tyUBmTiDcE1y0-_yFgDiOf-sHOotjzw/s320/afastamento_de_Deus.png" width="320" height="311" data-original-width="368" data-original-height="358" /></a></div>

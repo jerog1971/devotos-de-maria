@@ -1,7 +1,7 @@
 ---
 title: "Católico Ignorante, futuro protestante"
 date: 2017-11-24T16:50:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7r8pcQZ5Bc5Es_SZnf3RgKT_Hh92FEQZVixKVoGyqYmNDoXmJg-BIXLiqUJObIl8xmE0nlQSUZizhhLgZSGTe_9p-M7Ptnpsozuq5fX50I2aGQIHD9KGP17lPv6K2EoU00E0aW743DCs/s320/S%25C3%25A3o_Francisco_x_Lutero.png"
+heroImage: "/images/Francisco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7r8pcQZ5Bc5Es_SZnf3RgKT_Hh92FEQZVixKVoGyqYmNDoXmJg-BIXLiqUJObIl8xmE0nlQSUZizhhLgZSGTe_9p-M7Ptnpsozuq5fX50I2aGQIHD9KGP17lPv6K2EoU00E0aW743DCs/s1600/S%25C3%25A3o_Francisco_x_Lutero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7r8pcQZ5Bc5Es_SZnf3RgKT_Hh92FEQZVixKVoGyqYmNDoXmJg-BIXLiqUJObIl8xmE0nlQSUZizhhLgZSGTe_9p-M7Ptnpsozuq5fX50I2aGQIHD9KGP17lPv6K2EoU00E0aW743DCs/s320/S%25C3%25A3o_Francisco_x_Lutero.png" width="320" height="241" data-original-width="397" data-original-height="299" /></a></div>

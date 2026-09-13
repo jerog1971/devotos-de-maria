@@ -1,7 +1,7 @@
 ---
 title: "Outra família que se vai"
 date: 2016-05-31T19:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKAxVIio0ZCe9x5nuak6O-UhKMRCQIzdNQuxcan97NpgG2X0-wKSg-LN2M_rIiey0n_iP2G4XRKcT_JhtMBr6ge20nEeoUyRaQkSdbDuefkAcnpklM45K1vAdBH44WZe0Oy8pnWNdwxw/s320/familia_schmitz.png"
+heroImage: "/images/familia_schmitz.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKAxVIio0ZCe9x5nuak6O-UhKMRCQIzdNQuxcan97NpgG2X0-wKSg-LN2M_rIiey0n_iP2G4XRKcT_JhtMBr6ge20nEeoUyRaQkSdbDuefkAcnpklM45K1vAdBH44WZe0Oy8pnWNdwxw/s1600/familia_schmitz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKAxVIio0ZCe9x5nuak6O-UhKMRCQIzdNQuxcan97NpgG2X0-wKSg-LN2M_rIiey0n_iP2G4XRKcT_JhtMBr6ge20nEeoUyRaQkSdbDuefkAcnpklM45K1vAdBH44WZe0Oy8pnWNdwxw/s320/familia_schmitz.png" width="320" height="252" data-original-width="555" data-original-height="437" /></a></div>

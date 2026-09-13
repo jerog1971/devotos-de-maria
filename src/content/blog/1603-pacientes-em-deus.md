@@ -1,7 +1,7 @@
 ---
 title: "Pacientes em Deus"
 date: 2017-06-29T20:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5QkA03e83WfIFBYRGAQVYiqodjomDhYF6fw-J4U7TCXLkWFzvXYHiY1NNpJJ93tskw0a_Zzuhjv9jNtPjnwI4ZvoxBjgVy9BtrBm4rJAFTOQNhMLIQ4a1WwvijIgl5xaSfL2hbQoH9s/s320/casal.png"
+heroImage: "/images/casal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5QkA03e83WfIFBYRGAQVYiqodjomDhYF6fw-J4U7TCXLkWFzvXYHiY1NNpJJ93tskw0a_Zzuhjv9jNtPjnwI4ZvoxBjgVy9BtrBm4rJAFTOQNhMLIQ4a1WwvijIgl5xaSfL2hbQoH9s/s1600/casal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5QkA03e83WfIFBYRGAQVYiqodjomDhYF6fw-J4U7TCXLkWFzvXYHiY1NNpJJ93tskw0a_Zzuhjv9jNtPjnwI4ZvoxBjgVy9BtrBm4rJAFTOQNhMLIQ4a1WwvijIgl5xaSfL2hbQoH9s/s320/casal.png" width="313" height="320" data-original-width="500" data-original-height="512" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "As coisas só acontecem por merecimento"
 date: 2019-06-19T15:45:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC0wLWiMdl4q_78JdXZU4-IB-LubXinb72mnK7RmNIW0NhJJXxG_3ZxOFkMe96XS7d3WZnuS2zWeliU9yGIKqShd36wKwinlZ4C2qAtY9kBXAhZW4skXgDBwPQzLzLUdKvOkQR7RhPqU/s320/merecimento.png"
+heroImage: "/images/Sem merecimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC0wLWiMdl4q_78JdXZU4-IB-LubXinb72mnK7RmNIW0NhJJXxG_3ZxOFkMe96XS7d3WZnuS2zWeliU9yGIKqShd36wKwinlZ4C2qAtY9kBXAhZW4skXgDBwPQzLzLUdKvOkQR7RhPqU/s1600/merecimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC0wLWiMdl4q_78JdXZU4-IB-LubXinb72mnK7RmNIW0NhJJXxG_3ZxOFkMe96XS7d3WZnuS2zWeliU9yGIKqShd36wKwinlZ4C2qAtY9kBXAhZW4skXgDBwPQzLzLUdKvOkQR7RhPqU/s320/merecimento.png" width="320" height="313" data-original-width="287" data-original-height="281" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Santo Antonio e o herege"
 date: 2016-02-19T10:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXt-VcPfqGFkvdqdQlYcUzP3WqFdPfF_sVqAWtL8BNSuSUM3yOZqBwHtrhX32xWGIATjb5ek5ysrt07zo91CPGB22IqCoNJiCYoa9BuxJwkKB79H7kujhPYSWK6IWnrfsTm5iasseDtmo/s320/santo_antonio_e_a_mula.png"
+heroImage: "/images/santo_antonio_e_a_mula.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXt-VcPfqGFkvdqdQlYcUzP3WqFdPfF_sVqAWtL8BNSuSUM3yOZqBwHtrhX32xWGIATjb5ek5ysrt07zo91CPGB22IqCoNJiCYoa9BuxJwkKB79H7kujhPYSWK6IWnrfsTm5iasseDtmo/s1600/santo_antonio_e_a_mula.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXt-VcPfqGFkvdqdQlYcUzP3WqFdPfF_sVqAWtL8BNSuSUM3yOZqBwHtrhX32xWGIATjb5ek5ysrt07zo91CPGB22IqCoNJiCYoa9BuxJwkKB79H7kujhPYSWK6IWnrfsTm5iasseDtmo/s320/santo_antonio_e_a_mula.png" width="320" height="225" data-original-width="396" data-original-height="278" /></a></div>

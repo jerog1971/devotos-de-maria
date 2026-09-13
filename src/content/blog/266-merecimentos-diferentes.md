@@ -1,7 +1,7 @@
 ---
 title: "Merecimentos diferentes"
 date: 2021-09-02T19:40:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg27WOzkWcbMv4OTGT-IOOULazA9NMwEDXnBMrLRGg0rziXSyqWG9FqEOqp8-Cjw9SM1W07oqqLfhgdpSX3MjcFQdPPP3haY6oaRC6ZpajctIJQB9UeSE88W_ZRgWgdEC_iWlqZolQuMqQ/s320/merecimentos+diferentes.png"
+heroImage: "/images/merecimento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg27WOzkWcbMv4OTGT-IOOULazA9NMwEDXnBMrLRGg0rziXSyqWG9FqEOqp8-Cjw9SM1W07oqqLfhgdpSX3MjcFQdPPP3haY6oaRC6ZpajctIJQB9UeSE88W_ZRgWgdEC_iWlqZolQuMqQ/s729/merecimentos+diferentes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="710" data-original-width="729" height="312" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg27WOzkWcbMv4OTGT-IOOULazA9NMwEDXnBMrLRGg0rziXSyqWG9FqEOqp8-Cjw9SM1W07oqqLfhgdpSX3MjcFQdPPP3haY6oaRC6ZpajctIJQB9UeSE88W_ZRgWgdEC_iWlqZolQuMqQ/s320/merecimentos+diferentes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente é comum o ser humano se deparar em algum ponto de

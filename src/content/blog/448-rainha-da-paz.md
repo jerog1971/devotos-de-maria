@@ -1,7 +1,7 @@
 ---
 title: "Rainha da Paz"
 date: 2018-05-10T19:59:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxfV7r1s9xz5hZEtMUJwhW-tUiOUHhIyS20TYz5fSAnydT20aknx_a6DrZQ0_u7fDxA_p6G1sDvUXuia8pFwtPJHX0xMKRofyjf5TdbQsMMbGHWH0KMyXBLr3qqYE7_O5cBtgK3trNcok/s320/Rainha_da_Paz.png"
+heroImage: "/images/Rainha_da_Paz.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxfV7r1s9xz5hZEtMUJwhW-tUiOUHhIyS20TYz5fSAnydT20aknx_a6DrZQ0_u7fDxA_p6G1sDvUXuia8pFwtPJHX0xMKRofyjf5TdbQsMMbGHWH0KMyXBLr3qqYE7_O5cBtgK3trNcok/s1600/Rainha_da_Paz.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="655" data-original-width="701" height="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxfV7r1s9xz5hZEtMUJwhW-tUiOUHhIyS20TYz5fSAnydT20aknx_a6DrZQ0_u7fDxA_p6G1sDvUXuia8pFwtPJHX0xMKRofyjf5TdbQsMMbGHWH0KMyXBLr3qqYE7_O5cBtgK3trNcok/s320/Rainha_da_Paz.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Ela não se cansa, diante de Deus ela é um nada, menos do que um átomo já dizia São Luiz Maria Grignion de Monfort em seu tratado; diante de nós ela é muitíssimo grande, cheia de graça foi a saudação do Anjo Gabriel. Mães sempre amam seus filhos, o amor de uma mãe é insuperável dentro da condição de um amor humano. No entanto, o amor por essência, aquele que existe no céu e que toca a terra não se cansa de trabalhar um dia sequer pela nossa salvação.

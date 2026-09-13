@@ -1,7 +1,7 @@
 ---
 title: "Doutrinas mentirosas"
 date: 2020-03-03T16:23:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMMFQUs8eQkzr1kQmjI958qSlNGP3xMDHxp1AZPbhxaTwd48qieAr9O00vlHzZPcGqknZA_zehp20iHuZiMK3heW2Y40hnnz1VKZSz4Ileg4H4fk3VT1qD1lWwDk751H9lVnm8T2A7X6o/s320/falsas_doutrinas.png"
+heroImage: "/images/falsas_doutrinas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMMFQUs8eQkzr1kQmjI958qSlNGP3xMDHxp1AZPbhxaTwd48qieAr9O00vlHzZPcGqknZA_zehp20iHuZiMK3heW2Y40hnnz1VKZSz4Ileg4H4fk3VT1qD1lWwDk751H9lVnm8T2A7X6o/s1600/falsas_doutrinas.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="455" height="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMMFQUs8eQkzr1kQmjI958qSlNGP3xMDHxp1AZPbhxaTwd48qieAr9O00vlHzZPcGqknZA_zehp20iHuZiMK3heW2Y40hnnz1VKZSz4Ileg4H4fk3VT1qD1lWwDk751H9lVnm8T2A7X6o/s320/falsas_doutrinas.png" width="320" /></a></div>

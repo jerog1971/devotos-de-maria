@@ -1,7 +1,7 @@
 ---
 title: "Jesus disse: mude de vida"
 date: 2022-01-06T02:15:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhD2YtjFfYwgoTvihkB6dfKZQrsPp5Dn1ZlOFYk7328Z3O5lQHM3c1eUpDuzvJBqmIQQMZJMYu9LOovNjdHGJrn-YSUoRbTyqqwQK9br-z9dsOc7GlCRH-vRERckKbyxPWAKtepgc5iecQ1vTxougExVsN-zcPnFCPU6rL96fYUCb8wRVjqiTIJxnxz=s320"
+heroImage: "/images/gex.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhD2YtjFfYwgoTvihkB6dfKZQrsPp5Dn1ZlOFYk7328Z3O5lQHM3c1eUpDuzvJBqmIQQMZJMYu9LOovNjdHGJrn-YSUoRbTyqqwQK9br-z9dsOc7GlCRH-vRERckKbyxPWAKtepgc5iecQ1vTxougExVsN-zcPnFCPU6rL96fYUCb8wRVjqiTIJxnxz=s4160" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3120" data-original-width="4160" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEhD2YtjFfYwgoTvihkB6dfKZQrsPp5Dn1ZlOFYk7328Z3O5lQHM3c1eUpDuzvJBqmIQQMZJMYu9LOovNjdHGJrn-YSUoRbTyqqwQK9br-z9dsOc7GlCRH-vRERckKbyxPWAKtepgc5iecQ1vTxougExVsN-zcPnFCPU6rL96fYUCb8wRVjqiTIJxnxz=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em todo o ensinamento de Jesus, por mais que ele desdobre

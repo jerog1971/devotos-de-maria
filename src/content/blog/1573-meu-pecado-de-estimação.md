@@ -1,7 +1,7 @@
 ---
 title: "Meu pecado de estimação"
 date: 2020-03-04T19:56:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaO4ZZEuPNJkSBREOL5G9qdiuM3K4ieGjF2fhrmhtu50hK6C6LwzaFw4i_A3PAKPE6pLKJc0wWEA7jqPl4qUjbJCTN-lQ-uFmWvzsWNgpWFG5liu3mXL_WRc1sLo_YDvF1wWWXjYmmfZM/s320/pecadinhos.png"
+heroImage: "/images/pecadinhos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaO4ZZEuPNJkSBREOL5G9qdiuM3K4ieGjF2fhrmhtu50hK6C6LwzaFw4i_A3PAKPE6pLKJc0wWEA7jqPl4qUjbJCTN-lQ-uFmWvzsWNgpWFG5liu3mXL_WRc1sLo_YDvF1wWWXjYmmfZM/s1600/pecadinhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaO4ZZEuPNJkSBREOL5G9qdiuM3K4ieGjF2fhrmhtu50hK6C6LwzaFw4i_A3PAKPE6pLKJc0wWEA7jqPl4qUjbJCTN-lQ-uFmWvzsWNgpWFG5liu3mXL_WRc1sLo_YDvF1wWWXjYmmfZM/s320/pecadinhos.png" width="320" height="235" data-original-width="402" data-original-height="295" /></a></div>

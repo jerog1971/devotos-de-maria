@@ -1,7 +1,7 @@
 ---
 title: "Achou que seria fácil seguir Jesus?"
 date: 2020-02-21T15:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4a97PQjn42fwtkFas13e9JntTNQmI7Q-MqMYNXsjqX-lb6ITsLD-6VEhDqpLI7d921hDUsBSyh8A_VDOtwzcWkiycVUBleEYq88bLeMDulvNhcCMia7TYxWFUucR3GdmGnoZhDB8uYL8/s320/cruz.png"
+heroImage: "/images/cruz.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4a97PQjn42fwtkFas13e9JntTNQmI7Q-MqMYNXsjqX-lb6ITsLD-6VEhDqpLI7d921hDUsBSyh8A_VDOtwzcWkiycVUBleEYq88bLeMDulvNhcCMia7TYxWFUucR3GdmGnoZhDB8uYL8/s1600/cruz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4a97PQjn42fwtkFas13e9JntTNQmI7Q-MqMYNXsjqX-lb6ITsLD-6VEhDqpLI7d921hDUsBSyh8A_VDOtwzcWkiycVUBleEYq88bLeMDulvNhcCMia7TYxWFUucR3GdmGnoZhDB8uYL8/s320/cruz.png" width="320" height="219" data-original-width="460" data-original-height="315" /></a></div>

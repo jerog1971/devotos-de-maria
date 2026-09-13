@@ -1,7 +1,7 @@
 ---
 title: "Acordemos"
 date: 2018-09-17T20:20:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8mrrAoTPfSDYmp2eZp9x9DGLEfzan_3cpmVdsOMhbXYuudZ-yAcf10u4bhc80iyfY6An3siC58pwzMymYgxhhx4pBhMgmib1lsJYVfqGV8jg3HTo0vBuCGpss5jAi-o0UUtdkgRI5Ooc/s320/acordemos.png"
+heroImage: "/images/acordemos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8mrrAoTPfSDYmp2eZp9x9DGLEfzan_3cpmVdsOMhbXYuudZ-yAcf10u4bhc80iyfY6An3siC58pwzMymYgxhhx4pBhMgmib1lsJYVfqGV8jg3HTo0vBuCGpss5jAi-o0UUtdkgRI5Ooc/s1600/acordemos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8mrrAoTPfSDYmp2eZp9x9DGLEfzan_3cpmVdsOMhbXYuudZ-yAcf10u4bhc80iyfY6An3siC58pwzMymYgxhhx4pBhMgmib1lsJYVfqGV8jg3HTo0vBuCGpss5jAi-o0UUtdkgRI5Ooc/s320/acordemos.png" width="311" height="320" data-original-width="232" data-original-height="239" /></a></div>

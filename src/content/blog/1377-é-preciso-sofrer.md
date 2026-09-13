@@ -1,7 +1,7 @@
 ---
 title: "É preciso sofrer"
 date: 2016-05-11T13:36:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9fQUXVn0Z-ND0A3P22e-IPBX8rZYfBtO6ix0j9KBy2F6DlJQ5A__rLezEvJ_O9Ew85KbeUB4IQtw0WtVT5-cA9Si1roFZ6zmLNjr9GF30TZVkDuV3mVFLG9hQWJSDa1K0vLYkhUPtOk/s320/sofrimento_de_jesus.png"
+heroImage: "/images/sofrimento_de_jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9fQUXVn0Z-ND0A3P22e-IPBX8rZYfBtO6ix0j9KBy2F6DlJQ5A__rLezEvJ_O9Ew85KbeUB4IQtw0WtVT5-cA9Si1roFZ6zmLNjr9GF30TZVkDuV3mVFLG9hQWJSDa1K0vLYkhUPtOk/s1600/sofrimento_de_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9fQUXVn0Z-ND0A3P22e-IPBX8rZYfBtO6ix0j9KBy2F6DlJQ5A__rLezEvJ_O9Ew85KbeUB4IQtw0WtVT5-cA9Si1roFZ6zmLNjr9GF30TZVkDuV3mVFLG9hQWJSDa1K0vLYkhUPtOk/s320/sofrimento_de_jesus.png" width="320" height="255" data-original-width="607" data-original-height="483" /></a></div>

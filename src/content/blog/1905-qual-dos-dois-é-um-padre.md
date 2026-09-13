@@ -1,7 +1,7 @@
 ---
 title: "Qual dos dois é um padre?"
 date: 2020-03-15T18:39:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQEs1UcHdEZEVs-1sUOOJf1h94SBAgeA8Q0Peq1xHeOJz_Dy3LxAKwPDoIoUcN0hBJTh7WH9arrpuVRTik2IU0ZS-L5sL_m7IX4yj18ELHRg1iRMLtPa0_4VmELG7abXZ_67MSjO9X0dY/s320/padre.png"
+heroImage: "/images/jeito_do_padre.png"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQEs1UcHdEZEVs-1sUOOJf1h94SBAgeA8Q0Peq1xHeOJz_Dy3LxAKwPDoIoUcN0hBJTh7WH9arrpuVRTik2IU0ZS-L5sL_m7IX4yj18ELHRg1iRMLtPa0_4VmELG7abXZ_67MSjO9X0dY/" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="359" data-original-width="502" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQEs1UcHdEZEVs-1sUOOJf1h94SBAgeA8Q0Peq1xHeOJz_Dy3LxAKwPDoIoUcN0hBJTh7WH9arrpuVRTik2IU0ZS-L5sL_m7IX4yj18ELHRg1iRMLtPa0_4VmELG7abXZ_67MSjO9X0dY/s320/padre.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div>

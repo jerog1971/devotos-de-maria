@@ -1,7 +1,7 @@
 ---
 title: "Exagerar não e Exagerar sim"
 date: 2016-05-02T13:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWRP9sp2A1y1V9oyScwpvl-y38qmEcdBCh1x0AwKe6L6GbhEJBpllwPl_LL_cnp3wZhDzmUlxRY7r3fznnsEpU9BueMrYYws2Tc9Wa-RaQVt6R0zDkQrrRRIwQVtExEwJcJ1SgyuMR4E/s320/exagero.png"
+heroImage: "/images/exagero.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWRP9sp2A1y1V9oyScwpvl-y38qmEcdBCh1x0AwKe6L6GbhEJBpllwPl_LL_cnp3wZhDzmUlxRY7r3fznnsEpU9BueMrYYws2Tc9Wa-RaQVt6R0zDkQrrRRIwQVtExEwJcJ1SgyuMR4E/s1600/exagero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWRP9sp2A1y1V9oyScwpvl-y38qmEcdBCh1x0AwKe6L6GbhEJBpllwPl_LL_cnp3wZhDzmUlxRY7r3fznnsEpU9BueMrYYws2Tc9Wa-RaQVt6R0zDkQrrRRIwQVtExEwJcJ1SgyuMR4E/s320/exagero.png" width="230" height="320" data-original-width="354" data-original-height="493" /></a></div>

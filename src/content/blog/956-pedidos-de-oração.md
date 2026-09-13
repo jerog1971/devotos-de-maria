@@ -1,7 +1,7 @@
 ---
 title: "Pedidos de Oração"
 date: 2018-06-15T17:15:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoxCFmlPXNMLUQwVIZ3MdrIKtLrwQXYmG2AeoAbqF1ZQQb_K_AAr40MZ8eAzB5aD9gAuDHT6VZswrsAZcRX8o00Ir3IkFO4m_NWKiOUZ4kBdJYZZzzMnJgqhdnAxUEjWJ9WbmisZiqgI/s320/pedindo_ajuda.png"
+heroImage: "/images/pedindo_ajuda.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoxCFmlPXNMLUQwVIZ3MdrIKtLrwQXYmG2AeoAbqF1ZQQb_K_AAr40MZ8eAzB5aD9gAuDHT6VZswrsAZcRX8o00Ir3IkFO4m_NWKiOUZ4kBdJYZZzzMnJgqhdnAxUEjWJ9WbmisZiqgI/s1600/pedindo_ajuda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoxCFmlPXNMLUQwVIZ3MdrIKtLrwQXYmG2AeoAbqF1ZQQb_K_AAr40MZ8eAzB5aD9gAuDHT6VZswrsAZcRX8o00Ir3IkFO4m_NWKiOUZ4kBdJYZZzzMnJgqhdnAxUEjWJ9WbmisZiqgI/s320/pedindo_ajuda.png" width="320" height="311" data-original-width="394" data-original-height="383" /></a></div>

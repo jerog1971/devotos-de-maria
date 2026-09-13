@@ -1,7 +1,7 @@
 ---
 title: "Pense constantemente em seus novíssimos e jamais pecareis"
 date: 2019-06-26T18:28:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxE75tKDJC9UFDhi4_cdM5AiIkwOsZppw-0_7wtXRTojPqYSaPAAHC3IuZnSLxYdSG8OUtW_FWZN4HTE7wbJdaKvaHYgu6s_qUUYOYFXtsPcOHstUJc2y8v8loz8atKr5Pag1-ZDlOo-A/s320/chegada_da_morte.png"
+heroImage: "/images/chegada_da_morte.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxE75tKDJC9UFDhi4_cdM5AiIkwOsZppw-0_7wtXRTojPqYSaPAAHC3IuZnSLxYdSG8OUtW_FWZN4HTE7wbJdaKvaHYgu6s_qUUYOYFXtsPcOHstUJc2y8v8loz8atKr5Pag1-ZDlOo-A/s1600/chegada_da_morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxE75tKDJC9UFDhi4_cdM5AiIkwOsZppw-0_7wtXRTojPqYSaPAAHC3IuZnSLxYdSG8OUtW_FWZN4HTE7wbJdaKvaHYgu6s_qUUYOYFXtsPcOHstUJc2y8v8loz8atKr5Pag1-ZDlOo-A/s320/chegada_da_morte.png" width="320" height="319" data-original-width="296" data-original-height="295" /></a></div>

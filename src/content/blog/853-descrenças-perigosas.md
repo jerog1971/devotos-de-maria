@@ -1,7 +1,7 @@
 ---
 title: "Descrenças perigosas"
 date: 2024-01-16T18:03:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb-RcQQRPcy6MoV9_A7tNQ-QSwRZo1k36LK5bR0nIBCmzlmSiUGoiwo83ipYymU5t7zlLrTWkZa26v4BMxD9y2I9qfeQXGiJziywpScJwtP7TcXm73fJ1j3LBC7UGf8Ti8MC9xUawCNtpWBg70idYfXw0onY_5P7QLYxcmtn2TGha0SPl_43n_wYT7_ZY/s320/descren%C3%A7as%20perigosas.png"
+heroImage: "/images/descrença.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb-RcQQRPcy6MoV9_A7tNQ-QSwRZo1k36LK5bR0nIBCmzlmSiUGoiwo83ipYymU5t7zlLrTWkZa26v4BMxD9y2I9qfeQXGiJziywpScJwtP7TcXm73fJ1j3LBC7UGf8Ti8MC9xUawCNtpWBg70idYfXw0onY_5P7QLYxcmtn2TGha0SPl_43n_wYT7_ZY/s465/descren%C3%A7as%20perigosas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="465" height="209" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb-RcQQRPcy6MoV9_A7tNQ-QSwRZo1k36LK5bR0nIBCmzlmSiUGoiwo83ipYymU5t7zlLrTWkZa26v4BMxD9y2I9qfeQXGiJziywpScJwtP7TcXm73fJ1j3LBC7UGf8Ti8MC9xUawCNtpWBg70idYfXw0onY_5P7QLYxcmtn2TGha0SPl_43n_wYT7_ZY/s320/descren%C3%A7as%20perigosas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sempre assim, vez por outra algumas pessoas resolvem levar

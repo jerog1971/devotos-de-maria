@@ -1,7 +1,7 @@
 ---
 title: "A dor é filha do amor"
 date: 2019-09-13T20:22:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd7PjS64Samoa8qi_ivW0vla2Y4l0wx2u2URrBgVDRtk8t7EwqPqO0AONn6GwiRlEhMCfs6wys80PjTGgOXFxMHGSH2Sy8H9_FgOj4DA4neApX4SG0gb8fjLYU7Xf9GJK5dX1bhdhvk4o/s320/desculpas.png"
+heroImage: "/images/desculpas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd7PjS64Samoa8qi_ivW0vla2Y4l0wx2u2URrBgVDRtk8t7EwqPqO0AONn6GwiRlEhMCfs6wys80PjTGgOXFxMHGSH2Sy8H9_FgOj4DA4neApX4SG0gb8fjLYU7Xf9GJK5dX1bhdhvk4o/s1600/desculpas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd7PjS64Samoa8qi_ivW0vla2Y4l0wx2u2URrBgVDRtk8t7EwqPqO0AONn6GwiRlEhMCfs6wys80PjTGgOXFxMHGSH2Sy8H9_FgOj4DA4neApX4SG0gb8fjLYU7Xf9GJK5dX1bhdhvk4o/s320/desculpas.png" width="320" height="320" data-original-width="317" data-original-height="317" /></a></div>

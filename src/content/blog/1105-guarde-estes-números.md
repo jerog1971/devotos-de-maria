@@ -1,7 +1,7 @@
 ---
 title: "Guarde estes números"
 date: 2016-01-05T15:45:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAxYV_hRjGjGvfzHkqi2mWvp0M5I2fv2r7MwLjOVsPDW9DrLcBjWizzjdx6S2nxHiPk5G-Q3VnIM1s84qtlK9mUalUhWZUK-OXpE5Yx-C5eNxC7tH3xwVjKvWTkmEz_yd8usWbBGZkvto/s320/dom_bosco.png"
+heroImage: "/images/dom_bosco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAxYV_hRjGjGvfzHkqi2mWvp0M5I2fv2r7MwLjOVsPDW9DrLcBjWizzjdx6S2nxHiPk5G-Q3VnIM1s84qtlK9mUalUhWZUK-OXpE5Yx-C5eNxC7tH3xwVjKvWTkmEz_yd8usWbBGZkvto/s1600/dom_bosco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAxYV_hRjGjGvfzHkqi2mWvp0M5I2fv2r7MwLjOVsPDW9DrLcBjWizzjdx6S2nxHiPk5G-Q3VnIM1s84qtlK9mUalUhWZUK-OXpE5Yx-C5eNxC7tH3xwVjKvWTkmEz_yd8usWbBGZkvto/s320/dom_bosco.png" width="320" height="293" data-original-width="566" data-original-height="519" /></a></div>

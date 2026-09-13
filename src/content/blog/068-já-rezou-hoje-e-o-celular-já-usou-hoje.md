@@ -1,7 +1,7 @@
 ---
 title: "Já rezou hoje? E o celular, já usou hoje?"
 date: 2016-09-16T18:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB-liqawKM5iBIv_nTsOmRVg9GbmIBEvROH_73Jz3Wk9Nmxuun1jX2uYY7YtKL-UlTpo4m2ZXVo0CXFChzB6MB8uYR5yPU-FHGsTUc0jo1nyhJormDTTdDqv49VWcDS5LL0Qxu1LroDRs/s320/celular.png"
+heroImage: "/images/celular.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB-liqawKM5iBIv_nTsOmRVg9GbmIBEvROH_73Jz3Wk9Nmxuun1jX2uYY7YtKL-UlTpo4m2ZXVo0CXFChzB6MB8uYR5yPU-FHGsTUc0jo1nyhJormDTTdDqv49VWcDS5LL0Qxu1LroDRs/s1600/celular.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB-liqawKM5iBIv_nTsOmRVg9GbmIBEvROH_73Jz3Wk9Nmxuun1jX2uYY7YtKL-UlTpo4m2ZXVo0CXFChzB6MB8uYR5yPU-FHGsTUc0jo1nyhJormDTTdDqv49VWcDS5LL0Qxu1LroDRs/s320/celular.png" width="320" height="304" data-original-width="485" data-original-height="461" /></a></div>

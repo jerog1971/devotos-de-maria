@@ -1,7 +1,7 @@
 ---
 title: "Família, sejas Família"
 date: 2016-07-19T11:00:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKKMHDlMZ3yt7_ZQc_Tjv2hyRAEPEcBKH7X8JM3Dsdv-y-Y77YRmQC7igRACRczqFAOQBU7MHS_VbjhQi_0JGID4LXVgvOHs78pVAuveSSm5tkP2KBxKMTGs812g4-FKDzYAy2A73MlAQ/s320/familia2.png"
+heroImage: "/images/familia2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKKMHDlMZ3yt7_ZQc_Tjv2hyRAEPEcBKH7X8JM3Dsdv-y-Y77YRmQC7igRACRczqFAOQBU7MHS_VbjhQi_0JGID4LXVgvOHs78pVAuveSSm5tkP2KBxKMTGs812g4-FKDzYAy2A73MlAQ/s1600/familia2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKKMHDlMZ3yt7_ZQc_Tjv2hyRAEPEcBKH7X8JM3Dsdv-y-Y77YRmQC7igRACRczqFAOQBU7MHS_VbjhQi_0JGID4LXVgvOHs78pVAuveSSm5tkP2KBxKMTGs812g4-FKDzYAy2A73MlAQ/s320/familia2.png" width="320" height="257" data-original-width="646" data-original-height="519" /></a></div>

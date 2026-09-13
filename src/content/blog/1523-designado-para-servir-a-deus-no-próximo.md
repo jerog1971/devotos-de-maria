@@ -1,7 +1,7 @@
 ---
 title: "Designado para servir a Deus no Próximo"
 date: 2021-05-19T13:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfU2D1jcTcIuuSBY5th5SlvcVWj1dW0fTZH9wDRZ7lbRT9CU1clIGiBKdX7CSktb3vZOVTdStaNJ6TkIfmivI1ZAyFayLU6fWLIk4A0bsJWPLd0gu9CJRY9mpFQRN6DN7P3wB96aLiLzQ/s320/Servir+a+Deus+no+pr%25C3%25B3ximo.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: center;"><br /></div><br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfU2D1jcTcIuuSBY5th5SlvcVWj1dW0fTZH9wDRZ7lbRT9CU1clIGiBKdX7CSktb3vZOVTdStaNJ6TkIfmivI1ZAyFayLU6fWLIk4A0bsJWPLd0gu9CJRY9mpFQRN6DN7P3wB96aLiLzQ/s389/Servir+a+Deus+no+pr%25C3%25B3ximo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="351" data-original-width="389" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfU2D1jcTcIuuSBY5th5SlvcVWj1dW0fTZH9wDRZ7lbRT9CU1clIGiBKdX7CSktb3vZOVTdStaNJ6TkIfmivI1ZAyFayLU6fWLIk4A0bsJWPLd0gu9CJRY9mpFQRN6DN7P3wB96aLiLzQ/s320/Servir+a+Deus+no+pr%25C3%25B3ximo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia lemos que os dons e o chamado de Deus são

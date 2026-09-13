@@ -1,7 +1,7 @@
 ---
 title: "Raízes e Valores"
 date: 2019-09-16T16:21:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj6nSzEpR1ZMfnHPFTHpcLbtzUzWJlrkgIyH8PfMZZPGo5APQBPscDLdjxXb8X3oFg-mMbi7AAb40nzQB1DsUCOX4hYB2CLc97VR6XVB3UiO0AX0_taRwrvx8fzwHv8qpICck9JDL1ZqE/s320/raizes_e_valores.png"
+heroImage: "/images/raizes_e_valores.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj6nSzEpR1ZMfnHPFTHpcLbtzUzWJlrkgIyH8PfMZZPGo5APQBPscDLdjxXb8X3oFg-mMbi7AAb40nzQB1DsUCOX4hYB2CLc97VR6XVB3UiO0AX0_taRwrvx8fzwHv8qpICck9JDL1ZqE/s1600/raizes_e_valores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj6nSzEpR1ZMfnHPFTHpcLbtzUzWJlrkgIyH8PfMZZPGo5APQBPscDLdjxXb8X3oFg-mMbi7AAb40nzQB1DsUCOX4hYB2CLc97VR6XVB3UiO0AX0_taRwrvx8fzwHv8qpICck9JDL1ZqE/s320/raizes_e_valores.png" width="298" height="320" data-original-width="428" data-original-height="459" /></a></div>

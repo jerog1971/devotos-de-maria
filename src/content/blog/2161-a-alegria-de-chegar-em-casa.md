@@ -1,7 +1,7 @@
 ---
 title: "A alegria de chegar em casa"
 date: 2017-04-11T13:15:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBSVkJLyrKZZz-TVWG0N40OFCpSUidQBks9gj3P_abPHYNJjpZ8J5jV4UJtL2ULLyw6hdm1HoogBmfYyo_4kTVz0DywhNpyR-fRxw8-QlCpIJ3FGGgOa_qJbOV3RisS77qE0NHAP9sRcw/s320/jerusalem.png"
+heroImage: "/images/jerusalem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBSVkJLyrKZZz-TVWG0N40OFCpSUidQBks9gj3P_abPHYNJjpZ8J5jV4UJtL2ULLyw6hdm1HoogBmfYyo_4kTVz0DywhNpyR-fRxw8-QlCpIJ3FGGgOa_qJbOV3RisS77qE0NHAP9sRcw/s1600/jerusalem.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="352" data-original-width="468" height="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBSVkJLyrKZZz-TVWG0N40OFCpSUidQBks9gj3P_abPHYNJjpZ8J5jV4UJtL2ULLyw6hdm1HoogBmfYyo_4kTVz0DywhNpyR-fRxw8-QlCpIJ3FGGgOa_qJbOV3RisS77qE0NHAP9sRcw/s320/jerusalem.png" width="320" /></a></div>

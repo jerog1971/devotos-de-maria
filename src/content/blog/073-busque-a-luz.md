@@ -1,7 +1,7 @@
 ---
 title: "Busque a luz"
 date: 2019-09-11T15:42:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibS5S0a7lEKnxihdbybPuFfAA3Trsk42D08swghmBZ_yQM_kNJcuNX0v1C4lUYY7e6MbpHVuopVcOXDDWT7Dg8TGcW5d4ttQt4pcFB77i5uHkCJ8-dyfYKKF32hlqIYP59Fyo_gEjyews/s320/busque_a_luz.jpg"
+heroImage: "/images/busque_a_luz.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibS5S0a7lEKnxihdbybPuFfAA3Trsk42D08swghmBZ_yQM_kNJcuNX0v1C4lUYY7e6MbpHVuopVcOXDDWT7Dg8TGcW5d4ttQt4pcFB77i5uHkCJ8-dyfYKKF32hlqIYP59Fyo_gEjyews/s1600/busque_a_luz.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibS5S0a7lEKnxihdbybPuFfAA3Trsk42D08swghmBZ_yQM_kNJcuNX0v1C4lUYY7e6MbpHVuopVcOXDDWT7Dg8TGcW5d4ttQt4pcFB77i5uHkCJ8-dyfYKKF32hlqIYP59Fyo_gEjyews/s320/busque_a_luz.jpg" width="240" height="320" data-original-width="612" data-original-height="816" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O prejuízo da alma"
 date: 2020-03-12T19:37:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicapyHHAOqXQueDE_Kab84WbQeRB8lDAJogEnm5oyQlD9zwobnnBxBTwNSlRdjFxPZJ6U3NXjxckIc5jvuWRcIYnOdJnrxTo5etRf7BDDPBZlsccBGhQuYktvaYEF5nEY4d7NWOC9YWHs/s320/veneno.png"
+heroImage: "/images/veneno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicapyHHAOqXQueDE_Kab84WbQeRB8lDAJogEnm5oyQlD9zwobnnBxBTwNSlRdjFxPZJ6U3NXjxckIc5jvuWRcIYnOdJnrxTo5etRf7BDDPBZlsccBGhQuYktvaYEF5nEY4d7NWOC9YWHs/s1600/veneno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicapyHHAOqXQueDE_Kab84WbQeRB8lDAJogEnm5oyQlD9zwobnnBxBTwNSlRdjFxPZJ6U3NXjxckIc5jvuWRcIYnOdJnrxTo5etRf7BDDPBZlsccBGhQuYktvaYEF5nEY4d7NWOC9YWHs/s320/veneno.png" width="320" height="312" data-original-width="379" data-original-height="369" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O perigo do imediatismo"
 date: 2024-11-08T17:38:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZEF10yof9GLfRv_2dXjtdOWRpfSqnUXL_56YIR-OC6Ai0_BNXL_8WJT3IwX41L0zsZ_hnqXVdJ0pza31HiLVeAc566A_6B3LH6SvH_1we7vTL6n-W4EtF2bPWEcm2mQJTP_I7l2Lge54-goanuk3wS5qU5mDueOuOibgXSyaLKNtJd9-FeFZwYOESEQ0/s320/imediatismo.png"
+heroImage: "/images/imediatismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="428" data-original-width="515" height="266" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZEF10yof9GLfRv_2dXjtdOWRpfSqnUXL_56YIR-OC6Ai0_BNXL_8WJT3IwX41L0zsZ_hnqXVdJ0pza31HiLVeAc566A_6B3LH6SvH_1we7vTL6n-W4EtF2bPWEcm2mQJTP_I7l2Lge54-goanuk3wS5qU5mDueOuOibgXSyaLKNtJd9-FeFZwYOESEQ0/s320/imediatismo.png" width="320" /></div><p></p>

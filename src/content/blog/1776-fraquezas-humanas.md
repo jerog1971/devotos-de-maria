@@ -1,7 +1,7 @@
 ---
 title: "Fraquezas humanas"
 date: 2022-08-23T16:25:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9VWY5RnpSSZrnlsOZRQxqUccwiqA1xpzdts-E1pwdKFbFgZ3IeL8lgsFx2XY2XjqY3UENLaAKShHeY5_UcODj8fyXI3AL33Wbf_vCrDj2AfD_6EinD8mdYmMyMKU72jED932Q00P72d8aBVqdJZB_2ZY66mhaUCWHsz0tl7Qhaykl-L96VBiqFuYK/s320/fraquezas%20humanas.png"
+heroImage: "/images/fraquezas humanas.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9VWY5RnpSSZrnlsOZRQxqUccwiqA1xpzdts-E1pwdKFbFgZ3IeL8lgsFx2XY2XjqY3UENLaAKShHeY5_UcODj8fyXI3AL33Wbf_vCrDj2AfD_6EinD8mdYmMyMKU72jED932Q00P72d8aBVqdJZB_2ZY66mhaUCWHsz0tl7Qhaykl-L96VBiqFuYK/s532/fraquezas%20humanas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="532" data-original-width="513" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9VWY5RnpSSZrnlsOZRQxqUccwiqA1xpzdts-E1pwdKFbFgZ3IeL8lgsFx2XY2XjqY3UENLaAKShHeY5_UcODj8fyXI3AL33Wbf_vCrDj2AfD_6EinD8mdYmMyMKU72jED932Q00P72d8aBVqdJZB_2ZY66mhaUCWHsz0tl7Qhaykl-L96VBiqFuYK/s320/fraquezas%20humanas.png" width="309" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa natureza possui, todos já sabemos, grandes fraquezas.

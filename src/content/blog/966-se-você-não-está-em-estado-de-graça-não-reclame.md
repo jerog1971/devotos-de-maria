@@ -1,7 +1,7 @@
 ---
 title: "Se você não está em estado de graça, não reclame!"
 date: 2017-05-29T17:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqXmdKWGs8WgTfkm4KTq_iYGDSxXS6n7PTLTQl6_iJkQue1ZWJAQv6MoEMebQDhLx1ory8SMWKQbEo3oguVtcya0Pfo_pMvNTQML4-Crhi8yXPqUCMrJoFx_YAz9v2X1Tprqq5pV2BHH8/s320/dificuldades.png"
+heroImage: "/images/dificuldades.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqXmdKWGs8WgTfkm4KTq_iYGDSxXS6n7PTLTQl6_iJkQue1ZWJAQv6MoEMebQDhLx1ory8SMWKQbEo3oguVtcya0Pfo_pMvNTQML4-Crhi8yXPqUCMrJoFx_YAz9v2X1Tprqq5pV2BHH8/s1600/dificuldades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqXmdKWGs8WgTfkm4KTq_iYGDSxXS6n7PTLTQl6_iJkQue1ZWJAQv6MoEMebQDhLx1ory8SMWKQbEo3oguVtcya0Pfo_pMvNTQML4-Crhi8yXPqUCMrJoFx_YAz9v2X1Tprqq5pV2BHH8/s320/dificuldades.png" width="320" height="296" data-original-width="279" data-original-height="258" /></a></div>

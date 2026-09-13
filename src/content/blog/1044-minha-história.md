@@ -1,7 +1,7 @@
 ---
 title: "Minha história"
 date: 2016-03-16T02:15:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE61ZjLv8gRP89ysK5E4_9y1QJaCMctqKmmAniPuby9KDMJlvoBxGP5pJczzzhip1cnKdGW2G2gOS7uFBVejrt2Z9rm7EUZfxrHe2Sb5YIUojQHdXdd9TE479HG4kONgAJxHe4mTiPtGk/s320/YasminSofia.png"
+heroImage: "/images/YasminSofia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE61ZjLv8gRP89ysK5E4_9y1QJaCMctqKmmAniPuby9KDMJlvoBxGP5pJczzzhip1cnKdGW2G2gOS7uFBVejrt2Z9rm7EUZfxrHe2Sb5YIUojQHdXdd9TE479HG4kONgAJxHe4mTiPtGk/s1600/YasminSofia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE61ZjLv8gRP89ysK5E4_9y1QJaCMctqKmmAniPuby9KDMJlvoBxGP5pJczzzhip1cnKdGW2G2gOS7uFBVejrt2Z9rm7EUZfxrHe2Sb5YIUojQHdXdd9TE479HG4kONgAJxHe4mTiPtGk/s320/YasminSofia.png" width="195" height="320" data-original-width="316" data-original-height="518" /></a></div>

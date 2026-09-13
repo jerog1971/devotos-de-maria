@@ -1,7 +1,7 @@
 ---
 title: "As dificuldades"
 date: 2017-06-05T15:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczxzoIa6RqlGzzZytgmgfxIjiZ5doEyBPj7qLyB2hQKV1gxeyAIXdWVEfeZ8VNACDPHCLaCZg4mjd7M2UcYcIKwK5kg7OlnIsNyd7xURaWrn0lNfbgAh3Z57RrFDoPYJRbsgdmCBYZek/s320/corredor.png"
+heroImage: "/images/corredor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczxzoIa6RqlGzzZytgmgfxIjiZ5doEyBPj7qLyB2hQKV1gxeyAIXdWVEfeZ8VNACDPHCLaCZg4mjd7M2UcYcIKwK5kg7OlnIsNyd7xURaWrn0lNfbgAh3Z57RrFDoPYJRbsgdmCBYZek/s1600/corredor.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="489" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczxzoIa6RqlGzzZytgmgfxIjiZ5doEyBPj7qLyB2hQKV1gxeyAIXdWVEfeZ8VNACDPHCLaCZg4mjd7M2UcYcIKwK5kg7OlnIsNyd7xURaWrn0lNfbgAh3Z57RrFDoPYJRbsgdmCBYZek/s320/corredor.png" width="301" /></a></div>

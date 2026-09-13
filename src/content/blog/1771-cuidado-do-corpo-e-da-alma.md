@@ -1,7 +1,7 @@
 ---
 title: "Cuidado do corpo e da alma"
 date: 2016-06-30T19:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL8oZDZWCnTfEqwLA6AXVCin0OIxqoHFEB3f-A7cEdiJtZchN-Xs0tIokeSyip_JOu4xP4-jf5LeZOgYIODTZigohagtsnqwyGUqMenDbruIPenT0zAKdFV1-irt1tS1Z_tWR-jerru5U/s320/cuidado.png"
+heroImage: "/images/cuidado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL8oZDZWCnTfEqwLA6AXVCin0OIxqoHFEB3f-A7cEdiJtZchN-Xs0tIokeSyip_JOu4xP4-jf5LeZOgYIODTZigohagtsnqwyGUqMenDbruIPenT0zAKdFV1-irt1tS1Z_tWR-jerru5U/s1600/cuidado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL8oZDZWCnTfEqwLA6AXVCin0OIxqoHFEB3f-A7cEdiJtZchN-Xs0tIokeSyip_JOu4xP4-jf5LeZOgYIODTZigohagtsnqwyGUqMenDbruIPenT0zAKdFV1-irt1tS1Z_tWR-jerru5U/s320/cuidado.png" width="320" height="308" data-original-width="416" data-original-height="401" /></a></div>

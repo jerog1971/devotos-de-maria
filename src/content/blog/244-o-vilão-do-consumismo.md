@@ -1,7 +1,7 @@
 ---
 title: "O vilão do consumismo"
 date: 2016-10-11T15:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZNlEaUPDm2q32cObyucPJYrcF1F5E94ULnVFICWeWJzTZxOpeIyCvwHTBH8E77bVc34aT0-Z2XcfcvzmQVt4ayn13fQRvZH7rXdYRTnY-kQAwmlZkMYbhGQ7GZLu9tbDRDzVHAXryKI/s320/consumismo.png"
+heroImage: "/images/consumismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZNlEaUPDm2q32cObyucPJYrcF1F5E94ULnVFICWeWJzTZxOpeIyCvwHTBH8E77bVc34aT0-Z2XcfcvzmQVt4ayn13fQRvZH7rXdYRTnY-kQAwmlZkMYbhGQ7GZLu9tbDRDzVHAXryKI/s1600/consumismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZNlEaUPDm2q32cObyucPJYrcF1F5E94ULnVFICWeWJzTZxOpeIyCvwHTBH8E77bVc34aT0-Z2XcfcvzmQVt4ayn13fQRvZH7rXdYRTnY-kQAwmlZkMYbhGQ7GZLu9tbDRDzVHAXryKI/s320/consumismo.png" width="298" height="320" data-original-width="203" data-original-height="218" /></a></div>

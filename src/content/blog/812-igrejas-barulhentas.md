@@ -1,7 +1,7 @@
 ---
 title: "Igrejas barulhentas"
 date: 2019-05-20T19:54:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRYmaV5YTr8hVhCv4ozj80UazbtOW14pZeowILoRyBP0ds6kcBJdyG6G4P2r5mzc7bxMWwSnizvbag8zOxkJ-fR78kZ44-_R2ojWeUvWC0wQ-lbxtATXLUniBv2pcvU8tZ7Hd33TV8Fbk/s320/igrejas_barulhentas.png"
+heroImage: "/images/igrejas_barulhentas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRYmaV5YTr8hVhCv4ozj80UazbtOW14pZeowILoRyBP0ds6kcBJdyG6G4P2r5mzc7bxMWwSnizvbag8zOxkJ-fR78kZ44-_R2ojWeUvWC0wQ-lbxtATXLUniBv2pcvU8tZ7Hd33TV8Fbk/s1600/igrejas_barulhentas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRYmaV5YTr8hVhCv4ozj80UazbtOW14pZeowILoRyBP0ds6kcBJdyG6G4P2r5mzc7bxMWwSnizvbag8zOxkJ-fR78kZ44-_R2ojWeUvWC0wQ-lbxtATXLUniBv2pcvU8tZ7Hd33TV8Fbk/s320/igrejas_barulhentas.png" width="320" height="261" data-original-width="581" data-original-height="474" /></a></div>

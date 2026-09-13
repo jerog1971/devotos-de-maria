@@ -1,7 +1,7 @@
 ---
 title: "Decretos divinos"
 date: 2021-08-04T15:13:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid0pe27xTtLpxAjoLf8duRWs0ciZT1Z1Z5oegWWNWZkWGAZAj6dlwrnP_L73Mbh6g4LM-wTT1Ibgt6A0Vl0z7wsj0W-GBmaYzB3RG_nFZfdToEGIx5jaFJ-dE1TGVM2oVy-CIegXeauns/s0/amantes.png"
+heroImage: "/images/amantes.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid0pe27xTtLpxAjoLf8duRWs0ciZT1Z1Z5oegWWNWZkWGAZAj6dlwrnP_L73Mbh6g4LM-wTT1Ibgt6A0Vl0z7wsj0W-GBmaYzB3RG_nFZfdToEGIx5jaFJ-dE1TGVM2oVy-CIegXeauns/s251/amantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="208" data-original-width="251" height="208" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid0pe27xTtLpxAjoLf8duRWs0ciZT1Z1Z5oegWWNWZkWGAZAj6dlwrnP_L73Mbh6g4LM-wTT1Ibgt6A0Vl0z7wsj0W-GBmaYzB3RG_nFZfdToEGIx5jaFJ-dE1TGVM2oVy-CIegXeauns/s0/amantes.png" width="251" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Gênesis 2,24 – “O homem deixa o seu pai e sua mãe para se

@@ -1,7 +1,7 @@
 ---
 title: "A luz que vem de Cristo"
 date: 2017-11-03T12:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HLFncjzVWrXQ13JBFWIPxO5ok-7Tg585hw8We6Y3fyMMkL1yusE1rJoqmjPEPeqH2tEVLW3dWx7Ea7EISyl8SEdIL_Vgbhl28LeHKMs29_7TdsftaSRj1JQIdEDbRNLhxKRuyNxLunA/s320/vela3.jpg"
+heroImage: "/images/vela3.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HLFncjzVWrXQ13JBFWIPxO5ok-7Tg585hw8We6Y3fyMMkL1yusE1rJoqmjPEPeqH2tEVLW3dWx7Ea7EISyl8SEdIL_Vgbhl28LeHKMs29_7TdsftaSRj1JQIdEDbRNLhxKRuyNxLunA/s1600/vela3.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HLFncjzVWrXQ13JBFWIPxO5ok-7Tg585hw8We6Y3fyMMkL1yusE1rJoqmjPEPeqH2tEVLW3dWx7Ea7EISyl8SEdIL_Vgbhl28LeHKMs29_7TdsftaSRj1JQIdEDbRNLhxKRuyNxLunA/s320/vela3.jpg" width="211" height="320" data-original-width="1055" data-original-height="1600" /></a></div>

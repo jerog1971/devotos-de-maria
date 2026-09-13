@@ -1,7 +1,7 @@
 ---
 title: "O mal da prostituição"
 date: 2016-07-04T19:12:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5lN4EIz7S361on1fySCsno799gfSpzfX8DuQOLoAnkFGBtCTwk1OL5bs93jEq6bs-6Jr6A43YPcHOs7z5Yw1Wyc5RI5biGC8eKYhNS-AxJypy8xFYUI9OxuehT4ekcHgGX3kuXc0HXPU/s320/orelhao.png"
+heroImage: "/images/orelhao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5lN4EIz7S361on1fySCsno799gfSpzfX8DuQOLoAnkFGBtCTwk1OL5bs93jEq6bs-6Jr6A43YPcHOs7z5Yw1Wyc5RI5biGC8eKYhNS-AxJypy8xFYUI9OxuehT4ekcHgGX3kuXc0HXPU/s1600/orelhao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5lN4EIz7S361on1fySCsno799gfSpzfX8DuQOLoAnkFGBtCTwk1OL5bs93jEq6bs-6Jr6A43YPcHOs7z5Yw1Wyc5RI5biGC8eKYhNS-AxJypy8xFYUI9OxuehT4ekcHgGX3kuXc0HXPU/s320/orelhao.png" width="239" height="320" data-original-width="388" data-original-height="520" /></a></div>

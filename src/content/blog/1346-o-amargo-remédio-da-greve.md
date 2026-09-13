@@ -1,7 +1,7 @@
 ---
 title: "O amargo remédio da GREVE"
 date: 2015-08-01T00:45:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqter9TixnnfU9x-1LEOqrAa-ensY6VhYYZCyITL_ALhI9MKMZNWwh2XQ6Oo1tUz-tjAXJZWxog3C6C_M4GmTY4UPs6XVguUAddEWDt0DIgHcyIda75JOHamXKQldvmF0aYNsYpJdwAzQ/s320/greve_urbs2.png"
+heroImage: "/images/greve_urbs2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqter9TixnnfU9x-1LEOqrAa-ensY6VhYYZCyITL_ALhI9MKMZNWwh2XQ6Oo1tUz-tjAXJZWxog3C6C_M4GmTY4UPs6XVguUAddEWDt0DIgHcyIda75JOHamXKQldvmF0aYNsYpJdwAzQ/s1600/greve_urbs2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqter9TixnnfU9x-1LEOqrAa-ensY6VhYYZCyITL_ALhI9MKMZNWwh2XQ6Oo1tUz-tjAXJZWxog3C6C_M4GmTY4UPs6XVguUAddEWDt0DIgHcyIda75JOHamXKQldvmF0aYNsYpJdwAzQ/s320/greve_urbs2.png" width="232" height="320" data-original-width="230" data-original-height="317" /></a></div>

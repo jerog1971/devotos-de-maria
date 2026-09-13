@@ -1,7 +1,7 @@
 ---
 title: "Modelos de Santidade"
 date: 2021-05-15T18:33:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXFVzp2b4keFrv781f7HFhXcx-_0Qhti1e7lUKlq3Jjkl_1-iqvBjNI8aWrpE8NCrBRFbND8vbSORjRLJSXYtrIC13xfU3Eq33zwMqMWwHMnzXCSDQPhfX-BfWobvzGljB3gvc7GR7dus/s320/modelos+de+santidade.png"
+heroImage: "/images/anti.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXFVzp2b4keFrv781f7HFhXcx-_0Qhti1e7lUKlq3Jjkl_1-iqvBjNI8aWrpE8NCrBRFbND8vbSORjRLJSXYtrIC13xfU3Eq33zwMqMWwHMnzXCSDQPhfX-BfWobvzGljB3gvc7GR7dus/s892/modelos+de+santidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="664" data-original-width="892" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXFVzp2b4keFrv781f7HFhXcx-_0Qhti1e7lUKlq3Jjkl_1-iqvBjNI8aWrpE8NCrBRFbND8vbSORjRLJSXYtrIC13xfU3Eq33zwMqMWwHMnzXCSDQPhfX-BfWobvzGljB3gvc7GR7dus/s320/modelos+de+santidade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sede imitadores de Cristo – 1ª Coríntios 11,1, Efésios 5,1.

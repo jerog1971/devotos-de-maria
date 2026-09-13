@@ -1,7 +1,7 @@
 ---
 title: "Marcando pessoas"
 date: 2019-12-12T19:59:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzkJzm7GP-FKOvgyt7pRMBGs-CqMsh-7yHklZ_-jGN_IMuRLj7UU_Rm1q6bbyXt0IJ1Eg8hPoZIfy2m2AEHZb2YZXcRRzdDyF4l3ZqamREz3AjQS2qPGfc-hIp7wKjRyxBHJuXYnPdlM/s320/marcando_gado.png"
+heroImage: "/images/marcando_gado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzkJzm7GP-FKOvgyt7pRMBGs-CqMsh-7yHklZ_-jGN_IMuRLj7UU_Rm1q6bbyXt0IJ1Eg8hPoZIfy2m2AEHZb2YZXcRRzdDyF4l3ZqamREz3AjQS2qPGfc-hIp7wKjRyxBHJuXYnPdlM/s1600/marcando_gado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzkJzm7GP-FKOvgyt7pRMBGs-CqMsh-7yHklZ_-jGN_IMuRLj7UU_Rm1q6bbyXt0IJ1Eg8hPoZIfy2m2AEHZb2YZXcRRzdDyF4l3ZqamREz3AjQS2qPGfc-hIp7wKjRyxBHJuXYnPdlM/s320/marcando_gado.png" width="216" height="320" data-original-width="315" data-original-height="466" /></a></div>

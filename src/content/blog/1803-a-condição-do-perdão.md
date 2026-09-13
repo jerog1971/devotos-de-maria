@@ -1,7 +1,7 @@
 ---
 title: "A condição do perdão"
 date: 2018-06-20T15:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-t_o8DoH3FeJU9Hit08X4VmEsauBNgNbx_21O4Deag-dkH6vEdk_EhyphenhyphenLla5wor0J5qdubwPqkIDPBfVzWzONZLrjdGMhQzt_9A8TsqTQeXbQws754dpfZf-4qOzWkWRZ-BkIyxhwZ13c/s320/perdoar_o_outro.png"
+heroImage: "/images/perdoar_o_outro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-t_o8DoH3FeJU9Hit08X4VmEsauBNgNbx_21O4Deag-dkH6vEdk_EhyphenhyphenLla5wor0J5qdubwPqkIDPBfVzWzONZLrjdGMhQzt_9A8TsqTQeXbQws754dpfZf-4qOzWkWRZ-BkIyxhwZ13c/s1600/perdoar_o_outro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-t_o8DoH3FeJU9Hit08X4VmEsauBNgNbx_21O4Deag-dkH6vEdk_EhyphenhyphenLla5wor0J5qdubwPqkIDPBfVzWzONZLrjdGMhQzt_9A8TsqTQeXbQws754dpfZf-4qOzWkWRZ-BkIyxhwZ13c/s320/perdoar_o_outro.png" width="320" height="306" data-original-width="404" data-original-height="386" /></a></div>

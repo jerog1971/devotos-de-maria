@@ -1,7 +1,7 @@
 ---
 title: "Diabo de cada dia"
 date: 2022-11-28T21:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDJ6JMVCuTsg-MTvfTM_qM1KJPTeWF9TTPOaYrrS660N9Np8NmkSW0q7r7qS0ikmwmqp3HORCR1Gj4OqM8wAgY6yWqldcyP9zSLU9zpkclYRoAGGho_La00jEJWFOJ9WxxeGReEEV4saCqERDyvXUOvtwY3XdQmJ9KIXcV8kfMEqrzBOY2cy9ILfar/s320/diabo%20de%20cada%20dia.png"
+heroImage: "/images/diabo de cada dia.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDJ6JMVCuTsg-MTvfTM_qM1KJPTeWF9TTPOaYrrS660N9Np8NmkSW0q7r7qS0ikmwmqp3HORCR1Gj4OqM8wAgY6yWqldcyP9zSLU9zpkclYRoAGGho_La00jEJWFOJ9WxxeGReEEV4saCqERDyvXUOvtwY3XdQmJ9KIXcV8kfMEqrzBOY2cy9ILfar/s519/diabo%20de%20cada%20dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="519" height="242" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDJ6JMVCuTsg-MTvfTM_qM1KJPTeWF9TTPOaYrrS660N9Np8NmkSW0q7r7qS0ikmwmqp3HORCR1Gj4OqM8wAgY6yWqldcyP9zSLU9zpkclYRoAGGho_La00jEJWFOJ9WxxeGReEEV4saCqERDyvXUOvtwY3XdQmJ9KIXcV8kfMEqrzBOY2cy9ILfar/s320/diabo%20de%20cada%20dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus diz que o diabo é o pai da mentira, o líder da rebelião

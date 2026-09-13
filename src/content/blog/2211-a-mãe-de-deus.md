@@ -1,7 +1,7 @@
 ---
 title: "A Mãe de Deus"
 date: 2016-01-05T15:58:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM1kOIPGPB9NK8wm0U7hjykhq8NBKbt1s3REX55xpoBNu-KN7_pr5PXLfrM2yIi0QaGT39KdS1s06KtpZ6IurJP_t2bR7AVvxaKh_qwpp86g3E25PFkt-VUALNeeL8Reg_8dANa90ulcA/s320/Nossa+Senhora.jpg"
+heroImage: "/images/nos.JPG"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM1kOIPGPB9NK8wm0U7hjykhq8NBKbt1s3REX55xpoBNu-KN7_pr5PXLfrM2yIi0QaGT39KdS1s06KtpZ6IurJP_t2bR7AVvxaKh_qwpp86g3E25PFkt-VUALNeeL8Reg_8dANa90ulcA/s1600/Nossa+Senhora.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM1kOIPGPB9NK8wm0U7hjykhq8NBKbt1s3REX55xpoBNu-KN7_pr5PXLfrM2yIi0QaGT39KdS1s06KtpZ6IurJP_t2bR7AVvxaKh_qwpp86g3E25PFkt-VUALNeeL8Reg_8dANa90ulcA/s320/Nossa+Senhora.jpg" width="217" height="320" data-original-width="290" data-original-height="427" /></a></div>

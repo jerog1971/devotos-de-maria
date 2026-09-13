@@ -1,7 +1,7 @@
 ---
 title: "Quanto mais vivo menos quero viver"
 date: 2019-03-22T15:33:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcD24Q3pmthyphenhyphen8obkl8n5cDLksqT3zqPNZ9VnsyrHX4ZoxTf59AAz-1Rwt6vxDsKXyAFuH0XxW2g_r2kuKIdOWraxR37HbCnClskNZBH0u9MMIqnY4YZDCN6onvDzo6kcWHuRkLKlX1Gv0/s320/quero_morrer.png"
+heroImage: "/images/quero_morrer.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcD24Q3pmthyphenhyphen8obkl8n5cDLksqT3zqPNZ9VnsyrHX4ZoxTf59AAz-1Rwt6vxDsKXyAFuH0XxW2g_r2kuKIdOWraxR37HbCnClskNZBH0u9MMIqnY4YZDCN6onvDzo6kcWHuRkLKlX1Gv0/s1600/quero_morrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcD24Q3pmthyphenhyphen8obkl8n5cDLksqT3zqPNZ9VnsyrHX4ZoxTf59AAz-1Rwt6vxDsKXyAFuH0XxW2g_r2kuKIdOWraxR37HbCnClskNZBH0u9MMIqnY4YZDCN6onvDzo6kcWHuRkLKlX1Gv0/s320/quero_morrer.png" width="320" height="301" data-original-width="512" data-original-height="481" /></a></div>

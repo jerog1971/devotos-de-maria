@@ -1,7 +1,7 @@
 ---
 title: "Papa Francisco e a reforma protestante"
 date: 2016-07-01T18:22:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxF1Tho5wbrVYVgbTDpvQndoPMePTZ-55e3gjajUz3W59gP0EtB0mtC6Ri_4b3jPiyTONrnH0kHLKZ6lQWnuIUB2LbgKhn98adwLHH1h5-WZauu3Vd7ms66jUsvhVCA0NywXJDNe9b1gc/s320/reforma_protestante3.png"
+heroImage: "/images/reforma_protestante3.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxF1Tho5wbrVYVgbTDpvQndoPMePTZ-55e3gjajUz3W59gP0EtB0mtC6Ri_4b3jPiyTONrnH0kHLKZ6lQWnuIUB2LbgKhn98adwLHH1h5-WZauu3Vd7ms66jUsvhVCA0NywXJDNe9b1gc/s532/reforma_protestante3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="532" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxF1Tho5wbrVYVgbTDpvQndoPMePTZ-55e3gjajUz3W59gP0EtB0mtC6Ri_4b3jPiyTONrnH0kHLKZ6lQWnuIUB2LbgKhn98adwLHH1h5-WZauu3Vd7ms66jUsvhVCA0NywXJDNe9b1gc/s320/reforma_protestante3.png" width="320" /></a></div><br /></div>

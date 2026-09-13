@@ -1,7 +1,7 @@
 ---
 title: "Assim que levanto começa minha luta contra o mal"
 date: 2019-08-06T15:16:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePC9atHhm6ikaUVWTgYC47Iq05YhAgZex34IQvONGMQfXfPPxkk2ncIKKEB3dpYdbdkZIr0g3a_ig5DHRI2M-vLld4Q2ffl8nuWG5fzRUwIY0qCjmiaDavn2kcJfrqaNAdjgbOmzBKpI/s320/batalha_contra_o_mal.png"
+heroImage: "/images/batalha_contra_o_mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePC9atHhm6ikaUVWTgYC47Iq05YhAgZex34IQvONGMQfXfPPxkk2ncIKKEB3dpYdbdkZIr0g3a_ig5DHRI2M-vLld4Q2ffl8nuWG5fzRUwIY0qCjmiaDavn2kcJfrqaNAdjgbOmzBKpI/s1600/batalha_contra_o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjePC9atHhm6ikaUVWTgYC47Iq05YhAgZex34IQvONGMQfXfPPxkk2ncIKKEB3dpYdbdkZIr0g3a_ig5DHRI2M-vLld4Q2ffl8nuWG5fzRUwIY0qCjmiaDavn2kcJfrqaNAdjgbOmzBKpI/s320/batalha_contra_o_mal.png" width="320" height="319" data-original-width="516" data-original-height="514" /></a></div>

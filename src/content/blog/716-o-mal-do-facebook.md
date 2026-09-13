@@ -1,7 +1,7 @@
 ---
 title: "O mal do Facebook"
 date: 2018-04-25T15:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgherzf7hQ3EDS2J58QJNkKwqa3TjoTLFldOJYez0gPI5cKbrpZs5sMpW_2e394CVf52-h8UvDUqSbDmqODkEVk0bb3nuNijmQXswFQl-8EWM87drE0YG7xgxWz01SPnsmDRpUKJXqqpWs/s320/maldito_facebook.png"
+heroImage: "/images/maldito_facebook.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgherzf7hQ3EDS2J58QJNkKwqa3TjoTLFldOJYez0gPI5cKbrpZs5sMpW_2e394CVf52-h8UvDUqSbDmqODkEVk0bb3nuNijmQXswFQl-8EWM87drE0YG7xgxWz01SPnsmDRpUKJXqqpWs/s1600/maldito_facebook.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgherzf7hQ3EDS2J58QJNkKwqa3TjoTLFldOJYez0gPI5cKbrpZs5sMpW_2e394CVf52-h8UvDUqSbDmqODkEVk0bb3nuNijmQXswFQl-8EWM87drE0YG7xgxWz01SPnsmDRpUKJXqqpWs/s320/maldito_facebook.png" width="320" height="307" data-original-width="200" data-original-height="192" /></a></div>

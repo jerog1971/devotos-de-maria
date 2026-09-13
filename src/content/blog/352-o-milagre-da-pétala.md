@@ -1,7 +1,7 @@
 ---
 title: "O milagre da pétala"
 date: 2017-12-07T18:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYEBPA80U3h0NV6EOMRNcp9AyEAKD_y6OKaM01XXTK8kYRS4oS47kJgt2UrhWsGJZSMk7-36_AwGov7dGSCuX1HGwCz0FBMh1qNaxg5PI_ICaZEBiD5OFJr8qJVVb7UO9lKoG_KIWyQw/s320/milagre_da_petala.png"
+heroImage: "/images/milagre_da_petala.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYEBPA80U3h0NV6EOMRNcp9AyEAKD_y6OKaM01XXTK8kYRS4oS47kJgt2UrhWsGJZSMk7-36_AwGov7dGSCuX1HGwCz0FBMh1qNaxg5PI_ICaZEBiD5OFJr8qJVVb7UO9lKoG_KIWyQw/s1600/milagre_da_petala.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYEBPA80U3h0NV6EOMRNcp9AyEAKD_y6OKaM01XXTK8kYRS4oS47kJgt2UrhWsGJZSMk7-36_AwGov7dGSCuX1HGwCz0FBMh1qNaxg5PI_ICaZEBiD5OFJr8qJVVb7UO9lKoG_KIWyQw/s320/milagre_da_petala.png" width="320" height="318" data-original-width="414" data-original-height="411" /></a></div>

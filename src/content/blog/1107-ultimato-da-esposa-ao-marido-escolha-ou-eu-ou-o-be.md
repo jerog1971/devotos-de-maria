@@ -1,7 +1,7 @@
 ---
 title: "Ultimato da esposa ao marido: Escolha: ou eu ou o bebê..."
 date: 2016-07-19T11:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfWM-FxvuMpfB7LjibsTOx_bQX7E6PkysjNrDwP4n77oBOhr4q2WNtWAV6ESU3BcSoLB1AyS5xsxRo8pzOg6S2yChdyG__3tEdB-_bRRCZSBG54yghAL5I9OhuCLOjeydb7QBQJhxLjAE/s320/samuel.png"
+heroImage: "/images/samuel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfWM-FxvuMpfB7LjibsTOx_bQX7E6PkysjNrDwP4n77oBOhr4q2WNtWAV6ESU3BcSoLB1AyS5xsxRo8pzOg6S2yChdyG__3tEdB-_bRRCZSBG54yghAL5I9OhuCLOjeydb7QBQJhxLjAE/s1600/samuel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfWM-FxvuMpfB7LjibsTOx_bQX7E6PkysjNrDwP4n77oBOhr4q2WNtWAV6ESU3BcSoLB1AyS5xsxRo8pzOg6S2yChdyG__3tEdB-_bRRCZSBG54yghAL5I9OhuCLOjeydb7QBQJhxLjAE/s320/samuel.png" width="304" height="320" data-original-width="417" data-original-height="439" /></a></div>

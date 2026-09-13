@@ -1,7 +1,7 @@
 ---
 title: "O povo de Deus, no deserto andava..."
 date: 2019-01-07T13:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNRUD-NkarChtkg3PV5LTGpHdS7zzdkX-ry1Xr8do7MESKsnxEwVIa5eIC7DYSuQV8C6ONqwsgD3ovR-8EUmDUNn3Q8jZX5x0rEfcBaJmUTt_KK0fkD5eGdZ70YLZjAELWolGytgq4Grk/s320/o_povo_de_Deus.png"
+heroImage: "/images/o_povo_de_Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNRUD-NkarChtkg3PV5LTGpHdS7zzdkX-ry1Xr8do7MESKsnxEwVIa5eIC7DYSuQV8C6ONqwsgD3ovR-8EUmDUNn3Q8jZX5x0rEfcBaJmUTt_KK0fkD5eGdZ70YLZjAELWolGytgq4Grk/s1600/o_povo_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNRUD-NkarChtkg3PV5LTGpHdS7zzdkX-ry1Xr8do7MESKsnxEwVIa5eIC7DYSuQV8C6ONqwsgD3ovR-8EUmDUNn3Q8jZX5x0rEfcBaJmUTt_KK0fkD5eGdZ70YLZjAELWolGytgq4Grk/s320/o_povo_de_Deus.png" width="320" height="308" data-original-width="367" data-original-height="353" /></a></div>

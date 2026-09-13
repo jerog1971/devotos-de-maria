@@ -1,7 +1,7 @@
 ---
 title: "Recordações são ensinamentos"
 date: 2016-04-14T14:45:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC7TZ1iQlwrkjygB0XOTJ-2taEz8Uh4hxBXtR3v5y5PQ-qUV86uG8JWL2MZAZPlFxkwkFmngGDl2dHC3dXT51CDZ58pBtvj10i0hyphenhyphenuc5-XzImhKtbE1sfxISpcn0lHhj5vpioVXciMuOs/s320/Sofia+dormindo.jpg"
+heroImage: "/images/Sofia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC7TZ1iQlwrkjygB0XOTJ-2taEz8Uh4hxBXtR3v5y5PQ-qUV86uG8JWL2MZAZPlFxkwkFmngGDl2dHC3dXT51CDZ58pBtvj10i0hyphenhyphenuc5-XzImhKtbE1sfxISpcn0lHhj5vpioVXciMuOs/s1600/Sofia+dormindo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC7TZ1iQlwrkjygB0XOTJ-2taEz8Uh4hxBXtR3v5y5PQ-qUV86uG8JWL2MZAZPlFxkwkFmngGDl2dHC3dXT51CDZ58pBtvj10i0hyphenhyphenuc5-XzImhKtbE1sfxISpcn0lHhj5vpioVXciMuOs/s320/Sofia+dormindo.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>

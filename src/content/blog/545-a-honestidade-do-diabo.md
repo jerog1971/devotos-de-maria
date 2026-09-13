@@ -1,7 +1,7 @@
 ---
 title: "A honestidade do diabo"
 date: 2020-10-06T14:26:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNkS6KdvaDcGwl6vr6tVaSvRIzx-MF8mHCBgl0CLaN1fl-2AeqOvLFD5o84zeYgmch7H7JPIKVOZE1DXK7hJ_Vj1KNtAvMq7keod7403Cx3_zQYNkXxsG0I4Oeu5Cdh_8j-McKVvURgw/s320/diabo.png"
+heroImage: "/images/Jesus_Diabo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNkS6KdvaDcGwl6vr6tVaSvRIzx-MF8mHCBgl0CLaN1fl-2AeqOvLFD5o84zeYgmch7H7JPIKVOZE1DXK7hJ_Vj1KNtAvMq7keod7403Cx3_zQYNkXxsG0I4Oeu5Cdh_8j-McKVvURgw/s768/diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="768" data-original-width="650" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNkS6KdvaDcGwl6vr6tVaSvRIzx-MF8mHCBgl0CLaN1fl-2AeqOvLFD5o84zeYgmch7H7JPIKVOZE1DXK7hJ_Vj1KNtAvMq7keod7403Cx3_zQYNkXxsG0I4Oeu5Cdh_8j-McKVvURgw/s320/diabo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eis aí uma coisa ilusória; lemos na bíblia que ele é o pai

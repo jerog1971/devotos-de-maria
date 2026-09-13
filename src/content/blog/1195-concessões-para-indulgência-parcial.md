@@ -1,7 +1,7 @@
 ---
 title: "Concessões para Indulgência Parcial"
 date: 2016-09-27T16:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pLjykErr3fCrRkQtar19LvmfVI9hSi73GU2xF1maaxy2qHjyCXulMmuy-yv-4LmX88Ql_7utA9-6EiJ-dWZGs0r4QMFPncAGQ64bakDXXhphfeK0J8y0zS6bYJHmb22KkRpWWzjZqGg/s320/indulgencias2.png"
+heroImage: "/images/indulgencias2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pLjykErr3fCrRkQtar19LvmfVI9hSi73GU2xF1maaxy2qHjyCXulMmuy-yv-4LmX88Ql_7utA9-6EiJ-dWZGs0r4QMFPncAGQ64bakDXXhphfeK0J8y0zS6bYJHmb22KkRpWWzjZqGg/s1600/indulgencias2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="403" height="224" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9pLjykErr3fCrRkQtar19LvmfVI9hSi73GU2xF1maaxy2qHjyCXulMmuy-yv-4LmX88Ql_7utA9-6EiJ-dWZGs0r4QMFPncAGQ64bakDXXhphfeK0J8y0zS6bYJHmb22KkRpWWzjZqGg/s320/indulgencias2.png" width="320" /></a></div>

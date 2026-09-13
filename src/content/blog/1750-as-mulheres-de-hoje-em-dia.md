@@ -1,7 +1,7 @@
 ---
 title: "As mulheres de hoje em dia"
 date: 2017-04-27T23:31:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ6PxCI_IKB9sdMq6T4LVMdoSBZmRUXEC84DAEVM_Ya7u4XNhvT2Ed4nH9LramfIDXyoRIq8cOhihXmA2w31Y5ca4gQw4HiAS61hTDlAcDEvxqpyQtBlgxjjCUmlkO8M3qeffzPVsVXZc/s320/maravilha.png"
+heroImage: "/images/maravilha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ6PxCI_IKB9sdMq6T4LVMdoSBZmRUXEC84DAEVM_Ya7u4XNhvT2Ed4nH9LramfIDXyoRIq8cOhihXmA2w31Y5ca4gQw4HiAS61hTDlAcDEvxqpyQtBlgxjjCUmlkO8M3qeffzPVsVXZc/s1600/maravilha.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="400" height="219" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ6PxCI_IKB9sdMq6T4LVMdoSBZmRUXEC84DAEVM_Ya7u4XNhvT2Ed4nH9LramfIDXyoRIq8cOhihXmA2w31Y5ca4gQw4HiAS61hTDlAcDEvxqpyQtBlgxjjCUmlkO8M3qeffzPVsVXZc/s320/maravilha.png" width="320" /></a></div>

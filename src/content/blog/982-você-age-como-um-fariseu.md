@@ -1,7 +1,7 @@
 ---
 title: "Você age como um fariseu?"
 date: 2019-03-21T16:49:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqMG95Mf3B4E2_nVfKXvecknUr84bTvhkXFKXGGBnjtQ7orlNvscSUkKabSXQfyjbdxDwmtdq3Pc-rTeAOdPqhk1-ItKUtEtAI2h-Pqc2W9EcSa7dN3LZBInxuf6NB0Z14AU26atA7jjU/s320/fariseus.png"
+heroImage: "/images/fariseus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqMG95Mf3B4E2_nVfKXvecknUr84bTvhkXFKXGGBnjtQ7orlNvscSUkKabSXQfyjbdxDwmtdq3Pc-rTeAOdPqhk1-ItKUtEtAI2h-Pqc2W9EcSa7dN3LZBInxuf6NB0Z14AU26atA7jjU/s1600/fariseus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqMG95Mf3B4E2_nVfKXvecknUr84bTvhkXFKXGGBnjtQ7orlNvscSUkKabSXQfyjbdxDwmtdq3Pc-rTeAOdPqhk1-ItKUtEtAI2h-Pqc2W9EcSa7dN3LZBInxuf6NB0Z14AU26atA7jjU/s320/fariseus.png" width="310" height="320" data-original-width="297" data-original-height="307" /></a></div>

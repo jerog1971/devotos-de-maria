@@ -1,7 +1,7 @@
 ---
 title: "O problema dos convertidos"
 date: 2016-08-01T17:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1iGmdOr0Orl_d0iahtsEiVuskJn2cJNgr9RTrqIURzfvaAGxuaWbAYd-1H2QFXSrrfq0_GI27hQJrp1aYvDy0ytwdDH1mamIJEpQVcyM5ViqB7CHeP5BG2PQx1LNwBTRM6rIevMEtzg/s320/convertidos.png"
+heroImage: "/images/convertidos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1iGmdOr0Orl_d0iahtsEiVuskJn2cJNgr9RTrqIURzfvaAGxuaWbAYd-1H2QFXSrrfq0_GI27hQJrp1aYvDy0ytwdDH1mamIJEpQVcyM5ViqB7CHeP5BG2PQx1LNwBTRM6rIevMEtzg/s1600/convertidos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1iGmdOr0Orl_d0iahtsEiVuskJn2cJNgr9RTrqIURzfvaAGxuaWbAYd-1H2QFXSrrfq0_GI27hQJrp1aYvDy0ytwdDH1mamIJEpQVcyM5ViqB7CHeP5BG2PQx1LNwBTRM6rIevMEtzg/s320/convertidos.png" width="320" height="291" data-original-width="573" data-original-height="521" /></a></div>

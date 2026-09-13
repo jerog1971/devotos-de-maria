@@ -1,7 +1,7 @@
 ---
 title: "São Lucas sobre Nossa Senhora"
 date: 2021-10-19T00:40:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ4qI4-bWLExy9FPgOWZMCHfXkscPYZJ1FioE9o6KjZ_c34664la2do7NOdpC77CDfn33fCxlvrDgLp0WFIQiED0BYDMVnOOkkfNt09rQ1aU4WAyCpC9RuH48hkMIdDMoVZODqaYdfU0M/s0/S%25C3%25A3o+Lucas.png"
+heroImage: "/images/lucas.bmp"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ4qI4-bWLExy9FPgOWZMCHfXkscPYZJ1FioE9o6KjZ_c34664la2do7NOdpC77CDfn33fCxlvrDgLp0WFIQiED0BYDMVnOOkkfNt09rQ1aU4WAyCpC9RuH48hkMIdDMoVZODqaYdfU0M/s296/S%25C3%25A3o+Lucas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="296" data-original-width="295" height="296" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ4qI4-bWLExy9FPgOWZMCHfXkscPYZJ1FioE9o6KjZ_c34664la2do7NOdpC77CDfn33fCxlvrDgLp0WFIQiED0BYDMVnOOkkfNt09rQ1aU4WAyCpC9RuH48hkMIdDMoVZODqaYdfU0M/s0/S%25C3%25A3o+Lucas.png" width="295" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Seu evangelho é o que mais dedica espaço para narrativas

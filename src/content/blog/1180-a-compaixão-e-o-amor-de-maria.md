@@ -1,7 +1,7 @@
 ---
 title: "A compaixão e o amor de Maria"
 date: 2015-09-25T15:58:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRR5lcIDRCoXixoIuwe__E8P8HzK9daaSobA1B2WKTGGLxgCPzaHxApCETWYlF0-v5okSaC27vUif72lYK2PL7yahotAdIOfE7ctjLIR_MPm8K4PQpQaGe76pD-hnSrGXZrzUW4XRt6U/s320/glorias_de_maria.png"
+heroImage: "/images/glorias_de_maria.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRR5lcIDRCoXixoIuwe__E8P8HzK9daaSobA1B2WKTGGLxgCPzaHxApCETWYlF0-v5okSaC27vUif72lYK2PL7yahotAdIOfE7ctjLIR_MPm8K4PQpQaGe76pD-hnSrGXZrzUW4XRt6U/s1600/glorias_de_maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRR5lcIDRCoXixoIuwe__E8P8HzK9daaSobA1B2WKTGGLxgCPzaHxApCETWYlF0-v5okSaC27vUif72lYK2PL7yahotAdIOfE7ctjLIR_MPm8K4PQpQaGe76pD-hnSrGXZrzUW4XRt6U/s320/glorias_de_maria.png" width="231" height="320" data-original-width="247" data-original-height="342" /></a></div>

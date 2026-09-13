@@ -1,7 +1,7 @@
 ---
 title: "Para que viver se nada é como quero?"
 date: 2018-06-07T15:50:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLmvQE4AUhPLpGDqNCwnKktXe5pmB3twzV-urqVHWF_YIZgRMshPWpyBVfryQklemSkTo9fBne6ztMDpp7hN3Uc0DCZn_fp9ni9Gpn10wZf9lsUPdAwvFKWwVIskGdPIuBc6Ux4dRRjQ/s320/pensando_na_vida.png"
+heroImage: "/images/pensando_na_vida.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLmvQE4AUhPLpGDqNCwnKktXe5pmB3twzV-urqVHWF_YIZgRMshPWpyBVfryQklemSkTo9fBne6ztMDpp7hN3Uc0DCZn_fp9ni9Gpn10wZf9lsUPdAwvFKWwVIskGdPIuBc6Ux4dRRjQ/s1600/pensando_na_vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLmvQE4AUhPLpGDqNCwnKktXe5pmB3twzV-urqVHWF_YIZgRMshPWpyBVfryQklemSkTo9fBne6ztMDpp7hN3Uc0DCZn_fp9ni9Gpn10wZf9lsUPdAwvFKWwVIskGdPIuBc6Ux4dRRjQ/s320/pensando_na_vida.png" width="316" height="320" data-original-width="343" data-original-height="347" /></a></div>

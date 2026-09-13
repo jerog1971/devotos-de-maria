@@ -1,7 +1,7 @@
 ---
 title: "Péssimas Ovelhas"
 date: 2017-10-03T13:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3I91INHtRlBBetQ3E7QtHb4Xdq5m7d5-mzJg_nutkxlJnFZi1fIOyvC_IwcEnAsJaKs7mDQo3ShTfLMHlyqMJPWc7og7I60pGvbMOzgwysMkDn7VvNvqOrkuQLqxtBDVjvdLmOLp6c7I/s320/ovelha.png"
+heroImage: "/images/lobo em pele de ovelha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3I91INHtRlBBetQ3E7QtHb4Xdq5m7d5-mzJg_nutkxlJnFZi1fIOyvC_IwcEnAsJaKs7mDQo3ShTfLMHlyqMJPWc7og7I60pGvbMOzgwysMkDn7VvNvqOrkuQLqxtBDVjvdLmOLp6c7I/s1600/ovelha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3I91INHtRlBBetQ3E7QtHb4Xdq5m7d5-mzJg_nutkxlJnFZi1fIOyvC_IwcEnAsJaKs7mDQo3ShTfLMHlyqMJPWc7og7I60pGvbMOzgwysMkDn7VvNvqOrkuQLqxtBDVjvdLmOLp6c7I/s320/ovelha.png" width="320" height="318" data-original-width="388" data-original-height="386" /></a></div>

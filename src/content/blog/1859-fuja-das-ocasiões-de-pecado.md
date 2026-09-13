@@ -1,7 +1,7 @@
 ---
 title: "Fuja das ocasiões de pecado"
 date: 2019-09-09T15:42:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNz-Ddh1zdS6X7x5vRT59T8RZ9WM-lFb_Mcd92FOyWdAIyMm7lZXr6yge562To3bEWSK-fRK2gLRq2-w3XmH4sOtl2gcrN74QOa8a4FjjFlbBhg7tk6usUWzF6TPBCHCxCpMezPd9S_TM/s320/ocasi%25C3%25B5es_de_pecado.png"
+heroImage: "/images/pecado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNz-Ddh1zdS6X7x5vRT59T8RZ9WM-lFb_Mcd92FOyWdAIyMm7lZXr6yge562To3bEWSK-fRK2gLRq2-w3XmH4sOtl2gcrN74QOa8a4FjjFlbBhg7tk6usUWzF6TPBCHCxCpMezPd9S_TM/s1600/ocasi%25C3%25B5es_de_pecado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNz-Ddh1zdS6X7x5vRT59T8RZ9WM-lFb_Mcd92FOyWdAIyMm7lZXr6yge562To3bEWSK-fRK2gLRq2-w3XmH4sOtl2gcrN74QOa8a4FjjFlbBhg7tk6usUWzF6TPBCHCxCpMezPd9S_TM/s320/ocasi%25C3%25B5es_de_pecado.png" width="320" height="252" data-original-width="284" data-original-height="224" /></a></div>

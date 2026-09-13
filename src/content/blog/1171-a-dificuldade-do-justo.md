@@ -1,7 +1,7 @@
 ---
 title: "A dificuldade do justo"
 date: 2019-02-19T20:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhswERGI6TNmVuOdJLKblvuwfHWDFW9VfvJBNUSp2DIsqEoabN6AmeLu6YrPsKdW4OGsCVFTjRStXKbfvBz_2z-uv2zg9t1exqOwq7k-rOqtiCFwejhrnELO7iUdCLxUg80J3Qx-Lq8O4M/s320/dificuldade_do_justo.png"
+heroImage: "/images/dificuldade_do_justo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhswERGI6TNmVuOdJLKblvuwfHWDFW9VfvJBNUSp2DIsqEoabN6AmeLu6YrPsKdW4OGsCVFTjRStXKbfvBz_2z-uv2zg9t1exqOwq7k-rOqtiCFwejhrnELO7iUdCLxUg80J3Qx-Lq8O4M/s1600/dificuldade_do_justo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhswERGI6TNmVuOdJLKblvuwfHWDFW9VfvJBNUSp2DIsqEoabN6AmeLu6YrPsKdW4OGsCVFTjRStXKbfvBz_2z-uv2zg9t1exqOwq7k-rOqtiCFwejhrnELO7iUdCLxUg80J3Qx-Lq8O4M/s320/dificuldade_do_justo.png" width="307" height="320" data-original-width="334" data-original-height="348" /></a></div>

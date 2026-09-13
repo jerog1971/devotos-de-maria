@@ -1,7 +1,7 @@
 ---
 title: "Quem é ela?"
 date: 2018-03-31T00:24:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofb3SgtNnizYsrI-srTDNIp7D0R7VFQ3FLZjFoqmAQGEjW-MeAj92XYe1Uk2plz9766CFxwVKIT9m9yC2Xj3HbHvcfGg0hIVpN7_0_6BeAG23tYRhS7OBzy0qdx5Et62W6tz_s2vqcso/s320/precisar.png"
+heroImage: "/images/precisar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofb3SgtNnizYsrI-srTDNIp7D0R7VFQ3FLZjFoqmAQGEjW-MeAj92XYe1Uk2plz9766CFxwVKIT9m9yC2Xj3HbHvcfGg0hIVpN7_0_6BeAG23tYRhS7OBzy0qdx5Et62W6tz_s2vqcso/s1600/precisar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="273" height="309" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofb3SgtNnizYsrI-srTDNIp7D0R7VFQ3FLZjFoqmAQGEjW-MeAj92XYe1Uk2plz9766CFxwVKIT9m9yC2Xj3HbHvcfGg0hIVpN7_0_6BeAG23tYRhS7OBzy0qdx5Et62W6tz_s2vqcso/s320/precisar.png" width="320" /></a></div>

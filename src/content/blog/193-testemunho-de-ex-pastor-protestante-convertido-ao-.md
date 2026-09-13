@@ -1,7 +1,7 @@
 ---
 title: "Testemunho de ex-pastor protestante convertido ao catolicismo"
 date: 2015-05-13T12:05:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXEcehnPNig1GK4mqC2ZVcrQ1xofv8554L13FZZShCDY08N92QzdRBPxgSog19wcsWKldEdljyIpUdO3WhEOTigOU-KtRQfXTvROjGCiTufmoxsmKqsc-CSmXXPL6rxK9sBQ2bYmy1lVI/s320/bentoXVI.png"
+heroImage: "/images/bentoXVI.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXEcehnPNig1GK4mqC2ZVcrQ1xofv8554L13FZZShCDY08N92QzdRBPxgSog19wcsWKldEdljyIpUdO3WhEOTigOU-KtRQfXTvROjGCiTufmoxsmKqsc-CSmXXPL6rxK9sBQ2bYmy1lVI/s1600/bentoXVI.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXEcehnPNig1GK4mqC2ZVcrQ1xofv8554L13FZZShCDY08N92QzdRBPxgSog19wcsWKldEdljyIpUdO3WhEOTigOU-KtRQfXTvROjGCiTufmoxsmKqsc-CSmXXPL6rxK9sBQ2bYmy1lVI/s320/bentoXVI.png" width="320" height="215" data-original-width="249" data-original-height="167" /></a></div>

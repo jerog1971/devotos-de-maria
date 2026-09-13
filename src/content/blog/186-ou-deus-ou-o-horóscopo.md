@@ -1,7 +1,7 @@
 ---
 title: "Ou Deus ou o Horóscopo"
 date: 2016-10-03T15:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlHnbkP6kT6mpg83FaCfDGTVUCwN5UZ0CEut-zEhC6TfMFrAy4tIP2DV6DUYD_piaI8P9_HQwZWNXKYaZJqZRxyF7EjwFXvggVAJiLQDkVnDQ_Dz0nTC7_N1iz13xwLp5S6U4EWyFe-xM/s320/horoscopo.png"
+heroImage: "/images/horoscopo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlHnbkP6kT6mpg83FaCfDGTVUCwN5UZ0CEut-zEhC6TfMFrAy4tIP2DV6DUYD_piaI8P9_HQwZWNXKYaZJqZRxyF7EjwFXvggVAJiLQDkVnDQ_Dz0nTC7_N1iz13xwLp5S6U4EWyFe-xM/s1600/horoscopo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlHnbkP6kT6mpg83FaCfDGTVUCwN5UZ0CEut-zEhC6TfMFrAy4tIP2DV6DUYD_piaI8P9_HQwZWNXKYaZJqZRxyF7EjwFXvggVAJiLQDkVnDQ_Dz0nTC7_N1iz13xwLp5S6U4EWyFe-xM/s320/horoscopo.png" width="320" height="294" data-original-width="322" data-original-height="296" /></a></div>

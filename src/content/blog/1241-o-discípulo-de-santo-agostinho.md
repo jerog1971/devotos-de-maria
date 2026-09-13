@@ -1,7 +1,7 @@
 ---
 title: "O discípulo de Santo Agostinho"
 date: 2016-08-23T13:12:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVTuj6q79OYGCZn5BZegcB2xRKmvr4vlL_udmA9a8mfhTWMYa65tMf_yO_tj1g4dfBJmXVv-bS6YwgxWS-ieFr9jIlFfH-wsgT3HNfDIewYO4Hv46sDtG-HllhSkg4vtDAs3Joc3xkRJY/s320/prospero.png"
+heroImage: "/images/prospero.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVTuj6q79OYGCZn5BZegcB2xRKmvr4vlL_udmA9a8mfhTWMYa65tMf_yO_tj1g4dfBJmXVv-bS6YwgxWS-ieFr9jIlFfH-wsgT3HNfDIewYO4Hv46sDtG-HllhSkg4vtDAs3Joc3xkRJY/s1600/prospero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVTuj6q79OYGCZn5BZegcB2xRKmvr4vlL_udmA9a8mfhTWMYa65tMf_yO_tj1g4dfBJmXVv-bS6YwgxWS-ieFr9jIlFfH-wsgT3HNfDIewYO4Hv46sDtG-HllhSkg4vtDAs3Joc3xkRJY/s320/prospero.png" width="314" height="320" data-original-width="375" data-original-height="382" /></a></div>

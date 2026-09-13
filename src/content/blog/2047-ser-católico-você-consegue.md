@@ -1,7 +1,7 @@
 ---
 title: "Ser católico, você consegue?"
 date: 2015-09-17T13:23:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDXbT8ssDBBRapoK0PdVwDgkRH3xHE9LboEvW8hBBGvIK6m2lkWFH9b_eGv9uIAs4jrnsxXfkOKsxAIlRvHdy-okDz1nCY3qjnDcUcCluIYmtUnogyleHwNJtt5R2LgrQ6nM19U-bb8MQ/s320/catolico.png"
+heroImage: "/images/agir_do_catolico.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDXbT8ssDBBRapoK0PdVwDgkRH3xHE9LboEvW8hBBGvIK6m2lkWFH9b_eGv9uIAs4jrnsxXfkOKsxAIlRvHdy-okDz1nCY3qjnDcUcCluIYmtUnogyleHwNJtt5R2LgrQ6nM19U-bb8MQ/s1600/catolico.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="519" data-original-width="571" height="291" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDXbT8ssDBBRapoK0PdVwDgkRH3xHE9LboEvW8hBBGvIK6m2lkWFH9b_eGv9uIAs4jrnsxXfkOKsxAIlRvHdy-okDz1nCY3qjnDcUcCluIYmtUnogyleHwNJtt5R2LgrQ6nM19U-bb8MQ/s320/catolico.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>

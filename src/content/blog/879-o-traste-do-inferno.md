@@ -1,7 +1,7 @@
 ---
 title: "O traste do inferno"
 date: 2017-09-04T12:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehsFlPeUiIQbGYT8yZYUtt3hdDnP4gEhxPjStm81cK_rLRJYc5hzn3mW4AXtyDyFQXqZ1-9ykCdungqoGnNRzFqsqAZWx5acO6GWKIXcwccP_MWcW0CU2waRFubb1gP66AlTk8rripbo/s320/traste.png"
+heroImage: "/images/traste.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehsFlPeUiIQbGYT8yZYUtt3hdDnP4gEhxPjStm81cK_rLRJYc5hzn3mW4AXtyDyFQXqZ1-9ykCdungqoGnNRzFqsqAZWx5acO6GWKIXcwccP_MWcW0CU2waRFubb1gP66AlTk8rripbo/s1600/traste.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgehsFlPeUiIQbGYT8yZYUtt3hdDnP4gEhxPjStm81cK_rLRJYc5hzn3mW4AXtyDyFQXqZ1-9ykCdungqoGnNRzFqsqAZWx5acO6GWKIXcwccP_MWcW0CU2waRFubb1gP66AlTk8rripbo/s320/traste.png" width="310" height="320" data-original-width="435" data-original-height="449" /></a></div>

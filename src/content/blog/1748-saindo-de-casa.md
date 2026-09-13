@@ -1,7 +1,7 @@
 ---
 title: "Saindo de Casa"
 date: 2017-10-06T12:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27II_7nWa6XKeQlHjSnNQu6Q_cnC6zzdAFa1LJg4Pv287VbDkcl7zctN1v_zN8HLSoreQEqtuPDNRZ5bI5Sz5EpkXzAdAtfzZl5Mh9E7KCsmbmJWyTWGNNzzfnHmynj1zeGEPdAuWaoI/s320/photo.jpg"
+heroImage: "/images/photo.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27II_7nWa6XKeQlHjSnNQu6Q_cnC6zzdAFa1LJg4Pv287VbDkcl7zctN1v_zN8HLSoreQEqtuPDNRZ5bI5Sz5EpkXzAdAtfzZl5Mh9E7KCsmbmJWyTWGNNzzfnHmynj1zeGEPdAuWaoI/s1600/photo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27II_7nWa6XKeQlHjSnNQu6Q_cnC6zzdAFa1LJg4Pv287VbDkcl7zctN1v_zN8HLSoreQEqtuPDNRZ5bI5Sz5EpkXzAdAtfzZl5Mh9E7KCsmbmJWyTWGNNzzfnHmynj1zeGEPdAuWaoI/s320/photo.jpg" width="320" height="320" data-original-width="640" data-original-height="640" /></a></div>

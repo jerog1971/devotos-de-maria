@@ -1,7 +1,7 @@
 ---
 title: "Exemplos de luxúria e avareza"
 date: 2016-01-29T18:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimT7ZzfN1rzc1zod9ktfnIStPgTWUpoTib66Qnm7tOaf0nktVJ6Y_DRk9ucWzteL1ALZeEEgyITQQwaMQpA1-3chtypOctv4lStRB_HJOW9Blg2zehgWee_rPZ737YSY4_bDGVYSTOYJY/s320/avareza.png"
+heroImage: "/images/avareza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimT7ZzfN1rzc1zod9ktfnIStPgTWUpoTib66Qnm7tOaf0nktVJ6Y_DRk9ucWzteL1ALZeEEgyITQQwaMQpA1-3chtypOctv4lStRB_HJOW9Blg2zehgWee_rPZ737YSY4_bDGVYSTOYJY/s1600/avareza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimT7ZzfN1rzc1zod9ktfnIStPgTWUpoTib66Qnm7tOaf0nktVJ6Y_DRk9ucWzteL1ALZeEEgyITQQwaMQpA1-3chtypOctv4lStRB_HJOW9Blg2zehgWee_rPZ737YSY4_bDGVYSTOYJY/s320/avareza.png" width="320" height="184" data-original-width="592" data-original-height="341" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "A Santa Missa de Catalina"
 date: 2019-04-30T15:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrTUyIPBLF0RGlZFIiutq-VqnAVTh8tDHvKfC2YaHZmnEZM8Z_rPTCzpY2tdRDontTzOEbSL5Ylz9iFhQTZVaaN1TRwJdnk8sqWaQxI0C2EORK0mI9ElbXTwJK1m3zsDTTjETJpvd16CY/s320/catalina.png"
+heroImage: "/images/catalina.png"
 ---
 
 Testemunho de Catalina</br>

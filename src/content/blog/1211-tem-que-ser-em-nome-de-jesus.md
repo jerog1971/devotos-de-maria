@@ -1,7 +1,7 @@
 ---
 title: "Tem que ser “em nome de Jesus”"
 date: 2020-04-01T18:20:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fziCzuhIqLxLLt3-q-oZftf75gVbyuOmdeVkWrdGMrktw2-SoZVTNXK758-OE61ouIqIWAB-skJKRz-_3E6uAgV3Hb_UDdRURDPxpu2Z0aJLNf9bNEx-glLBSsM3kvmjH8acltiEH7o/s320/vaidoso.jpg"
+heroImage: "/images/vaidoso.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fziCzuhIqLxLLt3-q-oZftf75gVbyuOmdeVkWrdGMrktw2-SoZVTNXK758-OE61ouIqIWAB-skJKRz-_3E6uAgV3Hb_UDdRURDPxpu2Z0aJLNf9bNEx-glLBSsM3kvmjH8acltiEH7o/s1600/vaidoso.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fziCzuhIqLxLLt3-q-oZftf75gVbyuOmdeVkWrdGMrktw2-SoZVTNXK758-OE61ouIqIWAB-skJKRz-_3E6uAgV3Hb_UDdRURDPxpu2Z0aJLNf9bNEx-glLBSsM3kvmjH8acltiEH7o/s320/vaidoso.jpg" width="256" height="320" data-original-width="720" data-original-height="900" /></a></div>

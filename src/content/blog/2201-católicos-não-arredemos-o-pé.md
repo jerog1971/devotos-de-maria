@@ -1,7 +1,7 @@
 ---
 title: "Católicos: não arredemos o pé"
 date: 2015-11-06T13:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkpqsPfjbirILwPzuLuOPYroeWJSj6RFisouM5do-6qqAbVqrHrEw9f5ob7cL41EriEpa17h6vM3KU61ah5kxzAUyX99CHRCYIocGTl8e9_BooslaB-mmbVQ4Ooepdof4nQv8LQBMhan0/s320/dios_no_existe.png"
+heroImage: "/images/dios_no_existe.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkpqsPfjbirILwPzuLuOPYroeWJSj6RFisouM5do-6qqAbVqrHrEw9f5ob7cL41EriEpa17h6vM3KU61ah5kxzAUyX99CHRCYIocGTl8e9_BooslaB-mmbVQ4Ooepdof4nQv8LQBMhan0/s1600/dios_no_existe.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkpqsPfjbirILwPzuLuOPYroeWJSj6RFisouM5do-6qqAbVqrHrEw9f5ob7cL41EriEpa17h6vM3KU61ah5kxzAUyX99CHRCYIocGTl8e9_BooslaB-mmbVQ4Ooepdof4nQv8LQBMhan0/s320/dios_no_existe.png" width="320" height="277" data-original-width="433" data-original-height="375" /></a></div>

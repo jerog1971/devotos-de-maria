@@ -1,7 +1,7 @@
 ---
 title: "Vida em abundância e migalhas? – Como fica?"
 date: 2017-02-10T13:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiS49-Gg6_angUAN2plCImYIMofiiJ0Js3Rq48ogb9f1_O0hnfxDp73pkXK_oDtQk6hLjdtkCJE5Qbdbh5Y7zAnA_k-b5XVZ0LJmix5Ss0Ko5oiPQNmiJcgJ8XBBsacdiD7ltTmrQUe80/s320/migalhas.png"
+heroImage: "/images/migalhas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiS49-Gg6_angUAN2plCImYIMofiiJ0Js3Rq48ogb9f1_O0hnfxDp73pkXK_oDtQk6hLjdtkCJE5Qbdbh5Y7zAnA_k-b5XVZ0LJmix5Ss0Ko5oiPQNmiJcgJ8XBBsacdiD7ltTmrQUe80/s1600/migalhas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiS49-Gg6_angUAN2plCImYIMofiiJ0Js3Rq48ogb9f1_O0hnfxDp73pkXK_oDtQk6hLjdtkCJE5Qbdbh5Y7zAnA_k-b5XVZ0LJmix5Ss0Ko5oiPQNmiJcgJ8XBBsacdiD7ltTmrQUe80/s320/migalhas.png" width="320" height="284" data-original-width="413" data-original-height="367" /></a></div>

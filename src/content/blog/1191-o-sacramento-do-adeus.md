@@ -1,7 +1,7 @@
 ---
 title: "O sacramento do adeus"
 date: 2016-05-17T14:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAqUMHbe_EEtBFcZHBnM_IcNmpJK8FmG1M2HP55yAQ12PyL0XIlFnipGyoHCYtINHpeuBnGc5HoCgr-GfAK-m_0UsvoPZvQwk5q-3GwdxX0kK7GPXX8ez2rGU_yqeB6WggfjA0G0sbAiI/s320/papa_em_portugal.png"
+heroImage: "/images/papa_em_portugal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAqUMHbe_EEtBFcZHBnM_IcNmpJK8FmG1M2HP55yAQ12PyL0XIlFnipGyoHCYtINHpeuBnGc5HoCgr-GfAK-m_0UsvoPZvQwk5q-3GwdxX0kK7GPXX8ez2rGU_yqeB6WggfjA0G0sbAiI/s1600/papa_em_portugal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAqUMHbe_EEtBFcZHBnM_IcNmpJK8FmG1M2HP55yAQ12PyL0XIlFnipGyoHCYtINHpeuBnGc5HoCgr-GfAK-m_0UsvoPZvQwk5q-3GwdxX0kK7GPXX8ez2rGU_yqeB6WggfjA0G0sbAiI/s320/papa_em_portugal.png" width="320" height="280" data-original-width="555" data-original-height="486" /></a></div>

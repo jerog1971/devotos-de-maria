@@ -1,7 +1,7 @@
 ---
 title: " A ruptura da fé"
 date: 2023-02-20T01:11:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic560vIZm45jP_9GH4iK8vUICAxsT3WnAVmqb08Uzc-5viKiMcAkGWviPc8ySrU9q7hH07G7DB-defH5tRCa5aKtCs0x7zjbipNWiQTMXFwaicQhriQHLvRuFCmkluYGw9qyf_6SHk0K274YJ6uFqwAb65vvgP303EveAUGDCymCKXlYNLZOUhNmHq/s320/mesmo%20com%20f%C3%A9.png"
+heroImage: "/images/fé.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic560vIZm45jP_9GH4iK8vUICAxsT3WnAVmqb08Uzc-5viKiMcAkGWviPc8ySrU9q7hH07G7DB-defH5tRCa5aKtCs0x7zjbipNWiQTMXFwaicQhriQHLvRuFCmkluYGw9qyf_6SHk0K274YJ6uFqwAb65vvgP303EveAUGDCymCKXlYNLZOUhNmHq/s614/mesmo%20com%20f%C3%A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="505" data-original-width="614" height="263" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic560vIZm45jP_9GH4iK8vUICAxsT3WnAVmqb08Uzc-5viKiMcAkGWviPc8ySrU9q7hH07G7DB-defH5tRCa5aKtCs0x7zjbipNWiQTMXFwaicQhriQHLvRuFCmkluYGw9qyf_6SHk0K274YJ6uFqwAb65vvgP303EveAUGDCymCKXlYNLZOUhNmHq/s320/mesmo%20com%20f%C3%A9.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O padre desiludido, a menina que tenta contatar espíritos e

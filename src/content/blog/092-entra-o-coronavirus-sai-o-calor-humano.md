@@ -1,7 +1,7 @@
 ---
 title: "Entra o coronavirus, sai o calor humano"
 date: 2020-03-13T19:40:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofb3SgtNnizYsrI-srTDNIp7D0R7VFQ3FLZjFoqmAQGEjW-MeAj92XYe1Uk2plz9766CFxwVKIT9m9yC2Xj3HbHvcfGg0hIVpN7_0_6BeAG23tYRhS7OBzy0qdx5Et62W6tz_s2vqcso/s320/precisar.png"
+heroImage: "/images/precisar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofb3SgtNnizYsrI-srTDNIp7D0R7VFQ3FLZjFoqmAQGEjW-MeAj92XYe1Uk2plz9766CFxwVKIT9m9yC2Xj3HbHvcfGg0hIVpN7_0_6BeAG23tYRhS7OBzy0qdx5Et62W6tz_s2vqcso/s1600/precisar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofb3SgtNnizYsrI-srTDNIp7D0R7VFQ3FLZjFoqmAQGEjW-MeAj92XYe1Uk2plz9766CFxwVKIT9m9yC2Xj3HbHvcfGg0hIVpN7_0_6BeAG23tYRhS7OBzy0qdx5Et62W6tz_s2vqcso/s320/precisar.png" width="320" height="309" data-original-width="273" data-original-height="264" /></a></div>

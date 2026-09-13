@@ -1,7 +1,7 @@
 ---
 title: "Até que ponto?"
 date: 2015-08-25T11:46:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiev-JUKjl3G6VfN1LjSNnRPtUaSJ-xlzCd-m34Tk-CCuELO0NumstlnW2tiAXyy0tSaN58c4-GVM5Fx3GMFylucMCKLCzMNMky8-dB0NDCRoqFHopRGf0hp-_gXO0yvsQt9twCSuxcz-0/s320/holly.png"
+heroImage: "/images/holly.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiev-JUKjl3G6VfN1LjSNnRPtUaSJ-xlzCd-m34Tk-CCuELO0NumstlnW2tiAXyy0tSaN58c4-GVM5Fx3GMFylucMCKLCzMNMky8-dB0NDCRoqFHopRGf0hp-_gXO0yvsQt9twCSuxcz-0/s1600/holly.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiev-JUKjl3G6VfN1LjSNnRPtUaSJ-xlzCd-m34Tk-CCuELO0NumstlnW2tiAXyy0tSaN58c4-GVM5Fx3GMFylucMCKLCzMNMky8-dB0NDCRoqFHopRGf0hp-_gXO0yvsQt9twCSuxcz-0/s320/holly.png" width="320" height="230" data-original-width="558" data-original-height="401" /></a></div>

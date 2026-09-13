@@ -1,7 +1,7 @@
 ---
 title: "Salvos ou Santos?"
 date: 2017-10-23T12:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0x08yVqv5zQPS-x9ATiB2Ds2A4nE_YU4mGyCJ1mBJe5cqNOI5Q8mRFNsIjD2gJdRzsVHQbh6zQ52ueN2yGN3ekyjFqrlV7ouha6DOhmsclr_G4n8tLJP2nt6HChGQjV-VuEKlLaUijoU/s320/gloria.png"
+heroImage: "/images/gloria.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0x08yVqv5zQPS-x9ATiB2Ds2A4nE_YU4mGyCJ1mBJe5cqNOI5Q8mRFNsIjD2gJdRzsVHQbh6zQ52ueN2yGN3ekyjFqrlV7ouha6DOhmsclr_G4n8tLJP2nt6HChGQjV-VuEKlLaUijoU/s1600/gloria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0x08yVqv5zQPS-x9ATiB2Ds2A4nE_YU4mGyCJ1mBJe5cqNOI5Q8mRFNsIjD2gJdRzsVHQbh6zQ52ueN2yGN3ekyjFqrlV7ouha6DOhmsclr_G4n8tLJP2nt6HChGQjV-VuEKlLaUijoU/s320/gloria.png" width="320" height="280" data-original-width="448" data-original-height="392" /></a></div>

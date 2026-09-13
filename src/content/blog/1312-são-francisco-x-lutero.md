@@ -1,7 +1,7 @@
 ---
 title: "São Francisco x Lutero"
 date: 2016-10-05T15:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnUKLTZ0RA_9jAXzVe6YkEbrySjVQ0hAGAdHUKqhum9MO0zhvOZgCoT9O9GrTCHD6A7TqVG2_9z9KCjhS-XDfsiF3LcSlBDVxYfG0F-Fw6NDnSn3jiZAvql1gnou57BGw6eevRraJoAzM/s320/S%25C3%25A3o_Francisco_x_Lutero.png"
+heroImage: "/images/Francisco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnUKLTZ0RA_9jAXzVe6YkEbrySjVQ0hAGAdHUKqhum9MO0zhvOZgCoT9O9GrTCHD6A7TqVG2_9z9KCjhS-XDfsiF3LcSlBDVxYfG0F-Fw6NDnSn3jiZAvql1gnou57BGw6eevRraJoAzM/s1600/S%25C3%25A3o_Francisco_x_Lutero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnUKLTZ0RA_9jAXzVe6YkEbrySjVQ0hAGAdHUKqhum9MO0zhvOZgCoT9O9GrTCHD6A7TqVG2_9z9KCjhS-XDfsiF3LcSlBDVxYfG0F-Fw6NDnSn3jiZAvql1gnou57BGw6eevRraJoAzM/s320/S%25C3%25A3o_Francisco_x_Lutero.png" width="320" height="241" data-original-width="397" data-original-height="299" /></a></div>

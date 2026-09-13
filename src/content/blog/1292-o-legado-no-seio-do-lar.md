@@ -1,7 +1,7 @@
 ---
 title: "O legado no seio do lar"
 date: 2024-10-11T18:18:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCmPwsncgLU0JvaVulrNYK5MRE6xHtfXboBWqiMpcHORysT-Oz9I8-UwqYlfmQ5YfMd-qaVeijkgB3beY6B-pV5lNl7JJ-uOTo6Ex2bFhQC8G6QPehMqRvf-DcovA4fNaCrKvgV9fL1W7oWT1wTeudIdzkm4ado_Uu0vDTNZPUtlYeOKdEQSAeH2jy7w/s320/legado.JPG"
+heroImage: "/images/legado.JPG"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="630" data-original-width="537" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCmPwsncgLU0JvaVulrNYK5MRE6xHtfXboBWqiMpcHORysT-Oz9I8-UwqYlfmQ5YfMd-qaVeijkgB3beY6B-pV5lNl7JJ-uOTo6Ex2bFhQC8G6QPehMqRvf-DcovA4fNaCrKvgV9fL1W7oWT1wTeudIdzkm4ado_Uu0vDTNZPUtlYeOKdEQSAeH2jy7w/s320/legado.JPG" width="273" /></div><p>&nbsp;</p><p>De maneira geral, deixar um legado de vida implica em deixar

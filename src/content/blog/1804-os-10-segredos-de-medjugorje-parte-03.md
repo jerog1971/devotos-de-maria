@@ -1,7 +1,7 @@
 ---
 title: "Os 10 segredos de Medjugorje - parte 03"
 date: 2017-12-15T15:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0b4LuZ3NmbcTyEtQ_hbl2hXPCjWz4VRA2rivi9AicIBBxua7d3Cf2G-iNQ85t2CBKg5rli5hgiuEfgKwRGmDiz4LG7wcDF1SJxtRbWTziBPwh_fFlcNjjOPzZRIMdJdX7cgUav0diYxs/s320/videntes_de_Medjugorge.png"
+heroImage: "/images/videntes_de_Medjugorge.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0b4LuZ3NmbcTyEtQ_hbl2hXPCjWz4VRA2rivi9AicIBBxua7d3Cf2G-iNQ85t2CBKg5rli5hgiuEfgKwRGmDiz4LG7wcDF1SJxtRbWTziBPwh_fFlcNjjOPzZRIMdJdX7cgUav0diYxs/s1600/videntes_de_Medjugorge.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0b4LuZ3NmbcTyEtQ_hbl2hXPCjWz4VRA2rivi9AicIBBxua7d3Cf2G-iNQ85t2CBKg5rli5hgiuEfgKwRGmDiz4LG7wcDF1SJxtRbWTziBPwh_fFlcNjjOPzZRIMdJdX7cgUav0diYxs/s320/videntes_de_Medjugorge.png" width="320" height="226" data-original-width="298" data-original-height="210" /></a></div>

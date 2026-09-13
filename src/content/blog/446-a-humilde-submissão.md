@@ -1,7 +1,7 @@
 ---
 title: "A humilde submissão"
 date: 2020-06-28T00:53:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_bJaT4IlqclhVmIBb9qRSArMj5qmdiLrB7L8G7k_R47BaACvA_rMkh0goWpevVfBg8mXFxR9n_xXf-DgwREavSma2HDlqAwveLOsvMaCB3hkSsrpVSDqbDujSOQ4LHHRMbhqRCDzGM/s320/retiro.png"
+heroImage: "/images/retiro.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_bJaT4IlqclhVmIBb9qRSArMj5qmdiLrB7L8G7k_R47BaACvA_rMkh0goWpevVfBg8mXFxR9n_xXf-DgwREavSma2HDlqAwveLOsvMaCB3hkSsrpVSDqbDujSOQ4LHHRMbhqRCDzGM/s488/retiro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="488" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_bJaT4IlqclhVmIBb9qRSArMj5qmdiLrB7L8G7k_R47BaACvA_rMkh0goWpevVfBg8mXFxR9n_xXf-DgwREavSma2HDlqAwveLOsvMaCB3hkSsrpVSDqbDujSOQ4LHHRMbhqRCDzGM/s320/retiro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não te importes muito de saber quem seja por ti ou contra

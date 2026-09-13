@@ -1,7 +1,7 @@
 ---
 title: "Verdadeiros Sacerdotes?"
 date: 2016-01-21T13:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAcuCY-Jab7s7otLSG3wGpD0zwgchJQZCfJUMkcZiQOhyRlsaAhwzgUJ3ke0ChCKEdPCb2VGUKGzhcnLnY0VMq_RLONWKLxEgdxV86bDQ3kwRroFgpvNmCWtJ1ojtWulKBN81P0n72N10/s320/ceara.png"
+heroImage: "/images/ceara.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAcuCY-Jab7s7otLSG3wGpD0zwgchJQZCfJUMkcZiQOhyRlsaAhwzgUJ3ke0ChCKEdPCb2VGUKGzhcnLnY0VMq_RLONWKLxEgdxV86bDQ3kwRroFgpvNmCWtJ1ojtWulKBN81P0n72N10/s1600/ceara.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAcuCY-Jab7s7otLSG3wGpD0zwgchJQZCfJUMkcZiQOhyRlsaAhwzgUJ3ke0ChCKEdPCb2VGUKGzhcnLnY0VMq_RLONWKLxEgdxV86bDQ3kwRroFgpvNmCWtJ1ojtWulKBN81P0n72N10/s320/ceara.png" width="320" height="170" data-original-width="499" data-original-height="265" /></a></div>

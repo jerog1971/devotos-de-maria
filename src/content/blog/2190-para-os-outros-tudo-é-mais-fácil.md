@@ -1,7 +1,7 @@
 ---
 title: "Para os outros tudo é mais fácil"
 date: 2016-08-30T19:58:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQoy1S9L9GXUYAh_PMU4w7-f3KBdjLSpO52Jh2zTGCNXSUtXSH-ngwCOdqnLI7ZVEqoKMuQ5o2oT1GtsA0qi2ewBY8McQg3ePAr5HfaGYQL9juBYr2WcksbK_oaednWp0nieLOksqUD4/s320/cruz.png"
+heroImage: "/images/cruz.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQoy1S9L9GXUYAh_PMU4w7-f3KBdjLSpO52Jh2zTGCNXSUtXSH-ngwCOdqnLI7ZVEqoKMuQ5o2oT1GtsA0qi2ewBY8McQg3ePAr5HfaGYQL9juBYr2WcksbK_oaednWp0nieLOksqUD4/s1600/cruz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQoy1S9L9GXUYAh_PMU4w7-f3KBdjLSpO52Jh2zTGCNXSUtXSH-ngwCOdqnLI7ZVEqoKMuQ5o2oT1GtsA0qi2ewBY8McQg3ePAr5HfaGYQL9juBYr2WcksbK_oaednWp0nieLOksqUD4/s320/cruz.png" width="320" height="219" data-original-width="460" data-original-height="315" /></a></div>

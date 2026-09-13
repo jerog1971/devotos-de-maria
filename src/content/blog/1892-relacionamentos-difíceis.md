@@ -1,7 +1,7 @@
 ---
 title: "Relacionamentos Difíceis"
 date: 2016-10-14T12:12:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oo5kmsStxfX7sgOy7t2pL8hJ_0WoFkO7vfHFpTL3Rpwzzc4JV1RZQ-n7KOw4oLHZbbOnUr_v7zq0p-s3_rOdMx7FiO4w0bH4GlQ2tsl9vsWDbNxD3iU22BKpXGJJjeJ9YO23esLKK7o/s320/brigas.png"
+heroImage: "/images/brigas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oo5kmsStxfX7sgOy7t2pL8hJ_0WoFkO7vfHFpTL3Rpwzzc4JV1RZQ-n7KOw4oLHZbbOnUr_v7zq0p-s3_rOdMx7FiO4w0bH4GlQ2tsl9vsWDbNxD3iU22BKpXGJJjeJ9YO23esLKK7o/s1600/brigas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oo5kmsStxfX7sgOy7t2pL8hJ_0WoFkO7vfHFpTL3Rpwzzc4JV1RZQ-n7KOw4oLHZbbOnUr_v7zq0p-s3_rOdMx7FiO4w0bH4GlQ2tsl9vsWDbNxD3iU22BKpXGJJjeJ9YO23esLKK7o/s320/brigas.png" width="320" height="195" data-original-width="666" data-original-height="405" /></a></div>

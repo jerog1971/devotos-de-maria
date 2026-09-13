@@ -1,7 +1,7 @@
 ---
 title: "Testemunho de um médico pagão"
 date: 2015-10-26T11:22:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTzCL6edIHoQeZZklnivWtlHxwGBB7ejdLa4SnEFPFhuHm-D1xuBbJOUh1RMN5U-JarZIhVVFkowKkFhm7R2WgwJG5eQWoiCkZjaXMR53n3bR7PpOHaPHRGj8zEcaPWr1_RRYGvjMfpsA/s320/testemunho.png"
+heroImage: "/images/testemunho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTzCL6edIHoQeZZklnivWtlHxwGBB7ejdLa4SnEFPFhuHm-D1xuBbJOUh1RMN5U-JarZIhVVFkowKkFhm7R2WgwJG5eQWoiCkZjaXMR53n3bR7PpOHaPHRGj8zEcaPWr1_RRYGvjMfpsA/s1600/testemunho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTzCL6edIHoQeZZklnivWtlHxwGBB7ejdLa4SnEFPFhuHm-D1xuBbJOUh1RMN5U-JarZIhVVFkowKkFhm7R2WgwJG5eQWoiCkZjaXMR53n3bR7PpOHaPHRGj8zEcaPWr1_RRYGvjMfpsA/s320/testemunho.png" width="320" height="209" data-original-width="546" data-original-height="357" /></a></div>

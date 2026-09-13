@@ -1,7 +1,7 @@
 ---
 title: "Resoluções perigosas"
 date: 2024-03-19T20:09:00.007Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_uGH1scZSRttvj-vZJ9O-QgWuprvfAHdkrq_B74fdUO-iqXakG8ceZX2hVjRRqFMhZq4N24azZcK30vyoLwhB2rr0NGENfX18TsLJtSjYSUge5ZWFdogICLjvYpsgZydMu2nUOykpSNhk4gtbrvlTphJH2hSQlNBv0EQC5Q9kk_J0YN9zNZf3-ZMLl1Y/s1600/resolu%C3%A7%C3%B5es%20perigosas.png"
+heroImage: "/images/perigo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_uGH1scZSRttvj-vZJ9O-QgWuprvfAHdkrq_B74fdUO-iqXakG8ceZX2hVjRRqFMhZq4N24azZcK30vyoLwhB2rr0NGENfX18TsLJtSjYSUge5ZWFdogICLjvYpsgZydMu2nUOykpSNhk4gtbrvlTphJH2hSQlNBv0EQC5Q9kk_J0YN9zNZf3-ZMLl1Y/s300/resolu%C3%A7%C3%B5es%20perigosas.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="300" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_uGH1scZSRttvj-vZJ9O-QgWuprvfAHdkrq_B74fdUO-iqXakG8ceZX2hVjRRqFMhZq4N24azZcK30vyoLwhB2rr0NGENfX18TsLJtSjYSUge5ZWFdogICLjvYpsgZydMu2nUOykpSNhk4gtbrvlTphJH2hSQlNBv0EQC5Q9kk_J0YN9zNZf3-ZMLl1Y/s1600/resolu%C3%A7%C3%B5es%20perigosas.png" width="300" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Talvez você não saiba, caro leitor, mas até enquanto

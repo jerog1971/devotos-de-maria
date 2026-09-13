@@ -1,7 +1,7 @@
 ---
 title: "Ou santos ou nada"
 date: 2017-02-02T15:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifKHPIAfUjptHVYc6o-C5jEPy1RAVFdIJ-h-u2P1ltHR5gqGkKSFZxi2ZIoLDXcz-nk4-ybsSKqbDylozARHwtiby5UcASOj_TBRCdMn4xiHbbZBo3DbyR2oHgx-nwOxm1OGBqCtKLtiw/s320/santidade.png"
+heroImage: "/images/modelos de santidade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifKHPIAfUjptHVYc6o-C5jEPy1RAVFdIJ-h-u2P1ltHR5gqGkKSFZxi2ZIoLDXcz-nk4-ybsSKqbDylozARHwtiby5UcASOj_TBRCdMn4xiHbbZBo3DbyR2oHgx-nwOxm1OGBqCtKLtiw/s1600/santidade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="301" data-original-width="281" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifKHPIAfUjptHVYc6o-C5jEPy1RAVFdIJ-h-u2P1ltHR5gqGkKSFZxi2ZIoLDXcz-nk4-ybsSKqbDylozARHwtiby5UcASOj_TBRCdMn4xiHbbZBo3DbyR2oHgx-nwOxm1OGBqCtKLtiw/s320/santidade.png" width="299" /></a></div>

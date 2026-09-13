@@ -1,7 +1,7 @@
 ---
 title: "O diabo zomba de você?"
 date: 2020-02-27T19:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8CED9t3fgmcns4GBTdoFn6Li5nVw6Zv9uhwgsv044dLasBERA5EttAfzlh_Ole86XF2RUXOknrcKNQmjKqsfF0a90Wk1M4pEZhtB2s31wueERjUKbV_8zxVo2vAAIGFeZ7_92Le0kVY/s320/o_diabo_ataca.png"
+heroImage: "/images/o_diabo_ataca.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8CED9t3fgmcns4GBTdoFn6Li5nVw6Zv9uhwgsv044dLasBERA5EttAfzlh_Ole86XF2RUXOknrcKNQmjKqsfF0a90Wk1M4pEZhtB2s31wueERjUKbV_8zxVo2vAAIGFeZ7_92Le0kVY/s1600/o_diabo_ataca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8CED9t3fgmcns4GBTdoFn6Li5nVw6Zv9uhwgsv044dLasBERA5EttAfzlh_Ole86XF2RUXOknrcKNQmjKqsfF0a90Wk1M4pEZhtB2s31wueERjUKbV_8zxVo2vAAIGFeZ7_92Le0kVY/s320/o_diabo_ataca.png" width="311" height="320" data-original-width="432" data-original-height="445" /></a></div>

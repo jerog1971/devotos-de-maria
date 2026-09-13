@@ -1,7 +1,7 @@
 ---
 title: "Com Jesus"
 date: 2016-04-25T13:51:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiovwcRU2zV_h48YNsnoKFdW6krxQ5U2kDDiIbK6zl15EtbM_Wa8rDYRDhyy34mBzGz6jWjmoLDYA_aN-ZefJj_JdWCLyk9t3FRP-TmpwIwFYlQ6oRWipDP1Z2WtbhNwRcZ2wN9MoJ1OtQ/s320/Yasmin31.jpg"
+heroImage: "/images/Yasmin31.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiovwcRU2zV_h48YNsnoKFdW6krxQ5U2kDDiIbK6zl15EtbM_Wa8rDYRDhyy34mBzGz6jWjmoLDYA_aN-ZefJj_JdWCLyk9t3FRP-TmpwIwFYlQ6oRWipDP1Z2WtbhNwRcZ2wN9MoJ1OtQ/s1600/Yasmin31.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiovwcRU2zV_h48YNsnoKFdW6krxQ5U2kDDiIbK6zl15EtbM_Wa8rDYRDhyy34mBzGz6jWjmoLDYA_aN-ZefJj_JdWCLyk9t3FRP-TmpwIwFYlQ6oRWipDP1Z2WtbhNwRcZ2wN9MoJ1OtQ/s320/Yasmin31.jpg" width="320" height="278" data-original-width="862" data-original-height="749" /></a></div>

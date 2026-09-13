@@ -1,7 +1,7 @@
 ---
 title: "O bom uso do tempo"
 date: 2016-08-03T13:15:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1Hi-cQRHRiQfB6F6jI5ERmkUOz-f7TddnjgUtUZjdT7TYVAShwsJlhwuh0uYwFG2L45uQIzG9FRq_FNiEXlTW_ycOGqYNIPzoCU5jbsePpbaxkihNwdyJoViyF1w1L17nhd8O-lSB_k/s320/uso_do_tempo.png"
+heroImage: "/images/uso_do_tempo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1Hi-cQRHRiQfB6F6jI5ERmkUOz-f7TddnjgUtUZjdT7TYVAShwsJlhwuh0uYwFG2L45uQIzG9FRq_FNiEXlTW_ycOGqYNIPzoCU5jbsePpbaxkihNwdyJoViyF1w1L17nhd8O-lSB_k/s1600/uso_do_tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1Hi-cQRHRiQfB6F6jI5ERmkUOz-f7TddnjgUtUZjdT7TYVAShwsJlhwuh0uYwFG2L45uQIzG9FRq_FNiEXlTW_ycOGqYNIPzoCU5jbsePpbaxkihNwdyJoViyF1w1L17nhd8O-lSB_k/s320/uso_do_tempo.png" width="320" height="262" data-original-width="317" data-original-height="260" /></a></div>

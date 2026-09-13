@@ -1,7 +1,7 @@
 ---
 title: "Uma luta que cobra até o sangue"
 date: 2024-03-11T19:25:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8IxzgFxPZdwqp11iGyVBt4B8LBv38wmn8jJK26Qwel8qzyiwkPS39qWt2fmlTw_hNn3XxPn4lxkKb8xHUlEAiEVcISsiwmco6hAxU6saeB9DAfczjHI2mK7MzomBFEa_XBDm2j-FCpu_e_8s1MJxt15HS1wt9K2U7IXhvmXTjsrufQDZyheU9zP8SgI8/w204-h393/Jef%20e%20Deb%2004.jpg"
+heroImage: "/images/Jef e Deb 04.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8IxzgFxPZdwqp11iGyVBt4B8LBv38wmn8jJK26Qwel8qzyiwkPS39qWt2fmlTw_hNn3XxPn4lxkKb8xHUlEAiEVcISsiwmco6hAxU6saeB9DAfczjHI2mK7MzomBFEa_XBDm2j-FCpu_e_8s1MJxt15HS1wt9K2U7IXhvmXTjsrufQDZyheU9zP8SgI8/s798/Jef%20e%20Deb%2004.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="798" data-original-width="413" height="393" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8IxzgFxPZdwqp11iGyVBt4B8LBv38wmn8jJK26Qwel8qzyiwkPS39qWt2fmlTw_hNn3XxPn4lxkKb8xHUlEAiEVcISsiwmco6hAxU6saeB9DAfczjHI2mK7MzomBFEa_XBDm2j-FCpu_e_8s1MJxt15HS1wt9K2U7IXhvmXTjsrufQDZyheU9zP8SgI8/w204-h393/Jef%20e%20Deb%2004.jpg" width="204" /></a></div><p class="MsoNormal">Isso mesmo, vamos colocar por escrito a realidade que qualquer

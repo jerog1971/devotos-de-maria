@@ -1,7 +1,7 @@
 ---
 title: "Eu me acho"
 date: 2019-04-29T16:10:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq8nmQ4QZoiLXZxL4KT8rlCv0CT_kpRY9-lemYKQ4JT3y-6d7GYb8wwP8wIL0fYtQec5-4RSGvTSJnk-dbieTyW2vt5eMKWWkN85sfwwWGADDnN4c7e_sA_m9ebLbBsHnLn7y-GsdZsA4/s320/Eu_me_acho.png"
+heroImage: "/images/Eu_me_acho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq8nmQ4QZoiLXZxL4KT8rlCv0CT_kpRY9-lemYKQ4JT3y-6d7GYb8wwP8wIL0fYtQec5-4RSGvTSJnk-dbieTyW2vt5eMKWWkN85sfwwWGADDnN4c7e_sA_m9ebLbBsHnLn7y-GsdZsA4/s1600/Eu_me_acho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq8nmQ4QZoiLXZxL4KT8rlCv0CT_kpRY9-lemYKQ4JT3y-6d7GYb8wwP8wIL0fYtQec5-4RSGvTSJnk-dbieTyW2vt5eMKWWkN85sfwwWGADDnN4c7e_sA_m9ebLbBsHnLn7y-GsdZsA4/s320/Eu_me_acho.png" width="318" height="320" data-original-width="266" data-original-height="268" /></a></div>

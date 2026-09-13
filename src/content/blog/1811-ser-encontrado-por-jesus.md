@@ -1,7 +1,7 @@
 ---
 title: "Ser encontrado por Jesus"
 date: 2017-06-21T17:09:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYdU-KaSbtZW6wMMs4P2OYLqZrbXXsbuJeLidwp_zxlblJuRqIMvYCowEDLkllBcNhHFVfC5KGZ53OnHqQgR0CXDqTWwr0nbPDZ81xWQC8R3MC1kDo38X7QoTLDyfuU4z_JCXmtb6XGhw/s320/encontradoporjesus.png"
+heroImage: "/images/encontradoporjesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYdU-KaSbtZW6wMMs4P2OYLqZrbXXsbuJeLidwp_zxlblJuRqIMvYCowEDLkllBcNhHFVfC5KGZ53OnHqQgR0CXDqTWwr0nbPDZ81xWQC8R3MC1kDo38X7QoTLDyfuU4z_JCXmtb6XGhw/s1600/encontradoporjesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYdU-KaSbtZW6wMMs4P2OYLqZrbXXsbuJeLidwp_zxlblJuRqIMvYCowEDLkllBcNhHFVfC5KGZ53OnHqQgR0CXDqTWwr0nbPDZ81xWQC8R3MC1kDo38X7QoTLDyfuU4z_JCXmtb6XGhw/s320/encontradoporjesus.png" width="320" height="302" data-original-width="401" data-original-height="378" /></a></div>

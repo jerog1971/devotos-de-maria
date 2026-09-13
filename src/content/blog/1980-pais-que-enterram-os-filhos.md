@@ -1,7 +1,7 @@
 ---
 title: "Pais que enterram os filhos"
 date: 2016-08-24T12:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBRnLK1AwZdPF3LizfXXjet2wcL6hbklnNfcHyrSkDZJ9GdZwlA5uN05FBq4LfFmqIXFxG0-whs3bwporPWUuPo1HY44HhT6pYVYqQics2myrG0119Sic1y8R0ygAsu8bkAcYHsl0omk/s320/enterro_do_filho.png"
+heroImage: "/images/enterro_do_filho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBRnLK1AwZdPF3LizfXXjet2wcL6hbklnNfcHyrSkDZJ9GdZwlA5uN05FBq4LfFmqIXFxG0-whs3bwporPWUuPo1HY44HhT6pYVYqQics2myrG0119Sic1y8R0ygAsu8bkAcYHsl0omk/s1600/enterro_do_filho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBRnLK1AwZdPF3LizfXXjet2wcL6hbklnNfcHyrSkDZJ9GdZwlA5uN05FBq4LfFmqIXFxG0-whs3bwporPWUuPo1HY44HhT6pYVYqQics2myrG0119Sic1y8R0ygAsu8bkAcYHsl0omk/s320/enterro_do_filho.png" width="320" height="237" data-original-width="701" data-original-height="520" /></a></div>

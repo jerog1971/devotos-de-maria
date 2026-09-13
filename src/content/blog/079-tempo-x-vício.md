@@ -1,7 +1,7 @@
 ---
 title: "Tempo x Vício"
 date: 2016-07-05T13:43:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqErrOzdkPoXw33DMikw_2O7k5lDhIpE7dHGy2j3yDGV768s6fxXlTF3-Fjrk7W88pwc1R8FuBWum7jjI0XkklK3RqpT_POx9X1HBDC9sFdBYFv_vsRdidGd2qy0cvBnTFbzUiTziwJBo/s320/vicio.png"
+heroImage: "/images/vicio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqErrOzdkPoXw33DMikw_2O7k5lDhIpE7dHGy2j3yDGV768s6fxXlTF3-Fjrk7W88pwc1R8FuBWum7jjI0XkklK3RqpT_POx9X1HBDC9sFdBYFv_vsRdidGd2qy0cvBnTFbzUiTziwJBo/s1600/vicio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqErrOzdkPoXw33DMikw_2O7k5lDhIpE7dHGy2j3yDGV768s6fxXlTF3-Fjrk7W88pwc1R8FuBWum7jjI0XkklK3RqpT_POx9X1HBDC9sFdBYFv_vsRdidGd2qy0cvBnTFbzUiTziwJBo/s320/vicio.png" width="320" height="182" data-original-width="539" data-original-height="306" /></a></div>

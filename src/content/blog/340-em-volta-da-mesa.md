@@ -1,7 +1,7 @@
 ---
 title: "Em volta da mesa"
 date: 2018-05-04T20:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBK0KXpTuz49ubZ0Z6agVzLrF1G8KP5tl83OpEssfbNBAXOieeZb0kmgBHH_OIvRUhbsbLrf7EzlRdrxPR7LTjbvrylTh40IPEW5m3qIC1B5trJzmiqnWoHk6qmCT6q5_IxWyImxLlV2Q/s320/ceia_catequese.jpg"
+heroImage: "/images/ceia_catequese.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBK0KXpTuz49ubZ0Z6agVzLrF1G8KP5tl83OpEssfbNBAXOieeZb0kmgBHH_OIvRUhbsbLrf7EzlRdrxPR7LTjbvrylTh40IPEW5m3qIC1B5trJzmiqnWoHk6qmCT6q5_IxWyImxLlV2Q/s1600/ceia_catequese.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBK0KXpTuz49ubZ0Z6agVzLrF1G8KP5tl83OpEssfbNBAXOieeZb0kmgBHH_OIvRUhbsbLrf7EzlRdrxPR7LTjbvrylTh40IPEW5m3qIC1B5trJzmiqnWoHk6qmCT6q5_IxWyImxLlV2Q/s320/ceia_catequese.jpg" width="211" height="320" data-original-width="675" data-original-height="1024" /></a></div>

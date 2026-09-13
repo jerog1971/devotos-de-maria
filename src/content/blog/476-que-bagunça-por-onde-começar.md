@@ -1,7 +1,7 @@
 ---
 title: "Que bagunça, por onde começar?"
 date: 2017-11-30T17:52:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Ek665GnikUTrgpuBZrH4eFFbBYZ8wpTzENYbYN130HWyfRuVVshMR1mk3SBL3xa0gav9UAuy18oWEbYw3H-YShu77h6MbeoCYI4FqK5aBHJCEcgKjwKmhrDosiCiDlVmROC2fua_CG0/s320/vaca_crucificada.png"
+heroImage: "/images/vaca_crucificada.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Ek665GnikUTrgpuBZrH4eFFbBYZ8wpTzENYbYN130HWyfRuVVshMR1mk3SBL3xa0gav9UAuy18oWEbYw3H-YShu77h6MbeoCYI4FqK5aBHJCEcgKjwKmhrDosiCiDlVmROC2fua_CG0/s1600/vaca_crucificada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Ek665GnikUTrgpuBZrH4eFFbBYZ8wpTzENYbYN130HWyfRuVVshMR1mk3SBL3xa0gav9UAuy18oWEbYw3H-YShu77h6MbeoCYI4FqK5aBHJCEcgKjwKmhrDosiCiDlVmROC2fua_CG0/s320/vaca_crucificada.png" width="320" height="262" data-original-width="882" data-original-height="722" /></a></div>

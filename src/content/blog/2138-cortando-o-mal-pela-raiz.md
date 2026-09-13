@@ -1,7 +1,7 @@
 ---
 title: "Cortando o mal pela raiz"
 date: 2021-04-16T17:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF4Q4txRArN2OfEEq6xSR4ToqRanB-0TIQvqWkATJuwp4WNdlOYc3lbMRZXmzhAecRoNXi5twm7Wycip-84kGrg1oATzoMbW13gzTP3B7KtFH4CAshzdlAPjPQcvxG7UD_8U6dCAs2vrg/s320/cortando+o+mal+pela+raiz.png"
+heroImage: "/images/Ela.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF4Q4txRArN2OfEEq6xSR4ToqRanB-0TIQvqWkATJuwp4WNdlOYc3lbMRZXmzhAecRoNXi5twm7Wycip-84kGrg1oATzoMbW13gzTP3B7KtFH4CAshzdlAPjPQcvxG7UD_8U6dCAs2vrg/s484/cortando+o+mal+pela+raiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="469" data-original-width="484" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF4Q4txRArN2OfEEq6xSR4ToqRanB-0TIQvqWkATJuwp4WNdlOYc3lbMRZXmzhAecRoNXi5twm7Wycip-84kGrg1oATzoMbW13gzTP3B7KtFH4CAshzdlAPjPQcvxG7UD_8U6dCAs2vrg/s320/cortando+o+mal+pela+raiz.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que cortar-aparar a grama é uma atividade

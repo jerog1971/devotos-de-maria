@@ -1,7 +1,7 @@
 ---
 title: "Eu sei o que pedir?"
 date: 2015-11-27T11:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkO7lvrv1Das4Mw7cT3ZMpu4Q4WwXRhjcJe5_3PgHMYvlGgz2jJDzT8pYID9wDS6ajZkqhA46ZvsNr9_XMiFTdCWgL-uCEoTGaHS0v-g0Aby4Z3Hi0Dws1T65hhzZHjBGrT6yzLJkTJ8/s320/pedindo.png"
+heroImage: "/images/pedindo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkO7lvrv1Das4Mw7cT3ZMpu4Q4WwXRhjcJe5_3PgHMYvlGgz2jJDzT8pYID9wDS6ajZkqhA46ZvsNr9_XMiFTdCWgL-uCEoTGaHS0v-g0Aby4Z3Hi0Dws1T65hhzZHjBGrT6yzLJkTJ8/s1600/pedindo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkO7lvrv1Das4Mw7cT3ZMpu4Q4WwXRhjcJe5_3PgHMYvlGgz2jJDzT8pYID9wDS6ajZkqhA46ZvsNr9_XMiFTdCWgL-uCEoTGaHS0v-g0Aby4Z3Hi0Dws1T65hhzZHjBGrT6yzLJkTJ8/s320/pedindo.png" width="258" height="320" data-original-width="344" data-original-height="427" /></a></div>

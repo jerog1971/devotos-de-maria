@@ -1,7 +1,7 @@
 ---
 title: "Como inimigos de Deus"
 date: 2015-11-25T11:58:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOn1YeHD7pZzsbpc0XdFfzwWhSDkY_ElAvMCh8c_gwYm5RmoBAYlXrcYh5kbFTQN7q4eUB7-jYmav3SpHvvFRkAEPe-A5YhboYAUH5OCls6dHt832bmqf1JQ-q7s1OtEP3ok83JEHMxSo/s320/inimigos.png"
+heroImage: "/images/inimigos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOn1YeHD7pZzsbpc0XdFfzwWhSDkY_ElAvMCh8c_gwYm5RmoBAYlXrcYh5kbFTQN7q4eUB7-jYmav3SpHvvFRkAEPe-A5YhboYAUH5OCls6dHt832bmqf1JQ-q7s1OtEP3ok83JEHMxSo/s1600/inimigos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOn1YeHD7pZzsbpc0XdFfzwWhSDkY_ElAvMCh8c_gwYm5RmoBAYlXrcYh5kbFTQN7q4eUB7-jYmav3SpHvvFRkAEPe-A5YhboYAUH5OCls6dHt832bmqf1JQ-q7s1OtEP3ok83JEHMxSo/s320/inimigos.png" width="312" height="320" data-original-width="297" data-original-height="305" /></a></div>

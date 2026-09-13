@@ -1,7 +1,7 @@
 ---
 title: "Primeiro Deus"
 date: 2016-04-20T12:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_34agxUC60n6d7U3Q7PRt8eyn9HZHQcsMqpV7CXc6v3Xhy_j1bHcLpn1szrYKpi8PlEBq72eXC1Pca2UM5cx0rEFGfvWcW925w76zjEbvsfYsiXpW6eXlivod4efUWsr_5aMouxuJ8no/s320/stela.png"
+heroImage: "/images/stela.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_34agxUC60n6d7U3Q7PRt8eyn9HZHQcsMqpV7CXc6v3Xhy_j1bHcLpn1szrYKpi8PlEBq72eXC1Pca2UM5cx0rEFGfvWcW925w76zjEbvsfYsiXpW6eXlivod4efUWsr_5aMouxuJ8no/s1600/stela.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_34agxUC60n6d7U3Q7PRt8eyn9HZHQcsMqpV7CXc6v3Xhy_j1bHcLpn1szrYKpi8PlEBq72eXC1Pca2UM5cx0rEFGfvWcW925w76zjEbvsfYsiXpW6eXlivod4efUWsr_5aMouxuJ8no/s320/stela.png" width="320" height="287" data-original-width="417" data-original-height="374" /></a></div>

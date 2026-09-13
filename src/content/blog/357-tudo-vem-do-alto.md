@@ -1,7 +1,7 @@
 ---
 title: "Tudo vem do Alto"
 date: 2016-08-03T14:14:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBG3TB4mm08nVc6M-yRMg2K8TMAmwy9XpsLNRcjegVFKkoDi6927GBpJQphE4ziTH6jTlF2P7aI2aoWdYGNDs8ZUo_KY253gkLMz-sE4KCldCGCiosLK2OQDhg1jOb4j5G34_Sbti_u8c/s320/luz_do_ceu.png"
+heroImage: "/images/luz_do_ceu.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBG3TB4mm08nVc6M-yRMg2K8TMAmwy9XpsLNRcjegVFKkoDi6927GBpJQphE4ziTH6jTlF2P7aI2aoWdYGNDs8ZUo_KY253gkLMz-sE4KCldCGCiosLK2OQDhg1jOb4j5G34_Sbti_u8c/s1600/luz_do_ceu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBG3TB4mm08nVc6M-yRMg2K8TMAmwy9XpsLNRcjegVFKkoDi6927GBpJQphE4ziTH6jTlF2P7aI2aoWdYGNDs8ZUo_KY253gkLMz-sE4KCldCGCiosLK2OQDhg1jOb4j5G34_Sbti_u8c/s320/luz_do_ceu.png" width="320" height="320" data-original-width="246" data-original-height="246" /></a></div>

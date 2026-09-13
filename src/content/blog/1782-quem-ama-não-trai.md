@@ -1,7 +1,7 @@
 ---
 title: "Quem ama não trai"
 date: 2016-09-13T20:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-UWjfoWEk72OgsRVvjLJ4TB78igVFbwTz2P5VxuZyB4EitJwhUMOYxCIV4m-eJqNytFlxkaxKLqrsX7rDRE4BIn8QjbhRMSbITh7GAJhvUk69_bqDzSnOrBAwiaeyINAvShbSoA1cVI/s320/n%25C3%25A3o_trair.png"
+heroImage: "/images/trair.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-UWjfoWEk72OgsRVvjLJ4TB78igVFbwTz2P5VxuZyB4EitJwhUMOYxCIV4m-eJqNytFlxkaxKLqrsX7rDRE4BIn8QjbhRMSbITh7GAJhvUk69_bqDzSnOrBAwiaeyINAvShbSoA1cVI/s1600/n%25C3%25A3o_trair.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-UWjfoWEk72OgsRVvjLJ4TB78igVFbwTz2P5VxuZyB4EitJwhUMOYxCIV4m-eJqNytFlxkaxKLqrsX7rDRE4BIn8QjbhRMSbITh7GAJhvUk69_bqDzSnOrBAwiaeyINAvShbSoA1cVI/s320/n%25C3%25A3o_trair.png" width="320" height="320" data-original-width="299" data-original-height="299" /></a></div>

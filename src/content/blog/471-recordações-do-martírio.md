@@ -1,7 +1,7 @@
 ---
 title: "Recordações do Martírio"
 date: 2016-08-24T12:54:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiWSY6Uz4JFsz8VUcolVQkI3Zq4CxddaHq72oiKFixQtMmXhRGIdOez_5baq2DTS5luAjdm8pqVJ5vo27_jEzs2IGzyiOITghUBedxJ3kkUTE9L8cZnaoTlpagQ40XgXGF_zNl3aaWro/s320/martirio.png"
+heroImage: "/images/martirio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiWSY6Uz4JFsz8VUcolVQkI3Zq4CxddaHq72oiKFixQtMmXhRGIdOez_5baq2DTS5luAjdm8pqVJ5vo27_jEzs2IGzyiOITghUBedxJ3kkUTE9L8cZnaoTlpagQ40XgXGF_zNl3aaWro/s1600/martirio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiWSY6Uz4JFsz8VUcolVQkI3Zq4CxddaHq72oiKFixQtMmXhRGIdOez_5baq2DTS5luAjdm8pqVJ5vo27_jEzs2IGzyiOITghUBedxJ3kkUTE9L8cZnaoTlpagQ40XgXGF_zNl3aaWro/s320/martirio.png" width="314" height="320" data-original-width="349" data-original-height="356" /></a></div>

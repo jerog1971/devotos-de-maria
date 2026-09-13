@@ -1,7 +1,7 @@
 ---
 title: "Testemunhas de Jeová e a Virgem Maria"
 date: 2018-10-05T15:25:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnkgko-KTxxbdmXwKtdr3UEO57M4uHhk7z1kg0MkXx_W4g2idJGHi8GeZtfJob8IPB4h6vPCPlXZNlH5HM-9zN9oik7DdJWbQbyQ7lAR4umSdZivhVOOPkffRl8-nJUwJxOVFaS58Nwn8/s320/Virgem-Maria-e-Santa-Ana.png"
+heroImage: "/images/Virgem-Maria-e-Santa-Ana.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnkgko-KTxxbdmXwKtdr3UEO57M4uHhk7z1kg0MkXx_W4g2idJGHi8GeZtfJob8IPB4h6vPCPlXZNlH5HM-9zN9oik7DdJWbQbyQ7lAR4umSdZivhVOOPkffRl8-nJUwJxOVFaS58Nwn8/s1600/Virgem-Maria-e-Santa-Ana.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnkgko-KTxxbdmXwKtdr3UEO57M4uHhk7z1kg0MkXx_W4g2idJGHi8GeZtfJob8IPB4h6vPCPlXZNlH5HM-9zN9oik7DdJWbQbyQ7lAR4umSdZivhVOOPkffRl8-nJUwJxOVFaS58Nwn8/s320/Virgem-Maria-e-Santa-Ana.png" width="315" height="320" data-original-width="364" data-original-height="370" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Não é o que parece"
 date: 2018-03-21T15:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwIQRi_4MvMGsD9GftL4F_mXmlZhCc-p1ZzfhKhV4S5NN5JyQdZiZ1mhx7JImFdOuvTgctXmgi__6jA86ZrukzmLxBI76DGK_zDofF_TZ2tpBsL4twmTyHL5jPyoWvhMJC4HgSnPXwPJc/s320/mandamentos.png"
+heroImage: "/images/mandamentos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwIQRi_4MvMGsD9GftL4F_mXmlZhCc-p1ZzfhKhV4S5NN5JyQdZiZ1mhx7JImFdOuvTgctXmgi__6jA86ZrukzmLxBI76DGK_zDofF_TZ2tpBsL4twmTyHL5jPyoWvhMJC4HgSnPXwPJc/s1600/mandamentos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwIQRi_4MvMGsD9GftL4F_mXmlZhCc-p1ZzfhKhV4S5NN5JyQdZiZ1mhx7JImFdOuvTgctXmgi__6jA86ZrukzmLxBI76DGK_zDofF_TZ2tpBsL4twmTyHL5jPyoWvhMJC4HgSnPXwPJc/s320/mandamentos.png" width="320" height="241" data-original-width="591" data-original-height="446" /></a></div>

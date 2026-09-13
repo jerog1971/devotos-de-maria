@@ -1,7 +1,7 @@
 ---
 title: "O absurdo da páscoa"
 date: 2018-04-03T20:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM8_BYg9epwGcL90gnSU2BXr0zdeUZfOXW-5N2HY3i_UGp23mbLf59mYFDiPWLFjbai5hUHHUWTPv2h_qjx1bEcbKS-vxH82CpQsgwZSs24r0YFRHfKBkfpzNlWj5d6UvzmAwLokX54Q4/s320/hope.png"
+heroImage: "/images/hope.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM8_BYg9epwGcL90gnSU2BXr0zdeUZfOXW-5N2HY3i_UGp23mbLf59mYFDiPWLFjbai5hUHHUWTPv2h_qjx1bEcbKS-vxH82CpQsgwZSs24r0YFRHfKBkfpzNlWj5d6UvzmAwLokX54Q4/s1600/hope.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM8_BYg9epwGcL90gnSU2BXr0zdeUZfOXW-5N2HY3i_UGp23mbLf59mYFDiPWLFjbai5hUHHUWTPv2h_qjx1bEcbKS-vxH82CpQsgwZSs24r0YFRHfKBkfpzNlWj5d6UvzmAwLokX54Q4/s320/hope.png" width="320" height="302" data-original-width="508" data-original-height="479" /></a></div>

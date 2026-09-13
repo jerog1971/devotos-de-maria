@@ -1,7 +1,7 @@
 ---
 title: "Deixe o adultério, suba a montanha"
 date: 2020-03-02T16:54:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXW6_mv0LuFaA7tg2UoezDa2uVYSgB09RRITwAW2XF72nwjzxt5Q7WnwgtecOcEQMeacQaMyoDpXsLgMqsSbgnlTSa7mRYXfqvwfluMclZ6WULj_J25G6jVi7QsQw2V-vUxSXuNu5uHLA/s320/trair.png"
+heroImage: "/images/não_trair.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXW6_mv0LuFaA7tg2UoezDa2uVYSgB09RRITwAW2XF72nwjzxt5Q7WnwgtecOcEQMeacQaMyoDpXsLgMqsSbgnlTSa7mRYXfqvwfluMclZ6WULj_J25G6jVi7QsQw2V-vUxSXuNu5uHLA/s1600/trair.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXW6_mv0LuFaA7tg2UoezDa2uVYSgB09RRITwAW2XF72nwjzxt5Q7WnwgtecOcEQMeacQaMyoDpXsLgMqsSbgnlTSa7mRYXfqvwfluMclZ6WULj_J25G6jVi7QsQw2V-vUxSXuNu5uHLA/s320/trair.png" width="320" height="320" data-original-width="422" data-original-height="422" /></a></div>

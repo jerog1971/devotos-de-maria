@@ -1,7 +1,7 @@
 ---
 title: "Vai ser sempre assim?"
 date: 2020-05-29T15:06:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lWQdUgWtCK8bjQafS8ZL8OtUzSoolbxXJcihTHddb2idqpgEYaMAa8zjCr0H638DvI_1NGIWlhjQOJIWEypXnbu0db9Kfkvz9Ktdj_4L3jALWhwguuuUOZLaHwNWh91_szUv58BpIs0/s320/sempre_assim.png"
+heroImage: "/images/sempre_assim.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lWQdUgWtCK8bjQafS8ZL8OtUzSoolbxXJcihTHddb2idqpgEYaMAa8zjCr0H638DvI_1NGIWlhjQOJIWEypXnbu0db9Kfkvz9Ktdj_4L3jALWhwguuuUOZLaHwNWh91_szUv58BpIs0/" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="387" data-original-width="449" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lWQdUgWtCK8bjQafS8ZL8OtUzSoolbxXJcihTHddb2idqpgEYaMAa8zjCr0H638DvI_1NGIWlhjQOJIWEypXnbu0db9Kfkvz9Ktdj_4L3jALWhwguuuUOZLaHwNWh91_szUv58BpIs0/s320/sempre_assim.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se uma pessoa marca um encontro, um compromisso, uma

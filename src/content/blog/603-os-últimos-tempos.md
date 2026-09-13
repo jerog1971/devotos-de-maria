@@ -1,7 +1,7 @@
 ---
 title: "Os últimos tempos"
 date: 2023-10-31T21:43:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8lkwYEEtXCrC_qTaaU4NJSmvP7e28k7X91N_2zwJ4AJOoMxHYqYDNq-sFY3y91JVJDch4TUHA97WTcASbqcc71lgeO6V9cSOG1QnAvnvKwqKFR4737g0PvA1KYAkoq85kEPG9OHVTBcOq4hpfT2ZYZMP2GnixPRiwgRUpQ6vIqBKcQU2xzP5O13UhekI/s320/Lucia%20e%20Jacinta%20Marto.png"
+heroImage: "/images/Lucia e Jacinta Marto.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8lkwYEEtXCrC_qTaaU4NJSmvP7e28k7X91N_2zwJ4AJOoMxHYqYDNq-sFY3y91JVJDch4TUHA97WTcASbqcc71lgeO6V9cSOG1QnAvnvKwqKFR4737g0PvA1KYAkoq85kEPG9OHVTBcOq4hpfT2ZYZMP2GnixPRiwgRUpQ6vIqBKcQU2xzP5O13UhekI/s433/Lucia%20e%20Jacinta%20Marto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="433" data-original-width="316" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8lkwYEEtXCrC_qTaaU4NJSmvP7e28k7X91N_2zwJ4AJOoMxHYqYDNq-sFY3y91JVJDch4TUHA97WTcASbqcc71lgeO6V9cSOG1QnAvnvKwqKFR4737g0PvA1KYAkoq85kEPG9OHVTBcOq4hpfT2ZYZMP2GnixPRiwgRUpQ6vIqBKcQU2xzP5O13UhekI/s320/Lucia%20e%20Jacinta%20Marto.png" width="234" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No dia 26 de dezembro de 1957, o padre Agustín Fuentes,

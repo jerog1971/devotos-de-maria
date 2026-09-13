@@ -1,7 +1,7 @@
 ---
 title: "Maridos frouxos"
 date: 2018-12-12T16:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwWwuOQQg9KgACQcTQ3k23pebdDgTNly3tchgb7aO6S5rmEg_g6WuMArx5I1ir_vWmw1DHjb4NCarz35WcoIMWPO6jMg3-sBqwpkIRepFfPbt7D8aYTUUi2tqU5-K6K_S9qgZbVsrRaAI/s320/maridos_frouxos.png"
+heroImage: "/images/maridos_frouxos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwWwuOQQg9KgACQcTQ3k23pebdDgTNly3tchgb7aO6S5rmEg_g6WuMArx5I1ir_vWmw1DHjb4NCarz35WcoIMWPO6jMg3-sBqwpkIRepFfPbt7D8aYTUUi2tqU5-K6K_S9qgZbVsrRaAI/s1600/maridos_frouxos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwWwuOQQg9KgACQcTQ3k23pebdDgTNly3tchgb7aO6S5rmEg_g6WuMArx5I1ir_vWmw1DHjb4NCarz35WcoIMWPO6jMg3-sBqwpkIRepFfPbt7D8aYTUUi2tqU5-K6K_S9qgZbVsrRaAI/s320/maridos_frouxos.png" width="316" height="320" data-original-width="232" data-original-height="235" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Católicos Ecumênicos"
 date: 2016-04-28T14:53:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpNyWYgyK1ipjJlthG8rOu-tlEvXIRuYKmVmNN3ypbfg7WqbrTMtQKDCBk35KgPDQb2U8vzLV0Rm8vi5mkJNqDrTWUx7IY3KZM2h9JNQIwTAWE_PEhPWiM2sGxgHllEZPr5AdD52lTY74/s320/infieis.png"
+heroImage: "/images/infieis.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpNyWYgyK1ipjJlthG8rOu-tlEvXIRuYKmVmNN3ypbfg7WqbrTMtQKDCBk35KgPDQb2U8vzLV0Rm8vi5mkJNqDrTWUx7IY3KZM2h9JNQIwTAWE_PEhPWiM2sGxgHllEZPr5AdD52lTY74/s1600/infieis.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpNyWYgyK1ipjJlthG8rOu-tlEvXIRuYKmVmNN3ypbfg7WqbrTMtQKDCBk35KgPDQb2U8vzLV0Rm8vi5mkJNqDrTWUx7IY3KZM2h9JNQIwTAWE_PEhPWiM2sGxgHllEZPr5AdD52lTY74/s320/infieis.png" width="320" height="214" data-original-width="674" data-original-height="451" /></a></div>

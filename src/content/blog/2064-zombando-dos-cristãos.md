@@ -1,7 +1,7 @@
 ---
 title: "Zombando dos Cristãos?"
 date: 2024-07-29T17:28:00.007Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGttki3PqWFsjIyI4iuwk2qJwamcbX_khua0mQQO6rs4OVJ6UILvQQcVeHxWFnAHZJV8pmiMzFD_q2gfXQBui05eVsQAlaweXYtBCq-7TnlbLXrwWkIAxpvRizDDOlZCTmAGrAJ99F_ZQ_1ltRtO3kUMIDHqGJPZ8kD7TH3n8Ojj1fdDoHWS5bfd0QEkA/s320/Festa%20dos%20deuses.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGttki3PqWFsjIyI4iuwk2qJwamcbX_khua0mQQO6rs4OVJ6UILvQQcVeHxWFnAHZJV8pmiMzFD_q2gfXQBui05eVsQAlaweXYtBCq-7TnlbLXrwWkIAxpvRizDDOlZCTmAGrAJ99F_ZQ_1ltRtO3kUMIDHqGJPZ8kD7TH3n8Ojj1fdDoHWS5bfd0QEkA/s641/Festa%20dos%20deuses.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="494" data-original-width="641" height="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGttki3PqWFsjIyI4iuwk2qJwamcbX_khua0mQQO6rs4OVJ6UILvQQcVeHxWFnAHZJV8pmiMzFD_q2gfXQBui05eVsQAlaweXYtBCq-7TnlbLXrwWkIAxpvRizDDOlZCTmAGrAJ99F_ZQ_1ltRtO3kUMIDHqGJPZ8kD7TH3n8Ojj1fdDoHWS5bfd0QEkA/s320/Festa%20dos%20deuses.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Sobre os desdobramentos que incomodaram cristãos ao redor do

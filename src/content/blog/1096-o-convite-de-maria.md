@@ -1,7 +1,7 @@
 ---
 title: "O convite de Maria"
 date: 2018-01-03T16:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_mtlGCpAIZ9x7yuTl-4XL4nb27t5vLGqP5Td29mCV-St9lIeL6FXOIzpbzbOFi2FQgbSPUGJKU19UiXLbP-WjqSgfaKUPxomDFXB3XXG6MxqVHjXmpn9svvH7A3O0E2m5WW073taHg8/s320/igreja_medjugorje.png"
+heroImage: "/images/igreja_medjugorje.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_mtlGCpAIZ9x7yuTl-4XL4nb27t5vLGqP5Td29mCV-St9lIeL6FXOIzpbzbOFi2FQgbSPUGJKU19UiXLbP-WjqSgfaKUPxomDFXB3XXG6MxqVHjXmpn9svvH7A3O0E2m5WW073taHg8/s1600/igreja_medjugorje.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_mtlGCpAIZ9x7yuTl-4XL4nb27t5vLGqP5Td29mCV-St9lIeL6FXOIzpbzbOFi2FQgbSPUGJKU19UiXLbP-WjqSgfaKUPxomDFXB3XXG6MxqVHjXmpn9svvH7A3O0E2m5WW073taHg8/s320/igreja_medjugorje.png" width="320" height="302" data-original-width="487" data-original-height="460" /></a></div>

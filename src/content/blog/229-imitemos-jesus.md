@@ -1,7 +1,7 @@
 ---
 title: "Imitemos Jesus"
 date: 2016-02-19T11:36:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh13YOXH9pPL9fvJ97BwosBF7mxbHJyRCdZEUQ_v53rV1aTwa5N9WGi9XSgNpLXwxeDRXPAhBjVfIbXxz8h5blIjAsA3eorvk8SHmQM8oU5dh9CJ8gseU1F7hzBWf1BrtdOf9p-MR8bL7U/s320/imitar_jesus.png"
+heroImage: "/images/imitar_jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh13YOXH9pPL9fvJ97BwosBF7mxbHJyRCdZEUQ_v53rV1aTwa5N9WGi9XSgNpLXwxeDRXPAhBjVfIbXxz8h5blIjAsA3eorvk8SHmQM8oU5dh9CJ8gseU1F7hzBWf1BrtdOf9p-MR8bL7U/s1600/imitar_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh13YOXH9pPL9fvJ97BwosBF7mxbHJyRCdZEUQ_v53rV1aTwa5N9WGi9XSgNpLXwxeDRXPAhBjVfIbXxz8h5blIjAsA3eorvk8SHmQM8oU5dh9CJ8gseU1F7hzBWf1BrtdOf9p-MR8bL7U/s320/imitar_jesus.png" width="320" height="221" data-original-width="750" data-original-height="518" /></a></div>

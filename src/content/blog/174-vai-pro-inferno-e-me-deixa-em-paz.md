@@ -1,7 +1,7 @@
 ---
 title: "Vai pro inferno e me deixa em paz"
 date: 2016-09-06T18:48:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgEGxukSFY9FPR1H-u-yomHCnESAqs2W7Z6uyviscsyR5miP9-9WtMrvNAnZKYEqnVu8reZpvcrvfYZRRY-B34ozu2semnKvQzI2taSQIEgxBqKIjmzlf75jDD0ZroplMrStD4H_OBYgk/s320/xingar.png"
+heroImage: "/images/criticar e xingar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgEGxukSFY9FPR1H-u-yomHCnESAqs2W7Z6uyviscsyR5miP9-9WtMrvNAnZKYEqnVu8reZpvcrvfYZRRY-B34ozu2semnKvQzI2taSQIEgxBqKIjmzlf75jDD0ZroplMrStD4H_OBYgk/s1600/xingar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgEGxukSFY9FPR1H-u-yomHCnESAqs2W7Z6uyviscsyR5miP9-9WtMrvNAnZKYEqnVu8reZpvcrvfYZRRY-B34ozu2semnKvQzI2taSQIEgxBqKIjmzlf75jDD0ZroplMrStD4H_OBYgk/s320/xingar.png" width="320" height="269" data-original-width="266" data-original-height="224" /></a></div>

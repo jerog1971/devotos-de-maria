@@ -1,7 +1,7 @@
 ---
 title: "Quanto mais velho fico, mais coisas deixo para trás"
 date: 2018-12-12T16:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuxQ5KQqNZzRSeMMIBJ25fYNSMblIN3JkkssbdHmk2p5HjewJYjU69EP0hECxfHCIN7Gv1bMfrCglwj_TdnGd37lm8q5siDv2-vFTQLfbvInoGKYkkYiKwvu_P8L3YvqO5zEh1_w8p7wk/s320/homem_velho.png"
+heroImage: "/images/homem_velho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuxQ5KQqNZzRSeMMIBJ25fYNSMblIN3JkkssbdHmk2p5HjewJYjU69EP0hECxfHCIN7Gv1bMfrCglwj_TdnGd37lm8q5siDv2-vFTQLfbvInoGKYkkYiKwvu_P8L3YvqO5zEh1_w8p7wk/s1600/homem_velho.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="267" data-original-width="287" height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuxQ5KQqNZzRSeMMIBJ25fYNSMblIN3JkkssbdHmk2p5HjewJYjU69EP0hECxfHCIN7Gv1bMfrCglwj_TdnGd37lm8q5siDv2-vFTQLfbvInoGKYkkYiKwvu_P8L3YvqO5zEh1_w8p7wk/s320/homem_velho.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Assim é a vida, já dizia muito acertadamente o personagem do filme Rocky 6. Transcrevemos para este artigo, aproveitando-se da essência desse pensamento, a realidade que a frase pode nos trazer e fazer meditar, dentro do âmbito da vida cristã.

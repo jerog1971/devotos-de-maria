@@ -1,7 +1,7 @@
 ---
 title: "Bandido tem que mandar matar"
 date: 2019-05-08T20:12:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUWv0ZvQkitCOcOpOP79sVtRxVD7Tm8GX8RLnXOSbsvYtCYPHTZIK5Owxs9U8XGt-lOMOczMm3qJx3yKRN23ZjbBJJ1vzIEfKZprNmsc4gz954ii2F6iZhmmT5OokD3nXy-Qd1n-49B8/s320/assalto.png"
+heroImage: "/images/assalto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUWv0ZvQkitCOcOpOP79sVtRxVD7Tm8GX8RLnXOSbsvYtCYPHTZIK5Owxs9U8XGt-lOMOczMm3qJx3yKRN23ZjbBJJ1vzIEfKZprNmsc4gz954ii2F6iZhmmT5OokD3nXy-Qd1n-49B8/s1600/assalto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcUWv0ZvQkitCOcOpOP79sVtRxVD7Tm8GX8RLnXOSbsvYtCYPHTZIK5Owxs9U8XGt-lOMOczMm3qJx3yKRN23ZjbBJJ1vzIEfKZprNmsc4gz954ii2F6iZhmmT5OokD3nXy-Qd1n-49B8/s320/assalto.png" width="320" height="215" data-original-width="571" data-original-height="384" /></a></div>

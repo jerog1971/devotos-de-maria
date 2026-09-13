@@ -1,7 +1,7 @@
 ---
 title: "O drama dos homossexuais"
 date: 2018-08-16T18:44:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4K3t5AFRo9Y6Tml2ozAoCp9tBOZAg8O3tJVxLgPyk9zxZilf42whgqC_eYBphVwe67wreld4t9WgcLgWVs4khkB4KUzBQMMAlkHNL8UHRQurKVHabXiarDgd66XdScLDSGsJFXlNPsfs/s320/homossexual.png"
+heroImage: "/images/homossexual.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4K3t5AFRo9Y6Tml2ozAoCp9tBOZAg8O3tJVxLgPyk9zxZilf42whgqC_eYBphVwe67wreld4t9WgcLgWVs4khkB4KUzBQMMAlkHNL8UHRQurKVHabXiarDgd66XdScLDSGsJFXlNPsfs/s1600/homossexual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4K3t5AFRo9Y6Tml2ozAoCp9tBOZAg8O3tJVxLgPyk9zxZilf42whgqC_eYBphVwe67wreld4t9WgcLgWVs4khkB4KUzBQMMAlkHNL8UHRQurKVHabXiarDgd66XdScLDSGsJFXlNPsfs/s320/homossexual.png" width="318" height="320" data-original-width="152" data-original-height="153" /></a></div>

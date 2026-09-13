@@ -1,7 +1,7 @@
 ---
 title: "Dispersos pelos ares"
 date: 2023-12-01T18:56:00.007Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoRCa5AMHrIlCSxI_kRiQaSM3RzBIe-KvaHhGfyrRvV1bKykRXBZooJVAz3AGInVFrUZoEDzxrC6OB4QQOH7pjvj-ODU4yJ2FqPZVtkOrpbUt-dvqbdzghAo1Rk5_lVkmgtsC2LLBbxmHJefBJQvluunrslX4fBbHv1V6Lr6akQQFkNkySXkTTRq9blOw/s320/Dispersos%20pelos%20ares.png"
+heroImage: "/images/Dispersos pelos ares.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoRCa5AMHrIlCSxI_kRiQaSM3RzBIe-KvaHhGfyrRvV1bKykRXBZooJVAz3AGInVFrUZoEDzxrC6OB4QQOH7pjvj-ODU4yJ2FqPZVtkOrpbUt-dvqbdzghAo1Rk5_lVkmgtsC2LLBbxmHJefBJQvluunrslX4fBbHv1V6Lr6akQQFkNkySXkTTRq9blOw/s378/Dispersos%20pelos%20ares.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="314" data-original-width="378" height="266" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoRCa5AMHrIlCSxI_kRiQaSM3RzBIe-KvaHhGfyrRvV1bKykRXBZooJVAz3AGInVFrUZoEDzxrC6OB4QQOH7pjvj-ODU4yJ2FqPZVtkOrpbUt-dvqbdzghAo1Rk5_lVkmgtsC2LLBbxmHJefBJQvluunrslX4fBbHv1V6Lr6akQQFkNkySXkTTRq9blOw/s320/Dispersos%20pelos%20ares.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Não é contra homens de carne e osso que é a nossa batalha, mas

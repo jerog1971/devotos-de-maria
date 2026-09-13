@@ -1,7 +1,7 @@
 ---
 title: "O negócio é mandar tudo e todos para aquele lugar"
 date: 2021-01-06T15:09:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJTVbK7Gs-AVYZdBcaOOlPjA9Oc2NmYc37MGaGWq_Yqosfur_kS8tq7j5VO5xswxgXCx_f2p3B0AXITHzxjQjbpl_reAAyIL0_SQVGxH8EiUoNeND87ry3hodXOiPVAlVvh2Z1qoPrDE/s320/odeio.png"
+heroImage: "/images/odeio.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJTVbK7Gs-AVYZdBcaOOlPjA9Oc2NmYc37MGaGWq_Yqosfur_kS8tq7j5VO5xswxgXCx_f2p3B0AXITHzxjQjbpl_reAAyIL0_SQVGxH8EiUoNeND87ry3hodXOiPVAlVvh2Z1qoPrDE/s376/odeio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="355" data-original-width="376" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJTVbK7Gs-AVYZdBcaOOlPjA9Oc2NmYc37MGaGWq_Yqosfur_kS8tq7j5VO5xswxgXCx_f2p3B0AXITHzxjQjbpl_reAAyIL0_SQVGxH8EiUoNeND87ry3hodXOiPVAlVvh2Z1qoPrDE/s320/odeio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As pessoas não agem como gostaríamos, as coisas não são como

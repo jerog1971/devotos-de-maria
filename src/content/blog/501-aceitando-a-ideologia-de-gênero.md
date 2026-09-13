@@ -1,7 +1,7 @@
 ---
 title: "Aceitando a ideologia de gênero"
 date: 2017-12-08T16:39:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcJ_wZjFXRIruarOBadIGwTlr8LEIt8cuMaEBHOtnMr9SzSv4I8Cd9fbSE1udT2P-n2KPmXld3loNaMSQ_8PtkNhVOZx0ds-y9-D-D3MazvAhqhqF0csPheD0lXf7fpXT1ljt0wkRROQI/s320/fernanda_gentil.png"
+heroImage: "/images/fernanda_gentil.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcJ_wZjFXRIruarOBadIGwTlr8LEIt8cuMaEBHOtnMr9SzSv4I8Cd9fbSE1udT2P-n2KPmXld3loNaMSQ_8PtkNhVOZx0ds-y9-D-D3MazvAhqhqF0csPheD0lXf7fpXT1ljt0wkRROQI/s1600/fernanda_gentil.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcJ_wZjFXRIruarOBadIGwTlr8LEIt8cuMaEBHOtnMr9SzSv4I8Cd9fbSE1udT2P-n2KPmXld3loNaMSQ_8PtkNhVOZx0ds-y9-D-D3MazvAhqhqF0csPheD0lXf7fpXT1ljt0wkRROQI/s320/fernanda_gentil.png" width="318" height="320" data-original-width="210" data-original-height="211" /></a></div>

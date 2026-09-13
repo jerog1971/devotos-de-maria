@@ -1,7 +1,7 @@
 ---
 title: "Parte pra outra"
 date: 2017-03-09T15:21:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbxow0ywrk2WwLKhhS1ebw9ZYX7Q3Xct9MV2vD5aUPyVPV1l36q2op-7-uoQl6rEE6d4Rmaj7tRHV3aXRnhmOa0FvzcmbuNyRO-FXGduO-uRw25vHkDYlKfKo23WOnEIDsJnPcJUR42-w/s320/outra.png"
+heroImage: "/images/outra.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbxow0ywrk2WwLKhhS1ebw9ZYX7Q3Xct9MV2vD5aUPyVPV1l36q2op-7-uoQl6rEE6d4Rmaj7tRHV3aXRnhmOa0FvzcmbuNyRO-FXGduO-uRw25vHkDYlKfKo23WOnEIDsJnPcJUR42-w/s1600/outra.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbxow0ywrk2WwLKhhS1ebw9ZYX7Q3Xct9MV2vD5aUPyVPV1l36q2op-7-uoQl6rEE6d4Rmaj7tRHV3aXRnhmOa0FvzcmbuNyRO-FXGduO-uRw25vHkDYlKfKo23WOnEIDsJnPcJUR42-w/s320/outra.png" width="320" height="226" data-original-width="292" data-original-height="206" /></a></div>

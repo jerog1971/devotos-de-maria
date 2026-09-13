@@ -1,7 +1,7 @@
 ---
 title: "Não farei mais um aborto"
 date: 2016-08-11T14:23:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZtgYm8_GJGEKaz_fFQMyGs9njbgQM8fYTg8HXOXj4WDhaLcLB-rEcPgbO2VIixjHnc3izYVfyWxoz8AbzGojmJY_1PZsw5z5QgDSEz6H4hqaHpVWT2cpluXIHdlFiT6W2rGU6Rcy6bYE/s320/Anthony_Levatino.png"
+heroImage: "/images/Anthony_Levatino.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZtgYm8_GJGEKaz_fFQMyGs9njbgQM8fYTg8HXOXj4WDhaLcLB-rEcPgbO2VIixjHnc3izYVfyWxoz8AbzGojmJY_1PZsw5z5QgDSEz6H4hqaHpVWT2cpluXIHdlFiT6W2rGU6Rcy6bYE/s1600/Anthony_Levatino.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZtgYm8_GJGEKaz_fFQMyGs9njbgQM8fYTg8HXOXj4WDhaLcLB-rEcPgbO2VIixjHnc3izYVfyWxoz8AbzGojmJY_1PZsw5z5QgDSEz6H4hqaHpVWT2cpluXIHdlFiT6W2rGU6Rcy6bYE/s320/Anthony_Levatino.png" width="320" height="241" data-original-width="475" data-original-height="358" /></a></div>

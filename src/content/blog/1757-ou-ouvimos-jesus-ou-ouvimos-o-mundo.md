@@ -1,7 +1,7 @@
 ---
 title: "Ou ouvimos Jesus, ou ouvimos o mundo"
 date: 2016-05-30T14:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi3ONJNCOkBysiIyZ6BmRGHcpmCp1gbqfODm1s43ajq5oQ_Ks4Tcdfxb-U3gE4j8UCDfy_gHxaCDFvCUHcCrFdvjbogdWZp6_6SNs_mbr2s9UWDq7RdgC7SXQjqMUKkhHmqktFbsQm4wE/s320/estuprada.png"
+heroImage: "/images/estuprada.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi3ONJNCOkBysiIyZ6BmRGHcpmCp1gbqfODm1s43ajq5oQ_Ks4Tcdfxb-U3gE4j8UCDfy_gHxaCDFvCUHcCrFdvjbogdWZp6_6SNs_mbr2s9UWDq7RdgC7SXQjqMUKkhHmqktFbsQm4wE/s1600/estuprada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi3ONJNCOkBysiIyZ6BmRGHcpmCp1gbqfODm1s43ajq5oQ_Ks4Tcdfxb-U3gE4j8UCDfy_gHxaCDFvCUHcCrFdvjbogdWZp6_6SNs_mbr2s9UWDq7RdgC7SXQjqMUKkhHmqktFbsQm4wE/s320/estuprada.png" width="320" height="298" data-original-width="303" data-original-height="282" /></a></div>

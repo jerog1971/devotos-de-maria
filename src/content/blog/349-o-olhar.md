@@ -1,7 +1,7 @@
 ---
 title: "O olhar"
 date: 2020-05-08T15:09:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3BkthJ6egDBaItzD22AIoyumfOQn6Y7Z7kNwGUrIN8CgTJvtY-89QQD2-7tmctE95Ywy4VkROBcJvCyCRnFEsZpzTf-vinabakTxgxIjrXlyn0HsSqJ0G7ity_64SpOp9y3t6JLrptcY/s320/Olhar.jpg"
+heroImage: "/images/Olhar.jpg"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3BkthJ6egDBaItzD22AIoyumfOQn6Y7Z7kNwGUrIN8CgTJvtY-89QQD2-7tmctE95Ywy4VkROBcJvCyCRnFEsZpzTf-vinabakTxgxIjrXlyn0HsSqJ0G7ity_64SpOp9y3t6JLrptcY/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1200" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3BkthJ6egDBaItzD22AIoyumfOQn6Y7Z7kNwGUrIN8CgTJvtY-89QQD2-7tmctE95Ywy4VkROBcJvCyCRnFEsZpzTf-vinabakTxgxIjrXlyn0HsSqJ0G7ity_64SpOp9y3t6JLrptcY/s320/Olhar.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 5,28 – “Eu, porém (Jesus), vos digo: todo aquele que

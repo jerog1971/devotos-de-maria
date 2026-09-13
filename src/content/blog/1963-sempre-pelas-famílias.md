@@ -1,7 +1,7 @@
 ---
 title: "Sempre pelas Famílias"
 date: 2017-06-26T12:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizt88LzQmZRx2iT_8hvMWceXOiaohCtAXgr4GM2waorNizFinNOfbSyMKRxmzHiyeZrKKMDEwLYOPR8MGRYrQY2IwQ_DNU0yYtgC8lxh-w2kOXYDKl6dC1a9yLCWhXYBYYqMmZ_TIJMnE/s320/mimica.png"
+heroImage: "/images/Mimica.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizt88LzQmZRx2iT_8hvMWceXOiaohCtAXgr4GM2waorNizFinNOfbSyMKRxmzHiyeZrKKMDEwLYOPR8MGRYrQY2IwQ_DNU0yYtgC8lxh-w2kOXYDKl6dC1a9yLCWhXYBYYqMmZ_TIJMnE/s1600/mimica.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizt88LzQmZRx2iT_8hvMWceXOiaohCtAXgr4GM2waorNizFinNOfbSyMKRxmzHiyeZrKKMDEwLYOPR8MGRYrQY2IwQ_DNU0yYtgC8lxh-w2kOXYDKl6dC1a9yLCWhXYBYYqMmZ_TIJMnE/s320/mimica.png" width="320" height="295" data-original-width="353" data-original-height="325" /></a></div>

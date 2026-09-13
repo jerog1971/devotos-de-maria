@@ -1,7 +1,7 @@
 ---
 title: "O jogo do Charlie e a Fé Católica"
 date: 2016-07-12T11:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOrgAS_507lXJr5TEp1PaAJdbhxaMwo2r3Ba52UE_9xjRSMo1KdS0-iqrO-4wWhLWjkcI0YRn4BL5Q6b0YGJQfnjixm5KsU2F9J_CipT7t3jJNeuiMuPKRjByd0kt6VqYfdxFnb6ONL8/s320/charlie.png"
+heroImage: "/images/charlie.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOrgAS_507lXJr5TEp1PaAJdbhxaMwo2r3Ba52UE_9xjRSMo1KdS0-iqrO-4wWhLWjkcI0YRn4BL5Q6b0YGJQfnjixm5KsU2F9J_CipT7t3jJNeuiMuPKRjByd0kt6VqYfdxFnb6ONL8/s1600/charlie.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOrgAS_507lXJr5TEp1PaAJdbhxaMwo2r3Ba52UE_9xjRSMo1KdS0-iqrO-4wWhLWjkcI0YRn4BL5Q6b0YGJQfnjixm5KsU2F9J_CipT7t3jJNeuiMuPKRjByd0kt6VqYfdxFnb6ONL8/s320/charlie.png" width="320" height="265" data-original-width="202" data-original-height="167" /></a></div>

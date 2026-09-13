@@ -1,7 +1,7 @@
 ---
 title: "O número de meus inimigos só aumenta"
 date: 2019-12-09T20:24:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr19Y8fgv97wx2_abo5xwaE-CY_JwdwkM1xR_hHuO3Smu2rcbmVMpyly8HL9O_-unBmMl22_auc8DkCmml0eXeHI9Wdnr6MMEmU39sd-3Fl38-NU4M5dbA7fpL04gtuuVnXlpL8Osh8AQ/s320/inimigo.png"
+heroImage: "/images/artimanhas do inimigo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr19Y8fgv97wx2_abo5xwaE-CY_JwdwkM1xR_hHuO3Smu2rcbmVMpyly8HL9O_-unBmMl22_auc8DkCmml0eXeHI9Wdnr6MMEmU39sd-3Fl38-NU4M5dbA7fpL04gtuuVnXlpL8Osh8AQ/s1600/inimigo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="327" data-original-width="584" height="179" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr19Y8fgv97wx2_abo5xwaE-CY_JwdwkM1xR_hHuO3Smu2rcbmVMpyly8HL9O_-unBmMl22_auc8DkCmml0eXeHI9Wdnr6MMEmU39sd-3Fl38-NU4M5dbA7fpL04gtuuVnXlpL8Osh8AQ/s320/inimigo.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>“Bem-aventurados sereis quando vos caluniarem, quando vos perseguirem e disserem falsamente todo o mal contra vós por causa de mim. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus, pois assim perseguiram os profetas que vieram antes de vós” – Mateus 5,11-12. Lembrai-vos da palavra que vos disse: O servo não é maior do que o seu senhor. Se me perseguiram, também vos hão de perseguir. Se guardaram a minha palavra, hão de guardar também a vossa. Mas vos farão tudo isso por causa do meu nome, porque não conhecem aquele que me enviou” – João 15,20-21.

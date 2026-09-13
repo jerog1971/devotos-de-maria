@@ -1,7 +1,7 @@
 ---
 title: "O que fazemos nessa vida tem consequências eternas"
 date: 2019-12-09T16:13:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgra8SLtdcp1YngC7w_kyuY5t-vxRgz-dmHNMNoVQVIPTM7SPh_MrOYTcIKI7XfR3pITH-6q0d1Ig5B2T4fzOZTX9gTgC0vjx1h34Nu7EyVblX3bV4nArP7-b9fDF2EcERiyIdPkeyzTdE/s320/escolher.png"
+heroImage: "/images/escolher.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgra8SLtdcp1YngC7w_kyuY5t-vxRgz-dmHNMNoVQVIPTM7SPh_MrOYTcIKI7XfR3pITH-6q0d1Ig5B2T4fzOZTX9gTgC0vjx1h34Nu7EyVblX3bV4nArP7-b9fDF2EcERiyIdPkeyzTdE/s1600/escolher.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgra8SLtdcp1YngC7w_kyuY5t-vxRgz-dmHNMNoVQVIPTM7SPh_MrOYTcIKI7XfR3pITH-6q0d1Ig5B2T4fzOZTX9gTgC0vjx1h34Nu7EyVblX3bV4nArP7-b9fDF2EcERiyIdPkeyzTdE/s320/escolher.png" width="320" height="179" data-original-width="478" data-original-height="267" /></a></div>

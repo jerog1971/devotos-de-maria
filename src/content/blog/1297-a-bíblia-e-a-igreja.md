@@ -1,7 +1,7 @@
 ---
 title: "A bíblia e a igreja"
 date: 2020-04-18T17:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjStODC8KZI6HOLIIMH8nAOeIRRTIwjcKce5j1VvOOX4TgN2nvYWnyVabIOgcVPocz2MABR3pS45_aXA3vvTPcNBRFcLBtIxHILAKEpuP4h3ilzpGl6T87Q0iVPq_Kudbz140vN_Ao9WNc/s200/biblia.png"
+heroImage: "/images/biblia.png"
 ---
 
 <h2>A estrutura histórica da bíblia</h2>

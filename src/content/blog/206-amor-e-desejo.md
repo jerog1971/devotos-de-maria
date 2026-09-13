@@ -1,7 +1,7 @@
 ---
 title: "Amor e Desejo"
 date: 2016-04-27T18:08:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGbMNQtXTtzQNmUjGKVJTP8wRZexwUVUoPtyann45JB4UTTCzY7fKNaJr7v5xvDqQJM1WJbZDRGq2nv0ISkYhwUlje2ize6UPbp9g7TdNxt7GyNysoYvxi51-vQkYsXqaCBrwFfImq3mw/s320/na_cama.png"
+heroImage: "/images/na_cama.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGbMNQtXTtzQNmUjGKVJTP8wRZexwUVUoPtyann45JB4UTTCzY7fKNaJr7v5xvDqQJM1WJbZDRGq2nv0ISkYhwUlje2ize6UPbp9g7TdNxt7GyNysoYvxi51-vQkYsXqaCBrwFfImq3mw/s1600/na_cama.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGbMNQtXTtzQNmUjGKVJTP8wRZexwUVUoPtyann45JB4UTTCzY7fKNaJr7v5xvDqQJM1WJbZDRGq2nv0ISkYhwUlje2ize6UPbp9g7TdNxt7GyNysoYvxi51-vQkYsXqaCBrwFfImq3mw/s320/na_cama.png" width="320" height="297" data-original-width="288" data-original-height="267" /></a></div>

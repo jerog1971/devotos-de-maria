@@ -1,7 +1,7 @@
 ---
 title: "O milagre de Santarém"
 date: 2016-08-22T17:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMU5RJcZdZgCcJZP0qT4Wv8jr8E15-O1Zoez6juVwqDpc4w9S1s9OrwBNGOBYyp-kohiDK633jRPIrjQq7diqK-sBtP_zGyrgZXMDsDJLaPSJ7NJePdsUrUG5vJZPwoxory1NP58Y71OY/s320/santarem.png"
+heroImage: "/images/santarem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMU5RJcZdZgCcJZP0qT4Wv8jr8E15-O1Zoez6juVwqDpc4w9S1s9OrwBNGOBYyp-kohiDK633jRPIrjQq7diqK-sBtP_zGyrgZXMDsDJLaPSJ7NJePdsUrUG5vJZPwoxory1NP58Y71OY/s1600/santarem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMU5RJcZdZgCcJZP0qT4Wv8jr8E15-O1Zoez6juVwqDpc4w9S1s9OrwBNGOBYyp-kohiDK633jRPIrjQq7diqK-sBtP_zGyrgZXMDsDJLaPSJ7NJePdsUrUG5vJZPwoxory1NP58Y71OY/s320/santarem.png" width="320" height="308" data-original-width="342" data-original-height="329" /></a></div>

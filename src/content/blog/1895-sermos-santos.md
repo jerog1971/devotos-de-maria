@@ -1,7 +1,7 @@
 ---
 title: "Sermos santos"
 date: 2016-01-04T12:11:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjnRht4VKp3fdALATjGS46Bi7TXV9_GPr8NzT533no4tMF4ZaWzYTpJBdcndNgALhu7z4DGZE5vmE16LhrGyXyPZIjo6ZN2q7INQhwvGOVQb7G03cGXZ6gHcZ1zEPzb-XbHjfhZgVZ54/s320/santos.png"
+heroImage: "/images/a alegria dos santos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjnRht4VKp3fdALATjGS46Bi7TXV9_GPr8NzT533no4tMF4ZaWzYTpJBdcndNgALhu7z4DGZE5vmE16LhrGyXyPZIjo6ZN2q7INQhwvGOVQb7G03cGXZ6gHcZ1zEPzb-XbHjfhZgVZ54/s1600/santos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjnRht4VKp3fdALATjGS46Bi7TXV9_GPr8NzT533no4tMF4ZaWzYTpJBdcndNgALhu7z4DGZE5vmE16LhrGyXyPZIjo6ZN2q7INQhwvGOVQb7G03cGXZ6gHcZ1zEPzb-XbHjfhZgVZ54/s320/santos.png" width="320" height="210" data-original-width="679" data-original-height="446" /></a></div>

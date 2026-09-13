@@ -1,7 +1,7 @@
 ---
 title: "Criticar e Xingar"
 date: 2021-06-28T19:47:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHT_MqIYmBaEjOVCJOGEfGi5ZmCNnQyRJxE8G8aY2DNLKpM4rogk1as-4XxH1S4A7aTstC6X_UrlY2998BT0GDdRGk_4W3W_eBYG5zXbFTnio-b-OwzceiikgBfZIycAXajipu737boDk/s320/criticar+e+xingar.png"
+heroImage: "/images/xingar.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHT_MqIYmBaEjOVCJOGEfGi5ZmCNnQyRJxE8G8aY2DNLKpM4rogk1as-4XxH1S4A7aTstC6X_UrlY2998BT0GDdRGk_4W3W_eBYG5zXbFTnio-b-OwzceiikgBfZIycAXajipu737boDk/s616/criticar+e+xingar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="616" data-original-width="564" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHT_MqIYmBaEjOVCJOGEfGi5ZmCNnQyRJxE8G8aY2DNLKpM4rogk1as-4XxH1S4A7aTstC6X_UrlY2998BT0GDdRGk_4W3W_eBYG5zXbFTnio-b-OwzceiikgBfZIycAXajipu737boDk/s320/criticar+e+xingar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ao que se sabe, podemos presumir que ninguém neste mundo

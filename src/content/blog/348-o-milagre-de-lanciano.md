@@ -1,7 +1,7 @@
 ---
 title: "O milagre de Lanciano"
 date: 2015-12-22T11:33:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS5GAWAcWYwMf3S_NoGVu4Lti9kiaLcUoDsQ6moPjskN2N7YoIScoQNxMS4TSYgc0MMEudzaJrAzNCtvkfbPemKeRAe3DOXzmEmJxfpWD2X_MxZmQ5RH9_qtA0iYSzV_Av7szau7DYGp8/s320/lanciano.png"
+heroImage: "/images/lanciano.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS5GAWAcWYwMf3S_NoGVu4Lti9kiaLcUoDsQ6moPjskN2N7YoIScoQNxMS4TSYgc0MMEudzaJrAzNCtvkfbPemKeRAe3DOXzmEmJxfpWD2X_MxZmQ5RH9_qtA0iYSzV_Av7szau7DYGp8/s1600/lanciano.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS5GAWAcWYwMf3S_NoGVu4Lti9kiaLcUoDsQ6moPjskN2N7YoIScoQNxMS4TSYgc0MMEudzaJrAzNCtvkfbPemKeRAe3DOXzmEmJxfpWD2X_MxZmQ5RH9_qtA0iYSzV_Av7szau7DYGp8/s320/lanciano.png" width="220" height="320" data-original-width="355" data-original-height="516" /></a></div>

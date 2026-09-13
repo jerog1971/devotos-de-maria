@@ -1,7 +1,7 @@
 ---
 title: "Recordações e mensagens"
 date: 2023-04-25T21:37:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhys2O64uGmyYEEdMy32bCu1Ed1OmCqSOftWjUYR-5H012GFD3duCa4K6wUiB14d_tsYnMaAxVRPhBBeM2XFstnl1978p1b3p_ga51pI7DoQxBGmPGQi7JseMEDip5P8Ne5nxzgdtJ8Lzi7sMWoSjWmSnj5ILiZdnaacOVfWioUou6bpOkhHauKOuGb/w440-h220/Recorda%C3%A7%C3%B5es%20e%20mensagens.png"
+heroImage: "/images/Recordações e mensagens.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhys2O64uGmyYEEdMy32bCu1Ed1OmCqSOftWjUYR-5H012GFD3duCa4K6wUiB14d_tsYnMaAxVRPhBBeM2XFstnl1978p1b3p_ga51pI7DoQxBGmPGQi7JseMEDip5P8Ne5nxzgdtJ8Lzi7sMWoSjWmSnj5ILiZdnaacOVfWioUou6bpOkhHauKOuGb/s767/Recorda%C3%A7%C3%B5es%20e%20mensagens.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="767" height="220" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhys2O64uGmyYEEdMy32bCu1Ed1OmCqSOftWjUYR-5H012GFD3duCa4K6wUiB14d_tsYnMaAxVRPhBBeM2XFstnl1978p1b3p_ga51pI7DoQxBGmPGQi7JseMEDip5P8Ne5nxzgdtJ8Lzi7sMWoSjWmSnj5ILiZdnaacOVfWioUou6bpOkhHauKOuGb/w440-h220/Recorda%C3%A7%C3%B5es%20e%20mensagens.png" width="440" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já comentamos aqui neste site sobre a possibilidade de se

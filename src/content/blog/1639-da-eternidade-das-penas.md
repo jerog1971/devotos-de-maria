@@ -1,7 +1,7 @@
 ---
 title: "Da Eternidade das Penas"
 date: 2016-07-08T11:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRekXwvfRO2z3NJwAlHdEN3iR4JT-h8p6yCfaejM1rpyvMU96XP-44L4TQQiS8SsPrPV_DBnrVY9qCCcxoitPWoeVGj2x4xJVyYaPd2wYcwoyPZRxtPIR1H1QMmNeZA-8IG72za0SPAKQ/s320/penas_do_inferno.png"
+heroImage: "/images/penas_do_inferno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRekXwvfRO2z3NJwAlHdEN3iR4JT-h8p6yCfaejM1rpyvMU96XP-44L4TQQiS8SsPrPV_DBnrVY9qCCcxoitPWoeVGj2x4xJVyYaPd2wYcwoyPZRxtPIR1H1QMmNeZA-8IG72za0SPAKQ/s1600/penas_do_inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRekXwvfRO2z3NJwAlHdEN3iR4JT-h8p6yCfaejM1rpyvMU96XP-44L4TQQiS8SsPrPV_DBnrVY9qCCcxoitPWoeVGj2x4xJVyYaPd2wYcwoyPZRxtPIR1H1QMmNeZA-8IG72za0SPAKQ/s320/penas_do_inferno.png" width="221" height="320" data-original-width="274" data-original-height="397" /></a></div>

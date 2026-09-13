@@ -1,7 +1,7 @@
 ---
 title: "Derrubado antigo erro protestante"
 date: 2015-11-19T11:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAb5CCcwKLq06_V6s9jm14K3OnQHd3vSR8JPujWLpsKju4FcmKftRalhMxLn9wXUzPIWUXxlixcE91F5GTdhk76BJEofHCMqSkQ_OplMbGgEzrzpW98xwAueaqwqC_uEH2jDR_PE3pXD4/s320/biblia.png"
+heroImage: "/images/biblia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAb5CCcwKLq06_V6s9jm14K3OnQHd3vSR8JPujWLpsKju4FcmKftRalhMxLn9wXUzPIWUXxlixcE91F5GTdhk76BJEofHCMqSkQ_OplMbGgEzrzpW98xwAueaqwqC_uEH2jDR_PE3pXD4/s1600/biblia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAb5CCcwKLq06_V6s9jm14K3OnQHd3vSR8JPujWLpsKju4FcmKftRalhMxLn9wXUzPIWUXxlixcE91F5GTdhk76BJEofHCMqSkQ_OplMbGgEzrzpW98xwAueaqwqC_uEH2jDR_PE3pXD4/s320/biblia.png" width="262" height="320" data-original-width="262" data-original-height="320" /></a></div>

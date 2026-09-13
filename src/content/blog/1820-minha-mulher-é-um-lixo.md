@@ -1,7 +1,7 @@
 ---
 title: "Minha mulher é um lixo"
 date: 2017-05-12T00:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOSDSrH6rAYHPbkj6vjl65qEonEmr0qUqxWw6L5iK37dPOgTXZhvjboPeWrBrLaf83eZMki9La1cQhBeDzwIpbxE2gZeVj-r3mBvnFlBnNICbfRA_m7P8-2FaQTgGRmOA0_dCueXocqE/s320/mulher.png"
+heroImage: "/images/comer_a _mulher.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOSDSrH6rAYHPbkj6vjl65qEonEmr0qUqxWw6L5iK37dPOgTXZhvjboPeWrBrLaf83eZMki9La1cQhBeDzwIpbxE2gZeVj-r3mBvnFlBnNICbfRA_m7P8-2FaQTgGRmOA0_dCueXocqE/s1600/mulher.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="511" data-original-width="506" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOSDSrH6rAYHPbkj6vjl65qEonEmr0qUqxWw6L5iK37dPOgTXZhvjboPeWrBrLaf83eZMki9La1cQhBeDzwIpbxE2gZeVj-r3mBvnFlBnNICbfRA_m7P8-2FaQTgGRmOA0_dCueXocqE/s320/mulher.png" width="317" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Missões terrenas"
 date: 2024-08-12T17:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheB-uNJ7aUc-6zF9zhyzZ7BiP8xHb-s3iny0oBeDqJsePN394XTcUfmactFqiqZvO7DRIdxUOVQ-wVy0OkvKIVHICqwb0RrIM1-Eg4aDLITObhjJwMQfs2hDb9r9ylbcwRsY1lMzX65-oBwYh9NU9f61x1WY9bc7fGQBhTnlfntKjPGZMlALSUi-RsIOQ/s320/miss%C3%B5es%20terrenas.png"
+heroImage: "/images/missões terrenas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheB-uNJ7aUc-6zF9zhyzZ7BiP8xHb-s3iny0oBeDqJsePN394XTcUfmactFqiqZvO7DRIdxUOVQ-wVy0OkvKIVHICqwb0RrIM1-Eg4aDLITObhjJwMQfs2hDb9r9ylbcwRsY1lMzX65-oBwYh9NU9f61x1WY9bc7fGQBhTnlfntKjPGZMlALSUi-RsIOQ/s650/miss%C3%B5es%20terrenas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="645" data-original-width="650" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheB-uNJ7aUc-6zF9zhyzZ7BiP8xHb-s3iny0oBeDqJsePN394XTcUfmactFqiqZvO7DRIdxUOVQ-wVy0OkvKIVHICqwb0RrIM1-Eg4aDLITObhjJwMQfs2hDb9r9ylbcwRsY1lMzX65-oBwYh9NU9f61x1WY9bc7fGQBhTnlfntKjPGZMlALSUi-RsIOQ/s320/miss%C3%B5es%20terrenas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus de vez em quando lança para seus filhos alguns pedidos;

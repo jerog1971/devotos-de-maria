@@ -1,7 +1,7 @@
 ---
 title: "Preocupações desnecessárias"
 date: 2024-02-15T17:02:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraUgg752VnWNcDBzvNta9-leHrNsHxwnlmj6pkPHWsta9PRIXNVpssHJOBvOa9fNLbik4fX2vnmflH46fsk4XQ-OrVLm1jixC70eCnViUHsCMLc5vJHMWsNru7CN3jO_3ScDROqQSlYI9UOA1xAtz9FSHRAttoDcC3klFWZrfkb8fJkqubnlA-Cv2LT4/s320/preocupa%C3%A7%C3%B5es%20desnecess%C3%A1rias.png"
+heroImage: "/images/preocupações desnecessárias.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraUgg752VnWNcDBzvNta9-leHrNsHxwnlmj6pkPHWsta9PRIXNVpssHJOBvOa9fNLbik4fX2vnmflH46fsk4XQ-OrVLm1jixC70eCnViUHsCMLc5vJHMWsNru7CN3jO_3ScDROqQSlYI9UOA1xAtz9FSHRAttoDcC3klFWZrfkb8fJkqubnlA-Cv2LT4/s591/preocupa%C3%A7%C3%B5es%20desnecess%C3%A1rias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="591" height="218" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraUgg752VnWNcDBzvNta9-leHrNsHxwnlmj6pkPHWsta9PRIXNVpssHJOBvOa9fNLbik4fX2vnmflH46fsk4XQ-OrVLm1jixC70eCnViUHsCMLc5vJHMWsNru7CN3jO_3ScDROqQSlYI9UOA1xAtz9FSHRAttoDcC3klFWZrfkb8fJkqubnlA-Cv2LT4/s320/preocupa%C3%A7%C3%B5es%20desnecess%C3%A1rias.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na palavra de Deus encontramos muitos ensinamentos difíceis

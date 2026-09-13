@@ -1,7 +1,7 @@
 ---
 title: "Aliança de Sangue"
 date: 2017-05-25T18:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLomg5gAdYmcfQCdHdNzQ8V4dvlwL6un2Sk1K5MtnAOqlbHPwW6czADPZp3UujSxb3ho1_3MCEoE1RCHgSxLTywhB9e5wXkruLpfrXfSmjMw3-YSfijyfqXEkJh6qTwJDnX_VTyfxTjpo/s320/familia+2016.jpg"
+heroImage: "/images/familia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLomg5gAdYmcfQCdHdNzQ8V4dvlwL6un2Sk1K5MtnAOqlbHPwW6czADPZp3UujSxb3ho1_3MCEoE1RCHgSxLTywhB9e5wXkruLpfrXfSmjMw3-YSfijyfqXEkJh6qTwJDnX_VTyfxTjpo/s1600/familia+2016.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLomg5gAdYmcfQCdHdNzQ8V4dvlwL6un2Sk1K5MtnAOqlbHPwW6czADPZp3UujSxb3ho1_3MCEoE1RCHgSxLTywhB9e5wXkruLpfrXfSmjMw3-YSfijyfqXEkJh6qTwJDnX_VTyfxTjpo/s320/familia+2016.jpg" width="320" height="211" data-original-width="1600" data-original-height="1055" /></a></div>

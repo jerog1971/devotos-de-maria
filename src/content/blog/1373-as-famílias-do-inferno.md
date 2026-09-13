@@ -1,7 +1,7 @@
 ---
 title: "As famílias do inferno"
 date: 2017-08-10T18:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHi8cLhbeTBEbhPjRLF1kVC4aPYfSfqoG6tDAKZuz1o8kYfQFfVcjV1oA4aRDRN9NFlF2Ae6erFdKXjonzdx-kvq3MRDTXHPHqhUmPh-mQg77M8ezGmIFldPIAQt-UoHYXv2WKbwKwGQ/s320/inferno.png"
+heroImage: "/images/João Bosco e o Inferno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHi8cLhbeTBEbhPjRLF1kVC4aPYfSfqoG6tDAKZuz1o8kYfQFfVcjV1oA4aRDRN9NFlF2Ae6erFdKXjonzdx-kvq3MRDTXHPHqhUmPh-mQg77M8ezGmIFldPIAQt-UoHYXv2WKbwKwGQ/s1600/inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHi8cLhbeTBEbhPjRLF1kVC4aPYfSfqoG6tDAKZuz1o8kYfQFfVcjV1oA4aRDRN9NFlF2Ae6erFdKXjonzdx-kvq3MRDTXHPHqhUmPh-mQg77M8ezGmIFldPIAQt-UoHYXv2WKbwKwGQ/s320/inferno.png" width="320" height="319" data-original-width="302" data-original-height="301" /></a></div>

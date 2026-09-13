@@ -1,7 +1,7 @@
 ---
 title: "Terremoto na Itália"
 date: 2016-08-30T17:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn2fjHqEiG6cjSxDofA7gBmz1XdHPMMlTYI8mjGBtpiA8OsNeM-srQabgspbSLrS-iK7hnENlXje9bhHl21x1Ka6Jue5LGdryQODF2gC3fqrUFGfS6uvv0MQNPohUTE0Ljl8S3TMKTccg/s320/terremoto.png"
+heroImage: "/images/terremoto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn2fjHqEiG6cjSxDofA7gBmz1XdHPMMlTYI8mjGBtpiA8OsNeM-srQabgspbSLrS-iK7hnENlXje9bhHl21x1Ka6Jue5LGdryQODF2gC3fqrUFGfS6uvv0MQNPohUTE0Ljl8S3TMKTccg/s1600/terremoto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn2fjHqEiG6cjSxDofA7gBmz1XdHPMMlTYI8mjGBtpiA8OsNeM-srQabgspbSLrS-iK7hnENlXje9bhHl21x1Ka6Jue5LGdryQODF2gC3fqrUFGfS6uvv0MQNPohUTE0Ljl8S3TMKTccg/s320/terremoto.png" width="320" height="300" data-original-width="530" data-original-height="497" /></a></div>

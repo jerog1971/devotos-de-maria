@@ -1,7 +1,7 @@
 ---
 title: "Santa Teresa de Calcutá"
 date: 2019-04-15T19:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw34rVfzYCacNdqJSq-gJ-X3mib-HWmFVQRXkb34l_sf1bgAFHZvGImDh135AgTsIjxRs0Ye3z93tuOM356t7eIASPYK6QqL95nT9NL3XwwVOJ7b9TbvlI6qUKWLZi2mA3xu8Lf_Mmy0/s320/calcuta2.png"
+heroImage: "/images/calcuta2.png"
 ---
 
 <!DOCTYPE html>

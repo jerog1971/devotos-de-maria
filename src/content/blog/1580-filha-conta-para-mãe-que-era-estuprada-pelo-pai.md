@@ -1,7 +1,7 @@
 ---
 title: "Filha conta para mãe que era estuprada pelo pai"
 date: 2016-06-23T17:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5_x6xtWDzDSO3sxVI-wpPa0Bv2SxlxwPvUVN2zTmXWMkS2vFuHnQ4GdBkXHOwajbdj5bAj77P5Y90eUvz498CLMmh1zv88FtdVPfwV-IqkCUoP0pX8TmtTlvRohV4vmHct2TYrC8EIQ/s320/carta.png"
+heroImage: "/images/carta.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5_x6xtWDzDSO3sxVI-wpPa0Bv2SxlxwPvUVN2zTmXWMkS2vFuHnQ4GdBkXHOwajbdj5bAj77P5Y90eUvz498CLMmh1zv88FtdVPfwV-IqkCUoP0pX8TmtTlvRohV4vmHct2TYrC8EIQ/s1600/carta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5_x6xtWDzDSO3sxVI-wpPa0Bv2SxlxwPvUVN2zTmXWMkS2vFuHnQ4GdBkXHOwajbdj5bAj77P5Y90eUvz498CLMmh1zv88FtdVPfwV-IqkCUoP0pX8TmtTlvRohV4vmHct2TYrC8EIQ/s320/carta.png" width="320" height="224" data-original-width="584" data-original-height="409" /></a></div>

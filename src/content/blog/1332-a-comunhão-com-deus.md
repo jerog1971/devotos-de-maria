@@ -1,7 +1,7 @@
 ---
 title: "A comunhão com Deus"
 date: 2020-04-05T14:06:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR9q1XQAQtefYJT8aBX4YArz3ZmcIuDkMam1jI53zDAfNeHg64zeOStSxsAozRC8Q56x1oRYSpM-tjb2I5kMUTyeVysDC79zr-UL5N0CsuD5DaSuwANKkJwsF7XPP-heqjz22i-YDYbks/s320/testemunho.png"
+heroImage: "/images/testemunho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR9q1XQAQtefYJT8aBX4YArz3ZmcIuDkMam1jI53zDAfNeHg64zeOStSxsAozRC8Q56x1oRYSpM-tjb2I5kMUTyeVysDC79zr-UL5N0CsuD5DaSuwANKkJwsF7XPP-heqjz22i-YDYbks/s1600/testemunho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR9q1XQAQtefYJT8aBX4YArz3ZmcIuDkMam1jI53zDAfNeHg64zeOStSxsAozRC8Q56x1oRYSpM-tjb2I5kMUTyeVysDC79zr-UL5N0CsuD5DaSuwANKkJwsF7XPP-heqjz22i-YDYbks/s320/testemunho.png" width="320" height="298" data-original-width="171" data-original-height="159" /></a></div>

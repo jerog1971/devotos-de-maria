@@ -1,7 +1,7 @@
 ---
 title: "Prioridades"
 date: 2018-09-05T16:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSzP93J_nIFE9e8GXmPTOUGWWquGxVAgJPsDsshaPCEztApSq_De3IO1h5gTEfTpwwUiYOC6qPddX-1eeSB7XFb9BwDfnW1knMW1EvdE1-J0hv1iIKvKv1HbaXNZrbUNF41EaqY86NGqM/s320/prioridade.png"
+heroImage: "/images/prioridade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSzP93J_nIFE9e8GXmPTOUGWWquGxVAgJPsDsshaPCEztApSq_De3IO1h5gTEfTpwwUiYOC6qPddX-1eeSB7XFb9BwDfnW1knMW1EvdE1-J0hv1iIKvKv1HbaXNZrbUNF41EaqY86NGqM/s1600/prioridade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSzP93J_nIFE9e8GXmPTOUGWWquGxVAgJPsDsshaPCEztApSq_De3IO1h5gTEfTpwwUiYOC6qPddX-1eeSB7XFb9BwDfnW1knMW1EvdE1-J0hv1iIKvKv1HbaXNZrbUNF41EaqY86NGqM/s320/prioridade.png" width="320" height="317" data-original-width="585" data-original-height="579" /></a></div>

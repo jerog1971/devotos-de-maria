@@ -1,7 +1,7 @@
 ---
 title: "Rompendo com o passado"
 date: 2021-08-24T15:46:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfZUdRdlZXPuGO3paiflMWIA1PRCel3p9YNICIHZnIbI9i1ax3ZKT0DqnyLmE5s4jhXJTlYjEl66Z0QiBUPlDjog6lC2uL8LAwN5uuYIJDvkpHqu82fs2CM0xi6ggTLOl67FBg-WOYZb0/s320/rompendo+com+o+passado.png"
+heroImage: "/images/passado.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfZUdRdlZXPuGO3paiflMWIA1PRCel3p9YNICIHZnIbI9i1ax3ZKT0DqnyLmE5s4jhXJTlYjEl66Z0QiBUPlDjog6lC2uL8LAwN5uuYIJDvkpHqu82fs2CM0xi6ggTLOl67FBg-WOYZb0/s624/rompendo+com+o+passado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="610" data-original-width="624" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfZUdRdlZXPuGO3paiflMWIA1PRCel3p9YNICIHZnIbI9i1ax3ZKT0DqnyLmE5s4jhXJTlYjEl66Z0QiBUPlDjog6lC2uL8LAwN5uuYIJDvkpHqu82fs2CM0xi6ggTLOl67FBg-WOYZb0/s320/rompendo+com+o+passado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A química dos pecados se instala por toda a parte no ser

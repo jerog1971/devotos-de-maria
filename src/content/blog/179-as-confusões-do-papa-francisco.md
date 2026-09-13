@@ -1,7 +1,7 @@
 ---
 title: "As confusões do papa Francisco"
 date: 2018-01-11T17:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_UfnivNCawdLN0Q6x9uTMb1XgFmOd7C1CoIuEcMZG-plQIExRxWKT_0x1I6nSOv0ohRLC0cdLKSkibMExfc3zdjC4fhM722Md9he73BAVyOPGyAShyphenhyphenvI2DzdeKi6CZzDn6qlflzpOjg/s320/cardeais.png"
+heroImage: "/images/cardeais.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_UfnivNCawdLN0Q6x9uTMb1XgFmOd7C1CoIuEcMZG-plQIExRxWKT_0x1I6nSOv0ohRLC0cdLKSkibMExfc3zdjC4fhM722Md9he73BAVyOPGyAShyphenhyphenvI2DzdeKi6CZzDn6qlflzpOjg/s1600/cardeais.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_UfnivNCawdLN0Q6x9uTMb1XgFmOd7C1CoIuEcMZG-plQIExRxWKT_0x1I6nSOv0ohRLC0cdLKSkibMExfc3zdjC4fhM722Md9he73BAVyOPGyAShyphenhyphenvI2DzdeKi6CZzDn6qlflzpOjg/s320/cardeais.png" width="320" height="141" data-original-width="775" data-original-height="341" /></a></div>

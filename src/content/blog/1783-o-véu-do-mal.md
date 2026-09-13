@@ -1,7 +1,7 @@
 ---
 title: "O véu do mal"
 date: 2022-10-04T19:16:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBd6IM56TIx-UbdxCQf4ol3fvI3J6QbI5a5OwimbE4akjGLC9xLJFcASlc8RPbcuh1VSmVXWU34UuE2o_V-Oabj9_DHhYbVoNy4WITqGpWRV6mqtcQh9FgOUbE1GxaRKQ9SFVJiYh_v2G5IwTcD-HxecT1RqhNg9rDrTQIl4PWwSHHyGmHNMd1_2z/s320/o%20v%C3%A9u%20do%20mal.png"
+heroImage: "/images/mal.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBd6IM56TIx-UbdxCQf4ol3fvI3J6QbI5a5OwimbE4akjGLC9xLJFcASlc8RPbcuh1VSmVXWU34UuE2o_V-Oabj9_DHhYbVoNy4WITqGpWRV6mqtcQh9FgOUbE1GxaRKQ9SFVJiYh_v2G5IwTcD-HxecT1RqhNg9rDrTQIl4PWwSHHyGmHNMd1_2z/s468/o%20v%C3%A9u%20do%20mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="453" data-original-width="468" height="310" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBd6IM56TIx-UbdxCQf4ol3fvI3J6QbI5a5OwimbE4akjGLC9xLJFcASlc8RPbcuh1VSmVXWU34UuE2o_V-Oabj9_DHhYbVoNy4WITqGpWRV6mqtcQh9FgOUbE1GxaRKQ9SFVJiYh_v2G5IwTcD-HxecT1RqhNg9rDrTQIl4PWwSHHyGmHNMd1_2z/s320/o%20v%C3%A9u%20do%20mal.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mal existe e se personifica na pessoa do demônio; eis que

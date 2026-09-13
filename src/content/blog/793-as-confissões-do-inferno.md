@@ -1,7 +1,7 @@
 ---
 title: "As Confissões do Inferno"
 date: 2017-08-23T14:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZY5VgpySWvoA36uwXBkkmJg5Z6ZJzFapdxe35TlR5-tC9wBQOjc2Dfwn-k3fhCo7xfXjlOnbtJ_Mpuy4hZlYqlYZGN9tK0vT4DyPUYRq121JN5BIlFaoZroTWyfX102CNYmz2Co3MSA/s320/amorth.png"
+heroImage: "/images/amorth.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZY5VgpySWvoA36uwXBkkmJg5Z6ZJzFapdxe35TlR5-tC9wBQOjc2Dfwn-k3fhCo7xfXjlOnbtJ_Mpuy4hZlYqlYZGN9tK0vT4DyPUYRq121JN5BIlFaoZroTWyfX102CNYmz2Co3MSA/s1600/amorth.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXZY5VgpySWvoA36uwXBkkmJg5Z6ZJzFapdxe35TlR5-tC9wBQOjc2Dfwn-k3fhCo7xfXjlOnbtJ_Mpuy4hZlYqlYZGN9tK0vT4DyPUYRq121JN5BIlFaoZroTWyfX102CNYmz2Co3MSA/s320/amorth.png" width="221" height="320" data-original-width="197" data-original-height="285" /></a></div>

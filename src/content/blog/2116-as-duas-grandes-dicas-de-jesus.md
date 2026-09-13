@@ -1,7 +1,7 @@
 ---
 title: "As duas grandes dicas de Jesus"
 date: 2022-03-31T19:17:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdKh3uMsZkEiEMFJZD4Bh203rJl6UQnR9429ibslC9dntYPOCw796fNs4FEsb6jpomRUrjdR4tad9z5LAoq8jzN_qjMA5ghkOHC-eLhF678_kR8QHol0MezsO7gjyCCkSbRzFOrzBTdHYqgcLHtbMxIlLjp5YED9AlcT60F4gERSETOfsjvyLcX--r/s320/barco.png"
+heroImage: "/images/barco.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdKh3uMsZkEiEMFJZD4Bh203rJl6UQnR9429ibslC9dntYPOCw796fNs4FEsb6jpomRUrjdR4tad9z5LAoq8jzN_qjMA5ghkOHC-eLhF678_kR8QHol0MezsO7gjyCCkSbRzFOrzBTdHYqgcLHtbMxIlLjp5YED9AlcT60F4gERSETOfsjvyLcX--r/s393/barco.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="297" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdKh3uMsZkEiEMFJZD4Bh203rJl6UQnR9429ibslC9dntYPOCw796fNs4FEsb6jpomRUrjdR4tad9z5LAoq8jzN_qjMA5ghkOHC-eLhF678_kR8QHol0MezsO7gjyCCkSbRzFOrzBTdHYqgcLHtbMxIlLjp5YED9AlcT60F4gERSETOfsjvyLcX--r/s320/barco.png" width="242" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muita coisa aprendemos da boca e do exemplo de nosso

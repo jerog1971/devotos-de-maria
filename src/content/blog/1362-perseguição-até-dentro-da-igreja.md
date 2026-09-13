@@ -1,7 +1,7 @@
 ---
 title: "Perseguição até dentro da Igreja"
 date: 2017-09-01T14:53:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvxKVNVZzLHovLqBTwx9k81cj_Z6ADpO34k-qPt0QycbKKj6m8ko4D32d-b3J3SV9t3aGhIa7cfbRmdpqKlZAcln4VGo3KFNH7GNqYaDfxz4IYH5mpeDtJO68AT7BJsa_zdzHGAl2bpk/s320/padre_Rodrigo_Maria.png"
+heroImage: "/images/padre_Rodrigo_Maria.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvxKVNVZzLHovLqBTwx9k81cj_Z6ADpO34k-qPt0QycbKKj6m8ko4D32d-b3J3SV9t3aGhIa7cfbRmdpqKlZAcln4VGo3KFNH7GNqYaDfxz4IYH5mpeDtJO68AT7BJsa_zdzHGAl2bpk/s1600/padre_Rodrigo_Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvxKVNVZzLHovLqBTwx9k81cj_Z6ADpO34k-qPt0QycbKKj6m8ko4D32d-b3J3SV9t3aGhIa7cfbRmdpqKlZAcln4VGo3KFNH7GNqYaDfxz4IYH5mpeDtJO68AT7BJsa_zdzHGAl2bpk/s320/padre_Rodrigo_Maria.png" width="320" height="272" data-original-width="357" data-original-height="304" /></a></div>

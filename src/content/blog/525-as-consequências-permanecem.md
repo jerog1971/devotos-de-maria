@@ -1,7 +1,7 @@
 ---
 title: "As consequências permanecem"
 date: 2024-06-07T16:50:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEprjqqaqbSP9VRXef37Kr2pTU3M4NMKmpl4DrAdLkN5IHtMjhAvLyNLqpHfmF0WeyiZ3NMBaFhPZoPz5yE6c-QbCNRe6jLcVcJKVgNZbdrgg06Q-ZMjhwqp5WEdGdBbzfVNdgnZ88DOyPwF1Hgpx0LFu5NMTWcAfQSMfSCN6nRNIhgqAxHEYUeIQXV6k/s320/consequ%C3%AAncias.png"
+heroImage: "/images/consequências(1).png"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEprjqqaqbSP9VRXef37Kr2pTU3M4NMKmpl4DrAdLkN5IHtMjhAvLyNLqpHfmF0WeyiZ3NMBaFhPZoPz5yE6c-QbCNRe6jLcVcJKVgNZbdrgg06Q-ZMjhwqp5WEdGdBbzfVNdgnZ88DOyPwF1Hgpx0LFu5NMTWcAfQSMfSCN6nRNIhgqAxHEYUeIQXV6k/s405/consequ%C3%AAncias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="405" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEprjqqaqbSP9VRXef37Kr2pTU3M4NMKmpl4DrAdLkN5IHtMjhAvLyNLqpHfmF0WeyiZ3NMBaFhPZoPz5yE6c-QbCNRe6jLcVcJKVgNZbdrgg06Q-ZMjhwqp5WEdGdBbzfVNdgnZ88DOyPwF1Hgpx0LFu5NMTWcAfQSMfSCN6nRNIhgqAxHEYUeIQXV6k/s320/consequ%C3%AAncias.png" width="320" /></a></div><br /><p></p><div class="separator" style="clear: both; text-align: left;">Todos sabemos que é assim. Algumas duram mais que outras,

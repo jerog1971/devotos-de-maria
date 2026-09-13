@@ -1,7 +1,7 @@
 ---
 title: "Não pequeis mais"
 date: 2025-04-11T19:37:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dUmNKW27fR9WSMn6Jg6YTs-7ERut6GoYuFoYsbpxuRtTeVC3ggTt34KuWCKrns5vK-Jy6rxDX8TzQEDHUH8rZFYzCLDmcE6qLltdLAwXIK30eVbSk2Ni0ui5BUhcGwsuM5pLT5xcdLqnznvUIhJ7wntg2-iADus-tdee2nKeIf3CbjK4SxfN4kSbHAY/s320/minimizar.png"
+heroImage: "/images/minimizar.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dUmNKW27fR9WSMn6Jg6YTs-7ERut6GoYuFoYsbpxuRtTeVC3ggTt34KuWCKrns5vK-Jy6rxDX8TzQEDHUH8rZFYzCLDmcE6qLltdLAwXIK30eVbSk2Ni0ui5BUhcGwsuM5pLT5xcdLqnznvUIhJ7wntg2-iADus-tdee2nKeIf3CbjK4SxfN4kSbHAY/s615/minimizar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="615" height="169" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dUmNKW27fR9WSMn6Jg6YTs-7ERut6GoYuFoYsbpxuRtTeVC3ggTt34KuWCKrns5vK-Jy6rxDX8TzQEDHUH8rZFYzCLDmcE6qLltdLAwXIK30eVbSk2Ni0ui5BUhcGwsuM5pLT5xcdLqnznvUIhJ7wntg2-iADus-tdee2nKeIf3CbjK4SxfN4kSbHAY/s320/minimizar.png" width="320" /></a></div><br />&nbsp;

@@ -1,7 +1,7 @@
 ---
 title: "Ofensas e Afrontas"
 date: 2021-10-07T20:28:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoMzAFtbjHB6SSRkt2AbjIIiM6zs4VyLkmTs4Pan7KaEn_tti7HZHa_YxHVWEdaZdAjMU72YUIAfhqI-Q5sQ65-24CJ0pNbNbe1UKPHROuPCZ_qFgUkO-VCgT7VCoc9SubfwghBdKjbg/s320/ofensas+e+afrontas.png"
+heroImage: "/images/ofensas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoMzAFtbjHB6SSRkt2AbjIIiM6zs4VyLkmTs4Pan7KaEn_tti7HZHa_YxHVWEdaZdAjMU72YUIAfhqI-Q5sQ65-24CJ0pNbNbe1UKPHROuPCZ_qFgUkO-VCgT7VCoc9SubfwghBdKjbg/s618/ofensas+e+afrontas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="618" height="282" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoMzAFtbjHB6SSRkt2AbjIIiM6zs4VyLkmTs4Pan7KaEn_tti7HZHa_YxHVWEdaZdAjMU72YUIAfhqI-Q5sQ65-24CJ0pNbNbe1UKPHROuPCZ_qFgUkO-VCgT7VCoc9SubfwghBdKjbg/s320/ofensas+e+afrontas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa Senhora disse em suas aparições que não devemos

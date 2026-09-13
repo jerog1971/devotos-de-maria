@@ -1,7 +1,7 @@
 ---
 title: "Agarradinho"
 date: 2017-07-21T16:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWM9vrXGxE6dtszBHCW6JMxA7tVYPE2_S5N605dLE9SDSSq3ov8IQhImxlfT3lPoCRsk9rRdxO5trd3uF-olgM2y53ks7HMtFldado9iQzNYe67DmyS81_wFCZ20VPM0V-BdlsCscajQw/s320/agarradinho.png"
+heroImage: "/images/agarradinho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWM9vrXGxE6dtszBHCW6JMxA7tVYPE2_S5N605dLE9SDSSq3ov8IQhImxlfT3lPoCRsk9rRdxO5trd3uF-olgM2y53ks7HMtFldado9iQzNYe67DmyS81_wFCZ20VPM0V-BdlsCscajQw/s1600/agarradinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWM9vrXGxE6dtszBHCW6JMxA7tVYPE2_S5N605dLE9SDSSq3ov8IQhImxlfT3lPoCRsk9rRdxO5trd3uF-olgM2y53ks7HMtFldado9iQzNYe67DmyS81_wFCZ20VPM0V-BdlsCscajQw/s320/agarradinho.png" width="320" height="298" data-original-width="557" data-original-height="518" /></a></div>

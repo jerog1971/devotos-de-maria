@@ -1,7 +1,7 @@
 ---
 title: "Sobre o Anjo da Guarda"
 date: 2016-09-30T13:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha8fzod0ZJq7EA6pFrp_TDOwC6yYBH_OGFpZGDD0bH1wpSZlAOeOSpuLEgP9bCd9bb8JHJku6BrW7BY6jbRHe6Az2FbaAPQ5LlBHc18UmkpDvSL6Xaa8H6wXbbSmpNEhuvqMWzfswxIw/s320/anjo_da_guarda.png"
+heroImage: "/images/anjo_da_guarda.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha8fzod0ZJq7EA6pFrp_TDOwC6yYBH_OGFpZGDD0bH1wpSZlAOeOSpuLEgP9bCd9bb8JHJku6BrW7BY6jbRHe6Az2FbaAPQ5LlBHc18UmkpDvSL6Xaa8H6wXbbSmpNEhuvqMWzfswxIw/s1600/anjo_da_guarda.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="404" data-original-width="543" height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha8fzod0ZJq7EA6pFrp_TDOwC6yYBH_OGFpZGDD0bH1wpSZlAOeOSpuLEgP9bCd9bb8JHJku6BrW7BY6jbRHe6Az2FbaAPQ5LlBHc18UmkpDvSL6Xaa8H6wXbbSmpNEhuvqMWzfswxIw/s320/anjo_da_guarda.png" width="320" /></a></div>

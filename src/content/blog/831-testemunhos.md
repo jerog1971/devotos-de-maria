@@ -1,7 +1,7 @@
 ---
 title: "Testemunhos"
 date: 2017-07-19T19:23:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4I9UPtkLo2VF4BS2Gql8FSQOT2soc7FCezhcKvOliYNevR7X-oZqztmgXb1dnHBl_osRiMKPgvcpmdHjxOQyV3aeYGA1ik0kX-ktwrksjE9m-PDXzFh_drsfQShLdtdtwe9rf-ZSIUI/s320/testemunhos.png"
+heroImage: "/images/testemunhos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4I9UPtkLo2VF4BS2Gql8FSQOT2soc7FCezhcKvOliYNevR7X-oZqztmgXb1dnHBl_osRiMKPgvcpmdHjxOQyV3aeYGA1ik0kX-ktwrksjE9m-PDXzFh_drsfQShLdtdtwe9rf-ZSIUI/s1600/testemunhos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="334" data-original-width="336" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4I9UPtkLo2VF4BS2Gql8FSQOT2soc7FCezhcKvOliYNevR7X-oZqztmgXb1dnHBl_osRiMKPgvcpmdHjxOQyV3aeYGA1ik0kX-ktwrksjE9m-PDXzFh_drsfQShLdtdtwe9rf-ZSIUI/s320/testemunhos.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>

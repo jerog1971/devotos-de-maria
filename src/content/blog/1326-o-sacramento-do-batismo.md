@@ -1,7 +1,7 @@
 ---
 title: "O Sacramento do Batismo"
 date: 2017-08-23T14:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib4kltvue4MQcfAcTa28ujFnv0zmNapuc_1ATw3iFYdjQisxTzC4i9uHuS6Qbdl_tvc-f8bg4-MP3xzfhJrq27reOSvWPcL99_-v74Ktz21Zf3keM-h_2sDBmeFrhuAz6FvDM15O2k0lw/s320/batismo.png"
+heroImage: "/images/batismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib4kltvue4MQcfAcTa28ujFnv0zmNapuc_1ATw3iFYdjQisxTzC4i9uHuS6Qbdl_tvc-f8bg4-MP3xzfhJrq27reOSvWPcL99_-v74Ktz21Zf3keM-h_2sDBmeFrhuAz6FvDM15O2k0lw/s1600/batismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib4kltvue4MQcfAcTa28ujFnv0zmNapuc_1ATw3iFYdjQisxTzC4i9uHuS6Qbdl_tvc-f8bg4-MP3xzfhJrq27reOSvWPcL99_-v74Ktz21Zf3keM-h_2sDBmeFrhuAz6FvDM15O2k0lw/s320/batismo.png" width="320" height="214" data-original-width="777" data-original-height="520" /></a></div>

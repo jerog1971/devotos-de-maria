@@ -1,7 +1,7 @@
 ---
 title: "Nossos problemas"
 date: 2019-02-07T16:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinNEgDh7G7xSxniKXTavQPD27Eyd_WJiuBBv80Ii-CJHIN8Z-X9kS-rnT4fg3ZPh1EQTXQvcNr3mUxTWklhs2J1_h_7EF7QqRcm5QMKFWYaGM6RZtIJbzxE8PUEiQ84oBgKSJ3xL4ZWQ/s320/nossos_problemas.png"
+heroImage: "/images/nossos_problemas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinNEgDh7G7xSxniKXTavQPD27Eyd_WJiuBBv80Ii-CJHIN8Z-X9kS-rnT4fg3ZPh1EQTXQvcNr3mUxTWklhs2J1_h_7EF7QqRcm5QMKFWYaGM6RZtIJbzxE8PUEiQ84oBgKSJ3xL4ZWQ/s1600/nossos_problemas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinNEgDh7G7xSxniKXTavQPD27Eyd_WJiuBBv80Ii-CJHIN8Z-X9kS-rnT4fg3ZPh1EQTXQvcNr3mUxTWklhs2J1_h_7EF7QqRcm5QMKFWYaGM6RZtIJbzxE8PUEiQ84oBgKSJ3xL4ZWQ/s320/nossos_problemas.png" width="320" height="296" data-original-width="636" data-original-height="588" /></a></div>

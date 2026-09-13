@@ -1,7 +1,7 @@
 ---
 title: "Deixemos um legado"
 date: 2023-07-11T21:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-0qwMz6PXDh3_Wuh0I1siH5ZWblK218O8nYmuX8OpicbVyhoD2mnfp0NkWQwqPZKUe5PPz0FvJLs_Vqh8O3Z8wwn-Upy7RCeE-NZW-gjsk_bSO3aB-UXf6oy7s6FHhosu9i_YHvRflp40lnC-fozZbgrWfs4cv_lajDE8WUA0WZKiuzzunVZFBVj0do/s320/legado.png"
+heroImage: "/images/legado.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-0qwMz6PXDh3_Wuh0I1siH5ZWblK218O8nYmuX8OpicbVyhoD2mnfp0NkWQwqPZKUe5PPz0FvJLs_Vqh8O3Z8wwn-Upy7RCeE-NZW-gjsk_bSO3aB-UXf6oy7s6FHhosu9i_YHvRflp40lnC-fozZbgrWfs4cv_lajDE8WUA0WZKiuzzunVZFBVj0do/s395/legado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="395" height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-0qwMz6PXDh3_Wuh0I1siH5ZWblK218O8nYmuX8OpicbVyhoD2mnfp0NkWQwqPZKUe5PPz0FvJLs_Vqh8O3Z8wwn-Upy7RCeE-NZW-gjsk_bSO3aB-UXf6oy7s6FHhosu9i_YHvRflp40lnC-fozZbgrWfs4cv_lajDE8WUA0WZKiuzzunVZFBVj0do/s320/legado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, eis aí um que deveria ser o projeto de vida de

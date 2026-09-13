@@ -1,7 +1,7 @@
 ---
 title: "Atitudes não católicas"
 date: 2023-02-05T13:30:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2XuYcsMB9QI_vvtzBEXQg2THKHLME7JmP1ndmgHW3VjFbcO3pIO_bK8ba0a-_7TDZq-a84JMdPCZj6oJ6CKNbkSOcKYecuSJnz4UsfwnNIR-4AfcwzZSokenCQE3iaX0vLIQgTsPQ1mWXxkj17IpvA4-ziKzVaootf0HmdyhyG1eVq8FXSmDfglw/s320/arcebispo%20samuel%20aquila.png"
+heroImage: "/images/arcebispo samuel aquila.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2XuYcsMB9QI_vvtzBEXQg2THKHLME7JmP1ndmgHW3VjFbcO3pIO_bK8ba0a-_7TDZq-a84JMdPCZj6oJ6CKNbkSOcKYecuSJnz4UsfwnNIR-4AfcwzZSokenCQE3iaX0vLIQgTsPQ1mWXxkj17IpvA4-ziKzVaootf0HmdyhyG1eVq8FXSmDfglw/s668/arcebispo%20samuel%20aquila.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="550" data-original-width="668" height="263" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2XuYcsMB9QI_vvtzBEXQg2THKHLME7JmP1ndmgHW3VjFbcO3pIO_bK8ba0a-_7TDZq-a84JMdPCZj6oJ6CKNbkSOcKYecuSJnz4UsfwnNIR-4AfcwzZSokenCQE3iaX0vLIQgTsPQ1mWXxkj17IpvA4-ziKzVaootf0HmdyhyG1eVq8FXSmDfglw/s320/arcebispo%20samuel%20aquila.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todos sabem, já está a torto e direito por toda a parte a

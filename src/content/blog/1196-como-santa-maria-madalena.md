@@ -1,7 +1,7 @@
 ---
 title: "Como Santa Maria Madalena"
 date: 2015-08-18T11:44:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlh4trcTmw6CL3UB4guIpNftyAmR-FRvs46BIZQ0BjOMo3uyATAnvs-gR2Ml8tm1a74g4qjzzmNCKgLRa6uXQU5sAdqDr2XVP35Z39Ed-w1PnDVBX_N1oN1_aQ13XAvQZYSzZ6EC_Ipw8/s320/santa_maria_madalena.png"
+heroImage: "/images/santa_maria_madalena.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlh4trcTmw6CL3UB4guIpNftyAmR-FRvs46BIZQ0BjOMo3uyATAnvs-gR2Ml8tm1a74g4qjzzmNCKgLRa6uXQU5sAdqDr2XVP35Z39Ed-w1PnDVBX_N1oN1_aQ13XAvQZYSzZ6EC_Ipw8/s1600/santa_maria_madalena.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlh4trcTmw6CL3UB4guIpNftyAmR-FRvs46BIZQ0BjOMo3uyATAnvs-gR2Ml8tm1a74g4qjzzmNCKgLRa6uXQU5sAdqDr2XVP35Z39Ed-w1PnDVBX_N1oN1_aQ13XAvQZYSzZ6EC_Ipw8/s320/santa_maria_madalena.png" width="320" height="243" data-original-width="660" data-original-height="502" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Confessar – remédio necessário"
 date: 2022-07-19T15:22:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJ_kaebCfSLULKMTJuhPpTFfM5gyXujOSbabudkfToI-O7hJ0Q9wRrDBBc-01_0H1F05VUHTzl1qoAAZb31WcJmJ24Fdiug_cIV_YRysKuC5vsmNuE6PUB0xT2cB7DzUZ-Dy7_jVpIsDr1Wu2vgtZ1SXQHYyR_xr-XOXPrq3Me2l5AzWAtFcpIAxY/s320/confessar%20-%20rem%C3%A9dio%20necess%C3%A1rio.jpg"
+heroImage: "/images/confessar - remédio necessário.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJ_kaebCfSLULKMTJuhPpTFfM5gyXujOSbabudkfToI-O7hJ0Q9wRrDBBc-01_0H1F05VUHTzl1qoAAZb31WcJmJ24Fdiug_cIV_YRysKuC5vsmNuE6PUB0xT2cB7DzUZ-Dy7_jVpIsDr1Wu2vgtZ1SXQHYyR_xr-XOXPrq3Me2l5AzWAtFcpIAxY/s1632/confessar%20-%20rem%C3%A9dio%20necess%C3%A1rio.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJ_kaebCfSLULKMTJuhPpTFfM5gyXujOSbabudkfToI-O7hJ0Q9wRrDBBc-01_0H1F05VUHTzl1qoAAZb31WcJmJ24Fdiug_cIV_YRysKuC5vsmNuE6PUB0xT2cB7DzUZ-Dy7_jVpIsDr1Wu2vgtZ1SXQHYyR_xr-XOXPrq3Me2l5AzWAtFcpIAxY/s320/confessar%20-%20rem%C3%A9dio%20necess%C3%A1rio.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ora bolas, todo cristão sabe que precisa pedir perdão à Deus

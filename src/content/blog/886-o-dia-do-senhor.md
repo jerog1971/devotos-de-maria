@@ -1,7 +1,7 @@
 ---
 title: "O dia do Senhor"
 date: 2020-07-27T16:35:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW2eRdb2lBSwSw_ub3Sh1mMBlXA0Pd7I1hgrC0Qc20HkPJtLT__QXaHS62zWDqI6KXsWkLhuUyAisqMDUoYNR8vmVhpG8nkceja8O6YKhRLLMKkuu_bDt6xL9wbfcmIeK34aFW4pjKMXE/s320/segunda+vinda+de+Jesus.png"
+heroImage: "/images/Jesus.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW2eRdb2lBSwSw_ub3Sh1mMBlXA0Pd7I1hgrC0Qc20HkPJtLT__QXaHS62zWDqI6KXsWkLhuUyAisqMDUoYNR8vmVhpG8nkceja8O6YKhRLLMKkuu_bDt6xL9wbfcmIeK34aFW4pjKMXE/s466/segunda+vinda+de+Jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="466" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW2eRdb2lBSwSw_ub3Sh1mMBlXA0Pd7I1hgrC0Qc20HkPJtLT__QXaHS62zWDqI6KXsWkLhuUyAisqMDUoYNR8vmVhpG8nkceja8O6YKhRLLMKkuu_bDt6xL9wbfcmIeK34aFW4pjKMXE/s320/segunda+vinda+de+Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">1ª Tessalonicenses 5,2-11 – “Vós mesmos sabeis muito bem que

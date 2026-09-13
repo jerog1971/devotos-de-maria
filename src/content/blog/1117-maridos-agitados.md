@@ -1,7 +1,7 @@
 ---
 title: "Maridos Agitados"
 date: 2017-04-28T11:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2Jihj0dPvr0zsqfUdmjbmZ4mmwYxzS8lkFVQH7859YE7yWhMZrvHeZeplbdrzEJWxgqkCheqnSCY3og0mkPHIC6tqx4dbYD1N0CHFTkj0ttkyh_NXsmRdw8KsPbPZx7U1KgRdwloaEQ/s320/marido.png"
+heroImage: "/images/marido.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2Jihj0dPvr0zsqfUdmjbmZ4mmwYxzS8lkFVQH7859YE7yWhMZrvHeZeplbdrzEJWxgqkCheqnSCY3og0mkPHIC6tqx4dbYD1N0CHFTkj0ttkyh_NXsmRdw8KsPbPZx7U1KgRdwloaEQ/s1600/marido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2Jihj0dPvr0zsqfUdmjbmZ4mmwYxzS8lkFVQH7859YE7yWhMZrvHeZeplbdrzEJWxgqkCheqnSCY3og0mkPHIC6tqx4dbYD1N0CHFTkj0ttkyh_NXsmRdw8KsPbPZx7U1KgRdwloaEQ/s320/marido.png" width="295" height="320" data-original-width="403" data-original-height="437" /></a></div>

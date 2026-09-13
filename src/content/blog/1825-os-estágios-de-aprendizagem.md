@@ -1,7 +1,7 @@
 ---
 title: "Os estágios de aprendizagem"
 date: 2025-03-14T18:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidXPTASCDX_knC60lWiDTyo9YVjNcOnZpMURb6aJA46rGz9OXdHr9ZkRnQiSQ2epa8FKyEoNf3eF_-RhbpXF_QoePjwovsjOWSh6x9RXaOEA-K84K9I_rNjmPn9E4Wh3NdJtNieN_3bUXn_ZAaQN_k3YFGzn2st5JP4yhpFSsAEDDf5_CZtRCWtypIDTo/s320/etapas%20de%20aprendizagem.png"
+heroImage: "/images/etapas de aprendizagem.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidXPTASCDX_knC60lWiDTyo9YVjNcOnZpMURb6aJA46rGz9OXdHr9ZkRnQiSQ2epa8FKyEoNf3eF_-RhbpXF_QoePjwovsjOWSh6x9RXaOEA-K84K9I_rNjmPn9E4Wh3NdJtNieN_3bUXn_ZAaQN_k3YFGzn2st5JP4yhpFSsAEDDf5_CZtRCWtypIDTo/s634/etapas%20de%20aprendizagem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="447" data-original-width="634" height="226" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidXPTASCDX_knC60lWiDTyo9YVjNcOnZpMURb6aJA46rGz9OXdHr9ZkRnQiSQ2epa8FKyEoNf3eF_-RhbpXF_QoePjwovsjOWSh6x9RXaOEA-K84K9I_rNjmPn9E4Wh3NdJtNieN_3bUXn_ZAaQN_k3YFGzn2st5JP4yhpFSsAEDDf5_CZtRCWtypIDTo/s320/etapas%20de%20aprendizagem.png" width="320" /></a></div><br />&nbsp;

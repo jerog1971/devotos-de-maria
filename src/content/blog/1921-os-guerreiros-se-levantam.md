@@ -1,7 +1,7 @@
 ---
 title: "Os guerreiros se levantam"
 date: 2020-02-17T20:04:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS0D7gMqefFLIcU8tpwJnPj1QGeQxd1OfPSWWDw_gUPaXfJyQBMw-dj6l7A_H5OX9vNCFBUyyhXSeVHLIHqKEzPEyy9Rhr8obwbgH7Tc7UtESUUWMTAmhvzVdJWes6WhuROyNt7XAwKbw/s320/guerreiros.png"
+heroImage: "/images/guerreiros.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><br /></div><div><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS0D7gMqefFLIcU8tpwJnPj1QGeQxd1OfPSWWDw_gUPaXfJyQBMw-dj6l7A_H5OX9vNCFBUyyhXSeVHLIHqKEzPEyy9Rhr8obwbgH7Tc7UtESUUWMTAmhvzVdJWes6WhuROyNt7XAwKbw/s1600/guerreiros.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="532" data-original-width="560" height="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS0D7gMqefFLIcU8tpwJnPj1QGeQxd1OfPSWWDw_gUPaXfJyQBMw-dj6l7A_H5OX9vNCFBUyyhXSeVHLIHqKEzPEyy9Rhr8obwbgH7Tc7UtESUUWMTAmhvzVdJWes6WhuROyNt7XAwKbw/s320/guerreiros.png" width="320" /></a></div><div><br /></div>

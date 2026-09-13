@@ -1,7 +1,7 @@
 ---
 title: "Nosso farol é Jesus"
 date: 2021-05-15T18:32:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzyPofM4v6RxCvUhfmtsbdBq3j5ydKvOgHgTXfJwRjUv8otIduzPWLBcOWTqiPU6m_eHt9t8EvbOCsFEZG32P9H_eIAW6z72XRr2F22oRqTyoStR9Sdnb5SqLcsqfBPpHL7zE7Za1YpGE/s0/nosso+farol+%25C3%25A9+Jesus.png"
+heroImage: "/images/Jesus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzyPofM4v6RxCvUhfmtsbdBq3j5ydKvOgHgTXfJwRjUv8otIduzPWLBcOWTqiPU6m_eHt9t8EvbOCsFEZG32P9H_eIAW6z72XRr2F22oRqTyoStR9Sdnb5SqLcsqfBPpHL7zE7Za1YpGE/s304/nosso+farol+%25C3%25A9+Jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="304" data-original-width="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzyPofM4v6RxCvUhfmtsbdBq3j5ydKvOgHgTXfJwRjUv8otIduzPWLBcOWTqiPU6m_eHt9t8EvbOCsFEZG32P9H_eIAW6z72XRr2F22oRqTyoStR9Sdnb5SqLcsqfBPpHL7zE7Za1YpGE/s0/nosso+farol+%25C3%25A9+Jesus.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todos sabem que Jesus nos ensinou que é caminho, verdade e

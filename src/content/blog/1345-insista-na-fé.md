@@ -1,7 +1,7 @@
 ---
 title: "Insista na fé"
 date: 2022-02-24T15:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEimQdJzzELAaDIWiYi1lbQRVyxjw1QJL5mzxB4gD6VeivzzR6iM19hidnjEGcX5Hh_yXyek0XGgNeZ_rOQo7XMATIJDvZBSRUvhD3UrQ2fuKzrImzjPeAVQS4PHqoqhKXLg0drjn3WBlAaDP4GrXAD0wmArR-UvpwvbkfBdgNhbElrdAjPMEVSw8esg=s320"
+heroImage: "/images/Ela.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEimQdJzzELAaDIWiYi1lbQRVyxjw1QJL5mzxB4gD6VeivzzR6iM19hidnjEGcX5Hh_yXyek0XGgNeZ_rOQo7XMATIJDvZBSRUvhD3UrQ2fuKzrImzjPeAVQS4PHqoqhKXLg0drjn3WBlAaDP4GrXAD0wmArR-UvpwvbkfBdgNhbElrdAjPMEVSw8esg=s3696" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3696" height="212" src="https://blogger.googleusercontent.com/img/a/AVvXsEimQdJzzELAaDIWiYi1lbQRVyxjw1QJL5mzxB4gD6VeivzzR6iM19hidnjEGcX5Hh_yXyek0XGgNeZ_rOQo7XMATIJDvZBSRUvhD3UrQ2fuKzrImzjPeAVQS4PHqoqhKXLg0drjn3WBlAaDP4GrXAD0wmArR-UvpwvbkfBdgNhbElrdAjPMEVSw8esg=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ela te foi concedida e sem ela estais perdido, certamente.

@@ -1,7 +1,7 @@
 ---
 title: "O que escrever? O que pensar?"
 date: 2019-01-03T18:08:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeHZGKSxu12oJxVqVWsW1QjQcOe_HcFkAJ6AaxaT_aMseQxCDrk3z-jx0aZ9TDA25gf4Ex7U7K1MjqINUjZyA42aAQ5iHkPgq57guS8jJjQ28Usfvm5bJAgLwXfRbEUA-R1Tc57lG5g8/s320/pensando.png"
+heroImage: "/images/pensando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeHZGKSxu12oJxVqVWsW1QjQcOe_HcFkAJ6AaxaT_aMseQxCDrk3z-jx0aZ9TDA25gf4Ex7U7K1MjqINUjZyA42aAQ5iHkPgq57guS8jJjQ28Usfvm5bJAgLwXfRbEUA-R1Tc57lG5g8/s1600/pensando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeHZGKSxu12oJxVqVWsW1QjQcOe_HcFkAJ6AaxaT_aMseQxCDrk3z-jx0aZ9TDA25gf4Ex7U7K1MjqINUjZyA42aAQ5iHkPgq57guS8jJjQ28Usfvm5bJAgLwXfRbEUA-R1Tc57lG5g8/s320/pensando.png" width="320" height="296" data-original-width="348" data-original-height="322" /></a></div>

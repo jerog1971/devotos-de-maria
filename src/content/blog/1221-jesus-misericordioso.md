@@ -1,7 +1,7 @@
 ---
 title: "Jesus Misericordioso"
 date: 2017-08-22T19:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBvjP2UQJYHNEKL5mcPQ_gjHPsjM0FFTGQim2zm9hc73CQhWUNQ9c0Sv6lgTcCmN2WR8ir9yFOiKTZLUOpqAD5baBTE87NoGqkN8BY6eE_cc8atIdTVAnHzN4-Xw3DktT7UVza6-oRaCQ/s200/faustina.png"
+heroImage: "/images/faustina.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBvjP2UQJYHNEKL5mcPQ_gjHPsjM0FFTGQim2zm9hc73CQhWUNQ9c0Sv6lgTcCmN2WR8ir9yFOiKTZLUOpqAD5baBTE87NoGqkN8BY6eE_cc8atIdTVAnHzN4-Xw3DktT7UVza6-oRaCQ/s1600/faustina.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="267" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBvjP2UQJYHNEKL5mcPQ_gjHPsjM0FFTGQim2zm9hc73CQhWUNQ9c0Sv6lgTcCmN2WR8ir9yFOiKTZLUOpqAD5baBTE87NoGqkN8BY6eE_cc8atIdTVAnHzN4-Xw3DktT7UVza6-oRaCQ/s200/faustina.png" width="150" /></a></div><div>

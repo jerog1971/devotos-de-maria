@@ -1,7 +1,7 @@
 ---
 title: "O luto"
 date: 2016-07-15T19:00:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin-O49lWjzweDXmis3uQzsHjvAICISyKaVsysZkqenCt74zVQEj6zDKbryrZXS3Rr17aYU5SAv6QoNRL0eWz2tcJ_8udSNyDAThfUGhbrArJkmiejhO2mIE5F9ARMrbbVCvq0RVdnnt8g/s320/luto.png"
+heroImage: "/images/luto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin-O49lWjzweDXmis3uQzsHjvAICISyKaVsysZkqenCt74zVQEj6zDKbryrZXS3Rr17aYU5SAv6QoNRL0eWz2tcJ_8udSNyDAThfUGhbrArJkmiejhO2mIE5F9ARMrbbVCvq0RVdnnt8g/s1600/luto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin-O49lWjzweDXmis3uQzsHjvAICISyKaVsysZkqenCt74zVQEj6zDKbryrZXS3Rr17aYU5SAv6QoNRL0eWz2tcJ_8udSNyDAThfUGhbrArJkmiejhO2mIE5F9ARMrbbVCvq0RVdnnt8g/s320/luto.png" width="320" height="296" data-original-width="534" data-original-height="494" /></a></div>

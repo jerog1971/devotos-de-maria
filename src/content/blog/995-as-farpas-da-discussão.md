@@ -1,7 +1,7 @@
 ---
 title: "As farpas da discussão"
 date: 2017-05-10T18:03:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioGl8pppvM4qcXaZuHyvQcW6_PvaAPX4zj6Y0KIvAIoFx-0v8tour0YQrtdaK1AaccbUGArYZXge7MSdwExTl4Y1h2OTP_OWdtqRd7alFZvAHXm5uXLJdykrFR7WIJKdSmQoI4LzFNk5I/s320/brigas.png"
+heroImage: "/images/brigas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioGl8pppvM4qcXaZuHyvQcW6_PvaAPX4zj6Y0KIvAIoFx-0v8tour0YQrtdaK1AaccbUGArYZXge7MSdwExTl4Y1h2OTP_OWdtqRd7alFZvAHXm5uXLJdykrFR7WIJKdSmQoI4LzFNk5I/s1600/brigas.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="323" data-original-width="335" height="309" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioGl8pppvM4qcXaZuHyvQcW6_PvaAPX4zj6Y0KIvAIoFx-0v8tour0YQrtdaK1AaccbUGArYZXge7MSdwExTl4Y1h2OTP_OWdtqRd7alFZvAHXm5uXLJdykrFR7WIJKdSmQoI4LzFNk5I/s320/brigas.png" width="320" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "A catequese do tubo"
 date: 2019-08-27T15:06:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5celNOLUd5M_ES1DKqaWu9dIEJyV7VGiySiLfHH74fssxV9N2AnPz3RBKvm6qAHRxN2sVWnNrp1crC9gh8zwhSzNUuIKBXSm0LI75GxgO9TO-oOCovmrlP1JivcLrvnbBYGi6tEpgG-I/s320/tudo_do_ligeirinho.png"
+heroImage: "/images/tudo_do_ligeirinho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5celNOLUd5M_ES1DKqaWu9dIEJyV7VGiySiLfHH74fssxV9N2AnPz3RBKvm6qAHRxN2sVWnNrp1crC9gh8zwhSzNUuIKBXSm0LI75GxgO9TO-oOCovmrlP1JivcLrvnbBYGi6tEpgG-I/s1600/tudo_do_ligeirinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5celNOLUd5M_ES1DKqaWu9dIEJyV7VGiySiLfHH74fssxV9N2AnPz3RBKvm6qAHRxN2sVWnNrp1crC9gh8zwhSzNUuIKBXSm0LI75GxgO9TO-oOCovmrlP1JivcLrvnbBYGi6tEpgG-I/s320/tudo_do_ligeirinho.png" width="320" height="261" data-original-width="264" data-original-height="215" /></a></div>

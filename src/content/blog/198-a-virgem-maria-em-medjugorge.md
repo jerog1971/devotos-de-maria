@@ -1,7 +1,7 @@
 ---
 title: "A Virgem Maria em Medjugorge"
 date: 2017-12-14T19:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvqtiV8TOU9dw2FePH5mCbhrR7LgIsSYWoalFUkQ0R70JAvDOsy-s3lGPkMxzbPkck4FG5_c1rh2CwTwsfrGVKZV_a5W34l97HdQN-H9oczQBE4iYxj76eEVGlxGThwPmUCJ1l-kuT8dU/s320/medjugorje2.png"
+heroImage: "/images/medjugorje2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvqtiV8TOU9dw2FePH5mCbhrR7LgIsSYWoalFUkQ0R70JAvDOsy-s3lGPkMxzbPkck4FG5_c1rh2CwTwsfrGVKZV_a5W34l97HdQN-H9oczQBE4iYxj76eEVGlxGThwPmUCJ1l-kuT8dU/s1600/medjugorje2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvqtiV8TOU9dw2FePH5mCbhrR7LgIsSYWoalFUkQ0R70JAvDOsy-s3lGPkMxzbPkck4FG5_c1rh2CwTwsfrGVKZV_a5W34l97HdQN-H9oczQBE4iYxj76eEVGlxGThwPmUCJ1l-kuT8dU/s320/medjugorje2.png" width="297" height="320" data-original-width="209" data-original-height="225" /></a></div>

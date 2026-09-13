@@ -1,7 +1,7 @@
 ---
 title: "Não existe salvação para você"
 date: 2017-12-04T16:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsys-mG4M4PivhSjPK1QKJalG6JRVNg7-1YQiX3sRAYdA2Pxn-Gug2CbHp6ZI9ZyR3g6glH3xEktUIiBp-a70SZu9jT-JQTv9KYR4447dGjBe6w0Vvv48sKPy8oD-Zuq3zs9_3phA2WDA/s320/sem_salvacao.png"
+heroImage: "/images/sem_salvacao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsys-mG4M4PivhSjPK1QKJalG6JRVNg7-1YQiX3sRAYdA2Pxn-Gug2CbHp6ZI9ZyR3g6glH3xEktUIiBp-a70SZu9jT-JQTv9KYR4447dGjBe6w0Vvv48sKPy8oD-Zuq3zs9_3phA2WDA/s1600/sem_salvacao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsys-mG4M4PivhSjPK1QKJalG6JRVNg7-1YQiX3sRAYdA2Pxn-Gug2CbHp6ZI9ZyR3g6glH3xEktUIiBp-a70SZu9jT-JQTv9KYR4447dGjBe6w0Vvv48sKPy8oD-Zuq3zs9_3phA2WDA/s320/sem_salvacao.png" width="318" height="320" data-original-width="339" data-original-height="341" /></a></div>

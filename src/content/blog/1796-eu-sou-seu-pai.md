@@ -1,7 +1,7 @@
 ---
 title: "Eu sou seu pai"
 date: 2019-06-03T15:23:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkJYL9OA3cby4PzJ43JmQXTvnLf-C1QTVIJsZx-zoYti-skn7At_w26kUtCOlOATUKlnWPd1u3pQwpFiiHn0E87JKuyapvOokn8lbqF05ocKPef4P5cVIzfZr6LRLD_sYRYUtqTMGiY28/s320/darth_vader.png"
+heroImage: "/images/darth_vader.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkJYL9OA3cby4PzJ43JmQXTvnLf-C1QTVIJsZx-zoYti-skn7At_w26kUtCOlOATUKlnWPd1u3pQwpFiiHn0E87JKuyapvOokn8lbqF05ocKPef4P5cVIzfZr6LRLD_sYRYUtqTMGiY28/s1600/darth_vader.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkJYL9OA3cby4PzJ43JmQXTvnLf-C1QTVIJsZx-zoYti-skn7At_w26kUtCOlOATUKlnWPd1u3pQwpFiiHn0E87JKuyapvOokn8lbqF05ocKPef4P5cVIzfZr6LRLD_sYRYUtqTMGiY28/s320/darth_vader.png" width="320" height="252" data-original-width="1279" data-original-height="1006" /></a></div>

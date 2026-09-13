@@ -1,7 +1,7 @@
 ---
 title: "Fazer sem esperar nada em troca"
 date: 2016-05-09T15:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE7-iAqvThtuksaGKXdB91y9B_1JFRsKL3O5WQuDD582sZ6t1S0Aest3VjPNJaKJ4lEkDox7BkGywxlfgSefdVHedncIyLoWB7kSL1CE9Gt36C-EHFABIGztoCNZN2oMumXKIvp_z2FBI/s320/bolo.png"
+heroImage: "/images/bolo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE7-iAqvThtuksaGKXdB91y9B_1JFRsKL3O5WQuDD582sZ6t1S0Aest3VjPNJaKJ4lEkDox7BkGywxlfgSefdVHedncIyLoWB7kSL1CE9Gt36C-EHFABIGztoCNZN2oMumXKIvp_z2FBI/s1600/bolo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE7-iAqvThtuksaGKXdB91y9B_1JFRsKL3O5WQuDD582sZ6t1S0Aest3VjPNJaKJ4lEkDox7BkGywxlfgSefdVHedncIyLoWB7kSL1CE9Gt36C-EHFABIGztoCNZN2oMumXKIvp_z2FBI/s320/bolo.png" width="320" height="284" data-original-width="588" data-original-height="521" /></a></div>

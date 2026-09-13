@@ -1,7 +1,7 @@
 ---
 title: "Um pouco sobre Indulgências"
 date: 2016-09-27T16:31:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmjOrJIabHjslQqvW7J-PDGhrawUIfe6r65JG8RzO46TTx3aU5sJeNjCeGTabDMQgMoAWtUyy9LtBFhGO0zlda5s7OLNhYsEm_fi5OSojb8uVYLZNU0GVFX5WEmB2rFI7BXOQ49bnwMwY/s320/indulgencias.png"
+heroImage: "/images/indulgencias.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmjOrJIabHjslQqvW7J-PDGhrawUIfe6r65JG8RzO46TTx3aU5sJeNjCeGTabDMQgMoAWtUyy9LtBFhGO0zlda5s7OLNhYsEm_fi5OSojb8uVYLZNU0GVFX5WEmB2rFI7BXOQ49bnwMwY/s1600/indulgencias.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="428" height="259" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmjOrJIabHjslQqvW7J-PDGhrawUIfe6r65JG8RzO46TTx3aU5sJeNjCeGTabDMQgMoAWtUyy9LtBFhGO0zlda5s7OLNhYsEm_fi5OSojb8uVYLZNU0GVFX5WEmB2rFI7BXOQ49bnwMwY/s320/indulgencias.png" width="320" /></a></div>

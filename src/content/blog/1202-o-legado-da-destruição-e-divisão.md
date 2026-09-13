@@ -1,7 +1,7 @@
 ---
 title: "O legado da destruição e divisão"
 date: 2025-04-22T16:17:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Ch5wUHvuIoOAaEAyCsZKC6AbULbV7ivqEEPUawC5tlsEY3EgkS31FPps2g5QFNnwWPzPmwA2ljf6rCktZT6FkgCCuWuubA83-gDXL2m6L2D4EUeakSCN28BDDDR4SnE08dcuvsWaOcFQkCtpDqZC-jzZfvWRcN5HgzUsNwBfyxnnGqMnp81K1hVc1vU/s1600/Papa%20Francisco.png"
+heroImage: "/images/Francisco.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Ch5wUHvuIoOAaEAyCsZKC6AbULbV7ivqEEPUawC5tlsEY3EgkS31FPps2g5QFNnwWPzPmwA2ljf6rCktZT6FkgCCuWuubA83-gDXL2m6L2D4EUeakSCN28BDDDR4SnE08dcuvsWaOcFQkCtpDqZC-jzZfvWRcN5HgzUsNwBfyxnnGqMnp81K1hVc1vU/s275/Papa%20Francisco.png" style="margin-left: 1em; margin-right: 1em;"></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Ch5wUHvuIoOAaEAyCsZKC6AbULbV7ivqEEPUawC5tlsEY3EgkS31FPps2g5QFNnwWPzPmwA2ljf6rCktZT6FkgCCuWuubA83-gDXL2m6L2D4EUeakSCN28BDDDR4SnE08dcuvsWaOcFQkCtpDqZC-jzZfvWRcN5HgzUsNwBfyxnnGqMnp81K1hVc1vU/s275/Papa%20Francisco.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="202" data-original-width="275" height="202" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Ch5wUHvuIoOAaEAyCsZKC6AbULbV7ivqEEPUawC5tlsEY3EgkS31FPps2g5QFNnwWPzPmwA2ljf6rCktZT6FkgCCuWuubA83-gDXL2m6L2D4EUeakSCN28BDDDR4SnE08dcuvsWaOcFQkCtpDqZC-jzZfvWRcN5HgzUsNwBfyxnnGqMnp81K1hVc1vU/s1600/Papa%20Francisco.png" width="275" /></a></div><p>&nbsp;</p><p>Com a morte do Papa, relatos por todo o mundo descrevem com

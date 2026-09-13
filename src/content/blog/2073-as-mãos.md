@@ -1,7 +1,7 @@
 ---
 title: "As mãos..."
 date: 2015-09-18T16:28:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDo0hhBY3Dcc7nq7KHN0hZL6t1AfzkXds077otvWOpHa_N4qZXYS-ahyphenhyphenrB4RpG6UHAAPYGVs0Fzan72aQSj7S7Aq2lbZjUGlQqn-ziCe-QZQd1_1rYPl89lLgaor4OY5slN17J2Xyk5y8/s200/maos.JPG"
+heroImage: "/images/maos.JPG"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDo0hhBY3Dcc7nq7KHN0hZL6t1AfzkXds077otvWOpHa_N4qZXYS-ahyphenhyphenrB4RpG6UHAAPYGVs0Fzan72aQSj7S7Aq2lbZjUGlQqn-ziCe-QZQd1_1rYPl89lLgaor4OY5slN17J2Xyk5y8/s1600/maos.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDo0hhBY3Dcc7nq7KHN0hZL6t1AfzkXds077otvWOpHa_N4qZXYS-ahyphenhyphenrB4RpG6UHAAPYGVs0Fzan72aQSj7S7Aq2lbZjUGlQqn-ziCe-QZQd1_1rYPl89lLgaor4OY5slN17J2Xyk5y8/s200/maos.JPG" /></a></div>

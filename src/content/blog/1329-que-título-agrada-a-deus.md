@@ -1,7 +1,7 @@
 ---
 title: "Que título agrada a Deus?"
 date: 2016-06-30T14:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTIAuqtjJk8ZWlNmUR71akC8RvF1EI0sftCHSa1BzUlZvy3sFU9plrFDUc3XbYBiWwBjooqjCSc4hDJWv3zJZBjZYfC5RFABfBbIVOx8IX1b4r7b-M5UcX_8fpfida1StJ6w5w3DxYffo/s320/estudar.png"
+heroImage: "/images/estudar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTIAuqtjJk8ZWlNmUR71akC8RvF1EI0sftCHSa1BzUlZvy3sFU9plrFDUc3XbYBiWwBjooqjCSc4hDJWv3zJZBjZYfC5RFABfBbIVOx8IX1b4r7b-M5UcX_8fpfida1StJ6w5w3DxYffo/s1600/estudar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTIAuqtjJk8ZWlNmUR71akC8RvF1EI0sftCHSa1BzUlZvy3sFU9plrFDUc3XbYBiWwBjooqjCSc4hDJWv3zJZBjZYfC5RFABfBbIVOx8IX1b4r7b-M5UcX_8fpfida1StJ6w5w3DxYffo/s320/estudar.png" width="320" height="310" data-original-width="328" data-original-height="318" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Os grandes sacerdotes"
 date: 2020-07-23T20:15:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-dLD9QvsYVw8J8aMbHWSxiUHTgspHm6bPfIVwslzh5YFUvZj8-lrMpi6WodhAv0suO4HiTl7lC2wLytYgSPFJ5L63dFv2vBChHfm4w2gbXWK-X4fp6PG17CCW75ZMjZ5na15YEJzmd0/s320/grandes_sacerdotes.png"
+heroImage: "/images/grandes_sacerdotes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-dLD9QvsYVw8J8aMbHWSxiUHTgspHm6bPfIVwslzh5YFUvZj8-lrMpi6WodhAv0suO4HiTl7lC2wLytYgSPFJ5L63dFv2vBChHfm4w2gbXWK-X4fp6PG17CCW75ZMjZ5na15YEJzmd0/s642/grandes_sacerdotes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="642" data-original-width="501" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-dLD9QvsYVw8J8aMbHWSxiUHTgspHm6bPfIVwslzh5YFUvZj8-lrMpi6WodhAv0suO4HiTl7lC2wLytYgSPFJ5L63dFv2vBChHfm4w2gbXWK-X4fp6PG17CCW75ZMjZ5na15YEJzmd0/s320/grandes_sacerdotes.png" /></a></div><p class="MsoNormal"><br /></p><p class="MsoNormal">Se refletirmos um pouco sobre a graça concedida da comunhão

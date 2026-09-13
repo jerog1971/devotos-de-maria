@@ -1,7 +1,7 @@
 ---
 title: "Olhar e não enxergar"
 date: 2017-05-30T13:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicxvAh9fTM9zMlPrrSbID66AiXUbOq68ABtpWzLYtOVJgJyXCgf54mo4rH0PhEuI5t9Gx2C1AEtNoP-RdMo2TaBfWhl_N6lXvqG-FRINUxq41sTSbikhUvwxZwmnLeOwJ9vV4ZfvclPaw/s320/n%25C3%25A3oenxergar.png"
+heroImage: "/images/enxergar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicxvAh9fTM9zMlPrrSbID66AiXUbOq68ABtpWzLYtOVJgJyXCgf54mo4rH0PhEuI5t9Gx2C1AEtNoP-RdMo2TaBfWhl_N6lXvqG-FRINUxq41sTSbikhUvwxZwmnLeOwJ9vV4ZfvclPaw/s1600/n%25C3%25A3oenxergar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicxvAh9fTM9zMlPrrSbID66AiXUbOq68ABtpWzLYtOVJgJyXCgf54mo4rH0PhEuI5t9Gx2C1AEtNoP-RdMo2TaBfWhl_N6lXvqG-FRINUxq41sTSbikhUvwxZwmnLeOwJ9vV4ZfvclPaw/s320/n%25C3%25A3oenxergar.png" width="297" height="320" data-original-width="193" data-original-height="208" /></a></div>

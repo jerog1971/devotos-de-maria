@@ -1,7 +1,7 @@
 ---
 title: "Dulcíssima Virgem Maria"
 date: 2020-06-15T17:43:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLF7IQfq6XgrQuMfJX6kcvvlNf7AjbRUHlBoFzQCXP8JNJHc0hK6VXly1x1LqL6kQQmIERkTlK33k-iyqgeGPzAPB4J4naeywbX99yU2yNwrl1BybWEJXE_DYraNjpqLX7KlNStEF3gY4/s320/Virgem+Maria.png"
+heroImage: "/images/Maria.gif"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLF7IQfq6XgrQuMfJX6kcvvlNf7AjbRUHlBoFzQCXP8JNJHc0hK6VXly1x1LqL6kQQmIERkTlK33k-iyqgeGPzAPB4J4naeywbX99yU2yNwrl1BybWEJXE_DYraNjpqLX7KlNStEF3gY4/s323/Virgem+Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="323" data-original-width="233" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLF7IQfq6XgrQuMfJX6kcvvlNf7AjbRUHlBoFzQCXP8JNJHc0hK6VXly1x1LqL6kQQmIERkTlK33k-iyqgeGPzAPB4J4naeywbX99yU2yNwrl1BybWEJXE_DYraNjpqLX7KlNStEF3gY4/s320/Virgem+Maria.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">

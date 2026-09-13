@@ -1,7 +1,7 @@
 ---
 title: "Por serem Muito Cristãos perdem a guarda dos filhos"
 date: 2015-12-18T12:12:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjezLwv_yl_dwWogScGE3Gpa8eXr990F9VJdxjVdWR96BL3C2VZugJYV2k4t3eHkyDjrIPqzxDadg2Nwd_Lrt8pokEcnUHUa4BaTW0hplM2qJE2DjJOKE4EAi6QDppj44ErNSpUecu9Tms/s320/bodnariu.png"
+heroImage: "/images/bodnariu.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjezLwv_yl_dwWogScGE3Gpa8eXr990F9VJdxjVdWR96BL3C2VZugJYV2k4t3eHkyDjrIPqzxDadg2Nwd_Lrt8pokEcnUHUa4BaTW0hplM2qJE2DjJOKE4EAi6QDppj44ErNSpUecu9Tms/s1600/bodnariu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjezLwv_yl_dwWogScGE3Gpa8eXr990F9VJdxjVdWR96BL3C2VZugJYV2k4t3eHkyDjrIPqzxDadg2Nwd_Lrt8pokEcnUHUa4BaTW0hplM2qJE2DjJOKE4EAi6QDppj44ErNSpUecu9Tms/s320/bodnariu.png" width="319" height="320" data-original-width="519" data-original-height="521" /></a></div>

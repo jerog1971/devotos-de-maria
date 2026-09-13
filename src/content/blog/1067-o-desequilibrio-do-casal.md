@@ -1,7 +1,7 @@
 ---
 title: "O desequilibrio do casal"
 date: 2017-03-17T13:44:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wUOtb_cKPeRqzkR2UBAeBU5WbZ-NMF7-0g5MFwdX2DjL4qc6ekR55xtwd_59EpVbdLA8RkSnRwnUG5jdSzOZW4rtsdRcexz5o9qHFpVVXG64ZSM0ofPeKGuDZlSJP_KztaBLs2UXTBg/s320/casal2.png"
+heroImage: "/images/casal2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wUOtb_cKPeRqzkR2UBAeBU5WbZ-NMF7-0g5MFwdX2DjL4qc6ekR55xtwd_59EpVbdLA8RkSnRwnUG5jdSzOZW4rtsdRcexz5o9qHFpVVXG64ZSM0ofPeKGuDZlSJP_KztaBLs2UXTBg/s1600/casal2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3wUOtb_cKPeRqzkR2UBAeBU5WbZ-NMF7-0g5MFwdX2DjL4qc6ekR55xtwd_59EpVbdLA8RkSnRwnUG5jdSzOZW4rtsdRcexz5o9qHFpVVXG64ZSM0ofPeKGuDZlSJP_KztaBLs2UXTBg/s320/casal2.png" width="320" height="292" data-original-width="316" data-original-height="288" /></a></div>

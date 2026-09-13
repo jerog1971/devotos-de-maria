@@ -1,7 +1,7 @@
 ---
 title: "A Fraca Autoridade da Mãe"
 date: 2016-10-27T12:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Vzt5Qi9Kz7pJzBROXsfTR7NOdHucqV7iiW9mefH5AzpBmRGK_QuGvQTuk6SUValk6Hdw4S-bI1RXc74RfUidzzlv-g9TDl7_YlbvexltcPp2UXh2ImSZ8jDL4weiYwFX7cxmNPz_4Ew/s320/autoridade.png"
+heroImage: "/images/autoridade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Vzt5Qi9Kz7pJzBROXsfTR7NOdHucqV7iiW9mefH5AzpBmRGK_QuGvQTuk6SUValk6Hdw4S-bI1RXc74RfUidzzlv-g9TDl7_YlbvexltcPp2UXh2ImSZ8jDL4weiYwFX7cxmNPz_4Ew/s1600/autoridade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Vzt5Qi9Kz7pJzBROXsfTR7NOdHucqV7iiW9mefH5AzpBmRGK_QuGvQTuk6SUValk6Hdw4S-bI1RXc74RfUidzzlv-g9TDl7_YlbvexltcPp2UXh2ImSZ8jDL4weiYwFX7cxmNPz_4Ew/s320/autoridade.png" width="320" height="287" data-original-width="357" data-original-height="320" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "No ano do Centenário, papa irá comemorar Reforma Protestante"
 date: 2016-07-08T12:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilT1PPJb0VPKtOkaAQLuRZMT8Gbm65L9McyNZyNJuZdO7UdDRkIrcUi4_JzOBAd1YUHY49xJ4djLKdtJpZxl_1EzHHp4RrzWL_-a7i8pB8-H_w4d-6zI824Po3OA1Dk_h8-pRbWUo4cX4/s320/reforma_protestante.png"
+heroImage: "/images/reforma_protestante.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilT1PPJb0VPKtOkaAQLuRZMT8Gbm65L9McyNZyNJuZdO7UdDRkIrcUi4_JzOBAd1YUHY49xJ4djLKdtJpZxl_1EzHHp4RrzWL_-a7i8pB8-H_w4d-6zI824Po3OA1Dk_h8-pRbWUo4cX4/s1600/reforma_protestante.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilT1PPJb0VPKtOkaAQLuRZMT8Gbm65L9McyNZyNJuZdO7UdDRkIrcUi4_JzOBAd1YUHY49xJ4djLKdtJpZxl_1EzHHp4RrzWL_-a7i8pB8-H_w4d-6zI824Po3OA1Dk_h8-pRbWUo4cX4/s320/reforma_protestante.png" width="320" height="238" data-original-width="634" data-original-height="471" /></a></div>

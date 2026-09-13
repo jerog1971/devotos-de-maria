@@ -1,7 +1,7 @@
 ---
 title: "Vai dando sopa para o perigo"
 date: 2019-08-15T14:48:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ivCHkew5AA_B4y-GKWyOHyfrQGFci349M8fm3PuqFKr5i2Z__aUsVxl-mwyEEiCel1zyBgTd_XLz5D0YRd70ePtVasAygeCCVU1AF1zgq2Bqbx2UJJdFJaFZKgZ908z5kTyFPvh1Uqo/s320/descuido.png"
+heroImage: "/images/descuido.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ivCHkew5AA_B4y-GKWyOHyfrQGFci349M8fm3PuqFKr5i2Z__aUsVxl-mwyEEiCel1zyBgTd_XLz5D0YRd70ePtVasAygeCCVU1AF1zgq2Bqbx2UJJdFJaFZKgZ908z5kTyFPvh1Uqo/s1600/descuido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ivCHkew5AA_B4y-GKWyOHyfrQGFci349M8fm3PuqFKr5i2Z__aUsVxl-mwyEEiCel1zyBgTd_XLz5D0YRd70ePtVasAygeCCVU1AF1zgq2Bqbx2UJJdFJaFZKgZ908z5kTyFPvh1Uqo/s320/descuido.png" width="320" height="212" data-original-width="775" data-original-height="514" /></a></div>

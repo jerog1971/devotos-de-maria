@@ -1,7 +1,7 @@
 ---
 title: "Exorcista italiano declara: Estado Islâmico é satanás"
 date: 2016-07-06T11:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEFrGnLC-JE0IKfMSR1WQe41sNoHtuWZaaTa8-YRnrHo51ZXekUPiW_9mM8GSjfrCgWb33AQnAEhnysjLjw-caivRO2ZrQ9wHf1ezosilpihHTGIQg8UQcFg69kQjVHIExv0ct-y3ngZE/s320/amorth.png"
+heroImage: "/images/amorth.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEFrGnLC-JE0IKfMSR1WQe41sNoHtuWZaaTa8-YRnrHo51ZXekUPiW_9mM8GSjfrCgWb33AQnAEhnysjLjw-caivRO2ZrQ9wHf1ezosilpihHTGIQg8UQcFg69kQjVHIExv0ct-y3ngZE/s1600/amorth.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEFrGnLC-JE0IKfMSR1WQe41sNoHtuWZaaTa8-YRnrHo51ZXekUPiW_9mM8GSjfrCgWb33AQnAEhnysjLjw-caivRO2ZrQ9wHf1ezosilpihHTGIQg8UQcFg69kQjVHIExv0ct-y3ngZE/s320/amorth.png" width="221" height="320" data-original-width="197" data-original-height="285" /></a></div>

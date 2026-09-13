@@ -1,7 +1,7 @@
 ---
 title: "Mantendo o foco"
 date: 2022-07-09T16:47:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXBttfpsc-tK6-S2vscVMlxr6E0G7Qcx9JYEiwaAKjLTFhZE8iYz4i6Msl46jXNEfGs3GsY7o4ONEbArrSgFjHnqdy65pHrDDJYLzWQoUOL61ss8JNBL9OP6XFLlcByAdDI4APeUhfloxppI7mkpzD-TUTjlKzUautUQ36YhiWRSkvk_YbJUkB1_4T/s1600/mantendo%20o%20foco.png"
+heroImage: "/images/mantendo o foco.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXBttfpsc-tK6-S2vscVMlxr6E0G7Qcx9JYEiwaAKjLTFhZE8iYz4i6Msl46jXNEfGs3GsY7o4ONEbArrSgFjHnqdy65pHrDDJYLzWQoUOL61ss8JNBL9OP6XFLlcByAdDI4APeUhfloxppI7mkpzD-TUTjlKzUautUQ36YhiWRSkvk_YbJUkB1_4T/s283/mantendo%20o%20foco.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="283" height="265" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXBttfpsc-tK6-S2vscVMlxr6E0G7Qcx9JYEiwaAKjLTFhZE8iYz4i6Msl46jXNEfGs3GsY7o4ONEbArrSgFjHnqdy65pHrDDJYLzWQoUOL61ss8JNBL9OP6XFLlcByAdDI4APeUhfloxppI7mkpzD-TUTjlKzUautUQ36YhiWRSkvk_YbJUkB1_4T/s1600/mantendo%20o%20foco.png" width="283" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, ao cristão que pretende sempre agradar a Deus – 1ª Gálatas

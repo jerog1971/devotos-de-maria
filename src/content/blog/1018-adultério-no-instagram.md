@@ -1,7 +1,7 @@
 ---
 title: "Adultério no instagram"
 date: 2016-08-25T13:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlan9qjR3E0zSzbaR6K6BTIR1MptZQKdenYWpxENyqtRJuZC7SENzO7QTLL4ArVD-8uOarmZVqiwH-lrjH9PJxZzrLAbET0EdK7sTVdqGyrMPhf1oHHhdszFHocfQoQdmC8SKPaOCdEJU/s320/instagram.png"
+heroImage: "/images/instagram.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlan9qjR3E0zSzbaR6K6BTIR1MptZQKdenYWpxENyqtRJuZC7SENzO7QTLL4ArVD-8uOarmZVqiwH-lrjH9PJxZzrLAbET0EdK7sTVdqGyrMPhf1oHHhdszFHocfQoQdmC8SKPaOCdEJU/s1600/instagram.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlan9qjR3E0zSzbaR6K6BTIR1MptZQKdenYWpxENyqtRJuZC7SENzO7QTLL4ArVD-8uOarmZVqiwH-lrjH9PJxZzrLAbET0EdK7sTVdqGyrMPhf1oHHhdszFHocfQoQdmC8SKPaOCdEJU/s320/instagram.png" width="320" height="301" data-original-width="491" data-original-height="462" /></a></div>

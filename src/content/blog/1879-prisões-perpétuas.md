@@ -1,7 +1,7 @@
 ---
 title: "Prisões perpétuas"
 date: 2022-09-11T00:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTxLay9weJ6PRWMQJABQMKAPZsYzo8i_SCjbw9Gs8qSEg9SdzwzAtctgflFJNnUvswPvyglb-B-m8oDBVqgSwOVW0L-p8zeoQ5W9v8AKRHWeCeFgEb0a7pFTzEbAFYTsGUTSf9haUIN9mHqGjBqVNgSGwNfndBmT_tKsq9OvFQ42OBDczw5Sqxf0-/s1600/pris%C3%B5es%20perp%C3%A9tuas.png"
+heroImage: "/images/prisões perpétuas.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTxLay9weJ6PRWMQJABQMKAPZsYzo8i_SCjbw9Gs8qSEg9SdzwzAtctgflFJNnUvswPvyglb-B-m8oDBVqgSwOVW0L-p8zeoQ5W9v8AKRHWeCeFgEb0a7pFTzEbAFYTsGUTSf9haUIN9mHqGjBqVNgSGwNfndBmT_tKsq9OvFQ42OBDczw5Sqxf0-/s243/pris%C3%B5es%20perp%C3%A9tuas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="243" data-original-width="242" height="243" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTxLay9weJ6PRWMQJABQMKAPZsYzo8i_SCjbw9Gs8qSEg9SdzwzAtctgflFJNnUvswPvyglb-B-m8oDBVqgSwOVW0L-p8zeoQ5W9v8AKRHWeCeFgEb0a7pFTzEbAFYTsGUTSf9haUIN9mHqGjBqVNgSGwNfndBmT_tKsq9OvFQ42OBDczw5Sqxf0-/s1600/pris%C3%B5es%20perp%C3%A9tuas.png" width="242" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus disse que na recaída nosso estado é sete vezes pior do

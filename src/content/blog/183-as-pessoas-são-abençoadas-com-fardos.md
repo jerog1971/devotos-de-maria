@@ -1,7 +1,7 @@
 ---
 title: "As pessoas são abençoadas com fardos"
 date: 2022-06-21T15:56:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswYVUDZYH6lSqlX2y2m710TAItFvY5J86fbE-_TxJGywmNn0PGnLk09UqhXctzLSGDyfNWTqkBITZflqITFdgVfxcEVBfzr-BM5LHRgpPS4YjVluWZoOsjhBQqsJ94iZsdAG1BkFDrSq8ZS-ZgIjm8A8e467eb7tpwi8GSav-vph4CLSrOWdU_f97/s320/fardo.png"
+heroImage: "/images/fardo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswYVUDZYH6lSqlX2y2m710TAItFvY5J86fbE-_TxJGywmNn0PGnLk09UqhXctzLSGDyfNWTqkBITZflqITFdgVfxcEVBfzr-BM5LHRgpPS4YjVluWZoOsjhBQqsJ94iZsdAG1BkFDrSq8ZS-ZgIjm8A8e467eb7tpwi8GSav-vph4CLSrOWdU_f97/s445/fardo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="443" data-original-width="445" height="319" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswYVUDZYH6lSqlX2y2m710TAItFvY5J86fbE-_TxJGywmNn0PGnLk09UqhXctzLSGDyfNWTqkBITZflqITFdgVfxcEVBfzr-BM5LHRgpPS4YjVluWZoOsjhBQqsJ94iZsdAG1BkFDrSq8ZS-ZgIjm8A8e467eb7tpwi8GSav-vph4CLSrOWdU_f97/s320/fardo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As pessoas durante sua caminhada rumo ao céu sofrem a tentação

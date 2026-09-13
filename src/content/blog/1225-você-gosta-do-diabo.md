@@ -1,7 +1,7 @@
 ---
 title: "Você gosta do diabo?"
 date: 2019-11-01T20:26:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU5LEnfOHFc9tT_RVqLNuZoTWFHgIybZSAblyLx1OZDQQTkFMYAKvn5eguOH_X70AQtEDW_g_sDSPN_8AyfNRHRn-_worKFfChyMF2sk21f5-JLhFA-qnAupPRxwvcRcW1BKwPszx8JtM/s320/espreita_do_mal.png"
+heroImage: "/images/espreita_do_mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU5LEnfOHFc9tT_RVqLNuZoTWFHgIybZSAblyLx1OZDQQTkFMYAKvn5eguOH_X70AQtEDW_g_sDSPN_8AyfNRHRn-_worKFfChyMF2sk21f5-JLhFA-qnAupPRxwvcRcW1BKwPszx8JtM/s1600/espreita_do_mal.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="437" data-original-width="482" height="290" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU5LEnfOHFc9tT_RVqLNuZoTWFHgIybZSAblyLx1OZDQQTkFMYAKvn5eguOH_X70AQtEDW_g_sDSPN_8AyfNRHRn-_worKFfChyMF2sk21f5-JLhFA-qnAupPRxwvcRcW1BKwPszx8JtM/s320/espreita_do_mal.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Provavelmente se chegou até esse site é porque não gosta e se declara inimigo dele, com todas as forças que lhe são possíveis. É isso mesmo? Não é? Será que é? Não sabe direito? Nem sabe mais o que pensar a respeito? São tantas questões... Pois bem, vamos por esse caminho.

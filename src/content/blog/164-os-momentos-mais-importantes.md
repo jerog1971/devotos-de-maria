@@ -1,7 +1,7 @@
 ---
 title: "Os momentos mais importantes"
 date: 2015-09-17T12:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTDip7WFsIHoVQ1QA0A94xCCQ54SxAxqZMup5ZJcAO46Uod7yiKVfqxAPVVYXgJJe2MdVUy0V5_acsU6z6AdRG9KIa4qcE61Uy87AhMoR3Tc-m057v_IRwIufKHOifICMt-gwAGB_mFUU/s320/agora.png"
+heroImage: "/images/agora.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTDip7WFsIHoVQ1QA0A94xCCQ54SxAxqZMup5ZJcAO46Uod7yiKVfqxAPVVYXgJJe2MdVUy0V5_acsU6z6AdRG9KIa4qcE61Uy87AhMoR3Tc-m057v_IRwIufKHOifICMt-gwAGB_mFUU/s1600/agora.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="293" data-original-width="376" height="249" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTDip7WFsIHoVQ1QA0A94xCCQ54SxAxqZMup5ZJcAO46Uod7yiKVfqxAPVVYXgJJe2MdVUy0V5_acsU6z6AdRG9KIa4qcE61Uy87AhMoR3Tc-m057v_IRwIufKHOifICMt-gwAGB_mFUU/s320/agora.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>

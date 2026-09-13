@@ -1,7 +1,7 @@
 ---
 title: "Não julgueis..."
 date: 2015-11-03T11:12:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOaVEWE5TMt13OKFURoeRaEsegwLYRKWmXzv2wd137xkJ51lim54HhjcXa0IDp5WHPSSzXMXLpQAbwXwn5qo49sYt2cGhaN_rDXBLbYf0XjXNIibNtzSzHZPCYnvLnHWinXiVHH4AMsuk/s320/julgar.png"
+heroImage: "/images/julgar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOaVEWE5TMt13OKFURoeRaEsegwLYRKWmXzv2wd137xkJ51lim54HhjcXa0IDp5WHPSSzXMXLpQAbwXwn5qo49sYt2cGhaN_rDXBLbYf0XjXNIibNtzSzHZPCYnvLnHWinXiVHH4AMsuk/s1600/julgar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOaVEWE5TMt13OKFURoeRaEsegwLYRKWmXzv2wd137xkJ51lim54HhjcXa0IDp5WHPSSzXMXLpQAbwXwn5qo49sYt2cGhaN_rDXBLbYf0XjXNIibNtzSzHZPCYnvLnHWinXiVHH4AMsuk/s320/julgar.png" width="320" height="235" data-original-width="304" data-original-height="223" /></a></div>

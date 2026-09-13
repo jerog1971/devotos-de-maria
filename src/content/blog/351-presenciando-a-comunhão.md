@@ -1,7 +1,7 @@
 ---
 title: "Presenciando a comunhão"
 date: 2016-02-03T17:46:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Xv-IsyGWVAUPzwpR1e8pEG194VP2sWLw25eDgvj-ySPjtqS-MwBazsTHrmMTo_dx__Get-R-wkWuIw7WrHaWq9sMvtjQFHacrlpUg2lcxhd86UHh7TmIwbaCbuX1c-KzA5Q26QxQ9Wc/s320/padre_edson_odaguiri.png"
+heroImage: "/images/padre_edson_odaguiri.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Xv-IsyGWVAUPzwpR1e8pEG194VP2sWLw25eDgvj-ySPjtqS-MwBazsTHrmMTo_dx__Get-R-wkWuIw7WrHaWq9sMvtjQFHacrlpUg2lcxhd86UHh7TmIwbaCbuX1c-KzA5Q26QxQ9Wc/s1600/padre_edson_odaguiri.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Xv-IsyGWVAUPzwpR1e8pEG194VP2sWLw25eDgvj-ySPjtqS-MwBazsTHrmMTo_dx__Get-R-wkWuIw7WrHaWq9sMvtjQFHacrlpUg2lcxhd86UHh7TmIwbaCbuX1c-KzA5Q26QxQ9Wc/s320/padre_edson_odaguiri.png" width="320" height="304" data-original-width="285" data-original-height="271" /></a></div>

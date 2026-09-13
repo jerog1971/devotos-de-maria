@@ -1,7 +1,7 @@
 ---
 title: "A moda"
 date: 2019-12-11T18:47:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbB_W7qVFwDMOw3I2h0DVMRB1ItMJVv9bEAkSVIQKaL90jTb_2rEqEdyrdaWnxkTr0PVQFPpevV_4Ov5va6ZqWdKeuY1gG_0yVyWirGKVvOJWsOLC6j4za_8lm6Vqshghxj42RFoYH5e4/s320/a_moda.png"
+heroImage: "/images/a_moda.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbB_W7qVFwDMOw3I2h0DVMRB1ItMJVv9bEAkSVIQKaL90jTb_2rEqEdyrdaWnxkTr0PVQFPpevV_4Ov5va6ZqWdKeuY1gG_0yVyWirGKVvOJWsOLC6j4za_8lm6Vqshghxj42RFoYH5e4/s1600/a_moda.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="367" data-original-width="274" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbB_W7qVFwDMOw3I2h0DVMRB1ItMJVv9bEAkSVIQKaL90jTb_2rEqEdyrdaWnxkTr0PVQFPpevV_4Ov5va6ZqWdKeuY1gG_0yVyWirGKVvOJWsOLC6j4za_8lm6Vqshghxj42RFoYH5e4/s320/a_moda.png" width="239" /></a></div>

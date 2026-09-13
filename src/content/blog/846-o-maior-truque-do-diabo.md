@@ -1,7 +1,7 @@
 ---
 title: "O maior truque do diabo"
 date: 2020-02-26T20:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ue2TL5C_wG0azhtYjRMh-9mOy4evIN1iP4ZtvpFh2RcCqKoW9KtTcmOXnxvHc1y7PWVZD5Hu23hbmOveEcyhAbNBb2ltikfIlgPFIW2fw3tDdmS86qgyiJENlYcwhL1Ook1hOOCyqcA/s320/inferno.png"
+heroImage: "/images/João Bosco e o Inferno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ue2TL5C_wG0azhtYjRMh-9mOy4evIN1iP4ZtvpFh2RcCqKoW9KtTcmOXnxvHc1y7PWVZD5Hu23hbmOveEcyhAbNBb2ltikfIlgPFIW2fw3tDdmS86qgyiJENlYcwhL1Ook1hOOCyqcA/s1600/inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ue2TL5C_wG0azhtYjRMh-9mOy4evIN1iP4ZtvpFh2RcCqKoW9KtTcmOXnxvHc1y7PWVZD5Hu23hbmOveEcyhAbNBb2ltikfIlgPFIW2fw3tDdmS86qgyiJENlYcwhL1Ook1hOOCyqcA/s320/inferno.png" width="320" height="263" data-original-width="362" data-original-height="298" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "A luz de Deus"
 date: 2019-09-20T18:59:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sbM2Hn5kMiTtFpcQ_d1YoPE2YisesDfWG2q-r0cp7y03RkplXa21pKxGeWWoKhqGUiZUhOrdgnYZx2rWhiCrBrtk7_et5_66c5Zjtb5gyVZ3GRQ9Vmmeu6CNkqj2sgQRd4S4TdNYsiE/s320/a_luz_de_Deus.jpg"
+heroImage: "/images/a_luz_de_Deus.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sbM2Hn5kMiTtFpcQ_d1YoPE2YisesDfWG2q-r0cp7y03RkplXa21pKxGeWWoKhqGUiZUhOrdgnYZx2rWhiCrBrtk7_et5_66c5Zjtb5gyVZ3GRQ9Vmmeu6CNkqj2sgQRd4S4TdNYsiE/s1600/a_luz_de_Deus.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sbM2Hn5kMiTtFpcQ_d1YoPE2YisesDfWG2q-r0cp7y03RkplXa21pKxGeWWoKhqGUiZUhOrdgnYZx2rWhiCrBrtk7_et5_66c5Zjtb5gyVZ3GRQ9Vmmeu6CNkqj2sgQRd4S4TdNYsiE/s320/a_luz_de_Deus.jpg" width="320" height="240" data-original-width="816" data-original-height="612" /></a></div>

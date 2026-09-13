@@ -1,7 +1,7 @@
 ---
 title: "Deus e seus paradoxos"
 date: 2017-12-05T11:11:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFE-6jz-jRzCSUb4AvTYVstxOylN5mHpEC6vEMa5ng10QB5Udu40Cw074eLucZGQ9ul4TgKg-SambwK1rkBNXtpw8kJc3yH9Bc5BcBBwTXH6Zxj5n9gasTMnNrkT6syrsIG6dfxmSnhQ/s320/Deus.png"
+heroImage: "/images/Ausência de Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFE-6jz-jRzCSUb4AvTYVstxOylN5mHpEC6vEMa5ng10QB5Udu40Cw074eLucZGQ9ul4TgKg-SambwK1rkBNXtpw8kJc3yH9Bc5BcBBwTXH6Zxj5n9gasTMnNrkT6syrsIG6dfxmSnhQ/s1600/Deus.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="447" data-original-width="353" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFE-6jz-jRzCSUb4AvTYVstxOylN5mHpEC6vEMa5ng10QB5Udu40Cw074eLucZGQ9ul4TgKg-SambwK1rkBNXtpw8kJc3yH9Bc5BcBBwTXH6Zxj5n9gasTMnNrkT6syrsIG6dfxmSnhQ/s320/Deus.png" width="253" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Pois muito bem pessoal, para aqueles que são atentos nos estudos da palavra de Deus, com certeza várias passagens bíblicas “aparentam” ter algo de contraditório ou de paradoxal. Parece uma coisa, mas ao mesmo tempo parece outra, parece que isso vale e ao mesmo tempo parece que aquele outro ensino também vale e isso, apresentado ao cristão que se coloca numa posição desatenta, pode confundi-lo e sugerir algumas vezes, que ele precise fazer uma escolha. Às vezes sim, mas as vezes não.

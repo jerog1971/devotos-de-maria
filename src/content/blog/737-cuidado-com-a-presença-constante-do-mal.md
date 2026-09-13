@@ -1,7 +1,7 @@
 ---
 title: "Cuidado com a presença constante do mal"
 date: 2019-07-10T16:00:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQSBRKhQy9c_UxbNsPq5s-Z08_ULx2E6QNn0Fqy6NrPauUBw9jI3XiCORmqZIRSpnFWj4qmq7j0sXqFybsGtx-YcPvw-pZ8IQF_a2R5O5lw8dI4PZa7avxxIitDfWUo8WQfkwvTelzAc/s320/presen%25C3%25A7a_do_mal.png"
+heroImage: "/images/mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQSBRKhQy9c_UxbNsPq5s-Z08_ULx2E6QNn0Fqy6NrPauUBw9jI3XiCORmqZIRSpnFWj4qmq7j0sXqFybsGtx-YcPvw-pZ8IQF_a2R5O5lw8dI4PZa7avxxIitDfWUo8WQfkwvTelzAc/s1600/presen%25C3%25A7a_do_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQSBRKhQy9c_UxbNsPq5s-Z08_ULx2E6QNn0Fqy6NrPauUBw9jI3XiCORmqZIRSpnFWj4qmq7j0sXqFybsGtx-YcPvw-pZ8IQF_a2R5O5lw8dI4PZa7avxxIitDfWUo8WQfkwvTelzAc/s320/presen%25C3%25A7a_do_mal.png" width="320" height="225" data-original-width="712" data-original-height="500" /></a></div>

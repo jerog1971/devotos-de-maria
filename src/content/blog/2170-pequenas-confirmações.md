@@ -1,7 +1,7 @@
 ---
 title: "Pequenas confirmações"
 date: 2024-07-31T18:31:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukqqFEFIoxxzQFB_hVhA6xf_4qYMnwLa2iBTkz2TYi3x3dTeZw-RFC1LBFqjbRyycPwNgKb5u9JOhujg3oeB8ra8EnpvLCFBrSTszX8jR7tanKaFspO09GQewVzeYIWoXcJ7jOiIqIRcnPyIMAx6ps3sSjds5FyRVD4PnZ1ML6fxmE2wwgSmoX4-EKAA/s320/pequenas%20confirma%C3%A7%C3%B5es.png"
+heroImage: "/images/pequenas confirmações.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukqqFEFIoxxzQFB_hVhA6xf_4qYMnwLa2iBTkz2TYi3x3dTeZw-RFC1LBFqjbRyycPwNgKb5u9JOhujg3oeB8ra8EnpvLCFBrSTszX8jR7tanKaFspO09GQewVzeYIWoXcJ7jOiIqIRcnPyIMAx6ps3sSjds5FyRVD4PnZ1ML6fxmE2wwgSmoX4-EKAA/s492/pequenas%20confirma%C3%A7%C3%B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="492" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukqqFEFIoxxzQFB_hVhA6xf_4qYMnwLa2iBTkz2TYi3x3dTeZw-RFC1LBFqjbRyycPwNgKb5u9JOhujg3oeB8ra8EnpvLCFBrSTszX8jR7tanKaFspO09GQewVzeYIWoXcJ7jOiIqIRcnPyIMAx6ps3sSjds5FyRVD4PnZ1ML6fxmE2wwgSmoX4-EKAA/s320/pequenas%20confirma%C3%A7%C3%B5es.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De tempos em tempos, por conta da fraqueza humana em sua

@@ -1,7 +1,7 @@
 ---
 title: "Os fariseus de nossas paróquias"
 date: 2020-02-26T02:39:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwvqRidY3AGPyLyIFrSrj3-pW18dsXC57OGWDxYkvma0GNXCp3uRX3s3YIGi_D4mJG6jWmWjNb7zN62cUmr1V9LBsh1XiOgTQ1DGlCkGTvHy0pHw9c-5U1c1MqcVt_qHJSuBH6c0XO04/s320/fariseus.png"
+heroImage: "/images/fariseus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwvqRidY3AGPyLyIFrSrj3-pW18dsXC57OGWDxYkvma0GNXCp3uRX3s3YIGi_D4mJG6jWmWjNb7zN62cUmr1V9LBsh1XiOgTQ1DGlCkGTvHy0pHw9c-5U1c1MqcVt_qHJSuBH6c0XO04/s1600/fariseus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwvqRidY3AGPyLyIFrSrj3-pW18dsXC57OGWDxYkvma0GNXCp3uRX3s3YIGi_D4mJG6jWmWjNb7zN62cUmr1V9LBsh1XiOgTQ1DGlCkGTvHy0pHw9c-5U1c1MqcVt_qHJSuBH6c0XO04/s320/fariseus.png" width="320" height="227" data-original-width="459" data-original-height="325" /></a></div>

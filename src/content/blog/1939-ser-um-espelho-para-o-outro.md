@@ -1,7 +1,7 @@
 ---
 title: "Ser um espelho para o outro"
 date: 2017-04-07T14:47:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKI3EyvYXIoDW0ubkFWaxRtBZ0s72ZnryjDo1Lvp-EhoRTn6pi5SKg7QwUTfygLgvtCU4STUY-Yjmr4rQ-fJio0GyemI4pZAt_EkvpEIucnJHC2BDTiQTZzDG1BsLhyphenhyphenXp1wOJhgB3ezy0/s320/espelho.png"
+heroImage: "/images/espelho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKI3EyvYXIoDW0ubkFWaxRtBZ0s72ZnryjDo1Lvp-EhoRTn6pi5SKg7QwUTfygLgvtCU4STUY-Yjmr4rQ-fJio0GyemI4pZAt_EkvpEIucnJHC2BDTiQTZzDG1BsLhyphenhyphenXp1wOJhgB3ezy0/s1600/espelho.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="628" height="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKI3EyvYXIoDW0ubkFWaxRtBZ0s72ZnryjDo1Lvp-EhoRTn6pi5SKg7QwUTfygLgvtCU4STUY-Yjmr4rQ-fJio0GyemI4pZAt_EkvpEIucnJHC2BDTiQTZzDG1BsLhyphenhyphenXp1wOJhgB3ezy0/s320/espelho.png" width="320" /></a></div>

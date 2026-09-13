@@ -1,7 +1,7 @@
 ---
 title: "O que não vemos é mais importante do que vemos"
 date: 2020-04-12T17:59:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO2jz_gbdxtMxz1vqq3X60jZcXSZQJTpwr5oR-L3M6vxsUwlRgAg3AQg9aO38pSKGEPZsDCe_rqZ2J_JpgZ1bGDKYsyV54VhGL9xDnWKWhfDiMHl49pdDqC_zWGDvh6ISrh6Trusc_DYE/s320/levar_a_serio.jpg"
+heroImage: "/images/levar_a_serio.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO2jz_gbdxtMxz1vqq3X60jZcXSZQJTpwr5oR-L3M6vxsUwlRgAg3AQg9aO38pSKGEPZsDCe_rqZ2J_JpgZ1bGDKYsyV54VhGL9xDnWKWhfDiMHl49pdDqC_zWGDvh6ISrh6Trusc_DYE/s1600/levar_a_serio.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO2jz_gbdxtMxz1vqq3X60jZcXSZQJTpwr5oR-L3M6vxsUwlRgAg3AQg9aO38pSKGEPZsDCe_rqZ2J_JpgZ1bGDKYsyV54VhGL9xDnWKWhfDiMHl49pdDqC_zWGDvh6ISrh6Trusc_DYE/s320/levar_a_serio.jpg" width="269" height="320" data-original-width="720" data-original-height="857" /></a></div>

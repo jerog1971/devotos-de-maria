@@ -1,7 +1,7 @@
 ---
 title: "Protesto cristão"
 date: 2024-08-13T16:29:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBorM-CUC2-bZomo1m8v1MXDRdIqgynh5hIkYJRNccdom2lzrmNTYrWfpUpj9TCPLC6XEbSow5BM2Ka56ZH-hxL9RGqpPhTMDdMtYW3QR2HovfW4v4IK1EOh-8rk8utP77FTpIVRQGGz6jKxqPkLznNmcBHBPVR60cbuUwRvTYbgjG-En9B3gTCBVEn6U/s320/protesto%20crist%C3%A3o.png"
+heroImage: "/images/protesto cristão 2.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBorM-CUC2-bZomo1m8v1MXDRdIqgynh5hIkYJRNccdom2lzrmNTYrWfpUpj9TCPLC6XEbSow5BM2Ka56ZH-hxL9RGqpPhTMDdMtYW3QR2HovfW4v4IK1EOh-8rk8utP77FTpIVRQGGz6jKxqPkLznNmcBHBPVR60cbuUwRvTYbgjG-En9B3gTCBVEn6U/s647/protesto%20crist%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="486" data-original-width="647" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBorM-CUC2-bZomo1m8v1MXDRdIqgynh5hIkYJRNccdom2lzrmNTYrWfpUpj9TCPLC6XEbSow5BM2Ka56ZH-hxL9RGqpPhTMDdMtYW3QR2HovfW4v4IK1EOh-8rk8utP77FTpIVRQGGz6jKxqPkLznNmcBHBPVR60cbuUwRvTYbgjG-En9B3gTCBVEn6U/s320/protesto%20crist%C3%A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois dos acontecimentos polêmicos que ocorreram na cerimônia

@@ -1,7 +1,7 @@
 ---
 title: "Operai a vossa salvação com temor e tremor"
 date: 2015-09-29T15:03:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYH9QeZav9VkZ5VFB0bA2-kHibUenIYsfz93mJE3MCnZdxuEZIfJQkjY_eRBIvvcuC_dXi17d4djC7asndOkMFtyrAIoTldfDV13tnTHebR3pWjVRhOO-ce_ZZMbqXVc76-4PMLqQ5TkI/s320/temor_e_tremor.png"
+heroImage: "/images/temor_e_tremor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYH9QeZav9VkZ5VFB0bA2-kHibUenIYsfz93mJE3MCnZdxuEZIfJQkjY_eRBIvvcuC_dXi17d4djC7asndOkMFtyrAIoTldfDV13tnTHebR3pWjVRhOO-ce_ZZMbqXVc76-4PMLqQ5TkI/s1600/temor_e_tremor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYH9QeZav9VkZ5VFB0bA2-kHibUenIYsfz93mJE3MCnZdxuEZIfJQkjY_eRBIvvcuC_dXi17d4djC7asndOkMFtyrAIoTldfDV13tnTHebR3pWjVRhOO-ce_ZZMbqXVc76-4PMLqQ5TkI/s320/temor_e_tremor.png" width="320" height="209" data-original-width="564" data-original-height="368" /></a></div>

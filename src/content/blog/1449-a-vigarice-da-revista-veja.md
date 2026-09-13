@@ -1,7 +1,7 @@
 ---
 title: "A vigarice da revista Veja"
 date: 2016-06-23T13:47:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh5iJ-BvCRE2BH2cN8zDLj8h4btZutGeyD-QguPB_XYe06Z4fnwt4pJh41P5bfWbO8HbCvxIrTXwul-3u0zpRNSBkSO0l-8pcfKnpSS4bF-bf5dfrCAqJgFeazgUhhie8xgg4LawP9eRw/s320/revista_veja.png"
+heroImage: "/images/revista_veja.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh5iJ-BvCRE2BH2cN8zDLj8h4btZutGeyD-QguPB_XYe06Z4fnwt4pJh41P5bfWbO8HbCvxIrTXwul-3u0zpRNSBkSO0l-8pcfKnpSS4bF-bf5dfrCAqJgFeazgUhhie8xgg4LawP9eRw/s1600/revista_veja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh5iJ-BvCRE2BH2cN8zDLj8h4btZutGeyD-QguPB_XYe06Z4fnwt4pJh41P5bfWbO8HbCvxIrTXwul-3u0zpRNSBkSO0l-8pcfKnpSS4bF-bf5dfrCAqJgFeazgUhhie8xgg4LawP9eRw/s320/revista_veja.png" width="277" height="320" data-original-width="307" data-original-height="355" /></a></div>

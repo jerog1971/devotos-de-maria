@@ -1,7 +1,7 @@
 ---
 title: "Santa missa duvidosa"
 date: 2023-05-17T21:15:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjSVBum7Sh0cZAOkHlNIqC7-eShG0LxxqXvaCEkYOl109VuQv7mlY5IjmGcieCs6dtmEZtBd4ny0tzBTtQ-Biv17qTJn_z2E6kpac7MhjhMzlt8BEJooZmMBw5Uoxl1mytPvaY492g7hpJ7DI8_msDARE6XDf8Ef-tGOr0XLN_8h_4YhOxAk69qm3/s320/casamento%20gay.png"
+heroImage: "/images/casamento gay.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjSVBum7Sh0cZAOkHlNIqC7-eShG0LxxqXvaCEkYOl109VuQv7mlY5IjmGcieCs6dtmEZtBd4ny0tzBTtQ-Biv17qTJn_z2E6kpac7MhjhMzlt8BEJooZmMBw5Uoxl1mytPvaY492g7hpJ7DI8_msDARE6XDf8Ef-tGOr0XLN_8h_4YhOxAk69qm3/s544/casamento%20gay.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="370" data-original-width="544" height="218" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjSVBum7Sh0cZAOkHlNIqC7-eShG0LxxqXvaCEkYOl109VuQv7mlY5IjmGcieCs6dtmEZtBd4ny0tzBTtQ-Biv17qTJn_z2E6kpac7MhjhMzlt8BEJooZmMBw5Uoxl1mytPvaY492g7hpJ7DI8_msDARE6XDf8Ef-tGOr0XLN_8h_4YhOxAk69qm3/s320/casamento%20gay.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A associação americana America Needs Fatima publicou este mês

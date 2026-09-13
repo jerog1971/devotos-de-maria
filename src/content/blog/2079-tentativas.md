@@ -1,7 +1,7 @@
 ---
 title: "Tentativas"
 date: 2023-08-08T20:46:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sswpwJEzP_p_gf2IUcM3cH_NKkubHS4KmPB8_jRlkkrymaldr8SwDNaG2mBxl6V78XgHdUwEk_qnJc1F6hb2nH5Fxj_hP5Xoe-pZABfOHniSik5w1O7fh0dNgCFvkiifUwFVP9JDXpJYrBIhPo0Ozu2TBLeqn36GYgaoBrnGQNK3PXXEwaFQ5NCuUWc/s320/tentativas.png"
+heroImage: "/images/tentativas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sswpwJEzP_p_gf2IUcM3cH_NKkubHS4KmPB8_jRlkkrymaldr8SwDNaG2mBxl6V78XgHdUwEk_qnJc1F6hb2nH5Fxj_hP5Xoe-pZABfOHniSik5w1O7fh0dNgCFvkiifUwFVP9JDXpJYrBIhPo0Ozu2TBLeqn36GYgaoBrnGQNK3PXXEwaFQ5NCuUWc/s429/tentativas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="429" height="292" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sswpwJEzP_p_gf2IUcM3cH_NKkubHS4KmPB8_jRlkkrymaldr8SwDNaG2mBxl6V78XgHdUwEk_qnJc1F6hb2nH5Fxj_hP5Xoe-pZABfOHniSik5w1O7fh0dNgCFvkiifUwFVP9JDXpJYrBIhPo0Ozu2TBLeqn36GYgaoBrnGQNK3PXXEwaFQ5NCuUWc/s320/tentativas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tentativas e mais tentativas; muitas são as pessoas que passam

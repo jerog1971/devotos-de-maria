@@ -1,7 +1,7 @@
 ---
 title: "O coronavirus age como Deus: não faz distinção de pessoas"
 date: 2020-04-24T17:58:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCXbbCPWbSNwGoH2Au6H0CQ9pFfUMRvalCYGb_fCgu0szywH88sLfKyRIC1b-4wlJHmvqr2dy-Mzhjx9q6I9y0SDliZH5J44BwherR9UyNt9gp2hoMbx26zUyGvrq7G6YNEA4t4Co_AA/s320/Deus_coronavirus.png"
+heroImage: "/images/Deus_coronavirus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCXbbCPWbSNwGoH2Au6H0CQ9pFfUMRvalCYGb_fCgu0szywH88sLfKyRIC1b-4wlJHmvqr2dy-Mzhjx9q6I9y0SDliZH5J44BwherR9UyNt9gp2hoMbx26zUyGvrq7G6YNEA4t4Co_AA/s1600/Deus_coronavirus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCXbbCPWbSNwGoH2Au6H0CQ9pFfUMRvalCYGb_fCgu0szywH88sLfKyRIC1b-4wlJHmvqr2dy-Mzhjx9q6I9y0SDliZH5J44BwherR9UyNt9gp2hoMbx26zUyGvrq7G6YNEA4t4Co_AA/s320/Deus_coronavirus.png" width="320" height="283" data-original-width="463" data-original-height="409" /></a></div>

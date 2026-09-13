@@ -1,7 +1,7 @@
 ---
 title: "Sempre em busca"
 date: 2018-01-22T18:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkb8MmZqvZEfVpUUGj5QIoPAa9x9TUUyAUyFvwTEkxmSJBSn329SbKLGq6YiphzukiWkcrFi57fyBZEXZ4aXVEdgPN2m1yw_hZrE8qwk5nTrQ_a15yMcViN7Hv7fOGJLc7DfuuqEeqjA/s320/minion.png"
+heroImage: "/images/minion.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkb8MmZqvZEfVpUUGj5QIoPAa9x9TUUyAUyFvwTEkxmSJBSn329SbKLGq6YiphzukiWkcrFi57fyBZEXZ4aXVEdgPN2m1yw_hZrE8qwk5nTrQ_a15yMcViN7Hv7fOGJLc7DfuuqEeqjA/s1600/minion.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="741" data-original-width="671" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkb8MmZqvZEfVpUUGj5QIoPAa9x9TUUyAUyFvwTEkxmSJBSn329SbKLGq6YiphzukiWkcrFi57fyBZEXZ4aXVEdgPN2m1yw_hZrE8qwk5nTrQ_a15yMcViN7Hv7fOGJLc7DfuuqEeqjA/s320/minion.png" width="290" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>No filme de animação Os Minions, acompanhamos a história desses personagens que se resume em estarem sempre em busca de algum vilão para servirem. Quando encontravam um, faziam de tudo para agrada-lo. Como se vê no desenho, é da natureza deles viverem a serviço de alguém “maior” do que eles, não se tratando aqui da altura. Compreendemos bem no filme que esse era o propósito dessas criaturinhas, os minions no final da história terminam por encontrar o vilão do filme Meu Malvado Favorito, onde desse ponto em diante já conhecemos como as coisas se passaram.

@@ -1,7 +1,7 @@
 ---
 title: "Por que esperar?"
 date: 2015-10-19T19:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gcIcdw3bKy3ZRPVeNxmzPEQOesenpTZdejeBJXIOPh9GWiYFVXjHAvo4B01GhWznpXS0EDfm0E6WZMnGNqVSnnCtgElTOMH8uZSKjdbx2fFEHxYdMWasV5xItzHSHOwseE87902NESA/s320/batizando.png"
+heroImage: "/images/batizando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gcIcdw3bKy3ZRPVeNxmzPEQOesenpTZdejeBJXIOPh9GWiYFVXjHAvo4B01GhWznpXS0EDfm0E6WZMnGNqVSnnCtgElTOMH8uZSKjdbx2fFEHxYdMWasV5xItzHSHOwseE87902NESA/s1600/batizando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gcIcdw3bKy3ZRPVeNxmzPEQOesenpTZdejeBJXIOPh9GWiYFVXjHAvo4B01GhWznpXS0EDfm0E6WZMnGNqVSnnCtgElTOMH8uZSKjdbx2fFEHxYdMWasV5xItzHSHOwseE87902NESA/s320/batizando.png" width="320" height="304" data-original-width="278" data-original-height="264" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Quem erra cumprindo a lei, não tem culpa"
 date: 2016-12-26T14:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5FbUktwEal_kJxr6F_5wmoYLFZfykPHXcluTH42fA6rLOC88iiXEIe0maqugcf74kbddlCsSvC4n2lO8v57p8-Abuh7KpnUYeVU4Za6QSvNSHknPjv3IuSI6yeqWVvEEkXTvj3Pni6Zg/s320/cumprindo_a_lei.png"
+heroImage: "/images/cumprindo_a_lei.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5FbUktwEal_kJxr6F_5wmoYLFZfykPHXcluTH42fA6rLOC88iiXEIe0maqugcf74kbddlCsSvC4n2lO8v57p8-Abuh7KpnUYeVU4Za6QSvNSHknPjv3IuSI6yeqWVvEEkXTvj3Pni6Zg/s1600/cumprindo_a_lei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5FbUktwEal_kJxr6F_5wmoYLFZfykPHXcluTH42fA6rLOC88iiXEIe0maqugcf74kbddlCsSvC4n2lO8v57p8-Abuh7KpnUYeVU4Za6QSvNSHknPjv3IuSI6yeqWVvEEkXTvj3Pni6Zg/s320/cumprindo_a_lei.png" width="320" height="209" data-original-width="795" data-original-height="520" /></a></div>

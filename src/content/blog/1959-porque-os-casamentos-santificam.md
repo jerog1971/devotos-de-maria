@@ -1,7 +1,7 @@
 ---
 title: "Porque os casamentos santificam"
 date: 2016-08-29T13:04:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0XqqVXojf1FPgIRBBP8Q8GNikvi7HgIYYOmmG40bWDWtA0P_PLwc7ImCVpdQt05gw288TrcvSRqctBAEV6HZ5nXmrqeIa528iVWzGJJT6Hr9G2daMEoGomGRm8bppSCe0OAKMQuiV_E/s320/casar.png"
+heroImage: "/images/casar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0XqqVXojf1FPgIRBBP8Q8GNikvi7HgIYYOmmG40bWDWtA0P_PLwc7ImCVpdQt05gw288TrcvSRqctBAEV6HZ5nXmrqeIa528iVWzGJJT6Hr9G2daMEoGomGRm8bppSCe0OAKMQuiV_E/s1600/casar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0XqqVXojf1FPgIRBBP8Q8GNikvi7HgIYYOmmG40bWDWtA0P_PLwc7ImCVpdQt05gw288TrcvSRqctBAEV6HZ5nXmrqeIa528iVWzGJJT6Hr9G2daMEoGomGRm8bppSCe0OAKMQuiV_E/s320/casar.png" width="320" height="257" data-original-width="642" data-original-height="516" /></a></div>

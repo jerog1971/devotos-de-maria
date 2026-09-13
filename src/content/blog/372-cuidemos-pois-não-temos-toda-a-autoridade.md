@@ -1,7 +1,7 @@
 ---
 title: "Cuidemos, pois não temos toda a autoridade"
 date: 2023-01-13T21:54:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_DCQTGorGXnckJs0u0D81NzrPljLsp-WTf7ceslHNX26TDB_Nt7-Rf9YJMYk1azjtKE8p_8J2L9INiGHqkPtYxKJFsBBYcqPTZzNSpOc9HfEA8nqfNvkkOLUDACX8Oj1sI2htjDnpJ3a3LOy5EaUo8Vsg63w7BZIHw7RzmHwo-qcFJ4VQ10Ui1oS-/s320/n%C3%A3o%20temos%20toda%20a%20autoridade.png"
+heroImage: "/images/autoridade.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_DCQTGorGXnckJs0u0D81NzrPljLsp-WTf7ceslHNX26TDB_Nt7-Rf9YJMYk1azjtKE8p_8J2L9INiGHqkPtYxKJFsBBYcqPTZzNSpOc9HfEA8nqfNvkkOLUDACX8Oj1sI2htjDnpJ3a3LOy5EaUo8Vsg63w7BZIHw7RzmHwo-qcFJ4VQ10Ui1oS-/s427/n%C3%A3o%20temos%20toda%20a%20autoridade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="329" data-original-width="427" height="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_DCQTGorGXnckJs0u0D81NzrPljLsp-WTf7ceslHNX26TDB_Nt7-Rf9YJMYk1azjtKE8p_8J2L9INiGHqkPtYxKJFsBBYcqPTZzNSpOc9HfEA8nqfNvkkOLUDACX8Oj1sI2htjDnpJ3a3LOy5EaUo8Vsg63w7BZIHw7RzmHwo-qcFJ4VQ10Ui1oS-/s320/n%C3%A3o%20temos%20toda%20a%20autoridade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não se ouve falar por aí e com frequência que os pais dão

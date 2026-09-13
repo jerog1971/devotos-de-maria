@@ -1,7 +1,7 @@
 ---
 title: "Meditar as coisas no coração"
 date: 2017-10-10T12:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTKqsHHeso94M-AbzJhyphenhyphen-AvWHFNTixKo9xfsmckHbaX0B_OUMVUEvxwV24ud-InzaXRXUSTDivuqj9wbHxrcxnNOU2eVWDuRJYhIg-hOLYiNojaZsvuY4FB7VBVpLOG8bU9SNf2S-cRFI/s320/pensativo.png"
+heroImage: "/images/pensativo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTKqsHHeso94M-AbzJhyphenhyphen-AvWHFNTixKo9xfsmckHbaX0B_OUMVUEvxwV24ud-InzaXRXUSTDivuqj9wbHxrcxnNOU2eVWDuRJYhIg-hOLYiNojaZsvuY4FB7VBVpLOG8bU9SNf2S-cRFI/s1600/pensativo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTKqsHHeso94M-AbzJhyphenhyphen-AvWHFNTixKo9xfsmckHbaX0B_OUMVUEvxwV24ud-InzaXRXUSTDivuqj9wbHxrcxnNOU2eVWDuRJYhIg-hOLYiNojaZsvuY4FB7VBVpLOG8bU9SNf2S-cRFI/s320/pensativo.png" width="310" height="320" data-original-width="353" data-original-height="364" /></a></div>

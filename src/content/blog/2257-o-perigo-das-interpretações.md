@@ -1,7 +1,7 @@
 ---
 title: "O perigo das interpretações"
 date: 2021-11-30T15:58:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_-kywriIlwlQvPYtrf4CTVeQzaHK4fGiTIMcMGNoPIV-mbVEFoGm73wXw97kFLcQFnfPtqvsaC0JfJHQHw7yPIavLxwbTnf2nyDASLzS1Ln1RMX5aLDMF5NSAoWFlUNWprd_NLhWcyQ/s320/o+perigo+das+interpreta%25C3%25A7%25C3%25B5es.png"
+heroImage: "/images/perigo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_-kywriIlwlQvPYtrf4CTVeQzaHK4fGiTIMcMGNoPIV-mbVEFoGm73wXw97kFLcQFnfPtqvsaC0JfJHQHw7yPIavLxwbTnf2nyDASLzS1Ln1RMX5aLDMF5NSAoWFlUNWprd_NLhWcyQ/s617/o+perigo+das+interpreta%25C3%25A7%25C3%25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="591" data-original-width="617" height="307" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_-kywriIlwlQvPYtrf4CTVeQzaHK4fGiTIMcMGNoPIV-mbVEFoGm73wXw97kFLcQFnfPtqvsaC0JfJHQHw7yPIavLxwbTnf2nyDASLzS1Ln1RMX5aLDMF5NSAoWFlUNWprd_NLhWcyQ/s320/o+perigo+das+interpreta%25C3%25A7%25C3%25B5es.png" width="320" /></a></div><p></p><p class="MsoNormal">Já dizia o ditado sobre: “puxar a sardinha para o próprio

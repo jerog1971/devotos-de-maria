@@ -1,7 +1,7 @@
 ---
 title: "A Administração do Tempo"
 date: 2016-09-19T15:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34imB2C3fY9uHAA13hyIJCAajtgpLcaM3Q88YZAtPM-s064oCIP1nKtmM1Lo0b5hcIn_ncvfMwT7lL9W856ZIlcTRIKeG7R0FXGU5jmXypeskrOJ0GT6bHpq3u8w5zC02W3TiutXwCdc/s320/tempo.png"
+heroImage: "/images/passando o tempo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34imB2C3fY9uHAA13hyIJCAajtgpLcaM3Q88YZAtPM-s064oCIP1nKtmM1Lo0b5hcIn_ncvfMwT7lL9W856ZIlcTRIKeG7R0FXGU5jmXypeskrOJ0GT6bHpq3u8w5zC02W3TiutXwCdc/s1600/tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34imB2C3fY9uHAA13hyIJCAajtgpLcaM3Q88YZAtPM-s064oCIP1nKtmM1Lo0b5hcIn_ncvfMwT7lL9W856ZIlcTRIKeG7R0FXGU5jmXypeskrOJ0GT6bHpq3u8w5zC02W3TiutXwCdc/s320/tempo.png" width="319" height="320" data-original-width="517" data-original-height="519" /></a></div>

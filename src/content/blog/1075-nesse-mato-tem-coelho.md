@@ -1,7 +1,7 @@
 ---
 title: "Nesse mato tem coelho"
 date: 2020-09-21T13:37:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCGu56NiH3c94LJ9FE4FUtBRtayfMufbGSdotQQIuSu6fKEhNkcgVus-qjNegs0WvGsIV7ydoCTY1JstjiZAb4SOPD5PrPJsK-ThsCoR-KaSol3INnXdjlqyq5R7rxuhlQNCNgaXaygyw/s320/coelho.jpg"
+heroImage: "/images/coelho.jpg"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCGu56NiH3c94LJ9FE4FUtBRtayfMufbGSdotQQIuSu6fKEhNkcgVus-qjNegs0WvGsIV7ydoCTY1JstjiZAb4SOPD5PrPJsK-ThsCoR-KaSol3INnXdjlqyq5R7rxuhlQNCNgaXaygyw/s590/coelho.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="529" data-original-width="590" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCGu56NiH3c94LJ9FE4FUtBRtayfMufbGSdotQQIuSu6fKEhNkcgVus-qjNegs0WvGsIV7ydoCTY1JstjiZAb4SOPD5PrPJsK-ThsCoR-KaSol3INnXdjlqyq5R7rxuhlQNCNgaXaygyw/s320/coelho.jpg" width="320" /></a></div><br /><p></p><p class="MsoNormal">Os ditados populares são as parábolas do povo. De longa data

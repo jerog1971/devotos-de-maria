@@ -1,7 +1,7 @@
 ---
 title: "A bíblia e os adúlteros"
 date: 2020-12-22T18:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPK07Q2-zEtdUaHB10V0sabTo0Mue-isPSPT69NbRMlE45Sg-ko3bI9tdOqc4nu4Rg65osThpwsnRGA_-E_HHRmw7hyFbwW0Y8D0iuoD5frfH1z2eJdQzoxW2oAoSFLlvTB9nl_H7wPKA/s320/adulteros.png"
+heroImage: "/images/adulteros.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPK07Q2-zEtdUaHB10V0sabTo0Mue-isPSPT69NbRMlE45Sg-ko3bI9tdOqc4nu4Rg65osThpwsnRGA_-E_HHRmw7hyFbwW0Y8D0iuoD5frfH1z2eJdQzoxW2oAoSFLlvTB9nl_H7wPKA/s520/adulteros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="520" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPK07Q2-zEtdUaHB10V0sabTo0Mue-isPSPT69NbRMlE45Sg-ko3bI9tdOqc4nu4Rg65osThpwsnRGA_-E_HHRmw7hyFbwW0Y8D0iuoD5frfH1z2eJdQzoxW2oAoSFLlvTB9nl_H7wPKA/s320/adulteros.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Vamos dar uma passadinha pelas sagradas escrituras para vermos

@@ -1,7 +1,7 @@
 ---
 title: "O lar de muitos"
 date: 2017-06-05T11:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1XfzUPH5oeASrG44f3-_foDw4pGHqHitZDUikdH2067HydyZ0rXKG71eUFfp8AkQzHjAOJSveIlq2Tc2SByJe_9hthI5utAq_vwC2F5WzkEHMrYAykw6xaIo0qja9tv2VXW7Cn9Nfnlc/s320/orfanato.png"
+heroImage: "/images/orfanato.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1XfzUPH5oeASrG44f3-_foDw4pGHqHitZDUikdH2067HydyZ0rXKG71eUFfp8AkQzHjAOJSveIlq2Tc2SByJe_9hthI5utAq_vwC2F5WzkEHMrYAykw6xaIo0qja9tv2VXW7Cn9Nfnlc/s1600/orfanato.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1XfzUPH5oeASrG44f3-_foDw4pGHqHitZDUikdH2067HydyZ0rXKG71eUFfp8AkQzHjAOJSveIlq2Tc2SByJe_9hthI5utAq_vwC2F5WzkEHMrYAykw6xaIo0qja9tv2VXW7Cn9Nfnlc/s320/orfanato.png" width="320" height="288" data-original-width="577" data-original-height="519" /></a></div>

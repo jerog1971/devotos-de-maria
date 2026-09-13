@@ -1,7 +1,7 @@
 ---
 title: "No sofrimento a oração tem mais valor"
 date: 2017-08-30T12:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZuwzSBNQ_E8Dlj6n7gSx_cDKosZbHzppUddDIKCv1qzOgx8fDqsrU5aAM9aBKGb5IQd-B0xtni5B3HEDLbawtOSYsAOD4-h1FvDRTdjjJt-qsN_KNlDujnSGlF6RDZlggOJG9Y_qBuU/s320/consola%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/sola.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZuwzSBNQ_E8Dlj6n7gSx_cDKosZbHzppUddDIKCv1qzOgx8fDqsrU5aAM9aBKGb5IQd-B0xtni5B3HEDLbawtOSYsAOD4-h1FvDRTdjjJt-qsN_KNlDujnSGlF6RDZlggOJG9Y_qBuU/s1600/consola%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZuwzSBNQ_E8Dlj6n7gSx_cDKosZbHzppUddDIKCv1qzOgx8fDqsrU5aAM9aBKGb5IQd-B0xtni5B3HEDLbawtOSYsAOD4-h1FvDRTdjjJt-qsN_KNlDujnSGlF6RDZlggOJG9Y_qBuU/s320/consola%25C3%25A7%25C3%25A3o.png" width="320" height="312" data-original-width="316" data-original-height="308" /></a></div>

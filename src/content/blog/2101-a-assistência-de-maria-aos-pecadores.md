@@ -1,7 +1,7 @@
 ---
 title: "A assistência de Maria aos pecadores"
 date: 2020-04-18T17:07:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnf3PY0ilPmpO-T7NbBSSqBgQQQVgGU9-1sXIRiVheCaNvxZhvV2mD_d-843Tf1Ti5geAg2_JGdBFDxl4mf0yq45T9UoFP0atuwCbTrUuoF0pVzKDc5etEq_TwEgkuKMg-LHw9hErXQXY/s320/Virgem+Maria.png"
+heroImage: "/images/Maria.gif"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnf3PY0ilPmpO-T7NbBSSqBgQQQVgGU9-1sXIRiVheCaNvxZhvV2mD_d-843Tf1Ti5geAg2_JGdBFDxl4mf0yq45T9UoFP0atuwCbTrUuoF0pVzKDc5etEq_TwEgkuKMg-LHw9hErXQXY/s1600/Virgem+Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnf3PY0ilPmpO-T7NbBSSqBgQQQVgGU9-1sXIRiVheCaNvxZhvV2mD_d-843Tf1Ti5geAg2_JGdBFDxl4mf0yq45T9UoFP0atuwCbTrUuoF0pVzKDc5etEq_TwEgkuKMg-LHw9hErXQXY/s320/Virgem+Maria.png" width="231" height="320" data-original-width="233" data-original-height="323" /></a></div>

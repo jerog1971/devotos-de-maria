@@ -1,7 +1,7 @@
 ---
 title: "Treinando o Corpo"
 date: 2017-09-15T19:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5eMHnjQea_ktUy6QUgoxtARaqg6TBK6LjJXOq8b6i1xJjRMeVIq7MrbJ4rGjO1ipcVD-bxr89PFhtflpkB9kDs7QIkWXVs1ZziHGMu1yarPfPN6EqJbJ2D6vHHFeCPCV4UW-Ahyphenhyphenj9I_g/s320/urubici_2011.png"
+heroImage: "/images/urubici_2011.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5eMHnjQea_ktUy6QUgoxtARaqg6TBK6LjJXOq8b6i1xJjRMeVIq7MrbJ4rGjO1ipcVD-bxr89PFhtflpkB9kDs7QIkWXVs1ZziHGMu1yarPfPN6EqJbJ2D6vHHFeCPCV4UW-Ahyphenhyphenj9I_g/s1600/urubici_2011.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5eMHnjQea_ktUy6QUgoxtARaqg6TBK6LjJXOq8b6i1xJjRMeVIq7MrbJ4rGjO1ipcVD-bxr89PFhtflpkB9kDs7QIkWXVs1ZziHGMu1yarPfPN6EqJbJ2D6vHHFeCPCV4UW-Ahyphenhyphenj9I_g/s320/urubici_2011.png" width="303" height="320" data-original-width="418" data-original-height="441" /></a></div>

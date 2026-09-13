@@ -1,7 +1,7 @@
 ---
 title: "Não seja um católico contaminado"
 date: 2016-02-29T12:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieBbbzG1CgvhNqnDPU6o36VKF8HsRWYRjhxc7MHjBD2z7NXzQmD4UE_3sGnDqtbrAHc09sPgVRl9Lh3MZONTYod-aoMs4RQfwJFqneQ2ebowgSWWCMJnR5RvCvLFDKwfTRBaJ5GFnLZas/s320/nerojansen.png"
+heroImage: "/images/nerojansen.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieBbbzG1CgvhNqnDPU6o36VKF8HsRWYRjhxc7MHjBD2z7NXzQmD4UE_3sGnDqtbrAHc09sPgVRl9Lh3MZONTYod-aoMs4RQfwJFqneQ2ebowgSWWCMJnR5RvCvLFDKwfTRBaJ5GFnLZas/s1600/nerojansen.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieBbbzG1CgvhNqnDPU6o36VKF8HsRWYRjhxc7MHjBD2z7NXzQmD4UE_3sGnDqtbrAHc09sPgVRl9Lh3MZONTYod-aoMs4RQfwJFqneQ2ebowgSWWCMJnR5RvCvLFDKwfTRBaJ5GFnLZas/s320/nerojansen.png" width="320" height="145" data-original-width="685" data-original-height="311" /></a></div>

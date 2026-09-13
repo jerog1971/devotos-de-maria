@@ -1,7 +1,7 @@
 ---
 title: "Livros"
 date: 2020-04-18T17:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWONgqadY7tH3tudKUnX4IJs_xjzNHqtgCILyorv6Rq7qep752PDtozOSecmFhm-XY5BzbvMhHYabzoX41KerTBi8FG3Wbaq38AN1oTY8iUqdrDUZ8mNG2ul4BZ1PBqwaP_sSbjrR9A2A/s200/livro_01.png"
+heroImage: "/images/livro_01.png"
 ---
 
 <h2>01 - Meu caminho para Deus</h2>

@@ -1,7 +1,7 @@
 ---
 title: "Isso é fé em Deus"
 date: 2020-03-18T15:33:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTbH-lIJzSEQUSqCTvxBGfemX4mVny8uWy19KH914I1Zpf2P2Z4dhvPpQMoo5ru1h1b7hdXaR8WFREd7k4ZFhDyUwxCpBgs5KiHUbLmfwHTkFaTtu-alxLnB6gmDcYvo5qZUDwCt4wj7I/s320/prociss%25C3%25A3o_contra_coronavirus.png"
+heroImage: "/images/coronavirus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTbH-lIJzSEQUSqCTvxBGfemX4mVny8uWy19KH914I1Zpf2P2Z4dhvPpQMoo5ru1h1b7hdXaR8WFREd7k4ZFhDyUwxCpBgs5KiHUbLmfwHTkFaTtu-alxLnB6gmDcYvo5qZUDwCt4wj7I/s1600/prociss%25C3%25A3o_contra_coronavirus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTbH-lIJzSEQUSqCTvxBGfemX4mVny8uWy19KH914I1Zpf2P2Z4dhvPpQMoo5ru1h1b7hdXaR8WFREd7k4ZFhDyUwxCpBgs5KiHUbLmfwHTkFaTtu-alxLnB6gmDcYvo5qZUDwCt4wj7I/s320/prociss%25C3%25A3o_contra_coronavirus.png" width="320" height="215" data-original-width="585" data-original-height="393" /></a></div>

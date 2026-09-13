@@ -1,7 +1,7 @@
 ---
 title: "Não deixe que a realidade ofusque o brilho do seu olhar"
 date: 2019-05-14T16:08:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMpo8Nqf1Pflimxwo372ALQylGhJ5FSwaEpkxrpp_vgy07_AqAorNehUYY_bFjX4rL-aTPRz4dzjnp-sWAAG-pTbecWIrTQmBVESdVkSkSfcVW0HhG1_qL12VxgjeYKF5qOi1ZzJhY2oU/s320/encontradoporjesus.png"
+heroImage: "/images/encontradoporjesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMpo8Nqf1Pflimxwo372ALQylGhJ5FSwaEpkxrpp_vgy07_AqAorNehUYY_bFjX4rL-aTPRz4dzjnp-sWAAG-pTbecWIrTQmBVESdVkSkSfcVW0HhG1_qL12VxgjeYKF5qOi1ZzJhY2oU/s1600/encontradoporjesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMpo8Nqf1Pflimxwo372ALQylGhJ5FSwaEpkxrpp_vgy07_AqAorNehUYY_bFjX4rL-aTPRz4dzjnp-sWAAG-pTbecWIrTQmBVESdVkSkSfcVW0HhG1_qL12VxgjeYKF5qOi1ZzJhY2oU/s320/encontradoporjesus.png" width="320" height="302" data-original-width="401" data-original-height="378" /></a></div>

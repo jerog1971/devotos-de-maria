@@ -1,7 +1,7 @@
 ---
 title: "Medo, sofrimento e o purgatório"
 date: 2026-09-01T11:28:59.565Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzw5JryVS38TKATt7y2tyCrVK74tazANBE4qZApVXKMPzEVfEhf6im6vCzYCYoHLZWKOa6pm3D40dgHsQdT2m784l86LB7uK3LlgvrSm5RClmxgHLfH6Ep1PrBWCEPq381SsoZw2mE6haexjxXQ7aWwhNCnz2Q-u9k5jh54zL-JsrW3xWzr4SCh4TsPNI/s1600/purgat%C3%B3rio.png"
+heroImage: "/images/almas do purgatório.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzw5JryVS38TKATt7y2tyCrVK74tazANBE4qZApVXKMPzEVfEhf6im6vCzYCYoHLZWKOa6pm3D40dgHsQdT2m784l86LB7uK3LlgvrSm5RClmxgHLfH6Ep1PrBWCEPq381SsoZw2mE6haexjxXQ7aWwhNCnz2Q-u9k5jh54zL-JsrW3xWzr4SCh4TsPNI/s320/purgat%C3%B3rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="190" data-original-width="320" height="190" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzw5JryVS38TKATt7y2tyCrVK74tazANBE4qZApVXKMPzEVfEhf6im6vCzYCYoHLZWKOa6pm3D40dgHsQdT2m784l86LB7uK3LlgvrSm5RClmxgHLfH6Ep1PrBWCEPq381SsoZw2mE6haexjxXQ7aWwhNCnz2Q-u9k5jh54zL-JsrW3xWzr4SCh4TsPNI/s1600/purgat%C3%B3rio.png" width="320" /></a></div><p></p><p>Na voz do Padre Schouppe ouvimos que "aquele fogo, acendido pela justiça divina, aquelas dores excruciantes, 

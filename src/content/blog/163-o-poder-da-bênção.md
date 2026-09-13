@@ -1,7 +1,7 @@
 ---
 title: "O poder da bênção"
 date: 2024-02-15T17:03:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrwHUAbNuqpEeaO02shBPppuXZ_J6bJzMpNsnMSOB_0fkpPv88LVKPfoh-ipx1yMHJWegRxejs0LmQMDGo7VI9Jhi1ap09d87obX3xAms5VnOHOEN1ahpVTb9c9ptt0__usPQZp8zc2u3YE6mFe4QgajNdFrvjfzj4wINAHYhCq1KC3iuznzSd7yPb0Cs/s320/a%20b%C3%AAn%C3%A7%C3%A3o%20de%20nossa%20senhora.png"
+heroImage: "/images/Bênção.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrwHUAbNuqpEeaO02shBPppuXZ_J6bJzMpNsnMSOB_0fkpPv88LVKPfoh-ipx1yMHJWegRxejs0LmQMDGo7VI9Jhi1ap09d87obX3xAms5VnOHOEN1ahpVTb9c9ptt0__usPQZp8zc2u3YE6mFe4QgajNdFrvjfzj4wINAHYhCq1KC3iuznzSd7yPb0Cs/s394/a%20b%C3%AAn%C3%A7%C3%A3o%20de%20nossa%20senhora.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="394" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrwHUAbNuqpEeaO02shBPppuXZ_J6bJzMpNsnMSOB_0fkpPv88LVKPfoh-ipx1yMHJWegRxejs0LmQMDGo7VI9Jhi1ap09d87obX3xAms5VnOHOEN1ahpVTb9c9ptt0__usPQZp8zc2u3YE6mFe4QgajNdFrvjfzj4wINAHYhCq1KC3iuznzSd7yPb0Cs/s320/a%20b%C3%AAn%C3%A7%C3%A3o%20de%20nossa%20senhora.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Trecho retirado do livro “Eu vejo a virgem” – Editora Loyola

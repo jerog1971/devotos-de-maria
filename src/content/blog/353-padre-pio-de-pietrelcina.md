@@ -1,7 +1,7 @@
 ---
 title: "Padre Pio de Pietrelcina"
 date: 2017-08-23T14:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-jj9uZx3W0B4XGx5lZj7XpwjxWhFEZaK24CHeHMJf9jTZ5_XHFyhzm_1c_DaKK_Fdn-ZppBM3CJAsg5yfA6XiqwvxeHMSAnW3RG9r1I4WN2A3c6L4q_NR6gSjDw-EtZt-EfWdEiMZbW4/s320/Piorezando.png"
+heroImage: "/images/Piorezando.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-jj9uZx3W0B4XGx5lZj7XpwjxWhFEZaK24CHeHMJf9jTZ5_XHFyhzm_1c_DaKK_Fdn-ZppBM3CJAsg5yfA6XiqwvxeHMSAnW3RG9r1I4WN2A3c6L4q_NR6gSjDw-EtZt-EfWdEiMZbW4/s1600/Piorezando.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-jj9uZx3W0B4XGx5lZj7XpwjxWhFEZaK24CHeHMJf9jTZ5_XHFyhzm_1c_DaKK_Fdn-ZppBM3CJAsg5yfA6XiqwvxeHMSAnW3RG9r1I4WN2A3c6L4q_NR6gSjDw-EtZt-EfWdEiMZbW4/s320/Piorezando.png" width="320" height="181" data-original-width="634" data-original-height="358" /></a>

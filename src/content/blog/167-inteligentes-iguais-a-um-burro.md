@@ -1,7 +1,7 @@
 ---
 title: "Inteligentes iguais a um burro"
 date: 2017-11-01T17:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5bpb-iuv0_EAQ6gG9knCDcwGFQlO8oIv8g8NLvaiMwTfyYWOYS9rlD2M4mrFZSCcYwZmFRZ-4DH3WnVCEYNapDq8LYtSnxS4KcZpaDNlgJtgZkS7enkIsB9QfePKyUCodl6vlq_Ry1eg/s320/burro.png"
+heroImage: "/images/burro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5bpb-iuv0_EAQ6gG9knCDcwGFQlO8oIv8g8NLvaiMwTfyYWOYS9rlD2M4mrFZSCcYwZmFRZ-4DH3WnVCEYNapDq8LYtSnxS4KcZpaDNlgJtgZkS7enkIsB9QfePKyUCodl6vlq_Ry1eg/s1600/burro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5bpb-iuv0_EAQ6gG9knCDcwGFQlO8oIv8g8NLvaiMwTfyYWOYS9rlD2M4mrFZSCcYwZmFRZ-4DH3WnVCEYNapDq8LYtSnxS4KcZpaDNlgJtgZkS7enkIsB9QfePKyUCodl6vlq_Ry1eg/s320/burro.png" width="320" height="310" data-original-width="504" data-original-height="489" /></a></div>

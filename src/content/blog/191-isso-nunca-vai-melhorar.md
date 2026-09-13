@@ -1,7 +1,7 @@
 ---
 title: "Isso nunca vai melhorar"
 date: 2016-10-14T12:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQ69TegwjKRrUct0Z1z1jy_sAFf9S53M-fQq2SNz7opdCQb4CiSte7EoajGFBKSUwd8kzcD365Ss2gX0OvTsylKwyDSYWaEYqFRhHlk4SuCYGbFyonL-p0jCVEK_VC-xj1YAeO1aCvwg/s320/desanimo.png"
+heroImage: "/images/desanimo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQ69TegwjKRrUct0Z1z1jy_sAFf9S53M-fQq2SNz7opdCQb4CiSte7EoajGFBKSUwd8kzcD365Ss2gX0OvTsylKwyDSYWaEYqFRhHlk4SuCYGbFyonL-p0jCVEK_VC-xj1YAeO1aCvwg/s1600/desanimo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQ69TegwjKRrUct0Z1z1jy_sAFf9S53M-fQq2SNz7opdCQb4CiSte7EoajGFBKSUwd8kzcD365Ss2gX0OvTsylKwyDSYWaEYqFRhHlk4SuCYGbFyonL-p0jCVEK_VC-xj1YAeO1aCvwg/s320/desanimo.png" width="320" height="207" data-original-width="292" data-original-height="189" /></a></div>

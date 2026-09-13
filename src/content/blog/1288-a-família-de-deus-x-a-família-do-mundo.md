@@ -1,7 +1,7 @@
 ---
 title: "A família de Deus x A família do mundo"
 date: 2016-08-19T14:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimBxEoNsOdNRY2u86Nawz6H3fFVKnzuBOh-2ov-N3vRsnUJSRbT7zS_ww9SkyIuE1ZYwkbheHXcG8o1iQImU1xjadHRFQxFMRMhTc42Dq-l141P65NgSFixDVrxHprBHnZIre5YbHN3tQ/s320/ataque.png"
+heroImage: "/images/ataque.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimBxEoNsOdNRY2u86Nawz6H3fFVKnzuBOh-2ov-N3vRsnUJSRbT7zS_ww9SkyIuE1ZYwkbheHXcG8o1iQImU1xjadHRFQxFMRMhTc42Dq-l141P65NgSFixDVrxHprBHnZIre5YbHN3tQ/s1600/ataque.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimBxEoNsOdNRY2u86Nawz6H3fFVKnzuBOh-2ov-N3vRsnUJSRbT7zS_ww9SkyIuE1ZYwkbheHXcG8o1iQImU1xjadHRFQxFMRMhTc42Dq-l141P65NgSFixDVrxHprBHnZIre5YbHN3tQ/s320/ataque.png" width="320" height="254" data-original-width="294" data-original-height="233" /></a></div>

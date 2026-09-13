@@ -1,7 +1,7 @@
 ---
 title: "Consideração própria"
 date: 2020-06-30T16:04:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGAKop0SM6rujpaQ1-vG8YOeLS7iVJz0iFBQw5K7rtosIjcMbyt1EKg4wjiZvPNFUXAjgTG8LQo9daHl-rpaaJDy1qAoo3yVfpchDSHque55f5Fnuj7DDDbxNJjrfnJ7yyIE8oRxHsdPg/s320/cuidado.png"
+heroImage: "/images/cuidado.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGAKop0SM6rujpaQ1-vG8YOeLS7iVJz0iFBQw5K7rtosIjcMbyt1EKg4wjiZvPNFUXAjgTG8LQo9daHl-rpaaJDy1qAoo3yVfpchDSHque55f5Fnuj7DDDbxNJjrfnJ7yyIE8oRxHsdPg/s416/cuidado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="401" data-original-width="416" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGAKop0SM6rujpaQ1-vG8YOeLS7iVJz0iFBQw5K7rtosIjcMbyt1EKg4wjiZvPNFUXAjgTG8LQo9daHl-rpaaJDy1qAoo3yVfpchDSHque55f5Fnuj7DDDbxNJjrfnJ7yyIE8oRxHsdPg/s320/cuidado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não podemos confiar muito em nós, porque frequentemente nos

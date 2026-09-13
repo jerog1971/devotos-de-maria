@@ -1,7 +1,7 @@
 ---
 title: "Aluno é expulso de sala de aula após afirmar que só existem dois gêneros"
 date: 2019-06-25T16:47:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXI33dVO1qTXGJACfKhQRVLWbQ-kCnDHYrgVvdinMrJTRJ0M_ssa88bfSxAXuxz086OWQFQyRA-7JVZYDkbJziuR4rnoeW7nNuPnP-WkQn8R7Ob0epAwm9Xe14n1EihyMbOEPiYDD5vnU/s320/aluno_expulso.png"
+heroImage: "/images/aluno_expulso.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXI33dVO1qTXGJACfKhQRVLWbQ-kCnDHYrgVvdinMrJTRJ0M_ssa88bfSxAXuxz086OWQFQyRA-7JVZYDkbJziuR4rnoeW7nNuPnP-WkQn8R7Ob0epAwm9Xe14n1EihyMbOEPiYDD5vnU/s1600/aluno_expulso.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXI33dVO1qTXGJACfKhQRVLWbQ-kCnDHYrgVvdinMrJTRJ0M_ssa88bfSxAXuxz086OWQFQyRA-7JVZYDkbJziuR4rnoeW7nNuPnP-WkQn8R7Ob0epAwm9Xe14n1EihyMbOEPiYDD5vnU/s320/aluno_expulso.png" width="320" height="215" data-original-width="756" data-original-height="509" /></a></div>

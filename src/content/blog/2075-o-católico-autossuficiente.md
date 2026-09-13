@@ -1,7 +1,7 @@
 ---
 title: "O católico autossuficiente"
 date: 2017-02-07T10:48:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd-SPvwuSCt80vO3-b-qNYG9ByWjgR1p4Gwot09ztrEq-SpMGKDUUO_IEpHgBIo7qmgI85Rb6KjGqDkup4-AQ0UOtd1FWt3JSQLxKK8pZLSFwRj5EWS3rXOt9OhLe9AwlnKwbDt5EEaxM/s320/newman.png"
+heroImage: "/images/newman.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd-SPvwuSCt80vO3-b-qNYG9ByWjgR1p4Gwot09ztrEq-SpMGKDUUO_IEpHgBIo7qmgI85Rb6KjGqDkup4-AQ0UOtd1FWt3JSQLxKK8pZLSFwRj5EWS3rXOt9OhLe9AwlnKwbDt5EEaxM/s1600/newman.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd-SPvwuSCt80vO3-b-qNYG9ByWjgR1p4Gwot09ztrEq-SpMGKDUUO_IEpHgBIo7qmgI85Rb6KjGqDkup4-AQ0UOtd1FWt3JSQLxKK8pZLSFwRj5EWS3rXOt9OhLe9AwlnKwbDt5EEaxM/s320/newman.png" width="320" height="300" data-original-width="553" data-original-height="518" /></a></div>

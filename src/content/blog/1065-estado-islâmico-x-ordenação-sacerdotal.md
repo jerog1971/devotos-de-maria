@@ -1,7 +1,7 @@
 ---
 title: "Estado Islâmico x Ordenação Sacerdotal"
 date: 2016-10-05T16:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr6AYY5UR7MYfTQcoqzCcGjY-05wB3jG3Rt9txGDYuIMitIODkBVcHcXH0fom2vZPwHbxNb_qaUi1XkZNohCdCwzeWcoZMWxWV4pNu7ioj-2K5ohhit0BEQ3BhB9M3-RAFPI5IpiaQ0ng/s320/Padre_Martin_Baani.png"
+heroImage: "/images/Padre_Martin_Baani.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr6AYY5UR7MYfTQcoqzCcGjY-05wB3jG3Rt9txGDYuIMitIODkBVcHcXH0fom2vZPwHbxNb_qaUi1XkZNohCdCwzeWcoZMWxWV4pNu7ioj-2K5ohhit0BEQ3BhB9M3-RAFPI5IpiaQ0ng/s1600/Padre_Martin_Baani.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr6AYY5UR7MYfTQcoqzCcGjY-05wB3jG3Rt9txGDYuIMitIODkBVcHcXH0fom2vZPwHbxNb_qaUi1XkZNohCdCwzeWcoZMWxWV4pNu7ioj-2K5ohhit0BEQ3BhB9M3-RAFPI5IpiaQ0ng/s320/Padre_Martin_Baani.png" width="320" height="269" data-original-width="398" data-original-height="334" /></a></div>

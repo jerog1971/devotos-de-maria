@@ -1,7 +1,7 @@
 ---
 title: "Sem sofrimento? Sem cristianismo!"
 date: 2016-09-19T13:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXNmgalfLw7jYDgyVrqjThojxYg9OoQhSf7s-GNJLSR0SIHMi5FA_NxQ-daww6G1GtI-tt3cVc3VfrZvhPCFnY8nSJ63bdBzktxZ23h_yu5JM5-Rkmf2TClmvJU87igw1HekoCYzY6Ho/s320/sofrer.png"
+heroImage: "/images/sofrer.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXNmgalfLw7jYDgyVrqjThojxYg9OoQhSf7s-GNJLSR0SIHMi5FA_NxQ-daww6G1GtI-tt3cVc3VfrZvhPCFnY8nSJ63bdBzktxZ23h_yu5JM5-Rkmf2TClmvJU87igw1HekoCYzY6Ho/s1600/sofrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXNmgalfLw7jYDgyVrqjThojxYg9OoQhSf7s-GNJLSR0SIHMi5FA_NxQ-daww6G1GtI-tt3cVc3VfrZvhPCFnY8nSJ63bdBzktxZ23h_yu5JM5-Rkmf2TClmvJU87igw1HekoCYzY6Ho/s320/sofrer.png" width="320" height="191" data-original-width="235" data-original-height="140" /></a></div>

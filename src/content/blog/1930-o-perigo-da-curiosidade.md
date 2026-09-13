@@ -1,7 +1,7 @@
 ---
 title: "O perigo da Curiosidade"
 date: 2016-04-08T19:21:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipQHWzIx7FeIYItmM0Zp_osEX6TGBREP5XF92vc7va9vlvWsyzwHKoX1dfOhb2AdzHV8uBpnoorBDNEzni_N76QcZc3VB5crUr3OhJVH19tmMiEyCgUaC19QW9Hi2Bii5qx2C-SnfCjxA/s320/curiosidade.png"
+heroImage: "/images/curiosidade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipQHWzIx7FeIYItmM0Zp_osEX6TGBREP5XF92vc7va9vlvWsyzwHKoX1dfOhb2AdzHV8uBpnoorBDNEzni_N76QcZc3VB5crUr3OhJVH19tmMiEyCgUaC19QW9Hi2Bii5qx2C-SnfCjxA/s1600/curiosidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipQHWzIx7FeIYItmM0Zp_osEX6TGBREP5XF92vc7va9vlvWsyzwHKoX1dfOhb2AdzHV8uBpnoorBDNEzni_N76QcZc3VB5crUr3OhJVH19tmMiEyCgUaC19QW9Hi2Bii5qx2C-SnfCjxA/s320/curiosidade.png" width="320" height="166" data-original-width="489" data-original-height="253" /></a></div>

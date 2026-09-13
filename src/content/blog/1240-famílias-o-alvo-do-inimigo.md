@@ -1,7 +1,7 @@
 ---
 title: "Famílias - O alvo do inimigo"
 date: 2017-05-19T14:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISHPQXTmMLjtajeENmV0fZ5BnW-9akJ6W9tkeXvgxkz-pFd2fLMpBkxXtNDaSBPSrF5blRNFw4FvnAopOzq7pPRF4Qnn-5rybOYmltATkSOm99BvosaZpO63nvilXrMpCXSiIXtSJ4pg/s320/capa.jpg"
+heroImage: "/images/capa.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISHPQXTmMLjtajeENmV0fZ5BnW-9akJ6W9tkeXvgxkz-pFd2fLMpBkxXtNDaSBPSrF5blRNFw4FvnAopOzq7pPRF4Qnn-5rybOYmltATkSOm99BvosaZpO63nvilXrMpCXSiIXtSJ4pg/s1600/capa.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISHPQXTmMLjtajeENmV0fZ5BnW-9akJ6W9tkeXvgxkz-pFd2fLMpBkxXtNDaSBPSrF5blRNFw4FvnAopOzq7pPRF4Qnn-5rybOYmltATkSOm99BvosaZpO63nvilXrMpCXSiIXtSJ4pg/s320/capa.jpg" width="228" height="320" data-original-width="571" data-original-height="801" /></a></div>

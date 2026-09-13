@@ -1,7 +1,7 @@
 ---
 title: "Adorar a Jesus"
 date: 2020-07-02T16:38:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTzNkBUFkTIVmaPHOsdS2SsYSOFGcZD33N35XrBH0yBM7R-AWk5Vn3o9NBJQztS1gql3AbP2X_tjYbgsijB7xg4eOZYjLRN70zjHj3ktRLh8491Jl1iULB2TIjUbpliKn-Y97DpwZwpr0/s320/adora%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/dor.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTzNkBUFkTIVmaPHOsdS2SsYSOFGcZD33N35XrBH0yBM7R-AWk5Vn3o9NBJQztS1gql3AbP2X_tjYbgsijB7xg4eOZYjLRN70zjHj3ktRLh8491Jl1iULB2TIjUbpliKn-Y97DpwZwpr0/s595/adora%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="470" data-original-width="595" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTzNkBUFkTIVmaPHOsdS2SsYSOFGcZD33N35XrBH0yBM7R-AWk5Vn3o9NBJQztS1gql3AbP2X_tjYbgsijB7xg4eOZYjLRN70zjHj3ktRLh8491Jl1iULB2TIjUbpliKn-Y97DpwZwpr0/s320/adora%25C3%25A7%25C3%25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nosso Senhor Jesus Cristo, segunda pessoa da Santíssima

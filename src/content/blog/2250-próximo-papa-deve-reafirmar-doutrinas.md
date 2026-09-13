@@ -1,7 +1,7 @@
 ---
 title: "Próximo Papa deve reafirmar doutrinas"
 date: 2025-05-08T18:42:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQhOjsCJnS3X6dSaWeStqWQczcdYMjk924QNCQSER0_Wipfx6Qp4Wy739WX_DSyFTd4sPEEERSKA-GgY_Prs7QDVTArA8wOIdvtVR6tpwIas2YI6wMrIpFbXBvkKmTjr5gGFB1zllOgXk1sgjqZL_NgtG_7AloxgLyBmcgKOnmUN8KymkRM9d2hQRJR4o/s320/Schneider.png"
+heroImage: "/images/Schneider.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQhOjsCJnS3X6dSaWeStqWQczcdYMjk924QNCQSER0_Wipfx6Qp4Wy739WX_DSyFTd4sPEEERSKA-GgY_Prs7QDVTArA8wOIdvtVR6tpwIas2YI6wMrIpFbXBvkKmTjr5gGFB1zllOgXk1sgjqZL_NgtG_7AloxgLyBmcgKOnmUN8KymkRM9d2hQRJR4o/s487/Schneider.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="478" data-original-width="487" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQhOjsCJnS3X6dSaWeStqWQczcdYMjk924QNCQSER0_Wipfx6Qp4Wy739WX_DSyFTd4sPEEERSKA-GgY_Prs7QDVTArA8wOIdvtVR6tpwIas2YI6wMrIpFbXBvkKmTjr5gGFB1zllOgXk1sgjqZL_NgtG_7AloxgLyBmcgKOnmUN8KymkRM9d2hQRJR4o/s320/Schneider.png" width="320" /></a></div><p></p><p>

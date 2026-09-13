@@ -1,7 +1,7 @@
 ---
 title: "Junto de Deus"
 date: 2019-11-13T15:28:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfe8196RcRxOS0LyJe0YyWUMQgFGZFIaobwP4PpgZAT6hVoCUi63x7QqI4EgNy4D3AGd_X13z8X-hx5lFMMU8tSm8xV0_XlOvm5ANXJQpmHKelRr3qh7sM2SfrE59grVmNvI2yP6yizYM/s320/junto_de_Deus.png"
+heroImage: "/images/junto_de_Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfe8196RcRxOS0LyJe0YyWUMQgFGZFIaobwP4PpgZAT6hVoCUi63x7QqI4EgNy4D3AGd_X13z8X-hx5lFMMU8tSm8xV0_XlOvm5ANXJQpmHKelRr3qh7sM2SfrE59grVmNvI2yP6yizYM/s1600/junto_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfe8196RcRxOS0LyJe0YyWUMQgFGZFIaobwP4PpgZAT6hVoCUi63x7QqI4EgNy4D3AGd_X13z8X-hx5lFMMU8tSm8xV0_XlOvm5ANXJQpmHKelRr3qh7sM2SfrE59grVmNvI2yP6yizYM/s320/junto_de_Deus.png" width="320" height="230" data-original-width="910" data-original-height="654" /></a></div>

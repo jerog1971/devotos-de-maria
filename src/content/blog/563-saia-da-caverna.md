@@ -1,7 +1,7 @@
 ---
 title: "Saia da Caverna"
 date: 2019-06-12T15:29:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWqRs0VPA5lgyDtcTz7hLhiQK4juEXoQY4neKSrR5lrENvcHP4uJhmnlgbwQH57sAgAxa77xk4fuIUwlM5vdieSxPUEsHRrbcu85ktyIarFQMXrDgDBICQcaC18psLiC6MhyphenhyphenkSf0HuKBA/s320/the_cave.jpeg"
+heroImage: "/images/the_cave.jpeg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWqRs0VPA5lgyDtcTz7hLhiQK4juEXoQY4neKSrR5lrENvcHP4uJhmnlgbwQH57sAgAxa77xk4fuIUwlM5vdieSxPUEsHRrbcu85ktyIarFQMXrDgDBICQcaC18psLiC6MhyphenhyphenkSf0HuKBA/s1600/the_cave.jpeg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWqRs0VPA5lgyDtcTz7hLhiQK4juEXoQY4neKSrR5lrENvcHP4uJhmnlgbwQH57sAgAxa77xk4fuIUwlM5vdieSxPUEsHRrbcu85ktyIarFQMXrDgDBICQcaC18psLiC6MhyphenhyphenkSf0HuKBA/s320/the_cave.jpeg" width="320" height="180" data-original-width="1600" data-original-height="900" /></a></div>

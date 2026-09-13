@@ -1,7 +1,7 @@
 ---
 title: "A beleza do mundo"
 date: 2020-05-15T13:37:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3WvFSNTo8-hMe5ivGzbcsH2m__hr9tAncULuvGswgT3bPiAiT_-IBXLDThSR1RKHt5PhGZ2ztZLRW3v6v3WeLm4C9eS6kbgc2rKxSfZ0PA1aV0Ajez68_RhmqNP_Ggq5UE49Pwx35rM/s320/belezas_de_Deus.png"
+heroImage: "/images/belezas_de_Deus.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3WvFSNTo8-hMe5ivGzbcsH2m__hr9tAncULuvGswgT3bPiAiT_-IBXLDThSR1RKHt5PhGZ2ztZLRW3v6v3WeLm4C9eS6kbgc2rKxSfZ0PA1aV0Ajez68_RhmqNP_Ggq5UE49Pwx35rM/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="522" data-original-width="551" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3WvFSNTo8-hMe5ivGzbcsH2m__hr9tAncULuvGswgT3bPiAiT_-IBXLDThSR1RKHt5PhGZ2ztZLRW3v6v3WeLm4C9eS6kbgc2rKxSfZ0PA1aV0Ajez68_RhmqNP_Ggq5UE49Pwx35rM/s320/belezas_de_Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 6,27-31 – “Vem a ela com todo o teu coração.

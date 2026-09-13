@@ -1,7 +1,7 @@
 ---
 title: "Olhando para trás"
 date: 2020-03-29T20:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-nR5EmoXYkL3EMGmPgbUnySYQ-cJCdS5m-hyFpzbF6-YGp4SbSmueSfkrVSfxnAVRslMKCTwNYeZrTOLTJREwBg3xpet04_gPdGIoD5sh31NDWwRQieQI_vqPUrCzuV7VDqp1pjXm-Y/s320/olhando_para_tras.png"
+heroImage: "/images/olhando_para_tras.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-nR5EmoXYkL3EMGmPgbUnySYQ-cJCdS5m-hyFpzbF6-YGp4SbSmueSfkrVSfxnAVRslMKCTwNYeZrTOLTJREwBg3xpet04_gPdGIoD5sh31NDWwRQieQI_vqPUrCzuV7VDqp1pjXm-Y/s1600/olhando_para_tras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-nR5EmoXYkL3EMGmPgbUnySYQ-cJCdS5m-hyFpzbF6-YGp4SbSmueSfkrVSfxnAVRslMKCTwNYeZrTOLTJREwBg3xpet04_gPdGIoD5sh31NDWwRQieQI_vqPUrCzuV7VDqp1pjXm-Y/s320/olhando_para_tras.png" width="320" height="316" data-original-width="331" data-original-height="327" /></a></div>

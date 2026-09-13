@@ -1,7 +1,7 @@
 ---
 title: "O caminho esconde suas pedras"
 date: 2020-05-13T20:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Rv20yugx2f5EGAh9lnbGN4NF57HUEP814uSDdjocFISslp2qFWU14sZT7ODdPcBpKyG7CP8lLO9zJUfutYAiR9XpGc9vO3DW2o9oc6_hFdd3xo4P9edBcMeXP23dc76clzn6D3C2m1w/s320/pedras_ocultas.png"
+heroImage: "/images/pedras_ocultas.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Rv20yugx2f5EGAh9lnbGN4NF57HUEP814uSDdjocFISslp2qFWU14sZT7ODdPcBpKyG7CP8lLO9zJUfutYAiR9XpGc9vO3DW2o9oc6_hFdd3xo4P9edBcMeXP23dc76clzn6D3C2m1w/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="476" data-original-width="527" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Rv20yugx2f5EGAh9lnbGN4NF57HUEP814uSDdjocFISslp2qFWU14sZT7ODdPcBpKyG7CP8lLO9zJUfutYAiR9XpGc9vO3DW2o9oc6_hFdd3xo4P9edBcMeXP23dc76clzn6D3C2m1w/s320/pedras_ocultas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 21,11 – “O caminho dos pecadores é calçado de

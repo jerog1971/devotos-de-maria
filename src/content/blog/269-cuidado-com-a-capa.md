@@ -1,7 +1,7 @@
 ---
 title: "Cuidado com a capa"
 date: 2023-10-10T19:28:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmwmiUweWMcNpw8yW4dgaCQQA5DXqLZwHZbcZi6ozCVtKw_4PzW4jMYjkUWHLN60CE7Qhdp_sG382ZfnnrVhv8u71GWq0HwLoczUj7pYYfOCL27QjGGkBKcbt76ZSeGR4bwwx7bfRspLKePPqyRcqein2ukAHulvKQzkuIXd8QB1AfRc_C6n30-aQknH8/s320/Cuidado%20com%20a%20capa.png"
+heroImage: "/images/Cuidado com a capa.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmwmiUweWMcNpw8yW4dgaCQQA5DXqLZwHZbcZi6ozCVtKw_4PzW4jMYjkUWHLN60CE7Qhdp_sG382ZfnnrVhv8u71GWq0HwLoczUj7pYYfOCL27QjGGkBKcbt76ZSeGR4bwwx7bfRspLKePPqyRcqein2ukAHulvKQzkuIXd8QB1AfRc_C6n30-aQknH8/s598/Cuidado%20com%20a%20capa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="593" data-original-width="598" height="317" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmwmiUweWMcNpw8yW4dgaCQQA5DXqLZwHZbcZi6ozCVtKw_4PzW4jMYjkUWHLN60CE7Qhdp_sG382ZfnnrVhv8u71GWq0HwLoczUj7pYYfOCL27QjGGkBKcbt76ZSeGR4bwwx7bfRspLKePPqyRcqein2ukAHulvKQzkuIXd8QB1AfRc_C6n30-aQknH8/s320/Cuidado%20com%20a%20capa.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sempre, vez por outra, falamos por aqui que as ofertas do

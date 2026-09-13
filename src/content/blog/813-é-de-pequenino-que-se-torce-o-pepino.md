@@ -1,7 +1,7 @@
 ---
 title: "É de pequenino que se torce o pepino"
 date: 2017-01-08T00:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZlMdR1-XnAhjM2fGNvi1aH55H9aJ91gXOkKCyjXqzx9PGB18qzdle6tWX9SsScyFQSwVDkd26wYCQXOFSwYQddpltmf954WIZWdAIKrJvEHJYdjmpji4GWo5hS6T2AZjl8smUBlrnz1M/s320/pequenino.png"
+heroImage: "/images/pequenino.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZlMdR1-XnAhjM2fGNvi1aH55H9aJ91gXOkKCyjXqzx9PGB18qzdle6tWX9SsScyFQSwVDkd26wYCQXOFSwYQddpltmf954WIZWdAIKrJvEHJYdjmpji4GWo5hS6T2AZjl8smUBlrnz1M/s1600/pequenino.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="307" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZlMdR1-XnAhjM2fGNvi1aH55H9aJ91gXOkKCyjXqzx9PGB18qzdle6tWX9SsScyFQSwVDkd26wYCQXOFSwYQddpltmf954WIZWdAIKrJvEHJYdjmpji4GWo5hS6T2AZjl8smUBlrnz1M/s320/pequenino.png" width="310" /></a></div>

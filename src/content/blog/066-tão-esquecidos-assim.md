@@ -1,7 +1,7 @@
 ---
 title: "Tão esquecidos assim?"
 date: 2019-05-07T15:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGyw6wwz_6w9YXn-a7suxzUoGbhyphenhyphenyY8cl6SnHMBs5da2wRYoY_y-MEcOesfCCL0AzAqUbOHfJf2LVFiiYzZmvDj9kdTYnlXJkmg5kaG5j51rzZsEtWyVzPqPtOj_6Wm5k7CHNOc26VoPY/s320/esquecidos.png"
+heroImage: "/images/esquecidos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGyw6wwz_6w9YXn-a7suxzUoGbhyphenhyphenyY8cl6SnHMBs5da2wRYoY_y-MEcOesfCCL0AzAqUbOHfJf2LVFiiYzZmvDj9kdTYnlXJkmg5kaG5j51rzZsEtWyVzPqPtOj_6Wm5k7CHNOc26VoPY/s1600/esquecidos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGyw6wwz_6w9YXn-a7suxzUoGbhyphenhyphenyY8cl6SnHMBs5da2wRYoY_y-MEcOesfCCL0AzAqUbOHfJf2LVFiiYzZmvDj9kdTYnlXJkmg5kaG5j51rzZsEtWyVzPqPtOj_6Wm5k7CHNOc26VoPY/s320/esquecidos.png" width="320" height="307" data-original-width="476" data-original-height="457" /></a></div>

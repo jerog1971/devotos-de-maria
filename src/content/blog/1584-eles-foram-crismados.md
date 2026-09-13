@@ -1,7 +1,7 @@
 ---
 title: "Eles foram crismados"
 date: 2016-06-27T12:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pc9EN4t9lsXmexrJPUCY5LseqhA_eDKCH1gNvNs_9QEPNu9cObQFyDqjo_5dfadaOU4Jg6qSAGXNCuLrUIKk70Sb6lys0-PwMLCxtWESNqyKD6blp0qSQD0bhtLh2eResdBO2ghc_UQ/s320/crisma2016.png"
+heroImage: "/images/crisma2016.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pc9EN4t9lsXmexrJPUCY5LseqhA_eDKCH1gNvNs_9QEPNu9cObQFyDqjo_5dfadaOU4Jg6qSAGXNCuLrUIKk70Sb6lys0-PwMLCxtWESNqyKD6blp0qSQD0bhtLh2eResdBO2ghc_UQ/s1600/crisma2016.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pc9EN4t9lsXmexrJPUCY5LseqhA_eDKCH1gNvNs_9QEPNu9cObQFyDqjo_5dfadaOU4Jg6qSAGXNCuLrUIKk70Sb6lys0-PwMLCxtWESNqyKD6blp0qSQD0bhtLh2eResdBO2ghc_UQ/s320/crisma2016.png" width="320" height="239" data-original-width="695" data-original-height="520" /></a></div>

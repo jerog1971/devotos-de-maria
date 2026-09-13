@@ -1,7 +1,7 @@
 ---
 title: "Cansei de correr atrás"
 date: 2022-05-26T16:11:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0L6CgazX203MxelNzW1semee2UknZVv62lhaeJ23Nc2zr8pePg1jVcaDJ5F3RHoIWcA7Ji7lp21SLwrBdscoKSB3WplpttIbaU82rKEmxwwE1CYMKOMxYDgsgS-jaHD2Mvv-g92RhQdYd_oe8MropsBjqX5nOkBk5gs7jqD2_5BtT8QFSkrlOVLfc/s320/cansei%20de%20correr%20atr%C3%A1s.png"
+heroImage: "/images/cansei de correr atrás.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0L6CgazX203MxelNzW1semee2UknZVv62lhaeJ23Nc2zr8pePg1jVcaDJ5F3RHoIWcA7Ji7lp21SLwrBdscoKSB3WplpttIbaU82rKEmxwwE1CYMKOMxYDgsgS-jaHD2Mvv-g92RhQdYd_oe8MropsBjqX5nOkBk5gs7jqD2_5BtT8QFSkrlOVLfc/s599/cansei%20de%20correr%20atr%C3%A1s.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="492" data-original-width="599" height="263" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0L6CgazX203MxelNzW1semee2UknZVv62lhaeJ23Nc2zr8pePg1jVcaDJ5F3RHoIWcA7Ji7lp21SLwrBdscoKSB3WplpttIbaU82rKEmxwwE1CYMKOMxYDgsgS-jaHD2Mvv-g92RhQdYd_oe8MropsBjqX5nOkBk5gs7jqD2_5BtT8QFSkrlOVLfc/s320/cansei%20de%20correr%20atr%C3%A1s.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Durante a caminhada para o céu, certamente o fiel vai se

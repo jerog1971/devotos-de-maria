@@ -1,7 +1,7 @@
 ---
 title: "Os heróis das crianças"
 date: 2017-10-11T17:51:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEW8gm4xI1J_lMQRBuna9uX45DEIz_AmI5dQ40U5wLhaU7tF8tHeK44fAjay12aFPwuPBA3lw4KcgCa0Z-mS9SrC3IapMl81FJhbgou_IfpVlGeVi1WplaH3DJXXF73JB8qmtvhnGAa98/s320/Sofia_creche.png"
+heroImage: "/images/Sofia_creche.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEW8gm4xI1J_lMQRBuna9uX45DEIz_AmI5dQ40U5wLhaU7tF8tHeK44fAjay12aFPwuPBA3lw4KcgCa0Z-mS9SrC3IapMl81FJhbgou_IfpVlGeVi1WplaH3DJXXF73JB8qmtvhnGAa98/s1600/Sofia_creche.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="835" data-original-width="774" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEW8gm4xI1J_lMQRBuna9uX45DEIz_AmI5dQ40U5wLhaU7tF8tHeK44fAjay12aFPwuPBA3lw4KcgCa0Z-mS9SrC3IapMl81FJhbgou_IfpVlGeVi1WplaH3DJXXF73JB8qmtvhnGAa98/s320/Sofia_creche.png" width="297" /></a></div>

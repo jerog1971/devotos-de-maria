@@ -1,7 +1,7 @@
 ---
 title: "Temos que nos preparar para não nos revoltarmos"
 date: 2019-08-19T16:05:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL4AGFEvg2oEjgpRvrht2Z-MzmYs10YzQxyHGO-CsYpiGAriXPYJF52218nOvFPYBbZpOYJO0J5jGNx-vbKZQqKF-h6fg2R6c7ZBesLVae4PrZWh5KbDegUZiejmPwKNmYauEFgGM2nrM/s320/revoltado.png"
+heroImage: "/images/revoltado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL4AGFEvg2oEjgpRvrht2Z-MzmYs10YzQxyHGO-CsYpiGAriXPYJF52218nOvFPYBbZpOYJO0J5jGNx-vbKZQqKF-h6fg2R6c7ZBesLVae4PrZWh5KbDegUZiejmPwKNmYauEFgGM2nrM/s1600/revoltado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL4AGFEvg2oEjgpRvrht2Z-MzmYs10YzQxyHGO-CsYpiGAriXPYJF52218nOvFPYBbZpOYJO0J5jGNx-vbKZQqKF-h6fg2R6c7ZBesLVae4PrZWh5KbDegUZiejmPwKNmYauEFgGM2nrM/s320/revoltado.png" width="310" height="320" data-original-width="295" data-original-height="305" /></a></div>

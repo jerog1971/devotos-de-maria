@@ -1,7 +1,7 @@
 ---
 title: "Deixe sua teimosia de lado"
 date: 2019-07-25T19:56:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMSaW2CDpu0godCn1RpR57NImbiLbMLwxfiPnbWast62baKeiqEGpJZPmEiCwpmMOof4dUpXwuPotnG5409aUqOfZ1RkfpGeYY1Hi8T4HmYe4j-DUT2rnIeAZu6nUlO9yKMi_ggxItNdk/s320/teimosia.png"
+heroImage: "/images/desobediência ou teimosia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMSaW2CDpu0godCn1RpR57NImbiLbMLwxfiPnbWast62baKeiqEGpJZPmEiCwpmMOof4dUpXwuPotnG5409aUqOfZ1RkfpGeYY1Hi8T4HmYe4j-DUT2rnIeAZu6nUlO9yKMi_ggxItNdk/s1600/teimosia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMSaW2CDpu0godCn1RpR57NImbiLbMLwxfiPnbWast62baKeiqEGpJZPmEiCwpmMOof4dUpXwuPotnG5409aUqOfZ1RkfpGeYY1Hi8T4HmYe4j-DUT2rnIeAZu6nUlO9yKMi_ggxItNdk/s320/teimosia.png" width="320" height="270" data-original-width="561" data-original-height="473" /></a></div>

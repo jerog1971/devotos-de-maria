@@ -1,7 +1,7 @@
 ---
 title: "Quando as esposas, deixam de ser mulher e se tornam “mães”"
 date: 2016-11-25T15:56:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxBZSmKx0mMt9UNvvZyBwfkGfoZFHvTZju8SoIunlifwp7hmTy2hvg5CtYtrHzL2u0dbcWAT2S2dZLMd4zNtnXIaqGALQNe-oSy-u5JmHW5yvjh_-wtkk3QwOnVtX0-E_yDlJgurHImjw/s320/maes.png"
+heroImage: "/images/mae_das_maes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxBZSmKx0mMt9UNvvZyBwfkGfoZFHvTZju8SoIunlifwp7hmTy2hvg5CtYtrHzL2u0dbcWAT2S2dZLMd4zNtnXIaqGALQNe-oSy-u5JmHW5yvjh_-wtkk3QwOnVtX0-E_yDlJgurHImjw/s1600/maes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxBZSmKx0mMt9UNvvZyBwfkGfoZFHvTZju8SoIunlifwp7hmTy2hvg5CtYtrHzL2u0dbcWAT2S2dZLMd4zNtnXIaqGALQNe-oSy-u5JmHW5yvjh_-wtkk3QwOnVtX0-E_yDlJgurHImjw/s320/maes.png" width="320" height="293" data-original-width="175" data-original-height="160" /></a></div>

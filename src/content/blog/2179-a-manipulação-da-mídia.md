@@ -1,7 +1,7 @@
 ---
 title: "A manipulação da mídia"
 date: 2016-07-19T11:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYkfHLGvbIUTmZmFZvn9z1ARuR1tN5_XWSyCwTJSO_Vgb7LXiRulHO5me0ktW2SFK-XqpvB7UGJH_EioaNLsxqjWNwBbFHX8emCpUxzpWEe9QsaPZaO1NEtyDZ4ffSBzBz2WRBzSeuKY/s320/midia.png"
+heroImage: "/images/midia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYkfHLGvbIUTmZmFZvn9z1ARuR1tN5_XWSyCwTJSO_Vgb7LXiRulHO5me0ktW2SFK-XqpvB7UGJH_EioaNLsxqjWNwBbFHX8emCpUxzpWEe9QsaPZaO1NEtyDZ4ffSBzBz2WRBzSeuKY/s1600/midia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYkfHLGvbIUTmZmFZvn9z1ARuR1tN5_XWSyCwTJSO_Vgb7LXiRulHO5me0ktW2SFK-XqpvB7UGJH_EioaNLsxqjWNwBbFHX8emCpUxzpWEe9QsaPZaO1NEtyDZ4ffSBzBz2WRBzSeuKY/s320/midia.png" width="320" height="239" data-original-width="408" data-original-height="305" /></a></div>

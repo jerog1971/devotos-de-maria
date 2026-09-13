@@ -1,7 +1,7 @@
 ---
 title: "A bifurcação da vida"
 date: 2022-09-21T17:21:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU421g2B9uJDsv8AVCrRhH5oK-908muP7exVhSxPo61dR9vM1HEJGIHqUsPWgI66_-zo6aSqyYcQ8oMahlyKKmVlhHF6nzwNMeL3lN8VI_R5Y7xIAhTBvzlbewzIiNoTe35Sk8gtl8VZXpRxPmWjyiOkhFlT-vAHHARuEX-aCZDhjpV0jj5oErRkj8/s320/porta_estreita.png"
+heroImage: "/images/porta_estreita.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU421g2B9uJDsv8AVCrRhH5oK-908muP7exVhSxPo61dR9vM1HEJGIHqUsPWgI66_-zo6aSqyYcQ8oMahlyKKmVlhHF6nzwNMeL3lN8VI_R5Y7xIAhTBvzlbewzIiNoTe35Sk8gtl8VZXpRxPmWjyiOkhFlT-vAHHARuEX-aCZDhjpV0jj5oErRkj8/s405/porta_estreita.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="405" data-original-width="323" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU421g2B9uJDsv8AVCrRhH5oK-908muP7exVhSxPo61dR9vM1HEJGIHqUsPWgI66_-zo6aSqyYcQ8oMahlyKKmVlhHF6nzwNMeL3lN8VI_R5Y7xIAhTBvzlbewzIiNoTe35Sk8gtl8VZXpRxPmWjyiOkhFlT-vAHHARuEX-aCZDhjpV0jj5oErRkj8/s320/porta_estreita.png" width="255" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dizem que devemos aproveitar a vida porque ela é curta.

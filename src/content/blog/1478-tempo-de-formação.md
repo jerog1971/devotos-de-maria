@@ -1,7 +1,7 @@
 ---
 title: "Tempo de formação"
 date: 2017-06-12T13:15:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEi6DRJKLlB2q-gb9zAbU98zY1MsAqX6oQHvxw2sYTBwgEsJhP9vHc8EqrLy3Z-GcChyphenhyphencRxGe0u1MDOZPbfMBVYCzX-17WL4eCvWBKwazwBgi0cqheOd6WIpZehfX3TG1dJ3PqIYnP5U4/s320/formacao.png"
+heroImage: "/images/formacao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEi6DRJKLlB2q-gb9zAbU98zY1MsAqX6oQHvxw2sYTBwgEsJhP9vHc8EqrLy3Z-GcChyphenhyphencRxGe0u1MDOZPbfMBVYCzX-17WL4eCvWBKwazwBgi0cqheOd6WIpZehfX3TG1dJ3PqIYnP5U4/s1600/formacao.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="691" height="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEi6DRJKLlB2q-gb9zAbU98zY1MsAqX6oQHvxw2sYTBwgEsJhP9vHc8EqrLy3Z-GcChyphenhyphencRxGe0u1MDOZPbfMBVYCzX-17WL4eCvWBKwazwBgi0cqheOd6WIpZehfX3TG1dJ3PqIYnP5U4/s320/formacao.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>2ª Timóteo 3,15-17 – “E desde a infância conheces as Sagradas Escrituras e sabes que elas têm o condão de te proporcionar a sabedoria que conduz à salvação, pela fé em Jesus Cristo.

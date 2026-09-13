@@ -1,7 +1,7 @@
 ---
 title: "Até que ponto vai seu amor por Deus?"
 date: 2020-06-19T15:40:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3jOoZ6AWtHv8C20IzMpPS5el-Ajel4hExkJWQCciyY0opdHZ2agmjmncQ0lO7FNfS_xK2e0Lubn3J0pAc9yCEJhps5dZkXkFiDij6lYn0MAj5yUYuZhgKWr9hhMkz-7P8Bqk0PdDg1aQ/s320/santidade.png"
+heroImage: "/images/modelos de santidade.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3jOoZ6AWtHv8C20IzMpPS5el-Ajel4hExkJWQCciyY0opdHZ2agmjmncQ0lO7FNfS_xK2e0Lubn3J0pAc9yCEJhps5dZkXkFiDij6lYn0MAj5yUYuZhgKWr9hhMkz-7P8Bqk0PdDg1aQ/s408/santidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="408" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3jOoZ6AWtHv8C20IzMpPS5el-Ajel4hExkJWQCciyY0opdHZ2agmjmncQ0lO7FNfS_xK2e0Lubn3J0pAc9yCEJhps5dZkXkFiDij6lYn0MAj5yUYuZhgKWr9hhMkz-7P8Bqk0PdDg1aQ/s320/santidade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Ama tanto até o desprezo de Deus ou ama tanto até o desprezo

@@ -1,7 +1,7 @@
 ---
 title: "Vale o quanto pesa"
 date: 2023-07-14T20:20:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8nhG1EIo7WN7-wE9ffrGw1X_L5p0xC0N8iv0Kh0RbA-zLQg5GBpqKJ06ldm34wTgruFP7AFOdUSzLgfglWT-6wxnU8J_OxtyX6G0HkbBfHH89WQtCqEU2O3Bi2H8TvI1JaE3TeMo6FeJ_xMzRtAP__Nf6-8XudLyCv5M2xIuk9Dp7liHEdHlPOO7XZiA/s320/Vale%20o%20quanto%20pesa.jpg"
+heroImage: "/images/Vale o quanto pesa.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8nhG1EIo7WN7-wE9ffrGw1X_L5p0xC0N8iv0Kh0RbA-zLQg5GBpqKJ06ldm34wTgruFP7AFOdUSzLgfglWT-6wxnU8J_OxtyX6G0HkbBfHH89WQtCqEU2O3Bi2H8TvI1JaE3TeMo6FeJ_xMzRtAP__Nf6-8XudLyCv5M2xIuk9Dp7liHEdHlPOO7XZiA/s1632/Vale%20o%20quanto%20pesa.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8nhG1EIo7WN7-wE9ffrGw1X_L5p0xC0N8iv0Kh0RbA-zLQg5GBpqKJ06ldm34wTgruFP7AFOdUSzLgfglWT-6wxnU8J_OxtyX6G0HkbBfHH89WQtCqEU2O3Bi2H8TvI1JaE3TeMo6FeJ_xMzRtAP__Nf6-8XudLyCv5M2xIuk9Dp7liHEdHlPOO7XZiA/s320/Vale%20o%20quanto%20pesa.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem coisas que damos mais valor do que o necessário; outras,

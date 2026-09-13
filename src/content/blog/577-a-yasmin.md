@@ -1,7 +1,7 @@
 ---
 title: "A Yasmin"
 date: 2024-09-04T20:49:00.006Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpMjUUBv6h2qTq0fRL6UGJZN8LvSW5b0zGvkCV0Jh7JFIFNzMykoeCM2YCKat3PbckWeM4lJ4cITBotVb7wG_FFPPeJUos0zlgAk77fJJWYUbb37awG3aLFF2xFCBECzesVUMx5KyUTdOIPXSvqvauawR-iy9daYcT4c0S3CCMJnEatOTc2-L17nqS8I4/s320/A%20Yasmin.jpg"
+heroImage: "/images/A Yasmin.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpMjUUBv6h2qTq0fRL6UGJZN8LvSW5b0zGvkCV0Jh7JFIFNzMykoeCM2YCKat3PbckWeM4lJ4cITBotVb7wG_FFPPeJUos0zlgAk77fJJWYUbb37awG3aLFF2xFCBECzesVUMx5KyUTdOIPXSvqvauawR-iy9daYcT4c0S3CCMJnEatOTc2-L17nqS8I4/s960/A%20Yasmin.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="480" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpMjUUBv6h2qTq0fRL6UGJZN8LvSW5b0zGvkCV0Jh7JFIFNzMykoeCM2YCKat3PbckWeM4lJ4cITBotVb7wG_FFPPeJUos0zlgAk77fJJWYUbb37awG3aLFF2xFCBECzesVUMx5KyUTdOIPXSvqvauawR-iy9daYcT4c0S3CCMJnEatOTc2-L17nqS8I4/s320/A%20Yasmin.jpg" width="160" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Ela é uma das minhas filhas, já é uma moça, uma mulher, muito

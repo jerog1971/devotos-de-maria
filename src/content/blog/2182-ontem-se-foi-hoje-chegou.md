@@ -1,7 +1,7 @@
 ---
 title: "Ontem se foi, hoje chegou"
 date: 2023-11-17T17:19:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRsvuwq0ArQZhplAwnyqlYgHtZ0V76JdHEsGPwgdcx2m0TNUc6w4rP80M1iRMuKmuolETxTjO6OI6NWQjNIrptuoNhNHkheClkWx_rn6rXhQCEYIlVU6uqTrzW0pgolRo4A2O8-4nQ4NOnSI17E4B5z7GSy_qxvBeqI8a6isJusdPpJSZF7COudxpM9ZI/s320/do%20outro%20lado%20do%20t%C3%BAnel.png"
+heroImage: "/images/do outro lado do túnel.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRsvuwq0ArQZhplAwnyqlYgHtZ0V76JdHEsGPwgdcx2m0TNUc6w4rP80M1iRMuKmuolETxTjO6OI6NWQjNIrptuoNhNHkheClkWx_rn6rXhQCEYIlVU6uqTrzW0pgolRo4A2O8-4nQ4NOnSI17E4B5z7GSy_qxvBeqI8a6isJusdPpJSZF7COudxpM9ZI/s393/do%20outro%20lado%20do%20t%C3%BAnel.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="393" height="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRsvuwq0ArQZhplAwnyqlYgHtZ0V76JdHEsGPwgdcx2m0TNUc6w4rP80M1iRMuKmuolETxTjO6OI6NWQjNIrptuoNhNHkheClkWx_rn6rXhQCEYIlVU6uqTrzW0pgolRo4A2O8-4nQ4NOnSI17E4B5z7GSy_qxvBeqI8a6isJusdPpJSZF7COudxpM9ZI/s320/do%20outro%20lado%20do%20t%C3%BAnel.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sempre assim, caminhamos na vida em pares. Sempre é passado

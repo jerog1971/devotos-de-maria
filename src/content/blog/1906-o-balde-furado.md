@@ -1,7 +1,7 @@
 ---
 title: "O balde furado"
 date: 2017-07-11T13:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn56wVx8SL1NweQAlpuY0uHwO7tP1L_e7E0S-arg2yVgAvnZc5AgF1JLx2Rgfulh5_fj4OLp_UTxNBsMIgKxD7WOHALgz7FkaNyixpi2krtNKojjdXo3JI_lfsZV6SG_dYYKq__bO_oPg/s320/balde.png"
+heroImage: "/images/balde.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn56wVx8SL1NweQAlpuY0uHwO7tP1L_e7E0S-arg2yVgAvnZc5AgF1JLx2Rgfulh5_fj4OLp_UTxNBsMIgKxD7WOHALgz7FkaNyixpi2krtNKojjdXo3JI_lfsZV6SG_dYYKq__bO_oPg/s1600/balde.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn56wVx8SL1NweQAlpuY0uHwO7tP1L_e7E0S-arg2yVgAvnZc5AgF1JLx2Rgfulh5_fj4OLp_UTxNBsMIgKxD7WOHALgz7FkaNyixpi2krtNKojjdXo3JI_lfsZV6SG_dYYKq__bO_oPg/s320/balde.png" width="258" height="320" data-original-width="255" data-original-height="316" /></a></div>

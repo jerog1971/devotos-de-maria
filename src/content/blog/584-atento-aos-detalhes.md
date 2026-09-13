@@ -1,7 +1,7 @@
 ---
 title: "Atento aos detalhes"
 date: 2021-09-14T17:03:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxWmeqQ48GFzbHh5EgCwajEqPrCNwvDuKhLawIT-Wm7WhSMJn6T-_RDkUTDLtZ_KidTnMk-jgsq8a-dn1JSBeHme47AfUr6Q38m-jcvOl3Ng1pqGt7Gwb5FZ6_9F9YFn3cJZOffJbBfjs/s320/atento+aos+detalhes.png"
+heroImage: "/images/ate.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxWmeqQ48GFzbHh5EgCwajEqPrCNwvDuKhLawIT-Wm7WhSMJn6T-_RDkUTDLtZ_KidTnMk-jgsq8a-dn1JSBeHme47AfUr6Q38m-jcvOl3Ng1pqGt7Gwb5FZ6_9F9YFn3cJZOffJbBfjs/s521/atento+aos+detalhes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="493" data-original-width="521" height="303" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxWmeqQ48GFzbHh5EgCwajEqPrCNwvDuKhLawIT-Wm7WhSMJn6T-_RDkUTDLtZ_KidTnMk-jgsq8a-dn1JSBeHme47AfUr6Q38m-jcvOl3Ng1pqGt7Gwb5FZ6_9F9YFn3cJZOffJbBfjs/s320/atento+aos+detalhes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isaías 48,17-18 – “Eis o que diz o Senhor, teu Redentor, o

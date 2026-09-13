@@ -1,7 +1,7 @@
 ---
 title: "Olhar de ódio"
 date: 2024-05-24T19:41:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXBWw_YCQHZVlk2o-QMLRVsIMvtUc35r4JiOizAkAEMaeeBiiJTRimiLsRG2WV9hoSc-nQ8PgDi-kA_ruSFMErd54WjO3r8-rKcZZWr8C4qicwqpVQxyVz_PanlufMpCer9BkkAOPte7Lkdi1ltYtoFvUDKa5eZpND8XGG7JG8Vat_-goe2upvm7wmqU/s320/olhar%20de%20odio.png"
+heroImage: "/images/Olhar.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXBWw_YCQHZVlk2o-QMLRVsIMvtUc35r4JiOizAkAEMaeeBiiJTRimiLsRG2WV9hoSc-nQ8PgDi-kA_ruSFMErd54WjO3r8-rKcZZWr8C4qicwqpVQxyVz_PanlufMpCer9BkkAOPte7Lkdi1ltYtoFvUDKa5eZpND8XGG7JG8Vat_-goe2upvm7wmqU/s346/olhar%20de%20odio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="346" height="301" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXBWw_YCQHZVlk2o-QMLRVsIMvtUc35r4JiOizAkAEMaeeBiiJTRimiLsRG2WV9hoSc-nQ8PgDi-kA_ruSFMErd54WjO3r8-rKcZZWr8C4qicwqpVQxyVz_PanlufMpCer9BkkAOPte7Lkdi1ltYtoFvUDKa5eZpND8XGG7JG8Vat_-goe2upvm7wmqU/s320/olhar%20de%20odio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que o mundo espiritual permeia a nossa realidade.

@@ -1,7 +1,7 @@
 ---
 title: "Cada dia que passa fica mais difícil"
 date: 2016-09-13T13:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHD5TcxVjCCHB8EjomOCOxHrIFjgJnmo-p5omUHWwQ43mmBJvaWVyDyQT5zMaNQdk6kSKEG8PBZHVksp7ZGCaKWbi0ufSbOxXbAC3Z-DSNfVRqSYLToFMnCjLhAjyPYqoMPuQssFiiPjQ/s320/dificuldades.png"
+heroImage: "/images/dificuldades.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHD5TcxVjCCHB8EjomOCOxHrIFjgJnmo-p5omUHWwQ43mmBJvaWVyDyQT5zMaNQdk6kSKEG8PBZHVksp7ZGCaKWbi0ufSbOxXbAC3Z-DSNfVRqSYLToFMnCjLhAjyPYqoMPuQssFiiPjQ/s1600/dificuldades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHD5TcxVjCCHB8EjomOCOxHrIFjgJnmo-p5omUHWwQ43mmBJvaWVyDyQT5zMaNQdk6kSKEG8PBZHVksp7ZGCaKWbi0ufSbOxXbAC3Z-DSNfVRqSYLToFMnCjLhAjyPYqoMPuQssFiiPjQ/s320/dificuldades.png" width="320" height="311" data-original-width="375" data-original-height="365" /></a></div>

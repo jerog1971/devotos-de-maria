@@ -1,7 +1,7 @@
 ---
 title: "O cabo de guerra"
 date: 2017-03-15T19:26:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaJU5HSNzr5AWR3x3NH_PCj9PIg282dZwAdGsU_DWH-2kOaNdbtRTMlA-5fG9X0IvKrjfZYoF88jH4LLOA-TK1RiwRqvcY5yXVkR81BbPpSKpKCZfFikCr5od6YBZHq0AMOfSQq0NFfLA/s320/yasmin12.jpg"
+heroImage: "/images/yasmin12.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaJU5HSNzr5AWR3x3NH_PCj9PIg282dZwAdGsU_DWH-2kOaNdbtRTMlA-5fG9X0IvKrjfZYoF88jH4LLOA-TK1RiwRqvcY5yXVkR81BbPpSKpKCZfFikCr5od6YBZHq0AMOfSQq0NFfLA/s1600/yasmin12.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="336" data-original-width="341" height="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaJU5HSNzr5AWR3x3NH_PCj9PIg282dZwAdGsU_DWH-2kOaNdbtRTMlA-5fG9X0IvKrjfZYoF88jH4LLOA-TK1RiwRqvcY5yXVkR81BbPpSKpKCZfFikCr5od6YBZHq0AMOfSQq0NFfLA/s320/yasmin12.jpg" width="320" /></a></div>

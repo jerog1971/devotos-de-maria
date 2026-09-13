@@ -1,7 +1,7 @@
 ---
 title: "A regra dos prazeres"
 date: 2021-09-10T17:35:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-4brN-YSQFsDcgIttfyG7KpcigWZolQ5PeMHa3-ILhdZoU8chtzkRGBK85xBAjLZ4cT0LPog5uPVK0SJtIScSBegsgQ9KxetgUsFWEGWMfDmTG9P_6IscxDf5ceULzFU-hrhuzKYN0Ck/s0/a+regra+dos+prazeres.png"
+heroImage: "/images/prazeres.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-4brN-YSQFsDcgIttfyG7KpcigWZolQ5PeMHa3-ILhdZoU8chtzkRGBK85xBAjLZ4cT0LPog5uPVK0SJtIScSBegsgQ9KxetgUsFWEGWMfDmTG9P_6IscxDf5ceULzFU-hrhuzKYN0Ck/s228/a+regra+dos+prazeres.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="193" data-original-width="228" height="193" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-4brN-YSQFsDcgIttfyG7KpcigWZolQ5PeMHa3-ILhdZoU8chtzkRGBK85xBAjLZ4cT0LPog5uPVK0SJtIScSBegsgQ9KxetgUsFWEGWMfDmTG9P_6IscxDf5ceULzFU-hrhuzKYN0Ck/s0/a+regra+dos+prazeres.png" width="228" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pessoal, podemos partir do princípio que todas as coisas boas

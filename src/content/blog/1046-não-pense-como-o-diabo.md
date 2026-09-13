@@ -1,7 +1,7 @@
 ---
 title: "Não pense como o diabo"
 date: 2023-11-07T18:44:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbjmTndyR_Y-6NDGsUzRXQB-vaUVinz1kFrFg9FyRX3kGzqaS7tYH1CRWEMgJ5aJYdw0KVtsgxQDuRtnn5xVrMn2hx2vIp_fgFsczktE8zAxb-ChEoVJPJ4uUjY-TuQe-yPX6FTbPTS2ycVNu1o1sJJ1HTCDO3MJZBhQBd4VjQQ_S3f1VKZY-hvA-ZpY/s1600/Que%20se%20dane.png"
+heroImage: "/images/Que se dane.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbjmTndyR_Y-6NDGsUzRXQB-vaUVinz1kFrFg9FyRX3kGzqaS7tYH1CRWEMgJ5aJYdw0KVtsgxQDuRtnn5xVrMn2hx2vIp_fgFsczktE8zAxb-ChEoVJPJ4uUjY-TuQe-yPX6FTbPTS2ycVNu1o1sJJ1HTCDO3MJZBhQBd4VjQQ_S3f1VKZY-hvA-ZpY/s274/Que%20se%20dane.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="253" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbjmTndyR_Y-6NDGsUzRXQB-vaUVinz1kFrFg9FyRX3kGzqaS7tYH1CRWEMgJ5aJYdw0KVtsgxQDuRtnn5xVrMn2hx2vIp_fgFsczktE8zAxb-ChEoVJPJ4uUjY-TuQe-yPX6FTbPTS2ycVNu1o1sJJ1HTCDO3MJZBhQBd4VjQQ_S3f1VKZY-hvA-ZpY/s1600/Que%20se%20dane.png" width="253" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele tem suas filosofias e seu modo de pensar e agir. Segundo

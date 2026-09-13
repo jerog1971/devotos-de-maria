@@ -1,7 +1,7 @@
 ---
 title: "A importância dos pequeninos"
 date: 2017-11-28T12:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9y148IqU5dxJfONppfMWOL6Ib7HZdidp5hAUmyMoIvg8enONgVnArZNV1orQFyV7ZfJhiScDvJD0rAFr5R7303XrIlNQPFMFJuOXxfrTWBm3usMgLlhfk6CVW72b-w5NA0PDyHXmiyJI/s320/catequese_infantil.png"
+heroImage: "/images/catequese_infantil.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9y148IqU5dxJfONppfMWOL6Ib7HZdidp5hAUmyMoIvg8enONgVnArZNV1orQFyV7ZfJhiScDvJD0rAFr5R7303XrIlNQPFMFJuOXxfrTWBm3usMgLlhfk6CVW72b-w5NA0PDyHXmiyJI/s1600/catequese_infantil.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9y148IqU5dxJfONppfMWOL6Ib7HZdidp5hAUmyMoIvg8enONgVnArZNV1orQFyV7ZfJhiScDvJD0rAFr5R7303XrIlNQPFMFJuOXxfrTWBm3usMgLlhfk6CVW72b-w5NA0PDyHXmiyJI/s320/catequese_infantil.png" width="320" height="304" data-original-width="721" data-original-height="685" /></a></div>

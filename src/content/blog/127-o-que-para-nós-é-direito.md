@@ -1,7 +1,7 @@
 ---
 title: "O que para nós é direito?"
 date: 2020-08-11T20:09:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIR4knrjXKDLoLoBwsfkCTc6dpANvcTuHKvZCf7Y-_Gr_q0uvB-sZPpLc8XZnkL5u2Dw7-cT6S4EQFgZoll7YvPmKl7Q_7QY9tnYrtOrpUDX9cD1c-hRew01nCFj5vZvpazoy0W4eQj8/s0/maus_padres_3.jpg"
+heroImage: "/images/maus_padres_3.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIR4knrjXKDLoLoBwsfkCTc6dpANvcTuHKvZCf7Y-_Gr_q0uvB-sZPpLc8XZnkL5u2Dw7-cT6S4EQFgZoll7YvPmKl7Q_7QY9tnYrtOrpUDX9cD1c-hRew01nCFj5vZvpazoy0W4eQj8/s300/maus_padres_3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="254" data-original-width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIR4knrjXKDLoLoBwsfkCTc6dpANvcTuHKvZCf7Y-_Gr_q0uvB-sZPpLc8XZnkL5u2Dw7-cT6S4EQFgZoll7YvPmKl7Q_7QY9tnYrtOrpUDX9cD1c-hRew01nCFj5vZvpazoy0W4eQj8/s0/maus_padres_3.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sigamos na seguinte linha de pensamento: qual o contrário de

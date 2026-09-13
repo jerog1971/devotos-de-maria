@@ -1,7 +1,7 @@
 ---
 title: "O que vem depois da curva"
 date: 2020-09-11T13:42:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXqi2KlzY0m9xqx9L1VJDUc3O2q44WA7GGKLLARkiOANSL887DGYfNJghN1wunPKWCNd-ns9MszR2_0QDgUPeqnorxqIW8NNKz1U8Jtb11FTlTZtQxtm7M4O1k3StuR1QvN9mxidjR2YU/w400-h365/curva+perigosa.png"
+heroImage: "/images/perigo.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXqi2KlzY0m9xqx9L1VJDUc3O2q44WA7GGKLLARkiOANSL887DGYfNJghN1wunPKWCNd-ns9MszR2_0QDgUPeqnorxqIW8NNKz1U8Jtb11FTlTZtQxtm7M4O1k3StuR1QvN9mxidjR2YU/s598/curva+perigosa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="546" data-original-width="598" height="365" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXqi2KlzY0m9xqx9L1VJDUc3O2q44WA7GGKLLARkiOANSL887DGYfNJghN1wunPKWCNd-ns9MszR2_0QDgUPeqnorxqIW8NNKz1U8Jtb11FTlTZtQxtm7M4O1k3StuR1QvN9mxidjR2YU/w400-h365/curva+perigosa.png" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Difícil prever, pode vir qualquer coisa, não temos como

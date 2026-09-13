@@ -1,7 +1,7 @@
 ---
 title: "Os mascarados de hoje em dia"
 date: 2020-04-16T16:28:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzYFnaiXkixeNtWbj9lxmQ1VGNynDTpYM3V7RnS1H2gh8RSy0KX-u4RY26JTqKJlo9cwBYH78I2b7P4nSvgxXIMk4QMyenLMcMa9H34QmwZrt7t5MZV0pLFOUtDgfS-xQmRETEgC8PRg/s320/mascarados.png"
+heroImage: "/images/mascarados.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzYFnaiXkixeNtWbj9lxmQ1VGNynDTpYM3V7RnS1H2gh8RSy0KX-u4RY26JTqKJlo9cwBYH78I2b7P4nSvgxXIMk4QMyenLMcMa9H34QmwZrt7t5MZV0pLFOUtDgfS-xQmRETEgC8PRg/s1600/mascarados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzYFnaiXkixeNtWbj9lxmQ1VGNynDTpYM3V7RnS1H2gh8RSy0KX-u4RY26JTqKJlo9cwBYH78I2b7P4nSvgxXIMk4QMyenLMcMa9H34QmwZrt7t5MZV0pLFOUtDgfS-xQmRETEgC8PRg/s320/mascarados.png" width="263" height="320" data-original-width="764" data-original-height="931" /></a></div>

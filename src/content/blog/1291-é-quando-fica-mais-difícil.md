@@ -1,7 +1,7 @@
 ---
 title: "É quando fica mais difícil"
 date: 2019-05-02T20:27:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqJ6kFzPpgDOEA94h8uDZaKUrR6M8V6cZJGndpDUN6wpvPn44HV4Fzc1Ff6R5AP1K1ZyYALi5mHXHmVb-_PjLzsaT2zZED4G7XDKbPihxN6u3Jw7uBn-DJ0hD9rTKd9QmlhTl0D6q7iqw/s320/dificuldades.png"
+heroImage: "/images/dificuldades.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqJ6kFzPpgDOEA94h8uDZaKUrR6M8V6cZJGndpDUN6wpvPn44HV4Fzc1Ff6R5AP1K1ZyYALi5mHXHmVb-_PjLzsaT2zZED4G7XDKbPihxN6u3Jw7uBn-DJ0hD9rTKd9QmlhTl0D6q7iqw/s1600/dificuldades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqJ6kFzPpgDOEA94h8uDZaKUrR6M8V6cZJGndpDUN6wpvPn44HV4Fzc1Ff6R5AP1K1ZyYALi5mHXHmVb-_PjLzsaT2zZED4G7XDKbPihxN6u3Jw7uBn-DJ0hD9rTKd9QmlhTl0D6q7iqw/s320/dificuldades.png" width="320" height="310" data-original-width="294" data-original-height="285" /></a></div>

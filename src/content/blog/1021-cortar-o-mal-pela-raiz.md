@@ -1,7 +1,7 @@
 ---
 title: "Cortar o mal pela raiz"
 date: 2018-06-04T20:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTykuE3R1UptQjb3VqHjCINwUnSq3JjChtLqoOpKkjBOFC2oufLOGQqipRbQ6Y-oDHiJpHE8bSf45QHtJFsZWtrYLQUGnuT89-R5scSb-8ctJjHZAXheQRnneOtEcSibBNVvvveZxs6go/s320/thanos.png"
+heroImage: "/images/thanos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTykuE3R1UptQjb3VqHjCINwUnSq3JjChtLqoOpKkjBOFC2oufLOGQqipRbQ6Y-oDHiJpHE8bSf45QHtJFsZWtrYLQUGnuT89-R5scSb-8ctJjHZAXheQRnneOtEcSibBNVvvveZxs6go/s1600/thanos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTykuE3R1UptQjb3VqHjCINwUnSq3JjChtLqoOpKkjBOFC2oufLOGQqipRbQ6Y-oDHiJpHE8bSf45QHtJFsZWtrYLQUGnuT89-R5scSb-8ctJjHZAXheQRnneOtEcSibBNVvvveZxs6go/s320/thanos.png" width="320" height="263" data-original-width="451" data-original-height="371" /></a></div>

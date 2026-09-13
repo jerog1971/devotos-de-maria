@@ -1,7 +1,7 @@
 ---
 title: "De novo e de novo"
 date: 2018-04-18T16:36:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3cpxQxDxhRhGUib1C0dM4KfP-krrTTxTsU5eWA9SuCHwv1JXoacpmGuV3BByP5D9OKUmR_uP75S04-MKPIPbt16MLGopl4dbXPR-QcxXeYjFuE2Yt9nUSY79TGAsiLNLWWZg3MuXDZL0/s320/Sofia.png"
+heroImage: "/images/Sofia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3cpxQxDxhRhGUib1C0dM4KfP-krrTTxTsU5eWA9SuCHwv1JXoacpmGuV3BByP5D9OKUmR_uP75S04-MKPIPbt16MLGopl4dbXPR-QcxXeYjFuE2Yt9nUSY79TGAsiLNLWWZg3MuXDZL0/s1600/Sofia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3cpxQxDxhRhGUib1C0dM4KfP-krrTTxTsU5eWA9SuCHwv1JXoacpmGuV3BByP5D9OKUmR_uP75S04-MKPIPbt16MLGopl4dbXPR-QcxXeYjFuE2Yt9nUSY79TGAsiLNLWWZg3MuXDZL0/s320/Sofia.png" width="320" height="302" data-original-width="669" data-original-height="631" /></a></div>

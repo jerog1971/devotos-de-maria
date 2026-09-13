@@ -1,7 +1,7 @@
 ---
 title: "Videogames violentos não criam assassinos"
 date: 2019-03-22T17:56:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-HRIJ8ItdULtAwoNWUIbDbCeHsPyQdf5mCGV_0lwCMbjzCDg5hrXxL-lEoNBaWbGnOwtOO4ADTxRdkpmA9myLJcSIwS4iyr7Txdl9cWuwlKk8EHZHKTAAgKGsjcDLk1v2S-9_floMZ8/s320/jogos_violentos.png"
+heroImage: "/images/jogos_violentos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-HRIJ8ItdULtAwoNWUIbDbCeHsPyQdf5mCGV_0lwCMbjzCDg5hrXxL-lEoNBaWbGnOwtOO4ADTxRdkpmA9myLJcSIwS4iyr7Txdl9cWuwlKk8EHZHKTAAgKGsjcDLk1v2S-9_floMZ8/s1600/jogos_violentos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="482" data-original-width="500" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-HRIJ8ItdULtAwoNWUIbDbCeHsPyQdf5mCGV_0lwCMbjzCDg5hrXxL-lEoNBaWbGnOwtOO4ADTxRdkpmA9myLJcSIwS4iyr7Txdl9cWuwlKk8EHZHKTAAgKGsjcDLk1v2S-9_floMZ8/s320/jogos_violentos.png" width="320" /></a></div>

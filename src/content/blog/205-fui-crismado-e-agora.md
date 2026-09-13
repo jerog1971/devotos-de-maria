@@ -1,7 +1,7 @@
 ---
 title: "Fui crismado, e agora?"
 date: 2015-09-01T20:52:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsBH7SfyX4hZZTjAICNlfxrJl9POLJ8qeQUpxelQWCGm07aeBibpf5ECLmZJ1NOs8cCUNfgO2UiCbnK45625V5sa9zO0vMw97XsI5NACAASqbzLP_b9vJvFut4Ig1GPeFROlraAUpQ3Lo/s320/crismandos.png"
+heroImage: "/images/crismandos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsBH7SfyX4hZZTjAICNlfxrJl9POLJ8qeQUpxelQWCGm07aeBibpf5ECLmZJ1NOs8cCUNfgO2UiCbnK45625V5sa9zO0vMw97XsI5NACAASqbzLP_b9vJvFut4Ig1GPeFROlraAUpQ3Lo/s1600/crismandos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsBH7SfyX4hZZTjAICNlfxrJl9POLJ8qeQUpxelQWCGm07aeBibpf5ECLmZJ1NOs8cCUNfgO2UiCbnK45625V5sa9zO0vMw97XsI5NACAASqbzLP_b9vJvFut4Ig1GPeFROlraAUpQ3Lo/s320/crismandos.png" width="320" height="186" data-original-width="541" data-original-height="314" /></a></div>

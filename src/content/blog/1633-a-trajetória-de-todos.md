@@ -1,7 +1,7 @@
 ---
 title: "A trajetória de todos"
 date: 2020-03-09T16:15:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7y624YqFvZqB3sTooFn_4TepTvodSJ4cV4-n2f5FNuPK7nJ3n077QSyqZZcR2uP7cwuXZK4Lexb9j6qjpu0NB_Dpm6TDGGA5I_K9SyC4pi9DRdhmZl545bJajdnXaZR94bJh3_QANVn0/s320/jefferson_roger.png"
+heroImage: "/images/jefferson_roger.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7y624YqFvZqB3sTooFn_4TepTvodSJ4cV4-n2f5FNuPK7nJ3n077QSyqZZcR2uP7cwuXZK4Lexb9j6qjpu0NB_Dpm6TDGGA5I_K9SyC4pi9DRdhmZl545bJajdnXaZR94bJh3_QANVn0/s1600/jefferson_roger.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7y624YqFvZqB3sTooFn_4TepTvodSJ4cV4-n2f5FNuPK7nJ3n077QSyqZZcR2uP7cwuXZK4Lexb9j6qjpu0NB_Dpm6TDGGA5I_K9SyC4pi9DRdhmZl545bJajdnXaZR94bJh3_QANVn0/s320/jefferson_roger.png" width="242" height="320" data-original-width="579" data-original-height="766" /></a></div>

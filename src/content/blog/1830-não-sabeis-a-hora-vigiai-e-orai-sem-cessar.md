@@ -1,7 +1,7 @@
 ---
 title: "Não sabeis a hora, vigiai e orai sem cessar."
 date: 2014-10-31T19:35:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSUwLhRbbsXkiJjuNyVwt3exWXJ8lSzGy3oRjfNZr52r-IgERshATrgEvRChQsyiAwrqZEhkuA5jqeN1hk2QPmS7e2uFnlavTyGfMEaPF5qbuuJ-XQmCHt7onn1Ev4yy6EJq-Cd6fY4mg/s320/assalto.png"
+heroImage: "/images/assalto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSUwLhRbbsXkiJjuNyVwt3exWXJ8lSzGy3oRjfNZr52r-IgERshATrgEvRChQsyiAwrqZEhkuA5jqeN1hk2QPmS7e2uFnlavTyGfMEaPF5qbuuJ-XQmCHt7onn1Ev4yy6EJq-Cd6fY4mg/s1600/assalto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSUwLhRbbsXkiJjuNyVwt3exWXJ8lSzGy3oRjfNZr52r-IgERshATrgEvRChQsyiAwrqZEhkuA5jqeN1hk2QPmS7e2uFnlavTyGfMEaPF5qbuuJ-XQmCHt7onn1Ev4yy6EJq-Cd6fY4mg/s320/assalto.png" width="320" height="215" data-original-width="571" data-original-height="384" /></a></div>

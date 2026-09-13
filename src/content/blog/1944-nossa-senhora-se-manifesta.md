@@ -1,7 +1,7 @@
 ---
 title: "Nossa Senhora se manifesta"
 date: 2020-04-03T15:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiigEkc6no87FVpDsdd2RE4fMHCnxyDHVgIt2I01oxuAC5jC6r4aPOp9yYUqf8wSbtB-6hYNTaBg-NWewwuphxJj6Hc7ugLPguqZ596KtOoqIix0T0H1P_O_rs4vBaUmfDPK64WkvzxW80/s320/Nossa_Senhora.png"
+heroImage: "/images/Nossa_Senhora.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiigEkc6no87FVpDsdd2RE4fMHCnxyDHVgIt2I01oxuAC5jC6r4aPOp9yYUqf8wSbtB-6hYNTaBg-NWewwuphxJj6Hc7ugLPguqZ596KtOoqIix0T0H1P_O_rs4vBaUmfDPK64WkvzxW80/s1600/Nossa_Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiigEkc6no87FVpDsdd2RE4fMHCnxyDHVgIt2I01oxuAC5jC6r4aPOp9yYUqf8wSbtB-6hYNTaBg-NWewwuphxJj6Hc7ugLPguqZ596KtOoqIix0T0H1P_O_rs4vBaUmfDPK64WkvzxW80/s320/Nossa_Senhora.png" width="320" height="250" data-original-width="683" data-original-height="534" /></a></div>

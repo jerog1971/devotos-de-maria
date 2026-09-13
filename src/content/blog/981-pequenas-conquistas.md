@@ -1,7 +1,7 @@
 ---
 title: "Pequenas conquistas"
 date: 2022-05-17T20:46:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat3jqxx45uoXLXVDoELXEfhMS6zuw-pmClH4QIRpMuopDsd4XTKf4pJRJ6nIPkP59-A-Sd3hDs3SlJR1kJXvObp_GlAFzzdxW1RRaf6FGk9UAJrBHTA4eYOcWiUTQLoEURKXmi9WXhxPYWTc8oS6xE1koup1xeo0UymlfkVYWutE4a1eo6ibDj41k/s320/pequenas%20conquistas.png"
+heroImage: "/images/pequenas conquistas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat3jqxx45uoXLXVDoELXEfhMS6zuw-pmClH4QIRpMuopDsd4XTKf4pJRJ6nIPkP59-A-Sd3hDs3SlJR1kJXvObp_GlAFzzdxW1RRaf6FGk9UAJrBHTA4eYOcWiUTQLoEURKXmi9WXhxPYWTc8oS6xE1koup1xeo0UymlfkVYWutE4a1eo6ibDj41k/s449/pequenas%20conquistas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="373" data-original-width="449" height="266" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat3jqxx45uoXLXVDoELXEfhMS6zuw-pmClH4QIRpMuopDsd4XTKf4pJRJ6nIPkP59-A-Sd3hDs3SlJR1kJXvObp_GlAFzzdxW1RRaf6FGk9UAJrBHTA4eYOcWiUTQLoEURKXmi9WXhxPYWTc8oS6xE1koup1xeo0UymlfkVYWutE4a1eo6ibDj41k/s320/pequenas%20conquistas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em certo ponto da vida, a pessoa depois de uma longa

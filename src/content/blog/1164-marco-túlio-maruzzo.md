@@ -1,7 +1,7 @@
 ---
 title: "Marco Túlio Maruzzo"
 date: 2020-07-01T16:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTxVt7j_LX7ATEKTjHV_xd3tEaobhghTlvB9LEw9WeCHP5e6iC6A3rTQoH0eizlNP2AMAz-z3DPbjQmSCorT7Ggwi29iQfJbgq0-Vi07yMoQOPt5ay1YHMDUG2agIny5W3l64Jc4KMWO8/"
+heroImage: "/images/ate.jpg"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTxVt7j_LX7ATEKTjHV_xd3tEaobhghTlvB9LEw9WeCHP5e6iC6A3rTQoH0eizlNP2AMAz-z3DPbjQmSCorT7Ggwi29iQfJbgq0-Vi07yMoQOPt5ay1YHMDUG2agIny5W3l64Jc4KMWO8/s233/Marco+Tulio+Maruzzo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="190" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTxVt7j_LX7ATEKTjHV_xd3tEaobhghTlvB9LEw9WeCHP5e6iC6A3rTQoH0eizlNP2AMAz-z3DPbjQmSCorT7Ggwi29iQfJbgq0-Vi07yMoQOPt5ay1YHMDUG2agIny5W3l64Jc4KMWO8/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Marco Túlio nasceu em Lapio de Arcugmano, em 1930, Itália.

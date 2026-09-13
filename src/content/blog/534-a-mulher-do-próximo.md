@@ -1,7 +1,7 @@
 ---
 title: "A mulher do próximo"
 date: 2017-07-17T13:41:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0yHOJ3WtA_EN-HL55NEP8WzKOZmbCunAtUbrAeZ4Wr_fRF0fy_n0feGk1FznchIK0jtumIwk_QmbNn0cJKopuYucXLNFx-IjlabBHt114jLYSsVpsblemzxqq5qeNIQWS9DYwaOkHv0A/s320/mulher_do_proximo.png"
+heroImage: "/images/mulher_do_proximo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0yHOJ3WtA_EN-HL55NEP8WzKOZmbCunAtUbrAeZ4Wr_fRF0fy_n0feGk1FznchIK0jtumIwk_QmbNn0cJKopuYucXLNFx-IjlabBHt114jLYSsVpsblemzxqq5qeNIQWS9DYwaOkHv0A/s1600/mulher_do_proximo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0yHOJ3WtA_EN-HL55NEP8WzKOZmbCunAtUbrAeZ4Wr_fRF0fy_n0feGk1FznchIK0jtumIwk_QmbNn0cJKopuYucXLNFx-IjlabBHt114jLYSsVpsblemzxqq5qeNIQWS9DYwaOkHv0A/s320/mulher_do_proximo.png" width="320" height="292" data-original-width="317" data-original-height="289" /></a></div>

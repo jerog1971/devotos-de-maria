@@ -1,7 +1,7 @@
 ---
 title: "Os sucessores de Lutero"
 date: 2017-12-19T15:50:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglFAg6KZNBxUGR9swqMxRVD49azbTZpZ41YARDFy_poTH8vBgHzt7Ke2rWrS4nyeItTXDPuAtQLNdom8fup1x-GBqM58NWXxclDNG4p11s0uKHR9hoq1b9Qh6JhEIuAtPvm6JrVG4SyMA/s320/babel.png"
+heroImage: "/images/babel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglFAg6KZNBxUGR9swqMxRVD49azbTZpZ41YARDFy_poTH8vBgHzt7Ke2rWrS4nyeItTXDPuAtQLNdom8fup1x-GBqM58NWXxclDNG4p11s0uKHR9hoq1b9Qh6JhEIuAtPvm6JrVG4SyMA/s1600/babel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglFAg6KZNBxUGR9swqMxRVD49azbTZpZ41YARDFy_poTH8vBgHzt7Ke2rWrS4nyeItTXDPuAtQLNdom8fup1x-GBqM58NWXxclDNG4p11s0uKHR9hoq1b9Qh6JhEIuAtPvm6JrVG4SyMA/s320/babel.png" width="320" height="299" data-original-width="548" data-original-height="512" /></a></div>

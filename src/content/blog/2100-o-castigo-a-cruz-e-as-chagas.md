@@ -1,7 +1,7 @@
 ---
 title: "O castigo, a cruz e as chagas"
 date: 2016-02-17T11:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiivgkyc-PEtR8-vz84lj0us006Q3I_GuUzCb_cepWdrA0AGJ-SCxCVnprk_SVzdsmnVcyWJ1L4GPIGotnDNkPnC3axPmRDy8vfQVEM5F6SkwxKVS1p4fEfChGTN55Z0nfpP3H2q5Zp28g/s320/chagas.png"
+heroImage: "/images/chagas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiivgkyc-PEtR8-vz84lj0us006Q3I_GuUzCb_cepWdrA0AGJ-SCxCVnprk_SVzdsmnVcyWJ1L4GPIGotnDNkPnC3axPmRDy8vfQVEM5F6SkwxKVS1p4fEfChGTN55Z0nfpP3H2q5Zp28g/s1600/chagas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiivgkyc-PEtR8-vz84lj0us006Q3I_GuUzCb_cepWdrA0AGJ-SCxCVnprk_SVzdsmnVcyWJ1L4GPIGotnDNkPnC3axPmRDy8vfQVEM5F6SkwxKVS1p4fEfChGTN55Z0nfpP3H2q5Zp28g/s320/chagas.png" width="320" height="270" data-original-width="631" data-original-height="532" /></a></div>

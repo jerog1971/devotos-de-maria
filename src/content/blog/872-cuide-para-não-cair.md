@@ -1,7 +1,7 @@
 ---
 title: "Cuide para não cair"
 date: 2016-08-04T20:39:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXDebqVAUfG8p7HOypCZSx0KQT9zbYY9x5pTwnfM6TMHAo_eth64SahXFiBG7CQrZ7vTqcNbMENUoedqLhV8hAvD_Aclh_C_lhG-1mZWxWhyphenhyphen41WMreUu-S0H0Nrqli0KgRZz5_DmDEgKc/s320/caindo.png"
+heroImage: "/images/caindo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXDebqVAUfG8p7HOypCZSx0KQT9zbYY9x5pTwnfM6TMHAo_eth64SahXFiBG7CQrZ7vTqcNbMENUoedqLhV8hAvD_Aclh_C_lhG-1mZWxWhyphenhyphen41WMreUu-S0H0Nrqli0KgRZz5_DmDEgKc/s1600/caindo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="298" data-original-width="286" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXDebqVAUfG8p7HOypCZSx0KQT9zbYY9x5pTwnfM6TMHAo_eth64SahXFiBG7CQrZ7vTqcNbMENUoedqLhV8hAvD_Aclh_C_lhG-1mZWxWhyphenhyphen41WMreUu-S0H0Nrqli0KgRZz5_DmDEgKc/s320/caindo.png" width="307" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>1ª Coríntios 10,12 - Portanto, quem pensa estar de pé veja que não caia. Com esta chamada de atenção, o apóstolo São Paulo, nos relembra de uma realidade que deve estar muito presente em nossas vidas e que foi dita por Jesus: “vigiai”.

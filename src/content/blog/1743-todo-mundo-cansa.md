@@ -1,7 +1,7 @@
 ---
 title: "Todo mundo cansa"
 date: 2024-04-09T17:49:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMuTYVG82TUwwRir1BNiep-YTwo9c6o-up5YYZFMIYiVW6VEaO5zjUAZ8xiExSGU2NeU3ilBbe6GQ8NlbNqxIGXSeASoLcDwrdB6rELOpW8qdhnW7atBoEJMXSPnr47fREjSLg2mjGXXypqPfryMdGZUv7nDbO_gg3kQOKf_Acl-5j1J6pwOjwT2Sp6Og/s1600/Todo%20mundo%20cansa.jpg"
+heroImage: "/images/Todo mundo cansa.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMuTYVG82TUwwRir1BNiep-YTwo9c6o-up5YYZFMIYiVW6VEaO5zjUAZ8xiExSGU2NeU3ilBbe6GQ8NlbNqxIGXSeASoLcDwrdB6rELOpW8qdhnW7atBoEJMXSPnr47fREjSLg2mjGXXypqPfryMdGZUv7nDbO_gg3kQOKf_Acl-5j1J6pwOjwT2Sp6Og/s207/Todo%20mundo%20cansa.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="199" height="207" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMuTYVG82TUwwRir1BNiep-YTwo9c6o-up5YYZFMIYiVW6VEaO5zjUAZ8xiExSGU2NeU3ilBbe6GQ8NlbNqxIGXSeASoLcDwrdB6rELOpW8qdhnW7atBoEJMXSPnr47fREjSLg2mjGXXypqPfryMdGZUv7nDbO_gg3kQOKf_Acl-5j1J6pwOjwT2Sp6Og/s1600/Todo%20mundo%20cansa.jpg" width="199" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já que és feito de carne e osso, capaz de somatizar para seu

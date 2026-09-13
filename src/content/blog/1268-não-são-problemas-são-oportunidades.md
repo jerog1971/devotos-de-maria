@@ -1,7 +1,7 @@
 ---
 title: "Não são problemas, são oportunidades"
 date: 2017-11-29T17:34:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANM2a9L0eJuVo0dC5B-xlQMW24H4mCQHgbcsHY61Rv9kNX3lZR03gssmrjKdQqfhnzTzTb5KVZEMxWxf8yHMvJeQ0vFuizl1NOSdcR_L0EjVnuueewnwhvJDiXfL0oIPuRhYuwUQ2Rqc/s320/ranzinza.png"
+heroImage: "/images/ranzinza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANM2a9L0eJuVo0dC5B-xlQMW24H4mCQHgbcsHY61Rv9kNX3lZR03gssmrjKdQqfhnzTzTb5KVZEMxWxf8yHMvJeQ0vFuizl1NOSdcR_L0EjVnuueewnwhvJDiXfL0oIPuRhYuwUQ2Rqc/s1600/ranzinza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANM2a9L0eJuVo0dC5B-xlQMW24H4mCQHgbcsHY61Rv9kNX3lZR03gssmrjKdQqfhnzTzTb5KVZEMxWxf8yHMvJeQ0vFuizl1NOSdcR_L0EjVnuueewnwhvJDiXfL0oIPuRhYuwUQ2Rqc/s320/ranzinza.png" width="320" height="319" data-original-width="344" data-original-height="343" /></a></div>

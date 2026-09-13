@@ -1,7 +1,7 @@
 ---
 title: "O cordão umbilical dos pecados"
 date: 2021-09-14T17:37:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMOY_Axofz-MGEWBk4xR_wibexstBsS9HNvo6xFcaa528AHqc4w7C8TpNwOITS7JmgcAAKZsDfLGvjQj7QpK4Wawf2Teb-pLfqUfPjnLmFX-64T0N5cYXOIUZ4m9xcQ8uwW_WEsxagc6s/s320/o+cord%25C3%25A3o+umbilical+dos+pecados.png"
+heroImage: "/images/pecado.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMOY_Axofz-MGEWBk4xR_wibexstBsS9HNvo6xFcaa528AHqc4w7C8TpNwOITS7JmgcAAKZsDfLGvjQj7QpK4Wawf2Teb-pLfqUfPjnLmFX-64T0N5cYXOIUZ4m9xcQ8uwW_WEsxagc6s/s441/o+cord%25C3%25A3o+umbilical+dos+pecados.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="406" data-original-width="441" height="295" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMOY_Axofz-MGEWBk4xR_wibexstBsS9HNvo6xFcaa528AHqc4w7C8TpNwOITS7JmgcAAKZsDfLGvjQj7QpK4Wawf2Teb-pLfqUfPjnLmFX-64T0N5cYXOIUZ4m9xcQ8uwW_WEsxagc6s/s320/o+cord%25C3%25A3o+umbilical+dos+pecados.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O artigo começa com essa analogia ao cordão umbilical porque

@@ -1,7 +1,7 @@
 ---
 title: "Tempo para Tudo"
 date: 2017-05-02T00:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUi4cVNweUiaHE_h5Tw1mAvc8evEyrsLoMws-3Bh_K9WrfwxQGzOAVQpjtU0qGuBvY_zSjnktT6dTAHo27lYvuepUQfpkBOy5nJiht-b2HibVLpghX57oCUPsxlJRemUIu1WrcY5MOyqI/s320/Mimica.png"
+heroImage: "/images/Mimica.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUi4cVNweUiaHE_h5Tw1mAvc8evEyrsLoMws-3Bh_K9WrfwxQGzOAVQpjtU0qGuBvY_zSjnktT6dTAHo27lYvuepUQfpkBOy5nJiht-b2HibVLpghX57oCUPsxlJRemUIu1WrcY5MOyqI/s1600/Mimica.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="507" data-original-width="583" height="278" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUi4cVNweUiaHE_h5Tw1mAvc8evEyrsLoMws-3Bh_K9WrfwxQGzOAVQpjtU0qGuBvY_zSjnktT6dTAHo27lYvuepUQfpkBOy5nJiht-b2HibVLpghX57oCUPsxlJRemUIu1WrcY5MOyqI/s320/Mimica.png" width="320" /></a></div>

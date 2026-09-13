@@ -1,7 +1,7 @@
 ---
 title: "Gêmeos assassinados"
 date: 2016-08-10T19:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRJUk-1EcyE7uWeY6ak-Z60YGZ_IFohU5Fu9_7zVSRvXfjziQNDT_qth2BC77_dzdW0mtVQrE1zTmURK_vUmz_QZos-MJAo0ncPQ56w-RpqrFBD6Pc8IuHDBKDoakAO7D9nZTAjDUq2tE/s320/gemeos.png"
+heroImage: "/images/gemeos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRJUk-1EcyE7uWeY6ak-Z60YGZ_IFohU5Fu9_7zVSRvXfjziQNDT_qth2BC77_dzdW0mtVQrE1zTmURK_vUmz_QZos-MJAo0ncPQ56w-RpqrFBD6Pc8IuHDBKDoakAO7D9nZTAjDUq2tE/s1600/gemeos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRJUk-1EcyE7uWeY6ak-Z60YGZ_IFohU5Fu9_7zVSRvXfjziQNDT_qth2BC77_dzdW0mtVQrE1zTmURK_vUmz_QZos-MJAo0ncPQ56w-RpqrFBD6Pc8IuHDBKDoakAO7D9nZTAjDUq2tE/s320/gemeos.png" width="320" height="167" data-original-width="797" data-original-height="417" /></a></div>

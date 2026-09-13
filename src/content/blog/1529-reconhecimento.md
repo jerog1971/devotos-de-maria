@@ -1,7 +1,7 @@
 ---
 title: "Reconhecimento"
 date: 2023-10-10T19:27:00.008Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggRNIHEtOHAYlSNrNoDEidBnbwSwT9DF4XxgujDnUvT1MHWDOsaDcVvH5bP4cOpnbp6G5ZSsk0mzrxi52OhYTt2MimSGAX-7WLPUQda6NrOQqpT_tkdcVIy6_2osmq0JzsF21EKjbzA_S5B6o42hsUT5gxUuVCjqjox8Uy8j1yOm0IKiBtFa0NmHjB0W8/w262-h223/Mimipai_2023.png"
+heroImage: "/images/Mimipai_2023.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggRNIHEtOHAYlSNrNoDEidBnbwSwT9DF4XxgujDnUvT1MHWDOsaDcVvH5bP4cOpnbp6G5ZSsk0mzrxi52OhYTt2MimSGAX-7WLPUQda6NrOQqpT_tkdcVIy6_2osmq0JzsF21EKjbzA_S5B6o42hsUT5gxUuVCjqjox8Uy8j1yOm0IKiBtFa0NmHjB0W8/s219/Mimipai_2023.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="186" data-original-width="219" height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggRNIHEtOHAYlSNrNoDEidBnbwSwT9DF4XxgujDnUvT1MHWDOsaDcVvH5bP4cOpnbp6G5ZSsk0mzrxi52OhYTt2MimSGAX-7WLPUQda6NrOQqpT_tkdcVIy6_2osmq0JzsF21EKjbzA_S5B6o42hsUT5gxUuVCjqjox8Uy8j1yOm0IKiBtFa0NmHjB0W8/w262-h223/Mimipai_2023.png" width="262" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Às vezes achamos que o que fazemos não está fazendo a diferença.

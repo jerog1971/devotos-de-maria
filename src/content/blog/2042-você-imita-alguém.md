@@ -1,7 +1,7 @@
 ---
 title: "Você imita alguém?"
 date: 2018-08-20T18:58:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM69EfKUFR4ezJclhgM5Ir66j16DQnvLVxkaQ58BFuxAyc7ASobQCRVn9lRLOg26FYwu9o8XHHdbBB-RNwmsvWiY6M0ikY-srZbhEnj2d88nbhjQmhx7CA4l75PGZ3mIoUPst-BBwacVg/s320/imitadores.png"
+heroImage: "/images/imitadores.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM69EfKUFR4ezJclhgM5Ir66j16DQnvLVxkaQ58BFuxAyc7ASobQCRVn9lRLOg26FYwu9o8XHHdbBB-RNwmsvWiY6M0ikY-srZbhEnj2d88nbhjQmhx7CA4l75PGZ3mIoUPst-BBwacVg/s1600/imitadores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM69EfKUFR4ezJclhgM5Ir66j16DQnvLVxkaQ58BFuxAyc7ASobQCRVn9lRLOg26FYwu9o8XHHdbBB-RNwmsvWiY6M0ikY-srZbhEnj2d88nbhjQmhx7CA4l75PGZ3mIoUPst-BBwacVg/s320/imitadores.png" width="320" height="319" data-original-width="516" data-original-height="514" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Será que Deus é surdo?"
 date: 2023-01-28T18:47:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgYNRUVatqZF856sL3aFFvC31Jme13dft1tTVRYnQUUy-N97_VfIdM0xGilbOcz3iGIs_ZpXyJE3VmGuZdZe0ziL5Ud1t45JCuRQP3MR-bAXBW1OMvvXr_2nn2t89TiY736iLwT9vQt6sF-nL7YcX3Io-hyY6RI7VU-HS-16hJKKgpGntE63IlmJx/s320/Deus%20est%C3%A1%20surdo.png"
+heroImage: "/images/Deus está surdo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgYNRUVatqZF856sL3aFFvC31Jme13dft1tTVRYnQUUy-N97_VfIdM0xGilbOcz3iGIs_ZpXyJE3VmGuZdZe0ziL5Ud1t45JCuRQP3MR-bAXBW1OMvvXr_2nn2t89TiY736iLwT9vQt6sF-nL7YcX3Io-hyY6RI7VU-HS-16hJKKgpGntE63IlmJx/s571/Deus%20est%C3%A1%20surdo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="331" data-original-width="571" height="185" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgYNRUVatqZF856sL3aFFvC31Jme13dft1tTVRYnQUUy-N97_VfIdM0xGilbOcz3iGIs_ZpXyJE3VmGuZdZe0ziL5Ud1t45JCuRQP3MR-bAXBW1OMvvXr_2nn2t89TiY736iLwT9vQt6sF-nL7YcX3Io-hyY6RI7VU-HS-16hJKKgpGntE63IlmJx/s320/Deus%20est%C3%A1%20surdo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente muitas pessoas ao passarem anos a fio pedindo

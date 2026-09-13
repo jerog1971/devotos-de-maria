@@ -1,7 +1,7 @@
 ---
 title: "Deus não corre atrás"
 date: 2021-03-08T19:36:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbCDT6F13A24f9sgSscSyvbUZaxXW7kLL1osVA1kd-1XHd2irpGTfZ8Av1srzsI0pr3ly_4e67172on1AqDfZr70WLILZjPzFgf-Q15HrhNAn_oGQ2A2AHO6iu555zTjxKW3qBvWztEc/s320/escolhas+solit%25C3%25A1rias.png"
+heroImage: "/images/escolha.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbCDT6F13A24f9sgSscSyvbUZaxXW7kLL1osVA1kd-1XHd2irpGTfZ8Av1srzsI0pr3ly_4e67172on1AqDfZr70WLILZjPzFgf-Q15HrhNAn_oGQ2A2AHO6iu555zTjxKW3qBvWztEc/s393/escolhas+solit%25C3%25A1rias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="393" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbCDT6F13A24f9sgSscSyvbUZaxXW7kLL1osVA1kd-1XHd2irpGTfZ8Av1srzsI0pr3ly_4e67172on1AqDfZr70WLILZjPzFgf-Q15HrhNAn_oGQ2A2AHO6iu555zTjxKW3qBvWztEc/s320/escolhas+solit%25C3%25A1rias.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou será que corre? Vale a reflexão, pois certamente, muitos

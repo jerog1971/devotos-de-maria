@@ -1,7 +1,7 @@
 ---
 title: "Verdadeiros monstros"
 date: 2022-10-03T19:41:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoM7r6KplO4HiigJxJWwycjPxlG1w-wWvbDCSGvvSre-Fm5CHVKi-0leU4b2IltqDs3Ip-oC88ZqI1159nyPk8_uGx3hZTDZ0r5KrBlo2xD_ga_2KecMb4TpNyUqLtCpe7Iod3gVJKAd0mhGJUXPr7q9yt6GR8_-alQm89f8pFyAZh7hvlHSuhEEqS/s320/monstros.png"
+heroImage: "/images/monstros.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoM7r6KplO4HiigJxJWwycjPxlG1w-wWvbDCSGvvSre-Fm5CHVKi-0leU4b2IltqDs3Ip-oC88ZqI1159nyPk8_uGx3hZTDZ0r5KrBlo2xD_ga_2KecMb4TpNyUqLtCpe7Iod3gVJKAd0mhGJUXPr7q9yt6GR8_-alQm89f8pFyAZh7hvlHSuhEEqS/s806/monstros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="806" data-original-width="747" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoM7r6KplO4HiigJxJWwycjPxlG1w-wWvbDCSGvvSre-Fm5CHVKi-0leU4b2IltqDs3Ip-oC88ZqI1159nyPk8_uGx3hZTDZ0r5KrBlo2xD_ga_2KecMb4TpNyUqLtCpe7Iod3gVJKAd0mhGJUXPr7q9yt6GR8_-alQm89f8pFyAZh7hvlHSuhEEqS/s320/monstros.png" width="297" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos imaginar que nossa concepção sobre monstros esteja

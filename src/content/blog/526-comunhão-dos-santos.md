@@ -1,7 +1,7 @@
 ---
 title: "Comunhão dos santos"
 date: 2023-12-01T18:56:00.006Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBvbCN-eTkDOfNb_eoEK6AA5vbOEl_ZF2uuhIkDQauMqCY2eEGUGbg4k55habXM0BfPm3Zz3NEZp8aJru6nwJw0LHV6tg4VnvOMRrzRXCGnwpfztDvqH-PZkO94avfdfRBoU7hYPlb0SxvOBkZ5lKaPyasQcm0bT3k8Ig7xnKM7B5ETRsBl7KZ0K_HyPI/s320/Comunh%C3%A3o%20dos%20santos.jpg"
+heroImage: "/images/Comunhão dos santos.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBvbCN-eTkDOfNb_eoEK6AA5vbOEl_ZF2uuhIkDQauMqCY2eEGUGbg4k55habXM0BfPm3Zz3NEZp8aJru6nwJw0LHV6tg4VnvOMRrzRXCGnwpfztDvqH-PZkO94avfdfRBoU7hYPlb0SxvOBkZ5lKaPyasQcm0bT3k8Ig7xnKM7B5ETRsBl7KZ0K_HyPI/s3264/Comunh%C3%A3o%20dos%20santos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBvbCN-eTkDOfNb_eoEK6AA5vbOEl_ZF2uuhIkDQauMqCY2eEGUGbg4k55habXM0BfPm3Zz3NEZp8aJru6nwJw0LHV6tg4VnvOMRrzRXCGnwpfztDvqH-PZkO94avfdfRBoU7hYPlb0SxvOBkZ5lKaPyasQcm0bT3k8Ig7xnKM7B5ETRsBl7KZ0K_HyPI/s320/Comunh%C3%A3o%20dos%20santos.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No céu estão os santos, os santos da terra ainda estão peregrinando

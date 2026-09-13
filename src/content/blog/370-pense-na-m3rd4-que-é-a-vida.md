@@ -1,7 +1,7 @@
 ---
 title: "Pense na M3rd4 que é a vida"
 date: 2017-05-05T20:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLDNsBI88-ORPWttJFtUbmBgWMU-jllP-1JeuKgwJrlDan5o1KCQuGxTWIYK_tMEPPuBoH7UyswJMr8nx_SN9S3ePnJR1E9j4ew6uD01vcd1Bu0ewlnrmpjPPdGVZVNLCN2E2Ogvniz6Q/s320/palavrao.png"
+heroImage: "/images/palavrao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLDNsBI88-ORPWttJFtUbmBgWMU-jllP-1JeuKgwJrlDan5o1KCQuGxTWIYK_tMEPPuBoH7UyswJMr8nx_SN9S3ePnJR1E9j4ew6uD01vcd1Bu0ewlnrmpjPPdGVZVNLCN2E2Ogvniz6Q/s1600/palavrao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLDNsBI88-ORPWttJFtUbmBgWMU-jllP-1JeuKgwJrlDan5o1KCQuGxTWIYK_tMEPPuBoH7UyswJMr8nx_SN9S3ePnJR1E9j4ew6uD01vcd1Bu0ewlnrmpjPPdGVZVNLCN2E2Ogvniz6Q/s320/palavrao.png" width="320" height="212" data-original-width="442" data-original-height="293" /></a></div>

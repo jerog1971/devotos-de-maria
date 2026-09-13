@@ -1,7 +1,7 @@
 ---
 title: "As pessoas não têm fé, elas têm medo"
 date: 2020-03-16T15:34:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_rUVL9rmN6vYn43kP9ORF_gptTYt14_1gCoKGev1kINQ3HHWJXBMnTgxzzg-_2ZapQviHTE4RZiqcgLjns3cMhhxxb4jor5Ch0OOb8jZhjVXfEbctzcGuhMHvjGKCSWBDH2qp4uPb9o/s320/f%25C3%25A9_medo.png"
+heroImage: "/images/medo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_rUVL9rmN6vYn43kP9ORF_gptTYt14_1gCoKGev1kINQ3HHWJXBMnTgxzzg-_2ZapQviHTE4RZiqcgLjns3cMhhxxb4jor5Ch0OOb8jZhjVXfEbctzcGuhMHvjGKCSWBDH2qp4uPb9o/s1600/f%25C3%25A9_medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_rUVL9rmN6vYn43kP9ORF_gptTYt14_1gCoKGev1kINQ3HHWJXBMnTgxzzg-_2ZapQviHTE4RZiqcgLjns3cMhhxxb4jor5Ch0OOb8jZhjVXfEbctzcGuhMHvjGKCSWBDH2qp4uPb9o/s320/f%25C3%25A9_medo.png" width="320" height="190" data-original-width="577" data-original-height="342" /></a></div>

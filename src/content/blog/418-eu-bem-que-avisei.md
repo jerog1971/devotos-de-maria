@@ -1,7 +1,7 @@
 ---
 title: "Eu bem que avisei"
 date: 2018-01-19T16:52:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZNSQrI4a5RTjlnlnaN-vyKZ3LtP8CcKL-w7j_7juhsdLc9BahD-aRjIKU32Xz2quxUN6Q9tpdFbJ3djPXNREx4I1WkpaxsyRa3yqBwIVhMYK9g7ssueNkUiPNMJDALwpN1z4AqCDCMlo/s320/Athanasius.png"
+heroImage: "/images/Athanasius.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZNSQrI4a5RTjlnlnaN-vyKZ3LtP8CcKL-w7j_7juhsdLc9BahD-aRjIKU32Xz2quxUN6Q9tpdFbJ3djPXNREx4I1WkpaxsyRa3yqBwIVhMYK9g7ssueNkUiPNMJDALwpN1z4AqCDCMlo/s1600/Athanasius.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZNSQrI4a5RTjlnlnaN-vyKZ3LtP8CcKL-w7j_7juhsdLc9BahD-aRjIKU32Xz2quxUN6Q9tpdFbJ3djPXNREx4I1WkpaxsyRa3yqBwIVhMYK9g7ssueNkUiPNMJDALwpN1z4AqCDCMlo/s320/Athanasius.png" width="263" height="320" data-original-width="314" data-original-height="382" /></a></div>

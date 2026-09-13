@@ -1,7 +1,7 @@
 ---
 title: "Sentiu-se sozinho, procure a outra."
 date: 2017-05-23T20:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWw5lGB0xhNw70uKN6r1MktmfTEYBOTCXdYSJKprD6-R6PgFy32tWNg9IeW97DUZlNczqAAcqrw85S1aKZyq0kyYq0oWfu0FVNIyC9NTxpd-feqRoJ-yTSHL64RifJMEj7IdW8mf8Xy68/s320/sozinho.png"
+heroImage: "/images/nunca esteve sozinho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWw5lGB0xhNw70uKN6r1MktmfTEYBOTCXdYSJKprD6-R6PgFy32tWNg9IeW97DUZlNczqAAcqrw85S1aKZyq0kyYq0oWfu0FVNIyC9NTxpd-feqRoJ-yTSHL64RifJMEj7IdW8mf8Xy68/s1600/sozinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWw5lGB0xhNw70uKN6r1MktmfTEYBOTCXdYSJKprD6-R6PgFy32tWNg9IeW97DUZlNczqAAcqrw85S1aKZyq0kyYq0oWfu0FVNIyC9NTxpd-feqRoJ-yTSHL64RifJMEj7IdW8mf8Xy68/s320/sozinho.png" width="320" height="298" data-original-width="350" data-original-height="326" /></a></div>

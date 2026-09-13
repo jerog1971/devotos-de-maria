@@ -1,7 +1,7 @@
 ---
 title: "Mãe e Madrinha"
 date: 2016-04-14T17:59:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirdtL8budqEBCIqJMExdnqCbZKTVq8q3gpfZ5GtYaiPcZpA8IHIOOv-vrvbjtNlhnwlsgVuQoP7FwK-xsDfTq_MR_l0oBn0AJzeQ6ITdBQ23qdFejLOexjSkuWHCnf1E9NrH-ueeaW0XA/s320/madrinha.png"
+heroImage: "/images/madrinha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirdtL8budqEBCIqJMExdnqCbZKTVq8q3gpfZ5GtYaiPcZpA8IHIOOv-vrvbjtNlhnwlsgVuQoP7FwK-xsDfTq_MR_l0oBn0AJzeQ6ITdBQ23qdFejLOexjSkuWHCnf1E9NrH-ueeaW0XA/s1600/madrinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirdtL8budqEBCIqJMExdnqCbZKTVq8q3gpfZ5GtYaiPcZpA8IHIOOv-vrvbjtNlhnwlsgVuQoP7FwK-xsDfTq_MR_l0oBn0AJzeQ6ITdBQ23qdFejLOexjSkuWHCnf1E9NrH-ueeaW0XA/s320/madrinha.png" width="320" height="317" data-original-width="201" data-original-height="199" /></a></div>

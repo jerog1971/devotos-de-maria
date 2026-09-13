@@ -1,7 +1,7 @@
 ---
 title: "O perigo do \"ex\""
 date: 2016-08-30T19:14:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg95wzLIgoQ4MzImsqa423KO6qmMLDI3Lz_2YOUT4_c_THXa_bndJYgi5uyRgwJ_b_4fsV4lHV_zjjTiAYHO2o11RlFzJ9NSW67cbMCOwuk6_x_-FOFqbQzmO7-qcVshVx89IU3b6qsVxg/s320/traicao.png"
+heroImage: "/images/traicao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg95wzLIgoQ4MzImsqa423KO6qmMLDI3Lz_2YOUT4_c_THXa_bndJYgi5uyRgwJ_b_4fsV4lHV_zjjTiAYHO2o11RlFzJ9NSW67cbMCOwuk6_x_-FOFqbQzmO7-qcVshVx89IU3b6qsVxg/s1600/traicao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg95wzLIgoQ4MzImsqa423KO6qmMLDI3Lz_2YOUT4_c_THXa_bndJYgi5uyRgwJ_b_4fsV4lHV_zjjTiAYHO2o11RlFzJ9NSW67cbMCOwuk6_x_-FOFqbQzmO7-qcVshVx89IU3b6qsVxg/s320/traicao.png" width="320" height="280" data-original-width="589" data-original-height="516" /></a></div>

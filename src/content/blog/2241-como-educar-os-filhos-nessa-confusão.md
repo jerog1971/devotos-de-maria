@@ -1,7 +1,7 @@
 ---
 title: "Como educar os filhos nessa confusão?"
 date: 2019-03-25T20:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhleTSKWlIf8EFOkEo8o94wwUVC9gat5R-Wemr82s8g5Pk3Qzc39zdWr_mPRrzGc7fv2y6H7-IjnhzBKN9JIbzNUEmK_rmAwfnT1rAMZzoXAwxNhe6Ek1nvjAxvByrIjJSrIi5sya6gzts/s320/ensinando.png"
+heroImage: "/images/ensinando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhleTSKWlIf8EFOkEo8o94wwUVC9gat5R-Wemr82s8g5Pk3Qzc39zdWr_mPRrzGc7fv2y6H7-IjnhzBKN9JIbzNUEmK_rmAwfnT1rAMZzoXAwxNhe6Ek1nvjAxvByrIjJSrIi5sya6gzts/s1600/ensinando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhleTSKWlIf8EFOkEo8o94wwUVC9gat5R-Wemr82s8g5Pk3Qzc39zdWr_mPRrzGc7fv2y6H7-IjnhzBKN9JIbzNUEmK_rmAwfnT1rAMZzoXAwxNhe6Ek1nvjAxvByrIjJSrIi5sya6gzts/s320/ensinando.png" width="320" height="265" data-original-width="341" data-original-height="282" /></a></div>

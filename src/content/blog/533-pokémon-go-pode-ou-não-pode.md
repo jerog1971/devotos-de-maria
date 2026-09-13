@@ -1,7 +1,7 @@
 ---
 title: "Pokémon GO, pode ou não pode?"
 date: 2016-08-15T17:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbw1bYHjXPV40T4-grBSLwUX5quJJYdzYiffQ3AiYU5VQOGnAf5kNc0t9MWP-ddkmwPB1YSCD0GD2TPBQYNqmnrkzERc9BwfuPJ06gqVNGsPjTlzlNnKih7ez1M3CXODYrCsj4LmirPc/s320/pokemon.png"
+heroImage: "/images/pokemon.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbw1bYHjXPV40T4-grBSLwUX5quJJYdzYiffQ3AiYU5VQOGnAf5kNc0t9MWP-ddkmwPB1YSCD0GD2TPBQYNqmnrkzERc9BwfuPJ06gqVNGsPjTlzlNnKih7ez1M3CXODYrCsj4LmirPc/s1600/pokemon.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbw1bYHjXPV40T4-grBSLwUX5quJJYdzYiffQ3AiYU5VQOGnAf5kNc0t9MWP-ddkmwPB1YSCD0GD2TPBQYNqmnrkzERc9BwfuPJ06gqVNGsPjTlzlNnKih7ez1M3CXODYrCsj4LmirPc/s320/pokemon.png" width="320" height="270" data-original-width="495" data-original-height="417" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Maridos Cansados"
 date: 2018-12-12T17:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_1eseFKUj21t4zy_P3POAIbB8Cj2vlz9Z62BqeULPgOx7S97SSrZ7mdgC6KtxzCvHzSQKyWBacVJ43fPKbDPHbOvULTkKbxM-7yBbSzReeNkhQHdWallYEqBmQVMBayvOC9IQ2BoUkc/s320/maridos_cansados.png"
+heroImage: "/images/maridos_cansados.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_1eseFKUj21t4zy_P3POAIbB8Cj2vlz9Z62BqeULPgOx7S97SSrZ7mdgC6KtxzCvHzSQKyWBacVJ43fPKbDPHbOvULTkKbxM-7yBbSzReeNkhQHdWallYEqBmQVMBayvOC9IQ2BoUkc/s1600/maridos_cansados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_1eseFKUj21t4zy_P3POAIbB8Cj2vlz9Z62BqeULPgOx7S97SSrZ7mdgC6KtxzCvHzSQKyWBacVJ43fPKbDPHbOvULTkKbxM-7yBbSzReeNkhQHdWallYEqBmQVMBayvOC9IQ2BoUkc/s320/maridos_cansados.png" width="312" height="320" data-original-width="487" data-original-height="500" /></a></div>

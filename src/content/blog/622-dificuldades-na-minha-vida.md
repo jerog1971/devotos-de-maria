@@ -1,7 +1,7 @@
 ---
 title: "Dificuldades na minha vida"
 date: 2018-09-25T15:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ41xa4HyxtgW23tSxsNBs6dZdEzzk9kFpveuZqXtyA4YbTcHl5XClEkAoOo-uxbvXg_VczKqZ5V8d-OFinRYob3tdgBfCpVR5aweRcfAhCezzJ7Zhl3Xq-cPApg5FhCmNsRJzrWTdI7s/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ41xa4HyxtgW23tSxsNBs6dZdEzzk9kFpveuZqXtyA4YbTcHl5XClEkAoOo-uxbvXg_VczKqZ5V8d-OFinRYob3tdgBfCpVR5aweRcfAhCezzJ7Zhl3Xq-cPApg5FhCmNsRJzrWTdI7s/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ41xa4HyxtgW23tSxsNBs6dZdEzzk9kFpveuZqXtyA4YbTcHl5XClEkAoOo-uxbvXg_VczKqZ5V8d-OFinRYob3tdgBfCpVR5aweRcfAhCezzJ7Zhl3Xq-cPApg5FhCmNsRJzrWTdI7s/s320/sofrimento.png" width="320" height="317" data-original-width="378" data-original-height="375" /></a></div>

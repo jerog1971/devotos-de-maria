@@ -1,7 +1,7 @@
 ---
 title: "Interpretando as Escrituras"
 date: 2016-03-07T13:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDA2AeFVgtSXAaqXCPekXQqTwonwyv6v3iRGKojvUBx1T1GLVcpkQa8pe52GUTf7qzxJ9PlDJ5Wpe-Oo12m5uziN5iVLTHUBJOLm3AiZvRM4oJZC7xt6iIs5urdQ5kNe9qbFLJGjV-S24/s320/escrituras.png"
+heroImage: "/images/escrituras.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDA2AeFVgtSXAaqXCPekXQqTwonwyv6v3iRGKojvUBx1T1GLVcpkQa8pe52GUTf7qzxJ9PlDJ5Wpe-Oo12m5uziN5iVLTHUBJOLm3AiZvRM4oJZC7xt6iIs5urdQ5kNe9qbFLJGjV-S24/s1600/escrituras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDA2AeFVgtSXAaqXCPekXQqTwonwyv6v3iRGKojvUBx1T1GLVcpkQa8pe52GUTf7qzxJ9PlDJ5Wpe-Oo12m5uziN5iVLTHUBJOLm3AiZvRM4oJZC7xt6iIs5urdQ5kNe9qbFLJGjV-S24/s320/escrituras.png" width="310" height="320" data-original-width="501" data-original-height="517" /></a></div>

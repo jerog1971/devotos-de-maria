@@ -1,7 +1,7 @@
 ---
 title: "O fracasso de satanás"
 date: 2016-08-17T12:26:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwKt0b9HZf74-7S53qI0tks7x-Bd6vJg7hRasqZ_fqf0eEeEoJFf0MqezwgouQa2WpVSdWAHHDIdMvo7PYsDtOSOlOb48rCayShnvCtbUhd8oSnykzN0G9r7TaYVeJLJDn50QkdaSJHI/s320/protesto.png"
+heroImage: "/images/protesto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwKt0b9HZf74-7S53qI0tks7x-Bd6vJg7hRasqZ_fqf0eEeEoJFf0MqezwgouQa2WpVSdWAHHDIdMvo7PYsDtOSOlOb48rCayShnvCtbUhd8oSnykzN0G9r7TaYVeJLJDn50QkdaSJHI/s1600/protesto.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="407" data-original-width="403" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwKt0b9HZf74-7S53qI0tks7x-Bd6vJg7hRasqZ_fqf0eEeEoJFf0MqezwgouQa2WpVSdWAHHDIdMvo7PYsDtOSOlOb48rCayShnvCtbUhd8oSnykzN0G9r7TaYVeJLJDn50QkdaSJHI/s320/protesto.png" width="317" /></a></div>

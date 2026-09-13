@@ -1,7 +1,7 @@
 ---
 title: "Por onde andas?"
 date: 2018-08-31T15:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho1fYUVRjf6d4y3VpR5smIpgxGWGL9JmSYAe7coiqXrEKxHhRivc4tDB3sP4-SRNnQloe7QWJY1tp0z2RiRh8HvkofT7zk3344uaQyFBF0RhZdxUoNATuVnu8Fc_H_UMlf3X02PEuR6g8/s320/Cad%25C3%25AA_a_Sofia.jpeg"
+heroImage: "/images/Sofia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho1fYUVRjf6d4y3VpR5smIpgxGWGL9JmSYAe7coiqXrEKxHhRivc4tDB3sP4-SRNnQloe7QWJY1tp0z2RiRh8HvkofT7zk3344uaQyFBF0RhZdxUoNATuVnu8Fc_H_UMlf3X02PEuR6g8/s1600/Cad%25C3%25AA_a_Sofia.jpeg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho1fYUVRjf6d4y3VpR5smIpgxGWGL9JmSYAe7coiqXrEKxHhRivc4tDB3sP4-SRNnQloe7QWJY1tp0z2RiRh8HvkofT7zk3344uaQyFBF0RhZdxUoNATuVnu8Fc_H_UMlf3X02PEuR6g8/s320/Cad%25C3%25AA_a_Sofia.jpeg" width="320" height="211" data-original-width="1600" data-original-height="1055" /></a></div>

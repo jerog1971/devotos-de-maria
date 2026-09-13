@@ -1,7 +1,7 @@
 ---
 title: "Viver é um perigo"
 date: 2020-03-05T20:09:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2qGVllhJ-3_uuU6lVH8DI-H1rlx9PGAKQ7NLlFNZvGSPMgNYR2wuEquRLDN8R49itmwWFmJ1VLPalNKWxC_srgMCcoOLL2N-jQ9BMi2RH76S9UdfFotnuKmZTn2BVlDXZYR4tAUm-w_w/s320/pecado.png"
+heroImage: "/images/Convite ao pecado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2qGVllhJ-3_uuU6lVH8DI-H1rlx9PGAKQ7NLlFNZvGSPMgNYR2wuEquRLDN8R49itmwWFmJ1VLPalNKWxC_srgMCcoOLL2N-jQ9BMi2RH76S9UdfFotnuKmZTn2BVlDXZYR4tAUm-w_w/s1600/pecado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2qGVllhJ-3_uuU6lVH8DI-H1rlx9PGAKQ7NLlFNZvGSPMgNYR2wuEquRLDN8R49itmwWFmJ1VLPalNKWxC_srgMCcoOLL2N-jQ9BMi2RH76S9UdfFotnuKmZTn2BVlDXZYR4tAUm-w_w/s320/pecado.png" width="320" height="297" data-original-width="287" data-original-height="266" /></a></div>

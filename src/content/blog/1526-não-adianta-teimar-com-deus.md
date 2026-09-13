@@ -1,7 +1,7 @@
 ---
 title: "Não adianta teimar com Deus"
 date: 2021-07-19T20:26:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPkFDdmBPM5mB_ZLhelp3KWaft7FYRWv8naQqyBdszwt1ihyWZUDhgPI0VCgWB2T7FIjLzx9m10dqq5apvdMMJ_c-DVdbVlvTRJPWAXQcC7MnF0WG4sXJst-55OmLfHuic8K9RPLOphk/s320/teimosia.png"
+heroImage: "/images/desobediência ou teimosia.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPkFDdmBPM5mB_ZLhelp3KWaft7FYRWv8naQqyBdszwt1ihyWZUDhgPI0VCgWB2T7FIjLzx9m10dqq5apvdMMJ_c-DVdbVlvTRJPWAXQcC7MnF0WG4sXJst-55OmLfHuic8K9RPLOphk/s389/teimosia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="381" data-original-width="389" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPkFDdmBPM5mB_ZLhelp3KWaft7FYRWv8naQqyBdszwt1ihyWZUDhgPI0VCgWB2T7FIjLzx9m10dqq5apvdMMJ_c-DVdbVlvTRJPWAXQcC7MnF0WG4sXJst-55OmLfHuic8K9RPLOphk/s320/teimosia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tem gente que acha que adianta, teima em ser rebelde quanto

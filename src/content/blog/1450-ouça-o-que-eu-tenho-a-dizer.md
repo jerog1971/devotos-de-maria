@@ -1,7 +1,7 @@
 ---
 title: "Ouça o que eu tenho a dizer"
 date: 2023-11-19T17:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytwuWnncvaG3WKOhqFwOxB9Gn6XMkQm-sp7hcxUbMs7CQlj0kFx6-z09uXWyztYclHpeine58bW3uqdXjH0fvT1Vl23e_oUPjORNFXzaU9hAjhMuF_MVh96xFjHuGkWrU2rNmbEnjmiyC01ZANvtLNRnCG6cksn9-n60sigSbmH1U7m7yVljUr57rYeM/s320/casando.png"
+heroImage: "/images/casando.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytwuWnncvaG3WKOhqFwOxB9Gn6XMkQm-sp7hcxUbMs7CQlj0kFx6-z09uXWyztYclHpeine58bW3uqdXjH0fvT1Vl23e_oUPjORNFXzaU9hAjhMuF_MVh96xFjHuGkWrU2rNmbEnjmiyC01ZANvtLNRnCG6cksn9-n60sigSbmH1U7m7yVljUr57rYeM/s551/casando.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="551" height="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytwuWnncvaG3WKOhqFwOxB9Gn6XMkQm-sp7hcxUbMs7CQlj0kFx6-z09uXWyztYclHpeine58bW3uqdXjH0fvT1Vl23e_oUPjORNFXzaU9hAjhMuF_MVh96xFjHuGkWrU2rNmbEnjmiyC01ZANvtLNRnCG6cksn9-n60sigSbmH1U7m7yVljUr57rYeM/s320/casando.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim começou meu diálogo com Deus. Vou lhe conceder tudo

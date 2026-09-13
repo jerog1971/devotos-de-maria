@@ -1,7 +1,7 @@
 ---
 title: "Lido muito a bíblia?"
 date: 2020-03-31T20:19:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgycvGAJi18Wv82zw4UERYOOnzjSYYHy_eOLTJzhyphenhyphenX5gN3jP-jWDlh4urJYJpJ8u_L8fvqN0rAKE3UYBlmGFKn7JmTS7u5UOAm4HcL5e9iLP7OXeisjMx7O7N5fQuxM8R9DqMeuEAuJtbY/s320/leitura.png"
+heroImage: "/images/leitura.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgycvGAJi18Wv82zw4UERYOOnzjSYYHy_eOLTJzhyphenhyphenX5gN3jP-jWDlh4urJYJpJ8u_L8fvqN0rAKE3UYBlmGFKn7JmTS7u5UOAm4HcL5e9iLP7OXeisjMx7O7N5fQuxM8R9DqMeuEAuJtbY/s1600/leitura.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgycvGAJi18Wv82zw4UERYOOnzjSYYHy_eOLTJzhyphenhyphenX5gN3jP-jWDlh4urJYJpJ8u_L8fvqN0rAKE3UYBlmGFKn7JmTS7u5UOAm4HcL5e9iLP7OXeisjMx7O7N5fQuxM8R9DqMeuEAuJtbY/s320/leitura.png" width="320" height="274" data-original-width="354" data-original-height="303" /></a></div>

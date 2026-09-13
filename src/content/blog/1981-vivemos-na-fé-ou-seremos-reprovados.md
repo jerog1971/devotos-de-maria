@@ -1,7 +1,7 @@
 ---
 title: "Vivemos na fé ou seremos “reprovados”?"
 date: 2019-07-10T15:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_yUfMT9SnlRu1o6XRR6dyAFPXwhh_hAyRsOQbh3Rjh8x-Y14yV4JC-QNFwtAOVLkhU8J1kCSgG3wu5GV3OufCVZNzWTYZtsyOl2BXfNdlemP53bQYZ1_XISmTM7qZRRdk6ElFTsemsKk/s320/viver_pela_f%25C3%25A9.png"
+heroImage: "/images/Ela.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_yUfMT9SnlRu1o6XRR6dyAFPXwhh_hAyRsOQbh3Rjh8x-Y14yV4JC-QNFwtAOVLkhU8J1kCSgG3wu5GV3OufCVZNzWTYZtsyOl2BXfNdlemP53bQYZ1_XISmTM7qZRRdk6ElFTsemsKk/s1600/viver_pela_f%25C3%25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_yUfMT9SnlRu1o6XRR6dyAFPXwhh_hAyRsOQbh3Rjh8x-Y14yV4JC-QNFwtAOVLkhU8J1kCSgG3wu5GV3OufCVZNzWTYZtsyOl2BXfNdlemP53bQYZ1_XISmTM7qZRRdk6ElFTsemsKk/s320/viver_pela_f%25C3%25A9.png" width="320" height="251" data-original-width="358" data-original-height="281" /></a></div>

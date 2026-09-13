@@ -1,7 +1,7 @@
 ---
 title: "Deus \"NÃO\" é o mesmo"
 date: 2017-10-11T12:47:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxK5VW1CyoH_3Ys7FeJvU8fyqWclWGdm86aiqerkhA_WTiDi0XBWjcJETgmTafFbzJpLOqCVhWaBgX0xP3Q76dR2au_vwHUyy_Cz3KM8eWEti8TuhIN5Dz72w90PBDyL4Ur1vrsPASo4/s320/Deus.png"
+heroImage: "/images/Ausência de Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxK5VW1CyoH_3Ys7FeJvU8fyqWclWGdm86aiqerkhA_WTiDi0XBWjcJETgmTafFbzJpLOqCVhWaBgX0xP3Q76dR2au_vwHUyy_Cz3KM8eWEti8TuhIN5Dz72w90PBDyL4Ur1vrsPASo4/s1600/Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxK5VW1CyoH_3Ys7FeJvU8fyqWclWGdm86aiqerkhA_WTiDi0XBWjcJETgmTafFbzJpLOqCVhWaBgX0xP3Q76dR2au_vwHUyy_Cz3KM8eWEti8TuhIN5Dz72w90PBDyL4Ur1vrsPASo4/s320/Deus.png" width="253" height="320" data-original-width="353" data-original-height="447" /></a></div>

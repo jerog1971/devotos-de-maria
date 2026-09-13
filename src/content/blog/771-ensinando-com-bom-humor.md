@@ -1,7 +1,7 @@
 ---
 title: "Ensinando com bom humor"
 date: 2018-11-09T14:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA4a1JAtsbmKJHmbea9BPzUy4es7cP7GJNoZryker0mZHeu48TIIedAdKN-GmKKoafSThAIcD_MN_ONT1wG_r0lqzjSGRJN-aHhVHwBmqZ6yR7eD2Xd2g3sT_7P_Kk7SiBkSEqKy1T3-8/s320/humor.png"
+heroImage: "/images/humor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA4a1JAtsbmKJHmbea9BPzUy4es7cP7GJNoZryker0mZHeu48TIIedAdKN-GmKKoafSThAIcD_MN_ONT1wG_r0lqzjSGRJN-aHhVHwBmqZ6yR7eD2Xd2g3sT_7P_Kk7SiBkSEqKy1T3-8/s1600/humor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA4a1JAtsbmKJHmbea9BPzUy4es7cP7GJNoZryker0mZHeu48TIIedAdKN-GmKKoafSThAIcD_MN_ONT1wG_r0lqzjSGRJN-aHhVHwBmqZ6yR7eD2Xd2g3sT_7P_Kk7SiBkSEqKy1T3-8/s320/humor.png" width="315" height="320" data-original-width="176" data-original-height="179" /></a></div>

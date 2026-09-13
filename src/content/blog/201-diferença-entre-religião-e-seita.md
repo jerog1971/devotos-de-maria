@@ -1,7 +1,7 @@
 ---
 title: "Diferença entre Religião e Seita"
 date: 2017-08-11T13:45:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA8ESgBcqHP2GOk4iE8pht4f8igKTcAcymisOnV-q-FZDM5akJl1bBBzLvyz13NstWp5WZ0SEnlj18kmk94z6eE2qSTHtYBbLnERX8_vDTUDJZ2HI7PxQvwTJFVR1Gcvmc9Sor042WjNk/s320/seita.png"
+heroImage: "/images/seita.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA8ESgBcqHP2GOk4iE8pht4f8igKTcAcymisOnV-q-FZDM5akJl1bBBzLvyz13NstWp5WZ0SEnlj18kmk94z6eE2qSTHtYBbLnERX8_vDTUDJZ2HI7PxQvwTJFVR1Gcvmc9Sor042WjNk/s1600/seita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA8ESgBcqHP2GOk4iE8pht4f8igKTcAcymisOnV-q-FZDM5akJl1bBBzLvyz13NstWp5WZ0SEnlj18kmk94z6eE2qSTHtYBbLnERX8_vDTUDJZ2HI7PxQvwTJFVR1Gcvmc9Sor042WjNk/s320/seita.png" width="320" height="311" data-original-width="411" data-original-height="400" /></a></div>

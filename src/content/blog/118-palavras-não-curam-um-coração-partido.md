@@ -1,7 +1,7 @@
 ---
 title: "Palavras não curam um coração partido"
 date: 2018-03-05T21:41:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhzzFQBe6EnTF48vo3_f4QHKIlE6RvUbeMBHsWcxirliExWTFNmrHrfhemSKQwrxzl6X0DY7U9pA0_Hr5icUP2yPoUuWRbnzEvfkaAepl_LaZvs_H-K4vHClEUqwq7xUzVo0sfALIldo/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhzzFQBe6EnTF48vo3_f4QHKIlE6RvUbeMBHsWcxirliExWTFNmrHrfhemSKQwrxzl6X0DY7U9pA0_Hr5icUP2yPoUuWRbnzEvfkaAepl_LaZvs_H-K4vHClEUqwq7xUzVo0sfALIldo/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhzzFQBe6EnTF48vo3_f4QHKIlE6RvUbeMBHsWcxirliExWTFNmrHrfhemSKQwrxzl6X0DY7U9pA0_Hr5icUP2yPoUuWRbnzEvfkaAepl_LaZvs_H-K4vHClEUqwq7xUzVo0sfALIldo/s320/sofrimento.png" width="320" height="308" data-original-width="408" data-original-height="393" /></a></div>

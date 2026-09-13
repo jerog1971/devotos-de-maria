@@ -1,7 +1,7 @@
 ---
 title: "Seja um Apressado"
 date: 2017-09-13T12:37:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBrZ2WQ2bwgCLKYzewgK3rMxxy2EJ-9-wQjWf9jqDf4Iq7T9bmHUoG_szHOtcySSKQFM7xf-6AUJDG6nXmuIMSTB7qV0l7wPkWZArUGym2Bs6_1p7RpC79q2DGNfEzEXs3_xKI25oATjg/s320/batida.png"
+heroImage: "/images/batida.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBrZ2WQ2bwgCLKYzewgK3rMxxy2EJ-9-wQjWf9jqDf4Iq7T9bmHUoG_szHOtcySSKQFM7xf-6AUJDG6nXmuIMSTB7qV0l7wPkWZArUGym2Bs6_1p7RpC79q2DGNfEzEXs3_xKI25oATjg/s1600/batida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBrZ2WQ2bwgCLKYzewgK3rMxxy2EJ-9-wQjWf9jqDf4Iq7T9bmHUoG_szHOtcySSKQFM7xf-6AUJDG6nXmuIMSTB7qV0l7wPkWZArUGym2Bs6_1p7RpC79q2DGNfEzEXs3_xKI25oATjg/s320/batida.png" width="302" height="320" data-original-width="690" data-original-height="731" /></a></div>

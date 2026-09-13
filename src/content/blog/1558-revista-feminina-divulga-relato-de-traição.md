@@ -1,7 +1,7 @@
 ---
 title: "Revista feminina divulga relato de traição"
 date: 2016-09-14T20:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0UwYdn6h8Vdzv528DsmhsMCMEHdnhuQQ_cettBL4ff79kqD9XPklHSV6A87_svdC2aXgpX5XBomjyHgmhALsXtc4cH_mSzT75k6Op-dxPXBqS1-VZAhJ6WdYHoutax7r50iLUNk27oMw/s320/revista.png"
+heroImage: "/images/revista.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0UwYdn6h8Vdzv528DsmhsMCMEHdnhuQQ_cettBL4ff79kqD9XPklHSV6A87_svdC2aXgpX5XBomjyHgmhALsXtc4cH_mSzT75k6Op-dxPXBqS1-VZAhJ6WdYHoutax7r50iLUNk27oMw/s1600/revista.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0UwYdn6h8Vdzv528DsmhsMCMEHdnhuQQ_cettBL4ff79kqD9XPklHSV6A87_svdC2aXgpX5XBomjyHgmhALsXtc4cH_mSzT75k6Op-dxPXBqS1-VZAhJ6WdYHoutax7r50iLUNk27oMw/s320/revista.png" width="249" height="320" data-original-width="404" data-original-height="519" /></a></div>

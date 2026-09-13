@@ -1,7 +1,7 @@
 ---
 title: "Meu próximo, meu inimigo?"
 date: 2018-07-26T15:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVmk5yUhFp7eaoIi8o2jtcr7kwag-AccGIIysWaliyu6diygznXS_l4s0GqMhIexRHmYWHGz3i308aDHCcL9psLo-mZ9WN7WG1SRpIPWum1vjavrYkQBbfZtmnWwC-nhtPN3sqHH76cA/s320/inimigo.png"
+heroImage: "/images/artimanhas do inimigo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVmk5yUhFp7eaoIi8o2jtcr7kwag-AccGIIysWaliyu6diygznXS_l4s0GqMhIexRHmYWHGz3i308aDHCcL9psLo-mZ9WN7WG1SRpIPWum1vjavrYkQBbfZtmnWwC-nhtPN3sqHH76cA/s1600/inimigo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVmk5yUhFp7eaoIi8o2jtcr7kwag-AccGIIysWaliyu6diygznXS_l4s0GqMhIexRHmYWHGz3i308aDHCcL9psLo-mZ9WN7WG1SRpIPWum1vjavrYkQBbfZtmnWwC-nhtPN3sqHH76cA/s320/inimigo.png" width="320" height="252" data-original-width="393" data-original-height="309" /></a></div>

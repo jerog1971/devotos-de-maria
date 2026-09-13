@@ -1,7 +1,7 @@
 ---
 title: "O demônio disse que não é bem assim"
 date: 2022-05-04T16:56:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2lNP6TNxgN7p5v4rSwEs30Y6719peEHecFW9uBdtuFf4GHn-s56Lb4WACRhRC8uyB_wKSghmgRyw_cYhRekt-uWYfUwAUSidm_Tnx7z0aHVYDXfrqMpwVliXEOsqF0SH6alISBr9wE6z18c4Ol_h0k4l_ZsTSTaOH1bIRiiXzlQuSBcFgPzrrNad/s320/alei.png"
+heroImage: "/images/alei.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2lNP6TNxgN7p5v4rSwEs30Y6719peEHecFW9uBdtuFf4GHn-s56Lb4WACRhRC8uyB_wKSghmgRyw_cYhRekt-uWYfUwAUSidm_Tnx7z0aHVYDXfrqMpwVliXEOsqF0SH6alISBr9wE6z18c4Ol_h0k4l_ZsTSTaOH1bIRiiXzlQuSBcFgPzrrNad/s370/alei.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="370" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2lNP6TNxgN7p5v4rSwEs30Y6719peEHecFW9uBdtuFf4GHn-s56Lb4WACRhRC8uyB_wKSghmgRyw_cYhRekt-uWYfUwAUSidm_Tnx7z0aHVYDXfrqMpwVliXEOsqF0SH6alISBr9wE6z18c4Ol_h0k4l_ZsTSTaOH1bIRiiXzlQuSBcFgPzrrNad/s320/alei.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tudo isso que é “pintado” sobre Deus aos homens não é

@@ -1,7 +1,7 @@
 ---
 title: "Sobre o Ecumenismo"
 date: 2017-08-23T14:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboM2mc9JI3_tdIvC927ukiBzjiGp4xAQpygP4uUzvsnE-EJaJK-U6vcWz6g8VaQQ7AgjyWzkOfL00ikfrmMDoN4tUwC2_-GipQDEeXPMQwo5fz5bAZWTrSlVwlti8g66HVL1_b4ggK8g/s320/ecumenismo.png"
+heroImage: "/images/ecumenismo.png"
 ---
 
 Não se iluda com a simpatia do Ecumenismo:</br>

@@ -1,7 +1,7 @@
 ---
 title: "As dificuldades da fé"
 date: 2021-09-10T01:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOG_FhEIhiLhq9tCzoKQq-y00Dvt6kl5rgHhEoF8HFjjPe8krpQufPQwhXp4KjKzhh-8F3EZrmCJcc6KihYMBK0TV7QAFN8yav9G8obJ-ZXyrivzmfONAhlqbkbNnHGI5iiRtvcn2mks/s0/as+dificuldades+da+f%25C3%25A9.png"
+heroImage: "/images/dificuldades.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOG_FhEIhiLhq9tCzoKQq-y00Dvt6kl5rgHhEoF8HFjjPe8krpQufPQwhXp4KjKzhh-8F3EZrmCJcc6KihYMBK0TV7QAFN8yav9G8obJ-ZXyrivzmfONAhlqbkbNnHGI5iiRtvcn2mks/s286/as+dificuldades+da+f%25C3%25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="256" data-original-width="286" height="256" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOG_FhEIhiLhq9tCzoKQq-y00Dvt6kl5rgHhEoF8HFjjPe8krpQufPQwhXp4KjKzhh-8F3EZrmCJcc6KihYMBK0TV7QAFN8yav9G8obJ-ZXyrivzmfONAhlqbkbNnHGI5iiRtvcn2mks/s0/as+dificuldades+da+f%25C3%25A9.png" width="286" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na carta aos Hebreus lemos que fé é uma certeza a respeito

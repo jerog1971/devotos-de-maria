@@ -1,7 +1,7 @@
 ---
 title: "Casou? ... e agora..."
 date: 2016-08-16T18:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQ6gOVs3OpzEdSdMWLcwTDlFhScn7HBlMa7pq_B713OTX5BfgTey5cEfIIEqqbm8jLv52hEkW9MSDk6m6yxTjTqidmWsoGx7s_Oll0bK2RnfLLXiKatiduOIS-4m7f2O3Sob5_a9fMHk/s320/casou.png"
+heroImage: "/images/casou.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQ6gOVs3OpzEdSdMWLcwTDlFhScn7HBlMa7pq_B713OTX5BfgTey5cEfIIEqqbm8jLv52hEkW9MSDk6m6yxTjTqidmWsoGx7s_Oll0bK2RnfLLXiKatiduOIS-4m7f2O3Sob5_a9fMHk/s1600/casou.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQ6gOVs3OpzEdSdMWLcwTDlFhScn7HBlMa7pq_B713OTX5BfgTey5cEfIIEqqbm8jLv52hEkW9MSDk6m6yxTjTqidmWsoGx7s_Oll0bK2RnfLLXiKatiduOIS-4m7f2O3Sob5_a9fMHk/s320/casou.png" width="283" height="320" data-original-width="335" data-original-height="379" /></a></div>

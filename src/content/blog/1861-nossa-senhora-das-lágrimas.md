@@ -1,7 +1,7 @@
 ---
 title: "Nossa Senhora das Lágrimas"
 date: 2019-02-04T14:48:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7wKx0uy2PyI6Lnfo99Z9jP-Vgh2Hk6j1rKz2fUD-yfBWWW63jt2AnWx3OoBzcCHd9aYoEW8dhwAsiYQ8K0alfvxstybGmMwVcmHNAK38GIkKXq2wNXlbQfNDY-gekyTbn4ESt5YLBYwI/s320/amalia.png"
+heroImage: "/images/amalia.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7wKx0uy2PyI6Lnfo99Z9jP-Vgh2Hk6j1rKz2fUD-yfBWWW63jt2AnWx3OoBzcCHd9aYoEW8dhwAsiYQ8K0alfvxstybGmMwVcmHNAK38GIkKXq2wNXlbQfNDY-gekyTbn4ESt5YLBYwI/s1600/amalia.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7wKx0uy2PyI6Lnfo99Z9jP-Vgh2Hk6j1rKz2fUD-yfBWWW63jt2AnWx3OoBzcCHd9aYoEW8dhwAsiYQ8K0alfvxstybGmMwVcmHNAK38GIkKXq2wNXlbQfNDY-gekyTbn4ESt5YLBYwI/s320/amalia.png" width="204" height="320" data-original-width="283" data-original-height="444" /></a></br>

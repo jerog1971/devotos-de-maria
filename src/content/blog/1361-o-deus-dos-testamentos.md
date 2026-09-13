@@ -1,7 +1,7 @@
 ---
 title: "O Deus dos testamentos"
 date: 2023-01-11T20:48:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9t1TO8ND8ZOdArwcR_hGZ5DXDeVK35xQ6Zn2qgt8cgAuLLPbVxKKg0-zi_PtZDRfDsw1QKclWCFnS9rmW7osr2bIhQotQHKJAO8NclgRM4AgZY_bHd7qP1POVsm_07tuWgka4HNFx2uvjluy5RmK001ig5R9z_PK6wJzzNxHq9JLNAnjhhb5PGwQg/s1600/testamento.png"
+heroImage: "/images/testamento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9t1TO8ND8ZOdArwcR_hGZ5DXDeVK35xQ6Zn2qgt8cgAuLLPbVxKKg0-zi_PtZDRfDsw1QKclWCFnS9rmW7osr2bIhQotQHKJAO8NclgRM4AgZY_bHd7qP1POVsm_07tuWgka4HNFx2uvjluy5RmK001ig5R9z_PK6wJzzNxHq9JLNAnjhhb5PGwQg/s214/testamento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" height="214" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9t1TO8ND8ZOdArwcR_hGZ5DXDeVK35xQ6Zn2qgt8cgAuLLPbVxKKg0-zi_PtZDRfDsw1QKclWCFnS9rmW7osr2bIhQotQHKJAO8NclgRM4AgZY_bHd7qP1POVsm_07tuWgka4HNFx2uvjluy5RmK001ig5R9z_PK6wJzzNxHq9JLNAnjhhb5PGwQg/s1600/testamento.png" width="195" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Convenhamos, parece que o Deus que acompanha a história do

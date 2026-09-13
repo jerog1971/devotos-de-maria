@@ -1,7 +1,7 @@
 ---
 title: "Nosso tempo e os filhos"
 date: 2017-02-23T15:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv4VYV-09eftqOL2fYxfPDGcqWg3GfPaxbNalm8CVKqyYV8apCyf4uxtymOIHx16WT2fFy1dCuGiG2n4Go_bxHXEJJ0AHynrNTYbgV50gNERE6sOGa92eQqmixfHsLSr87HAOSLd9QhQU/s320/jogando.jpg"
+heroImage: "/images/jogando.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv4VYV-09eftqOL2fYxfPDGcqWg3GfPaxbNalm8CVKqyYV8apCyf4uxtymOIHx16WT2fFy1dCuGiG2n4Go_bxHXEJJ0AHynrNTYbgV50gNERE6sOGa92eQqmixfHsLSr87HAOSLd9QhQU/s1600/jogando.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv4VYV-09eftqOL2fYxfPDGcqWg3GfPaxbNalm8CVKqyYV8apCyf4uxtymOIHx16WT2fFy1dCuGiG2n4Go_bxHXEJJ0AHynrNTYbgV50gNERE6sOGa92eQqmixfHsLSr87HAOSLd9QhQU/s320/jogando.jpg" width="320" height="320" data-original-width="718" data-original-height="718" /></a></div>

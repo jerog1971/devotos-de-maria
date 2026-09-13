@@ -1,7 +1,7 @@
 ---
 title: "Você já reclamou hoje?"
 date: 2016-09-13T14:09:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLu2IAz2PfsoIhpi7kbDsnlTk-gedR90CXQgY0eHLPtEFRVpKRlRntKEV4m58cp7i0FudGrKFpx7RPKre3JXbPREXRKILFe5ANB2HMmbe56y0LYi09iA7OHtDAuE6JC6sZwl8p84rd1jA/s320/reclamar.png"
+heroImage: "/images/reclamar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLu2IAz2PfsoIhpi7kbDsnlTk-gedR90CXQgY0eHLPtEFRVpKRlRntKEV4m58cp7i0FudGrKFpx7RPKre3JXbPREXRKILFe5ANB2HMmbe56y0LYi09iA7OHtDAuE6JC6sZwl8p84rd1jA/s1600/reclamar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLu2IAz2PfsoIhpi7kbDsnlTk-gedR90CXQgY0eHLPtEFRVpKRlRntKEV4m58cp7i0FudGrKFpx7RPKre3JXbPREXRKILFe5ANB2HMmbe56y0LYi09iA7OHtDAuE6JC6sZwl8p84rd1jA/s320/reclamar.png" width="320" height="287" data-original-width="235" data-original-height="211" /></a></div>

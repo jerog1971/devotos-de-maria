@@ -1,7 +1,7 @@
 ---
 title: "O mundo em nossas vidas"
 date: 2017-06-27T14:44:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsrk9YkwNkcN9rBDsGa5yy0cRECJVtJqMbtURbbjdGzsYmFFnI0LwK25NKrBmEuWRIoSAs_iBeICwWUS4EzTuikyYFHoX0DkxAHglmNW_07qQvaFizlYvxQ5uhbbuMBgt6FybZ760YQ8A/s320/limbo.png"
+heroImage: "/images/limbo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsrk9YkwNkcN9rBDsGa5yy0cRECJVtJqMbtURbbjdGzsYmFFnI0LwK25NKrBmEuWRIoSAs_iBeICwWUS4EzTuikyYFHoX0DkxAHglmNW_07qQvaFizlYvxQ5uhbbuMBgt6FybZ760YQ8A/s1600/limbo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="352" data-original-width="356" height="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsrk9YkwNkcN9rBDsGa5yy0cRECJVtJqMbtURbbjdGzsYmFFnI0LwK25NKrBmEuWRIoSAs_iBeICwWUS4EzTuikyYFHoX0DkxAHglmNW_07qQvaFizlYvxQ5uhbbuMBgt6FybZ760YQ8A/s320/limbo.png" width="320" /></a></div>

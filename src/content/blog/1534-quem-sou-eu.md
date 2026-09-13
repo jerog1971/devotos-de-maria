@@ -1,7 +1,7 @@
 ---
 title: "Quem sou eu"
 date: 2017-02-23T21:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCJhg_UYhQO16urm9Z91GHoqvAJA3_sWRQGaU5zghF5t_y1VHTBbdpd-cSEd2LHBq8J7Fhs2Ayo-40mWb-VIJBznBWQF1qerE6ROwumTLlxY4OUCaelrkjmMEcv6dnYhc1et0OJuHZTE/s320/trabalho.png"
+heroImage: "/images/trabalho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCJhg_UYhQO16urm9Z91GHoqvAJA3_sWRQGaU5zghF5t_y1VHTBbdpd-cSEd2LHBq8J7Fhs2Ayo-40mWb-VIJBznBWQF1qerE6ROwumTLlxY4OUCaelrkjmMEcv6dnYhc1et0OJuHZTE/s1600/trabalho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCJhg_UYhQO16urm9Z91GHoqvAJA3_sWRQGaU5zghF5t_y1VHTBbdpd-cSEd2LHBq8J7Fhs2Ayo-40mWb-VIJBznBWQF1qerE6ROwumTLlxY4OUCaelrkjmMEcv6dnYhc1et0OJuHZTE/s320/trabalho.png" width="277" height="320" data-original-width="277" data-original-height="320" /></a></div>

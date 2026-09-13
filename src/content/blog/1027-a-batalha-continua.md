@@ -1,7 +1,7 @@
 ---
 title: "A batalha continua"
 date: 2016-07-06T11:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ueWpUK7qi8hJz9cR8gGbua6pe0vNWBa735Eo3uSrticEf8yOC0yz3q00-SjQ6oys-v9xdgvMPIkv-Ww6bDpKByfAMZqAc66XUaA5me2pOQm5WRSxrQfGLk0U8EODbGODdS5bFHdflKg/s200/Alva_Reimer_Myrdal.png"
+heroImage: "/images/Alva_Reimer_Myrdal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ueWpUK7qi8hJz9cR8gGbua6pe0vNWBa735Eo3uSrticEf8yOC0yz3q00-SjQ6oys-v9xdgvMPIkv-Ww6bDpKByfAMZqAc66XUaA5me2pOQm5WRSxrQfGLk0U8EODbGODdS5bFHdflKg/s1600/Alva_Reimer_Myrdal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ueWpUK7qi8hJz9cR8gGbua6pe0vNWBa735Eo3uSrticEf8yOC0yz3q00-SjQ6oys-v9xdgvMPIkv-Ww6bDpKByfAMZqAc66XUaA5me2pOQm5WRSxrQfGLk0U8EODbGODdS5bFHdflKg/s200/Alva_Reimer_Myrdal.png" width="140" height="200" data-original-width="195" data-original-height="279" /></a></div>

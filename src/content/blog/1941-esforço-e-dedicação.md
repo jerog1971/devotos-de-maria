@@ -1,7 +1,7 @@
 ---
 title: "Esforço e dedicação"
 date: 2023-08-28T21:48:00.007Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh100qItiJz2AjEekt_sUq6eTo2UCJlHxT7LNqifSAt1lubtmlgQTfO3Ug3npfuYV33mX9CxEGd3DZSnUOGxeEwFsxEq_ZRBI3lNdRGKkD6Nv2meipVfQDXbDifPV7x9TFTUjIaGIVAqgMEqKsMNQELMBwk9CBUzHoyrl1CNVQHOy5_wLqf2Pb-BYbkMck/s320/exemplo-mimica5.jpg"
+heroImage: "/images/exemplo-mimica5.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh100qItiJz2AjEekt_sUq6eTo2UCJlHxT7LNqifSAt1lubtmlgQTfO3Ug3npfuYV33mX9CxEGd3DZSnUOGxeEwFsxEq_ZRBI3lNdRGKkD6Nv2meipVfQDXbDifPV7x9TFTUjIaGIVAqgMEqKsMNQELMBwk9CBUzHoyrl1CNVQHOy5_wLqf2Pb-BYbkMck/s1280/exemplo-mimica5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="1280" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh100qItiJz2AjEekt_sUq6eTo2UCJlHxT7LNqifSAt1lubtmlgQTfO3Ug3npfuYV33mX9CxEGd3DZSnUOGxeEwFsxEq_ZRBI3lNdRGKkD6Nv2meipVfQDXbDifPV7x9TFTUjIaGIVAqgMEqKsMNQELMBwk9CBUzHoyrl1CNVQHOy5_wLqf2Pb-BYbkMck/s320/exemplo-mimica5.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou se vai com isso em mente, tocando a vida para frente, ou

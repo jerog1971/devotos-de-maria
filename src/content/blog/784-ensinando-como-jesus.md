@@ -1,7 +1,7 @@
 ---
 title: "Ensinando como Jesus"
 date: 2018-08-31T16:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8OkTaLXNZoKK-E-YcT5dKsZvy2eiIS-kbxNSeI-RdDJMr5L6ZbfbIxu99nQQ37XgTLnHuspD2YpF4OgkCJzEMfkN9pijBxPcgy6Cb4PHZcnV6-1L5grAVbiBS8K3zZahCx0bfG0dIs2U/s320/coroinhas.jpg"
+heroImage: "/images/coroinhas.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8OkTaLXNZoKK-E-YcT5dKsZvy2eiIS-kbxNSeI-RdDJMr5L6ZbfbIxu99nQQ37XgTLnHuspD2YpF4OgkCJzEMfkN9pijBxPcgy6Cb4PHZcnV6-1L5grAVbiBS8K3zZahCx0bfG0dIs2U/s1600/coroinhas.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8OkTaLXNZoKK-E-YcT5dKsZvy2eiIS-kbxNSeI-RdDJMr5L6ZbfbIxu99nQQ37XgTLnHuspD2YpF4OgkCJzEMfkN9pijBxPcgy6Cb4PHZcnV6-1L5grAVbiBS8K3zZahCx0bfG0dIs2U/s320/coroinhas.jpg" width="320" height="296" data-original-width="675" data-original-height="625" /></a></div>

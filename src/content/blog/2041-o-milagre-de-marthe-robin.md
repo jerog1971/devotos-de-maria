@@ -1,7 +1,7 @@
 ---
 title: "O milagre de Marthe Robin"
 date: 2016-08-22T18:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqX2LN-C6-ekvUooku3YyVXHAFtt_1QhLzgzSCiF8QhhAzt23k9xU0_VksJnS5OA-tLc68MBR8fdSKRkoSrlmkQFY2__dLj2F3g08Su0YwzbBp2poTFp_8XzUTCZL-9lgTDws5kvFHAQI/s320/Marthe_Robin.png"
+heroImage: "/images/Marthe_Robin.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqX2LN-C6-ekvUooku3YyVXHAFtt_1QhLzgzSCiF8QhhAzt23k9xU0_VksJnS5OA-tLc68MBR8fdSKRkoSrlmkQFY2__dLj2F3g08Su0YwzbBp2poTFp_8XzUTCZL-9lgTDws5kvFHAQI/s1600/Marthe_Robin.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqX2LN-C6-ekvUooku3YyVXHAFtt_1QhLzgzSCiF8QhhAzt23k9xU0_VksJnS5OA-tLc68MBR8fdSKRkoSrlmkQFY2__dLj2F3g08Su0YwzbBp2poTFp_8XzUTCZL-9lgTDws5kvFHAQI/s320/Marthe_Robin.png" width="306" height="320" data-original-width="303" data-original-height="317" /></a></div>

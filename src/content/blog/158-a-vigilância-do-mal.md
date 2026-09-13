@@ -1,7 +1,7 @@
 ---
 title: "A vigilância do mal"
 date: 2024-02-16T18:45:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrHmmv0AokylgAmJuy0hkbA7ExkniBTI3vwuYkbdvCbOoj6JfmCvuacrWaSvp-VVrj2s3wH0SB3gHChPh99QCrOOXqdl-wXRNSs-TgjtEP6M_vPd5ppRObFWQBajQBnZfDbLa_ZEYjTjHjkIJ3I-Qocr7EjB2CTM0Ihya2ZpUjqqavMSTYek0zMS9Ioc/s320/A%20vigil%C3%A2ncia%20do%20mal.png"
+heroImage: "/images/A vigilância do mal.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrHmmv0AokylgAmJuy0hkbA7ExkniBTI3vwuYkbdvCbOoj6JfmCvuacrWaSvp-VVrj2s3wH0SB3gHChPh99QCrOOXqdl-wXRNSs-TgjtEP6M_vPd5ppRObFWQBajQBnZfDbLa_ZEYjTjHjkIJ3I-Qocr7EjB2CTM0Ihya2ZpUjqqavMSTYek0zMS9Ioc/s395/A%20vigil%C3%A2ncia%20do%20mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="395" height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrHmmv0AokylgAmJuy0hkbA7ExkniBTI3vwuYkbdvCbOoj6JfmCvuacrWaSvp-VVrj2s3wH0SB3gHChPh99QCrOOXqdl-wXRNSs-TgjtEP6M_vPd5ppRObFWQBajQBnZfDbLa_ZEYjTjHjkIJ3I-Qocr7EjB2CTM0Ihya2ZpUjqqavMSTYek0zMS9Ioc/s320/A%20vigil%C3%A2ncia%20do%20mal.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, existe no mundo diversas crenças, algumas religiosas,

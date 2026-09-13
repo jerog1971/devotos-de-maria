@@ -1,7 +1,7 @@
 ---
 title: "Privacidade Exposta"
 date: 2017-07-11T13:41:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDgKzr3VnSkUMO_34gsz7NcZQuISPtUzFuEhzj5UyYO4IqcMplthqFPF44qu1V7nbFEm8Ekx3FgksfexxHRlVi5dUtP4APRgBvPEmQK70tyVJO2y5pX_F3UDJBID_4673KySadK4QvqPM/s320/dormindo.png"
+heroImage: "/images/dormindo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDgKzr3VnSkUMO_34gsz7NcZQuISPtUzFuEhzj5UyYO4IqcMplthqFPF44qu1V7nbFEm8Ekx3FgksfexxHRlVi5dUtP4APRgBvPEmQK70tyVJO2y5pX_F3UDJBID_4673KySadK4QvqPM/s1600/dormindo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDgKzr3VnSkUMO_34gsz7NcZQuISPtUzFuEhzj5UyYO4IqcMplthqFPF44qu1V7nbFEm8Ekx3FgksfexxHRlVi5dUtP4APRgBvPEmQK70tyVJO2y5pX_F3UDJBID_4673KySadK4QvqPM/s320/dormindo.png" width="255" height="320" data-original-width="384" data-original-height="481" /></a></div>

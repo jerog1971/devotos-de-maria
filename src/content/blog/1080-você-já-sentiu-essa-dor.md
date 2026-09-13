@@ -1,7 +1,7 @@
 ---
 title: "Você já sentiu essa DOR?"
 date: 2018-08-24T19:56:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimdvjKJpzLECJmi-XPxQD3ZUPGXsJXlS2MWl1ZzjYC4TnSCsorGFFMOivF8FtSfuv50qSO7mjEfDF9aY7WqKOMsqbUFmijB7NYFxlVSwmXGHRQ27bxHxgLFOWdn5R4bqN7yjD0MrA0_8Q/s320/dor.png"
+heroImage: "/images/bom_entendedor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimdvjKJpzLECJmi-XPxQD3ZUPGXsJXlS2MWl1ZzjYC4TnSCsorGFFMOivF8FtSfuv50qSO7mjEfDF9aY7WqKOMsqbUFmijB7NYFxlVSwmXGHRQ27bxHxgLFOWdn5R4bqN7yjD0MrA0_8Q/s1600/dor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimdvjKJpzLECJmi-XPxQD3ZUPGXsJXlS2MWl1ZzjYC4TnSCsorGFFMOivF8FtSfuv50qSO7mjEfDF9aY7WqKOMsqbUFmijB7NYFxlVSwmXGHRQ27bxHxgLFOWdn5R4bqN7yjD0MrA0_8Q/s320/dor.png" width="292" height="320" data-original-width="355" data-original-height="389" /></a></div>

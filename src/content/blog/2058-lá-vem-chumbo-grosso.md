@@ -1,7 +1,7 @@
 ---
 title: "Lá vem chumbo grosso"
 date: 2017-05-15T19:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_fz8ygicoCqHxYujwfLEYSY8bIFDcxYBLUP1esMSYO3vCglpDiP_bUaRjVOtPRA3GkQ-e2rIkBGidJsOR38leaeq2T62X-sa0flmsHaM6Wk4HBEkvzNwuoItA8LzgsHPKl9goBlZh7Eg/s320/chumbo.png"
+heroImage: "/images/chumbo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_fz8ygicoCqHxYujwfLEYSY8bIFDcxYBLUP1esMSYO3vCglpDiP_bUaRjVOtPRA3GkQ-e2rIkBGidJsOR38leaeq2T62X-sa0flmsHaM6Wk4HBEkvzNwuoItA8LzgsHPKl9goBlZh7Eg/s1600/chumbo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_fz8ygicoCqHxYujwfLEYSY8bIFDcxYBLUP1esMSYO3vCglpDiP_bUaRjVOtPRA3GkQ-e2rIkBGidJsOR38leaeq2T62X-sa0flmsHaM6Wk4HBEkvzNwuoItA8LzgsHPKl9goBlZh7Eg/s320/chumbo.png" width="320" height="295" data-original-width="330" data-original-height="304" /></a></div>

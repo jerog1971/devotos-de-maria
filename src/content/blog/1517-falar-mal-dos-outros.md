@@ -1,7 +1,7 @@
 ---
 title: "Falar mal dos outros"
 date: 2018-04-18T19:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEsmKYu-2VoHVhChyphenhyphenyRPPTopsgleC4yOZG8gb9nJy4QuEfzz6Ey6CddYgZ7xUhdTg5vdIe5MLwr-L3Sc0w0yl2FChjzRcUNFkpHW_85LKUGMLSNa5g4i0-Rf6D80ei2jH2xYBFOZjGbVQ/s320/falar_mal.png"
+heroImage: "/images/falar_mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEsmKYu-2VoHVhChyphenhyphenyRPPTopsgleC4yOZG8gb9nJy4QuEfzz6Ey6CddYgZ7xUhdTg5vdIe5MLwr-L3Sc0w0yl2FChjzRcUNFkpHW_85LKUGMLSNa5g4i0-Rf6D80ei2jH2xYBFOZjGbVQ/s1600/falar_mal.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="315" data-original-width="314" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEsmKYu-2VoHVhChyphenhyphenyRPPTopsgleC4yOZG8gb9nJy4QuEfzz6Ey6CddYgZ7xUhdTg5vdIe5MLwr-L3Sc0w0yl2FChjzRcUNFkpHW_85LKUGMLSNa5g4i0-Rf6D80ei2jH2xYBFOZjGbVQ/s320/falar_mal.png" width="319" /></a></div>

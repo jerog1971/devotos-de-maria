@@ -1,7 +1,7 @@
 ---
 title: "Orgulho e Sofrimento"
 date: 2016-09-12T20:41:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyEQIxLWuAd05r6Xn7r0Et-CVk6UwkhH7lTROlUvM_ZQB1N_56NJzbvB3n6FUwNvtaC5SLTwwyTn0WhtTOWmm_9l1wodvq4RZqherOVwEtQ83H1kItT7KqUtH4pNzqkKAFqOwLvEt8zO0/s320/orgulho.png"
+heroImage: "/images/orgulho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyEQIxLWuAd05r6Xn7r0Et-CVk6UwkhH7lTROlUvM_ZQB1N_56NJzbvB3n6FUwNvtaC5SLTwwyTn0WhtTOWmm_9l1wodvq4RZqherOVwEtQ83H1kItT7KqUtH4pNzqkKAFqOwLvEt8zO0/s1600/orgulho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyEQIxLWuAd05r6Xn7r0Et-CVk6UwkhH7lTROlUvM_ZQB1N_56NJzbvB3n6FUwNvtaC5SLTwwyTn0WhtTOWmm_9l1wodvq4RZqherOVwEtQ83H1kItT7KqUtH4pNzqkKAFqOwLvEt8zO0/s320/orgulho.png" width="315" height="320" data-original-width="471" data-original-height="478" /></a></div>

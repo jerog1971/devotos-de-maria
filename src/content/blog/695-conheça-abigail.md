@@ -1,7 +1,7 @@
 ---
 title: "Conheça Abigail"
 date: 2015-10-14T11:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEistgqSrQpwBTJqTyeo7JvmMRmKXF7PPL-KKl3qQP4653im1I6w0MSP_Ce7Ex0tC1f2GiJugTnEhUx2hZgRfhWfSShAoOwaIP4CvoCebEhyyMFMX9pQ2PStx_Ewg0R2RI1KMiMqgUbLpew/s320/abigail.png"
+heroImage: "/images/abigail.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEistgqSrQpwBTJqTyeo7JvmMRmKXF7PPL-KKl3qQP4653im1I6w0MSP_Ce7Ex0tC1f2GiJugTnEhUx2hZgRfhWfSShAoOwaIP4CvoCebEhyyMFMX9pQ2PStx_Ewg0R2RI1KMiMqgUbLpew/s1600/abigail.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEistgqSrQpwBTJqTyeo7JvmMRmKXF7PPL-KKl3qQP4653im1I6w0MSP_Ce7Ex0tC1f2GiJugTnEhUx2hZgRfhWfSShAoOwaIP4CvoCebEhyyMFMX9pQ2PStx_Ewg0R2RI1KMiMqgUbLpew/s320/abigail.png" width="320" height="180" data-original-width="630" data-original-height="355" /></a></div>

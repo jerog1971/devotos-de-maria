@@ -1,7 +1,7 @@
 ---
 title: "A bricolagem do diabo"
 date: 2021-06-21T12:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8hr-KrzDZJZ-YOqgxfoVjXMROaEQjyvubE0fxcclQrrFP58UxYkrwKqixdhjjx0PsauB-iJ8QPYoHQbXfEJRQwhb-0tpvgxM3zylqVcR79v2ydOC-ioBf-o0ogoZD5veQcHFnmJ3N6ME/s320/bricolagem+do+diabo.png"
+heroImage: "/images/diabo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8hr-KrzDZJZ-YOqgxfoVjXMROaEQjyvubE0fxcclQrrFP58UxYkrwKqixdhjjx0PsauB-iJ8QPYoHQbXfEJRQwhb-0tpvgxM3zylqVcR79v2ydOC-ioBf-o0ogoZD5veQcHFnmJ3N6ME/s461/bricolagem+do+diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="461" data-original-width="381" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8hr-KrzDZJZ-YOqgxfoVjXMROaEQjyvubE0fxcclQrrFP58UxYkrwKqixdhjjx0PsauB-iJ8QPYoHQbXfEJRQwhb-0tpvgxM3zylqVcR79v2ydOC-ioBf-o0ogoZD5veQcHFnmJ3N6ME/s320/bricolagem+do+diabo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O termo bricolagem se refere a atividades como montagem,

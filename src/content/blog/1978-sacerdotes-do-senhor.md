@@ -1,7 +1,7 @@
 ---
 title: "Sacerdotes do Senhor"
 date: 2020-08-03T15:57:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxnqB2jKOoIsLNOmrSw01ugw5SiJ8Mrbr6kftYEWb_uQ3cKjQhD22BRF1HdE-BKdiRJSSVTolZciiVLzEWlQ0W6RFXVGcfgzZoTlSGwa6CtDUdH-Og4FXd6MNUfgX4n-YJ7kuwwWjtnME/s0/Padre+Everton+da+Roza+Lara.png"
+heroImage: "/images/padre.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxnqB2jKOoIsLNOmrSw01ugw5SiJ8Mrbr6kftYEWb_uQ3cKjQhD22BRF1HdE-BKdiRJSSVTolZciiVLzEWlQ0W6RFXVGcfgzZoTlSGwa6CtDUdH-Og4FXd6MNUfgX4n-YJ7kuwwWjtnME/s264/Padre+Everton+da+Roza+Lara.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxnqB2jKOoIsLNOmrSw01ugw5SiJ8Mrbr6kftYEWb_uQ3cKjQhD22BRF1HdE-BKdiRJSSVTolZciiVLzEWlQ0W6RFXVGcfgzZoTlSGwa6CtDUdH-Og4FXd6MNUfgX4n-YJ7kuwwWjtnME/s0/Padre+Everton+da+Roza+Lara.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todos os cristãos já passaram em suas vidas pela experiência

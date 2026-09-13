@@ -1,7 +1,7 @@
 ---
 title: "As pessoas esquecem"
 date: 2019-06-11T16:06:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTvGt8GHwsmqp-khMyM54SnEx5miaP78Ep-DILnQruOMAnBkMgcQIdgf-GdESBb9jHLvYXIQuTKjGdCQRfPu5pIeFsGV3IPfxhc4tuu8w-KaUxR3XlXK5L-L8DXV0F3pFaOmzwmz0cdpM/s320/le%25C3%25A3o_espreitando.png"
+heroImage: "/images/espreita.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTvGt8GHwsmqp-khMyM54SnEx5miaP78Ep-DILnQruOMAnBkMgcQIdgf-GdESBb9jHLvYXIQuTKjGdCQRfPu5pIeFsGV3IPfxhc4tuu8w-KaUxR3XlXK5L-L8DXV0F3pFaOmzwmz0cdpM/s1600/le%25C3%25A3o_espreitando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTvGt8GHwsmqp-khMyM54SnEx5miaP78Ep-DILnQruOMAnBkMgcQIdgf-GdESBb9jHLvYXIQuTKjGdCQRfPu5pIeFsGV3IPfxhc4tuu8w-KaUxR3XlXK5L-L8DXV0F3pFaOmzwmz0cdpM/s320/le%25C3%25A3o_espreitando.png" width="320" height="305" data-original-width="301" data-original-height="287" /></a></div>

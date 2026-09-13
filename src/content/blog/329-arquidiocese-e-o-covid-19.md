@@ -1,7 +1,7 @@
 ---
 title: "Arquidiocese e o Covid-19"
 date: 2020-03-19T23:44:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXoWFfj7963QM9J96sGYd3fWlDcDvxIYMhJOgXpduYaCMJrT8VMqPuxMD2WRW9IhgPWEK6-zJTDqNtlkINtc8dY6vAzDoJ2pSiGPPjDRC0wauuTiGr9fu5y1H-8BjRtPOPEiLXH_unFe4/s320/covid-19_Curitiba.png"
+heroImage: "/images/covid-19_Curitiba.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXoWFfj7963QM9J96sGYd3fWlDcDvxIYMhJOgXpduYaCMJrT8VMqPuxMD2WRW9IhgPWEK6-zJTDqNtlkINtc8dY6vAzDoJ2pSiGPPjDRC0wauuTiGr9fu5y1H-8BjRtPOPEiLXH_unFe4/s1600/covid-19_Curitiba.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="383" data-original-width="747" height="164" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXoWFfj7963QM9J96sGYd3fWlDcDvxIYMhJOgXpduYaCMJrT8VMqPuxMD2WRW9IhgPWEK6-zJTDqNtlkINtc8dY6vAzDoJ2pSiGPPjDRC0wauuTiGr9fu5y1H-8BjRtPOPEiLXH_unFe4/s320/covid-19_Curitiba.png" width="320" /></a></div>

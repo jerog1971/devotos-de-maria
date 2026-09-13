@@ -1,7 +1,7 @@
 ---
 title: "Conviver com os \"não católicos\""
 date: 2016-08-22T13:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgszgCrPq-t5XGdtF5jlt3nSjUJh6Xviz3jMhJIzNu01KCXXFZQumNE09ZbhzpURwyfiSVahhCe5_u7oZrLz_NaCBJXDRKixCL95c1F3qKACs2j1T0RCWtYwyf9XnNaogh8zRYeGjJNAXs/s320/nao_catolicos.png"
+heroImage: "/images/nao_catolicos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgszgCrPq-t5XGdtF5jlt3nSjUJh6Xviz3jMhJIzNu01KCXXFZQumNE09ZbhzpURwyfiSVahhCe5_u7oZrLz_NaCBJXDRKixCL95c1F3qKACs2j1T0RCWtYwyf9XnNaogh8zRYeGjJNAXs/s1600/nao_catolicos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgszgCrPq-t5XGdtF5jlt3nSjUJh6Xviz3jMhJIzNu01KCXXFZQumNE09ZbhzpURwyfiSVahhCe5_u7oZrLz_NaCBJXDRKixCL95c1F3qKACs2j1T0RCWtYwyf9XnNaogh8zRYeGjJNAXs/s320/nao_catolicos.png" width="320" height="205" data-original-width="388" data-original-height="248" /></a></div>

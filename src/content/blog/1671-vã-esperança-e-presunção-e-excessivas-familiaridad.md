@@ -1,7 +1,7 @@
 ---
 title: "Vã esperança e presunção e excessivas familiaridades"
 date: 2020-06-11T19:19:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYuqLWI6KZjGhWmYvngqGSOJlK1c9VeNtdxldqQjKePNtWNaObnOt7At4QqkeNmSbn0kjtnOFFAjecAPG8gy2vNr786S7W2X_1-dvoEsn2mWlr0cynbWv7p6uh7YCHIoQVGSbgJXig0us/s320/amizades.png"
+heroImage: "/images/amizades.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYuqLWI6KZjGhWmYvngqGSOJlK1c9VeNtdxldqQjKePNtWNaObnOt7At4QqkeNmSbn0kjtnOFFAjecAPG8gy2vNr786S7W2X_1-dvoEsn2mWlr0cynbWv7p6uh7YCHIoQVGSbgJXig0us/s498/amizades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="498" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYuqLWI6KZjGhWmYvngqGSOJlK1c9VeNtdxldqQjKePNtWNaObnOt7At4QqkeNmSbn0kjtnOFFAjecAPG8gy2vNr786S7W2X_1-dvoEsn2mWlr0cynbWv7p6uh7YCHIoQVGSbgJXig0us/s320/amizades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Insensato é quem põe sua esperança nos homens ou nas

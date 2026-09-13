@@ -1,7 +1,7 @@
 ---
 title: "A dor um dia nos alcança"
 date: 2020-07-27T17:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-CXudcHgV2fIqqJ8qf1DZkNr7rcFjFH2iJR7wRKtJ-XHUyU0zAQwNwotlgNmI2P8qdBJTqNWoprjMo_iBPH4dW4pOiqpHrLJ3mYmG2JlBbST6qkA_A0jSHRRUTr41hLLQhoSFOQ1o6Sw/s0/sofrimento2.png"
+heroImage: "/images/sofrimento2.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-CXudcHgV2fIqqJ8qf1DZkNr7rcFjFH2iJR7wRKtJ-XHUyU0zAQwNwotlgNmI2P8qdBJTqNWoprjMo_iBPH4dW4pOiqpHrLJ3mYmG2JlBbST6qkA_A0jSHRRUTr41hLLQhoSFOQ1o6Sw/s250/sofrimento2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="235" data-original-width="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-CXudcHgV2fIqqJ8qf1DZkNr7rcFjFH2iJR7wRKtJ-XHUyU0zAQwNwotlgNmI2P8qdBJTqNWoprjMo_iBPH4dW4pOiqpHrLJ3mYmG2JlBbST6qkA_A0jSHRRUTr41hLLQhoSFOQ1o6Sw/s0/sofrimento2.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todo mundo já passou, está passando ou irá passar por algum

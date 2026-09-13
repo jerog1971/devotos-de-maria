@@ -1,7 +1,7 @@
 ---
 title: "Coragem, faça promessas vitalícias"
 date: 2023-05-05T19:13:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYrET-8gJTRQVL-Iv1NhUzJHxSVXLISz87mrYS835Qi0SIHhNFdOTR7OyKlrW1ZIxUlFjcJ1Bz3L-QJVdvFjHQ8ttGDbfgs0UiHcHD3xGmgIFTCaDK_E6mvURtuAQHWycSkrVPS8nw1Cvp7fynFop-obj9IUM8dS-8kL51DW43T0B98ItCtkEPJN70/s320/maria%20e%20gusm%C3%A3o.png"
+heroImage: "/images/Maria.gif"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYrET-8gJTRQVL-Iv1NhUzJHxSVXLISz87mrYS835Qi0SIHhNFdOTR7OyKlrW1ZIxUlFjcJ1Bz3L-QJVdvFjHQ8ttGDbfgs0UiHcHD3xGmgIFTCaDK_E6mvURtuAQHWycSkrVPS8nw1Cvp7fynFop-obj9IUM8dS-8kL51DW43T0B98ItCtkEPJN70/s392/maria%20e%20gusm%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="336" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYrET-8gJTRQVL-Iv1NhUzJHxSVXLISz87mrYS835Qi0SIHhNFdOTR7OyKlrW1ZIxUlFjcJ1Bz3L-QJVdvFjHQ8ttGDbfgs0UiHcHD3xGmgIFTCaDK_E6mvURtuAQHWycSkrVPS8nw1Cvp7fynFop-obj9IUM8dS-8kL51DW43T0B98ItCtkEPJN70/s320/maria%20e%20gusm%C3%A3o.png" width="274" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos lá? Mais um pouquinho sobre as promessas? Há quem diga

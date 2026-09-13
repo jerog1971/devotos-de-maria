@@ -1,7 +1,7 @@
 ---
 title: "Abortem a missão"
 date: 2020-04-23T13:10:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUn3CdOI-JIA_5T0iG09ApNCTQCn0qg2v1JqqDI95TLropT1pUv5XR8PC8-zNbKyd4IWNRYFWEr5F60Z5Pj_XdlYQ04a82jXL_nPLeTec-9keCT7JQ2uRLYdqmgMAcwXZT7G_mpHvy610/s320/aborto.png"
+heroImage: "/images/aborto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUn3CdOI-JIA_5T0iG09ApNCTQCn0qg2v1JqqDI95TLropT1pUv5XR8PC8-zNbKyd4IWNRYFWEr5F60Z5Pj_XdlYQ04a82jXL_nPLeTec-9keCT7JQ2uRLYdqmgMAcwXZT7G_mpHvy610/s1600/aborto.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="482" height="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUn3CdOI-JIA_5T0iG09ApNCTQCn0qg2v1JqqDI95TLropT1pUv5XR8PC8-zNbKyd4IWNRYFWEr5F60Z5Pj_XdlYQ04a82jXL_nPLeTec-9keCT7JQ2uRLYdqmgMAcwXZT7G_mpHvy610/s320/aborto.png" width="320" /></a></div>

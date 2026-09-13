@@ -1,7 +1,7 @@
 ---
 title: "Exemplo de Fé Católica que vem da Polônia"
 date: 2017-10-17T18:03:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNn4vTEgyDDx1r9BQDRoLrq1bL6oqylVY8vORM9-IYT42fzgXkNRkw1SiE19McujPR7IgEupsZcpsPKmVk7L2NB260GlnGIvPOpJ0B8hIqf4gqMh9OXDJGcjsHGYn6ez1bTHQ3Z8vsji4/s320/polonia.png"
+heroImage: "/images/polonia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNn4vTEgyDDx1r9BQDRoLrq1bL6oqylVY8vORM9-IYT42fzgXkNRkw1SiE19McujPR7IgEupsZcpsPKmVk7L2NB260GlnGIvPOpJ0B8hIqf4gqMh9OXDJGcjsHGYn6ez1bTHQ3Z8vsji4/s1600/polonia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNn4vTEgyDDx1r9BQDRoLrq1bL6oqylVY8vORM9-IYT42fzgXkNRkw1SiE19McujPR7IgEupsZcpsPKmVk7L2NB260GlnGIvPOpJ0B8hIqf4gqMh9OXDJGcjsHGYn6ez1bTHQ3Z8vsji4/s320/polonia.png" width="320" height="319" data-original-width="223" data-original-height="222" /></a></div>

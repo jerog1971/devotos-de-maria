@@ -1,7 +1,7 @@
 ---
 title: "A Unilever e os filhos de satanás"
 date: 2017-10-17T17:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVJ2eDhLrJJ7TmDeMJSPuY3QBKrj0ZJAQmn4vzPjFxAFBxr8hp7eoT_YwrgB6B8zb0x_IA9N1sJICkdnZLi16HPFXb-Ow_8s9garx_KG0EeASpSNLioJ0Prvh_Hmg9-809gkB_3RdKa4/s320/omo.png"
+heroImage: "/images/homo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVJ2eDhLrJJ7TmDeMJSPuY3QBKrj0ZJAQmn4vzPjFxAFBxr8hp7eoT_YwrgB6B8zb0x_IA9N1sJICkdnZLi16HPFXb-Ow_8s9garx_KG0EeASpSNLioJ0Prvh_Hmg9-809gkB_3RdKa4/s1600/omo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVJ2eDhLrJJ7TmDeMJSPuY3QBKrj0ZJAQmn4vzPjFxAFBxr8hp7eoT_YwrgB6B8zb0x_IA9N1sJICkdnZLi16HPFXb-Ow_8s9garx_KG0EeASpSNLioJ0Prvh_Hmg9-809gkB_3RdKa4/s320/omo.png" width="320" height="182" data-original-width="628" data-original-height="357" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Importa antes obedecer a Deus"
 date: 2016-03-18T13:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCKdjT1ButPCetmgQ9cQO2LJytlHoYihfEkj4jSJyYO7RuAF1CE3Tgok_aYcrsH6j-yZQuH3rw7sYomW3dMqOIBHosDEAinLjH8iaF-7x0Qz-SrW2ZDy0LH9CSIaChcQ5uhB550H70NeU/s320/obedecer_a_deus.png"
+heroImage: "/images/obedecer_a_deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCKdjT1ButPCetmgQ9cQO2LJytlHoYihfEkj4jSJyYO7RuAF1CE3Tgok_aYcrsH6j-yZQuH3rw7sYomW3dMqOIBHosDEAinLjH8iaF-7x0Qz-SrW2ZDy0LH9CSIaChcQ5uhB550H70NeU/s1600/obedecer_a_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCKdjT1ButPCetmgQ9cQO2LJytlHoYihfEkj4jSJyYO7RuAF1CE3Tgok_aYcrsH6j-yZQuH3rw7sYomW3dMqOIBHosDEAinLjH8iaF-7x0Qz-SrW2ZDy0LH9CSIaChcQ5uhB550H70NeU/s320/obedecer_a_deus.png" width="320" height="285" data-original-width="537" data-original-height="478" /></a></div>

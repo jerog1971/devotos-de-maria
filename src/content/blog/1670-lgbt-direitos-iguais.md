@@ -1,7 +1,7 @@
 ---
 title: "LGBT - Direitos Iguais?"
 date: 2017-05-22T14:05:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGnb0XGue8Ce63hKv9GM7IR75781QOoWCwy1fnfTLbZo6Hs2w2PT01bj2S0PqIZ4uIqPHRUhEKK45xURTo_BHCXpwdxWdt8QRDiQKE8X0qfFitqwtXRcusj4oy9veXZTpTOA5yRKsOTLg/s320/lgbt.png"
+heroImage: "/images/LGBT.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGnb0XGue8Ce63hKv9GM7IR75781QOoWCwy1fnfTLbZo6Hs2w2PT01bj2S0PqIZ4uIqPHRUhEKK45xURTo_BHCXpwdxWdt8QRDiQKE8X0qfFitqwtXRcusj4oy9veXZTpTOA5yRKsOTLg/s1600/lgbt.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="297" data-original-width="297" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGnb0XGue8Ce63hKv9GM7IR75781QOoWCwy1fnfTLbZo6Hs2w2PT01bj2S0PqIZ4uIqPHRUhEKK45xURTo_BHCXpwdxWdt8QRDiQKE8X0qfFitqwtXRcusj4oy9veXZTpTOA5yRKsOTLg/s320/lgbt.png" width="320" /></a></div>Inserindo-se no conceito de pessoas "livres e com seus direitos", as lésbicas, os gays, os bissexuais e os travestis e transexuais clamam contra a sociedade exigindo um lugar ao sol, todavia, essas pessoas se julgam no direito de zombar de Deus da forma como eles zombam da religião e quanto a isso tudo está bem! Gálatas 6,7-8 – “Não vos enganeis: de Deus não se zomba. O que o homem semeia, isso mesmo colherá. Quem semeia na carne, da carne colherá a corrupção; quem semeia no Espírito, do Espírito colherá a vida eterna.”

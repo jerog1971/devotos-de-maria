@@ -1,7 +1,7 @@
 ---
 title: "Gostos e Compromissos"
 date: 2018-11-27T19:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCibG_jiNQnfyXoriLi5PDsnMLlN6xOB07x_pXuSLWLL8BbAV5GmFajk9J8FUvtlnLmOj8k3cagY1tEyVLch3d29J19WHgGaRma2mKbR8LSlLphbZ_vQlubLMXxgpMqWJpygJwUpt044E/s320/1543068580618.jpg"
+heroImage: "/images/1543068580618.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCibG_jiNQnfyXoriLi5PDsnMLlN6xOB07x_pXuSLWLL8BbAV5GmFajk9J8FUvtlnLmOj8k3cagY1tEyVLch3d29J19WHgGaRma2mKbR8LSlLphbZ_vQlubLMXxgpMqWJpygJwUpt044E/s1600/1543068580618.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCibG_jiNQnfyXoriLi5PDsnMLlN6xOB07x_pXuSLWLL8BbAV5GmFajk9J8FUvtlnLmOj8k3cagY1tEyVLch3d29J19WHgGaRma2mKbR8LSlLphbZ_vQlubLMXxgpMqWJpygJwUpt044E/s320/1543068580618.jpg" width="320" height="211" data-original-width="512" data-original-height="338" /></a></div>

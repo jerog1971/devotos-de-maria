@@ -1,7 +1,7 @@
 ---
 title: "Sempre é bom lembrar do juízo final"
 date: 2024-11-11T20:24:00.013Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_jeg4_Bl_guZs99atBjeWK3laC4qzNRVlvX5AikRXT0Kw6xu59KDd6NoXJcPwbIT1zVtORRnfK8NXCf6a4qqIhew0wNYzRaMmdPpKWdL0FfLadD1W3XYa2EIER2oEOqT6PmbASme7EXvZoa5whmVVF7KWgXG1hcEaaxNvPdLw1loQx3ZG2oBrfIrgOk/s320/ju%C3%ADzo%20final.png"
+heroImage: "/images/juízo final(1).png"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="767" data-original-width="630" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_jeg4_Bl_guZs99atBjeWK3laC4qzNRVlvX5AikRXT0Kw6xu59KDd6NoXJcPwbIT1zVtORRnfK8NXCf6a4qqIhew0wNYzRaMmdPpKWdL0FfLadD1W3XYa2EIER2oEOqT6PmbASme7EXvZoa5whmVVF7KWgXG1hcEaaxNvPdLw1loQx3ZG2oBrfIrgOk/s320/ju%C3%ADzo%20final.png" width="263" /></div>

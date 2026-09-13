@@ -1,7 +1,7 @@
 ---
 title: "Os pastorinhos de Fátima"
 date: 2017-04-17T13:50:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgovlhLo2Mz_65StwN6BxyQF0zASeZtdYXJ3M9EgLaiwYmL182c9VGfk3z4lGzhZkkcjvgJtpwXFnd-lZHTq5k3zfuDVtB-Nn5fIjpFH5nce1OoTzPPUF-b7cSBIa2bhaCVeflsLlxQbV8/s320/pastorinhos.png"
+heroImage: "/images/pastorinhos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgovlhLo2Mz_65StwN6BxyQF0zASeZtdYXJ3M9EgLaiwYmL182c9VGfk3z4lGzhZkkcjvgJtpwXFnd-lZHTq5k3zfuDVtB-Nn5fIjpFH5nce1OoTzPPUF-b7cSBIa2bhaCVeflsLlxQbV8/s1600/pastorinhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgovlhLo2Mz_65StwN6BxyQF0zASeZtdYXJ3M9EgLaiwYmL182c9VGfk3z4lGzhZkkcjvgJtpwXFnd-lZHTq5k3zfuDVtB-Nn5fIjpFH5nce1OoTzPPUF-b7cSBIa2bhaCVeflsLlxQbV8/s320/pastorinhos.png" width="320" height="320" data-original-width="496" data-original-height="496" /></a></div>

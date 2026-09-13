@@ -1,7 +1,7 @@
 ---
 title: "O dedo de Deus"
 date: 2016-04-22T16:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOM7rI14x98DqKYLdcQg3-Xd43_iZ1mEcFwylLqGolbre1lVGSwic9dZkQpu0MXM3OR8A5paxKgbGI2VUJIqe9xK6l0hc-IMmJJ2lv4hOpc4LZDORKUFyIUPNzGvFb0Eov4elgQekXl6o/s320/virgem_intacta.png"
+heroImage: "/images/virgem_intacta.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOM7rI14x98DqKYLdcQg3-Xd43_iZ1mEcFwylLqGolbre1lVGSwic9dZkQpu0MXM3OR8A5paxKgbGI2VUJIqe9xK6l0hc-IMmJJ2lv4hOpc4LZDORKUFyIUPNzGvFb0Eov4elgQekXl6o/s1600/virgem_intacta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOM7rI14x98DqKYLdcQg3-Xd43_iZ1mEcFwylLqGolbre1lVGSwic9dZkQpu0MXM3OR8A5paxKgbGI2VUJIqe9xK6l0hc-IMmJJ2lv4hOpc4LZDORKUFyIUPNzGvFb0Eov4elgQekXl6o/s320/virgem_intacta.png" width="211" height="320" data-original-width="325" data-original-height="493" /></a></div>

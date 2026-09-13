@@ -1,7 +1,7 @@
 ---
 title: "Nossa religião é de guerra"
 date: 2016-08-12T13:07:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVraCKID9RR64CD-XZpLncFisz1Vtb0MUol8xjDlk5HX-izxrsMbjmltGoZWvwhtFNC3mL9-8C2e4gAqa-t7aWs74j8nyucAot0z2s9jiaF89mCS6CH8BG491yHpUWphhHLlmVutUIcSQ/s320/estado_islamico.png"
+heroImage: "/images/estado_islamico.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVraCKID9RR64CD-XZpLncFisz1Vtb0MUol8xjDlk5HX-izxrsMbjmltGoZWvwhtFNC3mL9-8C2e4gAqa-t7aWs74j8nyucAot0z2s9jiaF89mCS6CH8BG491yHpUWphhHLlmVutUIcSQ/s1600/estado_islamico.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="296" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVraCKID9RR64CD-XZpLncFisz1Vtb0MUol8xjDlk5HX-izxrsMbjmltGoZWvwhtFNC3mL9-8C2e4gAqa-t7aWs74j8nyucAot0z2s9jiaF89mCS6CH8BG491yHpUWphhHLlmVutUIcSQ/s320/estado_islamico.png" width="280" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Dia após dia"
 date: 2017-12-20T13:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcFIEA4zm1ABykpIOZMnJ_h7fyV9iZvsCqTuYBMUl1txJtNKM8SFqgzbZp79UXMLKqzvS-MB9nhPCsYEsSHj3qrSgwMb2VbgXIXR7gi7ErllMkhqYVt3ItzDp4kkFsHzTEFx8jdmpHtBM/s320/adoracao.png"
+heroImage: "/images/adoracao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcFIEA4zm1ABykpIOZMnJ_h7fyV9iZvsCqTuYBMUl1txJtNKM8SFqgzbZp79UXMLKqzvS-MB9nhPCsYEsSHj3qrSgwMb2VbgXIXR7gi7ErllMkhqYVt3ItzDp4kkFsHzTEFx8jdmpHtBM/s1600/adoracao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcFIEA4zm1ABykpIOZMnJ_h7fyV9iZvsCqTuYBMUl1txJtNKM8SFqgzbZp79UXMLKqzvS-MB9nhPCsYEsSHj3qrSgwMb2VbgXIXR7gi7ErllMkhqYVt3ItzDp4kkFsHzTEFx8jdmpHtBM/s320/adoracao.png" width="320" height="264" data-original-width="410" data-original-height="338" /></a></div>

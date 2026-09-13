@@ -1,7 +1,7 @@
 ---
 title: "Jesus em primeiro lugar"
 date: 2020-05-20T20:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ86suIIYVpvOe2cDnUh1H9YhKeosROa493DN4I-02IHBj_38vdZoJHZhn65HL7RE8asiHr_htCeB2Qclteg1UmzWSM3vPB7AtznSu4brpd6-puXX_Y12SDtNEeRWUyvTyFIqxpCb2wYQ/s320/tchau_Jesus.png"
+heroImage: "/images/tchau_Jesus.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ86suIIYVpvOe2cDnUh1H9YhKeosROa493DN4I-02IHBj_38vdZoJHZhn65HL7RE8asiHr_htCeB2Qclteg1UmzWSM3vPB7AtznSu4brpd6-puXX_Y12SDtNEeRWUyvTyFIqxpCb2wYQ/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="677" data-original-width="906" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ86suIIYVpvOe2cDnUh1H9YhKeosROa493DN4I-02IHBj_38vdZoJHZhn65HL7RE8asiHr_htCeB2Qclteg1UmzWSM3vPB7AtznSu4brpd6-puXX_Y12SDtNEeRWUyvTyFIqxpCb2wYQ/s320/tchau_Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Atos 5,29 – “Pedro e os apóstolos replicaram: Importa

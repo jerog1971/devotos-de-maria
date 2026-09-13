@@ -1,7 +1,7 @@
 ---
 title: "Não pratiques o mal"
 date: 2021-05-03T22:53:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5Ujg47NVLwlGx52QpFGWGgs-6vxvPP0TXTWOKPld-C6D-OKZxt6p3n8mPhgaGTPF-9usx7c2VwPcoH2b-nHvuXbT0XKAUrredgv35eoAmn-DGyiG_v0MVaUDHkrgsIf1hk3y8O4JQO8/s320/n%25C3%25A3o+pratiques+o+mal.png"
+heroImage: "/images/mal.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5Ujg47NVLwlGx52QpFGWGgs-6vxvPP0TXTWOKPld-C6D-OKZxt6p3n8mPhgaGTPF-9usx7c2VwPcoH2b-nHvuXbT0XKAUrredgv35eoAmn-DGyiG_v0MVaUDHkrgsIf1hk3y8O4JQO8/s343/n%25C3%25A3o+pratiques+o+mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="343" data-original-width="323" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5Ujg47NVLwlGx52QpFGWGgs-6vxvPP0TXTWOKPld-C6D-OKZxt6p3n8mPhgaGTPF-9usx7c2VwPcoH2b-nHvuXbT0XKAUrredgv35eoAmn-DGyiG_v0MVaUDHkrgsIf1hk3y8O4JQO8/s320/n%25C3%25A3o+pratiques+o+mal.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O livro do Eclesiástico, poderíamos dizer, é um livro de

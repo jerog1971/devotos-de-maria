@@ -1,7 +1,7 @@
 ---
 title: "O amor desproporcional de Maria"
 date: 2022-11-18T15:18:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjVE1Mr3Ae4OJBoBjSwSMwHawaTgDfc53Kms_WY4lHbGVJ9qWqW6Ih63ZH6mLqo1ZuEfRZruAHMDnZQ5cAdy6-fhyPzPqDZu1E5UPhK0eA_rEdj-6EpMZ2q2UarBhsD_wv9oT9i4oDevK9T8DI5fKSu6ZzB04qLS6HQdQUrqdKqgFVDaPySZKE54Hw/s320/O%20amor%20de%20Maria.png"
+heroImage: "/images/Maria.gif"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjVE1Mr3Ae4OJBoBjSwSMwHawaTgDfc53Kms_WY4lHbGVJ9qWqW6Ih63ZH6mLqo1ZuEfRZruAHMDnZQ5cAdy6-fhyPzPqDZu1E5UPhK0eA_rEdj-6EpMZ2q2UarBhsD_wv9oT9i4oDevK9T8DI5fKSu6ZzB04qLS6HQdQUrqdKqgFVDaPySZKE54Hw/s519/O%20amor%20de%20Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="431" data-original-width="519" height="266" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjVE1Mr3Ae4OJBoBjSwSMwHawaTgDfc53Kms_WY4lHbGVJ9qWqW6Ih63ZH6mLqo1ZuEfRZruAHMDnZQ5cAdy6-fhyPzPqDZu1E5UPhK0eA_rEdj-6EpMZ2q2UarBhsD_wv9oT9i4oDevK9T8DI5fKSu6ZzB04qLS6HQdQUrqdKqgFVDaPySZKE54Hw/s320/O%20amor%20de%20Maria.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pela devoção mais simples para com a mãe de Jesus, em troca,

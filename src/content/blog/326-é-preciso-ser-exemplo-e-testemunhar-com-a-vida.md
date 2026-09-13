@@ -1,7 +1,7 @@
 ---
 title: "É preciso ser exemplo e testemunhar com a vida"
 date: 2017-02-03T00:53:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_msZ9mH5QcPPOc-rCbsZO5gLmAwWzBYEptmepy4RYkk0Sg65XbYSjnEOoLr7roK8ecNUhxNlbkHfcujtqvEKGEwQmwTxPFrbr58l9IXlEokFfMwCtgn1stzI-duy55UHdo8RR5HkAVLw/s320/paiz%25C3%25A3o.png"
+heroImage: "/images/Pai.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_msZ9mH5QcPPOc-rCbsZO5gLmAwWzBYEptmepy4RYkk0Sg65XbYSjnEOoLr7roK8ecNUhxNlbkHfcujtqvEKGEwQmwTxPFrbr58l9IXlEokFfMwCtgn1stzI-duy55UHdo8RR5HkAVLw/s1600/paiz%25C3%25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="361" height="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_msZ9mH5QcPPOc-rCbsZO5gLmAwWzBYEptmepy4RYkk0Sg65XbYSjnEOoLr7roK8ecNUhxNlbkHfcujtqvEKGEwQmwTxPFrbr58l9IXlEokFfMwCtgn1stzI-duy55UHdo8RR5HkAVLw/s320/paiz%25C3%25A3o.png" width="320" /></a></div>

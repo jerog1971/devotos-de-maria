@@ -1,7 +1,7 @@
 ---
 title: "Não existem orações inúteis"
 date: 2020-03-06T17:47:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKDbqfFtWSXHy2LG5CIPfGjwbaMUr5X5OU8VIsWO7IWpq4glapfSksD-5CAgrNO8OEb68sQDoXugRXhTutoofoUoxdCNN7Q_ik8xsbEt2UsIpagHqV1CSOxfr-CR3e3ZI8STbUcfDxCfA/s320/fiel.png"
+heroImage: "/images/fiel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKDbqfFtWSXHy2LG5CIPfGjwbaMUr5X5OU8VIsWO7IWpq4glapfSksD-5CAgrNO8OEb68sQDoXugRXhTutoofoUoxdCNN7Q_ik8xsbEt2UsIpagHqV1CSOxfr-CR3e3ZI8STbUcfDxCfA/s1600/fiel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKDbqfFtWSXHy2LG5CIPfGjwbaMUr5X5OU8VIsWO7IWpq4glapfSksD-5CAgrNO8OEb68sQDoXugRXhTutoofoUoxdCNN7Q_ik8xsbEt2UsIpagHqV1CSOxfr-CR3e3ZI8STbUcfDxCfA/s320/fiel.png" width="295" height="320" data-original-width="234" data-original-height="254" /></a></div>

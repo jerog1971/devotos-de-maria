@@ -1,7 +1,7 @@
 ---
 title: "A virtude da Castidade"
 date: 2016-07-08T20:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfpYD9dHou_P3QJ3wjd7ETSDgtFHWE_YaHOMCPq63ovkTTSbZlSwIL03VT_Qp5IHgtXoyAW_mdyVOfWFleerhFpJYWXw6UqBzcHHWydcZHVYx200cA5f9QGx5ipCo9jOS-hpUu-7qmow8/s320/Maria_Goretti.png"
+heroImage: "/images/Maria_Goretti.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfpYD9dHou_P3QJ3wjd7ETSDgtFHWE_YaHOMCPq63ovkTTSbZlSwIL03VT_Qp5IHgtXoyAW_mdyVOfWFleerhFpJYWXw6UqBzcHHWydcZHVYx200cA5f9QGx5ipCo9jOS-hpUu-7qmow8/s1600/Maria_Goretti.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfpYD9dHou_P3QJ3wjd7ETSDgtFHWE_YaHOMCPq63ovkTTSbZlSwIL03VT_Qp5IHgtXoyAW_mdyVOfWFleerhFpJYWXw6UqBzcHHWydcZHVYx200cA5f9QGx5ipCo9jOS-hpUu-7qmow8/s320/Maria_Goretti.png" width="320" height="261" data-original-width="612" data-original-height="500" /></a></div>

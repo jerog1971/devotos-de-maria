@@ -1,7 +1,7 @@
 ---
 title: "Jesus no drone"
 date: 2019-12-19T16:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHnAIxjgTRGJModjhL7u_UMLHiL-D1ZpJQp-xWA9Krn7JswbaWvUzLuhTW8Ko1EeZvRXZB44FWGSk28xiS7UpezR0qgWNGWj1ZLsoHcG3zaQy6GoOuW73y4X-c6wbuKGDFuK-lIIBNtA/s320/Jesus_no_drone.png"
+heroImage: "/images/Jesus_no_drone.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHnAIxjgTRGJModjhL7u_UMLHiL-D1ZpJQp-xWA9Krn7JswbaWvUzLuhTW8Ko1EeZvRXZB44FWGSk28xiS7UpezR0qgWNGWj1ZLsoHcG3zaQy6GoOuW73y4X-c6wbuKGDFuK-lIIBNtA/s1600/Jesus_no_drone.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHnAIxjgTRGJModjhL7u_UMLHiL-D1ZpJQp-xWA9Krn7JswbaWvUzLuhTW8Ko1EeZvRXZB44FWGSk28xiS7UpezR0qgWNGWj1ZLsoHcG3zaQy6GoOuW73y4X-c6wbuKGDFuK-lIIBNtA/s320/Jesus_no_drone.png" width="320" height="180" data-original-width="597" data-original-height="335" /></a></div>

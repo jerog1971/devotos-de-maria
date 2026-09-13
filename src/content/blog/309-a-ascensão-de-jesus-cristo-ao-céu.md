@@ -1,7 +1,7 @@
 ---
 title: "A ascensão de Jesus Cristo ao céu"
 date: 2023-05-18T17:11:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx3LHIUrqHCoEzCeGpXLkQIKa5Yo0lBmOXy1RtCv-vGcFkxmCi2KfWhR988_XNG4bMYzgHNePWp3cCyuYIHBHKSEQRkPkxpD5EySeqiMKJJHc2lL6jm1LiHWXsbcok5AA2c3Bges5YdDn5WoSs3Na4_Fm3Ikp1RAYEcAy69AUKe1RIoKgrrk9XT8KA/s320/ascens%C3%A3o%20de%20jesus%20ao%20c%C3%A9u.png"
+heroImage: "/images/Jesus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx3LHIUrqHCoEzCeGpXLkQIKa5Yo0lBmOXy1RtCv-vGcFkxmCi2KfWhR988_XNG4bMYzgHNePWp3cCyuYIHBHKSEQRkPkxpD5EySeqiMKJJHc2lL6jm1LiHWXsbcok5AA2c3Bges5YdDn5WoSs3Na4_Fm3Ikp1RAYEcAy69AUKe1RIoKgrrk9XT8KA/s763/ascens%C3%A3o%20de%20jesus%20ao%20c%C3%A9u.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="430" data-original-width="763" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx3LHIUrqHCoEzCeGpXLkQIKa5Yo0lBmOXy1RtCv-vGcFkxmCi2KfWhR988_XNG4bMYzgHNePWp3cCyuYIHBHKSEQRkPkxpD5EySeqiMKJJHc2lL6jm1LiHWXsbcok5AA2c3Bges5YdDn5WoSs3Na4_Fm3Ikp1RAYEcAy69AUKe1RIoKgrrk9XT8KA/s320/ascens%C3%A3o%20de%20jesus%20ao%20c%C3%A9u.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ao entrar em Jerusalém, lembramos que aqui repousava Nosso

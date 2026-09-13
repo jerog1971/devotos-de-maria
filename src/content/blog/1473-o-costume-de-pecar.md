@@ -1,7 +1,7 @@
 ---
 title: "O costume de pecar"
 date: 2020-03-30T15:35:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw8QoMJM7oKztSS_hQ54G4YF1WIsB9Zy7Ye5tWAFZmLBHNRxB53DMhKLxfAZRfl4Z5YHDwY_B6_GYPolmbFokPpw6lNjCGFXH9ef-IFpjZXhFQ4H1rcHPXU4HCSXE1MO33xrpyjIPN3Qo/s320/pecado.png"
+heroImage: "/images/Convite ao pecado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw8QoMJM7oKztSS_hQ54G4YF1WIsB9Zy7Ye5tWAFZmLBHNRxB53DMhKLxfAZRfl4Z5YHDwY_B6_GYPolmbFokPpw6lNjCGFXH9ef-IFpjZXhFQ4H1rcHPXU4HCSXE1MO33xrpyjIPN3Qo/s1600/pecado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw8QoMJM7oKztSS_hQ54G4YF1WIsB9Zy7Ye5tWAFZmLBHNRxB53DMhKLxfAZRfl4Z5YHDwY_B6_GYPolmbFokPpw6lNjCGFXH9ef-IFpjZXhFQ4H1rcHPXU4HCSXE1MO33xrpyjIPN3Qo/s320/pecado.png" width="320" height="297" data-original-width="287" data-original-height="266" /></a></div>

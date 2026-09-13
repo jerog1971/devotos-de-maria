@@ -1,7 +1,7 @@
 ---
 title: "Santa Gianna Beretta"
 date: 2017-08-23T18:37:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfBy4D4Osa3PLnRmYzwFb-U6RG4Qsr6C6DNfd2RTgF0RoREY8Pn36PNVx3n5aLXsdB09D52sIFCwpJldoiV8M9wDLQPN4_xGYK7Xiaj3AOqKwuh_t-rNoatD0YKl9VLhJ0xmF_qcf6BM/s320/giannaberetta.png"
+heroImage: "/images/giannaberetta.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfBy4D4Osa3PLnRmYzwFb-U6RG4Qsr6C6DNfd2RTgF0RoREY8Pn36PNVx3n5aLXsdB09D52sIFCwpJldoiV8M9wDLQPN4_xGYK7Xiaj3AOqKwuh_t-rNoatD0YKl9VLhJ0xmF_qcf6BM/s1600/giannaberetta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfBy4D4Osa3PLnRmYzwFb-U6RG4Qsr6C6DNfd2RTgF0RoREY8Pn36PNVx3n5aLXsdB09D52sIFCwpJldoiV8M9wDLQPN4_xGYK7Xiaj3AOqKwuh_t-rNoatD0YKl9VLhJ0xmF_qcf6BM/s320/giannaberetta.png" width="316" height="320" data-original-width="316" data-original-height="320" /></a></div>

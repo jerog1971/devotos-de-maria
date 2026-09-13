@@ -1,7 +1,7 @@
 ---
 title: "É preciso se retirar"
 date: 2017-09-14T12:37:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0zB9zLQw9PwRsJELA1cKGvZoiD-BzBNRBmctQLb40mgXm6ustNBIBuR6rzu6a-KiadEFVFuH7Cu8TyrqQay6nDJV8GbIefBBUEC3hmBIbekMS1xOaj91avYR0_UhkeRBA_VYdJqayMNE/s320/retiro.png"
+heroImage: "/images/retiro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0zB9zLQw9PwRsJELA1cKGvZoiD-BzBNRBmctQLb40mgXm6ustNBIBuR6rzu6a-KiadEFVFuH7Cu8TyrqQay6nDJV8GbIefBBUEC3hmBIbekMS1xOaj91avYR0_UhkeRBA_VYdJqayMNE/s1600/retiro.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="181" data-original-width="225" height="257" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0zB9zLQw9PwRsJELA1cKGvZoiD-BzBNRBmctQLb40mgXm6ustNBIBuR6rzu6a-KiadEFVFuH7Cu8TyrqQay6nDJV8GbIefBBUEC3hmBIbekMS1xOaj91avYR0_UhkeRBA_VYdJqayMNE/s320/retiro.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Caros leitores, o famoso amigo da onça, o duas caras, aquele que dá com uma mão e toma com a outra, nosso conhecido inimigo cruel, o diabo, faz um esforço tremendo para nos acompanhar todos os dias e durante todo o dia através das suas tentações, ora disfarçadas em pratos deliciosos, ora apresentadas em grandes e aparentes dificuldades intransponíveis.

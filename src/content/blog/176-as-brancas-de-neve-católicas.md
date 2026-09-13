@@ -1,7 +1,7 @@
 ---
 title: "As Brancas de Neve Católicas"
 date: 2017-09-01T18:15:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi2LKGdbz-Ud7FED9DZC4eBTBoIKj4B6voijFF8cUw7zqwmlXkBIUx5o51Se0kkkjVgO685XD3OJdJ0-hENyrngp6vLwkTL_qJslKjxnoR67Za_JYKq9sStttgMdUSYJwZLCcTKdw5UrI/s320/Santa_Beatriz.png"
+heroImage: "/images/Santa_Beatriz.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi2LKGdbz-Ud7FED9DZC4eBTBoIKj4B6voijFF8cUw7zqwmlXkBIUx5o51Se0kkkjVgO685XD3OJdJ0-hENyrngp6vLwkTL_qJslKjxnoR67Za_JYKq9sStttgMdUSYJwZLCcTKdw5UrI/s1600/Santa_Beatriz.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="299" data-original-width="297" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi2LKGdbz-Ud7FED9DZC4eBTBoIKj4B6voijFF8cUw7zqwmlXkBIUx5o51Se0kkkjVgO685XD3OJdJ0-hENyrngp6vLwkTL_qJslKjxnoR67Za_JYKq9sStttgMdUSYJwZLCcTKdw5UrI/s320/Santa_Beatriz.png" width="318" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Olá pessoal, acho que é sabido da grande maioria a existência do conto infantil da década de trinta, desenvolvido pela Walt Disney intitulado “Branca de Neve e os Sete Anões”. Na história, um dos personagens, a madrasta de Branca de Neve, má, cruel e invejosa, mantinha por ciúmes e inveja a pobre moça coberta de andrajos e sob o julgo das tarefas. Esse é o contexto inicial transmitido ao público no início do filme e que mais tarde revela as atitudes da personagem má.

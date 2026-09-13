@@ -1,7 +1,7 @@
 ---
 title: "Não vejo os medos ao meu redor"
 date: 2018-03-02T22:42:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwFWa55PO4JFc0rzSA0FLubVDnHf-SQ3QqjZZ70mLTpLeSTu1GgWyNEdmuFYRqqidhGpCJivjKLBxg2lYI4091mf787cbfAb3Z6IPYJCeo-jbOczCsyWmT7pfZcLcCWtHPa-WSD2tX1B4/s320/livre.png"
+heroImage: "/images/deus_me_livre.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwFWa55PO4JFc0rzSA0FLubVDnHf-SQ3QqjZZ70mLTpLeSTu1GgWyNEdmuFYRqqidhGpCJivjKLBxg2lYI4091mf787cbfAb3Z6IPYJCeo-jbOczCsyWmT7pfZcLcCWtHPa-WSD2tX1B4/s1600/livre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwFWa55PO4JFc0rzSA0FLubVDnHf-SQ3QqjZZ70mLTpLeSTu1GgWyNEdmuFYRqqidhGpCJivjKLBxg2lYI4091mf787cbfAb3Z6IPYJCeo-jbOczCsyWmT7pfZcLcCWtHPa-WSD2tX1B4/s320/livre.png" width="304" height="320" data-original-width="343" data-original-height="361" /></a></div>

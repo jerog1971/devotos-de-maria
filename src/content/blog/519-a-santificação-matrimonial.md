@@ -1,7 +1,7 @@
 ---
 title: "A Santificação Matrimonial"
 date: 2017-01-02T19:51:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJvgBpw4gZNyhvzx4WYHF5G-VVzWMPf4lnWGf1S0_g_sQfKcs-ocX-TiD_S7N9ZZ21dMTB6WNg8pw9vBIl2NbdvyLb_hydskVrK2DAoc_ILYmgdUsndCjdpG4EzwBzwAXIc4Wv2PG0bKM/s320/casamento.png"
+heroImage: "/images/casamento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJvgBpw4gZNyhvzx4WYHF5G-VVzWMPf4lnWGf1S0_g_sQfKcs-ocX-TiD_S7N9ZZ21dMTB6WNg8pw9vBIl2NbdvyLb_hydskVrK2DAoc_ILYmgdUsndCjdpG4EzwBzwAXIc4Wv2PG0bKM/s1600/casamento.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="320" data-original-width="320" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJvgBpw4gZNyhvzx4WYHF5G-VVzWMPf4lnWGf1S0_g_sQfKcs-ocX-TiD_S7N9ZZ21dMTB6WNg8pw9vBIl2NbdvyLb_hydskVrK2DAoc_ILYmgdUsndCjdpG4EzwBzwAXIc4Wv2PG0bKM/s320/casamento.png" width="320" /></a></div>

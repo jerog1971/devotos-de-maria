@@ -1,7 +1,7 @@
 ---
 title: "Zangados como o Zangado"
 date: 2017-10-04T14:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2HTzr8YfTmoynj78OnyDVQ-6StzIT7lzl-hATZEHXDOIr0FCh1SJ2HHKLW4hbiFE1Ijd3Q1vMXCDLdrXFnzXg2qYtdgjx1lijV7YCnuGW2HtY_UUQOD2u0CxvyD77GEd8-Jrh_mxaWZE/s320/zangado.jpg"
+heroImage: "/images/zangado.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2HTzr8YfTmoynj78OnyDVQ-6StzIT7lzl-hATZEHXDOIr0FCh1SJ2HHKLW4hbiFE1Ijd3Q1vMXCDLdrXFnzXg2qYtdgjx1lijV7YCnuGW2HtY_UUQOD2u0CxvyD77GEd8-Jrh_mxaWZE/s1600/zangado.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2HTzr8YfTmoynj78OnyDVQ-6StzIT7lzl-hATZEHXDOIr0FCh1SJ2HHKLW4hbiFE1Ijd3Q1vMXCDLdrXFnzXg2qYtdgjx1lijV7YCnuGW2HtY_UUQOD2u0CxvyD77GEd8-Jrh_mxaWZE/s320/zangado.jpg" width="240" height="320" data-original-width="600" data-original-height="800" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Brigar, Discutir e Xingar"
 date: 2016-08-29T14:44:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilq0rJU8uGc_FmRqdWl-vW41P-EbGjQstjlp9otqDjumBewDIasSp2p-S6p3Ygms0ljtKNGFBEUPmi5L_fGwE8DFWKBSwl-zGkrPcLzrpcvZpt5vFVcWxOFp562Nwml8AJo8YTB3Z4AdE/s320/brigar.png"
+heroImage: "/images/brigar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilq0rJU8uGc_FmRqdWl-vW41P-EbGjQstjlp9otqDjumBewDIasSp2p-S6p3Ygms0ljtKNGFBEUPmi5L_fGwE8DFWKBSwl-zGkrPcLzrpcvZpt5vFVcWxOFp562Nwml8AJo8YTB3Z4AdE/s1600/brigar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilq0rJU8uGc_FmRqdWl-vW41P-EbGjQstjlp9otqDjumBewDIasSp2p-S6p3Ygms0ljtKNGFBEUPmi5L_fGwE8DFWKBSwl-zGkrPcLzrpcvZpt5vFVcWxOFp562Nwml8AJo8YTB3Z4AdE/s320/brigar.png" width="320" height="292" data-original-width="329" data-original-height="300" /></a></div>

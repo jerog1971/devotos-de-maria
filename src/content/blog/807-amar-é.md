@@ -1,7 +1,7 @@
 ---
 title: "Amar é..."
 date: 2017-07-07T14:53:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheRw2v_Dj6iKrmQ01QdCXGBXzZKiXL9c5_2_9D1exDqzanNxiahvR-UgDl58QVV0dy4F3txtDvgQJlqjguz2zGSXJ56hNd3xah6YZ4XeSVkg6PCwPEbj7pPJR290O2xu_JRdwQwfNCh9k/s320/amare0.png"
+heroImage: "/images/amare0.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheRw2v_Dj6iKrmQ01QdCXGBXzZKiXL9c5_2_9D1exDqzanNxiahvR-UgDl58QVV0dy4F3txtDvgQJlqjguz2zGSXJ56hNd3xah6YZ4XeSVkg6PCwPEbj7pPJR290O2xu_JRdwQwfNCh9k/s1600/amare0.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="316" data-original-width="239" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheRw2v_Dj6iKrmQ01QdCXGBXzZKiXL9c5_2_9D1exDqzanNxiahvR-UgDl58QVV0dy4F3txtDvgQJlqjguz2zGSXJ56hNd3xah6YZ4XeSVkg6PCwPEbj7pPJR290O2xu_JRdwQwfNCh9k/s320/amare0.png" width="242" /></a></div>

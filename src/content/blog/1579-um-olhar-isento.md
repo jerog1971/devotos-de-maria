@@ -1,7 +1,7 @@
 ---
 title: "Um Olhar Isento"
 date: 2017-07-24T13:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9zKgOmtZVMFA9j6JxLpixAQJXt4hjRJmjfxinBU-CXIA7pAwhLGSOEXB2ZsFU2rPyqRNoL1XJ0FnQtK_e0nVu51drCzJX3MDMlPwHDp3UImAIN1pdv4tqvMnYiz2w5GW7j4LAFQi8N2c/s320/olhar.png"
+heroImage: "/images/olhar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9zKgOmtZVMFA9j6JxLpixAQJXt4hjRJmjfxinBU-CXIA7pAwhLGSOEXB2ZsFU2rPyqRNoL1XJ0FnQtK_e0nVu51drCzJX3MDMlPwHDp3UImAIN1pdv4tqvMnYiz2w5GW7j4LAFQi8N2c/s1600/olhar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9zKgOmtZVMFA9j6JxLpixAQJXt4hjRJmjfxinBU-CXIA7pAwhLGSOEXB2ZsFU2rPyqRNoL1XJ0FnQtK_e0nVu51drCzJX3MDMlPwHDp3UImAIN1pdv4tqvMnYiz2w5GW7j4LAFQi8N2c/s320/olhar.png" width="320" height="309" data-original-width="425" data-original-height="410" /></a></div>

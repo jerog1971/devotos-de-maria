@@ -1,7 +1,7 @@
 ---
 title: "O temor das coisas ruins"
 date: 2022-04-18T15:10:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEganJyLPMucjF-FQpudf5gHqyiWIR2_6C9l1Hik8EcpRIGZyPAvu5uCEaQKeafoKha_kEjbgZSPemPctbur99nU8op1zNkCdogumBOXpNBCmOR2J-74F8afMDaoE12v_3Xo6D12BaV8jb_P0y-SVZT4PVSLk0ub3EdiCF6j4hPKh8GBygo_qojbqMPA/s320/o%20temor%20das%20coisas%20ruins.png"
+heroImage: "/images/o temor das coisas ruins.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEganJyLPMucjF-FQpudf5gHqyiWIR2_6C9l1Hik8EcpRIGZyPAvu5uCEaQKeafoKha_kEjbgZSPemPctbur99nU8op1zNkCdogumBOXpNBCmOR2J-74F8afMDaoE12v_3Xo6D12BaV8jb_P0y-SVZT4PVSLk0ub3EdiCF6j4hPKh8GBygo_qojbqMPA/s602/o%20temor%20das%20coisas%20ruins.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="602" data-original-width="570" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEganJyLPMucjF-FQpudf5gHqyiWIR2_6C9l1Hik8EcpRIGZyPAvu5uCEaQKeafoKha_kEjbgZSPemPctbur99nU8op1zNkCdogumBOXpNBCmOR2J-74F8afMDaoE12v_3Xo6D12BaV8jb_P0y-SVZT4PVSLk0ub3EdiCF6j4hPKh8GBygo_qojbqMPA/s320/o%20temor%20das%20coisas%20ruins.png" width="303" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente o ser humano teme por si e por aqueles que ama. Não

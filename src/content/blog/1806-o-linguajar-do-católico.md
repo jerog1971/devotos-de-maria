@@ -1,7 +1,7 @@
 ---
 title: "O linguajar do católico"
 date: 2018-04-23T20:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9e-pV6p44eBGu4Tm0jzEGzqsJqYwLcK54ExIDnDULF4McEtuDsWpPHyYb2gq8sKwe8P80arYrq4vT_giZLJNpZSrZTq3jOYDiW5zAVwbKjcbWxli6uQ37TA0Qb9ZOwrVYWQRiKEDjlVw/s320/linguajar.png"
+heroImage: "/images/linguajar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9e-pV6p44eBGu4Tm0jzEGzqsJqYwLcK54ExIDnDULF4McEtuDsWpPHyYb2gq8sKwe8P80arYrq4vT_giZLJNpZSrZTq3jOYDiW5zAVwbKjcbWxli6uQ37TA0Qb9ZOwrVYWQRiKEDjlVw/s1600/linguajar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9e-pV6p44eBGu4Tm0jzEGzqsJqYwLcK54ExIDnDULF4McEtuDsWpPHyYb2gq8sKwe8P80arYrq4vT_giZLJNpZSrZTq3jOYDiW5zAVwbKjcbWxli6uQ37TA0Qb9ZOwrVYWQRiKEDjlVw/s320/linguajar.png" width="298" height="320" data-original-width="148" data-original-height="159" /></a></div>

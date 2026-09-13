@@ -1,7 +1,7 @@
 ---
 title: "O egoísmo nos faz reclamar"
 date: 2016-06-21T12:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iw4He65ekagI3dsEQH2LfUp65jko0luAs319EkmGPDqGkfF37OtRwmp3gELYAf46-eJOVgPsPC8waiGFrpOs_ouTfBY20JV7cf3z54Z3MXyV0dEiSWVpkPBlM_S-cqXUvtyqRhMqobw/s320/frio.png"
+heroImage: "/images/frio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iw4He65ekagI3dsEQH2LfUp65jko0luAs319EkmGPDqGkfF37OtRwmp3gELYAf46-eJOVgPsPC8waiGFrpOs_ouTfBY20JV7cf3z54Z3MXyV0dEiSWVpkPBlM_S-cqXUvtyqRhMqobw/s1600/frio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iw4He65ekagI3dsEQH2LfUp65jko0luAs319EkmGPDqGkfF37OtRwmp3gELYAf46-eJOVgPsPC8waiGFrpOs_ouTfBY20JV7cf3z54Z3MXyV0dEiSWVpkPBlM_S-cqXUvtyqRhMqobw/s320/frio.png" width="320" height="211" data-original-width="787" data-original-height="520" /></a></div>

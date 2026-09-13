@@ -1,7 +1,7 @@
 ---
 title: "Palmas na Santa Missa NÃO!"
 date: 2016-05-02T18:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhh4J943F-q5qfn4FFdZXmQnuwFMkkoHUYVsrWLmMPT1PgPZCjzp1GdVJ5RpsF3Ao1X9ff9UK2rx_eBFJBOK5YSb_kuKhzOsWgQ0sIs-kwnyymNKdWNt10NjLMyYrixhkNvfx-YIESfo/s320/palmas.png"
+heroImage: "/images/palmas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhh4J943F-q5qfn4FFdZXmQnuwFMkkoHUYVsrWLmMPT1PgPZCjzp1GdVJ5RpsF3Ao1X9ff9UK2rx_eBFJBOK5YSb_kuKhzOsWgQ0sIs-kwnyymNKdWNt10NjLMyYrixhkNvfx-YIESfo/s1600/palmas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhh4J943F-q5qfn4FFdZXmQnuwFMkkoHUYVsrWLmMPT1PgPZCjzp1GdVJ5RpsF3Ao1X9ff9UK2rx_eBFJBOK5YSb_kuKhzOsWgQ0sIs-kwnyymNKdWNt10NjLMyYrixhkNvfx-YIESfo/s320/palmas.png" width="320" height="165" data-original-width="456" data-original-height="235" /></a></div>

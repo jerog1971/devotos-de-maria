@@ -1,7 +1,7 @@
 ---
 title: "O devoto de Maria não se perde"
 date: 2020-10-20T17:00:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglE-WIHRfE300_FteYm84C-z-Ml8RJL0uiU9dd5djBchAwUrwqBRlrsksMX70wk7Q1z0PkkKwZWqakEYG3DDhaxj9bZdQ1TPPjoEM3XJd315R1hEX6ZhlByOpw3Ap35uVoCaXyrSb0nVE/s0/Virgem+Maria.png"
+heroImage: "/images/Maria.gif"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglE-WIHRfE300_FteYm84C-z-Ml8RJL0uiU9dd5djBchAwUrwqBRlrsksMX70wk7Q1z0PkkKwZWqakEYG3DDhaxj9bZdQ1TPPjoEM3XJd315R1hEX6ZhlByOpw3Ap35uVoCaXyrSb0nVE/s255/Virgem+Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="238" data-original-width="255" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglE-WIHRfE300_FteYm84C-z-Ml8RJL0uiU9dd5djBchAwUrwqBRlrsksMX70wk7Q1z0PkkKwZWqakEYG3DDhaxj9bZdQ1TPPjoEM3XJd315R1hEX6ZhlByOpw3Ap35uVoCaXyrSb0nVE/s0/Virgem+Maria.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Onde está o filho aí está sua mãe! Quem ama Maria Santíssima

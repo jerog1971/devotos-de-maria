@@ -1,7 +1,7 @@
 ---
 title: "Sedes imitadores de Cristo"
 date: 2015-09-22T14:33:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz-qmn2O1zVC_B8lNpcbX7dJGC590M5xc8jDcfxbBO2C2YxuBErhI_c1JqeBWPuWp1JPm12yNJW6PB4_4ht-6b1KKZ6zIteUAqtTBmAcQ__UJlhfxD4UM_16-vd5aFtnGGV5CYZTZmX_4/s320/imitar_jesus.png"
+heroImage: "/images/imitar_jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz-qmn2O1zVC_B8lNpcbX7dJGC590M5xc8jDcfxbBO2C2YxuBErhI_c1JqeBWPuWp1JPm12yNJW6PB4_4ht-6b1KKZ6zIteUAqtTBmAcQ__UJlhfxD4UM_16-vd5aFtnGGV5CYZTZmX_4/s1600/imitar_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz-qmn2O1zVC_B8lNpcbX7dJGC590M5xc8jDcfxbBO2C2YxuBErhI_c1JqeBWPuWp1JPm12yNJW6PB4_4ht-6b1KKZ6zIteUAqtTBmAcQ__UJlhfxD4UM_16-vd5aFtnGGV5CYZTZmX_4/s320/imitar_jesus.png" width="320" height="221" data-original-width="750" data-original-height="518" /></a></div>

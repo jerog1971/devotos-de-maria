@@ -1,7 +1,7 @@
 ---
 title: "Nossas tristezas denunciam nossas prioridades"
 date: 2019-06-10T18:45:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkQ4j2kJrHUtOjg50IyftUQ08aw3KtlpPLoMDTyaU6PDkn76gngqjc1h0bzyUzBTpuIklu2zlMQqtqbjCdMqkKQQgiYtOJpGcDvEcbgVlrGExhZhJHK_inFJjjklu6VVVQAHtz9_K5QzM/s320/tristeza.png"
+heroImage: "/images/morte alegria tristeza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkQ4j2kJrHUtOjg50IyftUQ08aw3KtlpPLoMDTyaU6PDkn76gngqjc1h0bzyUzBTpuIklu2zlMQqtqbjCdMqkKQQgiYtOJpGcDvEcbgVlrGExhZhJHK_inFJjjklu6VVVQAHtz9_K5QzM/s1600/tristeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkQ4j2kJrHUtOjg50IyftUQ08aw3KtlpPLoMDTyaU6PDkn76gngqjc1h0bzyUzBTpuIklu2zlMQqtqbjCdMqkKQQgiYtOJpGcDvEcbgVlrGExhZhJHK_inFJjjklu6VVVQAHtz9_K5QzM/s320/tristeza.png" width="320" height="283" data-original-width="559" data-original-height="494" /></a></div>

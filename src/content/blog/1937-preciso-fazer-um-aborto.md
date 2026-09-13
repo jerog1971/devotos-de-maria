@@ -1,7 +1,7 @@
 ---
 title: "Preciso fazer um aborto"
 date: 2016-08-31T19:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYE8Cqf307IuOU8KdqDgL1JVxfx9XIjq-FctpbV-Rm_hyphenhyphen0AT3DVGh9HMnvEJPtvwab6BY6AWGmmXCsiJpcUufTlNFvDhpRc-5ik2j7_Q3VsXDvfhDgqTfityB4t630ZLWtpM-MaJADh3Q/s320/aborto.png"
+heroImage: "/images/aborto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYE8Cqf307IuOU8KdqDgL1JVxfx9XIjq-FctpbV-Rm_hyphenhyphen0AT3DVGh9HMnvEJPtvwab6BY6AWGmmXCsiJpcUufTlNFvDhpRc-5ik2j7_Q3VsXDvfhDgqTfityB4t630ZLWtpM-MaJADh3Q/s1600/aborto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYE8Cqf307IuOU8KdqDgL1JVxfx9XIjq-FctpbV-Rm_hyphenhyphen0AT3DVGh9HMnvEJPtvwab6BY6AWGmmXCsiJpcUufTlNFvDhpRc-5ik2j7_Q3VsXDvfhDgqTfityB4t630ZLWtpM-MaJADh3Q/s320/aborto.png" width="320" height="255" data-original-width="443" data-original-height="353" /></a></div>

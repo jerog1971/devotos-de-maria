@@ -1,7 +1,7 @@
 ---
 title: "O anticristo agita sua cauda"
 date: 2015-12-15T11:52:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdDk39T4l2R82Bt1ZeVK1RlNSOn8QCoV3YzJqakWdCz-0nrWATHeKZS9w439FhTZB0O3ESM08qOcBJjTeczBj_p-cSBQiVOgQAmsEDOXynOWqw5OBcQ7g9-b5mCrRYKFUWtdjM6FRK-I/s320/revista_dabiq.png"
+heroImage: "/images/revista_dabiq.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdDk39T4l2R82Bt1ZeVK1RlNSOn8QCoV3YzJqakWdCz-0nrWATHeKZS9w439FhTZB0O3ESM08qOcBJjTeczBj_p-cSBQiVOgQAmsEDOXynOWqw5OBcQ7g9-b5mCrRYKFUWtdjM6FRK-I/s1600/revista_dabiq.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdDk39T4l2R82Bt1ZeVK1RlNSOn8QCoV3YzJqakWdCz-0nrWATHeKZS9w439FhTZB0O3ESM08qOcBJjTeczBj_p-cSBQiVOgQAmsEDOXynOWqw5OBcQ7g9-b5mCrRYKFUWtdjM6FRK-I/s320/revista_dabiq.png" width="239" height="320" data-original-width="330" data-original-height="442" /></a></div>

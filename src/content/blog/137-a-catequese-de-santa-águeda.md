@@ -1,7 +1,7 @@
 ---
 title: "A catequese de Santa Águeda"
 date: 2016-09-02T20:36:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghUAMKJYjG8aWhrq7gERksKLlMr5fjmV7OJYkgHAykwmfmfLf5gfVJ0nuBFzwhA6K6tn2mDKAw0wzGo2KBF4jFKPnJcO-KhL9IU3vFv4Zt2Ul7OCD3BELJn-WibIUR0EXUFhaDKhLrFJs/s320/agueda.png"
+heroImage: "/images/agueda.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghUAMKJYjG8aWhrq7gERksKLlMr5fjmV7OJYkgHAykwmfmfLf5gfVJ0nuBFzwhA6K6tn2mDKAw0wzGo2KBF4jFKPnJcO-KhL9IU3vFv4Zt2Ul7OCD3BELJn-WibIUR0EXUFhaDKhLrFJs/s1600/agueda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghUAMKJYjG8aWhrq7gERksKLlMr5fjmV7OJYkgHAykwmfmfLf5gfVJ0nuBFzwhA6K6tn2mDKAw0wzGo2KBF4jFKPnJcO-KhL9IU3vFv4Zt2Ul7OCD3BELJn-WibIUR0EXUFhaDKhLrFJs/s320/agueda.png" width="320" height="316" data-original-width="317" data-original-height="313" /></a></div>

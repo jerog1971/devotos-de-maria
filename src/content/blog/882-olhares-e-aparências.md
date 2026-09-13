@@ -1,7 +1,7 @@
 ---
 title: "Olhares e aparências"
 date: 2022-12-02T10:59:00.006Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEika13H5wv6ww-wJHe1e8YB5mc_NUQ2y1h6t_BO7y15g1uT4y4W6BkjRMeFR2rkc0TvItoTKpfb8jLYII7g8r94OQJu1KhlH2a7_fRFLCpE24OjAsHADdZlUjqsEgj1CVfkFUMDRcqq_TCU2ED7-vRYCekOThk-OWn3ZeHvVwWkCdJfAy_TC8BC6Zh0/s320/olhares%20e%20apar%C3%AAncias.png"
+heroImage: "/images/Olhar.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEika13H5wv6ww-wJHe1e8YB5mc_NUQ2y1h6t_BO7y15g1uT4y4W6BkjRMeFR2rkc0TvItoTKpfb8jLYII7g8r94OQJu1KhlH2a7_fRFLCpE24OjAsHADdZlUjqsEgj1CVfkFUMDRcqq_TCU2ED7-vRYCekOThk-OWn3ZeHvVwWkCdJfAy_TC8BC6Zh0/s548/olhares%20e%20apar%C3%AAncias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="488" data-original-width="548" height="285" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEika13H5wv6ww-wJHe1e8YB5mc_NUQ2y1h6t_BO7y15g1uT4y4W6BkjRMeFR2rkc0TvItoTKpfb8jLYII7g8r94OQJu1KhlH2a7_fRFLCpE24OjAsHADdZlUjqsEgj1CVfkFUMDRcqq_TCU2ED7-vRYCekOThk-OWn3ZeHvVwWkCdJfAy_TC8BC6Zh0/s320/olhares%20e%20apar%C3%AAncias.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certo dia, uma mãe que estava na fila da escola, esperando o

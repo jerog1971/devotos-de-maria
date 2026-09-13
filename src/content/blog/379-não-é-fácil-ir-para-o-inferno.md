@@ -1,7 +1,7 @@
 ---
 title: "Não é fácil ir para o inferno"
 date: 2016-07-18T13:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz-Nw9_4j5XZ1c7nuOzEdAMuXJDWB12Rt03C0lXnjOMqaqWuAK-4yEIFU2E7N3o8IOg0e7MSNPbbBY1USluLUgLXIE0tqLHmOmlZAMLSpEXx1xuZGluHiK9tUw6292kF8Lsbetm-PWUiY/s320/padre.png"
+heroImage: "/images/jeito_do_padre.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz-Nw9_4j5XZ1c7nuOzEdAMuXJDWB12Rt03C0lXnjOMqaqWuAK-4yEIFU2E7N3o8IOg0e7MSNPbbBY1USluLUgLXIE0tqLHmOmlZAMLSpEXx1xuZGluHiK9tUw6292kF8Lsbetm-PWUiY/s1600/padre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz-Nw9_4j5XZ1c7nuOzEdAMuXJDWB12Rt03C0lXnjOMqaqWuAK-4yEIFU2E7N3o8IOg0e7MSNPbbBY1USluLUgLXIE0tqLHmOmlZAMLSpEXx1xuZGluHiK9tUw6292kF8Lsbetm-PWUiY/s320/padre.png" width="320" height="234" data-original-width="390" data-original-height="285" /></a></div>

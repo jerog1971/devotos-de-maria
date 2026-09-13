@@ -1,7 +1,7 @@
 ---
 title: "A história de um ex-satanista"
 date: 2019-12-19T19:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlTZsl8aL3JoEumdUfuW39pCERotuRVrUoh-_BN1naf4xrMjr7ruua9Vqn689bcUI41MK4-Rryup0hvFx_osGuSqz4niVvebZDsFfURmBSmKFOwQ2wBp7wUIC2H6H8URINyfrlckWUwFg/s320/satanismo.png"
+heroImage: "/images/satanismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlTZsl8aL3JoEumdUfuW39pCERotuRVrUoh-_BN1naf4xrMjr7ruua9Vqn689bcUI41MK4-Rryup0hvFx_osGuSqz4niVvebZDsFfURmBSmKFOwQ2wBp7wUIC2H6H8URINyfrlckWUwFg/s1600/satanismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlTZsl8aL3JoEumdUfuW39pCERotuRVrUoh-_BN1naf4xrMjr7ruua9Vqn689bcUI41MK4-Rryup0hvFx_osGuSqz4niVvebZDsFfURmBSmKFOwQ2wBp7wUIC2H6H8URINyfrlckWUwFg/s320/satanismo.png" width="320" height="216" data-original-width="412" data-original-height="278" /></a></div>

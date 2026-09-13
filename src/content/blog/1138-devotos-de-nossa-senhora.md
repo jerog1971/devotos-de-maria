@@ -1,7 +1,7 @@
 ---
 title: "Devotos de Nossa Senhora"
 date: 2023-11-17T21:51:00.009Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOYEt-XnqBNkLfMijeaYE3vW6_pyHoQjtA5PVOHd2_WTT8m39OdAt9txRR5wb7zdrxI-daztHSkQKX9OMWdfdHbrYf9sU1Ty8QU6oxI5LfsPp3AzxoWJxoCxs58Lk7QR91Km6jDhMT8OVLa8OlGy8Npt_FSEcEMkcGWSeT6EQhMi8VvUZPwYM_4jTJ-0/s320/Ernany%20e%20Lauro.png"
+heroImage: "/images/Ernany e Lauro.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOYEt-XnqBNkLfMijeaYE3vW6_pyHoQjtA5PVOHd2_WTT8m39OdAt9txRR5wb7zdrxI-daztHSkQKX9OMWdfdHbrYf9sU1Ty8QU6oxI5LfsPp3AzxoWJxoCxs58Lk7QR91Km6jDhMT8OVLa8OlGy8Npt_FSEcEMkcGWSeT6EQhMi8VvUZPwYM_4jTJ-0/s362/Ernany%20e%20Lauro.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="362" height="280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOYEt-XnqBNkLfMijeaYE3vW6_pyHoQjtA5PVOHd2_WTT8m39OdAt9txRR5wb7zdrxI-daztHSkQKX9OMWdfdHbrYf9sU1Ty8QU6oxI5LfsPp3AzxoWJxoCxs58Lk7QR91Km6jDhMT8OVLa8OlGy8Npt_FSEcEMkcGWSeT6EQhMi8VvUZPwYM_4jTJ-0/s320/Ernany%20e%20Lauro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aqui neste site, dedicado a Virgem Santíssima, eu não

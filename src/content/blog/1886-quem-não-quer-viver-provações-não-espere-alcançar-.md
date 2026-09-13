@@ -1,7 +1,7 @@
 ---
 title: "Quem não quer viver provações, não espere alcançar o céu"
 date: 2020-09-17T13:44:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE0RqB-7hZsPsYRhgBtN9ubGHNdkc4z_DgCzb4hxv5f-dZyXCA78j81u3JMgM-A6DGafHnHanb9_kiqtaH2iHq14fyeG7LBQj1Audxys1vmytVwjq2RxaceoR9KTWd2RBwsRIeBT3MYUU/w320-h311/cansado.png"
+heroImage: "/images/cansado.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE0RqB-7hZsPsYRhgBtN9ubGHNdkc4z_DgCzb4hxv5f-dZyXCA78j81u3JMgM-A6DGafHnHanb9_kiqtaH2iHq14fyeG7LBQj1Audxys1vmytVwjq2RxaceoR9KTWd2RBwsRIeBT3MYUU/s172/cansado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="167" data-original-width="172" height="311" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE0RqB-7hZsPsYRhgBtN9ubGHNdkc4z_DgCzb4hxv5f-dZyXCA78j81u3JMgM-A6DGafHnHanb9_kiqtaH2iHq14fyeG7LBQj1Audxys1vmytVwjq2RxaceoR9KTWd2RBwsRIeBT3MYUU/w320-h311/cansado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Realmente a reflexão do artigo é bem pertinente. A vida

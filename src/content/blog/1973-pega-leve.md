@@ -1,7 +1,7 @@
 ---
 title: "Pega leve"
 date: 2018-11-23T15:12:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyF6HGKXUTDFcSMUf4xJAt2fJ8HA53PGmKYWF7nyb9A3_Nn7KIu2fOLopRfwXyL6LOdvqJYIpdhYo632vo-2iCJOHA6-2qRsWUJ9G2xkoChguNwnWl4C8JLdYkNmwOQiahqasYjfLQ5Q/s320/pega_leve.png"
+heroImage: "/images/pega_leve.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyF6HGKXUTDFcSMUf4xJAt2fJ8HA53PGmKYWF7nyb9A3_Nn7KIu2fOLopRfwXyL6LOdvqJYIpdhYo632vo-2iCJOHA6-2qRsWUJ9G2xkoChguNwnWl4C8JLdYkNmwOQiahqasYjfLQ5Q/s1600/pega_leve.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyF6HGKXUTDFcSMUf4xJAt2fJ8HA53PGmKYWF7nyb9A3_Nn7KIu2fOLopRfwXyL6LOdvqJYIpdhYo632vo-2iCJOHA6-2qRsWUJ9G2xkoChguNwnWl4C8JLdYkNmwOQiahqasYjfLQ5Q/s320/pega_leve.png" width="320" height="318" data-original-width="345" data-original-height="343" /></a></div>

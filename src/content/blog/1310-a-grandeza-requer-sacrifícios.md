@@ -1,7 +1,7 @@
 ---
 title: "A grandeza requer sacrifícios"
 date: 2022-02-14T16:38:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEgj6eCT6L5hCJHmCdH3meDvUBx2SR4jBVvGDHQsuezxy_Bc0LEe9feZz2ZKbor2J19sLVwcNJiWuFAJcDS1Ovupxl_uiShXfXspmg2TFN8F--6SFWCRb3RIBvVu-33ktdVokbSYDM6lLBD2hACZPMSjv0XXnoJkklCBX_gY1Io_fTkTuXwL2ypnFX21"
+heroImage: "/images/21.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgj6eCT6L5hCJHmCdH3meDvUBx2SR4jBVvGDHQsuezxy_Bc0LEe9feZz2ZKbor2J19sLVwcNJiWuFAJcDS1Ovupxl_uiShXfXspmg2TFN8F--6SFWCRb3RIBvVu-33ktdVokbSYDM6lLBD2hACZPMSjv0XXnoJkklCBX_gY1Io_fTkTuXwL2ypnFX21=s253" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="232" data-original-width="253" height="232" src="https://blogger.googleusercontent.com/img/a/AVvXsEgj6eCT6L5hCJHmCdH3meDvUBx2SR4jBVvGDHQsuezxy_Bc0LEe9feZz2ZKbor2J19sLVwcNJiWuFAJcDS1Ovupxl_uiShXfXspmg2TFN8F--6SFWCRb3RIBvVu-33ktdVokbSYDM6lLBD2hACZPMSjv0XXnoJkklCBX_gY1Io_fTkTuXwL2ypnFX21" width="253" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabe-se pelas sagradas escrituras que o céu é uma nação de

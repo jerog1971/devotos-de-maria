@@ -1,7 +1,7 @@
 ---
 title: "As modas e a Igreja"
 date: 2017-05-30T19:23:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_3H1rTxDA2PbNIk7q5kepwDK6oaW0cPqJ_u78GDl8ldcJ7dSXE3Ei4_eWDy0XGLzQGKFMtFYY0ZqJWt9iKZCn1oSJZhSKdTPeTINFuIeUwsy2PMWQMKViG11UzDa2N3K0ib4TFLw3pbw/s320/amostra.png"
+heroImage: "/images/amostra.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_3H1rTxDA2PbNIk7q5kepwDK6oaW0cPqJ_u78GDl8ldcJ7dSXE3Ei4_eWDy0XGLzQGKFMtFYY0ZqJWt9iKZCn1oSJZhSKdTPeTINFuIeUwsy2PMWQMKViG11UzDa2N3K0ib4TFLw3pbw/s1600/amostra.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="402" height="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_3H1rTxDA2PbNIk7q5kepwDK6oaW0cPqJ_u78GDl8ldcJ7dSXE3Ei4_eWDy0XGLzQGKFMtFYY0ZqJWt9iKZCn1oSJZhSKdTPeTINFuIeUwsy2PMWQMKViG11UzDa2N3K0ib4TFLw3pbw/s320/amostra.png" width="320" /></a></div>

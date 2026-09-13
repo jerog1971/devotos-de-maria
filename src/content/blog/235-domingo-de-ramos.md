@@ -1,7 +1,7 @@
 ---
 title: "Domingo de Ramos"
 date: 2016-03-21T13:46:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_3rN2ztM1BYH1mhgkCSlRiuBoa_zLWHCSMDC5ITOpdHIlZZCHG2hUKAL3sxajLSdNqVfEmg4DQTK-n2MpX18jrppYCB_OikAQCyAaDFTf8HNylLIbDmcBqdVcfODkrsKurHEi8WRdM-o/s320/domingo_de_ramos.png"
+heroImage: "/images/domingo_de_ramos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_3rN2ztM1BYH1mhgkCSlRiuBoa_zLWHCSMDC5ITOpdHIlZZCHG2hUKAL3sxajLSdNqVfEmg4DQTK-n2MpX18jrppYCB_OikAQCyAaDFTf8HNylLIbDmcBqdVcfODkrsKurHEi8WRdM-o/s1600/domingo_de_ramos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_3rN2ztM1BYH1mhgkCSlRiuBoa_zLWHCSMDC5ITOpdHIlZZCHG2hUKAL3sxajLSdNqVfEmg4DQTK-n2MpX18jrppYCB_OikAQCyAaDFTf8HNylLIbDmcBqdVcfODkrsKurHEi8WRdM-o/s320/domingo_de_ramos.png" width="320" height="218" data-original-width="560" data-original-height="381" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Cuidado"
 date: 2019-02-07T18:51:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiktwn87Ouw4Mzy_0u90QtHV_IeucFK5_KMz5_zJAKQTVhi4VjpUIvZx8vJuv8zAWgm3LfdvJJEKchMmv44WiqKlCxwihOhaC2PkbldAvkdMbUyaDxRl6EHj7288tLeMEFHWrdVKeUjjXw/s320/cuidado.png"
+heroImage: "/images/cuidado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiktwn87Ouw4Mzy_0u90QtHV_IeucFK5_KMz5_zJAKQTVhi4VjpUIvZx8vJuv8zAWgm3LfdvJJEKchMmv44WiqKlCxwihOhaC2PkbldAvkdMbUyaDxRl6EHj7288tLeMEFHWrdVKeUjjXw/s1600/cuidado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiktwn87Ouw4Mzy_0u90QtHV_IeucFK5_KMz5_zJAKQTVhi4VjpUIvZx8vJuv8zAWgm3LfdvJJEKchMmv44WiqKlCxwihOhaC2PkbldAvkdMbUyaDxRl6EHj7288tLeMEFHWrdVKeUjjXw/s320/cuidado.png" width="320" height="298" data-original-width="416" data-original-height="387" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Palavras de Nossa Senhora"
 date: 2018-12-17T16:12:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRIqrAulNpxYEypXSS5gesGrtZIjM_Q3519ixyJV_oKc8PcD6CSHtg4wyZiw47Zm-t24o8pqaCVG86-GaYArH4XRp1r6yySNs1G2oeqOwmJPj0bSdWZxCb-mRqvvpO16bqcRnGFBAD2I/s320/vidente_medjurgorje.png"
+heroImage: "/images/vidente_medjurgorje.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRIqrAulNpxYEypXSS5gesGrtZIjM_Q3519ixyJV_oKc8PcD6CSHtg4wyZiw47Zm-t24o8pqaCVG86-GaYArH4XRp1r6yySNs1G2oeqOwmJPj0bSdWZxCb-mRqvvpO16bqcRnGFBAD2I/s1600/vidente_medjurgorje.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="322" data-original-width="343" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRIqrAulNpxYEypXSS5gesGrtZIjM_Q3519ixyJV_oKc8PcD6CSHtg4wyZiw47Zm-t24o8pqaCVG86-GaYArH4XRp1r6yySNs1G2oeqOwmJPj0bSdWZxCb-mRqvvpO16bqcRnGFBAD2I/s320/vidente_medjurgorje.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Caros leitores, segue uma transcrição adaptada por este site, de uma palestra que um dos videntes de Medjugorje deu em 2015. Segue um resumo feito por mim dos principais trechos da mesma; palestra esta colhida no Portal Medjugorje Brasil.

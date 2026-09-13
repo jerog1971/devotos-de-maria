@@ -1,7 +1,7 @@
 ---
 title: "Aconteceu em 2013"
 date: 2016-02-25T12:03:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnax1Y9BH_47yN_fDtlmRSv0p9NixHZhack16GuF0vCsnyhfikMOft0x5yFtbfXkhrIMa6qJFWP4ozUKoC0cECs34lX0ZxAwRPiFoek3ATJviR4Rw2bfh6tDnUODYmT2LGs_DM6soey3w/s320/marisa_formolo.png"
+heroImage: "/images/marisa_formolo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnax1Y9BH_47yN_fDtlmRSv0p9NixHZhack16GuF0vCsnyhfikMOft0x5yFtbfXkhrIMa6qJFWP4ozUKoC0cECs34lX0ZxAwRPiFoek3ATJviR4Rw2bfh6tDnUODYmT2LGs_DM6soey3w/s1600/marisa_formolo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnax1Y9BH_47yN_fDtlmRSv0p9NixHZhack16GuF0vCsnyhfikMOft0x5yFtbfXkhrIMa6qJFWP4ozUKoC0cECs34lX0ZxAwRPiFoek3ATJviR4Rw2bfh6tDnUODYmT2LGs_DM6soey3w/s320/marisa_formolo.png" width="320" height="297" data-original-width="537" data-original-height="499" /></a></div>

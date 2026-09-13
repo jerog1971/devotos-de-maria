@@ -1,7 +1,7 @@
 ---
 title: "Duelos entre o bem e o mal"
 date: 2026-05-04T13:37:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDrAPHzSp6QXjWaoJslZ3CinsZIFXSntnwp0e3HekMaYHuP5JEOxdVXJMYi5JVMeeSe_n13y3pgrjFZ9QllKrE6ic7h8PDSLAvMOAv0DWzm5tzP4OS9Q2Yyqd3ls4aYOiBkV-xu4xnIhqP-YPXmYtDyYYuzaTpAzdT4q2lGrBsyMH3YWAMFHJpYhooYi4/s320/protesto%20cat%C3%B3lico.png"
+heroImage: "/images/protesto católico.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDrAPHzSp6QXjWaoJslZ3CinsZIFXSntnwp0e3HekMaYHuP5JEOxdVXJMYi5JVMeeSe_n13y3pgrjFZ9QllKrE6ic7h8PDSLAvMOAv0DWzm5tzP4OS9Q2Yyqd3ls4aYOiBkV-xu4xnIhqP-YPXmYtDyYYuzaTpAzdT4q2lGrBsyMH3YWAMFHJpYhooYi4/s667/protesto%20cat%C3%B3lico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="441" data-original-width="667" height="212" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDrAPHzSp6QXjWaoJslZ3CinsZIFXSntnwp0e3HekMaYHuP5JEOxdVXJMYi5JVMeeSe_n13y3pgrjFZ9QllKrE6ic7h8PDSLAvMOAv0DWzm5tzP4OS9Q2Yyqd3ls4aYOiBkV-xu4xnIhqP-YPXmYtDyYYuzaTpAzdT4q2lGrBsyMH3YWAMFHJpYhooYi4/s320/protesto%20cat%C3%B3lico.png" width="320" /></a></div><br />&nbsp;<p></p><p>Como sempre, desde que a humanidade existe, o confronto acontece em todas as partes e com todas as pessoas. Sempre, ou aqui ou ali, os seguidores dos dois lados precisam defender aquilo que acreditam e combater contra o que não querem para si. Recentemente, outro episódio desta natureza ocorreu nos Estados Unidos:</p><p><span style="font-weight: 400;">Em 1 de maio, dezenas de demônios desceram sobre Baltimore, Maryland.</span></p>

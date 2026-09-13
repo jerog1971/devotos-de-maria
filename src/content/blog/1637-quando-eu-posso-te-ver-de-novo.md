@@ -1,7 +1,7 @@
 ---
 title: "Quando eu posso te ver de novo?"
 date: 2017-03-01T20:57:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbZqlfQAY-f_XmWlQ92nJ7VNCIrGjsLcRvYXrOJZX5Ttj8Y9S4iGujV0WfR77tovMsKAEJe0AN0-ilQ6ehKd2w6_6R_yw4Vk-VOfdfptVFAqAX-46bYUhi3QfqRz3unMnVxIjMU9J2dg/s320/Yasmin-shopping.png"
+heroImage: "/images/Yasmin-shopping.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbZqlfQAY-f_XmWlQ92nJ7VNCIrGjsLcRvYXrOJZX5Ttj8Y9S4iGujV0WfR77tovMsKAEJe0AN0-ilQ6ehKd2w6_6R_yw4Vk-VOfdfptVFAqAX-46bYUhi3QfqRz3unMnVxIjMU9J2dg/s1600/Yasmin-shopping.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbZqlfQAY-f_XmWlQ92nJ7VNCIrGjsLcRvYXrOJZX5Ttj8Y9S4iGujV0WfR77tovMsKAEJe0AN0-ilQ6ehKd2w6_6R_yw4Vk-VOfdfptVFAqAX-46bYUhi3QfqRz3unMnVxIjMU9J2dg/s320/Yasmin-shopping.png" width="320" height="315" data-original-width="317" data-original-height="312" /></a></div>

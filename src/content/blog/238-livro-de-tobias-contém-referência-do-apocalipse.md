@@ -1,7 +1,7 @@
 ---
 title: "Livro de Tobias contém referência do Apocalipse"
 date: 2016-08-10T12:27:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8ne6-4e-ncvuVbktVs-PZsrOd5RD-mH6-upJTG-d7m-AxXqzuDMBcx7DgVjJuQ_ggbPycdL8eW2JAhiMwx3YlBM8M4HyypT_sQQInNzA7PY6kSlvlQRlv7j89Kp5Rruc1Fde8TRR_6o/s320/tobias.png"
+heroImage: "/images/tobias.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8ne6-4e-ncvuVbktVs-PZsrOd5RD-mH6-upJTG-d7m-AxXqzuDMBcx7DgVjJuQ_ggbPycdL8eW2JAhiMwx3YlBM8M4HyypT_sQQInNzA7PY6kSlvlQRlv7j89Kp5Rruc1Fde8TRR_6o/s1600/tobias.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8ne6-4e-ncvuVbktVs-PZsrOd5RD-mH6-upJTG-d7m-AxXqzuDMBcx7DgVjJuQ_ggbPycdL8eW2JAhiMwx3YlBM8M4HyypT_sQQInNzA7PY6kSlvlQRlv7j89Kp5Rruc1Fde8TRR_6o/s320/tobias.png" width="320" height="235" data-original-width="693" data-original-height="510" /></a></div>

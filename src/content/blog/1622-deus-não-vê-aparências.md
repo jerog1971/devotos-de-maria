@@ -1,7 +1,7 @@
 ---
 title: "Deus não vê aparências"
 date: 2020-07-30T23:11:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVs0ZxK1p3reuesKMrGk15dplWQ1lzHoFZ5GsYJzWCs8lm1mwSGw-dZiMD2p_HeSS2Ky_dB61c8xoMZvbo4PlCPvHHvhu1GNtk7Ei3xT_Q_dCYP8jpVBXU-ohC9IQnVYhb_-OQHXyhxPc/s320/Seu_outro_lado.jpg"
+heroImage: "/images/Seu_outro_lado.jpg"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVs0ZxK1p3reuesKMrGk15dplWQ1lzHoFZ5GsYJzWCs8lm1mwSGw-dZiMD2p_HeSS2Ky_dB61c8xoMZvbo4PlCPvHHvhu1GNtk7Ei3xT_Q_dCYP8jpVBXU-ohC9IQnVYhb_-OQHXyhxPc/s640/Seu_outro_lado.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVs0ZxK1p3reuesKMrGk15dplWQ1lzHoFZ5GsYJzWCs8lm1mwSGw-dZiMD2p_HeSS2Ky_dB61c8xoMZvbo4PlCPvHHvhu1GNtk7Ei3xT_Q_dCYP8jpVBXU-ohC9IQnVYhb_-OQHXyhxPc/s320/Seu_outro_lado.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Marcos 12,14 – “Aproximaram-se dele e disseram-lhe: Mestre,

@@ -1,7 +1,7 @@
 ---
 title: "Maldito o homem que confia em outro homem"
 date: 2016-09-21T20:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE3tRK5RHkbRHhBWJg8uxpwf0FprjbrvH4CsadglLWVUeTfepYe6ibw2eFavcZI5Co328LLO19gOdli1oCp9_cGQvy0XjbkZ5YrWxG08Q0ZaAEnUnAEtlQSuvU2WC78QPzEoCAj5mIO78/s320/maldito.png"
+heroImage: "/images/maldito.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE3tRK5RHkbRHhBWJg8uxpwf0FprjbrvH4CsadglLWVUeTfepYe6ibw2eFavcZI5Co328LLO19gOdli1oCp9_cGQvy0XjbkZ5YrWxG08Q0ZaAEnUnAEtlQSuvU2WC78QPzEoCAj5mIO78/s1600/maldito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE3tRK5RHkbRHhBWJg8uxpwf0FprjbrvH4CsadglLWVUeTfepYe6ibw2eFavcZI5Co328LLO19gOdli1oCp9_cGQvy0XjbkZ5YrWxG08Q0ZaAEnUnAEtlQSuvU2WC78QPzEoCAj5mIO78/s320/maldito.png" width="320" height="282" data-original-width="234" data-original-height="206" /></a></div>

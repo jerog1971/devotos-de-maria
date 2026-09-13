@@ -1,7 +1,7 @@
 ---
 title: "Pode esperar sentado"
 date: 2017-09-18T13:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFcIygVYTEFNhuQSkmo1sgj_YOIhi6oYoW423z4YL7ctQodPQf5pl5yfFEepJo3vJpE3BHXjTPjwTDIU7IOnoRUHNtIZp5nkEqu4hwbHLz1QbGZpZKgdcCC6Z-HKEd7SbIEiMig0z-n8/s320/sentado.png"
+heroImage: "/images/sentado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFcIygVYTEFNhuQSkmo1sgj_YOIhi6oYoW423z4YL7ctQodPQf5pl5yfFEepJo3vJpE3BHXjTPjwTDIU7IOnoRUHNtIZp5nkEqu4hwbHLz1QbGZpZKgdcCC6Z-HKEd7SbIEiMig0z-n8/s1600/sentado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFcIygVYTEFNhuQSkmo1sgj_YOIhi6oYoW423z4YL7ctQodPQf5pl5yfFEepJo3vJpE3BHXjTPjwTDIU7IOnoRUHNtIZp5nkEqu4hwbHLz1QbGZpZKgdcCC6Z-HKEd7SbIEiMig0z-n8/s320/sentado.png" width="320" height="320" data-original-width="168" data-original-height="168" /></a></div>

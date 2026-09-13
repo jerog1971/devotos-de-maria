@@ -1,7 +1,7 @@
 ---
 title: "A diversidade é contra Jesus"
 date: 2019-05-15T19:21:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhfdPak_uynb34gIDpCZexxX_nOG5ZkY69PFmzc-m1dNyJpzsMCIj5j0GQUCvZEpV92YVLVrOUAwf4vxRWYhzSqILVC-PeE_Gc9vCvzzVxW6TjC3m-W0noljtMVsHJzam0JD80ScKXBI/s320/LGBT.png"
+heroImage: "/images/LGBT.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhfdPak_uynb34gIDpCZexxX_nOG5ZkY69PFmzc-m1dNyJpzsMCIj5j0GQUCvZEpV92YVLVrOUAwf4vxRWYhzSqILVC-PeE_Gc9vCvzzVxW6TjC3m-W0noljtMVsHJzam0JD80ScKXBI/s1600/LGBT.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="388" height="224" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhfdPak_uynb34gIDpCZexxX_nOG5ZkY69PFmzc-m1dNyJpzsMCIj5j0GQUCvZEpV92YVLVrOUAwf4vxRWYhzSqILVC-PeE_Gc9vCvzzVxW6TjC3m-W0noljtMVsHJzam0JD80ScKXBI/s320/LGBT.png" width="320" /></a></div>

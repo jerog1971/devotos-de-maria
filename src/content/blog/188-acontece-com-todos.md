@@ -1,7 +1,7 @@
 ---
 title: "Acontece com todos"
 date: 2017-08-03T14:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_GzLweRRMI4b4qeDPubGIWotse5q1sjVczNiSD7kPDtg7lw0vDsu2rLJ6gXigzMj4Y4hcDpSeAvhMRCSMSohQRP_qDhM1G_SAbDsoNi4eQStLwG9bWAwmnmL5Txl17i-VlZXOcLqHfjg/s320/morrer.png"
+heroImage: "/images/morrer.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_GzLweRRMI4b4qeDPubGIWotse5q1sjVczNiSD7kPDtg7lw0vDsu2rLJ6gXigzMj4Y4hcDpSeAvhMRCSMSohQRP_qDhM1G_SAbDsoNi4eQStLwG9bWAwmnmL5Txl17i-VlZXOcLqHfjg/s1600/morrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_GzLweRRMI4b4qeDPubGIWotse5q1sjVczNiSD7kPDtg7lw0vDsu2rLJ6gXigzMj4Y4hcDpSeAvhMRCSMSohQRP_qDhM1G_SAbDsoNi4eQStLwG9bWAwmnmL5Txl17i-VlZXOcLqHfjg/s320/morrer.png" width="320" height="297" data-original-width="308" data-original-height="286" /></a></div>

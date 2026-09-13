@@ -1,7 +1,7 @@
 ---
 title: "Missas e Eucaristia"
 date: 2020-05-11T13:50:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOZLE5l8_iTAnGtKiK5ie1iTNpe9GhHjxeuD58l94p01XuAj8LT4GnlPFZ4wSDahAyUsfnEpS1LbBieQ9ZpJJggauWby5VFsOMhE916mVSZfDuknWKo9FVSRjtZU65bJYu02wP0ZBUwoM/s320/missa_campal_medjugorje.png"
+heroImage: "/images/missa_campal_medjugorje.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOZLE5l8_iTAnGtKiK5ie1iTNpe9GhHjxeuD58l94p01XuAj8LT4GnlPFZ4wSDahAyUsfnEpS1LbBieQ9ZpJJggauWby5VFsOMhE916mVSZfDuknWKo9FVSRjtZU65bJYu02wP0ZBUwoM/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="498" data-original-width="565" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOZLE5l8_iTAnGtKiK5ie1iTNpe9GhHjxeuD58l94p01XuAj8LT4GnlPFZ4wSDahAyUsfnEpS1LbBieQ9ZpJJggauWby5VFsOMhE916mVSZfDuknWKo9FVSRjtZU65bJYu02wP0ZBUwoM/s320/missa_campal_medjugorje.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em vários lugares do mundo, apesar da pandemia, as

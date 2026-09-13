@@ -1,7 +1,7 @@
 ---
 title: "Separações temporárias"
 date: 2023-12-19T01:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX3lLLC5nT87gNzUxrI_LEb3ib0zfL7t5Oup62eCuZBOBmfWws_z7hMYEWoJJA2t9pO4J2Ir8F6Qc0_A3Wr5bR2NJoLWM2L0plFQo8HCuvmWDR1hxIRJKjGXsW9_nf4dyYmutVVVDOVlLrsPKFs-fgjLC-2M9QJnlNjWBBiDqWcO1SwdhP_-aZTDN-wXE/s320/dia%20do%20casamento.jpg"
+heroImage: "/images/casamento.png"
 ---
 
 <p>&nbsp;</p><p class="MsoNormal"></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX3lLLC5nT87gNzUxrI_LEb3ib0zfL7t5Oup62eCuZBOBmfWws_z7hMYEWoJJA2t9pO4J2Ir8F6Qc0_A3Wr5bR2NJoLWM2L0plFQo8HCuvmWDR1hxIRJKjGXsW9_nf4dyYmutVVVDOVlLrsPKFs-fgjLC-2M9QJnlNjWBBiDqWcO1SwdhP_-aZTDN-wXE/s3264/dia%20do%20casamento.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3264" data-original-width="2448" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX3lLLC5nT87gNzUxrI_LEb3ib0zfL7t5Oup62eCuZBOBmfWws_z7hMYEWoJJA2t9pO4J2Ir8F6Qc0_A3Wr5bR2NJoLWM2L0plFQo8HCuvmWDR1hxIRJKjGXsW9_nf4dyYmutVVVDOVlLrsPKFs-fgjLC-2M9QJnlNjWBBiDqWcO1SwdhP_-aZTDN-wXE/s320/dia%20do%20casamento.jpg" width="240" /></a></div><br />Assim nos garantiu Jesus Cristo; que viveremos para sempre

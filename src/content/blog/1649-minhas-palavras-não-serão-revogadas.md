@@ -1,7 +1,7 @@
 ---
 title: "Minhas palavras não serão revogadas"
 date: 2016-02-01T13:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_dfRUo5E41v1hV_qr68cM4YYQm3bT-rk_Bzcc-TUXmT3n81GEyPkRnFWG9yCWqXP4o05LmtKgWAbC41nFgeX5s_oFEDWCAcykP0Hr-I43_yHJLO9BWoCjSboDEW5GvCO7dRJCjGXC6I/s320/entrada.png"
+heroImage: "/images/entrada.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_dfRUo5E41v1hV_qr68cM4YYQm3bT-rk_Bzcc-TUXmT3n81GEyPkRnFWG9yCWqXP4o05LmtKgWAbC41nFgeX5s_oFEDWCAcykP0Hr-I43_yHJLO9BWoCjSboDEW5GvCO7dRJCjGXC6I/s1600/entrada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_dfRUo5E41v1hV_qr68cM4YYQm3bT-rk_Bzcc-TUXmT3n81GEyPkRnFWG9yCWqXP4o05LmtKgWAbC41nFgeX5s_oFEDWCAcykP0Hr-I43_yHJLO9BWoCjSboDEW5GvCO7dRJCjGXC6I/s320/entrada.png" width="320" height="306" data-original-width="398" data-original-height="381" /></a></div>

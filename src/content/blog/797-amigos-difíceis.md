@@ -1,7 +1,7 @@
 ---
 title: "Amigos difíceis"
 date: 2024-04-29T17:13:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS278H0y0l8Ze-MJLL_3G3JE1YR4PKY9V9oxeUt0qxfjXmdCiNG24eWKJSL9N9_W-d3yCeb-LhuoLiZugPNtQZzveg8d-IlB5NToByxCdwmteb22khgToRGLUYUxfCbhcectKEPDXjsnTn8p2V21SRyCdyw7Ezm-rCyU1eJUG32e0VxMhfttvavVkGt7k/s320/Amigos%20dif%C3%ADceis.jpg"
+heroImage: "/images/Amigos difíceis 2.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS278H0y0l8Ze-MJLL_3G3JE1YR4PKY9V9oxeUt0qxfjXmdCiNG24eWKJSL9N9_W-d3yCeb-LhuoLiZugPNtQZzveg8d-IlB5NToByxCdwmteb22khgToRGLUYUxfCbhcectKEPDXjsnTn8p2V21SRyCdyw7Ezm-rCyU1eJUG32e0VxMhfttvavVkGt7k/s1600/Amigos%20dif%C3%ADceis.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="948" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS278H0y0l8Ze-MJLL_3G3JE1YR4PKY9V9oxeUt0qxfjXmdCiNG24eWKJSL9N9_W-d3yCeb-LhuoLiZugPNtQZzveg8d-IlB5NToByxCdwmteb22khgToRGLUYUxfCbhcectKEPDXjsnTn8p2V21SRyCdyw7Ezm-rCyU1eJUG32e0VxMhfttvavVkGt7k/s320/Amigos%20dif%C3%ADceis.jpg" width="190" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ditados populares sobre amigos e amizades existem aos

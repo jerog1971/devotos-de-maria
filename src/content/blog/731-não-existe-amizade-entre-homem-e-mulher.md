@@ -1,7 +1,7 @@
 ---
 title: "Não existe amizade entre homem e mulher"
 date: 2017-07-11T19:08:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii5H_RzGbo_Q-uogz7vV5BSX1uW2wzcOULnVI57C_I1i32Jpn71Jhp1CGfayBKmaTYXw2lq7XMAdhB5IvZN2bOUYbrU5ymkNmyM1Q0h5nTAhdOWdUCj7s9OCVq8jktZdphPB5Gel2sM_I/s320/amizades.png"
+heroImage: "/images/amizades.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii5H_RzGbo_Q-uogz7vV5BSX1uW2wzcOULnVI57C_I1i32Jpn71Jhp1CGfayBKmaTYXw2lq7XMAdhB5IvZN2bOUYbrU5ymkNmyM1Q0h5nTAhdOWdUCj7s9OCVq8jktZdphPB5Gel2sM_I/s1600/amizades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii5H_RzGbo_Q-uogz7vV5BSX1uW2wzcOULnVI57C_I1i32Jpn71Jhp1CGfayBKmaTYXw2lq7XMAdhB5IvZN2bOUYbrU5ymkNmyM1Q0h5nTAhdOWdUCj7s9OCVq8jktZdphPB5Gel2sM_I/s320/amizades.png" width="320" height="280" data-original-width="498" data-original-height="435" /></a></div>

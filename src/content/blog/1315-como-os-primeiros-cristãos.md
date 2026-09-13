@@ -1,7 +1,7 @@
 ---
 title: "Como os primeiros cristãos"
 date: 2016-07-20T11:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8Fy7cjHHQDNdd3g4NMjpChWm80wNbizuyKMSQP8ltZixzDpVLyIv-1chKVMjzkxeIuw76woaUHcAg5CGQ7sWXSPCcZTFuBL5UOOCOoyJHNAfXZEsVwngNHS9-fHkQjCgsOWLejP2Ab0/s320/primeiros_cristaos.png"
+heroImage: "/images/primeiros_cristaos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8Fy7cjHHQDNdd3g4NMjpChWm80wNbizuyKMSQP8ltZixzDpVLyIv-1chKVMjzkxeIuw76woaUHcAg5CGQ7sWXSPCcZTFuBL5UOOCOoyJHNAfXZEsVwngNHS9-fHkQjCgsOWLejP2Ab0/s1600/primeiros_cristaos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8Fy7cjHHQDNdd3g4NMjpChWm80wNbizuyKMSQP8ltZixzDpVLyIv-1chKVMjzkxeIuw76woaUHcAg5CGQ7sWXSPCcZTFuBL5UOOCOoyJHNAfXZEsVwngNHS9-fHkQjCgsOWLejP2Ab0/s320/primeiros_cristaos.png" width="234" height="320" data-original-width="200" data-original-height="273" /></a></div>

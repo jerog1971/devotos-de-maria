@@ -1,7 +1,7 @@
 ---
 title: "A saga de um personagem"
 date: 2019-05-15T15:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8gkXKcItjCffeJ77aVBxlgWeG3nRjVGSqoWXOZpjAIy9MyI3gOqN9DBvpNskmPhtnf9i9T-caQKuaRwlgfCSTSnTdeZt1dD4YElDQ4TzrMZB0F5gLZjY-m3kinbWCmAMLzJXZlkSyVVk/s320/Rambo+V.png"
+heroImage: "/images/rambo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8gkXKcItjCffeJ77aVBxlgWeG3nRjVGSqoWXOZpjAIy9MyI3gOqN9DBvpNskmPhtnf9i9T-caQKuaRwlgfCSTSnTdeZt1dD4YElDQ4TzrMZB0F5gLZjY-m3kinbWCmAMLzJXZlkSyVVk/s1600/Rambo+V.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8gkXKcItjCffeJ77aVBxlgWeG3nRjVGSqoWXOZpjAIy9MyI3gOqN9DBvpNskmPhtnf9i9T-caQKuaRwlgfCSTSnTdeZt1dD4YElDQ4TzrMZB0F5gLZjY-m3kinbWCmAMLzJXZlkSyVVk/s320/Rambo+V.png" width="320" height="316" data-original-width="484" data-original-height="478" /></a></div>Dentre alguns conceitos para a palavra saga o que ocorre para a maioria das pessoas quando se depara com essa expressão é a ligação que esta faz com o significado de história repleta de acontecimentos vividos por alguém. Para linhas gerais e bastante resumida partiremos desse ponto para refletirmos um pouco em relação a esse conceito de saga.</br>

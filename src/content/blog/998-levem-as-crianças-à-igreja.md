@@ -1,7 +1,7 @@
 ---
 title: "Levem as crianças à Igreja"
 date: 2020-05-10T18:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1mHU66ejY1yhDN-WAs7a3NQx1caCXXfPCVEC6OGkqAnIL7FuoPsbADJZ8QUlrxN64kR_fGQbtb8yIISJjyPz7f3B3cumvtYthji6Ti7ryMR074KIDrCFDxFErxKOps9cL_6xbazfuXtg/s320/crian%25C3%25A7as_na_missa.png"
+heroImage: "/images/missa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1mHU66ejY1yhDN-WAs7a3NQx1caCXXfPCVEC6OGkqAnIL7FuoPsbADJZ8QUlrxN64kR_fGQbtb8yIISJjyPz7f3B3cumvtYthji6Ti7ryMR074KIDrCFDxFErxKOps9cL_6xbazfuXtg/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="411" data-original-width="411" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1mHU66ejY1yhDN-WAs7a3NQx1caCXXfPCVEC6OGkqAnIL7FuoPsbADJZ8QUlrxN64kR_fGQbtb8yIISJjyPz7f3B3cumvtYthji6Ti7ryMR074KIDrCFDxFErxKOps9cL_6xbazfuXtg/s320/crian%25C3%25A7as_na_missa.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,2-6 – “Jesus chamou uma criancinha, colocou-a no

@@ -1,7 +1,7 @@
 ---
 title: "Pessoas Vazias"
 date: 2016-09-15T20:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7dBYNg6nNsWaatAt-YbhwdKwwQ59iygN5EWrqVLF9FKsx_xFbDMdgfQOe3SE_xAzXzpliqzapKJEp1u9bAWX-FioC6NPycB8tfEacGEHK6rJPty965OdzRFk4NY0K1GiqC3x1PPUXyI/s320/pessoa_vazia.png"
+heroImage: "/images/pessoa_vazia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7dBYNg6nNsWaatAt-YbhwdKwwQ59iygN5EWrqVLF9FKsx_xFbDMdgfQOe3SE_xAzXzpliqzapKJEp1u9bAWX-FioC6NPycB8tfEacGEHK6rJPty965OdzRFk4NY0K1GiqC3x1PPUXyI/s1600/pessoa_vazia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7dBYNg6nNsWaatAt-YbhwdKwwQ59iygN5EWrqVLF9FKsx_xFbDMdgfQOe3SE_xAzXzpliqzapKJEp1u9bAWX-FioC6NPycB8tfEacGEHK6rJPty965OdzRFk4NY0K1GiqC3x1PPUXyI/s320/pessoa_vazia.png" width="316" height="320" data-original-width="321" data-original-height="325" /></a></div>

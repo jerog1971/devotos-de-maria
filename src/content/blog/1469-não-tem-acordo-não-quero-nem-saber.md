@@ -1,7 +1,7 @@
 ---
 title: "Não tem acordo, não quero nem saber"
 date: 2020-02-28T18:41:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lw_IIE-qMn7_1tdNs1QAjEs8OhVOFeDzAam_8Iij8G95Fan2RrQOOpBIZd3HE8GVUOspDqhMSA98QdZrJuVItaXJMuzB20LRnfP3fIL_tDw4mIMoxWGu9n5DAgvGR1quJ8WWmUbqpbI/s320/convem.png"
+heroImage: "/images/convem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lw_IIE-qMn7_1tdNs1QAjEs8OhVOFeDzAam_8Iij8G95Fan2RrQOOpBIZd3HE8GVUOspDqhMSA98QdZrJuVItaXJMuzB20LRnfP3fIL_tDw4mIMoxWGu9n5DAgvGR1quJ8WWmUbqpbI/s1600/convem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lw_IIE-qMn7_1tdNs1QAjEs8OhVOFeDzAam_8Iij8G95Fan2RrQOOpBIZd3HE8GVUOspDqhMSA98QdZrJuVItaXJMuzB20LRnfP3fIL_tDw4mIMoxWGu9n5DAgvGR1quJ8WWmUbqpbI/s320/convem.png" width="320" height="314" data-original-width="402" data-original-height="394" /></a></div>

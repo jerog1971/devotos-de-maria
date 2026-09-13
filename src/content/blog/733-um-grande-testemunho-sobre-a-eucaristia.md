@@ -1,7 +1,7 @@
 ---
 title: "Um grande testemunho sobre a Eucaristia"
 date: 2016-01-21T17:51:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLc9uM7XufgpnAQlnbtQmKDI-_qieCLr3YDJsR1-ykN_giF97EwuvQGp73JJ_HUPz0UBbzmo7z9oAtfKYf5OPIivW5l_sn-QBvVvBF95wKPw-_jjsg77cyLjTHP0b5UEjRc4YFswa7vds/s320/menina.png"
+heroImage: "/images/menina.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLc9uM7XufgpnAQlnbtQmKDI-_qieCLr3YDJsR1-ykN_giF97EwuvQGp73JJ_HUPz0UBbzmo7z9oAtfKYf5OPIivW5l_sn-QBvVvBF95wKPw-_jjsg77cyLjTHP0b5UEjRc4YFswa7vds/s1600/menina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLc9uM7XufgpnAQlnbtQmKDI-_qieCLr3YDJsR1-ykN_giF97EwuvQGp73JJ_HUPz0UBbzmo7z9oAtfKYf5OPIivW5l_sn-QBvVvBF95wKPw-_jjsg77cyLjTHP0b5UEjRc4YFswa7vds/s320/menina.png" width="320" height="211" data-original-width="503" data-original-height="331" /></a></div>

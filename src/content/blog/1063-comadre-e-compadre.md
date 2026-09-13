@@ -1,7 +1,7 @@
 ---
 title: "Comadre e Compadre"
 date: 2016-05-09T19:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQwNb4rEh5ESqVQrvcwEhMASq1LNgFdbXgaBQMxrgBj_YYvJ7k1NvEObg-c9ZURLaeiVujQXRNMXzZJrmQM0ZjTBimbpobGuityn9WUNUaQoErSn-q0Swmx6C15xWDZlalUjaj57sOho/s320/compadres.png"
+heroImage: "/images/compadres.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQwNb4rEh5ESqVQrvcwEhMASq1LNgFdbXgaBQMxrgBj_YYvJ7k1NvEObg-c9ZURLaeiVujQXRNMXzZJrmQM0ZjTBimbpobGuityn9WUNUaQoErSn-q0Swmx6C15xWDZlalUjaj57sOho/s1600/compadres.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQwNb4rEh5ESqVQrvcwEhMASq1LNgFdbXgaBQMxrgBj_YYvJ7k1NvEObg-c9ZURLaeiVujQXRNMXzZJrmQM0ZjTBimbpobGuityn9WUNUaQoErSn-q0Swmx6C15xWDZlalUjaj57sOho/s320/compadres.png" width="320" height="227" data-original-width="733" data-original-height="521" /></a></div>

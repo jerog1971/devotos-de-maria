@@ -1,7 +1,7 @@
 ---
 title: "O que caracteriza um pai?"
 date: 2016-08-23T12:04:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEbuQnSJThj5HvcaCSuUz_X3oAGLpmFJ_hUqAjuNT8l5ECh4lvExwQEdRjZzvYuCsMmjz7VSecNkeF4x4KozdkmcJ-qlUdTSJhsE19PqDNfDwNCeajIdzViFlrv2u8vOL4gI4XV5sRH0/s320/pai.png"
+heroImage: "/images/eu e meu pai.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEbuQnSJThj5HvcaCSuUz_X3oAGLpmFJ_hUqAjuNT8l5ECh4lvExwQEdRjZzvYuCsMmjz7VSecNkeF4x4KozdkmcJ-qlUdTSJhsE19PqDNfDwNCeajIdzViFlrv2u8vOL4gI4XV5sRH0/s1600/pai.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEbuQnSJThj5HvcaCSuUz_X3oAGLpmFJ_hUqAjuNT8l5ECh4lvExwQEdRjZzvYuCsMmjz7VSecNkeF4x4KozdkmcJ-qlUdTSJhsE19PqDNfDwNCeajIdzViFlrv2u8vOL4gI4XV5sRH0/s320/pai.png" width="320" height="305" data-original-width="477" data-original-height="455" /></a></div>

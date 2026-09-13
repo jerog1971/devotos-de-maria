@@ -1,7 +1,7 @@
 ---
 title: "Pais que expõe seus filhos"
 date: 2017-10-17T16:48:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5rMlUYIQuP0CzsGDRn3WRZAcObEJ-oo1gdT5goFJhrkDP2NYe7D_5FsqNWbpisAwsvD6iP3ohpaoPDoxhSlEFhtvWLEouK1gpevS2ByTBXXqF8R2pMCWFi2IPUwlk1AEKgnR4E8hEvJY/s320/crianca_exposta2.png"
+heroImage: "/images/crianca_exposta2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5rMlUYIQuP0CzsGDRn3WRZAcObEJ-oo1gdT5goFJhrkDP2NYe7D_5FsqNWbpisAwsvD6iP3ohpaoPDoxhSlEFhtvWLEouK1gpevS2ByTBXXqF8R2pMCWFi2IPUwlk1AEKgnR4E8hEvJY/s1600/crianca_exposta2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5rMlUYIQuP0CzsGDRn3WRZAcObEJ-oo1gdT5goFJhrkDP2NYe7D_5FsqNWbpisAwsvD6iP3ohpaoPDoxhSlEFhtvWLEouK1gpevS2ByTBXXqF8R2pMCWFi2IPUwlk1AEKgnR4E8hEvJY/s320/crianca_exposta2.png" width="320" height="220" data-original-width="707" data-original-height="486" /></a></div>

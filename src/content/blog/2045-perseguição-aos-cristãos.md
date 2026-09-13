@@ -1,7 +1,7 @@
 ---
 title: "Perseguição aos Cristãos"
 date: 2016-11-21T14:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqj0wN_3ymCJKlBH8uqCuMAUCtfjIHr3LAaoAWqCK1zvoLzhrPQTjS3ziU-dLL8JREHtnxxJaVIJhb0D0O3Utx-g9PEfZVoyoLdJp7d726ggOz4n2UDoDGQSJodQ67Nh9FO-cwOr365BY/s320/21.png"
+heroImage: "/images/21.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqj0wN_3ymCJKlBH8uqCuMAUCtfjIHr3LAaoAWqCK1zvoLzhrPQTjS3ziU-dLL8JREHtnxxJaVIJhb0D0O3Utx-g9PEfZVoyoLdJp7d726ggOz4n2UDoDGQSJodQ67Nh9FO-cwOr365BY/s1600/21.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqj0wN_3ymCJKlBH8uqCuMAUCtfjIHr3LAaoAWqCK1zvoLzhrPQTjS3ziU-dLL8JREHtnxxJaVIJhb0D0O3Utx-g9PEfZVoyoLdJp7d726ggOz4n2UDoDGQSJodQ67Nh9FO-cwOr365BY/s320/21.png" width="320" height="179" data-original-width="642" data-original-height="360" /></a></div>

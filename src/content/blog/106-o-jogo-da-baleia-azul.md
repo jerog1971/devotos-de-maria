@@ -1,7 +1,7 @@
 ---
 title: "O jogo da baleia azul"
 date: 2017-04-12T17:51:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxec9RKoha5quglPmZRKpmqTNke-dBZeGTi0YXvlcjpZAvG3sK8K-1CbASzq12Lpj6Tncdp3Xo7DWClY8TEyphKkAw92sdQYDlQ1GKMF8WxxynGeYfKHjM0O_rFA0knTcsnTYogGfXpBU/s320/baleia+azul.png"
+heroImage: "/images/alei.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxec9RKoha5quglPmZRKpmqTNke-dBZeGTi0YXvlcjpZAvG3sK8K-1CbASzq12Lpj6Tncdp3Xo7DWClY8TEyphKkAw92sdQYDlQ1GKMF8WxxynGeYfKHjM0O_rFA0knTcsnTYogGfXpBU/s1600/baleia+azul.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="474" height="207" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxec9RKoha5quglPmZRKpmqTNke-dBZeGTi0YXvlcjpZAvG3sK8K-1CbASzq12Lpj6Tncdp3Xo7DWClY8TEyphKkAw92sdQYDlQ1GKMF8WxxynGeYfKHjM0O_rFA0knTcsnTYogGfXpBU/s320/baleia+azul.png" width="320" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Comportamento que decepciona"
 date: 2021-03-17T14:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpDNIeoRglEK2DDdpKtJEv__gKhCZeX9oO4Ky7oTwEqV-E6ExINustWveiSDVlPl6TnYmlYF6nFg_VjjvZETTr_eS7_NTmgBr9VD8-VhEnZabTey7vikJALT4Z-ZhN5tPaxtkduc1MUTI/s320/comportamento+que+decepciona.png"
+heroImage: "/images/comportamento.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpDNIeoRglEK2DDdpKtJEv__gKhCZeX9oO4Ky7oTwEqV-E6ExINustWveiSDVlPl6TnYmlYF6nFg_VjjvZETTr_eS7_NTmgBr9VD8-VhEnZabTey7vikJALT4Z-ZhN5tPaxtkduc1MUTI/s437/comportamento+que+decepciona.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="437" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpDNIeoRglEK2DDdpKtJEv__gKhCZeX9oO4Ky7oTwEqV-E6ExINustWveiSDVlPl6TnYmlYF6nFg_VjjvZETTr_eS7_NTmgBr9VD8-VhEnZabTey7vikJALT4Z-ZhN5tPaxtkduc1MUTI/s320/comportamento+que+decepciona.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Alguns sites de notícias pela internet em relação ao assunto

@@ -1,7 +1,7 @@
 ---
 title: "Cada idade tem suas alegrias e suas dores"
 date: 2019-07-02T20:01:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeshJ6LxQVZ_9A6d-nEr_QJ43qSFuUTb47MsEgPwIZwVdQw9vifI5sZcDMc4CFaBYMbKxvb278-DVCHsSHBfnSqjgPB7s9VuMh2Ne3BttX6dYWx4gRKH3lvSz0RppLHIz_-qd1s-s20pM/s320/proibido.png"
+heroImage: "/images/proibido.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeshJ6LxQVZ_9A6d-nEr_QJ43qSFuUTb47MsEgPwIZwVdQw9vifI5sZcDMc4CFaBYMbKxvb278-DVCHsSHBfnSqjgPB7s9VuMh2Ne3BttX6dYWx4gRKH3lvSz0RppLHIz_-qd1s-s20pM/s1600/proibido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeshJ6LxQVZ_9A6d-nEr_QJ43qSFuUTb47MsEgPwIZwVdQw9vifI5sZcDMc4CFaBYMbKxvb278-DVCHsSHBfnSqjgPB7s9VuMh2Ne3BttX6dYWx4gRKH3lvSz0RppLHIz_-qd1s-s20pM/s320/proibido.png" width="320" height="316" data-original-width="389" data-original-height="384" /></a></div>

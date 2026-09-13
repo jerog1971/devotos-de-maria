@@ -1,7 +1,7 @@
 ---
 title: "Parece que não acaba mais"
 date: 2016-06-03T13:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnz6khAFVoCYLnfYws6oImZOO5qUl2SEFNL1w8v5xwPdxt-mDRIBEBqu_mlmaaiMDFeDYKR5g6529t1Nt352xqtf1jI3CRX3kagyMyXrtTYodPcJICrAOgEs2ISb_6wzA-wQ7YHYiuL3E/s320/menina_morta.png"
+heroImage: "/images/menina_morta.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnz6khAFVoCYLnfYws6oImZOO5qUl2SEFNL1w8v5xwPdxt-mDRIBEBqu_mlmaaiMDFeDYKR5g6529t1Nt352xqtf1jI3CRX3kagyMyXrtTYodPcJICrAOgEs2ISb_6wzA-wQ7YHYiuL3E/s1600/menina_morta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnz6khAFVoCYLnfYws6oImZOO5qUl2SEFNL1w8v5xwPdxt-mDRIBEBqu_mlmaaiMDFeDYKR5g6529t1Nt352xqtf1jI3CRX3kagyMyXrtTYodPcJICrAOgEs2ISb_6wzA-wQ7YHYiuL3E/s320/menina_morta.png" width="320" height="218" data-original-width="468" data-original-height="319" /></a></div>

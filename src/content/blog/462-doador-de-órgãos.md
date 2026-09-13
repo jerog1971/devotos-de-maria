@@ -1,7 +1,7 @@
 ---
 title: "Doador de órgãos"
 date: 2018-08-29T19:40:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj12zis_bE9j2fdvMOONk9tbGHj2UnBExJwxUERgVf50vvggDMDceWeBzQkRZjK3yXechqFJJKfUxGttADlJs_hsGbl1SWZXFbpTPcJmj1yl8maxmnKgsFlmoPLjJq8ocmj4Sskvur_ub8/s320/Doador_de_%25C3%25B3rg%25C3%25A3os.png"
+heroImage: "/images/dor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj12zis_bE9j2fdvMOONk9tbGHj2UnBExJwxUERgVf50vvggDMDceWeBzQkRZjK3yXechqFJJKfUxGttADlJs_hsGbl1SWZXFbpTPcJmj1yl8maxmnKgsFlmoPLjJq8ocmj4Sskvur_ub8/s1600/Doador_de_%25C3%25B3rg%25C3%25A3os.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj12zis_bE9j2fdvMOONk9tbGHj2UnBExJwxUERgVf50vvggDMDceWeBzQkRZjK3yXechqFJJKfUxGttADlJs_hsGbl1SWZXFbpTPcJmj1yl8maxmnKgsFlmoPLjJq8ocmj4Sskvur_ub8/s320/Doador_de_%25C3%25B3rg%25C3%25A3os.png" width="320" height="308" data-original-width="409" data-original-height="394" /></a></div>

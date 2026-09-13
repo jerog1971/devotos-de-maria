@@ -1,7 +1,7 @@
 ---
 title: "Felicidade e Verdade"
 date: 2016-09-20T13:10:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3IBa4HEqzWIDDJidUOhhtU6L3TsDm4bSFlmqoN8adAiGz0IRlfybB3DMGSV4-VZgq6fslgQfFk62yKem-0DzUpaKiL-sDF6G_ef7Iw3icBLY4jZKVB8ydKEOk0jxM_VE0qOQlN0XOuXs/s320/felicidade.png"
+heroImage: "/images/felicidade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3IBa4HEqzWIDDJidUOhhtU6L3TsDm4bSFlmqoN8adAiGz0IRlfybB3DMGSV4-VZgq6fslgQfFk62yKem-0DzUpaKiL-sDF6G_ef7Iw3icBLY4jZKVB8ydKEOk0jxM_VE0qOQlN0XOuXs/s1600/felicidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3IBa4HEqzWIDDJidUOhhtU6L3TsDm4bSFlmqoN8adAiGz0IRlfybB3DMGSV4-VZgq6fslgQfFk62yKem-0DzUpaKiL-sDF6G_ef7Iw3icBLY4jZKVB8ydKEOk0jxM_VE0qOQlN0XOuXs/s320/felicidade.png" width="320" height="290" data-original-width="469" data-original-height="425" /></a></div>

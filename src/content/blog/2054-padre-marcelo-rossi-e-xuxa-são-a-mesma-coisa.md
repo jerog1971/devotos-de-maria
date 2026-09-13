@@ -1,7 +1,7 @@
 ---
 title: "Padre Marcelo Rossi e Xuxa são a mesma coisa"
 date: 2019-04-12T15:21:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8P9r4ZRwJmW5LACd5D0JrhWztqmzYewzZebTq7-YqH5Ix7oLQqp3kOys4L1nMhmsOqX-E0AWdbWb5wXrVrFfrnrH8lWKMEHEOnzqNx2IIYDAXoRS33DdP1AHW-sOAaLT7Tpz-4MU7JFc/s320/Rossi+e+Xuxa.png"
+heroImage: "/images/rossi.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8P9r4ZRwJmW5LACd5D0JrhWztqmzYewzZebTq7-YqH5Ix7oLQqp3kOys4L1nMhmsOqX-E0AWdbWb5wXrVrFfrnrH8lWKMEHEOnzqNx2IIYDAXoRS33DdP1AHW-sOAaLT7Tpz-4MU7JFc/s1600/Rossi+e+Xuxa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8P9r4ZRwJmW5LACd5D0JrhWztqmzYewzZebTq7-YqH5Ix7oLQqp3kOys4L1nMhmsOqX-E0AWdbWb5wXrVrFfrnrH8lWKMEHEOnzqNx2IIYDAXoRS33DdP1AHW-sOAaLT7Tpz-4MU7JFc/s320/Rossi+e+Xuxa.png" width="320" height="313" data-original-width="294" data-original-height="288" /></a></div>

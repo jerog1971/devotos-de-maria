@@ -1,7 +1,7 @@
 ---
 title: "Pensamentos Maldosos"
 date: 2024-12-19T17:42:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOiRtaJcNNThPjVF3mGTzYzUCvZJt8h9_hDGi8fdrkK-PEEYlhd9N0sEMwMGSkINPBrYXWRNDf4E-8iaJxEJqt3aPC5cgHW1-GGAI9sphp5RUEMFRePOqI_J5fIWNQ5VyySjSSXATS75zcVxPnMPDcBfFhvXX1NOW2OAT6ztI34yXq999R2pQHkMurDw/s320/pensamentos%20maldosos.png"
+heroImage: "/images/mal.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOiRtaJcNNThPjVF3mGTzYzUCvZJt8h9_hDGi8fdrkK-PEEYlhd9N0sEMwMGSkINPBrYXWRNDf4E-8iaJxEJqt3aPC5cgHW1-GGAI9sphp5RUEMFRePOqI_J5fIWNQ5VyySjSSXATS75zcVxPnMPDcBfFhvXX1NOW2OAT6ztI34yXq999R2pQHkMurDw/s441/pensamentos%20maldosos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="429" data-original-width="441" height="311" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOiRtaJcNNThPjVF3mGTzYzUCvZJt8h9_hDGi8fdrkK-PEEYlhd9N0sEMwMGSkINPBrYXWRNDf4E-8iaJxEJqt3aPC5cgHW1-GGAI9sphp5RUEMFRePOqI_J5fIWNQ5VyySjSSXATS75zcVxPnMPDcBfFhvXX1NOW2OAT6ztI34yXq999R2pQHkMurDw/s320/pensamentos%20maldosos.png" width="320" /></a></div><br />&nbsp;

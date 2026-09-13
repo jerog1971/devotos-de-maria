@@ -1,7 +1,7 @@
 ---
 title: "Sempre por Elas"
 date: 2017-05-19T20:04:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFrrnhWN6GNBQjeeOIMwhtrTXH781mKiEw4lG1nBDs2RXS4rro1kQWCDL0R5QcJARTHQi5t5AWwdDXEo_MnG8zRNFK5RlNWKAy4QzDs7veSmnIIcRGMoMXTIvNCyjpfIsvGVsGEscQXU/s320/por+elas.png"
+heroImage: "/images/Ela.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFrrnhWN6GNBQjeeOIMwhtrTXH781mKiEw4lG1nBDs2RXS4rro1kQWCDL0R5QcJARTHQi5t5AWwdDXEo_MnG8zRNFK5RlNWKAy4QzDs7veSmnIIcRGMoMXTIvNCyjpfIsvGVsGEscQXU/s1600/por+elas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFrrnhWN6GNBQjeeOIMwhtrTXH781mKiEw4lG1nBDs2RXS4rro1kQWCDL0R5QcJARTHQi5t5AWwdDXEo_MnG8zRNFK5RlNWKAy4QzDs7veSmnIIcRGMoMXTIvNCyjpfIsvGVsGEscQXU/s320/por+elas.png" width="312" height="320" data-original-width="492" data-original-height="504" /></a></div>

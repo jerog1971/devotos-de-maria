@@ -1,7 +1,7 @@
 ---
 title: "Será que os católicos adoram Maria Santíssima?"
 date: 2017-02-01T21:21:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlS7nvO4x8oo1sV47WIseur4gH_DFvRyA268RJXws6UZCHyj02ixnzsLiGyts6zD_7LDnYTcSJ4hLOHlwrJRE3i1eX9BgOLzGTisrH1dmNT3d6MDGgXek5eW35P3M6KCN87L2QudpClw/s320/venerar.png"
+heroImage: "/images/venerar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlS7nvO4x8oo1sV47WIseur4gH_DFvRyA268RJXws6UZCHyj02ixnzsLiGyts6zD_7LDnYTcSJ4hLOHlwrJRE3i1eX9BgOLzGTisrH1dmNT3d6MDGgXek5eW35P3M6KCN87L2QudpClw/s1600/venerar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlS7nvO4x8oo1sV47WIseur4gH_DFvRyA268RJXws6UZCHyj02ixnzsLiGyts6zD_7LDnYTcSJ4hLOHlwrJRE3i1eX9BgOLzGTisrH1dmNT3d6MDGgXek5eW35P3M6KCN87L2QudpClw/s320/venerar.png" width="320" height="298" data-original-width="512" data-original-height="476" /></a></div>

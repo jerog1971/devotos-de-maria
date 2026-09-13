@@ -1,7 +1,7 @@
 ---
 title: "Não existe meio termo, ou Deus ou Satanás"
 date: 2018-06-15T16:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLv01SE6zk2uvSGEesBLmumbHLP4TRBQpXt1pJs6eyYDbfTXYdXmv_4cncO6rhk3YlxE3RLQ4SjzFAcZpDyx1s0a7KUncuzZtA79urn0EltAMRQrXkyBDNZwXMS72B-5U5jcPJ4fkWGLI/s320/confessar.png"
+heroImage: "/images/confessar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLv01SE6zk2uvSGEesBLmumbHLP4TRBQpXt1pJs6eyYDbfTXYdXmv_4cncO6rhk3YlxE3RLQ4SjzFAcZpDyx1s0a7KUncuzZtA79urn0EltAMRQrXkyBDNZwXMS72B-5U5jcPJ4fkWGLI/s1600/confessar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLv01SE6zk2uvSGEesBLmumbHLP4TRBQpXt1pJs6eyYDbfTXYdXmv_4cncO6rhk3YlxE3RLQ4SjzFAcZpDyx1s0a7KUncuzZtA79urn0EltAMRQrXkyBDNZwXMS72B-5U5jcPJ4fkWGLI/s320/confessar.png" width="287" height="320" data-original-width="671" data-original-height="747" /></a></div>

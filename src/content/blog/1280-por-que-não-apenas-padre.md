@@ -1,7 +1,7 @@
 ---
 title: "Por que não, apenas padre?"
 date: 2017-05-22T14:51:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0z4z488Y90H79CixRq0zC4V_j9d-Rt1GICS9MGvBxQMFCpvzNN1mdGHVG25cfzBGMFyi8cwoFYg4s2_18YN_EygokX19PF9ON_1pqatbWcQ7bZz4z3hcWkfHDueTB3y3pAZqtgxEzPhk/s320/malafaia.png"
+heroImage: "/images/malafaia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0z4z488Y90H79CixRq0zC4V_j9d-Rt1GICS9MGvBxQMFCpvzNN1mdGHVG25cfzBGMFyi8cwoFYg4s2_18YN_EygokX19PF9ON_1pqatbWcQ7bZz4z3hcWkfHDueTB3y3pAZqtgxEzPhk/s1600/malafaia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="476" data-original-width="635" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0z4z488Y90H79CixRq0zC4V_j9d-Rt1GICS9MGvBxQMFCpvzNN1mdGHVG25cfzBGMFyi8cwoFYg4s2_18YN_EygokX19PF9ON_1pqatbWcQ7bZz4z3hcWkfHDueTB3y3pAZqtgxEzPhk/s320/malafaia.png" width="320" /></a></div>

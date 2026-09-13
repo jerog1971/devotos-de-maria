@@ -1,7 +1,7 @@
 ---
 title: "O diabo já está fazendo o seu melhor"
 date: 2019-05-03T19:28:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR5TmGkHfSBqcDQxigN4fTO-sLOIK-qT7J7p_GahgPeyC6LaI8CeUEa_aYcCoPYBHru_f2Wi1homk73Ah0kblHLOqMe5ic-NApmuIlkJnSXDyBKpbeDUmTEtvrXV1bXSfOO6aE84ZE2YQ/s320/diabo.png"
+heroImage: "/images/Jesus_Diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR5TmGkHfSBqcDQxigN4fTO-sLOIK-qT7J7p_GahgPeyC6LaI8CeUEa_aYcCoPYBHru_f2Wi1homk73Ah0kblHLOqMe5ic-NApmuIlkJnSXDyBKpbeDUmTEtvrXV1bXSfOO6aE84ZE2YQ/s1600/diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR5TmGkHfSBqcDQxigN4fTO-sLOIK-qT7J7p_GahgPeyC6LaI8CeUEa_aYcCoPYBHru_f2Wi1homk73Ah0kblHLOqMe5ic-NApmuIlkJnSXDyBKpbeDUmTEtvrXV1bXSfOO6aE84ZE2YQ/s320/diabo.png" width="320" height="199" data-original-width="693" data-original-height="430" /></a></div>

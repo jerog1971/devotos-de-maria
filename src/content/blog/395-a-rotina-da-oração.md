@@ -1,7 +1,7 @@
 ---
 title: "A rotina da oração"
 date: 2019-01-15T22:54:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiT4g-8NNNSFSYdb_OlJtxTt9MyCi5eyCpeO1wZcFY52ZUZgbefkW0kXVovGsSa9XUseHdPQfCXOuRPoDrxhNVJcLCMMHMsh6zE9ymaKfkDMV0r_ZiyDVTe3hSCqhHTm6Gdv-CVqnyVeU/s320/rezando.jpg"
+heroImage: "/images/rezando.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiT4g-8NNNSFSYdb_OlJtxTt9MyCi5eyCpeO1wZcFY52ZUZgbefkW0kXVovGsSa9XUseHdPQfCXOuRPoDrxhNVJcLCMMHMsh6zE9ymaKfkDMV0r_ZiyDVTe3hSCqhHTm6Gdv-CVqnyVeU/s1600/rezando.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiT4g-8NNNSFSYdb_OlJtxTt9MyCi5eyCpeO1wZcFY52ZUZgbefkW0kXVovGsSa9XUseHdPQfCXOuRPoDrxhNVJcLCMMHMsh6zE9ymaKfkDMV0r_ZiyDVTe3hSCqhHTm6Gdv-CVqnyVeU/s320/rezando.jpg" width="256" height="320" data-original-width="384" data-original-height="480" /></a></div>

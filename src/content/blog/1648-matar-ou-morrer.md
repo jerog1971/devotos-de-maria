@@ -1,7 +1,7 @@
 ---
 title: "Matar ou Morrer?"
 date: 2018-08-06T15:28:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht4utDmsee3qRliiKysCGfnmedmKNDBpfEiyitGuu3iPh8uj_b5rHAXkoJaaEWksJMm8A9a1-Bf-oBuQ172-K8O6Jjq1PVbEdC0fyUl7932KqPxdxWWkxsHzJnqoMcVZSDW9rvVKHC_dU/s320/aborto.png"
+heroImage: "/images/aborto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht4utDmsee3qRliiKysCGfnmedmKNDBpfEiyitGuu3iPh8uj_b5rHAXkoJaaEWksJMm8A9a1-Bf-oBuQ172-K8O6Jjq1PVbEdC0fyUl7932KqPxdxWWkxsHzJnqoMcVZSDW9rvVKHC_dU/s1600/aborto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht4utDmsee3qRliiKysCGfnmedmKNDBpfEiyitGuu3iPh8uj_b5rHAXkoJaaEWksJMm8A9a1-Bf-oBuQ172-K8O6Jjq1PVbEdC0fyUl7932KqPxdxWWkxsHzJnqoMcVZSDW9rvVKHC_dU/s320/aborto.png" width="320" height="302" data-original-width="482" data-original-height="455" /></a></div>

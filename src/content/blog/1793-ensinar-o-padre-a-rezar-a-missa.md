@@ -1,7 +1,7 @@
 ---
 title: "Ensinar o padre a rezar a missa"
 date: 2020-08-12T20:22:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN5t7GlNR3DOd5Igq_lYiDjXyd602qIKY2MF7-uyOppFt86qpftvyeki5BP95VpMzpppiWbUy-wuz-SVjrR7it-Qrpr7nBtH4-T-dKKciuF53U3wWq56-5cQ5_-Z_nLgDTdIFE0cBFs4/w373-h361/maus_padres_4.jpg"
+heroImage: "/images/maus_padres_4.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN5t7GlNR3DOd5Igq_lYiDjXyd602qIKY2MF7-uyOppFt86qpftvyeki5BP95VpMzpppiWbUy-wuz-SVjrR7it-Qrpr7nBtH4-T-dKKciuF53U3wWq56-5cQ5_-Z_nLgDTdIFE0cBFs4/s466/maus_padres_4.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="452" data-original-width="466" height="361" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN5t7GlNR3DOd5Igq_lYiDjXyd602qIKY2MF7-uyOppFt86qpftvyeki5BP95VpMzpppiWbUy-wuz-SVjrR7it-Qrpr7nBtH4-T-dKKciuF53U3wWq56-5cQ5_-Z_nLgDTdIFE0cBFs4/w373-h361/maus_padres_4.jpg" width="373" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ditado é antigo; junto a este, outro diz que “você não

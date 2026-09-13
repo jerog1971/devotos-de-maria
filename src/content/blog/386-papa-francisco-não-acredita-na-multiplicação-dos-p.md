@@ -1,7 +1,7 @@
 ---
 title: "Papa Francisco não acredita na multiplicação dos pães por parte de Nosso Senhor Jesus Cristo"
 date: 2019-06-27T16:03:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKGnKiaJ4WXMHU-9N9dyVCCu_hyjsnAHd3yi38301NpryswHq3I6tlduvUbJrEEAS6p6lQvFgHfolABfUMd2kDrDNJ8dGcOy6XvJ3QKYr_RjfoFM7C1NBWIPw2skHI8U3MfzvXFoDVuQE/s320/Francisco.png"
+heroImage: "/images/Francisco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKGnKiaJ4WXMHU-9N9dyVCCu_hyjsnAHd3yi38301NpryswHq3I6tlduvUbJrEEAS6p6lQvFgHfolABfUMd2kDrDNJ8dGcOy6XvJ3QKYr_RjfoFM7C1NBWIPw2skHI8U3MfzvXFoDVuQE/s1600/Francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKGnKiaJ4WXMHU-9N9dyVCCu_hyjsnAHd3yi38301NpryswHq3I6tlduvUbJrEEAS6p6lQvFgHfolABfUMd2kDrDNJ8dGcOy6XvJ3QKYr_RjfoFM7C1NBWIPw2skHI8U3MfzvXFoDVuQE/s320/Francisco.png" width="320" height="243" data-original-width="507" data-original-height="385" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Só pode ser brincadeira"
 date: 2024-11-26T21:25:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh7aeSVQHYt5p42MhdENLxli9amcVU8c8v2rJ3_5qdAhoc_-ocnoJbWntmzzJTz12LoTTa0jPAKfLVyc5GBrudOi0IgXLUg5RT2Y2NC8Jthc60v84S4tWTfJcRa7PtjHlSUwOuRHA7S3SQnwy2ajwfWCS6YjYs7h2xIiCefm4SkUxcB_YjN0vkisCQVG4/s320/Brincadeira.png"
+heroImage: "/images/Brincadeira.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh7aeSVQHYt5p42MhdENLxli9amcVU8c8v2rJ3_5qdAhoc_-ocnoJbWntmzzJTz12LoTTa0jPAKfLVyc5GBrudOi0IgXLUg5RT2Y2NC8Jthc60v84S4tWTfJcRa7PtjHlSUwOuRHA7S3SQnwy2ajwfWCS6YjYs7h2xIiCefm4SkUxcB_YjN0vkisCQVG4/s400/Brincadeira.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="224" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh7aeSVQHYt5p42MhdENLxli9amcVU8c8v2rJ3_5qdAhoc_-ocnoJbWntmzzJTz12LoTTa0jPAKfLVyc5GBrudOi0IgXLUg5RT2Y2NC8Jthc60v84S4tWTfJcRa7PtjHlSUwOuRHA7S3SQnwy2ajwfWCS6YjYs7h2xIiCefm4SkUxcB_YjN0vkisCQVG4/s320/Brincadeira.png" width="179" /></a></div><br />&nbsp;

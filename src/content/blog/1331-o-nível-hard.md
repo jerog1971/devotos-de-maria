@@ -1,7 +1,7 @@
 ---
 title: "O nível hard"
 date: 2023-04-25T19:15:00.007Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDyUACGII4yCgmK0tP3o0raX7QOKB7fsiPsXLuGYt4AM3lbDxLCkFkX8lhcllxB4bLo-FXjFEYqw94iK_8i95RDId55ku8bh7-x3xx3epheXjhGaIliUKnJqScAdbn7UyUgii_2j_iBK3D9KHnZAKvJwvPMGC6ZQTsX88xagsjaRp6sUgCsBlBT2q/s320/Est%C3%A1gio_Pedagogia.jpg"
+heroImage: "/images/Estágio_Pedagogia(1).jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDyUACGII4yCgmK0tP3o0raX7QOKB7fsiPsXLuGYt4AM3lbDxLCkFkX8lhcllxB4bLo-FXjFEYqw94iK_8i95RDId55ku8bh7-x3xx3epheXjhGaIliUKnJqScAdbn7UyUgii_2j_iBK3D9KHnZAKvJwvPMGC6ZQTsX88xagsjaRp6sUgCsBlBT2q/s3264/Est%C3%A1gio_Pedagogia.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDyUACGII4yCgmK0tP3o0raX7QOKB7fsiPsXLuGYt4AM3lbDxLCkFkX8lhcllxB4bLo-FXjFEYqw94iK_8i95RDId55ku8bh7-x3xx3epheXjhGaIliUKnJqScAdbn7UyUgii_2j_iBK3D9KHnZAKvJwvPMGC6ZQTsX88xagsjaRp6sUgCsBlBT2q/s320/Est%C3%A1gio_Pedagogia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Hoje precisei, para encerramento de mais uma etapa acadêmica

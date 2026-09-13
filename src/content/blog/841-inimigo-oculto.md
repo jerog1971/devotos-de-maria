@@ -1,7 +1,7 @@
 ---
 title: "Inimigo Oculto"
 date: 2018-05-10T16:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7il6ln9Oh3KNG2ODapWke92L0A3eIIqZXFIY9vadZHs5f4nUTH6PMT3fV4V7kY6czbs-0Cs4sgp4QVz277wgJS3ftCOM-w-6UPpzQS_BK_Ywswke746AWF3v25Ufun00OhEolIXQsYU/s320/inimigo_oculto.png"
+heroImage: "/images/inimigo_oculto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7il6ln9Oh3KNG2ODapWke92L0A3eIIqZXFIY9vadZHs5f4nUTH6PMT3fV4V7kY6czbs-0Cs4sgp4QVz277wgJS3ftCOM-w-6UPpzQS_BK_Ywswke746AWF3v25Ufun00OhEolIXQsYU/s1600/inimigo_oculto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7il6ln9Oh3KNG2ODapWke92L0A3eIIqZXFIY9vadZHs5f4nUTH6PMT3fV4V7kY6czbs-0Cs4sgp4QVz277wgJS3ftCOM-w-6UPpzQS_BK_Ywswke746AWF3v25Ufun00OhEolIXQsYU/s320/inimigo_oculto.png" width="320" height="209" data-original-width="946" data-original-height="617" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O pão do mal"
 date: 2017-05-22T12:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXeSPiy8vmtznsUJcts6HpSqjqmdkcoaBfGzIURz71xZbhL8A5nCV6Q5wqSPWaAp0choMVb5CTAjU99sOY3t7GPIWoB7B3J-dmQrRrgT-rg7Hw5o-3P_Q4HvX0jqq06LLok3gGnBYZIio/s320/p%25C3%25A3o+do+mal.png"
+heroImage: "/images/mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXeSPiy8vmtznsUJcts6HpSqjqmdkcoaBfGzIURz71xZbhL8A5nCV6Q5wqSPWaAp0choMVb5CTAjU99sOY3t7GPIWoB7B3J-dmQrRrgT-rg7Hw5o-3P_Q4HvX0jqq06LLok3gGnBYZIio/s1600/p%25C3%25A3o+do+mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXeSPiy8vmtznsUJcts6HpSqjqmdkcoaBfGzIURz71xZbhL8A5nCV6Q5wqSPWaAp0choMVb5CTAjU99sOY3t7GPIWoB7B3J-dmQrRrgT-rg7Hw5o-3P_Q4HvX0jqq06LLok3gGnBYZIio/s320/p%25C3%25A3o+do+mal.png" width="320" height="229" data-original-width="701" data-original-height="501" /></a></div>

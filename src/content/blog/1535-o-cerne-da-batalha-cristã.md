@@ -1,7 +1,7 @@
 ---
 title: "O cerne da batalha cristã"
 date: 2019-02-04T14:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQGbKEl9X2ZSIDRJFMykffjMmtbBjfSZvMtrC3w0Ccbc8BOTXRd5DwU30pM3pLxxg80giugJLt4JRYIAqDRoPY5VP_hfptPBxMxZ4slG-5moJpIC7z54z3h8Zd-08_xwStE6VJ2EMS99o/s320/ocasi%25C3%25A3o_de_pecado_2.png"
+heroImage: "/images/pecado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQGbKEl9X2ZSIDRJFMykffjMmtbBjfSZvMtrC3w0Ccbc8BOTXRd5DwU30pM3pLxxg80giugJLt4JRYIAqDRoPY5VP_hfptPBxMxZ4slG-5moJpIC7z54z3h8Zd-08_xwStE6VJ2EMS99o/s1600/ocasi%25C3%25A3o_de_pecado_2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQGbKEl9X2ZSIDRJFMykffjMmtbBjfSZvMtrC3w0Ccbc8BOTXRd5DwU30pM3pLxxg80giugJLt4JRYIAqDRoPY5VP_hfptPBxMxZ4slG-5moJpIC7z54z3h8Zd-08_xwStE6VJ2EMS99o/s320/ocasi%25C3%25A3o_de_pecado_2.png" width="319" height="320" data-original-width="294" data-original-height="295" /></a></div>

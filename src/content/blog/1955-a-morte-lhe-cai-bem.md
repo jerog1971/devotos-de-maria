@@ -1,7 +1,7 @@
 ---
 title: "A morte lhe cai bem?"
 date: 2019-10-04T15:21:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosNvTeOLZgbt9AqVtxdqB239fc86RKQCfuGxi5PNkPbxs79lwhOD5SVZq263i0rGs837RJZmKxAF7Un4QMrq5vOYEa95gTmF01_V1Y1GpzyLdrPmHuKo2EoTZhESmAy9oUh1gtZBMmbA/s320/morte.png"
+heroImage: "/images/chegada_da_morte.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosNvTeOLZgbt9AqVtxdqB239fc86RKQCfuGxi5PNkPbxs79lwhOD5SVZq263i0rGs837RJZmKxAF7Un4QMrq5vOYEa95gTmF01_V1Y1GpzyLdrPmHuKo2EoTZhESmAy9oUh1gtZBMmbA/s1600/morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjosNvTeOLZgbt9AqVtxdqB239fc86RKQCfuGxi5PNkPbxs79lwhOD5SVZq263i0rGs837RJZmKxAF7Un4QMrq5vOYEa95gTmF01_V1Y1GpzyLdrPmHuKo2EoTZhESmAy9oUh1gtZBMmbA/s320/morte.png" width="320" height="230" data-original-width="543" data-original-height="391" /></a></div>

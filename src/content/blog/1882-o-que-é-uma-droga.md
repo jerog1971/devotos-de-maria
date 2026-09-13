@@ -1,7 +1,7 @@
 ---
 title: "O que é uma DROGA?"
 date: 2018-07-16T15:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjPrM2qVBozgiFEmQKtdOI6JU2i-_WEyZsdNGGGn5AMl9Mg2dVz6GekiNMLrOFBbenjMbRHLfdbM1SFy1-22JA9aXsU4M4ig8BJ9C5dT-EP3hD3gbx_VfTydaPwqO_Hr5-rFv8GzG0Iw/s320/drogas.png"
+heroImage: "/images/com aborto e com drogas.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjPrM2qVBozgiFEmQKtdOI6JU2i-_WEyZsdNGGGn5AMl9Mg2dVz6GekiNMLrOFBbenjMbRHLfdbM1SFy1-22JA9aXsU4M4ig8BJ9C5dT-EP3hD3gbx_VfTydaPwqO_Hr5-rFv8GzG0Iw/s1600/drogas.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjPrM2qVBozgiFEmQKtdOI6JU2i-_WEyZsdNGGGn5AMl9Mg2dVz6GekiNMLrOFBbenjMbRHLfdbM1SFy1-22JA9aXsU4M4ig8BJ9C5dT-EP3hD3gbx_VfTydaPwqO_Hr5-rFv8GzG0Iw/s320/drogas.png" width="320" height="294" data-original-width="463" data-original-height="425" /></a></br>

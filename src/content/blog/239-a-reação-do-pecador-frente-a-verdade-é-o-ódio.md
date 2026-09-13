@@ -1,7 +1,7 @@
 ---
 title: "A reação do pecador frente a verdade é o ódio"
 date: 2015-09-04T22:14:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrbhuDgVG2Iaesetp2jgh8bX8OOOUFdzo09PCBoUWUn36YplnfcMrA5ajCUtxPRUJJZn1rB2eRALr4vZLsC-7gu0NiGSfajy-xovqDdnHk1eyYk3BL17N17_BIjkIESfgyD8lhAC5hI8/s320/montenegro.png"
+heroImage: "/images/montenegro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrbhuDgVG2Iaesetp2jgh8bX8OOOUFdzo09PCBoUWUn36YplnfcMrA5ajCUtxPRUJJZn1rB2eRALr4vZLsC-7gu0NiGSfajy-xovqDdnHk1eyYk3BL17N17_BIjkIESfgyD8lhAC5hI8/s1600/montenegro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrbhuDgVG2Iaesetp2jgh8bX8OOOUFdzo09PCBoUWUn36YplnfcMrA5ajCUtxPRUJJZn1rB2eRALr4vZLsC-7gu0NiGSfajy-xovqDdnHk1eyYk3BL17N17_BIjkIESfgyD8lhAC5hI8/s320/montenegro.png" width="320" height="297" data-original-width="367" data-original-height="341" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Respeito x Egoísmo"
 date: 2019-04-04T15:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHExrJtOGUAjHMYIJ2nH2FhBPy371uBULsD8UvOuWsIjP688sBAkgJQOG1ozk2c8rsQbcDqxyzQnGw7CSzBTRc7yX2rRkFrxrvYqg3lrUWE16viCm9NHwfHHGXJIjPepO2-tkAS-485Xo/s320/egoismo.png"
+heroImage: "/images/egoismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHExrJtOGUAjHMYIJ2nH2FhBPy371uBULsD8UvOuWsIjP688sBAkgJQOG1ozk2c8rsQbcDqxyzQnGw7CSzBTRc7yX2rRkFrxrvYqg3lrUWE16viCm9NHwfHHGXJIjPepO2-tkAS-485Xo/s1600/egoismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHExrJtOGUAjHMYIJ2nH2FhBPy371uBULsD8UvOuWsIjP688sBAkgJQOG1ozk2c8rsQbcDqxyzQnGw7CSzBTRc7yX2rRkFrxrvYqg3lrUWE16viCm9NHwfHHGXJIjPepO2-tkAS-485Xo/s320/egoismo.png" width="320" height="246" data-original-width="370" data-original-height="285" /></a></div>

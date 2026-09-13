@@ -1,7 +1,7 @@
 ---
 title: "As pessoas não lutam mais por seus casamentos"
 date: 2019-10-31T19:33:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80ScaUuWt2kSspUY0ZN-9rl8ij_a6KLFEZV6JlPgx_K5l657Xj09gbT7P_yXk_fH_KpvZfnBl2xKEIuA-NZgv5U61QZkhJeY3jIfu1P589Ke1BEg6x-teWpeJqpaNiCQXRn4Bkthz48s/s320/lutar_pelo_casamento.png"
+heroImage: "/images/lutar_pelo_casamento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80ScaUuWt2kSspUY0ZN-9rl8ij_a6KLFEZV6JlPgx_K5l657Xj09gbT7P_yXk_fH_KpvZfnBl2xKEIuA-NZgv5U61QZkhJeY3jIfu1P589Ke1BEg6x-teWpeJqpaNiCQXRn4Bkthz48s/s1600/lutar_pelo_casamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80ScaUuWt2kSspUY0ZN-9rl8ij_a6KLFEZV6JlPgx_K5l657Xj09gbT7P_yXk_fH_KpvZfnBl2xKEIuA-NZgv5U61QZkhJeY3jIfu1P589Ke1BEg6x-teWpeJqpaNiCQXRn4Bkthz48s/s320/lutar_pelo_casamento.png" width="320" height="250" data-original-width="450" data-original-height="352" /></a></div>

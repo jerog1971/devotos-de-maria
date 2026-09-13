@@ -1,7 +1,7 @@
 ---
 title: "A escala de valores do cristão"
 date: 2017-05-05T15:09:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAFXEhow-3rDXymwEs4snGZkUiMc3SbJtOKiU9I3wGJA9Cu0Agqk1Uxi5hfsaXX6b337gOdnQT4Oc_dSrR4v5saCiS5bCAglwM3gpux112_rK9TjKGWdRjiGHytMYvYSzpnDgMoz8DCPk/s320/valores.png"
+heroImage: "/images/anti valores.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAFXEhow-3rDXymwEs4snGZkUiMc3SbJtOKiU9I3wGJA9Cu0Agqk1Uxi5hfsaXX6b337gOdnQT4Oc_dSrR4v5saCiS5bCAglwM3gpux112_rK9TjKGWdRjiGHytMYvYSzpnDgMoz8DCPk/s1600/valores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAFXEhow-3rDXymwEs4snGZkUiMc3SbJtOKiU9I3wGJA9Cu0Agqk1Uxi5hfsaXX6b337gOdnQT4Oc_dSrR4v5saCiS5bCAglwM3gpux112_rK9TjKGWdRjiGHytMYvYSzpnDgMoz8DCPk/s320/valores.png" width="320" height="285" data-original-width="282" data-original-height="251" /></a></div>

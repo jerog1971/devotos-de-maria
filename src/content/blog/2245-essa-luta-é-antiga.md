@@ -1,7 +1,7 @@
 ---
 title: "Essa luta é antiga"
 date: 2019-09-11T15:08:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOO575geCyKPQgiDakvbQGAv0zHjQ2qEwdK1L-NaYaMlbRbWwgbwDqG7qZzYWrB_e2ANzLz3hA14YXzK0aqRNx_X0GiCiy6-EGB6tIZVTJAvUzz1wqav9wvW97f7JI1_934vu3hEG11D4/s320/bem_contra_o_mal.png"
+heroImage: "/images/bem_contra_o_mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOO575geCyKPQgiDakvbQGAv0zHjQ2qEwdK1L-NaYaMlbRbWwgbwDqG7qZzYWrB_e2ANzLz3hA14YXzK0aqRNx_X0GiCiy6-EGB6tIZVTJAvUzz1wqav9wvW97f7JI1_934vu3hEG11D4/s1600/bem_contra_o_mal.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="339" data-original-width="300" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOO575geCyKPQgiDakvbQGAv0zHjQ2qEwdK1L-NaYaMlbRbWwgbwDqG7qZzYWrB_e2ANzLz3hA14YXzK0aqRNx_X0GiCiy6-EGB6tIZVTJAvUzz1wqav9wvW97f7JI1_934vu3hEG11D4/s320/bem_contra_o_mal.png" width="283" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Nascidos para lutar, nascidos para vencer, nascidos para resistir, nascidos para suportar, nascidos para herdar, nascidos para morrer. Ao nascermos começa a contagem regressiva de nossas vidas. O tempo avança, mas paradoxalmente diminui dia após dia. O tempo não acumula, não soma, é uma constante “continha de menos”. Hoje temos menos tempo de vida do que ontem. Ao final do dia estaremos mais próximos da morte do que quando acordamos pela manhã.

@@ -1,7 +1,7 @@
 ---
 title: "Paixões diabólicas"
 date: 2021-07-27T15:10:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixBRE2S5nAlXLgAmFfrBpvzLriiLQiHguFh3agtIfuxD1FPlLKP8I8NsflLmCLhA7Iba0NN_cyRA5jjgps6UE09dvEBF0QkOZdkZpG24LdPkQuBqaRAfOvEoaUirlbcFrsRd_3VDajqDQ/s320/paix%25C3%25B5es+diab%25C3%25B3licas.png"
+heroImage: "/images/Pai.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixBRE2S5nAlXLgAmFfrBpvzLriiLQiHguFh3agtIfuxD1FPlLKP8I8NsflLmCLhA7Iba0NN_cyRA5jjgps6UE09dvEBF0QkOZdkZpG24LdPkQuBqaRAfOvEoaUirlbcFrsRd_3VDajqDQ/s666/paix%25C3%25B5es+diab%25C3%25B3licas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="666" data-original-width="588" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixBRE2S5nAlXLgAmFfrBpvzLriiLQiHguFh3agtIfuxD1FPlLKP8I8NsflLmCLhA7Iba0NN_cyRA5jjgps6UE09dvEBF0QkOZdkZpG24LdPkQuBqaRAfOvEoaUirlbcFrsRd_3VDajqDQ/s320/paix%25C3%25B5es+diab%25C3%25B3licas.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Segunda carta São Pedro, capítulo dois: “Assim como houve

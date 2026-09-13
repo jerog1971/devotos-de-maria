@@ -1,7 +1,7 @@
 ---
 title: "Saindo do caminho da perdição"
 date: 2018-06-19T12:33:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6WSE8jh1gN3vkbG1R27XQRMJD8VcL_Vbr2tbj6kW4a39Kqd1JJVUEBcGQu2aOl34m5i7GdmvNP5TojdO-lGiNwAahEUhRbWQkw6iKk1piagCMWf9_x6QR5A6ZamIJb6F7TRCeU-5ihAs/s320/Rich.png"
+heroImage: "/images/Rich.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6WSE8jh1gN3vkbG1R27XQRMJD8VcL_Vbr2tbj6kW4a39Kqd1JJVUEBcGQu2aOl34m5i7GdmvNP5TojdO-lGiNwAahEUhRbWQkw6iKk1piagCMWf9_x6QR5A6ZamIJb6F7TRCeU-5ihAs/s1600/Rich.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6WSE8jh1gN3vkbG1R27XQRMJD8VcL_Vbr2tbj6kW4a39Kqd1JJVUEBcGQu2aOl34m5i7GdmvNP5TojdO-lGiNwAahEUhRbWQkw6iKk1piagCMWf9_x6QR5A6ZamIJb6F7TRCeU-5ihAs/s320/Rich.png" width="320" height="248" data-original-width="239" data-original-height="185" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Chegar a Jesus por Maria"
 date: 2016-02-23T16:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuAAI9mIUC4f2ewz58uikcTSa54rSZtXlmeu0uxeF4MS9fa_vhshUIkACXfRHktChmKbvKdthAMJKS0PMOGaPMw6pRTUHY3eVqtMrUstZoBVJIGpIBn4rSk33zKm-xKcPNjEjgyaRqHdY/s320/jesus_e_maria.png"
+heroImage: "/images/jesus_e_maria.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuAAI9mIUC4f2ewz58uikcTSa54rSZtXlmeu0uxeF4MS9fa_vhshUIkACXfRHktChmKbvKdthAMJKS0PMOGaPMw6pRTUHY3eVqtMrUstZoBVJIGpIBn4rSk33zKm-xKcPNjEjgyaRqHdY/s1600/jesus_e_maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuAAI9mIUC4f2ewz58uikcTSa54rSZtXlmeu0uxeF4MS9fa_vhshUIkACXfRHktChmKbvKdthAMJKS0PMOGaPMw6pRTUHY3eVqtMrUstZoBVJIGpIBn4rSk33zKm-xKcPNjEjgyaRqHdY/s320/jesus_e_maria.png" width="320" height="222" data-original-width="408" data-original-height="283" /></a></div>

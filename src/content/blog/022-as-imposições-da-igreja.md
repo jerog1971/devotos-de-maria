@@ -1,7 +1,7 @@
 ---
 title: "As imposições da igreja"
 date: 2017-09-18T13:04:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvdYqJtseubQjmslDTSj015tXp5dY5yGBlMSLZj_A8p6KzQLXjiLa6bdF2E_FBoDCBuZ7kak4fSIVdUXt3FxAWHa13xY384RMepCY9B4v146Id2wMezBlCKJ_OeHT1FrqdCgwgmxR8Qlk/s320/lobo.png"
+heroImage: "/images/lobo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvdYqJtseubQjmslDTSj015tXp5dY5yGBlMSLZj_A8p6KzQLXjiLa6bdF2E_FBoDCBuZ7kak4fSIVdUXt3FxAWHa13xY384RMepCY9B4v146Id2wMezBlCKJ_OeHT1FrqdCgwgmxR8Qlk/s1600/lobo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvdYqJtseubQjmslDTSj015tXp5dY5yGBlMSLZj_A8p6KzQLXjiLa6bdF2E_FBoDCBuZ7kak4fSIVdUXt3FxAWHa13xY384RMepCY9B4v146Id2wMezBlCKJ_OeHT1FrqdCgwgmxR8Qlk/s320/lobo.png" width="320" height="285" data-original-width="313" data-original-height="279" /></a></div>

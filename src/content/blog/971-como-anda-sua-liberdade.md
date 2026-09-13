@@ -1,7 +1,7 @@
 ---
 title: "Como anda sua liberdade?"
 date: 2019-10-28T16:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXBdaxfV8RKR_dnMxvL0BRAZ5hkbUIQFg0aKhj5Eq-_F8xJYYD2K1WyLqFnOK8ehohuDGtrK24j2UekhP3ysuq3LE9L4nWxHUimTekoTlAZEIuitKEhEHBTBsEubtMqVwg15cEdJUrBds/s320/liberdade.png"
+heroImage: "/images/liberdade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXBdaxfV8RKR_dnMxvL0BRAZ5hkbUIQFg0aKhj5Eq-_F8xJYYD2K1WyLqFnOK8ehohuDGtrK24j2UekhP3ysuq3LE9L4nWxHUimTekoTlAZEIuitKEhEHBTBsEubtMqVwg15cEdJUrBds/s1600/liberdade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXBdaxfV8RKR_dnMxvL0BRAZ5hkbUIQFg0aKhj5Eq-_F8xJYYD2K1WyLqFnOK8ehohuDGtrK24j2UekhP3ysuq3LE9L4nWxHUimTekoTlAZEIuitKEhEHBTBsEubtMqVwg15cEdJUrBds/s320/liberdade.png" width="320" height="271" data-original-width="605" data-original-height="513" /></a></div>

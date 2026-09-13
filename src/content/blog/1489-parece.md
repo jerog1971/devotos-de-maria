@@ -1,7 +1,7 @@
 ---
 title: "Parece?"
 date: 2015-09-18T16:25:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZxWqJw-Xo9Uhuj4iZ4VN4r0T6IqVp5X_S3z6I87IV7HIgwRyKyCib4DkxrNEhnxFJ1KoaLxuwOd0xfejrFwgS_uD1lNp4YE4p4qg3jCqfb3xCOqOJ-8PWOA99vd_i0OA24XSaRAGXJw8/s200/aparencias.bmp"
+heroImage: "/images/aparencias.bmp"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZxWqJw-Xo9Uhuj4iZ4VN4r0T6IqVp5X_S3z6I87IV7HIgwRyKyCib4DkxrNEhnxFJ1KoaLxuwOd0xfejrFwgS_uD1lNp4YE4p4qg3jCqfb3xCOqOJ-8PWOA99vd_i0OA24XSaRAGXJw8/s1600/aparencias.bmp" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZxWqJw-Xo9Uhuj4iZ4VN4r0T6IqVp5X_S3z6I87IV7HIgwRyKyCib4DkxrNEhnxFJ1KoaLxuwOd0xfejrFwgS_uD1lNp4YE4p4qg3jCqfb3xCOqOJ-8PWOA99vd_i0OA24XSaRAGXJw8/s200/aparencias.bmp" /></a></div>

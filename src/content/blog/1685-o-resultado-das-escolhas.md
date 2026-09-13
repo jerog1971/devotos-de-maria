@@ -1,7 +1,7 @@
 ---
 title: "O resultado das escolhas"
 date: 2022-07-19T20:17:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOe-xDFeudYWd1GDn9WLXKkMXeARzCxj2X7_0l5i36BdDOueW68mASW8xAi3HV_wTY3wyRhCXZhN---GtrNm-b7Ekl04lV8kuuNqLTQdgIIjH0kyiWoYXmMkxd2yqZ9y6697jZoR4H8jd38LhhU54pMTvOrDpp4ZTUzOUUtjV2F0rNbF-6_G129tkq/s320/porta_estreita.png"
+heroImage: "/images/porta_estreita.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOe-xDFeudYWd1GDn9WLXKkMXeARzCxj2X7_0l5i36BdDOueW68mASW8xAi3HV_wTY3wyRhCXZhN---GtrNm-b7Ekl04lV8kuuNqLTQdgIIjH0kyiWoYXmMkxd2yqZ9y6697jZoR4H8jd38LhhU54pMTvOrDpp4ZTUzOUUtjV2F0rNbF-6_G129tkq/s405/porta_estreita.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="405" data-original-width="323" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOe-xDFeudYWd1GDn9WLXKkMXeARzCxj2X7_0l5i36BdDOueW68mASW8xAi3HV_wTY3wyRhCXZhN---GtrNm-b7Ekl04lV8kuuNqLTQdgIIjH0kyiWoYXmMkxd2yqZ9y6697jZoR4H8jd38LhhU54pMTvOrDpp4ZTUzOUUtjV2F0rNbF-6_G129tkq/s320/porta_estreita.png" width="255" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos recordar: nossa vida é uma vida de escolhas. Desde o

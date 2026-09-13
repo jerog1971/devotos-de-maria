@@ -1,7 +1,7 @@
 ---
 title: "O que Cristo ensina ou o que a Igreja ensina?"
 date: 2018-11-19T18:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaT_3Cdgb-0vmcgRwNeRVTDfhbpu63gdIX5gfK4pKmlZxTEQUJEE_xiNjn_u6btENb2LgGrFfudCsDc20KXFtPKS2M5mw97u2_VKBgvAfp-2nN5fhyphenhyphenaHi9HaJARMmgkTi1VxjHhS84emQ/s320/igreja_dividida.png"
+heroImage: "/images/igreja_dividida.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaT_3Cdgb-0vmcgRwNeRVTDfhbpu63gdIX5gfK4pKmlZxTEQUJEE_xiNjn_u6btENb2LgGrFfudCsDc20KXFtPKS2M5mw97u2_VKBgvAfp-2nN5fhyphenhyphenaHi9HaJARMmgkTi1VxjHhS84emQ/s1600/igreja_dividida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaT_3Cdgb-0vmcgRwNeRVTDfhbpu63gdIX5gfK4pKmlZxTEQUJEE_xiNjn_u6btENb2LgGrFfudCsDc20KXFtPKS2M5mw97u2_VKBgvAfp-2nN5fhyphenhyphenaHi9HaJARMmgkTi1VxjHhS84emQ/s320/igreja_dividida.png" width="320" height="233" data-original-width="523" data-original-height="381" /></a></div>

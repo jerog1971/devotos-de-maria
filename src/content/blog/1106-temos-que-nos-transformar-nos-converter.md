@@ -1,7 +1,7 @@
 ---
 title: "Temos que nos transformar, nos converter"
 date: 2023-02-20T20:10:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo-mo4NybQi2orM73YBLNj1U2qkoblMWubxwNu4_bKHSjMbVsCQ1NKPcnIn4tEPvBDsTpjeAjgEmQ_1WrM7nGOdwwpVDP5UMv5h_kFRut8Y_VKQT1-t8nXuru5O5wkPYReiTS-CHsfd8J4ITG4631_3Lzse8Sc5jcBkYPSY42GhufO6X9HHjPm6pSg/s320/exemplo%20de%20convers%C3%A3o.png"
+heroImage: "/images/exemplo de conversão.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo-mo4NybQi2orM73YBLNj1U2qkoblMWubxwNu4_bKHSjMbVsCQ1NKPcnIn4tEPvBDsTpjeAjgEmQ_1WrM7nGOdwwpVDP5UMv5h_kFRut8Y_VKQT1-t8nXuru5O5wkPYReiTS-CHsfd8J4ITG4631_3Lzse8Sc5jcBkYPSY42GhufO6X9HHjPm6pSg/s511/exemplo%20de%20convers%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="503" data-original-width="511" height="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo-mo4NybQi2orM73YBLNj1U2qkoblMWubxwNu4_bKHSjMbVsCQ1NKPcnIn4tEPvBDsTpjeAjgEmQ_1WrM7nGOdwwpVDP5UMv5h_kFRut8Y_VKQT1-t8nXuru5O5wkPYReiTS-CHsfd8J4ITG4631_3Lzse8Sc5jcBkYPSY42GhufO6X9HHjPm6pSg/s320/exemplo%20de%20convers%C3%A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">"Não se conforme mais ao padrão deste mundo, mas seja

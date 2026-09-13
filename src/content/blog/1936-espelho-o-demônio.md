@@ -1,7 +1,7 @@
 ---
 title: "Espelho: o demônio"
 date: 2016-07-20T11:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC4DX3n9ZfTJnJH4NWXmqAOh3cwRCmpP5XQbY_HFiu3s961LTYNWADe0ZL3UqcK2KiDVsXATy1fFn0dCh30ujy9SA8GgXb9jDmqX_rz_bex3pNhh81gW6cB2rjL8VyPjHWNniFHPHojtg/s320/espelho.png"
+heroImage: "/images/espelho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC4DX3n9ZfTJnJH4NWXmqAOh3cwRCmpP5XQbY_HFiu3s961LTYNWADe0ZL3UqcK2KiDVsXATy1fFn0dCh30ujy9SA8GgXb9jDmqX_rz_bex3pNhh81gW6cB2rjL8VyPjHWNniFHPHojtg/s1600/espelho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC4DX3n9ZfTJnJH4NWXmqAOh3cwRCmpP5XQbY_HFiu3s961LTYNWADe0ZL3UqcK2KiDVsXATy1fFn0dCh30ujy9SA8GgXb9jDmqX_rz_bex3pNhh81gW6cB2rjL8VyPjHWNniFHPHojtg/s320/espelho.png" width="320" height="208" data-original-width="536" data-original-height="349" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O caminho do abismo"
 date: 2016-06-30T11:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_btoYaW2z2HINA9XdwLXF4phlqVTVbZWwQeW-9PJNLQmzNOp-mQ2E2ii1SkgD23DLFLgVFCM4AdPUzlJYJBZAY0yab_DmOpP6AO8fkWC3KJi_4T7ryikDwUtjoO2FHb0iiQMOMovd820/s320/abismo.png"
+heroImage: "/images/abismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_btoYaW2z2HINA9XdwLXF4phlqVTVbZWwQeW-9PJNLQmzNOp-mQ2E2ii1SkgD23DLFLgVFCM4AdPUzlJYJBZAY0yab_DmOpP6AO8fkWC3KJi_4T7ryikDwUtjoO2FHb0iiQMOMovd820/s1600/abismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_btoYaW2z2HINA9XdwLXF4phlqVTVbZWwQeW-9PJNLQmzNOp-mQ2E2ii1SkgD23DLFLgVFCM4AdPUzlJYJBZAY0yab_DmOpP6AO8fkWC3KJi_4T7ryikDwUtjoO2FHb0iiQMOMovd820/s320/abismo.png" width="320" height="281" data-original-width="592" data-original-height="519" /></a></div></br>

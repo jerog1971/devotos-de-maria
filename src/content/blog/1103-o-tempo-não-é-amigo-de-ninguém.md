@@ -1,7 +1,7 @@
 ---
 title: "O tempo não é amigo de ninguém"
 date: 2018-07-16T15:54:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHRbTWjxUk1FIZw21fskNlcdcrbuz-sZAe1oBsIuVBzmajQPkyl6lyzC0v0WKSHAygZNU-aJhgDf4VNUMLhLinw9Ezk2HloUKkzRTH4NXMY1ck9CnAqDrwutlJH7IC3m2PB57AQyJfHIM/s320/tempo.png"
+heroImage: "/images/passando o tempo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHRbTWjxUk1FIZw21fskNlcdcrbuz-sZAe1oBsIuVBzmajQPkyl6lyzC0v0WKSHAygZNU-aJhgDf4VNUMLhLinw9Ezk2HloUKkzRTH4NXMY1ck9CnAqDrwutlJH7IC3m2PB57AQyJfHIM/s1600/tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHRbTWjxUk1FIZw21fskNlcdcrbuz-sZAe1oBsIuVBzmajQPkyl6lyzC0v0WKSHAygZNU-aJhgDf4VNUMLhLinw9Ezk2HloUKkzRTH4NXMY1ck9CnAqDrwutlJH7IC3m2PB57AQyJfHIM/s320/tempo.png" width="320" height="300" data-original-width="258" data-original-height="242" /></a></div>

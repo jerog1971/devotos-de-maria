@@ -1,7 +1,7 @@
 ---
 title: "Jesus confirma ensino do Eclesiástico"
 date: 2016-08-08T12:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiae3JFTGOAqUKs_91tgT33L7kn_2ZSMS0qpRSjDmKq8jfQzRXAJFp0GBieosHrVeFa6dKYj_7UfCFlSlwSB2NT9KisbsHRK9oDoh2WAO86fZqnQGJZO_Q-pQ0BIW1V6piwxx4QsZ7fR8A/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiae3JFTGOAqUKs_91tgT33L7kn_2ZSMS0qpRSjDmKq8jfQzRXAJFp0GBieosHrVeFa6dKYj_7UfCFlSlwSB2NT9KisbsHRK9oDoh2WAO86fZqnQGJZO_Q-pQ0BIW1V6piwxx4QsZ7fR8A/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiae3JFTGOAqUKs_91tgT33L7kn_2ZSMS0qpRSjDmKq8jfQzRXAJFp0GBieosHrVeFa6dKYj_7UfCFlSlwSB2NT9KisbsHRK9oDoh2WAO86fZqnQGJZO_Q-pQ0BIW1V6piwxx4QsZ7fR8A/s320/sofrimento.png" width="320" height="181" data-original-width="628" data-original-height="356" /></a></div>

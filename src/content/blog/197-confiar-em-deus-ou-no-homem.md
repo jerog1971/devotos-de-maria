@@ -1,7 +1,7 @@
 ---
 title: "Confiar em Deus ou no homem?"
 date: 2021-11-18T23:55:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7JBzgAhtoGMzaZpaDDSlLCK80ml6yMMGzA1XSZKN0Evz8HClk0ckWXKMsjhj6ueyv6W1sjIDvxY6WrQ7pSzBALkMGlqO988ORmPemLze64krrcz_UEGdwbWcFVKVA8zPuw2SeJ3Sa_CQ/s320/confiar+em+deus+ou+no+homem.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7JBzgAhtoGMzaZpaDDSlLCK80ml6yMMGzA1XSZKN0Evz8HClk0ckWXKMsjhj6ueyv6W1sjIDvxY6WrQ7pSzBALkMGlqO988ORmPemLze64krrcz_UEGdwbWcFVKVA8zPuw2SeJ3Sa_CQ/s447/confiar+em+deus+ou+no+homem.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="430" data-original-width="447" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7JBzgAhtoGMzaZpaDDSlLCK80ml6yMMGzA1XSZKN0Evz8HClk0ckWXKMsjhj6ueyv6W1sjIDvxY6WrQ7pSzBALkMGlqO988ORmPemLze64krrcz_UEGdwbWcFVKVA8zPuw2SeJ3Sa_CQ/s320/confiar+em+deus+ou+no+homem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Será que devemos confiar em um ou em outro? Ou será que

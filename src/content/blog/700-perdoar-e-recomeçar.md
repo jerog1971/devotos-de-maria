@@ -1,7 +1,7 @@
 ---
 title: "Perdoar e Recomeçar"
 date: 2017-04-05T12:39:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUbUDqspvf7gH_kUqxfNdzxeYFvbDtu5th3bQkfWHNeT0PwaNf3JtLsOvzzQibEW-I4OfOBrY3Hi62KjRRECRQ8F0Eb-VWRPslrLiKJX1kbqEy2AfGnBrUTXoNeGxHC4OHXLSUTP0Xhrs/s320/perdoar.png"
+heroImage: "/images/perdoar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUbUDqspvf7gH_kUqxfNdzxeYFvbDtu5th3bQkfWHNeT0PwaNf3JtLsOvzzQibEW-I4OfOBrY3Hi62KjRRECRQ8F0Eb-VWRPslrLiKJX1kbqEy2AfGnBrUTXoNeGxHC4OHXLSUTP0Xhrs/s1600/perdoar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUbUDqspvf7gH_kUqxfNdzxeYFvbDtu5th3bQkfWHNeT0PwaNf3JtLsOvzzQibEW-I4OfOBrY3Hi62KjRRECRQ8F0Eb-VWRPslrLiKJX1kbqEy2AfGnBrUTXoNeGxHC4OHXLSUTP0Xhrs/s320/perdoar.png" width="320" height="149" data-original-width="845" data-original-height="394" /></a></div>

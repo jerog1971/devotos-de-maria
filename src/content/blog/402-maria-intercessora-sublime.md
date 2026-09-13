@@ -1,7 +1,7 @@
 ---
 title: "Maria, intercessora sublime"
 date: 2017-02-01T21:41:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGFKcwhLOEpKjFssrywChpLjP9PNLP53JfvSBWbeqqzo1xEIH4Y7L31r79c8P_b4tBbIPtwIYl49FAheJaDL1PbfYnoBZuOo8KNeephZgahTWE0tzLqUPG5hqkebEXi2hgjj-XDBDulM0/s320/mae_das_maes.png"
+heroImage: "/images/mae_das_maes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGFKcwhLOEpKjFssrywChpLjP9PNLP53JfvSBWbeqqzo1xEIH4Y7L31r79c8P_b4tBbIPtwIYl49FAheJaDL1PbfYnoBZuOo8KNeephZgahTWE0tzLqUPG5hqkebEXi2hgjj-XDBDulM0/s1600/mae_das_maes.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="314" data-original-width="285" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGFKcwhLOEpKjFssrywChpLjP9PNLP53JfvSBWbeqqzo1xEIH4Y7L31r79c8P_b4tBbIPtwIYl49FAheJaDL1PbfYnoBZuOo8KNeephZgahTWE0tzLqUPG5hqkebEXi2hgjj-XDBDulM0/s320/mae_das_maes.png" width="290" /></a></div>

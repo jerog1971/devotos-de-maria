@@ -1,7 +1,7 @@
 ---
 title: "Racinha do “C4r4lh0”"
 date: 2016-06-27T20:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrNtf4gskXa5NsZs9Z-wSshiNU3y1vN7m3X5AwbHD28r8wrWHHav3Td7Ck95mI-3-tgkO3cnQZ1Y4S5gKqGT99RsrbMzE_2F6U4yZkIWYNtvOUg3Yiktbt0x6WnaapfGMuDZsTi4uvf2I/s320/palavrao.png"
+heroImage: "/images/palavrao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrNtf4gskXa5NsZs9Z-wSshiNU3y1vN7m3X5AwbHD28r8wrWHHav3Td7Ck95mI-3-tgkO3cnQZ1Y4S5gKqGT99RsrbMzE_2F6U4yZkIWYNtvOUg3Yiktbt0x6WnaapfGMuDZsTi4uvf2I/s1600/palavrao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrNtf4gskXa5NsZs9Z-wSshiNU3y1vN7m3X5AwbHD28r8wrWHHav3Td7Ck95mI-3-tgkO3cnQZ1Y4S5gKqGT99RsrbMzE_2F6U4yZkIWYNtvOUg3Yiktbt0x6WnaapfGMuDZsTi4uvf2I/s320/palavrao.png" width="320" height="212" data-original-width="440" data-original-height="291" /></a></div>

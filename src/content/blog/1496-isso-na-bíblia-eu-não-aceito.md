@@ -1,7 +1,7 @@
 ---
 title: "Isso na bíblia eu não aceito"
 date: 2016-10-27T14:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWybal4GMvX7LYKuHUIaUOKqA4WbRNvZDnnhr2k3Lh4byrubzkltrkYPQQAJiiTUVn4ymx-P6e0lQGqY9naRYFoILS8MW5jF-tBCKh4ZCbonlY1v4JQ_DwiZZdFGlAZi4wm-Jop0N4cQQ/s320/aceitar.png"
+heroImage: "/images/aceitar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWybal4GMvX7LYKuHUIaUOKqA4WbRNvZDnnhr2k3Lh4byrubzkltrkYPQQAJiiTUVn4ymx-P6e0lQGqY9naRYFoILS8MW5jF-tBCKh4ZCbonlY1v4JQ_DwiZZdFGlAZi4wm-Jop0N4cQQ/s1600/aceitar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWybal4GMvX7LYKuHUIaUOKqA4WbRNvZDnnhr2k3Lh4byrubzkltrkYPQQAJiiTUVn4ymx-P6e0lQGqY9naRYFoILS8MW5jF-tBCKh4ZCbonlY1v4JQ_DwiZZdFGlAZi4wm-Jop0N4cQQ/s320/aceitar.png" width="320" height="218" data-original-width="588" data-original-height="401" /></a></div>

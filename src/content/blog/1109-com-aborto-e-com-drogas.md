@@ -1,7 +1,7 @@
 ---
 title: "Com aborto e com drogas"
 date: 2022-09-13T15:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPKo4leozG0Qzzksf9t3JRVeM-71pm93qJYu7LHADJMWEqfkWijDWWhp0seJIOKTr0v_5ghM1xFE-0g41NICuWTY0Iu6Qy3cziXdhwbVRCDLpgg33gvnVmPuKPfllHjL7x7kl7IHR0mh9n8IZBFPqZ7BJZkxL5LKS-O2O5dJhMYtvFFTMwVMS1hwzs/s320/com%20aborto%20e%20com%20drogas.png"
+heroImage: "/images/aborto.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPKo4leozG0Qzzksf9t3JRVeM-71pm93qJYu7LHADJMWEqfkWijDWWhp0seJIOKTr0v_5ghM1xFE-0g41NICuWTY0Iu6Qy3cziXdhwbVRCDLpgg33gvnVmPuKPfllHjL7x7kl7IHR0mh9n8IZBFPqZ7BJZkxL5LKS-O2O5dJhMYtvFFTMwVMS1hwzs/s413/com%20aborto%20e%20com%20drogas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="413" data-original-width="316" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPKo4leozG0Qzzksf9t3JRVeM-71pm93qJYu7LHADJMWEqfkWijDWWhp0seJIOKTr0v_5ghM1xFE-0g41NICuWTY0Iu6Qy3cziXdhwbVRCDLpgg33gvnVmPuKPfllHjL7x7kl7IHR0mh9n8IZBFPqZ7BJZkxL5LKS-O2O5dJhMYtvFFTMwVMS1hwzs/s320/com%20aborto%20e%20com%20drogas.png" width="245" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Isso mesmo, o cristão que se preza precisa sim de muitos

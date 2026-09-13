@@ -1,7 +1,7 @@
 ---
 title: "Sabes usar seu livre arbítrio?"
 date: 2016-09-13T15:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIoxHgWU9SbZTZ1s_g9BIFUOFygVVYk3pmMc-5NrRW6vQLGWBDNNwEMBQRYUrFxZqo6ffnc3FvlhhipZagzeR28Au12LPzBSxoXhcCJOqXEmb6AZFdmo22BMCrfmncO1yGYgUGXNRGwKY/s320/lot.png"
+heroImage: "/images/lot.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIoxHgWU9SbZTZ1s_g9BIFUOFygVVYk3pmMc-5NrRW6vQLGWBDNNwEMBQRYUrFxZqo6ffnc3FvlhhipZagzeR28Au12LPzBSxoXhcCJOqXEmb6AZFdmo22BMCrfmncO1yGYgUGXNRGwKY/s1600/lot.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIoxHgWU9SbZTZ1s_g9BIFUOFygVVYk3pmMc-5NrRW6vQLGWBDNNwEMBQRYUrFxZqo6ffnc3FvlhhipZagzeR28Au12LPzBSxoXhcCJOqXEmb6AZFdmo22BMCrfmncO1yGYgUGXNRGwKY/s320/lot.png" width="320" height="273" data-original-width="266" data-original-height="227" /></a></div>

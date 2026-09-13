@@ -1,7 +1,7 @@
 ---
 title: "Amor Verdadeiro"
 date: 2015-07-13T14:05:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwVyzxtkafVCONeKPnWddMFSOczmrwlAciT9kc-k-st3RM9ddY2sgIfOXta-H0LbzrnQ9GurPoZHVXHtmDJ-bfV5uZopgcAIqT8gI6awpGPd6h9hbR5kyPYbBOPjBTpMnMlp35efQt1Dk/s320/jonathan_e_kellem.png"
+heroImage: "/images/jonathan_e_kellem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwVyzxtkafVCONeKPnWddMFSOczmrwlAciT9kc-k-st3RM9ddY2sgIfOXta-H0LbzrnQ9GurPoZHVXHtmDJ-bfV5uZopgcAIqT8gI6awpGPd6h9hbR5kyPYbBOPjBTpMnMlp35efQt1Dk/s1600/jonathan_e_kellem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwVyzxtkafVCONeKPnWddMFSOczmrwlAciT9kc-k-st3RM9ddY2sgIfOXta-H0LbzrnQ9GurPoZHVXHtmDJ-bfV5uZopgcAIqT8gI6awpGPd6h9hbR5kyPYbBOPjBTpMnMlp35efQt1Dk/s320/jonathan_e_kellem.png" width="320" height="211" data-original-width="618" data-original-height="408" /></a></div>

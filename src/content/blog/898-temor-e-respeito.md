@@ -1,7 +1,7 @@
 ---
 title: "Temor e Respeito"
 date: 2015-12-17T13:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFcm4H3ja5hf2vqu41iy4EhE7pfrFej_GqXEomsLxt1zm5joceS5Lzg5vzme_nQgUTI3iA2AaurUXDA2QgAzBX921Qs7DFvHpJUStytOd-s-Qkmpyk9VtkgeU3bhe8oLKCw0-swqn4TDU/s320/temor_e_respeito.png"
+heroImage: "/images/temor_e_respeito.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFcm4H3ja5hf2vqu41iy4EhE7pfrFej_GqXEomsLxt1zm5joceS5Lzg5vzme_nQgUTI3iA2AaurUXDA2QgAzBX921Qs7DFvHpJUStytOd-s-Qkmpyk9VtkgeU3bhe8oLKCw0-swqn4TDU/s1600/temor_e_respeito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFcm4H3ja5hf2vqu41iy4EhE7pfrFej_GqXEomsLxt1zm5joceS5Lzg5vzme_nQgUTI3iA2AaurUXDA2QgAzBX921Qs7DFvHpJUStytOd-s-Qkmpyk9VtkgeU3bhe8oLKCw0-swqn4TDU/s320/temor_e_respeito.png" width="320" height="270" data-original-width="282" data-original-height="238" /></a></div>

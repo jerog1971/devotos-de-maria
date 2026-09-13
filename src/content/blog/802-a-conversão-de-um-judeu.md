@@ -1,7 +1,7 @@
 ---
 title: "A conversão de um judeu"
 date: 2016-07-14T11:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhStz6aGa7WMG7-eHljOK3XNZyjhJfX62vxhHp0c6mN15jKzr7o9Tpv2Ij-117SG2H8F8zjjFyA1JfdP7CC00sf0v_GsT1gpuo4BgsxyVAfz2a5kdl__KPw749x3wZDCJAytQTZCOoBJL8/s320/hadaj.png"
+heroImage: "/images/hadaj.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhStz6aGa7WMG7-eHljOK3XNZyjhJfX62vxhHp0c6mN15jKzr7o9Tpv2Ij-117SG2H8F8zjjFyA1JfdP7CC00sf0v_GsT1gpuo4BgsxyVAfz2a5kdl__KPw749x3wZDCJAytQTZCOoBJL8/s1600/hadaj.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhStz6aGa7WMG7-eHljOK3XNZyjhJfX62vxhHp0c6mN15jKzr7o9Tpv2Ij-117SG2H8F8zjjFyA1JfdP7CC00sf0v_GsT1gpuo4BgsxyVAfz2a5kdl__KPw749x3wZDCJAytQTZCOoBJL8/s320/hadaj.png" width="320" height="287" data-original-width="578" data-original-height="519" /></a></div>

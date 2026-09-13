@@ -1,7 +1,7 @@
 ---
 title: "Os 10 segredos de Medjugorje - parte 02"
 date: 2017-12-15T15:31:00.007Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf46ZT7rtccAmHZAII2vX0g84kSTrkJBlVQgA1KKODKOXzf6VlXPOVS6LTLPSOnCePYDs94Y9l3O504Hn9f9adzKzseJ37r3xfPehe7hS5gLfRkAhjOmXe4J-59-FMbyzWoZTcY_P2Iik/s320/monte_das_aparicoes.png"
+heroImage: "/images/monte_das_aparicoes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf46ZT7rtccAmHZAII2vX0g84kSTrkJBlVQgA1KKODKOXzf6VlXPOVS6LTLPSOnCePYDs94Y9l3O504Hn9f9adzKzseJ37r3xfPehe7hS5gLfRkAhjOmXe4J-59-FMbyzWoZTcY_P2Iik/s1600/monte_das_aparicoes.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="264" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf46ZT7rtccAmHZAII2vX0g84kSTrkJBlVQgA1KKODKOXzf6VlXPOVS6LTLPSOnCePYDs94Y9l3O504Hn9f9adzKzseJ37r3xfPehe7hS5gLfRkAhjOmXe4J-59-FMbyzWoZTcY_P2Iik/s320/monte_das_aparicoes.png" width="319" /></a></div>

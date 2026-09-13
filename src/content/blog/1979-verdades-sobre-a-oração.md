@@ -1,7 +1,7 @@
 ---
 title: "Verdades sobre a Oração"
 date: 2017-08-23T16:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiva5xyBvIP31wUuIumgHIMrYpugw3Qoa_yOsrPL8yXYz7vODpXVj10KCBV6LW9nWNKSOt663dTDpNbitzzk-6cmn3QShg_QfOpr5SkmBEIqjsckHrx6YDYVJ_QmFUtZS79zabmbCZnXWI/s200/orantes.png"
+heroImage: "/images/orantes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiva5xyBvIP31wUuIumgHIMrYpugw3Qoa_yOsrPL8yXYz7vODpXVj10KCBV6LW9nWNKSOt663dTDpNbitzzk-6cmn3QShg_QfOpr5SkmBEIqjsckHrx6YDYVJ_QmFUtZS79zabmbCZnXWI/s1600/orantes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiva5xyBvIP31wUuIumgHIMrYpugw3Qoa_yOsrPL8yXYz7vODpXVj10KCBV6LW9nWNKSOt663dTDpNbitzzk-6cmn3QShg_QfOpr5SkmBEIqjsckHrx6YDYVJ_QmFUtZS79zabmbCZnXWI/s200/orantes.png" width="200" height="70" data-original-width="944" data-original-height="332" /></a></div>

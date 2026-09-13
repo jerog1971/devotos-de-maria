@@ -1,7 +1,7 @@
 ---
 title: "Não é contra homens de carne e sangue que temos de lutar"
 date: 2019-07-04T15:20:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAAhVfr4UYL4X0jCs9-PCTDPI11gBImZEtY7IO2BHfBl3tDeiK0F5262vwYZL5gMHOpUH-AJXmh6hDjlopsGgZYLjX7OV8_cn4BdrbvSdcsT3w1vIk3n6MdQsSbBsNiB-eQBY3q46bXQ/s320/batalha_espiritual.png"
+heroImage: "/images/batalha_espiritual.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAAhVfr4UYL4X0jCs9-PCTDPI11gBImZEtY7IO2BHfBl3tDeiK0F5262vwYZL5gMHOpUH-AJXmh6hDjlopsGgZYLjX7OV8_cn4BdrbvSdcsT3w1vIk3n6MdQsSbBsNiB-eQBY3q46bXQ/s1600/batalha_espiritual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAAhVfr4UYL4X0jCs9-PCTDPI11gBImZEtY7IO2BHfBl3tDeiK0F5262vwYZL5gMHOpUH-AJXmh6hDjlopsGgZYLjX7OV8_cn4BdrbvSdcsT3w1vIk3n6MdQsSbBsNiB-eQBY3q46bXQ/s320/batalha_espiritual.png" width="309" height="320" data-original-width="271" data-original-height="281" /></a></div>

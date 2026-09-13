@@ -1,7 +1,7 @@
 ---
 title: "O mestre"
 date: 2024-07-24T21:53:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSdepbkq2vorm-ekylEhOHSNQUP1XH94h91IIAsSB6xr6cswh83yOtAlsAYdxZmMs7ZuRAIkf0IYq8kFxrZ9nKaT2LIP15ZBZcI7505ASiCfSa23IsLLgYRo7XytRMpJV1ggnh7ESIWevL97WVQmZ8ZnfcEsKhJhe0Xmk1il1E1Qax-ql6k8Lejsxk9cw/s320/o%20mestre.png"
+heroImage: "/images/o mestre.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSdepbkq2vorm-ekylEhOHSNQUP1XH94h91IIAsSB6xr6cswh83yOtAlsAYdxZmMs7ZuRAIkf0IYq8kFxrZ9nKaT2LIP15ZBZcI7505ASiCfSa23IsLLgYRo7XytRMpJV1ggnh7ESIWevL97WVQmZ8ZnfcEsKhJhe0Xmk1il1E1Qax-ql6k8Lejsxk9cw/s529/o%20mestre.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="529" height="232" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSdepbkq2vorm-ekylEhOHSNQUP1XH94h91IIAsSB6xr6cswh83yOtAlsAYdxZmMs7ZuRAIkf0IYq8kFxrZ9nKaT2LIP15ZBZcI7505ASiCfSa23IsLLgYRo7XytRMpJV1ggnh7ESIWevL97WVQmZ8ZnfcEsKhJhe0Xmk1il1E1Qax-ql6k8Lejsxk9cw/s320/o%20mestre.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vós que estais cansados e fatigados.... aprendei de mim que

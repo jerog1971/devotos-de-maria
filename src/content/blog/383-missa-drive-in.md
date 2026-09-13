@@ -1,7 +1,7 @@
 ---
 title: "Missa Drive-in?"
 date: 2020-05-29T15:05:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRb_ChbjSkHQnrGt5TMMEWKE0CE_BH_aVti9zUXmQdxLqcKDWSxCjBdgieBP_sU3jZU__yUZrhGg5QUN9MhCZdm4dXZW7vFPdPeahP0oz0n681zvnMV2tm57j46nhgZk0lXbErTBWfGkg/s320/missa-drive-in.png"
+heroImage: "/images/missa-drive-in.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRb_ChbjSkHQnrGt5TMMEWKE0CE_BH_aVti9zUXmQdxLqcKDWSxCjBdgieBP_sU3jZU__yUZrhGg5QUN9MhCZdm4dXZW7vFPdPeahP0oz0n681zvnMV2tm57j46nhgZk0lXbErTBWfGkg/" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="497" data-original-width="606" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRb_ChbjSkHQnrGt5TMMEWKE0CE_BH_aVti9zUXmQdxLqcKDWSxCjBdgieBP_sU3jZU__yUZrhGg5QUN9MhCZdm4dXZW7vFPdPeahP0oz0n681zvnMV2tm57j46nhgZk0lXbErTBWfGkg/s320/missa-drive-in.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A Santa Missa; sobre ela podemos atestar na bíblia sua origem

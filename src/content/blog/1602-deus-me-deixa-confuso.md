@@ -1,7 +1,7 @@
 ---
 title: "Deus me deixa confuso"
 date: 2022-03-22T18:52:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRCUVW7S8uDt9chzofyfXHidwqZUW6neo1_HNKaCRqcDkCeV6WReW14zC4042VFkQ_NSYNqng5XBi888VJmzl65nm50qdD6QQ9SQmcmsO3NS3BTiWXkLQgYigm1n3ZgWZ-Loxbk0CWEiLL40dmx7nWEUktnj-mhSXCFsSmK3nFX2VqkkgOKHUu_Xl/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRCUVW7S8uDt9chzofyfXHidwqZUW6neo1_HNKaCRqcDkCeV6WReW14zC4042VFkQ_NSYNqng5XBi888VJmzl65nm50qdD6QQ9SQmcmsO3NS3BTiWXkLQgYigm1n3ZgWZ-Loxbk0CWEiLL40dmx7nWEUktnj-mhSXCFsSmK3nFX2VqkkgOKHUu_Xl/s408/sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRCUVW7S8uDt9chzofyfXHidwqZUW6neo1_HNKaCRqcDkCeV6WReW14zC4042VFkQ_NSYNqng5XBi888VJmzl65nm50qdD6QQ9SQmcmsO3NS3BTiWXkLQgYigm1n3ZgWZ-Loxbk0CWEiLL40dmx7nWEUktnj-mhSXCFsSmK3nFX2VqkkgOKHUu_Xl/s320/sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Olha só pessoal, arrisco dizer que possivelmente todo mundo

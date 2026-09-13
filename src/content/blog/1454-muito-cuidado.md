@@ -1,7 +1,7 @@
 ---
 title: "Muito Cuidado!"
 date: 2017-07-06T15:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFFnNfCJl0sAVhecM2xhxTSvWiYgjf8n1BXbR84hW968fGRDebcbLMeGb9vrREWa0Ywqsevp7xGCxWsEtvJgceYz4yg2osO1s0mdIw9HJBljt-Ke4X4kNwqJXcpQ-q28I57yTRvcD0nfY/s320/obesa.png"
+heroImage: "/images/obesa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFFnNfCJl0sAVhecM2xhxTSvWiYgjf8n1BXbR84hW968fGRDebcbLMeGb9vrREWa0Ywqsevp7xGCxWsEtvJgceYz4yg2osO1s0mdIw9HJBljt-Ke4X4kNwqJXcpQ-q28I57yTRvcD0nfY/s1600/obesa.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="396" data-original-width="354" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFFnNfCJl0sAVhecM2xhxTSvWiYgjf8n1BXbR84hW968fGRDebcbLMeGb9vrREWa0Ywqsevp7xGCxWsEtvJgceYz4yg2osO1s0mdIw9HJBljt-Ke4X4kNwqJXcpQ-q28I57yTRvcD0nfY/s320/obesa.png" width="286" /></a></div>

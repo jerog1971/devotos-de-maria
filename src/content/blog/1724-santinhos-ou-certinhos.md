@@ -1,7 +1,7 @@
 ---
 title: "Santinhos ou Certinhos?"
 date: 2018-11-05T15:13:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2eHYYRBWjfx8BpZe0p66U_RyMrARw1DRkwLV7D3RLt40qUpTsHrFZjKIOC-Wc-sNR-YLqaAbE-dv3OOv4wnvKROb2AM73zC8tA3q3gKzd-Z6TTUDHZtrN-beSdZ7C2imSwdiE0i53P8g/s320/certinho.png"
+heroImage: "/images/certinho.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2eHYYRBWjfx8BpZe0p66U_RyMrARw1DRkwLV7D3RLt40qUpTsHrFZjKIOC-Wc-sNR-YLqaAbE-dv3OOv4wnvKROb2AM73zC8tA3q3gKzd-Z6TTUDHZtrN-beSdZ7C2imSwdiE0i53P8g/s1600/certinho.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="334" data-original-width="363" height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2eHYYRBWjfx8BpZe0p66U_RyMrARw1DRkwLV7D3RLt40qUpTsHrFZjKIOC-Wc-sNR-YLqaAbE-dv3OOv4wnvKROb2AM73zC8tA3q3gKzd-Z6TTUDHZtrN-beSdZ7C2imSwdiE0i53P8g/s320/certinho.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Está se achando o santinho! Não adianta, ele é todo certinho! Estas entre outras frases perambulam por aí, vagando de discussões em discussões. Algumas vezes utilizadas para tentar expressar uma espécie de elogio; outras vezes utilizadas para caracterizar um pensamento ofensivo. Seja como for, qual seria o pano de fundo que leva alguém a utilizar tais expressões?

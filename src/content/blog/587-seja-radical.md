@@ -1,7 +1,7 @@
 ---
 title: "Seja Radical"
 date: 2019-11-14T16:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsm9etME9iDr-a7LadueOJu-_5I54xow6onFil-nVqhq8JiCGCzH6qBmPW0cW28Isidna9oUMAd3DXdYpR9AJDGv_fKstYPd34bPvcjIerkKy0tDbObeKjef7tCwQW0mZwVLNlCWdOU-k/s320/radical_como_Jesus.png"
+heroImage: "/images/radical_como_Jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsm9etME9iDr-a7LadueOJu-_5I54xow6onFil-nVqhq8JiCGCzH6qBmPW0cW28Isidna9oUMAd3DXdYpR9AJDGv_fKstYPd34bPvcjIerkKy0tDbObeKjef7tCwQW0mZwVLNlCWdOU-k/s1600/radical_como_Jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsm9etME9iDr-a7LadueOJu-_5I54xow6onFil-nVqhq8JiCGCzH6qBmPW0cW28Isidna9oUMAd3DXdYpR9AJDGv_fKstYPd34bPvcjIerkKy0tDbObeKjef7tCwQW0mZwVLNlCWdOU-k/s320/radical_como_Jesus.png" width="320" height="250" data-original-width="278" data-original-height="217" /></a></div>

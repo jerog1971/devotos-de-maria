@@ -1,7 +1,7 @@
 ---
 title: "Destruição das famílias"
 date: 2017-03-07T22:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDL7N-c9dD-O8i3q9PTCXjAvPwjXC72_a3OfLiy3vt-dBn61CnCNrUQeAH2nC4nQrL_gKCDBR26IKge8debc-U5bDxEfgLgdui1IPBWOUC6e2iJztWDoYh1uwDXzn7TcAp2O7H-S6Io9M/s320/familias.png"
+heroImage: "/images/familias.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDL7N-c9dD-O8i3q9PTCXjAvPwjXC72_a3OfLiy3vt-dBn61CnCNrUQeAH2nC4nQrL_gKCDBR26IKge8debc-U5bDxEfgLgdui1IPBWOUC6e2iJztWDoYh1uwDXzn7TcAp2O7H-S6Io9M/s1600/familias.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDL7N-c9dD-O8i3q9PTCXjAvPwjXC72_a3OfLiy3vt-dBn61CnCNrUQeAH2nC4nQrL_gKCDBR26IKge8debc-U5bDxEfgLgdui1IPBWOUC6e2iJztWDoYh1uwDXzn7TcAp2O7H-S6Io9M/s320/familias.png" width="320" height="284" data-original-width="320" data-original-height="284" /></a></div>

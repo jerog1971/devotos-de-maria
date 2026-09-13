@@ -1,7 +1,7 @@
 ---
 title: "Cartas para Deus"
 date: 2017-09-13T12:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbhM7yjUJgNdEld5rawDZR6N6vWldyqAfc34bN9CzRFA3P44FV7gnuO_6a_gRg0raxGM1ORGnzzAyEmULr59qlxqzd8yIxmYcFBeNdcNUIlW1tZOSG8vEDCuFcoG9O9dka2LQQwBSjVcg/s320/cartas_para_deus.png"
+heroImage: "/images/cartas_para_deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbhM7yjUJgNdEld5rawDZR6N6vWldyqAfc34bN9CzRFA3P44FV7gnuO_6a_gRg0raxGM1ORGnzzAyEmULr59qlxqzd8yIxmYcFBeNdcNUIlW1tZOSG8vEDCuFcoG9O9dka2LQQwBSjVcg/s1600/cartas_para_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbhM7yjUJgNdEld5rawDZR6N6vWldyqAfc34bN9CzRFA3P44FV7gnuO_6a_gRg0raxGM1ORGnzzAyEmULr59qlxqzd8yIxmYcFBeNdcNUIlW1tZOSG8vEDCuFcoG9O9dka2LQQwBSjVcg/s320/cartas_para_deus.png" width="237" height="320" data-original-width="716" data-original-height="967" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Até o Sangue"
 date: 2020-02-12T16:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQO1sewBj00dG2eiApsPdQDPvqKRf0vFGYOgargVSlBWmsW3wkSnohEL9EwSlFCSGmuvNj7GSn69GWj5F36U83b-MpV4OrT3hmhbvTqQvi0YAzy3di5eY5iDfszUake35cLSCpoCs1Tjk/s320/cordeiro.png"
+heroImage: "/images/cordeiro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQO1sewBj00dG2eiApsPdQDPvqKRf0vFGYOgargVSlBWmsW3wkSnohEL9EwSlFCSGmuvNj7GSn69GWj5F36U83b-MpV4OrT3hmhbvTqQvi0YAzy3di5eY5iDfszUake35cLSCpoCs1Tjk/s1600/cordeiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQO1sewBj00dG2eiApsPdQDPvqKRf0vFGYOgargVSlBWmsW3wkSnohEL9EwSlFCSGmuvNj7GSn69GWj5F36U83b-MpV4OrT3hmhbvTqQvi0YAzy3di5eY5iDfszUake35cLSCpoCs1Tjk/s320/cordeiro.png" width="320" height="301" data-original-width="219" data-original-height="206" /></a></div>

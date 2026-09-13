@@ -1,7 +1,7 @@
 ---
 title: "O ministério"
 date: 2017-05-23T14:44:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J8uKmFDUCR6SWl51NXlGicOt_sZgVmILpWUlYogUDwy01I-ccHOOfdloEHmfkzoph2HgElMbl6Nmygtt5EKwsRY4SdIN7EgAQviaJ4DB5Iu_gqfjsvopR-dRHMeOfTABBTFoFBKW28U/s320/reunidos.png"
+heroImage: "/images/reunidos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J8uKmFDUCR6SWl51NXlGicOt_sZgVmILpWUlYogUDwy01I-ccHOOfdloEHmfkzoph2HgElMbl6Nmygtt5EKwsRY4SdIN7EgAQviaJ4DB5Iu_gqfjsvopR-dRHMeOfTABBTFoFBKW28U/s1600/reunidos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="287" data-original-width="292" height="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J8uKmFDUCR6SWl51NXlGicOt_sZgVmILpWUlYogUDwy01I-ccHOOfdloEHmfkzoph2HgElMbl6Nmygtt5EKwsRY4SdIN7EgAQviaJ4DB5Iu_gqfjsvopR-dRHMeOfTABBTFoFBKW28U/s320/reunidos.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Um lápis é um tipo de instrumento. Ele pode nos servir conforme seu propósito. Sua utilidade não se altera até que, de tão pequeno por termos o apontado ao longo do tempo em que ele foi sendo usado, termina por fim por ser descartado devido ao seu tamanho tão reduzido não permitir mais que possa ser empunhado para se escrever com ele. Por ser inanimado, o lápis só desempenha seu papel de acordo com a vontade e necessidade do usuário.

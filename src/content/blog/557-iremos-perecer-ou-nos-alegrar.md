@@ -1,7 +1,7 @@
 ---
 title: "Iremos perecer ou nos alegrar"
 date: 2022-11-04T15:59:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDnsCDZY_IEeQAebD9ilj_IWTSJXnoWdz9YvX_LqvdZBC4yMe2CrrB2k18xXxwBarO8YFd2ng0qzHJlQ1iGh7iPcndKUrZtqxSCaRYQe-SXmLU35LApT8WGTQsuDhHfQG6BaXx9zjT-KwHkRFbOB15EBrC_qeKTE6VYxini3mw1uuSduHD5b3q2gaT/s320/iremos%20perecer%20ou%20nos%20alegrar.png"
+heroImage: "/images/iremos perecer ou nos alegrar.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDnsCDZY_IEeQAebD9ilj_IWTSJXnoWdz9YvX_LqvdZBC4yMe2CrrB2k18xXxwBarO8YFd2ng0qzHJlQ1iGh7iPcndKUrZtqxSCaRYQe-SXmLU35LApT8WGTQsuDhHfQG6BaXx9zjT-KwHkRFbOB15EBrC_qeKTE6VYxini3mw1uuSduHD5b3q2gaT/s397/iremos%20perecer%20ou%20nos%20alegrar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="228" data-original-width="397" height="184" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDnsCDZY_IEeQAebD9ilj_IWTSJXnoWdz9YvX_LqvdZBC4yMe2CrrB2k18xXxwBarO8YFd2ng0qzHJlQ1iGh7iPcndKUrZtqxSCaRYQe-SXmLU35LApT8WGTQsuDhHfQG6BaXx9zjT-KwHkRFbOB15EBrC_qeKTE6VYxini3mw1uuSduHD5b3q2gaT/s320/iremos%20perecer%20ou%20nos%20alegrar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sem dúvida uma das passagens mais agradáveis de se ler na bíblia

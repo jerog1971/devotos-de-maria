@@ -1,7 +1,7 @@
 ---
 title: "De um mau Deus pode tirar algo de bom?"
 date: 2018-08-15T16:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY0fIk-o8hXO281DBDqa2-754sc8SdBVFKzSO35uzfRe8oh5tByxGHvSgbgEWQVi89qvrK1eEOfwS_4b552wq7sBJE-ej0SQf_JefWk4Ok_eTtVX_9C0uLhiWUXdZkjThrEtcyDRERXeY/s320/mal.png"
+heroImage: "/images/A vigilância do mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY0fIk-o8hXO281DBDqa2-754sc8SdBVFKzSO35uzfRe8oh5tByxGHvSgbgEWQVi89qvrK1eEOfwS_4b552wq7sBJE-ej0SQf_JefWk4Ok_eTtVX_9C0uLhiWUXdZkjThrEtcyDRERXeY/s1600/mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY0fIk-o8hXO281DBDqa2-754sc8SdBVFKzSO35uzfRe8oh5tByxGHvSgbgEWQVi89qvrK1eEOfwS_4b552wq7sBJE-ej0SQf_JefWk4Ok_eTtVX_9C0uLhiWUXdZkjThrEtcyDRERXeY/s320/mal.png" width="320" height="315" data-original-width="348" data-original-height="343" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O comprometimento do católico com a salvação"
 date: 2016-08-19T20:12:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiirmxD6NGhhnpRqUpw4Po8vXhsoXcGdyUKXkXHKIOUwd7orrJ4bJsCrbaO-fI9qmF3z8orxzLXb5Z1gLb3lbM5Fh1y75m0pK2THW6PaHX-AhevXh682aHgdPt64MHHy0Yl6nNb9Xylt1U/s320/comprometimento.png"
+heroImage: "/images/comprometimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiirmxD6NGhhnpRqUpw4Po8vXhsoXcGdyUKXkXHKIOUwd7orrJ4bJsCrbaO-fI9qmF3z8orxzLXb5Z1gLb3lbM5Fh1y75m0pK2THW6PaHX-AhevXh682aHgdPt64MHHy0Yl6nNb9Xylt1U/s1600/comprometimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiirmxD6NGhhnpRqUpw4Po8vXhsoXcGdyUKXkXHKIOUwd7orrJ4bJsCrbaO-fI9qmF3z8orxzLXb5Z1gLb3lbM5Fh1y75m0pK2THW6PaHX-AhevXh682aHgdPt64MHHy0Yl6nNb9Xylt1U/s320/comprometimento.png" width="320" height="304" data-original-width="345" data-original-height="328" /></a></div>

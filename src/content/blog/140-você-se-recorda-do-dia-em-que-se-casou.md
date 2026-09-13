@@ -1,7 +1,7 @@
 ---
 title: "Você se recorda do dia em que se casou?"
 date: 2019-01-29T11:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOrRDpUd8bMq7EQSleQRmS1CIx-WjzZ49DPIK9o7FnJl3Hl7fKEyhHkSvfAVWFR8xFjzt7x8pOe3eMUu0M8iR34nFVf5ieqLMRjxNvE9ItgzypjCQ40cr_tBbDtpCEFEvws_lM_LqG6LY/s320/casando.png"
+heroImage: "/images/casando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOrRDpUd8bMq7EQSleQRmS1CIx-WjzZ49DPIK9o7FnJl3Hl7fKEyhHkSvfAVWFR8xFjzt7x8pOe3eMUu0M8iR34nFVf5ieqLMRjxNvE9ItgzypjCQ40cr_tBbDtpCEFEvws_lM_LqG6LY/s1600/casando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOrRDpUd8bMq7EQSleQRmS1CIx-WjzZ49DPIK9o7FnJl3Hl7fKEyhHkSvfAVWFR8xFjzt7x8pOe3eMUu0M8iR34nFVf5ieqLMRjxNvE9ItgzypjCQ40cr_tBbDtpCEFEvws_lM_LqG6LY/s320/casando.png" width="320" height="302" data-original-width="551" data-original-height="520" /></a></div>

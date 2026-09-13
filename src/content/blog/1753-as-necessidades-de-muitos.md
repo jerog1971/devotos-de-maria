@@ -1,7 +1,7 @@
 ---
 title: "As necessidades de muitos"
 date: 2017-05-18T14:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBfLUZhcSSz0JXPSAp56SRjZ_JigmL2e6avkomh75BIx7BKl0UBrQGFQMDpKT-23z_Lz9jdgyxFZN-YqrdCTDbs4zVh4j3NGNedXGm4n9HjxAYPyXtzApvLW1F8KCweebxTNLKxjNzJoU/s320/spock.png"
+heroImage: "/images/spock.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBfLUZhcSSz0JXPSAp56SRjZ_JigmL2e6avkomh75BIx7BKl0UBrQGFQMDpKT-23z_Lz9jdgyxFZN-YqrdCTDbs4zVh4j3NGNedXGm4n9HjxAYPyXtzApvLW1F8KCweebxTNLKxjNzJoU/s1600/spock.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="486" height="228" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBfLUZhcSSz0JXPSAp56SRjZ_JigmL2e6avkomh75BIx7BKl0UBrQGFQMDpKT-23z_Lz9jdgyxFZN-YqrdCTDbs4zVh4j3NGNedXGm4n9HjxAYPyXtzApvLW1F8KCweebxTNLKxjNzJoU/s320/spock.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>As necessidades de muitos superam as necessidades de poucos ou de um só. Caros leitores, bem-vindos novamente. Nesta pequena reflexão iremos aproveitar uma cena de ficção do filme Star Trek II – A ira de Khan, para extrair uma mensagem aplicando, conforme a natureza deste site, um cunho religioso. Muitas outras denominações também fizeram o mesmo exercício, cada qual dentro da vertente de conhecimento que acreditam e professam. Por aqui não será diferente. Vamos lá.

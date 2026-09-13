@@ -1,7 +1,7 @@
 ---
 title: "Não dar ouvidos"
 date: 2017-05-26T16:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT4a7nW7O7GZhn8Pl0yvHi1c-GP8QMvpwDAYTrUjFV2WYIKI2Gi1A6cqLi2-S1Kkl_ToGdwrscRgAodMCircRyOcEKSCeAoWEZ7KuIAtmZDtVFfP80ncERZKNMAmooS8yNjtH9fItLeWc/s320/darouvidos.png"
+heroImage: "/images/darouvidos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT4a7nW7O7GZhn8Pl0yvHi1c-GP8QMvpwDAYTrUjFV2WYIKI2Gi1A6cqLi2-S1Kkl_ToGdwrscRgAodMCircRyOcEKSCeAoWEZ7KuIAtmZDtVFfP80ncERZKNMAmooS8yNjtH9fItLeWc/s1600/darouvidos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="208" data-original-width="223" height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT4a7nW7O7GZhn8Pl0yvHi1c-GP8QMvpwDAYTrUjFV2WYIKI2Gi1A6cqLi2-S1Kkl_ToGdwrscRgAodMCircRyOcEKSCeAoWEZ7KuIAtmZDtVFfP80ncERZKNMAmooS8yNjtH9fItLeWc/s320/darouvidos.png" width="320" /></a></div>

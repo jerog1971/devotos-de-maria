@@ -1,7 +1,7 @@
 ---
 title: "As linhas de Deus"
 date: 2023-03-22T20:44:00.007Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPbk7lAT78TRgHBejDSPGMisk-IMRjs6OomG_67xEuo-7peQNV4UmeDtmJqX2OeTAE_-LUFueHwDKRJWwLL87YJz7_KDmOlX-aDUVfTX7d9CFMfucvB485QMWiZGCmOvFFMdCndW2pYPGwDL-8cdCOBn1DzriwSe_WcIbHYJkLwQiqxzTaQuVkF8VD/s320/as%20linhas%20de%20deus.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPbk7lAT78TRgHBejDSPGMisk-IMRjs6OomG_67xEuo-7peQNV4UmeDtmJqX2OeTAE_-LUFueHwDKRJWwLL87YJz7_KDmOlX-aDUVfTX7d9CFMfucvB485QMWiZGCmOvFFMdCndW2pYPGwDL-8cdCOBn1DzriwSe_WcIbHYJkLwQiqxzTaQuVkF8VD/s426/as%20linhas%20de%20deus.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="320" data-original-width="426" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPbk7lAT78TRgHBejDSPGMisk-IMRjs6OomG_67xEuo-7peQNV4UmeDtmJqX2OeTAE_-LUFueHwDKRJWwLL87YJz7_KDmOlX-aDUVfTX7d9CFMfucvB485QMWiZGCmOvFFMdCndW2pYPGwDL-8cdCOBn1DzriwSe_WcIbHYJkLwQiqxzTaQuVkF8VD/s320/as%20linhas%20de%20deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Era uma tarde de trabalho; pela primeira vez saía com um motorista

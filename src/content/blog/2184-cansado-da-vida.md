@@ -1,7 +1,7 @@
 ---
 title: "Cansado da vida"
 date: 2022-06-22T15:37:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFv7x7GiSeXXZlhIFwhWr6DqP2zXbGiA63nk0asFyeVqXgqJdYsDNJsSeYSH99RjBbVCVSJH1io42LAxcjS5KIUzkcWZHalzhP4Ytu3NsoHc28muvfJIHhxvvsJVF_EPHTLVRhDq1iN2Fwn_2_o0mlicT2mW4QjTmB4RlTVXled3r6_wB_lxMA6eJG/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFv7x7GiSeXXZlhIFwhWr6DqP2zXbGiA63nk0asFyeVqXgqJdYsDNJsSeYSH99RjBbVCVSJH1io42LAxcjS5KIUzkcWZHalzhP4Ytu3NsoHc28muvfJIHhxvvsJVF_EPHTLVRhDq1iN2Fwn_2_o0mlicT2mW4QjTmB4RlTVXled3r6_wB_lxMA6eJG/s408/sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFv7x7GiSeXXZlhIFwhWr6DqP2zXbGiA63nk0asFyeVqXgqJdYsDNJsSeYSH99RjBbVCVSJH1io42LAxcjS5KIUzkcWZHalzhP4Ytu3NsoHc28muvfJIHhxvvsJVF_EPHTLVRhDq1iN2Fwn_2_o0mlicT2mW4QjTmB4RlTVXled3r6_wB_lxMA6eJG/s320/sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida do sujeito que almeja ir ao céu, diariamente não

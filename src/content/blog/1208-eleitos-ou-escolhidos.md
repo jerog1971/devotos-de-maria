@@ -1,7 +1,7 @@
 ---
 title: "Eleitos ou Escolhidos?"
 date: 2018-08-03T20:35:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEsZyTF48CFF9Chyo_tauSHZHbL6sfEbSpbKRbGCof3fW7LEaNHE-e1bLu4Eyt1E5YvWatmY8Zdrs_DYAhyphenhyphenGKjDlYRo8W9LmQDLh0e1smNkmSFyCXFdN_eXieAHwOtYwIGG4mvHu1T1H8/s320/escolhidos.jpg"
+heroImage: "/images/escolhidos.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEsZyTF48CFF9Chyo_tauSHZHbL6sfEbSpbKRbGCof3fW7LEaNHE-e1bLu4Eyt1E5YvWatmY8Zdrs_DYAhyphenhyphenGKjDlYRo8W9LmQDLh0e1smNkmSFyCXFdN_eXieAHwOtYwIGG4mvHu1T1H8/s1600/escolhidos.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="640" data-original-width="640" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEsZyTF48CFF9Chyo_tauSHZHbL6sfEbSpbKRbGCof3fW7LEaNHE-e1bLu4Eyt1E5YvWatmY8Zdrs_DYAhyphenhyphenGKjDlYRo8W9LmQDLh0e1smNkmSFyCXFdN_eXieAHwOtYwIGG4mvHu1T1H8/s320/escolhidos.jpg" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Mateus 20,16 – “Muitos serão os chamados, mas poucos os ESCOLHIDOS”.

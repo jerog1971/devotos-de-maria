@@ -1,7 +1,7 @@
 ---
 title: "Chuveiro Espiritual"
 date: 2018-05-09T20:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnX4A6rmLRNBDklA5a1ojILfUvL20oLnLWWiqHXxmwMj9t0QBt59_XkFKWOe_3iN9teTGlAOLoRHmne4_plFPdLt0oGeD4sGtvYYRiQpklXqNmvBn-1k7Mac4Thgun2JdaDQ8W8pF__0M/s320/confessar.png"
+heroImage: "/images/confessar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnX4A6rmLRNBDklA5a1ojILfUvL20oLnLWWiqHXxmwMj9t0QBt59_XkFKWOe_3iN9teTGlAOLoRHmne4_plFPdLt0oGeD4sGtvYYRiQpklXqNmvBn-1k7Mac4Thgun2JdaDQ8W8pF__0M/s1600/confessar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnX4A6rmLRNBDklA5a1ojILfUvL20oLnLWWiqHXxmwMj9t0QBt59_XkFKWOe_3iN9teTGlAOLoRHmne4_plFPdLt0oGeD4sGtvYYRiQpklXqNmvBn-1k7Mac4Thgun2JdaDQ8W8pF__0M/s320/confessar.png" width="320" height="313" data-original-width="529" data-original-height="518" /></a></div>

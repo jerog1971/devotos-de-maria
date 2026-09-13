@@ -1,7 +1,7 @@
 ---
 title: "Quietos no seu lugar"
 date: 2021-06-09T15:38:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_2xZ3MkMOiGvp_W8dVssjHe_ql0iOdZh66fNymzCzxx6pG-pk_sKmCa5H_iv9COv6AyVCq3B1QT3Lo0WD0JBvWe2yWKpP79O5ZHIKrcqmysf_zEo38hE-w0GItJMAjV4VEFwwc3T4bAk/s0/quietos+no+seu+lugar.png"
+heroImage: "/images/quieto.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_2xZ3MkMOiGvp_W8dVssjHe_ql0iOdZh66fNymzCzxx6pG-pk_sKmCa5H_iv9COv6AyVCq3B1QT3Lo0WD0JBvWe2yWKpP79O5ZHIKrcqmysf_zEo38hE-w0GItJMAjV4VEFwwc3T4bAk/s317/quietos+no+seu+lugar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="317" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_2xZ3MkMOiGvp_W8dVssjHe_ql0iOdZh66fNymzCzxx6pG-pk_sKmCa5H_iv9COv6AyVCq3B1QT3Lo0WD0JBvWe2yWKpP79O5ZHIKrcqmysf_zEo38hE-w0GItJMAjV4VEFwwc3T4bAk/s0/quietos+no+seu+lugar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que a alma humana padece em suas batalhas

@@ -1,7 +1,7 @@
 ---
 title: "Gênero nos livros paradidáticos"
 date: 2015-07-24T20:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijABTeI56bssVTnl24U8eyhV5YweaMGg9jofxVI9JuGrMkNDO5MHIuXvWAE6LSp9x3_K73k_RGQzUovoeKTIl2YXM7fsRPApJO1bcmVrmVR1-jzEdKjOmFVHgcEHdd9AV60D3EvfvkdiQ/s320/livro_paradidatico.png"
+heroImage: "/images/livro_paradidatico.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijABTeI56bssVTnl24U8eyhV5YweaMGg9jofxVI9JuGrMkNDO5MHIuXvWAE6LSp9x3_K73k_RGQzUovoeKTIl2YXM7fsRPApJO1bcmVrmVR1-jzEdKjOmFVHgcEHdd9AV60D3EvfvkdiQ/s1600/livro_paradidatico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijABTeI56bssVTnl24U8eyhV5YweaMGg9jofxVI9JuGrMkNDO5MHIuXvWAE6LSp9x3_K73k_RGQzUovoeKTIl2YXM7fsRPApJO1bcmVrmVR1-jzEdKjOmFVHgcEHdd9AV60D3EvfvkdiQ/s320/livro_paradidatico.png" width="320" height="185" data-original-width="638" data-original-height="369" /></a></div>

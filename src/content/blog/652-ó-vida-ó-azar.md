@@ -1,7 +1,7 @@
 ---
 title: "Ó vida, ó azar"
 date: 2018-07-11T15:23:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYyRT1jFIjwSJBdYwJj6gvAJwF3tJ3SmIBpFpT0aOZ4O5HGPzWFeuabPOwDRwDJTRFeowmAQ_Jtqkn1Dv_TJOMlJ6Gom4FfgqyK_7wYSjrphAyM_oIab6a7vkYM7OXv-KZW0hre7rdgg/s320/lamentar.png"
+heroImage: "/images/lamentar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYyRT1jFIjwSJBdYwJj6gvAJwF3tJ3SmIBpFpT0aOZ4O5HGPzWFeuabPOwDRwDJTRFeowmAQ_Jtqkn1Dv_TJOMlJ6Gom4FfgqyK_7wYSjrphAyM_oIab6a7vkYM7OXv-KZW0hre7rdgg/s1600/lamentar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYyRT1jFIjwSJBdYwJj6gvAJwF3tJ3SmIBpFpT0aOZ4O5HGPzWFeuabPOwDRwDJTRFeowmAQ_Jtqkn1Dv_TJOMlJ6Gom4FfgqyK_7wYSjrphAyM_oIab6a7vkYM7OXv-KZW0hre7rdgg/s320/lamentar.png" width="320" height="305" data-original-width="487" data-original-height="464" /></a></div>

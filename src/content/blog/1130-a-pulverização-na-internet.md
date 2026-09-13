@@ -1,7 +1,7 @@
 ---
 title: "A pulverização na internet"
 date: 2019-05-08T18:44:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTxyDl4lBr7iOhDFfAlwzNwwIesEGnpkVK12ivmhGPCUv_Y0E8wghMF9axjI9ytKHTL53gLbUKujXNbBFoaxgAE03GSOaOoeDiB-cMrmTrySFB-GWlB32fDZyYMojX_AxcKPqw3m1uqw/s320/jejum.png"
+heroImage: "/images/jejum.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTxyDl4lBr7iOhDFfAlwzNwwIesEGnpkVK12ivmhGPCUv_Y0E8wghMF9axjI9ytKHTL53gLbUKujXNbBFoaxgAE03GSOaOoeDiB-cMrmTrySFB-GWlB32fDZyYMojX_AxcKPqw3m1uqw/s1600/jejum.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTxyDl4lBr7iOhDFfAlwzNwwIesEGnpkVK12ivmhGPCUv_Y0E8wghMF9axjI9ytKHTL53gLbUKujXNbBFoaxgAE03GSOaOoeDiB-cMrmTrySFB-GWlB32fDZyYMojX_AxcKPqw3m1uqw/s320/jejum.png" width="283" height="320" data-original-width="355" data-original-height="402" /></a></div>

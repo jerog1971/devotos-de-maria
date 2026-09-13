@@ -1,7 +1,7 @@
 ---
 title: "Eu e minha casa serviremos ao Senhor"
 date: 2019-02-19T19:53:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg53kki5l5iaT7ba40XA6aPdMdxiDtId9SMDZWtVUZz_DZbXEQmsv6X8JPdpR2uXXPalGVnpPp5qZpM6YMcZWVcRR34Y4dv4Q0x-SlB-yrmQsJtgNy5CLbI5oACNXImNf_PD6OtOJHbFaE/s320/servir_ao_senhor.png"
+heroImage: "/images/servir_ao_senhor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg53kki5l5iaT7ba40XA6aPdMdxiDtId9SMDZWtVUZz_DZbXEQmsv6X8JPdpR2uXXPalGVnpPp5qZpM6YMcZWVcRR34Y4dv4Q0x-SlB-yrmQsJtgNy5CLbI5oACNXImNf_PD6OtOJHbFaE/s1600/servir_ao_senhor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg53kki5l5iaT7ba40XA6aPdMdxiDtId9SMDZWtVUZz_DZbXEQmsv6X8JPdpR2uXXPalGVnpPp5qZpM6YMcZWVcRR34Y4dv4Q0x-SlB-yrmQsJtgNy5CLbI5oACNXImNf_PD6OtOJHbFaE/s320/servir_ao_senhor.png" width="320" height="300" data-original-width="389" data-original-height="365" /></a></div>

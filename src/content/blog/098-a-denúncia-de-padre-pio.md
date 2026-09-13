@@ -1,7 +1,7 @@
 ---
 title: "A denúncia de Padre Pio"
 date: 2016-03-03T14:46:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyU9tDy5dwNc4BsxnBqyoD4b4s2W3tqlAUtLkfXXsLL60gs7Db_TsFCS94MB8PyCd8bCYmIDMxaqn2q3rEp7uQAKCGrYH6Bt6tYvHjjo1IW1YZpCVUGzmZHDsTaT55q4uO6E10TbFK42M/s320/padre_pio.png"
+heroImage: "/images/padre_pio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyU9tDy5dwNc4BsxnBqyoD4b4s2W3tqlAUtLkfXXsLL60gs7Db_TsFCS94MB8PyCd8bCYmIDMxaqn2q3rEp7uQAKCGrYH6Bt6tYvHjjo1IW1YZpCVUGzmZHDsTaT55q4uO6E10TbFK42M/s1600/padre_pio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyU9tDy5dwNc4BsxnBqyoD4b4s2W3tqlAUtLkfXXsLL60gs7Db_TsFCS94MB8PyCd8bCYmIDMxaqn2q3rEp7uQAKCGrYH6Bt6tYvHjjo1IW1YZpCVUGzmZHDsTaT55q4uO6E10TbFK42M/s320/padre_pio.png" width="252" height="320" data-original-width="268" data-original-height="340" /></a></div>

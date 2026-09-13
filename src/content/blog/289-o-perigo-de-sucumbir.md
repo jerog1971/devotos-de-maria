@@ -1,7 +1,7 @@
 ---
 title: "O perigo de sucumbir"
 date: 2021-10-17T16:29:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxXg4UOJu1EEN3BqjZMfsMoEqBMHOvXQq0OfiDSXeWg3nGciJndviSEEVILmglxpUmwgyJ034KghQBMnBDgzkM9xw9hfmYewAv6vkpEoDdNwiVRnEj7cZ-miSrTv1_G6g-GyhNgfD7wCk/w279-h260/o+perigo+de+sucumbir.png"
+heroImage: "/images/perigo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxXg4UOJu1EEN3BqjZMfsMoEqBMHOvXQq0OfiDSXeWg3nGciJndviSEEVILmglxpUmwgyJ034KghQBMnBDgzkM9xw9hfmYewAv6vkpEoDdNwiVRnEj7cZ-miSrTv1_G6g-GyhNgfD7wCk/s201/o+perigo+de+sucumbir.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="187" data-original-width="201" height="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxXg4UOJu1EEN3BqjZMfsMoEqBMHOvXQq0OfiDSXeWg3nGciJndviSEEVILmglxpUmwgyJ034KghQBMnBDgzkM9xw9hfmYewAv6vkpEoDdNwiVRnEj7cZ-miSrTv1_G6g-GyhNgfD7wCk/w279-h260/o+perigo+de+sucumbir.png" width="279" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nos dicionários encontramos para a definição da expressão ‘sucumbir’:

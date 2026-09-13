@@ -1,7 +1,7 @@
 ---
 title: "A esposa e os filhos"
 date: 2015-10-13T12:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIiiXDFuKlcRXG0ppKF3sttSe6yvLCWh9GpGXmwGANzjoGs9N4iItABBI7iet-xRi-XXvh3qa9Zl_N378fNLIBzzbDjlKpELulHBkBlRD1fWATu2WWOpTCMkzaq57GK6ryDwo8bbid5Q/s320/esposa_e_filhos.png"
+heroImage: "/images/esposa_e_filhos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIiiXDFuKlcRXG0ppKF3sttSe6yvLCWh9GpGXmwGANzjoGs9N4iItABBI7iet-xRi-XXvh3qa9Zl_N378fNLIBzzbDjlKpELulHBkBlRD1fWATu2WWOpTCMkzaq57GK6ryDwo8bbid5Q/s1600/esposa_e_filhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIiiXDFuKlcRXG0ppKF3sttSe6yvLCWh9GpGXmwGANzjoGs9N4iItABBI7iet-xRi-XXvh3qa9Zl_N378fNLIBzzbDjlKpELulHBkBlRD1fWATu2WWOpTCMkzaq57GK6ryDwo8bbid5Q/s320/esposa_e_filhos.png" width="320" height="320" data-original-width="263" data-original-height="263" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Promessas e propósitos, outra vez? Em vão?"
 date: 2019-12-30T17:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJm6R16qf3pFdVqHLj9MU7ctaobcYBbFz2nZKKyR08uj7dT77HkTckesaPndUs-iH2SAj5_-xYiUPR4jQwDa8_R41f72RR_9e1LGj92xhJbtmMq05iI_2Q2C0SH70F27WiRApnfjSuQ/s320/exame_de_consci%25C3%25AAncia.png"
+heroImage: "/images/exame.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJm6R16qf3pFdVqHLj9MU7ctaobcYBbFz2nZKKyR08uj7dT77HkTckesaPndUs-iH2SAj5_-xYiUPR4jQwDa8_R41f72RR_9e1LGj92xhJbtmMq05iI_2Q2C0SH70F27WiRApnfjSuQ/s1600/exame_de_consci%25C3%25AAncia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="234" data-original-width="288" height="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJm6R16qf3pFdVqHLj9MU7ctaobcYBbFz2nZKKyR08uj7dT77HkTckesaPndUs-iH2SAj5_-xYiUPR4jQwDa8_R41f72RR_9e1LGj92xhJbtmMq05iI_2Q2C0SH70F27WiRApnfjSuQ/s320/exame_de_consci%25C3%25AAncia.png" width="320" /></a></div>

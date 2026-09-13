@@ -1,7 +1,7 @@
 ---
 title: "Celebrando os 50 dias"
 date: 2017-06-02T20:22:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNWhHwsAtaWyqxAyTg1UmJqIWUd_4I2bTO_ZdyhNuXPAMkfAQcUjeXSKtj43PD66Nu2tUesPf0ZAUTtlfP3zQjZIuOo_qX1OZFBJdKJfQcbo-fs4WXiiRImnLiWiMSEwX_2L4uXz24ts/s320/pentecostes.png"
+heroImage: "/images/pentecostes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNWhHwsAtaWyqxAyTg1UmJqIWUd_4I2bTO_ZdyhNuXPAMkfAQcUjeXSKtj43PD66Nu2tUesPf0ZAUTtlfP3zQjZIuOo_qX1OZFBJdKJfQcbo-fs4WXiiRImnLiWiMSEwX_2L4uXz24ts/s1600/pentecostes.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="886" height="188" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNWhHwsAtaWyqxAyTg1UmJqIWUd_4I2bTO_ZdyhNuXPAMkfAQcUjeXSKtj43PD66Nu2tUesPf0ZAUTtlfP3zQjZIuOo_qX1OZFBJdKJfQcbo-fs4WXiiRImnLiWiMSEwX_2L4uXz24ts/s320/pentecostes.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Jesus depois de sua morte ressuscitou ao terceiro dia e segundo o relato bíblico permaneceu com os apóstolos por quarenta dias. Após esse período aconteceu a sua ascensão aos céus. Uma semana depois quando os apóstolos estavam reunidos em oração, a igreja de Cristo que nasceu na cruz tornou-se católica neste dia que é chamado Pentecostes:

@@ -1,7 +1,7 @@
 ---
 title: "Tal Pai, Tal Filhas"
 date: 2016-09-21T18:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPuTKIUw3ilcQBvxRHmre-BdboyT51XvQ8uPigrNRF1utxgMsKXpaILJZZSdHGQNwR6EhnXnGYf0h-pEZw7RCGITXL-mPMNZkqP6NGvA7tDfxeTYJe40fogoK6mIdXBzgIb5ZGxPNmJwE/s320/pai_e_filha.png"
+heroImage: "/images/pai_e_filha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPuTKIUw3ilcQBvxRHmre-BdboyT51XvQ8uPigrNRF1utxgMsKXpaILJZZSdHGQNwR6EhnXnGYf0h-pEZw7RCGITXL-mPMNZkqP6NGvA7tDfxeTYJe40fogoK6mIdXBzgIb5ZGxPNmJwE/s1600/pai_e_filha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPuTKIUw3ilcQBvxRHmre-BdboyT51XvQ8uPigrNRF1utxgMsKXpaILJZZSdHGQNwR6EhnXnGYf0h-pEZw7RCGITXL-mPMNZkqP6NGvA7tDfxeTYJe40fogoK6mIdXBzgIb5ZGxPNmJwE/s320/pai_e_filha.png" width="320" height="232" data-original-width="402" data-original-height="292" /></a></div>

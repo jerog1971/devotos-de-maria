@@ -1,7 +1,7 @@
 ---
 title: "Sereis perseguidos por causa de mim"
 date: 2016-12-20T13:41:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-rs1fSEetqZ8Jdm5UXLnVgBEx_DAhLZToySMzn8u-tcKNTUIx63MM7ICHGgcetAdTQuxajQU-QjYMJNMhpa9ai9T4U0aSTkRHcPdhoXxo76YTp_TY2uBSlNOT-RrXuAl9W-iypz9EVs/s320/freira.png"
+heroImage: "/images/freira.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-rs1fSEetqZ8Jdm5UXLnVgBEx_DAhLZToySMzn8u-tcKNTUIx63MM7ICHGgcetAdTQuxajQU-QjYMJNMhpa9ai9T4U0aSTkRHcPdhoXxo76YTp_TY2uBSlNOT-RrXuAl9W-iypz9EVs/s1600/freira.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-rs1fSEetqZ8Jdm5UXLnVgBEx_DAhLZToySMzn8u-tcKNTUIx63MM7ICHGgcetAdTQuxajQU-QjYMJNMhpa9ai9T4U0aSTkRHcPdhoXxo76YTp_TY2uBSlNOT-RrXuAl9W-iypz9EVs/s320/freira.png" width="320" height="291" data-original-width="395" data-original-height="359" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O vingador"
 date: 2025-07-25T19:16:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKzbNyLRK3yU07RK5phsyYSOf0vdqGo6b3n4h_9a-03AotKwJuqBYCWYDmf3t12VHYZxekUkZXlMeDLuHVkkaHR9rIv5PxajxHQykZblrwQZLY2seloG0hjDaOuOka-HalAG4ANfIPWwzog6FIcOZ36yayh-4yfoPWb_ycF08jgH3EIFzJkiSbGYDhiF4/s320/argumentos%20contra%20Deus.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKzbNyLRK3yU07RK5phsyYSOf0vdqGo6b3n4h_9a-03AotKwJuqBYCWYDmf3t12VHYZxekUkZXlMeDLuHVkkaHR9rIv5PxajxHQykZblrwQZLY2seloG0hjDaOuOka-HalAG4ANfIPWwzog6FIcOZ36yayh-4yfoPWb_ycF08jgH3EIFzJkiSbGYDhiF4/s393/argumentos%20contra%20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="308" data-original-width="393" height="251" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKzbNyLRK3yU07RK5phsyYSOf0vdqGo6b3n4h_9a-03AotKwJuqBYCWYDmf3t12VHYZxekUkZXlMeDLuHVkkaHR9rIv5PxajxHQykZblrwQZLY2seloG0hjDaOuOka-HalAG4ANfIPWwzog6FIcOZ36yayh-4yfoPWb_ycF08jgH3EIFzJkiSbGYDhiF4/s320/argumentos%20contra%20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">E, diga-se de passagem, o melhor entre todos os vingadores que

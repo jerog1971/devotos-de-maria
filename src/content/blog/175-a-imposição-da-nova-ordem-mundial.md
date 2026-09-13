@@ -1,7 +1,7 @@
 ---
 title: "A imposição da Nova Ordem Mundial"
 date: 2017-07-05T17:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeAsgok-M7Xmh5sCEv9pRqKOUt-YbSQOd8FZ6ejLdn4oP_1MfrdEh5T9brQROb6ivjHC9faz330Cr87ZiiafWq8PU1_VDDr6TwqWzcHiEGGrHud3dMaGnmBmpcE7_gyZOYh7yHM0CHWo/s320/charlie.png"
+heroImage: "/images/charlie.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeAsgok-M7Xmh5sCEv9pRqKOUt-YbSQOd8FZ6ejLdn4oP_1MfrdEh5T9brQROb6ivjHC9faz330Cr87ZiiafWq8PU1_VDDr6TwqWzcHiEGGrHud3dMaGnmBmpcE7_gyZOYh7yHM0CHWo/s1600/charlie.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeAsgok-M7Xmh5sCEv9pRqKOUt-YbSQOd8FZ6ejLdn4oP_1MfrdEh5T9brQROb6ivjHC9faz330Cr87ZiiafWq8PU1_VDDr6TwqWzcHiEGGrHud3dMaGnmBmpcE7_gyZOYh7yHM0CHWo/s320/charlie.png" width="320" height="296" data-original-width="558" data-original-height="517" /></a></div>

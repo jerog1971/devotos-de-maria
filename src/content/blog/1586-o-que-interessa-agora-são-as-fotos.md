@@ -1,7 +1,7 @@
 ---
 title: "O que interessa agora são as fotos"
 date: 2018-08-13T16:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_NoTV17IODZ06ZabyHeHKtRMss_7p4XUhw_MUi6hzoatsoLj6ke3XK07V5yVZmYIbdQm4e0do2Tbiggm_FqTuyUjo5YdSotbhKYUTFxgY5j-CPuAUqOr4fL99el5p4QCsKOl8j7xhPo/s320/vaidosas.png"
+heroImage: "/images/vaidosas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_NoTV17IODZ06ZabyHeHKtRMss_7p4XUhw_MUi6hzoatsoLj6ke3XK07V5yVZmYIbdQm4e0do2Tbiggm_FqTuyUjo5YdSotbhKYUTFxgY5j-CPuAUqOr4fL99el5p4QCsKOl8j7xhPo/s1600/vaidosas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_NoTV17IODZ06ZabyHeHKtRMss_7p4XUhw_MUi6hzoatsoLj6ke3XK07V5yVZmYIbdQm4e0do2Tbiggm_FqTuyUjo5YdSotbhKYUTFxgY5j-CPuAUqOr4fL99el5p4QCsKOl8j7xhPo/s320/vaidosas.png" width="320" height="309" data-original-width="279" data-original-height="269" /></a></div>

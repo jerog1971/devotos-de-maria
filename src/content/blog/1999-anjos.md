@@ -1,7 +1,7 @@
 ---
 title: "Anjos"
 date: 2019-04-30T15:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOqZi1RqzDSX_3fpa_upef8hAcLpLbl_JHMlPLEw4xuAiSH0uz-Bt_f6OK_R1ErsfStAboFuvM-A17yKBhvShinGiq6eqP3Okv7as5i0OosKkDVq9EG6hUbq_goq0gpogejiRJZM2Pi0c/s320/arcanjos.png"
+heroImage: "/images/arcanjos.png"
 ---
 
 <!DOCTYPE html>

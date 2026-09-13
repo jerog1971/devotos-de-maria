@@ -1,7 +1,7 @@
 ---
 title: "A humanidade do Papa Francisco"
 date: 2017-11-10T18:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_9lS74t1FMUXMQZYeliSFhkLBmB7-148Gsl1Gwfr5vBriK4kc8hrwdiWP1FQQQfRHPkjQuPx8TpXak2M0A2fVqM5jiVywfmidBnkhoYdiFm5OZwLBlTVJqzSg05NUFpYH0jixLxwLcI/s320/francisco.png"
+heroImage: "/images/Francisco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_9lS74t1FMUXMQZYeliSFhkLBmB7-148Gsl1Gwfr5vBriK4kc8hrwdiWP1FQQQfRHPkjQuPx8TpXak2M0A2fVqM5jiVywfmidBnkhoYdiFm5OZwLBlTVJqzSg05NUFpYH0jixLxwLcI/s1600/francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_9lS74t1FMUXMQZYeliSFhkLBmB7-148Gsl1Gwfr5vBriK4kc8hrwdiWP1FQQQfRHPkjQuPx8TpXak2M0A2fVqM5jiVywfmidBnkhoYdiFm5OZwLBlTVJqzSg05NUFpYH0jixLxwLcI/s320/francisco.png" width="320" height="304" data-original-width="272" data-original-height="258" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "As minúcias de Fátima"
 date: 2020-05-13T16:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zSx7u9r5O-z8uL9w7BI477tSrFUUDwOI2bBByK26EYmFrwmvotsgyDVp4xMqx2VL7ssvaebeSPVkuDSX7uHVualDGY2t2ZTlbtoT7XTomOBlL7Bwu9dS3vN-OvrAvj-eOG2k85pOUoc/s320/Nossa_Senhora_de_F%25C3%25A1tima.png"
+heroImage: "/images/Nossa_Senhora.jpg"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zSx7u9r5O-z8uL9w7BI477tSrFUUDwOI2bBByK26EYmFrwmvotsgyDVp4xMqx2VL7ssvaebeSPVkuDSX7uHVualDGY2t2ZTlbtoT7XTomOBlL7Bwu9dS3vN-OvrAvj-eOG2k85pOUoc/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="339" data-original-width="366" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zSx7u9r5O-z8uL9w7BI477tSrFUUDwOI2bBByK26EYmFrwmvotsgyDVp4xMqx2VL7ssvaebeSPVkuDSX7uHVualDGY2t2ZTlbtoT7XTomOBlL7Bwu9dS3vN-OvrAvj-eOG2k85pOUoc/s320/Nossa_Senhora_de_F%25C3%25A1tima.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Um olhar mais atento para as coisas espirituais de nossa

@@ -1,7 +1,7 @@
 ---
 title: "Segundo a carne ou segundo o espírito?"
 date: 2018-08-14T15:19:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNSYvbXTSvCPGCAyCG-OCyPvUOPC1V6PpA9a9rp5QDhz9qn5paUMkd9iBfdINGpipctn8Wh9oW0Fl00phmZ_ZUDJo_rMaM3bUCVFEQHuqb7qQXTU3_kl3eUr5W1pHAvTwRVvPcQ7aVvOo/s320/obras_da_carne.png"
+heroImage: "/images/obras_da_carne.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNSYvbXTSvCPGCAyCG-OCyPvUOPC1V6PpA9a9rp5QDhz9qn5paUMkd9iBfdINGpipctn8Wh9oW0Fl00phmZ_ZUDJo_rMaM3bUCVFEQHuqb7qQXTU3_kl3eUr5W1pHAvTwRVvPcQ7aVvOo/s1600/obras_da_carne.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNSYvbXTSvCPGCAyCG-OCyPvUOPC1V6PpA9a9rp5QDhz9qn5paUMkd9iBfdINGpipctn8Wh9oW0Fl00phmZ_ZUDJo_rMaM3bUCVFEQHuqb7qQXTU3_kl3eUr5W1pHAvTwRVvPcQ7aVvOo/s320/obras_da_carne.png" width="316" height="320" data-original-width="463" data-original-height="469" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Ficar quieto ou não fazer nada?"
 date: 2016-08-31T20:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDFW5qGVDIC_35N7TprQy2kFr9iK8dSbCMGHsyfHzkRj2Tqy5GRzg6M9q1JVu_RaqU3WIgi8C40NMiFlkaUDsll-Hquvf0o_gKoTztlRy9ilJbmnp4mrm3nlvGF-eMufTEYZMp9hC2OPY/s320/quieto.png"
+heroImage: "/images/quieto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDFW5qGVDIC_35N7TprQy2kFr9iK8dSbCMGHsyfHzkRj2Tqy5GRzg6M9q1JVu_RaqU3WIgi8C40NMiFlkaUDsll-Hquvf0o_gKoTztlRy9ilJbmnp4mrm3nlvGF-eMufTEYZMp9hC2OPY/s1600/quieto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDFW5qGVDIC_35N7TprQy2kFr9iK8dSbCMGHsyfHzkRj2Tqy5GRzg6M9q1JVu_RaqU3WIgi8C40NMiFlkaUDsll-Hquvf0o_gKoTztlRy9ilJbmnp4mrm3nlvGF-eMufTEYZMp9hC2OPY/s320/quieto.png" width="320" height="314" data-original-width="343" data-original-height="337" /></a></div>

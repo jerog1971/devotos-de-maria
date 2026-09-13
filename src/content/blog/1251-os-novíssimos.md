@@ -1,7 +1,7 @@
 ---
 title: "Os novíssimos"
 date: 2024-11-26T21:23:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQtelUnonZ9vVedMTqj_4i2uy_vLzyKT7d887CXcwpbZQaURFCbkxI_0z0mb4sqchzxsANvwtWRAMUyc93OLJVPG8DCrVXNVh3WGjYgH0G7adEhYoIQuSGhsoi1Yj3_Iha4PrNGsWlyMfRZeD48Rll2-_yS8rB5H-es9GVUGSasDmHNANKvqh9cL0nwWE/s1600/juiz.png"
+heroImage: "/images/juiz.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQtelUnonZ9vVedMTqj_4i2uy_vLzyKT7d887CXcwpbZQaURFCbkxI_0z0mb4sqchzxsANvwtWRAMUyc93OLJVPG8DCrVXNVh3WGjYgH0G7adEhYoIQuSGhsoi1Yj3_Iha4PrNGsWlyMfRZeD48Rll2-_yS8rB5H-es9GVUGSasDmHNANKvqh9cL0nwWE/s318/juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQtelUnonZ9vVedMTqj_4i2uy_vLzyKT7d887CXcwpbZQaURFCbkxI_0z0mb4sqchzxsANvwtWRAMUyc93OLJVPG8DCrVXNVh3WGjYgH0G7adEhYoIQuSGhsoi1Yj3_Iha4PrNGsWlyMfRZeD48Rll2-_yS8rB5H-es9GVUGSasDmHNANKvqh9cL0nwWE/s1600/juiz.png" width="246" /></a></div><br />

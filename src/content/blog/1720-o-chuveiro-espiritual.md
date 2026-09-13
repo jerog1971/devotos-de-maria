@@ -1,7 +1,7 @@
 ---
 title: "O chuveiro espiritual"
 date: 2025-04-09T20:53:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDgJd-CyE1W9YZ8N59ig1XBQ0D4pxLXJLu3UQpxFTlOIXTELzQw8mNKbrYLTDTlZ4qwvY4hnoRaY_rVsp6s89-SwHn_WBfbVhNg79AB9Mb7BoKHoxEpyi2mO1PxHjT8WjnaNPW4-2tFg914dUzdWuT3iER6ieNSbgCL-nEW2ygYl7zhRGeSZBUp140Tcc/s320/Chuveiro%20espiritual.png"
+heroImage: "/images/Chuveiro espiritual.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDgJd-CyE1W9YZ8N59ig1XBQ0D4pxLXJLu3UQpxFTlOIXTELzQw8mNKbrYLTDTlZ4qwvY4hnoRaY_rVsp6s89-SwHn_WBfbVhNg79AB9Mb7BoKHoxEpyi2mO1PxHjT8WjnaNPW4-2tFg914dUzdWuT3iER6ieNSbgCL-nEW2ygYl7zhRGeSZBUp140Tcc/s506/Chuveiro%20espiritual.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="506" height="276" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDgJd-CyE1W9YZ8N59ig1XBQ0D4pxLXJLu3UQpxFTlOIXTELzQw8mNKbrYLTDTlZ4qwvY4hnoRaY_rVsp6s89-SwHn_WBfbVhNg79AB9Mb7BoKHoxEpyi2mO1PxHjT8WjnaNPW4-2tFg914dUzdWuT3iER6ieNSbgCL-nEW2ygYl7zhRGeSZBUp140Tcc/s320/Chuveiro%20espiritual.png" width="320" /></a></div><br />&nbsp;

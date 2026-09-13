@@ -1,7 +1,7 @@
 ---
 title: "As pessoas estão com pressa"
 date: 2020-04-30T22:35:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyGAPEEEb5rb9j_TLfi9lnR60uViiV1-AU63zCiS6bDd9F8JmaiinyIxLIr5q2pvcdiDBcK8NkywMLobyzjdwsp28EFde3oJXINkMu39A5N77K5uHnyPtWeWYhZ4U_TCenyhWt6W1iJyQ/s320/pressa.png"
+heroImage: "/images/o povo tem pressa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyGAPEEEb5rb9j_TLfi9lnR60uViiV1-AU63zCiS6bDd9F8JmaiinyIxLIr5q2pvcdiDBcK8NkywMLobyzjdwsp28EFde3oJXINkMu39A5N77K5uHnyPtWeWYhZ4U_TCenyhWt6W1iJyQ/s1600/pressa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyGAPEEEb5rb9j_TLfi9lnR60uViiV1-AU63zCiS6bDd9F8JmaiinyIxLIr5q2pvcdiDBcK8NkywMLobyzjdwsp28EFde3oJXINkMu39A5N77K5uHnyPtWeWYhZ4U_TCenyhWt6W1iJyQ/s320/pressa.png" width="305" height="320" data-original-width="312" data-original-height="327" /></a></div>

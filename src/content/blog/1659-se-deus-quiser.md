@@ -1,7 +1,7 @@
 ---
 title: "Se Deus quiser"
 date: 2018-08-29T18:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9DyB306xt2WpSTryPca7Pl-Wjyg_-X1HFyYJhELcC_cjD7jadRo34ByuhHeyayHh5-8ecMl-LXyI75vGGIQ9IjEAE6wDnn6ItOuU6RKGaZTQlJQeHU2XFzTYO_s41mcvlfODCcNWZHV8/s320/Se_Deus_quiser.png"
+heroImage: "/images/Se_Deus_quiser.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9DyB306xt2WpSTryPca7Pl-Wjyg_-X1HFyYJhELcC_cjD7jadRo34ByuhHeyayHh5-8ecMl-LXyI75vGGIQ9IjEAE6wDnn6ItOuU6RKGaZTQlJQeHU2XFzTYO_s41mcvlfODCcNWZHV8/s1600/Se_Deus_quiser.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9DyB306xt2WpSTryPca7Pl-Wjyg_-X1HFyYJhELcC_cjD7jadRo34ByuhHeyayHh5-8ecMl-LXyI75vGGIQ9IjEAE6wDnn6ItOuU6RKGaZTQlJQeHU2XFzTYO_s41mcvlfODCcNWZHV8/s320/Se_Deus_quiser.png" width="320" height="317" data-original-width="286" data-original-height="283" /></a></div>

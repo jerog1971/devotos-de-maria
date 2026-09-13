@@ -1,7 +1,7 @@
 ---
 title: "Incomodou? Então é palavra de Deus"
 date: 2021-09-02T20:03:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9zx5bKyHykIKcIbQWPBkdMnv7X5KAgSwg7oW89hBS_dimx7wJU6mLSKXNpMl-2tg1R3RbOr4C7pYfOQMSuKUFOfuxzQpRNTALqOIjLIIzN1FlB_NQf4nNfTjEeuORnW7K7fLBT7FGZTg/s320/a+palavra+de+deus+incomoda.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9zx5bKyHykIKcIbQWPBkdMnv7X5KAgSwg7oW89hBS_dimx7wJU6mLSKXNpMl-2tg1R3RbOr4C7pYfOQMSuKUFOfuxzQpRNTALqOIjLIIzN1FlB_NQf4nNfTjEeuORnW7K7fLBT7FGZTg/s409/a+palavra+de+deus+incomoda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="354" data-original-width="409" height="277" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9zx5bKyHykIKcIbQWPBkdMnv7X5KAgSwg7oW89hBS_dimx7wJU6mLSKXNpMl-2tg1R3RbOr4C7pYfOQMSuKUFOfuxzQpRNTALqOIjLIIzN1FlB_NQf4nNfTjEeuORnW7K7fLBT7FGZTg/s320/a+palavra+de+deus+incomoda.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus diz que a verdade vos libertará. De fato, a

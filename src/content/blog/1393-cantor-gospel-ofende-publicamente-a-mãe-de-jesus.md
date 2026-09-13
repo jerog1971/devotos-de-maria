@@ -1,7 +1,7 @@
 ---
 title: "Cantor gospel ofende publicamente a “Mãe de Jesus”"
 date: 2019-06-25T15:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCk-Yb9wXeEm2PpmbnHdxWZnDcm8qgNgxBS874Lbi2P1yYqxpnyi98tbPSNeNGDpdGrlRVcLiluRix2EeFMRoy8aj6nNofFUHrbOGOU8D8tfgJWbh_Z7p6JEme2xRHdqj5a1hI0U3rZ8A/s320/corpus_christi.png"
+heroImage: "/images/corpus_christi.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCk-Yb9wXeEm2PpmbnHdxWZnDcm8qgNgxBS874Lbi2P1yYqxpnyi98tbPSNeNGDpdGrlRVcLiluRix2EeFMRoy8aj6nNofFUHrbOGOU8D8tfgJWbh_Z7p6JEme2xRHdqj5a1hI0U3rZ8A/s1600/corpus_christi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCk-Yb9wXeEm2PpmbnHdxWZnDcm8qgNgxBS874Lbi2P1yYqxpnyi98tbPSNeNGDpdGrlRVcLiluRix2EeFMRoy8aj6nNofFUHrbOGOU8D8tfgJWbh_Z7p6JEme2xRHdqj5a1hI0U3rZ8A/s320/corpus_christi.png" width="320" height="286" data-original-width="469" data-original-height="419" /></a></div>

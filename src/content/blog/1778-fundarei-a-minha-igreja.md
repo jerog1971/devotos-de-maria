@@ -1,7 +1,7 @@
 ---
 title: "Fundarei a minha Igreja"
 date: 2017-04-26T19:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lvNCx3EnCbFUQplCQrsX7M0gjYmoL7bD412PNHFChyQl0fic-ijshcSql76GCw7sL5finwnrpe5zYaMQ7-7HqXOIh5bYAXMrHMKwr24Ivfmm3F-RiROhHSY1T-0vY7DZ02oXu_E0DUg/s320/minha+igreja.png"
+heroImage: "/images/igreja.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lvNCx3EnCbFUQplCQrsX7M0gjYmoL7bD412PNHFChyQl0fic-ijshcSql76GCw7sL5finwnrpe5zYaMQ7-7HqXOIh5bYAXMrHMKwr24Ivfmm3F-RiROhHSY1T-0vY7DZ02oXu_E0DUg/s1600/minha+igreja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9lvNCx3EnCbFUQplCQrsX7M0gjYmoL7bD412PNHFChyQl0fic-ijshcSql76GCw7sL5finwnrpe5zYaMQ7-7HqXOIh5bYAXMrHMKwr24Ivfmm3F-RiROhHSY1T-0vY7DZ02oXu_E0DUg/s320/minha+igreja.png" width="320" height="316" data-original-width="360" data-original-height="355" /></a></div>

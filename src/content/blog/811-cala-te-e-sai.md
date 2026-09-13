@@ -1,7 +1,7 @@
 ---
 title: "Cala-te e Sai"
 date: 2018-01-30T14:56:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_xWcMAX_Tko4koCzhaPcu9_ZEXJK-Tsv-TBp0HzRAPCT3ICmgjVJsW8u4DrCAiUGynV87L7xXGuN4guxG7Jc70FrCJlk2vzt78GSTyMi21ntmd76bN2M3WqGM-Y8Ca4mNnYWmVMS622c/s320/cala-te.png"
+heroImage: "/images/cala-te.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_xWcMAX_Tko4koCzhaPcu9_ZEXJK-Tsv-TBp0HzRAPCT3ICmgjVJsW8u4DrCAiUGynV87L7xXGuN4guxG7Jc70FrCJlk2vzt78GSTyMi21ntmd76bN2M3WqGM-Y8Ca4mNnYWmVMS622c/s1600/cala-te.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="512" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_xWcMAX_Tko4koCzhaPcu9_ZEXJK-Tsv-TBp0HzRAPCT3ICmgjVJsW8u4DrCAiUGynV87L7xXGuN4guxG7Jc70FrCJlk2vzt78GSTyMi21ntmd76bN2M3WqGM-Y8Ca4mNnYWmVMS622c/s320/cala-te.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Todo bom católico que se prende ao necessário e essencial em sua vida para a salvação da sua alma, aprendeu nos evangelhos porque Jesus encarnou no seio da Virgem Maria. Trata-se da plenitude dos tempos, a dívida impagável por conta de nossa natureza humana, inatingível ao ofendido, o eterno Deus, só podia ser resgatada, vejam a maravilha da coisa, por quem estivesse em comunhão com as duas naturezas, a divina, do ofendido, e a humana, dos que ofenderam. Pois bem, aí entrou, o anunciado Reis dos Reis durante todo o antigo testamento. Que extraordinário é para cada um de nós olharmos para o que Jesus fez.

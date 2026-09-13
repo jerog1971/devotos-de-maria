@@ -1,7 +1,7 @@
 ---
 title: "O pecado planejado"
 date: 2019-05-20T15:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix4RCCznnJmVhz8UAjce84UoauF5Z2Vx2SQVH55KTDz2htIVTjFeOASH7fMctYSb4LaPMZ6qYU57NfuekuR6nHOh9kCPRg22DjItkvQ_0FIbkTVA13ILoiWMnASf_7fI2ZaU7_ECQ4Q10/s320/planejado.png"
+heroImage: "/images/planejado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix4RCCznnJmVhz8UAjce84UoauF5Z2Vx2SQVH55KTDz2htIVTjFeOASH7fMctYSb4LaPMZ6qYU57NfuekuR6nHOh9kCPRg22DjItkvQ_0FIbkTVA13ILoiWMnASf_7fI2ZaU7_ECQ4Q10/s1600/planejado.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="273" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix4RCCznnJmVhz8UAjce84UoauF5Z2Vx2SQVH55KTDz2htIVTjFeOASH7fMctYSb4LaPMZ6qYU57NfuekuR6nHOh9kCPRg22DjItkvQ_0FIbkTVA13ILoiWMnASf_7fI2ZaU7_ECQ4Q10/s320/planejado.png" width="220" /></a></div>

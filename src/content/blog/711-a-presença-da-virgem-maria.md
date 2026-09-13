@@ -1,7 +1,7 @@
 ---
 title: "A presença da Virgem Maria"
 date: 2020-04-08T19:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4bHDGH_fnAE-ZL8c7jRQRBgQcwHXkPdPh8k0tByXmDg9m7JyLNu4sJmfBynLAqTjjqFMdHSnC-K7XQ8CQUFSMHk1Bl184gD_FknP83N7EekgeJrLMKDDwfr3oPOU_ePUSc6fExE13Mrk/s320/imagem_de_Maria.png"
+heroImage: "/images/imagem_de_Maria.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4bHDGH_fnAE-ZL8c7jRQRBgQcwHXkPdPh8k0tByXmDg9m7JyLNu4sJmfBynLAqTjjqFMdHSnC-K7XQ8CQUFSMHk1Bl184gD_FknP83N7EekgeJrLMKDDwfr3oPOU_ePUSc6fExE13Mrk/s1600/imagem_de_Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4bHDGH_fnAE-ZL8c7jRQRBgQcwHXkPdPh8k0tByXmDg9m7JyLNu4sJmfBynLAqTjjqFMdHSnC-K7XQ8CQUFSMHk1Bl184gD_FknP83N7EekgeJrLMKDDwfr3oPOU_ePUSc6fExE13Mrk/s320/imagem_de_Maria.png" width="296" height="320" data-original-width="199" data-original-height="215" /></a></div>

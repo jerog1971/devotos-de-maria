@@ -1,7 +1,7 @@
 ---
 title: "O professor"
 date: 2024-10-15T19:43:00.007Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGoZ6iu6IwQeNlwr4eaFIeWCM9Fy0DeIEqZjeGcuIEoltBGPaqkrXG2lF6acOpYyeEKYGWJ1QA6pGAtAyEeNNWgnEonFIrdEalvdd5JUpp9gdjwMYuS0xOZWsACBCZwXVoitnyW5SiYb8zReYyLZcWBQUKtQ6NIptK6mIxBCKJSxTeBXtwVjkntctXtuk/s320/dia%20do%20professor.png"
+heroImage: "/images/dia do professor 2(1).jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="1632" data-original-width="1224" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGoZ6iu6IwQeNlwr4eaFIeWCM9Fy0DeIEqZjeGcuIEoltBGPaqkrXG2lF6acOpYyeEKYGWJ1QA6pGAtAyEeNNWgnEonFIrdEalvdd5JUpp9gdjwMYuS0xOZWsACBCZwXVoitnyW5SiYb8zReYyLZcWBQUKtQ6NIptK6mIxBCKJSxTeBXtwVjkntctXtuk/s320/dia%20do%20professor.png" width="240" /></div>&nbsp;</div><div class="separator" style="clear: both; text-align: left;">Diziam a meu respeito, os que me conheciam, de que esperavam

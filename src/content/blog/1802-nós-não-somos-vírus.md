@@ -1,7 +1,7 @@
 ---
 title: "Nós não somos vírus"
 date: 2020-05-20T19:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0xAgO4sws5FD6qSGAPAuQxNqoF3k9aEnroNzNkTp0LARA8dM667PDWNktupC_QNmLsDMtNturHoGUdDU6hyphenhyphenmw3joeZCT0nYVOmLTSEviUFpWpLH8OdMwrgnKtp5sSuIHzSf9pezciPA/s320/proibido.png"
+heroImage: "/images/proibido.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0xAgO4sws5FD6qSGAPAuQxNqoF3k9aEnroNzNkTp0LARA8dM667PDWNktupC_QNmLsDMtNturHoGUdDU6hyphenhyphenmw3joeZCT0nYVOmLTSEviUFpWpLH8OdMwrgnKtp5sSuIHzSf9pezciPA/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="678" data-original-width="867" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0xAgO4sws5FD6qSGAPAuQxNqoF3k9aEnroNzNkTp0LARA8dM667PDWNktupC_QNmLsDMtNturHoGUdDU6hyphenhyphenmw3joeZCT0nYVOmLTSEviUFpWpLH8OdMwrgnKtp5sSuIHzSf9pezciPA/s320/proibido.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O atual papa disse que a Igreja deve ser uma Igreja

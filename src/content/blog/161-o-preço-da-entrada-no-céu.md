@@ -1,7 +1,7 @@
 ---
 title: "O preço da entrada no céu"
 date: 2024-03-19T21:46:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDpBRamzbBRMZ6Mpz7la8udZXvF6kB7usmY4ga0uSTfe7Reg7Mg5e9VyfIGPdxU52Q8Z_xEazvRTRF-V7eUUWVEdwdC3pfMieqAfJAqy7Tu-I2cWL5EqBYLoBFeXF_enVwuE6OzFelNqjSufZuOc3f1XUW8fJUZjrNhtM0RFDJ_YW3Qn25Kgkq2JnJgEU/s320/Entrar%20no%20c%C3%A9u.png"
+heroImage: "/images/Entrar no céu.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDpBRamzbBRMZ6Mpz7la8udZXvF6kB7usmY4ga0uSTfe7Reg7Mg5e9VyfIGPdxU52Q8Z_xEazvRTRF-V7eUUWVEdwdC3pfMieqAfJAqy7Tu-I2cWL5EqBYLoBFeXF_enVwuE6OzFelNqjSufZuOc3f1XUW8fJUZjrNhtM0RFDJ_YW3Qn25Kgkq2JnJgEU/s506/Entrar%20no%20c%C3%A9u.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="417" data-original-width="506" height="264" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDpBRamzbBRMZ6Mpz7la8udZXvF6kB7usmY4ga0uSTfe7Reg7Mg5e9VyfIGPdxU52Q8Z_xEazvRTRF-V7eUUWVEdwdC3pfMieqAfJAqy7Tu-I2cWL5EqBYLoBFeXF_enVwuE6OzFelNqjSufZuOc3f1XUW8fJUZjrNhtM0RFDJ_YW3Qn25Kgkq2JnJgEU/s320/Entrar%20no%20c%C3%A9u.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo que você leu, caro leitor. E posso dizer que

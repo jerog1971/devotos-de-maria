@@ -1,7 +1,7 @@
 ---
 title: "Vaidoso precisa de plateia"
 date: 2017-05-16T20:12:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwK44_xxaXOLY0i-M-8FI0Sx3Uo__-N_Uct37N3wafTE0zQ1giq0W2jEauhazSjJ5YpcOykdbXvMRw3nkFo6TQ9oy0GhaXWu9mgbxOaVJ2A0CJFvPmWoZGbkP4Q4bK1oED_XPBvo8KOg/s320/vaidoso.png"
+heroImage: "/images/vaidoso.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwK44_xxaXOLY0i-M-8FI0Sx3Uo__-N_Uct37N3wafTE0zQ1giq0W2jEauhazSjJ5YpcOykdbXvMRw3nkFo6TQ9oy0GhaXWu9mgbxOaVJ2A0CJFvPmWoZGbkP4Q4bK1oED_XPBvo8KOg/s1600/vaidoso.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="518" data-original-width="582" height="285" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwK44_xxaXOLY0i-M-8FI0Sx3Uo__-N_Uct37N3wafTE0zQ1giq0W2jEauhazSjJ5YpcOykdbXvMRw3nkFo6TQ9oy0GhaXWu9mgbxOaVJ2A0CJFvPmWoZGbkP4Q4bK1oED_XPBvo8KOg/s320/vaidoso.png" width="320" /></a></div>

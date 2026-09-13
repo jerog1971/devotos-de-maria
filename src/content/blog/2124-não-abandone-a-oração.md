@@ -1,7 +1,7 @@
 ---
 title: "Não abandone a oração"
 date: 2016-07-20T11:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiewzaru1HTty1KOs2fwEOo-6nF10ZZEM0PLhiNRDPvZreUCjwPeu6OmwfJHyU3daPMRQe1Piq0DtEg-Mj3TpA_agplay55kCnH3GPeztBL3g2fatfOBlL_2vJq_MbR1DuWCaD7A93bTgE/s320/deus_me_livre.png"
+heroImage: "/images/deus_me_livre.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiewzaru1HTty1KOs2fwEOo-6nF10ZZEM0PLhiNRDPvZreUCjwPeu6OmwfJHyU3daPMRQe1Piq0DtEg-Mj3TpA_agplay55kCnH3GPeztBL3g2fatfOBlL_2vJq_MbR1DuWCaD7A93bTgE/s1600/deus_me_livre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiewzaru1HTty1KOs2fwEOo-6nF10ZZEM0PLhiNRDPvZreUCjwPeu6OmwfJHyU3daPMRQe1Piq0DtEg-Mj3TpA_agplay55kCnH3GPeztBL3g2fatfOBlL_2vJq_MbR1DuWCaD7A93bTgE/s320/deus_me_livre.png" width="320" height="281" data-original-width="576" data-original-height="506" /></a></div>

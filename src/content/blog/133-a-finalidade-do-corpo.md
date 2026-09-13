@@ -1,7 +1,7 @@
 ---
 title: "A finalidade do Corpo"
 date: 2016-09-20T16:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXb4CB-z5pWPOA3PKaCJTSfqk7RSbfiaI3hwf9P5BV4Nk4jfq03VEqXsxN2Ty-Gw6yVeucAF4mP73i9DdlyTk3U4RaUgNG3LFFpnujWPhf8tdIulr-x4CV2LQOBegjPLBS3KOuULa_PXE/s320/corpos.png"
+heroImage: "/images/corpos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXb4CB-z5pWPOA3PKaCJTSfqk7RSbfiaI3hwf9P5BV4Nk4jfq03VEqXsxN2Ty-Gw6yVeucAF4mP73i9DdlyTk3U4RaUgNG3LFFpnujWPhf8tdIulr-x4CV2LQOBegjPLBS3KOuULa_PXE/s1600/corpos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXb4CB-z5pWPOA3PKaCJTSfqk7RSbfiaI3hwf9P5BV4Nk4jfq03VEqXsxN2Ty-Gw6yVeucAF4mP73i9DdlyTk3U4RaUgNG3LFFpnujWPhf8tdIulr-x4CV2LQOBegjPLBS3KOuULa_PXE/s320/corpos.png" width="320" height="239" data-original-width="693" data-original-height="517" /></a></div>

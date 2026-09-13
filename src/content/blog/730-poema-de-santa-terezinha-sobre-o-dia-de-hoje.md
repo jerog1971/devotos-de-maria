@@ -1,7 +1,7 @@
 ---
 title: "Poema de Santa Terezinha sobre o dia de HOJE"
 date: 2020-04-18T16:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWWCyGUt0x-Nmp2ICqYan7lc1U7VUXUg6vphIqSbJ5FJ3BPeqTMEoU7T3kHEAZBlBteLewjot6ZX-vg9dolBD3zlRvl78kDr_-LfVnWpm0jS0CZduxYRFKVdE3a2Qk3ruK8qZG0swrYsQ/s320/teresinha.png"
+heroImage: "/images/Santa Teresinha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWWCyGUt0x-Nmp2ICqYan7lc1U7VUXUg6vphIqSbJ5FJ3BPeqTMEoU7T3kHEAZBlBteLewjot6ZX-vg9dolBD3zlRvl78kDr_-LfVnWpm0jS0CZduxYRFKVdE3a2Qk3ruK8qZG0swrYsQ/s1600/teresinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWWCyGUt0x-Nmp2ICqYan7lc1U7VUXUg6vphIqSbJ5FJ3BPeqTMEoU7T3kHEAZBlBteLewjot6ZX-vg9dolBD3zlRvl78kDr_-LfVnWpm0jS0CZduxYRFKVdE3a2Qk3ruK8qZG0swrYsQ/s320/teresinha.png" width="248" height="320" data-original-width="328" data-original-height="423" /></a></div>

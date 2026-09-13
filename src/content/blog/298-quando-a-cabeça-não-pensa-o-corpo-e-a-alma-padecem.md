@@ -1,7 +1,7 @@
 ---
 title: "Quando a cabeça não pensa, o corpo e a alma padecem"
 date: 2019-03-25T15:35:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmY2tFpnR_qiigRyjorX_Q867_EPRG0V-f-xfchaEN0-9ITppiWHl92ruK1GvGHUcGlRSzeJhs1gNdHFdYPimoEYnXt73fDm04TccWr52vEvC0cJB3nVJRlScW4RwExBMnNAZJYM35gI/s320/pensar.png"
+heroImage: "/images/agindo sem pensar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmY2tFpnR_qiigRyjorX_Q867_EPRG0V-f-xfchaEN0-9ITppiWHl92ruK1GvGHUcGlRSzeJhs1gNdHFdYPimoEYnXt73fDm04TccWr52vEvC0cJB3nVJRlScW4RwExBMnNAZJYM35gI/s1600/pensar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmY2tFpnR_qiigRyjorX_Q867_EPRG0V-f-xfchaEN0-9ITppiWHl92ruK1GvGHUcGlRSzeJhs1gNdHFdYPimoEYnXt73fDm04TccWr52vEvC0cJB3nVJRlScW4RwExBMnNAZJYM35gI/s320/pensar.png" width="306" height="320" data-original-width="381" data-original-height="399" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O medo da responsabilidade"
 date: 2017-08-10T11:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlKKd02ccCfmP9lcueyyQXUPW0rt6S2IRxr3SRF4yl5DribY_rhNwhDUoZHIP3J9mFYiVPGDMQu5y2kwd4yVxH0AzNUeX3nzMsuBUGCaFETVfxIxoeoTj-pvwOG7IRqqDk9dXjMxlzbUM/s320/medo.png"
+heroImage: "/images/fé_medo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlKKd02ccCfmP9lcueyyQXUPW0rt6S2IRxr3SRF4yl5DribY_rhNwhDUoZHIP3J9mFYiVPGDMQu5y2kwd4yVxH0AzNUeX3nzMsuBUGCaFETVfxIxoeoTj-pvwOG7IRqqDk9dXjMxlzbUM/s1600/medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlKKd02ccCfmP9lcueyyQXUPW0rt6S2IRxr3SRF4yl5DribY_rhNwhDUoZHIP3J9mFYiVPGDMQu5y2kwd4yVxH0AzNUeX3nzMsuBUGCaFETVfxIxoeoTj-pvwOG7IRqqDk9dXjMxlzbUM/s320/medo.png" width="320" height="303" data-original-width="405" data-original-height="384" /></a></div>

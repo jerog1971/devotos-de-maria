@@ -1,7 +1,7 @@
 ---
 title: "O tesouro da igreja"
 date: 2019-02-16T16:43:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJLt2Jg-DlD9jbXut2dUVKRje3pMQgma-9usTmcIl_SXDUinOO6avSL1BP07qstBc6_Tbe_8gyehG2wLsBJw4WfYgj72S1Pvb1hGID409CqIk1dAAKmxOboukmOFOEsXwoFjQ8RmgjKDA/s320/forma%25C3%25A7%25C3%25A3o_sobre_o_catecismo.png"
+heroImage: "/images/ate.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJLt2Jg-DlD9jbXut2dUVKRje3pMQgma-9usTmcIl_SXDUinOO6avSL1BP07qstBc6_Tbe_8gyehG2wLsBJw4WfYgj72S1Pvb1hGID409CqIk1dAAKmxOboukmOFOEsXwoFjQ8RmgjKDA/s1600/forma%25C3%25A7%25C3%25A3o_sobre_o_catecismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJLt2Jg-DlD9jbXut2dUVKRje3pMQgma-9usTmcIl_SXDUinOO6avSL1BP07qstBc6_Tbe_8gyehG2wLsBJw4WfYgj72S1Pvb1hGID409CqIk1dAAKmxOboukmOFOEsXwoFjQ8RmgjKDA/s320/forma%25C3%25A7%25C3%25A3o_sobre_o_catecismo.png" width="316" height="320" data-original-width="420" data-original-height="425" /></a></div>

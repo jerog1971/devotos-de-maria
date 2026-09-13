@@ -1,7 +1,7 @@
 ---
 title: "Não faça pela metade"
 date: 2018-11-30T18:53:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBKy49peaeBrIAfLIU6_DvrQRdAG6S89h_EUppUfJ3xlBsvygYqheiIezY2aDRyx1wqYklmVzPve1NsXx5DEUrqvOmyEcBHzIhD4d40wetNA0K9dA8xh7WoCOx7vhX6DEAHhGRwdfldJY/s320/adora%25C3%25A7%25C3%25A3o.png"
+heroImage: "/images/dor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBKy49peaeBrIAfLIU6_DvrQRdAG6S89h_EUppUfJ3xlBsvygYqheiIezY2aDRyx1wqYklmVzPve1NsXx5DEUrqvOmyEcBHzIhD4d40wetNA0K9dA8xh7WoCOx7vhX6DEAHhGRwdfldJY/s1600/adora%25C3%25A7%25C3%25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBKy49peaeBrIAfLIU6_DvrQRdAG6S89h_EUppUfJ3xlBsvygYqheiIezY2aDRyx1wqYklmVzPve1NsXx5DEUrqvOmyEcBHzIhD4d40wetNA0K9dA8xh7WoCOx7vhX6DEAHhGRwdfldJY/s320/adora%25C3%25A7%25C3%25A3o.png" width="320" height="305" data-original-width="486" data-original-height="463" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Traiu alguém, traiu Jesus"
 date: 2020-03-20T19:55:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPiNArv98c7Dbcpy47ml8e0NrFMhBN6S3PT4VUFq5u2aPWz94wFvWZWXLIrUNVK2ShqG74rAGKtk2YkpC-YCYHHBu4ieT9VvZzeNenb-mJwUltviwt0kLT2BiHuibfSlXks1NgSJDDheM/s320/outra.png"
+heroImage: "/images/outra.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPiNArv98c7Dbcpy47ml8e0NrFMhBN6S3PT4VUFq5u2aPWz94wFvWZWXLIrUNVK2ShqG74rAGKtk2YkpC-YCYHHBu4ieT9VvZzeNenb-mJwUltviwt0kLT2BiHuibfSlXks1NgSJDDheM/s1600/outra.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPiNArv98c7Dbcpy47ml8e0NrFMhBN6S3PT4VUFq5u2aPWz94wFvWZWXLIrUNVK2ShqG74rAGKtk2YkpC-YCYHHBu4ieT9VvZzeNenb-mJwUltviwt0kLT2BiHuibfSlXks1NgSJDDheM/s320/outra.png" width="320" height="226" data-original-width="292" data-original-height="206" /></a></div>

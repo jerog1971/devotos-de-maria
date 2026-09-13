@@ -1,7 +1,7 @@
 ---
 title: "Ovelhas não chafurdam"
 date: 2018-03-26T19:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-SGLlsPA5-RSdWcBgJjmqZUflHnJI6TkETVuARRv2UqzPPvSgiTKffxCf6BWXOmQdGthbJHfwlzri7QyVuGHAKtRDLESeeaxRJMAboqlGYg04SKXRyel1IacVUCKCT1sGY78tSKPZdo/s320/ovelha.png"
+heroImage: "/images/lobo em pele de ovelha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-SGLlsPA5-RSdWcBgJjmqZUflHnJI6TkETVuARRv2UqzPPvSgiTKffxCf6BWXOmQdGthbJHfwlzri7QyVuGHAKtRDLESeeaxRJMAboqlGYg04SKXRyel1IacVUCKCT1sGY78tSKPZdo/s1600/ovelha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-SGLlsPA5-RSdWcBgJjmqZUflHnJI6TkETVuARRv2UqzPPvSgiTKffxCf6BWXOmQdGthbJHfwlzri7QyVuGHAKtRDLESeeaxRJMAboqlGYg04SKXRyel1IacVUCKCT1sGY78tSKPZdo/s320/ovelha.png" width="320" height="305" data-original-width="371" data-original-height="354" /></a></div>

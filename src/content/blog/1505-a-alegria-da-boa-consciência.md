@@ -1,7 +1,7 @@
 ---
 title: "A alegria da boa consciência"
 date: 2020-07-01T16:43:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Vxxlg7lRf15c4HT_n6DVSP1P2mVLHpKgwja1sT6Aezj71zQPbLkekeCOFmL8tCODMJb-qjZMU-rayGSTLae5cs1EEURwH9_lQ-SopKywMkqc_g80nB1aUiHkHLdXuDGpxVYYSvCjeXw/s320/analise.png"
+heroImage: "/images/analise.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Vxxlg7lRf15c4HT_n6DVSP1P2mVLHpKgwja1sT6Aezj71zQPbLkekeCOFmL8tCODMJb-qjZMU-rayGSTLae5cs1EEURwH9_lQ-SopKywMkqc_g80nB1aUiHkHLdXuDGpxVYYSvCjeXw/s421/analise.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="421" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Vxxlg7lRf15c4HT_n6DVSP1P2mVLHpKgwja1sT6Aezj71zQPbLkekeCOFmL8tCODMJb-qjZMU-rayGSTLae5cs1EEURwH9_lQ-SopKywMkqc_g80nB1aUiHkHLdXuDGpxVYYSvCjeXw/s320/analise.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A glória do homem virtuoso é o testemunho da boa

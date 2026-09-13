@@ -1,7 +1,7 @@
 ---
 title: "Os  famosos que temem a Deus"
 date: 2016-09-06T16:46:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgECJ4uxtowPb5WNspLdb0ngDuFruIp9xyxBQubiAlQD-ZKz2JocySaiL5aFhXjJVSpA_VGLYYsqY11EHpLoVvyFPs2NFzOyqJCLTEQBfp07HdBg1Vlzo_MGBIiT532LaxlPAR-bxPOqwY/s320/defar.png"
+heroImage: "/images/defar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgECJ4uxtowPb5WNspLdb0ngDuFruIp9xyxBQubiAlQD-ZKz2JocySaiL5aFhXjJVSpA_VGLYYsqY11EHpLoVvyFPs2NFzOyqJCLTEQBfp07HdBg1Vlzo_MGBIiT532LaxlPAR-bxPOqwY/s1600/defar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgECJ4uxtowPb5WNspLdb0ngDuFruIp9xyxBQubiAlQD-ZKz2JocySaiL5aFhXjJVSpA_VGLYYsqY11EHpLoVvyFPs2NFzOyqJCLTEQBfp07HdBg1Vlzo_MGBIiT532LaxlPAR-bxPOqwY/s320/defar.png" width="316" height="320" data-original-width="449" data-original-height="454" /></a></div>

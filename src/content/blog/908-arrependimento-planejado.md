@@ -1,7 +1,7 @@
 ---
 title: "Arrependimento planejado"
 date: 2019-11-05T15:10:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcLSQ_46KOC_usCzjYtqPFBfJbGD-wil_dmq3PJgCvXLNWUdjxNIJTKgo928entL_AJ-ZYqbFUtmFY4Ft-_gv3da0JQ5ppS3OumJysw4qt6HeAHMNncKWW00Tfdn-1qichU9FEB_q0BA/s320/confessar.png"
+heroImage: "/images/confessar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcLSQ_46KOC_usCzjYtqPFBfJbGD-wil_dmq3PJgCvXLNWUdjxNIJTKgo928entL_AJ-ZYqbFUtmFY4Ft-_gv3da0JQ5ppS3OumJysw4qt6HeAHMNncKWW00Tfdn-1qichU9FEB_q0BA/s1600/confessar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="467" height="226" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcLSQ_46KOC_usCzjYtqPFBfJbGD-wil_dmq3PJgCvXLNWUdjxNIJTKgo928entL_AJ-ZYqbFUtmFY4Ft-_gv3da0JQ5ppS3OumJysw4qt6HeAHMNncKWW00Tfdn-1qichU9FEB_q0BA/s320/confessar.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Em nossas vidas muitas coisas são planejadas. O hábito de planejar existe a bastante tempo. Ele é saudável e contribui positivamente para muitas coisas darem certo. Quando se planeja, avalia-se tudo que pode estar envolvido para que os imprevistos (embora ainda o sejam), possam ser melhor administrados. Muitos já ouviram a famosa frase que fala do “plano b”, colocado em ação caso o plano principal (o plano a) não tenha conseguido atingir o fim proposto em teoria.

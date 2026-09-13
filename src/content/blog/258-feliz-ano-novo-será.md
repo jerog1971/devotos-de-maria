@@ -1,7 +1,7 @@
 ---
 title: "Feliz ano novo! Será?"
 date: 2019-12-30T17:05:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_-DnQ3UKRX5VYMoy86VPyeQZtu0ikFeXO1AbLBVugYOYae812pv3SfPxLoR3r9h2t1hizaxJJAZjMOysCXzw0856m1OgauVIlv3CBJ9TlAtT5SMXq1e_1QX1nUWXJkRmQEGpryW1oyxM/s320/ano_novo.png"
+heroImage: "/images/ano_novo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_-DnQ3UKRX5VYMoy86VPyeQZtu0ikFeXO1AbLBVugYOYae812pv3SfPxLoR3r9h2t1hizaxJJAZjMOysCXzw0856m1OgauVIlv3CBJ9TlAtT5SMXq1e_1QX1nUWXJkRmQEGpryW1oyxM/s1600/ano_novo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="165" data-original-width="177" height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_-DnQ3UKRX5VYMoy86VPyeQZtu0ikFeXO1AbLBVugYOYae812pv3SfPxLoR3r9h2t1hizaxJJAZjMOysCXzw0856m1OgauVIlv3CBJ9TlAtT5SMXq1e_1QX1nUWXJkRmQEGpryW1oyxM/s320/ano_novo.png" width="320" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O tédio do católico"
 date: 2018-03-14T16:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharxdtUOHnExbI5AFLMTxnBhcDqRg3PNE4cDWPEdn4eSYNwMNWfgdoGH1LB7159Lkj3DM6-rAqYm3YfJ8sO6nOdqlI0r0k-bmcDPTtQENrUEXwXJv-nu84BqCeKkRmEAG8_DOL-zKxEyo/s320/tedio.png"
+heroImage: "/images/tedio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharxdtUOHnExbI5AFLMTxnBhcDqRg3PNE4cDWPEdn4eSYNwMNWfgdoGH1LB7159Lkj3DM6-rAqYm3YfJ8sO6nOdqlI0r0k-bmcDPTtQENrUEXwXJv-nu84BqCeKkRmEAG8_DOL-zKxEyo/s1600/tedio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharxdtUOHnExbI5AFLMTxnBhcDqRg3PNE4cDWPEdn4eSYNwMNWfgdoGH1LB7159Lkj3DM6-rAqYm3YfJ8sO6nOdqlI0r0k-bmcDPTtQENrUEXwXJv-nu84BqCeKkRmEAG8_DOL-zKxEyo/s320/tedio.png" width="314" height="320" data-original-width="472" data-original-height="481" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Fé Teológica x Fé Devocional - parte II"
 date: 2016-09-14T17:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxKDsVtnQ_zjeKKNbxPvgKjCT8waRNuHecGeDzDZ9yB6X5TD4G-MFgfbDvM-HC_fIJ2QMMgdzSytLFKXoPA6Jpqbc9ey5z8m00ONajTvVtkQxVr3Fa6ZyvxJ_gtUpBLEZygj-_SZEHX3c/s320/biblia_e_rosario.png"
+heroImage: "/images/biblia_e_rosario.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxKDsVtnQ_zjeKKNbxPvgKjCT8waRNuHecGeDzDZ9yB6X5TD4G-MFgfbDvM-HC_fIJ2QMMgdzSytLFKXoPA6Jpqbc9ey5z8m00ONajTvVtkQxVr3Fa6ZyvxJ_gtUpBLEZygj-_SZEHX3c/s1600/biblia_e_rosario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxKDsVtnQ_zjeKKNbxPvgKjCT8waRNuHecGeDzDZ9yB6X5TD4G-MFgfbDvM-HC_fIJ2QMMgdzSytLFKXoPA6Jpqbc9ey5z8m00ONajTvVtkQxVr3Fa6ZyvxJ_gtUpBLEZygj-_SZEHX3c/s320/biblia_e_rosario.png" width="320" height="213" data-original-width="489" data-original-height="325" /></a></div>

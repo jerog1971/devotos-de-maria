@@ -1,7 +1,7 @@
 ---
 title: "Que bem te fazem mulher e filhos? Nenhum!"
 date: 2019-08-02T16:27:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYS9yV8UQVlDhxsyk4ke6gBmS9VhDaHIS-wADSUDsTBlI_CxLCrVDopfMCFCLpwnl1-DzgsDpyWvwj5x8tjZOnjcFzXic0p-8zzKinYg2RmUksLmIrSb2th8ZVAPQ4kFP-rY1e5aLhHx4/s320/bodnariu.png"
+heroImage: "/images/bodnariu.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYS9yV8UQVlDhxsyk4ke6gBmS9VhDaHIS-wADSUDsTBlI_CxLCrVDopfMCFCLpwnl1-DzgsDpyWvwj5x8tjZOnjcFzXic0p-8zzKinYg2RmUksLmIrSb2th8ZVAPQ4kFP-rY1e5aLhHx4/s1600/bodnariu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYS9yV8UQVlDhxsyk4ke6gBmS9VhDaHIS-wADSUDsTBlI_CxLCrVDopfMCFCLpwnl1-DzgsDpyWvwj5x8tjZOnjcFzXic0p-8zzKinYg2RmUksLmIrSb2th8ZVAPQ4kFP-rY1e5aLhHx4/s320/bodnariu.png" width="319" height="320" data-original-width="519" data-original-height="521" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Não podemos contradizer Jesus"
 date: 2015-10-21T16:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX42ieqs_T7k8zoKBH6Tbj0AlKQIKKGrxnvRUggZeJUyxVTMgkn98STajVxewJ7etWtGCwMG6AyetO4loIX0hOWVFsaBxtvRZgT3NiTReE0iEeNrxiOi4WHanMEeVdrdRXFscE1m6cEf0/s320/cardeal_Urosa.png"
+heroImage: "/images/cardeal_Urosa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX42ieqs_T7k8zoKBH6Tbj0AlKQIKKGrxnvRUggZeJUyxVTMgkn98STajVxewJ7etWtGCwMG6AyetO4loIX0hOWVFsaBxtvRZgT3NiTReE0iEeNrxiOi4WHanMEeVdrdRXFscE1m6cEf0/s1600/cardeal_Urosa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX42ieqs_T7k8zoKBH6Tbj0AlKQIKKGrxnvRUggZeJUyxVTMgkn98STajVxewJ7etWtGCwMG6AyetO4loIX0hOWVFsaBxtvRZgT3NiTReE0iEeNrxiOi4WHanMEeVdrdRXFscE1m6cEf0/s320/cardeal_Urosa.png" width="320" height="288" data-original-width="370" data-original-height="333" /></a></div>

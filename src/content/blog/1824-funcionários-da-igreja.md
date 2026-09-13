@@ -1,7 +1,7 @@
 ---
 title: "Funcionários da igreja"
 date: 2021-02-08T10:48:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrzpqZX0-lpEFqi-sa01FSeXmQQDDXUfIwaNXV_vfQpLq_uc_9tOg4bhALhixOaL5HOCul4bb8mG9FevmFTgEnPVcyrpihb2p4FISHGXiblztSLBylut2ULJz94dA3E9c6zZVTKGJ4Cg/s320/funcionario+da+igreja.png"
+heroImage: "/images/igreja.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrzpqZX0-lpEFqi-sa01FSeXmQQDDXUfIwaNXV_vfQpLq_uc_9tOg4bhALhixOaL5HOCul4bb8mG9FevmFTgEnPVcyrpihb2p4FISHGXiblztSLBylut2ULJz94dA3E9c6zZVTKGJ4Cg/s340/funcionario+da+igreja.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="311" data-original-width="340" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglrzpqZX0-lpEFqi-sa01FSeXmQQDDXUfIwaNXV_vfQpLq_uc_9tOg4bhALhixOaL5HOCul4bb8mG9FevmFTgEnPVcyrpihb2p4FISHGXiblztSLBylut2ULJz94dA3E9c6zZVTKGJ4Cg/s320/funcionario+da+igreja.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De tempos em tempos o povo de Deus é obrigado a ouvir barbaridades

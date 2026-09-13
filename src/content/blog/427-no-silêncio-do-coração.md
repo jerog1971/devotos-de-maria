@@ -1,7 +1,7 @@
 ---
 title: "No silêncio do coração"
 date: 2020-12-21T13:11:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0CuMyvyJMQWUQy5XFQFCWAP8r7y5jpqExUII9HY40-k3rSg7gJCT7kVwWrQqZxjZb-FTGUN7Op8UN1L_zXMMJMXCoUzBuOfoRw72dZqBW-UukkKRd5U8MUUw__dNmaLvwYx9NL8SOI00/s320/presepio.png"
+heroImage: "/images/presepio.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0CuMyvyJMQWUQy5XFQFCWAP8r7y5jpqExUII9HY40-k3rSg7gJCT7kVwWrQqZxjZb-FTGUN7Op8UN1L_zXMMJMXCoUzBuOfoRw72dZqBW-UukkKRd5U8MUUw__dNmaLvwYx9NL8SOI00/s771/presepio.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="593" data-original-width="771" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0CuMyvyJMQWUQy5XFQFCWAP8r7y5jpqExUII9HY40-k3rSg7gJCT7kVwWrQqZxjZb-FTGUN7Op8UN1L_zXMMJMXCoUzBuOfoRw72dZqBW-UukkKRd5U8MUUw__dNmaLvwYx9NL8SOI00/s320/presepio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lucas 2,10-19 – “O anjo disse-lhes: Não temais, eis que vos

@@ -1,7 +1,7 @@
 ---
 title: "Nosso corpo pertence a Deus"
 date: 2016-06-23T15:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2CHyhbrV_sG8KNbXxUGozN7k1c6fD8aMrEReW74ZWWUREtUgzB1e4l2qtx8X32Qq8ttCv_V5oDzxOkQaRPco5cedDyvzSzQeqrxe9f3VRV6vGFRtdZiJjIkDuliTtPjstTbN6ltlfe00/s320/levitico1928.png"
+heroImage: "/images/levitico1928.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2CHyhbrV_sG8KNbXxUGozN7k1c6fD8aMrEReW74ZWWUREtUgzB1e4l2qtx8X32Qq8ttCv_V5oDzxOkQaRPco5cedDyvzSzQeqrxe9f3VRV6vGFRtdZiJjIkDuliTtPjstTbN6ltlfe00/s1600/levitico1928.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2CHyhbrV_sG8KNbXxUGozN7k1c6fD8aMrEReW74ZWWUREtUgzB1e4l2qtx8X32Qq8ttCv_V5oDzxOkQaRPco5cedDyvzSzQeqrxe9f3VRV6vGFRtdZiJjIkDuliTtPjstTbN6ltlfe00/s320/levitico1928.png" width="316" height="320" data-original-width="325" data-original-height="329" /></a></div>

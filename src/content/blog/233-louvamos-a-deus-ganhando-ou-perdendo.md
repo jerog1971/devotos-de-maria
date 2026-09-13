@@ -1,7 +1,7 @@
 ---
 title: "Louvamos a Deus ganhando ou perdendo"
 date: 2023-06-20T19:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiFueHR6ws9YJ78nKG4g1aaBQeiKDQxusy0yTBiEJLJ41hOUKOl1xuY2TMN8Y4QtaYZaQVG7a3HvvpWuxk4p-BF_qccQBX5V0qXoHL6sJzCqCzWmYXuJ3JYqaZSLcYH5j2lf4Au35qtWAavQMLYYN7BQN_6H1kdbHLoKor2XwxZoI378-z-UkqS1mLre8/s320/louvamos%20a%20Deus%20ganhando%20ou%20perdendo.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiFueHR6ws9YJ78nKG4g1aaBQeiKDQxusy0yTBiEJLJ41hOUKOl1xuY2TMN8Y4QtaYZaQVG7a3HvvpWuxk4p-BF_qccQBX5V0qXoHL6sJzCqCzWmYXuJ3JYqaZSLcYH5j2lf4Au35qtWAavQMLYYN7BQN_6H1kdbHLoKor2XwxZoI378-z-UkqS1mLre8/s499/louvamos%20a%20Deus%20ganhando%20ou%20perdendo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="499" height="204" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiFueHR6ws9YJ78nKG4g1aaBQeiKDQxusy0yTBiEJLJ41hOUKOl1xuY2TMN8Y4QtaYZaQVG7a3HvvpWuxk4p-BF_qccQBX5V0qXoHL6sJzCqCzWmYXuJ3JYqaZSLcYH5j2lf4Au35qtWAavQMLYYN7BQN_6H1kdbHLoKor2XwxZoI378-z-UkqS1mLre8/s320/louvamos%20a%20Deus%20ganhando%20ou%20perdendo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O título deste artigo é uma das mensagens passadas em um dos

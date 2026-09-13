@@ -1,7 +1,7 @@
 ---
 title: "Viver por Nada ou Morrer por Alguma Coisa"
 date: 2017-05-16T14:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczOs9kggCxb0CPKitNU5UsPUW-29JB2W1sw4MOsSkR5NR9H0IY-J4HHx_sZtnHGyP9a8xI5xbNi582fCUh_4OYf1wvYN-Trkv-SqSI3AeO2SCrXtG1dRCwk0DaH_8svVDTOPdQC8xnTs/s320/rambo.png"
+heroImage: "/images/rambo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczOs9kggCxb0CPKitNU5UsPUW-29JB2W1sw4MOsSkR5NR9H0IY-J4HHx_sZtnHGyP9a8xI5xbNi582fCUh_4OYf1wvYN-Trkv-SqSI3AeO2SCrXtG1dRCwk0DaH_8svVDTOPdQC8xnTs/s1600/rambo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczOs9kggCxb0CPKitNU5UsPUW-29JB2W1sw4MOsSkR5NR9H0IY-J4HHx_sZtnHGyP9a8xI5xbNi582fCUh_4OYf1wvYN-Trkv-SqSI3AeO2SCrXtG1dRCwk0DaH_8svVDTOPdQC8xnTs/s320/rambo.png" width="320" height="251" data-original-width="382" data-original-height="300" /></a></div>

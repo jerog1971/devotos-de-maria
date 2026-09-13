@@ -1,7 +1,7 @@
 ---
 title: "A baderna em comunidade"
 date: 2018-04-12T20:23:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJWot9t4HnBtOJaRYbnwNzdz8oniWoGbftFIJFOyYiSfn1TTiJ598HNPfyg9biFgvFHgT3mApjhFGP-l-UNxWxUDjF_T7oGP-QKsAbZKFSxI2ZCvRZhvwRXX68WuZaUQSugmDIX7HJdks/s320/baderna.png"
+heroImage: "/images/baderna.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJWot9t4HnBtOJaRYbnwNzdz8oniWoGbftFIJFOyYiSfn1TTiJ598HNPfyg9biFgvFHgT3mApjhFGP-l-UNxWxUDjF_T7oGP-QKsAbZKFSxI2ZCvRZhvwRXX68WuZaUQSugmDIX7HJdks/s1600/baderna.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJWot9t4HnBtOJaRYbnwNzdz8oniWoGbftFIJFOyYiSfn1TTiJ598HNPfyg9biFgvFHgT3mApjhFGP-l-UNxWxUDjF_T7oGP-QKsAbZKFSxI2ZCvRZhvwRXX68WuZaUQSugmDIX7HJdks/s320/baderna.png" width="320" height="319" data-original-width="277" data-original-height="276" /></a></div>

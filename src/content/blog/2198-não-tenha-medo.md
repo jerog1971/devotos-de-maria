@@ -1,7 +1,7 @@
 ---
 title: "Não tenha medo"
 date: 2019-02-08T14:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUy315uykKpeWRVHAi-DjNMx0hJCmnThTK607pQjZ-EyXQUd4dhr4-oDVRipmMzlbasAZwmnhJVsQ8koAY9K7TWB0ksQ0MwbyLRMxTy6T9x_RS3reDgW8-__qKIfsbXkVywi3zfHmlKm4/s320/pr%25C3%25B3ximo_de_Deus.png"
+heroImage: "/images/Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUy315uykKpeWRVHAi-DjNMx0hJCmnThTK607pQjZ-EyXQUd4dhr4-oDVRipmMzlbasAZwmnhJVsQ8koAY9K7TWB0ksQ0MwbyLRMxTy6T9x_RS3reDgW8-__qKIfsbXkVywi3zfHmlKm4/s1600/pr%25C3%25B3ximo_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUy315uykKpeWRVHAi-DjNMx0hJCmnThTK607pQjZ-EyXQUd4dhr4-oDVRipmMzlbasAZwmnhJVsQ8koAY9K7TWB0ksQ0MwbyLRMxTy6T9x_RS3reDgW8-__qKIfsbXkVywi3zfHmlKm4/s320/pr%25C3%25B3ximo_de_Deus.png" width="320" height="318" data-original-width="513" data-original-height="510" /></a></div>

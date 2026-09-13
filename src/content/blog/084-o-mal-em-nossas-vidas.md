@@ -1,7 +1,7 @@
 ---
 title: "O mal em nossas vidas"
 date: 2019-11-01T19:43:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAl1dSHptKkFmq0QneOVS5XZYdpzOO8BCCA-YsCdUkeEK8gfIACsqTnmy40YoYoeNd9t1UsruJmRO3_DkAwUpGAX5dPAFN_sqc_6RjmtT6SNDru1DiTYDyaccfkY-W820KfrgW_Xm9yg8/s320/mal.png"
+heroImage: "/images/A vigilância do mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAl1dSHptKkFmq0QneOVS5XZYdpzOO8BCCA-YsCdUkeEK8gfIACsqTnmy40YoYoeNd9t1UsruJmRO3_DkAwUpGAX5dPAFN_sqc_6RjmtT6SNDru1DiTYDyaccfkY-W820KfrgW_Xm9yg8/s1600/mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAl1dSHptKkFmq0QneOVS5XZYdpzOO8BCCA-YsCdUkeEK8gfIACsqTnmy40YoYoeNd9t1UsruJmRO3_DkAwUpGAX5dPAFN_sqc_6RjmtT6SNDru1DiTYDyaccfkY-W820KfrgW_Xm9yg8/s320/mal.png" width="320" height="244" data-original-width="574" data-original-height="437" /></a></div>

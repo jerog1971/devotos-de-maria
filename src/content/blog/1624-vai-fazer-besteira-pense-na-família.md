@@ -1,7 +1,7 @@
 ---
 title: "Vai fazer besteira? Pense na família!"
 date: 2021-09-23T19:20:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAkKgn7RXaDta9-VeBaN98tilFiSLLyZJKj7KDTO6pqRshWCxIKexhfvsuWYfYuwikco2CaukamUtfhbDux6-LqIMNN5KTfjB7oiaLiLSWjd6ogQjVm5jpU1OB57vqi1Q4tThbl7XtzEY/s320/filhos+de+Deus.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAkKgn7RXaDta9-VeBaN98tilFiSLLyZJKj7KDTO6pqRshWCxIKexhfvsuWYfYuwikco2CaukamUtfhbDux6-LqIMNN5KTfjB7oiaLiLSWjd6ogQjVm5jpU1OB57vqi1Q4tThbl7XtzEY/s561/filhos+de+Deus.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="537" data-original-width="561" height="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAkKgn7RXaDta9-VeBaN98tilFiSLLyZJKj7KDTO6pqRshWCxIKexhfvsuWYfYuwikco2CaukamUtfhbDux6-LqIMNN5KTfjB7oiaLiLSWjd6ogQjVm5jpU1OB57vqi1Q4tThbl7XtzEY/s320/filhos+de+Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A palavra “besteira” serve para muitos encaixes na vida de

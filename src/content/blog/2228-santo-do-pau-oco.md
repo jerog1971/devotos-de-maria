@@ -1,7 +1,7 @@
 ---
 title: "Santo do pau oco"
 date: 2019-06-09T20:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1LT0aRYc8IHt6ON4XIJMhUyphDh7ItpSx5invlXeHyne5Pn2bausApzXr6izPeNZqhHjYpGYf3kC7NUYJHTx_TTtySNhz27lfzFZvj_OIAFAHbIorAuAUZ2EOaeXxozMTAs9u0nyNzXg/s320/santo_do_pau_oco.png"
+heroImage: "/images/santo_do_pau_oco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1LT0aRYc8IHt6ON4XIJMhUyphDh7ItpSx5invlXeHyne5Pn2bausApzXr6izPeNZqhHjYpGYf3kC7NUYJHTx_TTtySNhz27lfzFZvj_OIAFAHbIorAuAUZ2EOaeXxozMTAs9u0nyNzXg/s1600/santo_do_pau_oco.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="267" data-original-width="243" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1LT0aRYc8IHt6ON4XIJMhUyphDh7ItpSx5invlXeHyne5Pn2bausApzXr6izPeNZqhHjYpGYf3kC7NUYJHTx_TTtySNhz27lfzFZvj_OIAFAHbIorAuAUZ2EOaeXxozMTAs9u0nyNzXg/s320/santo_do_pau_oco.png" width="291" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>É possível que você, caro leitor, já tenha ouvido essa expressão. Utilizada para dizer de forma não tão saudável, e às vezes até maldosa, alguma crítica contra alguém, dentre outras coisas, o fato é que ela tem sim um fundo de verdade. Vamos dar uma espiadinha na questão.

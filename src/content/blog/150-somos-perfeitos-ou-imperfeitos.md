@@ -1,7 +1,7 @@
 ---
 title: "Somos Perfeitos ou Imperfeitos?"
 date: 2017-04-19T12:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwiDe_2jakB8XI1GOWRDWwQCcXil4Ogr7KyYp2nzABtfLNwwmWR-mwP7n-yNw-jnYskqliNv1nOC_K2OxkaphqlivJxhSUYvp_pmEKpgf4w6AINVsdIwuGasSWxpJU23Gun4dZ4XAzRx4/s320/perfeito.png"
+heroImage: "/images/perfeito.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwiDe_2jakB8XI1GOWRDWwQCcXil4Ogr7KyYp2nzABtfLNwwmWR-mwP7n-yNw-jnYskqliNv1nOC_K2OxkaphqlivJxhSUYvp_pmEKpgf4w6AINVsdIwuGasSWxpJU23Gun4dZ4XAzRx4/s1600/perfeito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwiDe_2jakB8XI1GOWRDWwQCcXil4Ogr7KyYp2nzABtfLNwwmWR-mwP7n-yNw-jnYskqliNv1nOC_K2OxkaphqlivJxhSUYvp_pmEKpgf4w6AINVsdIwuGasSWxpJU23Gun4dZ4XAzRx4/s320/perfeito.png" width="320" height="250" data-original-width="414" data-original-height="323" /></a></div>

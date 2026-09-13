@@ -1,7 +1,7 @@
 ---
 title: "Servos ou Escravos"
 date: 2015-09-24T00:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJPGM_dqAlkIjW2l9iFiUclLANYB3WqVN3J2YHrNaoKwH97Q7YYRELs4n7SvrTgyL4jGGd528KDj5tUgNa7Rb28mwrqxIJU0JWMAemyhy9jkXh7nZ65vQ5Pi2BVvxldJk5P5Jk6OzQlns/s320/servos_de_cristo.png"
+heroImage: "/images/servos_de_cristo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJPGM_dqAlkIjW2l9iFiUclLANYB3WqVN3J2YHrNaoKwH97Q7YYRELs4n7SvrTgyL4jGGd528KDj5tUgNa7Rb28mwrqxIJU0JWMAemyhy9jkXh7nZ65vQ5Pi2BVvxldJk5P5Jk6OzQlns/s1600/servos_de_cristo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJPGM_dqAlkIjW2l9iFiUclLANYB3WqVN3J2YHrNaoKwH97Q7YYRELs4n7SvrTgyL4jGGd528KDj5tUgNa7Rb28mwrqxIJU0JWMAemyhy9jkXh7nZ65vQ5Pi2BVvxldJk5P5Jk6OzQlns/s320/servos_de_cristo.png" width="320" height="253" data-original-width="371" data-original-height="293" /></a></div>

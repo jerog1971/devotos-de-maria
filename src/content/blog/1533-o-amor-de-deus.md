@@ -1,7 +1,7 @@
 ---
 title: "O amor de Deus"
 date: 2016-09-06T13:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTaLPTQAnlbuZc-43dQ6kaygWgdhDlHoEaKkIUwqT2xle4PqPKx3-hM-loOcYi9Xpge5XY0vOevvpEadeUzmuozy_x5Bx6djeXJBTekXn0FQQ0bm55MpexkY4tC4dx6qTwrQt3pViA5wk/s320/amor_de_deus.png"
+heroImage: "/images/amor_de_deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTaLPTQAnlbuZc-43dQ6kaygWgdhDlHoEaKkIUwqT2xle4PqPKx3-hM-loOcYi9Xpge5XY0vOevvpEadeUzmuozy_x5Bx6djeXJBTekXn0FQQ0bm55MpexkY4tC4dx6qTwrQt3pViA5wk/s1600/amor_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTaLPTQAnlbuZc-43dQ6kaygWgdhDlHoEaKkIUwqT2xle4PqPKx3-hM-loOcYi9Xpge5XY0vOevvpEadeUzmuozy_x5Bx6djeXJBTekXn0FQQ0bm55MpexkY4tC4dx6qTwrQt3pViA5wk/s320/amor_de_deus.png" width="320" height="241" data-original-width="693" data-original-height="522" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Caminhos percorridos"
 date: 2024-12-01T18:01:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFA1j8OG56-prNgsLJNRACJ7HwIeYipOwBgFjGj5svjvtM2eLnsp66k6ihsCjtI8A0YVYZv6eRRRxeiEV4PaVBc3AgJ5PGxl_7y1lsb7L1vyGtLQn9AbEy2yR9sQVDfVnnEVqx03R03kh5vKoKjyle_NV8Kt1pj4bhsSTlDAANQ4H2cImeLlOC3UXNOBg/s320/casal.jpg"
+heroImage: "/images/casal.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFA1j8OG56-prNgsLJNRACJ7HwIeYipOwBgFjGj5svjvtM2eLnsp66k6ihsCjtI8A0YVYZv6eRRRxeiEV4PaVBc3AgJ5PGxl_7y1lsb7L1vyGtLQn9AbEy2yR9sQVDfVnnEVqx03R03kh5vKoKjyle_NV8Kt1pj4bhsSTlDAANQ4H2cImeLlOC3UXNOBg/s872/casal.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="872" data-original-width="700" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFA1j8OG56-prNgsLJNRACJ7HwIeYipOwBgFjGj5svjvtM2eLnsp66k6ihsCjtI8A0YVYZv6eRRRxeiEV4PaVBc3AgJ5PGxl_7y1lsb7L1vyGtLQn9AbEy2yR9sQVDfVnnEVqx03R03kh5vKoKjyle_NV8Kt1pj4bhsSTlDAANQ4H2cImeLlOC3UXNOBg/s320/casal.jpg" width="257" /></a></div><br />&nbsp;

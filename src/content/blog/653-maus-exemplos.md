@@ -1,7 +1,7 @@
 ---
 title: "Maus exemplos"
 date: 2025-05-20T19:02:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiakSQsM9d1nxaEgoVsAsCsQxe8-nHW5uJE2VF1d_chxRQ05PI0niiK13n2QetpeZmDRQVo8e65Jj-C4DI0Vfc2VAOK9uUwPJaoJHCTXfPw7R07Dec_26cLrH9XKgHhFjngPtj-VhHBlTjUGybXABJ9QMTUjY-ucODRzDe6OnS89QufSjRjUNmp4sFR_8/s320/maus%20exemplos.jpg"
+heroImage: "/images/maus exemplos.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiakSQsM9d1nxaEgoVsAsCsQxe8-nHW5uJE2VF1d_chxRQ05PI0niiK13n2QetpeZmDRQVo8e65Jj-C4DI0Vfc2VAOK9uUwPJaoJHCTXfPw7R07Dec_26cLrH9XKgHhFjngPtj-VhHBlTjUGybXABJ9QMTUjY-ucODRzDe6OnS89QufSjRjUNmp4sFR_8/s1137/maus%20exemplos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="810" data-original-width="1137" height="228" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiakSQsM9d1nxaEgoVsAsCsQxe8-nHW5uJE2VF1d_chxRQ05PI0niiK13n2QetpeZmDRQVo8e65Jj-C4DI0Vfc2VAOK9uUwPJaoJHCTXfPw7R07Dec_26cLrH9XKgHhFjngPtj-VhHBlTjUGybXABJ9QMTUjY-ucODRzDe6OnS89QufSjRjUNmp4sFR_8/s320/maus%20exemplos.jpg" width="320" /></a></div><br />&nbsp;<p style="line-height: 100%; margin-bottom: 0cm;">

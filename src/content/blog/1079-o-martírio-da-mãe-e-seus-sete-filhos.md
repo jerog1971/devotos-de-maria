@@ -1,7 +1,7 @@
 ---
 title: "O martírio da mãe e seus sete filhos"
 date: 2016-09-29T12:09:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLPmbkFpQfR2yOs1Ni9DWTbmGTC_lUs0FQklE9XTDcq29_x3L2ueLywAnu3eVv88sGVptDxdS_cuYHoIao5VRGwbXc6NwEWghDUrcUMHbk6PNmJXxr8e-yf7yW4iHOUC0iyO6E8_e17Ek/s320/martirio.png"
+heroImage: "/images/martirio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLPmbkFpQfR2yOs1Ni9DWTbmGTC_lUs0FQklE9XTDcq29_x3L2ueLywAnu3eVv88sGVptDxdS_cuYHoIao5VRGwbXc6NwEWghDUrcUMHbk6PNmJXxr8e-yf7yW4iHOUC0iyO6E8_e17Ek/s1600/martirio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLPmbkFpQfR2yOs1Ni9DWTbmGTC_lUs0FQklE9XTDcq29_x3L2ueLywAnu3eVv88sGVptDxdS_cuYHoIao5VRGwbXc6NwEWghDUrcUMHbk6PNmJXxr8e-yf7yW4iHOUC0iyO6E8_e17Ek/s320/martirio.png" width="320" height="213" data-original-width="605" data-original-height="403" /></a></div>

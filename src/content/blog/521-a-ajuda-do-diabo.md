@@ -1,7 +1,7 @@
 ---
 title: "A ajuda do diabo"
 date: 2023-07-14T19:38:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqruI7pf0UvfVdXB-DK2-GKGi-uA_BDnzRDs1TJiEQtO1ypaPhgTZpHMBRXdppebpyXwq3-pqIlelIWPd1ZiD821xlVJz2V5QUcuPKwr5v8Nqio2NcfJS4ABlvJ579kKjBn1hPZO9EigkCPl-Z1V58wl36N1JcbiC0UOvxBS_M34Qmsz2HphY5NDfs2Ko/s320/ajuda%20do%20diabo.png"
+heroImage: "/images/ajuda do diabo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqruI7pf0UvfVdXB-DK2-GKGi-uA_BDnzRDs1TJiEQtO1ypaPhgTZpHMBRXdppebpyXwq3-pqIlelIWPd1ZiD821xlVJz2V5QUcuPKwr5v8Nqio2NcfJS4ABlvJ579kKjBn1hPZO9EigkCPl-Z1V58wl36N1JcbiC0UOvxBS_M34Qmsz2HphY5NDfs2Ko/s418/ajuda%20do%20diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="350" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqruI7pf0UvfVdXB-DK2-GKGi-uA_BDnzRDs1TJiEQtO1ypaPhgTZpHMBRXdppebpyXwq3-pqIlelIWPd1ZiD821xlVJz2V5QUcuPKwr5v8Nqio2NcfJS4ABlvJ579kKjBn1hPZO9EigkCPl-Z1V58wl36N1JcbiC0UOvxBS_M34Qmsz2HphY5NDfs2Ko/s320/ajuda%20do%20diabo.png" width="268" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele quer me ajudar a ter facilidades, muitos prazeres, uma

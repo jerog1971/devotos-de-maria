@@ -1,7 +1,7 @@
 ---
 title: "A realidade do purgatório"
 date: 2015-10-19T11:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTItriCyp0d47sYBtIyx4SDUPQDObFSQy4YLFQf4GR3N-Z0UTJy_vCu9RuEtIiRtTsUP-QrripLdhV4c3QYcaIOh_6gsn_2JHgVk3OT3-cqWsCznLInVYa1LOKee9NPqCYBhyq4Ra33Ks/s320/purgatorio.png"
+heroImage: "/images/purgatorio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTItriCyp0d47sYBtIyx4SDUPQDObFSQy4YLFQf4GR3N-Z0UTJy_vCu9RuEtIiRtTsUP-QrripLdhV4c3QYcaIOh_6gsn_2JHgVk3OT3-cqWsCznLInVYa1LOKee9NPqCYBhyq4Ra33Ks/s1600/purgatorio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTItriCyp0d47sYBtIyx4SDUPQDObFSQy4YLFQf4GR3N-Z0UTJy_vCu9RuEtIiRtTsUP-QrripLdhV4c3QYcaIOh_6gsn_2JHgVk3OT3-cqWsCznLInVYa1LOKee9NPqCYBhyq4Ra33Ks/s320/purgatorio.png" width="223" height="320" data-original-width="361" data-original-height="518" /></a></div>

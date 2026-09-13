@@ -1,7 +1,7 @@
 ---
 title: "Por medo ou não"
 date: 2018-01-08T16:09:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYMpHjNgDQLcjDDK9HA9K0xc8Wy2D6TeYqNKsE25zbJJxopI1KZArhlcWO8WhjKp845yBsyJjn1vlXeAa4-LtJptTwjWq12DbZZSmKiQxAP8-IqKgY341NixnrZ5fdoUn59Dc4CXCr4E/s320/maria_e_jesus.png"
+heroImage: "/images/maria_e_jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYMpHjNgDQLcjDDK9HA9K0xc8Wy2D6TeYqNKsE25zbJJxopI1KZArhlcWO8WhjKp845yBsyJjn1vlXeAa4-LtJptTwjWq12DbZZSmKiQxAP8-IqKgY341NixnrZ5fdoUn59Dc4CXCr4E/s1600/maria_e_jesus.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="453" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYMpHjNgDQLcjDDK9HA9K0xc8Wy2D6TeYqNKsE25zbJJxopI1KZArhlcWO8WhjKp845yBsyJjn1vlXeAa4-LtJptTwjWq12DbZZSmKiQxAP8-IqKgY341NixnrZ5fdoUn59Dc4CXCr4E/s320/maria_e_jesus.png" width="319" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Para aqueles que acreditam no plano de salvação de Deus, em toda a sua catolicidade, fica muito claro que nossa aproximação para com aquele deve carregar o rótulo da humildade. Jesus mesmo nos disse que quem se humilhar, será exaltado. Todavia, na questão da salvação de nossa alma, uma vez que entendemos um pouco a respeito de tudo que esse caminho rumo aos céus pede, exige, oferece e apresenta a cada um, somos tomados pela grandeza da coisa e ela pode nos levar a agirmos por medo ou agirmos por amor.

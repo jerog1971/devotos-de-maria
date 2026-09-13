@@ -1,7 +1,7 @@
 ---
 title: "Acomodados no pecado"
 date: 2021-10-25T16:00:00.006Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnCJuhvRa8RNiwYBpuYWJMEaGtEjM14Ji-ng5HZHS-BJorcchGIxr0hgiMovGuDtpu85LJDyYKpQMV23Lt1HKTON0pv4SUKSnaFZ6Hhne3bJrqYeBVAXSX1RA76iWULGYse5R1tcjMQ/s0/acomodados+no+pecado.png"
+heroImage: "/images/omo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnCJuhvRa8RNiwYBpuYWJMEaGtEjM14Ji-ng5HZHS-BJorcchGIxr0hgiMovGuDtpu85LJDyYKpQMV23Lt1HKTON0pv4SUKSnaFZ6Hhne3bJrqYeBVAXSX1RA76iWULGYse5R1tcjMQ/s227/acomodados+no+pecado.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="170" data-original-width="227" height="170" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnCJuhvRa8RNiwYBpuYWJMEaGtEjM14Ji-ng5HZHS-BJorcchGIxr0hgiMovGuDtpu85LJDyYKpQMV23Lt1HKTON0pv4SUKSnaFZ6Hhne3bJrqYeBVAXSX1RA76iWULGYse5R1tcjMQ/s0/acomodados+no+pecado.png" width="227" /></a></div><br /><p></p><p class="MsoNormal">Os confortos da vida, os prazeres terrenos, as muitas

@@ -1,7 +1,7 @@
 ---
 title: "Fecharam as portas da igreja"
 date: 2020-03-31T17:35:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTb1_izGxmGFYGbFaV1i99cK4Ib3fWhV1fUQ4i69hhy95GmVSt1vi7ewRUj5WhmgxHI28JN1U_MbUsBoZ5TwQedTJWfJxvwAqTxnmtdXpBWdRpRYc-LkJLE6Z688FA2H_SEHLyWrdwVtY/s320/portas_da_igreja.png"
+heroImage: "/images/portas_da_igreja.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTb1_izGxmGFYGbFaV1i99cK4Ib3fWhV1fUQ4i69hhy95GmVSt1vi7ewRUj5WhmgxHI28JN1U_MbUsBoZ5TwQedTJWfJxvwAqTxnmtdXpBWdRpRYc-LkJLE6Z688FA2H_SEHLyWrdwVtY/s1600/portas_da_igreja.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="432" data-original-width="577" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTb1_izGxmGFYGbFaV1i99cK4Ib3fWhV1fUQ4i69hhy95GmVSt1vi7ewRUj5WhmgxHI28JN1U_MbUsBoZ5TwQedTJWfJxvwAqTxnmtdXpBWdRpRYc-LkJLE6Z688FA2H_SEHLyWrdwVtY/s320/portas_da_igreja.png" width="320" /></a></div>

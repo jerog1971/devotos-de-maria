@@ -1,7 +1,7 @@
 ---
 title: "Os assanhamentos"
 date: 2017-10-16T19:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdNh6tC4LhnGNpnUhyahB-beIuRk7aOfrQpcKIKdiLUT-xAAR0_Xq7_pzUz-DZcWfGbeHYDB-0cFrnoFnXknrw5pU_9kd6o8_eMNl0ZZkz4oKgJ5djpxVuh3LP_WLU0ku9Ri9KlsAC0/s320/assanhamento.png"
+heroImage: "/images/assanhamento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdNh6tC4LhnGNpnUhyahB-beIuRk7aOfrQpcKIKdiLUT-xAAR0_Xq7_pzUz-DZcWfGbeHYDB-0cFrnoFnXknrw5pU_9kd6o8_eMNl0ZZkz4oKgJ5djpxVuh3LP_WLU0ku9Ri9KlsAC0/s1600/assanhamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdNh6tC4LhnGNpnUhyahB-beIuRk7aOfrQpcKIKdiLUT-xAAR0_Xq7_pzUz-DZcWfGbeHYDB-0cFrnoFnXknrw5pU_9kd6o8_eMNl0ZZkz4oKgJ5djpxVuh3LP_WLU0ku9Ri9KlsAC0/s320/assanhamento.png" width="302" height="320" data-original-width="296" data-original-height="314" /></a></div>

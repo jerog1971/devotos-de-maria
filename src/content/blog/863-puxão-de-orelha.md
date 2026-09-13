@@ -1,7 +1,7 @@
 ---
 title: "Puxão de orelha"
 date: 2022-05-12T20:37:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRM18KI4DyMOzpnoOdHXpsxAPTsmNC6037_ajv4D9H6AcouZ2mU0yv8d7SOKDlniaOCvxKadLGk7SBFIhm9y2yBXfrg34223v7HJbotFTLLvI4-P3B80rQZbFDH7YUbN9eImB9sdmhJdnwHJLogzuv85NKLjiGM20q89L1ZVJ2M0tOjBMUQIpadFeh/s320/Nossa%20Senhora.png"
+heroImage: "/images/Leão XIV e Nossa Senhora.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRM18KI4DyMOzpnoOdHXpsxAPTsmNC6037_ajv4D9H6AcouZ2mU0yv8d7SOKDlniaOCvxKadLGk7SBFIhm9y2yBXfrg34223v7HJbotFTLLvI4-P3B80rQZbFDH7YUbN9eImB9sdmhJdnwHJLogzuv85NKLjiGM20q89L1ZVJ2M0tOjBMUQIpadFeh/s386/Nossa%20Senhora.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="291" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRM18KI4DyMOzpnoOdHXpsxAPTsmNC6037_ajv4D9H6AcouZ2mU0yv8d7SOKDlniaOCvxKadLGk7SBFIhm9y2yBXfrg34223v7HJbotFTLLvI4-P3B80rQZbFDH7YUbN9eImB9sdmhJdnwHJLogzuv85NKLjiGM20q89L1ZVJ2M0tOjBMUQIpadFeh/s320/Nossa%20Senhora.png" width="241" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não importa a idade ou a época em que nos encontramos em

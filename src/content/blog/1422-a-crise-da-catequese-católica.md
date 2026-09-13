@@ -1,7 +1,7 @@
 ---
 title: "A crise da catequese católica"
 date: 2018-08-08T12:42:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYW2y2cWk9HDyJa0FNS2GL99ajsfev_mfMAfKAiDM3lc9y421iMHWjzBGfjitwyorz7SF8ccT2Re5qTo-16605s2x7LQRMcKk3S9yJfZUIe0B0zJvYXbRaFqaNVD1CwtF53JFgPankk_Q/s320/catequese.png"
+heroImage: "/images/catequese.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYW2y2cWk9HDyJa0FNS2GL99ajsfev_mfMAfKAiDM3lc9y421iMHWjzBGfjitwyorz7SF8ccT2Re5qTo-16605s2x7LQRMcKk3S9yJfZUIe0B0zJvYXbRaFqaNVD1CwtF53JFgPankk_Q/s1600/catequese.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYW2y2cWk9HDyJa0FNS2GL99ajsfev_mfMAfKAiDM3lc9y421iMHWjzBGfjitwyorz7SF8ccT2Re5qTo-16605s2x7LQRMcKk3S9yJfZUIe0B0zJvYXbRaFqaNVD1CwtF53JFgPankk_Q/s320/catequese.png" width="320" height="305" data-original-width="331" data-original-height="315" /></a></div>

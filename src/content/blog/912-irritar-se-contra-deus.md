@@ -1,7 +1,7 @@
 ---
 title: "Irritar-se contra Deus"
 date: 2016-10-17T11:25:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqR_Z0k6lANvRft3C3iswGJ1VHa4Usl98wC7JzMWDo_3QB2_1yl2hgAMswfAIl5n0UzysBvCWMmK0lvliqbenZz2pfzvtR6fSJEdNQwb0GQASZ6gIjGSGqAzCbh_ZI31RZy8Nkzo30-6g/s320/irritar.png"
+heroImage: "/images/irritar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqR_Z0k6lANvRft3C3iswGJ1VHa4Usl98wC7JzMWDo_3QB2_1yl2hgAMswfAIl5n0UzysBvCWMmK0lvliqbenZz2pfzvtR6fSJEdNQwb0GQASZ6gIjGSGqAzCbh_ZI31RZy8Nkzo30-6g/s1600/irritar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqR_Z0k6lANvRft3C3iswGJ1VHa4Usl98wC7JzMWDo_3QB2_1yl2hgAMswfAIl5n0UzysBvCWMmK0lvliqbenZz2pfzvtR6fSJEdNQwb0GQASZ6gIjGSGqAzCbh_ZI31RZy8Nkzo30-6g/s320/irritar.png" width="320" height="307" data-original-width="295" data-original-height="283" /></a></div>

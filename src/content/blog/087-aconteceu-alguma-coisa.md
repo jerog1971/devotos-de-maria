@@ -1,7 +1,7 @@
 ---
 title: "Aconteceu alguma coisa!"
 date: 2018-05-21T20:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-sZTKCq-26xtBX3_jY4rk4NiieffZfbNLNAJ2xF59dMyPQE7L9byztbqf-A-Z-uOAI9f0eIxqo4sjCL-g8oncEt8sIgoQYcw4ZgAvbrMQi6bq_0Z7WyVewedqv84xmcjGWmrYVSdSkM/s320/catequese.png"
+heroImage: "/images/catequese.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-sZTKCq-26xtBX3_jY4rk4NiieffZfbNLNAJ2xF59dMyPQE7L9byztbqf-A-Z-uOAI9f0eIxqo4sjCL-g8oncEt8sIgoQYcw4ZgAvbrMQi6bq_0Z7WyVewedqv84xmcjGWmrYVSdSkM/s1600/catequese.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-sZTKCq-26xtBX3_jY4rk4NiieffZfbNLNAJ2xF59dMyPQE7L9byztbqf-A-Z-uOAI9f0eIxqo4sjCL-g8oncEt8sIgoQYcw4ZgAvbrMQi6bq_0Z7WyVewedqv84xmcjGWmrYVSdSkM/s320/catequese.png" width="320" height="308" data-original-width="180" data-original-height="173" /></a></div>

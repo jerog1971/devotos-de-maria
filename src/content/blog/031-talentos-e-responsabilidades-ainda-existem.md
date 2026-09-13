@@ -1,7 +1,7 @@
 ---
 title: "Talentos e responsabilidades ainda existem"
 date: 2023-06-14T21:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO60eALgwmtY2aiz7d2nxNY3IEcMUNz9GWuk8Z-9uP1M-sV2BKP7KLmq1Catg-AwMsmq8_vhLq2fH_uL0Wi02vxglWjmEJ7EjRtX5qEVpzd1OCl60g-vdhpaHnDb3As3qo99nMKWCwJlBSM-43YqZNk_vrTDCDOpG-AoyAlCxXWzQfbkZPPWUE9f46/s320/liberdade%20de%20express%C3%A3o%20e%20censura.jpg"
+heroImage: "/images/liberdade de expressão e censura.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO60eALgwmtY2aiz7d2nxNY3IEcMUNz9GWuk8Z-9uP1M-sV2BKP7KLmq1Catg-AwMsmq8_vhLq2fH_uL0Wi02vxglWjmEJ7EjRtX5qEVpzd1OCl60g-vdhpaHnDb3As3qo99nMKWCwJlBSM-43YqZNk_vrTDCDOpG-AoyAlCxXWzQfbkZPPWUE9f46/s2448/liberdade%20de%20express%C3%A3o%20e%20censura.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1836" data-original-width="2448" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO60eALgwmtY2aiz7d2nxNY3IEcMUNz9GWuk8Z-9uP1M-sV2BKP7KLmq1Catg-AwMsmq8_vhLq2fH_uL0Wi02vxglWjmEJ7EjRtX5qEVpzd1OCl60g-vdhpaHnDb3As3qo99nMKWCwJlBSM-43YqZNk_vrTDCDOpG-AoyAlCxXWzQfbkZPPWUE9f46/s320/liberdade%20de%20express%C3%A3o%20e%20censura.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ainda hoje, felizmente, existem jovens comprometidos com o

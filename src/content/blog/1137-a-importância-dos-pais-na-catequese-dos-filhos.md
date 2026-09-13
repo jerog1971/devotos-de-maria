@@ -1,7 +1,7 @@
 ---
 title: "A importância dos pais na catequese dos filhos"
 date: 2016-08-18T17:33:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ivYZ_SpVzA5dehkCbxPb_61HanYbl-uRHUx-5fKDFcudAeekr9-047pQ17invllaZrhWxJdrEj10p7BO6vIaDDMFZFi3jRMftPFUrXrmQ8KrAFIQkWs3N6DMHOvxuSgKa2DC-HJl3zY/s320/importancia.png"
+heroImage: "/images/importancia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ivYZ_SpVzA5dehkCbxPb_61HanYbl-uRHUx-5fKDFcudAeekr9-047pQ17invllaZrhWxJdrEj10p7BO6vIaDDMFZFi3jRMftPFUrXrmQ8KrAFIQkWs3N6DMHOvxuSgKa2DC-HJl3zY/s1600/importancia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="387" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ivYZ_SpVzA5dehkCbxPb_61HanYbl-uRHUx-5fKDFcudAeekr9-047pQ17invllaZrhWxJdrEj10p7BO6vIaDDMFZFi3jRMftPFUrXrmQ8KrAFIQkWs3N6DMHOvxuSgKa2DC-HJl3zY/s320/importancia.png" width="244" /></a></div>

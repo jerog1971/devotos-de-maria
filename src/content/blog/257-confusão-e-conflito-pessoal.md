@@ -1,7 +1,7 @@
 ---
 title: "Confusão e conflito pessoal"
 date: 2019-09-20T19:28:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnwRocP2hj8ILgQXk1nxvRLIruSR_F50W1aSBXfGlvx4cN08GPvZPTXjruRFLu4N32munu1yRw1Z3rtT-Adqvvqi2aS_QMScBlB95SofLs3tNUn3DvemB8hMbD1JxjaeFAUenH7vCMU/s320/star-wars-rebels-darth-vader.jpg"
+heroImage: "/images/star-wars-rebels-darth-vader.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnwRocP2hj8ILgQXk1nxvRLIruSR_F50W1aSBXfGlvx4cN08GPvZPTXjruRFLu4N32munu1yRw1Z3rtT-Adqvvqi2aS_QMScBlB95SofLs3tNUn3DvemB8hMbD1JxjaeFAUenH7vCMU/s1600/star-wars-rebels-darth-vader.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnwRocP2hj8ILgQXk1nxvRLIruSR_F50W1aSBXfGlvx4cN08GPvZPTXjruRFLu4N32munu1yRw1Z3rtT-Adqvvqi2aS_QMScBlB95SofLs3tNUn3DvemB8hMbD1JxjaeFAUenH7vCMU/s320/star-wars-rebels-darth-vader.jpg" width="320" height="160" data-original-width="1000" data-original-height="500" /></a></div>

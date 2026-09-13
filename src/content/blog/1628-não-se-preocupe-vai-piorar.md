@@ -1,7 +1,7 @@
 ---
 title: "Não se preocupe, vai piorar"
 date: 2017-12-13T12:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1_F09FynvzjzKUjiL19_3h-jsqpaNv_eyvmjcBUXfrj3bMpa0Mb7mRN5klpay4WZ-MHIrL_I9VfsXF9aTz3pYb2o9wlIVEzISMBn6lbYJDwdzgSBhG7bIED2JsSH7fN0rS5hv5iSeD3Q/s320/preocupar.png"
+heroImage: "/images/preocupar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1_F09FynvzjzKUjiL19_3h-jsqpaNv_eyvmjcBUXfrj3bMpa0Mb7mRN5klpay4WZ-MHIrL_I9VfsXF9aTz3pYb2o9wlIVEzISMBn6lbYJDwdzgSBhG7bIED2JsSH7fN0rS5hv5iSeD3Q/s1600/preocupar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1_F09FynvzjzKUjiL19_3h-jsqpaNv_eyvmjcBUXfrj3bMpa0Mb7mRN5klpay4WZ-MHIrL_I9VfsXF9aTz3pYb2o9wlIVEzISMBn6lbYJDwdzgSBhG7bIED2JsSH7fN0rS5hv5iSeD3Q/s320/preocupar.png" width="320" height="280" data-original-width="773" data-original-height="677" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Que a morte seja o último acontecimento da vida"
 date: 2018-09-25T20:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYPgND_CJW99RCmoWgzGlaHdIIIO3_Wl6JHiNCLtiVMLu_G8MoCnJXY10TKjHeo_XNlBX0bUyitGrsrzALq5_1tgVtgkHYCL-jd3rwcjPu-5t76i7h4PLPytntv0mp1m-X42eaMAbGZU/s320/morte.png"
+heroImage: "/images/chegada_da_morte.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYPgND_CJW99RCmoWgzGlaHdIIIO3_Wl6JHiNCLtiVMLu_G8MoCnJXY10TKjHeo_XNlBX0bUyitGrsrzALq5_1tgVtgkHYCL-jd3rwcjPu-5t76i7h4PLPytntv0mp1m-X42eaMAbGZU/s1600/morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYPgND_CJW99RCmoWgzGlaHdIIIO3_Wl6JHiNCLtiVMLu_G8MoCnJXY10TKjHeo_XNlBX0bUyitGrsrzALq5_1tgVtgkHYCL-jd3rwcjPu-5t76i7h4PLPytntv0mp1m-X42eaMAbGZU/s320/morte.png" width="320" height="306" data-original-width="443" data-original-height="423" /></a></div>

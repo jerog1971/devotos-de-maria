@@ -1,7 +1,7 @@
 ---
 title: "As realidades do mundo"
 date: 2019-04-17T20:27:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSYOnD-dHdbPEDnhusQ1apg_nSBvn8P0pGCzrJanlCawBl3SFRQ1bU7TRfub6L2TDa7gcLR8iuLxW5xTssjC788I_MC5BCRZZXqk044tA9x3ERS9UpgGAZcI_WO4Mmnfk-QlF-BwSHhg/s320/Sofia_e_a_m%25C3%25A3e.png"
+heroImage: "/images/Sofia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSYOnD-dHdbPEDnhusQ1apg_nSBvn8P0pGCzrJanlCawBl3SFRQ1bU7TRfub6L2TDa7gcLR8iuLxW5xTssjC788I_MC5BCRZZXqk044tA9x3ERS9UpgGAZcI_WO4Mmnfk-QlF-BwSHhg/s1600/Sofia_e_a_m%25C3%25A3e.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSYOnD-dHdbPEDnhusQ1apg_nSBvn8P0pGCzrJanlCawBl3SFRQ1bU7TRfub6L2TDa7gcLR8iuLxW5xTssjC788I_MC5BCRZZXqk044tA9x3ERS9UpgGAZcI_WO4Mmnfk-QlF-BwSHhg/s320/Sofia_e_a_m%25C3%25A3e.png" width="315" height="320" data-original-width="603" data-original-height="613" /></a></div>

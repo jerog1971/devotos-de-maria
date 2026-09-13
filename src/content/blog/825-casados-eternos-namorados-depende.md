@@ -1,7 +1,7 @@
 ---
 title: "Casados, eternos namorados? Depende!"
 date: 2017-06-12T14:07:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC-HARnl6UblodkDEbWllE3h0A5VoqvGVf95BVngfUxjdy5gLRXWqIbTvQcCJbnIBfO_bcUCo1IbxOzqE3ZWjk7azZV41LO60VRsyq88TJxCk-JgO2-3PoHn3ro9rn2hHOypkM2LZxfqA/s320/casando.png"
+heroImage: "/images/casando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC-HARnl6UblodkDEbWllE3h0A5VoqvGVf95BVngfUxjdy5gLRXWqIbTvQcCJbnIBfO_bcUCo1IbxOzqE3ZWjk7azZV41LO60VRsyq88TJxCk-JgO2-3PoHn3ro9rn2hHOypkM2LZxfqA/s1600/casando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC-HARnl6UblodkDEbWllE3h0A5VoqvGVf95BVngfUxjdy5gLRXWqIbTvQcCJbnIBfO_bcUCo1IbxOzqE3ZWjk7azZV41LO60VRsyq88TJxCk-JgO2-3PoHn3ro9rn2hHOypkM2LZxfqA/s320/casando.png" width="320" height="302" data-original-width="551" data-original-height="520" /></a></div>

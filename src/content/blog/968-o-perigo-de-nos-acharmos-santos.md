@@ -1,7 +1,7 @@
 ---
 title: "O perigo de nos acharmos santos"
 date: 2018-06-20T15:54:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU69DeHERNNYnY9e6cGUtnLmF0jjkpVJuvS6vc13O4g7_LdaXoWioNWrMgOGZdhYZzXBKLdVcinnP2069y0b2a6v4NYJWYN2zWMdVbXIwtgkvIvakbXQA4jWIO1v2VgVN7WzOoxAPZO1E/s320/santinha_safada.png"
+heroImage: "/images/santinha_safada.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU69DeHERNNYnY9e6cGUtnLmF0jjkpVJuvS6vc13O4g7_LdaXoWioNWrMgOGZdhYZzXBKLdVcinnP2069y0b2a6v4NYJWYN2zWMdVbXIwtgkvIvakbXQA4jWIO1v2VgVN7WzOoxAPZO1E/s1600/santinha_safada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU69DeHERNNYnY9e6cGUtnLmF0jjkpVJuvS6vc13O4g7_LdaXoWioNWrMgOGZdhYZzXBKLdVcinnP2069y0b2a6v4NYJWYN2zWMdVbXIwtgkvIvakbXQA4jWIO1v2VgVN7WzOoxAPZO1E/s320/santinha_safada.png" width="320" height="314" data-original-width="507" data-original-height="498" /></a></div>

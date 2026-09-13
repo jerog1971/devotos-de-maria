@@ -1,7 +1,7 @@
 ---
 title: "Cuidado existe para ser tomado"
 date: 2016-06-08T12:58:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNaoBAMCdNa_BZ0i2DCUZKE8WoLKziSd4MSJxPnAL3GkvlwrS3m4lTxJUE44GYe6Duku9txVnh6kMJxnDCALWI_aQRLwDByHhj_fnnqcxHavQmJrFTA5vv9GVp31RzgJBOQK5ypQIaYc/s320/ataque.png"
+heroImage: "/images/ataque.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNaoBAMCdNa_BZ0i2DCUZKE8WoLKziSd4MSJxPnAL3GkvlwrS3m4lTxJUE44GYe6Duku9txVnh6kMJxnDCALWI_aQRLwDByHhj_fnnqcxHavQmJrFTA5vv9GVp31RzgJBOQK5ypQIaYc/s1600/ataque.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNaoBAMCdNa_BZ0i2DCUZKE8WoLKziSd4MSJxPnAL3GkvlwrS3m4lTxJUE44GYe6Duku9txVnh6kMJxnDCALWI_aQRLwDByHhj_fnnqcxHavQmJrFTA5vv9GVp31RzgJBOQK5ypQIaYc/s320/ataque.png" width="320" height="302" data-original-width="494" data-original-height="466" /></a></div>

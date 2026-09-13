@@ -1,7 +1,7 @@
 ---
 title: "O que os pais recebem dos filhos"
 date: 2017-05-16T19:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV1hzRCd6Ot7iQSk3JCcevJ9XQNfKMBn_lgly5M21DpBAfw8gXUncgG_b_jPx6euYW1lUhXkz-syOHs_RbIDF-S1Pt9E2x8CN960iB2MAwfu7sEev9S0uP5W7uhsDe11-DuJ26Tlz_S4g/s320/flechada.png"
+heroImage: "/images/flechada.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV1hzRCd6Ot7iQSk3JCcevJ9XQNfKMBn_lgly5M21DpBAfw8gXUncgG_b_jPx6euYW1lUhXkz-syOHs_RbIDF-S1Pt9E2x8CN960iB2MAwfu7sEev9S0uP5W7uhsDe11-DuJ26Tlz_S4g/s1600/flechada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV1hzRCd6Ot7iQSk3JCcevJ9XQNfKMBn_lgly5M21DpBAfw8gXUncgG_b_jPx6euYW1lUhXkz-syOHs_RbIDF-S1Pt9E2x8CN960iB2MAwfu7sEev9S0uP5W7uhsDe11-DuJ26Tlz_S4g/s320/flechada.png" width="320" height="278" data-original-width="603" data-original-height="523" /></a></div>

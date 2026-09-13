@@ -1,7 +1,7 @@
 ---
 title: "Exaltação da Santa Cruz"
 date: 2017-09-13T17:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTVtrsTN6U3-dC8qSIY0PpQ04_Vc7MZlIHGfukPIvCFM18fQnOlp9loJ8gLsMAhVswpgob3fMt218QlBmD5ssmVL0yPSvCt3DN9gvZzW41phxmnd455OOOiqijqGJVKb1QLmRi89fJAU/s320/exaltacao.png"
+heroImage: "/images/exaltacao.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTVtrsTN6U3-dC8qSIY0PpQ04_Vc7MZlIHGfukPIvCFM18fQnOlp9loJ8gLsMAhVswpgob3fMt218QlBmD5ssmVL0yPSvCt3DN9gvZzW41phxmnd455OOOiqijqGJVKb1QLmRi89fJAU/s1600/exaltacao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTVtrsTN6U3-dC8qSIY0PpQ04_Vc7MZlIHGfukPIvCFM18fQnOlp9loJ8gLsMAhVswpgob3fMt218QlBmD5ssmVL0yPSvCt3DN9gvZzW41phxmnd455OOOiqijqGJVKb1QLmRi89fJAU/s320/exaltacao.png" width="229" height="320" data-original-width="368" data-original-height="514" /></a></div>

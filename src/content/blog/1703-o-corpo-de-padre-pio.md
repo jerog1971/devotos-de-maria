@@ -1,7 +1,7 @@
 ---
 title: "O corpo de Padre Pio"
 date: 2017-12-15T18:57:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie-FEPagvoiCKQCQIGYkU4hIepmd27LSrP8iIA1KzpZClUhebHwA4gXUwV6G-KSAQm5GSfAV704RPgPu262L5WeSI5ZcfOKhwGqAso0Y7SKL_7ITlKMfwMpzcf4Ad9GzmbPtOC4S_1420/s320/padre_pio2.png"
+heroImage: "/images/padre_pio2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie-FEPagvoiCKQCQIGYkU4hIepmd27LSrP8iIA1KzpZClUhebHwA4gXUwV6G-KSAQm5GSfAV704RPgPu262L5WeSI5ZcfOKhwGqAso0Y7SKL_7ITlKMfwMpzcf4Ad9GzmbPtOC4S_1420/s1600/padre_pio2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie-FEPagvoiCKQCQIGYkU4hIepmd27LSrP8iIA1KzpZClUhebHwA4gXUwV6G-KSAQm5GSfAV704RPgPu262L5WeSI5ZcfOKhwGqAso0Y7SKL_7ITlKMfwMpzcf4Ad9GzmbPtOC4S_1420/s320/padre_pio2.png" width="218" height="320" data-original-width="347" data-original-height="509" /></a></div>

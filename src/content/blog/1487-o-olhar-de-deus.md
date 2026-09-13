@@ -1,7 +1,7 @@
 ---
 title: "O olhar de Deus"
 date: 2015-09-18T16:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIRyixXnjVO7gpMbC7j5-crmq13wLRCqAmMIZ6KvHreS___vYkVUrruNnoAP_8F0zZEGqeNRNS4K9AcUU6YtwmI-_FjNpp-mPQsxYmJnqUecUXzQaTcQI_vjQlDsZKy1h5rx9nVPfV3no/s320/olhar_de_deus.png"
+heroImage: "/images/olhar_de_deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIRyixXnjVO7gpMbC7j5-crmq13wLRCqAmMIZ6KvHreS___vYkVUrruNnoAP_8F0zZEGqeNRNS4K9AcUU6YtwmI-_FjNpp-mPQsxYmJnqUecUXzQaTcQI_vjQlDsZKy1h5rx9nVPfV3no/s1600/olhar_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIRyixXnjVO7gpMbC7j5-crmq13wLRCqAmMIZ6KvHreS___vYkVUrruNnoAP_8F0zZEGqeNRNS4K9AcUU6YtwmI-_FjNpp-mPQsxYmJnqUecUXzQaTcQI_vjQlDsZKy1h5rx9nVPfV3no/s320/olhar_de_deus.png" width="320" height="292" data-original-width="534" data-original-height="488" /></a></div>

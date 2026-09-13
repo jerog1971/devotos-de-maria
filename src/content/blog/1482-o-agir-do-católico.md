@@ -1,7 +1,7 @@
 ---
 title: "O agir do católico"
 date: 2016-07-26T11:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Ys-_nxjVIbpFV8Z7aWwqLEJ7QnoDsizjQ5QJNUtjbEoFiq4WOILKZju6PN22ZbicUI1jfcjScGKqES9ql8fjEtQMcz-SB_ogqm6OKmpBjDbxOuMvHBeylAhtNnS9xqZJjhzjLWivTlI/s320/agir_do_catolico.png"
+heroImage: "/images/agir_do_catolico.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Ys-_nxjVIbpFV8Z7aWwqLEJ7QnoDsizjQ5QJNUtjbEoFiq4WOILKZju6PN22ZbicUI1jfcjScGKqES9ql8fjEtQMcz-SB_ogqm6OKmpBjDbxOuMvHBeylAhtNnS9xqZJjhzjLWivTlI/s1600/agir_do_catolico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Ys-_nxjVIbpFV8Z7aWwqLEJ7QnoDsizjQ5QJNUtjbEoFiq4WOILKZju6PN22ZbicUI1jfcjScGKqES9ql8fjEtQMcz-SB_ogqm6OKmpBjDbxOuMvHBeylAhtNnS9xqZJjhzjLWivTlI/s320/agir_do_catolico.png" width="320" height="251" data-original-width="297" data-original-height="233" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Um dia, esse dia será o meu dia"
 date: 2019-10-15T20:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjjc6fTCB4_KKW7uZVI2x_FlPLDQ_lOpGKv-ujyZSrNOOhnqjBJXSQ5aNwEt7UkMECt0jgRmmPkr8ybGLEzQ4pQnll7W2oSUKG0YJ3eLR6eAbVU5fKrD_KlKUOFP9gtxv3UbCe5hzALc/s320/professor.jpg"
+heroImage: "/images/dia do professor.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjjc6fTCB4_KKW7uZVI2x_FlPLDQ_lOpGKv-ujyZSrNOOhnqjBJXSQ5aNwEt7UkMECt0jgRmmPkr8ybGLEzQ4pQnll7W2oSUKG0YJ3eLR6eAbVU5fKrD_KlKUOFP9gtxv3UbCe5hzALc/s1600/professor.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjjc6fTCB4_KKW7uZVI2x_FlPLDQ_lOpGKv-ujyZSrNOOhnqjBJXSQ5aNwEt7UkMECt0jgRmmPkr8ybGLEzQ4pQnll7W2oSUKG0YJ3eLR6eAbVU5fKrD_KlKUOFP9gtxv3UbCe5hzALc/s320/professor.jpg" width="320" height="180" data-original-width="960" data-original-height="540" /></a></div>

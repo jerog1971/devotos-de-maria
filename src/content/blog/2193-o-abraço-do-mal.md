@@ -1,7 +1,7 @@
 ---
 title: "O abraço do mal"
 date: 2017-06-27T16:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKFsMGWjMbyQhHbo4biAHy-MNSRjDXwIJNvrbEEuGde9xCKNFNyjdCPkJkeu_9xm6mizl-Of5JtDY8G1j7X0I-3Vf9CzLoxXt7PJDKgqeDYMkAMfBGGCAKmPWlYb59XJZ182z3pyfrto0/s320/zelador.png"
+heroImage: "/images/zelador.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKFsMGWjMbyQhHbo4biAHy-MNSRjDXwIJNvrbEEuGde9xCKNFNyjdCPkJkeu_9xm6mizl-Of5JtDY8G1j7X0I-3Vf9CzLoxXt7PJDKgqeDYMkAMfBGGCAKmPWlYb59XJZ182z3pyfrto0/s1600/zelador.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKFsMGWjMbyQhHbo4biAHy-MNSRjDXwIJNvrbEEuGde9xCKNFNyjdCPkJkeu_9xm6mizl-Of5JtDY8G1j7X0I-3Vf9CzLoxXt7PJDKgqeDYMkAMfBGGCAKmPWlYb59XJZ182z3pyfrto0/s320/zelador.png" width="320" height="263" data-original-width="632" data-original-height="519" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Deus aprova as chantagens"
 date: 2020-12-08T15:35:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s320/deus.png"
+heroImage: "/images/Ausência de Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s527/deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="285" data-original-width="527" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv-hRO8okQF_ANsYqjPG9pOj4tW449-avY4fsnL9MKF9m25aqloIC6K7NUR-KONwR5RPnFuT7dIW4aPnoJ6XPU9SqGTxfs66w1sGNp7vExnIr-DiTDf7x1NcNjecGxQP_8DmRAukT6Jq8/s320/deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo que você está lendo caro leitor. Ele tanto

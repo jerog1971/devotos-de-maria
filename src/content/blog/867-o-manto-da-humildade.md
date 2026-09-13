@@ -1,7 +1,7 @@
 ---
 title: "O manto da humildade"
 date: 2018-10-08T20:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXNbAjlD-bwZ3kn6Arban2f82ebR1PBZe6ZleJPpYm9G8pOv2SF36aDQ2ALMhqKmwvg0VVKVi8siwnTezM5hJpqXBBCwXjJ95gfvnsQ19B0dbBqsyM32jIkIhH_abLtQmHfeEmEeyiM4s/s320/humildade.png"
+heroImage: "/images/humildade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXNbAjlD-bwZ3kn6Arban2f82ebR1PBZe6ZleJPpYm9G8pOv2SF36aDQ2ALMhqKmwvg0VVKVi8siwnTezM5hJpqXBBCwXjJ95gfvnsQ19B0dbBqsyM32jIkIhH_abLtQmHfeEmEeyiM4s/s1600/humildade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXNbAjlD-bwZ3kn6Arban2f82ebR1PBZe6ZleJPpYm9G8pOv2SF36aDQ2ALMhqKmwvg0VVKVi8siwnTezM5hJpqXBBCwXjJ95gfvnsQ19B0dbBqsyM32jIkIhH_abLtQmHfeEmEeyiM4s/s320/humildade.png" width="311" height="320" data-original-width="342" data-original-height="352" /></a></div>

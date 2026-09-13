@@ -1,7 +1,7 @@
 ---
 title: "Pela conversão dos pecadores"
 date: 2023-01-28T18:45:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQaiuyheXA3bix6BK0EnXYQVwQq4Q8KtuScRWddhGLNQWEkbv1XEmGkRj9CxiSwSWhpC38U3_2uweLQfRMLK-Bx6NBC-yauW7GlvBNpjSbFdyRl4-q9EO7BY3fZCxbTrJluQnb6OB4t4DcBk_Jt1LQxkcbbnmi7sZsdx8Kmzl3uj9CBUbsdbn-Fsj/s1600/fatima2.png"
+heroImage: "/images/fatima2.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQaiuyheXA3bix6BK0EnXYQVwQq4Q8KtuScRWddhGLNQWEkbv1XEmGkRj9CxiSwSWhpC38U3_2uweLQfRMLK-Bx6NBC-yauW7GlvBNpjSbFdyRl4-q9EO7BY3fZCxbTrJluQnb6OB4t4DcBk_Jt1LQxkcbbnmi7sZsdx8Kmzl3uj9CBUbsdbn-Fsj/s221/fatima2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" height="215" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQaiuyheXA3bix6BK0EnXYQVwQq4Q8KtuScRWddhGLNQWEkbv1XEmGkRj9CxiSwSWhpC38U3_2uweLQfRMLK-Bx6NBC-yauW7GlvBNpjSbFdyRl4-q9EO7BY3fZCxbTrJluQnb6OB4t4DcBk_Jt1LQxkcbbnmi7sZsdx8Kmzl3uj9CBUbsdbn-Fsj/s1600/fatima2.png" width="221" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Eu vos digo que, a menos que vos convertais e vos torneis

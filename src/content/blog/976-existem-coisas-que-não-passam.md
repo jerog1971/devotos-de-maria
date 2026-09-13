@@ -1,7 +1,7 @@
 ---
 title: "Existem coisas que não passam"
 date: 2023-03-03T21:04:00.006Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGqkYbbM5mjdAH6156qNH8joM6shk5ldw8hi9mqb_7dSJv0NGlnM9OJVnz_rDEZg8xJtssqxKGqRWWjAT648rki8CcfXJiDVqOQp7iKsyXWaPNbYDnETWZ5SLSkYh_DXJsxPxGn8GCfb0zcyueuDI4MZjp_XTTpaQECK4k1X-8L_3T99cO0IRkZyJ3/s320/coisas%20que%20n%C3%A3o%20passam.png"
+heroImage: "/images/coisas que não passam.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGqkYbbM5mjdAH6156qNH8joM6shk5ldw8hi9mqb_7dSJv0NGlnM9OJVnz_rDEZg8xJtssqxKGqRWWjAT648rki8CcfXJiDVqOQp7iKsyXWaPNbYDnETWZ5SLSkYh_DXJsxPxGn8GCfb0zcyueuDI4MZjp_XTTpaQECK4k1X-8L_3T99cO0IRkZyJ3/s546/coisas%20que%20n%C3%A3o%20passam.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="425" data-original-width="546" height="249" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGqkYbbM5mjdAH6156qNH8joM6shk5ldw8hi9mqb_7dSJv0NGlnM9OJVnz_rDEZg8xJtssqxKGqRWWjAT648rki8CcfXJiDVqOQp7iKsyXWaPNbYDnETWZ5SLSkYh_DXJsxPxGn8GCfb0zcyueuDI4MZjp_XTTpaQECK4k1X-8L_3T99cO0IRkZyJ3/s320/coisas%20que%20n%C3%A3o%20passam.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou, se formos olhar na perspectiva do mal, as coisas passam

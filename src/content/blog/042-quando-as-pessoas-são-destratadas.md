@@ -1,7 +1,7 @@
 ---
 title: "Quando as pessoas são destratadas"
 date: 2020-08-14T19:38:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBZt4wGKdi1AYLyt8HahS-uPyQkSpv7B_bvJ6BRJrq5iE34PyMVYttHKy69JbR8pndi1tKViOWPVQSruaQ5tRcqRamwNtBDZotBiHKSfBMHIAobt-SA0sOt18kZD3ZygiDtk5Q51aLfF0/s0/maus_padres_5.jpg"
+heroImage: "/images/maus_padres_5.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBZt4wGKdi1AYLyt8HahS-uPyQkSpv7B_bvJ6BRJrq5iE34PyMVYttHKy69JbR8pndi1tKViOWPVQSruaQ5tRcqRamwNtBDZotBiHKSfBMHIAobt-SA0sOt18kZD3ZygiDtk5Q51aLfF0/s443/maus_padres_5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="406" data-original-width="443" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBZt4wGKdi1AYLyt8HahS-uPyQkSpv7B_bvJ6BRJrq5iE34PyMVYttHKy69JbR8pndi1tKViOWPVQSruaQ5tRcqRamwNtBDZotBiHKSfBMHIAobt-SA0sOt18kZD3ZygiDtk5Q51aLfF0/s0/maus_padres_5.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Infelizmente no meio em que vivemos já temos por comprovação

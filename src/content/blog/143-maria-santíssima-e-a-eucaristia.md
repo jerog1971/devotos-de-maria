@@ -1,7 +1,7 @@
 ---
 title: "Maria Santíssima e a Eucaristia"
 date: 2017-02-21T15:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0-WrFHSDkYyoxjOSoxX0XfKwa6Mn4Dy7AFiH9QVOa4mBUZ-Z_EvaIUriKp7ltXJlUX5ykP2buzwn0_jPCZTZMNa_huPOJWjS5hxeWAW33Gdq45sDt8vIeq939KYzTyxpLplI5e0kZAGc/s320/rosario2.png"
+heroImage: "/images/rosario2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0-WrFHSDkYyoxjOSoxX0XfKwa6Mn4Dy7AFiH9QVOa4mBUZ-Z_EvaIUriKp7ltXJlUX5ykP2buzwn0_jPCZTZMNa_huPOJWjS5hxeWAW33Gdq45sDt8vIeq939KYzTyxpLplI5e0kZAGc/s1600/rosario2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0-WrFHSDkYyoxjOSoxX0XfKwa6Mn4Dy7AFiH9QVOa4mBUZ-Z_EvaIUriKp7ltXJlUX5ykP2buzwn0_jPCZTZMNa_huPOJWjS5hxeWAW33Gdq45sDt8vIeq939KYzTyxpLplI5e0kZAGc/s320/rosario2.png" width="320" height="227" data-original-width="459" data-original-height="326" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Quem quiser entrar no céu não pode se mandar"
 date: 2022-11-16T20:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh47rltti36TghvlXQLNdlDMg8PCyD4vWVL__Gx-5WT70-dsPsJFb7m8F2TFoO6e9PMZW2DWsGhO9GNiTR5ZCwbPaTSPsvGx9aQKrltKbcrQlL1-jGuCS4VLBQntI-zEZ-zReXJqWzpZ9BqWhY29V-wjqvqSNiz9uHc31nPtAw0cNsTBAGMow6VlKi/s320/convem.png"
+heroImage: "/images/convem.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh47rltti36TghvlXQLNdlDMg8PCyD4vWVL__Gx-5WT70-dsPsJFb7m8F2TFoO6e9PMZW2DWsGhO9GNiTR5ZCwbPaTSPsvGx9aQKrltKbcrQlL1-jGuCS4VLBQntI-zEZ-zReXJqWzpZ9BqWhY29V-wjqvqSNiz9uHc31nPtAw0cNsTBAGMow6VlKi/s402/convem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="402" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh47rltti36TghvlXQLNdlDMg8PCyD4vWVL__Gx-5WT70-dsPsJFb7m8F2TFoO6e9PMZW2DWsGhO9GNiTR5ZCwbPaTSPsvGx9aQKrltKbcrQlL1-jGuCS4VLBQntI-zEZ-zReXJqWzpZ9BqWhY29V-wjqvqSNiz9uHc31nPtAw0cNsTBAGMow6VlKi/s320/convem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente esta é uma das verdades bíblicas mais duras de

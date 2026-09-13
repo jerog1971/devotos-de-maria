@@ -1,7 +1,7 @@
 ---
 title: "Purgando aos poucos"
 date: 2022-12-05T10:41:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcNf_q12OniNmRCj5a3lEpdvffxE0WSMstwA4QlUw6erN5A0i4GiZjLmKpOes8AuMyRpqqc3Feo8QAfMzSqj58gHlyBT3iRLTOh5ofIBVPdGT_bNNow7IVBak-1Gs30DWCL4hS2UKxjM5SBqq1o1O6PYbaZ0IVaU1JJ2jenV0y8zTt10wYeJZ_cJD/s1600/Purgando%20aos%20poucos.png"
+heroImage: "/images/Purgando aos poucos.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcNf_q12OniNmRCj5a3lEpdvffxE0WSMstwA4QlUw6erN5A0i4GiZjLmKpOes8AuMyRpqqc3Feo8QAfMzSqj58gHlyBT3iRLTOh5ofIBVPdGT_bNNow7IVBak-1Gs30DWCL4hS2UKxjM5SBqq1o1O6PYbaZ0IVaU1JJ2jenV0y8zTt10wYeJZ_cJD/s272/Purgando%20aos%20poucos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="272" data-original-width="245" height="272" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcNf_q12OniNmRCj5a3lEpdvffxE0WSMstwA4QlUw6erN5A0i4GiZjLmKpOes8AuMyRpqqc3Feo8QAfMzSqj58gHlyBT3iRLTOh5ofIBVPdGT_bNNow7IVBak-1Gs30DWCL4hS2UKxjM5SBqq1o1O6PYbaZ0IVaU1JJ2jenV0y8zTt10wYeJZ_cJD/s1600/Purgando%20aos%20poucos.png" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Da mesma forma que as coisas vêm, elas vão. O sujeito não

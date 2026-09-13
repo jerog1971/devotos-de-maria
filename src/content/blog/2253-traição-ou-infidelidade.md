@@ -1,7 +1,7 @@
 ---
 title: "Traição ou Infidelidade?"
 date: 2018-08-10T16:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmICRZ2j-RDzriT8QZdMpy-CjeG-SC8mjVs5CDnw7-jLsTob_f4vdsPh3e7yEd8KIlujWKfKvte8FBGAex0F2aFMc0779MjYw93G0eIzXC0FGsg5laPl8kc4D_IYYFXrLVFNOsotgcihI/s320/infidelidade_religiosa.png"
+heroImage: "/images/infidelidade_religiosa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmICRZ2j-RDzriT8QZdMpy-CjeG-SC8mjVs5CDnw7-jLsTob_f4vdsPh3e7yEd8KIlujWKfKvte8FBGAex0F2aFMc0779MjYw93G0eIzXC0FGsg5laPl8kc4D_IYYFXrLVFNOsotgcihI/s1600/infidelidade_religiosa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmICRZ2j-RDzriT8QZdMpy-CjeG-SC8mjVs5CDnw7-jLsTob_f4vdsPh3e7yEd8KIlujWKfKvte8FBGAex0F2aFMc0779MjYw93G0eIzXC0FGsg5laPl8kc4D_IYYFXrLVFNOsotgcihI/s320/infidelidade_religiosa.png" width="320" height="311" data-original-width="395" data-original-height="384" /></a></div>

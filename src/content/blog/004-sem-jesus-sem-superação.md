@@ -1,7 +1,7 @@
 ---
 title: "Sem Jesus, sem superação"
 date: 2018-02-24T12:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1UtYQZzsOFweBVfbhS9-rgrr5aBEAqKjRWay1-18qNY4a9pSlFFxKBKPKuBSvK28JTUv-OMDDEFf-Gn2GqVY2PhEZpcWh8pyqv7RX3mbAM_zGtVoHD2aRZ22k0HMi6kibpRw26a3Kidg/s320/dificuldades.png"
+heroImage: "/images/dificuldades.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1UtYQZzsOFweBVfbhS9-rgrr5aBEAqKjRWay1-18qNY4a9pSlFFxKBKPKuBSvK28JTUv-OMDDEFf-Gn2GqVY2PhEZpcWh8pyqv7RX3mbAM_zGtVoHD2aRZ22k0HMi6kibpRw26a3Kidg/s1600/dificuldades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1UtYQZzsOFweBVfbhS9-rgrr5aBEAqKjRWay1-18qNY4a9pSlFFxKBKPKuBSvK28JTUv-OMDDEFf-Gn2GqVY2PhEZpcWh8pyqv7RX3mbAM_zGtVoHD2aRZ22k0HMi6kibpRw26a3Kidg/s320/dificuldades.png" width="320" height="296" data-original-width="279" data-original-height="258" /></a></div>

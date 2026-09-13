@@ -1,7 +1,7 @@
 ---
 title: "O diabo cada vez exige mais..."
 date: 2016-07-08T15:07:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKUwWaZjiD8pjqxrMlvFVFvPZ_iO_0o7XjMJp-1LdBgm8YBFcAKnNeu9YpcZlbC4Cz-HuyN9eU4_JiBu0bVGDW9leLuWGxDOgnFSnZGqVxMux8d6fEheZQ3z15Zy7ygH_Iog4gWeqAlGM/s320/diabo.png"
+heroImage: "/images/Jesus_Diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKUwWaZjiD8pjqxrMlvFVFvPZ_iO_0o7XjMJp-1LdBgm8YBFcAKnNeu9YpcZlbC4Cz-HuyN9eU4_JiBu0bVGDW9leLuWGxDOgnFSnZGqVxMux8d6fEheZQ3z15Zy7ygH_Iog4gWeqAlGM/s1600/diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKUwWaZjiD8pjqxrMlvFVFvPZ_iO_0o7XjMJp-1LdBgm8YBFcAKnNeu9YpcZlbC4Cz-HuyN9eU4_JiBu0bVGDW9leLuWGxDOgnFSnZGqVxMux8d6fEheZQ3z15Zy7ygH_Iog4gWeqAlGM/s320/diabo.png" width="320" height="298" data-original-width="373" data-original-height="347" /></a></div>

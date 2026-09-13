@@ -1,7 +1,7 @@
 ---
 title: "Detesto passar vontade"
 date: 2017-08-01T11:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhU61p8Njlrvjsb2txanqe5MGKgCtugAyN9fAUPI1NxA-BimEcOqdlqxP3iKDHPAzY8bzWHpPyBVkQ_UXAlI2EJOQHvU307Pf2AJTDeeGxZ5DzbnxcszmOMMoBiAHHJB_oCDzg-LTnIk4/s320/odeio.png"
+heroImage: "/images/odeio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhU61p8Njlrvjsb2txanqe5MGKgCtugAyN9fAUPI1NxA-BimEcOqdlqxP3iKDHPAzY8bzWHpPyBVkQ_UXAlI2EJOQHvU307Pf2AJTDeeGxZ5DzbnxcszmOMMoBiAHHJB_oCDzg-LTnIk4/s1600/odeio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhU61p8Njlrvjsb2txanqe5MGKgCtugAyN9fAUPI1NxA-BimEcOqdlqxP3iKDHPAzY8bzWHpPyBVkQ_UXAlI2EJOQHvU307Pf2AJTDeeGxZ5DzbnxcszmOMMoBiAHHJB_oCDzg-LTnIk4/s320/odeio.png" width="320" height="302" data-original-width="376" data-original-height="355" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Felizes com Maria"
 date: 2018-03-27T01:10:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDmELzr01xpOC2EvKfeKy8U2WcoexMm2k_XMZI5MTN169ttUad4S7_JNk4lItafiXYP8kv1NZCm9gkOvB7Oz8RnTjxkSypmS9HoVvRDxggJovx3h_OepQAwKsM2SqqTtijPkdzFwTGKD8/s320/IMG-20180326-WA0006.jpg"
+heroImage: "/images/IMG-20180326-WA0006.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDmELzr01xpOC2EvKfeKy8U2WcoexMm2k_XMZI5MTN169ttUad4S7_JNk4lItafiXYP8kv1NZCm9gkOvB7Oz8RnTjxkSypmS9HoVvRDxggJovx3h_OepQAwKsM2SqqTtijPkdzFwTGKD8/s1600/IMG-20180326-WA0006.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDmELzr01xpOC2EvKfeKy8U2WcoexMm2k_XMZI5MTN169ttUad4S7_JNk4lItafiXYP8kv1NZCm9gkOvB7Oz8RnTjxkSypmS9HoVvRDxggJovx3h_OepQAwKsM2SqqTtijPkdzFwTGKD8/s320/IMG-20180326-WA0006.jpg" width="320" height="240" data-original-width="1280" data-original-height="960" /></a></div>

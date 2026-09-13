@@ -1,7 +1,7 @@
 ---
 title: "Os espreitadores"
 date: 2025-07-24T20:27:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgooGYEXTANNUFR_VFbtKLeu3k-lZCIvTEdSbG2QDeZmB8GpX2M-hmQx1a16TcbYo-mlTOLydLWA5Vq5ir1pBi4qLg4MsGfX918-kKwlCZuiEnNfufW3bdDaS2H4aSoOHeiUpZSJ94yJGu0tOymw3VgW5iuJvHSHcpwyBrjDds3MHzIaxv6ZrhwCTMTlLE/s320/espreitadores.png"
+heroImage: "/images/espreitadores.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgooGYEXTANNUFR_VFbtKLeu3k-lZCIvTEdSbG2QDeZmB8GpX2M-hmQx1a16TcbYo-mlTOLydLWA5Vq5ir1pBi4qLg4MsGfX918-kKwlCZuiEnNfufW3bdDaS2H4aSoOHeiUpZSJ94yJGu0tOymw3VgW5iuJvHSHcpwyBrjDds3MHzIaxv6ZrhwCTMTlLE/s489/espreitadores.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="410" data-original-width="489" height="268" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgooGYEXTANNUFR_VFbtKLeu3k-lZCIvTEdSbG2QDeZmB8GpX2M-hmQx1a16TcbYo-mlTOLydLWA5Vq5ir1pBi4qLg4MsGfX918-kKwlCZuiEnNfufW3bdDaS2H4aSoOHeiUpZSJ94yJGu0tOymw3VgW5iuJvHSHcpwyBrjDds3MHzIaxv6ZrhwCTMTlLE/s320/espreitadores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">Existem em várias esferas e com vários propósitos. Existem entre

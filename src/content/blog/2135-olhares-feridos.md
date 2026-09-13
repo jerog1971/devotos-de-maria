@@ -1,7 +1,7 @@
 ---
 title: "Olhares feridos"
 date: 2020-05-08T16:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYF4SidD-H3zXBSIX4tGjbMn4PnV9Xi2lVQf6SHxwxX2UTqrA8ewwDDWndclzNuYRYmFU7PpkpKSzLSRZHtZCgs4h8Y_AzU6hSuhENS9s0PRlsad-avTBV-bURp5NZZdETmIigY82nHGs/s320/Olhares_feridos.jpg"
+heroImage: "/images/Olhares_feridos.jpg"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYF4SidD-H3zXBSIX4tGjbMn4PnV9Xi2lVQf6SHxwxX2UTqrA8ewwDDWndclzNuYRYmFU7PpkpKSzLSRZHtZCgs4h8Y_AzU6hSuhENS9s0PRlsad-avTBV-bURp5NZZdETmIigY82nHGs/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1350" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYF4SidD-H3zXBSIX4tGjbMn4PnV9Xi2lVQf6SHxwxX2UTqrA8ewwDDWndclzNuYRYmFU7PpkpKSzLSRZHtZCgs4h8Y_AzU6hSuhENS9s0PRlsad-avTBV-bURp5NZZdETmIigY82nHGs/s320/Olhares_feridos.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nossos sentidos como bem sabemos são, entre outras coisas,

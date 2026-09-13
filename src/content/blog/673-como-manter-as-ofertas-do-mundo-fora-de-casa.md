@@ -1,7 +1,7 @@
 ---
 title: "Como manter as ofertas do mundo fora de casa"
 date: 2016-08-18T20:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikg2Ff7N0jCGZL4dcCq4pvxA0Ym1Gw2x8m1YZve9wfUS92X81KnIebYe6ihTqkLKelo9s5e1L2-dzeW-8pKXNwmB0RrblKsCIcgtXoVvnnX638uUhTBFlXVvMe9EuJAnT0BXfSQVFjYy4/s320/prazeres.png"
+heroImage: "/images/a regra dos prazeres.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikg2Ff7N0jCGZL4dcCq4pvxA0Ym1Gw2x8m1YZve9wfUS92X81KnIebYe6ihTqkLKelo9s5e1L2-dzeW-8pKXNwmB0RrblKsCIcgtXoVvnnX638uUhTBFlXVvMe9EuJAnT0BXfSQVFjYy4/s1600/prazeres.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikg2Ff7N0jCGZL4dcCq4pvxA0Ym1Gw2x8m1YZve9wfUS92X81KnIebYe6ihTqkLKelo9s5e1L2-dzeW-8pKXNwmB0RrblKsCIcgtXoVvnnX638uUhTBFlXVvMe9EuJAnT0BXfSQVFjYy4/s320/prazeres.png" width="320" height="292" data-original-width="317" data-original-height="289" /></a></div>

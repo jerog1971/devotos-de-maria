@@ -1,7 +1,7 @@
 ---
 title: "Velozes aquém do tempo"
 date: 2020-06-12T20:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEsewfDcVyGn3eNkEnLIen7spNksrNE6FDGl116zMchMXt5bbKzgrarhItLDi0Uf4w8I6OWqmAtxAvHApIlOHg0S7uyEcOnQQMw5zH7Hv5wsX6OWbzG6TBV6Yer04EaVK8VDjjPqScghk/s320/adversidades.png"
+heroImage: "/images/adversidades.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEsewfDcVyGn3eNkEnLIen7spNksrNE6FDGl116zMchMXt5bbKzgrarhItLDi0Uf4w8I6OWqmAtxAvHApIlOHg0S7uyEcOnQQMw5zH7Hv5wsX6OWbzG6TBV6Yer04EaVK8VDjjPqScghk/s580/adversidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="519" data-original-width="580" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEsewfDcVyGn3eNkEnLIen7spNksrNE6FDGl116zMchMXt5bbKzgrarhItLDi0Uf4w8I6OWqmAtxAvHApIlOHg0S7uyEcOnQQMw5zH7Hv5wsX6OWbzG6TBV6Yer04EaVK8VDjjPqScghk/s320/adversidades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nascemos, alguém correu antes disso para a maternidade,</p>

@@ -1,7 +1,7 @@
 ---
 title: "Se somos ovelhas, vencemos; se formos lobos, somos vencidos"
 date: 2018-12-07T18:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwltcSEQhibqLUPniepiDE39q6TFuns7ZpOC11C0HnQtRKP5HHc2918O4vmPPwe-xwNDwKrmYhd6h_0iRCVX1oDPqvSfY0-l7q-WR1XlKNk7EKrPY0FXfohnxDVtpDurT8At9mQZoMIGg/s320/lobos+e+ovelhas.png"
+heroImage: "/images/lobo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwltcSEQhibqLUPniepiDE39q6TFuns7ZpOC11C0HnQtRKP5HHc2918O4vmPPwe-xwNDwKrmYhd6h_0iRCVX1oDPqvSfY0-l7q-WR1XlKNk7EKrPY0FXfohnxDVtpDurT8At9mQZoMIGg/s1600/lobos+e+ovelhas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwltcSEQhibqLUPniepiDE39q6TFuns7ZpOC11C0HnQtRKP5HHc2918O4vmPPwe-xwNDwKrmYhd6h_0iRCVX1oDPqvSfY0-l7q-WR1XlKNk7EKrPY0FXfohnxDVtpDurT8At9mQZoMIGg/s320/lobos+e+ovelhas.png" width="320" height="283" data-original-width="568" data-original-height="502" /></a></div>

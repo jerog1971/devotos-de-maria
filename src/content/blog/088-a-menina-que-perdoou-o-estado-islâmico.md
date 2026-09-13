@@ -1,7 +1,7 @@
 ---
 title: "A menina que perdoou o Estado Islâmico"
 date: 2015-09-14T16:33:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatSXUtYW6KNhWQ_g8MiiiGDYtr5doRuKbwmOgIQLbECXYgCGG7GL91jtGYSoLL6VUhPF1jhdVvtu2M4SPZzXGbxC48LUSz9DOB9vxJM_Xv891hiNX1k02wQPx60AX2WibzJJMcUKHzBc/s320/myriam.png"
+heroImage: "/images/myriam.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatSXUtYW6KNhWQ_g8MiiiGDYtr5doRuKbwmOgIQLbECXYgCGG7GL91jtGYSoLL6VUhPF1jhdVvtu2M4SPZzXGbxC48LUSz9DOB9vxJM_Xv891hiNX1k02wQPx60AX2WibzJJMcUKHzBc/s1600/myriam.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatSXUtYW6KNhWQ_g8MiiiGDYtr5doRuKbwmOgIQLbECXYgCGG7GL91jtGYSoLL6VUhPF1jhdVvtu2M4SPZzXGbxC48LUSz9DOB9vxJM_Xv891hiNX1k02wQPx60AX2WibzJJMcUKHzBc/s320/myriam.png" width="320" height="263" data-original-width="436" data-original-height="359" /></a></div>

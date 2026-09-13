@@ -1,7 +1,7 @@
 ---
 title: "Assim na terra como no céu"
 date: 2022-04-13T16:11:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DC1yNYxoV72I3WRvvFKal-11Szeu-HLKQGg1aIadxO5zfsDco_NWw4ibR3uqJr5RCO45OSaPu6UvY_Ty1O9Fi_cxLVgyH9IoPxS4V1qeXczOeYTJIw3NBktTND2MJQqKAeIJNTfVHOQbYmm7xMfsVsV5G5WyxMVoL-OlVTsb7V1oj7gXG47oDzUH/s320/assim%20na%20terra%20como%20no%20c%C3%A9u.png"
+heroImage: "/images/assim na terra como no céu.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DC1yNYxoV72I3WRvvFKal-11Szeu-HLKQGg1aIadxO5zfsDco_NWw4ibR3uqJr5RCO45OSaPu6UvY_Ty1O9Fi_cxLVgyH9IoPxS4V1qeXczOeYTJIw3NBktTND2MJQqKAeIJNTfVHOQbYmm7xMfsVsV5G5WyxMVoL-OlVTsb7V1oj7gXG47oDzUH/s392/assim%20na%20terra%20como%20no%20c%C3%A9u.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="359" data-original-width="392" height="293" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DC1yNYxoV72I3WRvvFKal-11Szeu-HLKQGg1aIadxO5zfsDco_NWw4ibR3uqJr5RCO45OSaPu6UvY_Ty1O9Fi_cxLVgyH9IoPxS4V1qeXczOeYTJIw3NBktTND2MJQqKAeIJNTfVHOQbYmm7xMfsVsV5G5WyxMVoL-OlVTsb7V1oj7gXG47oDzUH/s320/assim%20na%20terra%20como%20no%20c%C3%A9u.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, certamente em nossas vidas muitas coisas não

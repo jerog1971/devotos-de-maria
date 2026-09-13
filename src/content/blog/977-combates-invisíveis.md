@@ -1,7 +1,7 @@
 ---
 title: "Combates invisíveis"
 date: 2024-12-12T19:13:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg9gSed9Oe7XUIHoq1O2MDIfIfk1u4tDw1D9G_XwIsF_nHn9obCPj1gWouzfDKm1TXRqhWWDyDbUDAy8ZkYESJ0WRKAluZ8nm5QPA5XO0H5egtTFDELPYNuwe3bpjHhN0abSAxcCxwgby-jJL37sZ8O4wdXAj80JGNm97sge57DNNuYAgC_bRoW-5fEg/s320/terror%202.png"
+heroImage: "/images/terror 2.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg9gSed9Oe7XUIHoq1O2MDIfIfk1u4tDw1D9G_XwIsF_nHn9obCPj1gWouzfDKm1TXRqhWWDyDbUDAy8ZkYESJ0WRKAluZ8nm5QPA5XO0H5egtTFDELPYNuwe3bpjHhN0abSAxcCxwgby-jJL37sZ8O4wdXAj80JGNm97sge57DNNuYAgC_bRoW-5fEg/s569/terror%202.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="432" data-original-width="569" height="243" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg9gSed9Oe7XUIHoq1O2MDIfIfk1u4tDw1D9G_XwIsF_nHn9obCPj1gWouzfDKm1TXRqhWWDyDbUDAy8ZkYESJ0WRKAluZ8nm5QPA5XO0H5egtTFDELPYNuwe3bpjHhN0abSAxcCxwgby-jJL37sZ8O4wdXAj80JGNm97sge57DNNuYAgC_bRoW-5fEg/s320/terror%202.png" width="320" /></a></div><br />&nbsp;

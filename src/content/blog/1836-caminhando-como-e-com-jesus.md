@@ -1,7 +1,7 @@
 ---
 title: "Caminhando como e com Jesus"
 date: 2021-04-19T13:32:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6edd6JMVK2dNewA76xa-u3jdK0pgMhCZnYq192NMslyRgKMGkNXOcNip9XKTVpC_ZL4xlVktCcs8lHsrJwQ0cI6tnZTwbceUyCY_sm9l9gdR9yQx0v687FLYIHyuOD_6nhdTjbFWGnE/w195-h196/caminhando.png"
+heroImage: "/images/caminhando.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6edd6JMVK2dNewA76xa-u3jdK0pgMhCZnYq192NMslyRgKMGkNXOcNip9XKTVpC_ZL4xlVktCcs8lHsrJwQ0cI6tnZTwbceUyCY_sm9l9gdR9yQx0v687FLYIHyuOD_6nhdTjbFWGnE/s162/caminhando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="162" data-original-width="161" height="196" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6edd6JMVK2dNewA76xa-u3jdK0pgMhCZnYq192NMslyRgKMGkNXOcNip9XKTVpC_ZL4xlVktCcs8lHsrJwQ0cI6tnZTwbceUyCY_sm9l9gdR9yQx0v687FLYIHyuOD_6nhdTjbFWGnE/w195-h196/caminhando.png" width="195" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em 1ª Coríntios 11,1 aprendemos que devemos ser imitadores

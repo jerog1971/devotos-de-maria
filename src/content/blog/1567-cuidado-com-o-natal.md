@@ -1,7 +1,7 @@
 ---
 title: "Cuidado com o Natal"
 date: 2019-12-20T17:50:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrqyzfY_dqv17R9xcCg1myi9NhbNPYhCBw-KvD8DdqI9qJBeNd5sPNcHrDbE74NSFIF0q28aR0QjiFV3RclUAdfXKid4j8V2Pg6NwcCqbyrOMsdUQXfgsOegKx2WRIf610mwYX49vjWM/s320/natal.png"
+heroImage: "/images/natal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrqyzfY_dqv17R9xcCg1myi9NhbNPYhCBw-KvD8DdqI9qJBeNd5sPNcHrDbE74NSFIF0q28aR0QjiFV3RclUAdfXKid4j8V2Pg6NwcCqbyrOMsdUQXfgsOegKx2WRIf610mwYX49vjWM/s1600/natal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrqyzfY_dqv17R9xcCg1myi9NhbNPYhCBw-KvD8DdqI9qJBeNd5sPNcHrDbE74NSFIF0q28aR0QjiFV3RclUAdfXKid4j8V2Pg6NwcCqbyrOMsdUQXfgsOegKx2WRIf610mwYX49vjWM/s320/natal.png" width="309" height="320" data-original-width="275" data-original-height="285" /></a></div>

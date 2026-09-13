@@ -1,7 +1,7 @@
 ---
 title: "Cuidemos com o exagero da Misericórdia"
 date: 2016-07-18T12:37:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKpbblhtIpl6HjNCOZ7rriN1RkzoepkMB5BGcjAzcbLDIww7GhgfZ7aA6n3vAtkxnIr3GnhXuk3dZOTXXx59MSomjZ-Z-3hzDZ503uV74FQMBBte3gaejQvbwbx6JPWr1t_BXuupD2DZc/s320/padre_gilson.png"
+heroImage: "/images/padre_gilson.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKpbblhtIpl6HjNCOZ7rriN1RkzoepkMB5BGcjAzcbLDIww7GhgfZ7aA6n3vAtkxnIr3GnhXuk3dZOTXXx59MSomjZ-Z-3hzDZ503uV74FQMBBte3gaejQvbwbx6JPWr1t_BXuupD2DZc/s1600/padre_gilson.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKpbblhtIpl6HjNCOZ7rriN1RkzoepkMB5BGcjAzcbLDIww7GhgfZ7aA6n3vAtkxnIr3GnhXuk3dZOTXXx59MSomjZ-Z-3hzDZ503uV74FQMBBte3gaejQvbwbx6JPWr1t_BXuupD2DZc/s320/padre_gilson.png" width="320" height="287" data-original-width="364" data-original-height="327" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Ajudemos os caídos"
 date: 2024-02-23T21:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMpJn3Fn7oeaDfm1EH5t8EWCgZg6hCuLga429PcTX55cCmEsNwltsOJrvmilRWzvmQPfjVVmwlb9GimCN9cQBkap-23e2fNAEEk4ZEUVaEBDoa0Xm49frCVhLLekAhoyKlVFAa_m-jcuJ_2emyNNuU_kg486IzYZfj9ZtMEBLo31zCfl4p17CFotNC7oo/s320/ajude%20os%20ca%C3%ADdos.png"
+heroImage: "/images/ajude os caídos.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMpJn3Fn7oeaDfm1EH5t8EWCgZg6hCuLga429PcTX55cCmEsNwltsOJrvmilRWzvmQPfjVVmwlb9GimCN9cQBkap-23e2fNAEEk4ZEUVaEBDoa0Xm49frCVhLLekAhoyKlVFAa_m-jcuJ_2emyNNuU_kg486IzYZfj9ZtMEBLo31zCfl4p17CFotNC7oo/s508/ajude%20os%20ca%C3%ADdos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="508" height="185" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMpJn3Fn7oeaDfm1EH5t8EWCgZg6hCuLga429PcTX55cCmEsNwltsOJrvmilRWzvmQPfjVVmwlb9GimCN9cQBkap-23e2fNAEEk4ZEUVaEBDoa0Xm49frCVhLLekAhoyKlVFAa_m-jcuJ_2emyNNuU_kg486IzYZfj9ZtMEBLo31zCfl4p17CFotNC7oo/s320/ajude%20os%20ca%C3%ADdos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lembremos da história que Jesus contou sobre o samaritano,

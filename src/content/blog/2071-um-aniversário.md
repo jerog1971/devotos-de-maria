@@ -1,7 +1,7 @@
 ---
 title: "Um aniversário"
 date: 2016-09-12T19:41:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenSKAa8ggzvSfGvzT4C4DRQas6eP8fqg_wtHeOeg9jMOP09xCAFfI5zxnEhA9NOevdkGHRzy66Q1zwQqNVM70Rj-NdRpFvOG36Eev1e-HFJ5I7_D5T2JKkFf2q0dLBoO3Ma4GZw3TE8E/s320/aniversario.png"
+heroImage: "/images/aniversario.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenSKAa8ggzvSfGvzT4C4DRQas6eP8fqg_wtHeOeg9jMOP09xCAFfI5zxnEhA9NOevdkGHRzy66Q1zwQqNVM70Rj-NdRpFvOG36Eev1e-HFJ5I7_D5T2JKkFf2q0dLBoO3Ma4GZw3TE8E/s1600/aniversario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenSKAa8ggzvSfGvzT4C4DRQas6eP8fqg_wtHeOeg9jMOP09xCAFfI5zxnEhA9NOevdkGHRzy66Q1zwQqNVM70Rj-NdRpFvOG36Eev1e-HFJ5I7_D5T2JKkFf2q0dLBoO3Ma4GZw3TE8E/s320/aniversario.png" width="320" height="245" data-original-width="518" data-original-height="396" /></a></div>

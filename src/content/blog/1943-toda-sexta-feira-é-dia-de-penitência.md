@@ -1,7 +1,7 @@
 ---
 title: "Toda sexta-feira é dia de penitência"
 date: 2016-09-30T12:44:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9nSlNqLecFyE_s8cAvPhyphenhyphen5W-rhNIJD7hEBXO0I4tgD9DvC62It4X1qADZR7Pgbf_FOOlShExJkEujvkFQG4mwz7pyZB2oJBwuMKCVgtHm8PUcUX351uavzlaE_czLNG2rswWJPVDu5nw/s320/penitencia.png"
+heroImage: "/images/penitencia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9nSlNqLecFyE_s8cAvPhyphenhyphen5W-rhNIJD7hEBXO0I4tgD9DvC62It4X1qADZR7Pgbf_FOOlShExJkEujvkFQG4mwz7pyZB2oJBwuMKCVgtHm8PUcUX351uavzlaE_czLNG2rswWJPVDu5nw/s1600/penitencia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9nSlNqLecFyE_s8cAvPhyphenhyphen5W-rhNIJD7hEBXO0I4tgD9DvC62It4X1qADZR7Pgbf_FOOlShExJkEujvkFQG4mwz7pyZB2oJBwuMKCVgtHm8PUcUX351uavzlaE_czLNG2rswWJPVDu5nw/s320/penitencia.png" width="320" height="181" data-original-width="710" data-original-height="402" /></a></div>

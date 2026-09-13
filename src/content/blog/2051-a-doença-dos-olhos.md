@@ -1,7 +1,7 @@
 ---
 title: "A doença dos olhos"
 date: 2019-02-21T17:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZs_aUdL555GOyuX21sIDAQ_YLsdhuoDz56Xf4YUD53RH2D5FSIjUecYaJdixLqUCvOHnptmIJPlZdxsHRwgg2t855HFwAKeiTXPZ334SbfqgPTmqpwYiXz6PRJrTuIlOWHgwA9BteXM/s320/olhar_doente.png"
+heroImage: "/images/olhar_doente.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZs_aUdL555GOyuX21sIDAQ_YLsdhuoDz56Xf4YUD53RH2D5FSIjUecYaJdixLqUCvOHnptmIJPlZdxsHRwgg2t855HFwAKeiTXPZ334SbfqgPTmqpwYiXz6PRJrTuIlOWHgwA9BteXM/s1600/olhar_doente.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="477" data-original-width="494" height="309" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZs_aUdL555GOyuX21sIDAQ_YLsdhuoDz56Xf4YUD53RH2D5FSIjUecYaJdixLqUCvOHnptmIJPlZdxsHRwgg2t855HFwAKeiTXPZ334SbfqgPTmqpwYiXz6PRJrTuIlOWHgwA9BteXM/s320/olhar_doente.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>E disse Jesus – Mateus 5,28 – “todo aquele que lançar um olhar de cobiça para uma mulher, já adulterou com ela em seu coração”.

@@ -1,7 +1,7 @@
 ---
 title: "Insônias perigosas"
 date: 2022-06-06T15:27:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2u0ZJXh9o2nMTYQOaENShjVbTZ4JuyU4iMF_fqGwWys8zDqSV8F2CiZg0Hnlnh6kPCJcFupMw1ah0zHUQ2DpjX-vxalqx_C2lvtt7MfErbjdwcWqDZyd-AoprvIKvop9javaC0hLrlOBHnIowWxs-VsTtkyEnL6oK7BY88rMKcTCbtuWY5L0awas/s320/ins%C3%B4nias%20perigosas.png"
+heroImage: "/images/insônias perigosas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2u0ZJXh9o2nMTYQOaENShjVbTZ4JuyU4iMF_fqGwWys8zDqSV8F2CiZg0Hnlnh6kPCJcFupMw1ah0zHUQ2DpjX-vxalqx_C2lvtt7MfErbjdwcWqDZyd-AoprvIKvop9javaC0hLrlOBHnIowWxs-VsTtkyEnL6oK7BY88rMKcTCbtuWY5L0awas/s468/ins%C3%B4nias%20perigosas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="468" height="226" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2u0ZJXh9o2nMTYQOaENShjVbTZ4JuyU4iMF_fqGwWys8zDqSV8F2CiZg0Hnlnh6kPCJcFupMw1ah0zHUQ2DpjX-vxalqx_C2lvtt7MfErbjdwcWqDZyd-AoprvIKvop9javaC0hLrlOBHnIowWxs-VsTtkyEnL6oK7BY88rMKcTCbtuWY5L0awas/s320/ins%C3%B4nias%20perigosas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando as coisas andam nos trilhos da vida de forma correta,

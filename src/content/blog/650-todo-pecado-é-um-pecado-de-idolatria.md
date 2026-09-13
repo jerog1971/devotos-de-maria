@@ -1,7 +1,7 @@
 ---
 title: "Todo pecado é um pecado de idolatria"
 date: 2019-06-18T15:10:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0HLl45Ky2_ZFgH2jFb18fPJ_7Fm9XvMAdGnlq0ny-BJlWCkvcP_O6U4uw2rcullyvEJKJROYxvQjMW8tB6oGotSmaqj62jQ8qZmo91Bk6fKkVgEWcDl9WNP3VBd4Grxj2pJ5fXRybr3I/s320/idolatria.png"
+heroImage: "/images/idolatria.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0HLl45Ky2_ZFgH2jFb18fPJ_7Fm9XvMAdGnlq0ny-BJlWCkvcP_O6U4uw2rcullyvEJKJROYxvQjMW8tB6oGotSmaqj62jQ8qZmo91Bk6fKkVgEWcDl9WNP3VBd4Grxj2pJ5fXRybr3I/s1600/idolatria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0HLl45Ky2_ZFgH2jFb18fPJ_7Fm9XvMAdGnlq0ny-BJlWCkvcP_O6U4uw2rcullyvEJKJROYxvQjMW8tB6oGotSmaqj62jQ8qZmo91Bk6fKkVgEWcDl9WNP3VBd4Grxj2pJ5fXRybr3I/s320/idolatria.png" width="320" height="302" data-original-width="527" data-original-height="498" /></a></div>

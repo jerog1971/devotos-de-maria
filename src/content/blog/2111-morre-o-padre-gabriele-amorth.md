@@ -1,7 +1,7 @@
 ---
 title: "Morre o Padre Gabriele Amorth"
 date: 2016-09-20T19:57:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT15sOIOJsbk1Jyugv6ZVgOELGuyRy4i5IaSjyh4jzI2QbAKv4NCK78F5ze4OAUiSugjNNdu2WESVwhZd6x3cT9aXs832E2jD5usq665HX6R5Vjqldb5LdNiHkG8FLHK7bAkxYxrCqonM/s320/amorth2.png"
+heroImage: "/images/amorth2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT15sOIOJsbk1Jyugv6ZVgOELGuyRy4i5IaSjyh4jzI2QbAKv4NCK78F5ze4OAUiSugjNNdu2WESVwhZd6x3cT9aXs832E2jD5usq665HX6R5Vjqldb5LdNiHkG8FLHK7bAkxYxrCqonM/s1600/amorth2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="327" data-original-width="335" height="312" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT15sOIOJsbk1Jyugv6ZVgOELGuyRy4i5IaSjyh4jzI2QbAKv4NCK78F5ze4OAUiSugjNNdu2WESVwhZd6x3cT9aXs832E2jD5usq665HX6R5Vjqldb5LdNiHkG8FLHK7bAkxYxrCqonM/s320/amorth2.png" width="320" /></a></div>

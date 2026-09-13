@@ -1,7 +1,7 @@
 ---
 title: "Jesus cura tudo"
 date: 2017-10-25T11:15:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuf41JOslUetPoHeS4AEmzeNOk00wxv2859aRquRYESwp_6zhqGNsrcRBupYfCeqeZBpVYCaTCpQZm6rwSrOiIw91SCegVstQmxUbAhSjHUq6InS8aeW56J5qS6W5Ne22nlw-oelalKQM/s320/jesus_cura.png"
+heroImage: "/images/jesus_cura.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuf41JOslUetPoHeS4AEmzeNOk00wxv2859aRquRYESwp_6zhqGNsrcRBupYfCeqeZBpVYCaTCpQZm6rwSrOiIw91SCegVstQmxUbAhSjHUq6InS8aeW56J5qS6W5Ne22nlw-oelalKQM/s1600/jesus_cura.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuf41JOslUetPoHeS4AEmzeNOk00wxv2859aRquRYESwp_6zhqGNsrcRBupYfCeqeZBpVYCaTCpQZm6rwSrOiIw91SCegVstQmxUbAhSjHUq6InS8aeW56J5qS6W5Ne22nlw-oelalKQM/s320/jesus_cura.png" width="320" height="290" data-original-width="422" data-original-height="383" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Padre faz sexo com ex-coroinha"
 date: 2017-09-26T17:54:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjuBufJUvvl6Og1puu8KwRYhI5P7lyFs8FlCuODhhAhjKdPTAlhZrybPl0SY6j5gpWuOl19UBH7gKh8kdcaJuCH1drmw-ggnW7ewxkG_33qvba3i9Z7YCYYupRkNecHXEzKEswkB30Z_c/s320/padre_pedro_gomes.png"
+heroImage: "/images/padre_pedro_gomes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjuBufJUvvl6Og1puu8KwRYhI5P7lyFs8FlCuODhhAhjKdPTAlhZrybPl0SY6j5gpWuOl19UBH7gKh8kdcaJuCH1drmw-ggnW7ewxkG_33qvba3i9Z7YCYYupRkNecHXEzKEswkB30Z_c/s1600/padre_pedro_gomes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjuBufJUvvl6Og1puu8KwRYhI5P7lyFs8FlCuODhhAhjKdPTAlhZrybPl0SY6j5gpWuOl19UBH7gKh8kdcaJuCH1drmw-ggnW7ewxkG_33qvba3i9Z7YCYYupRkNecHXEzKEswkB30Z_c/s320/padre_pedro_gomes.png" width="296" height="320" data-original-width="382" data-original-height="413" /></a></div>

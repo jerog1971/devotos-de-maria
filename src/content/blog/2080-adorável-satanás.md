@@ -1,7 +1,7 @@
 ---
 title: "Adorável Satanás"
 date: 2023-05-17T21:34:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVlNo4EAi8wksy9S7xZbTrlILEvPVF6S25_O-pGrrWub3gcp9LHExc2gzouMdyPFZXT0ccxGr4j82RuHUhJK18AnL9D_berankr70kg-CHC8GwtNlH0ue_j3fp3DDAbFfU95-tGCH1Y5qOjTzEOfwHnIWNidcNLP1bthsW-QQpeGqDflV-KmG-hGmv/s320/o%20abra%C3%A7o%20do%20inferno.png"
+heroImage: "/images/abraço.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVlNo4EAi8wksy9S7xZbTrlILEvPVF6S25_O-pGrrWub3gcp9LHExc2gzouMdyPFZXT0ccxGr4j82RuHUhJK18AnL9D_berankr70kg-CHC8GwtNlH0ue_j3fp3DDAbFfU95-tGCH1Y5qOjTzEOfwHnIWNidcNLP1bthsW-QQpeGqDflV-KmG-hGmv/s552/o%20abra%C3%A7o%20do%20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="552" data-original-width="501" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVlNo4EAi8wksy9S7xZbTrlILEvPVF6S25_O-pGrrWub3gcp9LHExc2gzouMdyPFZXT0ccxGr4j82RuHUhJK18AnL9D_berankr70kg-CHC8GwtNlH0ue_j3fp3DDAbFfU95-tGCH1Y5qOjTzEOfwHnIWNidcNLP1bthsW-QQpeGqDflV-KmG-hGmv/s320/o%20abra%C3%A7o%20do%20inferno.png" width="290" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente um título assim causa estranheza e repulsa para

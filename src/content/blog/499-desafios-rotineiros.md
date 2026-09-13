@@ -1,7 +1,7 @@
 ---
 title: "Desafios rotineiros"
 date: 2020-12-22T16:26:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxeNChwObX03lJoBSZs2D67i7VzxrPtWfflpC6nlfJ1OLv-vPYFQgjpnLfpFYTREXmvoe2Y3jaia_0ZliltrPNXulvVXKS2VH58QVGXpzmJrVU9qoEVKzVrfdbHlDw4nTwpsR0ODGQx3g/s320/rotinas.png"
+heroImage: "/images/hábitos e rotinas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxeNChwObX03lJoBSZs2D67i7VzxrPtWfflpC6nlfJ1OLv-vPYFQgjpnLfpFYTREXmvoe2Y3jaia_0ZliltrPNXulvVXKS2VH58QVGXpzmJrVU9qoEVKzVrfdbHlDw4nTwpsR0ODGQx3g/s453/rotinas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="407" data-original-width="453" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxeNChwObX03lJoBSZs2D67i7VzxrPtWfflpC6nlfJ1OLv-vPYFQgjpnLfpFYTREXmvoe2Y3jaia_0ZliltrPNXulvVXKS2VH58QVGXpzmJrVU9qoEVKzVrfdbHlDw4nTwpsR0ODGQx3g/s320/rotinas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ninguém escapa de viver algum tipo de rotina em sua vida.

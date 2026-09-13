@@ -1,7 +1,7 @@
 ---
 title: "O Disparate"
 date: 2016-08-11T13:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2gb61-CE_JtK34aoj7deHSEM-8NU0ICGKodt6kGeG2mTCAuKCWe_pAAljvEWgHxIRTNqFoNgbGlYmyyEB74dtr_kwse5B802oMT1k8_PJUIPAktOFWrJskq7x0_5G5xOhIpvZ8Tc7Zxs/s320/pro-vida.png"
+heroImage: "/images/pro-vida.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2gb61-CE_JtK34aoj7deHSEM-8NU0ICGKodt6kGeG2mTCAuKCWe_pAAljvEWgHxIRTNqFoNgbGlYmyyEB74dtr_kwse5B802oMT1k8_PJUIPAktOFWrJskq7x0_5G5xOhIpvZ8Tc7Zxs/s1600/pro-vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2gb61-CE_JtK34aoj7deHSEM-8NU0ICGKodt6kGeG2mTCAuKCWe_pAAljvEWgHxIRTNqFoNgbGlYmyyEB74dtr_kwse5B802oMT1k8_PJUIPAktOFWrJskq7x0_5G5xOhIpvZ8Tc7Zxs/s320/pro-vida.png" width="320" height="304" data-original-width="176" data-original-height="167" /></a></div>

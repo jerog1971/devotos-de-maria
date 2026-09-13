@@ -1,7 +1,7 @@
 ---
 title: "Ave Maria de um protestante (história real)"
 date: 2016-02-05T13:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeMrrUI1b_V5uYuyGkmzqNQGVKYOI52kMToC0gBs8r99S-T9ZyAJ3J0qRlITeV4CbYZ39vUQbUeuecSBwVV8BB50adOIKfBZc7AF0EJBJT-0WG3uXgGdsovNH59_-bOBPGtgnTjFXQlnQ/s320/ave-maria.png"
+heroImage: "/images/ave-maria.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeMrrUI1b_V5uYuyGkmzqNQGVKYOI52kMToC0gBs8r99S-T9ZyAJ3J0qRlITeV4CbYZ39vUQbUeuecSBwVV8BB50adOIKfBZc7AF0EJBJT-0WG3uXgGdsovNH59_-bOBPGtgnTjFXQlnQ/s1600/ave-maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeMrrUI1b_V5uYuyGkmzqNQGVKYOI52kMToC0gBs8r99S-T9ZyAJ3J0qRlITeV4CbYZ39vUQbUeuecSBwVV8BB50adOIKfBZc7AF0EJBJT-0WG3uXgGdsovNH59_-bOBPGtgnTjFXQlnQ/s320/ave-maria.png" width="239" height="320" data-original-width="236" data-original-height="316" /></a></div>

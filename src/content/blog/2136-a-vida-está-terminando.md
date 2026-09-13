@@ -1,7 +1,7 @@
 ---
 title: "A vida está terminando"
 date: 2022-08-01T20:10:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjjbbjx39hRcYf2co8sDOzRmzqVdyOpjl4K1sgmzxy5t3ws34RZk9V5aSEnRlgdnT0TYInc48ou5wqzWnp2dfxcU3vd0kUMeN8cYoHJ9QnXd_O7NuSQVeh8YtL-c6sAg3UXR5t9Duoq4Z_KSW7W46V8f_3TOPbrh9EuXrFq83nS7Ib3VVWvJk9TGFU/s320/A%20vida%20est%C3%A1%20terminando.png"
+heroImage: "/images/A vida está terminando.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjjbbjx39hRcYf2co8sDOzRmzqVdyOpjl4K1sgmzxy5t3ws34RZk9V5aSEnRlgdnT0TYInc48ou5wqzWnp2dfxcU3vd0kUMeN8cYoHJ9QnXd_O7NuSQVeh8YtL-c6sAg3UXR5t9Duoq4Z_KSW7W46V8f_3TOPbrh9EuXrFq83nS7Ib3VVWvJk9TGFU/s526/A%20vida%20est%C3%A1%20terminando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="525" data-original-width="526" height="319" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjjbbjx39hRcYf2co8sDOzRmzqVdyOpjl4K1sgmzxy5t3ws34RZk9V5aSEnRlgdnT0TYInc48ou5wqzWnp2dfxcU3vd0kUMeN8cYoHJ9QnXd_O7NuSQVeh8YtL-c6sAg3UXR5t9Duoq4Z_KSW7W46V8f_3TOPbrh9EuXrFq83nS7Ib3VVWvJk9TGFU/s320/A%20vida%20est%C3%A1%20terminando.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Outro mês começa e neste novo dia o exame diário de

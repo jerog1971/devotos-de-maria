@@ -1,7 +1,7 @@
 ---
 title: "A salvação de Jurema"
 date: 2018-05-26T22:37:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-TfMvlE8e18kAyGHr0hiwbDZTrI4f6jAdJjIMi0zmBSI5D3VJvIOI-oXhASYxkmUpm0P6Xe0Zqkxp8af8zMgf6WB8O02xnopRMQuhAT_MpCs-fg7SX-esdww2jK3m3GpFhPyKa1EScCI/s320/Jurema.jpg"
+heroImage: "/images/Jurema.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-TfMvlE8e18kAyGHr0hiwbDZTrI4f6jAdJjIMi0zmBSI5D3VJvIOI-oXhASYxkmUpm0P6Xe0Zqkxp8af8zMgf6WB8O02xnopRMQuhAT_MpCs-fg7SX-esdww2jK3m3GpFhPyKa1EScCI/s1600/Jurema.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-TfMvlE8e18kAyGHr0hiwbDZTrI4f6jAdJjIMi0zmBSI5D3VJvIOI-oXhASYxkmUpm0P6Xe0Zqkxp8af8zMgf6WB8O02xnopRMQuhAT_MpCs-fg7SX-esdww2jK3m3GpFhPyKa1EScCI/s320/Jurema.jpg" width="211" height="320" data-original-width="1055" data-original-height="1600" /></a></div>

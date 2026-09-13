@@ -1,7 +1,7 @@
 ---
 title: "Deus e o suicídio"
 date: 2016-08-26T17:37:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRBBNRLK6ejDdnDJojyysG1IdABKvM4UhqOPgwxjxEB6UtChiNcoCnOGVwHk6hWtUPcM0Ch5O9chV125HSgkEbvcvl2-03EHt1thLvFZEBXB4OvGC9b1GmeRERsvBsDOiqRBaB-URSdNQ/s320/suicidio.png"
+heroImage: "/images/suicidio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRBBNRLK6ejDdnDJojyysG1IdABKvM4UhqOPgwxjxEB6UtChiNcoCnOGVwHk6hWtUPcM0Ch5O9chV125HSgkEbvcvl2-03EHt1thLvFZEBXB4OvGC9b1GmeRERsvBsDOiqRBaB-URSdNQ/s1600/suicidio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRBBNRLK6ejDdnDJojyysG1IdABKvM4UhqOPgwxjxEB6UtChiNcoCnOGVwHk6hWtUPcM0Ch5O9chV125HSgkEbvcvl2-03EHt1thLvFZEBXB4OvGC9b1GmeRERsvBsDOiqRBaB-URSdNQ/s320/suicidio.png" width="320" height="184" data-original-width="347" data-original-height="200" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Oportunidades para o bem e para o mal"
 date: 2020-11-18T16:34:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-64hppAfbZX3XriN6GfW7CAQrEhnSARSNwC8dLxrwZIa7UgbfN9JPX7K_wxGPUPH2g2h1F8Dz5yBCz6wPdYQ1wEvLSpIWJBkFY2wuEYzIBz9X2q1fcRulibVCJbh7mC7FbS7SYZN79w/s320/diabo_sutil.png"
+heroImage: "/images/diabo_sutil.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-64hppAfbZX3XriN6GfW7CAQrEhnSARSNwC8dLxrwZIa7UgbfN9JPX7K_wxGPUPH2g2h1F8Dz5yBCz6wPdYQ1wEvLSpIWJBkFY2wuEYzIBz9X2q1fcRulibVCJbh7mC7FbS7SYZN79w/s333/diabo_sutil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="329" data-original-width="333" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-64hppAfbZX3XriN6GfW7CAQrEhnSARSNwC8dLxrwZIa7UgbfN9JPX7K_wxGPUPH2g2h1F8Dz5yBCz6wPdYQ1wEvLSpIWJBkFY2wuEYzIBz9X2q1fcRulibVCJbh7mC7FbS7SYZN79w/s320/diabo_sutil.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Caríssimo, não imites o mal, mas sim o bem. Quem pratica o

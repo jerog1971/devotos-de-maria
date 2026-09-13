@@ -1,7 +1,7 @@
 ---
 title: "Da imitação de Cristo e desprezo de todas as vaidades do mundo"
 date: 2020-06-07T15:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlvUVpgmVh1XCDMzRPqs6WfEeUovvxsqV8-UQ9fzbHbKqVqoZlpIkNE5GLGSDNtZZaXFwjNbg5FJGxxMrqukJxSBoOiuSBaVN1h62IIp9RVb-c6EQ7Kg48ytCTJ2zeXsKRM1FoCG3-vM/s320/jesus.png"
+heroImage: "/images/Agradecer a Jesus.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlvUVpgmVh1XCDMzRPqs6WfEeUovvxsqV8-UQ9fzbHbKqVqoZlpIkNE5GLGSDNtZZaXFwjNbg5FJGxxMrqukJxSBoOiuSBaVN1h62IIp9RVb-c6EQ7Kg48ytCTJ2zeXsKRM1FoCG3-vM/s341/jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlvUVpgmVh1XCDMzRPqs6WfEeUovvxsqV8-UQ9fzbHbKqVqoZlpIkNE5GLGSDNtZZaXFwjNbg5FJGxxMrqukJxSBoOiuSBaVN1h62IIp9RVb-c6EQ7Kg48ytCTJ2zeXsKRM1FoCG3-vM/s320/jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Quem me segue não anda nas trevas, diz o Senhor (João 8,12).

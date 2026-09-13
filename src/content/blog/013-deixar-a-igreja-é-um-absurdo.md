@@ -1,7 +1,7 @@
 ---
 title: "Deixar a igreja é um absurdo"
 date: 2016-08-25T19:44:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwrA8HSej9smgvna9YyRFwILQASM4eHzAF9XCXtjRpbpJk-ZD5CecfUETDY-OUJn45E92PmFVXfInixb6ewodzi4WqvFyijmBKLgwcxQUvpPPd5K6g_ysmilIWirRMnw-Tw6LYRiL_S9M/s320/igreja.png"
+heroImage: "/images/Os perigos da Igreja.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwrA8HSej9smgvna9YyRFwILQASM4eHzAF9XCXtjRpbpJk-ZD5CecfUETDY-OUJn45E92PmFVXfInixb6ewodzi4WqvFyijmBKLgwcxQUvpPPd5K6g_ysmilIWirRMnw-Tw6LYRiL_S9M/s1600/igreja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwrA8HSej9smgvna9YyRFwILQASM4eHzAF9XCXtjRpbpJk-ZD5CecfUETDY-OUJn45E92PmFVXfInixb6ewodzi4WqvFyijmBKLgwcxQUvpPPd5K6g_ysmilIWirRMnw-Tw6LYRiL_S9M/s320/igreja.png" width="320" height="215" data-original-width="637" data-original-height="427" /></a></div>

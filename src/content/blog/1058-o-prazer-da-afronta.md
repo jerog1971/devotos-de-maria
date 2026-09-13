@@ -1,7 +1,7 @@
 ---
 title: "O prazer da afronta"
 date: 2017-10-23T13:07:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMhuhqZoqDL3IllulqYTi66AddfATNTfJbcWxRKSIyrlp9wLItABH9evX6ynfxlZV4r0RLNbZjWlvuO9VTNlGZmuzDTRAsxPHJ5xjb50hDdsXhkqPGlWOh6bO9kFLr_traB8t4fTmIYt4/s320/afrontar.png"
+heroImage: "/images/afrontar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMhuhqZoqDL3IllulqYTi66AddfATNTfJbcWxRKSIyrlp9wLItABH9evX6ynfxlZV4r0RLNbZjWlvuO9VTNlGZmuzDTRAsxPHJ5xjb50hDdsXhkqPGlWOh6bO9kFLr_traB8t4fTmIYt4/s1600/afrontar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMhuhqZoqDL3IllulqYTi66AddfATNTfJbcWxRKSIyrlp9wLItABH9evX6ynfxlZV4r0RLNbZjWlvuO9VTNlGZmuzDTRAsxPHJ5xjb50hDdsXhkqPGlWOh6bO9kFLr_traB8t4fTmIYt4/s320/afrontar.png" width="320" height="318" data-original-width="516" data-original-height="512" /></a></div>

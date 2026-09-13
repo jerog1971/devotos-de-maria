@@ -1,7 +1,7 @@
 ---
 title: "Mulher foi feita para comer"
 date: 2018-08-16T17:50:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0r1CCcA4h4oUZnFPfMVkOd1IrANxywk5yW8J5hCGpgpeQd8POxj3KUx-UZzoCOE2jJSNS7SYzldGnqRP_1yNuKbZ4AkIm904ymrNOPP2TkCLJ-PWt__8bZ3IMw-08YmkxH3V6iS0V6QE/s320/comer_a+_mulher.png"
+heroImage: "/images/mulher.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0r1CCcA4h4oUZnFPfMVkOd1IrANxywk5yW8J5hCGpgpeQd8POxj3KUx-UZzoCOE2jJSNS7SYzldGnqRP_1yNuKbZ4AkIm904ymrNOPP2TkCLJ-PWt__8bZ3IMw-08YmkxH3V6iS0V6QE/s1600/comer_a+_mulher.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0r1CCcA4h4oUZnFPfMVkOd1IrANxywk5yW8J5hCGpgpeQd8POxj3KUx-UZzoCOE2jJSNS7SYzldGnqRP_1yNuKbZ4AkIm904ymrNOPP2TkCLJ-PWt__8bZ3IMw-08YmkxH3V6iS0V6QE/s320/comer_a+_mulher.png" width="320" height="316" data-original-width="270" data-original-height="267" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Aparições públicas da Virgem Maria"
 date: 2021-01-19T15:13:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEEw7KJ8pe7WLFT0MncfO9hKR9JkDOfQhs86KYevS4e3NnfvQ5d03aeScZ1Gwbrlzi8m-SdUpbw3uZPbW32w_u_1I35xevY8NBDDgVbWD37eS7mBb-el4QgXQ5PlSQVlzdgmO2EEr7HoI/s320/Vidente+Mirjana.png"
+heroImage: "/images/Mirjana.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEEw7KJ8pe7WLFT0MncfO9hKR9JkDOfQhs86KYevS4e3NnfvQ5d03aeScZ1Gwbrlzi8m-SdUpbw3uZPbW32w_u_1I35xevY8NBDDgVbWD37eS7mBb-el4QgXQ5PlSQVlzdgmO2EEr7HoI/s369/Vidente+Mirjana.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="328" data-original-width="369" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEEw7KJ8pe7WLFT0MncfO9hKR9JkDOfQhs86KYevS4e3NnfvQ5d03aeScZ1Gwbrlzi8m-SdUpbw3uZPbW32w_u_1I35xevY8NBDDgVbWD37eS7mBb-el4QgXQ5PlSQVlzdgmO2EEr7HoI/s320/Vidente+Mirjana.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sabido pela humanidade que a mando de Deus, Nossa Senhora

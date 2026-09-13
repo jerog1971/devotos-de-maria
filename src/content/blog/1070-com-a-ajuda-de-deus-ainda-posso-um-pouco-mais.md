@@ -1,7 +1,7 @@
 ---
 title: "Com a ajuda de Deus, ainda posso um pouco mais"
 date: 2018-08-07T20:25:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQ_iISmDG0F8WG4ZPJykASe1BiM5SFXUmex-FNvccufuv5PWAmYZJbNHhAuNdeys_FPt2nQ_Sk4PQ_JYTz0qB7h44PHYnSS4ZzesupEqfGPURtcinLQJdztjeZdUnThTSoH7CSj_oUYs/s320/sofrer.png"
+heroImage: "/images/sofrer.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQ_iISmDG0F8WG4ZPJykASe1BiM5SFXUmex-FNvccufuv5PWAmYZJbNHhAuNdeys_FPt2nQ_Sk4PQ_JYTz0qB7h44PHYnSS4ZzesupEqfGPURtcinLQJdztjeZdUnThTSoH7CSj_oUYs/s1600/sofrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQ_iISmDG0F8WG4ZPJykASe1BiM5SFXUmex-FNvccufuv5PWAmYZJbNHhAuNdeys_FPt2nQ_Sk4PQ_JYTz0qB7h44PHYnSS4ZzesupEqfGPURtcinLQJdztjeZdUnThTSoH7CSj_oUYs/s320/sofrer.png" width="320" height="315" data-original-width="207" data-original-height="204" /></a></div>

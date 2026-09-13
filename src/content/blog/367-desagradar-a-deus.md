@@ -1,7 +1,7 @@
 ---
 title: "Desagradar a Deus"
 date: 2015-12-10T12:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJxJr63awzcsp6dIqOjWcXaQ6BEC1rUmC-3VKdTg6y63mD4k0JBUyBp1gp9F7Lg-Yl-wrgN31FSh8ZuajveSKRjQ8hr6sXky3MDWQNZSkR23eJU30gCf4_8bOdd2f8_a2pSpJJChF1rCE/s320/levitico_20_13.png"
+heroImage: "/images/levitico_20_13.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJxJr63awzcsp6dIqOjWcXaQ6BEC1rUmC-3VKdTg6y63mD4k0JBUyBp1gp9F7Lg-Yl-wrgN31FSh8ZuajveSKRjQ8hr6sXky3MDWQNZSkR23eJU30gCf4_8bOdd2f8_a2pSpJJChF1rCE/s1600/levitico_20_13.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJxJr63awzcsp6dIqOjWcXaQ6BEC1rUmC-3VKdTg6y63mD4k0JBUyBp1gp9F7Lg-Yl-wrgN31FSh8ZuajveSKRjQ8hr6sXky3MDWQNZSkR23eJU30gCf4_8bOdd2f8_a2pSpJJChF1rCE/s320/levitico_20_13.png" width="320" height="184" data-original-width="418" data-original-height="241" /></a></div>

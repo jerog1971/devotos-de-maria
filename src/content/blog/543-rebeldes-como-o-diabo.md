@@ -1,7 +1,7 @@
 ---
 title: "Rebeldes como o diabo"
 date: 2021-08-05T16:17:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbG7cNuDBnuIRCyXEhBAgcJlc_J29_4wdfosn4-OloGHQSNE8eex5voEtzwoubyC6dL6R5L3QD0t3RJobY90LCaI5_jW0Ol4TWoCLIKNYW3IBHWGshwdX2DmRrd6n9YCNbWuEXn9jv4HU/s320/rebeldes+como+o+diabo.png"
+heroImage: "/images/diabo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbG7cNuDBnuIRCyXEhBAgcJlc_J29_4wdfosn4-OloGHQSNE8eex5voEtzwoubyC6dL6R5L3QD0t3RJobY90LCaI5_jW0Ol4TWoCLIKNYW3IBHWGshwdX2DmRrd6n9YCNbWuEXn9jv4HU/s407/rebeldes+como+o+diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="407" data-original-width="404" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbG7cNuDBnuIRCyXEhBAgcJlc_J29_4wdfosn4-OloGHQSNE8eex5voEtzwoubyC6dL6R5L3QD0t3RJobY90LCaI5_jW0Ol4TWoCLIKNYW3IBHWGshwdX2DmRrd6n9YCNbWuEXn9jv4HU/s320/rebeldes+como+o+diabo.png" width="318" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que o diabo por não querer aceitar a regra

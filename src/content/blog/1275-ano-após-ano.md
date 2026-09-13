@@ -1,7 +1,7 @@
 ---
 title: "Ano após ano"
 date: 2020-01-11T02:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xeJ1GAC0MKlViEP7NpsqW4-k5cY2r_7yoYRvdQP1O1EAmBfPf8iUdJHKmNa1UghH7ImGRbzu5WNyR6WITDjoclLahj-ToLE4_6HpzjpDDiNfZlHUDJfo0-weS0tNdpmspOdv2yQNQxk/s320/esposa.jpg"
+heroImage: "/images/A esposa.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xeJ1GAC0MKlViEP7NpsqW4-k5cY2r_7yoYRvdQP1O1EAmBfPf8iUdJHKmNa1UghH7ImGRbzu5WNyR6WITDjoclLahj-ToLE4_6HpzjpDDiNfZlHUDJfo0-weS0tNdpmspOdv2yQNQxk/s1600/esposa.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xeJ1GAC0MKlViEP7NpsqW4-k5cY2r_7yoYRvdQP1O1EAmBfPf8iUdJHKmNa1UghH7ImGRbzu5WNyR6WITDjoclLahj-ToLE4_6HpzjpDDiNfZlHUDJfo0-weS0tNdpmspOdv2yQNQxk/s320/esposa.jpg" width="180" height="320" data-original-width="720" data-original-height="1280" /></a></div>

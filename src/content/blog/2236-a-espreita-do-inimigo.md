@@ -1,7 +1,7 @@
 ---
 title: "A espreita do inimigo"
 date: 2018-05-30T17:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnSLOM4hepSBVCezlJU6lzpN0k0mmoUnwo0QlcYSonP1q5YND6WfnCmpdvgH4OUqo89GPv0wJ_zSDncHaDqox5xmqJdBFCOcq6OqMBMEUzsQSGjAS_AVoT81Po6TbwgT92nx1OM_6jNFQ/s320/espreita.png"
+heroImage: "/images/espreita.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnSLOM4hepSBVCezlJU6lzpN0k0mmoUnwo0QlcYSonP1q5YND6WfnCmpdvgH4OUqo89GPv0wJ_zSDncHaDqox5xmqJdBFCOcq6OqMBMEUzsQSGjAS_AVoT81Po6TbwgT92nx1OM_6jNFQ/s1600/espreita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnSLOM4hepSBVCezlJU6lzpN0k0mmoUnwo0QlcYSonP1q5YND6WfnCmpdvgH4OUqo89GPv0wJ_zSDncHaDqox5xmqJdBFCOcq6OqMBMEUzsQSGjAS_AVoT81Po6TbwgT92nx1OM_6jNFQ/s320/espreita.png" width="317" height="320" data-original-width="497" data-original-height="501" /></a></div>

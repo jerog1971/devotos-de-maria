@@ -1,7 +1,7 @@
 ---
 title: "Tenha foco, muito foco"
 date: 2019-01-20T02:06:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGSfPsej4H14tPrbYTgRmCzjSeqvynE3ResH_vSurOHqOo2cdL53Vm3jw-Xm4Li_vyNsLNgrKGpsfcz3MT0OTM4FmsjifQP0GBi1KUvjsxbHRpkalA-T_yzeBCFT9J3i-BqBoEmrS5NNs/s320/Elizabeth.png"
+heroImage: "/images/Elizabeth.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGSfPsej4H14tPrbYTgRmCzjSeqvynE3ResH_vSurOHqOo2cdL53Vm3jw-Xm4Li_vyNsLNgrKGpsfcz3MT0OTM4FmsjifQP0GBi1KUvjsxbHRpkalA-T_yzeBCFT9J3i-BqBoEmrS5NNs/s1600/Elizabeth.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="851" data-original-width="844" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGSfPsej4H14tPrbYTgRmCzjSeqvynE3ResH_vSurOHqOo2cdL53Vm3jw-Xm4Li_vyNsLNgrKGpsfcz3MT0OTM4FmsjifQP0GBi1KUvjsxbHRpkalA-T_yzeBCFT9J3i-BqBoEmrS5NNs/s320/Elizabeth.png" width="317" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Prestar a atenção em alguma coisa, concentrando todo nosso poder mental nada mais é do que direcionar nossos sentidos e capacidade de absorver tudo que nos cerca, seja de forma abstrata ou concreta. Mentalizar, se concentrar, focalizar em algo ou alguma coisa é essencial se queremos lograr êxito em alguma empreitada, seja de qual natureza for. Todavia, isso não exime um combatente nem o isenta de caminhar pelo lamaçal das dificuldades que nossa vida terrena sempre nos proporciona.

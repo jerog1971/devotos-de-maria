@@ -1,7 +1,7 @@
 ---
 title: "Escravos até da comida"
 date: 2017-07-07T12:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKCqXLZVFIQhd00FBWuksXXVwyu5Auhi2bri5d2kdnggnCt-lkCUcsYOx0e0rsTOY8ojl0EDnkaYPWyPwC64qUm4ep0TJ7RbqTX5isAZlY-AdSsChJvf4SJRmMSZfT47nbF0Yiq8XFw-k/s320/chef.png"
+heroImage: "/images/chef.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKCqXLZVFIQhd00FBWuksXXVwyu5Auhi2bri5d2kdnggnCt-lkCUcsYOx0e0rsTOY8ojl0EDnkaYPWyPwC64qUm4ep0TJ7RbqTX5isAZlY-AdSsChJvf4SJRmMSZfT47nbF0Yiq8XFw-k/s1600/chef.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKCqXLZVFIQhd00FBWuksXXVwyu5Auhi2bri5d2kdnggnCt-lkCUcsYOx0e0rsTOY8ojl0EDnkaYPWyPwC64qUm4ep0TJ7RbqTX5isAZlY-AdSsChJvf4SJRmMSZfT47nbF0Yiq8XFw-k/s320/chef.png" width="302" height="320" data-original-width="489" data-original-height="519" /></a></div>

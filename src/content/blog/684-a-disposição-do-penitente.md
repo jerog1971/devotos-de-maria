@@ -1,7 +1,7 @@
 ---
 title: "A disposição do penitente"
 date: 2019-04-10T20:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcLSQ_46KOC_usCzjYtqPFBfJbGD-wil_dmq3PJgCvXLNWUdjxNIJTKgo928entL_AJ-ZYqbFUtmFY4Ft-_gv3da0JQ5ppS3OumJysw4qt6HeAHMNncKWW00Tfdn-1qichU9FEB_q0BA/s320/confessar.png"
+heroImage: "/images/confessar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcLSQ_46KOC_usCzjYtqPFBfJbGD-wil_dmq3PJgCvXLNWUdjxNIJTKgo928entL_AJ-ZYqbFUtmFY4Ft-_gv3da0JQ5ppS3OumJysw4qt6HeAHMNncKWW00Tfdn-1qichU9FEB_q0BA/s1600/confessar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEcLSQ_46KOC_usCzjYtqPFBfJbGD-wil_dmq3PJgCvXLNWUdjxNIJTKgo928entL_AJ-ZYqbFUtmFY4Ft-_gv3da0JQ5ppS3OumJysw4qt6HeAHMNncKWW00Tfdn-1qichU9FEB_q0BA/s320/confessar.png" width="320" height="226" data-original-width="467" data-original-height="330" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Queria ter algum talento"
 date: 2022-12-19T15:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhX0mWk15nelZxzm9Tq2L03HzmKm9e-QyWg3HV_9gZR5B6L_BHQ3LVX6Q-O0lwOXH3_I9sl5Gh9a5yhc-GTHUNksKWp3Go6HVuqfHkwWKiu75UsSI81E0VncfwIhDnEsbOD2LRpaEzy9VzbybHAEo4fuu8-4q9TYnkPDOoDd-Ta0fBfDrEDtHIiaK6/s320/talento.png"
+heroImage: "/images/talento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhX0mWk15nelZxzm9Tq2L03HzmKm9e-QyWg3HV_9gZR5B6L_BHQ3LVX6Q-O0lwOXH3_I9sl5Gh9a5yhc-GTHUNksKWp3Go6HVuqfHkwWKiu75UsSI81E0VncfwIhDnEsbOD2LRpaEzy9VzbybHAEo4fuu8-4q9TYnkPDOoDd-Ta0fBfDrEDtHIiaK6/s455/talento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="340" data-original-width="455" height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhX0mWk15nelZxzm9Tq2L03HzmKm9e-QyWg3HV_9gZR5B6L_BHQ3LVX6Q-O0lwOXH3_I9sl5Gh9a5yhc-GTHUNksKWp3Go6HVuqfHkwWKiu75UsSI81E0VncfwIhDnEsbOD2LRpaEzy9VzbybHAEo4fuu8-4q9TYnkPDOoDd-Ta0fBfDrEDtHIiaK6/s320/talento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dizem que Deus nos fez à sua imagem e semelhança. Todavia,

@@ -1,7 +1,7 @@
 ---
 title: "A catequese em 5D"
 date: 2017-05-18T16:56:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2__eKyTKur7xMuV3KqJ8zv8NSVLeK9fGlcTyjbH6iq-0Z8uo0ZrLU0i27fKisRbdynPllxCTMUNbGGeN0cWugTEuLwyNCorDcneX6l2RcUp7O5OfNgzKkYRX4Myc7XXKy4hllCKtgWGM/s320/pensando.png"
+heroImage: "/images/pensando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2__eKyTKur7xMuV3KqJ8zv8NSVLeK9fGlcTyjbH6iq-0Z8uo0ZrLU0i27fKisRbdynPllxCTMUNbGGeN0cWugTEuLwyNCorDcneX6l2RcUp7O5OfNgzKkYRX4Myc7XXKy4hllCKtgWGM/s1600/pensando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="519" data-original-width="416" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2__eKyTKur7xMuV3KqJ8zv8NSVLeK9fGlcTyjbH6iq-0Z8uo0ZrLU0i27fKisRbdynPllxCTMUNbGGeN0cWugTEuLwyNCorDcneX6l2RcUp7O5OfNgzKkYRX4Myc7XXKy4hllCKtgWGM/s320/pensando.png" width="256" /></a></div>

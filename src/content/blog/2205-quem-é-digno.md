@@ -1,7 +1,7 @@
 ---
 title: "Quem é digno?"
 date: 2017-03-30T13:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDJp_rgFKuyXzruSrDQFBSf8a90oenFp1UBYQ6hbq2_r6WWHYjgExIxb3xMR7cVt9PAjYa2gdOWN54XaDR5QUip6dpoCwxbG0FnlF5K6ctSUzF7kJ-7xnWRhYQ5PMuWC2NAia5hhxaok/s320/digno.png"
+heroImage: "/images/digno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDJp_rgFKuyXzruSrDQFBSf8a90oenFp1UBYQ6hbq2_r6WWHYjgExIxb3xMR7cVt9PAjYa2gdOWN54XaDR5QUip6dpoCwxbG0FnlF5K6ctSUzF7kJ-7xnWRhYQ5PMuWC2NAia5hhxaok/s1600/digno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDJp_rgFKuyXzruSrDQFBSf8a90oenFp1UBYQ6hbq2_r6WWHYjgExIxb3xMR7cVt9PAjYa2gdOWN54XaDR5QUip6dpoCwxbG0FnlF5K6ctSUzF7kJ-7xnWRhYQ5PMuWC2NAia5hhxaok/s320/digno.png" width="320" height="308" data-original-width="317" data-original-height="305" /></a></div>

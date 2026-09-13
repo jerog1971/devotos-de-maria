@@ -1,7 +1,7 @@
 ---
 title: "Lembrança aos Batizados"
 date: 2017-10-06T17:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjysMgTA55gl9l4yDQ4cuROeXXwmp2eu_Re03KeX6822RQSSsu9ZGdx1ozB-wPFpy8MJrvbIy6n0Q1KQIXNimHkd5FHSu8xajq7Dxyfnh5v1CEBnI-x5IRAMQhiTa5Jxn5UMyc4om9psGo/s320/batismo.png"
+heroImage: "/images/batismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjysMgTA55gl9l4yDQ4cuROeXXwmp2eu_Re03KeX6822RQSSsu9ZGdx1ozB-wPFpy8MJrvbIy6n0Q1KQIXNimHkd5FHSu8xajq7Dxyfnh5v1CEBnI-x5IRAMQhiTa5Jxn5UMyc4om9psGo/s1600/batismo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="777" height="214" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjysMgTA55gl9l4yDQ4cuROeXXwmp2eu_Re03KeX6822RQSSsu9ZGdx1ozB-wPFpy8MJrvbIy6n0Q1KQIXNimHkd5FHSu8xajq7Dxyfnh5v1CEBnI-x5IRAMQhiTa5Jxn5UMyc4om9psGo/s320/batismo.png" width="320" /></a></div>

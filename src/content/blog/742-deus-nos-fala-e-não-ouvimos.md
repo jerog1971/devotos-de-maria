@@ -1,7 +1,7 @@
 ---
 title: "Deus nos fala e não ouvimos"
 date: 2017-01-21T23:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBX1XDpYqYeee28C_CSOFwH-awJEBzP1dWwKvR11TRHiS1m5u_DHt6sHbsr3VWNIybFfeGH3cI2hBWDUl8dJQeM6tnFDTTV_esT4YgqCHQ7Dim8uqH7uQvkZ9OI8zDlQ9CnJ5Honcnb_U/s320/fala.png"
+heroImage: "/images/fala.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBX1XDpYqYeee28C_CSOFwH-awJEBzP1dWwKvR11TRHiS1m5u_DHt6sHbsr3VWNIybFfeGH3cI2hBWDUl8dJQeM6tnFDTTV_esT4YgqCHQ7Dim8uqH7uQvkZ9OI8zDlQ9CnJ5Honcnb_U/s1600/fala.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBX1XDpYqYeee28C_CSOFwH-awJEBzP1dWwKvR11TRHiS1m5u_DHt6sHbsr3VWNIybFfeGH3cI2hBWDUl8dJQeM6tnFDTTV_esT4YgqCHQ7Dim8uqH7uQvkZ9OI8zDlQ9CnJ5Honcnb_U/s320/fala.png" width="320" height="257" data-original-width="316" data-original-height="254" /></a></div>

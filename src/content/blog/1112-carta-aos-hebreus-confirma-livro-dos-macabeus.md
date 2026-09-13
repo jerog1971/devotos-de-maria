@@ -1,7 +1,7 @@
 ---
 title: "Carta aos Hebreus confirma livro dos Macabeus"
 date: 2016-08-09T12:35:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyC5jFXTMU-aRUkcnyekUfmrsyTSyOn5sdpBCweR1QUki0yspl0nZoenTQzpPKjLVG_tnIPazHtsvLzjx02k06i6UAMcIYCwa3YZyD8uZwaOGSmDNBDmfBn9Na3suiJM3vzgL3OSiiG0/s320/hebreus.png"
+heroImage: "/images/hebreus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyC5jFXTMU-aRUkcnyekUfmrsyTSyOn5sdpBCweR1QUki0yspl0nZoenTQzpPKjLVG_tnIPazHtsvLzjx02k06i6UAMcIYCwa3YZyD8uZwaOGSmDNBDmfBn9Na3suiJM3vzgL3OSiiG0/s1600/hebreus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyC5jFXTMU-aRUkcnyekUfmrsyTSyOn5sdpBCweR1QUki0yspl0nZoenTQzpPKjLVG_tnIPazHtsvLzjx02k06i6UAMcIYCwa3YZyD8uZwaOGSmDNBDmfBn9Na3suiJM3vzgL3OSiiG0/s320/hebreus.png" width="320" height="297" data-original-width="567" data-original-height="526" /></a></div>

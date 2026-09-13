@@ -1,7 +1,7 @@
 ---
 title: "Jesus no coração de uma jovem"
 date: 2016-05-13T19:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqkjgyCgpFxi8pboFq54RZpucLn2N4neNp8dXbY7Qjdpo6y-PpICSMT_7gNk1oJO0oOo-wPUk6zcPrDwTgsOi9QYkReB9SnsTB_Y2p1v_tz3P0AiEzKt1boGQ4QxIHlUplET09y363Ehk/s320/catolico.png"
+heroImage: "/images/agir_do_catolico.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqkjgyCgpFxi8pboFq54RZpucLn2N4neNp8dXbY7Qjdpo6y-PpICSMT_7gNk1oJO0oOo-wPUk6zcPrDwTgsOi9QYkReB9SnsTB_Y2p1v_tz3P0AiEzKt1boGQ4QxIHlUplET09y363Ehk/s1600/catolico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqkjgyCgpFxi8pboFq54RZpucLn2N4neNp8dXbY7Qjdpo6y-PpICSMT_7gNk1oJO0oOo-wPUk6zcPrDwTgsOi9QYkReB9SnsTB_Y2p1v_tz3P0AiEzKt1boGQ4QxIHlUplET09y363Ehk/s320/catolico.png" width="320" height="314" data-original-width="403" data-original-height="396" /></a></div>

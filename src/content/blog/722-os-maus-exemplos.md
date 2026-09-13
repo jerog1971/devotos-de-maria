@@ -1,7 +1,7 @@
 ---
 title: "Os maus exemplos"
 date: 2016-07-14T11:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7VbO1UEY7iXQN8bj72GFtzi1KkHzub38WcCUD255YbWJT6dTeZkM5MXNrOvCc79k5ESI4B9wbNDyfPZPbV39GRaKcys09wP2Z5dQGUa4bb_toUH1W8UHekydkUqb4XJrg10R7ZsALs5w/s320/maus_exemplos.png"
+heroImage: "/images/maus_exemplos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7VbO1UEY7iXQN8bj72GFtzi1KkHzub38WcCUD255YbWJT6dTeZkM5MXNrOvCc79k5ESI4B9wbNDyfPZPbV39GRaKcys09wP2Z5dQGUa4bb_toUH1W8UHekydkUqb4XJrg10R7ZsALs5w/s1600/maus_exemplos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7VbO1UEY7iXQN8bj72GFtzi1KkHzub38WcCUD255YbWJT6dTeZkM5MXNrOvCc79k5ESI4B9wbNDyfPZPbV39GRaKcys09wP2Z5dQGUa4bb_toUH1W8UHekydkUqb4XJrg10R7ZsALs5w/s320/maus_exemplos.png" width="320" height="172" data-original-width="611" data-original-height="328" /></a></div>

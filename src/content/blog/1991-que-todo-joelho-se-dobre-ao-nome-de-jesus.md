@@ -1,7 +1,7 @@
 ---
 title: "Que todo joelho se dobre ao nome de Jesus"
 date: 2015-12-23T11:26:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqJsl2AbrKdXU51C4zOKnFtHLdz5FNbQm8d5PwGLzYadJfYmtapLMsiQuoPGgjTmJiXVYOvniszNiqE9reBkyAF7EzVPRdIThkCjSs7DxEvdayHzfqawqgYIBE-FiwDPnmVxaUk_OtVQ/s320/retiro.png"
+heroImage: "/images/retiro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqJsl2AbrKdXU51C4zOKnFtHLdz5FNbQm8d5PwGLzYadJfYmtapLMsiQuoPGgjTmJiXVYOvniszNiqE9reBkyAF7EzVPRdIThkCjSs7DxEvdayHzfqawqgYIBE-FiwDPnmVxaUk_OtVQ/s1600/retiro.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="488" height="216" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqJsl2AbrKdXU51C4zOKnFtHLdz5FNbQm8d5PwGLzYadJfYmtapLMsiQuoPGgjTmJiXVYOvniszNiqE9reBkyAF7EzVPRdIThkCjSs7DxEvdayHzfqawqgYIBE-FiwDPnmVxaUk_OtVQ/s320/retiro.png" width="320" /></a></div>

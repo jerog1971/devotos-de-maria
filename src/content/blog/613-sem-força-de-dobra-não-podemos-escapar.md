@@ -1,7 +1,7 @@
 ---
 title: "Sem força de \"dobra\" não podemos escapar"
 date: 2017-06-08T18:52:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFGUTAo1R_gLG50sEhEZ-RlJ7QhEHwSgrIL-0Ls4CGr6A8x0SdSbqrTRs1KSIrJ3dC1jjkLpak3TRBzhyphenhyphen1w4I6IOQTNa-ldM3sx9GpAmZbOezuhIQWijlbHaKs_7TRymNWCREnAB3Ug7g/s320/dobra.png"
+heroImage: "/images/dobra.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFGUTAo1R_gLG50sEhEZ-RlJ7QhEHwSgrIL-0Ls4CGr6A8x0SdSbqrTRs1KSIrJ3dC1jjkLpak3TRBzhyphenhyphen1w4I6IOQTNa-ldM3sx9GpAmZbOezuhIQWijlbHaKs_7TRymNWCREnAB3Ug7g/s1600/dobra.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFGUTAo1R_gLG50sEhEZ-RlJ7QhEHwSgrIL-0Ls4CGr6A8x0SdSbqrTRs1KSIrJ3dC1jjkLpak3TRBzhyphenhyphen1w4I6IOQTNa-ldM3sx9GpAmZbOezuhIQWijlbHaKs_7TRymNWCREnAB3Ug7g/s320/dobra.png" width="320" height="288" data-original-width="375" data-original-height="338" /></a></div>

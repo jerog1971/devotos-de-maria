@@ -1,7 +1,7 @@
 ---
 title: "E eles? Como ficam?"
 date: 2018-10-22T18:37:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5ezPxCi0WdOmmfjO3zWIighGqkzJmAuus4ZIFpKs5rqdB_bfQNqjf55uIonPHJ7blTiNlGL2sQlbgiaacKFo9k7_7_t94PVVEjqCHa1tAmflvmb5y4Oe6wydxrx10vOpyn6FQeCgnogY/s320/familia.png"
+heroImage: "/images/devoção a familia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5ezPxCi0WdOmmfjO3zWIighGqkzJmAuus4ZIFpKs5rqdB_bfQNqjf55uIonPHJ7blTiNlGL2sQlbgiaacKFo9k7_7_t94PVVEjqCHa1tAmflvmb5y4Oe6wydxrx10vOpyn6FQeCgnogY/s1600/familia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5ezPxCi0WdOmmfjO3zWIighGqkzJmAuus4ZIFpKs5rqdB_bfQNqjf55uIonPHJ7blTiNlGL2sQlbgiaacKFo9k7_7_t94PVVEjqCHa1tAmflvmb5y4Oe6wydxrx10vOpyn6FQeCgnogY/s320/familia.png" width="320" height="318" data-original-width="462" data-original-height="459" /></a></div>

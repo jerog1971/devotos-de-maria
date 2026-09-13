@@ -1,7 +1,7 @@
 ---
 title: "Viver sem servir alguém?"
 date: 2020-01-11T02:18:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikatpxkv7f48BOZ2ZxFuUZ_-gvQLmUCxqY5m8MwOmOjl4aMt5gfcFmR6LFaJySelRDeIBzauwuV8WMh5v7dqQZr66TDUFImt_7DVWUWZHOZ2RsBS4R0Gbz68jcA4hYzwzI2HnPwePURfY/s320/Nossa+Senhora.png"
+heroImage: "/images/nos.JPG"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikatpxkv7f48BOZ2ZxFuUZ_-gvQLmUCxqY5m8MwOmOjl4aMt5gfcFmR6LFaJySelRDeIBzauwuV8WMh5v7dqQZr66TDUFImt_7DVWUWZHOZ2RsBS4R0Gbz68jcA4hYzwzI2HnPwePURfY/s1600/Nossa+Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikatpxkv7f48BOZ2ZxFuUZ_-gvQLmUCxqY5m8MwOmOjl4aMt5gfcFmR6LFaJySelRDeIBzauwuV8WMh5v7dqQZr66TDUFImt_7DVWUWZHOZ2RsBS4R0Gbz68jcA4hYzwzI2HnPwePURfY/s320/Nossa+Senhora.png" width="285" height="320" data-original-width="710" data-original-height="796" /></a></div>

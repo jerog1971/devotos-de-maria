@@ -1,7 +1,7 @@
 ---
 title: "Diário de um bebê não nascido"
 date: 2016-08-11T13:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg36We8eEDypAx4PSFEyfAVAU7KfhrwIbH93mS0w6aQv9M2LNT3halMPCClEkyuMLbcrNWoFOWE0tmzIsq1x6ife9FqlrZuBSUXnEZ27j5ZKgKaFpZMDPbyGE89nAyZ3WtISYKIr35UGZ8/s320/gianna.png"
+heroImage: "/images/gianna.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg36We8eEDypAx4PSFEyfAVAU7KfhrwIbH93mS0w6aQv9M2LNT3halMPCClEkyuMLbcrNWoFOWE0tmzIsq1x6ife9FqlrZuBSUXnEZ27j5ZKgKaFpZMDPbyGE89nAyZ3WtISYKIr35UGZ8/s1600/gianna.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg36We8eEDypAx4PSFEyfAVAU7KfhrwIbH93mS0w6aQv9M2LNT3halMPCClEkyuMLbcrNWoFOWE0tmzIsq1x6ife9FqlrZuBSUXnEZ27j5ZKgKaFpZMDPbyGE89nAyZ3WtISYKIr35UGZ8/s320/gianna.png" width="318" height="320" data-original-width="384" data-original-height="386" /></a></div>

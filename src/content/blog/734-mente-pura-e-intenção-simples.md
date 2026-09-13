@@ -1,7 +1,7 @@
 ---
 title: "Mente pura e intenção simples"
 date: 2020-06-29T15:58:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYHI9_sof3hQFSncXysdIHVuIbQ4iLwwyCqSFE7QmQjIqv417qAQyHYYEvyhVlirrg4vJ_n9Af_kbtaYG7wf43kuptFLpmE5XWEO20d7jNv3QBNfs7qDLbBI5Xml0bT_r2-273puFN8tU/s320/imelda2.png"
+heroImage: "/images/imelda2.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYHI9_sof3hQFSncXysdIHVuIbQ4iLwwyCqSFE7QmQjIqv417qAQyHYYEvyhVlirrg4vJ_n9Af_kbtaYG7wf43kuptFLpmE5XWEO20d7jNv3QBNfs7qDLbBI5Xml0bT_r2-273puFN8tU/s395/imelda2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="395" data-original-width="214" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYHI9_sof3hQFSncXysdIHVuIbQ4iLwwyCqSFE7QmQjIqv417qAQyHYYEvyhVlirrg4vJ_n9Af_kbtaYG7wf43kuptFLpmE5XWEO20d7jNv3QBNfs7qDLbBI5Xml0bT_r2-273puFN8tU/s320/imelda2.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Com duas asas se levanta o homem acima das coisas terrenas:

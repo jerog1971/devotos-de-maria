@@ -1,7 +1,7 @@
 ---
 title: "Deus me livre"
 date: 2016-08-17T14:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidlWhCUSSv6HRcuT-soqPv0rx4tnsix388g64wLDPpOLXjNKNyStiv4h_bZtuZNCwxUQ0GLaf9ANZvks6BNfB6yhMdTGUM_jOR43Y6n8e5QGMk6bhqVsn9e4daW-EBEjHZWnP4810XnEo/s320/deus_me_livre.png"
+heroImage: "/images/deus_me_livre.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidlWhCUSSv6HRcuT-soqPv0rx4tnsix388g64wLDPpOLXjNKNyStiv4h_bZtuZNCwxUQ0GLaf9ANZvks6BNfB6yhMdTGUM_jOR43Y6n8e5QGMk6bhqVsn9e4daW-EBEjHZWnP4810XnEo/s1600/deus_me_livre.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="506" data-original-width="576" height="281" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidlWhCUSSv6HRcuT-soqPv0rx4tnsix388g64wLDPpOLXjNKNyStiv4h_bZtuZNCwxUQ0GLaf9ANZvks6BNfB6yhMdTGUM_jOR43Y6n8e5QGMk6bhqVsn9e4daW-EBEjHZWnP4810XnEo/s320/deus_me_livre.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Esta é uma expressão que inevitavelmente já se ouviu alguém falar ou já se falou alguma vez, ou algumas vezes na vida, ou ainda de forma costumeira, o que neste caso, desagrada a Deus. Vamos refletir um pouco sobre a questão. “Nem pense uma coisa dessas, Deus me livre”. Seja como for, vários são os contextos em que as pessoas “pedem” sem se dar conta do que pedem (Romanos 8,26), para que Deus afaste delas alguma coisa ou situação pela qual não querem passar. Normalmente este pedido vem associado ao desejo de se evitar algo que é ruim.

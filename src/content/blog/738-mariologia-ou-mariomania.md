@@ -1,7 +1,7 @@
 ---
 title: "Mariologia ou Mariomania?"
 date: 2019-01-07T14:03:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaZYXYSTie0dYyi1BbT3_4xyIV_9N5FZOINSxUdGJRMCQAGoXRQMcPQMfZrBcijox8RI7iulUvA_kwUbftkvPq1fB7tOv4v_YgOyTVwfr1ms3TlJoVdoZzIzQ0oPyKXPfFgF_h5dC7fCk/s320/mariologia.png"
+heroImage: "/images/mariologia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaZYXYSTie0dYyi1BbT3_4xyIV_9N5FZOINSxUdGJRMCQAGoXRQMcPQMfZrBcijox8RI7iulUvA_kwUbftkvPq1fB7tOv4v_YgOyTVwfr1ms3TlJoVdoZzIzQ0oPyKXPfFgF_h5dC7fCk/s1600/mariologia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaZYXYSTie0dYyi1BbT3_4xyIV_9N5FZOINSxUdGJRMCQAGoXRQMcPQMfZrBcijox8RI7iulUvA_kwUbftkvPq1fB7tOv4v_YgOyTVwfr1ms3TlJoVdoZzIzQ0oPyKXPfFgF_h5dC7fCk/s320/mariologia.png" width="320" height="302" data-original-width="300" data-original-height="283" /></a></div>

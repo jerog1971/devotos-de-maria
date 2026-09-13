@@ -1,7 +1,7 @@
 ---
 title: "Cuidado com sua válvula de escape"
 date: 2022-12-21T19:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHt_5CdnRmrigYtfAQWryMm7Sb4GO7HxG4BedyTKllbtxcpuiwD46N8bwursTU-Yp78dWpXDEUDlI3BKIFcYlnt_byh8VD8QTPpAx4TGOJWOvavEhuZbQxLA27_gZUPBG8R9ZEPySDNx-KEhABycx-DfXsN74csDT97nGpFR8bGMdpQT2wUL55XUaa/s320/cuidado%20com%20a%20v%C3%A1lvula%20de%20escape.png"
+heroImage: "/images/cuidado com a válvula de escape.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHt_5CdnRmrigYtfAQWryMm7Sb4GO7HxG4BedyTKllbtxcpuiwD46N8bwursTU-Yp78dWpXDEUDlI3BKIFcYlnt_byh8VD8QTPpAx4TGOJWOvavEhuZbQxLA27_gZUPBG8R9ZEPySDNx-KEhABycx-DfXsN74csDT97nGpFR8bGMdpQT2wUL55XUaa/s422/cuidado%20com%20a%20v%C3%A1lvula%20de%20escape.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="345" data-original-width="422" height="262" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHt_5CdnRmrigYtfAQWryMm7Sb4GO7HxG4BedyTKllbtxcpuiwD46N8bwursTU-Yp78dWpXDEUDlI3BKIFcYlnt_byh8VD8QTPpAx4TGOJWOvavEhuZbQxLA27_gZUPBG8R9ZEPySDNx-KEhABycx-DfXsN74csDT97nGpFR8bGMdpQT2wUL55XUaa/s320/cuidado%20com%20a%20v%C3%A1lvula%20de%20escape.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sabido pela maioria das pessoas que, para afastar-se das

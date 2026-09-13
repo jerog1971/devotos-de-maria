@@ -1,7 +1,7 @@
 ---
 title: "Santo de casa não faz milagre"
 date: 2016-06-29T12:37:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxFnnFETHFkyN_UTomE5DeA2ztsBy8b8Lb9Cg7PsRFIgbAeGigKHuHqQvu01jprtbfXBdmrT4Yx0GeLruN0WX_mvde5c83JgIazJJozMYek0SNffep9DAnhSrs0MkV_SWgaWubHnW4vM/s320/santo_de_casa.png"
+heroImage: "/images/santo_de_casa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxFnnFETHFkyN_UTomE5DeA2ztsBy8b8Lb9Cg7PsRFIgbAeGigKHuHqQvu01jprtbfXBdmrT4Yx0GeLruN0WX_mvde5c83JgIazJJozMYek0SNffep9DAnhSrs0MkV_SWgaWubHnW4vM/s1600/santo_de_casa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxFnnFETHFkyN_UTomE5DeA2ztsBy8b8Lb9Cg7PsRFIgbAeGigKHuHqQvu01jprtbfXBdmrT4Yx0GeLruN0WX_mvde5c83JgIazJJozMYek0SNffep9DAnhSrs0MkV_SWgaWubHnW4vM/s320/santo_de_casa.png" width="320" height="265" data-original-width="392" data-original-height="325" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Remédios amargos"
 date: 2022-11-23T15:37:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhABAiNKyuolf1S-YTeo82O-QaOgnJcT46bAz1jhS_VimgCGDoqVeTsip2udoFfntrV494FeVTrsj1AvPpG8FWyvmBNCXNqhp-GYmtSUDURvp2imLabVe9Pq5cynz8QCHoG8G1ikadYvjQeIT0wxp4n2R8YBzmchKTYMgND4ip5PfrJhOSAiWHDiKVV/s320/rem%C3%A9dios%20amargos.png"
+heroImage: "/images/remédios amargos.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhABAiNKyuolf1S-YTeo82O-QaOgnJcT46bAz1jhS_VimgCGDoqVeTsip2udoFfntrV494FeVTrsj1AvPpG8FWyvmBNCXNqhp-GYmtSUDURvp2imLabVe9Pq5cynz8QCHoG8G1ikadYvjQeIT0wxp4n2R8YBzmchKTYMgND4ip5PfrJhOSAiWHDiKVV/s642/rem%C3%A9dios%20amargos.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="571" data-original-width="642" height="285" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhABAiNKyuolf1S-YTeo82O-QaOgnJcT46bAz1jhS_VimgCGDoqVeTsip2udoFfntrV494FeVTrsj1AvPpG8FWyvmBNCXNqhp-GYmtSUDURvp2imLabVe9Pq5cynz8QCHoG8G1ikadYvjQeIT0wxp4n2R8YBzmchKTYMgND4ip5PfrJhOSAiWHDiKVV/s320/rem%C3%A9dios%20amargos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está escrito na bíblia que Deus corrige e castiga aqueles

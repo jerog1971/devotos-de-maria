@@ -1,7 +1,7 @@
 ---
 title: "Credo Niceno-Constantinopolitano"
 date: 2020-04-18T15:26:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Fjw9L8CUzzUbufoBOYWrJN0QA8my6wG43-eKv4kd5Sz64aOWpFNmlPciBmGcAj3xYo4HbmNlfPV86306zWHNPL-RD-s1zzALXPjXPAD_My7Q23L6deYrS8iQO-D42aVlR-lcEzNBV_c/s320/credo.png"
+heroImage: "/images/credo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Fjw9L8CUzzUbufoBOYWrJN0QA8my6wG43-eKv4kd5Sz64aOWpFNmlPciBmGcAj3xYo4HbmNlfPV86306zWHNPL-RD-s1zzALXPjXPAD_My7Q23L6deYrS8iQO-D42aVlR-lcEzNBV_c/s1600/credo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Fjw9L8CUzzUbufoBOYWrJN0QA8my6wG43-eKv4kd5Sz64aOWpFNmlPciBmGcAj3xYo4HbmNlfPV86306zWHNPL-RD-s1zzALXPjXPAD_My7Q23L6deYrS8iQO-D42aVlR-lcEzNBV_c/s320/credo.png" width="238" height="320" data-original-width="179" data-original-height="241" /></a></div>

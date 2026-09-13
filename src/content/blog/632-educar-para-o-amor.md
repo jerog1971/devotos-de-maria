@@ -1,7 +1,7 @@
 ---
 title: "Educar para o amor"
 date: 2016-07-26T11:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzeegqH6kGzaj0oRAJYwGe8zzKiJoWppKipxFFwjzKBiGNgDooEavEfCOoTy91biTTnQZRtJlxaJDuKGWetJHan95QqHyDUoP9pkEExS3Cl0pssINYeoOg7dOMJfT5QPWbLcYtWFrCA8/s320/educar.png"
+heroImage: "/images/educar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzeegqH6kGzaj0oRAJYwGe8zzKiJoWppKipxFFwjzKBiGNgDooEavEfCOoTy91biTTnQZRtJlxaJDuKGWetJHan95QqHyDUoP9pkEExS3Cl0pssINYeoOg7dOMJfT5QPWbLcYtWFrCA8/s1600/educar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzeegqH6kGzaj0oRAJYwGe8zzKiJoWppKipxFFwjzKBiGNgDooEavEfCOoTy91biTTnQZRtJlxaJDuKGWetJHan95QqHyDUoP9pkEExS3Cl0pssINYeoOg7dOMJfT5QPWbLcYtWFrCA8/s320/educar.png" width="320" height="276" data-original-width="282" data-original-height="243" /></a></div>

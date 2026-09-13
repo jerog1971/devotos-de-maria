@@ -1,7 +1,7 @@
 ---
 title: "Os presentes e o Natal"
 date: 2019-12-20T17:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPiU2R1-gXa5pYwNfEtym-73zU6TVMPW1GneISNlrrbGerVaNcXWISrMgMmN3AxLOrSOovzltuRGPw7Dq7cYjwvbyW0Dhsn2iFpXBtU_5WIos99jNVqZxwLpW3kIEUeL7ysnzIvz314E/s320/reis_magos.png"
+heroImage: "/images/reis_magos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPiU2R1-gXa5pYwNfEtym-73zU6TVMPW1GneISNlrrbGerVaNcXWISrMgMmN3AxLOrSOovzltuRGPw7Dq7cYjwvbyW0Dhsn2iFpXBtU_5WIos99jNVqZxwLpW3kIEUeL7ysnzIvz314E/s1600/reis_magos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPiU2R1-gXa5pYwNfEtym-73zU6TVMPW1GneISNlrrbGerVaNcXWISrMgMmN3AxLOrSOovzltuRGPw7Dq7cYjwvbyW0Dhsn2iFpXBtU_5WIos99jNVqZxwLpW3kIEUeL7ysnzIvz314E/s320/reis_magos.png" width="320" height="311" data-original-width="526" data-original-height="512" /></a></div>

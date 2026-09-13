@@ -1,7 +1,7 @@
 ---
 title: "A luz que vem do Deus da luz"
 date: 2017-06-08T13:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbB913xjkpignkbYusYImgubdG3Kju9o9Mdll2Jg7EwsONlnpihDar-dzodFuc_dmRhFRcEEcUGnPemA4HHeS8AKN9D6AL0MxZzL6XAGAegRE4kCBCEmELDyigRycR4YOb-4J03cSu0d4/s320/luz.png"
+heroImage: "/images/filhos_da_luz.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbB913xjkpignkbYusYImgubdG3Kju9o9Mdll2Jg7EwsONlnpihDar-dzodFuc_dmRhFRcEEcUGnPemA4HHeS8AKN9D6AL0MxZzL6XAGAegRE4kCBCEmELDyigRycR4YOb-4J03cSu0d4/s1600/luz.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="518" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbB913xjkpignkbYusYImgubdG3Kju9o9Mdll2Jg7EwsONlnpihDar-dzodFuc_dmRhFRcEEcUGnPemA4HHeS8AKN9D6AL0MxZzL6XAGAegRE4kCBCEmELDyigRycR4YOb-4J03cSu0d4/s320/luz.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Assim lemos no livro do Eclesiástico: “Vós, que temeis o Senhor, esperai nele; sua misericórdia vos será fonte de alegria. Vós, que temeis o Senhor, amai-o, e vossos corações se encherão de luz. Tende piedade de nós, ó Deus de todas as coisas, olhai para nós, e fazei-nos ver a luz de vossa misericórdia! Feliz aquele que se entregar a essas boas palavras; aquele que as guardar no coração será sempre sábio; pois, se ele as cumprir, será capaz de todas as coisas, porque a luz de Deus guiará os seus passos.”

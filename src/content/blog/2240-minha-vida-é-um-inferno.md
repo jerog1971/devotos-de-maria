@@ -1,7 +1,7 @@
 ---
 title: "Minha vida é um inferno"
 date: 2022-06-15T15:43:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnOt4VGnHzBrWuAYh5Q3bj1QVxfWrfufOx18bSp9QjF1T8wQ_A3kuWjK_93vakaWCgXvqTNvXJOLi9TBXomv2x35zHoOQimkxm2AHkrdu50Yxap-nlgGqjemGZMlEu5jWj6mEA8c0K0LGN9JIvOtE7cowROZhVC8Fnhn4-gADwBQiYh1zndIl1sSsb/s320/minha%20vida%20%C3%A9%20um%20inferno.png"
+heroImage: "/images/inferno.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnOt4VGnHzBrWuAYh5Q3bj1QVxfWrfufOx18bSp9QjF1T8wQ_A3kuWjK_93vakaWCgXvqTNvXJOLi9TBXomv2x35zHoOQimkxm2AHkrdu50Yxap-nlgGqjemGZMlEu5jWj6mEA8c0K0LGN9JIvOtE7cowROZhVC8Fnhn4-gADwBQiYh1zndIl1sSsb/s363/minha%20vida%20%C3%A9%20um%20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="313" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnOt4VGnHzBrWuAYh5Q3bj1QVxfWrfufOx18bSp9QjF1T8wQ_A3kuWjK_93vakaWCgXvqTNvXJOLi9TBXomv2x35zHoOQimkxm2AHkrdu50Yxap-nlgGqjemGZMlEu5jWj6mEA8c0K0LGN9JIvOtE7cowROZhVC8Fnhn4-gADwBQiYh1zndIl1sSsb/s320/minha%20vida%20%C3%A9%20um%20inferno.png" width="276" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando as pessoas dizem isso, referindo-se às dificuldades

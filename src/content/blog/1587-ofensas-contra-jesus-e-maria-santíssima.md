@@ -1,7 +1,7 @@
 ---
 title: "Ofensas contra Jesus e Maria Santíssima"
 date: 2017-01-20T16:08:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkwF4iLU894o7zWNm2wpzpkMwsDPznLmleXDFBdRQIAN3BXItB_ys1ayaCX9l9bY5IvdNBqk9tPCshb2dFpTFBC8TglJsAQ2TP6IpVCj7nrSv5pyZf15L_QKTXYU-z1CNVcBfj0GRDKw/s320/aparecida.png"
+heroImage: "/images/Aparecida.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkwF4iLU894o7zWNm2wpzpkMwsDPznLmleXDFBdRQIAN3BXItB_ys1ayaCX9l9bY5IvdNBqk9tPCshb2dFpTFBC8TglJsAQ2TP6IpVCj7nrSv5pyZf15L_QKTXYU-z1CNVcBfj0GRDKw/s1600/aparecida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkwF4iLU894o7zWNm2wpzpkMwsDPznLmleXDFBdRQIAN3BXItB_ys1ayaCX9l9bY5IvdNBqk9tPCshb2dFpTFBC8TglJsAQ2TP6IpVCj7nrSv5pyZf15L_QKTXYU-z1CNVcBfj0GRDKw/s320/aparecida.png" width="320" height="318" data-original-width="317" data-original-height="315" /></a></div>

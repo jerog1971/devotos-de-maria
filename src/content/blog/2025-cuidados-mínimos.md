@@ -1,7 +1,7 @@
 ---
 title: "Cuidados mínimos"
 date: 2019-05-20T18:54:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5rhb1isLA0ONR508_ZnNwMhBsdHMzpFUH-Egjqub9UqB3Pnhsc_8g8CqrRMYU8FBtpDgaA46ratRw489KTEzhiqFl79FEFEH7jRoX7i4RCJc9aOU5Im7BmazgmlSTXeIImk3An9UDRTA/s320/Jesus_Diabo.png"
+heroImage: "/images/Jesus_Diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5rhb1isLA0ONR508_ZnNwMhBsdHMzpFUH-Egjqub9UqB3Pnhsc_8g8CqrRMYU8FBtpDgaA46ratRw489KTEzhiqFl79FEFEH7jRoX7i4RCJc9aOU5Im7BmazgmlSTXeIImk3An9UDRTA/s1600/Jesus_Diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5rhb1isLA0ONR508_ZnNwMhBsdHMzpFUH-Egjqub9UqB3Pnhsc_8g8CqrRMYU8FBtpDgaA46ratRw489KTEzhiqFl79FEFEH7jRoX7i4RCJc9aOU5Im7BmazgmlSTXeIImk3An9UDRTA/s320/Jesus_Diabo.png" width="320" height="305" data-original-width="503" data-original-height="480" /></a></div>

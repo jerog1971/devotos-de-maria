@@ -1,7 +1,7 @@
 ---
 title: "O sortilégio do diabo"
 date: 2017-09-18T14:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHa8zabTnjtfQeZyFluVpw0n_qudv6kRUNF1GOhyE78ekbgxssWSfA0yLAygsG2ihnok8kr31Oq7N2LBwxlVeTDXNczfAglrUbST58-Td_KZSYn5z3NsXggUdqRmYphVKWndHRtVguQBc/s320/dengoso_e_zangado.png"
+heroImage: "/images/dengoso_e_zangado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHa8zabTnjtfQeZyFluVpw0n_qudv6kRUNF1GOhyE78ekbgxssWSfA0yLAygsG2ihnok8kr31Oq7N2LBwxlVeTDXNczfAglrUbST58-Td_KZSYn5z3NsXggUdqRmYphVKWndHRtVguQBc/s1600/dengoso_e_zangado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHa8zabTnjtfQeZyFluVpw0n_qudv6kRUNF1GOhyE78ekbgxssWSfA0yLAygsG2ihnok8kr31Oq7N2LBwxlVeTDXNczfAglrUbST58-Td_KZSYn5z3NsXggUdqRmYphVKWndHRtVguQBc/s320/dengoso_e_zangado.png" width="320" height="262" data-original-width="547" data-original-height="448" /></a></div>

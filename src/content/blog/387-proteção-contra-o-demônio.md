@@ -1,7 +1,7 @@
 ---
 title: "Proteção contra o demônio"
 date: 2016-07-13T13:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxZOTJtRdFla9VYzauf1BNkfg2Tq73H7jIQ38cVtPtDmmaLbnoGYIRuIDVDyzrsGgopP2oKe_MmEY96x7-21cxaWYPyK4Vdilc7vHf5ASpuYdbh6AO4U2wGpfasrs6nqRrRS9rD6dqc9Q/s320/akamine.png"
+heroImage: "/images/akamine.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxZOTJtRdFla9VYzauf1BNkfg2Tq73H7jIQ38cVtPtDmmaLbnoGYIRuIDVDyzrsGgopP2oKe_MmEY96x7-21cxaWYPyK4Vdilc7vHf5ASpuYdbh6AO4U2wGpfasrs6nqRrRS9rD6dqc9Q/s1600/akamine.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxZOTJtRdFla9VYzauf1BNkfg2Tq73H7jIQ38cVtPtDmmaLbnoGYIRuIDVDyzrsGgopP2oKe_MmEY96x7-21cxaWYPyK4Vdilc7vHf5ASpuYdbh6AO4U2wGpfasrs6nqRrRS9rD6dqc9Q/s320/akamine.png" width="225" height="320" data-original-width="210" data-original-height="299" /></a></div>

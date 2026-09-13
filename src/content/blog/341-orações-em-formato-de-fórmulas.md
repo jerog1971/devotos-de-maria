@@ -1,7 +1,7 @@
 ---
 title: "Orações em formato de \"fórmulas\""
 date: 2016-11-06T23:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8aYj5h8qPXKm5Y-GZhZsOgr5HZKpi59lRwrBoI96_gkp5TtSnNTemsIV5n2DSMnc2plauhxVpR-bBf5XkRNdF5brIkQURzMGpk2DXXRa3n83dqUeCFn3TpsOYXm2_iXQ4Q_J9xuuiCaI/s320/oracoes.png"
+heroImage: "/images/oracoes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8aYj5h8qPXKm5Y-GZhZsOgr5HZKpi59lRwrBoI96_gkp5TtSnNTemsIV5n2DSMnc2plauhxVpR-bBf5XkRNdF5brIkQURzMGpk2DXXRa3n83dqUeCFn3TpsOYXm2_iXQ4Q_J9xuuiCaI/s1600/oracoes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8aYj5h8qPXKm5Y-GZhZsOgr5HZKpi59lRwrBoI96_gkp5TtSnNTemsIV5n2DSMnc2plauhxVpR-bBf5XkRNdF5brIkQURzMGpk2DXXRa3n83dqUeCFn3TpsOYXm2_iXQ4Q_J9xuuiCaI/s320/oracoes.png" width="318" height="320" data-original-width="210" data-original-height="211" /></a></div>

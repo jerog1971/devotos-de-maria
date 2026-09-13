@@ -1,7 +1,7 @@
 ---
 title: "Nossa Senhora do Bom Conselho – Genazzano"
 date: 2025-05-13T18:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvUSjYJgDc71YdYJIh_b7Dl0LyFZpdvqy7EvYARQZ_nl2RfPSSjOMmuZ9Cq-7I4Z6k5UPJY3g_C1UZW-FLd87y76kF_GAWe1zyDP3-_FloOfaA5hD3cARtaT_qDVQVrRLuWbWmAYUlzrlTIHC9Y-X1utpDnuFrN3viSwzG0C5dXtG1B_eHs-SQxrWXAM/s320/Nossa%20Senhora%20do%20Bom%20Conselho%20-%20Genazzano.png"
+heroImage: "/images/Nossa Senhora do Bom Conselho - Genazzano.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvUSjYJgDc71YdYJIh_b7Dl0LyFZpdvqy7EvYARQZ_nl2RfPSSjOMmuZ9Cq-7I4Z6k5UPJY3g_C1UZW-FLd87y76kF_GAWe1zyDP3-_FloOfaA5hD3cARtaT_qDVQVrRLuWbWmAYUlzrlTIHC9Y-X1utpDnuFrN3viSwzG0C5dXtG1B_eHs-SQxrWXAM/s396/Nossa%20Senhora%20do%20Bom%20Conselho%20-%20Genazzano.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="375" data-original-width="396" height="303" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvUSjYJgDc71YdYJIh_b7Dl0LyFZpdvqy7EvYARQZ_nl2RfPSSjOMmuZ9Cq-7I4Z6k5UPJY3g_C1UZW-FLd87y76kF_GAWe1zyDP3-_FloOfaA5hD3cARtaT_qDVQVrRLuWbWmAYUlzrlTIHC9Y-X1utpDnuFrN3viSwzG0C5dXtG1B_eHs-SQxrWXAM/s320/Nossa%20Senhora%20do%20Bom%20Conselho%20-%20Genazzano.png" width="320" /></a></div><br />&nbsp;

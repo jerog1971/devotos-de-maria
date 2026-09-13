@@ -1,7 +1,7 @@
 ---
 title: "A igreja está doente"
 date: 2017-06-20T18:10:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoda57jfQ_00A4vzXemWmnb1dgde691t9NEFd8O2wstxfg2b-yXzKvGShqVZd9NnnSM_CCTVXIrS-wxnfosXVCyjMFG0YMXCrfupxBzDEEW-b7rkD-ZbbnBCu1E-i6xJIk8z8qWzwm4o4/s320/pauloVI.png"
+heroImage: "/images/pauloVI.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoda57jfQ_00A4vzXemWmnb1dgde691t9NEFd8O2wstxfg2b-yXzKvGShqVZd9NnnSM_CCTVXIrS-wxnfosXVCyjMFG0YMXCrfupxBzDEEW-b7rkD-ZbbnBCu1E-i6xJIk8z8qWzwm4o4/s1600/pauloVI.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="447" data-original-width="436" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoda57jfQ_00A4vzXemWmnb1dgde691t9NEFd8O2wstxfg2b-yXzKvGShqVZd9NnnSM_CCTVXIrS-wxnfosXVCyjMFG0YMXCrfupxBzDEEW-b7rkD-ZbbnBCu1E-i6xJIk8z8qWzwm4o4/s320/pauloVI.png" width="312" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>“A fumaça de satanás entrou na igreja” – Paulo VI. Olá pessoal, bem-vindos mais uma vez ao site. Hoje, a contribuição que vamos fazer está relacionada com a condição da religião católica e sua igreja, fundada por Jesus sobre a profissão de fé do apóstolo Pedro. E diga-se de passagem, como qualquer um pode atestar, católicos e não católicos, está muito doente. E vou ainda mais longe, mal nasceu, logo depois sob a influência satânica começaram os homens pecadores por arruiná-la de dentro para fora e de fora para dentro. Eis o que se lê por aí nos comentários e desabafos da internet:

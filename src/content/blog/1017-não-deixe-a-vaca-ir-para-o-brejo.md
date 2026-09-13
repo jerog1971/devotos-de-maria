@@ -1,7 +1,7 @@
 ---
 title: "Não deixe a vaca ir para o brejo"
 date: 2016-12-27T15:48:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJMqDaY20_hZo_LdexGcAlRpJikoKlpC-QS4JfGULUBe5ClmIMy_4Ort-63f4BarEiMwiLEDb1Lwq9Tb-5A1O3bdy5e3A6lL-96WsiU_kL6yNQ2zru0TB-fxQbKtn8K2ECsi2aEiaRpoA/s320/casal+2.bmp"
+heroImage: "/images/casal.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJMqDaY20_hZo_LdexGcAlRpJikoKlpC-QS4JfGULUBe5ClmIMy_4Ort-63f4BarEiMwiLEDb1Lwq9Tb-5A1O3bdy5e3A6lL-96WsiU_kL6yNQ2zru0TB-fxQbKtn8K2ECsi2aEiaRpoA/s1600/casal+2.bmp" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="716" height="212" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJMqDaY20_hZo_LdexGcAlRpJikoKlpC-QS4JfGULUBe5ClmIMy_4Ort-63f4BarEiMwiLEDb1Lwq9Tb-5A1O3bdy5e3A6lL-96WsiU_kL6yNQ2zru0TB-fxQbKtn8K2ECsi2aEiaRpoA/s320/casal+2.bmp" width="320" /></a></div>

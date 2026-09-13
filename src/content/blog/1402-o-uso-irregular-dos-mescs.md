@@ -1,7 +1,7 @@
 ---
 title: "O uso irregular dos MESC's"
 date: 2016-12-22T15:55:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd3gaNxNy2dDPHz_J4ma521BQm9Qjh07pr0-H2TADCRmqwdlLNPWkZQSedMPeyiZEVHFFlGZvMngjvXaqYIpxKLWxcL4hHaz7cfQhSLhpuiBYcMcCxSCusinK-kcMhqHS5gW5z_5Zdbck/s320/mesc+irregular.png"
+heroImage: "/images/gula.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd3gaNxNy2dDPHz_J4ma521BQm9Qjh07pr0-H2TADCRmqwdlLNPWkZQSedMPeyiZEVHFFlGZvMngjvXaqYIpxKLWxcL4hHaz7cfQhSLhpuiBYcMcCxSCusinK-kcMhqHS5gW5z_5Zdbck/s1600/mesc+irregular.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="479" data-original-width="714" height="215" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd3gaNxNy2dDPHz_J4ma521BQm9Qjh07pr0-H2TADCRmqwdlLNPWkZQSedMPeyiZEVHFFlGZvMngjvXaqYIpxKLWxcL4hHaz7cfQhSLhpuiBYcMcCxSCusinK-kcMhqHS5gW5z_5Zdbck/s320/mesc+irregular.png" width="320" /></a></div>

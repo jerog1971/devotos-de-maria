@@ -1,7 +1,7 @@
 ---
 title: "O Exame de Consciência"
 date: 2016-12-14T12:57:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtmtv74R8MMhYyresof9IXTyAlrV55Z8xFyt2vDZtpmUZYZu8rP_UYHkScttN9RIDDg3NJVD_7f29zdlQGJOkHzup0njLR0GhtCPzwdq2ItDkwSn7WV5I-krSFhRYeKdqr-I9r5Lh20U/s320/exame.png"
+heroImage: "/images/exame.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtmtv74R8MMhYyresof9IXTyAlrV55Z8xFyt2vDZtpmUZYZu8rP_UYHkScttN9RIDDg3NJVD_7f29zdlQGJOkHzup0njLR0GhtCPzwdq2ItDkwSn7WV5I-krSFhRYeKdqr-I9r5Lh20U/s1600/exame.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtmtv74R8MMhYyresof9IXTyAlrV55Z8xFyt2vDZtpmUZYZu8rP_UYHkScttN9RIDDg3NJVD_7f29zdlQGJOkHzup0njLR0GhtCPzwdq2ItDkwSn7WV5I-krSFhRYeKdqr-I9r5Lh20U/s320/exame.png" width="320" height="307" data-original-width="316" data-original-height="303" /></a></div>

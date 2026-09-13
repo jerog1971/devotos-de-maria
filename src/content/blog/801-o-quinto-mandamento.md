@@ -1,7 +1,7 @@
 ---
 title: "O quinto mandamento"
 date: 2017-05-17T20:25:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7NEhRFt79ej9EuO-cExUP_l4JhrPErxhyphenhyphenovvJWoh4TorRvLluPM6Phj_GWu6VbmN3TEFiisN1_GLAplVh8RzU-i-SCTWuxRjE2qXsd2hfy52dfO0O0CpLFYvNhJNoOr1piu1owW3tp4/s320/matar.png"
+heroImage: "/images/matar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7NEhRFt79ej9EuO-cExUP_l4JhrPErxhyphenhyphenovvJWoh4TorRvLluPM6Phj_GWu6VbmN3TEFiisN1_GLAplVh8RzU-i-SCTWuxRjE2qXsd2hfy52dfO0O0CpLFYvNhJNoOr1piu1owW3tp4/s1600/matar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7NEhRFt79ej9EuO-cExUP_l4JhrPErxhyphenhyphenovvJWoh4TorRvLluPM6Phj_GWu6VbmN3TEFiisN1_GLAplVh8RzU-i-SCTWuxRjE2qXsd2hfy52dfO0O0CpLFYvNhJNoOr1piu1owW3tp4/s320/matar.png" width="320" height="261" data-original-width="393" data-original-height="320" /></a></div>

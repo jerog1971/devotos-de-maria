@@ -1,7 +1,7 @@
 ---
 title: "O peso da vida"
 date: 2017-07-05T11:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii6OY5iIs_NI4B7O68f4aO95F1gLLDaKNBA4OYQczFffxJUXqG3Mkc1V61S01V5q4h5ol55IiyM5WRLuEh_IwJUgN3HR5tS6aGzWgLpaiXDtQmQesh9J_RzXjtsyNB9yVHTYxm1E-Hx5g/s320/hospede.png"
+heroImage: "/images/hospede.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii6OY5iIs_NI4B7O68f4aO95F1gLLDaKNBA4OYQczFffxJUXqG3Mkc1V61S01V5q4h5ol55IiyM5WRLuEh_IwJUgN3HR5tS6aGzWgLpaiXDtQmQesh9J_RzXjtsyNB9yVHTYxm1E-Hx5g/s1600/hospede.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii6OY5iIs_NI4B7O68f4aO95F1gLLDaKNBA4OYQczFffxJUXqG3Mkc1V61S01V5q4h5ol55IiyM5WRLuEh_IwJUgN3HR5tS6aGzWgLpaiXDtQmQesh9J_RzXjtsyNB9yVHTYxm1E-Hx5g/s320/hospede.png" width="320" height="310" data-original-width="538" data-original-height="521" /></a></div>

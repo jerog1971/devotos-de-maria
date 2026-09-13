@@ -1,7 +1,7 @@
 ---
 title: "Mulher para você é o que?"
 date: 2018-07-11T16:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ1v_WmmmsFiIE1abQfrgsNaMz0Egkj-kCY9x3XzYCdBj-m72dyUNXThav_lP_4f2wpi1qZP_rpoFJ8AviZNCbjBZ-fbrYH8OiGttAMXUzF4fl23LD9FQjwWYIvWfgjZsbAGq0GIcecgs/s320/trepadeira.png"
+heroImage: "/images/trepadeira.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ1v_WmmmsFiIE1abQfrgsNaMz0Egkj-kCY9x3XzYCdBj-m72dyUNXThav_lP_4f2wpi1qZP_rpoFJ8AviZNCbjBZ-fbrYH8OiGttAMXUzF4fl23LD9FQjwWYIvWfgjZsbAGq0GIcecgs/s1600/trepadeira.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ1v_WmmmsFiIE1abQfrgsNaMz0Egkj-kCY9x3XzYCdBj-m72dyUNXThav_lP_4f2wpi1qZP_rpoFJ8AviZNCbjBZ-fbrYH8OiGttAMXUzF4fl23LD9FQjwWYIvWfgjZsbAGq0GIcecgs/s320/trepadeira.png" width="310" height="320" data-original-width="242" data-original-height="250" /></a></div>

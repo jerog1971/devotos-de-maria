@@ -1,7 +1,7 @@
 ---
 title: "Por que cremos no que não vemos?"
 date: 2017-09-05T20:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYtm97_D1RiqV74xPchTcP7GXOHU9MYEfgnFKQ5tks6F57nDL1tM4wcZxLryh1bEa58pELlQ9i6kRCzDsbZvIAlawrgIUC9EVT-4EZF2iQX8BibGm5dXm-cTQ9ILJMMucDsmpzHUugLeo/s320/crer.png"
+heroImage: "/images/crer.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYtm97_D1RiqV74xPchTcP7GXOHU9MYEfgnFKQ5tks6F57nDL1tM4wcZxLryh1bEa58pELlQ9i6kRCzDsbZvIAlawrgIUC9EVT-4EZF2iQX8BibGm5dXm-cTQ9ILJMMucDsmpzHUugLeo/s1600/crer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYtm97_D1RiqV74xPchTcP7GXOHU9MYEfgnFKQ5tks6F57nDL1tM4wcZxLryh1bEa58pELlQ9i6kRCzDsbZvIAlawrgIUC9EVT-4EZF2iQX8BibGm5dXm-cTQ9ILJMMucDsmpzHUugLeo/s320/crer.png" width="320" height="306" data-original-width="544" data-original-height="521" /></a></div>

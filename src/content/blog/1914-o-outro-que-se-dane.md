@@ -1,7 +1,7 @@
 ---
 title: "O outro que se dane"
 date: 2019-04-05T19:53:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaBuy_J-K3ipKpRJX68MhQa9WdntNIysDPQJdpRDzhiOV5yQ8rt7H9IC5NIQhPmIFotC9ImDLrnDrkhD-yhshwApF5J90N1l1zppNLtY2xROn6L75QKp4I1A_pL6k8bm2jyTmNdYv7K6c/s320/egoismo.jpg"
+heroImage: "/images/egoismo.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaBuy_J-K3ipKpRJX68MhQa9WdntNIysDPQJdpRDzhiOV5yQ8rt7H9IC5NIQhPmIFotC9ImDLrnDrkhD-yhshwApF5J90N1l1zppNLtY2xROn6L75QKp4I1A_pL6k8bm2jyTmNdYv7K6c/s1600/egoismo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaBuy_J-K3ipKpRJX68MhQa9WdntNIysDPQJdpRDzhiOV5yQ8rt7H9IC5NIQhPmIFotC9ImDLrnDrkhD-yhshwApF5J90N1l1zppNLtY2xROn6L75QKp4I1A_pL6k8bm2jyTmNdYv7K6c/s320/egoismo.jpg" width="320" height="240" data-original-width="1600" data-original-height="1200" /></a></div>

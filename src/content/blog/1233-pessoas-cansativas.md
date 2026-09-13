@@ -1,7 +1,7 @@
 ---
 title: "Pessoas cansativas"
 date: 2022-09-11T00:51:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vnmGluX8WMg-DCFllUBrTipJPxktp0HWLkNDYzi1xM2ezGkTit9Ino886Zyq4s0yhlaIUakErYEm2TxBZPveyYl7JXETwYlvO_mBjWcCZZllV8-bXmi5o1gFU1PFfvSAL5pr3qum1Ar3cMPTw0ikNAgBDo7e6w94xMeL4Wy8NPF7Tx9d_jXyZl6F/s320/pessoas%20cansativas.png"
+heroImage: "/images/pessoas cansativas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vnmGluX8WMg-DCFllUBrTipJPxktp0HWLkNDYzi1xM2ezGkTit9Ino886Zyq4s0yhlaIUakErYEm2TxBZPveyYl7JXETwYlvO_mBjWcCZZllV8-bXmi5o1gFU1PFfvSAL5pr3qum1Ar3cMPTw0ikNAgBDo7e6w94xMeL4Wy8NPF7Tx9d_jXyZl6F/s334/pessoas%20cansativas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="334" height="280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vnmGluX8WMg-DCFllUBrTipJPxktp0HWLkNDYzi1xM2ezGkTit9Ino886Zyq4s0yhlaIUakErYEm2TxBZPveyYl7JXETwYlvO_mBjWcCZZllV8-bXmi5o1gFU1PFfvSAL5pr3qum1Ar3cMPTw0ikNAgBDo7e6w94xMeL4Wy8NPF7Tx9d_jXyZl6F/s320/pessoas%20cansativas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em nossas vidas, no decorrer da caminhada, vamos conhecendo

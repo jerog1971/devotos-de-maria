@@ -1,7 +1,7 @@
 ---
 title: "Rezar com calma"
 date: 2021-04-12T18:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPfeHbKk0x945sMNNiEIfD2ERRUifKxjnsq4KMnamsMRYPdLSxRG4s-i0byX7aNcndZm_cjX_-3J5cpWIargN0JHeMXosmKTM1HdAAcKiPgO1aZyktO6I8GqBjPh-wO9mjZYyCAUExg2E/s0/exame.png"
+heroImage: "/images/exame.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPfeHbKk0x945sMNNiEIfD2ERRUifKxjnsq4KMnamsMRYPdLSxRG4s-i0byX7aNcndZm_cjX_-3J5cpWIargN0JHeMXosmKTM1HdAAcKiPgO1aZyktO6I8GqBjPh-wO9mjZYyCAUExg2E/s316/exame.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPfeHbKk0x945sMNNiEIfD2ERRUifKxjnsq4KMnamsMRYPdLSxRG4s-i0byX7aNcndZm_cjX_-3J5cpWIargN0JHeMXosmKTM1HdAAcKiPgO1aZyktO6I8GqBjPh-wO9mjZYyCAUExg2E/s0/exame.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Santa Teresa de Jesus dizia que: “não chamo oração mexer com

@@ -1,7 +1,7 @@
 ---
 title: "Pedofilia é ausência de Deus"
 date: 2019-04-12T15:07:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg02Ov6BApuQbil-HjAdUdYrY-1MDOBeOD6nGsXNwNiaHvVtHeUSsQYx5JCeoWh-NfjjlGNyHT1LOL-1uMmHlqmuf7Mb_cgyORrgupDEtyn4g-eKfe5q60NcAqIQvAC6_3saar0oNx2VGI/s320/Bento_XVI.png"
+heroImage: "/images/Bento_XVI.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg02Ov6BApuQbil-HjAdUdYrY-1MDOBeOD6nGsXNwNiaHvVtHeUSsQYx5JCeoWh-NfjjlGNyHT1LOL-1uMmHlqmuf7Mb_cgyORrgupDEtyn4g-eKfe5q60NcAqIQvAC6_3saar0oNx2VGI/s1600/Bento_XVI.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg02Ov6BApuQbil-HjAdUdYrY-1MDOBeOD6nGsXNwNiaHvVtHeUSsQYx5JCeoWh-NfjjlGNyHT1LOL-1uMmHlqmuf7Mb_cgyORrgupDEtyn4g-eKfe5q60NcAqIQvAC6_3saar0oNx2VGI/s320/Bento_XVI.png" width="320" height="312" data-original-width="460" data-original-height="449" /></a></div>

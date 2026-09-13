@@ -1,7 +1,7 @@
 ---
 title: "Padre Francês é degolado durante a Santa Missa"
 date: 2016-07-29T15:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoI-SCjAm1iWe98SGA-Xv8XXmfLrmSLY6gaDR_-RR04QBKyXhsgobP2wgTzgdNGX2PwOATdkJJFi2qqxLwd-mezDTV1deUwgrKVyFr69ffqubJcQ9tl5du8S52zObAl3_xiPg6bobIEc/s320/padre_jacques_hamel.png"
+heroImage: "/images/padre_jacques_hamel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoI-SCjAm1iWe98SGA-Xv8XXmfLrmSLY6gaDR_-RR04QBKyXhsgobP2wgTzgdNGX2PwOATdkJJFi2qqxLwd-mezDTV1deUwgrKVyFr69ffqubJcQ9tl5du8S52zObAl3_xiPg6bobIEc/s1600/padre_jacques_hamel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoI-SCjAm1iWe98SGA-Xv8XXmfLrmSLY6gaDR_-RR04QBKyXhsgobP2wgTzgdNGX2PwOATdkJJFi2qqxLwd-mezDTV1deUwgrKVyFr69ffqubJcQ9tl5du8S52zObAl3_xiPg6bobIEc/s320/padre_jacques_hamel.png" width="320" height="303" data-original-width="484" data-original-height="459" /></a></div>

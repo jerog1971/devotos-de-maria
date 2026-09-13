@@ -1,7 +1,7 @@
 ---
 title: "Tem gente que não aprende"
 date: 2018-04-18T19:56:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxwu7aZrFc4HMLOSm0XX-7y4-pPsqhaT7M9Ei0KPOp3ttheVVXYPIxqsGcRpKdNIYtGK_vuVM3GWTMUDjaurexEYG19R7GGu9hdVaESQ2eG9x2gOOW1fC6mozPZmM0FlJjwGc_KidT20/s320/vaidade.png"
+heroImage: "/images/vaidade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxwu7aZrFc4HMLOSm0XX-7y4-pPsqhaT7M9Ei0KPOp3ttheVVXYPIxqsGcRpKdNIYtGK_vuVM3GWTMUDjaurexEYG19R7GGu9hdVaESQ2eG9x2gOOW1fC6mozPZmM0FlJjwGc_KidT20/s1600/vaidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxwu7aZrFc4HMLOSm0XX-7y4-pPsqhaT7M9Ei0KPOp3ttheVVXYPIxqsGcRpKdNIYtGK_vuVM3GWTMUDjaurexEYG19R7GGu9hdVaESQ2eG9x2gOOW1fC6mozPZmM0FlJjwGc_KidT20/s320/vaidade.png" width="306" height="320" data-original-width="236" data-original-height="247" /></a></div>

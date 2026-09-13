@@ -1,7 +1,7 @@
 ---
 title: "A resposta de Maria ao pastor"
 date: 2017-05-22T13:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpKEB5z-5oiwnEodzjJd74pnUrOTS_4CPCkr2QMBP6uuFny5mOSJRzUx1donJc-iFEsFdiTKF72AKIUB_TvpYkgj6HrZSjO9eB5vImfGQmrdga5KMHB1AemaczGu_SZZEMYOydWDBA_M/s320/chutou.png"
+heroImage: "/images/chutou.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpKEB5z-5oiwnEodzjJd74pnUrOTS_4CPCkr2QMBP6uuFny5mOSJRzUx1donJc-iFEsFdiTKF72AKIUB_TvpYkgj6HrZSjO9eB5vImfGQmrdga5KMHB1AemaczGu_SZZEMYOydWDBA_M/s1600/chutou.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpKEB5z-5oiwnEodzjJd74pnUrOTS_4CPCkr2QMBP6uuFny5mOSJRzUx1donJc-iFEsFdiTKF72AKIUB_TvpYkgj6HrZSjO9eB5vImfGQmrdga5KMHB1AemaczGu_SZZEMYOydWDBA_M/s320/chutou.png" width="320" height="309" data-original-width="273" data-original-height="264" /></a></div>

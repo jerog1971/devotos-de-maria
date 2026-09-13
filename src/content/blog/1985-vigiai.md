@@ -1,7 +1,7 @@
 ---
 title: "Vigiai"
 date: 2019-09-06T16:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU_93hINB7Pwc_R8Ngg_3M6XbezbwkxJt8qKQomRfN3YDupe9A-ka174UeUVVasTX2-H5a3Gc3RuXNh1RbVOLz8U9VJSSj1n4RN9fYqQshepwCj4OSqO6pl6otFpIwo0RbNIFc9TZDsS0/s320/vigiai.png"
+heroImage: "/images/vigiai.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU_93hINB7Pwc_R8Ngg_3M6XbezbwkxJt8qKQomRfN3YDupe9A-ka174UeUVVasTX2-H5a3Gc3RuXNh1RbVOLz8U9VJSSj1n4RN9fYqQshepwCj4OSqO6pl6otFpIwo0RbNIFc9TZDsS0/s1600/vigiai.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU_93hINB7Pwc_R8Ngg_3M6XbezbwkxJt8qKQomRfN3YDupe9A-ka174UeUVVasTX2-H5a3Gc3RuXNh1RbVOLz8U9VJSSj1n4RN9fYqQshepwCj4OSqO6pl6otFpIwo0RbNIFc9TZDsS0/s320/vigiai.png" width="320" height="289" data-original-width="429" data-original-height="387" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Dedicação extrema"
 date: 2025-07-28T17:04:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWyZJ6gWqzXLWBHnhFOlV7ZXeORrmOFW9FDdKiiGP8LCyJtJc_jPZNnppuIWgljQbAzECqx34H_qR1tdAU29JbX1BPw-Q-HdacARL9j82DfzyF_pGdh1nQO20nwNlc1SpqPcqkjrSpCJivUnL87pO3CQkwtYktrrX-lK4YKgb2gQBPjASQSaVNYPWO958/s320/dedica%C3%A7%C3%B5es%20extremas.png"
+heroImage: "/images/dedicações extremas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWyZJ6gWqzXLWBHnhFOlV7ZXeORrmOFW9FDdKiiGP8LCyJtJc_jPZNnppuIWgljQbAzECqx34H_qR1tdAU29JbX1BPw-Q-HdacARL9j82DfzyF_pGdh1nQO20nwNlc1SpqPcqkjrSpCJivUnL87pO3CQkwtYktrrX-lK4YKgb2gQBPjASQSaVNYPWO958/s345/dedica%C3%A7%C3%B5es%20extremas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="345" height="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWyZJ6gWqzXLWBHnhFOlV7ZXeORrmOFW9FDdKiiGP8LCyJtJc_jPZNnppuIWgljQbAzECqx34H_qR1tdAU29JbX1BPw-Q-HdacARL9j82DfzyF_pGdh1nQO20nwNlc1SpqPcqkjrSpCJivUnL87pO3CQkwtYktrrX-lK4YKgb2gQBPjASQSaVNYPWO958/s320/dedica%C3%A7%C3%B5es%20extremas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">Sempre é bom lembrar o quanto o ser humano é capaz de se empenhar

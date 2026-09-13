@@ -1,7 +1,7 @@
 ---
 title: "Lixos do inferno"
 date: 2022-11-11T16:04:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHYU6z_x6m_ZEnRMoZWEZHBc2Jfe-S3hrAq_c3Akxk9imBCPp3BsVtR47fsXFSoflVQEtD_WtkLsQMq_7Mc4h5qnC8W2_CFDgwMNFXw8sgzOvTqHYvLSxI3JqNHIPdRAgbB0S_zjWqR_e_W0F9hTB6-bDMAwbEedTAGxPYPMOJWBXVJFr-pPtTMFJ/s320/lixos%20do%20inferno.png"
+heroImage: "/images/inferno.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHYU6z_x6m_ZEnRMoZWEZHBc2Jfe-S3hrAq_c3Akxk9imBCPp3BsVtR47fsXFSoflVQEtD_WtkLsQMq_7Mc4h5qnC8W2_CFDgwMNFXw8sgzOvTqHYvLSxI3JqNHIPdRAgbB0S_zjWqR_e_W0F9hTB6-bDMAwbEedTAGxPYPMOJWBXVJFr-pPtTMFJ/s610/lixos%20do%20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="553" data-original-width="610" height="290" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHYU6z_x6m_ZEnRMoZWEZHBc2Jfe-S3hrAq_c3Akxk9imBCPp3BsVtR47fsXFSoflVQEtD_WtkLsQMq_7Mc4h5qnC8W2_CFDgwMNFXw8sgzOvTqHYvLSxI3JqNHIPdRAgbB0S_zjWqR_e_W0F9hTB6-bDMAwbEedTAGxPYPMOJWBXVJFr-pPtTMFJ/s320/lixos%20do%20inferno.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A habilidade do demônio é tamanha que ele consegue ludibriar

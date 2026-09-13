@@ -1,7 +1,7 @@
 ---
 title: "Quem não vive os prazeres da vida, está vivendo errado!"
 date: 2019-07-01T20:21:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QAE1Hes8jc36pmFMaZ7nDJQwJ3ZkF0q3PySSj2qXMQz3sK3kxIqbFOu_4Zz1JwMRKlHVu5LAKB4cMB9vO7pCrZCf4U37PV-tD4fjiClUsrUEYM5wIm1Yf9NQrBDAT2rwZp3djVE3qyo/s320/prazeres+da+vida.png"
+heroImage: "/images/prazeres.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QAE1Hes8jc36pmFMaZ7nDJQwJ3ZkF0q3PySSj2qXMQz3sK3kxIqbFOu_4Zz1JwMRKlHVu5LAKB4cMB9vO7pCrZCf4U37PV-tD4fjiClUsrUEYM5wIm1Yf9NQrBDAT2rwZp3djVE3qyo/s1600/prazeres+da+vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QAE1Hes8jc36pmFMaZ7nDJQwJ3ZkF0q3PySSj2qXMQz3sK3kxIqbFOu_4Zz1JwMRKlHVu5LAKB4cMB9vO7pCrZCf4U37PV-tD4fjiClUsrUEYM5wIm1Yf9NQrBDAT2rwZp3djVE3qyo/s320/prazeres+da+vida.png" width="320" height="310" data-original-width="511" data-original-height="495" /></a></div>

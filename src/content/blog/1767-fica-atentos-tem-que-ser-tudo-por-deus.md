@@ -1,7 +1,7 @@
 ---
 title: "Fica atentos: tem que ser tudo por Deus"
 date: 2020-08-24T22:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XXa5w4W8AvwdLoRllZs6WSNhM1SUTKNo4iBcnbGcoS_W7JQllFE6whvJxnJwhNx1_kPCgvQRcAQXVpJnKy9zeufZ5rmaHbeW-d_W2uFn0uBpBADJHTP2C_k-Zf1VCTZexPmFK9e3RGE/w384-h512/Jefferson_1972.jpg"
+heroImage: "/images/Jefferson_1972.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XXa5w4W8AvwdLoRllZs6WSNhM1SUTKNo4iBcnbGcoS_W7JQllFE6whvJxnJwhNx1_kPCgvQRcAQXVpJnKy9zeufZ5rmaHbeW-d_W2uFn0uBpBADJHTP2C_k-Zf1VCTZexPmFK9e3RGE/s780/Jefferson_1972.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="585" height="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XXa5w4W8AvwdLoRllZs6WSNhM1SUTKNo4iBcnbGcoS_W7JQllFE6whvJxnJwhNx1_kPCgvQRcAQXVpJnKy9zeufZ5rmaHbeW-d_W2uFn0uBpBADJHTP2C_k-Zf1VCTZexPmFK9e3RGE/w384-h512/Jefferson_1972.jpg" width="384" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eclesiástico 2,11-13 – “Considerai, meus filhos, as gerações

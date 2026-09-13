@@ -1,7 +1,7 @@
 ---
 title: "Comunidades com imunidades"
 date: 2019-04-29T15:46:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilh_ac1cmyunemDgOIRTbSFf89VFCO1wlGMsfsTDDo5BkHhlSNY7JhByOfGmbEy3P9ndA6WSm_mZ_ScZjM7i67SgWw5bcQgh8C6RbXbq4UMzZTKF4VmglH2vpce6VJsLFJKPWqW0rypzw/s320/Comunidades_com_imunidades.png"
+heroImage: "/images/Comunidades_com_imunidades.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilh_ac1cmyunemDgOIRTbSFf89VFCO1wlGMsfsTDDo5BkHhlSNY7JhByOfGmbEy3P9ndA6WSm_mZ_ScZjM7i67SgWw5bcQgh8C6RbXbq4UMzZTKF4VmglH2vpce6VJsLFJKPWqW0rypzw/s1600/Comunidades_com_imunidades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilh_ac1cmyunemDgOIRTbSFf89VFCO1wlGMsfsTDDo5BkHhlSNY7JhByOfGmbEy3P9ndA6WSm_mZ_ScZjM7i67SgWw5bcQgh8C6RbXbq4UMzZTKF4VmglH2vpce6VJsLFJKPWqW0rypzw/s320/Comunidades_com_imunidades.png" width="320" height="320" data-original-width="355" data-original-height="355" /></a></div>

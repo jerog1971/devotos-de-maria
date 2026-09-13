@@ -1,7 +1,7 @@
 ---
 title: "O coração vazio"
 date: 2019-04-28T13:44:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCbQaNxF8AUkyi9hnAwDVbYmyQI16vXTS6xXsVJF6wS41J4QLF9UZaRly8gzcpjBP7edT8oK2OEKgX633vILN1PCX4lBM3F-i5LzEEOpaU6SYtIjIujkcUv8AeWOyd4bTy2kIAS38PnMg/s320/sala_vazia.jpg"
+heroImage: "/images/sala_vazia.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCbQaNxF8AUkyi9hnAwDVbYmyQI16vXTS6xXsVJF6wS41J4QLF9UZaRly8gzcpjBP7edT8oK2OEKgX633vILN1PCX4lBM3F-i5LzEEOpaU6SYtIjIujkcUv8AeWOyd4bTy2kIAS38PnMg/s1600/sala_vazia.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCbQaNxF8AUkyi9hnAwDVbYmyQI16vXTS6xXsVJF6wS41J4QLF9UZaRly8gzcpjBP7edT8oK2OEKgX633vILN1PCX4lBM3F-i5LzEEOpaU6SYtIjIujkcUv8AeWOyd4bTy2kIAS38PnMg/s320/sala_vazia.jpg" width="320" height="240" data-original-width="1306" data-original-height="980" /></a></div>

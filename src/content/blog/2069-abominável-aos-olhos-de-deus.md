@@ -1,7 +1,7 @@
 ---
 title: "Abominável aos Olhos de Deus"
 date: 2016-12-09T15:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NsgEG7phe-CTDv4tnvs7OxbJrfwr4sN58q78-OPoGnazaMEI2nsLN76QZ6ITsH9b47a4iRnYzP1CEkm-0s47BCWwZDoHe7vy5LUwlxOGGHdoT1Ys5w3YSaiY7A011bcUhWnJzKKaZbk/s320/abominavel.png"
+heroImage: "/images/abominavel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NsgEG7phe-CTDv4tnvs7OxbJrfwr4sN58q78-OPoGnazaMEI2nsLN76QZ6ITsH9b47a4iRnYzP1CEkm-0s47BCWwZDoHe7vy5LUwlxOGGHdoT1Ys5w3YSaiY7A011bcUhWnJzKKaZbk/s1600/abominavel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NsgEG7phe-CTDv4tnvs7OxbJrfwr4sN58q78-OPoGnazaMEI2nsLN76QZ6ITsH9b47a4iRnYzP1CEkm-0s47BCWwZDoHe7vy5LUwlxOGGHdoT1Ys5w3YSaiY7A011bcUhWnJzKKaZbk/s320/abominavel.png" width="317" height="320" data-original-width="220" data-original-height="222" /></a></div>

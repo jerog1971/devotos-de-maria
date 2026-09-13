@@ -1,7 +1,7 @@
 ---
 title: "O sombrio mundo virtual"
 date: 2025-05-21T17:54:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzODzCXzseK3p_0ufA89-JQDW1dkfqgex5Gkm9weAoZKqXGBPgk0mvZXH7JKHqVEzY5ZxdazylkJfMymsZDZQSAtw8auCYth5W4b4H2PLiVRj7lMC6D0KKU_i3Qz-hWMfxIN9PPfYN6guBZAnSqD-sn3hhWInpP4ICdwMSo5L1J-4e8JoI4KBuX26aIy0/s320/sombrio%20mundo%20virtual.png"
+heroImage: "/images/sombrio mundo virtual.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzODzCXzseK3p_0ufA89-JQDW1dkfqgex5Gkm9weAoZKqXGBPgk0mvZXH7JKHqVEzY5ZxdazylkJfMymsZDZQSAtw8auCYth5W4b4H2PLiVRj7lMC6D0KKU_i3Qz-hWMfxIN9PPfYN6guBZAnSqD-sn3hhWInpP4ICdwMSo5L1J-4e8JoI4KBuX26aIy0/s478/sombrio%20mundo%20virtual.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="375" data-original-width="478" height="251" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzODzCXzseK3p_0ufA89-JQDW1dkfqgex5Gkm9weAoZKqXGBPgk0mvZXH7JKHqVEzY5ZxdazylkJfMymsZDZQSAtw8auCYth5W4b4H2PLiVRj7lMC6D0KKU_i3Qz-hWMfxIN9PPfYN6guBZAnSqD-sn3hhWInpP4ICdwMSo5L1J-4e8JoI4KBuX26aIy0/s320/sombrio%20mundo%20virtual.png" width="320" /></a></div><br />&nbsp;<p></p><p style="line-height: 100%; margin-bottom: 0cm;">

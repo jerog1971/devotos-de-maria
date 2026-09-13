@@ -1,7 +1,7 @@
 ---
 title: "Não podemos ter tudo"
 date: 2020-02-20T20:18:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Q8j4M_txHU8AXhZQNzwyVMmlqLhM19XQzjM3_QJE5cO-GLDPPF9_rszVjXWpOPhJZffM-fJehBXIwwIfabyrUEqgS-YhwC4lhUi4PvClv0o174d6X-jWZTjAEwVUXru3BmhnqErVuSY/s320/casou.png"
+heroImage: "/images/casou.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Q8j4M_txHU8AXhZQNzwyVMmlqLhM19XQzjM3_QJE5cO-GLDPPF9_rszVjXWpOPhJZffM-fJehBXIwwIfabyrUEqgS-YhwC4lhUi4PvClv0o174d6X-jWZTjAEwVUXru3BmhnqErVuSY/s1600/casou.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Q8j4M_txHU8AXhZQNzwyVMmlqLhM19XQzjM3_QJE5cO-GLDPPF9_rszVjXWpOPhJZffM-fJehBXIwwIfabyrUEqgS-YhwC4lhUi4PvClv0o174d6X-jWZTjAEwVUXru3BmhnqErVuSY/s320/casou.png" width="283" height="320" data-original-width="335" data-original-height="379" /></a></div>

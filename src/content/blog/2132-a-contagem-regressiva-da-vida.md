@@ -1,7 +1,7 @@
 ---
 title: "A contagem regressiva da vida"
 date: 2018-09-27T19:52:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4LPb7zW7k6fL107Z5y9M-4pVgLU89HfBB-leqLNzpmg1BlOQs9a_ujZEbMLSQBq3T8P9nrK44Z9UCsQimMTBxCNm2K0gPHWxDfZpI5cRBlieWGKF1nMQ9WBnHGAEnoYESjUbzSMoStQ/s320/contagem_regresssiva.png"
+heroImage: "/images/contagem_regresssiva.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4LPb7zW7k6fL107Z5y9M-4pVgLU89HfBB-leqLNzpmg1BlOQs9a_ujZEbMLSQBq3T8P9nrK44Z9UCsQimMTBxCNm2K0gPHWxDfZpI5cRBlieWGKF1nMQ9WBnHGAEnoYESjUbzSMoStQ/s1600/contagem_regresssiva.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4LPb7zW7k6fL107Z5y9M-4pVgLU89HfBB-leqLNzpmg1BlOQs9a_ujZEbMLSQBq3T8P9nrK44Z9UCsQimMTBxCNm2K0gPHWxDfZpI5cRBlieWGKF1nMQ9WBnHGAEnoYESjUbzSMoStQ/s320/contagem_regresssiva.png" width="306" height="320" data-original-width="328" data-original-height="343" /></a></div>

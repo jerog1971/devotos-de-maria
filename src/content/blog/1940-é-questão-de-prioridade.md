@@ -1,7 +1,7 @@
 ---
 title: "É questão de prioridade"
 date: 2018-11-13T19:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeLOqcpBrNzWjtX-3XiBeFTlzFTdB1xHnPj9efuKzpIceJepoHKk7Cx3lBVGA7r8EQXf8LD-O-MMYe1b_wBlN7eJMQ0RkKErCMWik-tl-gyN-HmhennoNiD8PDNp63yjybAB4iFmWJK2U/s320/prioridades.png"
+heroImage: "/images/prioridades.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeLOqcpBrNzWjtX-3XiBeFTlzFTdB1xHnPj9efuKzpIceJepoHKk7Cx3lBVGA7r8EQXf8LD-O-MMYe1b_wBlN7eJMQ0RkKErCMWik-tl-gyN-HmhennoNiD8PDNp63yjybAB4iFmWJK2U/s1600/prioridades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeLOqcpBrNzWjtX-3XiBeFTlzFTdB1xHnPj9efuKzpIceJepoHKk7Cx3lBVGA7r8EQXf8LD-O-MMYe1b_wBlN7eJMQ0RkKErCMWik-tl-gyN-HmhennoNiD8PDNp63yjybAB4iFmWJK2U/s320/prioridades.png" width="290" height="320" data-original-width="541" data-original-height="597" /></a></div>

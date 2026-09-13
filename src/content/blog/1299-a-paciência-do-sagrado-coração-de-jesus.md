@@ -1,7 +1,7 @@
 ---
 title: "A paciência do Sagrado Coração de Jesus"
 date: 2016-07-18T12:30:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB3CLaqa61-hJU0r8ajGS5QbQBMLpPtnIZ5ZPwmeJcVAT2iLPGfoanauCbZnMT8sriuxVlyt5EinBeXCH-ctBDPHCCfbsatecEHX-nCSbvlSKBHrAc08rg33kxtncgoIjYnP3V_2q_V9o/s320/sagrado_cora%25C3%25A7%25C3%25A3o_de_jesus.png"
+heroImage: "/images/Jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB3CLaqa61-hJU0r8ajGS5QbQBMLpPtnIZ5ZPwmeJcVAT2iLPGfoanauCbZnMT8sriuxVlyt5EinBeXCH-ctBDPHCCfbsatecEHX-nCSbvlSKBHrAc08rg33kxtncgoIjYnP3V_2q_V9o/s1600/sagrado_cora%25C3%25A7%25C3%25A3o_de_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB3CLaqa61-hJU0r8ajGS5QbQBMLpPtnIZ5ZPwmeJcVAT2iLPGfoanauCbZnMT8sriuxVlyt5EinBeXCH-ctBDPHCCfbsatecEHX-nCSbvlSKBHrAc08rg33kxtncgoIjYnP3V_2q_V9o/s320/sagrado_cora%25C3%25A7%25C3%25A3o_de_jesus.png" width="320" height="285" data-original-width="586" data-original-height="522" /></a></div>

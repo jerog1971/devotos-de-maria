@@ -1,7 +1,7 @@
 ---
 title: "Houve tempo entre a ponte e o rio"
 date: 2016-06-27T12:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQTdwscpn5qopSVBp9hj2bt6SyNS4j6_uZgxkH-XpjCJoovJiRpfgqzM_lONiNZWYD2HKEfI2D4eQAq22Jau5munXTfSexrT4WNeWULVfle9y0l5BT5NzFT7tXB2Tk3LRuJTbN_Quc53U/s320/jessey.png"
+heroImage: "/images/jessey.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQTdwscpn5qopSVBp9hj2bt6SyNS4j6_uZgxkH-XpjCJoovJiRpfgqzM_lONiNZWYD2HKEfI2D4eQAq22Jau5munXTfSexrT4WNeWULVfle9y0l5BT5NzFT7tXB2Tk3LRuJTbN_Quc53U/s1600/jessey.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQTdwscpn5qopSVBp9hj2bt6SyNS4j6_uZgxkH-XpjCJoovJiRpfgqzM_lONiNZWYD2HKEfI2D4eQAq22Jau5munXTfSexrT4WNeWULVfle9y0l5BT5NzFT7tXB2Tk3LRuJTbN_Quc53U/s320/jessey.png" width="298" height="320" data-original-width="122" data-original-height="131" /></a></div>

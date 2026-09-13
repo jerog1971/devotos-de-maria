@@ -1,7 +1,7 @@
 ---
 title: "O que é bonito é para se mostrar:"
 date: 2018-04-09T17:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmEhN5oP7bV2z5uG9BlQwEqR68BY69XE2S6smkxSsCSX5-7UCrZhHABSLyvbmitj8BNecI12TeJ24lLmyWsRzKuwnNVR1H1VWlQzhYNAj1f5DaDIVWO1Ca7-edWsL0pob7Gz-eXUZ6di0/s320/confessionario.png"
+heroImage: "/images/confessionario.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmEhN5oP7bV2z5uG9BlQwEqR68BY69XE2S6smkxSsCSX5-7UCrZhHABSLyvbmitj8BNecI12TeJ24lLmyWsRzKuwnNVR1H1VWlQzhYNAj1f5DaDIVWO1Ca7-edWsL0pob7Gz-eXUZ6di0/s1600/confessionario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmEhN5oP7bV2z5uG9BlQwEqR68BY69XE2S6smkxSsCSX5-7UCrZhHABSLyvbmitj8BNecI12TeJ24lLmyWsRzKuwnNVR1H1VWlQzhYNAj1f5DaDIVWO1Ca7-edWsL0pob7Gz-eXUZ6di0/s320/confessionario.png" width="296" height="320" data-original-width="310" data-original-height="335" /></a></div>

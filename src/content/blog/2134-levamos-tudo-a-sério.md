@@ -1,7 +1,7 @@
 ---
 title: "Levamos tudo a sério?"
 date: 2015-12-01T12:39:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicJMu9SGBBIn_AVFjrU6BnIPktzYCE2I_mSUiqdpJS8-N2tggzi30Po59IeRBBubq0gewsRgnDaXV9Bv_nX-I6DzHLnmvD9sOrmCzMEFQ4hoYo0SD1vJkgzsQmwB7OGR14T0_Gp0LbAqQ/s320/levar_a_serio.png"
+heroImage: "/images/levar_a_serio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicJMu9SGBBIn_AVFjrU6BnIPktzYCE2I_mSUiqdpJS8-N2tggzi30Po59IeRBBubq0gewsRgnDaXV9Bv_nX-I6DzHLnmvD9sOrmCzMEFQ4hoYo0SD1vJkgzsQmwB7OGR14T0_Gp0LbAqQ/s1600/levar_a_serio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicJMu9SGBBIn_AVFjrU6BnIPktzYCE2I_mSUiqdpJS8-N2tggzi30Po59IeRBBubq0gewsRgnDaXV9Bv_nX-I6DzHLnmvD9sOrmCzMEFQ4hoYo0SD1vJkgzsQmwB7OGR14T0_Gp0LbAqQ/s320/levar_a_serio.png" width="320" height="301" data-original-width="442" data-original-height="416" /></a></div>

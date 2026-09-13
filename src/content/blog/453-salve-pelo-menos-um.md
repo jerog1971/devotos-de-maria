@@ -1,7 +1,7 @@
 ---
 title: "Salve pelo menos um"
 date: 2019-04-11T20:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAdtamHVRTo3Ev8kC_aVZ4U3Pckh1f6OJam0K0pPHFOG9Cxp9gyriuW_a0aVs-8YoqsFRa1S2m3dXoAgODdgdGUz6wyslDfpmybCl_758GEj6yY6wd9GHaty9mrHkqgwI9OSEBIB-3vw/s320/salve_uma_pessoa.png"
+heroImage: "/images/salve_uma_pessoa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAdtamHVRTo3Ev8kC_aVZ4U3Pckh1f6OJam0K0pPHFOG9Cxp9gyriuW_a0aVs-8YoqsFRa1S2m3dXoAgODdgdGUz6wyslDfpmybCl_758GEj6yY6wd9GHaty9mrHkqgwI9OSEBIB-3vw/s1600/salve_uma_pessoa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAdtamHVRTo3Ev8kC_aVZ4U3Pckh1f6OJam0K0pPHFOG9Cxp9gyriuW_a0aVs-8YoqsFRa1S2m3dXoAgODdgdGUz6wyslDfpmybCl_758GEj6yY6wd9GHaty9mrHkqgwI9OSEBIB-3vw/s320/salve_uma_pessoa.png" width="320" height="288" data-original-width="533" data-original-height="480" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O abraço do inferno"
 date: 2022-09-15T21:03:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglA2tf4TDgUdUIOcR4ZUGls28otMW713yBkJajKOZeHNkQ9iMprLFM5Lc8RGiUz7B4XOaP9-Lhh9P6zqmtGTYncMEurE1XFrfdZYy6-XHWedOz3SbKZZPNdKsa_8kQIGT27wSyjgVIiNHamrAwcp0qpMTuwzymKqXAbBeymF8gRV7Krq2fnatKVJf/s320/o%20abra%C3%A7o%20do%20inferno.png"
+heroImage: "/images/abraço.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglA2tf4TDgUdUIOcR4ZUGls28otMW713yBkJajKOZeHNkQ9iMprLFM5Lc8RGiUz7B4XOaP9-Lhh9P6zqmtGTYncMEurE1XFrfdZYy6-XHWedOz3SbKZZPNdKsa_8kQIGT27wSyjgVIiNHamrAwcp0qpMTuwzymKqXAbBeymF8gRV7Krq2fnatKVJf/s552/o%20abra%C3%A7o%20do%20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="552" data-original-width="501" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglA2tf4TDgUdUIOcR4ZUGls28otMW713yBkJajKOZeHNkQ9iMprLFM5Lc8RGiUz7B4XOaP9-Lhh9P6zqmtGTYncMEurE1XFrfdZYy6-XHWedOz3SbKZZPNdKsa_8kQIGT27wSyjgVIiNHamrAwcp0qpMTuwzymKqXAbBeymF8gRV7Krq2fnatKVJf/s320/o%20abra%C3%A7o%20do%20inferno.png" width="290" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabe-se que o inferno é um lugar terrível e de sofrimentos

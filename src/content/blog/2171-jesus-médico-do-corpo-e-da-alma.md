@@ -1,7 +1,7 @@
 ---
 title: "Jesus, médico do corpo e da alma"
 date: 2022-06-01T15:29:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJYRjTrBxQMUsHbzYxLzHMkTWTt48vUBIE9d5wqmoOmc14EG1asYA3mBUkeT8EYUK0jcR3Td2xHinl2p7zEwsrO3Psdo3Xaso69Jxa8GSXnn8flE6sLXG46yP2_c-eHY2SIlf3xbGdhtMVijxBbojK_oOa1zhkpMdbrj8g2XyXIdK22FtmIhAWHzqQ/s320/serm%C3%A3o.png"
+heroImage: "/images/sermão.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJYRjTrBxQMUsHbzYxLzHMkTWTt48vUBIE9d5wqmoOmc14EG1asYA3mBUkeT8EYUK0jcR3Td2xHinl2p7zEwsrO3Psdo3Xaso69Jxa8GSXnn8flE6sLXG46yP2_c-eHY2SIlf3xbGdhtMVijxBbojK_oOa1zhkpMdbrj8g2XyXIdK22FtmIhAWHzqQ/s553/serm%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJYRjTrBxQMUsHbzYxLzHMkTWTt48vUBIE9d5wqmoOmc14EG1asYA3mBUkeT8EYUK0jcR3Td2xHinl2p7zEwsrO3Psdo3Xaso69Jxa8GSXnn8flE6sLXG46yP2_c-eHY2SIlf3xbGdhtMVijxBbojK_oOa1zhkpMdbrj8g2XyXIdK22FtmIhAWHzqQ/s320/serm%C3%A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma leitura atenta ao evangelho trás, além de grandes e duras

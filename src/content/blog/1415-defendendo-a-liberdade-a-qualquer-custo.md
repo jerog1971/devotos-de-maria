@@ -1,7 +1,7 @@
 ---
 title: "Defendendo a liberdade a qualquer custo"
 date: 2018-02-21T20:58:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyw9tkV11-kgrkMeSzCZj6pG8LhJdYAUssYVOqy5U6pT7p6GjC_J482r-1dxCep8ZAZ2r9iB_GzS_o4rGtzqG3WpRQ7rfIA0vjTlKMnf7jtJHUGb5EIkzDcw90PERT92ZA6Tfs1NEfS5o/s320/defender.png"
+heroImage: "/images/defender.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyw9tkV11-kgrkMeSzCZj6pG8LhJdYAUssYVOqy5U6pT7p6GjC_J482r-1dxCep8ZAZ2r9iB_GzS_o4rGtzqG3WpRQ7rfIA0vjTlKMnf7jtJHUGb5EIkzDcw90PERT92ZA6Tfs1NEfS5o/s1600/defender.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyw9tkV11-kgrkMeSzCZj6pG8LhJdYAUssYVOqy5U6pT7p6GjC_J482r-1dxCep8ZAZ2r9iB_GzS_o4rGtzqG3WpRQ7rfIA0vjTlKMnf7jtJHUGb5EIkzDcw90PERT92ZA6Tfs1NEfS5o/s320/defender.png" width="320" height="251" data-original-width="394" data-original-height="309" /></a></div>

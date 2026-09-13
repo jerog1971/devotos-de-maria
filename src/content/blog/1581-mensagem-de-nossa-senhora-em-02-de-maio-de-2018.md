@@ -1,7 +1,7 @@
 ---
 title: "Mensagem de Nossa Senhora em 02 de maio de 2018"
 date: 2018-05-02T16:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2djNQ8t-lpHqmO43LsMuQ4m-zMSZ2qRrSg_mlSjIAagjpzaKosVm9W2fxx4mXQIxnlMrTp5WLa7ERDIs_vEWLIKEPiXttVHsTfsw6vJvIdRBeUssPzy3xz9OhlCE51TdgogyWbmVOGbg/s320/mirjana_medjugorje_02_05_2018.png"
+heroImage: "/images/mirjana_medjugorje_02_05_2018.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2djNQ8t-lpHqmO43LsMuQ4m-zMSZ2qRrSg_mlSjIAagjpzaKosVm9W2fxx4mXQIxnlMrTp5WLa7ERDIs_vEWLIKEPiXttVHsTfsw6vJvIdRBeUssPzy3xz9OhlCE51TdgogyWbmVOGbg/s1600/mirjana_medjugorje_02_05_2018.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2djNQ8t-lpHqmO43LsMuQ4m-zMSZ2qRrSg_mlSjIAagjpzaKosVm9W2fxx4mXQIxnlMrTp5WLa7ERDIs_vEWLIKEPiXttVHsTfsw6vJvIdRBeUssPzy3xz9OhlCE51TdgogyWbmVOGbg/s320/mirjana_medjugorje_02_05_2018.png" width="292" height="320" data-original-width="197" data-original-height="216" /></a></div>

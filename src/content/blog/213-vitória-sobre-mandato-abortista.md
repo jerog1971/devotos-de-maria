@@ -1,7 +1,7 @@
 ---
 title: "Vitória sobre mandato abortista"
 date: 2016-08-23T11:39:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbjbRHcY10ppPNXA-qSsTI3bs9XY3hjnED9R3q8DZGrmLYV4wBl1CCBKqeJBMfY9ncubE_FikYlUTduoQfzv3J0FCb-Y6dcpdni-bfZh1tP-3hjGT82i5Ta35RTq-wcEEk0YiEyM6A6d4/s320/freiras.png"
+heroImage: "/images/freiras.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbjbRHcY10ppPNXA-qSsTI3bs9XY3hjnED9R3q8DZGrmLYV4wBl1CCBKqeJBMfY9ncubE_FikYlUTduoQfzv3J0FCb-Y6dcpdni-bfZh1tP-3hjGT82i5Ta35RTq-wcEEk0YiEyM6A6d4/s1600/freiras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbjbRHcY10ppPNXA-qSsTI3bs9XY3hjnED9R3q8DZGrmLYV4wBl1CCBKqeJBMfY9ncubE_FikYlUTduoQfzv3J0FCb-Y6dcpdni-bfZh1tP-3hjGT82i5Ta35RTq-wcEEk0YiEyM6A6d4/s320/freiras.png" width="320" height="269" data-original-width="262" data-original-height="220" /></a></div>

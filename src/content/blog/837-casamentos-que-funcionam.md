@@ -1,7 +1,7 @@
 ---
 title: "Casamentos que funcionam"
 date: 2021-09-10T01:02:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinKPQtcXL8pJHVCOJZOpuc2_3k4iw6dOKQDvsHb_X53KdjMeVljP-DZCxiJKE6eYWaGN_2d4HTthqQIhtAskVFKC_Zu5eeYe14FMf1WxW4HV_vOMlbSncsPCuNT3jq3mjqiNuNVa7e-k8/s0/casamentos+que+funcionam.png"
+heroImage: "/images/casamento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinKPQtcXL8pJHVCOJZOpuc2_3k4iw6dOKQDvsHb_X53KdjMeVljP-DZCxiJKE6eYWaGN_2d4HTthqQIhtAskVFKC_Zu5eeYe14FMf1WxW4HV_vOMlbSncsPCuNT3jq3mjqiNuNVa7e-k8/s291/casamentos+que+funcionam.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="259" height="291" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinKPQtcXL8pJHVCOJZOpuc2_3k4iw6dOKQDvsHb_X53KdjMeVljP-DZCxiJKE6eYWaGN_2d4HTthqQIhtAskVFKC_Zu5eeYe14FMf1WxW4HV_vOMlbSncsPCuNT3jq3mjqiNuNVa7e-k8/s0/casamentos+que+funcionam.png" width="259" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, em tempos atuais, e quem sabe não tão atuais

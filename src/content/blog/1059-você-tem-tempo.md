@@ -1,7 +1,7 @@
 ---
 title: "Você tem tempo?"
 date: 2024-06-28T21:49:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFwfIZwBnIz9UD4aJgIYlCzFYvHIO06DkSXl53jATkz_XQWn2beCF6a7mFKt3zN_XkkhzP7ri99c8UIhG5RUzYch3xW4-4KgfCm-gAhN3Y9xPe6D8xh1MmyW2MfZZ0npUsN-OSKiWYpU9lDyVmpouOOjBk5i__EDSk7H9gD1IU4w51YzPOgv7j930VM7g/s320/voc%C3%AA%20tem%20tempo.png"
+heroImage: "/images/tempo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFwfIZwBnIz9UD4aJgIYlCzFYvHIO06DkSXl53jATkz_XQWn2beCF6a7mFKt3zN_XkkhzP7ri99c8UIhG5RUzYch3xW4-4KgfCm-gAhN3Y9xPe6D8xh1MmyW2MfZZ0npUsN-OSKiWYpU9lDyVmpouOOjBk5i__EDSk7H9gD1IU4w51YzPOgv7j930VM7g/s536/voc%C3%AA%20tem%20tempo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="496" data-original-width="536" height="296" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFwfIZwBnIz9UD4aJgIYlCzFYvHIO06DkSXl53jATkz_XQWn2beCF6a7mFKt3zN_XkkhzP7ri99c8UIhG5RUzYch3xW4-4KgfCm-gAhN3Y9xPe6D8xh1MmyW2MfZZ0npUsN-OSKiWYpU9lDyVmpouOOjBk5i__EDSk7H9gD1IU4w51YzPOgv7j930VM7g/s320/voc%C3%AA%20tem%20tempo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certo dia me perguntaram se, caso eu tivesse tempo, se poderia

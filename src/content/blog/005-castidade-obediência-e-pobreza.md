@@ -1,7 +1,7 @@
 ---
 title: "Castidade, Obediência e Pobreza"
 date: 2017-02-08T15:51:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN-HriSO6NqjNbgU5-Hax4tzCzMu_Zw9F7p-D46XjM5PlR6F4HADOWQG6CisO91rBXv6YBgVyAsbLTQFe1rOeiDylRU6Sb4hoTl1K7ibg2EabOekK7SvWMn0RoJK9_y49xltOpnnfI-H4/s320/obediencia.png"
+heroImage: "/images/obediencia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN-HriSO6NqjNbgU5-Hax4tzCzMu_Zw9F7p-D46XjM5PlR6F4HADOWQG6CisO91rBXv6YBgVyAsbLTQFe1rOeiDylRU6Sb4hoTl1K7ibg2EabOekK7SvWMn0RoJK9_y49xltOpnnfI-H4/s1600/obediencia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN-HriSO6NqjNbgU5-Hax4tzCzMu_Zw9F7p-D46XjM5PlR6F4HADOWQG6CisO91rBXv6YBgVyAsbLTQFe1rOeiDylRU6Sb4hoTl1K7ibg2EabOekK7SvWMn0RoJK9_y49xltOpnnfI-H4/s320/obediencia.png" width="320" height="302" data-original-width="363" data-original-height="343" /></a></div>

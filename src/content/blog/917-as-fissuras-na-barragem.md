@@ -1,7 +1,7 @@
 ---
 title: "As fissuras na barragem"
 date: 2024-05-27T19:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfvceAwScVTVE2kl2hgHCKWlyltIZ-UIMu5T7XvXHoKUpHDwUxKEtE8xGxrecV5sg57n_3V_xzHHBSC8vNIkkDGt1uKjJxKoVBnRh8NF9GOvZ6TsMzlYBRKoKNWxouqIi6tjyyGgIIgZuLcqoskWfYHXiUy25qi_c22jnUFyX7un0iy1O0vQl17uJyX-g/s320/As%20fissuras%20na%20barragem.png"
+heroImage: "/images/As fissuras na barragem.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfvceAwScVTVE2kl2hgHCKWlyltIZ-UIMu5T7XvXHoKUpHDwUxKEtE8xGxrecV5sg57n_3V_xzHHBSC8vNIkkDGt1uKjJxKoVBnRh8NF9GOvZ6TsMzlYBRKoKNWxouqIi6tjyyGgIIgZuLcqoskWfYHXiUy25qi_c22jnUFyX7un0iy1O0vQl17uJyX-g/s498/As%20fissuras%20na%20barragem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="314" data-original-width="498" height="202" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfvceAwScVTVE2kl2hgHCKWlyltIZ-UIMu5T7XvXHoKUpHDwUxKEtE8xGxrecV5sg57n_3V_xzHHBSC8vNIkkDGt1uKjJxKoVBnRh8NF9GOvZ6TsMzlYBRKoKNWxouqIi6tjyyGgIIgZuLcqoskWfYHXiUy25qi_c22jnUFyX7un0iy1O0vQl17uJyX-g/s320/As%20fissuras%20na%20barragem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Revoluções são como rompimentos de barragens. Em vez de um

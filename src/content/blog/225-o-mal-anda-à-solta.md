@@ -1,7 +1,7 @@
 ---
 title: "O mal anda à solta"
 date: 2019-03-13T16:33:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhArx54atwccURjLED8DbKzUqEhlLr3vF8IASdGt8vhOKbjx0HB4cwa2rCa9IUQioZ7__O2EKC-kaJrim_zjzUf4k9DtNcS3cEdWFVURHXgOeVaXuPDl7-M_ZQCZ70whQJROGC3h0_tgTw/s320/atentado_em_escola.png"
+heroImage: "/images/atentado_em_escola.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhArx54atwccURjLED8DbKzUqEhlLr3vF8IASdGt8vhOKbjx0HB4cwa2rCa9IUQioZ7__O2EKC-kaJrim_zjzUf4k9DtNcS3cEdWFVURHXgOeVaXuPDl7-M_ZQCZ70whQJROGC3h0_tgTw/s1600/atentado_em_escola.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhArx54atwccURjLED8DbKzUqEhlLr3vF8IASdGt8vhOKbjx0HB4cwa2rCa9IUQioZ7__O2EKC-kaJrim_zjzUf4k9DtNcS3cEdWFVURHXgOeVaXuPDl7-M_ZQCZ70whQJROGC3h0_tgTw/s320/atentado_em_escola.png" width="320" height="251" data-original-width="567" data-original-height="444" /></a></div>

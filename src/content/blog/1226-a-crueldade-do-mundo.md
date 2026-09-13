@@ -1,7 +1,7 @@
 ---
 title: "A crueldade do mundo"
 date: 2017-05-16T17:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwcHnzKhrtt8oRME41bcFSsPqadzYREaSoriFZ6rYEui61phek6g0CZ28Eqbp8oL_eVpPEue81n17LcI8axHHLy2c2hs3kguttu0qO1j6KlApIYf1fW56hq9ZcaoNxad2E_9xgbiYmrqo/s320/cruel.png"
+heroImage: "/images/cruel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwcHnzKhrtt8oRME41bcFSsPqadzYREaSoriFZ6rYEui61phek6g0CZ28Eqbp8oL_eVpPEue81n17LcI8axHHLy2c2hs3kguttu0qO1j6KlApIYf1fW56hq9ZcaoNxad2E_9xgbiYmrqo/s1600/cruel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwcHnzKhrtt8oRME41bcFSsPqadzYREaSoriFZ6rYEui61phek6g0CZ28Eqbp8oL_eVpPEue81n17LcI8axHHLy2c2hs3kguttu0qO1j6KlApIYf1fW56hq9ZcaoNxad2E_9xgbiYmrqo/s320/cruel.png" width="320" height="313" data-original-width="269" data-original-height="263" /></a></div>

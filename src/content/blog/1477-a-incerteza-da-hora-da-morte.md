@@ -1,7 +1,7 @@
 ---
 title: "A incerteza da hora da morte"
 date: 2020-03-30T15:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihczIW0EWHX9W9nAnTiEhKFEGmtotdbIF7P4fQwg55tag5QTQS2iR83pMjrY_ddcVq-EVzq80hYZPdYq-wSeu6Z76re5WIQT7j2FPiDGVN3Tzh2TvRNDg_ldtnCfCLV_EPMQ6LxZP7Dzo/s320/incerteza_da_morte.png"
+heroImage: "/images/incerteza_da_morte.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihczIW0EWHX9W9nAnTiEhKFEGmtotdbIF7P4fQwg55tag5QTQS2iR83pMjrY_ddcVq-EVzq80hYZPdYq-wSeu6Z76re5WIQT7j2FPiDGVN3Tzh2TvRNDg_ldtnCfCLV_EPMQ6LxZP7Dzo/s1600/incerteza_da_morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihczIW0EWHX9W9nAnTiEhKFEGmtotdbIF7P4fQwg55tag5QTQS2iR83pMjrY_ddcVq-EVzq80hYZPdYq-wSeu6Z76re5WIQT7j2FPiDGVN3Tzh2TvRNDg_ldtnCfCLV_EPMQ6LxZP7Dzo/s320/incerteza_da_morte.png" width="320" height="266" data-original-width="429" data-original-height="357" /></a></div>

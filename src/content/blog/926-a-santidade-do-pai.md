@@ -1,7 +1,7 @@
 ---
 title: "A santidade do pai"
 date: 2016-07-15T19:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8pn4ZDpOf2tjI-gAGdZi-QXW012n3h7HXH6tfxKQOwOWRAO0Miqv0Mti1WxBrsaCSfVy1Itb0iQJRZiPk9YpIpF4R0eM0xxIpjpWl4ZYmZA-I5uLMI9ffREuhYVgPr9XqS3DrNTadFWg/s320/santidade_do_pai.png"
+heroImage: "/images/santidade_do_pai.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8pn4ZDpOf2tjI-gAGdZi-QXW012n3h7HXH6tfxKQOwOWRAO0Miqv0Mti1WxBrsaCSfVy1Itb0iQJRZiPk9YpIpF4R0eM0xxIpjpWl4ZYmZA-I5uLMI9ffREuhYVgPr9XqS3DrNTadFWg/s1600/santidade_do_pai.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8pn4ZDpOf2tjI-gAGdZi-QXW012n3h7HXH6tfxKQOwOWRAO0Miqv0Mti1WxBrsaCSfVy1Itb0iQJRZiPk9YpIpF4R0eM0xxIpjpWl4ZYmZA-I5uLMI9ffREuhYVgPr9XqS3DrNTadFWg/s320/santidade_do_pai.png" width="317" height="320" data-original-width="397" data-original-height="401" /></a></div>

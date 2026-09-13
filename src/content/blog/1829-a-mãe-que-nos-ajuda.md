@@ -1,7 +1,7 @@
 ---
 title: "A mãe que nos ajuda"
 date: 2022-05-27T19:04:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqEbNljm_HQoTB991hhbBSVil5FUjE8vTU6ZpjiqAnXH5Bf2giRW97pXsUX-hwm4B5K4pJyfW3Wr7h0Goi-BBKy4ODCwuo1hScnKpIgrn3f170jHeWK33BbYRFhgr34tQ0mXd4IhGPPB8P4xOVkazI-th78YGzb0acc80R0yBSc-hTRaDO7WojbZmd/s320/Nossa%20Senhora%20Ajuda%20dos%20Crist%C3%A3os.png"
+heroImage: "/images/Nossa Senhora Ajuda dos Cristãos.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqEbNljm_HQoTB991hhbBSVil5FUjE8vTU6ZpjiqAnXH5Bf2giRW97pXsUX-hwm4B5K4pJyfW3Wr7h0Goi-BBKy4ODCwuo1hScnKpIgrn3f170jHeWK33BbYRFhgr34tQ0mXd4IhGPPB8P4xOVkazI-th78YGzb0acc80R0yBSc-hTRaDO7WojbZmd/s354/Nossa%20Senhora%20Ajuda%20dos%20Crist%C3%A3os.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="354" height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqEbNljm_HQoTB991hhbBSVil5FUjE8vTU6ZpjiqAnXH5Bf2giRW97pXsUX-hwm4B5K4pJyfW3Wr7h0Goi-BBKy4ODCwuo1hScnKpIgrn3f170jHeWK33BbYRFhgr34tQ0mXd4IhGPPB8P4xOVkazI-th78YGzb0acc80R0yBSc-hTRaDO7WojbZmd/s320/Nossa%20Senhora%20Ajuda%20dos%20Crist%C3%A3os.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa Senhora Ajuda dos Cristãos! Caro leitor, já conhecia

@@ -1,7 +1,7 @@
 ---
 title: "Dependendo de Jesus"
 date: 2019-06-03T15:55:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUqdjnTO9y_A5Cf18DbfXCIg6REyh9lNYA85GmwPyzgbbAURdS4O2cB4fWrXDXwMqsTJbg55elsN11m-Kqia8vQx6ciUvyHrseISwHNv8KE-dpxE8y-SCbkGTVLUgKtP2wXGiB40KMQMM/s320/joelho_dobrado.png"
+heroImage: "/images/joelho_dobrado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUqdjnTO9y_A5Cf18DbfXCIg6REyh9lNYA85GmwPyzgbbAURdS4O2cB4fWrXDXwMqsTJbg55elsN11m-Kqia8vQx6ciUvyHrseISwHNv8KE-dpxE8y-SCbkGTVLUgKtP2wXGiB40KMQMM/s1600/joelho_dobrado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUqdjnTO9y_A5Cf18DbfXCIg6REyh9lNYA85GmwPyzgbbAURdS4O2cB4fWrXDXwMqsTJbg55elsN11m-Kqia8vQx6ciUvyHrseISwHNv8KE-dpxE8y-SCbkGTVLUgKtP2wXGiB40KMQMM/s320/joelho_dobrado.png" width="320" height="224" data-original-width="685" data-original-height="480" /></a></div>

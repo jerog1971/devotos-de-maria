@@ -1,7 +1,7 @@
 ---
 title: "O risco da queda"
 date: 2019-02-08T15:41:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoHBHP9OWmhtavLY_RBp9wrLzHAE1FscMiKtSIg9Dcaft_gVWgJO50NFpws_-9sKrVJHUTJjqEVkEmLQdPmLHMres16dHh80GTrdkpj5ujKvc23mJnwJZvezPLvB6UvvuQrGS-QSZy2Bw/s320/namorando_o_pecado.png"
+heroImage: "/images/namorando_o_pecado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoHBHP9OWmhtavLY_RBp9wrLzHAE1FscMiKtSIg9Dcaft_gVWgJO50NFpws_-9sKrVJHUTJjqEVkEmLQdPmLHMres16dHh80GTrdkpj5ujKvc23mJnwJZvezPLvB6UvvuQrGS-QSZy2Bw/s1600/namorando_o_pecado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoHBHP9OWmhtavLY_RBp9wrLzHAE1FscMiKtSIg9Dcaft_gVWgJO50NFpws_-9sKrVJHUTJjqEVkEmLQdPmLHMres16dHh80GTrdkpj5ujKvc23mJnwJZvezPLvB6UvvuQrGS-QSZy2Bw/s320/namorando_o_pecado.png" width="320" height="296" data-original-width="538" data-original-height="498" /></a></div>

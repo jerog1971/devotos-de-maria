@@ -1,7 +1,7 @@
 ---
 title: "Vidas que passam"
 date: 2020-03-09T15:57:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTocJcKb-QgQntl1CnCiCp8mKBWKdSKvZLEUWscBsQTidzwDwV-XbwekxsM4GksfjE8n-N8tUm2ECxfbqyp5kyhA7rmGGYyplY7c2c4UgMKIO3Lf6CfsY7Y4uMai3GdJfIbuBlH8jpqmQ/s320/jefferson_roger_2.png"
+heroImage: "/images/jefferson_roger_2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTocJcKb-QgQntl1CnCiCp8mKBWKdSKvZLEUWscBsQTidzwDwV-XbwekxsM4GksfjE8n-N8tUm2ECxfbqyp5kyhA7rmGGYyplY7c2c4UgMKIO3Lf6CfsY7Y4uMai3GdJfIbuBlH8jpqmQ/s1600/jefferson_roger_2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTocJcKb-QgQntl1CnCiCp8mKBWKdSKvZLEUWscBsQTidzwDwV-XbwekxsM4GksfjE8n-N8tUm2ECxfbqyp5kyhA7rmGGYyplY7c2c4UgMKIO3Lf6CfsY7Y4uMai3GdJfIbuBlH8jpqmQ/s320/jefferson_roger_2.png" width="320" height="300" data-original-width="555" data-original-height="521" /></a></div>

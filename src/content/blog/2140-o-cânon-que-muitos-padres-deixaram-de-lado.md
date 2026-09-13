@@ -1,7 +1,7 @@
 ---
 title: "O cânon que muitos padres deixaram de lado"
 date: 2020-05-26T17:41:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkeAwpGWkUHEPb92NSmqLNQ4xewrYi390NGEUbtKk5Vt7t7KauYNCl5VdyawmR_hJmnKQra9hm2xss8nsHLIGgyToXKrse3bPBIu6wfAbvb8J2hZbEIVAXHX2U91Go_tsmkQIGdPxmcfE/s320/santa_missa.png"
+heroImage: "/images/santa_missa.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkeAwpGWkUHEPb92NSmqLNQ4xewrYi390NGEUbtKk5Vt7t7KauYNCl5VdyawmR_hJmnKQra9hm2xss8nsHLIGgyToXKrse3bPBIu6wfAbvb8J2hZbEIVAXHX2U91Go_tsmkQIGdPxmcfE/" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="352" data-original-width="250" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkeAwpGWkUHEPb92NSmqLNQ4xewrYi390NGEUbtKk5Vt7t7KauYNCl5VdyawmR_hJmnKQra9hm2xss8nsHLIGgyToXKrse3bPBIu6wfAbvb8J2hZbEIVAXHX2U91Go_tsmkQIGdPxmcfE/s320/santa_missa.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Pessoal! Todo mundo sabe que a missa pertence a Nosso Senhor

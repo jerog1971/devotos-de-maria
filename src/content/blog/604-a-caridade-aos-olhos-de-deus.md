@@ -1,7 +1,7 @@
 ---
 title: "A caridade aos olhos de Deus"
 date: 2020-06-26T16:06:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8OVdrMd3iVO3AFiaTvUsSJwTVxpC6USYz3SaBBmdept3oUEWgmbERuYLUkHzd4Z0qcqNQ2aVqdL2PS1zqHL11wXNdZ2gYWztSx3zr5GNQz0QzTyIj-KMA6fDDCWNOo_K_WfiCCgPNfQ/s320/acolher.png"
+heroImage: "/images/acolher.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8OVdrMd3iVO3AFiaTvUsSJwTVxpC6USYz3SaBBmdept3oUEWgmbERuYLUkHzd4Z0qcqNQ2aVqdL2PS1zqHL11wXNdZ2gYWztSx3zr5GNQz0QzTyIj-KMA6fDDCWNOo_K_WfiCCgPNfQ/s344/acolher.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="344" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8OVdrMd3iVO3AFiaTvUsSJwTVxpC6USYz3SaBBmdept3oUEWgmbERuYLUkHzd4Z0qcqNQ2aVqdL2PS1zqHL11wXNdZ2gYWztSx3zr5GNQz0QzTyIj-KMA6fDDCWNOo_K_WfiCCgPNfQ/s320/acolher.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em várias partes do evangelho vemos Jesus exortar as pessoas

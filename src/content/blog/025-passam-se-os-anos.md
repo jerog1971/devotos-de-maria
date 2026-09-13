@@ -1,7 +1,7 @@
 ---
 title: "Passam-se os anos"
 date: 2024-03-11T19:23:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVuI3T6mw1ubllu8ogfAC7QKJYTE9RxVq2Tch1qc7jWgR7tbF-KYUABpXr57CqOHh-qOlkZ8IZETFG4uoBsn7M5ylWPLN1jiFw8kF6yAfqTOEy5WPd4anjDXow2zZmB29L7o55DcQw3eHaisGHNwXFce0rDYTlvFvS_HvtmnJRbRcWPkStGH2eruyAueM/s320/Jeff%20e%20Deb%2002.jpg"
+heroImage: "/images/Jeff e Deb 02.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVuI3T6mw1ubllu8ogfAC7QKJYTE9RxVq2Tch1qc7jWgR7tbF-KYUABpXr57CqOHh-qOlkZ8IZETFG4uoBsn7M5ylWPLN1jiFw8kF6yAfqTOEy5WPd4anjDXow2zZmB29L7o55DcQw3eHaisGHNwXFce0rDYTlvFvS_HvtmnJRbRcWPkStGH2eruyAueM/s720/Jeff%20e%20Deb%2002.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="702" data-original-width="720" height="312" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVuI3T6mw1ubllu8ogfAC7QKJYTE9RxVq2Tch1qc7jWgR7tbF-KYUABpXr57CqOHh-qOlkZ8IZETFG4uoBsn7M5ylWPLN1jiFw8kF6yAfqTOEy5WPd4anjDXow2zZmB29L7o55DcQw3eHaisGHNwXFce0rDYTlvFvS_HvtmnJRbRcWPkStGH2eruyAueM/s320/Jeff%20e%20Deb%2002.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E os tropeços, que viram e mexem, insistem em aparecer na

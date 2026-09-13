@@ -1,7 +1,7 @@
 ---
 title: "Você tem esta virtude?"
 date: 2022-10-28T17:55:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSztcDoZsYObublS1cI12nxEhBaZvm5uLczKIZTfajbQKsWWf4km6S4HoXlzNjuDVMgD-SjTGAj3Br5DKxhaNqTx3qJy1At2RsDhZEvnzeQujKqkCTXs49z0JnbjOBgVhaE5UBzOZv7fZrc4QBufcB385wV9Utej4B6rH7AH8B859DHkASg6-22BQm/s320/virtude%20da%20perseveran%C3%A7a.png"
+heroImage: "/images/virtude da perseverança.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSztcDoZsYObublS1cI12nxEhBaZvm5uLczKIZTfajbQKsWWf4km6S4HoXlzNjuDVMgD-SjTGAj3Br5DKxhaNqTx3qJy1At2RsDhZEvnzeQujKqkCTXs49z0JnbjOBgVhaE5UBzOZv7fZrc4QBufcB385wV9Utej4B6rH7AH8B859DHkASg6-22BQm/s728/virtude%20da%20perseveran%C3%A7a.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="717" data-original-width="728" height="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSztcDoZsYObublS1cI12nxEhBaZvm5uLczKIZTfajbQKsWWf4km6S4HoXlzNjuDVMgD-SjTGAj3Br5DKxhaNqTx3qJy1At2RsDhZEvnzeQujKqkCTXs49z0JnbjOBgVhaE5UBzOZv7fZrc4QBufcB385wV9Utej4B6rH7AH8B859DHkASg6-22BQm/s320/virtude%20da%20perseveran%C3%A7a.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente, as famílias tradicionais católicas, também

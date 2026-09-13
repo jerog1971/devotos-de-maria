@@ -1,7 +1,7 @@
 ---
 title: "Beata Alexandrina"
 date: 2017-08-23T18:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo9gnmc0mNF0kEgWLG1XUwAAu07qMzjHY1uxo5VfwWRMsgbIitUgrK_iWti72Qds2jk1e2h6D64EkMWUF9n-jg9e-76SpP2ik3SIIedF2sO3eRrEep1fidXgZApa8ZcXz8apMz73hXN90/s320/alexandrina2.png"
+heroImage: "/images/alexandrina2.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo9gnmc0mNF0kEgWLG1XUwAAu07qMzjHY1uxo5VfwWRMsgbIitUgrK_iWti72Qds2jk1e2h6D64EkMWUF9n-jg9e-76SpP2ik3SIIedF2sO3eRrEep1fidXgZApa8ZcXz8apMz73hXN90/s1600/alexandrina2.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo9gnmc0mNF0kEgWLG1XUwAAu07qMzjHY1uxo5VfwWRMsgbIitUgrK_iWti72Qds2jk1e2h6D64EkMWUF9n-jg9e-76SpP2ik3SIIedF2sO3eRrEep1fidXgZApa8ZcXz8apMz73hXN90/s320/alexandrina2.png" width="247" height="320" data-original-width="344" data-original-height="446" /></a></br>

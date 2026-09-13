@@ -1,7 +1,7 @@
 ---
 title: "A verdade é mais fácil de lembrar que a mentira"
 date: 2020-04-09T22:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyD8sKGgZsnDhU88sHt6VUKWdcQWwAK9B835QxOMWCHgf2rHuhAWuQmIHoWov6qeVCqcwDK7XevS8Lw9fhAFpj8UGeEWoD_GSg2iKGTciyjoECEBtZ8RHMr4gyO0UYPKql8ryNI4cKuc/s320/mentira.png"
+heroImage: "/images/mentira.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyD8sKGgZsnDhU88sHt6VUKWdcQWwAK9B835QxOMWCHgf2rHuhAWuQmIHoWov6qeVCqcwDK7XevS8Lw9fhAFpj8UGeEWoD_GSg2iKGTciyjoECEBtZ8RHMr4gyO0UYPKql8ryNI4cKuc/s1600/mentira.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="342" data-original-width="386" height="284" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyD8sKGgZsnDhU88sHt6VUKWdcQWwAK9B835QxOMWCHgf2rHuhAWuQmIHoWov6qeVCqcwDK7XevS8Lw9fhAFpj8UGeEWoD_GSg2iKGTciyjoECEBtZ8RHMr4gyO0UYPKql8ryNI4cKuc/s320/mentira.png" width="320" /></a></div>

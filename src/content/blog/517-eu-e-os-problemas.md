@@ -1,7 +1,7 @@
 ---
 title: "Eu e os problemas"
 date: 2022-05-16T16:13:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodhcOKwAZoZVqqNuyX_bDVY4jHvex026KElYfQMDAc10Fl6XtON76k4DjFBjpsaYfNvpODs-XrjHygS-RiLqxh8_E_YNaFM1t21C9pmaq2M9xcLn4fIzMcRD_djJ0FtyPNCPUZ-Qgw59eXZnBr7gOAv49AMIhrd1VVokcr_r0wNHcWUtJU9953YP-/s320/eu%20e%20os%20problemas.png"
+heroImage: "/images/eu e os problemas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodhcOKwAZoZVqqNuyX_bDVY4jHvex026KElYfQMDAc10Fl6XtON76k4DjFBjpsaYfNvpODs-XrjHygS-RiLqxh8_E_YNaFM1t21C9pmaq2M9xcLn4fIzMcRD_djJ0FtyPNCPUZ-Qgw59eXZnBr7gOAv49AMIhrd1VVokcr_r0wNHcWUtJU9953YP-/s419/eu%20e%20os%20problemas.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="419" data-original-width="416" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodhcOKwAZoZVqqNuyX_bDVY4jHvex026KElYfQMDAc10Fl6XtON76k4DjFBjpsaYfNvpODs-XrjHygS-RiLqxh8_E_YNaFM1t21C9pmaq2M9xcLn4fIzMcRD_djJ0FtyPNCPUZ-Qgw59eXZnBr7gOAv49AMIhrd1VVokcr_r0wNHcWUtJU9953YP-/s320/eu%20e%20os%20problemas.png" width="318" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Parando para pensar, me deparo com a imensidão de problemas

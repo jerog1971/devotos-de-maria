@@ -1,7 +1,7 @@
 ---
 title: "Seu copo, como está?"
 date: 2020-12-01T16:38:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQLqfNUu0xVs49uxr379Fd-rQIeKyvDevUknLFCN88t7hpFWa8aUojfQ1eG4LEXYAYs4gZ_jjCL-4CAC3gC1bYVIYtIMZtGe2VVyRVXOajBBJksHTCmbW_6duWMUmOtBBeRw5rg213fuM/s320/copo+vazio.png"
+heroImage: "/images/vazio.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQLqfNUu0xVs49uxr379Fd-rQIeKyvDevUknLFCN88t7hpFWa8aUojfQ1eG4LEXYAYs4gZ_jjCL-4CAC3gC1bYVIYtIMZtGe2VVyRVXOajBBJksHTCmbW_6duWMUmOtBBeRw5rg213fuM/s463/copo+vazio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="328" data-original-width="463" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQLqfNUu0xVs49uxr379Fd-rQIeKyvDevUknLFCN88t7hpFWa8aUojfQ1eG4LEXYAYs4gZ_jjCL-4CAC3gC1bYVIYtIMZtGe2VVyRVXOajBBJksHTCmbW_6duWMUmOtBBeRw5rg213fuM/s320/copo+vazio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se você for honesto consigo vai dizer que depende, horas

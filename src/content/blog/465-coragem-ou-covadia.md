@@ -1,7 +1,7 @@
 ---
 title: "Coragem ou covadia?"
 date: 2019-04-20T21:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGYZTBQJY3XZi28DnibPHc66S5icDW5UEXsqR-8D5nTiGCsFIeRteLATN3pAo0oRRnVtWkhdlU2w6UOxJib1leB2P63FQNM06C7hpteLInAxsya4F35nnxeWfw-sp-IH4GQgCEa5h5M4/s320/inferno.png"
+heroImage: "/images/João Bosco e o Inferno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGYZTBQJY3XZi28DnibPHc66S5icDW5UEXsqR-8D5nTiGCsFIeRteLATN3pAo0oRRnVtWkhdlU2w6UOxJib1leB2P63FQNM06C7hpteLInAxsya4F35nnxeWfw-sp-IH4GQgCEa5h5M4/s1600/inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGYZTBQJY3XZi28DnibPHc66S5icDW5UEXsqR-8D5nTiGCsFIeRteLATN3pAo0oRRnVtWkhdlU2w6UOxJib1leB2P63FQNM06C7hpteLInAxsya4F35nnxeWfw-sp-IH4GQgCEa5h5M4/s320/inferno.png" width="312" height="320" data-original-width="285" data-original-height="292" /></a></div>

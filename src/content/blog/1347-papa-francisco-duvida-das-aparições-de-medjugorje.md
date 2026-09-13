@@ -1,7 +1,7 @@
 ---
 title: "Papa Francisco duvida das aparições de Medjugorje"
 date: 2017-12-15T16:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_XrfFkAuyYDcogESunSL-tCPY_KqQgFtN7aRNms-CBbFCbDI0h9FGwglz77kCY1xdIYDcwYr9QcdSIVU8uT8T6IXLMrl4Ad6wHIiqsNaERuFbjuW3o60A9O47BcACZc_BKz1wjUUSpLQ/s320/Papa_Francisco.png"
+heroImage: "/images/Papa_Francisco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_XrfFkAuyYDcogESunSL-tCPY_KqQgFtN7aRNms-CBbFCbDI0h9FGwglz77kCY1xdIYDcwYr9QcdSIVU8uT8T6IXLMrl4Ad6wHIiqsNaERuFbjuW3o60A9O47BcACZc_BKz1wjUUSpLQ/s1600/Papa_Francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_XrfFkAuyYDcogESunSL-tCPY_KqQgFtN7aRNms-CBbFCbDI0h9FGwglz77kCY1xdIYDcwYr9QcdSIVU8uT8T6IXLMrl4Ad6wHIiqsNaERuFbjuW3o60A9O47BcACZc_BKz1wjUUSpLQ/s320/Papa_Francisco.png" width="320" height="308" data-original-width="448" data-original-height="431" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Viver como irmãos, por amor a Cristo"
 date: 2015-11-24T15:57:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPcXF0Xub2O01CE3zrHPhyphenhyphenFIqxoIKFPpVvRQygFhyphenhyphenHyWAwxKws9y4nWAO9XWXYMzR00AKXfqHrgXBlE_O29FMa2bbRPwkghKj60Hm-h2A-uxAlX-BzIiuzGVXbh4JDmmeJwy6NgvGp28Q/s320/stravinskas.png"
+heroImage: "/images/stravinskas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPcXF0Xub2O01CE3zrHPhyphenhyphenFIqxoIKFPpVvRQygFhyphenhyphenHyWAwxKws9y4nWAO9XWXYMzR00AKXfqHrgXBlE_O29FMa2bbRPwkghKj60Hm-h2A-uxAlX-BzIiuzGVXbh4JDmmeJwy6NgvGp28Q/s1600/stravinskas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPcXF0Xub2O01CE3zrHPhyphenhyphenFIqxoIKFPpVvRQygFhyphenhyphenHyWAwxKws9y4nWAO9XWXYMzR00AKXfqHrgXBlE_O29FMa2bbRPwkghKj60Hm-h2A-uxAlX-BzIiuzGVXbh4JDmmeJwy6NgvGp28Q/s320/stravinskas.png" width="320" height="199" data-original-width="799" data-original-height="496" /></a></div>

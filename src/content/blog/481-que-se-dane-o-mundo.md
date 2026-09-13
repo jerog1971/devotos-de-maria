@@ -1,7 +1,7 @@
 ---
 title: "Que se dane o mundo"
 date: 2020-03-03T16:52:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilRszsALdxuSTyF83vcwDhHp6_ctr_oVfcfTJNhlGeovbMtoSpJq9TKLWvFwbVvaTVlkxgc19y-2Yn53QS1-YA8Z3dktoBiDNciryLa9LeM6apkwur_NucfdDLHTYXja8tRdxrNar1Edc/s320/dane-se.png"
+heroImage: "/images/dane-se.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilRszsALdxuSTyF83vcwDhHp6_ctr_oVfcfTJNhlGeovbMtoSpJq9TKLWvFwbVvaTVlkxgc19y-2Yn53QS1-YA8Z3dktoBiDNciryLa9LeM6apkwur_NucfdDLHTYXja8tRdxrNar1Edc/s1600/dane-se.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="278" data-original-width="356" height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilRszsALdxuSTyF83vcwDhHp6_ctr_oVfcfTJNhlGeovbMtoSpJq9TKLWvFwbVvaTVlkxgc19y-2Yn53QS1-YA8Z3dktoBiDNciryLa9LeM6apkwur_NucfdDLHTYXja8tRdxrNar1Edc/s320/dane-se.png" width="320" /></a></div>

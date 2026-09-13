@@ -1,7 +1,7 @@
 ---
 title: "O chamado de um catequista"
 date: 2017-09-04T13:05:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8PuxyESTtveGyB_0QKgSHPW-T5W3wsS91cbYFP1oVr3XShqs3s-QHOrRb8ZgysXa3dInUVepA_a5_Gz4TvIImtpfU7PF42LFdv0uwqNLfMW7c8BqOfijEXsM-iTK488lVscjmT3DySUo/s320/mimica2.png"
+heroImage: "/images/mimica2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8PuxyESTtveGyB_0QKgSHPW-T5W3wsS91cbYFP1oVr3XShqs3s-QHOrRb8ZgysXa3dInUVepA_a5_Gz4TvIImtpfU7PF42LFdv0uwqNLfMW7c8BqOfijEXsM-iTK488lVscjmT3DySUo/s1600/mimica2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="354" data-original-width="353" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8PuxyESTtveGyB_0QKgSHPW-T5W3wsS91cbYFP1oVr3XShqs3s-QHOrRb8ZgysXa3dInUVepA_a5_Gz4TvIImtpfU7PF42LFdv0uwqNLfMW7c8BqOfijEXsM-iTK488lVscjmT3DySUo/s320/mimica2.png" width="319" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Os dons e os chamados de Deus são irrevogáveis (carta aos Romanos). Uma vez que Ele nos chama não há o que fazer, não adianta ficarmos nos esperneando como o profeta Jonas no ventre da baleia. Ou relutarmos como Moisés. Uma vez escolhidos e convocados, o chamado de Deus nos aponta para a realidade de um dom recebido para o bem comum, como aprendemos nas cartas de São Paulo.

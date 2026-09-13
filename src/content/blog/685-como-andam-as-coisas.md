@@ -1,7 +1,7 @@
 ---
 title: "Como andam as coisas?"
 date: 2017-03-17T14:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg17gBHyy_moX-439wwkJLRLBGG0SU4vyy3YEyz-GgDIZHeVM8eVOrn_7nqDQQMFv7Lqnb8fYqHqC-fB5gNm9ZFCGp2ADa1pM1FiEIB5r4RwKrfQ85cCCsAk5fgeYjIN8s_wmpC09MV5vs/s320/casal.png"
+heroImage: "/images/casal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg17gBHyy_moX-439wwkJLRLBGG0SU4vyy3YEyz-GgDIZHeVM8eVOrn_7nqDQQMFv7Lqnb8fYqHqC-fB5gNm9ZFCGp2ADa1pM1FiEIB5r4RwKrfQ85cCCsAk5fgeYjIN8s_wmpC09MV5vs/s1600/casal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg17gBHyy_moX-439wwkJLRLBGG0SU4vyy3YEyz-GgDIZHeVM8eVOrn_7nqDQQMFv7Lqnb8fYqHqC-fB5gNm9ZFCGp2ADa1pM1FiEIB5r4RwKrfQ85cCCsAk5fgeYjIN8s_wmpC09MV5vs/s320/casal.png" width="320" height="310" data-original-width="248" data-original-height="240" /></a></div>

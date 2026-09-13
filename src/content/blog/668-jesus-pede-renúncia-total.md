@@ -1,7 +1,7 @@
 ---
 title: "Jesus pede renúncia total"
 date: 2022-09-15T20:43:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSMTc2daMfLYDpJ-H73hsdT73yeHKXUq7kKhYb5WAiSS3U_HGii9E84JuFPvY1qvkKhKlem5XUudBDSTJTOIMFhs7jXveRbRdGGrSnnHGGjc4m3weM1khSTxlhSFmg5OJDnPWxCT1C9W4uYbC4P4CkHyryqY8BOuoPscilNvcZ1Gv1xSHbPOf4mlK0/w231-h226/Jesus%20pede%20ren%C3%BAncia%20total.png"
+heroImage: "/images/Jesus pede renúncia total.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSMTc2daMfLYDpJ-H73hsdT73yeHKXUq7kKhYb5WAiSS3U_HGii9E84JuFPvY1qvkKhKlem5XUudBDSTJTOIMFhs7jXveRbRdGGrSnnHGGjc4m3weM1khSTxlhSFmg5OJDnPWxCT1C9W4uYbC4P4CkHyryqY8BOuoPscilNvcZ1Gv1xSHbPOf4mlK0/s166/Jesus%20pede%20ren%C3%BAncia%20total.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="162" data-original-width="166" height="226" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSMTc2daMfLYDpJ-H73hsdT73yeHKXUq7kKhYb5WAiSS3U_HGii9E84JuFPvY1qvkKhKlem5XUudBDSTJTOIMFhs7jXveRbRdGGrSnnHGGjc4m3weM1khSTxlhSFmg5OJDnPWxCT1C9W4uYbC4P4CkHyryqY8BOuoPscilNvcZ1Gv1xSHbPOf4mlK0/w231-h226/Jesus%20pede%20ren%C3%BAncia%20total.png" width="231" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está lá em Lucas 9,23 – “quem quiser se salvar, renuncie a

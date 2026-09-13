@@ -1,7 +1,7 @@
 ---
 title: "Chegou o dia"
 date: 2024-04-15T20:13:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQltF0swAl9VwRTR-ot_tJDqBm7PTpCtuSprE98J9OfiOts0M7XnWu-5bX0-C5O_VNtr4hiNX8QR5-U1M_P_kYzHvnHERu2_QjGND25vhFx9wj4_TuaXhQWid1omxdywrgaOPwwzriR0Sm0MhpuJrJR8Nc2hwNADM6jyfXFKakW64TfW2DvbdeA1cHpzo/s320/chegou%20o%20dia.png"
+heroImage: "/images/chegou o dia.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQltF0swAl9VwRTR-ot_tJDqBm7PTpCtuSprE98J9OfiOts0M7XnWu-5bX0-C5O_VNtr4hiNX8QR5-U1M_P_kYzHvnHERu2_QjGND25vhFx9wj4_TuaXhQWid1omxdywrgaOPwwzriR0Sm0MhpuJrJR8Nc2hwNADM6jyfXFKakW64TfW2DvbdeA1cHpzo/s457/chegou%20o%20dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="457" data-original-width="452" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQltF0swAl9VwRTR-ot_tJDqBm7PTpCtuSprE98J9OfiOts0M7XnWu-5bX0-C5O_VNtr4hiNX8QR5-U1M_P_kYzHvnHERu2_QjGND25vhFx9wj4_TuaXhQWid1omxdywrgaOPwwzriR0Sm0MhpuJrJR8Nc2hwNADM6jyfXFKakW64TfW2DvbdeA1cHpzo/s320/chegou%20o%20dia.png" width="316" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Enfim, este é o artigo de número dois mil deste pequeno site

@@ -1,7 +1,7 @@
 ---
 title: "Os caminhos do abismo eterno"
 date: 2017-10-17T01:57:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcbwvM5jhBRjawKEVuKO7jP1JJ0nOM0DTZAMjZzSCquWElm7_zQlVIdNI-CSDlvwXY82DfFBJQaqjGhTm7eDBeYn2PlEdZwgyz4rGrIx0mQzn1c_0rcakoEqBofCIwVomd7nEyfqioQNc/s320/evitar_o_inferno.png"
+heroImage: "/images/evitar_o_inferno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcbwvM5jhBRjawKEVuKO7jP1JJ0nOM0DTZAMjZzSCquWElm7_zQlVIdNI-CSDlvwXY82DfFBJQaqjGhTm7eDBeYn2PlEdZwgyz4rGrIx0mQzn1c_0rcakoEqBofCIwVomd7nEyfqioQNc/s1600/evitar_o_inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcbwvM5jhBRjawKEVuKO7jP1JJ0nOM0DTZAMjZzSCquWElm7_zQlVIdNI-CSDlvwXY82DfFBJQaqjGhTm7eDBeYn2PlEdZwgyz4rGrIx0mQzn1c_0rcakoEqBofCIwVomd7nEyfqioQNc/s320/evitar_o_inferno.png" width="320" height="303" data-original-width="257" data-original-height="243" /></a></div>

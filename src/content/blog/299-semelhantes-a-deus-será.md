@@ -1,7 +1,7 @@
 ---
 title: "Semelhantes a Deus? Será?"
 date: 2016-11-21T13:35:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEI2_KXW6wQFukWWyjdQiJgNySroFiA1uEUNhLDmwOmRa9iSw0rH1FlPsBTihLPtZnKgzVOHVpoTMvm-AMBH70WNX0sElyxzi4Uzi2LLn2leIOZrhOPCMoXlF_lo82R4YPLJDnpiGPIJg/s320/semelhantes.png"
+heroImage: "/images/semelhantes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEI2_KXW6wQFukWWyjdQiJgNySroFiA1uEUNhLDmwOmRa9iSw0rH1FlPsBTihLPtZnKgzVOHVpoTMvm-AMBH70WNX0sElyxzi4Uzi2LLn2leIOZrhOPCMoXlF_lo82R4YPLJDnpiGPIJg/s1600/semelhantes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEI2_KXW6wQFukWWyjdQiJgNySroFiA1uEUNhLDmwOmRa9iSw0rH1FlPsBTihLPtZnKgzVOHVpoTMvm-AMBH70WNX0sElyxzi4Uzi2LLn2leIOZrhOPCMoXlF_lo82R4YPLJDnpiGPIJg/s320/semelhantes.png" width="320" height="320" data-original-width="351" data-original-height="351" /></a></div>

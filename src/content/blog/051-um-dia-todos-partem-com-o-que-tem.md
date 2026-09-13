@@ -1,7 +1,7 @@
 ---
 title: "Um dia todos partem com o que tem"
 date: 2018-08-13T15:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfpFNH_V7eo8Rd4qGNk7vWvC1Y4lnvxOIGrEdS4yjaimQL7lM21pdyB_ELEEbGB15WY50O6LkoJSHtfRVAOCtHDIoOK9gjKMCzCm3JLiqVf2mqBM7lcfXqUhuYhnCdQgZOTcy_INg37o/s320/partida.png"
+heroImage: "/images/partida.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfpFNH_V7eo8Rd4qGNk7vWvC1Y4lnvxOIGrEdS4yjaimQL7lM21pdyB_ELEEbGB15WY50O6LkoJSHtfRVAOCtHDIoOK9gjKMCzCm3JLiqVf2mqBM7lcfXqUhuYhnCdQgZOTcy_INg37o/s1600/partida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfpFNH_V7eo8Rd4qGNk7vWvC1Y4lnvxOIGrEdS4yjaimQL7lM21pdyB_ELEEbGB15WY50O6LkoJSHtfRVAOCtHDIoOK9gjKMCzCm3JLiqVf2mqBM7lcfXqUhuYhnCdQgZOTcy_INg37o/s320/partida.png" width="320" height="310" data-original-width="376" data-original-height="364" /></a></div>

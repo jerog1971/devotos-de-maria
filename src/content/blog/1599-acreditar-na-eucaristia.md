@@ -1,7 +1,7 @@
 ---
 title: "Acreditar na Eucaristia?"
 date: 2016-05-17T12:22:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNX6FG_dfmDN0-48VlUKplViX0yEWkiBTu6Fr3bnSgYyY8LX4GGYKvUfPLmJGyjNhd-Slgk_YTVLxJtbs9TZDuEEN73SqPmQUjlP4wJG-TB5L5EsBeLznWTFU35-6Z-bwHprhULHGwzeo/s320/eucaristia.png"
+heroImage: "/images/defesa_da_eucaristia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNX6FG_dfmDN0-48VlUKplViX0yEWkiBTu6Fr3bnSgYyY8LX4GGYKvUfPLmJGyjNhd-Slgk_YTVLxJtbs9TZDuEEN73SqPmQUjlP4wJG-TB5L5EsBeLznWTFU35-6Z-bwHprhULHGwzeo/s1600/eucaristia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNX6FG_dfmDN0-48VlUKplViX0yEWkiBTu6Fr3bnSgYyY8LX4GGYKvUfPLmJGyjNhd-Slgk_YTVLxJtbs9TZDuEEN73SqPmQUjlP4wJG-TB5L5EsBeLznWTFU35-6Z-bwHprhULHGwzeo/s320/eucaristia.png" width="320" height="281" data-original-width="375" data-original-height="329" /></a></div>

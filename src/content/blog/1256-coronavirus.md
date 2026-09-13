@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus"
 date: 2020-03-25T19:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9ZrZzgaN2ciUNTM5_1fBjydVEWkDqsKqNVhSLn5bFmIHXsC8bGaxhmy5EtmSXKtvwhj5MCaqPi90V-uH972G296WvlYvDO5DMX5vaX0-3ww65pwjCB5I_16gpyER-uYi-7FYdmMtsV4/s320/morte.png"
+heroImage: "/images/chegada_da_morte.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9ZrZzgaN2ciUNTM5_1fBjydVEWkDqsKqNVhSLn5bFmIHXsC8bGaxhmy5EtmSXKtvwhj5MCaqPi90V-uH972G296WvlYvDO5DMX5vaX0-3ww65pwjCB5I_16gpyER-uYi-7FYdmMtsV4/s1600/morte.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9ZrZzgaN2ciUNTM5_1fBjydVEWkDqsKqNVhSLn5bFmIHXsC8bGaxhmy5EtmSXKtvwhj5MCaqPi90V-uH972G296WvlYvDO5DMX5vaX0-3ww65pwjCB5I_16gpyER-uYi-7FYdmMtsV4/s320/morte.png" width="319" height="320" data-original-width="508" data-original-height="510" /></a></br></br>

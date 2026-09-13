@@ -1,7 +1,7 @@
 ---
 title: "Não ofendam mais a Deus Nosso Senhor, que já está muito ofendido"
 date: 2019-05-13T16:32:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuSVaPpQdXpmo0pp4w88btNX_VPR5ucA5RghPBdukqSfUp0kr4a89U1H822F2fhUL4Pf-8sA2-KeO2JLrfoNiLyReIcte0159crAP8k0egluK2o9LlVcRFSp0wt16J4b_kYc1h7VxULyg/s320/Nossa_Senhora.png"
+heroImage: "/images/Nossa_Senhora.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuSVaPpQdXpmo0pp4w88btNX_VPR5ucA5RghPBdukqSfUp0kr4a89U1H822F2fhUL4Pf-8sA2-KeO2JLrfoNiLyReIcte0159crAP8k0egluK2o9LlVcRFSp0wt16J4b_kYc1h7VxULyg/s1600/Nossa_Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuSVaPpQdXpmo0pp4w88btNX_VPR5ucA5RghPBdukqSfUp0kr4a89U1H822F2fhUL4Pf-8sA2-KeO2JLrfoNiLyReIcte0159crAP8k0egluK2o9LlVcRFSp0wt16J4b_kYc1h7VxULyg/s320/Nossa_Senhora.png" width="317" height="320" data-original-width="233" data-original-height="235" /></a></div>

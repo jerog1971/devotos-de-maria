@@ -1,7 +1,7 @@
 ---
 title: "Desfazendo calúnias"
 date: 2024-11-08T17:40:00.010Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIu_ntgw0trUXsaRo6OPXhhpRndd6N8HO4Rlai_bWaATD3v4ZRc9vBLZZrbaWKtvu8RXzqPSQWtwJ_7UbLecGFB71o5m9Q_2DqWYCzzDvPXChrSt_H1jA6n7lorQrW2GtRTf7flxFHnoNfROR3Pct3MIY8WutDd6xPPBaOmquBSmpNJj9WcKejTSmXJaI/s320/cal%C3%BAnia.png"
+heroImage: "/images/calúnia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="415" data-original-width="484" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIu_ntgw0trUXsaRo6OPXhhpRndd6N8HO4Rlai_bWaATD3v4ZRc9vBLZZrbaWKtvu8RXzqPSQWtwJ_7UbLecGFB71o5m9Q_2DqWYCzzDvPXChrSt_H1jA6n7lorQrW2GtRTf7flxFHnoNfROR3Pct3MIY8WutDd6xPPBaOmquBSmpNJj9WcKejTSmXJaI/s320/cal%C3%BAnia.png" width="320" /></div>

@@ -1,7 +1,7 @@
 ---
 title: "Me disse um Sacerdote..."
 date: 2017-06-26T11:53:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifn1k1Igky8UdWVhIZzy2cshrVdQibDWSKBh9f7AhW_u421DOBz5jXliQIyTEM-TgazNed2Advs5vVq-u9sSTauDNN5Z3TGrjIaPH8g9Mc5elZ1IorWflwF3ZcitWh2AKSnIem0gBTv30/s320/paiefilha.png"
+heroImage: "/images/paiefilha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifn1k1Igky8UdWVhIZzy2cshrVdQibDWSKBh9f7AhW_u421DOBz5jXliQIyTEM-TgazNed2Advs5vVq-u9sSTauDNN5Z3TGrjIaPH8g9Mc5elZ1IorWflwF3ZcitWh2AKSnIem0gBTv30/s1600/paiefilha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifn1k1Igky8UdWVhIZzy2cshrVdQibDWSKBh9f7AhW_u421DOBz5jXliQIyTEM-TgazNed2Advs5vVq-u9sSTauDNN5Z3TGrjIaPH8g9Mc5elZ1IorWflwF3ZcitWh2AKSnIem0gBTv30/s320/paiefilha.png" width="314" height="320" data-original-width="501" data-original-height="510" /></a></div>

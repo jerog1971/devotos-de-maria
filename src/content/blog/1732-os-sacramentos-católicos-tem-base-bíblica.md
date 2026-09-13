@@ -1,7 +1,7 @@
 ---
 title: "Os sacramentos católicos tem base bíblica?"
 date: 2020-04-07T21:27:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5hMbBA9DYAxSBNP8kgbvDMuaKmEQQIybH3v6K2MD2YDzltd6lOQofZiWZ0C7nV4dju5n9iixLwvjDcoQoy45j0EtJYKqh2RPPztDnmhkbFmiPCd1N5SqtAKgt2af4mRX8tMExsET2Ew/s320/igreja.png"
+heroImage: "/images/Os perigos da Igreja.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5hMbBA9DYAxSBNP8kgbvDMuaKmEQQIybH3v6K2MD2YDzltd6lOQofZiWZ0C7nV4dju5n9iixLwvjDcoQoy45j0EtJYKqh2RPPztDnmhkbFmiPCd1N5SqtAKgt2af4mRX8tMExsET2Ew/s1600/igreja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5hMbBA9DYAxSBNP8kgbvDMuaKmEQQIybH3v6K2MD2YDzltd6lOQofZiWZ0C7nV4dju5n9iixLwvjDcoQoy45j0EtJYKqh2RPPztDnmhkbFmiPCd1N5SqtAKgt2af4mRX8tMExsET2Ew/s320/igreja.png" width="320" height="215" data-original-width="637" data-original-height="427" /></a></div>

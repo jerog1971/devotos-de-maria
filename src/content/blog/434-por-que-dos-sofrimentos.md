@@ -1,7 +1,7 @@
 ---
 title: "Por que dos sofrimentos?"
 date: 2020-03-22T01:53:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtbNNd1WaysQ1CJCStRrn9VVWcheUUyhiSuV8q9Ia6tHdoa1Ao-iF_lAjav5JoqnsqdzP2wX8R84blxNTTh1flif_aq_IxwAloeOxhcczxpGGrO42CsW7N3G2WITCwpKe-VJLqyFb3cA/s320/coronavirus.png"
+heroImage: "/images/Deus_coronavirus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtbNNd1WaysQ1CJCStRrn9VVWcheUUyhiSuV8q9Ia6tHdoa1Ao-iF_lAjav5JoqnsqdzP2wX8R84blxNTTh1flif_aq_IxwAloeOxhcczxpGGrO42CsW7N3G2WITCwpKe-VJLqyFb3cA/s1600/coronavirus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMtbNNd1WaysQ1CJCStRrn9VVWcheUUyhiSuV8q9Ia6tHdoa1Ao-iF_lAjav5JoqnsqdzP2wX8R84blxNTTh1flif_aq_IxwAloeOxhcczxpGGrO42CsW7N3G2WITCwpKe-VJLqyFb3cA/s320/coronavirus.png" width="320" height="249" data-original-width="357" data-original-height="278" /></a></div>

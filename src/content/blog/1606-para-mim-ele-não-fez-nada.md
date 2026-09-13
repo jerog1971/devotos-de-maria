@@ -1,7 +1,7 @@
 ---
 title: "Para mim ele não fez nada"
 date: 2020-05-17T15:37:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR14055CODznQRdlb1JFhIZbPkWwSKMRBle9KRSPFol0tK381nzjbLQWVxb3Ito9C772cFBl5k9xxpdxBR0JBtInVAsT5DkxsfnbzntNfPl0eZuWlNlx-b49eJXnRSKHiNShfs3PkibHo/s320/padres_disfar%25C3%25A7ados.png"
+heroImage: "/images/padre.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR14055CODznQRdlb1JFhIZbPkWwSKMRBle9KRSPFol0tK381nzjbLQWVxb3Ito9C772cFBl5k9xxpdxBR0JBtInVAsT5DkxsfnbzntNfPl0eZuWlNlx-b49eJXnRSKHiNShfs3PkibHo/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="366" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR14055CODznQRdlb1JFhIZbPkWwSKMRBle9KRSPFol0tK381nzjbLQWVxb3Ito9C772cFBl5k9xxpdxBR0JBtInVAsT5DkxsfnbzntNfPl0eZuWlNlx-b49eJXnRSKHiNShfs3PkibHo/s320/padres_disfar%25C3%25A7ados.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Ezequiel 3,19-21 – “Contudo, [o pecador] se depois de

@@ -1,7 +1,7 @@
 ---
 title: "A fumaça de satanás invadiu a igreja"
 date: 2016-07-06T11:30:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt7HKMMnnZTVt_TqfJzc_MWXT6yfM56KQ5GQRyNuPyOkcJVWRAz10PATBRRMgXOp1sW_2bDQwy5sPSkghMrfJT4BauMlIBUKbMN-wyEnNcsyngt1-K_5HZ3pdjJfVJ1VbvYZv76GYPZc/s320/genivaldo.png"
+heroImage: "/images/genivaldo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt7HKMMnnZTVt_TqfJzc_MWXT6yfM56KQ5GQRyNuPyOkcJVWRAz10PATBRRMgXOp1sW_2bDQwy5sPSkghMrfJT4BauMlIBUKbMN-wyEnNcsyngt1-K_5HZ3pdjJfVJ1VbvYZv76GYPZc/s1600/genivaldo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt7HKMMnnZTVt_TqfJzc_MWXT6yfM56KQ5GQRyNuPyOkcJVWRAz10PATBRRMgXOp1sW_2bDQwy5sPSkghMrfJT4BauMlIBUKbMN-wyEnNcsyngt1-K_5HZ3pdjJfVJ1VbvYZv76GYPZc/s320/genivaldo.png" width="310" height="320" data-original-width="179" data-original-height="185" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Não tocar no nome de Deus"
 date: 2015-06-10T16:46:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj8N6Kluu1eGdJHqR1H0WIUviwqwBIIZ9ifmXVyLn5QFdlTHUfSRNkxh1q_sMOgQq6DcEGRN12RKhyNwLYQIKW5htuMAJYZGZL3f0eaTEgZN3vfit3NF-cvwUissbZYAcI3AuOiP2MBI/s320/neymar.png"
+heroImage: "/images/neymar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj8N6Kluu1eGdJHqR1H0WIUviwqwBIIZ9ifmXVyLn5QFdlTHUfSRNkxh1q_sMOgQq6DcEGRN12RKhyNwLYQIKW5htuMAJYZGZL3f0eaTEgZN3vfit3NF-cvwUissbZYAcI3AuOiP2MBI/s1600/neymar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj8N6Kluu1eGdJHqR1H0WIUviwqwBIIZ9ifmXVyLn5QFdlTHUfSRNkxh1q_sMOgQq6DcEGRN12RKhyNwLYQIKW5htuMAJYZGZL3f0eaTEgZN3vfit3NF-cvwUissbZYAcI3AuOiP2MBI/s320/neymar.png" width="313" height="320" data-original-width="476" data-original-height="486" /></a></div>

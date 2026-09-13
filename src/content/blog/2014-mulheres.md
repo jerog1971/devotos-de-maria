@@ -1,7 +1,7 @@
 ---
 title: "Mulheres..."
 date: 2016-05-19T20:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitaxXQN8IUFpvkRkTwylrKBoqe4mXhyyHK6luK0sHSLon0zm9bFP_hzZm7v7ON-mGcUjuGhJ1ryQKvNfjc55MYO2YfTHaUiN5sbks2My3h8ufkoFJmaZeNL0xbTJoxTz5oKx9Ry7KJjok/s320/santa_ana.png"
+heroImage: "/images/santa_ana.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitaxXQN8IUFpvkRkTwylrKBoqe4mXhyyHK6luK0sHSLon0zm9bFP_hzZm7v7ON-mGcUjuGhJ1ryQKvNfjc55MYO2YfTHaUiN5sbks2My3h8ufkoFJmaZeNL0xbTJoxTz5oKx9Ry7KJjok/s1600/santa_ana.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="343" data-original-width="375" height="293" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitaxXQN8IUFpvkRkTwylrKBoqe4mXhyyHK6luK0sHSLon0zm9bFP_hzZm7v7ON-mGcUjuGhJ1ryQKvNfjc55MYO2YfTHaUiN5sbks2My3h8ufkoFJmaZeNL0xbTJoxTz5oKx9Ry7KJjok/s320/santa_ana.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Caros leitores, sejam mais uma vez bem-vindos. Neste artigo iremos relembrar e refletir alguns ensinamentos que a sagrada escritura tem a nos passar, homens e mulheres, em relação a mulher. Todos retirados do livro do Eclesiástico:

@@ -1,7 +1,7 @@
 ---
 title: "Seu toque pessoal"
 date: 2023-06-29T18:33:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5SEhjyNenNtr2nDHNmqrZoiYi9Hlxg-NL6v0kW6-AHLgRxlWiNFry17WTowiNnzxEvxKvcFR8NeiebdekN_es_xm3YSRY6u5om2A1_XDqbibNb5E9r8SF3XIZhLBvmzeR6LGGV06U1Nw4M6j7H070FWooJxG0RAZU_z2BDZfBrhy0Wbus62GQ2mHbCN0/s320/seu%20toque%20pessoal.png"
+heroImage: "/images/seu toque pessoal.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5SEhjyNenNtr2nDHNmqrZoiYi9Hlxg-NL6v0kW6-AHLgRxlWiNFry17WTowiNnzxEvxKvcFR8NeiebdekN_es_xm3YSRY6u5om2A1_XDqbibNb5E9r8SF3XIZhLBvmzeR6LGGV06U1Nw4M6j7H070FWooJxG0RAZU_z2BDZfBrhy0Wbus62GQ2mHbCN0/s686/seu%20toque%20pessoal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="686" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5SEhjyNenNtr2nDHNmqrZoiYi9Hlxg-NL6v0kW6-AHLgRxlWiNFry17WTowiNnzxEvxKvcFR8NeiebdekN_es_xm3YSRY6u5om2A1_XDqbibNb5E9r8SF3XIZhLBvmzeR6LGGV06U1Nw4M6j7H070FWooJxG0RAZU_z2BDZfBrhy0Wbus62GQ2mHbCN0/s320/seu%20toque%20pessoal.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em cada época da história de nossa humanidade, vários atores

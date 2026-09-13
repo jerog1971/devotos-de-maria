@@ -1,7 +1,7 @@
 ---
 title: "Cuidado, tudo sempre pode piorar"
 date: 2023-03-10T21:25:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UnhGSvzJC8lpP4BJ3FSkp2Vyd4AW4vSgyT8aPSqX6U4Cl28Jpjx6I_1BH7KXxGMgToQoaexQ2lcvilzYhQXL1j6ABds6fEk9PhSumbKObwc6DBZBd4mozj4GpJuYcokmnAv_TA9vGrulqJ4no2HuZR_3QS17bfKNnYwcuk0wqcqfOXrondZ59UWu/s320/convem.png"
+heroImage: "/images/convem.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UnhGSvzJC8lpP4BJ3FSkp2Vyd4AW4vSgyT8aPSqX6U4Cl28Jpjx6I_1BH7KXxGMgToQoaexQ2lcvilzYhQXL1j6ABds6fEk9PhSumbKObwc6DBZBd4mozj4GpJuYcokmnAv_TA9vGrulqJ4no2HuZR_3QS17bfKNnYwcuk0wqcqfOXrondZ59UWu/s402/convem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="402" height="314" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UnhGSvzJC8lpP4BJ3FSkp2Vyd4AW4vSgyT8aPSqX6U4Cl28Jpjx6I_1BH7KXxGMgToQoaexQ2lcvilzYhQXL1j6ABds6fEk9PhSumbKObwc6DBZBd4mozj4GpJuYcokmnAv_TA9vGrulqJ4no2HuZR_3QS17bfKNnYwcuk0wqcqfOXrondZ59UWu/s320/convem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quem está de pé cuide para que não caia – lemos esta exortação

@@ -1,7 +1,7 @@
 ---
 title: "Não seja um carismático"
 date: 2020-03-12T20:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfRgFWANF7JRb_jhimjQiGdDdt1lIscgORH4A3OT4k0g13HsuxYMq9QxsnXLjaJPE-Q9lcvsLAV8sXx2ur35hVlqwRm2lBiUvssUaDX4pr_firMIOzVSXiAb5PEE_A8BAgc2oUEO9j1FU/s320/carismatico.png"
+heroImage: "/images/carismatico.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfRgFWANF7JRb_jhimjQiGdDdt1lIscgORH4A3OT4k0g13HsuxYMq9QxsnXLjaJPE-Q9lcvsLAV8sXx2ur35hVlqwRm2lBiUvssUaDX4pr_firMIOzVSXiAb5PEE_A8BAgc2oUEO9j1FU/s1600/carismatico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfRgFWANF7JRb_jhimjQiGdDdt1lIscgORH4A3OT4k0g13HsuxYMq9QxsnXLjaJPE-Q9lcvsLAV8sXx2ur35hVlqwRm2lBiUvssUaDX4pr_firMIOzVSXiAb5PEE_A8BAgc2oUEO9j1FU/s320/carismatico.png" width="320" height="183" data-original-width="393" data-original-height="225" /></a></div>

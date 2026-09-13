@@ -1,7 +1,7 @@
 ---
 title: "Muitos têm a bíblia em casa, mas não se lembram de quando a pegaram pela última vez"
 date: 2020-03-23T21:21:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFgHy48GNPIxsBDwZRJzcU7ezXCJMES8ZdqOha74g8jMkdZD3fTmP7sO9U2WjI8Pkhf_LKEpVR-RFFOSr0UChzzIzYViSV6pmu7emJs5_eC7R26uUHoUPja05MGM57ESbEchU3-tmYsz4/s320/biblia.png"
+heroImage: "/images/biblia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFgHy48GNPIxsBDwZRJzcU7ezXCJMES8ZdqOha74g8jMkdZD3fTmP7sO9U2WjI8Pkhf_LKEpVR-RFFOSr0UChzzIzYViSV6pmu7emJs5_eC7R26uUHoUPja05MGM57ESbEchU3-tmYsz4/s1600/biblia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFgHy48GNPIxsBDwZRJzcU7ezXCJMES8ZdqOha74g8jMkdZD3fTmP7sO9U2WjI8Pkhf_LKEpVR-RFFOSr0UChzzIzYViSV6pmu7emJs5_eC7R26uUHoUPja05MGM57ESbEchU3-tmYsz4/s320/biblia.png" width="279" height="320" data-original-width="293" data-original-height="336" /></a></div>

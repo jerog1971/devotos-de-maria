@@ -1,7 +1,7 @@
 ---
 title: "Deixe o pecado no passado"
 date: 2017-05-24T12:10:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6N4q5pKKOBU5NFmtQRC9gjZuE3I83gFu8LtMrHh_-5tjXjBaOBzQyurs9BwZLBlRAox0idYyEqBv_INqCXOGNgHrbx6_7MTMSJT4HzQcWN0JLWe9GuMCmNyqP-rztl_rjXwnb5DN8GkE/s320/n%25C3%25A3o+ao+pecado.png"
+heroImage: "/images/pecado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6N4q5pKKOBU5NFmtQRC9gjZuE3I83gFu8LtMrHh_-5tjXjBaOBzQyurs9BwZLBlRAox0idYyEqBv_INqCXOGNgHrbx6_7MTMSJT4HzQcWN0JLWe9GuMCmNyqP-rztl_rjXwnb5DN8GkE/s1600/n%25C3%25A3o+ao+pecado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6N4q5pKKOBU5NFmtQRC9gjZuE3I83gFu8LtMrHh_-5tjXjBaOBzQyurs9BwZLBlRAox0idYyEqBv_INqCXOGNgHrbx6_7MTMSJT4HzQcWN0JLWe9GuMCmNyqP-rztl_rjXwnb5DN8GkE/s320/n%25C3%25A3o+ao+pecado.png" width="320" height="319" data-original-width="299" data-original-height="298" /></a></div>

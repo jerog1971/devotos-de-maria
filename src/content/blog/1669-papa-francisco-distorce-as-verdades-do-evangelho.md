@@ -1,7 +1,7 @@
 ---
 title: "Papa Francisco distorce as verdades do evangelho"
 date: 2016-07-01T18:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI-Pq-CoIOG_T3FF38UFGYAZjYMBodQ33ZqbRWTkaOhuaKtl7JzYpcypWln_fEWIvn7cTmlw7yqAwUhPyPsRxgk7THwHX2ukURi1H4Nvmo3DseWQsY2_VDAQ6NvGBmMj2ksWds1_q0lkE/s320/herege.png"
+heroImage: "/images/herege.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI-Pq-CoIOG_T3FF38UFGYAZjYMBodQ33ZqbRWTkaOhuaKtl7JzYpcypWln_fEWIvn7cTmlw7yqAwUhPyPsRxgk7THwHX2ukURi1H4Nvmo3DseWQsY2_VDAQ6NvGBmMj2ksWds1_q0lkE/s1600/herege.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI-Pq-CoIOG_T3FF38UFGYAZjYMBodQ33ZqbRWTkaOhuaKtl7JzYpcypWln_fEWIvn7cTmlw7yqAwUhPyPsRxgk7THwHX2ukURi1H4Nvmo3DseWQsY2_VDAQ6NvGBmMj2ksWds1_q0lkE/s320/herege.png" width="320" height="319" data-original-width="397" data-original-height="396" /></a></div>

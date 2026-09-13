@@ -1,7 +1,7 @@
 ---
 title: "Blasfêmias contra a Virgem Maria"
 date: 2021-10-16T17:56:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjICqlAo55ft8Ad3n-mAdFeA9KWTiueyYOBN_y-pKwQjRNhly6RI-McWOgVJMUx0wLz_I-5SGfNSKRU2zTbMDY69UUNk3t8esSIq7h9N2oHkeri3CLQvdE2iMWNP1k8uouk3rhulyNCRYg/s320/blasf%25C3%25AAmia+contra+a+Virgem+Maria.png"
+heroImage: "/images/Maria.gif"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjICqlAo55ft8Ad3n-mAdFeA9KWTiueyYOBN_y-pKwQjRNhly6RI-McWOgVJMUx0wLz_I-5SGfNSKRU2zTbMDY69UUNk3t8esSIq7h9N2oHkeri3CLQvdE2iMWNP1k8uouk3rhulyNCRYg/s466/blasf%25C3%25AAmia+contra+a+Virgem+Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="466" data-original-width="410" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjICqlAo55ft8Ad3n-mAdFeA9KWTiueyYOBN_y-pKwQjRNhly6RI-McWOgVJMUx0wLz_I-5SGfNSKRU2zTbMDY69UUNk3t8esSIq7h9N2oHkeri3CLQvdE2iMWNP1k8uouk3rhulyNCRYg/s320/blasf%25C3%25AAmia+contra+a+Virgem+Maria.png" width="282" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aqui na Terra, se alguém ofende sua mãe, certamente isso lhe

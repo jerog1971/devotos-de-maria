@@ -1,7 +1,7 @@
 ---
 title: "Reflexão sobre a realidade do inferno"
 date: 2015-09-28T14:57:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczqGclqsi2w-osDuwiEGiMpLpSj_2zga4BYA2zjuPOW_DihH3gqw8DbWmzIgJVmwqLfZQqBWhLPFWMbu98g8zMcXkOj61eyIQDYPPheuESmuD7KI76AWV6k9oFfToeQV0xROshX4EjPM/s320/segur.png"
+heroImage: "/images/segur.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczqGclqsi2w-osDuwiEGiMpLpSj_2zga4BYA2zjuPOW_DihH3gqw8DbWmzIgJVmwqLfZQqBWhLPFWMbu98g8zMcXkOj61eyIQDYPPheuESmuD7KI76AWV6k9oFfToeQV0xROshX4EjPM/s1600/segur.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczqGclqsi2w-osDuwiEGiMpLpSj_2zga4BYA2zjuPOW_DihH3gqw8DbWmzIgJVmwqLfZQqBWhLPFWMbu98g8zMcXkOj61eyIQDYPPheuESmuD7KI76AWV6k9oFfToeQV0xROshX4EjPM/s320/segur.png" width="213" height="320" data-original-width="346" data-original-height="520" /></a></div>

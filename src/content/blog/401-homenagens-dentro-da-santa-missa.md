@@ -1,7 +1,7 @@
 ---
 title: "Homenagens dentro da Santa Missa?"
 date: 2016-05-04T12:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2HFLSW-JAagp5gLMm6SnZ7v6lMoHpcbVaQVj4l76LZzxU6uTX_uLobUarLiOalds4V3bV7La8R_D-Qo_K3D1A6rV21oFldZ0nBCs4oLy21RVg3t8tt6uopuPAkKG2U5N0fZpJxCsrZM/s320/homenagem.png"
+heroImage: "/images/homenagem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2HFLSW-JAagp5gLMm6SnZ7v6lMoHpcbVaQVj4l76LZzxU6uTX_uLobUarLiOalds4V3bV7La8R_D-Qo_K3D1A6rV21oFldZ0nBCs4oLy21RVg3t8tt6uopuPAkKG2U5N0fZpJxCsrZM/s1600/homenagem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv2HFLSW-JAagp5gLMm6SnZ7v6lMoHpcbVaQVj4l76LZzxU6uTX_uLobUarLiOalds4V3bV7La8R_D-Qo_K3D1A6rV21oFldZ0nBCs4oLy21RVg3t8tt6uopuPAkKG2U5N0fZpJxCsrZM/s320/homenagem.png" width="320" height="244" data-original-width="678" data-original-height="516" /></a></div>

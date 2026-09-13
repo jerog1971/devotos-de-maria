@@ -1,7 +1,7 @@
 ---
 title: "Mulher para que?"
 date: 2018-05-30T18:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoxIKd100AKpx6Z92F8Yi2IyCnHVH5P4AXIZVl00MhpTVxZQ9JS4q4_Hn-ecGV-3tyqYbyNFPy_oma1-1Y_sD8tPYXSyn5qg8NbDxGmBidpt0FSIZSgDTvS0IQy3yp9Nj0jgvoiGYG1GI/s320/dormindo.png"
+heroImage: "/images/dormindo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoxIKd100AKpx6Z92F8Yi2IyCnHVH5P4AXIZVl00MhpTVxZQ9JS4q4_Hn-ecGV-3tyqYbyNFPy_oma1-1Y_sD8tPYXSyn5qg8NbDxGmBidpt0FSIZSgDTvS0IQy3yp9Nj0jgvoiGYG1GI/s1600/dormindo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoxIKd100AKpx6Z92F8Yi2IyCnHVH5P4AXIZVl00MhpTVxZQ9JS4q4_Hn-ecGV-3tyqYbyNFPy_oma1-1Y_sD8tPYXSyn5qg8NbDxGmBidpt0FSIZSgDTvS0IQy3yp9Nj0jgvoiGYG1GI/s320/dormindo.png" width="320" height="287" data-original-width="558" data-original-height="500" /></a></div>

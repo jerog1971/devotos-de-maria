@@ -1,7 +1,7 @@
 ---
 title: "As Diversas Formas de CASTIDADE"
 date: 2015-10-11T01:57:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPIk3DgPdsxukIqh-mytTHmqozs2BDKq4A4q56C6poChpvaegkfTNGPKUARUZ-SZsxi_cnBrFJHsNbUJ2HJ-YJZWD1-wyI2-QJsTtjkHB8enbPURNavr0CkmGQ0eKtNkYY_yAZN-8yFHs/s200/castidade.png"
+heroImage: "/images/castidade.png"
 ---
 
 Todo batizado é chamado à castidade. O cristão "se vestiu de Cristo, modelo de toda a castidade. Todos os fiéis de Cristo são chamados a levar uma vida casta segundo seu específico estado de vida. No momento do Batismo, o cristão se comprometeu a viver sua afetividade na castidade.</br>

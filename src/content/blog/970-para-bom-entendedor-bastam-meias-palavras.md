@@ -1,7 +1,7 @@
 ---
 title: "Para bom entendedor bastam meias palavras"
 date: 2019-06-14T15:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja8xq_vUudIs_UFyNIToEOQ52Yoz_EQuQxbUv_p_QoebWN6a2jfNQL6nAJ5kzSRjHrHaux6mCv9X6zS2fFpWxP_fpMgonLsXNE35IgJMgQC9E6ipFgIoQ80f-qpEcuq531L8I3fusDodI/s320/bom_entendedor.png"
+heroImage: "/images/bom_entendedor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja8xq_vUudIs_UFyNIToEOQ52Yoz_EQuQxbUv_p_QoebWN6a2jfNQL6nAJ5kzSRjHrHaux6mCv9X6zS2fFpWxP_fpMgonLsXNE35IgJMgQC9E6ipFgIoQ80f-qpEcuq531L8I3fusDodI/s1600/bom_entendedor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja8xq_vUudIs_UFyNIToEOQ52Yoz_EQuQxbUv_p_QoebWN6a2jfNQL6nAJ5kzSRjHrHaux6mCv9X6zS2fFpWxP_fpMgonLsXNE35IgJMgQC9E6ipFgIoQ80f-qpEcuq531L8I3fusDodI/s320/bom_entendedor.png" width="320" height="287" data-original-width="559" data-original-height="501" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "A cor azul na liturgia católica"
 date: 2017-09-12T20:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzov78vKc3TL8uNSQOfaPiz2fbzB_lMMxZ2QJBc36twLZE2WTsdwS6jEFxZRZX0Uymzl4Tj2J3JiCQNbr4fJOH_Vgj0MYeT0Hv3l-c2-PdQyiC5tDN_y0IgDGQkC7owSNdgH0jz9ePi6M/s320/cor_azul.png"
+heroImage: "/images/cor_azul.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzov78vKc3TL8uNSQOfaPiz2fbzB_lMMxZ2QJBc36twLZE2WTsdwS6jEFxZRZX0Uymzl4Tj2J3JiCQNbr4fJOH_Vgj0MYeT0Hv3l-c2-PdQyiC5tDN_y0IgDGQkC7owSNdgH0jz9ePi6M/s1600/cor_azul.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzov78vKc3TL8uNSQOfaPiz2fbzB_lMMxZ2QJBc36twLZE2WTsdwS6jEFxZRZX0Uymzl4Tj2J3JiCQNbr4fJOH_Vgj0MYeT0Hv3l-c2-PdQyiC5tDN_y0IgDGQkC7owSNdgH0jz9ePi6M/s320/cor_azul.png" width="296" height="320" data-original-width="599" data-original-height="647" /></a></div>

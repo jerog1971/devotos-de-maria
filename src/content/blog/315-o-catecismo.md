@@ -1,7 +1,7 @@
 ---
 title: "O catecismo"
 date: 2015-10-26T10:47:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-U3__zH2b6YKZOr93u26NCFm9qoahdN_TArx7XC4yUz_XOLc4PR8Ma9NqFYHk7oyeHVU_CvwJbVUb1KZkekYFHmatmpJr3uz2ksOil3QxFINQw6pOK00EXilGvlRmHEiqXc-JSpK_z4/s320/catecismo.png"
+heroImage: "/images/catecismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-U3__zH2b6YKZOr93u26NCFm9qoahdN_TArx7XC4yUz_XOLc4PR8Ma9NqFYHk7oyeHVU_CvwJbVUb1KZkekYFHmatmpJr3uz2ksOil3QxFINQw6pOK00EXilGvlRmHEiqXc-JSpK_z4/s1600/catecismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-U3__zH2b6YKZOr93u26NCFm9qoahdN_TArx7XC4yUz_XOLc4PR8Ma9NqFYHk7oyeHVU_CvwJbVUb1KZkekYFHmatmpJr3uz2ksOil3QxFINQw6pOK00EXilGvlRmHEiqXc-JSpK_z4/s320/catecismo.png" width="221" height="320" data-original-width="272" data-original-height="394" /></a></div>

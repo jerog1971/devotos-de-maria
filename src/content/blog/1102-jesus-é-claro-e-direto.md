@@ -1,7 +1,7 @@
 ---
 title: "Jesus é claro e direto"
 date: 2023-05-04T20:34:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSJRKwvraGrY2MPUqbFg-PhxI9APwc16Q3pWBeStqpapusngEyxUhHCV1TIbFICMs8pMd4zxIiOVTgYL4HzzvYBmfpVP9H4n2iR_cjG7jz2eAaq20ivGo90ApQFpPaZuJEyh9EfIHkdJV9gmgjynkWFMEKDFV__XUlQQObRSL4hkjBxC-5CH-8QRE/s320/familia.png"
+heroImage: "/images/devoção a familia.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSJRKwvraGrY2MPUqbFg-PhxI9APwc16Q3pWBeStqpapusngEyxUhHCV1TIbFICMs8pMd4zxIiOVTgYL4HzzvYBmfpVP9H4n2iR_cjG7jz2eAaq20ivGo90ApQFpPaZuJEyh9EfIHkdJV9gmgjynkWFMEKDFV__XUlQQObRSL4hkjBxC-5CH-8QRE/s740/familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="730" data-original-width="740" height="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSJRKwvraGrY2MPUqbFg-PhxI9APwc16Q3pWBeStqpapusngEyxUhHCV1TIbFICMs8pMd4zxIiOVTgYL4HzzvYBmfpVP9H4n2iR_cjG7jz2eAaq20ivGo90ApQFpPaZuJEyh9EfIHkdJV9gmgjynkWFMEKDFV__XUlQQObRSL4hkjBxC-5CH-8QRE/s320/familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele disse claramente: não faça aos outros o que não queres

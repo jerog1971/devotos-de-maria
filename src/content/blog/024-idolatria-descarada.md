@@ -1,7 +1,7 @@
 ---
 title: "Idolatria descarada"
 date: 2018-11-18T10:14:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWX5YS69P9Qv7Uvn4zx9uiCpX-I_Wfx376vfvqsao7luIb242fIFD3bKDPlKx_8JMSUH4vQxvOC4W0sCW-FosWRjuzyWr1rGojvVdng6YXFVSU4PtCLfkRn5ZnH9kaffAqHUM-WV3sC0k/s320/illuminidol.png"
+heroImage: "/images/illuminidol.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWX5YS69P9Qv7Uvn4zx9uiCpX-I_Wfx376vfvqsao7luIb242fIFD3bKDPlKx_8JMSUH4vQxvOC4W0sCW-FosWRjuzyWr1rGojvVdng6YXFVSU4PtCLfkRn5ZnH9kaffAqHUM-WV3sC0k/s1600/illuminidol.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWX5YS69P9Qv7Uvn4zx9uiCpX-I_Wfx376vfvqsao7luIb242fIFD3bKDPlKx_8JMSUH4vQxvOC4W0sCW-FosWRjuzyWr1rGojvVdng6YXFVSU4PtCLfkRn5ZnH9kaffAqHUM-WV3sC0k/s320/illuminidol.png" width="320" height="180" data-original-width="1366" data-original-height="768" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "É quando Deus quer"
 date: 2020-10-09T15:16:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh93BJqD6VRKXjepgb9PAoPoZsoEFChKqhoIv6r-MK3mJLAVG99ZJdI2IgMENNQlCzCJFb3ApMSZDMtoJWZhXXg2u7Uaqwh6FzlghrzG5FJSTwC7WbxMvLh5XxTG-zC3bpt-NHKPlN8YQ/s320/chuva.png"
+heroImage: "/images/chuva.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh93BJqD6VRKXjepgb9PAoPoZsoEFChKqhoIv6r-MK3mJLAVG99ZJdI2IgMENNQlCzCJFb3ApMSZDMtoJWZhXXg2u7Uaqwh6FzlghrzG5FJSTwC7WbxMvLh5XxTG-zC3bpt-NHKPlN8YQ/s980/chuva.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="758" data-original-width="980" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh93BJqD6VRKXjepgb9PAoPoZsoEFChKqhoIv6r-MK3mJLAVG99ZJdI2IgMENNQlCzCJFb3ApMSZDMtoJWZhXXg2u7Uaqwh6FzlghrzG5FJSTwC7WbxMvLh5XxTG-zC3bpt-NHKPlN8YQ/s320/chuva.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se ilude quem acha que é quando nós queremos. Alguém pode

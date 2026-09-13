@@ -1,7 +1,7 @@
 ---
 title: "Ah, o que é que tem? Todo mundo faz!"
 date: 2019-03-18T15:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7ao_vycL5DQFkuzwk453f7hDGsEVEa6MJxLdf2EqigSMTIVRv2PcZkPxaf3l4OnS62uarrNYftgzbxeB66GXIYPFJn38lMmLfeU1AT3HDBw5GGHBIo_f-Cpxr3VuHZLhfvxHEOKfrO4/s320/contra_a_correnteza.png"
+heroImage: "/images/contra_a_correnteza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7ao_vycL5DQFkuzwk453f7hDGsEVEa6MJxLdf2EqigSMTIVRv2PcZkPxaf3l4OnS62uarrNYftgzbxeB66GXIYPFJn38lMmLfeU1AT3HDBw5GGHBIo_f-Cpxr3VuHZLhfvxHEOKfrO4/s1600/contra_a_correnteza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7ao_vycL5DQFkuzwk453f7hDGsEVEa6MJxLdf2EqigSMTIVRv2PcZkPxaf3l4OnS62uarrNYftgzbxeB66GXIYPFJn38lMmLfeU1AT3HDBw5GGHBIo_f-Cpxr3VuHZLhfvxHEOKfrO4/s320/contra_a_correnteza.png" width="320" height="310" data-original-width="185" data-original-height="179" /></a></div>

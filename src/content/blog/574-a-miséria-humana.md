@@ -1,7 +1,7 @@
 ---
 title: "A miséria humana"
 date: 2020-06-22T15:13:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9S2P7nRQiaD6Npqyw9uznSzKqEzUjKrAZqd_CsEzfyYpKrg_LX9qa-MlYuZsn0fbLBnB_3FfMwikg5PBIwr6gpN6dSTriw_5pQkhdBsMhvXfkLFWkXG_zTkN9AAoiNYFwX2W4XuYpyTo/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9S2P7nRQiaD6Npqyw9uznSzKqEzUjKrAZqd_CsEzfyYpKrg_LX9qa-MlYuZsn0fbLBnB_3FfMwikg5PBIwr6gpN6dSTriw_5pQkhdBsMhvXfkLFWkXG_zTkN9AAoiNYFwX2W4XuYpyTo/s408/sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9S2P7nRQiaD6Npqyw9uznSzKqEzUjKrAZqd_CsEzfyYpKrg_LX9qa-MlYuZsn0fbLBnB_3FfMwikg5PBIwr6gpN6dSTriw_5pQkhdBsMhvXfkLFWkXG_zTkN9AAoiNYFwX2W4XuYpyTo/s320/sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Miserável serás, onde quer que estejas e onde quer que te

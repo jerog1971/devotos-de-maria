@@ -1,7 +1,7 @@
 ---
 title: "O preço da \"porta estreita\""
 date: 2016-11-09T15:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGV9g8aoL-K8SoNh-Ml1gNBI2XlH_6DMhlztsl_2JFlljIvRUXwXkbqHqItdtTKLp8c-5DM9zkUaHQjC_sAd1Drl9iBd8kouYYXDmoZwO7VeUzT-bnN2b2H-43Sm8atTTLal4H8goUHP0/s320/porta_estreita.png"
+heroImage: "/images/porta_estreita.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGV9g8aoL-K8SoNh-Ml1gNBI2XlH_6DMhlztsl_2JFlljIvRUXwXkbqHqItdtTKLp8c-5DM9zkUaHQjC_sAd1Drl9iBd8kouYYXDmoZwO7VeUzT-bnN2b2H-43Sm8atTTLal4H8goUHP0/s1600/porta_estreita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGV9g8aoL-K8SoNh-Ml1gNBI2XlH_6DMhlztsl_2JFlljIvRUXwXkbqHqItdtTKLp8c-5DM9zkUaHQjC_sAd1Drl9iBd8kouYYXDmoZwO7VeUzT-bnN2b2H-43Sm8atTTLal4H8goUHP0/s320/porta_estreita.png" width="255" height="320" data-original-width="323" data-original-height="405" /></a></div>

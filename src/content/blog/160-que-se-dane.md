@@ -1,7 +1,7 @@
 ---
 title: "Que se dane"
 date: 2018-03-21T20:01:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTAzhWaYuPnH3mWx35MFl_cMM2yM_2Scpi9QVgPXpY4JrT6Fc7k_wGM37_TejJRrgbWp6cAk5k8CmFQ4fMfhPXvaM79QYSKrkGUAWqzTTzWPta-eLYOm-UYwy3rZ-oZKbGhNBOlBpBDiw/s320/que_se_dane.png"
+heroImage: "/images/que_se_dane.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTAzhWaYuPnH3mWx35MFl_cMM2yM_2Scpi9QVgPXpY4JrT6Fc7k_wGM37_TejJRrgbWp6cAk5k8CmFQ4fMfhPXvaM79QYSKrkGUAWqzTTzWPta-eLYOm-UYwy3rZ-oZKbGhNBOlBpBDiw/s1600/que_se_dane.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="257" data-original-width="268" height="307" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTAzhWaYuPnH3mWx35MFl_cMM2yM_2Scpi9QVgPXpY4JrT6Fc7k_wGM37_TejJRrgbWp6cAk5k8CmFQ4fMfhPXvaM79QYSKrkGUAWqzTTzWPta-eLYOm-UYwy3rZ-oZKbGhNBOlBpBDiw/s320/que_se_dane.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>A vida é uma prisão, cheia de regras e sem solidão. A culpa é do barulho, não do barulho do vento que quase não se escuta mais porque em selva de pedra ele não encana. E por falar em pedra, me recordo que foi dito que não ficará pedra sobre pedra. Pois bem, isso nos soa como um grande estrago que está por vir. Porém, quem sabe não é um estrago bem-vindo? Um estrago que vai causar destroços ao ponto de me libertar desta prisão? Não sei se torço a favor ou contra.

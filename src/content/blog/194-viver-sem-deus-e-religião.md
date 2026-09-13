@@ -1,7 +1,7 @@
 ---
 title: "Viver sem Deus e religião"
 date: 2016-01-18T19:21:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPZTgqHnsHZCV7IUN2FncvlBMu0mglIypdlQajFQRB8Ki6GOvT92kMzOpOswyrF_Qhxxsyb_fI_w1aMsux6LYy7DyS00kGLDSGUBVhwDsr1BqaI17M2HRYmFHBYl0aDuYJNEndlKE04-g/s320/living.png"
+heroImage: "/images/living.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPZTgqHnsHZCV7IUN2FncvlBMu0mglIypdlQajFQRB8Ki6GOvT92kMzOpOswyrF_Qhxxsyb_fI_w1aMsux6LYy7DyS00kGLDSGUBVhwDsr1BqaI17M2HRYmFHBYl0aDuYJNEndlKE04-g/s1600/living.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPZTgqHnsHZCV7IUN2FncvlBMu0mglIypdlQajFQRB8Ki6GOvT92kMzOpOswyrF_Qhxxsyb_fI_w1aMsux6LYy7DyS00kGLDSGUBVhwDsr1BqaI17M2HRYmFHBYl0aDuYJNEndlKE04-g/s320/living.png" width="320" height="159" data-original-width="777" data-original-height="387" /></a></div>

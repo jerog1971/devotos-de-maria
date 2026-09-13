@@ -1,7 +1,7 @@
 ---
 title: "O desequilibrio das pessoas"
 date: 2016-06-17T12:18:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJ05JJBXh5v_qFwnwh-cOfo8dy3KrcvHmT2tKLJyZO8A82O75NCWIZ1ltsVQLOiI-mo0XZRKqQorbqAW3jwolOZYlg4EkKAOHdUuWUrdp9nHslc_9zwR_8Gykx1LPlmulLxWZqHtHdEI/s320/desequilibrio.png"
+heroImage: "/images/desequilibrio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJ05JJBXh5v_qFwnwh-cOfo8dy3KrcvHmT2tKLJyZO8A82O75NCWIZ1ltsVQLOiI-mo0XZRKqQorbqAW3jwolOZYlg4EkKAOHdUuWUrdp9nHslc_9zwR_8Gykx1LPlmulLxWZqHtHdEI/s1600/desequilibrio.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="337" data-original-width="305" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJ05JJBXh5v_qFwnwh-cOfo8dy3KrcvHmT2tKLJyZO8A82O75NCWIZ1ltsVQLOiI-mo0XZRKqQorbqAW3jwolOZYlg4EkKAOHdUuWUrdp9nHslc_9zwR_8Gykx1LPlmulLxWZqHtHdEI/s320/desequilibrio.png" width="290" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Olá caros leitores, sejam sempre bem-vindos. Neste pequeno artigo iremos refletir um pouco sobre a forma tendenciosa que as pessoas têm de, por impulso, muitas vezes agir de forma desalinhada com situações que esperam de nós, sempre um ponderar e um analisar os acontecimentos com um olhar sobrenatural. Vamos a um exemplo.

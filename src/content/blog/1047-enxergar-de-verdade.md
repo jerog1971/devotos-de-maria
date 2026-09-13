@@ -1,7 +1,7 @@
 ---
 title: "Enxergar de Verdade"
 date: 2017-05-09T20:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZfCg-tyRgo6zDmxU0nR7hu9KT7DbOQD90kRx63sDffRTwYDQ6wWMbW0mSgGi4b24wyk7G_Ex3L16hp9GCOBTscsTdBw63f_dsSNDnQmXZxsJTSSX_jJadz_FaLaXIBXBV4-6yWrxmdFY/s320/enxergar.png"
+heroImage: "/images/enxergar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZfCg-tyRgo6zDmxU0nR7hu9KT7DbOQD90kRx63sDffRTwYDQ6wWMbW0mSgGi4b24wyk7G_Ex3L16hp9GCOBTscsTdBw63f_dsSNDnQmXZxsJTSSX_jJadz_FaLaXIBXBV4-6yWrxmdFY/s1600/enxergar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZfCg-tyRgo6zDmxU0nR7hu9KT7DbOQD90kRx63sDffRTwYDQ6wWMbW0mSgGi4b24wyk7G_Ex3L16hp9GCOBTscsTdBw63f_dsSNDnQmXZxsJTSSX_jJadz_FaLaXIBXBV4-6yWrxmdFY/s320/enxergar.png" width="320" height="316" data-original-width="434" data-original-height="428" /></a></div>

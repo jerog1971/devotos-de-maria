@@ -1,7 +1,7 @@
 ---
 title: "O plano B do anticoncepcional"
 date: 2016-07-19T20:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5V95Dsjb2HQC46bBYO2fFGMdf2wrQEELoUHE3XaPlxo-Ub22yZAxpN055fImFFJBHRlL9aIKGwDqaRvUz40EtfWcURfr6z7FBaoUHQKMz_itFDf3RaoGEE5eaPSzVM5q9mXX0Yp0O_Y/s320/anti.png"
+heroImage: "/images/anti.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5V95Dsjb2HQC46bBYO2fFGMdf2wrQEELoUHE3XaPlxo-Ub22yZAxpN055fImFFJBHRlL9aIKGwDqaRvUz40EtfWcURfr6z7FBaoUHQKMz_itFDf3RaoGEE5eaPSzVM5q9mXX0Yp0O_Y/s1600/anti.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5V95Dsjb2HQC46bBYO2fFGMdf2wrQEELoUHE3XaPlxo-Ub22yZAxpN055fImFFJBHRlL9aIKGwDqaRvUz40EtfWcURfr6z7FBaoUHQKMz_itFDf3RaoGEE5eaPSzVM5q9mXX0Yp0O_Y/s320/anti.png" width="320" height="296" data-original-width="554" data-original-height="513" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Distantes de Deus"
 date: 2020-03-29T20:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAu-rOR5q1OQySLdhyphenhyphenmuWPlqSy-ulB2bEXtkPjqJnSHNM-pW7n1puaeAZ0L0P2EIe19hlWEfAWV11Spo2ghmRMlIa0kPSmJVEjc_9DvDqb9nMNwe9v0iV67y8hdQZLbOeMtJGpMsH_duU/s320/distante_de_deus.png"
+heroImage: "/images/distante_de_deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAu-rOR5q1OQySLdhyphenhyphenmuWPlqSy-ulB2bEXtkPjqJnSHNM-pW7n1puaeAZ0L0P2EIe19hlWEfAWV11Spo2ghmRMlIa0kPSmJVEjc_9DvDqb9nMNwe9v0iV67y8hdQZLbOeMtJGpMsH_duU/s1600/distante_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAu-rOR5q1OQySLdhyphenhyphenmuWPlqSy-ulB2bEXtkPjqJnSHNM-pW7n1puaeAZ0L0P2EIe19hlWEfAWV11Spo2ghmRMlIa0kPSmJVEjc_9DvDqb9nMNwe9v0iV67y8hdQZLbOeMtJGpMsH_duU/s320/distante_de_deus.png" width="318" height="320" data-original-width="398" data-original-height="401" /></a></div>

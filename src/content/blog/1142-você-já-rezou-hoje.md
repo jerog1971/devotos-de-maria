@@ -1,7 +1,7 @@
 ---
 title: "Você já rezou hoje?"
 date: 2015-10-03T01:37:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaI_gc9Fb5S7f1AKNKvzyGcMeM23apMqlow2VhKabLkizIEJ9t7eeSqbecLeAUbjTo7bZQrApkh7sObeT-fmLIvRgkgY_T8TZlvqQ59S2yn8CbcLl_E-113C-hEz-Oqrq0rjaMuw1sSR8/s320/crian%25C3%25A7a_rezando.png"
+heroImage: "/images/rezando.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaI_gc9Fb5S7f1AKNKvzyGcMeM23apMqlow2VhKabLkizIEJ9t7eeSqbecLeAUbjTo7bZQrApkh7sObeT-fmLIvRgkgY_T8TZlvqQ59S2yn8CbcLl_E-113C-hEz-Oqrq0rjaMuw1sSR8/s1600/crian%25C3%25A7a_rezando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="391" data-original-width="391" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaI_gc9Fb5S7f1AKNKvzyGcMeM23apMqlow2VhKabLkizIEJ9t7eeSqbecLeAUbjTo7bZQrApkh7sObeT-fmLIvRgkgY_T8TZlvqQ59S2yn8CbcLl_E-113C-hEz-Oqrq0rjaMuw1sSR8/s320/crian%25C3%25A7a_rezando.png" width="320" /></a></div>

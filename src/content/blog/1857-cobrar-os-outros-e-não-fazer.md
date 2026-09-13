@@ -1,7 +1,7 @@
 ---
 title: "Cobrar os outros e não fazer?"
 date: 2016-10-27T15:56:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8yEsOOjZqPdSbXn7EFwQsexWofDmdVfybqFre91_cMzZx11NEIWOKcVzo6drktsN_dGAzPMgsKrji40utMNnMf1V6ncM5oneemT2mk0dRa33Rht30y3zg7Fn0ujRocNS7vFyq3RG6R8/s320/cobrar.png"
+heroImage: "/images/cobrar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8yEsOOjZqPdSbXn7EFwQsexWofDmdVfybqFre91_cMzZx11NEIWOKcVzo6drktsN_dGAzPMgsKrji40utMNnMf1V6ncM5oneemT2mk0dRa33Rht30y3zg7Fn0ujRocNS7vFyq3RG6R8/s1600/cobrar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8yEsOOjZqPdSbXn7EFwQsexWofDmdVfybqFre91_cMzZx11NEIWOKcVzo6drktsN_dGAzPMgsKrji40utMNnMf1V6ncM5oneemT2mk0dRa33Rht30y3zg7Fn0ujRocNS7vFyq3RG6R8/s320/cobrar.png" width="320" height="246" data-original-width="318" data-original-height="244" /></a></div>

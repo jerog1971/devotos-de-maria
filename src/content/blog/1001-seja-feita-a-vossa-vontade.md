@@ -1,7 +1,7 @@
 ---
 title: "Seja feita a Vossa Vontade..."
 date: 2016-07-12T11:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9D6CxEI5Q6HkYp1wv9wN_IC8Y79DSHJ7rhODmLwWCGoEXxPCq5p2_qpk2N-Qfz7bATwhLBeML4Om-2EH3cD9UDhWP88xfxG1i03kjKGM5Z_4noOEQFYPunBCNQ1YHhdUopWZ4-0XqX8/s320/rezando.png"
+heroImage: "/images/Piorezando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9D6CxEI5Q6HkYp1wv9wN_IC8Y79DSHJ7rhODmLwWCGoEXxPCq5p2_qpk2N-Qfz7bATwhLBeML4Om-2EH3cD9UDhWP88xfxG1i03kjKGM5Z_4noOEQFYPunBCNQ1YHhdUopWZ4-0XqX8/s1600/rezando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9D6CxEI5Q6HkYp1wv9wN_IC8Y79DSHJ7rhODmLwWCGoEXxPCq5p2_qpk2N-Qfz7bATwhLBeML4Om-2EH3cD9UDhWP88xfxG1i03kjKGM5Z_4noOEQFYPunBCNQ1YHhdUopWZ4-0XqX8/s320/rezando.png" width="271" height="320" data-original-width="327" data-original-height="386" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Como o Profeta Jonas"
 date: 2016-03-28T20:08:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinHzYr_mN079RCXCvRmAhKzZYdwQEKrSAWd8M4BHCMx4ieXcNOec3Bk73wi79O21LAh3xP1rusUxzlw2rKid_jG5GH26GuxJC7JzZpsDJ5cZM_WzHbU9K14dtFlzE_ZBnbO2qjjPiT5Do/s320/profeta_jonas.png"
+heroImage: "/images/profeta_jonas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinHzYr_mN079RCXCvRmAhKzZYdwQEKrSAWd8M4BHCMx4ieXcNOec3Bk73wi79O21LAh3xP1rusUxzlw2rKid_jG5GH26GuxJC7JzZpsDJ5cZM_WzHbU9K14dtFlzE_ZBnbO2qjjPiT5Do/s1600/profeta_jonas.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="387" data-original-width="548" height="226" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinHzYr_mN079RCXCvRmAhKzZYdwQEKrSAWd8M4BHCMx4ieXcNOec3Bk73wi79O21LAh3xP1rusUxzlw2rKid_jG5GH26GuxJC7JzZpsDJ5cZM_WzHbU9K14dtFlzE_ZBnbO2qjjPiT5Do/s320/profeta_jonas.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>

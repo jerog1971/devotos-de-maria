@@ -1,7 +1,7 @@
 ---
 title: "Cuida das mentiras"
 date: 2016-01-25T19:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsqZJKPR_DLIphnrktIhjbkDwfnrqXFO3LNrxIfoCOeq07WvjVCS4NfuJd_6VMwu0rwi7deIg9EkUZB0GYZB8-KCfkcDPqGZgNDOr9LKnf4Cm2nZQL8b9dnmLP90XS4bYld4177dUf-mI/s320/mentir.png"
+heroImage: "/images/mentir.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsqZJKPR_DLIphnrktIhjbkDwfnrqXFO3LNrxIfoCOeq07WvjVCS4NfuJd_6VMwu0rwi7deIg9EkUZB0GYZB8-KCfkcDPqGZgNDOr9LKnf4Cm2nZQL8b9dnmLP90XS4bYld4177dUf-mI/s1600/mentir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsqZJKPR_DLIphnrktIhjbkDwfnrqXFO3LNrxIfoCOeq07WvjVCS4NfuJd_6VMwu0rwi7deIg9EkUZB0GYZB8-KCfkcDPqGZgNDOr9LKnf4Cm2nZQL8b9dnmLP90XS4bYld4177dUf-mI/s320/mentir.png" width="320" height="320" data-original-width="224" data-original-height="224" /></a></div>

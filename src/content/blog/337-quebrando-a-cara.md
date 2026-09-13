@@ -1,7 +1,7 @@
 ---
 title: "Quebrando a cara"
 date: 2023-09-29T19:31:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtGSAqhFQyrm0PsHuD6LZq3nyUFA2bWo0dSvDB5pK9-qMeT7bV9r5VjJ5wO0stlyAP_n7h5k_557kFZShyphenhyphenrEcIxp9nH4B8jhtQlR0NGVb2o9IOFfsTMeSesRqMiPZeV_v8ogJnQXnjeGLcP7KSM9kG-IKQo_rw0nShpEAPdqioSQ-vls4DlpQCNGXvK2Q/s320/quebrando%20a%20cara.png"
+heroImage: "/images/quebrando a cara.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtGSAqhFQyrm0PsHuD6LZq3nyUFA2bWo0dSvDB5pK9-qMeT7bV9r5VjJ5wO0stlyAP_n7h5k_557kFZShyphenhyphenrEcIxp9nH4B8jhtQlR0NGVb2o9IOFfsTMeSesRqMiPZeV_v8ogJnQXnjeGLcP7KSM9kG-IKQo_rw0nShpEAPdqioSQ-vls4DlpQCNGXvK2Q/s418/quebrando%20a%20cara.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="418" height="254" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtGSAqhFQyrm0PsHuD6LZq3nyUFA2bWo0dSvDB5pK9-qMeT7bV9r5VjJ5wO0stlyAP_n7h5k_557kFZShyphenhyphenrEcIxp9nH4B8jhtQlR0NGVb2o9IOFfsTMeSesRqMiPZeV_v8ogJnQXnjeGLcP7KSM9kG-IKQo_rw0nShpEAPdqioSQ-vls4DlpQCNGXvK2Q/s320/quebrando%20a%20cara.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa expressão muita gente conhece, quebrar a cara é se dar

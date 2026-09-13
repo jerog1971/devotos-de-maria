@@ -1,7 +1,7 @@
 ---
 title: "Você Decide"
 date: 2018-09-05T16:34:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWeZfZN2EssATBmnN6scxt4JkN86Nffx-wRF6oT8vQWmiZqoVnrlMVyxmY8N3b2s2vPuXcztR6tc_Jc80ejsDjn59SgQ1JIML4bb-4xAezo9WE09yI8X43nWkHW2UNcr8O2yTH2CP7Uw/s320/escolha.png"
+heroImage: "/images/escolha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWeZfZN2EssATBmnN6scxt4JkN86Nffx-wRF6oT8vQWmiZqoVnrlMVyxmY8N3b2s2vPuXcztR6tc_Jc80ejsDjn59SgQ1JIML4bb-4xAezo9WE09yI8X43nWkHW2UNcr8O2yTH2CP7Uw/s1600/escolha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWeZfZN2EssATBmnN6scxt4JkN86Nffx-wRF6oT8vQWmiZqoVnrlMVyxmY8N3b2s2vPuXcztR6tc_Jc80ejsDjn59SgQ1JIML4bb-4xAezo9WE09yI8X43nWkHW2UNcr8O2yTH2CP7Uw/s320/escolha.png" width="320" height="283" data-original-width="705" data-original-height="623" /></a></div>

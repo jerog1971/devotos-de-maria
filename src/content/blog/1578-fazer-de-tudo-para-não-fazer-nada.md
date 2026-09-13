@@ -1,7 +1,7 @@
 ---
 title: "Fazer de tudo para não fazer nada"
 date: 2017-08-28T12:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW-IoBtqLkJ42J4kvBWQ2kB67j76aAW5b6yjPnU5slvzc3wKL3odbE8nxC0fm0xQqm57mUGkiMAY9lcyCVp8BLSb8H9e5-ymtOOvqQy-gMqV65QLPH1GdnS-oxk0hhH1WmN5Hh2SD7EaQ/s320/fazer_nada.png"
+heroImage: "/images/fazer_nada.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW-IoBtqLkJ42J4kvBWQ2kB67j76aAW5b6yjPnU5slvzc3wKL3odbE8nxC0fm0xQqm57mUGkiMAY9lcyCVp8BLSb8H9e5-ymtOOvqQy-gMqV65QLPH1GdnS-oxk0hhH1WmN5Hh2SD7EaQ/s1600/fazer_nada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW-IoBtqLkJ42J4kvBWQ2kB67j76aAW5b6yjPnU5slvzc3wKL3odbE8nxC0fm0xQqm57mUGkiMAY9lcyCVp8BLSb8H9e5-ymtOOvqQy-gMqV65QLPH1GdnS-oxk0hhH1WmN5Hh2SD7EaQ/s320/fazer_nada.png" width="320" height="265" data-original-width="318" data-original-height="263" /></a></div>

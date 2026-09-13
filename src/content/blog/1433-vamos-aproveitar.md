@@ -1,7 +1,7 @@
 ---
 title: "Vamos aproveitar"
 date: 2018-04-06T20:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7ctX_QJTasKJhAV0EjD1b2RTufsx_GexP9tdSNjuJWVzpWIZ2cjUALscnaAmoZY17v0d3ZAVjHqC1ZJxfsITj0oAafwC1r-tmBObd7FS3RLg_cHFQbibjKNd9_KBZbuGPo_ezaIxgMU/s320/festa.png"
+heroImage: "/images/festa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7ctX_QJTasKJhAV0EjD1b2RTufsx_GexP9tdSNjuJWVzpWIZ2cjUALscnaAmoZY17v0d3ZAVjHqC1ZJxfsITj0oAafwC1r-tmBObd7FS3RLg_cHFQbibjKNd9_KBZbuGPo_ezaIxgMU/s1600/festa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7ctX_QJTasKJhAV0EjD1b2RTufsx_GexP9tdSNjuJWVzpWIZ2cjUALscnaAmoZY17v0d3ZAVjHqC1ZJxfsITj0oAafwC1r-tmBObd7FS3RLg_cHFQbibjKNd9_KBZbuGPo_ezaIxgMU/s320/festa.png" width="290" height="320" data-original-width="362" data-original-height="400" /></a></div>

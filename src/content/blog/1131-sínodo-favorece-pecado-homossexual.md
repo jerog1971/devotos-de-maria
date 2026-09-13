@@ -1,7 +1,7 @@
 ---
 title: "Sínodo favorece pecado homossexual"
 date: 2026-05-26T12:59:25.167Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLB9ee2d2BBmeY3nnGALARZG0mhFPQgWvwmEQ24Ym7M21-FSizRljgXrbI3hBUO2zWht-kyegQXTntA_nadi0q1sH-tJSR-_wnqdak1S0tfE_Hs4Fe5am953zyOO-OZF7bmH2xgybwv6oyNgVMcjch6OK_Cdr5qV1FZPR1xYsOXYeJibEWL9s62Jl9yR8/s1600/s%C3%ADnodo.png"
+heroImage: "/images/sínodo.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLB9ee2d2BBmeY3nnGALARZG0mhFPQgWvwmEQ24Ym7M21-FSizRljgXrbI3hBUO2zWht-kyegQXTntA_nadi0q1sH-tJSR-_wnqdak1S0tfE_Hs4Fe5am953zyOO-OZF7bmH2xgybwv6oyNgVMcjch6OK_Cdr5qV1FZPR1xYsOXYeJibEWL9s62Jl9yR8/s317/s%C3%ADnodo.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="192" data-original-width="317" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLB9ee2d2BBmeY3nnGALARZG0mhFPQgWvwmEQ24Ym7M21-FSizRljgXrbI3hBUO2zWht-kyegQXTntA_nadi0q1sH-tJSR-_wnqdak1S0tfE_Hs4Fe5am953zyOO-OZF7bmH2xgybwv6oyNgVMcjch6OK_Cdr5qV1FZPR1xYsOXYeJibEWL9s62Jl9yR8/s1600/s%C3%ADnodo.png" width="317" /></a></div><p></p><p>Quem diria, que os bispos se esforçariam tanto para transformar as verdades divinas, reveladas biblicamente e imutáveis, em opções relativas para endossar e aprovar verdades alternativas para se chegar ao céu. Dizem que é preciso modernizar e atualizar. Povo sem noção, Jesus disse "eu sou o caminho, a verdade e a vida (João 14,6)" -- como ousam querer mexer nisso, transformar isso em paradigma para justificar uma necessidade de mudança?</p><p>No dia 5 de maio, a Secretaria-Geral do Sínodo [dos Bispos] divulgou 

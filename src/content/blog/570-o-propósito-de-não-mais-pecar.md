@@ -1,7 +1,7 @@
 ---
 title: "O propósito de não mais pecar"
 date: 2017-04-18T12:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_OoiI83xoqSTlW_bQpvo2poypEiatzj4GqkgvMXHvwoy9Fzd2TPtc2nCfzy9aYEx0oNiEdQlCMRQyLzEfOsh2Jq3ZGBsKWShWxbIddgFh81AUVhd7IWNEAqFSmLsHXnWuC7hP462eFdU/s320/minimizar.png"
+heroImage: "/images/minimizar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_OoiI83xoqSTlW_bQpvo2poypEiatzj4GqkgvMXHvwoy9Fzd2TPtc2nCfzy9aYEx0oNiEdQlCMRQyLzEfOsh2Jq3ZGBsKWShWxbIddgFh81AUVhd7IWNEAqFSmLsHXnWuC7hP462eFdU/s1600/minimizar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_OoiI83xoqSTlW_bQpvo2poypEiatzj4GqkgvMXHvwoy9Fzd2TPtc2nCfzy9aYEx0oNiEdQlCMRQyLzEfOsh2Jq3ZGBsKWShWxbIddgFh81AUVhd7IWNEAqFSmLsHXnWuC7hP462eFdU/s320/minimizar.png" width="320" height="169" data-original-width="615" data-original-height="324" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Aprendemos na bíblia que devemos vigiar e orar sem cessar"
 date: 2020-07-24T15:49:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLO-BTMFpUHO5Ti7M_2O0g-Ue1bfkUxVMUmmz23x6ekeyZZ7mAtIoDeUpYN-p1RER-Dz6IgnaenNhDqGJcuDxsFluQCK5yixhO55iWKzjzuV3qNNMEYB56q8Owte3XSHA0rE1pEGpFVGo/s320/Igreja_antiga_bairro_do_port%25C3%25A3o.jpg"
+heroImage: "/images/anti.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLO-BTMFpUHO5Ti7M_2O0g-Ue1bfkUxVMUmmz23x6ekeyZZ7mAtIoDeUpYN-p1RER-Dz6IgnaenNhDqGJcuDxsFluQCK5yixhO55iWKzjzuV3qNNMEYB56q8Owte3XSHA0rE1pEGpFVGo/s1560/Igreja_antiga_bairro_do_port%25C3%25A3o.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="1560" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLO-BTMFpUHO5Ti7M_2O0g-Ue1bfkUxVMUmmz23x6ekeyZZ7mAtIoDeUpYN-p1RER-Dz6IgnaenNhDqGJcuDxsFluQCK5yixhO55iWKzjzuV3qNNMEYB56q8Owte3XSHA0rE1pEGpFVGo/s320/Igreja_antiga_bairro_do_port%25C3%25A3o.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não só em tempos de necessidades, ou como o tempo em que

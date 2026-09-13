@@ -1,7 +1,7 @@
 ---
 title: "O veneno chamado tristeza"
 date: 2019-03-02T20:03:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWjR4lvy-5c4xtlT4GDPduj1IXvAuIggSs52vhERhTNR0yHYPOO7PYbh4yElCe23Rh2eaTb1O1h5rkcHml2U4jBZIRKv3vnlvuj0IXHgjp34kSlfgrBFRha2ZZg7EgImSg84JvVkWyPs/s320/tristeza.png"
+heroImage: "/images/morte alegria tristeza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWjR4lvy-5c4xtlT4GDPduj1IXvAuIggSs52vhERhTNR0yHYPOO7PYbh4yElCe23Rh2eaTb1O1h5rkcHml2U4jBZIRKv3vnlvuj0IXHgjp34kSlfgrBFRha2ZZg7EgImSg84JvVkWyPs/s1600/tristeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWjR4lvy-5c4xtlT4GDPduj1IXvAuIggSs52vhERhTNR0yHYPOO7PYbh4yElCe23Rh2eaTb1O1h5rkcHml2U4jBZIRKv3vnlvuj0IXHgjp34kSlfgrBFRha2ZZg7EgImSg84JvVkWyPs/s320/tristeza.png" width="317" height="320" data-original-width="312" data-original-height="315" /></a></div>

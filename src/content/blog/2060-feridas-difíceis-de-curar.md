@@ -1,7 +1,7 @@
 ---
 title: "Feridas difíceis de curar"
 date: 2023-05-28T13:09:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz9_pG9ygGIUBH_oUrAxJ1bfTcUgloeMakLMpzRP6hphs7hxFmHyWTFqhG-D-j1cG7xMJgNuHUUeX1Ss00hLToDl1BW79LH9YMQeeye-7XKFsaqCil6qWoGTcLnSYhcUR0mExqrAy8LC7jwZxeZv0RMPXdbq-__iTbWaro4J__POILtucs7G_1kuwE/s1600/feridas%20dificeis%20de%20curar.png"
+heroImage: "/images/feridas dificeis de curar.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz9_pG9ygGIUBH_oUrAxJ1bfTcUgloeMakLMpzRP6hphs7hxFmHyWTFqhG-D-j1cG7xMJgNuHUUeX1Ss00hLToDl1BW79LH9YMQeeye-7XKFsaqCil6qWoGTcLnSYhcUR0mExqrAy8LC7jwZxeZv0RMPXdbq-__iTbWaro4J__POILtucs7G_1kuwE/s264/feridas%20dificeis%20de%20curar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="221" data-original-width="264" height="221" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz9_pG9ygGIUBH_oUrAxJ1bfTcUgloeMakLMpzRP6hphs7hxFmHyWTFqhG-D-j1cG7xMJgNuHUUeX1Ss00hLToDl1BW79LH9YMQeeye-7XKFsaqCil6qWoGTcLnSYhcUR0mExqrAy8LC7jwZxeZv0RMPXdbq-__iTbWaro4J__POILtucs7G_1kuwE/s1600/feridas%20dificeis%20de%20curar.png" width="264" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certa vez, em uma de suas aparições para os santos, Jesus

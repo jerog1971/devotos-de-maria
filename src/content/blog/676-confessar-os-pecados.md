@@ -1,7 +1,7 @@
 ---
 title: "Confessar os pecados"
 date: 2021-04-14T19:06:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG8nA33-FBrCKrNDIp_wlxEWdo4hp4_uISQtQnKuODSaGezE1VbaaLf-jxd8oK2EsGYntQTff9lDzLtoJ64mxH4g2AScVtHnslzs-JKzfLaH5uPUdRIDeY0KKqODSg4X7ZJBGkgH-LT6E/s320/confessionario.png"
+heroImage: "/images/confessionario.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG8nA33-FBrCKrNDIp_wlxEWdo4hp4_uISQtQnKuODSaGezE1VbaaLf-jxd8oK2EsGYntQTff9lDzLtoJ64mxH4g2AScVtHnslzs-JKzfLaH5uPUdRIDeY0KKqODSg4X7ZJBGkgH-LT6E/s931/confessionario.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="772" data-original-width="931" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG8nA33-FBrCKrNDIp_wlxEWdo4hp4_uISQtQnKuODSaGezE1VbaaLf-jxd8oK2EsGYntQTff9lDzLtoJ64mxH4g2AScVtHnslzs-JKzfLaH5uPUdRIDeY0KKqODSg4X7ZJBGkgH-LT6E/s320/confessionario.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os cristãos de base católica acatam os dizeres bíblicos que

@@ -1,7 +1,7 @@
 ---
 title: "Quando o Marasmo te alcança"
 date: 2018-12-05T14:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEaYX0GSOEB_9FjCgy20roZ3pDEYadg1n4NYZJwQsAtkiYF5B1TiosV8KjQqX_h44sPpxhy9dzeINter-GaGWOcTgiHRuPwEW2x8EV_n3CbnYkBA2eS-mqoSvlWLLSbjN2P15rXAr-AxY/s320/marasmo.png"
+heroImage: "/images/marasmo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEaYX0GSOEB_9FjCgy20roZ3pDEYadg1n4NYZJwQsAtkiYF5B1TiosV8KjQqX_h44sPpxhy9dzeINter-GaGWOcTgiHRuPwEW2x8EV_n3CbnYkBA2eS-mqoSvlWLLSbjN2P15rXAr-AxY/s1600/marasmo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEaYX0GSOEB_9FjCgy20roZ3pDEYadg1n4NYZJwQsAtkiYF5B1TiosV8KjQqX_h44sPpxhy9dzeINter-GaGWOcTgiHRuPwEW2x8EV_n3CbnYkBA2eS-mqoSvlWLLSbjN2P15rXAr-AxY/s320/marasmo.png" width="320" height="310" data-original-width="387" data-original-height="375" /></a></div>

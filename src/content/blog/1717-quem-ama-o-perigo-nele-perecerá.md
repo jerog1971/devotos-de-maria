@@ -1,7 +1,7 @@
 ---
 title: "Quem ama o perigo nele perecerá"
 date: 2019-08-09T16:39:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvTaZTZpeHEothf3PSsaYGnLaKQRdVJDn06SF50dnIC6mPyr2j1a0_jKXrBwribqDWwkz9SBVlclEmixSF2ArwFGuJnt54G_UpI4sZoSnhvcqHxqtoTY171qWcExthqzFx93A9ExJNrqU/s320/brincando_com_o_perigo.png"
+heroImage: "/images/brincando_com_o_perigo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvTaZTZpeHEothf3PSsaYGnLaKQRdVJDn06SF50dnIC6mPyr2j1a0_jKXrBwribqDWwkz9SBVlclEmixSF2ArwFGuJnt54G_UpI4sZoSnhvcqHxqtoTY171qWcExthqzFx93A9ExJNrqU/s1600/brincando_com_o_perigo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvTaZTZpeHEothf3PSsaYGnLaKQRdVJDn06SF50dnIC6mPyr2j1a0_jKXrBwribqDWwkz9SBVlclEmixSF2ArwFGuJnt54G_UpI4sZoSnhvcqHxqtoTY171qWcExthqzFx93A9ExJNrqU/s320/brincando_com_o_perigo.png" width="316" height="320" data-original-width="343" data-original-height="347" /></a></div>

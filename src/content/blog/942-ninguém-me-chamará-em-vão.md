@@ -1,7 +1,7 @@
 ---
 title: "Ninguém me chamará em vão"
 date: 2018-10-01T20:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKJz57eH-SdTA5_EPONjqHU8Du-34S9XNdLu7WG3b_46Lca1FauDTpWhox-B0EE7RqM0UjBU00pSGVtYWH2wZ4zUkmLMrV4hLcdDSvHDCEXLX7mlwK5Q0i5jeGgZ6Of3NPhrKS5IGgro/s320/Santa+Teresinha.png"
+heroImage: "/images/teresinha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKJz57eH-SdTA5_EPONjqHU8Du-34S9XNdLu7WG3b_46Lca1FauDTpWhox-B0EE7RqM0UjBU00pSGVtYWH2wZ4zUkmLMrV4hLcdDSvHDCEXLX7mlwK5Q0i5jeGgZ6Of3NPhrKS5IGgro/s1600/Santa+Teresinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKJz57eH-SdTA5_EPONjqHU8Du-34S9XNdLu7WG3b_46Lca1FauDTpWhox-B0EE7RqM0UjBU00pSGVtYWH2wZ4zUkmLMrV4hLcdDSvHDCEXLX7mlwK5Q0i5jeGgZ6Of3NPhrKS5IGgro/s320/Santa+Teresinha.png" width="320" height="278" data-original-width="577" data-original-height="502" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Caminhamos aqui e ali"
 date: 2022-10-07T15:12:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIDANGBywfSm97ZBCuKY0AGC1Ewosyg4LZdOQ0VPejvapxoHOFTPZYfDjpB2YxHEbTfdI5j0uF7mH43j3wq57GfrNlNjxOMXTkIUipHSmcWM5LNABsLpp1mlBC_Rj2ovuTNbnD-yjQqaDb-TpdWulhCukcyPQLdUjJU6xWPcNv8t4qKw8If3ZAEPM/s1600/qual%20caminho%20seguir.png"
+heroImage: "/images/qual caminho seguir.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIDANGBywfSm97ZBCuKY0AGC1Ewosyg4LZdOQ0VPejvapxoHOFTPZYfDjpB2YxHEbTfdI5j0uF7mH43j3wq57GfrNlNjxOMXTkIUipHSmcWM5LNABsLpp1mlBC_Rj2ovuTNbnD-yjQqaDb-TpdWulhCukcyPQLdUjJU6xWPcNv8t4qKw8If3ZAEPM/s258/qual%20caminho%20seguir.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="217" data-original-width="258" height="217" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIDANGBywfSm97ZBCuKY0AGC1Ewosyg4LZdOQ0VPejvapxoHOFTPZYfDjpB2YxHEbTfdI5j0uF7mH43j3wq57GfrNlNjxOMXTkIUipHSmcWM5LNABsLpp1mlBC_Rj2ovuTNbnD-yjQqaDb-TpdWulhCukcyPQLdUjJU6xWPcNv8t4qKw8If3ZAEPM/s1600/qual%20caminho%20seguir.png" width="258" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Diariamente, infelizmente, o mundo segue enviando mais pessoas

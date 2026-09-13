@@ -1,7 +1,7 @@
 ---
 title: "O católico e as tatuagens"
 date: 2016-06-23T15:30:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP7ZWuKcvO60LL3Os1dInKwu5cLJ5RhO1JtPphLeelH5H6eYM25hohJBcBHUMR39dtr2bHgdR7CXwjF9eSaOawZMbRL3QcuiCFyXerVO63FEhZwaYYJactqCAAUNHBFeajGuzhUeF8C8/s320/tatuagem.png"
+heroImage: "/images/rock_tatuagem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP7ZWuKcvO60LL3Os1dInKwu5cLJ5RhO1JtPphLeelH5H6eYM25hohJBcBHUMR39dtr2bHgdR7CXwjF9eSaOawZMbRL3QcuiCFyXerVO63FEhZwaYYJactqCAAUNHBFeajGuzhUeF8C8/s1600/tatuagem.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="259" data-original-width="221" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP7ZWuKcvO60LL3Os1dInKwu5cLJ5RhO1JtPphLeelH5H6eYM25hohJBcBHUMR39dtr2bHgdR7CXwjF9eSaOawZMbRL3QcuiCFyXerVO63FEhZwaYYJactqCAAUNHBFeajGuzhUeF8C8/s320/tatuagem.png" width="273" /></a></div>

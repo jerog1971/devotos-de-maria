@@ -1,7 +1,7 @@
 ---
 title: "Deus pode te ajudar, o Diabo também: faça a sua escolha"
 date: 2019-11-18T16:50:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyLlSc0cGkYXPFdI21UpUXx2dsFLwYHcAZPd4zm0CgcmWNOKigS-qkXEF5quacn2Ni39ZnzccCgFm0Q9KzmRhmU0Z7_xCPa9sFG8KgPUVpDhQCMVRDjeLSs9waYUOjzUi4hgCC5RoMzw/s320/diabo+amigo.png"
+heroImage: "/images/diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyLlSc0cGkYXPFdI21UpUXx2dsFLwYHcAZPd4zm0CgcmWNOKigS-qkXEF5quacn2Ni39ZnzccCgFm0Q9KzmRhmU0Z7_xCPa9sFG8KgPUVpDhQCMVRDjeLSs9waYUOjzUi4hgCC5RoMzw/s1600/diabo+amigo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyLlSc0cGkYXPFdI21UpUXx2dsFLwYHcAZPd4zm0CgcmWNOKigS-qkXEF5quacn2Ni39ZnzccCgFm0Q9KzmRhmU0Z7_xCPa9sFG8KgPUVpDhQCMVRDjeLSs9waYUOjzUi4hgCC5RoMzw/s320/diabo+amigo.png" width="320" height="259" data-original-width="256" data-original-height="207" /></a></div>

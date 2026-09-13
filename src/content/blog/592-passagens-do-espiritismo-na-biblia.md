@@ -1,7 +1,7 @@
 ---
 title: "Passagens do Espiritismo na Biblia?"
 date: 2016-07-13T18:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxUu1LKyI4R1Ae996uaMhrBXXJ_HpxtVMNQBrOMLWEJ1BmkB8YFrWpA6JeY9mf0BmEXqH0oVKchM4pBnDdelHrlIkyGD4METf26QYCrM8aENdabDshp0QVYitKFMSSmmc6ggqztjIskQ/s320/passagens_do_espiritismo.png"
+heroImage: "/images/passagens_do_espiritismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxUu1LKyI4R1Ae996uaMhrBXXJ_HpxtVMNQBrOMLWEJ1BmkB8YFrWpA6JeY9mf0BmEXqH0oVKchM4pBnDdelHrlIkyGD4METf26QYCrM8aENdabDshp0QVYitKFMSSmmc6ggqztjIskQ/s1600/passagens_do_espiritismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxUu1LKyI4R1Ae996uaMhrBXXJ_HpxtVMNQBrOMLWEJ1BmkB8YFrWpA6JeY9mf0BmEXqH0oVKchM4pBnDdelHrlIkyGD4METf26QYCrM8aENdabDshp0QVYitKFMSSmmc6ggqztjIskQ/s320/passagens_do_espiritismo.png" width="320" height="168" data-original-width="403" data-original-height="212" /></a></div>

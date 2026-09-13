@@ -1,7 +1,7 @@
 ---
 title: "O louco"
 date: 2019-09-06T17:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2_mox8QXjJGjKqt0WS0y1fznBFIQPWedkxYsFp3Mw_UH4bALFsoo2h9XRas2RTO8fd3T4ur5_HCTyBHmqFh9gIbD-fqkvh94235qg2MVSrpn7HTbqkpJK9CeOjZDuUgGbIaL2bbbpuU/s320/louco.png"
+heroImage: "/images/louco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2_mox8QXjJGjKqt0WS0y1fznBFIQPWedkxYsFp3Mw_UH4bALFsoo2h9XRas2RTO8fd3T4ur5_HCTyBHmqFh9gIbD-fqkvh94235qg2MVSrpn7HTbqkpJK9CeOjZDuUgGbIaL2bbbpuU/s1600/louco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2_mox8QXjJGjKqt0WS0y1fznBFIQPWedkxYsFp3Mw_UH4bALFsoo2h9XRas2RTO8fd3T4ur5_HCTyBHmqFh9gIbD-fqkvh94235qg2MVSrpn7HTbqkpJK9CeOjZDuUgGbIaL2bbbpuU/s320/louco.png" width="320" height="317" data-original-width="302" data-original-height="299" /></a></div>

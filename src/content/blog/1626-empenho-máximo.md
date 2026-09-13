@@ -1,7 +1,7 @@
 ---
 title: "Empenho máximo"
 date: 2023-08-09T20:17:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1_SMXPayt5maJY5qi452N3dln5eGYCaWEsRGKuoqqpru-ovzh3smmpNZNBlakjIl2rE5ds0-Z2-IwalG1UDebqrzO8_jpgMpLginX-6hRXp5Goghz58DKr0R9_20uNRnNoRP7SMhAqIePWY8nfbZkBNm6n7Hh_8LYi1Z5Kj_d0BijpP_X_0RxN1QqVYg/s320/Empenho%20m%C3%A1ximo.png"
+heroImage: "/images/Empenho máximo 2.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1_SMXPayt5maJY5qi452N3dln5eGYCaWEsRGKuoqqpru-ovzh3smmpNZNBlakjIl2rE5ds0-Z2-IwalG1UDebqrzO8_jpgMpLginX-6hRXp5Goghz58DKr0R9_20uNRnNoRP7SMhAqIePWY8nfbZkBNm6n7Hh_8LYi1Z5Kj_d0BijpP_X_0RxN1QqVYg/s399/Empenho%20m%C3%A1ximo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="399" data-original-width="366" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1_SMXPayt5maJY5qi452N3dln5eGYCaWEsRGKuoqqpru-ovzh3smmpNZNBlakjIl2rE5ds0-Z2-IwalG1UDebqrzO8_jpgMpLginX-6hRXp5Goghz58DKr0R9_20uNRnNoRP7SMhAqIePWY8nfbZkBNm6n7Hh_8LYi1Z5Kj_d0BijpP_X_0RxN1QqVYg/s320/Empenho%20m%C3%A1ximo.png" width="294" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro que existe o ditado popular que fala sobre fazer o que

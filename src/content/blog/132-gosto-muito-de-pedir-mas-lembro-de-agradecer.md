@@ -1,7 +1,7 @@
 ---
 title: "Gosto muito de pedir, mas lembro de agradecer?"
 date: 2019-07-25T20:15:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDF9taEaY4ASQ2HZ97OvWPI1o_Qn4Fp9tY9kXmni5znCXlqgKexz3La1bpBiXNNcDkgJ5qPHjj1J99swz4kgjVtcyFAWb-MA4XfSCE6z-frCOB-_Vjog5vdLQyhS0cbk-kIHQnJKlqfHI/s320/Agradecer+a+Jesus.png"
+heroImage: "/images/Jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDF9taEaY4ASQ2HZ97OvWPI1o_Qn4Fp9tY9kXmni5znCXlqgKexz3La1bpBiXNNcDkgJ5qPHjj1J99swz4kgjVtcyFAWb-MA4XfSCE6z-frCOB-_Vjog5vdLQyhS0cbk-kIHQnJKlqfHI/s1600/Agradecer+a+Jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDF9taEaY4ASQ2HZ97OvWPI1o_Qn4Fp9tY9kXmni5znCXlqgKexz3La1bpBiXNNcDkgJ5qPHjj1J99swz4kgjVtcyFAWb-MA4XfSCE6z-frCOB-_Vjog5vdLQyhS0cbk-kIHQnJKlqfHI/s320/Agradecer+a+Jesus.png" width="298" height="320" data-original-width="609" data-original-height="654" /></a></div>

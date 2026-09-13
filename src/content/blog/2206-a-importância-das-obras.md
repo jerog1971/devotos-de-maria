@@ -1,7 +1,7 @@
 ---
 title: "A importância das obras"
 date: 2017-01-27T01:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEmzPTque4AAWXnZ0WYNYKxFY6CMRLmiGvDudpw-ooYk-v1m04M0Uzq_BqbRC0FokQsCfzWzfDMAgVkX8pguD8hWfEEauoBFvxzrR93csLnexeWepXQWEu3W0WikOTex1086WEjFhUpuk/s320/pantocrato.png"
+heroImage: "/images/pantocrato.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEmzPTque4AAWXnZ0WYNYKxFY6CMRLmiGvDudpw-ooYk-v1m04M0Uzq_BqbRC0FokQsCfzWzfDMAgVkX8pguD8hWfEEauoBFvxzrR93csLnexeWepXQWEu3W0WikOTex1086WEjFhUpuk/s1600/pantocrato.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="429" data-original-width="218" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEmzPTque4AAWXnZ0WYNYKxFY6CMRLmiGvDudpw-ooYk-v1m04M0Uzq_BqbRC0FokQsCfzWzfDMAgVkX8pguD8hWfEEauoBFvxzrR93csLnexeWepXQWEu3W0WikOTex1086WEjFhUpuk/s320/pantocrato.png" width="163" /></a></div>

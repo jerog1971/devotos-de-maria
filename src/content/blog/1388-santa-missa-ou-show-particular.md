@@ -1,7 +1,7 @@
 ---
 title: "Santa Missa ou show particular"
 date: 2020-05-09T22:29:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11VbSA3ITwfgrBbr9NcJf1cz22ahpYHIolitn7gLP5ecuWIvnHwVguhhMVlGLtnZspnXOSuIvduoS1STsVw96PYbAc21O55DBx0gLZetBEMHBMNyqsvluPspDW0T9kXIShloUJyntr4c/s320/padres_artistas.png"
+heroImage: "/images/padres_artistas.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11VbSA3ITwfgrBbr9NcJf1cz22ahpYHIolitn7gLP5ecuWIvnHwVguhhMVlGLtnZspnXOSuIvduoS1STsVw96PYbAc21O55DBx0gLZetBEMHBMNyqsvluPspDW0T9kXIShloUJyntr4c/" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="369" data-original-width="326" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11VbSA3ITwfgrBbr9NcJf1cz22ahpYHIolitn7gLP5ecuWIvnHwVguhhMVlGLtnZspnXOSuIvduoS1STsVw96PYbAc21O55DBx0gLZetBEMHBMNyqsvluPspDW0T9kXIShloUJyntr4c/s320/padres_artistas.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Bom, santa missa quem celebra é um pastor de Nosso Senhor

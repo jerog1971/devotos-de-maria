@@ -1,7 +1,7 @@
 ---
 title: "Siga o Evangelho"
 date: 2016-04-18T13:46:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmAeceAUW7QoLW5Asow0zh-mwJkdhtcUU1ZixDDa3ztuCSvaQ7NkgRS00Y6ZRUWErwZYk4nP__y3HRYAbwO-cU6zCTEfDH8DKKhyNXNehyphenhyphenPFBmEiMXdY7y5cJiLmPZDHjaEDv-nHQWqb8/s320/cruz.png"
+heroImage: "/images/cruz.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmAeceAUW7QoLW5Asow0zh-mwJkdhtcUU1ZixDDa3ztuCSvaQ7NkgRS00Y6ZRUWErwZYk4nP__y3HRYAbwO-cU6zCTEfDH8DKKhyNXNehyphenhyphenPFBmEiMXdY7y5cJiLmPZDHjaEDv-nHQWqb8/s1600/cruz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmAeceAUW7QoLW5Asow0zh-mwJkdhtcUU1ZixDDa3ztuCSvaQ7NkgRS00Y6ZRUWErwZYk4nP__y3HRYAbwO-cU6zCTEfDH8DKKhyNXNehyphenhyphenPFBmEiMXdY7y5cJiLmPZDHjaEDv-nHQWqb8/s320/cruz.png" width="320" height="307" data-original-width="446" data-original-height="428" /></a></div>

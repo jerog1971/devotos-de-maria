@@ -1,7 +1,7 @@
 ---
 title: "Berranês ou Gritânico, que língua você fala?"
 date: 2018-06-22T20:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRlLSz44_ZkzuRa41wTVT0HCIduEPrztR_iQyAJmJ-eAovMFM33u0BZvI0tBhqlzhuSX9HuBVNsDe18A8s_IabskGRXw4-TG4jxZmx4Y_g7w2zd35sl5KLvWy8AgQHHtlHGSAU7HmiBcU/s320/berrar.png"
+heroImage: "/images/berrar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRlLSz44_ZkzuRa41wTVT0HCIduEPrztR_iQyAJmJ-eAovMFM33u0BZvI0tBhqlzhuSX9HuBVNsDe18A8s_IabskGRXw4-TG4jxZmx4Y_g7w2zd35sl5KLvWy8AgQHHtlHGSAU7HmiBcU/s1600/berrar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRlLSz44_ZkzuRa41wTVT0HCIduEPrztR_iQyAJmJ-eAovMFM33u0BZvI0tBhqlzhuSX9HuBVNsDe18A8s_IabskGRXw4-TG4jxZmx4Y_g7w2zd35sl5KLvWy8AgQHHtlHGSAU7HmiBcU/s320/berrar.png" width="320" height="287" data-original-width="338" data-original-height="303" /></a></div>

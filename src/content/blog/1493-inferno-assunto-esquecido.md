@@ -1,7 +1,7 @@
 ---
 title: "Inferno - assunto esquecido"
 date: 2022-12-13T14:57:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYU2pFHcdM1tvTB24I1u4BGziy9hXKzbUu32vOpnPnRhlrp0b9XM5_omFxAXXy18PdviuA53v51Xx1BKCMAX47xrdwiM0zIzYWdmGCKcZq3fK8ob-E3pjYVAYfBedJw08i4Fqj1RT7t8JDpHSsyGi3jq5u2VIMv4R0Snjtkjd_Ti1zV5UhMHvgaOPG/s320/Inferno%20-%20assunto%20esquecido.png"
+heroImage: "/images/Inferno - assunto esquecido(1).png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYU2pFHcdM1tvTB24I1u4BGziy9hXKzbUu32vOpnPnRhlrp0b9XM5_omFxAXXy18PdviuA53v51Xx1BKCMAX47xrdwiM0zIzYWdmGCKcZq3fK8ob-E3pjYVAYfBedJw08i4Fqj1RT7t8JDpHSsyGi3jq5u2VIMv4R0Snjtkjd_Ti1zV5UhMHvgaOPG/s468/Inferno%20-%20assunto%20esquecido.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="420" data-original-width="468" height="287" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYU2pFHcdM1tvTB24I1u4BGziy9hXKzbUu32vOpnPnRhlrp0b9XM5_omFxAXXy18PdviuA53v51Xx1BKCMAX47xrdwiM0zIzYWdmGCKcZq3fK8ob-E3pjYVAYfBedJw08i4Fqj1RT7t8JDpHSsyGi3jq5u2VIMv4R0Snjtkjd_Ti1zV5UhMHvgaOPG/s320/Inferno%20-%20assunto%20esquecido.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já é de longa data que o tema do inferno foi deixado de

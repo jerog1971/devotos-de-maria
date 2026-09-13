@@ -1,7 +1,7 @@
 ---
 title: "O cristão pode \"brincar\" o carnaval?"
 date: 2018-02-10T16:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdfueKtmYFD25q0OSPjyTA_kbKCb0Q5xaHNZEXjeUW-ClN2oGNRTvAyc9LyVrdJcSk6SZ6frCsnbYUlu41AUo3dQccOG-mQ2rVDO4ent4shQTZWHT1NwpA-xgZw4ZDunoC_rw71CKsnl0/s320/carnaval.png"
+heroImage: "/images/carnaval.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdfueKtmYFD25q0OSPjyTA_kbKCb0Q5xaHNZEXjeUW-ClN2oGNRTvAyc9LyVrdJcSk6SZ6frCsnbYUlu41AUo3dQccOG-mQ2rVDO4ent4shQTZWHT1NwpA-xgZw4ZDunoC_rw71CKsnl0/s1600/carnaval.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdfueKtmYFD25q0OSPjyTA_kbKCb0Q5xaHNZEXjeUW-ClN2oGNRTvAyc9LyVrdJcSk6SZ6frCsnbYUlu41AUo3dQccOG-mQ2rVDO4ent4shQTZWHT1NwpA-xgZw4ZDunoC_rw71CKsnl0/s320/carnaval.png" width="320" height="320" data-original-width="521" data-original-height="521" /></a></div>

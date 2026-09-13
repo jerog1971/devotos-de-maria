@@ -1,7 +1,7 @@
 ---
 title: "A insatisfação"
 date: 2017-05-03T20:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhlYH9VG60BZTjFVPNbfUEgKtcLSl9d3sLZpg10Y1Y61WFN2z__LczJhyfkCqfSSiGYd3K5Cgt-bkc9n1cX26fhEamdB4hc4AkFGGoU7rJYkELB7WXdNjlo99ddBiQ5e5ywiLIGFi58d0/s320/cansado.png"
+heroImage: "/images/cansado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhlYH9VG60BZTjFVPNbfUEgKtcLSl9d3sLZpg10Y1Y61WFN2z__LczJhyfkCqfSSiGYd3K5Cgt-bkc9n1cX26fhEamdB4hc4AkFGGoU7rJYkELB7WXdNjlo99ddBiQ5e5ywiLIGFi58d0/s1600/cansado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhlYH9VG60BZTjFVPNbfUEgKtcLSl9d3sLZpg10Y1Y61WFN2z__LczJhyfkCqfSSiGYd3K5Cgt-bkc9n1cX26fhEamdB4hc4AkFGGoU7rJYkELB7WXdNjlo99ddBiQ5e5ywiLIGFi58d0/s320/cansado.png" width="320" height="313" data-original-width="172" data-original-height="168" /></a></div>

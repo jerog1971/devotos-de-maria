@@ -1,7 +1,7 @@
 ---
 title: "As coisas têm mudado"
 date: 2018-03-23T15:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyGx8ie8d6LygLYFn6BACGgQWf1n1ycle1fRudtdh7FrWWhkYomTyxSt-k8Deqm3LINUInfF8e5HdByS_NzGylnSTAyH9qch5CPIKigs2AtlucjlO35R_0VmTZfijCA-xznBHpQjdUc_k/s320/o_mal.png"
+heroImage: "/images/As_faces_do_mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyGx8ie8d6LygLYFn6BACGgQWf1n1ycle1fRudtdh7FrWWhkYomTyxSt-k8Deqm3LINUInfF8e5HdByS_NzGylnSTAyH9qch5CPIKigs2AtlucjlO35R_0VmTZfijCA-xznBHpQjdUc_k/s1600/o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyGx8ie8d6LygLYFn6BACGgQWf1n1ycle1fRudtdh7FrWWhkYomTyxSt-k8Deqm3LINUInfF8e5HdByS_NzGylnSTAyH9qch5CPIKigs2AtlucjlO35R_0VmTZfijCA-xznBHpQjdUc_k/s320/o_mal.png" width="320" height="318" data-original-width="603" data-original-height="599" /></a></div>

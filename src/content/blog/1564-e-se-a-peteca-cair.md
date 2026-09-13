@@ -1,7 +1,7 @@
 ---
 title: "E se a peteca cair?"
 date: 2018-10-15T17:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rC3J9xVIrwhTcmA8hgGFcFIbZUvh1SBHlPFvj5P4i3n6yQNYwtJ8oUc0aSySq1Id2-1YROCWldB2393FU-frPXA5_JT-Px5aVzDmLKW0TXCyu7paePSezTwySMq5FC-kHG1V61HFx30/s320/persistir.png"
+heroImage: "/images/persistir.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rC3J9xVIrwhTcmA8hgGFcFIbZUvh1SBHlPFvj5P4i3n6yQNYwtJ8oUc0aSySq1Id2-1YROCWldB2393FU-frPXA5_JT-Px5aVzDmLKW0TXCyu7paePSezTwySMq5FC-kHG1V61HFx30/s1600/persistir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rC3J9xVIrwhTcmA8hgGFcFIbZUvh1SBHlPFvj5P4i3n6yQNYwtJ8oUc0aSySq1Id2-1YROCWldB2393FU-frPXA5_JT-Px5aVzDmLKW0TXCyu7paePSezTwySMq5FC-kHG1V61HFx30/s320/persistir.png" width="320" height="298" data-original-width="457" data-original-height="426" /></a></div>

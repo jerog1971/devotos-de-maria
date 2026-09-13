@@ -1,7 +1,7 @@
 ---
 title: "A vida é curta, então curta um caso"
 date: 2016-10-10T19:35:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivtybCEqE4Axncu6aSN2b0n3zSlHtGGK3PQRp5OIiBXqgDBqa6Ss5KH3MIPbcH3wHOxLwVIE82s6ehrUNyPPx0W0tIgQV9iTgVT0EHSZEVIi39UJZuVDWGbRU2GEOXBWmdQBF8GgKVWjI/s320/caso.png"
+heroImage: "/images/caso.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivtybCEqE4Axncu6aSN2b0n3zSlHtGGK3PQRp5OIiBXqgDBqa6Ss5KH3MIPbcH3wHOxLwVIE82s6ehrUNyPPx0W0tIgQV9iTgVT0EHSZEVIi39UJZuVDWGbRU2GEOXBWmdQBF8GgKVWjI/s1600/caso.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivtybCEqE4Axncu6aSN2b0n3zSlHtGGK3PQRp5OIiBXqgDBqa6Ss5KH3MIPbcH3wHOxLwVIE82s6ehrUNyPPx0W0tIgQV9iTgVT0EHSZEVIi39UJZuVDWGbRU2GEOXBWmdQBF8GgKVWjI/s320/caso.png" width="320" height="275" data-original-width="424" data-original-height="364" /></a></div>

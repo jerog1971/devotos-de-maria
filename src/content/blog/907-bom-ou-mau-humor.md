@@ -1,7 +1,7 @@
 ---
 title: "Bom ou Mau Humor"
 date: 2017-05-03T17:35:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDdEKKZ0WoDAhTqQYOdcvmOaEReAs2IapNCza-JoQPwGe8T__xNUUy49J9HrU47fiqs1ZvUhnbpm62chI6OLsncY1Zuczz5XQLfSOOmrPY750SFaaUvN6MJOyLckHOtwQvEQNZalQw7Ps/s320/Sofia03052017.jpg"
+heroImage: "/images/Sofia03052017.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDdEKKZ0WoDAhTqQYOdcvmOaEReAs2IapNCza-JoQPwGe8T__xNUUy49J9HrU47fiqs1ZvUhnbpm62chI6OLsncY1Zuczz5XQLfSOOmrPY750SFaaUvN6MJOyLckHOtwQvEQNZalQw7Ps/s1600/Sofia03052017.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="565" data-original-width="578" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDdEKKZ0WoDAhTqQYOdcvmOaEReAs2IapNCza-JoQPwGe8T__xNUUy49J9HrU47fiqs1ZvUhnbpm62chI6OLsncY1Zuczz5XQLfSOOmrPY750SFaaUvN6MJOyLckHOtwQvEQNZalQw7Ps/s320/Sofia03052017.jpg" width="320" /></a></div>

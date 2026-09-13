@@ -1,7 +1,7 @@
 ---
 title: "Ser pai e ser cristão"
 date: 2016-08-23T12:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J8f0Ii7JBcYyuzmL8rJwFAPHdqQWdP_TYIRb1S5NreqrYPLkTlGz2zkLy4wWd_cCmkdPizuEx-hhh2tTANuNLmV4BNyu3H3zAcR6xrsYh7kfrAQkYhJKws29U7DuYWJwJFeKkVeLWWc/s320/familia.png"
+heroImage: "/images/devoção a familia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J8f0Ii7JBcYyuzmL8rJwFAPHdqQWdP_TYIRb1S5NreqrYPLkTlGz2zkLy4wWd_cCmkdPizuEx-hhh2tTANuNLmV4BNyu3H3zAcR6xrsYh7kfrAQkYhJKws29U7DuYWJwJFeKkVeLWWc/s1600/familia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0J8f0Ii7JBcYyuzmL8rJwFAPHdqQWdP_TYIRb1S5NreqrYPLkTlGz2zkLy4wWd_cCmkdPizuEx-hhh2tTANuNLmV4BNyu3H3zAcR6xrsYh7kfrAQkYhJKws29U7DuYWJwJFeKkVeLWWc/s320/familia.png" width="320" height="244" data-original-width="371" data-original-height="283" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O comum nem sempre é o certo"
 date: 2024-01-15T18:09:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDNy306yzZO9w-UsHAPqp7iVJt7gGsMeJ2q8CuOrOh5WuOaAXaBedUQyJLj4zbBVGc4CCXvNFJKnr4Zn6YvbhUCvhCO8yQEmZZKrxSpUcZsIBTcEGdj_WGKOs8-_-lY3mJn0idNb_eBecioUcTB7xLK9vHJx5uWn-jHSdqmlxAuyh2zSgkgxGtK40TU/s320/serm%C3%A3o.png"
+heroImage: "/images/sermão.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDNy306yzZO9w-UsHAPqp7iVJt7gGsMeJ2q8CuOrOh5WuOaAXaBedUQyJLj4zbBVGc4CCXvNFJKnr4Zn6YvbhUCvhCO8yQEmZZKrxSpUcZsIBTcEGdj_WGKOs8-_-lY3mJn0idNb_eBecioUcTB7xLK9vHJx5uWn-jHSdqmlxAuyh2zSgkgxGtK40TU/s553/serm%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzDNy306yzZO9w-UsHAPqp7iVJt7gGsMeJ2q8CuOrOh5WuOaAXaBedUQyJLj4zbBVGc4CCXvNFJKnr4Zn6YvbhUCvhCO8yQEmZZKrxSpUcZsIBTcEGdj_WGKOs8-_-lY3mJn0idNb_eBecioUcTB7xLK9vHJx5uWn-jHSdqmlxAuyh2zSgkgxGtK40TU/s320/serm%C3%A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esta é uma das sutilezas do mal; ele prolifera suas ideologias

@@ -1,7 +1,7 @@
 ---
 title: "Os estágios de Deus"
 date: 2016-12-26T14:57:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Dcbc3SQ0tkX1CBvyiWHaDiieLOCuWaZKNKUS-AUhxB4xJUcQsTeEcXHw5NrWIwgpTdJgo_9rHCWqy3uYw7io5q_Z4z_xzmiTxyl2XFsfEnMG588fwUkzpqkbOilXAwdMU4HlTuVTCw8/s320/estagios.png"
+heroImage: "/images/estagios.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Dcbc3SQ0tkX1CBvyiWHaDiieLOCuWaZKNKUS-AUhxB4xJUcQsTeEcXHw5NrWIwgpTdJgo_9rHCWqy3uYw7io5q_Z4z_xzmiTxyl2XFsfEnMG588fwUkzpqkbOilXAwdMU4HlTuVTCw8/s1600/estagios.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Dcbc3SQ0tkX1CBvyiWHaDiieLOCuWaZKNKUS-AUhxB4xJUcQsTeEcXHw5NrWIwgpTdJgo_9rHCWqy3uYw7io5q_Z4z_xzmiTxyl2XFsfEnMG588fwUkzpqkbOilXAwdMU4HlTuVTCw8/s320/estagios.png" width="320" height="272" data-original-width="476" data-original-height="405" /></a></div>

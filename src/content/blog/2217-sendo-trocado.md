@@ -1,7 +1,7 @@
 ---
 title: "Sendo trocado"
 date: 2018-12-12T17:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4G8Q5CJsI39ILZAXsv1HC25aCK5z0rmmVrat-sMBHn4rj9Sg29SJdtub5UF93HEzF3h_KbPgd0LosCalwb95dDFxNVqTT5j4_CU-A7QL0QnJKWjCmsjhoqglJIXzuKRRd8xUBC0Kkojg/s320/Sendo_trocado.png"
+heroImage: "/images/Sendo_trocado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4G8Q5CJsI39ILZAXsv1HC25aCK5z0rmmVrat-sMBHn4rj9Sg29SJdtub5UF93HEzF3h_KbPgd0LosCalwb95dDFxNVqTT5j4_CU-A7QL0QnJKWjCmsjhoqglJIXzuKRRd8xUBC0Kkojg/s1600/Sendo_trocado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4G8Q5CJsI39ILZAXsv1HC25aCK5z0rmmVrat-sMBHn4rj9Sg29SJdtub5UF93HEzF3h_KbPgd0LosCalwb95dDFxNVqTT5j4_CU-A7QL0QnJKWjCmsjhoqglJIXzuKRRd8xUBC0Kkojg/s320/Sendo_trocado.png" width="320" height="262" data-original-width="614" data-original-height="503" /></a></div>

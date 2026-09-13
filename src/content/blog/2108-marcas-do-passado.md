@@ -1,7 +1,7 @@
 ---
 title: "Marcas do Passado"
 date: 2018-07-23T23:22:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-T85PVvAoR-7rF6W1iMXy0_Gcz_FcuN-MRCEFgXoT4jg0P0OREq_l_xFTCjF8XTSzpKWJ7mvy4la1kmihrc9INrPBJsLNpOFBTBfDZd4wlFv26n366ttPdA8oeRQqCqHnS_3A8gV9DpA/s320/passado.png"
+heroImage: "/images/passado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-T85PVvAoR-7rF6W1iMXy0_Gcz_FcuN-MRCEFgXoT4jg0P0OREq_l_xFTCjF8XTSzpKWJ7mvy4la1kmihrc9INrPBJsLNpOFBTBfDZd4wlFv26n366ttPdA8oeRQqCqHnS_3A8gV9DpA/s1600/passado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-T85PVvAoR-7rF6W1iMXy0_Gcz_FcuN-MRCEFgXoT4jg0P0OREq_l_xFTCjF8XTSzpKWJ7mvy4la1kmihrc9INrPBJsLNpOFBTBfDZd4wlFv26n366ttPdA8oeRQqCqHnS_3A8gV9DpA/s320/passado.png" width="308" height="320" data-original-width="177" data-original-height="184" /></a></div>

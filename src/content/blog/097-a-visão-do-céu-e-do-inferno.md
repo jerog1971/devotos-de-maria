@@ -1,7 +1,7 @@
 ---
 title: "A visão do céu e do inferno"
 date: 2019-11-12T20:20:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnV3bF6fl3NZ2EowRpBfT_Qw1E2PSaQ1lxnEqTMd0AoZV1H5-pNNc8DlhMPnwSi2u7WuROCDSzPDtdiFf5ricDbW149e-qtHTEqLQYQQnux_bRxMq90BkvnGcwg4PHUHVcWyth0ZBZpRk/s320/inferno.png"
+heroImage: "/images/João Bosco e o Inferno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnV3bF6fl3NZ2EowRpBfT_Qw1E2PSaQ1lxnEqTMd0AoZV1H5-pNNc8DlhMPnwSi2u7WuROCDSzPDtdiFf5ricDbW149e-qtHTEqLQYQQnux_bRxMq90BkvnGcwg4PHUHVcWyth0ZBZpRk/s1600/inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnV3bF6fl3NZ2EowRpBfT_Qw1E2PSaQ1lxnEqTMd0AoZV1H5-pNNc8DlhMPnwSi2u7WuROCDSzPDtdiFf5ricDbW149e-qtHTEqLQYQQnux_bRxMq90BkvnGcwg4PHUHVcWyth0ZBZpRk/s320/inferno.png" width="320" height="263" data-original-width="362" data-original-height="298" /></a></div>

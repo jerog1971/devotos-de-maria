@@ -1,7 +1,7 @@
 ---
 title: "Temperamentos difíceis"
 date: 2022-06-03T19:03:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTKCveNSXnCbXr0fvIwdj_AqjssqH3URBUMbj0IO3xMNgXTjawZqJUI_3PnXFQ2rGHJVy1QYAbsrZmJ-uCLt1nUPFleBaJmXzfiVZJUxAP0DcILsZWCCVAnZTNtakc9wm-G6T_OKDVC9JGRjS_QYqunMLKf64u_PFLg1lr0q-EV35kpZX7L04zL9OL/s320/temperamentos%20dif%C3%ADceis.png"
+heroImage: "/images/temperamentos difíceis.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTKCveNSXnCbXr0fvIwdj_AqjssqH3URBUMbj0IO3xMNgXTjawZqJUI_3PnXFQ2rGHJVy1QYAbsrZmJ-uCLt1nUPFleBaJmXzfiVZJUxAP0DcILsZWCCVAnZTNtakc9wm-G6T_OKDVC9JGRjS_QYqunMLKf64u_PFLg1lr0q-EV35kpZX7L04zL9OL/s811/temperamentos%20dif%C3%ADceis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="811" height="210" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTKCveNSXnCbXr0fvIwdj_AqjssqH3URBUMbj0IO3xMNgXTjawZqJUI_3PnXFQ2rGHJVy1QYAbsrZmJ-uCLt1nUPFleBaJmXzfiVZJUxAP0DcILsZWCCVAnZTNtakc9wm-G6T_OKDVC9JGRjS_QYqunMLKf64u_PFLg1lr0q-EV35kpZX7L04zL9OL/s320/temperamentos%20dif%C3%ADceis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na ira não pequeis, não deixe o sol se por sobre o seu

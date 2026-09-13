@@ -1,7 +1,7 @@
 ---
 title: "Amar o pecador e odiar o pecado"
 date: 2016-11-03T12:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp09NwXA9L9BrtTzjWKD2fqUKhT75Z5pJvoYXSWFpzos7awPVDmvut7HyoHfIGUiROzOxqxEes8AzcBkvdm3DvQVvjVLI8QuVs4IDiWC8WuV3M9tu7__WbvKQe3vkj5FLHlMZW7Ul5eiE/s320/madalena.png"
+heroImage: "/images/madalena.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp09NwXA9L9BrtTzjWKD2fqUKhT75Z5pJvoYXSWFpzos7awPVDmvut7HyoHfIGUiROzOxqxEes8AzcBkvdm3DvQVvjVLI8QuVs4IDiWC8WuV3M9tu7__WbvKQe3vkj5FLHlMZW7Ul5eiE/s1600/madalena.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp09NwXA9L9BrtTzjWKD2fqUKhT75Z5pJvoYXSWFpzos7awPVDmvut7HyoHfIGUiROzOxqxEes8AzcBkvdm3DvQVvjVLI8QuVs4IDiWC8WuV3M9tu7__WbvKQe3vkj5FLHlMZW7Ul5eiE/s320/madalena.png" width="320" height="240" data-original-width="315" data-original-height="236" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Emendar-se por toda a vida"
 date: 2020-06-25T16:13:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9GuzBO_zJVfemFxDDzJ9BBt7LPqyYSmALIl3fivvXQaf9VZmbfSbThyphenhyphensowfVTZ1txhOIRcHAT-ixNKrYwrPV9VgZwA7jipmtMVbptWQF6J6IYYn8vDaTbBpLc2o8rD4EdwPiK8aLAlM/"
+heroImage: "/images/mal.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9GuzBO_zJVfemFxDDzJ9BBt7LPqyYSmALIl3fivvXQaf9VZmbfSbThyphenhyphensowfVTZ1txhOIRcHAT-ixNKrYwrPV9VgZwA7jipmtMVbptWQF6J6IYYn8vDaTbBpLc2o8rD4EdwPiK8aLAlM/s316/exame.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9GuzBO_zJVfemFxDDzJ9BBt7LPqyYSmALIl3fivvXQaf9VZmbfSbThyphenhyphensowfVTZ1txhOIRcHAT-ixNKrYwrPV9VgZwA7jipmtMVbptWQF6J6IYYn8vDaTbBpLc2o8rD4EdwPiK8aLAlM/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Sê vigilante e diligente no serviço de Deus, e pergunta-te a

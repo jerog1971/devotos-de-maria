@@ -1,7 +1,7 @@
 ---
 title: "Consagrar-se a Deus"
 date: 2016-05-30T17:39:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLvkpQCIUbiFUPhDrIHyXRdSRg43UZu9PPDZBophrSvaxOPldLBd6gCeJnrxbQ2WtrK7EW7jxMIlxGTLVRV41mw3diMWDJ2QzpeR4rppfQQm6lIcWoy1qQBzo-yUgfGJu5-ohRK8NaxQ/s200/importancia.png"
+heroImage: "/images/importancia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLvkpQCIUbiFUPhDrIHyXRdSRg43UZu9PPDZBophrSvaxOPldLBd6gCeJnrxbQ2WtrK7EW7jxMIlxGTLVRV41mw3diMWDJ2QzpeR4rppfQQm6lIcWoy1qQBzo-yUgfGJu5-ohRK8NaxQ/s1600/importancia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLvkpQCIUbiFUPhDrIHyXRdSRg43UZu9PPDZBophrSvaxOPldLBd6gCeJnrxbQ2WtrK7EW7jxMIlxGTLVRV41mw3diMWDJ2QzpeR4rppfQQm6lIcWoy1qQBzo-yUgfGJu5-ohRK8NaxQ/s200/importancia.png" width="152" height="200" data-original-width="387" data-original-height="508" /></a></div>

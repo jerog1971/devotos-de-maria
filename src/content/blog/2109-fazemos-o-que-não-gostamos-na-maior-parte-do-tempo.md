@@ -1,7 +1,7 @@
 ---
 title: "Fazemos o que não gostamos na maior parte do tempo"
 date: 2016-09-28T13:10:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU3KauBv8iUo46tYI-d1vRUod4euqgvFZSIgoWeLTZRMf1X-dmGZ8lvzD9XKv6gDMtclCoTnyF4uVXNVBWCDwAAojQyTAZaWFMgRopBnHealPArdQcJffO3TGJypgF6P2NHDF7BbT2EUU/s320/gostar.png"
+heroImage: "/images/gostar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU3KauBv8iUo46tYI-d1vRUod4euqgvFZSIgoWeLTZRMf1X-dmGZ8lvzD9XKv6gDMtclCoTnyF4uVXNVBWCDwAAojQyTAZaWFMgRopBnHealPArdQcJffO3TGJypgF6P2NHDF7BbT2EUU/s1600/gostar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU3KauBv8iUo46tYI-d1vRUod4euqgvFZSIgoWeLTZRMf1X-dmGZ8lvzD9XKv6gDMtclCoTnyF4uVXNVBWCDwAAojQyTAZaWFMgRopBnHealPArdQcJffO3TGJypgF6P2NHDF7BbT2EUU/s320/gostar.png" width="320" height="204" data-original-width="279" data-original-height="178" /></a></div>

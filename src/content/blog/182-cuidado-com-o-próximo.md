@@ -1,7 +1,7 @@
 ---
 title: "Cuidado com o próximo"
 date: 2018-06-13T17:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9p58t1VYgK3TkwmzbsnAQS9-lfvt9o8iEvDXfsXQVLXno8pPadRsrZMZ9BiLpOKt3xxr2MgmEZiIKqJArRmOlJl4LlMQGnryi8h4r2M8yH_tMhzqMXSKALrJLYZLeY-OHJAn0_wLqq8/s320/Kristen.png"
+heroImage: "/images/Kristen.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9p58t1VYgK3TkwmzbsnAQS9-lfvt9o8iEvDXfsXQVLXno8pPadRsrZMZ9BiLpOKt3xxr2MgmEZiIKqJArRmOlJl4LlMQGnryi8h4r2M8yH_tMhzqMXSKALrJLYZLeY-OHJAn0_wLqq8/s1600/Kristen.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9p58t1VYgK3TkwmzbsnAQS9-lfvt9o8iEvDXfsXQVLXno8pPadRsrZMZ9BiLpOKt3xxr2MgmEZiIKqJArRmOlJl4LlMQGnryi8h4r2M8yH_tMhzqMXSKALrJLYZLeY-OHJAn0_wLqq8/s320/Kristen.png" width="320" height="245" data-original-width="519" data-original-height="398" /></a></div>

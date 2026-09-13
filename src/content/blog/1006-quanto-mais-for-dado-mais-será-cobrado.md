@@ -1,7 +1,7 @@
 ---
 title: "Quanto mais for dado, mais será cobrado"
 date: 2023-10-27T17:46:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNK-tYGiC6h8MwDJ1YmcuAGpE7sRsTr0m0pSObUw3No8ocx18lrLC3fW3LtJz2A1_35s9wVTDgHUisJUCf6KIc8GGMBzENKuwwJ80oJiq8Or6Oo02SFbc3KmnEBDbvTXMtf68HNUqwORAiM1F_swq7n2pJYPb9B324pXfNI3-DXh2BvH0v1IxSCLP4k6c/s1600/juiz.png"
+heroImage: "/images/juiz.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNK-tYGiC6h8MwDJ1YmcuAGpE7sRsTr0m0pSObUw3No8ocx18lrLC3fW3LtJz2A1_35s9wVTDgHUisJUCf6KIc8GGMBzENKuwwJ80oJiq8Or6Oo02SFbc3KmnEBDbvTXMtf68HNUqwORAiM1F_swq7n2pJYPb9B324pXfNI3-DXh2BvH0v1IxSCLP4k6c/s318/juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNK-tYGiC6h8MwDJ1YmcuAGpE7sRsTr0m0pSObUw3No8ocx18lrLC3fW3LtJz2A1_35s9wVTDgHUisJUCf6KIc8GGMBzENKuwwJ80oJiq8Or6Oo02SFbc3KmnEBDbvTXMtf68HNUqwORAiM1F_swq7n2pJYPb9B324pXfNI3-DXh2BvH0v1IxSCLP4k6c/s1600/juiz.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa afirmação do Cristo é de causar espanto e temor em muitos

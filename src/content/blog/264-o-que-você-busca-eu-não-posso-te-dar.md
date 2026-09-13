@@ -1,7 +1,7 @@
 ---
 title: "O que você busca eu não posso te dar"
 date: 2018-01-02T16:48:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGLl-wyTaoHTYf-SWn2FaCevwIKIqJpiCKxKlIkLTeV-PcZNg3_Z40USyEMSasuHmAsKwNyz0Si8RFTLRGYCzmivEe1B8JrH9dZfQTU5v4bXbu-tcEXpcfds4cJ4KqPNFb1AJVsgkJ1SE/s320/tristeza.png"
+heroImage: "/images/morte alegria tristeza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGLl-wyTaoHTYf-SWn2FaCevwIKIqJpiCKxKlIkLTeV-PcZNg3_Z40USyEMSasuHmAsKwNyz0Si8RFTLRGYCzmivEe1B8JrH9dZfQTU5v4bXbu-tcEXpcfds4cJ4KqPNFb1AJVsgkJ1SE/s1600/tristeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGLl-wyTaoHTYf-SWn2FaCevwIKIqJpiCKxKlIkLTeV-PcZNg3_Z40USyEMSasuHmAsKwNyz0Si8RFTLRGYCzmivEe1B8JrH9dZfQTU5v4bXbu-tcEXpcfds4cJ4KqPNFb1AJVsgkJ1SE/s320/tristeza.png" width="320" height="272" data-original-width="300" data-original-height="255" /></a></div>

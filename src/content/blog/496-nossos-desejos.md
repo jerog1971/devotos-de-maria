@@ -1,7 +1,7 @@
 ---
 title: "Nossos desejos"
 date: 2021-04-16T18:49:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4QQtIgSsXUMP3CQ6Xrha_vvLitX-QC8seJV58R7BYwkw-kkdNBE0s6wfz_mPhm5HcJENiz9Im-OH62Nt4bWkm4B_1hFUfCIbuoaoeMqDS1CCAVm5yjZTExwSRpK_kYxsWaLKr0xnXwCg/s320/Nossos+desejos.png"
+heroImage: "/images/desejo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4QQtIgSsXUMP3CQ6Xrha_vvLitX-QC8seJV58R7BYwkw-kkdNBE0s6wfz_mPhm5HcJENiz9Im-OH62Nt4bWkm4B_1hFUfCIbuoaoeMqDS1CCAVm5yjZTExwSRpK_kYxsWaLKr0xnXwCg/s424/Nossos+desejos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="424" data-original-width="385" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4QQtIgSsXUMP3CQ6Xrha_vvLitX-QC8seJV58R7BYwkw-kkdNBE0s6wfz_mPhm5HcJENiz9Im-OH62Nt4bWkm4B_1hFUfCIbuoaoeMqDS1CCAVm5yjZTExwSRpK_kYxsWaLKr0xnXwCg/s320/Nossos+desejos.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O desejo humano alcança um leque imenso de opções. E embora

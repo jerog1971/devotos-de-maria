@@ -1,7 +1,7 @@
 ---
 title: "Tenho que me enxergar"
 date: 2023-04-24T14:18:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjBRwn6dAoaeWl8GxGbJTzm5TGYiSWJhhCl4Y9p36a7RMlKLAXpoEEDyF4MTee-voX90MAV2C3JYwgnaKlOxAbQCbbPz8gduaQkCrN1KaEL0xGHhms9UrtGGyQRmbvSUmeisdW9qirYsHE6Zq6X-86oyTd_eqGNrlD_nB9XOrk-rY5-TH9DRjR28p9/s320/tenho%20que%20me%20enxergar.png"
+heroImage: "/images/enxergar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjBRwn6dAoaeWl8GxGbJTzm5TGYiSWJhhCl4Y9p36a7RMlKLAXpoEEDyF4MTee-voX90MAV2C3JYwgnaKlOxAbQCbbPz8gduaQkCrN1KaEL0xGHhms9UrtGGyQRmbvSUmeisdW9qirYsHE6Zq6X-86oyTd_eqGNrlD_nB9XOrk-rY5-TH9DRjR28p9/s424/tenho%20que%20me%20enxergar.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="405" data-original-width="424" height="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjBRwn6dAoaeWl8GxGbJTzm5TGYiSWJhhCl4Y9p36a7RMlKLAXpoEEDyF4MTee-voX90MAV2C3JYwgnaKlOxAbQCbbPz8gduaQkCrN1KaEL0xGHhms9UrtGGyQRmbvSUmeisdW9qirYsHE6Zq6X-86oyTd_eqGNrlD_nB9XOrk-rY5-TH9DRjR28p9/s320/tenho%20que%20me%20enxergar.png" width="320" /></a></div><p class="MsoNormal">Quisera eu ser perfeito.<o:p></o:p></p><p class="MsoNormal">Quisera por Deus

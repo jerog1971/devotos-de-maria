@@ -1,7 +1,7 @@
 ---
 title: "A igreja de hoje"
 date: 2015-12-17T14:16:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjHEQ3UISQb7J8H0EnLI1FCEn-vU8LglQm0tgfLxf2utkvuaEHJaeueItDqu1rlRnqmq-Pwj0PktrRirSK5whaYIUV284kgYM7eR9cb-ta7kbhQhkggOuYIJ11x21RO2UkNiFlrbj6thU/s320/padre_malachi.png"
+heroImage: "/images/padre_malachi.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjHEQ3UISQb7J8H0EnLI1FCEn-vU8LglQm0tgfLxf2utkvuaEHJaeueItDqu1rlRnqmq-Pwj0PktrRirSK5whaYIUV284kgYM7eR9cb-ta7kbhQhkggOuYIJ11x21RO2UkNiFlrbj6thU/s1600/padre_malachi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjHEQ3UISQb7J8H0EnLI1FCEn-vU8LglQm0tgfLxf2utkvuaEHJaeueItDqu1rlRnqmq-Pwj0PktrRirSK5whaYIUV284kgYM7eR9cb-ta7kbhQhkggOuYIJ11x21RO2UkNiFlrbj6thU/s320/padre_malachi.png" width="319" height="320" data-original-width="444" data-original-height="446" /></a></div>

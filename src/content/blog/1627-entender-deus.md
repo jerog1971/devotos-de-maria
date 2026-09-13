@@ -1,7 +1,7 @@
 ---
 title: "Entender Deus"
 date: 2016-11-11T16:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIil9lQ2FqSy0b2fWsC_LSSGqhsCn6R_WMvQY956X72K9bOm0S3bDzI_cfVzUM81fmON105y0JiS2mZDVDNw0t_ZzVIGVicww4wmCvyA7DpSWo4D8S0HHmR88tDcxncVSbVep001k6U9k/s320/deus.png"
+heroImage: "/images/Ausência de Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIil9lQ2FqSy0b2fWsC_LSSGqhsCn6R_WMvQY956X72K9bOm0S3bDzI_cfVzUM81fmON105y0JiS2mZDVDNw0t_ZzVIGVicww4wmCvyA7DpSWo4D8S0HHmR88tDcxncVSbVep001k6U9k/s1600/deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIil9lQ2FqSy0b2fWsC_LSSGqhsCn6R_WMvQY956X72K9bOm0S3bDzI_cfVzUM81fmON105y0JiS2mZDVDNw0t_ZzVIGVicww4wmCvyA7DpSWo4D8S0HHmR88tDcxncVSbVep001k6U9k/s320/deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>

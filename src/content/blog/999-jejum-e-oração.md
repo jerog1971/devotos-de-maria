@@ -1,7 +1,7 @@
 ---
 title: "Jejum e oração"
 date: 2025-02-25T18:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmXxTpVOtXLsgpGIxat6RY-2qQ4pSiNy-ju274Km3VPs29LaHKJtj7lWHoIxMr-lZdhze_2TWQkPtG1cU0yUP4x92x4gA_eqo4j6aeI1Ic-HbVlc14jU72XC_TkI62DB2CYdIad18J8R8cBMN-eaiVrE4SfIrXgVZ1rS8vOC0tROGrYubb7SqrvdhKoA/s320/jejum%20e%20ora%C3%A7%C3%A3o.png"
+heroImage: "/images/jejum e oração.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmXxTpVOtXLsgpGIxat6RY-2qQ4pSiNy-ju274Km3VPs29LaHKJtj7lWHoIxMr-lZdhze_2TWQkPtG1cU0yUP4x92x4gA_eqo4j6aeI1Ic-HbVlc14jU72XC_TkI62DB2CYdIad18J8R8cBMN-eaiVrE4SfIrXgVZ1rS8vOC0tROGrYubb7SqrvdhKoA/s370/jejum%20e%20ora%C3%A7%C3%A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="370" height="245" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmXxTpVOtXLsgpGIxat6RY-2qQ4pSiNy-ju274Km3VPs29LaHKJtj7lWHoIxMr-lZdhze_2TWQkPtG1cU0yUP4x92x4gA_eqo4j6aeI1Ic-HbVlc14jU72XC_TkI62DB2CYdIad18J8R8cBMN-eaiVrE4SfIrXgVZ1rS8vOC0tROGrYubb7SqrvdhKoA/s320/jejum%20e%20ora%C3%A7%C3%A3o.png" width="320" /></a></div><p></p><p>

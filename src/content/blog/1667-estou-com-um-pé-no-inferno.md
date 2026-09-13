@@ -1,7 +1,7 @@
 ---
 title: "Estou com um pé no inferno"
 date: 2019-10-23T18:09:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMclQt8wQLQufjwPjit0xT0AP_SM5SAzLcAx-5yZS5l1l4MPRx-kg-AOJIPcRtRPqsw4Cty-eWMvxj6EVWRHTyxyZLkRmDBZ8vPKv5NotWRf-FHQhbPuS2FW5bVBf11k_-jT2jFIsuCI4/s320/p%25C3%25A9_no_inferno.png"
+heroImage: "/images/inferno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMclQt8wQLQufjwPjit0xT0AP_SM5SAzLcAx-5yZS5l1l4MPRx-kg-AOJIPcRtRPqsw4Cty-eWMvxj6EVWRHTyxyZLkRmDBZ8vPKv5NotWRf-FHQhbPuS2FW5bVBf11k_-jT2jFIsuCI4/s1600/p%25C3%25A9_no_inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMclQt8wQLQufjwPjit0xT0AP_SM5SAzLcAx-5yZS5l1l4MPRx-kg-AOJIPcRtRPqsw4Cty-eWMvxj6EVWRHTyxyZLkRmDBZ8vPKv5NotWRf-FHQhbPuS2FW5bVBf11k_-jT2jFIsuCI4/s320/p%25C3%25A9_no_inferno.png" width="320" height="229" data-original-width="296" data-original-height="212" /></a></div>

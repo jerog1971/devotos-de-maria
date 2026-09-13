@@ -1,7 +1,7 @@
 ---
 title: "Lanço o bem e não o mal"
 date: 2018-10-26T17:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMSTTfjZukFahjvucQOqIHq_7Q6hkpZY3qUxKPz_m9Mu-0TO2VyDwR9IvVw7UD3HdxEj2baMzr4m7zD32UbXs2RZJywCDvF80pH8hjOrPQTQ28XZ4Dki9Y2F-AGuRJ7XfLzp1_FGvtgCA/s320/arrependimento.png"
+heroImage: "/images/arrependimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMSTTfjZukFahjvucQOqIHq_7Q6hkpZY3qUxKPz_m9Mu-0TO2VyDwR9IvVw7UD3HdxEj2baMzr4m7zD32UbXs2RZJywCDvF80pH8hjOrPQTQ28XZ4Dki9Y2F-AGuRJ7XfLzp1_FGvtgCA/s1600/arrependimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMSTTfjZukFahjvucQOqIHq_7Q6hkpZY3qUxKPz_m9Mu-0TO2VyDwR9IvVw7UD3HdxEj2baMzr4m7zD32UbXs2RZJywCDvF80pH8hjOrPQTQ28XZ4Dki9Y2F-AGuRJ7XfLzp1_FGvtgCA/s320/arrependimento.png" width="320" height="306" data-original-width="424" data-original-height="405" /></a></div>

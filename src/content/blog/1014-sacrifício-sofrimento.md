@@ -1,7 +1,7 @@
 ---
 title: "Sacrifício ≠ Sofrimento"
 date: 2016-07-27T20:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsMKNgR0SsRPSooJThV9wS-pheMCw1y3sb4lna8g9lBp-TGmgT0r51L1PFwU_tYrTooeGbHH6HrUIozHS9nroEfKQcU6wQ0703PyI-vuYYqHKEeUA-Dm_qEXDmlDeif9lG8o6IQi7esE/s320/sofrimento2.png"
+heroImage: "/images/sofrimento2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsMKNgR0SsRPSooJThV9wS-pheMCw1y3sb4lna8g9lBp-TGmgT0r51L1PFwU_tYrTooeGbHH6HrUIozHS9nroEfKQcU6wQ0703PyI-vuYYqHKEeUA-Dm_qEXDmlDeif9lG8o6IQi7esE/s1600/sofrimento2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqsMKNgR0SsRPSooJThV9wS-pheMCw1y3sb4lna8g9lBp-TGmgT0r51L1PFwU_tYrTooeGbHH6HrUIozHS9nroEfKQcU6wQ0703PyI-vuYYqHKEeUA-Dm_qEXDmlDeif9lG8o6IQi7esE/s320/sofrimento2.png" width="320" height="301" data-original-width="250" data-original-height="235" /></a></div>

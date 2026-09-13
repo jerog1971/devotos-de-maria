@@ -1,7 +1,7 @@
 ---
 title: "As faces do mal"
 date: 2020-08-04T20:40:00.006Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFag70oUuG50m8tvEeDF_KTen4bwyxfqNlBREiEU7x14ySV8oVWM7sSgZTvN8Apqz0QMi8_whXglESKddOsH2_fr_WD3zgTS70oufpt2IWdkhY-f_IPn_Wc2lgweT47JW69EZhBk4xjxU/w406-h405/As_faces_do_mal.png"
+heroImage: "/images/As_faces_do_mal.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFag70oUuG50m8tvEeDF_KTen4bwyxfqNlBREiEU7x14ySV8oVWM7sSgZTvN8Apqz0QMi8_whXglESKddOsH2_fr_WD3zgTS70oufpt2IWdkhY-f_IPn_Wc2lgweT47JW69EZhBk4xjxU/s507/As_faces_do_mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="506" data-original-width="507" height="405" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFag70oUuG50m8tvEeDF_KTen4bwyxfqNlBREiEU7x14ySV8oVWM7sSgZTvN8Apqz0QMi8_whXglESKddOsH2_fr_WD3zgTS70oufpt2IWdkhY-f_IPn_Wc2lgweT47JW69EZhBk4xjxU/w406-h405/As_faces_do_mal.png" width="406" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Certamente sabe-se que o mal ordinariamente não faz suas

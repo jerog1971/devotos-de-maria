@@ -1,7 +1,7 @@
 ---
 title: "Mesmo sendo rumores..."
 date: 2016-06-13T13:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwrg7W1TVEYPsA1U3yUEmmdx2_QCY2enWkW-WG5KrP-c5KmKEnSAGl4s0UoiX7v3bos04Cz9k_KekQ7Vcmi5oZryS984gVw0jB52iHl34pudaWwodVVo3dELUydzN5JKcnt51mzaY8OBc/s320/dori.png"
+heroImage: "/images/dori.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwrg7W1TVEYPsA1U3yUEmmdx2_QCY2enWkW-WG5KrP-c5KmKEnSAGl4s0UoiX7v3bos04Cz9k_KekQ7Vcmi5oZryS984gVw0jB52iHl34pudaWwodVVo3dELUydzN5JKcnt51mzaY8OBc/s1600/dori.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwrg7W1TVEYPsA1U3yUEmmdx2_QCY2enWkW-WG5KrP-c5KmKEnSAGl4s0UoiX7v3bos04Cz9k_KekQ7Vcmi5oZryS984gVw0jB52iHl34pudaWwodVVo3dELUydzN5JKcnt51mzaY8OBc/s320/dori.png" width="320" height="276" data-original-width="247" data-original-height="213" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Falta de conhecimento"
 date: 2016-03-30T13:08:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNMtPIwOyF3DgePJkzhvOn561KMsT-0zmVZbv00mUMFGQEuc294nCAMVIm7HMDCnwGhqI9jWVOmy_ZxFI_zPO7YPrSB6W5_oXYhvHCozAMqURqz7VMO6ftQs5Qgt5-CWHtkOTDGPUj6c/s320/falta_de_conhecimento.png"
+heroImage: "/images/falta_de_conhecimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNMtPIwOyF3DgePJkzhvOn561KMsT-0zmVZbv00mUMFGQEuc294nCAMVIm7HMDCnwGhqI9jWVOmy_ZxFI_zPO7YPrSB6W5_oXYhvHCozAMqURqz7VMO6ftQs5Qgt5-CWHtkOTDGPUj6c/s1600/falta_de_conhecimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNMtPIwOyF3DgePJkzhvOn561KMsT-0zmVZbv00mUMFGQEuc294nCAMVIm7HMDCnwGhqI9jWVOmy_ZxFI_zPO7YPrSB6W5_oXYhvHCozAMqURqz7VMO6ftQs5Qgt5-CWHtkOTDGPUj6c/s320/falta_de_conhecimento.png" width="320" height="233" data-original-width="712" data-original-height="518" /></a></div>

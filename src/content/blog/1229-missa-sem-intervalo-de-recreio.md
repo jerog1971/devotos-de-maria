@@ -1,7 +1,7 @@
 ---
 title: "Missa sem intervalo de \"Recreio\""
 date: 2016-05-06T14:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LVmIN7SIGXmMxdxdbYE4d1myavpRPW7M701xch4_L5MfSvyG6rnbjE0qP8UODUqec9gfvKgf6NfL28Ej9FRrN0T9QNR8G3MpSQqxPqOWEVW9TtHWi8VERqg3peCDG8yiWXFaWfXdr5o/s320/recreio.png"
+heroImage: "/images/recreio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LVmIN7SIGXmMxdxdbYE4d1myavpRPW7M701xch4_L5MfSvyG6rnbjE0qP8UODUqec9gfvKgf6NfL28Ej9FRrN0T9QNR8G3MpSQqxPqOWEVW9TtHWi8VERqg3peCDG8yiWXFaWfXdr5o/s1600/recreio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LVmIN7SIGXmMxdxdbYE4d1myavpRPW7M701xch4_L5MfSvyG6rnbjE0qP8UODUqec9gfvKgf6NfL28Ej9FRrN0T9QNR8G3MpSQqxPqOWEVW9TtHWi8VERqg3peCDG8yiWXFaWfXdr5o/s320/recreio.png" width="314" height="320" data-original-width="315" data-original-height="321" /></a></div>

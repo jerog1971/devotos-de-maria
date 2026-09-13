@@ -1,7 +1,7 @@
 ---
 title: "Más Paixões"
 date: 2021-07-26T19:41:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWUJPSCiSRroJd-F_4hmL90ueZYxtcDrb6sQE5CnWVZY3pMnGtQeXKY1D6-jGpBwkgc2gX61WGOyPHAu68jd4aXQl0EBpQV4M4zpfDH4kR2BjkEWfre2ntpjDyN8aTgMdxqpk1E5gWEG8/s320/m%25C3%25A1s+paix%25C3%25B5es.png"
+heroImage: "/images/Pai.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWUJPSCiSRroJd-F_4hmL90ueZYxtcDrb6sQE5CnWVZY3pMnGtQeXKY1D6-jGpBwkgc2gX61WGOyPHAu68jd4aXQl0EBpQV4M4zpfDH4kR2BjkEWfre2ntpjDyN8aTgMdxqpk1E5gWEG8/s357/m%25C3%25A1s+paix%25C3%25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="326" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWUJPSCiSRroJd-F_4hmL90ueZYxtcDrb6sQE5CnWVZY3pMnGtQeXKY1D6-jGpBwkgc2gX61WGOyPHAu68jd4aXQl0EBpQV4M4zpfDH4kR2BjkEWfre2ntpjDyN8aTgMdxqpk1E5gWEG8/s320/m%25C3%25A1s+paix%25C3%25B5es.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Pela intercessão de São Miguel e do coro celeste das

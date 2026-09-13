@@ -1,7 +1,7 @@
 ---
 title: "Desrespeito em voga"
 date: 2025-02-28T20:03:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUoZZsZk-defjaFtn1oRIuaQMKQ5sgS9UW9s8Jl3PI2uAKbjk5wio2WZWnO6CtgyPY0Au1B1HkXtZbpmSkoakK95UpF-YLkMkPnVG7iQVQEXJE1cksRJhSPBLiDcD2fxFtk8oKqNRVQ3rQyI1iXV9PR-MxPR-3SC85I1glh9szgbtz48gAnUSVVpN-Kc/s320/diretora%20amea%C3%A7ada.png"
+heroImage: "/images/diretora ameaçada.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUoZZsZk-defjaFtn1oRIuaQMKQ5sgS9UW9s8Jl3PI2uAKbjk5wio2WZWnO6CtgyPY0Au1B1HkXtZbpmSkoakK95UpF-YLkMkPnVG7iQVQEXJE1cksRJhSPBLiDcD2fxFtk8oKqNRVQ3rQyI1iXV9PR-MxPR-3SC85I1glh9szgbtz48gAnUSVVpN-Kc/s634/diretora%20amea%C3%A7ada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="634" height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUoZZsZk-defjaFtn1oRIuaQMKQ5sgS9UW9s8Jl3PI2uAKbjk5wio2WZWnO6CtgyPY0Au1B1HkXtZbpmSkoakK95UpF-YLkMkPnVG7iQVQEXJE1cksRJhSPBLiDcD2fxFtk8oKqNRVQ3rQyI1iXV9PR-MxPR-3SC85I1glh9szgbtz48gAnUSVVpN-Kc/s320/diretora%20amea%C3%A7ada.png" width="320" /></a></div><br />

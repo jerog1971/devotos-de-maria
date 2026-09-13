@@ -1,7 +1,7 @@
 ---
 title: "Verídico x Imaginário – Real x Virtual"
 date: 2016-09-15T20:46:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOVKeY053j4GcC2Y3L37Upivk0SIgI1shif-ktjSS55GS1C26tRcamoni-ZqhAuQtdYBzni5xUcW-algfx9cTccJW9xFVp7VWUYhzrzGkntqKl6I6RwNc3zwMBxahEgEGBJoat2eDul90/s320/virtual.png"
+heroImage: "/images/sombrio mundo virtual.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOVKeY053j4GcC2Y3L37Upivk0SIgI1shif-ktjSS55GS1C26tRcamoni-ZqhAuQtdYBzni5xUcW-algfx9cTccJW9xFVp7VWUYhzrzGkntqKl6I6RwNc3zwMBxahEgEGBJoat2eDul90/s1600/virtual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOVKeY053j4GcC2Y3L37Upivk0SIgI1shif-ktjSS55GS1C26tRcamoni-ZqhAuQtdYBzni5xUcW-algfx9cTccJW9xFVp7VWUYhzrzGkntqKl6I6RwNc3zwMBxahEgEGBJoat2eDul90/s320/virtual.png" width="320" height="234" data-original-width="654" data-original-height="479" /></a></div>

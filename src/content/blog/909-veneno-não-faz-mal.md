@@ -1,7 +1,7 @@
 ---
 title: "Veneno não faz mal"
 date: 2017-07-26T16:43:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcyYVsuEiRMHCDLQMyLtGnsy8kyhyphenhyphenT2ldtzcUHd_SO91HjrDDFvJAwIBCK_Se50Sw9_O_0YyMiA5qLosF2h2bxnAe5hX-HBIG0HdBOJVS9eLqJLbaxPq_KqjjivTBeMiidcnqJSFMY39U/s320/veneno.png"
+heroImage: "/images/veneno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcyYVsuEiRMHCDLQMyLtGnsy8kyhyphenhyphenT2ldtzcUHd_SO91HjrDDFvJAwIBCK_Se50Sw9_O_0YyMiA5qLosF2h2bxnAe5hX-HBIG0HdBOJVS9eLqJLbaxPq_KqjjivTBeMiidcnqJSFMY39U/s1600/veneno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcyYVsuEiRMHCDLQMyLtGnsy8kyhyphenhyphenT2ldtzcUHd_SO91HjrDDFvJAwIBCK_Se50Sw9_O_0YyMiA5qLosF2h2bxnAe5hX-HBIG0HdBOJVS9eLqJLbaxPq_KqjjivTBeMiidcnqJSFMY39U/s320/veneno.png" width="320" height="312" data-original-width="379" data-original-height="369" /></a></div>

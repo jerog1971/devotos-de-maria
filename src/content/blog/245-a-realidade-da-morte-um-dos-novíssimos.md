@@ -1,7 +1,7 @@
 ---
 title: "A realidade da morte - um dos novíssimos"
 date: 2016-09-01T14:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig8UttKADE0i71vYcR2SO73V8QQGsJgVimXPFT5YfrMHp54JJFQ242NscQc_7p3OuXkAiITdBB8HtQQLM-C0FtK-tbtqO07Zm7rqy1_p2GTZdwuiMgD4Kl4G_3z6IJBldOMHJNY81_LuY/s320/morte.png"
+heroImage: "/images/chegada_da_morte.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig8UttKADE0i71vYcR2SO73V8QQGsJgVimXPFT5YfrMHp54JJFQ242NscQc_7p3OuXkAiITdBB8HtQQLM-C0FtK-tbtqO07Zm7rqy1_p2GTZdwuiMgD4Kl4G_3z6IJBldOMHJNY81_LuY/s1600/morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig8UttKADE0i71vYcR2SO73V8QQGsJgVimXPFT5YfrMHp54JJFQ242NscQc_7p3OuXkAiITdBB8HtQQLM-C0FtK-tbtqO07Zm7rqy1_p2GTZdwuiMgD4Kl4G_3z6IJBldOMHJNY81_LuY/s320/morte.png" width="320" height="224" data-original-width="395" data-original-height="277" /></a></div>

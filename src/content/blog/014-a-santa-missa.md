@@ -1,7 +1,7 @@
 ---
 title: "A Santa Missa"
 date: 2017-08-23T14:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuf4ECzcHLItcFnBJZ70tPN8XjxY-eq19W7h4C9BcvqE1lvC4r0Qb1KcRg6NaswrQNXDV9KBQGeqH6caU2r_TF5ci1-IJ9uGK5n3URw2OXAl3srlqJysMuiLa1WunvTYdzySOmgJwvSfs/s320/missa.png"
+heroImage: "/images/crianças_na_missa.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuf4ECzcHLItcFnBJZ70tPN8XjxY-eq19W7h4C9BcvqE1lvC4r0Qb1KcRg6NaswrQNXDV9KBQGeqH6caU2r_TF5ci1-IJ9uGK5n3URw2OXAl3srlqJysMuiLa1WunvTYdzySOmgJwvSfs/s1600/missa.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuf4ECzcHLItcFnBJZ70tPN8XjxY-eq19W7h4C9BcvqE1lvC4r0Qb1KcRg6NaswrQNXDV9KBQGeqH6caU2r_TF5ci1-IJ9uGK5n3URw2OXAl3srlqJysMuiLa1WunvTYdzySOmgJwvSfs/s320/missa.png" width="320" height="213" data-original-width="781" data-original-height="519" /></a></br>

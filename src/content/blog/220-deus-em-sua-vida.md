@@ -1,7 +1,7 @@
 ---
 title: "Deus em sua vida"
 date: 2016-04-19T18:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUfLYmI95z7LdNZm6hhWGvN21Ewl2FCBGoIc3pqtzMZGl-E7hROvaPI4BQs1kQvQSIcid_2aDGRsoJSrg4M7yvwITHIVh7cq56QWjBtHcKaMsKkGB_-_-QdBU-0tLHJXkXJmy7inkMZiE/s320/primeiro_deus.png"
+heroImage: "/images/primeiro_deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUfLYmI95z7LdNZm6hhWGvN21Ewl2FCBGoIc3pqtzMZGl-E7hROvaPI4BQs1kQvQSIcid_2aDGRsoJSrg4M7yvwITHIVh7cq56QWjBtHcKaMsKkGB_-_-QdBU-0tLHJXkXJmy7inkMZiE/s1600/primeiro_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUfLYmI95z7LdNZm6hhWGvN21Ewl2FCBGoIc3pqtzMZGl-E7hROvaPI4BQs1kQvQSIcid_2aDGRsoJSrg4M7yvwITHIVh7cq56QWjBtHcKaMsKkGB_-_-QdBU-0tLHJXkXJmy7inkMZiE/s320/primeiro_deus.png" width="320" height="269" data-original-width="316" data-original-height="266" /></a></div>

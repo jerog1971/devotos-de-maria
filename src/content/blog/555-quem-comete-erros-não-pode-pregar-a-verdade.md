@@ -1,7 +1,7 @@
 ---
 title: "Quem comete erros não pode pregar a verdade?"
 date: 2019-05-01T12:27:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kUzRPn00GQ3JBkqHKdkHacLIEHvY8EdAcL_9aFf7eVqHW9z5o8AC2Nf5KvUgQQeA5mFCTd6DtzcjNuk3LKj2bm9Sb0UCHOv6lyWwwPLpDBOUeptIpeXaoNkIa5gafNa-S8yOhkWYztc/s320/medo.png"
+heroImage: "/images/fé_medo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kUzRPn00GQ3JBkqHKdkHacLIEHvY8EdAcL_9aFf7eVqHW9z5o8AC2Nf5KvUgQQeA5mFCTd6DtzcjNuk3LKj2bm9Sb0UCHOv6lyWwwPLpDBOUeptIpeXaoNkIa5gafNa-S8yOhkWYztc/s1600/medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kUzRPn00GQ3JBkqHKdkHacLIEHvY8EdAcL_9aFf7eVqHW9z5o8AC2Nf5KvUgQQeA5mFCTd6DtzcjNuk3LKj2bm9Sb0UCHOv6lyWwwPLpDBOUeptIpeXaoNkIa5gafNa-S8yOhkWYztc/s320/medo.png" width="320" height="303" data-original-width="405" data-original-height="384" /></a></div>

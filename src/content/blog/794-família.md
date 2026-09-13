@@ -1,7 +1,7 @@
 ---
 title: "Família"
 date: 2024-04-29T17:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN5Sa69rW7utfiFIP2nBe0OKumjcL2fgz1mmQ9HzNBWgFZ7thVHMt0SDAK-XOjwVlwOAnul3hQyW1kVFtsYg_faDniKLhE8jUUexAZ4b2xbd52bRHwWk86aeMLYhnWnE_e7fo1V77mHkx3XOAWooPpYqjh2R4uuWgmUsvxkMrpnVFfKXFmQLd5TbINCkE/s320/fam%C3%ADlia.jpg"
+heroImage: "/images/Bom humor em família.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN5Sa69rW7utfiFIP2nBe0OKumjcL2fgz1mmQ9HzNBWgFZ7thVHMt0SDAK-XOjwVlwOAnul3hQyW1kVFtsYg_faDniKLhE8jUUexAZ4b2xbd52bRHwWk86aeMLYhnWnE_e7fo1V77mHkx3XOAWooPpYqjh2R4uuWgmUsvxkMrpnVFfKXFmQLd5TbINCkE/s2592/fam%C3%ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1944" data-original-width="2592" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN5Sa69rW7utfiFIP2nBe0OKumjcL2fgz1mmQ9HzNBWgFZ7thVHMt0SDAK-XOjwVlwOAnul3hQyW1kVFtsYg_faDniKLhE8jUUexAZ4b2xbd52bRHwWk86aeMLYhnWnE_e7fo1V77mHkx3XOAWooPpYqjh2R4uuWgmUsvxkMrpnVFfKXFmQLd5TbINCkE/s320/fam%C3%ADlia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esse é um dos assuntos que nunca irá sair de moda. Ela é

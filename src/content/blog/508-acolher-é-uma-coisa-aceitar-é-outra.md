@@ -1,7 +1,7 @@
 ---
 title: "Acolher é uma coisa, aceitar é outra"
 date: 2021-12-03T16:00:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEh9Izg7crg-ysldToSkufz4hyHd5IBCcXXYXsAojlMuTypzBN7EdXhKlHh0tVKbHsm0cpmkEqFsQyPDHWbei-1tpnF7SdFEB7MKMJ01Gjs9HM3m1BiHhQNMYxPm72HrePM3nAlnh3JrmlZXjjBvSsoIZtB_XetjyEvCImnrf2RDOMbu5Ct2ZEwZXs-J=s320"
+heroImage: "/images/dom.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh9Izg7crg-ysldToSkufz4hyHd5IBCcXXYXsAojlMuTypzBN7EdXhKlHh0tVKbHsm0cpmkEqFsQyPDHWbei-1tpnF7SdFEB7MKMJ01Gjs9HM3m1BiHhQNMYxPm72HrePM3nAlnh3JrmlZXjjBvSsoIZtB_XetjyEvCImnrf2RDOMbu5Ct2ZEwZXs-J=s678" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="667" data-original-width="678" height="315" src="https://blogger.googleusercontent.com/img/a/AVvXsEh9Izg7crg-ysldToSkufz4hyHd5IBCcXXYXsAojlMuTypzBN7EdXhKlHh0tVKbHsm0cpmkEqFsQyPDHWbei-1tpnF7SdFEB7MKMJ01Gjs9HM3m1BiHhQNMYxPm72HrePM3nAlnh3JrmlZXjjBvSsoIZtB_XetjyEvCImnrf2RDOMbu5Ct2ZEwZXs-J=s320" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo acolhia a todos, não excetuava nenhum pecador,

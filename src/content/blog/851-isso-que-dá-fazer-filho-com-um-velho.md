@@ -1,7 +1,7 @@
 ---
 title: "Isso que dá fazer filho com um velho"
 date: 2016-08-29T20:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlMe8PWlrs46tGl-OxMrwNTBuhpMx5aMSj7r2GLot1PisRtwvcpF47ALVTXueMObwIxz493-m21oU0q0KuMTMDwgx8uk4B4ZGId5wqfSYWI7a3LVI_toxLp5k_8dHoiu_wEUzNNh4RT0/s320/casal_idoso.png"
+heroImage: "/images/casal_idoso.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlMe8PWlrs46tGl-OxMrwNTBuhpMx5aMSj7r2GLot1PisRtwvcpF47ALVTXueMObwIxz493-m21oU0q0KuMTMDwgx8uk4B4ZGId5wqfSYWI7a3LVI_toxLp5k_8dHoiu_wEUzNNh4RT0/s1600/casal_idoso.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTlMe8PWlrs46tGl-OxMrwNTBuhpMx5aMSj7r2GLot1PisRtwvcpF47ALVTXueMObwIxz493-m21oU0q0KuMTMDwgx8uk4B4ZGId5wqfSYWI7a3LVI_toxLp5k_8dHoiu_wEUzNNh4RT0/s320/casal_idoso.png" width="283" height="320" data-original-width="279" data-original-height="315" /></a></div>

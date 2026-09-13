@@ -1,7 +1,7 @@
 ---
 title: "Sobre os Títulos de Maria Santíssima"
 date: 2016-08-09T11:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TqFsLGIDNSJtNl5s8SSmM_ED4dgeLTOoTI6INCXO4RkhYE6HTNVZF9uZi_XrNYdr6mus32V1shfF31Upvj7rzXtiszXPKGDzUteVqZIKwkpEp2-j1eVraalz0JWretasYRULnTH3iUU/s320/fatima13.png"
+heroImage: "/images/fatima13.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TqFsLGIDNSJtNl5s8SSmM_ED4dgeLTOoTI6INCXO4RkhYE6HTNVZF9uZi_XrNYdr6mus32V1shfF31Upvj7rzXtiszXPKGDzUteVqZIKwkpEp2-j1eVraalz0JWretasYRULnTH3iUU/s1600/fatima13.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TqFsLGIDNSJtNl5s8SSmM_ED4dgeLTOoTI6INCXO4RkhYE6HTNVZF9uZi_XrNYdr6mus32V1shfF31Upvj7rzXtiszXPKGDzUteVqZIKwkpEp2-j1eVraalz0JWretasYRULnTH3iUU/s320/fatima13.png" width="320" height="281" data-original-width="571" data-original-height="502" /></a></div>

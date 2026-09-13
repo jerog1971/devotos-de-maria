@@ -1,7 +1,7 @@
 ---
 title: "Fé fraca x Problemas Familiares"
 date: 2016-08-31T18:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l1_-wOKujs1zCI5mgnk0qlTg8rzqnFNpZy2KuG8wy6Lp0iLvAGPriwQKh-mYz_ydtUghiCtG0aZ1A_t5QWX36a5kjnZxjeDlQIHYA_AUwQ2FBap5nams6YIUgNO6XAyBH1V_KdrI08k/s320/problemas.png"
+heroImage: "/images/eu e os problemas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l1_-wOKujs1zCI5mgnk0qlTg8rzqnFNpZy2KuG8wy6Lp0iLvAGPriwQKh-mYz_ydtUghiCtG0aZ1A_t5QWX36a5kjnZxjeDlQIHYA_AUwQ2FBap5nams6YIUgNO6XAyBH1V_KdrI08k/s1600/problemas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l1_-wOKujs1zCI5mgnk0qlTg8rzqnFNpZy2KuG8wy6Lp0iLvAGPriwQKh-mYz_ydtUghiCtG0aZ1A_t5QWX36a5kjnZxjeDlQIHYA_AUwQ2FBap5nams6YIUgNO6XAyBH1V_KdrI08k/s320/problemas.png" width="320" height="296" data-original-width="437" data-original-height="404" /></a></div>

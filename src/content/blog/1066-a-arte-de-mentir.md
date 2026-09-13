@@ -1,7 +1,7 @@
 ---
 title: "A arte de mentir"
 date: 2016-10-24T13:04:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65ZYHds8k2libH6u_PbR2XUSnW1XwrpRUph5jAdNVHccigZelFEsmTZuellvSIYkzNLcU26E3BKr3xNOiC1Lbo6ddPuiV63Vthj2nq7iC2Dn-JZCnPtn9t1lrPVOwBBNDIdJxQ-wek9E/s320/mentir.png"
+heroImage: "/images/mentir.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65ZYHds8k2libH6u_PbR2XUSnW1XwrpRUph5jAdNVHccigZelFEsmTZuellvSIYkzNLcU26E3BKr3xNOiC1Lbo6ddPuiV63Vthj2nq7iC2Dn-JZCnPtn9t1lrPVOwBBNDIdJxQ-wek9E/s1600/mentir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65ZYHds8k2libH6u_PbR2XUSnW1XwrpRUph5jAdNVHccigZelFEsmTZuellvSIYkzNLcU26E3BKr3xNOiC1Lbo6ddPuiV63Vthj2nq7iC2Dn-JZCnPtn9t1lrPVOwBBNDIdJxQ-wek9E/s320/mentir.png" width="320" height="320" data-original-width="224" data-original-height="224" /></a></div>

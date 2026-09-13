@@ -1,7 +1,7 @@
 ---
 title: "Semana derradeira"
 date: 2023-04-04T17:11:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgO8KSJY7xybQP57lxjxyMpU0PLXOJNnOJop8OvzNO3WjgDUdf8GYXeW-b9wNtTv0R07JuT1KGKWdWzAJjdYQFMykJ-NwTVfDmxUS1EHkaZJB1wusp5N9XkIzDTAopbkBz93L-Z2lKiUD5kbfzW1y4gRWBY4Ic8Dc7LnxQwtGQue0zc3Dw3QV0WFCc/s320/semana%20derradeira.png"
+heroImage: "/images/semana derradeira.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgO8KSJY7xybQP57lxjxyMpU0PLXOJNnOJop8OvzNO3WjgDUdf8GYXeW-b9wNtTv0R07JuT1KGKWdWzAJjdYQFMykJ-NwTVfDmxUS1EHkaZJB1wusp5N9XkIzDTAopbkBz93L-Z2lKiUD5kbfzW1y4gRWBY4Ic8Dc7LnxQwtGQue0zc3Dw3QV0WFCc/s514/semana%20derradeira.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="514" height="248" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgO8KSJY7xybQP57lxjxyMpU0PLXOJNnOJop8OvzNO3WjgDUdf8GYXeW-b9wNtTv0R07JuT1KGKWdWzAJjdYQFMykJ-NwTVfDmxUS1EHkaZJB1wusp5N9XkIzDTAopbkBz93L-Z2lKiUD5kbfzW1y4gRWBY4Ic8Dc7LnxQwtGQue0zc3Dw3QV0WFCc/s320/semana%20derradeira.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos podem achar que o pessoal católico mais uma vez vai parar

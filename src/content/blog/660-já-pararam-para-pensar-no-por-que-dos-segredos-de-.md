@@ -1,7 +1,7 @@
 ---
 title: "Já pararam para pensar no por que dos segredos de Medjugorje?"
 date: 2019-06-26T16:15:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5-nvwwa0mV9IymBq1op2m3FFAnWlFyXpJwFsqhDoMP2lzjwl_hYaq9vpo8mKylK6Low3ICuL3ett4urmO_FaaiL4VKL39u-5RStL61AAkcOWV5Wd8BdNolVjlqc4wA8rnem-Q-wzGHk/s320/Medjugorje.png"
+heroImage: "/images/Maria_em_Medjugorje.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5-nvwwa0mV9IymBq1op2m3FFAnWlFyXpJwFsqhDoMP2lzjwl_hYaq9vpo8mKylK6Low3ICuL3ett4urmO_FaaiL4VKL39u-5RStL61AAkcOWV5Wd8BdNolVjlqc4wA8rnem-Q-wzGHk/s1600/Medjugorje.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="611" data-original-width="777" height="252" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5-nvwwa0mV9IymBq1op2m3FFAnWlFyXpJwFsqhDoMP2lzjwl_hYaq9vpo8mKylK6Low3ICuL3ett4urmO_FaaiL4VKL39u-5RStL61AAkcOWV5Wd8BdNolVjlqc4wA8rnem-Q-wzGHk/s320/Medjugorje.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Sem dúvida alguma esse fenômeno das aparições na Bosnia que iniciaram em 25/06/1981 e persistem até os dias de hoje, sendo assistido pela igreja, e que até o presente momento não apresentou um erro teológico, ao contrário, como disse Jesus, pelos frutos conheceremos a árvore, percorre a história da humanidade provocando em fieis e incrédulos muitos sentimentos variados.

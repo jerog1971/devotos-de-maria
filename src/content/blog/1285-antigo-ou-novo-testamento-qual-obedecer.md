@@ -1,7 +1,7 @@
 ---
 title: "Antigo ou Novo Testamento, qual obedecer?"
 date: 2020-04-18T15:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gQBB2i3m0bHZJnERXvUvb6LOzW4C1FEk8H5eT5I5RhsFgIi-F9WGc0fzY-omMfN3QOVNrLxKBm2q21ITDyxyiQ2cnXSjDSPWilcxvWGsvj3R1sWLbps8HW7EvxCLY77tkXEQQPp2JlI/s320/testamento.png"
+heroImage: "/images/testamento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gQBB2i3m0bHZJnERXvUvb6LOzW4C1FEk8H5eT5I5RhsFgIi-F9WGc0fzY-omMfN3QOVNrLxKBm2q21ITDyxyiQ2cnXSjDSPWilcxvWGsvj3R1sWLbps8HW7EvxCLY77tkXEQQPp2JlI/s1600/testamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gQBB2i3m0bHZJnERXvUvb6LOzW4C1FEk8H5eT5I5RhsFgIi-F9WGc0fzY-omMfN3QOVNrLxKBm2q21ITDyxyiQ2cnXSjDSPWilcxvWGsvj3R1sWLbps8HW7EvxCLY77tkXEQQPp2JlI/s320/testamento.png" width="292" height="320" data-original-width="195" data-original-height="214" /></a></div>

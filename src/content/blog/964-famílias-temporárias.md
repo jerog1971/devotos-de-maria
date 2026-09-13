@@ -1,7 +1,7 @@
 ---
 title: "Famílias temporárias"
 date: 2021-04-28T20:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz0dhemlnw-NQa9nTt8zUT6SR-PPrD__6N9fOExHxqxyjtRbtcxqpcEoRsm-s9lXh6SPpq0It_zY0zGGpFUMWmtiRNfoXqgl1d_qeCOiPPedcB2fQ5IlFE-BMQtfa3eRFe5QMaK9SpARk/s320/Pais+e+Filhos.jpg"
+heroImage: "/images/Pai.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz0dhemlnw-NQa9nTt8zUT6SR-PPrD__6N9fOExHxqxyjtRbtcxqpcEoRsm-s9lXh6SPpq0It_zY0zGGpFUMWmtiRNfoXqgl1d_qeCOiPPedcB2fQ5IlFE-BMQtfa3eRFe5QMaK9SpARk/s2048/Pais+e+Filhos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz0dhemlnw-NQa9nTt8zUT6SR-PPrD__6N9fOExHxqxyjtRbtcxqpcEoRsm-s9lXh6SPpq0It_zY0zGGpFUMWmtiRNfoXqgl1d_qeCOiPPedcB2fQ5IlFE-BMQtfa3eRFe5QMaK9SpARk/s320/Pais+e+Filhos.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus, aprendemos nas sagradas escrituras, desejou por seu

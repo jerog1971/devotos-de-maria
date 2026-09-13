@@ -1,7 +1,7 @@
 ---
 title: "Fiel nas pequenas coisas"
 date: 2017-05-16T19:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNj9a71u-TfZaChx4q2Mh2h1vtr7b6ak1SSp55mtbqfaJUlm2nqRMZOiL4zzj5Ci9L32s7fi3xOG4_ZHsSVnt4uQ_SNcstgnys2DLEtPfUYxfAPKJfuo3H19Kr94iX38FlzFhyphenhyphen5yjZ7E/s320/fiel.png"
+heroImage: "/images/fiel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNj9a71u-TfZaChx4q2Mh2h1vtr7b6ak1SSp55mtbqfaJUlm2nqRMZOiL4zzj5Ci9L32s7fi3xOG4_ZHsSVnt4uQ_SNcstgnys2DLEtPfUYxfAPKJfuo3H19Kr94iX38FlzFhyphenhyphen5yjZ7E/s1600/fiel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNj9a71u-TfZaChx4q2Mh2h1vtr7b6ak1SSp55mtbqfaJUlm2nqRMZOiL4zzj5Ci9L32s7fi3xOG4_ZHsSVnt4uQ_SNcstgnys2DLEtPfUYxfAPKJfuo3H19Kr94iX38FlzFhyphenhyphen5yjZ7E/s320/fiel.png" width="295" height="320" data-original-width="234" data-original-height="254" /></a></div>

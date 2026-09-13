@@ -1,7 +1,7 @@
 ---
 title: "Pecar contra o Espírito Santo"
 date: 2015-10-30T19:15:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXdG1rBzPDBVpblOL5XwigUSQXKdUtr2-T2DLiyAH_n6qZ4d8vRyRKFMjrPvlQYTi_kyHEx7Mtgx68KKS_EawB0weCosq1jFB9lXNIbtD_n_70pQtEVNsKpwfDZKMZBonsiV1aluTtqs/s320/condenado.png"
+heroImage: "/images/condenado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXdG1rBzPDBVpblOL5XwigUSQXKdUtr2-T2DLiyAH_n6qZ4d8vRyRKFMjrPvlQYTi_kyHEx7Mtgx68KKS_EawB0weCosq1jFB9lXNIbtD_n_70pQtEVNsKpwfDZKMZBonsiV1aluTtqs/s1600/condenado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXdG1rBzPDBVpblOL5XwigUSQXKdUtr2-T2DLiyAH_n6qZ4d8vRyRKFMjrPvlQYTi_kyHEx7Mtgx68KKS_EawB0weCosq1jFB9lXNIbtD_n_70pQtEVNsKpwfDZKMZBonsiV1aluTtqs/s320/condenado.png" width="320" height="304" data-original-width="201" data-original-height="191" /></a></div>

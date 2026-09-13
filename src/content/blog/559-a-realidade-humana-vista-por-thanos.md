@@ -1,7 +1,7 @@
 ---
 title: "A realidade humana vista por Thanos"
 date: 2019-05-09T20:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXSxLMYaTHAfdC0KdbMzPcGsyjuIsFrVNCu2D39mMd01_fvlcCpbAK2aDGE5hkODaJM0xQvAyIHm7auD_4W6UzT9x_-5Lz_FLIkmXFC2i8bhOrnlJV0liOAXYllGjuXzoNWhMa1RVxsa4/s320/thanos.png"
+heroImage: "/images/thanos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXSxLMYaTHAfdC0KdbMzPcGsyjuIsFrVNCu2D39mMd01_fvlcCpbAK2aDGE5hkODaJM0xQvAyIHm7auD_4W6UzT9x_-5Lz_FLIkmXFC2i8bhOrnlJV0liOAXYllGjuXzoNWhMa1RVxsa4/s1600/thanos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXSxLMYaTHAfdC0KdbMzPcGsyjuIsFrVNCu2D39mMd01_fvlcCpbAK2aDGE5hkODaJM0xQvAyIHm7auD_4W6UzT9x_-5Lz_FLIkmXFC2i8bhOrnlJV0liOAXYllGjuXzoNWhMa1RVxsa4/s320/thanos.png" width="320" height="290" data-original-width="506" data-original-height="459" /></a></div>

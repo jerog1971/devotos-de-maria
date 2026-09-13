@@ -1,7 +1,7 @@
 ---
 title: "Covardes ou Medrosos"
 date: 2017-05-04T18:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iNSKz2S5H8UgUQeXQWnpdxoR3FoR4yTzd1ntqJ5rwi9A2VLhWxdNO6p0ZmGsJqcvpbHqIhn_ztVVXdGW6-zVTfrtdXqG0vbfKb1mFC6a5RNsnTPC6vOVmLyuzYOXd_88Pg-TnBnxwHA/s320/coragem.png"
+heroImage: "/images/coragem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iNSKz2S5H8UgUQeXQWnpdxoR3FoR4yTzd1ntqJ5rwi9A2VLhWxdNO6p0ZmGsJqcvpbHqIhn_ztVVXdGW6-zVTfrtdXqG0vbfKb1mFC6a5RNsnTPC6vOVmLyuzYOXd_88Pg-TnBnxwHA/s1600/coragem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iNSKz2S5H8UgUQeXQWnpdxoR3FoR4yTzd1ntqJ5rwi9A2VLhWxdNO6p0ZmGsJqcvpbHqIhn_ztVVXdGW6-zVTfrtdXqG0vbfKb1mFC6a5RNsnTPC6vOVmLyuzYOXd_88Pg-TnBnxwHA/s320/coragem.png" width="320" height="300" data-original-width="179" data-original-height="168" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Começa de volta a corrida para Deus"
 date: 2020-04-14T14:26:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqJsl2AbrKdXU51C4zOKnFtHLdz5FNbQm8d5PwGLzYadJfYmtapLMsiQuoPGgjTmJiXVYOvniszNiqE9reBkyAF7EzVPRdIThkCjSs7DxEvdayHzfqawqgYIBE-FiwDPnmVxaUk_OtVQ/s320/retiro.png"
+heroImage: "/images/retiro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqJsl2AbrKdXU51C4zOKnFtHLdz5FNbQm8d5PwGLzYadJfYmtapLMsiQuoPGgjTmJiXVYOvniszNiqE9reBkyAF7EzVPRdIThkCjSs7DxEvdayHzfqawqgYIBE-FiwDPnmVxaUk_OtVQ/s1600/retiro.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="488" height="216" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqJsl2AbrKdXU51C4zOKnFtHLdz5FNbQm8d5PwGLzYadJfYmtapLMsiQuoPGgjTmJiXVYOvniszNiqE9reBkyAF7EzVPRdIThkCjSs7DxEvdayHzfqawqgYIBE-FiwDPnmVxaUk_OtVQ/s320/retiro.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Foi dada a largada para o vigésimo primeiro páreo. Muito competidores correm desesperadamente rumo ao destino final, a luta é dura, ninguém quer ser engolido pelo bicho papão da derrota. Do lado de lá da linha de chegada o prêmio espera por aqueles que lutaram o bom combate e completaram a corrida.

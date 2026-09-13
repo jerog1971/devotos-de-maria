@@ -1,7 +1,7 @@
 ---
 title: "Maria era uma moça normal, diz o Papa Francisco"
 date: 2019-04-24T19:43:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr0H1aGtNUOsw_v94zpZxyf9wZEuzYTgKjsM3BPJKGbWDeX_vfgS3DHT2wAsIMa6bMb_68sf0yrXx5QK2XA9wjItTPoaH0L25PKJeizFFQ9ocmFGxE4GZ35_FKb1hX7VSLm2Nh9uR-1co/s320/Papa_Francisco.png"
+heroImage: "/images/Papa_Francisco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr0H1aGtNUOsw_v94zpZxyf9wZEuzYTgKjsM3BPJKGbWDeX_vfgS3DHT2wAsIMa6bMb_68sf0yrXx5QK2XA9wjItTPoaH0L25PKJeizFFQ9ocmFGxE4GZ35_FKb1hX7VSLm2Nh9uR-1co/s1600/Papa_Francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr0H1aGtNUOsw_v94zpZxyf9wZEuzYTgKjsM3BPJKGbWDeX_vfgS3DHT2wAsIMa6bMb_68sf0yrXx5QK2XA9wjItTPoaH0L25PKJeizFFQ9ocmFGxE4GZ35_FKb1hX7VSLm2Nh9uR-1co/s320/Papa_Francisco.png" width="320" height="320" data-original-width="225" data-original-height="225" /></a></div>

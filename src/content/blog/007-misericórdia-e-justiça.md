@@ -1,7 +1,7 @@
 ---
 title: "Misericórdia e Justiça"
 date: 2016-10-19T11:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7-n6HOKOahLLghWaggQH4PZcM6MO7TsWbrEx9hFN-WkJtgMSJXRnzGclwuI6Iz5FlTaN7vRwEVVnBnfUafsturZtAOBipq5gz0YTWSyzrNrdtEkFDeKsb94XtXFi8WtzxO5KbnV3EHls/s320/faustina.png"
+heroImage: "/images/faustina.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7-n6HOKOahLLghWaggQH4PZcM6MO7TsWbrEx9hFN-WkJtgMSJXRnzGclwuI6Iz5FlTaN7vRwEVVnBnfUafsturZtAOBipq5gz0YTWSyzrNrdtEkFDeKsb94XtXFi8WtzxO5KbnV3EHls/s1600/faustina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7-n6HOKOahLLghWaggQH4PZcM6MO7TsWbrEx9hFN-WkJtgMSJXRnzGclwuI6Iz5FlTaN7vRwEVVnBnfUafsturZtAOBipq5gz0YTWSyzrNrdtEkFDeKsb94XtXFi8WtzxO5KbnV3EHls/s320/faustina.png" width="239" height="320" data-original-width="267" data-original-height="357" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O ensino das vaidades"
 date: 2020-08-25T19:02:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinm2BxZ5YPAEDs_LW4lyQ4cKyLTbRsL_TLhtGRZXXWI4oDRjYl3JbX1KxTQcR9Btqyph1eLerqtqf5eefpUH7mdEaHeBs2Bv3NaACv1V5Ns99dOwtn7BQ_LQOl4Mlxo0u9wJuTNrAfqCg/w432-h410/Jefferson_brinquedos.png"
+heroImage: "/images/Jefferson_brinquedos.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinm2BxZ5YPAEDs_LW4lyQ4cKyLTbRsL_TLhtGRZXXWI4oDRjYl3JbX1KxTQcR9Btqyph1eLerqtqf5eefpUH7mdEaHeBs2Bv3NaACv1V5Ns99dOwtn7BQ_LQOl4Mlxo0u9wJuTNrAfqCg/s540/Jefferson_brinquedos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="514" data-original-width="540" height="410" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinm2BxZ5YPAEDs_LW4lyQ4cKyLTbRsL_TLhtGRZXXWI4oDRjYl3JbX1KxTQcR9Btqyph1eLerqtqf5eefpUH7mdEaHeBs2Bv3NaACv1V5Ns99dOwtn7BQ_LQOl4Mlxo0u9wJuTNrAfqCg/w432-h410/Jefferson_brinquedos.png" width="432" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vaidoso precisa de plateia; por causa dela que o demônio

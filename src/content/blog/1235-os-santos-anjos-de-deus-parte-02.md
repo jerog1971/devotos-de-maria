@@ -1,7 +1,7 @@
 ---
 title: "Os Santos Anjos de Deus - parte 02"
 date: 2017-09-29T14:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZo0jOtNS3Igj4pNcX3TpjLyi6IjEb76ySF3Ja1npoxcqupKbevSR47aDgw7pVRpHFmUTYol8O9v2BRsOP7xV4gHpSJSQvG5W74iZTCyGO-e34f3D7WjAn9fFC8rAZ_YcW4KMoQHSVhyY/s320/arcanjos.png"
+heroImage: "/images/arcanjos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZo0jOtNS3Igj4pNcX3TpjLyi6IjEb76ySF3Ja1npoxcqupKbevSR47aDgw7pVRpHFmUTYol8O9v2BRsOP7xV4gHpSJSQvG5W74iZTCyGO-e34f3D7WjAn9fFC8rAZ_YcW4KMoQHSVhyY/s1600/arcanjos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="514" data-original-width="773" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZo0jOtNS3Igj4pNcX3TpjLyi6IjEb76ySF3Ja1npoxcqupKbevSR47aDgw7pVRpHFmUTYol8O9v2BRsOP7xV4gHpSJSQvG5W74iZTCyGO-e34f3D7WjAn9fFC8rAZ_YcW4KMoQHSVhyY/s320/arcanjos.png" width="320" /></a></div>

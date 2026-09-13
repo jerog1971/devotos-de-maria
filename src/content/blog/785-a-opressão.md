@@ -1,7 +1,7 @@
 ---
 title: "A opressão"
 date: 2017-06-27T17:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqh_lNpHmMD-5gLvw22zCZrHOeo3tFgpMgNJCZdIsrBiDXREUAyXgosZfqe5tvO_etTIj24nf-EggAMFnoDxv07EgEdI2WOlfeS_CnN5YANWZ_DWxGXYpultpUJcHMGktjLMAoYMP_PMI/s320/inside.png"
+heroImage: "/images/inside.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqh_lNpHmMD-5gLvw22zCZrHOeo3tFgpMgNJCZdIsrBiDXREUAyXgosZfqe5tvO_etTIj24nf-EggAMFnoDxv07EgEdI2WOlfeS_CnN5YANWZ_DWxGXYpultpUJcHMGktjLMAoYMP_PMI/s1600/inside.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqh_lNpHmMD-5gLvw22zCZrHOeo3tFgpMgNJCZdIsrBiDXREUAyXgosZfqe5tvO_etTIj24nf-EggAMFnoDxv07EgEdI2WOlfeS_CnN5YANWZ_DWxGXYpultpUJcHMGktjLMAoYMP_PMI/s320/inside.png" width="320" height="300" data-original-width="415" data-original-height="389" /></a></div>

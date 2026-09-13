@@ -1,7 +1,7 @@
 ---
 title: "Papa Leão XIV e Nossa Senhora"
 date: 2025-05-13T18:15:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuFEmj9Ha9EQWCtIH8YHOjyYUPC6TKHnNHgdEHjhliQ7PyanVh89T9KhfGPEp6soyb4JJG02ODWR1luoAybPWnwP4_8fDWedL8yHgdaZHwnVVvqxvprPEaav74D-CV4V-tolAL9I9JSGzlMHxTvH0m-DPAur2reT1wnWD8Nf4hmr1-up-Nl8X8mLebRDo/s320/Le%C3%A3o%20XIV%20e%20Nossa%20Senhora.png"
+heroImage: "/images/Leão XIV e Nossa Senhora.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuFEmj9Ha9EQWCtIH8YHOjyYUPC6TKHnNHgdEHjhliQ7PyanVh89T9KhfGPEp6soyb4JJG02ODWR1luoAybPWnwP4_8fDWedL8yHgdaZHwnVVvqxvprPEaav74D-CV4V-tolAL9I9JSGzlMHxTvH0m-DPAur2reT1wnWD8Nf4hmr1-up-Nl8X8mLebRDo/s563/Le%C3%A3o%20XIV%20e%20Nossa%20Senhora.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="372" data-original-width="563" height="211" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuFEmj9Ha9EQWCtIH8YHOjyYUPC6TKHnNHgdEHjhliQ7PyanVh89T9KhfGPEp6soyb4JJG02ODWR1luoAybPWnwP4_8fDWedL8yHgdaZHwnVVvqxvprPEaav74D-CV4V-tolAL9I9JSGzlMHxTvH0m-DPAur2reT1wnWD8Nf4hmr1-up-Nl8X8mLebRDo/s320/Le%C3%A3o%20XIV%20e%20Nossa%20Senhora.png" width="320" /></a></div><p>&nbsp;</p><p>Foi por sua expressa vontade que, neste último sábado, o

@@ -1,7 +1,7 @@
 ---
 title: "Eu e meus filhos"
 date: 2022-12-12T16:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgapfiY2CbRSDj7JIW2BP16FZrql8fMoXv3mTgOy3gldbria8a8kus_Fj5KNFTHBTjT90WUCoPo7WTnVQ6PH8ObdtcA5u8FP0MKApbQB8V_Fl5CemG3z0yEfCxqvBiUM_14tXQjcLCXEUWolbs0uKGdE8x0XFRd87gBHXng7t8gFIviBTvDmqiUMVvL/s320/eu%20e%20meu%20pai.png"
+heroImage: "/images/Pai.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgapfiY2CbRSDj7JIW2BP16FZrql8fMoXv3mTgOy3gldbria8a8kus_Fj5KNFTHBTjT90WUCoPo7WTnVQ6PH8ObdtcA5u8FP0MKApbQB8V_Fl5CemG3z0yEfCxqvBiUM_14tXQjcLCXEUWolbs0uKGdE8x0XFRd87gBHXng7t8gFIviBTvDmqiUMVvL/s630/eu%20e%20meu%20pai.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="592" data-original-width="630" height="301" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgapfiY2CbRSDj7JIW2BP16FZrql8fMoXv3mTgOy3gldbria8a8kus_Fj5KNFTHBTjT90WUCoPo7WTnVQ6PH8ObdtcA5u8FP0MKApbQB8V_Fl5CemG3z0yEfCxqvBiUM_14tXQjcLCXEUWolbs0uKGdE8x0XFRd87gBHXng7t8gFIviBTvDmqiUMVvL/s320/eu%20e%20meu%20pai.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sobre filhos e pais muito se falou, fala e se irá falar. A

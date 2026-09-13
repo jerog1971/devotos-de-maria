@@ -1,7 +1,7 @@
 ---
 title: "Tempo é questão de Prioridade"
 date: 2016-10-17T13:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgymxb2_n-PyfdS257BrxkUfYGC0-crJBwoXPz8emYBWYiQflOqEldPjn8T_LAOGOaEQOrvRploTsu4mfQDcYD_n-Yw9RPSnkyqJoQseTlR3YzOvdm7Ab1TKu-qEdhGkrtlnTL3TFq6Gyw/s320/tempo.png"
+heroImage: "/images/passando o tempo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgymxb2_n-PyfdS257BrxkUfYGC0-crJBwoXPz8emYBWYiQflOqEldPjn8T_LAOGOaEQOrvRploTsu4mfQDcYD_n-Yw9RPSnkyqJoQseTlR3YzOvdm7Ab1TKu-qEdhGkrtlnTL3TFq6Gyw/s1600/tempo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgymxb2_n-PyfdS257BrxkUfYGC0-crJBwoXPz8emYBWYiQflOqEldPjn8T_LAOGOaEQOrvRploTsu4mfQDcYD_n-Yw9RPSnkyqJoQseTlR3YzOvdm7Ab1TKu-qEdhGkrtlnTL3TFq6Gyw/s320/tempo.png" width="320" height="300" data-original-width="405" data-original-height="380" /></a></div>

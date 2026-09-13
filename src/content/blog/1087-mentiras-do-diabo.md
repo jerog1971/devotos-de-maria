@@ -1,7 +1,7 @@
 ---
 title: "Mentiras do diabo"
 date: 2021-06-23T15:08:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdtHWvAqW8ul1EtTeK1HXaxfyKGaUc64JEVgHrdwJel5PE08ndXsEfirUlzjAKR0u9es1F6ik4nua1Xi75x-RyQEywFhvCaHZM3sopQPwMhanAbOg-kadw2Cf7JNyzbz5a0VvDEhSV6s/s0/mentiras+do+diabo.png"
+heroImage: "/images/diabo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdtHWvAqW8ul1EtTeK1HXaxfyKGaUc64JEVgHrdwJel5PE08ndXsEfirUlzjAKR0u9es1F6ik4nua1Xi75x-RyQEywFhvCaHZM3sopQPwMhanAbOg-kadw2Cf7JNyzbz5a0VvDEhSV6s/s273/mentiras+do+diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdtHWvAqW8ul1EtTeK1HXaxfyKGaUc64JEVgHrdwJel5PE08ndXsEfirUlzjAKR0u9es1F6ik4nua1Xi75x-RyQEywFhvCaHZM3sopQPwMhanAbOg-kadw2Cf7JNyzbz5a0VvDEhSV6s/s0/mentiras+do+diabo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O ladrão não vem senão para matar, roubar e destruir, é o

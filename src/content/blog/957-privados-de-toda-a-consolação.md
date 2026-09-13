@@ -1,7 +1,7 @@
 ---
 title: "Privados de toda a consolação"
 date: 2020-07-05T15:59:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLbml9eOEdlLbdP5y-tNPmf8ndwz5AACUGjuF8ewN7KIfHcVqhs0y6wMLFvfA7VjvUoy4dWkn8Ur5-mSCJT5gHp5oSUhzqawjTibSG4DpQ5oX0JsPQ8jLkt1gblNYil1PflFLJaVESLg8/s320/incomodo.png"
+heroImage: "/images/incomodo.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLbml9eOEdlLbdP5y-tNPmf8ndwz5AACUGjuF8ewN7KIfHcVqhs0y6wMLFvfA7VjvUoy4dWkn8Ur5-mSCJT5gHp5oSUhzqawjTibSG4DpQ5oX0JsPQ8jLkt1gblNYil1PflFLJaVESLg8/s428/incomodo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="428" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLbml9eOEdlLbdP5y-tNPmf8ndwz5AACUGjuF8ewN7KIfHcVqhs0y6wMLFvfA7VjvUoy4dWkn8Ur5-mSCJT5gHp5oSUhzqawjTibSG4DpQ5oX0JsPQ8jLkt1gblNYil1PflFLJaVESLg8/s320/incomodo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não é dificultoso desprezar as consolações humanas, quando

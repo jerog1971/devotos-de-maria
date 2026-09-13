@@ -1,7 +1,7 @@
 ---
 title: "Conservar as Certezas"
 date: 2017-05-25T19:51:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixo8jz1rTFtZ4Rzu5EsQM0afjKPLKS3_3yzxs_0E5NcEpJUOVOz4fSgKdykgfbMPouerHcyY03ehrNmnlFACByHrQLixqTQndpKBwMDbqsnhZ5kNGbkvV8nqkhrSKDmYiFbtuug-WW3Ek/s320/certeza.png"
+heroImage: "/images/certeza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixo8jz1rTFtZ4Rzu5EsQM0afjKPLKS3_3yzxs_0E5NcEpJUOVOz4fSgKdykgfbMPouerHcyY03ehrNmnlFACByHrQLixqTQndpKBwMDbqsnhZ5kNGbkvV8nqkhrSKDmYiFbtuug-WW3Ek/s1600/certeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixo8jz1rTFtZ4Rzu5EsQM0afjKPLKS3_3yzxs_0E5NcEpJUOVOz4fSgKdykgfbMPouerHcyY03ehrNmnlFACByHrQLixqTQndpKBwMDbqsnhZ5kNGbkvV8nqkhrSKDmYiFbtuug-WW3Ek/s320/certeza.png" width="320" height="279" data-original-width="237" data-original-height="207" /></a></div>

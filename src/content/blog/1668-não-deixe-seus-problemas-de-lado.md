@@ -1,7 +1,7 @@
 ---
 title: "Não deixe seus problemas de lado"
 date: 2022-11-04T15:39:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jwQvYm-uz_mTHdy6RsNU07VMB8aDUI-We9VoRTN8lmEX_jN6FdrX2uf9fMQrtwkeh1_txv4AD_FOtiD52w7qHhST3T_sioECyFSr00NGzUvtD-m1SSLtA9tpTw13jmtRYeerBz4zgviOb188mFjw_gEUSu1YxIhKEs7NlHd__6vq-Ar_k70g6sws/s320/resolvendo%20problemas.png"
+heroImage: "/images/problemas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jwQvYm-uz_mTHdy6RsNU07VMB8aDUI-We9VoRTN8lmEX_jN6FdrX2uf9fMQrtwkeh1_txv4AD_FOtiD52w7qHhST3T_sioECyFSr00NGzUvtD-m1SSLtA9tpTw13jmtRYeerBz4zgviOb188mFjw_gEUSu1YxIhKEs7NlHd__6vq-Ar_k70g6sws/s497/resolvendo%20problemas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="438" data-original-width="497" height="282" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jwQvYm-uz_mTHdy6RsNU07VMB8aDUI-We9VoRTN8lmEX_jN6FdrX2uf9fMQrtwkeh1_txv4AD_FOtiD52w7qHhST3T_sioECyFSr00NGzUvtD-m1SSLtA9tpTw13jmtRYeerBz4zgviOb188mFjw_gEUSu1YxIhKEs7NlHd__6vq-Ar_k70g6sws/s320/resolvendo%20problemas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se você almeja a felicidade em sua vida, certamente e muito

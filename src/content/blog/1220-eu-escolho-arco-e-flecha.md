@@ -1,7 +1,7 @@
 ---
 title: "Eu escolho: arco e flecha"
 date: 2018-10-31T20:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjEvlmq-b7cm60S0dm9kQ_HEowqFN7UDCjgGBhif3YCenoCEUGP0hMQzRerSWNlO83V5Kdz8YzSTS9jMWD1uj6nD3Uue6fiKqn3GBpZQBOT-9o16LiQrVoPhknHiTBR2IhDCO6sJNKfDU/s320/habilidade.png"
+heroImage: "/images/habilidade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjEvlmq-b7cm60S0dm9kQ_HEowqFN7UDCjgGBhif3YCenoCEUGP0hMQzRerSWNlO83V5Kdz8YzSTS9jMWD1uj6nD3Uue6fiKqn3GBpZQBOT-9o16LiQrVoPhknHiTBR2IhDCO6sJNKfDU/s1600/habilidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjEvlmq-b7cm60S0dm9kQ_HEowqFN7UDCjgGBhif3YCenoCEUGP0hMQzRerSWNlO83V5Kdz8YzSTS9jMWD1uj6nD3Uue6fiKqn3GBpZQBOT-9o16LiQrVoPhknHiTBR2IhDCO6sJNKfDU/s320/habilidade.png" width="320" height="306" data-original-width="311" data-original-height="297" /></a></div>

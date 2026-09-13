@@ -1,7 +1,7 @@
 ---
 title: "Se entregar pelo outro"
 date: 2016-01-28T11:13:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8tKdj3sU2eUhWNo20P6WFppv4UtQlLreiR84rdTaGMejwQAzIuR-yN3EyXp5FlR1AUApjUHPFmxOd5y3za_lH6MKk6ez0uHcwufEDmU6ow_0qvnrFh6uvREyulbvTTJ44Nx4v6pSOvk/s320/bernardo_alergia.png"
+heroImage: "/images/bernardo_alergia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8tKdj3sU2eUhWNo20P6WFppv4UtQlLreiR84rdTaGMejwQAzIuR-yN3EyXp5FlR1AUApjUHPFmxOd5y3za_lH6MKk6ez0uHcwufEDmU6ow_0qvnrFh6uvREyulbvTTJ44Nx4v6pSOvk/s1600/bernardo_alergia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8tKdj3sU2eUhWNo20P6WFppv4UtQlLreiR84rdTaGMejwQAzIuR-yN3EyXp5FlR1AUApjUHPFmxOd5y3za_lH6MKk6ez0uHcwufEDmU6ow_0qvnrFh6uvREyulbvTTJ44Nx4v6pSOvk/s320/bernardo_alergia.png" width="320" height="208" data-original-width="606" data-original-height="393" /></a></div>

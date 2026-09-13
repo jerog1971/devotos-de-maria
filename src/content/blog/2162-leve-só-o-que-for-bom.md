@@ -1,7 +1,7 @@
 ---
 title: "Leve só o que for bom"
 date: 2023-03-17T20:19:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8VIkvP0mFRQoshL4PkD9G5WmI8pZgzID4WARFNzZXqN_XBgf-RqgJFuDn9GUBROi3vRsQTYxVQjcdErjBdk3vDVKCmwOJqW3XZDb7fpY7v_ue91pYJRKVaP3ZADqLHZFqZ8VTaIa3966cQL5ZOVcofxrT68J6y7kNwnh9iWQfCKTO-_oTzZrHNIIj/s320/leve%20s%C3%B3%20o%20que%20for%20bom.png"
+heroImage: "/images/leve só o que for bom.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8VIkvP0mFRQoshL4PkD9G5WmI8pZgzID4WARFNzZXqN_XBgf-RqgJFuDn9GUBROi3vRsQTYxVQjcdErjBdk3vDVKCmwOJqW3XZDb7fpY7v_ue91pYJRKVaP3ZADqLHZFqZ8VTaIa3966cQL5ZOVcofxrT68J6y7kNwnh9iWQfCKTO-_oTzZrHNIIj/s1431/leve%20s%C3%B3%20o%20que%20for%20bom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1216" data-original-width="1431" height="272" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8VIkvP0mFRQoshL4PkD9G5WmI8pZgzID4WARFNzZXqN_XBgf-RqgJFuDn9GUBROi3vRsQTYxVQjcdErjBdk3vDVKCmwOJqW3XZDb7fpY7v_ue91pYJRKVaP3ZADqLHZFqZ8VTaIa3966cQL5ZOVcofxrT68J6y7kNwnh9iWQfCKTO-_oTzZrHNIIj/s320/leve%20s%C3%B3%20o%20que%20for%20bom.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos nos versículos bíblicos que devemos apenas reter para

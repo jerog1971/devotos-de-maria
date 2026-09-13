@@ -1,7 +1,7 @@
 ---
 title: "Nossa irmã, a Morte"
 date: 2017-07-25T12:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhERSwHP-LvwdGWeauxFmm_7M6f9FrRlKwd2ja2d504fyxHH4DUxccPMGKMWj-BVgLXxENgtKEyP7Yg83Sq7zRX_oNc4UKWprhg7tK4b3A_UMj9z9UakDwdNMCi-PP5CNKyCUbOOL1cMVY/s320/morte.png"
+heroImage: "/images/chegada_da_morte.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhERSwHP-LvwdGWeauxFmm_7M6f9FrRlKwd2ja2d504fyxHH4DUxccPMGKMWj-BVgLXxENgtKEyP7Yg83Sq7zRX_oNc4UKWprhg7tK4b3A_UMj9z9UakDwdNMCi-PP5CNKyCUbOOL1cMVY/s1600/morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhERSwHP-LvwdGWeauxFmm_7M6f9FrRlKwd2ja2d504fyxHH4DUxccPMGKMWj-BVgLXxENgtKEyP7Yg83Sq7zRX_oNc4UKWprhg7tK4b3A_UMj9z9UakDwdNMCi-PP5CNKyCUbOOL1cMVY/s320/morte.png" width="319" height="320" data-original-width="508" data-original-height="510" /></a></div>

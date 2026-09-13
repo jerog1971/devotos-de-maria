@@ -1,7 +1,7 @@
 ---
 title: "ALERTA: educação sexual e ideologia de gênero"
 date: 2016-02-25T14:10:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaXR90ikFdyN5dq-PkdFKuwPoCa89JkYKx1h8BJFUjUS7XzLtKMo0LtxyTqvHvu-qJHRmxAknBx7xT7qGjcEx2t_pZuSrXREKemLuk7CvcZmjbbOvcYznW3WU4c5m_WOhgq3I-Pz2C6Xg/s320/genero_na_escola.png"
+heroImage: "/images/genero_na_escola.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaXR90ikFdyN5dq-PkdFKuwPoCa89JkYKx1h8BJFUjUS7XzLtKMo0LtxyTqvHvu-qJHRmxAknBx7xT7qGjcEx2t_pZuSrXREKemLuk7CvcZmjbbOvcYznW3WU4c5m_WOhgq3I-Pz2C6Xg/s1600/genero_na_escola.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaXR90ikFdyN5dq-PkdFKuwPoCa89JkYKx1h8BJFUjUS7XzLtKMo0LtxyTqvHvu-qJHRmxAknBx7xT7qGjcEx2t_pZuSrXREKemLuk7CvcZmjbbOvcYznW3WU4c5m_WOhgq3I-Pz2C6Xg/s320/genero_na_escola.png" width="320" height="267" data-original-width="611" data-original-height="510" /></a></div>

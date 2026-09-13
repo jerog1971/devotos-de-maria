@@ -1,7 +1,7 @@
 ---
 title: "O natal é de Jesus"
 date: 2019-12-20T17:56:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIg1LGXlNZbap5BLCoG8-kB655-HhfrohGKNmrIL3mBGLXsj0AVnJ8ytSUAT9G-Lm5U4dhN1pLR_cXFEvsqakOI1hPwC8HOZbrZ6R2xD4WIZ5h1ceh-Rr30DfktOlM4oa39H5SGovolGg/s320/santa_vs_jesus.png"
+heroImage: "/images/santa_vs_jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIg1LGXlNZbap5BLCoG8-kB655-HhfrohGKNmrIL3mBGLXsj0AVnJ8ytSUAT9G-Lm5U4dhN1pLR_cXFEvsqakOI1hPwC8HOZbrZ6R2xD4WIZ5h1ceh-Rr30DfktOlM4oa39H5SGovolGg/s1600/santa_vs_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIg1LGXlNZbap5BLCoG8-kB655-HhfrohGKNmrIL3mBGLXsj0AVnJ8ytSUAT9G-Lm5U4dhN1pLR_cXFEvsqakOI1hPwC8HOZbrZ6R2xD4WIZ5h1ceh-Rr30DfktOlM4oa39H5SGovolGg/s320/santa_vs_jesus.png" width="320" height="181" data-original-width="898" data-original-height="508" /></a></div>

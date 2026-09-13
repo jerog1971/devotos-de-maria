@@ -1,7 +1,7 @@
 ---
 title: "Sempre temos por quem rezar"
 date: 2016-04-12T20:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoMakDBkHqhca84ciG0qbp74_m7Rb226mNLmG5c2DM766OjxfH0qMMp6oFdk3B8jlNAvUWi5SVB-U7EGi8-5dRr-0NX24khIZVSNVffAVHeA_rOj2iwyma0uuKl0HxTiLHaYkiHjCfraE/s320/rezando.png"
+heroImage: "/images/Piorezando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoMakDBkHqhca84ciG0qbp74_m7Rb226mNLmG5c2DM766OjxfH0qMMp6oFdk3B8jlNAvUWi5SVB-U7EGi8-5dRr-0NX24khIZVSNVffAVHeA_rOj2iwyma0uuKl0HxTiLHaYkiHjCfraE/s1600/rezando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoMakDBkHqhca84ciG0qbp74_m7Rb226mNLmG5c2DM766OjxfH0qMMp6oFdk3B8jlNAvUWi5SVB-U7EGi8-5dRr-0NX24khIZVSNVffAVHeA_rOj2iwyma0uuKl0HxTiLHaYkiHjCfraE/s320/rezando.png" width="320" height="219" data-original-width="265" data-original-height="181" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Amizades..."
 date: 2016-07-08T11:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXPa2Gf4EtGidWgWvsaACZ3dMLt6WYKqrpHYTx0AsjAKu-tBcmfG9ia4Q3dssVowvR-73F17YNJl5T2Vco2k_tFhHeWwFHC2AClKL6Pe9o62hCZ94TJYEdeavDe7-GkvEqR5yGghjMsXg/s320/amizade.png"
+heroImage: "/images/amizade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXPa2Gf4EtGidWgWvsaACZ3dMLt6WYKqrpHYTx0AsjAKu-tBcmfG9ia4Q3dssVowvR-73F17YNJl5T2Vco2k_tFhHeWwFHC2AClKL6Pe9o62hCZ94TJYEdeavDe7-GkvEqR5yGghjMsXg/s1600/amizade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXPa2Gf4EtGidWgWvsaACZ3dMLt6WYKqrpHYTx0AsjAKu-tBcmfG9ia4Q3dssVowvR-73F17YNJl5T2Vco2k_tFhHeWwFHC2AClKL6Pe9o62hCZ94TJYEdeavDe7-GkvEqR5yGghjMsXg/s320/amizade.png" width="320" height="303" data-original-width="549" data-original-height="520" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "É o diabo, satanás ou o demônio?"
 date: 2018-10-30T20:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQghMLYEPwUhEM3ZGDA3-mYaCVNMpDu0na7sw-PyoDqHkNPvbKxJtUm6g5c3qtT8c8WoTzWY0Zyd2E2AGJCwhgZ8q09ZZAnuMIszb2XJdqJwqD4wgo9f7iZNW0tHiy9DGFdnUY625Ls9U/s320/Jesus_x_diabo.png"
+heroImage: "/images/Jesus_x_diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQghMLYEPwUhEM3ZGDA3-mYaCVNMpDu0na7sw-PyoDqHkNPvbKxJtUm6g5c3qtT8c8WoTzWY0Zyd2E2AGJCwhgZ8q09ZZAnuMIszb2XJdqJwqD4wgo9f7iZNW0tHiy9DGFdnUY625Ls9U/s1600/Jesus_x_diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQghMLYEPwUhEM3ZGDA3-mYaCVNMpDu0na7sw-PyoDqHkNPvbKxJtUm6g5c3qtT8c8WoTzWY0Zyd2E2AGJCwhgZ8q09ZZAnuMIszb2XJdqJwqD4wgo9f7iZNW0tHiy9DGFdnUY625Ls9U/s320/Jesus_x_diabo.png" width="299" height="320" data-original-width="488" data-original-height="522" /></a></div>

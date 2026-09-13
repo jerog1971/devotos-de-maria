@@ -1,7 +1,7 @@
 ---
 title: "Não pode com “ele”, junte-se a “ele”"
 date: 2018-03-28T15:37:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY3NJNxRI5UIUzoujOx91FgJ3_ufgOJm1orgIM3XyejQPSeZ5-dhKSnN1s6IX3pg7bKw1qNRXJGqBk4uh5m93py7Xb7-DjB8QXKbcNAKVS8zvrxY93oFpGq9gGs74DZc807yLaeaoPm3c/s320/santidade.png"
+heroImage: "/images/modelos de santidade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY3NJNxRI5UIUzoujOx91FgJ3_ufgOJm1orgIM3XyejQPSeZ5-dhKSnN1s6IX3pg7bKw1qNRXJGqBk4uh5m93py7Xb7-DjB8QXKbcNAKVS8zvrxY93oFpGq9gGs74DZc807yLaeaoPm3c/s1600/santidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY3NJNxRI5UIUzoujOx91FgJ3_ufgOJm1orgIM3XyejQPSeZ5-dhKSnN1s6IX3pg7bKw1qNRXJGqBk4uh5m93py7Xb7-DjB8QXKbcNAKVS8zvrxY93oFpGq9gGs74DZc807yLaeaoPm3c/s320/santidade.png" width="320" height="303" data-original-width="408" data-original-height="386" /></a></div>

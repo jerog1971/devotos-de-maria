@@ -1,7 +1,7 @@
 ---
 title: "O desabafo de um catequista"
 date: 2016-06-08T17:21:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsj6JES6-EjBmnYX6tekawCDhLPIx5veGQeQQ9vER9ekH5xG1z8tkl0mgal2_l-rkQPuORt0Kow37t8mgXj8Ik-Pck1jSqpnUll5rcJeJ32kGuXEs1n_dFKCdqD0s_wVbaTe3KIvHlpSI/s320/catequista.png"
+heroImage: "/images/catequista.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsj6JES6-EjBmnYX6tekawCDhLPIx5veGQeQQ9vER9ekH5xG1z8tkl0mgal2_l-rkQPuORt0Kow37t8mgXj8Ik-Pck1jSqpnUll5rcJeJ32kGuXEs1n_dFKCdqD0s_wVbaTe3KIvHlpSI/s1600/catequista.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsj6JES6-EjBmnYX6tekawCDhLPIx5veGQeQQ9vER9ekH5xG1z8tkl0mgal2_l-rkQPuORt0Kow37t8mgXj8Ik-Pck1jSqpnUll5rcJeJ32kGuXEs1n_dFKCdqD0s_wVbaTe3KIvHlpSI/s320/catequista.png" width="320" height="317" data-original-width="344" data-original-height="341" /></a></div>

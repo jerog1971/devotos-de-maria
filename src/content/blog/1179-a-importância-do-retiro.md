@@ -1,7 +1,7 @@
 ---
 title: "A importância do Retiro"
 date: 2016-06-01T13:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxHj4KOEBt0zQnni6WJtLltG2z39x1TJOLCmtOw8dIhnHs_s88soCjYEHL0Gmqoo32T0RRrYogUThDprJMWKPxEeUKxtExoqBbwP7R1LLm57nrNwfhYuqLO4u0J7AVoxT25cj7O4_XeUk/s320/retiro.png"
+heroImage: "/images/retiro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxHj4KOEBt0zQnni6WJtLltG2z39x1TJOLCmtOw8dIhnHs_s88soCjYEHL0Gmqoo32T0RRrYogUThDprJMWKPxEeUKxtExoqBbwP7R1LLm57nrNwfhYuqLO4u0J7AVoxT25cj7O4_XeUk/s1600/retiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxHj4KOEBt0zQnni6WJtLltG2z39x1TJOLCmtOw8dIhnHs_s88soCjYEHL0Gmqoo32T0RRrYogUThDprJMWKPxEeUKxtExoqBbwP7R1LLm57nrNwfhYuqLO4u0J7AVoxT25cj7O4_XeUk/s320/retiro.png" width="320" height="216" data-original-width="488" data-original-height="330" /></a></div>

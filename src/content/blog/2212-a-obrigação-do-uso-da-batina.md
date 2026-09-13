@@ -1,7 +1,7 @@
 ---
 title: "A obrigação do uso da batina"
 date: 2016-03-02T20:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz2_tmTkJyGlKw1UGCbzXkfZ300jn81heaatITGpVhVrGri-mM4tmsNQSHY8hib9C0HPAkH2QvJrQUeacgGSTcag9WYZCrMyyHpEaiw0XcrVh_N5s0U2esEIec_AEx71Z6p971VPFhAd0/s320/batina.png"
+heroImage: "/images/batina.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz2_tmTkJyGlKw1UGCbzXkfZ300jn81heaatITGpVhVrGri-mM4tmsNQSHY8hib9C0HPAkH2QvJrQUeacgGSTcag9WYZCrMyyHpEaiw0XcrVh_N5s0U2esEIec_AEx71Z6p971VPFhAd0/s1600/batina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz2_tmTkJyGlKw1UGCbzXkfZ300jn81heaatITGpVhVrGri-mM4tmsNQSHY8hib9C0HPAkH2QvJrQUeacgGSTcag9WYZCrMyyHpEaiw0XcrVh_N5s0U2esEIec_AEx71Z6p971VPFhAd0/s320/batina.png" width="320" height="188" data-original-width="474" data-original-height="278" /></a></div>

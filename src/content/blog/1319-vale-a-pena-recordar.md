@@ -1,7 +1,7 @@
 ---
 title: "Vale a pena recordar"
 date: 2018-10-25T18:56:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY42UC43gpCdroifEleBZMfSOpAxe-osER3raoh6fqTWcPL7cqmjABuHuv3kO6Vgx_-r3zURz1I3k1iWmJdSa9Q8jYin7m7YUBdtZomgfv2Wx7SDGzvA_sek2p-w9UzaTqgfNZhIyQNYU/s320/Padre_Stefano_Gobi.png"
+heroImage: "/images/Padre_Stefano_Gobi.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY42UC43gpCdroifEleBZMfSOpAxe-osER3raoh6fqTWcPL7cqmjABuHuv3kO6Vgx_-r3zURz1I3k1iWmJdSa9Q8jYin7m7YUBdtZomgfv2Wx7SDGzvA_sek2p-w9UzaTqgfNZhIyQNYU/s1600/Padre_Stefano_Gobi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY42UC43gpCdroifEleBZMfSOpAxe-osER3raoh6fqTWcPL7cqmjABuHuv3kO6Vgx_-r3zURz1I3k1iWmJdSa9Q8jYin7m7YUBdtZomgfv2Wx7SDGzvA_sek2p-w9UzaTqgfNZhIyQNYU/s320/Padre_Stefano_Gobi.png" width="317" height="320" data-original-width="326" data-original-height="329" /></a></div>

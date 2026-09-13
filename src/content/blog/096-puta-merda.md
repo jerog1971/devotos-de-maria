@@ -1,7 +1,7 @@
 ---
 title: "Puta Merda"
 date: 2018-04-18T16:10:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAyRhN0Xr8pio4yezEVKuNOdVbqcXHBqWbT73I1IjshDO1YHZ7ATMYp155dXaO5L7USdc0wIH6iuouVteKmgzpJfxdJXNexgx03H8RIM4njsAOs11zyNHQR0GItI0C8awFxlhyphenhyphenVJct3ck/s320/puta_merda.png"
+heroImage: "/images/puta_merda.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAyRhN0Xr8pio4yezEVKuNOdVbqcXHBqWbT73I1IjshDO1YHZ7ATMYp155dXaO5L7USdc0wIH6iuouVteKmgzpJfxdJXNexgx03H8RIM4njsAOs11zyNHQR0GItI0C8awFxlhyphenhyphenVJct3ck/s1600/puta_merda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAyRhN0Xr8pio4yezEVKuNOdVbqcXHBqWbT73I1IjshDO1YHZ7ATMYp155dXaO5L7USdc0wIH6iuouVteKmgzpJfxdJXNexgx03H8RIM4njsAOs11zyNHQR0GItI0C8awFxlhyphenhyphenVJct3ck/s320/puta_merda.png" width="320" height="286" data-original-width="390" data-original-height="349" /></a></div>

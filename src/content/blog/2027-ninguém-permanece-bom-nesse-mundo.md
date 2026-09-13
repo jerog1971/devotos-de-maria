@@ -1,7 +1,7 @@
 ---
 title: "Ninguém permanece bom nesse mundo"
 date: 2022-12-21T19:56:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQsM0ZgWPnGNSKZ40s54U6NL1J3GnAsUbndcyj8aJRIoiInDQGsfRPPycsMk2YbE3PslEjWjzYVBYiiGZxRrMBwOG47Vz107_PoHVRezyEw3mobRNWTZ1gWV3fg_rpmO5MG-Jz_LQz0If4Yxy7P0M9ZnqtQgusrTFCj8l6VOhXfc8nIZuvzBR2kc3H/s320/ningu%C3%A9m%20permanece%20bom%20nesse%20mundo.png"
+heroImage: "/images/ninguém permanece bom nesse mundo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQsM0ZgWPnGNSKZ40s54U6NL1J3GnAsUbndcyj8aJRIoiInDQGsfRPPycsMk2YbE3PslEjWjzYVBYiiGZxRrMBwOG47Vz107_PoHVRezyEw3mobRNWTZ1gWV3fg_rpmO5MG-Jz_LQz0If4Yxy7P0M9ZnqtQgusrTFCj8l6VOhXfc8nIZuvzBR2kc3H/s432/ningu%C3%A9m%20permanece%20bom%20nesse%20mundo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="319" data-original-width="432" height="236" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQsM0ZgWPnGNSKZ40s54U6NL1J3GnAsUbndcyj8aJRIoiInDQGsfRPPycsMk2YbE3PslEjWjzYVBYiiGZxRrMBwOG47Vz107_PoHVRezyEw3mobRNWTZ1gWV3fg_rpmO5MG-Jz_LQz0If4Yxy7P0M9ZnqtQgusrTFCj8l6VOhXfc8nIZuvzBR2kc3H/s320/ningu%C3%A9m%20permanece%20bom%20nesse%20mundo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos trazer para a realidade de nossa existência. Podemos facilmente

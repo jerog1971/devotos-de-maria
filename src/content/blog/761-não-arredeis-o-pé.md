@@ -1,7 +1,7 @@
 ---
 title: "Não arredeis o pé"
 date: 2018-03-20T16:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2TJt9MGbzBlD64rXD09Gja_QOJ9UvL12yKlUfQwGmQKTqFi8USFiYoezYsZ1jBypZWLpDXp2-iAgrub1UNKyAJGV_WcspAQU9S7Rtu9HgRzagX2K84h7iP7XbzgtcUTea2JFbd3PbmI/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2TJt9MGbzBlD64rXD09Gja_QOJ9UvL12yKlUfQwGmQKTqFi8USFiYoezYsZ1jBypZWLpDXp2-iAgrub1UNKyAJGV_WcspAQU9S7Rtu9HgRzagX2K84h7iP7XbzgtcUTea2JFbd3PbmI/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV2TJt9MGbzBlD64rXD09Gja_QOJ9UvL12yKlUfQwGmQKTqFi8USFiYoezYsZ1jBypZWLpDXp2-iAgrub1UNKyAJGV_WcspAQU9S7Rtu9HgRzagX2K84h7iP7XbzgtcUTea2JFbd3PbmI/s320/sofrimento.png" width="300" height="320" data-original-width="191" data-original-height="204" /></a></div>

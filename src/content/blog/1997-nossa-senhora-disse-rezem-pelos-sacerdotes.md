@@ -1,7 +1,7 @@
 ---
 title: "Nossa Senhora disse: “rezem pelos sacerdotes”"
 date: 2020-03-22T00:56:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYjjXR_VnhWnv49EfVqmlQtad1Dcukb6fr0sFOPp2CewJyLIwbo4GrtSJ2XJWgKEgYfyYkRrqUv_J0o_5G5Gn6EeQawALynwHorf_lSLGUIUJ76s7fyJyYswfAb7U2jabSx0kfMTc2fLA/s320/zombar_de_Deus.png"
+heroImage: "/images/zombar_de_Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYjjXR_VnhWnv49EfVqmlQtad1Dcukb6fr0sFOPp2CewJyLIwbo4GrtSJ2XJWgKEgYfyYkRrqUv_J0o_5G5Gn6EeQawALynwHorf_lSLGUIUJ76s7fyJyYswfAb7U2jabSx0kfMTc2fLA/s1600/zombar_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYjjXR_VnhWnv49EfVqmlQtad1Dcukb6fr0sFOPp2CewJyLIwbo4GrtSJ2XJWgKEgYfyYkRrqUv_J0o_5G5Gn6EeQawALynwHorf_lSLGUIUJ76s7fyJyYswfAb7U2jabSx0kfMTc2fLA/s320/zombar_de_Deus.png" width="320" height="305" data-original-width="408" data-original-height="389" /></a></div>

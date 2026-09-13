@@ -1,7 +1,7 @@
 ---
 title: "Seis dias"
 date: 2023-11-13T18:27:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi36wwEb3XgSMVpXd0-u1q05XhEJIaFjb6WzCcmC9qiTKP4HDESOQrFBeq3hHOcuHCkUOmIZu4ZZOp7paVbhaAMp21EvlZMHLAqlYkgmb3YGjlDwhDlz02vnrVN4ON7UmzSRodKcqTAFg3TUs2Ghi41ncjGuZNQdP58WwfXualAvzl8wKGLQFu_6J5Y24k/s320/seis%20dias.png"
+heroImage: "/images/seis dias.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi36wwEb3XgSMVpXd0-u1q05XhEJIaFjb6WzCcmC9qiTKP4HDESOQrFBeq3hHOcuHCkUOmIZu4ZZOp7paVbhaAMp21EvlZMHLAqlYkgmb3YGjlDwhDlz02vnrVN4ON7UmzSRodKcqTAFg3TUs2Ghi41ncjGuZNQdP58WwfXualAvzl8wKGLQFu_6J5Y24k/s444/seis%20dias.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="382" data-original-width="444" height="275" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi36wwEb3XgSMVpXd0-u1q05XhEJIaFjb6WzCcmC9qiTKP4HDESOQrFBeq3hHOcuHCkUOmIZu4ZZOp7paVbhaAMp21EvlZMHLAqlYkgmb3YGjlDwhDlz02vnrVN4ON7UmzSRodKcqTAFg3TUs2Ghi41ncjGuZNQdP58WwfXualAvzl8wKGLQFu_6J5Y24k/s320/seis%20dias.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia que Deus criou o mundo em seis dias e no

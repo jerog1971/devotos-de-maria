@@ -1,7 +1,7 @@
 ---
 title: "Pelo menos eu tentei"
 date: 2017-11-16T19:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHro_U_DksJW1rYC69wN2xEmeFEi0_7tXyz8DegqlY4Z49k8sC1hjiJSa-m5GfqrwXsdbbd5Turs3sqXQ2O7WSqoRePWGXDwtp3yKHknLhx9qPS-ZBpvkYFxTCW1g3W319t6Tymh9ZR8/s320/tentar.png"
+heroImage: "/images/tentar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHro_U_DksJW1rYC69wN2xEmeFEi0_7tXyz8DegqlY4Z49k8sC1hjiJSa-m5GfqrwXsdbbd5Turs3sqXQ2O7WSqoRePWGXDwtp3yKHknLhx9qPS-ZBpvkYFxTCW1g3W319t6Tymh9ZR8/s1600/tentar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHro_U_DksJW1rYC69wN2xEmeFEi0_7tXyz8DegqlY4Z49k8sC1hjiJSa-m5GfqrwXsdbbd5Turs3sqXQ2O7WSqoRePWGXDwtp3yKHknLhx9qPS-ZBpvkYFxTCW1g3W319t6Tymh9ZR8/s320/tentar.png" width="235" height="320" data-original-width="380" data-original-height="518" /></a></div>

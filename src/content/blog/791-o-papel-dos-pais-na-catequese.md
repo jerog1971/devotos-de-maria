@@ -1,7 +1,7 @@
 ---
 title: "O papel dos pais na catequese"
 date: 2016-05-31T20:05:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhof7Xpz3s60POQhnGYWk7-8eDodK5KcjifFCHFtw4HmxycIs6IfEIvaKIDZYXPukoqw_ly6GEmnuadWY69u42AtSzu0KvFFNve7_BnUHBoayUGfi-nc0HHaQfT1OGzTryDxjjql8vIcYI/s320/Capa1.jpg"
+heroImage: "/images/Capa1.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhof7Xpz3s60POQhnGYWk7-8eDodK5KcjifFCHFtw4HmxycIs6IfEIvaKIDZYXPukoqw_ly6GEmnuadWY69u42AtSzu0KvFFNve7_BnUHBoayUGfi-nc0HHaQfT1OGzTryDxjjql8vIcYI/s1600/Capa1.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="612" data-original-width="481" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhof7Xpz3s60POQhnGYWk7-8eDodK5KcjifFCHFtw4HmxycIs6IfEIvaKIDZYXPukoqw_ly6GEmnuadWY69u42AtSzu0KvFFNve7_BnUHBoayUGfi-nc0HHaQfT1OGzTryDxjjql8vIcYI/s320/Capa1.jpg" width="252" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Catequese Familiar"
 date: 2019-05-21T16:16:00.001Z
-heroImage: "https://4.bp.blogspot.com/-HN2cMBKdoDg/Vlg9uPpq6nI/AAAAAAAABgg/h5TWp0S1ZUMpX6mE3ofIGG3HBnzia1l4QCPcB/s320/pedindo.jpg"
+heroImage: "/images/pedindo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-HN2cMBKdoDg/Vlg9uPpq6nI/AAAAAAAABgg/h5TWp0S1ZUMpX6mE3ofIGG3HBnzia1l4QCPcB/s1600/pedindo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-HN2cMBKdoDg/Vlg9uPpq6nI/AAAAAAAABgg/h5TWp0S1ZUMpX6mE3ofIGG3HBnzia1l4QCPcB/s320/pedindo.jpg" width="320" height="237" /></a></div>

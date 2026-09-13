@@ -1,7 +1,7 @@
 ---
 title: "Músicos na missa?"
 date: 2019-03-15T20:26:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjxcbmHVIbUilVGNp48MUfzGBrk9EqODYfMaCXmUSl73d0h8DXKKN1SqQOxWauPSg2lrF3sO9YIj8k0P9Lgn5HOy3HabXK50S8s6zCKms7Mi5q4H4KLRBMetagYpX3xPXdTpl0u6Ex24/s320/musicos_na_missa.png"
+heroImage: "/images/musicos_na_missa.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjxcbmHVIbUilVGNp48MUfzGBrk9EqODYfMaCXmUSl73d0h8DXKKN1SqQOxWauPSg2lrF3sO9YIj8k0P9Lgn5HOy3HabXK50S8s6zCKms7Mi5q4H4KLRBMetagYpX3xPXdTpl0u6Ex24/s1600/musicos_na_missa.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="247" data-original-width="258" height="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjxcbmHVIbUilVGNp48MUfzGBrk9EqODYfMaCXmUSl73d0h8DXKKN1SqQOxWauPSg2lrF3sO9YIj8k0P9Lgn5HOy3HabXK50S8s6zCKms7Mi5q4H4KLRBMetagYpX3xPXdTpl0u6Ex24/s320/musicos_na_missa.png" width="320" /></a></div>

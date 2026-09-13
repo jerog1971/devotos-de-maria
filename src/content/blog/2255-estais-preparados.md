@@ -1,7 +1,7 @@
 ---
 title: "Estais Preparados"
 date: 2017-02-03T19:54:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5SUV3zXW0P87AGM5dox_aRtLihhAMXWNkFJ0VYrLOf-2yJ7ces4MBeL5VbyyVt25ey_sTfnxHJxE-rg7zubCvzEALiV1zUXS_ntSAo0CLy2Sksq5yTndeZSOtRswFchxWMBVtc57wNEI/s320/armadura.png"
+heroImage: "/images/armadura.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5SUV3zXW0P87AGM5dox_aRtLihhAMXWNkFJ0VYrLOf-2yJ7ces4MBeL5VbyyVt25ey_sTfnxHJxE-rg7zubCvzEALiV1zUXS_ntSAo0CLy2Sksq5yTndeZSOtRswFchxWMBVtc57wNEI/s1600/armadura.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="295" data-original-width="318" height="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5SUV3zXW0P87AGM5dox_aRtLihhAMXWNkFJ0VYrLOf-2yJ7ces4MBeL5VbyyVt25ey_sTfnxHJxE-rg7zubCvzEALiV1zUXS_ntSAo0CLy2Sksq5yTndeZSOtRswFchxWMBVtc57wNEI/s320/armadura.png" width="320" /></a></div>

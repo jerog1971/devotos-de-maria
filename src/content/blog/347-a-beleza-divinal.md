@@ -1,7 +1,7 @@
 ---
 title: "A beleza divinal"
 date: 2017-03-02T17:04:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSOKYx_HpVLWV7LG9GBU1e7b7OGu-VpHxdAHpydAynnF9lCGO0bi18qR0dasUfB13mTMltne05hG-UMmMheH415XCfOLtL3IWCNrAQqRVYuqSScrgMbSITEb7U0tYY3BYb-8rBL9GGDDA/s320/beleza.png"
+heroImage: "/images/beleza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSOKYx_HpVLWV7LG9GBU1e7b7OGu-VpHxdAHpydAynnF9lCGO0bi18qR0dasUfB13mTMltne05hG-UMmMheH415XCfOLtL3IWCNrAQqRVYuqSScrgMbSITEb7U0tYY3BYb-8rBL9GGDDA/s1600/beleza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSOKYx_HpVLWV7LG9GBU1e7b7OGu-VpHxdAHpydAynnF9lCGO0bi18qR0dasUfB13mTMltne05hG-UMmMheH415XCfOLtL3IWCNrAQqRVYuqSScrgMbSITEb7U0tYY3BYb-8rBL9GGDDA/s320/beleza.png" width="320" height="282" data-original-width="250" data-original-height="220" /></a></div>

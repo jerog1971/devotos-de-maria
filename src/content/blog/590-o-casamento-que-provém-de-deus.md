@@ -1,7 +1,7 @@
 ---
 title: "O casamento que provém de Deus"
 date: 2023-02-22T13:57:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Y7KHwuLuB0hptW05cxgfocbpcrvH_G1DxpFXNqqx4zRmVrL2r2kC_gAwZf-0kz9kaNX7oPD52YkERjfmsc1cJuKExFVuJsoJTzo2h-CJhrGQ21GH61nuojR9fYFga6tqCOrZnZKuaJAjlOAPKZoCP2LmXNE5axVv9MSC_3erzc1VF4xtHMvWLeJN/s320/O%20Casamento%20que%20prov%C3%A9m%20de%20Deus.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Y7KHwuLuB0hptW05cxgfocbpcrvH_G1DxpFXNqqx4zRmVrL2r2kC_gAwZf-0kz9kaNX7oPD52YkERjfmsc1cJuKExFVuJsoJTzo2h-CJhrGQ21GH61nuojR9fYFga6tqCOrZnZKuaJAjlOAPKZoCP2LmXNE5axVv9MSC_3erzc1VF4xtHMvWLeJN/s621/O%20Casamento%20que%20prov%C3%A9m%20de%20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="523" data-original-width="621" height="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Y7KHwuLuB0hptW05cxgfocbpcrvH_G1DxpFXNqqx4zRmVrL2r2kC_gAwZf-0kz9kaNX7oPD52YkERjfmsc1cJuKExFVuJsoJTzo2h-CJhrGQ21GH61nuojR9fYFga6tqCOrZnZKuaJAjlOAPKZoCP2LmXNE5axVv9MSC_3erzc1VF4xtHMvWLeJN/s320/O%20Casamento%20que%20prov%C3%A9m%20de%20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em muitos lugares ao redor do mundo, a luta contra as

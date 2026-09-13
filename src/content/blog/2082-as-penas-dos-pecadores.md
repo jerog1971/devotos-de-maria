@@ -1,7 +1,7 @@
 ---
 title: "As penas dos pecadores"
 date: 2020-06-24T16:27:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZJEnJMfuU1AidKiEtLtl8sLsrM6XxviqihzkA4JzjWzAh9sXx5B8d-qSM9llWigosoqfjFNATSxdwO4LhCeUPiIViuP0_lDtiDiDtmeZheqvtWeU9c2baCOL8J2zEWZBbGakkjq2u2To/s320/dificuldades.png"
+heroImage: "/images/dificuldades.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZJEnJMfuU1AidKiEtLtl8sLsrM6XxviqihzkA4JzjWzAh9sXx5B8d-qSM9llWigosoqfjFNATSxdwO4LhCeUPiIViuP0_lDtiDiDtmeZheqvtWeU9c2baCOL8J2zEWZBbGakkjq2u2To/s485/dificuldades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="485" data-original-width="464" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZJEnJMfuU1AidKiEtLtl8sLsrM6XxviqihzkA4JzjWzAh9sXx5B8d-qSM9llWigosoqfjFNATSxdwO4LhCeUPiIViuP0_lDtiDiDtmeZheqvtWeU9c2baCOL8J2zEWZBbGakkjq2u2To/s320/dificuldades.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em todas as coisas olha o fim, e de que sorte estarás diante

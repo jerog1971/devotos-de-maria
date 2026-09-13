@@ -1,7 +1,7 @@
 ---
 title: "Hormônios x Demônios"
 date: 2018-08-14T15:58:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglSGLuqvj2QMT8QPuDBO7PvLQkNLb5sytYiICliFHzQLX93_MWNnCMSU3fpiVL9ns0_vvADmJdKQQ9KEL5zT3PRbYq1GP0JXsVLugs7YSEB7-Tw7QULolR8PUbuSyNConfRN1LoDHcb6w/s320/sexo.png"
+heroImage: "/images/sexo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglSGLuqvj2QMT8QPuDBO7PvLQkNLb5sytYiICliFHzQLX93_MWNnCMSU3fpiVL9ns0_vvADmJdKQQ9KEL5zT3PRbYq1GP0JXsVLugs7YSEB7-Tw7QULolR8PUbuSyNConfRN1LoDHcb6w/s1600/sexo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglSGLuqvj2QMT8QPuDBO7PvLQkNLb5sytYiICliFHzQLX93_MWNnCMSU3fpiVL9ns0_vvADmJdKQQ9KEL5zT3PRbYq1GP0JXsVLugs7YSEB7-Tw7QULolR8PUbuSyNConfRN1LoDHcb6w/s320/sexo.png" width="320" height="298" data-original-width="505" data-original-height="470" /></a></div>

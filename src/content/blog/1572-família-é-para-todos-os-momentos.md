@@ -1,7 +1,7 @@
 ---
 title: "Família é para todos os momentos"
 date: 2016-01-14T11:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaVovfOUF_Ui_idrLj7H1xgo-oIwCrtUKLccKArhe9w1fanfxH6GR91PukSZ9ke12p1IBkGP7SOK2fhCjSg5ivii4D41u6YpKqT4oN21E77fZZ5j4nzKTyocG7Qbmw4MgfsUUmhtu3BQw/s320/gemma_walker_depois.png"
+heroImage: "/images/gemma_walker_depois.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaVovfOUF_Ui_idrLj7H1xgo-oIwCrtUKLccKArhe9w1fanfxH6GR91PukSZ9ke12p1IBkGP7SOK2fhCjSg5ivii4D41u6YpKqT4oN21E77fZZ5j4nzKTyocG7Qbmw4MgfsUUmhtu3BQw/s1600/gemma_walker_depois.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaVovfOUF_Ui_idrLj7H1xgo-oIwCrtUKLccKArhe9w1fanfxH6GR91PukSZ9ke12p1IBkGP7SOK2fhCjSg5ivii4D41u6YpKqT4oN21E77fZZ5j4nzKTyocG7Qbmw4MgfsUUmhtu3BQw/s320/gemma_walker_depois.png" width="214" height="320" data-original-width="348" data-original-height="520" /></a></div>

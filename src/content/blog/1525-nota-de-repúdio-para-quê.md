@@ -1,7 +1,7 @@
 ---
 title: "Nota de repúdio para quê?"
 date: 2017-10-30T19:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2BPRtXOjMd6buTNmKe69PBDQqSTeyf4BVY8N1vIFDw-sYofSOiuTTLVxA7gJp7zaoc18NKSRUZz6HI8yTqW4yOoz03tuZDR0UMBVMMGo73WsnSuWNHG4W6fHwZRlz-m_Y3lOqTAXTsiA/s320/repudio.png"
+heroImage: "/images/repudio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2BPRtXOjMd6buTNmKe69PBDQqSTeyf4BVY8N1vIFDw-sYofSOiuTTLVxA7gJp7zaoc18NKSRUZz6HI8yTqW4yOoz03tuZDR0UMBVMMGo73WsnSuWNHG4W6fHwZRlz-m_Y3lOqTAXTsiA/s1600/repudio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2BPRtXOjMd6buTNmKe69PBDQqSTeyf4BVY8N1vIFDw-sYofSOiuTTLVxA7gJp7zaoc18NKSRUZz6HI8yTqW4yOoz03tuZDR0UMBVMMGo73WsnSuWNHG4W6fHwZRlz-m_Y3lOqTAXTsiA/s320/repudio.png" width="320" height="266" data-original-width="482" data-original-height="401" /></a></div>

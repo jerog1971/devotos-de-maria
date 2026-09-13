@@ -1,7 +1,7 @@
 ---
 title: "A vitrine das vaidades"
 date: 2017-09-28T14:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjliVFsCdG4XNkr4mA2JZqTtBy6a0mg2Ef3Y_X-OaL3jKawzEgC8q3R5S6Bd5tFhqA-Wj7dj9rqekYUVADPaCH75Yzm0_k3coabR2B_ec0A2WDtOQ1eBhuXTJPk1qqKIl8z_DfnjlL2N3s/s320/vaidades.png"
+heroImage: "/images/vaidades.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjliVFsCdG4XNkr4mA2JZqTtBy6a0mg2Ef3Y_X-OaL3jKawzEgC8q3R5S6Bd5tFhqA-Wj7dj9rqekYUVADPaCH75Yzm0_k3coabR2B_ec0A2WDtOQ1eBhuXTJPk1qqKIl8z_DfnjlL2N3s/s1600/vaidades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjliVFsCdG4XNkr4mA2JZqTtBy6a0mg2Ef3Y_X-OaL3jKawzEgC8q3R5S6Bd5tFhqA-Wj7dj9rqekYUVADPaCH75Yzm0_k3coabR2B_ec0A2WDtOQ1eBhuXTJPk1qqKIl8z_DfnjlL2N3s/s320/vaidades.png" width="320" height="286" data-original-width="560" data-original-height="500" /></a></div>

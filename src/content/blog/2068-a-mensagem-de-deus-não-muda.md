@@ -1,7 +1,7 @@
 ---
 title: "A mensagem de Deus não muda"
 date: 2022-07-20T15:47:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi883IniOmSUWqV51NY_1mb9-eu9tnLJTn34WvG0Zx8OHJIvpLbmp_AxOeaszgCdfm3hOKtVrIg2ECdZh0kIHMa-yFbgVfFxNhQiIElpouYglVEIIunmFA9a4PoF9DflHkloZG3QvRdk-MXlrMkl2gE4blNM6G_8kVHubaZNXmXMuhkGvbsbkORHvBr/s1600/testamento.png"
+heroImage: "/images/testamento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi883IniOmSUWqV51NY_1mb9-eu9tnLJTn34WvG0Zx8OHJIvpLbmp_AxOeaszgCdfm3hOKtVrIg2ECdZh0kIHMa-yFbgVfFxNhQiIElpouYglVEIIunmFA9a4PoF9DflHkloZG3QvRdk-MXlrMkl2gE4blNM6G_8kVHubaZNXmXMuhkGvbsbkORHvBr/s214/testamento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" height="214" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi883IniOmSUWqV51NY_1mb9-eu9tnLJTn34WvG0Zx8OHJIvpLbmp_AxOeaszgCdfm3hOKtVrIg2ECdZh0kIHMa-yFbgVfFxNhQiIElpouYglVEIIunmFA9a4PoF9DflHkloZG3QvRdk-MXlrMkl2gE4blNM6G_8kVHubaZNXmXMuhkGvbsbkORHvBr/s1600/testamento.png" width="195" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Um olhar bem treinado a respeito dos ensinamentos divinos

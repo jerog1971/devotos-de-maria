@@ -1,7 +1,7 @@
 ---
 title: "Ausência de Deus"
 date: 2020-10-02T19:43:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPr72JyM7HrGYXX5c9Q1aXxsjyX8GFyf58Ptwad7lyYth_LH7BQiJEAO35BXXABTYTsKPWlxIMYp5zriuvYUkbHyFYRHAmMDrO7tfW3RkePeyYLRV9dlvCUwUOLyYE6x68eTnVJe7S6LY/s320/Aus%25C3%25AAncia+de+Deus.png"
+heroImage: "/images/Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPr72JyM7HrGYXX5c9Q1aXxsjyX8GFyf58Ptwad7lyYth_LH7BQiJEAO35BXXABTYTsKPWlxIMYp5zriuvYUkbHyFYRHAmMDrO7tfW3RkePeyYLRV9dlvCUwUOLyYE6x68eTnVJe7S6LY/s395/Aus%25C3%25AAncia+de+Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="368" data-original-width="395" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPr72JyM7HrGYXX5c9Q1aXxsjyX8GFyf58Ptwad7lyYth_LH7BQiJEAO35BXXABTYTsKPWlxIMYp5zriuvYUkbHyFYRHAmMDrO7tfW3RkePeyYLRV9dlvCUwUOLyYE6x68eTnVJe7S6LY/s320/Aus%25C3%25AAncia+de+Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Atualmente e anualmente em alguma parte do mundo acontecem

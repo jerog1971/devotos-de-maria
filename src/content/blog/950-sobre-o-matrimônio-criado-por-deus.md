@@ -1,7 +1,7 @@
 ---
 title: "Sobre o matrimônio criado por Deus"
 date: 2020-01-17T21:40:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPC0xwiPkl4azd5JXrM0ZEWCvyYPhm2QgYVm1dNll759l-OyD3CLw3Vjti6PstnK9dblt5YXjB0KdkKQ60kJkjwVu48BhVkOWdsDo6YQganJDvMjRJrdvLITvrSseISbJ7LcM8ds781qs/s320/casamento.png"
+heroImage: "/images/casamento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPC0xwiPkl4azd5JXrM0ZEWCvyYPhm2QgYVm1dNll759l-OyD3CLw3Vjti6PstnK9dblt5YXjB0KdkKQ60kJkjwVu48BhVkOWdsDo6YQganJDvMjRJrdvLITvrSseISbJ7LcM8ds781qs/s1600/casamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPC0xwiPkl4azd5JXrM0ZEWCvyYPhm2QgYVm1dNll759l-OyD3CLw3Vjti6PstnK9dblt5YXjB0KdkKQ60kJkjwVu48BhVkOWdsDo6YQganJDvMjRJrdvLITvrSseISbJ7LcM8ds781qs/s320/casamento.png" width="320" height="315" data-original-width="366" data-original-height="360" /></a></div>

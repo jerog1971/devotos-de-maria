@@ -1,7 +1,7 @@
 ---
 title: "Sobre a Virgem Santíssima"
 date: 2020-07-05T16:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-B5uxmtg5sUVKA-4NfgIzl4kZnjGrvq_czGRAcjsjtsm3I8NxY6OGr4668-eABwMish1vCJ0n2j32Yiw06Jc-QID4MGfUeyXJDb8hLNF3cDiGNfxPTmEMTzxKSDYVrpkn0BhxokuDuMg/s320/Maria-GIF.gif"
+heroImage: "/images/Maria-GIF.gif"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-B5uxmtg5sUVKA-4NfgIzl4kZnjGrvq_czGRAcjsjtsm3I8NxY6OGr4668-eABwMish1vCJ0n2j32Yiw06Jc-QID4MGfUeyXJDb8hLNF3cDiGNfxPTmEMTzxKSDYVrpkn0BhxokuDuMg/s363/Maria-GIF.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="300" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-B5uxmtg5sUVKA-4NfgIzl4kZnjGrvq_czGRAcjsjtsm3I8NxY6OGr4668-eABwMish1vCJ0n2j32Yiw06Jc-QID4MGfUeyXJDb8hLNF3cDiGNfxPTmEMTzxKSDYVrpkn0BhxokuDuMg/s320/Maria-GIF.gif" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi por intermédio da Santíssima Virgem Maria que Jesus

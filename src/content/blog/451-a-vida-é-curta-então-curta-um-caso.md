@@ -1,7 +1,7 @@
 ---
 title: "A vida é curta então curta um caso"
 date: 2019-04-12T17:08:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim1FIapeshvmifGKL1Bd6nTLfbg_OZsgyASIiTCHABDJmmPuQ9ssQ77WHLak0ZJNLN1wnjpdGCtUuwhxM-v5wgE4Q1lz181oPIgHEGvzU7XLxI1DxYIc0I-jGsj0m4rG0UX6gYN8PtZjs/s320/inferno_na_terra.png"
+heroImage: "/images/inferno_na_terra.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim1FIapeshvmifGKL1Bd6nTLfbg_OZsgyASIiTCHABDJmmPuQ9ssQ77WHLak0ZJNLN1wnjpdGCtUuwhxM-v5wgE4Q1lz181oPIgHEGvzU7XLxI1DxYIc0I-jGsj0m4rG0UX6gYN8PtZjs/s1600/inferno_na_terra.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim1FIapeshvmifGKL1Bd6nTLfbg_OZsgyASIiTCHABDJmmPuQ9ssQ77WHLak0ZJNLN1wnjpdGCtUuwhxM-v5wgE4Q1lz181oPIgHEGvzU7XLxI1DxYIc0I-jGsj0m4rG0UX6gYN8PtZjs/s320/inferno_na_terra.png" width="319" height="320" data-original-width="479" data-original-height="480" /></a></div>

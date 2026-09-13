@@ -1,7 +1,7 @@
 ---
 title: "O Papa e as famílias"
 date: 2025-06-02T19:57:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2L-NsSlFe-2_RDRZnVldGiC3PEzdWiCaSzrFmbcNEYor7e4xErHdxytCA5sOl0kcTbQrct5zGfVOnRR-qfHWgLDwTCcLg35kdpXjRXeqEPFFt00G7s8COw4UzDkHNmzoFuyT794kaVJ5EdnwORxnhJ5NEApBBzRSXXvdDPnmivOqAvcgCn1jdmif-I_s/s320/o%20papa%20e%20as%20fam%C3%ADlias.png"
+heroImage: "/images/família.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2L-NsSlFe-2_RDRZnVldGiC3PEzdWiCaSzrFmbcNEYor7e4xErHdxytCA5sOl0kcTbQrct5zGfVOnRR-qfHWgLDwTCcLg35kdpXjRXeqEPFFt00G7s8COw4UzDkHNmzoFuyT794kaVJ5EdnwORxnhJ5NEApBBzRSXXvdDPnmivOqAvcgCn1jdmif-I_s/s696/o%20papa%20e%20as%20fam%C3%ADlias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="373" data-original-width="696" height="171" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2L-NsSlFe-2_RDRZnVldGiC3PEzdWiCaSzrFmbcNEYor7e4xErHdxytCA5sOl0kcTbQrct5zGfVOnRR-qfHWgLDwTCcLg35kdpXjRXeqEPFFt00G7s8COw4UzDkHNmzoFuyT794kaVJ5EdnwORxnhJ5NEApBBzRSXXvdDPnmivOqAvcgCn1jdmif-I_s/s320/o%20papa%20e%20as%20fam%C3%ADlias.png" width="320" /></a></div><br /><p style="line-height: 100%; margin-bottom: 0cm;">

@@ -1,7 +1,7 @@
 ---
 title: "Os detalhes do adultério"
 date: 2019-11-18T16:11:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3tghLe1nAHyH60H2r7PT4bdn-aPF-OvZQqWWyDUmEDiAh1Q-mf4PL37VLgfFl-XVaSnvLFCB_y0owGH8uhDBCqQrNqRXrc0CARWsvtMvPDgqkUiGnY6F4CsFB9nZ4ZQ73tSLnZXwysX0/s320/minimizar.png"
+heroImage: "/images/minimizar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3tghLe1nAHyH60H2r7PT4bdn-aPF-OvZQqWWyDUmEDiAh1Q-mf4PL37VLgfFl-XVaSnvLFCB_y0owGH8uhDBCqQrNqRXrc0CARWsvtMvPDgqkUiGnY6F4CsFB9nZ4ZQ73tSLnZXwysX0/s1600/minimizar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="615" height="169" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3tghLe1nAHyH60H2r7PT4bdn-aPF-OvZQqWWyDUmEDiAh1Q-mf4PL37VLgfFl-XVaSnvLFCB_y0owGH8uhDBCqQrNqRXrc0CARWsvtMvPDgqkUiGnY6F4CsFB9nZ4ZQ73tSLnZXwysX0/s320/minimizar.png" width="320" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "O que Deus faz por você"
 date: 2020-01-30T02:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFE-6jz-jRzCSUb4AvTYVstxOylN5mHpEC6vEMa5ng10QB5Udu40Cw074eLucZGQ9ul4TgKg-SambwK1rkBNXtpw8kJc3yH9Bc5BcBBwTXH6Zxj5n9gasTMnNrkT6syrsIG6dfxmSnhQ/s320/Deus.png"
+heroImage: "/images/Ausência de Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFE-6jz-jRzCSUb4AvTYVstxOylN5mHpEC6vEMa5ng10QB5Udu40Cw074eLucZGQ9ul4TgKg-SambwK1rkBNXtpw8kJc3yH9Bc5BcBBwTXH6Zxj5n9gasTMnNrkT6syrsIG6dfxmSnhQ/s1600/Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFE-6jz-jRzCSUb4AvTYVstxOylN5mHpEC6vEMa5ng10QB5Udu40Cw074eLucZGQ9ul4TgKg-SambwK1rkBNXtpw8kJc3yH9Bc5BcBBwTXH6Zxj5n9gasTMnNrkT6syrsIG6dfxmSnhQ/s320/Deus.png" width="253" height="320" data-original-width="353" data-original-height="447" /></a></div>

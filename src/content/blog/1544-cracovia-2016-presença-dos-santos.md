@@ -1,7 +1,7 @@
 ---
 title: "Cracovia 2016 - presença dos santos"
 date: 2016-07-28T20:31:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTLBf0OXZatAKC6bpQKgo7Id8kpOP3tk559sOgykExsLUMFN9tj9x1QKKm-tEDIIAmegiO6pHK0Dc0jan_XZQUwZ-tITDmLEzfLtI8NU5gGhwUmycxJCXNtLTBNvmYHj3fYg1FXa0mTK0/s320/cracovia2016.png"
+heroImage: "/images/cracovia2016.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTLBf0OXZatAKC6bpQKgo7Id8kpOP3tk559sOgykExsLUMFN9tj9x1QKKm-tEDIIAmegiO6pHK0Dc0jan_XZQUwZ-tITDmLEzfLtI8NU5gGhwUmycxJCXNtLTBNvmYHj3fYg1FXa0mTK0/s1600/cracovia2016.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTLBf0OXZatAKC6bpQKgo7Id8kpOP3tk559sOgykExsLUMFN9tj9x1QKKm-tEDIIAmegiO6pHK0Dc0jan_XZQUwZ-tITDmLEzfLtI8NU5gGhwUmycxJCXNtLTBNvmYHj3fYg1FXa0mTK0/s320/cracovia2016.png" width="320" height="239" data-original-width="317" data-original-height="237" /></a></div>

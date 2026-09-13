@@ -1,7 +1,7 @@
 ---
 title: "As sete coisas que Deus odeia"
 date: 2017-05-19T13:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3UroOvfq6p-QS8i9HhLyPEEUhwNieXpSohVdDeQvJgKikO_emYI-7groDwMAqd3cKVtVwJ2KV7EuWiyWSis-KGqxUjKsQtQBVw2BjiM7wmrGpwGzm1SFlKezgFRxMOutLIEAk14ouqLI/s320/odeia.png"
+heroImage: "/images/odeia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3UroOvfq6p-QS8i9HhLyPEEUhwNieXpSohVdDeQvJgKikO_emYI-7groDwMAqd3cKVtVwJ2KV7EuWiyWSis-KGqxUjKsQtQBVw2BjiM7wmrGpwGzm1SFlKezgFRxMOutLIEAk14ouqLI/s1600/odeia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3UroOvfq6p-QS8i9HhLyPEEUhwNieXpSohVdDeQvJgKikO_emYI-7groDwMAqd3cKVtVwJ2KV7EuWiyWSis-KGqxUjKsQtQBVw2BjiM7wmrGpwGzm1SFlKezgFRxMOutLIEAk14ouqLI/s320/odeia.png" width="320" height="268" data-original-width="530" data-original-height="444" /></a></div>

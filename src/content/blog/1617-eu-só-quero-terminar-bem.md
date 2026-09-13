@@ -1,7 +1,7 @@
 ---
 title: "Eu só quero terminar bem"
 date: 2020-03-04T15:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhH-FMEVJBmF2VCTpCeGgsQI2-3PabTyzTdsDU72hh1-xZkZeM-URpDrYTq3HCAvPPP2SzyYRF-e5BzN_0CO04KL5u_UL8n_EBdbJN6GNhHl7IhNIIEJZHDyR2fidZVoLRxU6ylt5r-nY/s320/jerusalem.png"
+heroImage: "/images/jerusalem.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhH-FMEVJBmF2VCTpCeGgsQI2-3PabTyzTdsDU72hh1-xZkZeM-URpDrYTq3HCAvPPP2SzyYRF-e5BzN_0CO04KL5u_UL8n_EBdbJN6GNhHl7IhNIIEJZHDyR2fidZVoLRxU6ylt5r-nY/s1600/jerusalem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhH-FMEVJBmF2VCTpCeGgsQI2-3PabTyzTdsDU72hh1-xZkZeM-URpDrYTq3HCAvPPP2SzyYRF-e5BzN_0CO04KL5u_UL8n_EBdbJN6GNhHl7IhNIIEJZHDyR2fidZVoLRxU6ylt5r-nY/s320/jerusalem.png" width="320" height="241" data-original-width="468" data-original-height="352" /></a></div>

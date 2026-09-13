@@ -1,7 +1,7 @@
 ---
 title: "Sem medo de ser devoto"
 date: 2017-12-19T18:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrLay6C7EEBV2P18LXc7CZtSBxMJgK5X_GrbGYexF91olieOTqY5QijzaNaN9og5w0CaGLuOinzpBuW3PZqnhyoIEVjpQx-i7jU6BdobpHriFIcYdp74eCX1wRYnLhlfpPGBzE5cRoqxg/s320/devotos_em_Medjugorje.png"
+heroImage: "/images/devotos_em_Medjugorje.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrLay6C7EEBV2P18LXc7CZtSBxMJgK5X_GrbGYexF91olieOTqY5QijzaNaN9og5w0CaGLuOinzpBuW3PZqnhyoIEVjpQx-i7jU6BdobpHriFIcYdp74eCX1wRYnLhlfpPGBzE5cRoqxg/s1600/devotos_em_Medjugorje.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrLay6C7EEBV2P18LXc7CZtSBxMJgK5X_GrbGYexF91olieOTqY5QijzaNaN9og5w0CaGLuOinzpBuW3PZqnhyoIEVjpQx-i7jU6BdobpHriFIcYdp74eCX1wRYnLhlfpPGBzE5cRoqxg/s320/devotos_em_Medjugorje.png" width="320" height="313" data-original-width="423" data-original-height="414" /></a></div>

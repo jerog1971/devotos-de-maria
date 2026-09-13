@@ -1,7 +1,7 @@
 ---
 title: "Ações proibidas"
 date: 2020-12-07T15:23:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lw_IIE-qMn7_1tdNs1QAjEs8OhVOFeDzAam_8Iij8G95Fan2RrQOOpBIZd3HE8GVUOspDqhMSA98QdZrJuVItaXJMuzB20LRnfP3fIL_tDw4mIMoxWGu9n5DAgvGR1quJ8WWmUbqpbI/s320/convem.png"
+heroImage: "/images/convem.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lw_IIE-qMn7_1tdNs1QAjEs8OhVOFeDzAam_8Iij8G95Fan2RrQOOpBIZd3HE8GVUOspDqhMSA98QdZrJuVItaXJMuzB20LRnfP3fIL_tDw4mIMoxWGu9n5DAgvGR1quJ8WWmUbqpbI/s402/convem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="402" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lw_IIE-qMn7_1tdNs1QAjEs8OhVOFeDzAam_8Iij8G95Fan2RrQOOpBIZd3HE8GVUOspDqhMSA98QdZrJuVItaXJMuzB20LRnfP3fIL_tDw4mIMoxWGu9n5DAgvGR1quJ8WWmUbqpbI/s320/convem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos adeptos de um modo de viver que tenta ser

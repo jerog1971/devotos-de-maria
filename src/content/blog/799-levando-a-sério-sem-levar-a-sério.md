@@ -1,7 +1,7 @@
 ---
 title: "Levando a sério sem levar a sério"
 date: 2019-04-26T15:38:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX2GmnJ_89SrADO7oGAbZ79zjjxXGqmZ_-yZ1wIEL6TwOpSKeoBvbeADztpg2UH1WRmi2NmsgCltd6Ig7bEh_U9SbsMRCeb1cpnB-rsQWODv_Zki0-5LbOtl0YaR7JaCS8_YIDg_i2g0M/s320/inferno.png"
+heroImage: "/images/João Bosco e o Inferno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX2GmnJ_89SrADO7oGAbZ79zjjxXGqmZ_-yZ1wIEL6TwOpSKeoBvbeADztpg2UH1WRmi2NmsgCltd6Ig7bEh_U9SbsMRCeb1cpnB-rsQWODv_Zki0-5LbOtl0YaR7JaCS8_YIDg_i2g0M/s1600/inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX2GmnJ_89SrADO7oGAbZ79zjjxXGqmZ_-yZ1wIEL6TwOpSKeoBvbeADztpg2UH1WRmi2NmsgCltd6Ig7bEh_U9SbsMRCeb1cpnB-rsQWODv_Zki0-5LbOtl0YaR7JaCS8_YIDg_i2g0M/s320/inferno.png" width="320" height="286" data-original-width="534" data-original-height="478" /></a></div>

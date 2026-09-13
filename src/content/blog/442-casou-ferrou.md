@@ -1,7 +1,7 @@
 ---
 title: "Casou... ferrou"
 date: 2020-03-29T20:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjykP962e7_Hy4f65HbTxs_VEZxjhZXcKLK_66WxaVNviNFH73-4NXZkOHbSySFSqO3vz2D0stl1XmWLRyrkStmk6kUtB-6PLAs2PuQAkDytoixmx-rAd8faFIxxviAmccBlAAzJsvH2jQ/s320/casados.png"
+heroImage: "/images/casados.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjykP962e7_Hy4f65HbTxs_VEZxjhZXcKLK_66WxaVNviNFH73-4NXZkOHbSySFSqO3vz2D0stl1XmWLRyrkStmk6kUtB-6PLAs2PuQAkDytoixmx-rAd8faFIxxviAmccBlAAzJsvH2jQ/s1600/casados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjykP962e7_Hy4f65HbTxs_VEZxjhZXcKLK_66WxaVNviNFH73-4NXZkOHbSySFSqO3vz2D0stl1XmWLRyrkStmk6kUtB-6PLAs2PuQAkDytoixmx-rAd8faFIxxviAmccBlAAzJsvH2jQ/s320/casados.png" width="320" height="305" data-original-width="473" data-original-height="451" /></a></div>

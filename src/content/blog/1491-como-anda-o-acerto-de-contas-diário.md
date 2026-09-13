@@ -1,7 +1,7 @@
 ---
 title: "Como anda o acerto de contas diário?"
 date: 2022-05-13T20:27:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxP7Oac5978_75MA-ySh_0YwOpM3od4VIz4jfWqvhXWyW3eznlEgzqdE_F_k5RJaRBXDYReV7LCGP18Ald6N4-aSRumofktYv72atrhTfXE56sFX7g7YCp8CyIfu7ka-KECOGnQSpc4s_SXpZeiPa4uUrYin4LysiehAnXiyd4eFXaalMcp9_jywNG/s320/exame%20de%20consci%C3%AAncia.png"
+heroImage: "/images/ciência.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxP7Oac5978_75MA-ySh_0YwOpM3od4VIz4jfWqvhXWyW3eznlEgzqdE_F_k5RJaRBXDYReV7LCGP18Ald6N4-aSRumofktYv72atrhTfXE56sFX7g7YCp8CyIfu7ka-KECOGnQSpc4s_SXpZeiPa4uUrYin4LysiehAnXiyd4eFXaalMcp9_jywNG/s696/exame%20de%20consci%C3%AAncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="509" data-original-width="696" height="234" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxP7Oac5978_75MA-ySh_0YwOpM3od4VIz4jfWqvhXWyW3eznlEgzqdE_F_k5RJaRBXDYReV7LCGP18Ald6N4-aSRumofktYv72atrhTfXE56sFX7g7YCp8CyIfu7ka-KECOGnQSpc4s_SXpZeiPa4uUrYin4LysiehAnXiyd4eFXaalMcp9_jywNG/s320/exame%20de%20consci%C3%AAncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é isso que cada um deve fazer todos os dias, inclusive

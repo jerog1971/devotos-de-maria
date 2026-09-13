@@ -1,7 +1,7 @@
 ---
 title: "Mais dia, menos dia"
 date: 2021-09-01T20:14:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg815ildRAbP7Ni7VWNJsCx62xq_iBkhdoCDxKqAPz0k2Id6Nft0C_i8gfbRPXkAuZ7aW1GUur5TOTbBNKrCISBFp4IC_PKTHyo-vUAAZemueOx9au1km846V5CAjAXqABIe91yT7SXjBw/s320/mais+dia+menos+dia.png"
+heroImage: "/images/nos.JPG"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg815ildRAbP7Ni7VWNJsCx62xq_iBkhdoCDxKqAPz0k2Id6Nft0C_i8gfbRPXkAuZ7aW1GUur5TOTbBNKrCISBFp4IC_PKTHyo-vUAAZemueOx9au1km846V5CAjAXqABIe91yT7SXjBw/s496/mais+dia+menos+dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="492" data-original-width="496" height="317" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg815ildRAbP7Ni7VWNJsCx62xq_iBkhdoCDxKqAPz0k2Id6Nft0C_i8gfbRPXkAuZ7aW1GUur5TOTbBNKrCISBFp4IC_PKTHyo-vUAAZemueOx9au1km846V5CAjAXqABIe91yT7SXjBw/s320/mais+dia+menos+dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E então, a vida é uma sucessão de horas em meio a um caminhar

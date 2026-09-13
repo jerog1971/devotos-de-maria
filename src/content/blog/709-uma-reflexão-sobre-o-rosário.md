@@ -1,7 +1,7 @@
 ---
 title: "Uma reflexão sobre o Rosário"
 date: 2017-05-22T16:11:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbLGQx-xPOXn5eF1UPz4-5MkvMRLBfYoiq76PyQnfHzJ25hTzsqT2bCz691xbxF4HtBa5TNKT3j55BbGM5HshCJTmBxSDiMmISK2JOdb5AvXKnzqWIuXXljFl3cpT8xM2xTPWzpP9IfiQ/s320/rosario.png"
+heroImage: "/images/biblia_e_rosario.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbLGQx-xPOXn5eF1UPz4-5MkvMRLBfYoiq76PyQnfHzJ25hTzsqT2bCz691xbxF4HtBa5TNKT3j55BbGM5HshCJTmBxSDiMmISK2JOdb5AvXKnzqWIuXXljFl3cpT8xM2xTPWzpP9IfiQ/s1600/rosario.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="717" height="230" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbLGQx-xPOXn5eF1UPz4-5MkvMRLBfYoiq76PyQnfHzJ25hTzsqT2bCz691xbxF4HtBa5TNKT3j55BbGM5HshCJTmBxSDiMmISK2JOdb5AvXKnzqWIuXXljFl3cpT8xM2xTPWzpP9IfiQ/s320/rosario.png" width="320" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Ser radicalmente de Deus"
 date: 2016-07-06T11:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHiE4BCLBEMa1RxpiHpB1mhLA9PhVF0tZnRwaIIo0lqoZKtwwJbDxsU4KAsqAB2d9nlU-rUBpEndDdmTh322zBR6Qu_IXtUexUPgGLIUAnnBfgA1lSQ1PKT59RKyOkTYqQ-Ujvsw_2MFs/s320/radicalmente_de_deus.png"
+heroImage: "/images/radicalmente_de_deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHiE4BCLBEMa1RxpiHpB1mhLA9PhVF0tZnRwaIIo0lqoZKtwwJbDxsU4KAsqAB2d9nlU-rUBpEndDdmTh322zBR6Qu_IXtUexUPgGLIUAnnBfgA1lSQ1PKT59RKyOkTYqQ-Ujvsw_2MFs/s1600/radicalmente_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHiE4BCLBEMa1RxpiHpB1mhLA9PhVF0tZnRwaIIo0lqoZKtwwJbDxsU4KAsqAB2d9nlU-rUBpEndDdmTh322zBR6Qu_IXtUexUPgGLIUAnnBfgA1lSQ1PKT59RKyOkTYqQ-Ujvsw_2MFs/s320/radicalmente_de_deus.png" width="320" height="267" data-original-width="431" data-original-height="360" /></a></div>

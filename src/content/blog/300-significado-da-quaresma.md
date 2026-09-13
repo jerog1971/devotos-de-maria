@@ -1,7 +1,7 @@
 ---
 title: "Significado da Quaresma"
 date: 2018-02-23T15:30:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUbFxh7lOQ9MSuK5BynkcWtH6de8-oFuMgz4M2_NHQbnPm-fTh2N0c5FleSBqjsAKcXZ4zwFqg5rO4IQg-IgUYsINlBI0jVyENXzFPBejx2WEHqYz2tx1xpJvn_vx-NV83conKIE6J1kU/s320/quaresma.png"
+heroImage: "/images/quaresma.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUbFxh7lOQ9MSuK5BynkcWtH6de8-oFuMgz4M2_NHQbnPm-fTh2N0c5FleSBqjsAKcXZ4zwFqg5rO4IQg-IgUYsINlBI0jVyENXzFPBejx2WEHqYz2tx1xpJvn_vx-NV83conKIE6J1kU/s1600/quaresma.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUbFxh7lOQ9MSuK5BynkcWtH6de8-oFuMgz4M2_NHQbnPm-fTh2N0c5FleSBqjsAKcXZ4zwFqg5rO4IQg-IgUYsINlBI0jVyENXzFPBejx2WEHqYz2tx1xpJvn_vx-NV83conKIE6J1kU/s320/quaresma.png" width="320" height="270" data-original-width="315" data-original-height="266" /></a></div>

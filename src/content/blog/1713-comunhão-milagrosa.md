@@ -1,7 +1,7 @@
 ---
 title: "Comunhão Milagrosa"
 date: 2017-08-23T18:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGvYZw2YXYGeRNEV0itYHoz_NeNgcnxdctP34THsAz4Tt1NVxgO_oEqDzF4cRsBe_Ep8ZPVVv5t-sUtNnvdXPj44yqOoij8oN75y2GY-3YsbvsbpJEPHE-AQawg-S8kQO2hTegIGMbLIA/s320/BoaVentura.png"
+heroImage: "/images/BoaVentura.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGvYZw2YXYGeRNEV0itYHoz_NeNgcnxdctP34THsAz4Tt1NVxgO_oEqDzF4cRsBe_Ep8ZPVVv5t-sUtNnvdXPj44yqOoij8oN75y2GY-3YsbvsbpJEPHE-AQawg-S8kQO2hTegIGMbLIA/s1600/BoaVentura.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGvYZw2YXYGeRNEV0itYHoz_NeNgcnxdctP34THsAz4Tt1NVxgO_oEqDzF4cRsBe_Ep8ZPVVv5t-sUtNnvdXPj44yqOoij8oN75y2GY-3YsbvsbpJEPHE-AQawg-S8kQO2hTegIGMbLIA/s320/BoaVentura.png" width="282" height="320" data-original-width="276" data-original-height="313" /></a></br>

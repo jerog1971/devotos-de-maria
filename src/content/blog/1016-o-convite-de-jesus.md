@@ -1,7 +1,7 @@
 ---
 title: "O convite de Jesus"
 date: 2018-01-03T15:20:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7q2PxD__I5N9Y64K5v4fy3oYSL4EaJhH5I0136vw4XB6zXL9P5NPwItS3FwpP0RoZsWxam_hDbiIKf3AXCsWS1EBUdkTHvmV0TAjkS5h3EIzWIXekMgeRwXhhwxQUg953eUboL6Z1dL0/s320/presepio2.png"
+heroImage: "/images/presepio2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7q2PxD__I5N9Y64K5v4fy3oYSL4EaJhH5I0136vw4XB6zXL9P5NPwItS3FwpP0RoZsWxam_hDbiIKf3AXCsWS1EBUdkTHvmV0TAjkS5h3EIzWIXekMgeRwXhhwxQUg953eUboL6Z1dL0/s1600/presepio2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="462" data-original-width="482" height="307" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7q2PxD__I5N9Y64K5v4fy3oYSL4EaJhH5I0136vw4XB6zXL9P5NPwItS3FwpP0RoZsWxam_hDbiIKf3AXCsWS1EBUdkTHvmV0TAjkS5h3EIzWIXekMgeRwXhhwxQUg953eUboL6Z1dL0/s320/presepio2.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Jesus, a segunda pessoa da Santíssima Trindade não obriga ninguém a nada. Isso por causa da liberdade que Deus dotou o ser humano. No entanto, nem por isso as obrigações deixam de existir. Em vários segmentos de nossas vidas fomos, somos ou seremos obrigados a algo, ou a alguma coisa. Sempre temos que decidir, temos que fazer uma escolha. Falando espiritualmente, se sabemos que algo faz bem para nós, enquanto corpo e alma, nós “dobramos” a preguiça do corpo e da mente e num ato de firme propósito nos “obrigamos” a fazer alguma coisa porque sabemos que é para nosso bem.

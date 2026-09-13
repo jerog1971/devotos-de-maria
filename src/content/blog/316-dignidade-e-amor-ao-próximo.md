@@ -1,7 +1,7 @@
 ---
 title: "Dignidade e amor ao próximo"
 date: 2016-04-14T14:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjbi5Xx4A1uzUmI-GmkKlfbEmlDajhnTo6CdHgmB4D3q_Ru8mAPuRdP-pwidY0xeMePzBBIqOWC0J8Wm7Q2Bs9_EoQpJ2ak2Jy8clEPavKI9fPSkrkcc3N7ANFmygVacg_G2_4h9s5sg/s320/abandonado.png"
+heroImage: "/images/abandonado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjbi5Xx4A1uzUmI-GmkKlfbEmlDajhnTo6CdHgmB4D3q_Ru8mAPuRdP-pwidY0xeMePzBBIqOWC0J8Wm7Q2Bs9_EoQpJ2ak2Jy8clEPavKI9fPSkrkcc3N7ANFmygVacg_G2_4h9s5sg/s1600/abandonado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjbi5Xx4A1uzUmI-GmkKlfbEmlDajhnTo6CdHgmB4D3q_Ru8mAPuRdP-pwidY0xeMePzBBIqOWC0J8Wm7Q2Bs9_EoQpJ2ak2Jy8clEPavKI9fPSkrkcc3N7ANFmygVacg_G2_4h9s5sg/s320/abandonado.png" width="320" height="318" data-original-width="281" data-original-height="279" /></a></div>

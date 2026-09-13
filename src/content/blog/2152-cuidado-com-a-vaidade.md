@@ -1,7 +1,7 @@
 ---
 title: "Cuidado com a vaidade"
 date: 2016-03-16T16:38:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Z9YTl0D9Cc8lxZeTo68NKx_K7iFUSEOw2r2QNG7lFvKAFHEoACQJGxvQqhKH4hmzJa0uPzmf1PpGa9fFxQozlLGOg4M5WcmuQ7NRxyxaLugvJF6lr3kYnsbY2Ok9w_tkDJBSdkpGIKQ/s320/vaidade.png"
+heroImage: "/images/vaidade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Z9YTl0D9Cc8lxZeTo68NKx_K7iFUSEOw2r2QNG7lFvKAFHEoACQJGxvQqhKH4hmzJa0uPzmf1PpGa9fFxQozlLGOg4M5WcmuQ7NRxyxaLugvJF6lr3kYnsbY2Ok9w_tkDJBSdkpGIKQ/s1600/vaidade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="405" data-original-width="640" height="203" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Z9YTl0D9Cc8lxZeTo68NKx_K7iFUSEOw2r2QNG7lFvKAFHEoACQJGxvQqhKH4hmzJa0uPzmf1PpGa9fFxQozlLGOg4M5WcmuQ7NRxyxaLugvJF6lr3kYnsbY2Ok9w_tkDJBSdkpGIKQ/s320/vaidade.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>

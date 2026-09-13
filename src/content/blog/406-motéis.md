@@ -1,7 +1,7 @@
 ---
 title: "Motéis"
 date: 2016-02-22T12:48:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAKh1fSfFG9zM4mAhO6xcXF1Ug0kcfhn4S0NOkQuhBduOtZEDgAv0nxKC_Z8sfrE-7crQcra55Vsu67vDmYoRJEzoB60wG90DTzIw_hWhKxe8mWjeAU97YeZ617ZWjdylEviFhQpSDnIM/s320/motel.png"
+heroImage: "/images/motel.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAKh1fSfFG9zM4mAhO6xcXF1Ug0kcfhn4S0NOkQuhBduOtZEDgAv0nxKC_Z8sfrE-7crQcra55Vsu67vDmYoRJEzoB60wG90DTzIw_hWhKxe8mWjeAU97YeZ617ZWjdylEviFhQpSDnIM/s1600/motel.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="240" data-original-width="336" height="229" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAKh1fSfFG9zM4mAhO6xcXF1Ug0kcfhn4S0NOkQuhBduOtZEDgAv0nxKC_Z8sfrE-7crQcra55Vsu67vDmYoRJEzoB60wG90DTzIw_hWhKxe8mWjeAU97YeZ617ZWjdylEviFhQpSDnIM/s320/motel.png" width="320" /></a></div>

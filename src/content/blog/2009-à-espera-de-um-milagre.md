@@ -1,7 +1,7 @@
 ---
 title: "À espera de um milagre"
 date: 2023-08-08T20:29:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL6X7ffUv9c2jtxQX07teXYV61bzdccbbWGydF6Wyco6g2sYr30iqvxscOMr9O3GKI-IXk1pHcIe8aowPWEU-W5J6bJA7aLy1i_XehxBvE0Ce2_KvEEveB9rV-YynDt08cVPrAAelzHbxh5SAHV_MtrzvwdcmE933v6l71FzTYCx842Q2pkNkAV6OU9KE/s320/a%20espera%20de%20um%20milagre.png"
+heroImage: "/images/a espera de um milagre.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL6X7ffUv9c2jtxQX07teXYV61bzdccbbWGydF6Wyco6g2sYr30iqvxscOMr9O3GKI-IXk1pHcIe8aowPWEU-W5J6bJA7aLy1i_XehxBvE0Ce2_KvEEveB9rV-YynDt08cVPrAAelzHbxh5SAHV_MtrzvwdcmE933v6l71FzTYCx842Q2pkNkAV6OU9KE/s512/a%20espera%20de%20um%20milagre.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="512" height="245" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL6X7ffUv9c2jtxQX07teXYV61bzdccbbWGydF6Wyco6g2sYr30iqvxscOMr9O3GKI-IXk1pHcIe8aowPWEU-W5J6bJA7aLy1i_XehxBvE0Ce2_KvEEveB9rV-YynDt08cVPrAAelzHbxh5SAHV_MtrzvwdcmE933v6l71FzTYCx842Q2pkNkAV6OU9KE/s320/a%20espera%20de%20um%20milagre.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Saber esperar é uma virtude! Aceitar, sem questionar, que

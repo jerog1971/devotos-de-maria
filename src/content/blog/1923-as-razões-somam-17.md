@@ -1,7 +1,7 @@
 ---
 title: "As razões somam 17"
 date: 2018-10-29T15:39:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipGlj2JUQrBKHGQ48144-7JP1haHYGfpSB7Rmb6E0bBif1uxXw1KP_Va47FTzWnmmXq80feSLTtuCVfO0PvkvVkyCeHGIReUikvWzb-4Pwd-iFCPP6iZRFXO4BtWdWfBNt1QTvI0Z6h7M/s320/obras.png"
+heroImage: "/images/obras.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipGlj2JUQrBKHGQ48144-7JP1haHYGfpSB7Rmb6E0bBif1uxXw1KP_Va47FTzWnmmXq80feSLTtuCVfO0PvkvVkyCeHGIReUikvWzb-4Pwd-iFCPP6iZRFXO4BtWdWfBNt1QTvI0Z6h7M/s1600/obras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipGlj2JUQrBKHGQ48144-7JP1haHYGfpSB7Rmb6E0bBif1uxXw1KP_Va47FTzWnmmXq80feSLTtuCVfO0PvkvVkyCeHGIReUikvWzb-4Pwd-iFCPP6iZRFXO4BtWdWfBNt1QTvI0Z6h7M/s320/obras.png" width="294" height="320" data-original-width="307" data-original-height="334" /></a></div>

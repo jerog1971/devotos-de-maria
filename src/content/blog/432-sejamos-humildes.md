@@ -1,7 +1,7 @@
 ---
 title: "Sejamos humildes"
 date: 2016-07-25T12:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0JxWvbDJmdp5gAh5_F2qRv3Kt3M2XquIL59-PaN4otq4nbba0jtnFTEOUfvBw3D9qwxLnwX-XUfgHo-eVnGGb07vbLNbKCaNQ89RqBNIhPifkqeWC63c6H70vHOS_4tkYCI-3QI6tqJo/s320/Nossa+Senhora.png"
+heroImage: "/images/nos.JPG"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0JxWvbDJmdp5gAh5_F2qRv3Kt3M2XquIL59-PaN4otq4nbba0jtnFTEOUfvBw3D9qwxLnwX-XUfgHo-eVnGGb07vbLNbKCaNQ89RqBNIhPifkqeWC63c6H70vHOS_4tkYCI-3QI6tqJo/s1600/Nossa+Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0JxWvbDJmdp5gAh5_F2qRv3Kt3M2XquIL59-PaN4otq4nbba0jtnFTEOUfvBw3D9qwxLnwX-XUfgHo-eVnGGb07vbLNbKCaNQ89RqBNIhPifkqeWC63c6H70vHOS_4tkYCI-3QI6tqJo/s320/Nossa+Senhora.png" width="258" height="320" data-original-width="395" data-original-height="490" /></a></div>

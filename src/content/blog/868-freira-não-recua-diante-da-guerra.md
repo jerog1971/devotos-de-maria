@@ -1,7 +1,7 @@
 ---
 title: "Freira não recua diante da guerra"
 date: 2016-08-01T17:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlZz3FvS8RNwrHz9xyj_WOEregWTrR9A-yzyeBWIeYz9Am8kjiiMjY7ZolBYIiHmu4MQM_wcQVywFLebBOnnec-exKtmXThq_9v77nGN0A4wCXsYYoQsfoRW7IWvxoVE9yhUiYGDFX2ZY/s320/freira_maria_de_guadalupe.png"
+heroImage: "/images/freira_maria_de_guadalupe.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlZz3FvS8RNwrHz9xyj_WOEregWTrR9A-yzyeBWIeYz9Am8kjiiMjY7ZolBYIiHmu4MQM_wcQVywFLebBOnnec-exKtmXThq_9v77nGN0A4wCXsYYoQsfoRW7IWvxoVE9yhUiYGDFX2ZY/s1600/freira_maria_de_guadalupe.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlZz3FvS8RNwrHz9xyj_WOEregWTrR9A-yzyeBWIeYz9Am8kjiiMjY7ZolBYIiHmu4MQM_wcQVywFLebBOnnec-exKtmXThq_9v77nGN0A4wCXsYYoQsfoRW7IWvxoVE9yhUiYGDFX2ZY/s320/freira_maria_de_guadalupe.png" width="320" height="297" data-original-width="253" data-original-height="235" /></a></div>

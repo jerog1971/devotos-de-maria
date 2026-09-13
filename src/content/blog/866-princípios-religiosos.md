@@ -1,7 +1,7 @@
 ---
 title: "Princípios religiosos"
 date: 2024-02-08T17:35:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXnPL_e_tHtCI0EeNnf6DUXgtfjcOvYjh0DGfnfaoh0xuUZ1Tvg6WBGz8lnnhJvkFi44SKECFjB1cfwjpvPU5DGY7IFTpZaWuE7W_gTRWdIQzq7AAJjEqDXWEe5M9d3YZxp3aRIbOG5U8PTi9ehvZWBiLxYhyha-SY_O7d5kLZ3hSlKuxKUNPFoPEE9Q/s320/Hospital%20S%C3%A3o%20Camilo.png"
+heroImage: "/images/Hospital São Camilo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXnPL_e_tHtCI0EeNnf6DUXgtfjcOvYjh0DGfnfaoh0xuUZ1Tvg6WBGz8lnnhJvkFi44SKECFjB1cfwjpvPU5DGY7IFTpZaWuE7W_gTRWdIQzq7AAJjEqDXWEe5M9d3YZxp3aRIbOG5U8PTi9ehvZWBiLxYhyha-SY_O7d5kLZ3hSlKuxKUNPFoPEE9Q/s550/Hospital%20S%C3%A3o%20Camilo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="302" data-original-width="550" height="176" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXnPL_e_tHtCI0EeNnf6DUXgtfjcOvYjh0DGfnfaoh0xuUZ1Tvg6WBGz8lnnhJvkFi44SKECFjB1cfwjpvPU5DGY7IFTpZaWuE7W_gTRWdIQzq7AAJjEqDXWEe5M9d3YZxp3aRIbOG5U8PTi9ehvZWBiLxYhyha-SY_O7d5kLZ3hSlKuxKUNPFoPEE9Q/s320/Hospital%20S%C3%A3o%20Camilo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O título do artigo é bem esclarecedor, trata-se de viver uma

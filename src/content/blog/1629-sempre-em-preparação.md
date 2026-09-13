@@ -1,7 +1,7 @@
 ---
 title: "Sempre em preparação"
 date: 2018-05-28T23:35:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg65-EFVSwG6XhJpLJ7BvfIaoUXxkSx3OQSdIFwo2Q5w9tK-QjNt-9pUrmYu-2N-XiarMBcEsTsu2klgv-N-KqbNQkYBCAPlyfVO2eHBRlf2JLvplzxvhAXZ8_ifkc2aAbRm-m87mWgo3A/s320/encontro.png"
+heroImage: "/images/encontro.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg65-EFVSwG6XhJpLJ7BvfIaoUXxkSx3OQSdIFwo2Q5w9tK-QjNt-9pUrmYu-2N-XiarMBcEsTsu2klgv-N-KqbNQkYBCAPlyfVO2eHBRlf2JLvplzxvhAXZ8_ifkc2aAbRm-m87mWgo3A/s1600/encontro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg65-EFVSwG6XhJpLJ7BvfIaoUXxkSx3OQSdIFwo2Q5w9tK-QjNt-9pUrmYu-2N-XiarMBcEsTsu2klgv-N-KqbNQkYBCAPlyfVO2eHBRlf2JLvplzxvhAXZ8_ifkc2aAbRm-m87mWgo3A/s320/encontro.png" width="320" height="306" data-original-width="248" data-original-height="237" /></a></div>

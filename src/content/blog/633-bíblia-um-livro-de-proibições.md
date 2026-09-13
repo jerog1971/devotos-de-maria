@@ -1,7 +1,7 @@
 ---
 title: "Bíblia - um livro de proibições"
 date: 2022-04-07T15:47:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEHl9DUSGQ-aoo2G_ZpQYWQSDnNdDJhtA7L_h1kcMNtg34C75Dkbu0-m8KVRf_IxNg_afJGBHqoZ2j2ceUzljo5IZCMklRQat5o94oHjAX2eprn0C2nDrrXhD6V0pi6BIXxzYLO3euW5v5DUNH-iM6U9inkBiiav4BFjLzU32ZxmPMu3bumddCKYjg/s1600/religiao.png"
+heroImage: "/images/religiao.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEHl9DUSGQ-aoo2G_ZpQYWQSDnNdDJhtA7L_h1kcMNtg34C75Dkbu0-m8KVRf_IxNg_afJGBHqoZ2j2ceUzljo5IZCMklRQat5o94oHjAX2eprn0C2nDrrXhD6V0pi6BIXxzYLO3euW5v5DUNH-iM6U9inkBiiav4BFjLzU32ZxmPMu3bumddCKYjg/s310/religiao.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="310" height="276" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEHl9DUSGQ-aoo2G_ZpQYWQSDnNdDJhtA7L_h1kcMNtg34C75Dkbu0-m8KVRf_IxNg_afJGBHqoZ2j2ceUzljo5IZCMklRQat5o94oHjAX2eprn0C2nDrrXhD6V0pi6BIXxzYLO3euW5v5DUNH-iM6U9inkBiiav4BFjLzU32ZxmPMu3bumddCKYjg/s1600/religiao.png" width="310" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia sagrada serve para muita coisa, todavia, além

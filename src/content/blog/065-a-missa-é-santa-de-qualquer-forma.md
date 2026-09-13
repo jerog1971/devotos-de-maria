@@ -1,7 +1,7 @@
 ---
 title: "A missa é santa de qualquer forma?"
 date: 2020-04-14T14:21:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwpOmEsSKTaXW6ZIJpyqKB3Vc8h4eocI1-mn6P1bW4XXVzlbSkKr8uZbpjZcoK456Za3oeHAqa32bfo9i0Serr3mwexMsRRKZCm13L4yko_ISCMfGg2KL-UAhuR27l5pmlANG75FJFMfw/s320/catolicos.png"
+heroImage: "/images/catolicos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwpOmEsSKTaXW6ZIJpyqKB3Vc8h4eocI1-mn6P1bW4XXVzlbSkKr8uZbpjZcoK456Za3oeHAqa32bfo9i0Serr3mwexMsRRKZCm13L4yko_ISCMfGg2KL-UAhuR27l5pmlANG75FJFMfw/s1600/catolicos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwpOmEsSKTaXW6ZIJpyqKB3Vc8h4eocI1-mn6P1bW4XXVzlbSkKr8uZbpjZcoK456Za3oeHAqa32bfo9i0Serr3mwexMsRRKZCm13L4yko_ISCMfGg2KL-UAhuR27l5pmlANG75FJFMfw/s320/catolicos.png" width="320" height="309" data-original-width="331" data-original-height="320" /></a></div>

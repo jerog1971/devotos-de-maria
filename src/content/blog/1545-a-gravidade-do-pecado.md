@@ -1,7 +1,7 @@
 ---
 title: "A gravidade do pecado"
 date: 2017-04-17T14:54:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6NxfIozVIssvtvFDUYIjBJgbdmE5gFO8GurcP0Np-47GYzmhAkiWhxJ7MZ7z6DwYgUeaPLu2REdjXsEluYo87JrScjkMs_9Xmu8WJEIbOYf6s0_gLgdg6YMedFW9If7aI4f9mr8RT6Do/s320/gravidade.png"
+heroImage: "/images/gravidade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6NxfIozVIssvtvFDUYIjBJgbdmE5gFO8GurcP0Np-47GYzmhAkiWhxJ7MZ7z6DwYgUeaPLu2REdjXsEluYo87JrScjkMs_9Xmu8WJEIbOYf6s0_gLgdg6YMedFW9If7aI4f9mr8RT6Do/s1600/gravidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6NxfIozVIssvtvFDUYIjBJgbdmE5gFO8GurcP0Np-47GYzmhAkiWhxJ7MZ7z6DwYgUeaPLu2REdjXsEluYo87JrScjkMs_9Xmu8WJEIbOYf6s0_gLgdg6YMedFW9If7aI4f9mr8RT6Do/s320/gravidade.png" width="320" height="167" data-original-width="455" data-original-height="238" /></a></div>

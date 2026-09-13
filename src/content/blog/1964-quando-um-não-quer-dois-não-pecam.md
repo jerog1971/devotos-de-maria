@@ -1,7 +1,7 @@
 ---
 title: "Quando um não quer, dois não pecam"
 date: 2020-03-10T16:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYZtEiqEY5yifSN70dFxoWd5VHok0u67ytIGcCkSUvxZI67DerVxLxQVj-t1quZI5w1Bc1_ce8vH5hsVSmnzAlHC8OGzd1mACuhQ6LStfSO7Mgyt995EQlNby0uM9Z5e68yrfxkfvH5hw/s320/felicidade2.png"
+heroImage: "/images/felicidade2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYZtEiqEY5yifSN70dFxoWd5VHok0u67ytIGcCkSUvxZI67DerVxLxQVj-t1quZI5w1Bc1_ce8vH5hsVSmnzAlHC8OGzd1mACuhQ6LStfSO7Mgyt995EQlNby0uM9Z5e68yrfxkfvH5hw/s1600/felicidade2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYZtEiqEY5yifSN70dFxoWd5VHok0u67ytIGcCkSUvxZI67DerVxLxQVj-t1quZI5w1Bc1_ce8vH5hsVSmnzAlHC8OGzd1mACuhQ6LStfSO7Mgyt995EQlNby0uM9Z5e68yrfxkfvH5hw/s320/felicidade2.png" width="320" height="279" data-original-width="568" data-original-height="496" /></a></div>

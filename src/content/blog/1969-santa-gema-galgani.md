@@ -1,7 +1,7 @@
 ---
 title: "Santa Gema Galgani"
 date: 2019-09-12T15:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAxdBrW78uw7zV3uoWkWos-No1-8tADAoMiCZbsHQHprOTbKjHHfBQOl0_oWCOhhwbTF3GvnwVjzr0dpXh6ee9mUXSu3NPQyyB2-uSsF3amUBOlc7fQAz-5qKzaJUGz1KU4epoqpvM2os/s200/gemma.png"
+heroImage: "/images/gemma.png"
 ---
 
 <b>A Mística da redenção.</b></br>

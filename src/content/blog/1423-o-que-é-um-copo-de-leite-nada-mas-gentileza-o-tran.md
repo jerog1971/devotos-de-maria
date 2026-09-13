@@ -1,7 +1,7 @@
 ---
 title: "O que é um copo de leite? Nada. Mas gentileza o transforma em tudo."
 date: 2018-07-09T15:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5Kj0RnFMt00Z0rGHVRv9vkR1W709jZwPlv1IBNGykfmzvVdSF-4Iu7oyG2fvrhMpGMemcatCgem59va2l3d33j8dgQ4ZHiNqwrN6h-AEiojEDoyX3AnfFkngFt_txn0LDCrtX8ZH-B0/s320/gentileza.png"
+heroImage: "/images/gentileza.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5Kj0RnFMt00Z0rGHVRv9vkR1W709jZwPlv1IBNGykfmzvVdSF-4Iu7oyG2fvrhMpGMemcatCgem59va2l3d33j8dgQ4ZHiNqwrN6h-AEiojEDoyX3AnfFkngFt_txn0LDCrtX8ZH-B0/s1600/gentileza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5Kj0RnFMt00Z0rGHVRv9vkR1W709jZwPlv1IBNGykfmzvVdSF-4Iu7oyG2fvrhMpGMemcatCgem59va2l3d33j8dgQ4ZHiNqwrN6h-AEiojEDoyX3AnfFkngFt_txn0LDCrtX8ZH-B0/s320/gentileza.png" width="320" height="305" data-original-width="362" data-original-height="345" /></a></div>

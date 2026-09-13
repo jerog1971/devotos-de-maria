@@ -1,7 +1,7 @@
 ---
 title: "Sentindo-se como Jesus?"
 date: 2016-06-13T12:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxgNeg0XYf01vO7oYizbZ6t5f-0DHtfbJmYnjRFeEttLRrm1I_0kdgKz_Wrsb-JMBhrsO_l8b4pf2nDvUz9Uua3FKAJWMHI8bh4GYS2a7vRwxSlgvYWdJZen1R7txyEk5hF1ktCN5xRjw/s200/caneca.png"
+heroImage: "/images/caneca.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxgNeg0XYf01vO7oYizbZ6t5f-0DHtfbJmYnjRFeEttLRrm1I_0kdgKz_Wrsb-JMBhrsO_l8b4pf2nDvUz9Uua3FKAJWMHI8bh4GYS2a7vRwxSlgvYWdJZen1R7txyEk5hF1ktCN5xRjw/s1600/caneca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxgNeg0XYf01vO7oYizbZ6t5f-0DHtfbJmYnjRFeEttLRrm1I_0kdgKz_Wrsb-JMBhrsO_l8b4pf2nDvUz9Uua3FKAJWMHI8bh4GYS2a7vRwxSlgvYWdJZen1R7txyEk5hF1ktCN5xRjw/s200/caneca.png" width="200" height="177" data-original-width="578" data-original-height="512" /></a></div>

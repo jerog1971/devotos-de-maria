@@ -1,7 +1,7 @@
 ---
 title: "O agora conta para sempre"
 date: 2018-10-22T15:29:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJkB_N-B41KMuDQ7ntp0znRxataFgWGNWWOoFGdtFmz6wcnZ6c7FH-W4mEHrSjUjWhNk_gQZpeNpO1LGHQo5gxAmd52KcL4cy8y1ViQDvYgp3BE07bVDlElgjf6pUfYFQm3uEtads7Rec/s320/ceus.png"
+heroImage: "/images/ceus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJkB_N-B41KMuDQ7ntp0znRxataFgWGNWWOoFGdtFmz6wcnZ6c7FH-W4mEHrSjUjWhNk_gQZpeNpO1LGHQo5gxAmd52KcL4cy8y1ViQDvYgp3BE07bVDlElgjf6pUfYFQm3uEtads7Rec/s1600/ceus.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="331" data-original-width="351" height="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJkB_N-B41KMuDQ7ntp0znRxataFgWGNWWOoFGdtFmz6wcnZ6c7FH-W4mEHrSjUjWhNk_gQZpeNpO1LGHQo5gxAmd52KcL4cy8y1ViQDvYgp3BE07bVDlElgjf6pUfYFQm3uEtads7Rec/s320/ceus.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>A boa notícia da morte sacrificial de Cristo e da gloriosa ressurreição tem implicações eternas para o destino de cada ser humano. Sua resposta a essa mensagem, caro leitor, seja em humilde confiança ou em incredulidade desafiadora, será o seu ponto de inflexão entre a felicidade infinita além dos seus sonhos mais ousados e o tormento implacável além dos seus piores pesadelos.

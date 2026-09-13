@@ -1,7 +1,7 @@
 ---
 title: "Homossexualismo e as Sagradas Escrituras"
 date: 2017-04-03T19:05:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1VdpEx4YyfETj-9RZmTscvXGqMhccrPpLiHS7Piz0F6IL3QtsA551SXX7HtpDBuG1YaO0KU4oOGU_1303QipkFlWtUySpQ9iITZjoIjc7GW83sXqCugkrgVrxBdvZeR7CGtGtVpiEkDw/s320/homo.png"
+heroImage: "/images/homo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1VdpEx4YyfETj-9RZmTscvXGqMhccrPpLiHS7Piz0F6IL3QtsA551SXX7HtpDBuG1YaO0KU4oOGU_1303QipkFlWtUySpQ9iITZjoIjc7GW83sXqCugkrgVrxBdvZeR7CGtGtVpiEkDw/s1600/homo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1VdpEx4YyfETj-9RZmTscvXGqMhccrPpLiHS7Piz0F6IL3QtsA551SXX7HtpDBuG1YaO0KU4oOGU_1303QipkFlWtUySpQ9iITZjoIjc7GW83sXqCugkrgVrxBdvZeR7CGtGtVpiEkDw/s320/homo.png" width="320" height="139" data-original-width="388" data-original-height="169" /></a></div>

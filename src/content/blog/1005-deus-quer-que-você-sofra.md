@@ -1,7 +1,7 @@
 ---
 title: "Deus quer que você sofra"
 date: 2018-08-22T17:20:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPM67Fog4lvFSqGEcfeXl4bWKwbvk9913ci9vKF4mQKRs8Oul_bsHa6AB8m0WwW3vs2Duju3uqOmhFwsmqKjilqzmg_hlS4JULcWQ14ASx0zcYAk6GJRchEZ95InYC0L1T3IpAaf0RgU/s320/sofrer.png"
+heroImage: "/images/sofrer.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPM67Fog4lvFSqGEcfeXl4bWKwbvk9913ci9vKF4mQKRs8Oul_bsHa6AB8m0WwW3vs2Duju3uqOmhFwsmqKjilqzmg_hlS4JULcWQ14ASx0zcYAk6GJRchEZ95InYC0L1T3IpAaf0RgU/s1600/sofrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYPM67Fog4lvFSqGEcfeXl4bWKwbvk9913ci9vKF4mQKRs8Oul_bsHa6AB8m0WwW3vs2Duju3uqOmhFwsmqKjilqzmg_hlS4JULcWQ14ASx0zcYAk6GJRchEZ95InYC0L1T3IpAaf0RgU/s320/sofrer.png" width="320" height="315" data-original-width="441" data-original-height="434" /></a></div>

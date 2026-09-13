@@ -1,7 +1,7 @@
 ---
 title: "A espera do bote"
 date: 2023-04-24T14:01:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5UsFhZY9UDpBFy19eY4p-rV4R3SjCC_g06dXzc0pVDMW97tsEXox5PClyLKsHZvDyDIGGXTgwcVfyHkCb-xXpN7_Zril7LdfzMGReM4DoF2xV8256ToFhN-xmsBvdfZgQ9f3aSP2KflcLkGqNmOklJJY9xlnHz9_PsC82gMK0QtB_nTAYZVrnzr58/s1600/a%20espera%20do%20bote.png"
+heroImage: "/images/a espera do bote.png"
 ---
 
 <p align="left" class="western" style="line-height: 100%; margin-bottom: 0cm;"></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5UsFhZY9UDpBFy19eY4p-rV4R3SjCC_g06dXzc0pVDMW97tsEXox5PClyLKsHZvDyDIGGXTgwcVfyHkCb-xXpN7_Zril7LdfzMGReM4DoF2xV8256ToFhN-xmsBvdfZgQ9f3aSP2KflcLkGqNmOklJJY9xlnHz9_PsC82gMK0QtB_nTAYZVrnzr58/s319/a%20espera%20do%20bote.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="242" data-original-width="319" height="242" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5UsFhZY9UDpBFy19eY4p-rV4R3SjCC_g06dXzc0pVDMW97tsEXox5PClyLKsHZvDyDIGGXTgwcVfyHkCb-xXpN7_Zril7LdfzMGReM4DoF2xV8256ToFhN-xmsBvdfZgQ9f3aSP2KflcLkGqNmOklJJY9xlnHz9_PsC82gMK0QtB_nTAYZVrnzr58/s1600/a%20espera%20do%20bote.png" width="319" /></a></div>&nbsp;<p class="MsoNormal">Gosto sempre de lembrar da passagem que diz que o demônio é

@@ -1,7 +1,7 @@
 ---
 title: "Uma reflexão sobre o namoro"
 date: 2019-06-12T22:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQLmyL4Ne-qZe3eukG31h_-vqHhVjdC2Bm9WONP7lsxIgKzYzbR2mM67_-P_ksX9Ne-NheC8EW_APbIc89cwuaGuHO5154RG88j9N1UIeoxNEq-emaaGzdzvLriwmVpb6oD2ov0KbdPCw/s320/namorados.png"
+heroImage: "/images/namorados.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQLmyL4Ne-qZe3eukG31h_-vqHhVjdC2Bm9WONP7lsxIgKzYzbR2mM67_-P_ksX9Ne-NheC8EW_APbIc89cwuaGuHO5154RG88j9N1UIeoxNEq-emaaGzdzvLriwmVpb6oD2ov0KbdPCw/s1600/namorados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQLmyL4Ne-qZe3eukG31h_-vqHhVjdC2Bm9WONP7lsxIgKzYzbR2mM67_-P_ksX9Ne-NheC8EW_APbIc89cwuaGuHO5154RG88j9N1UIeoxNEq-emaaGzdzvLriwmVpb6oD2ov0KbdPCw/s320/namorados.png" width="286" height="320" data-original-width="177" data-original-height="198" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Procurar"
 date: 2020-03-22T23:31:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZwOeBuPGH9b9jAS51w9feo_gaLJYjwp0zKCIX5wT07O5JL2jwtwtYbS5L2k66PbWtLiISmZ9Zma1GZAUBm-WSvHoxSU11F2VxLf9H6vMX9_a61Z_Fn3Ys3fWQTJJf1GhdqH6V3YKhPYc/s320/procurar.png"
+heroImage: "/images/procurar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZwOeBuPGH9b9jAS51w9feo_gaLJYjwp0zKCIX5wT07O5JL2jwtwtYbS5L2k66PbWtLiISmZ9Zma1GZAUBm-WSvHoxSU11F2VxLf9H6vMX9_a61Z_Fn3Ys3fWQTJJf1GhdqH6V3YKhPYc/s1600/procurar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="267" data-original-width="264" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZwOeBuPGH9b9jAS51w9feo_gaLJYjwp0zKCIX5wT07O5JL2jwtwtYbS5L2k66PbWtLiISmZ9Zma1GZAUBm-WSvHoxSU11F2VxLf9H6vMX9_a61Z_Fn3Ys3fWQTJJf1GhdqH6V3YKhPYc/s320/procurar.png" width="316" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Procurar no português, buscar no espanhol, ricerca em italiano, traži em croata, quaerere em latim; não importa em que idioma se busque a Deus, lemos na bíblia que ele acolhe quem o procura de coração sincero. O coração para Deus é a medida de todas as coisas. Jesus nos ensinou que é lá que nascem todas as coisas e é para lá que devemos dirigi-las.

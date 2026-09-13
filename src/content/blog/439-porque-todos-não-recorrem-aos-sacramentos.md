@@ -1,7 +1,7 @@
 ---
 title: "Porque todos não recorrem aos sacramentos?"
 date: 2016-11-29T19:52:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTC5hVKbpggg22rcSqlfJ2TosfgxUadxz-pQuh0rKXXR2eRUz6lj9zw5GMmUM12Oxr-paibG4brHKqHuyMy8wzbd7kB0Qh7YlX6-zT0SXOUCNfcJbBui0KrrgdJ7rVXhwKpdYNplNEnsw/s320/sacramentos.png"
+heroImage: "/images/sacramentos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTC5hVKbpggg22rcSqlfJ2TosfgxUadxz-pQuh0rKXXR2eRUz6lj9zw5GMmUM12Oxr-paibG4brHKqHuyMy8wzbd7kB0Qh7YlX6-zT0SXOUCNfcJbBui0KrrgdJ7rVXhwKpdYNplNEnsw/s1600/sacramentos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTC5hVKbpggg22rcSqlfJ2TosfgxUadxz-pQuh0rKXXR2eRUz6lj9zw5GMmUM12Oxr-paibG4brHKqHuyMy8wzbd7kB0Qh7YlX6-zT0SXOUCNfcJbBui0KrrgdJ7rVXhwKpdYNplNEnsw/s320/sacramentos.png" width="320" height="244" data-original-width="483" data-original-height="369" /></a></div>

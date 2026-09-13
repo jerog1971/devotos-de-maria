@@ -1,7 +1,7 @@
 ---
 title: "O mundo não prega a salvação que vem de Deus"
 date: 2016-08-19T13:35:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDUz9gt3fLsHSQSZqYLPXCpMwQI3f3E5LVDDdla-Jy_vljnOQeMfScJh7ui4POe9VR8tVEk7De1g3vF3NIFZlz_yVbNU23LgKCJLDtxsSRk1_hsXpclHqgv95s94nEMlqFcLcs8QKYLE/s320/armadura.png"
+heroImage: "/images/armadura.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDUz9gt3fLsHSQSZqYLPXCpMwQI3f3E5LVDDdla-Jy_vljnOQeMfScJh7ui4POe9VR8tVEk7De1g3vF3NIFZlz_yVbNU23LgKCJLDtxsSRk1_hsXpclHqgv95s94nEMlqFcLcs8QKYLE/s1600/armadura.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDUz9gt3fLsHSQSZqYLPXCpMwQI3f3E5LVDDdla-Jy_vljnOQeMfScJh7ui4POe9VR8tVEk7De1g3vF3NIFZlz_yVbNU23LgKCJLDtxsSRk1_hsXpclHqgv95s94nEMlqFcLcs8QKYLE/s320/armadura.png" width="320" height="295" data-original-width="409" data-original-height="377" /></a></div>

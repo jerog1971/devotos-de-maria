@@ -1,7 +1,7 @@
 ---
 title: "Escritor com síndrome de down fala aos políticos"
 date: 2017-11-10T18:38:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3rjcI46ztP5zINMzfG7j7Q3PO2ZEpcPxXC98Fd6RV2TWyojlh4RNjZ13FJlAT-mU_ikjwVAf6QRSXZ1tR5hahLiCfLMEvXdeTTBl93ely2XL5QBbjockAitN7YWHqDhEsBzIIjsbZD8/s320/frank_stephens.png"
+heroImage: "/images/frank_stephens.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3rjcI46ztP5zINMzfG7j7Q3PO2ZEpcPxXC98Fd6RV2TWyojlh4RNjZ13FJlAT-mU_ikjwVAf6QRSXZ1tR5hahLiCfLMEvXdeTTBl93ely2XL5QBbjockAitN7YWHqDhEsBzIIjsbZD8/s1600/frank_stephens.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3rjcI46ztP5zINMzfG7j7Q3PO2ZEpcPxXC98Fd6RV2TWyojlh4RNjZ13FJlAT-mU_ikjwVAf6QRSXZ1tR5hahLiCfLMEvXdeTTBl93ely2XL5QBbjockAitN7YWHqDhEsBzIIjsbZD8/s320/frank_stephens.png" width="320" height="291" data-original-width="394" data-original-height="358" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Santo Optato de Mileva"
 date: 2020-06-04T16:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioxPWoZKj8NOh83MI_wnS-SHzhOf1qHE7RmHs0gUhFD1TQKisktkuh4VeHgiajpQPZ_2UJ8ZfKDLyD3fDrqv8BlOQyOP-sqci3FunuqTIU78iDMEQgwB1eqvhcQP4sWAQG3KzJxBEJXOE/s320/santos.png"
+heroImage: "/images/a alegria dos santos.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioxPWoZKj8NOh83MI_wnS-SHzhOf1qHE7RmHs0gUhFD1TQKisktkuh4VeHgiajpQPZ_2UJ8ZfKDLyD3fDrqv8BlOQyOP-sqci3FunuqTIU78iDMEQgwB1eqvhcQP4sWAQG3KzJxBEJXOE/s344/santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioxPWoZKj8NOh83MI_wnS-SHzhOf1qHE7RmHs0gUhFD1TQKisktkuh4VeHgiajpQPZ_2UJ8ZfKDLyD3fDrqv8BlOQyOP-sqci3FunuqTIU78iDMEQgwB1eqvhcQP4sWAQG3KzJxBEJXOE/s320/santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em Hebreus 6,12 lemos que devemos ser imitadores daqueles

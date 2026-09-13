@@ -1,7 +1,7 @@
 ---
 title: "Ovelhas desconfiadas"
 date: 2019-10-04T15:45:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1A7Dc6v3044gea4fFFtLSTOBurWkNC-tx9022MQsob5YyIJPz_z33oYdLmlUlKjC0TzEN6qXXqqoWerYKEEmPUOx1At5JyYFNKJd0ztLBNDUM_Vl5QK6Fw1bf1bOgGcEqUtBzJ4ryL00/s320/ovelhas_desconfiadas.png"
+heroImage: "/images/ovelhas_desconfiadas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1A7Dc6v3044gea4fFFtLSTOBurWkNC-tx9022MQsob5YyIJPz_z33oYdLmlUlKjC0TzEN6qXXqqoWerYKEEmPUOx1At5JyYFNKJd0ztLBNDUM_Vl5QK6Fw1bf1bOgGcEqUtBzJ4ryL00/s1600/ovelhas_desconfiadas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1A7Dc6v3044gea4fFFtLSTOBurWkNC-tx9022MQsob5YyIJPz_z33oYdLmlUlKjC0TzEN6qXXqqoWerYKEEmPUOx1At5JyYFNKJd0ztLBNDUM_Vl5QK6Fw1bf1bOgGcEqUtBzJ4ryL00/s320/ovelhas_desconfiadas.png" width="320" height="252" data-original-width="360" data-original-height="284" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Deus ouviu a oração de Suzana"
 date: 2016-08-25T12:21:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCdOEuR9hjps0NzSQe9rOO6DzGTIu_aE84UVAmw16_9qkj9BdUQDFUn2sPve0PI96U5mbMVFfUUyaxaKImZ-5FU6ba6_x26HWDhqMimO1RBsLy6H16408NVVHi7zs4fg2yx9e_RSEOJDo/s320/suzana.png"
+heroImage: "/images/suzana.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCdOEuR9hjps0NzSQe9rOO6DzGTIu_aE84UVAmw16_9qkj9BdUQDFUn2sPve0PI96U5mbMVFfUUyaxaKImZ-5FU6ba6_x26HWDhqMimO1RBsLy6H16408NVVHi7zs4fg2yx9e_RSEOJDo/s1600/suzana.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCdOEuR9hjps0NzSQe9rOO6DzGTIu_aE84UVAmw16_9qkj9BdUQDFUn2sPve0PI96U5mbMVFfUUyaxaKImZ-5FU6ba6_x26HWDhqMimO1RBsLy6H16408NVVHi7zs4fg2yx9e_RSEOJDo/s320/suzana.png" width="320" height="272" data-original-width="509" data-original-height="432" /></a></div>

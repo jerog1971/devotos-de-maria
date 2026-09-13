@@ -1,7 +1,7 @@
 ---
 title: "Tempo de voltar para Nazaré"
 date: 2016-07-01T12:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUSZH7b9Q4aom2iiEGRw2cQCdlcftJ96Ees9KRFn_wp0ASq0Hr67YCbGl47oUnY_Wuvso4pBh5XkxuobH9xSTLELM3MLzF_MOkuQ5j3-pHW0W7SPoT9ChAqjZx3eNDRHEXbyTG3SEcTgw/s320/sagrada_familia.png"
+heroImage: "/images/sagrada_familia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUSZH7b9Q4aom2iiEGRw2cQCdlcftJ96Ees9KRFn_wp0ASq0Hr67YCbGl47oUnY_Wuvso4pBh5XkxuobH9xSTLELM3MLzF_MOkuQ5j3-pHW0W7SPoT9ChAqjZx3eNDRHEXbyTG3SEcTgw/s1600/sagrada_familia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUSZH7b9Q4aom2iiEGRw2cQCdlcftJ96Ees9KRFn_wp0ASq0Hr67YCbGl47oUnY_Wuvso4pBh5XkxuobH9xSTLELM3MLzF_MOkuQ5j3-pHW0W7SPoT9ChAqjZx3eNDRHEXbyTG3SEcTgw/s320/sagrada_familia.png" width="320" height="203" data-original-width="400" data-original-height="254" /></a></div>

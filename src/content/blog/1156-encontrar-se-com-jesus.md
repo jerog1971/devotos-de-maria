@@ -1,7 +1,7 @@
 ---
 title: "Encontrar-se com Jesus"
 date: 2017-02-09T13:56:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPlU_gYxrf6ePhkbIVSKYLAOEf0l_CYm4NDrnyFaz5D9wz4dtNP9FPE8mJD4f1LoBjyOQPdiZM1MQRdFhI0jVh65GVPTQ9UceT9qwsogZhfd1J7CQKLqgrMfwvHHlQkk1Zw2XvqsHk98M/s320/encontrar+jesus.png"
+heroImage: "/images/Jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPlU_gYxrf6ePhkbIVSKYLAOEf0l_CYm4NDrnyFaz5D9wz4dtNP9FPE8mJD4f1LoBjyOQPdiZM1MQRdFhI0jVh65GVPTQ9UceT9qwsogZhfd1J7CQKLqgrMfwvHHlQkk1Zw2XvqsHk98M/s1600/encontrar+jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPlU_gYxrf6ePhkbIVSKYLAOEf0l_CYm4NDrnyFaz5D9wz4dtNP9FPE8mJD4f1LoBjyOQPdiZM1MQRdFhI0jVh65GVPTQ9UceT9qwsogZhfd1J7CQKLqgrMfwvHHlQkk1Zw2XvqsHk98M/s320/encontrar+jesus.png" width="295" height="320" data-original-width="292" data-original-height="317" /></a></div>

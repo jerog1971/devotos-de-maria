@@ -1,7 +1,7 @@
 ---
 title: "Não deixe o que é importante de lado"
 date: 2020-05-20T19:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjggMxiUtsQtup3XvtcZe_caH8VSLpqdoQV72Ve1Jv3qI9WkfZq09jgUxTTUyEfd5li14GYI7x4eL6BXrZv7-Jv3Tk_9bQmZX-UVPWErLSt4AqklMFUF7N1EeEmvgURjjaX3Ghyphenhyphen1e3bVJk/s320/invasores.png"
+heroImage: "/images/invasores.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjggMxiUtsQtup3XvtcZe_caH8VSLpqdoQV72Ve1Jv3qI9WkfZq09jgUxTTUyEfd5li14GYI7x4eL6BXrZv7-Jv3Tk_9bQmZX-UVPWErLSt4AqklMFUF7N1EeEmvgURjjaX3Ghyphenhyphen1e3bVJk/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="676" data-original-width="868" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjggMxiUtsQtup3XvtcZe_caH8VSLpqdoQV72Ve1Jv3qI9WkfZq09jgUxTTUyEfd5li14GYI7x4eL6BXrZv7-Jv3Tk_9bQmZX-UVPWErLSt4AqklMFUF7N1EeEmvgURjjaX3Ghyphenhyphen1e3bVJk/s320/invasores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 23,23 – “Ai de vós, escribas e fariseus hipócritas!

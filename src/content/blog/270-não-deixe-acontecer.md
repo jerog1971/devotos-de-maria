@@ -1,7 +1,7 @@
 ---
 title: "Não deixe acontecer"
 date: 2017-07-12T20:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFMJxwn46vmYaInIX12GssHXM82oSNp-GuprzZvai0JMcOWINcl0D2jVLlSvTDdneY7OS3fm7UgwBAqIxNKJdvX93I9LKW2-M-Q0I9GCX5cJkD5LF19wPO7zlYtlY_s7bMAem6rt7IcM/s320/brejo.png"
+heroImage: "/images/brejo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFMJxwn46vmYaInIX12GssHXM82oSNp-GuprzZvai0JMcOWINcl0D2jVLlSvTDdneY7OS3fm7UgwBAqIxNKJdvX93I9LKW2-M-Q0I9GCX5cJkD5LF19wPO7zlYtlY_s7bMAem6rt7IcM/s1600/brejo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="543" data-original-width="634" height="274" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFMJxwn46vmYaInIX12GssHXM82oSNp-GuprzZvai0JMcOWINcl0D2jVLlSvTDdneY7OS3fm7UgwBAqIxNKJdvX93I9LKW2-M-Q0I9GCX5cJkD5LF19wPO7zlYtlY_s7bMAem6rt7IcM/s320/brejo.png" width="320" /></a></div>

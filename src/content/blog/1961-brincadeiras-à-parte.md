@@ -1,7 +1,7 @@
 ---
 title: "Brincadeiras à parte"
 date: 2022-09-11T00:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhet-exDhLkVMtk4NCO-AJdxqqyty3OjU_1TMR_JoKBL5xvs82yORbTdrFleHJecg8vBZ3cjTBqmfi_vxKtUNfSYpMZJblx0UGP53HKNQ1dnAPQ-tgclbGd3iqJ4aJloxvQPftFbZH4Xe7RCenpuEckE9mhdAMGwQcntmyoaVEWAuogUWshbVwpkioY/w238-h224/brincadeiras%20a%20parte.png"
+heroImage: "/images/Brincadeira.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhet-exDhLkVMtk4NCO-AJdxqqyty3OjU_1TMR_JoKBL5xvs82yORbTdrFleHJecg8vBZ3cjTBqmfi_vxKtUNfSYpMZJblx0UGP53HKNQ1dnAPQ-tgclbGd3iqJ4aJloxvQPftFbZH4Xe7RCenpuEckE9mhdAMGwQcntmyoaVEWAuogUWshbVwpkioY/s173/brincadeiras%20a%20parte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="163" data-original-width="173" height="224" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhet-exDhLkVMtk4NCO-AJdxqqyty3OjU_1TMR_JoKBL5xvs82yORbTdrFleHJecg8vBZ3cjTBqmfi_vxKtUNfSYpMZJblx0UGP53HKNQ1dnAPQ-tgclbGd3iqJ4aJloxvQPftFbZH4Xe7RCenpuEckE9mhdAMGwQcntmyoaVEWAuogUWshbVwpkioY/w238-h224/brincadeiras%20a%20parte.png" width="238" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que o mundo oferece prazeres e que Deus oferece

@@ -1,7 +1,7 @@
 ---
 title: "Mostra-me a mãe"
 date: 2023-11-05T17:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEKRn9x_OXsq-vZXQcIDw4o09_qMWHlOtAiVmwGWOiJn2e4VxWcpm-j5DRxuxNVmCt-9dnw57g5NWXDqs0Jw7e9JnxCxLXkRIEVqqWDi_6pZHG0EHAGjUpUN-wij76qmLDbNk87DpPAoldawK5ZDr_E7WzcOAkGb01jJrnrElhVQbr0oRlXGh3d2m4ZT4/s320/m%C3%A3e.jpg"
+heroImage: "/images/Mãe e Filha.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEKRn9x_OXsq-vZXQcIDw4o09_qMWHlOtAiVmwGWOiJn2e4VxWcpm-j5DRxuxNVmCt-9dnw57g5NWXDqs0Jw7e9JnxCxLXkRIEVqqWDi_6pZHG0EHAGjUpUN-wij76qmLDbNk87DpPAoldawK5ZDr_E7WzcOAkGb01jJrnrElhVQbr0oRlXGh3d2m4ZT4/s3264/m%C3%A3e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEKRn9x_OXsq-vZXQcIDw4o09_qMWHlOtAiVmwGWOiJn2e4VxWcpm-j5DRxuxNVmCt-9dnw57g5NWXDqs0Jw7e9JnxCxLXkRIEVqqWDi_6pZHG0EHAGjUpUN-wij76qmLDbNk87DpPAoldawK5ZDr_E7WzcOAkGb01jJrnrElhVQbr0oRlXGh3d2m4ZT4/s320/m%C3%A3e.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um filme dos irmãos Kendricks que se intitula “Mostra-me

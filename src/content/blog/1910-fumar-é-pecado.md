@@ -1,7 +1,7 @@
 ---
 title: "Fumar é pecado"
 date: 2017-06-21T13:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvaM5apCeI2WIIKGdLe2d0Ge18HhsbbzmuEz89uBOG1y3n2d_5t_8aO6upvQoGDL5yK_ylSMaMheiRKi0787s8C-YgMVsCsffyiRRDYiIfFURiAVZmUK0JXjeKPZPFWqxmpuxMOgHo44k/s320/fumar.png"
+heroImage: "/images/fumar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvaM5apCeI2WIIKGdLe2d0Ge18HhsbbzmuEz89uBOG1y3n2d_5t_8aO6upvQoGDL5yK_ylSMaMheiRKi0787s8C-YgMVsCsffyiRRDYiIfFURiAVZmUK0JXjeKPZPFWqxmpuxMOgHo44k/s1600/fumar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvaM5apCeI2WIIKGdLe2d0Ge18HhsbbzmuEz89uBOG1y3n2d_5t_8aO6upvQoGDL5yK_ylSMaMheiRKi0787s8C-YgMVsCsffyiRRDYiIfFURiAVZmUK0JXjeKPZPFWqxmpuxMOgHo44k/s320/fumar.png" width="320" height="296" data-original-width="337" data-original-height="312" /></a></div>

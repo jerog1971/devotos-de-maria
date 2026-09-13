@@ -1,7 +1,7 @@
 ---
 title: "O Papa e suas polêmicas"
 date: 2023-01-30T14:38:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFMGepEgp40G76hKNcxACGw4J8Sis1gClbiUjP9VhYis6Xjorwc5XnYkWKOpEeVH5X0iPsKjKbXw-e5t9TKlpYr0dJg-yW2IvMCJ3D59X2wleCiDjEEdIRnQcIdQ_JrUn5tRkHuWVzTUKUWfZO01NIy-HCFlaGAK1ddDggQBMlI5ulupefpNnHSmqq/s320/Papa%20Francisco.png"
+heroImage: "/images/Francisco.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFMGepEgp40G76hKNcxACGw4J8Sis1gClbiUjP9VhYis6Xjorwc5XnYkWKOpEeVH5X0iPsKjKbXw-e5t9TKlpYr0dJg-yW2IvMCJ3D59X2wleCiDjEEdIRnQcIdQ_JrUn5tRkHuWVzTUKUWfZO01NIy-HCFlaGAK1ddDggQBMlI5ulupefpNnHSmqq/s709/Papa%20Francisco.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="709" height="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFMGepEgp40G76hKNcxACGw4J8Sis1gClbiUjP9VhYis6Xjorwc5XnYkWKOpEeVH5X0iPsKjKbXw-e5t9TKlpYr0dJg-yW2IvMCJ3D59X2wleCiDjEEdIRnQcIdQ_JrUn5tRkHuWVzTUKUWfZO01NIy-HCFlaGAK1ddDggQBMlI5ulupefpNnHSmqq/s320/Papa%20Francisco.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Faz dez anos que Francisco assumiu o pontificado católico;

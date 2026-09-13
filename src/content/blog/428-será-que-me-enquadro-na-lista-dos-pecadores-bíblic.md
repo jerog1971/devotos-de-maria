@@ -1,7 +1,7 @@
 ---
 title: "Será que me enquadro na lista dos pecadores bíblicos?"
 date: 2022-09-14T18:40:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6zOnU_S38mNIvLIfilx3vR6Y2mhHTUzvZZU6BGLiF6eODGZVAgnoOt-WbSoZOD4EdEwU13UYoqwSo2IdK2LEJ4V5_AyLL7ExuoAJzXiImNplBIN8FswZee_ch6sZS4nbPcnpdmTC0C9u_c25FeABYveM_0pv7QnJwbeeC2AfDVYsB9KdPq6DLLpoP/s320/sou%20pecador.png"
+heroImage: "/images/dor.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6zOnU_S38mNIvLIfilx3vR6Y2mhHTUzvZZU6BGLiF6eODGZVAgnoOt-WbSoZOD4EdEwU13UYoqwSo2IdK2LEJ4V5_AyLL7ExuoAJzXiImNplBIN8FswZee_ch6sZS4nbPcnpdmTC0C9u_c25FeABYveM_0pv7QnJwbeeC2AfDVYsB9KdPq6DLLpoP/s479/sou%20pecador.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="408" data-original-width="479" height="273" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6zOnU_S38mNIvLIfilx3vR6Y2mhHTUzvZZU6BGLiF6eODGZVAgnoOt-WbSoZOD4EdEwU13UYoqwSo2IdK2LEJ4V5_AyLL7ExuoAJzXiImNplBIN8FswZee_ch6sZS4nbPcnpdmTC0C9u_c25FeABYveM_0pv7QnJwbeeC2AfDVYsB9KdPq6DLLpoP/s320/sou%20pecador.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, sobre aqueles que Deus define como pecadores em

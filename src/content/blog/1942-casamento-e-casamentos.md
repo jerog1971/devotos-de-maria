@@ -1,7 +1,7 @@
 ---
 title: "Casamento e casamentos"
 date: 2023-02-22T13:58:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTAKv3WqT20rhXRO5a_LsHQycuhrjDazMNpwj9sZQ44oBQArxh9g9YxYJn4bx2utpF37EsR-eSvPjSnPiekKGkQXrybPUGGqUwgyxACJFz-aZB8IPvVZcjZ-6QtZ8hzrq8h9C-Rxv4yYtBhSPMWkHqYZFynx7uuHvkIICL4Ml2n2NLk6mAq2xxlX71/s320/fam%C3%ADlia.jpg"
+heroImage: "/images/Bom humor em família.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTAKv3WqT20rhXRO5a_LsHQycuhrjDazMNpwj9sZQ44oBQArxh9g9YxYJn4bx2utpF37EsR-eSvPjSnPiekKGkQXrybPUGGqUwgyxACJFz-aZB8IPvVZcjZ-6QtZ8hzrq8h9C-Rxv4yYtBhSPMWkHqYZFynx7uuHvkIICL4Ml2n2NLk6mAq2xxlX71/s2771/fam%C3%ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="2771" height="283" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTAKv3WqT20rhXRO5a_LsHQycuhrjDazMNpwj9sZQ44oBQArxh9g9YxYJn4bx2utpF37EsR-eSvPjSnPiekKGkQXrybPUGGqUwgyxACJFz-aZB8IPvVZcjZ-6QtZ8hzrq8h9C-Rxv4yYtBhSPMWkHqYZFynx7uuHvkIICL4Ml2n2NLk6mAq2xxlX71/s320/fam%C3%ADlia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Então o Senhor Deus mandou ao homem um profundo sono; e

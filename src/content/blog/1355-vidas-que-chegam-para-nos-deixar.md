@@ -1,7 +1,7 @@
 ---
 title: "Vidas que chegam para nos deixar"
 date: 2017-11-01T12:06:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_vufD7S8NQS6GnxEmIcURdhl8OI9y4DFaSBogXU4jJ6BOzKOy83GCcjThM6mWX6MvmNPvTLMU2QwaVpQZ5Zx-PCIVtQd_PXvIotjgLPFNtFojLPVbdlOdDJ4GSaUJ_t8kvT-Jh20z_to/s320/Charlie_Gard.png"
+heroImage: "/images/Charlie_Gard.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_vufD7S8NQS6GnxEmIcURdhl8OI9y4DFaSBogXU4jJ6BOzKOy83GCcjThM6mWX6MvmNPvTLMU2QwaVpQZ5Zx-PCIVtQd_PXvIotjgLPFNtFojLPVbdlOdDJ4GSaUJ_t8kvT-Jh20z_to/s1600/Charlie_Gard.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="565" data-original-width="579" height="312" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_vufD7S8NQS6GnxEmIcURdhl8OI9y4DFaSBogXU4jJ6BOzKOy83GCcjThM6mWX6MvmNPvTLMU2QwaVpQZ5Zx-PCIVtQd_PXvIotjgLPFNtFojLPVbdlOdDJ4GSaUJ_t8kvT-Jh20z_to/s320/Charlie_Gard.png" width="320" /></a></div>

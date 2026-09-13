@@ -1,7 +1,7 @@
 ---
 title: "A importância do Crucificado"
 date: 2016-07-04T19:46:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD-JkySdsRbSEYlpA1P_dM3sjw4TMwWZ7-9bVXrmbjtZpkbOUTS11i3e-Zz2QV6Scn6eczB3O4EXTwyiveXPmY4r_Fw6uSy896joPe-pdWBNpt167XO_FBZLPBaM03fm9VYwv9TdZzTCk/s320/crucificado.png"
+heroImage: "/images/Jesus_crucificado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD-JkySdsRbSEYlpA1P_dM3sjw4TMwWZ7-9bVXrmbjtZpkbOUTS11i3e-Zz2QV6Scn6eczB3O4EXTwyiveXPmY4r_Fw6uSy896joPe-pdWBNpt167XO_FBZLPBaM03fm9VYwv9TdZzTCk/s1600/crucificado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD-JkySdsRbSEYlpA1P_dM3sjw4TMwWZ7-9bVXrmbjtZpkbOUTS11i3e-Zz2QV6Scn6eczB3O4EXTwyiveXPmY4r_Fw6uSy896joPe-pdWBNpt167XO_FBZLPBaM03fm9VYwv9TdZzTCk/s320/crucificado.png" width="320" height="289" data-original-width="298" data-original-height="269" /></a></div>

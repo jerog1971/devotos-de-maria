@@ -1,7 +1,7 @@
 ---
 title: "Se você imitar o diabo com certeza irá parar no céu. Saiba como."
 date: 2019-06-28T15:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVpznFWaIut8XZzBya4S8JmxJoh3AanMFuiWeS6wNULOE0XipYsNIomAJ0Ws6pyKFCBMPatFpMvjqZrZs3oXPUfNcVqybqCQlJq7ocVhvWFKGDI5w3iUt3NJtl9bxqVHBeV2JBMO4C5E/s320/diabo.png"
+heroImage: "/images/Jesus_Diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVpznFWaIut8XZzBya4S8JmxJoh3AanMFuiWeS6wNULOE0XipYsNIomAJ0Ws6pyKFCBMPatFpMvjqZrZs3oXPUfNcVqybqCQlJq7ocVhvWFKGDI5w3iUt3NJtl9bxqVHBeV2JBMO4C5E/s1600/diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVpznFWaIut8XZzBya4S8JmxJoh3AanMFuiWeS6wNULOE0XipYsNIomAJ0Ws6pyKFCBMPatFpMvjqZrZs3oXPUfNcVqybqCQlJq7ocVhvWFKGDI5w3iUt3NJtl9bxqVHBeV2JBMO4C5E/s320/diabo.png" width="302" height="320" data-original-width="290" data-original-height="307" /></a></div>

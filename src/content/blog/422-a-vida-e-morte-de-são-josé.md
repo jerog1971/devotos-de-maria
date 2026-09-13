@@ -1,7 +1,7 @@
 ---
 title: "A vida e morte de São José"
 date: 2020-02-27T18:44:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTSzt0hl6rq9AKnBbqNu9JlEDNqDkYW5qbPtqwsdfxZtaGwCpEoumd9PpUd00tFogNTLA_X_8jjQMRvKOY1LRzOw49DIFFBaYwWA_5sjfUZHDpJ3yRl3ms4SJQo8AW780e65GvTREVVfM/s320/morte_de_S%25C3%25A3o_Jos%25C3%25A9.png"
+heroImage: "/images/morte.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTSzt0hl6rq9AKnBbqNu9JlEDNqDkYW5qbPtqwsdfxZtaGwCpEoumd9PpUd00tFogNTLA_X_8jjQMRvKOY1LRzOw49DIFFBaYwWA_5sjfUZHDpJ3yRl3ms4SJQo8AW780e65GvTREVVfM/s1600/morte_de_S%25C3%25A3o_Jos%25C3%25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTSzt0hl6rq9AKnBbqNu9JlEDNqDkYW5qbPtqwsdfxZtaGwCpEoumd9PpUd00tFogNTLA_X_8jjQMRvKOY1LRzOw49DIFFBaYwWA_5sjfUZHDpJ3yRl3ms4SJQo8AW780e65GvTREVVfM/s320/morte_de_S%25C3%25A3o_Jos%25C3%25A9.png" width="249" height="320" data-original-width="274" data-original-height="352" /></a></div>

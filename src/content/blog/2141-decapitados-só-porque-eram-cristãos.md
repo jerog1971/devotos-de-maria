@@ -1,7 +1,7 @@
 ---
 title: "Decapitados só porque eram cristãos"
 date: 2016-07-05T11:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6IQv3hL6iS9BVKCRb2-Ip9NryxW8cSOu3nB1INTzSB-gq4YhGoo69aIEAMYS8rSByv8imXL8aisPOSUOnyZ1Eb-uQHH0_FNIDgTEbMmA_gWu8j22fQ0AHWnlVAgSnkf-ok6UW0Wnerk/s320/21.png"
+heroImage: "/images/21.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6IQv3hL6iS9BVKCRb2-Ip9NryxW8cSOu3nB1INTzSB-gq4YhGoo69aIEAMYS8rSByv8imXL8aisPOSUOnyZ1Eb-uQHH0_FNIDgTEbMmA_gWu8j22fQ0AHWnlVAgSnkf-ok6UW0Wnerk/s1600/21.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6IQv3hL6iS9BVKCRb2-Ip9NryxW8cSOu3nB1INTzSB-gq4YhGoo69aIEAMYS8rSByv8imXL8aisPOSUOnyZ1Eb-uQHH0_FNIDgTEbMmA_gWu8j22fQ0AHWnlVAgSnkf-ok6UW0Wnerk/s320/21.png" width="320" height="179" data-original-width="642" data-original-height="360" /></a></div>

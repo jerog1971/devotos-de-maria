@@ -1,7 +1,7 @@
 ---
 title: "O que os santos dizem sobre a amizade"
 date: 2022-09-28T16:35:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7a29RjQBof3rFO0FrVXRv_YKj5xcqpLM3BXuOHarw9b1Fr1WjW2PCBhasRmDyKL6dXwxMbpBEztujsuPppBEn-mUDNecSajCJMjUY0WUA79Si7tQcOFTo0mAQd7W19T6j6T2mzRWpOo6Bxh_c7rKVVoYZAyBT0eFvQjOJjipGYByGzJH89gZrrxsS/s320/amizades.png"
+heroImage: "/images/amizades.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7a29RjQBof3rFO0FrVXRv_YKj5xcqpLM3BXuOHarw9b1Fr1WjW2PCBhasRmDyKL6dXwxMbpBEztujsuPppBEn-mUDNecSajCJMjUY0WUA79Si7tQcOFTo0mAQd7W19T6j6T2mzRWpOo6Bxh_c7rKVVoYZAyBT0eFvQjOJjipGYByGzJH89gZrrxsS/s498/amizades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="498" height="280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7a29RjQBof3rFO0FrVXRv_YKj5xcqpLM3BXuOHarw9b1Fr1WjW2PCBhasRmDyKL6dXwxMbpBEztujsuPppBEn-mUDNecSajCJMjUY0WUA79Si7tQcOFTo0mAQd7W19T6j6T2mzRWpOo6Bxh_c7rKVVoYZAyBT0eFvQjOJjipGYByGzJH89gZrrxsS/s320/amizades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Por amizades perigosas entendem-se, em particular, as

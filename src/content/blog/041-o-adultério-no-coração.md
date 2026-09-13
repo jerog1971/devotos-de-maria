@@ -1,7 +1,7 @@
 ---
 title: "O adultério no coração"
 date: 2017-10-31T18:10:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ohobMGi2zK6adVctr2KjsfjIDsVRqK-fdfMKrUzE8xoRhD2Eo5n6D1goULxhaCWZ2jJZxPne1AU0699Vg4anVWuy6J26WWBQ_286tQx5a4HRqfYuMh1-Elg1phnRONEUzsWHxPQqiYQ/s320/babando.png"
+heroImage: "/images/babando.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ohobMGi2zK6adVctr2KjsfjIDsVRqK-fdfMKrUzE8xoRhD2Eo5n6D1goULxhaCWZ2jJZxPne1AU0699Vg4anVWuy6J26WWBQ_286tQx5a4HRqfYuMh1-Elg1phnRONEUzsWHxPQqiYQ/s1600/babando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="451" data-original-width="474" height="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ohobMGi2zK6adVctr2KjsfjIDsVRqK-fdfMKrUzE8xoRhD2Eo5n6D1goULxhaCWZ2jJZxPne1AU0699Vg4anVWuy6J26WWBQ_286tQx5a4HRqfYuMh1-Elg1phnRONEUzsWHxPQqiYQ/s320/babando.png" width="320" /></a></div>

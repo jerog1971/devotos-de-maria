@@ -1,7 +1,7 @@
 ---
 title: "O mal vem para cima de você?"
 date: 2020-01-20T18:40:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2m1O0LSwBeX1J4W5OCScIy3z9gbFlAbGiqGToFdOW5hVc-xOhgRoZOgJuX5j-ej6_i8BJxkJdw2XwaWWKsOBGQEBVnu1-JCFa0OolIcWyBMHQBDg0zkDDvH7jN1pYaRNTB-8iv-txw4c/s320/mal.png"
+heroImage: "/images/A vigilância do mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2m1O0LSwBeX1J4W5OCScIy3z9gbFlAbGiqGToFdOW5hVc-xOhgRoZOgJuX5j-ej6_i8BJxkJdw2XwaWWKsOBGQEBVnu1-JCFa0OolIcWyBMHQBDg0zkDDvH7jN1pYaRNTB-8iv-txw4c/s1600/mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2m1O0LSwBeX1J4W5OCScIy3z9gbFlAbGiqGToFdOW5hVc-xOhgRoZOgJuX5j-ej6_i8BJxkJdw2XwaWWKsOBGQEBVnu1-JCFa0OolIcWyBMHQBDg0zkDDvH7jN1pYaRNTB-8iv-txw4c/s320/mal.png" width="320" height="212" data-original-width="561" data-original-height="371" /></a></div>

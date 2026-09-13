@@ -1,7 +1,7 @@
 ---
 title: "Efeitos da pornografia na alma"
 date: 2016-01-26T19:28:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBJZAcEuqegkt5f5RZ-pEAFOQsCMjqZlu2vN2SJkVdQbAFCoJVHTp9FaOp6Ztdd2cjvXYpAXNomxtxiLLw9OfnXVkdSvWcUHKPGPfmkQKrhyQDtTRMe-9CaYlezYF0TFBqcClC9qJTOpw/s320/pornografia2.png"
+heroImage: "/images/pornografia2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBJZAcEuqegkt5f5RZ-pEAFOQsCMjqZlu2vN2SJkVdQbAFCoJVHTp9FaOp6Ztdd2cjvXYpAXNomxtxiLLw9OfnXVkdSvWcUHKPGPfmkQKrhyQDtTRMe-9CaYlezYF0TFBqcClC9qJTOpw/s1600/pornografia2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBJZAcEuqegkt5f5RZ-pEAFOQsCMjqZlu2vN2SJkVdQbAFCoJVHTp9FaOp6Ztdd2cjvXYpAXNomxtxiLLw9OfnXVkdSvWcUHKPGPfmkQKrhyQDtTRMe-9CaYlezYF0TFBqcClC9qJTOpw/s320/pornografia2.png" width="320" height="278" data-original-width="491" data-original-height="426" /></a></div>

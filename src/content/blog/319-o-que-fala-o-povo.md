@@ -1,7 +1,7 @@
 ---
 title: "O que fala o povo"
 date: 2018-11-27T18:31:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYvw59DBbVkuSIUUzacdcVlN4PgK4JG_nQXpl72CfAaOmqdrEPJQ2eHDO-RIZPJoJVrL66wBQi0rZzus72wMoA_LwzHCFMqdYwJUNjr6cWjs4ocjuYQlaSJ_RbHt5PS2u__vXwzRwaMYg/s320/casal.png"
+heroImage: "/images/casal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYvw59DBbVkuSIUUzacdcVlN4PgK4JG_nQXpl72CfAaOmqdrEPJQ2eHDO-RIZPJoJVrL66wBQi0rZzus72wMoA_LwzHCFMqdYwJUNjr6cWjs4ocjuYQlaSJ_RbHt5PS2u__vXwzRwaMYg/s1600/casal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYvw59DBbVkuSIUUzacdcVlN4PgK4JG_nQXpl72CfAaOmqdrEPJQ2eHDO-RIZPJoJVrL66wBQi0rZzus72wMoA_LwzHCFMqdYwJUNjr6cWjs4ocjuYQlaSJ_RbHt5PS2u__vXwzRwaMYg/s320/casal.png" width="320" height="277" data-original-width="293" data-original-height="254" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Católicos contra missa satânica"
 date: 2020-03-18T16:14:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLwkf31KO_CihRPK-S3JIa1CPldOIMwrVaY-1PYKYAqNo4rEH0jB2pe5w1mPR2GPbcfywsdfhBSsCBf6BYXnosvrCyTOyBwRv3tQQ7JfS_Rvy2BNZQWCBuEKLnJRPu68-na1mbrBlMEU/s320/arcebispo_prendergast.png"
+heroImage: "/images/arcebispo_prendergast.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLwkf31KO_CihRPK-S3JIa1CPldOIMwrVaY-1PYKYAqNo4rEH0jB2pe5w1mPR2GPbcfywsdfhBSsCBf6BYXnosvrCyTOyBwRv3tQQ7JfS_Rvy2BNZQWCBuEKLnJRPu68-na1mbrBlMEU/s1600/arcebispo_prendergast.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLwkf31KO_CihRPK-S3JIa1CPldOIMwrVaY-1PYKYAqNo4rEH0jB2pe5w1mPR2GPbcfywsdfhBSsCBf6BYXnosvrCyTOyBwRv3tQQ7JfS_Rvy2BNZQWCBuEKLnJRPu68-na1mbrBlMEU/s320/arcebispo_prendergast.png" width="320" height="261" data-original-width="485" data-original-height="395" /></a></div>

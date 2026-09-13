@@ -1,7 +1,7 @@
 ---
 title: "Bondades que levam ao inferno"
 date: 2022-12-06T16:06:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuIrhcqCOm4VneotqZ0xm5Jl1VB4ttulIXQ-sTb80D-8cbAjpRfvAAThODQa2bn7PwRQSEHn5ySBomYuFLJnysuVz8nFTJmshliBIx4Ot3HmDwWULyaSgwBNkL9Iom3XbyhcoB2CwsqlWUiHlFX3OZJDh-Qo26WjAcBUF1s8mCfabiZFN1gRiytDdV/s320/bondades%20que%20levam%20ao%20inferno.png"
+heroImage: "/images/bondades que levam ao inferno.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuIrhcqCOm4VneotqZ0xm5Jl1VB4ttulIXQ-sTb80D-8cbAjpRfvAAThODQa2bn7PwRQSEHn5ySBomYuFLJnysuVz8nFTJmshliBIx4Ot3HmDwWULyaSgwBNkL9Iom3XbyhcoB2CwsqlWUiHlFX3OZJDh-Qo26WjAcBUF1s8mCfabiZFN1gRiytDdV/s629/bondades%20que%20levam%20ao%20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="629" data-original-width="515" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuIrhcqCOm4VneotqZ0xm5Jl1VB4ttulIXQ-sTb80D-8cbAjpRfvAAThODQa2bn7PwRQSEHn5ySBomYuFLJnysuVz8nFTJmshliBIx4Ot3HmDwWULyaSgwBNkL9Iom3XbyhcoB2CwsqlWUiHlFX3OZJDh-Qo26WjAcBUF1s8mCfabiZFN1gRiytDdV/s320/bondades%20que%20levam%20ao%20inferno.png" width="262" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo que estamos a ler. Ora bolas, não existem as

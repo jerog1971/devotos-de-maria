@@ -1,7 +1,7 @@
 ---
 title: "\"Celebridades\" e o aborto"
 date: 2016-08-08T18:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-4imSmOMt7eMijkGJVBpcoBJ93UKE7EQ2PIAOOMt4VLfll2SePtz14MCJWakp0ZDUsfmMgWnq6wwZ3Z-Z640R2dkF5e6lPgtdwyZQJ2qaJw7vC4fgBPOjJR-YZTiG818MhTvxnHBBeT8/s320/aborto2.png"
+heroImage: "/images/aborto2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-4imSmOMt7eMijkGJVBpcoBJ93UKE7EQ2PIAOOMt4VLfll2SePtz14MCJWakp0ZDUsfmMgWnq6wwZ3Z-Z640R2dkF5e6lPgtdwyZQJ2qaJw7vC4fgBPOjJR-YZTiG818MhTvxnHBBeT8/s1600/aborto2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-4imSmOMt7eMijkGJVBpcoBJ93UKE7EQ2PIAOOMt4VLfll2SePtz14MCJWakp0ZDUsfmMgWnq6wwZ3Z-Z640R2dkF5e6lPgtdwyZQJ2qaJw7vC4fgBPOjJR-YZTiG818MhTvxnHBBeT8/s320/aborto2.png" width="320" height="188" data-original-width="653" data-original-height="383" /></a></div>

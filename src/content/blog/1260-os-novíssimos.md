@@ -1,7 +1,7 @@
 ---
 title: "Os novíssimos"
 date: 2023-08-17T18:37:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghEpwlD1PKQXwOhcgTNiEgQaWI6G2vnK7Uuq46Bvyd2NAvSin2PWIz39A8bqUuPJVKxFcKQXJH1EgLAv1UA3aBLSO5G5kM0nQblJtOfVERB-X2cLWUHP2Hvqzh0-NNAYF3dQIK4D1o5yzuUTiN3Q0DFFv1gaphgzVftlyublFrqLlo9cbfWm5lLIddkUk/s1600/morrer.png"
+heroImage: "/images/morrer.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghEpwlD1PKQXwOhcgTNiEgQaWI6G2vnK7Uuq46Bvyd2NAvSin2PWIz39A8bqUuPJVKxFcKQXJH1EgLAv1UA3aBLSO5G5kM0nQblJtOfVERB-X2cLWUHP2Hvqzh0-NNAYF3dQIK4D1o5yzuUTiN3Q0DFFv1gaphgzVftlyublFrqLlo9cbfWm5lLIddkUk/s308/morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" height="286" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghEpwlD1PKQXwOhcgTNiEgQaWI6G2vnK7Uuq46Bvyd2NAvSin2PWIz39A8bqUuPJVKxFcKQXJH1EgLAv1UA3aBLSO5G5kM0nQblJtOfVERB-X2cLWUHP2Hvqzh0-NNAYF3dQIK4D1o5yzuUTiN3Q0DFFv1gaphgzVftlyublFrqLlo9cbfWm5lLIddkUk/s1600/morrer.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sobre este assunto já falamos por aqui; são os últimos

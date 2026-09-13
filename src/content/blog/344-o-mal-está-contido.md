@@ -1,7 +1,7 @@
 ---
 title: "O mal está contido"
 date: 2019-10-28T15:09:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg72nC-cTrUEwSsBjSLxbWU4EAHCnuniOlvXxJRdu0RSSx_ISNZ-YSDu2DMY_JwdsaTk7izR0Rsu6SHNKpQ8qmZrgG0z_BVQwAzqwdA5tvDYSjViqN2q3H8sGi4CPxG1io6IyPUnE7Xwwo/s320/mal.png"
+heroImage: "/images/A vigilância do mal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg72nC-cTrUEwSsBjSLxbWU4EAHCnuniOlvXxJRdu0RSSx_ISNZ-YSDu2DMY_JwdsaTk7izR0Rsu6SHNKpQ8qmZrgG0z_BVQwAzqwdA5tvDYSjViqN2q3H8sGi4CPxG1io6IyPUnE7Xwwo/s1600/mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg72nC-cTrUEwSsBjSLxbWU4EAHCnuniOlvXxJRdu0RSSx_ISNZ-YSDu2DMY_JwdsaTk7izR0Rsu6SHNKpQ8qmZrgG0z_BVQwAzqwdA5tvDYSjViqN2q3H8sGi4CPxG1io6IyPUnE7Xwwo/s320/mal.png" width="320" height="241" data-original-width="402" data-original-height="303" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Nem sempre dá certo"
 date: 2023-06-29T19:55:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMVKHPlpHAfhLfSE3gizhNMVmOvc5z0HaLFiEHyeOgq0FIRRI6Bo9BMj15aeT41a_5GQ8dUWYxIkdtvOa8O6GxUq4oxDgdONHJDg-QNq9PgZVMu9xqEi35yTDFD_Pf9HTa4f2WFMM_ErzilHeYqxZFcuZoM5-HOhhMNJfyjrz5EjhSIT3rNhnbziUtPc/s1600/nem%20sempre%20d%C3%A1%20certo.png"
+heroImage: "/images/nem sempre dá certo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMVKHPlpHAfhLfSE3gizhNMVmOvc5z0HaLFiEHyeOgq0FIRRI6Bo9BMj15aeT41a_5GQ8dUWYxIkdtvOa8O6GxUq4oxDgdONHJDg-QNq9PgZVMu9xqEi35yTDFD_Pf9HTa4f2WFMM_ErzilHeYqxZFcuZoM5-HOhhMNJfyjrz5EjhSIT3rNhnbziUtPc/s306/nem%20sempre%20d%C3%A1%20certo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="275" data-original-width="306" height="275" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMVKHPlpHAfhLfSE3gizhNMVmOvc5z0HaLFiEHyeOgq0FIRRI6Bo9BMj15aeT41a_5GQ8dUWYxIkdtvOa8O6GxUq4oxDgdONHJDg-QNq9PgZVMu9xqEi35yTDFD_Pf9HTa4f2WFMM_ErzilHeYqxZFcuZoM5-HOhhMNJfyjrz5EjhSIT3rNhnbziUtPc/s1600/nem%20sempre%20d%C3%A1%20certo.png" width="306" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem muitas coisas na vida que não podem ser corrigidas;

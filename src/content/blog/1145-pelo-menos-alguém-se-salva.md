@@ -1,7 +1,7 @@
 ---
 title: "Pelo menos alguém se salva"
 date: 2022-06-28T16:00:00.006Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3lfIStTo6NRvRFmPOcoh910ITpI5O-hvPXUTM28D6k5r-KEHkKAu3iGWWUHAfF0dsOUXrOzn8M8PdFE-Z4eUxFiUk1Q3KmxlLSQS5Eazrw1FyWC-XjhMzPFB9R3ckmp-F419HJRVytMcWWg4Pt4VGU072cIUIhraLPHfNH84u3tykC24PPaHQU4o/s320/alguem%20se%20salva.png"
+heroImage: "/images/alguem se salva.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3lfIStTo6NRvRFmPOcoh910ITpI5O-hvPXUTM28D6k5r-KEHkKAu3iGWWUHAfF0dsOUXrOzn8M8PdFE-Z4eUxFiUk1Q3KmxlLSQS5Eazrw1FyWC-XjhMzPFB9R3ckmp-F419HJRVytMcWWg4Pt4VGU072cIUIhraLPHfNH84u3tykC24PPaHQU4o/s957/alguem%20se%20salva.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="852" data-original-width="957" height="285" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3lfIStTo6NRvRFmPOcoh910ITpI5O-hvPXUTM28D6k5r-KEHkKAu3iGWWUHAfF0dsOUXrOzn8M8PdFE-Z4eUxFiUk1Q3KmxlLSQS5Eazrw1FyWC-XjhMzPFB9R3ckmp-F419HJRVytMcWWg4Pt4VGU072cIUIhraLPHfNH84u3tykC24PPaHQU4o/s320/alguem%20se%20salva.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Às vezes, nós educadores, desanimamos em sala de aula; a tão

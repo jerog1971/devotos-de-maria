@@ -1,7 +1,7 @@
 ---
 title: "Atenção aos detalhes"
 date: 2022-09-01T17:40:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LYO3qv8xNVt4LU_cq84lmqPx6tlUg_7vkjJABf6eqJgXt2vidcZM7OVHUVODJLd9SAGq-sf3rkeGaA1yhr46cf5qsJPQoWEjNUlnhuS6AD63VTiADB0WjrhlDyPARh6vfs-JFmH8vEXlg3YbQg0y8-TmivK4DR3ke6-CFaLLKJrK4rBK5X-9WkMu/s320/Aten%C3%A7%C3%A3o%20aos%20detalhes.png"
+heroImage: "/images/Atenção aos detalhes.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LYO3qv8xNVt4LU_cq84lmqPx6tlUg_7vkjJABf6eqJgXt2vidcZM7OVHUVODJLd9SAGq-sf3rkeGaA1yhr46cf5qsJPQoWEjNUlnhuS6AD63VTiADB0WjrhlDyPARh6vfs-JFmH8vEXlg3YbQg0y8-TmivK4DR3ke6-CFaLLKJrK4rBK5X-9WkMu/s841/Aten%C3%A7%C3%A3o%20aos%20detalhes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="746" data-original-width="841" height="284" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LYO3qv8xNVt4LU_cq84lmqPx6tlUg_7vkjJABf6eqJgXt2vidcZM7OVHUVODJLd9SAGq-sf3rkeGaA1yhr46cf5qsJPQoWEjNUlnhuS6AD63VTiADB0WjrhlDyPARh6vfs-JFmH8vEXlg3YbQg0y8-TmivK4DR3ke6-CFaLLKJrK4rBK5X-9WkMu/s320/Aten%C3%A7%C3%A3o%20aos%20detalhes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, já sabemos, por causa das sagradas escrituras, que

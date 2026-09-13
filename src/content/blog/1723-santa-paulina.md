@@ -1,7 +1,7 @@
 ---
 title: "Santa Paulina"
 date: 2024-12-03T18:47:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjntHQZeQVaMVsWX1LNuENeamxyLo1vXUWn-pwHLuAfOsYr_P9CnLDXENFvQXVnWZRwCLPycgfJ7p6tb0gdw0GUd39gmEVCUK9oZOh3MbOBjFJCpXXhyRneeWkFF1y6YfoK46J6u0fveE/s320/paulina.png"
+heroImage: "/images/paulina.png"
 ---
 
 <b>SANTA PAULINA</b></br>

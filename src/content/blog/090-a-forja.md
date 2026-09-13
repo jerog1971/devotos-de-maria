@@ -1,7 +1,7 @@
 ---
 title: "A Forja"
 date: 2024-08-22T18:30:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuG9iBEVT3udQPtnAzSzgBmFBMcEwZCWfuk2LCz4GL7SZ61Bzhb4Aklt5odbRAbaixvuMNDeMB-1CqdxONhoPVu3TPYuiIpyzgKWQZWJecybF1y0qI8Ns4k_aHpZveGgk3aprB_ChE-ujDGVi3tOuqU8i2Y7VBqHhNT_ru2i9_koeUfRLbgI4-Jk-0Joo/s320/A%20forja.png"
+heroImage: "/images/A forja.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuG9iBEVT3udQPtnAzSzgBmFBMcEwZCWfuk2LCz4GL7SZ61Bzhb4Aklt5odbRAbaixvuMNDeMB-1CqdxONhoPVu3TPYuiIpyzgKWQZWJecybF1y0qI8Ns4k_aHpZveGgk3aprB_ChE-ujDGVi3tOuqU8i2Y7VBqHhNT_ru2i9_koeUfRLbgI4-Jk-0Joo/s395/A%20forja.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="395" data-original-width="324" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuG9iBEVT3udQPtnAzSzgBmFBMcEwZCWfuk2LCz4GL7SZ61Bzhb4Aklt5odbRAbaixvuMNDeMB-1CqdxONhoPVu3TPYuiIpyzgKWQZWJecybF1y0qI8Ns4k_aHpZveGgk3aprB_ChE-ujDGVi3tOuqU8i2Y7VBqHhNT_ru2i9_koeUfRLbgI4-Jk-0Joo/s320/A%20forja.png" width="262" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lá vamos nós para mais uma experiência promovida pelos

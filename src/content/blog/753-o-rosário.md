@@ -1,7 +1,7 @@
 ---
 title: "O Rosário"
 date: 2017-08-22T19:49:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipl8-IUKSDxDcl-jO4sx1RJSklPDnH77ff3sOnQY06yZCyWMFONF1VBHLoHLKVEx8eakS8-5BZQ0Mvc8Tq_DLM6oxTOalQeUjBfDktccNOYuZm8i3QFJRY0wHwOElR3uUieShaN35ekCM/s320/padre+pio.png"
+heroImage: "/images/padre.png"
 ---
 
 <!DOCTYPE html>

@@ -1,7 +1,7 @@
 ---
 title: "Glorificai a Deus com vosso corpo"
 date: 2019-11-04T15:02:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEiJmSz2RjnKQe20e3r9zKuWQMuaePUf6yoxr_WXP11xzpSAwLSin-RHyBA3AX-8JKOSrCWihUoRJApXdsrvkQLTcXxrMVsmgNNTgyw6DDtdvhzkgAgBcKBXxRo4mb2zGxk7Yi-eDDP0/s320/proibido_tatuar.png"
+heroImage: "/images/proibido_tatuar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEiJmSz2RjnKQe20e3r9zKuWQMuaePUf6yoxr_WXP11xzpSAwLSin-RHyBA3AX-8JKOSrCWihUoRJApXdsrvkQLTcXxrMVsmgNNTgyw6DDtdvhzkgAgBcKBXxRo4mb2zGxk7Yi-eDDP0/s1600/proibido_tatuar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="278" data-original-width="365" height="244" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEiJmSz2RjnKQe20e3r9zKuWQMuaePUf6yoxr_WXP11xzpSAwLSin-RHyBA3AX-8JKOSrCWihUoRJApXdsrvkQLTcXxrMVsmgNNTgyw6DDtdvhzkgAgBcKBXxRo4mb2zGxk7Yi-eDDP0/s320/proibido_tatuar.png" width="320" /></a></div>

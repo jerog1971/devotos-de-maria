@@ -1,7 +1,7 @@
 ---
 title: "O incômodo de se viver"
 date: 2017-08-16T16:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1CTXu-COOtYDBd9qdUUAPjMtNvoXjFJvKO0jBD5m9tBOuNjra9w7HtqefSZKfOwpu2Wn3_M_HRRZ3J0f3ZUNaRpZrK3LNjeDUseDRnExKVPS_PYMjZ0G8mOTJx6DwhVAIfotnNOQnpOw/s320/incomodo.png"
+heroImage: "/images/incomodo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1CTXu-COOtYDBd9qdUUAPjMtNvoXjFJvKO0jBD5m9tBOuNjra9w7HtqefSZKfOwpu2Wn3_M_HRRZ3J0f3ZUNaRpZrK3LNjeDUseDRnExKVPS_PYMjZ0G8mOTJx6DwhVAIfotnNOQnpOw/s1600/incomodo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1CTXu-COOtYDBd9qdUUAPjMtNvoXjFJvKO0jBD5m9tBOuNjra9w7HtqefSZKfOwpu2Wn3_M_HRRZ3J0f3ZUNaRpZrK3LNjeDUseDRnExKVPS_PYMjZ0G8mOTJx6DwhVAIfotnNOQnpOw/s320/incomodo.png" width="320" height="301" data-original-width="428" data-original-height="403" /></a></div>

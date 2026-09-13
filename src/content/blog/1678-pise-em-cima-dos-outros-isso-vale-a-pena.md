@@ -1,7 +1,7 @@
 ---
 title: "Pise em cima dos outros: isso vale a pena"
 date: 2021-01-27T20:01:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaWf3xuH1ywqIeeVY_5SHs6VaHGAY8IrI-SlIXQRBGKUEz0pVh032sXZjB6Jh0TIWhwEgeiSh9zVovQ4Y3EbgDx3PqqBlIL50gduUwCaqFEvaGKUZI1WOuJY3NC3CUvhzENRnjiDJEMak/s0/pisar+nos+outros.png"
+heroImage: "/images/nos.JPG"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaWf3xuH1ywqIeeVY_5SHs6VaHGAY8IrI-SlIXQRBGKUEz0pVh032sXZjB6Jh0TIWhwEgeiSh9zVovQ4Y3EbgDx3PqqBlIL50gduUwCaqFEvaGKUZI1WOuJY3NC3CUvhzENRnjiDJEMak/s310/pisar+nos+outros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="305" data-original-width="310" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaWf3xuH1ywqIeeVY_5SHs6VaHGAY8IrI-SlIXQRBGKUEz0pVh032sXZjB6Jh0TIWhwEgeiSh9zVovQ4Y3EbgDx3PqqBlIL50gduUwCaqFEvaGKUZI1WOuJY3NC3CUvhzENRnjiDJEMak/s0/pisar+nos+outros.png" /></a></div><p class="MsoNormal">Isso mesmo, e como vale, faça os outros de degrau para você

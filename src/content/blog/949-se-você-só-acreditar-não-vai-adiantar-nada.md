@@ -1,7 +1,7 @@
 ---
 title: "Se você só acreditar, não vai adiantar nada"
 date: 2019-06-19T20:22:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT3FfAqlUk4LxPQMRY3I2ic4rO6AK1iY9hiFwIs5BwHxvq7MBbiKnM69vSQKW3EXjyhoknvhwX1hxWn1kf8BLmaVnbzH3mKz-xR9UF8Z0QNighO8DScDsOp0-bNfBJg0HHclUpFzUppqk/s320/acreditar.png"
+heroImage: "/images/acreditar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT3FfAqlUk4LxPQMRY3I2ic4rO6AK1iY9hiFwIs5BwHxvq7MBbiKnM69vSQKW3EXjyhoknvhwX1hxWn1kf8BLmaVnbzH3mKz-xR9UF8Z0QNighO8DScDsOp0-bNfBJg0HHclUpFzUppqk/s1600/acreditar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT3FfAqlUk4LxPQMRY3I2ic4rO6AK1iY9hiFwIs5BwHxvq7MBbiKnM69vSQKW3EXjyhoknvhwX1hxWn1kf8BLmaVnbzH3mKz-xR9UF8Z0QNighO8DScDsOp0-bNfBJg0HHclUpFzUppqk/s320/acreditar.png" width="320" height="289" data-original-width="272" data-original-height="246" /></a></div>

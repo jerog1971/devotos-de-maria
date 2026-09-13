@@ -1,7 +1,7 @@
 ---
 title: "O medo de \"não dar conta\""
 date: 2016-09-02T15:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTAOOXkBQzFDVGJzKkn-JpCCfvUdgG5hJrmXthn8BYzZZ_3w8NJ52x6BvzbkVsQmkRFjxO-89LDEugRVgS7EVw-qJdRVD1HWfEbd9G_DTAu2Pb4PxYqzKlYKwwF5xMb0AFbJlypWG9BAI/s320/medo.png"
+heroImage: "/images/fé_medo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTAOOXkBQzFDVGJzKkn-JpCCfvUdgG5hJrmXthn8BYzZZ_3w8NJ52x6BvzbkVsQmkRFjxO-89LDEugRVgS7EVw-qJdRVD1HWfEbd9G_DTAu2Pb4PxYqzKlYKwwF5xMb0AFbJlypWG9BAI/s1600/medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTAOOXkBQzFDVGJzKkn-JpCCfvUdgG5hJrmXthn8BYzZZ_3w8NJ52x6BvzbkVsQmkRFjxO-89LDEugRVgS7EVw-qJdRVD1HWfEbd9G_DTAu2Pb4PxYqzKlYKwwF5xMb0AFbJlypWG9BAI/s320/medo.png" width="299" height="320" data-original-width="300" data-original-height="321" /></a></div>

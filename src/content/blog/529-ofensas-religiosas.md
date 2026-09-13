@@ -1,7 +1,7 @@
 ---
 title: "Ofensas religiosas"
 date: 2024-03-28T20:28:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvH4fU-YWfdm9LYK9hke6l-TVJI5UVGZrWQigho1KqaqJdu_ro-1hcFFjnEPgtg_ACwj_HM76cW-cU7A0XM-k4wlN5rKAUFwi_xJ9wGo9HsmR21yba2furtlJjYX-R68xAmNJ4u2Tx2Fo_m2szwF8RaIEi2Tv87LE2KE6stAekyQV-P9SNlONJ0hExlM/s320/ofensas%20religiosas%202.png"
+heroImage: "/images/ofensas religiosas 2.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvH4fU-YWfdm9LYK9hke6l-TVJI5UVGZrWQigho1KqaqJdu_ro-1hcFFjnEPgtg_ACwj_HM76cW-cU7A0XM-k4wlN5rKAUFwi_xJ9wGo9HsmR21yba2furtlJjYX-R68xAmNJ4u2Tx2Fo_m2szwF8RaIEi2Tv87LE2KE6stAekyQV-P9SNlONJ0hExlM/s476/ofensas%20religiosas%202.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="476" data-original-width="397" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvH4fU-YWfdm9LYK9hke6l-TVJI5UVGZrWQigho1KqaqJdu_ro-1hcFFjnEPgtg_ACwj_HM76cW-cU7A0XM-k4wlN5rKAUFwi_xJ9wGo9HsmR21yba2furtlJjYX-R68xAmNJ4u2Tx2Fo_m2szwF8RaIEi2Tv87LE2KE6stAekyQV-P9SNlONJ0hExlM/s320/ofensas%20religiosas%202.png" width="267" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As pessoas, principalmente quando querem justificar seus

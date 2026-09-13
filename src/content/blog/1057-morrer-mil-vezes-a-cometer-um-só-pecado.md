@@ -1,7 +1,7 @@
 ---
 title: "Morrer mil vezes a cometer um só pecado"
 date: 2017-10-02T20:23:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRkfF_donatVx6r7UECPTpR2DKkLAeN4dL4gPri4NsHKfAqu2ITAXqh7QEkXUonGGowxSpJzO_pBEbZuT6shqkg6GGgLyNqPKWU84at3kE7y51-gX258CnqVM71XxNLRSD3v76Q3pQG68/s320/cemiterio.png"
+heroImage: "/images/cemiterio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRkfF_donatVx6r7UECPTpR2DKkLAeN4dL4gPri4NsHKfAqu2ITAXqh7QEkXUonGGowxSpJzO_pBEbZuT6shqkg6GGgLyNqPKWU84at3kE7y51-gX258CnqVM71XxNLRSD3v76Q3pQG68/s1600/cemiterio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRkfF_donatVx6r7UECPTpR2DKkLAeN4dL4gPri4NsHKfAqu2ITAXqh7QEkXUonGGowxSpJzO_pBEbZuT6shqkg6GGgLyNqPKWU84at3kE7y51-gX258CnqVM71XxNLRSD3v76Q3pQG68/s320/cemiterio.png" width="318" height="320" data-original-width="424" data-original-height="426" /></a></div>

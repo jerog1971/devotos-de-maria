@@ -1,7 +1,7 @@
 ---
 title: "Tomai e comei, tomai e bebei"
 date: 2020-04-08T18:30:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s320/jesus.png"
+heroImage: "/images/Agradecer a Jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s1600/jesus.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" height="291" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqn-JL1qTd-RC4vUegHjYMV7V880B-z5yQsRcg-nllfsyoQfIwBo92Bm9Jw0FMERsM0rB7rrUWFua-KL4bN64WwU7g8ONOL2JTJaq1g_mBAe7im2cGpoMEAsQBzvsCxBfHbDT6TsRXP-A/s320/jesus.png" width="320" /></a></div>

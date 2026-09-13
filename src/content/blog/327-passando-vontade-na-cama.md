@@ -1,7 +1,7 @@
 ---
 title: "Passando vontade na cama"
 date: 2018-01-25T16:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZRF-jYedTqisaBp7SiVGRow1jab5eYNXzYcOa9B84daC9oxRHt2pzBgPgjujWxEG2BgDGaFtEAPrelqukw9Ttfqqyi-NkKI9aOb7exS36-gDhfHZTU-7br3aGBZiYjNBVEVblqh4SUG0/s320/passando_vontade.png"
+heroImage: "/images/passando_vontade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZRF-jYedTqisaBp7SiVGRow1jab5eYNXzYcOa9B84daC9oxRHt2pzBgPgjujWxEG2BgDGaFtEAPrelqukw9Ttfqqyi-NkKI9aOb7exS36-gDhfHZTU-7br3aGBZiYjNBVEVblqh4SUG0/s1600/passando_vontade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZRF-jYedTqisaBp7SiVGRow1jab5eYNXzYcOa9B84daC9oxRHt2pzBgPgjujWxEG2BgDGaFtEAPrelqukw9Ttfqqyi-NkKI9aOb7exS36-gDhfHZTU-7br3aGBZiYjNBVEVblqh4SUG0/s320/passando_vontade.png" width="320" height="262" data-original-width="239" data-original-height="196" /></a></div>

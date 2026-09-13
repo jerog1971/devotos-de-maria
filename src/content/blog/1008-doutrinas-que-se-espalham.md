@@ -1,7 +1,7 @@
 ---
 title: "Doutrinas que se espalham"
 date: 2022-11-28T21:11:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRkuXOxVDpeYTk10PA7JSbyLAJIe0cDJg3-FLCeLrR2nvMUhh1ty0iSKFiFjFXCB183IwLNptVnAXG6opWpdIa2qPFKIOQ5Ev0BnlPwJW9hQrYzrP7zxCHu3dDnv8dqBPRlMroZWrqt-rmuABLSCDzyf2110ov14nob5Q7xGMIWLY15_UL7CuqD0km/s320/homossexualismo%20na%20tv.png"
+heroImage: "/images/homo.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRkuXOxVDpeYTk10PA7JSbyLAJIe0cDJg3-FLCeLrR2nvMUhh1ty0iSKFiFjFXCB183IwLNptVnAXG6opWpdIa2qPFKIOQ5Ev0BnlPwJW9hQrYzrP7zxCHu3dDnv8dqBPRlMroZWrqt-rmuABLSCDzyf2110ov14nob5Q7xGMIWLY15_UL7CuqD0km/s392/homossexualismo%20na%20tv.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="392" height="265" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRkuXOxVDpeYTk10PA7JSbyLAJIe0cDJg3-FLCeLrR2nvMUhh1ty0iSKFiFjFXCB183IwLNptVnAXG6opWpdIa2qPFKIOQ5Ev0BnlPwJW9hQrYzrP7zxCHu3dDnv8dqBPRlMroZWrqt-rmuABLSCDzyf2110ov14nob5Q7xGMIWLY15_UL7CuqD0km/s320/homossexualismo%20na%20tv.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é de hoje que o mundo tem insistido em pregar sua

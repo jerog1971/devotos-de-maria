@@ -1,7 +1,7 @@
 ---
 title: "Em pé perante a cruz"
 date: 2017-06-12T12:12:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-JV846gR9T_eYIrChPz13R5mJ1BkadyvpBi68Uiu53xSCXSWkkomNETEHPBC3XZFrwYSIwQ99488jG3KYbj5yG0L2o6O9nlMb8e8PdcGvMzsS9oOkvfZbVqMebXocGrhhLQi2JZHZSls/s320/Jesus+e+Maria.png"
+heroImage: "/images/Jesus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-JV846gR9T_eYIrChPz13R5mJ1BkadyvpBi68Uiu53xSCXSWkkomNETEHPBC3XZFrwYSIwQ99488jG3KYbj5yG0L2o6O9nlMb8e8PdcGvMzsS9oOkvfZbVqMebXocGrhhLQi2JZHZSls/s1600/Jesus+e+Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-JV846gR9T_eYIrChPz13R5mJ1BkadyvpBi68Uiu53xSCXSWkkomNETEHPBC3XZFrwYSIwQ99488jG3KYbj5yG0L2o6O9nlMb8e8PdcGvMzsS9oOkvfZbVqMebXocGrhhLQi2JZHZSls/s320/Jesus+e+Maria.png" width="320" height="290" data-original-width="574" data-original-height="520" /></a></div>

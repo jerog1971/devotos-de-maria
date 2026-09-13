@@ -1,7 +1,7 @@
 ---
 title: "Conheça os ensinamentos de Deus"
 date: 2016-04-26T19:35:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRI7YApXXLTlPZa7eBaCqFOsOZ1QMBZGL1iU1KMfX3LdrHp6N2ROhE9flKKEDNgtIagJEnhp6dNCb6yKetqrjtfA6M_vErv9EfyZ9agMCTj-dyf6Dz7pMPWVZMsZd5Ay0ftJvpoVvHgbw/s320/rainha.png"
+heroImage: "/images/rainha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRI7YApXXLTlPZa7eBaCqFOsOZ1QMBZGL1iU1KMfX3LdrHp6N2ROhE9flKKEDNgtIagJEnhp6dNCb6yKetqrjtfA6M_vErv9EfyZ9agMCTj-dyf6Dz7pMPWVZMsZd5Ay0ftJvpoVvHgbw/s1600/rainha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRI7YApXXLTlPZa7eBaCqFOsOZ1QMBZGL1iU1KMfX3LdrHp6N2ROhE9flKKEDNgtIagJEnhp6dNCb6yKetqrjtfA6M_vErv9EfyZ9agMCTj-dyf6Dz7pMPWVZMsZd5Ay0ftJvpoVvHgbw/s320/rainha.png" width="320" height="263" data-original-width="594" data-original-height="489" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Tem Vergonha? Cuidado!"
 date: 2016-10-05T11:40:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPFCMIGIFowVrQc6JFaQkSCQ1Vt3VK8wmRppHnFb1GmV_jB-nyTh6dN9AbqTAnmClKkd_wTpW0yOQXpkskTDyrfW4XAWE869FTMDiCkhz4TEGIxlbyDRiC56LVAb2LCpFwnQ94MlcTGM0/s320/catolico.png"
+heroImage: "/images/agir_do_catolico.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPFCMIGIFowVrQc6JFaQkSCQ1Vt3VK8wmRppHnFb1GmV_jB-nyTh6dN9AbqTAnmClKkd_wTpW0yOQXpkskTDyrfW4XAWE869FTMDiCkhz4TEGIxlbyDRiC56LVAb2LCpFwnQ94MlcTGM0/s1600/catolico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPFCMIGIFowVrQc6JFaQkSCQ1Vt3VK8wmRppHnFb1GmV_jB-nyTh6dN9AbqTAnmClKkd_wTpW0yOQXpkskTDyrfW4XAWE869FTMDiCkhz4TEGIxlbyDRiC56LVAb2LCpFwnQ94MlcTGM0/s320/catolico.png" width="320" height="291" data-original-width="571" data-original-height="519" /></a></div>

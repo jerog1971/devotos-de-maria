@@ -1,7 +1,7 @@
 ---
 title: "Pais Desinteressados"
 date: 2017-09-15T14:57:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-dBLrtuiSxA1WPQr5EoX20LbbS7CGGuqzKNUdyBHg3eFyQzQF66x69imm8t-GuM1KHj1Xi310CVUndtm47gBSvlo1m4Fki0r5sbHWDCYUQcUHl95RRH4Lqun1M5xae_ws4vkbQcDXNQ/s320/pais_desinteressados.png"
+heroImage: "/images/pais_desinteressados.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-dBLrtuiSxA1WPQr5EoX20LbbS7CGGuqzKNUdyBHg3eFyQzQF66x69imm8t-GuM1KHj1Xi310CVUndtm47gBSvlo1m4Fki0r5sbHWDCYUQcUHl95RRH4Lqun1M5xae_ws4vkbQcDXNQ/s1600/pais_desinteressados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-dBLrtuiSxA1WPQr5EoX20LbbS7CGGuqzKNUdyBHg3eFyQzQF66x69imm8t-GuM1KHj1Xi310CVUndtm47gBSvlo1m4Fki0r5sbHWDCYUQcUHl95RRH4Lqun1M5xae_ws4vkbQcDXNQ/s320/pais_desinteressados.png" width="320" height="229" data-original-width="601" data-original-height="431" /></a></div>

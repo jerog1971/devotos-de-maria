@@ -1,7 +1,7 @@
 ---
 title: "Dividir?"
 date: 2017-05-09T19:19:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kG1mvpYq9_VqXfSq5h0CGQLJ221vXffF35HFQE3HBD6Ytp3wNKqKGxGqp7gTzjvyTcJBQ33WIsyAbeCeISi7fD3mKm4TC3qDnfN1fd9B5gKgYSL6Lrjs-wtL_amPZI_OG3pksJEWtYo/s200/dividir.png"
+heroImage: "/images/dividir.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kG1mvpYq9_VqXfSq5h0CGQLJ221vXffF35HFQE3HBD6Ytp3wNKqKGxGqp7gTzjvyTcJBQ33WIsyAbeCeISi7fD3mKm4TC3qDnfN1fd9B5gKgYSL6Lrjs-wtL_amPZI_OG3pksJEWtYo/s1600/dividir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kG1mvpYq9_VqXfSq5h0CGQLJ221vXffF35HFQE3HBD6Ytp3wNKqKGxGqp7gTzjvyTcJBQ33WIsyAbeCeISi7fD3mKm4TC3qDnfN1fd9B5gKgYSL6Lrjs-wtL_amPZI_OG3pksJEWtYo/s200/dividir.png" width="200" height="189" data-original-width="318" data-original-height="300" /></a></div>

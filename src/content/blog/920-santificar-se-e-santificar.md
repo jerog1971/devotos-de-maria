@@ -1,7 +1,7 @@
 ---
 title: "Santificar-se e Santificar"
 date: 2016-01-08T16:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVCaKidPgLnII4Bck6r55zz6N6opGamADrI1Slo2r3Fs1V0bmJfyJniQnnCRyeG027n6Ha9C2BioqmA8slcVQGu_sFhH0buXyNrqyEARjjwNucWg_PKYf8GBiRdvsH9LeD34OgoXL7804/s320/sofia1.jpg"
+heroImage: "/images/sofia1.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVCaKidPgLnII4Bck6r55zz6N6opGamADrI1Slo2r3Fs1V0bmJfyJniQnnCRyeG027n6Ha9C2BioqmA8slcVQGu_sFhH0buXyNrqyEARjjwNucWg_PKYf8GBiRdvsH9LeD34OgoXL7804/s1600/sofia1.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVCaKidPgLnII4Bck6r55zz6N6opGamADrI1Slo2r3Fs1V0bmJfyJniQnnCRyeG027n6Ha9C2BioqmA8slcVQGu_sFhH0buXyNrqyEARjjwNucWg_PKYf8GBiRdvsH9LeD34OgoXL7804/s320/sofia1.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>

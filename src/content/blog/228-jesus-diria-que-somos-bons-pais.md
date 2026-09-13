@@ -1,7 +1,7 @@
 ---
 title: "Jesus diria que somos bons pais?"
 date: 2016-05-30T13:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcc_S1byyQn2FqVq3P00-7EwSrHQ59Z-0RL-ca1wzwV4o5LXoQOthCXT6GcJTyj7gpiVNadyMuEGHXThlJYk9yDwBEN6qbsczoIjNs1IVFKzLQWdUGxzM-I6Exj0LnDuY8DcYl7t65R58/s320/assassino.png"
+heroImage: "/images/assassino.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcc_S1byyQn2FqVq3P00-7EwSrHQ59Z-0RL-ca1wzwV4o5LXoQOthCXT6GcJTyj7gpiVNadyMuEGHXThlJYk9yDwBEN6qbsczoIjNs1IVFKzLQWdUGxzM-I6Exj0LnDuY8DcYl7t65R58/s1600/assassino.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcc_S1byyQn2FqVq3P00-7EwSrHQ59Z-0RL-ca1wzwV4o5LXoQOthCXT6GcJTyj7gpiVNadyMuEGHXThlJYk9yDwBEN6qbsczoIjNs1IVFKzLQWdUGxzM-I6Exj0LnDuY8DcYl7t65R58/s320/assassino.png" width="320" height="309" data-original-width="541" data-original-height="522" /></a></div>

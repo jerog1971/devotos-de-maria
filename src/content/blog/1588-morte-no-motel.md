@@ -1,7 +1,7 @@
 ---
 title: "Morte no Motel"
 date: 2017-06-14T13:34:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM_8NoThyfTVCZA_FbtYZoO_ILB1vqVL8-vEXzETwhT6wlOYDaTPUHg_XlOmMhdZETHRB7uhpJN35n9jzG_hybdktwm7x1MB8xVfsTNLsPjnRaJVMF6Y-kv4FTf9IiGnHynKXfNWslVRA/s320/passione.png"
+heroImage: "/images/passione.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM_8NoThyfTVCZA_FbtYZoO_ILB1vqVL8-vEXzETwhT6wlOYDaTPUHg_XlOmMhdZETHRB7uhpJN35n9jzG_hybdktwm7x1MB8xVfsTNLsPjnRaJVMF6Y-kv4FTf9IiGnHynKXfNWslVRA/s1600/passione.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="486" data-original-width="545" height="285" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM_8NoThyfTVCZA_FbtYZoO_ILB1vqVL8-vEXzETwhT6wlOYDaTPUHg_XlOmMhdZETHRB7uhpJN35n9jzG_hybdktwm7x1MB8xVfsTNLsPjnRaJVMF6Y-kv4FTf9IiGnHynKXfNWslVRA/s320/passione.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Olá caros leitores. Uma coisa é certa, a imprevisibilidade da morte é algo definitivo em nossas vidas. Uma bela frase se encaixa aqui. Em vida podemos dizer que esperamos que ela seja a última coisa que nos aconteça. Nem é tão errado afirmarmos isso pois se pensarmos em nossas vidas e olharmos para ela com um olhar sobrenatural, desejar que ela seja a última coisa que nos aconteça não é nada estranho. Vamos entender.

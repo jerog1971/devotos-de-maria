@@ -1,7 +1,7 @@
 ---
 title: "Os pecadinhos de estimação"
 date: 2018-09-24T20:39:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKHs3dowqLlxsqHiVxR6pWgCfCjgEvHxHzrPcTmJvnbz2e1efkFEIQcdS-FXUYTFHBeMwBY0q9AyEJBGeHRLasHX4PB8AGV6AN5wiDHccCUYCJq9Vivg6TrXMPol3CSzz1hasXSJFa9k/s320/pecadinhos.png"
+heroImage: "/images/pecadinhos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKHs3dowqLlxsqHiVxR6pWgCfCjgEvHxHzrPcTmJvnbz2e1efkFEIQcdS-FXUYTFHBeMwBY0q9AyEJBGeHRLasHX4PB8AGV6AN5wiDHccCUYCJq9Vivg6TrXMPol3CSzz1hasXSJFa9k/s1600/pecadinhos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="295" data-original-width="402" height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKHs3dowqLlxsqHiVxR6pWgCfCjgEvHxHzrPcTmJvnbz2e1efkFEIQcdS-FXUYTFHBeMwBY0q9AyEJBGeHRLasHX4PB8AGV6AN5wiDHccCUYCJq9Vivg6TrXMPol3CSzz1hasXSJFa9k/s320/pecadinhos.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Fáceis de cometer, difíceis de abandonar. Assim são definidos pelos santos e santas da igreja católica e também pela patrística, os pecados que, segundo Nossa Senhora em suas aparições, são os que mais condenam almas ao inferno.

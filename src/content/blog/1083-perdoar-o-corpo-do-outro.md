@@ -1,7 +1,7 @@
 ---
 title: "Perdoar o corpo do outro"
 date: 2016-10-26T15:11:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvovMMz9OsCpGkvPzW9DWdvh8QGUKBmdrx2tr0Vv_GiGcPmh9D97Xwaj1zyOtTZqkA6L4ClusEdy-6VLWbiW_yGlGqBCthcg82zxKdOQDouPoiuaxR-6wcLXgOphQCs-OhJegV93nzICo/s320/idade.png"
+heroImage: "/images/autoridade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvovMMz9OsCpGkvPzW9DWdvh8QGUKBmdrx2tr0Vv_GiGcPmh9D97Xwaj1zyOtTZqkA6L4ClusEdy-6VLWbiW_yGlGqBCthcg82zxKdOQDouPoiuaxR-6wcLXgOphQCs-OhJegV93nzICo/s1600/idade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvovMMz9OsCpGkvPzW9DWdvh8QGUKBmdrx2tr0Vv_GiGcPmh9D97Xwaj1zyOtTZqkA6L4ClusEdy-6VLWbiW_yGlGqBCthcg82zxKdOQDouPoiuaxR-6wcLXgOphQCs-OhJegV93nzICo/s320/idade.png" width="320" height="315" data-original-width="409" data-original-height="402" /></a></div>

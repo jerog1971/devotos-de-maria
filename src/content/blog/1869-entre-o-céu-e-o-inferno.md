@@ -1,7 +1,7 @@
 ---
 title: "Entre o céu e o inferno"
 date: 2024-07-10T21:45:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnotUgykPIMpThAGZwJ15Wh8vzlS3s-dyO1iU6ehzSI-Pl2ZZWXLXoWR3YksAsQ0fp97hXWrQXbX0D8yq61hyphenhyphen_sDCj57mVFMptUpOznRjeLElhsIopXlWIaunFJcj1nleUEv3ktcjpOP-cziTetAlPi8rGs0XzLxdr0QjFVJw9Ff4MMbTgYLpsHRLmBEk/s320/a%20dist%C3%A2ncia.png"
+heroImage: "/images/a distância(1).png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnotUgykPIMpThAGZwJ15Wh8vzlS3s-dyO1iU6ehzSI-Pl2ZZWXLXoWR3YksAsQ0fp97hXWrQXbX0D8yq61hyphenhyphen_sDCj57mVFMptUpOznRjeLElhsIopXlWIaunFJcj1nleUEv3ktcjpOP-cziTetAlPi8rGs0XzLxdr0QjFVJw9Ff4MMbTgYLpsHRLmBEk/s434/a%20dist%C3%A2ncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="341" data-original-width="434" height="251" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnotUgykPIMpThAGZwJ15Wh8vzlS3s-dyO1iU6ehzSI-Pl2ZZWXLXoWR3YksAsQ0fp97hXWrQXbX0D8yq61hyphenhyphen_sDCj57mVFMptUpOznRjeLElhsIopXlWIaunFJcj1nleUEv3ktcjpOP-cziTetAlPi8rGs0XzLxdr0QjFVJw9Ff4MMbTgYLpsHRLmBEk/s320/a%20dist%C3%A2ncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente a distância que estamos entre o céu e o inferno é

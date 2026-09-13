@@ -1,7 +1,7 @@
 ---
 title: "Bisbilhotar, Bolinar e Bajular"
 date: 2022-03-08T02:15:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhMJ-LPn-02NNf_JUYjiGsdtgTvluprGZn6XMA1-iE9QDomc93AuXoLD2wPq9D9I6wYZTqTSTooQqHzcaT0bkDTVSwKJ7qFpwQSkXhcEctIyhXEd2x0F8WVjFFaSSyHR1oUVYa6xDY9DzSQlKBVidPT-IY_ECLRNgCfIkGu03brHikIcstYbJPtM1g7=s320"
+heroImage: "/images/dom.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhMJ-LPn-02NNf_JUYjiGsdtgTvluprGZn6XMA1-iE9QDomc93AuXoLD2wPq9D9I6wYZTqTSTooQqHzcaT0bkDTVSwKJ7qFpwQSkXhcEctIyhXEd2x0F8WVjFFaSSyHR1oUVYa6xDY9DzSQlKBVidPT-IY_ECLRNgCfIkGu03brHikIcstYbJPtM1g7=s379" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="379" data-original-width="335" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEhMJ-LPn-02NNf_JUYjiGsdtgTvluprGZn6XMA1-iE9QDomc93AuXoLD2wPq9D9I6wYZTqTSTooQqHzcaT0bkDTVSwKJ7qFpwQSkXhcEctIyhXEd2x0F8WVjFFaSSyHR1oUVYa6xDY9DzSQlKBVidPT-IY_ECLRNgCfIkGu03brHikIcstYbJPtM1g7=s320" width="283" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eis aí três atitudes que as pessoas fazem que perigosamente

@@ -1,7 +1,7 @@
 ---
 title: "Muito além dos filmes de terror"
 date: 2019-04-12T15:45:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGuUoZqwOsXECqrUKorU1B4Waap8L3Rg4bHW2RtqECZ9H2On9pjlP_V922yLoUZtrkeyLolV2w9CwQ-V4u9yyMbyaMnlgwqQn5Qmy5hFlxxA3RV_JFCDaZ0Gg5jy-erZ0yTXXxgts8e-c/s320/terror_real.png"
+heroImage: "/images/terror_real.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGuUoZqwOsXECqrUKorU1B4Waap8L3Rg4bHW2RtqECZ9H2On9pjlP_V922yLoUZtrkeyLolV2w9CwQ-V4u9yyMbyaMnlgwqQn5Qmy5hFlxxA3RV_JFCDaZ0Gg5jy-erZ0yTXXxgts8e-c/s1600/terror_real.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGuUoZqwOsXECqrUKorU1B4Waap8L3Rg4bHW2RtqECZ9H2On9pjlP_V922yLoUZtrkeyLolV2w9CwQ-V4u9yyMbyaMnlgwqQn5Qmy5hFlxxA3RV_JFCDaZ0Gg5jy-erZ0yTXXxgts8e-c/s320/terror_real.png" width="320" height="289" data-original-width="503" data-original-height="454" /></a></div>

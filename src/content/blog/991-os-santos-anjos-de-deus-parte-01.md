@@ -1,7 +1,7 @@
 ---
 title: "Os Santos Anjos de Deus - parte 01"
 date: 2017-09-29T14:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3q0_wSa_Ck_9q1rBF_Q-MNidH9FtyvmOv3M95RvrxhpRgq51uov-g66PuISsPugRAhpxDbFn2czXThCHdTglqLpABKlsNiXp0JBEbK-R-LaTYgme3kWRmCdE6vYFKzLcTPlnrJXtml0/s320/anjos.png"
+heroImage: "/images/anjos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3q0_wSa_Ck_9q1rBF_Q-MNidH9FtyvmOv3M95RvrxhpRgq51uov-g66PuISsPugRAhpxDbFn2czXThCHdTglqLpABKlsNiXp0JBEbK-R-LaTYgme3kWRmCdE6vYFKzLcTPlnrJXtml0/s1600/anjos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="377" data-original-width="357" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3q0_wSa_Ck_9q1rBF_Q-MNidH9FtyvmOv3M95RvrxhpRgq51uov-g66PuISsPugRAhpxDbFn2czXThCHdTglqLpABKlsNiXp0JBEbK-R-LaTYgme3kWRmCdE6vYFKzLcTPlnrJXtml0/s320/anjos.png" width="303" /></a></div>

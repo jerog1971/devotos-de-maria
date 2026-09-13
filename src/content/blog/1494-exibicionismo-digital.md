@@ -1,7 +1,7 @@
 ---
 title: "Exibicionismo Digital"
 date: 2018-06-07T16:45:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFPpugYBM4EsfMtmvuAz0tRGR8D_iXEEQB8CsvE3dsKD0anFVL6sb2qwGWwi2qkKbo-uGQvZSMhEPF3vZ5kVlH8yVyOl7ML-c-uFt9LAqjmbr6CDO3dAzqqzxB8cNDRx5AzvAs3y31QLQ/s320/exibicionismo.png"
+heroImage: "/images/exibicionismo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFPpugYBM4EsfMtmvuAz0tRGR8D_iXEEQB8CsvE3dsKD0anFVL6sb2qwGWwi2qkKbo-uGQvZSMhEPF3vZ5kVlH8yVyOl7ML-c-uFt9LAqjmbr6CDO3dAzqqzxB8cNDRx5AzvAs3y31QLQ/s1600/exibicionismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFPpugYBM4EsfMtmvuAz0tRGR8D_iXEEQB8CsvE3dsKD0anFVL6sb2qwGWwi2qkKbo-uGQvZSMhEPF3vZ5kVlH8yVyOl7ML-c-uFt9LAqjmbr6CDO3dAzqqzxB8cNDRx5AzvAs3y31QLQ/s320/exibicionismo.png" width="320" height="312" data-original-width="604" data-original-height="588" /></a></div>

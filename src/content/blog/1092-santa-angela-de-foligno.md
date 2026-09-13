@@ -1,7 +1,7 @@
 ---
 title: "Santa Angela de Foligno"
 date: 2019-02-04T14:28:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDt67_ADY3Mss5TUDnKG6JHyWwGg8etsG0VQZvHoAbTRLKQwqC3ZgyZ67T_GG0XtBySn4PHJBCbv8Pkn94_j637cPj-R2CdmbZWSD0AtoidJQv4xv5ppC_HL7Xe22y-1fCUCO6zCTN1c/s320/santa_angela_de_foligno.png"
+heroImage: "/images/santa_angela_de_foligno.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDt67_ADY3Mss5TUDnKG6JHyWwGg8etsG0VQZvHoAbTRLKQwqC3ZgyZ67T_GG0XtBySn4PHJBCbv8Pkn94_j637cPj-R2CdmbZWSD0AtoidJQv4xv5ppC_HL7Xe22y-1fCUCO6zCTN1c/s1600/santa_angela_de_foligno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicDt67_ADY3Mss5TUDnKG6JHyWwGg8etsG0VQZvHoAbTRLKQwqC3ZgyZ67T_GG0XtBySn4PHJBCbv8Pkn94_j637cPj-R2CdmbZWSD0AtoidJQv4xv5ppC_HL7Xe22y-1fCUCO6zCTN1c/s320/santa_angela_de_foligno.png" width="320" height="320" data-original-width="294" data-original-height="294" /></a></div>

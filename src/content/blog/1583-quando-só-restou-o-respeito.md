@@ -1,7 +1,7 @@
 ---
 title: "Quando só restou o \"respeito\""
 date: 2016-08-10T14:36:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGmX6ub9noBIWgLX8NepO6z-btlgJp119Shz5A97ERkI-C9ZX5pQolqwMWDUL9vgKN4Fa-8uYuSGd0IzYvEXR4htHVg94SUoQWU9mewnBU1xy1fkq3ykijLKhidwwz0b5OxKoONifkWA/s320/respeito.png"
+heroImage: "/images/cuidado com o desrespeito.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGmX6ub9noBIWgLX8NepO6z-btlgJp119Shz5A97ERkI-C9ZX5pQolqwMWDUL9vgKN4Fa-8uYuSGd0IzYvEXR4htHVg94SUoQWU9mewnBU1xy1fkq3ykijLKhidwwz0b5OxKoONifkWA/s1600/respeito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGmX6ub9noBIWgLX8NepO6z-btlgJp119Shz5A97ERkI-C9ZX5pQolqwMWDUL9vgKN4Fa-8uYuSGd0IzYvEXR4htHVg94SUoQWU9mewnBU1xy1fkq3ykijLKhidwwz0b5OxKoONifkWA/s320/respeito.png" width="320" height="313" data-original-width="370" data-original-height="362" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Que bom que existem os escolhidos"
 date: 2020-04-16T16:30:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjusysMnVCH6PUTYhg5o7ucF4wIBJoBKUDovzo187qtEgghDN5R1EhfqPnKqPq4_04chfowyom6aX5nfENMXYwvHoMST8-RmA6pjFAXLUSrixtSrETwirjWKrQt16YKqH17uJj0yYVY8Xk/s320/escolhidos.png"
+heroImage: "/images/escolhidos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjusysMnVCH6PUTYhg5o7ucF4wIBJoBKUDovzo187qtEgghDN5R1EhfqPnKqPq4_04chfowyom6aX5nfENMXYwvHoMST8-RmA6pjFAXLUSrixtSrETwirjWKrQt16YKqH17uJj0yYVY8Xk/s1600/escolhidos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjusysMnVCH6PUTYhg5o7ucF4wIBJoBKUDovzo187qtEgghDN5R1EhfqPnKqPq4_04chfowyom6aX5nfENMXYwvHoMST8-RmA6pjFAXLUSrixtSrETwirjWKrQt16YKqH17uJj0yYVY8Xk/s320/escolhidos.png" width="320" height="308" data-original-width="291" data-original-height="280" /></a></div>

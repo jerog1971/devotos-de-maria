@@ -1,7 +1,7 @@
 ---
 title: "E a maternidade?"
 date: 2016-08-24T14:11:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNm55bOSwMsj3-F-2tK7sEEV64ejFRYlnt_LP8IXPBgV66J70FZUwLXS2bhLpsiCuiHdE7NEGD6saFzYdJXY0A8791kPtcscWfmQAhiTJAKz66s7SjiM9svkc7T1tW6A4QFXk88lriX0/s320/Renata_Cerqueira.png"
+heroImage: "/images/Renata_Cerqueira.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNm55bOSwMsj3-F-2tK7sEEV64ejFRYlnt_LP8IXPBgV66J70FZUwLXS2bhLpsiCuiHdE7NEGD6saFzYdJXY0A8791kPtcscWfmQAhiTJAKz66s7SjiM9svkc7T1tW6A4QFXk88lriX0/s1600/Renata_Cerqueira.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNm55bOSwMsj3-F-2tK7sEEV64ejFRYlnt_LP8IXPBgV66J70FZUwLXS2bhLpsiCuiHdE7NEGD6saFzYdJXY0A8791kPtcscWfmQAhiTJAKz66s7SjiM9svkc7T1tW6A4QFXk88lriX0/s320/Renata_Cerqueira.png" width="320" height="306" data-original-width="290" data-original-height="277" /></a></div>

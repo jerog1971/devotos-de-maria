@@ -1,7 +1,7 @@
 ---
 title: "O comportamento"
 date: 2016-11-07T14:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh53-EM8f99AwpH2KV4VuPoYb7wZrrnj3gYVS2wW3tvJfljsZarXYiW2eKWMoLGTiNxbfpkWlTad51qp8AVZjWU8DsrSfDZ2kSfvqn7lI4iC5otN8GeBMUukGDoMV7XIHpILkHehrHyU-w/s320/comportamento.png"
+heroImage: "/images/comportamento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh53-EM8f99AwpH2KV4VuPoYb7wZrrnj3gYVS2wW3tvJfljsZarXYiW2eKWMoLGTiNxbfpkWlTad51qp8AVZjWU8DsrSfDZ2kSfvqn7lI4iC5otN8GeBMUukGDoMV7XIHpILkHehrHyU-w/s1600/comportamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh53-EM8f99AwpH2KV4VuPoYb7wZrrnj3gYVS2wW3tvJfljsZarXYiW2eKWMoLGTiNxbfpkWlTad51qp8AVZjWU8DsrSfDZ2kSfvqn7lI4iC5otN8GeBMUukGDoMV7XIHpILkHehrHyU-w/s320/comportamento.png" width="320" height="236" data-original-width="222" data-original-height="164" /></a></div>

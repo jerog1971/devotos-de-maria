@@ -1,7 +1,7 @@
 ---
 title: "Obediência, sujeição e conversas supérfluas"
 date: 2020-06-12T17:01:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfotP_2qV9-HkhSbvCt7qULoIwbNZNGwW59jW44t0d-eJrItR2Adxq1aGLlfPnzDjX5yx2jQhcd5vdnGjH4fojn5rYqS4r5F0ApFsFEQcFvkwRIaxAQMrbNV-gNq3mrZY7DcZYQjDIVnA/s320/minimizar.png"
+heroImage: "/images/minimizar.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfotP_2qV9-HkhSbvCt7qULoIwbNZNGwW59jW44t0d-eJrItR2Adxq1aGLlfPnzDjX5yx2jQhcd5vdnGjH4fojn5rYqS4r5F0ApFsFEQcFvkwRIaxAQMrbNV-gNq3mrZY7DcZYQjDIVnA/s615/minimizar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="615" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfotP_2qV9-HkhSbvCt7qULoIwbNZNGwW59jW44t0d-eJrItR2Adxq1aGLlfPnzDjX5yx2jQhcd5vdnGjH4fojn5rYqS4r5F0ApFsFEQcFvkwRIaxAQMrbNV-gNq3mrZY7DcZYQjDIVnA/s320/minimizar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Grande coisa é viver na obediência, sob a direção de um

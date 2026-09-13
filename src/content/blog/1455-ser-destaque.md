@@ -1,7 +1,7 @@
 ---
 title: "Ser destaque"
 date: 2024-05-27T18:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqQXADzgtztm5EYorLjNH7weaXOltFo5ZDgCj9MRRt2MFaaglHpWPSkVkhKUKhaum7fKpToC7Kt0-Mar1ziP3xTZ_MlDvvuTQXeMc_v7M0gtYEen7Ii96LgEDP2DZM5ROvhJn0GAlTg_h-oEHW_tV9zfqn4NzAGMAAvJIpc-VqbbQlLkb-IKUypD1XNNw/s320/ser%20destaque.jpg"
+heroImage: "/images/ser destaque.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqQXADzgtztm5EYorLjNH7weaXOltFo5ZDgCj9MRRt2MFaaglHpWPSkVkhKUKhaum7fKpToC7Kt0-Mar1ziP3xTZ_MlDvvuTQXeMc_v7M0gtYEen7Ii96LgEDP2DZM5ROvhJn0GAlTg_h-oEHW_tV9zfqn4NzAGMAAvJIpc-VqbbQlLkb-IKUypD1XNNw/s1632/ser%20destaque.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqQXADzgtztm5EYorLjNH7weaXOltFo5ZDgCj9MRRt2MFaaglHpWPSkVkhKUKhaum7fKpToC7Kt0-Mar1ziP3xTZ_MlDvvuTQXeMc_v7M0gtYEen7Ii96LgEDP2DZM5ROvhJn0GAlTg_h-oEHW_tV9zfqn4NzAGMAAvJIpc-VqbbQlLkb-IKUypD1XNNw/s320/ser%20destaque.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas vezes a sociedade em que vivemos elege pessoas de

@@ -1,7 +1,7 @@
 ---
 title: "Igrejas Católicas de Rito Oriental"
 date: 2016-01-15T11:18:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LV62E9B3Mlcov0Tuzmal64tRkvK3dLkPCJFLLp1xcWFmup729vQOumviKTF0TitQ6ee_0_oM03WQnXYtmhwSr7N8q38cgCX2VAbUTjiDJci3S8IXQQqP88sweMKGVtfZUa0is3lPMVU/s320/oriental.png"
+heroImage: "/images/oriental.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LV62E9B3Mlcov0Tuzmal64tRkvK3dLkPCJFLLp1xcWFmup729vQOumviKTF0TitQ6ee_0_oM03WQnXYtmhwSr7N8q38cgCX2VAbUTjiDJci3S8IXQQqP88sweMKGVtfZUa0is3lPMVU/s1600/oriental.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LV62E9B3Mlcov0Tuzmal64tRkvK3dLkPCJFLLp1xcWFmup729vQOumviKTF0TitQ6ee_0_oM03WQnXYtmhwSr7N8q38cgCX2VAbUTjiDJci3S8IXQQqP88sweMKGVtfZUa0is3lPMVU/s320/oriental.png" width="320" height="196" data-original-width="394" data-original-height="241" /></a></div>

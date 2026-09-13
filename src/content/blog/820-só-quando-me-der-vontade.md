@@ -1,7 +1,7 @@
 ---
 title: "Só quando me der vontade"
 date: 2016-10-11T14:26:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNZtYr49mV25EASbgfViiq3lTUZsrcob5ZkvvoR_l59U-tfebfQrCwCv4bxM2fAqowYKG_-weaL84x3qSSNixcXItNIOT9oBUdBVFr-kLzMDCE09AzK9HoeMZs1r3HthYXWGd2MKrUuY/s320/sem_vontade.png"
+heroImage: "/images/sem_vontade.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNZtYr49mV25EASbgfViiq3lTUZsrcob5ZkvvoR_l59U-tfebfQrCwCv4bxM2fAqowYKG_-weaL84x3qSSNixcXItNIOT9oBUdBVFr-kLzMDCE09AzK9HoeMZs1r3HthYXWGd2MKrUuY/s1600/sem_vontade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNZtYr49mV25EASbgfViiq3lTUZsrcob5ZkvvoR_l59U-tfebfQrCwCv4bxM2fAqowYKG_-weaL84x3qSSNixcXItNIOT9oBUdBVFr-kLzMDCE09AzK9HoeMZs1r3HthYXWGd2MKrUuY/s320/sem_vontade.png" width="320" height="275" data-original-width="451" data-original-height="387" /></a></div>

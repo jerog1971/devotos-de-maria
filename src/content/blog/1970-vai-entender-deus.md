@@ -1,7 +1,7 @@
 ---
 title: "Vai entender Deus"
 date: 2019-05-31T17:41:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbFu5w3zLJYd2Id4FNup9nSZe9_sOeq5Qn8UwgwLwT0-Bm5Jkd4zrVmxMeH2HvbUKBZfLTQ2zsKPIJvYXvq_-4UXOl5mxdfvH76q5jrW9PKiEuLJbzEbxQO83xh7w51bfJWwNaKg9Bjk/s320/dores_da_vida.png"
+heroImage: "/images/dores_da_vida.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbFu5w3zLJYd2Id4FNup9nSZe9_sOeq5Qn8UwgwLwT0-Bm5Jkd4zrVmxMeH2HvbUKBZfLTQ2zsKPIJvYXvq_-4UXOl5mxdfvH76q5jrW9PKiEuLJbzEbxQO83xh7w51bfJWwNaKg9Bjk/s1600/dores_da_vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbFu5w3zLJYd2Id4FNup9nSZe9_sOeq5Qn8UwgwLwT0-Bm5Jkd4zrVmxMeH2HvbUKBZfLTQ2zsKPIJvYXvq_-4UXOl5mxdfvH76q5jrW9PKiEuLJbzEbxQO83xh7w51bfJWwNaKg9Bjk/s320/dores_da_vida.png" width="320" height="269" data-original-width="567" data-original-height="476" /></a></div>

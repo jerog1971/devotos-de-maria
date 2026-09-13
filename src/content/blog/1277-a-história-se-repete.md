@@ -1,7 +1,7 @@
 ---
 title: "A história se repete"
 date: 2019-03-07T15:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEindLzq8y3NWPRYRzVMizSRAVGfQbqEFLam1PUhilV8G2DDvaGccHh80YAuof9cJTkPgsLxFdUIe9N70631W-Yc0l5ZGvd83mPRQkIQLUlHS1eArR4BuM3bPcJObMLvKNc53zx9-TS7m1E/s320/Jesus_x_diabo.png"
+heroImage: "/images/Jesus_x_diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEindLzq8y3NWPRYRzVMizSRAVGfQbqEFLam1PUhilV8G2DDvaGccHh80YAuof9cJTkPgsLxFdUIe9N70631W-Yc0l5ZGvd83mPRQkIQLUlHS1eArR4BuM3bPcJObMLvKNc53zx9-TS7m1E/s1600/Jesus_x_diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEindLzq8y3NWPRYRzVMizSRAVGfQbqEFLam1PUhilV8G2DDvaGccHh80YAuof9cJTkPgsLxFdUIe9N70631W-Yc0l5ZGvd83mPRQkIQLUlHS1eArR4BuM3bPcJObMLvKNc53zx9-TS7m1E/s320/Jesus_x_diabo.png" width="320" height="320" data-original-width="302" data-original-height="302" /></a></div>

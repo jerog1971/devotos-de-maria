@@ -1,7 +1,7 @@
 ---
 title: "Os Santos Anjos de Deus - parte 03"
 date: 2017-09-29T14:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Go96hz_cnUStZCDgix1z_kiqJNsYIRlnI2bMzPqmatyTyctzzbIcvaRKERh_JrHDhRRiQu5Xk5CVcBfQ3qdB9yg5yZYgfASUlkprKS4J4D5LWHnAmnBWQ7bRW40RbGjgqBm_tCTy8Q8/s320/anjo_da_guarda.png"
+heroImage: "/images/anjo_da_guarda.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Go96hz_cnUStZCDgix1z_kiqJNsYIRlnI2bMzPqmatyTyctzzbIcvaRKERh_JrHDhRRiQu5Xk5CVcBfQ3qdB9yg5yZYgfASUlkprKS4J4D5LWHnAmnBWQ7bRW40RbGjgqBm_tCTy8Q8/s1600/anjo_da_guarda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Go96hz_cnUStZCDgix1z_kiqJNsYIRlnI2bMzPqmatyTyctzzbIcvaRKERh_JrHDhRRiQu5Xk5CVcBfQ3qdB9yg5yZYgfASUlkprKS4J4D5LWHnAmnBWQ7bRW40RbGjgqBm_tCTy8Q8/s320/anjo_da_guarda.png" width="320" height="239" data-original-width="829" data-original-height="619" /></a></div>

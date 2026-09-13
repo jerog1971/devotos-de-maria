@@ -1,7 +1,7 @@
 ---
 title: "O dinheiro no lugar de Deus"
 date: 2017-02-09T10:44:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1s9OXgkJcABFbdSxJ_MoWaw8lZWPu6j38np71gcaBsxuVFazmV9QM-LyjX-eaMkTSsBK9Y0FYuOsMkQpSWJBn9NsxiTcz6DhHw0CCfq_KHyozOrEfoYaZdOLb9qeaFey6WgrSPBU48A/s320/problemas.png"
+heroImage: "/images/eu e os problemas.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1s9OXgkJcABFbdSxJ_MoWaw8lZWPu6j38np71gcaBsxuVFazmV9QM-LyjX-eaMkTSsBK9Y0FYuOsMkQpSWJBn9NsxiTcz6DhHw0CCfq_KHyozOrEfoYaZdOLb9qeaFey6WgrSPBU48A/s1600/problemas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1s9OXgkJcABFbdSxJ_MoWaw8lZWPu6j38np71gcaBsxuVFazmV9QM-LyjX-eaMkTSsBK9Y0FYuOsMkQpSWJBn9NsxiTcz6DhHw0CCfq_KHyozOrEfoYaZdOLb9qeaFey6WgrSPBU48A/s320/problemas.png" width="320" height="287" data-original-width="318" data-original-height="285" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Francisco cometeu um erro"
 date: 2018-01-19T17:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEubSw1lDkuTfUr5K8eegrmrKAJdPOBgy1yI0jWVXj69xOymyL5XHwbnzEX2ExAWrHxhIDeoxsDBHy_8r8WhOGnbh3PtN-Rzwmp5WYQCoZZcuIxUL3WCR4nruOYWJ2KTeA0ttyOh81u5M/s320/Murray.png"
+heroImage: "/images/Murray.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEubSw1lDkuTfUr5K8eegrmrKAJdPOBgy1yI0jWVXj69xOymyL5XHwbnzEX2ExAWrHxhIDeoxsDBHy_8r8WhOGnbh3PtN-Rzwmp5WYQCoZZcuIxUL3WCR4nruOYWJ2KTeA0ttyOh81u5M/s1600/Murray.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEubSw1lDkuTfUr5K8eegrmrKAJdPOBgy1yI0jWVXj69xOymyL5XHwbnzEX2ExAWrHxhIDeoxsDBHy_8r8WhOGnbh3PtN-Rzwmp5WYQCoZZcuIxUL3WCR4nruOYWJ2KTeA0ttyOh81u5M/s320/Murray.png" width="320" height="313" data-original-width="275" data-original-height="269" /></a></div>

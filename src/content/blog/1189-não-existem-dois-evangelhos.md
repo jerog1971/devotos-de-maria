@@ -1,7 +1,7 @@
 ---
 title: "Não existem dois evangelhos"
 date: 2016-05-10T16:01:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTa-4GH3yYoSmoELyLxf6r2arRpthC2plGjg6YXjCyrkE_55Rd-5G9lf86l6DWtXeuFqOFRnBEllPGzkmA9tJXIIpNLuGuFATtgmhgyY39SEWQt7t7Mo6wqPBtH_ZwzPMtYkWxQ1iMbc/s320/dois_evangelhos.png"
+heroImage: "/images/dois_evangelhos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTa-4GH3yYoSmoELyLxf6r2arRpthC2plGjg6YXjCyrkE_55Rd-5G9lf86l6DWtXeuFqOFRnBEllPGzkmA9tJXIIpNLuGuFATtgmhgyY39SEWQt7t7Mo6wqPBtH_ZwzPMtYkWxQ1iMbc/s1600/dois_evangelhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTa-4GH3yYoSmoELyLxf6r2arRpthC2plGjg6YXjCyrkE_55Rd-5G9lf86l6DWtXeuFqOFRnBEllPGzkmA9tJXIIpNLuGuFATtgmhgyY39SEWQt7t7Mo6wqPBtH_ZwzPMtYkWxQ1iMbc/s320/dois_evangelhos.png" width="320" height="171" data-original-width="433" data-original-height="231" /></a></div>

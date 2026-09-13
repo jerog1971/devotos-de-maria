@@ -1,7 +1,7 @@
 ---
 title: "A confiança em Deus"
 date: 2020-04-04T13:36:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9Iof4T_b_UfBR9qpxm99P6AgiTCg7e9EUgk2RyBGTFOiu-GjVMzfTiPXBpuFEGulNL8FhykoJ1Inv6UzEHDmGApikZ0BzL7qjXHt4Z7OzGbdTFPvyaI7b_YrWJ5TU58UUh8b-mOdHdw/s320/barco.png"
+heroImage: "/images/barco.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9Iof4T_b_UfBR9qpxm99P6AgiTCg7e9EUgk2RyBGTFOiu-GjVMzfTiPXBpuFEGulNL8FhykoJ1Inv6UzEHDmGApikZ0BzL7qjXHt4Z7OzGbdTFPvyaI7b_YrWJ5TU58UUh8b-mOdHdw/s1600/barco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9Iof4T_b_UfBR9qpxm99P6AgiTCg7e9EUgk2RyBGTFOiu-GjVMzfTiPXBpuFEGulNL8FhykoJ1Inv6UzEHDmGApikZ0BzL7qjXHt4Z7OzGbdTFPvyaI7b_YrWJ5TU58UUh8b-mOdHdw/s320/barco.png" width="242" height="320" data-original-width="297" data-original-height="393" /></a></div>

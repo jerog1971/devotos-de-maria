@@ -1,7 +1,7 @@
 ---
 title: "Deus quer que soframos"
 date: 2017-08-10T14:20:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSgufOBB-VGGJhOCrPhFuCe6_eM1Rpx5Wjgdt0hcPpMgUuZWwy3IGikUp91GbqJqYl9MEAZm8ARHSSYW7upzXkzEb5d2MtpQsL6A2sclrskddr6hBmPZ2fUU9kb0kuTcWxPnvYAlH-h54/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSgufOBB-VGGJhOCrPhFuCe6_eM1Rpx5Wjgdt0hcPpMgUuZWwy3IGikUp91GbqJqYl9MEAZm8ARHSSYW7upzXkzEb5d2MtpQsL6A2sclrskddr6hBmPZ2fUU9kb0kuTcWxPnvYAlH-h54/s1600/sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSgufOBB-VGGJhOCrPhFuCe6_eM1Rpx5Wjgdt0hcPpMgUuZWwy3IGikUp91GbqJqYl9MEAZm8ARHSSYW7upzXkzEb5d2MtpQsL6A2sclrskddr6hBmPZ2fUU9kb0kuTcWxPnvYAlH-h54/s320/sofrimento.png" width="320" height="308" data-original-width="408" data-original-height="393" /></a></div>

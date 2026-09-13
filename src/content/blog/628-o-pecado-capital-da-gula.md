@@ -1,7 +1,7 @@
 ---
 title: "O pecado capital da Gula"
 date: 2017-11-01T13:16:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie-WV0wROn4XDI0Bk4fE2xru_xAlbhrGIVOlDXyKnIm-QBrKQMHIb5WEPLv26w7OTVi4_OSYwYNAycBOi8ZfyAElWPlWjuUCMM5D1XzW6Cj452GQqdDO1FCPumTe-M0aSDDYndIxDYnT8/s320/gula.png"
+heroImage: "/images/gula.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie-WV0wROn4XDI0Bk4fE2xru_xAlbhrGIVOlDXyKnIm-QBrKQMHIb5WEPLv26w7OTVi4_OSYwYNAycBOi8ZfyAElWPlWjuUCMM5D1XzW6Cj452GQqdDO1FCPumTe-M0aSDDYndIxDYnT8/s1600/gula.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="373" data-original-width="395" height="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie-WV0wROn4XDI0Bk4fE2xru_xAlbhrGIVOlDXyKnIm-QBrKQMHIb5WEPLv26w7OTVi4_OSYwYNAycBOi8ZfyAElWPlWjuUCMM5D1XzW6Cj452GQqdDO1FCPumTe-M0aSDDYndIxDYnT8/s320/gula.png" width="320" /></a></div>

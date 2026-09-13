@@ -1,7 +1,7 @@
 ---
 title: "Confessemos os nossos pecados"
 date: 2016-02-24T19:17:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy43Bz7Ocu5aK47GblhUR844dhvNJxqrg2RrvqUV3t0awmMC7QLoBMyt1_kthJOcWtHRAxNrSc8KRVx63-xYf8BljPmnNuQCXKXTQqFpj8CRk5V1V9ZUbyAuiRnyqcJRB-rDPG3BGFc3Q/s320/confessar.png"
+heroImage: "/images/confessar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy43Bz7Ocu5aK47GblhUR844dhvNJxqrg2RrvqUV3t0awmMC7QLoBMyt1_kthJOcWtHRAxNrSc8KRVx63-xYf8BljPmnNuQCXKXTQqFpj8CRk5V1V9ZUbyAuiRnyqcJRB-rDPG3BGFc3Q/s1600/confessar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="467" height="226" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy43Bz7Ocu5aK47GblhUR844dhvNJxqrg2RrvqUV3t0awmMC7QLoBMyt1_kthJOcWtHRAxNrSc8KRVx63-xYf8BljPmnNuQCXKXTQqFpj8CRk5V1V9ZUbyAuiRnyqcJRB-rDPG3BGFc3Q/s320/confessar.png" width="320" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Hoje em mais uma participação minha na santa missa do meio-dia, aqui próximo do local onde trabalho. Pude testemunhar a densa procura dos fiéis pelo sacramento da confissão antes e durante a celebração da santa missa.

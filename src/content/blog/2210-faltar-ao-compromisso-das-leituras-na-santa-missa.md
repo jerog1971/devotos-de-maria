@@ -1,7 +1,7 @@
 ---
 title: "Faltar ao compromisso das leituras na santa missa"
 date: 2016-12-27T11:18:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqkQuRQi2sQM2jMGUbNomWBHyqEhs5by5B6np7Ebw4ciSIhyH_UwARsh4suw5DaiNrZurBt87fufw7ILWthbSThanlI78g_6McZbqifD4_jWC3Q1SN26lbQqxQ9zxF8USfIJ3Q9wSvfFE/s320/leitura.png"
+heroImage: "/images/leitura.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqkQuRQi2sQM2jMGUbNomWBHyqEhs5by5B6np7Ebw4ciSIhyH_UwARsh4suw5DaiNrZurBt87fufw7ILWthbSThanlI78g_6McZbqifD4_jWC3Q1SN26lbQqxQ9zxF8USfIJ3Q9wSvfFE/s1600/leitura.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="517" data-original-width="552" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqkQuRQi2sQM2jMGUbNomWBHyqEhs5by5B6np7Ebw4ciSIhyH_UwARsh4suw5DaiNrZurBt87fufw7ILWthbSThanlI78g_6McZbqifD4_jWC3Q1SN26lbQqxQ9zxF8USfIJ3Q9wSvfFE/s320/leitura.png" width="320" /></a></div>

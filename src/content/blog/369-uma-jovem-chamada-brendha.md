@@ -1,7 +1,7 @@
 ---
 title: "Uma Jovem chamada Brendha"
 date: 2017-09-29T19:13:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA_55zGsFRskB5p8J9PjbP6mbyGhMnaJLTRgj6m1lZp60__lL8vk_lWUYry_uQHHyl4RNnwOOcym8Ic81jVEILK3CGvcXet536_XH12erd5h8suMf1c6OT0h-HJfkXhDmrO-D0AycnUYQ/s320/brenda.png"
+heroImage: "/images/brenda.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA_55zGsFRskB5p8J9PjbP6mbyGhMnaJLTRgj6m1lZp60__lL8vk_lWUYry_uQHHyl4RNnwOOcym8Ic81jVEILK3CGvcXet536_XH12erd5h8suMf1c6OT0h-HJfkXhDmrO-D0AycnUYQ/s1600/brenda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA_55zGsFRskB5p8J9PjbP6mbyGhMnaJLTRgj6m1lZp60__lL8vk_lWUYry_uQHHyl4RNnwOOcym8Ic81jVEILK3CGvcXet536_XH12erd5h8suMf1c6OT0h-HJfkXhDmrO-D0AycnUYQ/s320/brenda.png" width="310" height="320" data-original-width="477" data-original-height="493" /></a></div>

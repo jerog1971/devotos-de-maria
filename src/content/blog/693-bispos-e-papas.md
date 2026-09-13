@@ -1,7 +1,7 @@
 ---
 title: "Bispos e Papas"
 date: 2020-03-17T16:25:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia9y7CxJuh1E8Y7lpdKXDoWqmGVt8CSIdaHPo-vCwChV5yj9EDER62fsVAYcwZaLQEziRkvUTZ0Wlu-1tRxo2fic32aLBw5OYQVs8v3ZT1D0zG9ioMd-JAJNWVNE1hysGnm9FoO2UtXYk/s320/francisco_e_peruzzo_hereges.png"
+heroImage: "/images/francisco_e_peruzzo_hereges.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia9y7CxJuh1E8Y7lpdKXDoWqmGVt8CSIdaHPo-vCwChV5yj9EDER62fsVAYcwZaLQEziRkvUTZ0Wlu-1tRxo2fic32aLBw5OYQVs8v3ZT1D0zG9ioMd-JAJNWVNE1hysGnm9FoO2UtXYk/s1600/francisco_e_peruzzo_hereges.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia9y7CxJuh1E8Y7lpdKXDoWqmGVt8CSIdaHPo-vCwChV5yj9EDER62fsVAYcwZaLQEziRkvUTZ0Wlu-1tRxo2fic32aLBw5OYQVs8v3ZT1D0zG9ioMd-JAJNWVNE1hysGnm9FoO2UtXYk/s320/francisco_e_peruzzo_hereges.png" width="320" height="280" data-original-width="550" data-original-height="481" /></a></div>

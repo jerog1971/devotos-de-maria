@@ -1,7 +1,7 @@
 ---
 title: "Onde andam seus merecimentos?"
 date: 2020-11-06T14:48:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNvoRcUAfAxR_H2tVoMyGP5xsGIfGblKoEy1W0YGdwChBlIBClA8BpK_5JzDmFeNnRxLkuEBMU11QNX3LusLARy4Zy8n-oDZqdd55HKVT1fPOOmcRrIRvP5OMSPorXyAhuTN98Gw4t_U8/s320/pensando.png"
+heroImage: "/images/pensando.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNvoRcUAfAxR_H2tVoMyGP5xsGIfGblKoEy1W0YGdwChBlIBClA8BpK_5JzDmFeNnRxLkuEBMU11QNX3LusLARy4Zy8n-oDZqdd55HKVT1fPOOmcRrIRvP5OMSPorXyAhuTN98Gw4t_U8/s449/pensando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="449" data-original-width="413" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNvoRcUAfAxR_H2tVoMyGP5xsGIfGblKoEy1W0YGdwChBlIBClA8BpK_5JzDmFeNnRxLkuEBMU11QNX3LusLARy4Zy8n-oDZqdd55HKVT1fPOOmcRrIRvP5OMSPorXyAhuTN98Gw4t_U8/s320/pensando.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eis aí um grande dilema que tenta a muitos, senão a todos. A

@@ -1,7 +1,7 @@
 ---
 title: "Exorcismo sobre cidade da Itália"
 date: 2015-08-20T20:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLfGw9EOkNO6o4_sdtcnlBKw3bw3DiLDMAd2aRJlZkHibBzE_HxiqcPsENXUDMJptxo779w95ZkyFoZf7IX57p_z2zi8JAqnua43Dhyphenhyphen0H0wY6urRa11dNY0JPGsiN2r7Bts5NXZdpseFs/s320/heli.png"
+heroImage: "/images/heli.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLfGw9EOkNO6o4_sdtcnlBKw3bw3DiLDMAd2aRJlZkHibBzE_HxiqcPsENXUDMJptxo779w95ZkyFoZf7IX57p_z2zi8JAqnua43Dhyphenhyphen0H0wY6urRa11dNY0JPGsiN2r7Bts5NXZdpseFs/s1600/heli.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLfGw9EOkNO6o4_sdtcnlBKw3bw3DiLDMAd2aRJlZkHibBzE_HxiqcPsENXUDMJptxo779w95ZkyFoZf7IX57p_z2zi8JAqnua43Dhyphenhyphen0H0wY6urRa11dNY0JPGsiN2r7Bts5NXZdpseFs/s320/heli.png" width="320" height="272" data-original-width="415" data-original-height="353" /></a></div>

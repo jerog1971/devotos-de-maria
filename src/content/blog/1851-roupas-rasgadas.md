@@ -1,7 +1,7 @@
 ---
 title: "Roupas rasgadas?"
 date: 2017-11-28T19:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9N7jHSABt_rgKtv2YFNoBjnerKwm7GhP6Ydnb6gjEj5zXHqabBiz_Z6pEzUTCFBOa1UYYvv6HZTR1k1Wr55Atkhj5vhzujgFlYUuwSwNlX3crJ9hIZjrtGZUIGWJQC9i9-wjHHbu0VU/s320/roupa_rasgada.png"
+heroImage: "/images/roupa_rasgada.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9N7jHSABt_rgKtv2YFNoBjnerKwm7GhP6Ydnb6gjEj5zXHqabBiz_Z6pEzUTCFBOa1UYYvv6HZTR1k1Wr55Atkhj5vhzujgFlYUuwSwNlX3crJ9hIZjrtGZUIGWJQC9i9-wjHHbu0VU/s1600/roupa_rasgada.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="497" data-original-width="493" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9N7jHSABt_rgKtv2YFNoBjnerKwm7GhP6Ydnb6gjEj5zXHqabBiz_Z6pEzUTCFBOa1UYYvv6HZTR1k1Wr55Atkhj5vhzujgFlYUuwSwNlX3crJ9hIZjrtGZUIGWJQC9i9-wjHHbu0VU/s320/roupa_rasgada.png" width="317" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Confinados"
 date: 2020-04-23T20:15:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpNSuJhIdWqgJxxo-qz9HmRFSbXHeBtJ_41tbFlJLu8zCXuDrz2GAixN0NfHYJA0Cj5GkL70RHgDiVt1nhEmz58-WHyAkbNUOYn4oj9SKB0_VBoSbd05jMF-9gKzof-Jn4KgXZ8up2lU/s320/confinados.png"
+heroImage: "/images/confinados.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpNSuJhIdWqgJxxo-qz9HmRFSbXHeBtJ_41tbFlJLu8zCXuDrz2GAixN0NfHYJA0Cj5GkL70RHgDiVt1nhEmz58-WHyAkbNUOYn4oj9SKB0_VBoSbd05jMF-9gKzof-Jn4KgXZ8up2lU/s1600/confinados.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpNSuJhIdWqgJxxo-qz9HmRFSbXHeBtJ_41tbFlJLu8zCXuDrz2GAixN0NfHYJA0Cj5GkL70RHgDiVt1nhEmz58-WHyAkbNUOYn4oj9SKB0_VBoSbd05jMF-9gKzof-Jn4KgXZ8up2lU/s320/confinados.png" width="316" height="320" data-original-width="387" data-original-height="392" /></a></br>

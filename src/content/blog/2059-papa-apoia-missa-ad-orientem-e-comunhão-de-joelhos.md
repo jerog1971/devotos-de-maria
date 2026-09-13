@@ -1,7 +1,7 @@
 ---
 title: "Papa apoia missa 'ad orientem' e comunhão de joelhos"
 date: 2016-07-20T12:42:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPWeXMp_gLQ_WF9EPCu-3aGp82L1auVUCithcVz28KCDTqCHvq6xZEbHw_lQ1m0-u_VCBubMGGR_a6Uz0CAlq9Tv5KXEzn4ctgvwkJJm9RSGqXZz6CymYiGVtTD3kYy9z8LmIkovjml4U/s320/cardeal_sarah.png"
+heroImage: "/images/cardeal_sarah.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPWeXMp_gLQ_WF9EPCu-3aGp82L1auVUCithcVz28KCDTqCHvq6xZEbHw_lQ1m0-u_VCBubMGGR_a6Uz0CAlq9Tv5KXEzn4ctgvwkJJm9RSGqXZz6CymYiGVtTD3kYy9z8LmIkovjml4U/s1600/cardeal_sarah.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPWeXMp_gLQ_WF9EPCu-3aGp82L1auVUCithcVz28KCDTqCHvq6xZEbHw_lQ1m0-u_VCBubMGGR_a6Uz0CAlq9Tv5KXEzn4ctgvwkJJm9RSGqXZz6CymYiGVtTD3kYy9z8LmIkovjml4U/s320/cardeal_sarah.png" width="320" height="264" data-original-width="298" data-original-height="246" /></a></div>

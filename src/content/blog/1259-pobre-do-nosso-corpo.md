@@ -1,7 +1,7 @@
 ---
 title: "Pobre do nosso corpo"
 date: 2017-05-16T13:46:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3tOnwzrnWPWZuTX5odqk1NjC19LGsn_bYQe4CRLBIt_EH4j17u5fwg7su4768vM6MXWSEU6ZtiVeOt4tvY72W0OsyJOvu1I7tLJD_XOa2KQbkkg98Z5hskJtGXumwUl4x5kAa2p3IQg4/s320/tatto.png"
+heroImage: "/images/tatto.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3tOnwzrnWPWZuTX5odqk1NjC19LGsn_bYQe4CRLBIt_EH4j17u5fwg7su4768vM6MXWSEU6ZtiVeOt4tvY72W0OsyJOvu1I7tLJD_XOa2KQbkkg98Z5hskJtGXumwUl4x5kAa2p3IQg4/s1600/tatto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3tOnwzrnWPWZuTX5odqk1NjC19LGsn_bYQe4CRLBIt_EH4j17u5fwg7su4768vM6MXWSEU6ZtiVeOt4tvY72W0OsyJOvu1I7tLJD_XOa2KQbkkg98Z5hskJtGXumwUl4x5kAa2p3IQg4/s320/tatto.png" width="294" height="320" data-original-width="496" data-original-height="539" /></a></div>

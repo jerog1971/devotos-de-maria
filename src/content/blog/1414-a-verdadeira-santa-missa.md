@@ -1,7 +1,7 @@
 ---
 title: "A Verdadeira Santa Missa"
 date: 2015-03-03T20:37:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyaulKn-wtzl5tmOODcDrVXkMv9t1Wt75COBiR1OFw22tC0VHjpgmuMRqpIbzewCbu-cCXdHO8LSYm6Lho85EbKJq4j0pzsjJTXwdLbgGuR42lP6tqscwyrlS514CAYRBtFOvYFaR8u6E/s200/padre_emmanuel.png"
+heroImage: "/images/padre_emmanuel.png"
 ---
 
 Todos nós já passamos pela experiência de participarmos da santa missa e terminarmos com a sensação de que poderia a celebração ter ido adiante, no que se refere a sua plenitude, sua profundidade espiritual nos fazendo mergulhar no mistério de Cristo que se entregou por nós e ali, diante do altar, renova de forma "in cruenta" seu sacrifício por nós.</br>

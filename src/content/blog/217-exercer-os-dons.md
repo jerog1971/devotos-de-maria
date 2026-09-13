@@ -1,7 +1,7 @@
 ---
 title: "Exercer os dons"
 date: 2021-04-29T18:00:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS6XaNhJnjzs-x2pqQzdU_ifVTmsJrJv9PtcPUuRdyohgfiylh8AqmQ6yBQvmXB1aqlpcfFQEdTDx7KF5fijvm6HPsUz6kFUDjPC0__aEK7BbdaLoiksactYtUIOnU1b9ESI0xEfcFd8/s320/exercer+o+dom.png"
+heroImage: "/images/dom.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS6XaNhJnjzs-x2pqQzdU_ifVTmsJrJv9PtcPUuRdyohgfiylh8AqmQ6yBQvmXB1aqlpcfFQEdTDx7KF5fijvm6HPsUz6kFUDjPC0__aEK7BbdaLoiksactYtUIOnU1b9ESI0xEfcFd8/s409/exercer+o+dom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="409" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS6XaNhJnjzs-x2pqQzdU_ifVTmsJrJv9PtcPUuRdyohgfiylh8AqmQ6yBQvmXB1aqlpcfFQEdTDx7KF5fijvm6HPsUz6kFUDjPC0__aEK7BbdaLoiksactYtUIOnU1b9ESI0xEfcFd8/s320/exercer+o+dom.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Na vida a gente tem que fazer o que a gente sabe fazer”. “O

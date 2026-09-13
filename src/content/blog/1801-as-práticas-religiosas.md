@@ -1,7 +1,7 @@
 ---
 title: "As práticas religiosas"
 date: 2020-06-23T14:49:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIXYCn1IpgYoE1naRA6SHfmk0tn4VBX5dmTVw25YxN1t7d4BP-8EuBZOyazdQx5hXeCRQ5e7Xc3Mno0vlZTtm1n2OIGksk9BVifHdEs71eVdx24_7e1n1AoGePuGobgYULqIPVl7FADDM/s320/catolico.png"
+heroImage: "/images/agir_do_catolico.png"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIXYCn1IpgYoE1naRA6SHfmk0tn4VBX5dmTVw25YxN1t7d4BP-8EuBZOyazdQx5hXeCRQ5e7Xc3Mno0vlZTtm1n2OIGksk9BVifHdEs71eVdx24_7e1n1AoGePuGobgYULqIPVl7FADDM/s571/catolico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="519" data-original-width="571" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIXYCn1IpgYoE1naRA6SHfmk0tn4VBX5dmTVw25YxN1t7d4BP-8EuBZOyazdQx5hXeCRQ5e7Xc3Mno0vlZTtm1n2OIGksk9BVifHdEs71eVdx24_7e1n1AoGePuGobgYULqIPVl7FADDM/s320/catolico.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Como sofrem as práticas religiosas; os costumes das atitudes

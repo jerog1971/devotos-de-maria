@@ -1,7 +1,7 @@
 ---
 title: "Fazendo coisas erradas"
 date: 2022-07-17T18:28:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSIwA1dcJkkRMPoSRBBu47SP32SS9VS71nMtvaPvm_IiT4XH_QZtbNfypxvloEIKjdgVNC-fKIhKOMTCiIT6T837CUF_z2TO-vhkmrty6wPQfS-CkUA92flg8RSGpVNFpp_oAtvpAkCWM-w4xe8IIl1YOb1wCTcdO4MyX_hBsrsqJjRwPdXAuTzvho/s320/fazendo%20coisas%20erradas.png"
+heroImage: "/images/fazendo coisas erradas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSIwA1dcJkkRMPoSRBBu47SP32SS9VS71nMtvaPvm_IiT4XH_QZtbNfypxvloEIKjdgVNC-fKIhKOMTCiIT6T837CUF_z2TO-vhkmrty6wPQfS-CkUA92flg8RSGpVNFpp_oAtvpAkCWM-w4xe8IIl1YOb1wCTcdO4MyX_hBsrsqJjRwPdXAuTzvho/s530/fazendo%20coisas%20erradas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="530" height="254" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSIwA1dcJkkRMPoSRBBu47SP32SS9VS71nMtvaPvm_IiT4XH_QZtbNfypxvloEIKjdgVNC-fKIhKOMTCiIT6T837CUF_z2TO-vhkmrty6wPQfS-CkUA92flg8RSGpVNFpp_oAtvpAkCWM-w4xe8IIl1YOb1wCTcdO4MyX_hBsrsqJjRwPdXAuTzvho/s320/fazendo%20coisas%20erradas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim é o ser humano: capaz de acertar e de errar; às vezes,

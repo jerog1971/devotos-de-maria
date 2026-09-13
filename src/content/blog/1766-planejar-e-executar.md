@@ -1,7 +1,7 @@
 ---
 title: "Planejar e Executar"
 date: 2017-05-04T18:50:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdJ4mxu4AUirvAoKd28Nnal49CbAVycloJiYyD754VCuM3ES6rBfS-ZIRthmaDw6tNycu9Npz79517eGYhSnB7aFRtjRLMmQLePR873FXzsLFtR8y0sBjJA2RYkk4T68mvkLE9XSsAnt0/s320/urubici.JPG"
+heroImage: "/images/urubici.JPG"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdJ4mxu4AUirvAoKd28Nnal49CbAVycloJiYyD754VCuM3ES6rBfS-ZIRthmaDw6tNycu9Npz79517eGYhSnB7aFRtjRLMmQLePR873FXzsLFtR8y0sBjJA2RYkk4T68mvkLE9XSsAnt0/s1600/urubici.JPG" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="637" data-original-width="425" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdJ4mxu4AUirvAoKd28Nnal49CbAVycloJiYyD754VCuM3ES6rBfS-ZIRthmaDw6tNycu9Npz79517eGYhSnB7aFRtjRLMmQLePR873FXzsLFtR8y0sBjJA2RYkk4T68mvkLE9XSsAnt0/s320/urubici.JPG" width="214" /></a></div>

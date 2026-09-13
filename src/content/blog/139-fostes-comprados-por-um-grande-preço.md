@@ -1,7 +1,7 @@
 ---
 title: "Fostes comprados por um grande preço"
 date: 2016-06-27T14:00:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNV_9OaYK6BLfjMrbFAwRs22L_Xvg17HL_tb1EkIM2EiOuhdu5A8EZW-XbrJNSkHoytTHrvJtJoFck6Ufyh71zyVkjmFRr9v_RbRGPXwtuwD-BJH9G1nn-HD1q7Lg_86hg2g8HLMnEQI/s320/templo.png"
+heroImage: "/images/templo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNV_9OaYK6BLfjMrbFAwRs22L_Xvg17HL_tb1EkIM2EiOuhdu5A8EZW-XbrJNSkHoytTHrvJtJoFck6Ufyh71zyVkjmFRr9v_RbRGPXwtuwD-BJH9G1nn-HD1q7Lg_86hg2g8HLMnEQI/s1600/templo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNV_9OaYK6BLfjMrbFAwRs22L_Xvg17HL_tb1EkIM2EiOuhdu5A8EZW-XbrJNSkHoytTHrvJtJoFck6Ufyh71zyVkjmFRr9v_RbRGPXwtuwD-BJH9G1nn-HD1q7Lg_86hg2g8HLMnEQI/s320/templo.png" width="320" height="274" data-original-width="294" data-original-height="252" /></a></div>

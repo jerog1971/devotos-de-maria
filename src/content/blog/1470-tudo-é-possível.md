@@ -1,7 +1,7 @@
 ---
 title: "Tudo é possível"
 date: 2023-08-24T17:05:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif2S74F8TkJQ-1eth9Uv0RzDRuhu9aLS-naMYB56l191GYo-1ffKpsrHWXUzqEmIbKdcfWgFIJwFSyX5ceJqT5GaNB66CABWNZ9ydShrSjZ5wI5NZOp9zl3t_xe6Cf1UY8vYOKTzd_QHDMHNA1dZTdi8KdX7DVWOLljzQPRMAAP97orfIvlnT3JtH4tj4/s320/tudo%20%C3%A9%20poss%C3%ADvel.png"
+heroImage: "/images/tudo é possível.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif2S74F8TkJQ-1eth9Uv0RzDRuhu9aLS-naMYB56l191GYo-1ffKpsrHWXUzqEmIbKdcfWgFIJwFSyX5ceJqT5GaNB66CABWNZ9ydShrSjZ5wI5NZOp9zl3t_xe6Cf1UY8vYOKTzd_QHDMHNA1dZTdi8KdX7DVWOLljzQPRMAAP97orfIvlnT3JtH4tj4/s614/tudo%20%C3%A9%20poss%C3%ADvel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="464" data-original-width="614" height="242" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif2S74F8TkJQ-1eth9Uv0RzDRuhu9aLS-naMYB56l191GYo-1ffKpsrHWXUzqEmIbKdcfWgFIJwFSyX5ceJqT5GaNB66CABWNZ9ydShrSjZ5wI5NZOp9zl3t_xe6Cf1UY8vYOKTzd_QHDMHNA1dZTdi8KdX7DVWOLljzQPRMAAP97orfIvlnT3JtH4tj4/s320/tudo%20%C3%A9%20poss%C3%ADvel.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na época de Jesus, quando os discípulos debatiam com ele

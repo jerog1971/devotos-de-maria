@@ -1,7 +1,7 @@
 ---
 title: "O encontro da partilha"
 date: 2018-05-04T20:08:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjeEeX2iXvmca9zBVHt8szRCUh0DjYYn8ueNQzRmV6RPu93jNUkkoBe503v-M2agdA7lQXV3H1vLJRmdqCHzBfbbKz01IOzSelaba1LwPs19-tMtHy9D7Qw7ibQShq-0qg8hdylAKcb0M/s320/sala_catequese.jpg"
+heroImage: "/images/sala_catequese.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjeEeX2iXvmca9zBVHt8szRCUh0DjYYn8ueNQzRmV6RPu93jNUkkoBe503v-M2agdA7lQXV3H1vLJRmdqCHzBfbbKz01IOzSelaba1LwPs19-tMtHy9D7Qw7ibQShq-0qg8hdylAKcb0M/s1600/sala_catequese.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjeEeX2iXvmca9zBVHt8szRCUh0DjYYn8ueNQzRmV6RPu93jNUkkoBe503v-M2agdA7lQXV3H1vLJRmdqCHzBfbbKz01IOzSelaba1LwPs19-tMtHy9D7Qw7ibQShq-0qg8hdylAKcb0M/s320/sala_catequese.jpg" width="320" height="211" data-original-width="1024" data-original-height="675" /></a></div>

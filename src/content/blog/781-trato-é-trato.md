@@ -1,7 +1,7 @@
 ---
 title: "Trato é trato"
 date: 2023-05-04T16:51:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5FwSHDem1bRDqtQcW63HYCgFk2m5gmrfbKmVS-_ISnvMFmGrd1HPcgFy4LPHRdlNlX4FHGiDtkERfMQQBJWBTVwPOnOssV5K78q7mO0HtTB8KiObXZg-6B29_U9ZKLZKxBJMyt63gcpgdPaDinU_DvTq56OsVgNEUEQRFyBuRZSXkylzYBg9W5bI/s320/trato%20%C3%A9%20trato.png"
+heroImage: "/images/trato é trato.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5FwSHDem1bRDqtQcW63HYCgFk2m5gmrfbKmVS-_ISnvMFmGrd1HPcgFy4LPHRdlNlX4FHGiDtkERfMQQBJWBTVwPOnOssV5K78q7mO0HtTB8KiObXZg-6B29_U9ZKLZKxBJMyt63gcpgdPaDinU_DvTq56OsVgNEUEQRFyBuRZSXkylzYBg9W5bI/s473/trato%20%C3%A9%20trato.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="473" data-original-width="399" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5FwSHDem1bRDqtQcW63HYCgFk2m5gmrfbKmVS-_ISnvMFmGrd1HPcgFy4LPHRdlNlX4FHGiDtkERfMQQBJWBTVwPOnOssV5K78q7mO0HtTB8KiObXZg-6B29_U9ZKLZKxBJMyt63gcpgdPaDinU_DvTq56OsVgNEUEQRFyBuRZSXkylzYBg9W5bI/s320/trato%20%C3%A9%20trato.png" width="270" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os ditados populares costumam não errar, tampouco mentir. Afinal,

@@ -1,7 +1,7 @@
 ---
 title: "Certas coisas não mudam"
 date: 2020-02-02T03:30:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOukGPFwgDWDluCpR8mei9yV8TRbMtW5cNSqyTIUl6VfX24CWRAAyKRWwAFJ_sBIALZAe0XXXXBDw-5a-mRMtpZ-pbhRTIvO9pASf7FvmuSO9TE9HWRI8f2jhWpqKecC1GossufWiqsiA/s320/alei.png"
+heroImage: "/images/alei.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOukGPFwgDWDluCpR8mei9yV8TRbMtW5cNSqyTIUl6VfX24CWRAAyKRWwAFJ_sBIALZAe0XXXXBDw-5a-mRMtpZ-pbhRTIvO9pASf7FvmuSO9TE9HWRI8f2jhWpqKecC1GossufWiqsiA/s1600/alei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOukGPFwgDWDluCpR8mei9yV8TRbMtW5cNSqyTIUl6VfX24CWRAAyKRWwAFJ_sBIALZAe0XXXXBDw-5a-mRMtpZ-pbhRTIvO9pASf7FvmuSO9TE9HWRI8f2jhWpqKecC1GossufWiqsiA/s320/alei.png" width="320" height="308" data-original-width="370" data-original-height="356" /></a></div>

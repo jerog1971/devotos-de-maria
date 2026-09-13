@@ -1,7 +1,7 @@
 ---
 title: "Pressão contrária"
 date: 2024-04-22T17:15:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMGQbHJC7NJtYbkbbBGVQSnaRjxDkV5gQSxB2s6T20wSqfUq2jWfqNuksK5dt-7H22KzOC0Ma5EHZDoSp5IlYJ4wvHPddyKECw9Nxyd49Dm94Qu78Uu-nANnQ-fD9bMGdlbk34Zs4helqqQKSrlsglfhT6i9B11hL6aihPr8E2QPXbHqfo9naQAxTW7BY/s320/press%C3%A3o%20contr%C3%A1ria.png"
+heroImage: "/images/pressão contrária.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMGQbHJC7NJtYbkbbBGVQSnaRjxDkV5gQSxB2s6T20wSqfUq2jWfqNuksK5dt-7H22KzOC0Ma5EHZDoSp5IlYJ4wvHPddyKECw9Nxyd49Dm94Qu78Uu-nANnQ-fD9bMGdlbk34Zs4helqqQKSrlsglfhT6i9B11hL6aihPr8E2QPXbHqfo9naQAxTW7BY/s645/press%C3%A3o%20contr%C3%A1ria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="370" data-original-width="645" height="184" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMGQbHJC7NJtYbkbbBGVQSnaRjxDkV5gQSxB2s6T20wSqfUq2jWfqNuksK5dt-7H22KzOC0Ma5EHZDoSp5IlYJ4wvHPddyKECw9Nxyd49Dm94Qu78Uu-nANnQ-fD9bMGdlbk34Zs4helqqQKSrlsglfhT6i9B11hL6aihPr8E2QPXbHqfo9naQAxTW7BY/s320/press%C3%A3o%20contr%C3%A1ria.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Neste ano, durante a vigília pascal, no momento da homilia,

@@ -1,7 +1,7 @@
 ---
 title: "Os amores na família"
 date: 2021-01-20T18:59:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s0/catequisando.png"
+heroImage: "/images/catequisando.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s304/catequisando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="304" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhViR3GyFpA01GHClm1yxxl1djBms3IKXu9fXhbC59veqe5VX3ntfDslG25MqQ_wXMJ6SjJN5fBZu2P860bjjuZc6gsX50zAKuMbbUgLJtSeea0cyTws37A0R7nLYO2c8SXBx0dyrWvu7g/s0/catequisando.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus constituiu a família e nos deu como exemplo a Sagrada

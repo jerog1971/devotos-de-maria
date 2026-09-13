@@ -1,7 +1,7 @@
 ---
 title: "Sem mim nada podeis fazer"
 date: 2016-07-12T19:51:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivLxsCeIiOduZ5w9Gulp4mHzUS8FGtPyq49oE-fxl9aLz6bT8SJcipXwaMAlP2_CEexk0wuhVF1ZZytXnaZg3OZ-ZZ48X_J8bnbNvlMGzyQV28PAZGsCh2QCfI87L1Rac1oyg_soukMHs/s320/joao_15_5.png"
+heroImage: "/images/joao_15_5.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivLxsCeIiOduZ5w9Gulp4mHzUS8FGtPyq49oE-fxl9aLz6bT8SJcipXwaMAlP2_CEexk0wuhVF1ZZytXnaZg3OZ-ZZ48X_J8bnbNvlMGzyQV28PAZGsCh2QCfI87L1Rac1oyg_soukMHs/s1600/joao_15_5.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivLxsCeIiOduZ5w9Gulp4mHzUS8FGtPyq49oE-fxl9aLz6bT8SJcipXwaMAlP2_CEexk0wuhVF1ZZytXnaZg3OZ-ZZ48X_J8bnbNvlMGzyQV28PAZGsCh2QCfI87L1Rac1oyg_soukMHs/s320/joao_15_5.png" width="320" height="188" data-original-width="523" data-original-height="308" /></a></div>

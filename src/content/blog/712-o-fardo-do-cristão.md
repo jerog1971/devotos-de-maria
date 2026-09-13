@@ -1,7 +1,7 @@
 ---
 title: "O Fardo do Cristão"
 date: 2016-09-14T20:32:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLG5snjmatsw7u1-TSMWTJ_9MY842fm-LgL0FHh5y6AAvX8RPb2-mqpL2VVw5wsfE4_Weo9gN9sMUjp3Rd-hWCOREfzoyE-5qDpm9iL7j90v88GU_E52an-Tn0wZ8k6APIXHfV5MmCx7I/s320/fardo.png"
+heroImage: "/images/fardo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLG5snjmatsw7u1-TSMWTJ_9MY842fm-LgL0FHh5y6AAvX8RPb2-mqpL2VVw5wsfE4_Weo9gN9sMUjp3Rd-hWCOREfzoyE-5qDpm9iL7j90v88GU_E52an-Tn0wZ8k6APIXHfV5MmCx7I/s1600/fardo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLG5snjmatsw7u1-TSMWTJ_9MY842fm-LgL0FHh5y6AAvX8RPb2-mqpL2VVw5wsfE4_Weo9gN9sMUjp3Rd-hWCOREfzoyE-5qDpm9iL7j90v88GU_E52an-Tn0wZ8k6APIXHfV5MmCx7I/s320/fardo.png" width="320" height="283" data-original-width="285" data-original-height="252" /></a></div>

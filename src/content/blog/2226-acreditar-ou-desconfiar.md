@@ -1,7 +1,7 @@
 ---
 title: "Acreditar ou Desconfiar?"
 date: 2017-07-06T17:27:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBizdllETdYlEbMUSsoAndfm29R0On6NU1GgIrBKOmIfUxFLbaPrjJppbhS_V_1-yDPhnRL27iIiEAx-nQbf2cuo2gqw4ovFdjBz0T-XsqCiUtYB_fPoLAoeqwY9rvPAqBymg6dPowfY/s320/acreditar.png"
+heroImage: "/images/acreditar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBizdllETdYlEbMUSsoAndfm29R0On6NU1GgIrBKOmIfUxFLbaPrjJppbhS_V_1-yDPhnRL27iIiEAx-nQbf2cuo2gqw4ovFdjBz0T-XsqCiUtYB_fPoLAoeqwY9rvPAqBymg6dPowfY/s1600/acreditar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBizdllETdYlEbMUSsoAndfm29R0On6NU1GgIrBKOmIfUxFLbaPrjJppbhS_V_1-yDPhnRL27iIiEAx-nQbf2cuo2gqw4ovFdjBz0T-XsqCiUtYB_fPoLAoeqwY9rvPAqBymg6dPowfY/s320/acreditar.png" width="320" height="308" data-original-width="184" data-original-height="177" /></a></div>

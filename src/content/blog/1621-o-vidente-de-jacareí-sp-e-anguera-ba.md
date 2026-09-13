@@ -1,7 +1,7 @@
 ---
 title: "O Vidente de Jacareí, SP e Anguera, BA"
 date: 2016-08-25T19:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSLO21idTjnzcgWnBJO4lPUk5q_mEJrMebBeH0E_jf9rrGR534ZZuWlsef5r6NODUuJQQ-VPQSp830AliWREMngW3AP5H2I98HMzMNypQZIO1NONhrBwNYRxpcC88XjUkMiOtV6G50Q4/s320/videntes.png"
+heroImage: "/images/videntes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSLO21idTjnzcgWnBJO4lPUk5q_mEJrMebBeH0E_jf9rrGR534ZZuWlsef5r6NODUuJQQ-VPQSp830AliWREMngW3AP5H2I98HMzMNypQZIO1NONhrBwNYRxpcC88XjUkMiOtV6G50Q4/s1600/videntes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSLO21idTjnzcgWnBJO4lPUk5q_mEJrMebBeH0E_jf9rrGR534ZZuWlsef5r6NODUuJQQ-VPQSp830AliWREMngW3AP5H2I98HMzMNypQZIO1NONhrBwNYRxpcC88XjUkMiOtV6G50Q4/s320/videntes.png" width="320" height="246" data-original-width="336" data-original-height="258" /></a></div>

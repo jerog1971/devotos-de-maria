@@ -1,7 +1,7 @@
 ---
 title: "Bisbilhotar"
 date: 2017-11-21T10:41:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbku6cCHvnoP53r1bwyl93QRP0zhdXemjEdUxBtkWf0P0cksM5EhZ29ecn12koW6sWiy1c1ddZ1-vNHkcqabTrKe1hDux-kb8XGKn7WBHDqJid-Ua-0ki-CMFJTiXAWVpSJqTNUufgKEg/s320/bisbilhotar.png"
+heroImage: "/images/bisbilhotar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbku6cCHvnoP53r1bwyl93QRP0zhdXemjEdUxBtkWf0P0cksM5EhZ29ecn12koW6sWiy1c1ddZ1-vNHkcqabTrKe1hDux-kb8XGKn7WBHDqJid-Ua-0ki-CMFJTiXAWVpSJqTNUufgKEg/s1600/bisbilhotar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="305" height="284" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbku6cCHvnoP53r1bwyl93QRP0zhdXemjEdUxBtkWf0P0cksM5EhZ29ecn12koW6sWiy1c1ddZ1-vNHkcqabTrKe1hDux-kb8XGKn7WBHDqJid-Ua-0ki-CMFJTiXAWVpSJqTNUufgKEg/s320/bisbilhotar.png" width="320" /></a></div>

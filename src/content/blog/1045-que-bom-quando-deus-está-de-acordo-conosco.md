@@ -1,7 +1,7 @@
 ---
 title: "Que bom quando Deus está de acordo conosco"
 date: 2024-01-07T17:12:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQXBajbA2LF71TbgKf5lzQ-Bpbzhyphenhyphenl0_tfy3AItlxEYC8jU42jn13dQdHRZIQOMljsBBUuPpABZbjkE4LC7ec3b4Viag_bdN_B1odwAWxFXmjVECrHIQrBqEVMs7LEMcZCpa26FE1UAnMrqwG5qEnk9JHqoHerPnSD5-LUQMwdU5NBNRCsv83DrspZB1I/s1600/precisar.png"
+heroImage: "/images/precisar.png"
 ---
 
 <p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQXBajbA2LF71TbgKf5lzQ-Bpbzhyphenhyphenl0_tfy3AItlxEYC8jU42jn13dQdHRZIQOMljsBBUuPpABZbjkE4LC7ec3b4Viag_bdN_B1odwAWxFXmjVECrHIQrBqEVMs7LEMcZCpa26FE1UAnMrqwG5qEnk9JHqoHerPnSD5-LUQMwdU5NBNRCsv83DrspZB1I/s273/precisar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="273" height="264" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQXBajbA2LF71TbgKf5lzQ-Bpbzhyphenhyphenl0_tfy3AItlxEYC8jU42jn13dQdHRZIQOMljsBBUuPpABZbjkE4LC7ec3b4Viag_bdN_B1odwAWxFXmjVECrHIQrBqEVMs7LEMcZCpa26FE1UAnMrqwG5qEnk9JHqoHerPnSD5-LUQMwdU5NBNRCsv83DrspZB1I/s1600/precisar.png" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, quando pedimos, pedimos e pedimos e parece Deus não

@@ -1,7 +1,7 @@
 ---
 title: "Jesus e os testamentos bíblicos"
 date: 2021-10-21T15:22:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQncgFOE3YbvCRdqeKjKj8u4EC7LvYc4ENKdhdaw7q0RVh047b6yD85RpCO-gGKTSdEk4YG2_DT0eOl4Wdl81rklmESKcAzdaJRRGeDUuSWLFXzOCEGoZi7sbfZpiFv0xW3JOaItIaTjw/s320/Jesus+e+os+testamentos+b%25C3%25ADblicos.jpg"
+heroImage: "/images/Jesus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQncgFOE3YbvCRdqeKjKj8u4EC7LvYc4ENKdhdaw7q0RVh047b6yD85RpCO-gGKTSdEk4YG2_DT0eOl4Wdl81rklmESKcAzdaJRRGeDUuSWLFXzOCEGoZi7sbfZpiFv0xW3JOaItIaTjw/s1040/Jesus+e+os+testamentos+b%25C3%25ADblicos.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="1040" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQncgFOE3YbvCRdqeKjKj8u4EC7LvYc4ENKdhdaw7q0RVh047b6yD85RpCO-gGKTSdEk4YG2_DT0eOl4Wdl81rklmESKcAzdaJRRGeDUuSWLFXzOCEGoZi7sbfZpiFv0xW3JOaItIaTjw/s320/Jesus+e+os+testamentos+b%25C3%25ADblicos.jpg" width="320" /></a></div><br /><p></p><p class="MsoNormal">Hebreus 9,17-28 – “Um testamento só entra em vigor depois da

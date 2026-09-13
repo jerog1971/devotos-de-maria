@@ -1,7 +1,7 @@
 ---
 title: "Sofrimento, a boa notícia do evangelho"
 date: 2022-08-04T20:15:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUweC6e0Tiz9S9TpKbZu069wizY22baI0t1D0Ajr51F7xO0O6E8klXNSBEBsm4BJH2oST7hhOx5o14-sttNFEmsl2cSr51DgcwIIqsn2u3KXFI99IlJzkS2Wb5g8n8pNrk_JeL05HJ8CxX8JoNCxmZo9My5hMBB5fReftaAOqYABhfvxYS8adOxD5p/s320/sofrimento.png"
+heroImage: "/images/sofrimento.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUweC6e0Tiz9S9TpKbZu069wizY22baI0t1D0Ajr51F7xO0O6E8klXNSBEBsm4BJH2oST7hhOx5o14-sttNFEmsl2cSr51DgcwIIqsn2u3KXFI99IlJzkS2Wb5g8n8pNrk_JeL05HJ8CxX8JoNCxmZo9My5hMBB5fReftaAOqYABhfvxYS8adOxD5p/s372/sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="372" data-original-width="372" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUweC6e0Tiz9S9TpKbZu069wizY22baI0t1D0Ajr51F7xO0O6E8klXNSBEBsm4BJH2oST7hhOx5o14-sttNFEmsl2cSr51DgcwIIqsn2u3KXFI99IlJzkS2Wb5g8n8pNrk_JeL05HJ8CxX8JoNCxmZo9My5hMBB5fReftaAOqYABhfvxYS8adOxD5p/s320/sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo caro leitor, o teor da boa nova do evangelho,

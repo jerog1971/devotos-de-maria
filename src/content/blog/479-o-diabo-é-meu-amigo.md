@@ -1,7 +1,7 @@
 ---
 title: "O diabo é meu amigo"
 date: 2017-03-08T16:06:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaLg5OBdFVRnYsONqhej4paWhXL-3EpAYnUJya3q5-9KZMJ_s24vFKue2lDTiG0F4mNVT1Wng6rXmTOt-TvaqIKETbESQ4acjduveQxngiygKmo2eK0Ulc8imuzN_Jn6k6-0Z9xEsFs8I/s320/diabo+amigo.png"
+heroImage: "/images/diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaLg5OBdFVRnYsONqhej4paWhXL-3EpAYnUJya3q5-9KZMJ_s24vFKue2lDTiG0F4mNVT1Wng6rXmTOt-TvaqIKETbESQ4acjduveQxngiygKmo2eK0Ulc8imuzN_Jn6k6-0Z9xEsFs8I/s1600/diabo+amigo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaLg5OBdFVRnYsONqhej4paWhXL-3EpAYnUJya3q5-9KZMJ_s24vFKue2lDTiG0F4mNVT1Wng6rXmTOt-TvaqIKETbESQ4acjduveQxngiygKmo2eK0Ulc8imuzN_Jn6k6-0Z9xEsFs8I/s320/diabo+amigo.png" width="320" height="259" data-original-width="256" data-original-height="207" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Eu não consigo ou não quero conseguir"
 date: 2017-12-13T18:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl0h13YCrLUE2p_qtH8vD08txUYcsxQh5uBp0ol698oIZkSDjiBKPVXmbPlQzLFUSKlWxioOdKhDxMoclU2O0P-zL8DKPOhD7casruALU5qDQI66JNyOiHy8x2WprKXLLBBl1mhRJnQ2I/s320/conseguir.png"
+heroImage: "/images/conseguir.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl0h13YCrLUE2p_qtH8vD08txUYcsxQh5uBp0ol698oIZkSDjiBKPVXmbPlQzLFUSKlWxioOdKhDxMoclU2O0P-zL8DKPOhD7casruALU5qDQI66JNyOiHy8x2WprKXLLBBl1mhRJnQ2I/s1600/conseguir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl0h13YCrLUE2p_qtH8vD08txUYcsxQh5uBp0ol698oIZkSDjiBKPVXmbPlQzLFUSKlWxioOdKhDxMoclU2O0P-zL8DKPOhD7casruALU5qDQI66JNyOiHy8x2WprKXLLBBl1mhRJnQ2I/s320/conseguir.png" width="320" height="317" data-original-width="359" data-original-height="356" /></a></div>

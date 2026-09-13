@@ -1,7 +1,7 @@
 ---
 title: "Momentos que surpreendem"
 date: 2025-02-14T20:58:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7FN9VuEp9SV4FlastGWkzKSQffGhJ_qoGTBAejC2qYgWeF3UBzkB50UuGaSv5Vwudq0YkUXXLXqKhMux4n8h_j3wBcPVJguwcSLKXaloIga2S1syGo6Tu4POLt3ubAL4_LfxNhoFVuxmOec9oPD_bmMp83KR6YbImxxBxthjDOpWltdUJwzs-IgQ8yW8/s320/Tiba.png"
+heroImage: "/images/Tiba.png"
 ---
 
 <p class="MsoNormal"></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7FN9VuEp9SV4FlastGWkzKSQffGhJ_qoGTBAejC2qYgWeF3UBzkB50UuGaSv5Vwudq0YkUXXLXqKhMux4n8h_j3wBcPVJguwcSLKXaloIga2S1syGo6Tu4POLt3ubAL4_LfxNhoFVuxmOec9oPD_bmMp83KR6YbImxxBxthjDOpWltdUJwzs-IgQ8yW8/s430/Tiba.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="257" data-original-width="430" height="191" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7FN9VuEp9SV4FlastGWkzKSQffGhJ_qoGTBAejC2qYgWeF3UBzkB50UuGaSv5Vwudq0YkUXXLXqKhMux4n8h_j3wBcPVJguwcSLKXaloIga2S1syGo6Tu4POLt3ubAL4_LfxNhoFVuxmOec9oPD_bmMp83KR6YbImxxBxthjDOpWltdUJwzs-IgQ8yW8/s320/Tiba.png" width="320" /></a></div><br />&nbsp;<p></p><p class="MsoNormal">O que você faria se, de repente, sua vida mudasse

@@ -1,7 +1,7 @@
 ---
 title: "Chega de pecado, chega de mundo"
 date: 2017-12-07T16:43:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxtkVKiVmo0TezmfanEJlZep8eeQmlbTDr1zdfgq_4-hx69KCp07z_jUjQAembFOILzJWI3MvWB-EMtYbTHNpt-7L355Qh76FcPdVQUZ6ds3wKxbVpwg27oPn6NkVygCy9PJHC1yrFQNU/s320/porcaria.png"
+heroImage: "/images/porcaria.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxtkVKiVmo0TezmfanEJlZep8eeQmlbTDr1zdfgq_4-hx69KCp07z_jUjQAembFOILzJWI3MvWB-EMtYbTHNpt-7L355Qh76FcPdVQUZ6ds3wKxbVpwg27oPn6NkVygCy9PJHC1yrFQNU/s1600/porcaria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxtkVKiVmo0TezmfanEJlZep8eeQmlbTDr1zdfgq_4-hx69KCp07z_jUjQAembFOILzJWI3MvWB-EMtYbTHNpt-7L355Qh76FcPdVQUZ6ds3wKxbVpwg27oPn6NkVygCy9PJHC1yrFQNU/s320/porcaria.png" width="320" height="317" data-original-width="362" data-original-height="359" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Missas Personalizadas ofendem a Deus"
 date: 2016-06-27T11:43:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBm2XCy5KZ1ofzC4JAXCGh5qmVsQddqNV2BhhITyQuMmhN75EqrbS9vg0U2nBpjdeNOiK4L6TO2nY-d42c9yohnDXv9v7Mi5EBlQGtNdN_h9u1HLgnCBCokQ5NSet0cMH34-006KcTOj0/s320/helio.png"
+heroImage: "/images/helio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBm2XCy5KZ1ofzC4JAXCGh5qmVsQddqNV2BhhITyQuMmhN75EqrbS9vg0U2nBpjdeNOiK4L6TO2nY-d42c9yohnDXv9v7Mi5EBlQGtNdN_h9u1HLgnCBCokQ5NSet0cMH34-006KcTOj0/s1600/helio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBm2XCy5KZ1ofzC4JAXCGh5qmVsQddqNV2BhhITyQuMmhN75EqrbS9vg0U2nBpjdeNOiK4L6TO2nY-d42c9yohnDXv9v7Mi5EBlQGtNdN_h9u1HLgnCBCokQ5NSet0cMH34-006KcTOj0/s320/helio.png" width="320" height="298" data-original-width="426" data-original-height="397" /></a></div>

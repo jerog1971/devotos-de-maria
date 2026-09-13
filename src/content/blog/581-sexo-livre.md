@@ -1,7 +1,7 @@
 ---
 title: "Sexo Livre"
 date: 2015-12-18T11:56:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWB8mVgfDaAyIZGp1zR0A-kiubhufqUkrezgFp1nDHrfwhmLYKzRIKs1AlLF7decSJtrDHDuXpFa2epRTZFXarEJpGGX6ijdhHVPsxZFzWdRZeB-Ucc6m71So0VPqHdfoj_mCXTc1osYo/s320/sexo+livre.png"
+heroImage: "/images/livre.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWB8mVgfDaAyIZGp1zR0A-kiubhufqUkrezgFp1nDHrfwhmLYKzRIKs1AlLF7decSJtrDHDuXpFa2epRTZFXarEJpGGX6ijdhHVPsxZFzWdRZeB-Ucc6m71So0VPqHdfoj_mCXTc1osYo/s1600/sexo+livre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWB8mVgfDaAyIZGp1zR0A-kiubhufqUkrezgFp1nDHrfwhmLYKzRIKs1AlLF7decSJtrDHDuXpFa2epRTZFXarEJpGGX6ijdhHVPsxZFzWdRZeB-Ucc6m71So0VPqHdfoj_mCXTc1osYo/s320/sexo+livre.png" width="320" height="318" data-original-width="357" data-original-height="355" /></a></div>

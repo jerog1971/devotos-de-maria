@@ -1,7 +1,7 @@
 ---
 title: "A vida paralela"
 date: 2016-08-22T20:46:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO-7Hc6cVr0_GUwO8GlbC-KeBpnY4hq0sV9YheSycaBnGhPbSmHHqNAvhTosih6-COQrpYCbA_70pE5tYKW2PVDqV8rUHXiQcnPVxhrF06CzaPO0AOcoeHPdk8nn9Zz3dizulFKZNDWuk/s320/vida_paralela.png"
+heroImage: "/images/vida_paralela.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO-7Hc6cVr0_GUwO8GlbC-KeBpnY4hq0sV9YheSycaBnGhPbSmHHqNAvhTosih6-COQrpYCbA_70pE5tYKW2PVDqV8rUHXiQcnPVxhrF06CzaPO0AOcoeHPdk8nn9Zz3dizulFKZNDWuk/s1600/vida_paralela.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO-7Hc6cVr0_GUwO8GlbC-KeBpnY4hq0sV9YheSycaBnGhPbSmHHqNAvhTosih6-COQrpYCbA_70pE5tYKW2PVDqV8rUHXiQcnPVxhrF06CzaPO0AOcoeHPdk8nn9Zz3dizulFKZNDWuk/s320/vida_paralela.png" width="320" height="281" data-original-width="379" data-original-height="333" /></a></div>

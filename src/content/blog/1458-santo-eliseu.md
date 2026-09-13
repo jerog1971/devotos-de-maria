@@ -1,7 +1,7 @@
 ---
 title: "Santo Eliseu"
 date: 2020-06-14T17:33:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivGFv9L_-EbgFzk6Lg_ZBeELapJeEHIG1G0g9l49zxwpvlwsBRcZms43GKLHfseWzwHPgrDkHoYPouPrNni6fzx-mKgPqt7N_-DSALNruVLsm3mPUp9NTqQye0t7SSqz9iLB5Vp6IGcuw/"
+heroImage: "/images/Ela.jpg"
 ---
 
 <br /><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivGFv9L_-EbgFzk6Lg_ZBeELapJeEHIG1G0g9l49zxwpvlwsBRcZms43GKLHfseWzwHPgrDkHoYPouPrNni6fzx-mKgPqt7N_-DSALNruVLsm3mPUp9NTqQye0t7SSqz9iLB5Vp6IGcuw/s277/Santo+Eliseu.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="244" data-original-width="277" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivGFv9L_-EbgFzk6Lg_ZBeELapJeEHIG1G0g9l49zxwpvlwsBRcZms43GKLHfseWzwHPgrDkHoYPouPrNni6fzx-mKgPqt7N_-DSALNruVLsm3mPUp9NTqQye0t7SSqz9iLB5Vp6IGcuw/" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Santo Eliseu foi discípulo e sucessor do profeta Elias e

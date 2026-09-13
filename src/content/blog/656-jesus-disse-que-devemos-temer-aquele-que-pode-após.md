@@ -1,7 +1,7 @@
 ---
 title: "Jesus disse que devemos temer aquele que pode após a morte enviar nossa alma para o inferno"
 date: 2019-06-28T18:51:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSgo_-cxeo9OWdbCK3I-P1fJr8Po3Z3vtJYJMVCDZtSJi67RFnh8ZhCTYjP7i6iCNn-sWjY8IbuaN-EmyHoi1AQFhS1Vq-ZNU8xsuRL7JHJHeWERCgEgfLkx_k4R490t7Bf_kBEZCmd6Y/s320/temer_a_Deus.png"
+heroImage: "/images/temer_a_Deus.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSgo_-cxeo9OWdbCK3I-P1fJr8Po3Z3vtJYJMVCDZtSJi67RFnh8ZhCTYjP7i6iCNn-sWjY8IbuaN-EmyHoi1AQFhS1Vq-ZNU8xsuRL7JHJHeWERCgEgfLkx_k4R490t7Bf_kBEZCmd6Y/s1600/temer_a_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSgo_-cxeo9OWdbCK3I-P1fJr8Po3Z3vtJYJMVCDZtSJi67RFnh8ZhCTYjP7i6iCNn-sWjY8IbuaN-EmyHoi1AQFhS1Vq-ZNU8xsuRL7JHJHeWERCgEgfLkx_k4R490t7Bf_kBEZCmd6Y/s320/temer_a_Deus.png" width="320" height="229" data-original-width="472" data-original-height="338" /></a></div>

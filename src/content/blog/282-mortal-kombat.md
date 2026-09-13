@@ -1,7 +1,7 @@
 ---
 title: "Mortal Kombat"
 date: 2025-07-29T18:00:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginbBM-T3gU_oQowRNae19SI1nxwLFS2_r0D0CmnUAFC0g6IPoQfYlUuNA2ArpIBlF3kLnq7vUkWkID24wHPBEJp_usnAPBQiyp49fXSQqaSk-H0O8XncOk8GgEBC1xHX6JOCLQ9DnCSUwTvDc1YVLOBgJLHsY6V_9tpGP6erpZIrizxSpazUJFfzVTJ0/s320/mortal%20kombat.png"
+heroImage: "/images/mortal kombat.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginbBM-T3gU_oQowRNae19SI1nxwLFS2_r0D0CmnUAFC0g6IPoQfYlUuNA2ArpIBlF3kLnq7vUkWkID24wHPBEJp_usnAPBQiyp49fXSQqaSk-H0O8XncOk8GgEBC1xHX6JOCLQ9DnCSUwTvDc1YVLOBgJLHsY6V_9tpGP6erpZIrizxSpazUJFfzVTJ0/s535/mortal%20kombat.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="535" height="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginbBM-T3gU_oQowRNae19SI1nxwLFS2_r0D0CmnUAFC0g6IPoQfYlUuNA2ArpIBlF3kLnq7vUkWkID24wHPBEJp_usnAPBQiyp49fXSQqaSk-H0O8XncOk8GgEBC1xHX6JOCLQ9DnCSUwTvDc1YVLOBgJLHsY6V_9tpGP6erpZIrizxSpazUJFfzVTJ0/s320/mortal%20kombat.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 115%; margin-bottom: 0cm;">No jogo de videogame que posteriormente se transformou em filme,

@@ -1,7 +1,7 @@
 ---
 title: "Persistência ou Teimosia?"
 date: 2018-05-03T18:57:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeFfbKjeAevVqDntPX98-udntYESLqiIrF-cXh823AdjH63Cewz3UwdOQCFJ1d0IKpCt5CXeukTY5h0cXMrDsyyjA2EKmv7CJUu_ixKvQyWRNHCCkak9UtBCiWoYTxj3We_qw6tSqNzg/s320/teimosia.png"
+heroImage: "/images/desobediência ou teimosia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeFfbKjeAevVqDntPX98-udntYESLqiIrF-cXh823AdjH63Cewz3UwdOQCFJ1d0IKpCt5CXeukTY5h0cXMrDsyyjA2EKmv7CJUu_ixKvQyWRNHCCkak9UtBCiWoYTxj3We_qw6tSqNzg/s1600/teimosia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeFfbKjeAevVqDntPX98-udntYESLqiIrF-cXh823AdjH63Cewz3UwdOQCFJ1d0IKpCt5CXeukTY5h0cXMrDsyyjA2EKmv7CJUu_ixKvQyWRNHCCkak9UtBCiWoYTxj3We_qw6tSqNzg/s320/teimosia.png" width="320" height="158" data-original-width="589" data-original-height="290" /></a></div>

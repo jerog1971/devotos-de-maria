@@ -1,7 +1,7 @@
 ---
 title: "Diante da Cruz"
 date: 2018-06-26T20:34:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD4oVKTEnfRRHd8VtMWunw37yK4HnYS8QqtOnDplM0TQj-xtNVvEvji4otjmFod3urT8BpiIkO7DKFr6_CmfEEwg4-ohuaptRh2D6cuqqKEMSXJi7EOij224ulFSKMTwi_AW-tjGEof8/s320/cruz.jpg"
+heroImage: "/images/cruz.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD4oVKTEnfRRHd8VtMWunw37yK4HnYS8QqtOnDplM0TQj-xtNVvEvji4otjmFod3urT8BpiIkO7DKFr6_CmfEEwg4-ohuaptRh2D6cuqqKEMSXJi7EOij224ulFSKMTwi_AW-tjGEof8/s1600/cruz.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD4oVKTEnfRRHd8VtMWunw37yK4HnYS8QqtOnDplM0TQj-xtNVvEvji4otjmFod3urT8BpiIkO7DKFr6_CmfEEwg4-ohuaptRh2D6cuqqKEMSXJi7EOij224ulFSKMTwi_AW-tjGEof8/s320/cruz.jpg" width="320" height="211" data-original-width="1600" data-original-height="1055" /></a></div>

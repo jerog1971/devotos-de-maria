@@ -1,7 +1,7 @@
 ---
 title: "Manobras evasivas"
 date: 2025-03-07T19:04:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiol4-c_Y34EHmLVYh10ivAvQSF0v1Inflf1xM8RUAtTJceVVcdyb60CGgUIt-fjRJvUxVfeZRS7onyY4BtlydSQma_bXFDli8T8nVMq0C2Yl9rHI3ZT7f43FxzzECnlp4RE70oheEcQWQg8cUXi5dSwNTzZY2TUzP6uSSjqmy7s8AEr09vi0WsF1MGqlE/s320/manobras%20evasivas.png"
+heroImage: "/images/manobras evasivas.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiol4-c_Y34EHmLVYh10ivAvQSF0v1Inflf1xM8RUAtTJceVVcdyb60CGgUIt-fjRJvUxVfeZRS7onyY4BtlydSQma_bXFDli8T8nVMq0C2Yl9rHI3ZT7f43FxzzECnlp4RE70oheEcQWQg8cUXi5dSwNTzZY2TUzP6uSSjqmy7s8AEr09vi0WsF1MGqlE/s478/manobras%20evasivas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="379" data-original-width="478" height="254" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiol4-c_Y34EHmLVYh10ivAvQSF0v1Inflf1xM8RUAtTJceVVcdyb60CGgUIt-fjRJvUxVfeZRS7onyY4BtlydSQma_bXFDli8T8nVMq0C2Yl9rHI3ZT7f43FxzzECnlp4RE70oheEcQWQg8cUXi5dSwNTzZY2TUzP6uSSjqmy7s8AEr09vi0WsF1MGqlE/s320/manobras%20evasivas.png" width="320" /></a></div><br />&nbsp;

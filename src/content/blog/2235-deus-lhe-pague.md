@@ -1,7 +1,7 @@
 ---
 title: "Deus lhe pague"
 date: 2016-08-23T20:03:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh84vtHE3q_GcbcPedHhnjtVmiTzGnmrJ2OjtiZ1fDwlnMUpXt1jg0AfDIoEFMtftF1oL_0ZoGwoFbcqTxeILkwfMUZ5xrsRi7SeXALbRsRqVijAk6Fy68CbrSthKVvKXt_Tm5ZrfdcR4/s320/deus_lhe_pague.png"
+heroImage: "/images/deus_lhe_pague.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh84vtHE3q_GcbcPedHhnjtVmiTzGnmrJ2OjtiZ1fDwlnMUpXt1jg0AfDIoEFMtftF1oL_0ZoGwoFbcqTxeILkwfMUZ5xrsRi7SeXALbRsRqVijAk6Fy68CbrSthKVvKXt_Tm5ZrfdcR4/s1600/deus_lhe_pague.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh84vtHE3q_GcbcPedHhnjtVmiTzGnmrJ2OjtiZ1fDwlnMUpXt1jg0AfDIoEFMtftF1oL_0ZoGwoFbcqTxeILkwfMUZ5xrsRi7SeXALbRsRqVijAk6Fy68CbrSthKVvKXt_Tm5ZrfdcR4/s320/deus_lhe_pague.png" width="320" height="320" data-original-width="199" data-original-height="199" /></a></div>

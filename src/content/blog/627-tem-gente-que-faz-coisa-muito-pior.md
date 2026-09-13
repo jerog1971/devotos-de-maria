@@ -1,7 +1,7 @@
 ---
 title: "Tem gente que faz coisa muito pior"
 date: 2016-10-27T13:34:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NFzpMmgP4m_e13EyT0hznR1n1tbM3in4uIT_E0sr9HWOIAEZc_jzW6iaNy7dLYEvv30WEt1TAeue4Duym3XAMxhTrzdsShEigXJMJ9w9VVliaj4AMIH1lYCrIxAZzIH3VEdsl0hcr0I/s320/pior.png"
+heroImage: "/images/o mal do homem ou do demônio - qual é pior.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NFzpMmgP4m_e13EyT0hznR1n1tbM3in4uIT_E0sr9HWOIAEZc_jzW6iaNy7dLYEvv30WEt1TAeue4Duym3XAMxhTrzdsShEigXJMJ9w9VVliaj4AMIH1lYCrIxAZzIH3VEdsl0hcr0I/s1600/pior.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NFzpMmgP4m_e13EyT0hznR1n1tbM3in4uIT_E0sr9HWOIAEZc_jzW6iaNy7dLYEvv30WEt1TAeue4Duym3XAMxhTrzdsShEigXJMJ9w9VVliaj4AMIH1lYCrIxAZzIH3VEdsl0hcr0I/s320/pior.png" width="320" height="281" data-original-width="306" data-original-height="269" /></a></div>

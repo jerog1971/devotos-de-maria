@@ -1,7 +1,7 @@
 ---
 title: "Sacerdotes de Missa e Confessionário"
 date: 2020-03-22T00:57:00.003Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ_RtyQV8peNwXDgqJGXqg48jCIQFhFrPgrsH2T4RN4EzKldH4WXTIbbEcTUz-dEtAgiXwFl7THtPSj_dFsyiSFtBiBE6KmjxZOvmHk9aLTJubmD3n50N75M8RZpAAAtL2qk8KMaLUZqk/s320/maus_sacerdotes.png"
+heroImage: "/images/maus_sacerdotes.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ_RtyQV8peNwXDgqJGXqg48jCIQFhFrPgrsH2T4RN4EzKldH4WXTIbbEcTUz-dEtAgiXwFl7THtPSj_dFsyiSFtBiBE6KmjxZOvmHk9aLTJubmD3n50N75M8RZpAAAtL2qk8KMaLUZqk/s1600/maus_sacerdotes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ_RtyQV8peNwXDgqJGXqg48jCIQFhFrPgrsH2T4RN4EzKldH4WXTIbbEcTUz-dEtAgiXwFl7THtPSj_dFsyiSFtBiBE6KmjxZOvmHk9aLTJubmD3n50N75M8RZpAAAtL2qk8KMaLUZqk/s320/maus_sacerdotes.png" width="320" height="243" data-original-width="504" data-original-height="383" /></a></div>

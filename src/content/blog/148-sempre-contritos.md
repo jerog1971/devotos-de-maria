@@ -1,7 +1,7 @@
 ---
 title: "Sempre contritos"
 date: 2021-06-07T12:44:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgT0wqeFFtQtjy1ZPKt1Ic5re80NnfoSLXsKZWxvQ0FUiERr9fv5EYPtQN8lMsL9F4hAbgMcfHGzCs8gNLDEzqjrF-GoHTS8qk-oyrs6_K9CM-NY3-Vx0Zb2pO78hZRWjUckgWq8-kayY/s0/contritos.png"
+heroImage: "/images/contritos.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgT0wqeFFtQtjy1ZPKt1Ic5re80NnfoSLXsKZWxvQ0FUiERr9fv5EYPtQN8lMsL9F4hAbgMcfHGzCs8gNLDEzqjrF-GoHTS8qk-oyrs6_K9CM-NY3-Vx0Zb2pO78hZRWjUckgWq8-kayY/s307/contritos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="307" data-original-width="306" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgT0wqeFFtQtjy1ZPKt1Ic5re80NnfoSLXsKZWxvQ0FUiERr9fv5EYPtQN8lMsL9F4hAbgMcfHGzCs8gNLDEzqjrF-GoHTS8qk-oyrs6_K9CM-NY3-Vx0Zb2pO78hZRWjUckgWq8-kayY/s0/contritos.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os santos já diziam a respeito de um coração constantemente

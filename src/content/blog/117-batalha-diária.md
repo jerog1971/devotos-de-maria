@@ -1,7 +1,7 @@
 ---
 title: "Batalha Diária"
 date: 2018-05-18T17:50:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Ffhka5N7svaL6KvtIXlOy1S3B03UTIHrfyYAhYd3USoaYrnqVZVYI_ETAXFC3wimhD9X33iFSe7b348OJHZwam0cyzUlaBNIXneLE3nRYG7h8TRwwvV3kdLZki5U7JNiHbLMKhIrWKA/s320/batalha.png"
+heroImage: "/images/batalha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Ffhka5N7svaL6KvtIXlOy1S3B03UTIHrfyYAhYd3USoaYrnqVZVYI_ETAXFC3wimhD9X33iFSe7b348OJHZwam0cyzUlaBNIXneLE3nRYG7h8TRwwvV3kdLZki5U7JNiHbLMKhIrWKA/s1600/batalha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Ffhka5N7svaL6KvtIXlOy1S3B03UTIHrfyYAhYd3USoaYrnqVZVYI_ETAXFC3wimhD9X33iFSe7b348OJHZwam0cyzUlaBNIXneLE3nRYG7h8TRwwvV3kdLZki5U7JNiHbLMKhIrWKA/s320/batalha.png" width="320" height="283" data-original-width="534" data-original-height="472" /></a></div>

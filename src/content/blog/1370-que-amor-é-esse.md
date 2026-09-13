@@ -1,7 +1,7 @@
 ---
 title: "Que amor é esse"
 date: 2025-06-13T21:16:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkkB72Kifo7nn1Vu4hI0SKM84gj3Nx2K0IG7MHnrgu9_eICccBFca9negKryuHRCw38EkcO5YkOnuVFM6QmaGLm88SDj-p0zHsZYQpQO_vvlkW6N4BmCMfnjN6_HAL79S2ONRDEt5wlSPH_tlcqPmWK0KZen7tV5fPUzYp71iORiwk7dm4ylAfagKy1kc/s320/adulterio.png"
+heroImage: "/images/adulterio.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkkB72Kifo7nn1Vu4hI0SKM84gj3Nx2K0IG7MHnrgu9_eICccBFca9negKryuHRCw38EkcO5YkOnuVFM6QmaGLm88SDj-p0zHsZYQpQO_vvlkW6N4BmCMfnjN6_HAL79S2ONRDEt5wlSPH_tlcqPmWK0KZen7tV5fPUzYp71iORiwk7dm4ylAfagKy1kc/s459/adulterio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="459" height="268" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkkB72Kifo7nn1Vu4hI0SKM84gj3Nx2K0IG7MHnrgu9_eICccBFca9negKryuHRCw38EkcO5YkOnuVFM6QmaGLm88SDj-p0zHsZYQpQO_vvlkW6N4BmCMfnjN6_HAL79S2ONRDEt5wlSPH_tlcqPmWK0KZen7tV5fPUzYp71iORiwk7dm4ylAfagKy1kc/s320/adulterio.png" width="320" /></a></div><br />&nbsp;<p></p><p style="line-height: 100%; margin-bottom: 0cm;">

@@ -1,7 +1,7 @@
 ---
 title: "Seguindo em frente"
 date: 2016-04-25T13:06:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc_CvrwgRDMkpdiZpJM6NEjrXPel_n_rFFPaKM93kSIjVmNAaOyYrndGGFisZmyz7_nC0HTeniCJOYhbCL4f3AQDD02Sz4oGq92PuNPNLIbLfNMuGCtht3jBXp55cCJXDHUZ17ijl56Ao/s320/em_frente.png"
+heroImage: "/images/em_frente.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc_CvrwgRDMkpdiZpJM6NEjrXPel_n_rFFPaKM93kSIjVmNAaOyYrndGGFisZmyz7_nC0HTeniCJOYhbCL4f3AQDD02Sz4oGq92PuNPNLIbLfNMuGCtht3jBXp55cCJXDHUZ17ijl56Ao/s1600/em_frente.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc_CvrwgRDMkpdiZpJM6NEjrXPel_n_rFFPaKM93kSIjVmNAaOyYrndGGFisZmyz7_nC0HTeniCJOYhbCL4f3AQDD02Sz4oGq92PuNPNLIbLfNMuGCtht3jBXp55cCJXDHUZ17ijl56Ao/s320/em_frente.png" width="320" height="279" data-original-width="527" data-original-height="460" /></a></div>

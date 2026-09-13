@@ -1,7 +1,7 @@
 ---
 title: "Morte, alegria e tristeza"
 date: 2021-07-16T16:32:00.004Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKWK6Tfn_1oABd_x5397GCFBG5MuM-PqFlkAjWJ1lefcC3tBqukNvrKY9tqXCCLUo_9mMCA7EKyB9sWVJYGmHkKWlLiX3mj8x46b01OiIn-aDrZ_BjU5uwP4tlpKlXFhup9iHy2imRHuM/s320/morte+alegria+tristeza.png"
+heroImage: "/images/morte.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKWK6Tfn_1oABd_x5397GCFBG5MuM-PqFlkAjWJ1lefcC3tBqukNvrKY9tqXCCLUo_9mMCA7EKyB9sWVJYGmHkKWlLiX3mj8x46b01OiIn-aDrZ_BjU5uwP4tlpKlXFhup9iHy2imRHuM/s521/morte+alegria+tristeza.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="472" data-original-width="521" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKWK6Tfn_1oABd_x5397GCFBG5MuM-PqFlkAjWJ1lefcC3tBqukNvrKY9tqXCCLUo_9mMCA7EKyB9sWVJYGmHkKWlLiX3mj8x46b01OiIn-aDrZ_BjU5uwP4tlpKlXFhup9iHy2imRHuM/s320/morte+alegria+tristeza.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A morte tem sua veia paradoxal; ela é benvinda e também não

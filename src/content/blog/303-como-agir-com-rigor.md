@@ -1,7 +1,7 @@
 ---
 title: "Como Agir com Rigor"
 date: 2016-09-19T20:17:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd3JbLTfT_ndsKGUcL5PW0KTKMdDewz2QeVkXPYEH0D01DroO-I9efSLlIPaEfGYAQNRwl33yQx1eWcwSy6QSROAqC8szZ2Gys3h5T4qRNIKoEO3RQHkv1yW-OTyRaF-IQ-aJHonOmVpk/s320/rigor.png"
+heroImage: "/images/rigor.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd3JbLTfT_ndsKGUcL5PW0KTKMdDewz2QeVkXPYEH0D01DroO-I9efSLlIPaEfGYAQNRwl33yQx1eWcwSy6QSROAqC8szZ2Gys3h5T4qRNIKoEO3RQHkv1yW-OTyRaF-IQ-aJHonOmVpk/s1600/rigor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd3JbLTfT_ndsKGUcL5PW0KTKMdDewz2QeVkXPYEH0D01DroO-I9efSLlIPaEfGYAQNRwl33yQx1eWcwSy6QSROAqC8szZ2Gys3h5T4qRNIKoEO3RQHkv1yW-OTyRaF-IQ-aJHonOmVpk/s320/rigor.png" width="320" height="212" data-original-width="444" data-original-height="294" /></a></div>

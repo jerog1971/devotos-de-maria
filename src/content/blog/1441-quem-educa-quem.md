@@ -1,7 +1,7 @@
 ---
 title: "Quem educa quem?"
 date: 2016-07-11T12:00:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhGKYLf_xtZEB3vr6Cu0OFyIZk7Qss_WW-wj7yPT3e_yAQv90X0AjLajzC0STGwOR9F3JZaaEwMdlpUoRGbS-d4L048xvvZpPN53DKqZRjAgj2ncj8gRihKdhICJFWl0ANDNl-6975hwY/s320/educar.png"
+heroImage: "/images/educar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhGKYLf_xtZEB3vr6Cu0OFyIZk7Qss_WW-wj7yPT3e_yAQv90X0AjLajzC0STGwOR9F3JZaaEwMdlpUoRGbS-d4L048xvvZpPN53DKqZRjAgj2ncj8gRihKdhICJFWl0ANDNl-6975hwY/s1600/educar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhGKYLf_xtZEB3vr6Cu0OFyIZk7Qss_WW-wj7yPT3e_yAQv90X0AjLajzC0STGwOR9F3JZaaEwMdlpUoRGbS-d4L048xvvZpPN53DKqZRjAgj2ncj8gRihKdhICJFWl0ANDNl-6975hwY/s320/educar.png" width="320" height="204" data-original-width="478" data-original-height="304" /></a></div>

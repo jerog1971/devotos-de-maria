@@ -1,7 +1,7 @@
 ---
 title: "Não matar é mais que \"matar\""
 date: 2016-11-08T11:35:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSvvKqSLreGyRmVo3VBsjzJw8mDThqFW4RM6IVr5fGNMR4qfpREy2rOb9kZv5xYlWMRJ9-TwLTCFujECjfqscaF09WJuItu2w-gpDptI5ZAWAU6MtxwkNGClRejo0TMeCUZMe7Soi1NeQ/s320/juiz.png"
+heroImage: "/images/juiz.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSvvKqSLreGyRmVo3VBsjzJw8mDThqFW4RM6IVr5fGNMR4qfpREy2rOb9kZv5xYlWMRJ9-TwLTCFujECjfqscaF09WJuItu2w-gpDptI5ZAWAU6MtxwkNGClRejo0TMeCUZMe7Soi1NeQ/s1600/juiz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSvvKqSLreGyRmVo3VBsjzJw8mDThqFW4RM6IVr5fGNMR4qfpREy2rOb9kZv5xYlWMRJ9-TwLTCFujECjfqscaF09WJuItu2w-gpDptI5ZAWAU6MtxwkNGClRejo0TMeCUZMe7Soi1NeQ/s320/juiz.png" width="249" height="320" data-original-width="247" data-original-height="318" /></a></div>

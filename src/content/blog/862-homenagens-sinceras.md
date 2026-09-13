@@ -1,7 +1,7 @@
 ---
 title: "Homenagens sinceras"
 date: 2024-09-04T20:11:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjnPC-YS4SUnBwsDIhWPMlwaslY9UR-p1r3O0wu-CERM4T3YZ8_jEOoGnOmh0Ss6xIlx9iKjG8FItu_OyEvM4OOT0_N_aAk2xiUIIEJYAgKNLCPByMu0dNzP08AlHdFKImeczPaNul9G8v88BTt-8X7u53pz9Z9abvhT60RrK8X3ImbTYMEBmiNY5xko/s320/homenagem.jpg"
+heroImage: "/images/Homenagem.jpg"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjnPC-YS4SUnBwsDIhWPMlwaslY9UR-p1r3O0wu-CERM4T3YZ8_jEOoGnOmh0Ss6xIlx9iKjG8FItu_OyEvM4OOT0_N_aAk2xiUIIEJYAgKNLCPByMu0dNzP08AlHdFKImeczPaNul9G8v88BTt-8X7u53pz9Z9abvhT60RrK8X3ImbTYMEBmiNY5xko/s961/homenagem.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="961" data-original-width="928" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjnPC-YS4SUnBwsDIhWPMlwaslY9UR-p1r3O0wu-CERM4T3YZ8_jEOoGnOmh0Ss6xIlx9iKjG8FItu_OyEvM4OOT0_N_aAk2xiUIIEJYAgKNLCPByMu0dNzP08AlHdFKImeczPaNul9G8v88BTt-8X7u53pz9Z9abvhT60RrK8X3ImbTYMEBmiNY5xko/s320/homenagem.jpg" width="309" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Vezes por outra o reconhecimento pelo esforço que fazemos é algo

@@ -1,7 +1,7 @@
 ---
 title: "Tem que ser Vorpal"
 date: 2017-06-08T14:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheM4rfm0aLtiMoV-1vIBXSDIR2-IacTguAjkoQXR8D6WxNn2URpTW3nmE_poqli9cZl5Z4bWADC7jsdUJ4RvofG8oCUL-5R9zeDX660Rk-YVaAniHLYKpYugugrGtJReAN_uvyYtPuQik/s320/vorpal.png"
+heroImage: "/images/vorpal.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheM4rfm0aLtiMoV-1vIBXSDIR2-IacTguAjkoQXR8D6WxNn2URpTW3nmE_poqli9cZl5Z4bWADC7jsdUJ4RvofG8oCUL-5R9zeDX660Rk-YVaAniHLYKpYugugrGtJReAN_uvyYtPuQik/s1600/vorpal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheM4rfm0aLtiMoV-1vIBXSDIR2-IacTguAjkoQXR8D6WxNn2URpTW3nmE_poqli9cZl5Z4bWADC7jsdUJ4RvofG8oCUL-5R9zeDX660Rk-YVaAniHLYKpYugugrGtJReAN_uvyYtPuQik/s320/vorpal.png" width="320" height="299" data-original-width="339" data-original-height="317" /></a></div>

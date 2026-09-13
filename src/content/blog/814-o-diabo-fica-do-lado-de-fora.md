@@ -1,7 +1,7 @@
 ---
 title: "O diabo fica do lado de fora"
 date: 2020-02-02T03:27:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4OqQZj2A_dmiKAjfP3UJJhfZ9dDHWmkNtXBBijg9UyhHaXrZ_YKM-Qx804BC1BYzfOOk7TwTBEPstE1ASrTDRbtgGTJcQmQNJj6r9tU6TpJSRycPGtlXlFQyJIuSBMwrR66RazWw4vo/s320/diabo.png"
+heroImage: "/images/Jesus_Diabo.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4OqQZj2A_dmiKAjfP3UJJhfZ9dDHWmkNtXBBijg9UyhHaXrZ_YKM-Qx804BC1BYzfOOk7TwTBEPstE1ASrTDRbtgGTJcQmQNJj6r9tU6TpJSRycPGtlXlFQyJIuSBMwrR66RazWw4vo/s1600/diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4OqQZj2A_dmiKAjfP3UJJhfZ9dDHWmkNtXBBijg9UyhHaXrZ_YKM-Qx804BC1BYzfOOk7TwTBEPstE1ASrTDRbtgGTJcQmQNJj6r9tU6TpJSRycPGtlXlFQyJIuSBMwrR66RazWw4vo/s320/diabo.png" width="320" height="288" data-original-width="304" data-original-height="274" /></a></div>

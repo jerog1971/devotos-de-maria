@@ -1,7 +1,7 @@
 ---
 title: "Pelos vivos, pelos mortos e pelos santos"
 date: 2017-10-31T19:02:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ3s3jbE1L9JfUAtZEntoiH1lyvR0hRdlkcBGweDd6K_6PwOGaOm538b6YkPH9avSFkesQClyUGqfjEtZk2L2zMFWAcwYEMXeVfJ1UgQa8dTj3deIyyQfoHn4-MAut_Ki8IZhYT23kTfQ/s320/defuntos.png"
+heroImage: "/images/defuntos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ3s3jbE1L9JfUAtZEntoiH1lyvR0hRdlkcBGweDd6K_6PwOGaOm538b6YkPH9avSFkesQClyUGqfjEtZk2L2zMFWAcwYEMXeVfJ1UgQa8dTj3deIyyQfoHn4-MAut_Ki8IZhYT23kTfQ/s1600/defuntos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="422" data-original-width="404" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ3s3jbE1L9JfUAtZEntoiH1lyvR0hRdlkcBGweDd6K_6PwOGaOm538b6YkPH9avSFkesQClyUGqfjEtZk2L2zMFWAcwYEMXeVfJ1UgQa8dTj3deIyyQfoHn4-MAut_Ki8IZhYT23kTfQ/s320/defuntos.png" width="306" /></a></div>

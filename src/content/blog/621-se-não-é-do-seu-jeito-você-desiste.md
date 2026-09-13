@@ -1,7 +1,7 @@
 ---
 title: "Se não é do seu jeito, você desiste?"
 date: 2017-05-08T15:22:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP4ncIq7khVdwqY4HIG3dtiDltjlt5XnyyELxgGdv1M9r94psfZKJDiAquRYz2MRUhQJS-GK9FjshOjLqc9Y-3K7p05Bs__lqqdJc3jtDsrgvsuzR7AG03mlXbDq2kikrhhZFV-JTHyBQ/s320/Urubici.png"
+heroImage: "/images/Urubici.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP4ncIq7khVdwqY4HIG3dtiDltjlt5XnyyELxgGdv1M9r94psfZKJDiAquRYz2MRUhQJS-GK9FjshOjLqc9Y-3K7p05Bs__lqqdJc3jtDsrgvsuzR7AG03mlXbDq2kikrhhZFV-JTHyBQ/s1600/Urubici.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP4ncIq7khVdwqY4HIG3dtiDltjlt5XnyyELxgGdv1M9r94psfZKJDiAquRYz2MRUhQJS-GK9FjshOjLqc9Y-3K7p05Bs__lqqdJc3jtDsrgvsuzR7AG03mlXbDq2kikrhhZFV-JTHyBQ/s320/Urubici.png" width="311" height="320" data-original-width="277" data-original-height="285" /></a></div>

@@ -1,7 +1,7 @@
 ---
 title: "Você vai ceder ao mal?"
 date: 2020-02-20T15:38:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXiVfJ97rqDT5OHhm4_kiQmT1UpoJdBmTDug_L4O4A7RliHd-BKUuNPas3t8-YIr10xJXOpO2pXpi-oA5n4SeaWxp8u15jefjm77SEcQyL_Wp7W1ebcD-gkq3fFkx8J5YDrJcMkK1T_EA/s320/inimigos.png"
+heroImage: "/images/inimigos.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXiVfJ97rqDT5OHhm4_kiQmT1UpoJdBmTDug_L4O4A7RliHd-BKUuNPas3t8-YIr10xJXOpO2pXpi-oA5n4SeaWxp8u15jefjm77SEcQyL_Wp7W1ebcD-gkq3fFkx8J5YDrJcMkK1T_EA/s1600/inimigos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="305" data-original-width="297" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXiVfJ97rqDT5OHhm4_kiQmT1UpoJdBmTDug_L4O4A7RliHd-BKUuNPas3t8-YIr10xJXOpO2pXpi-oA5n4SeaWxp8u15jefjm77SEcQyL_Wp7W1ebcD-gkq3fFkx8J5YDrJcMkK1T_EA/s320/inimigos.png" width="312" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Em primeira avaliação a maioria das pessoas irá dizer que não, ora, ceder ao mal? Nem pensar! O mal, contrário de bem, que nos traz tudo que irá nos prejudicar física e espiritualmente falando não é algo bem-vindo em nossas vidas. Parece coerente que a afirmação saia quase que de “bate pronto” de nossas bocas. Ah se fosse tão simples assim evitar o mal...

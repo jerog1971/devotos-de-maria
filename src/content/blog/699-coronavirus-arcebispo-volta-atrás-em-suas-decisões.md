@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus - Arcebispo volta atrás em suas decisões"
 date: 2020-03-24T20:11:00.002Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMDjQQOFz6tHyDYM08quMC3pvVhz5GI8mN62nDb8lH-PAUFJc8WSxVWdK5aYAoaXJcJ6wHVtrve4AzsgOBFaBjtwiTHY1ABtSualQpBtpF9SIL7krkOFf6whuWyyrgciqgmA7oew_eNdw/s320/francisco_e_peruzzo_hereges.png"
+heroImage: "/images/francisco_e_peruzzo_hereges.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMDjQQOFz6tHyDYM08quMC3pvVhz5GI8mN62nDb8lH-PAUFJc8WSxVWdK5aYAoaXJcJ6wHVtrve4AzsgOBFaBjtwiTHY1ABtSualQpBtpF9SIL7krkOFf6whuWyyrgciqgmA7oew_eNdw/s1600/francisco_e_peruzzo_hereges.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="481" data-original-width="550" height="280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMDjQQOFz6tHyDYM08quMC3pvVhz5GI8mN62nDb8lH-PAUFJc8WSxVWdK5aYAoaXJcJ6wHVtrve4AzsgOBFaBjtwiTHY1ABtSualQpBtpF9SIL7krkOFf6whuWyyrgciqgmA7oew_eNdw/s320/francisco_e_peruzzo_hereges.png" width="320" /></a></div>

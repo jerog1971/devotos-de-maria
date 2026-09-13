@@ -1,7 +1,7 @@
 ---
 title: "Serei Madrinha, e Agora?"
 date: 2016-07-11T11:57:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN1tbTceepNfDhZIUel-K8d0a1O0Eliv4597FvlUhkgdTc9wmedA2SgNZgJsDFt3eUBOy7ADmL3gUL43zjTzgWRjsvYLtJUa5w9UYH8bMupo26rAaAe_SbEQkZUzib0ZZxqk_IqD_nfK0/s320/madrinha.png"
+heroImage: "/images/madrinha.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN1tbTceepNfDhZIUel-K8d0a1O0Eliv4597FvlUhkgdTc9wmedA2SgNZgJsDFt3eUBOy7ADmL3gUL43zjTzgWRjsvYLtJUa5w9UYH8bMupo26rAaAe_SbEQkZUzib0ZZxqk_IqD_nfK0/s1600/madrinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN1tbTceepNfDhZIUel-K8d0a1O0Eliv4597FvlUhkgdTc9wmedA2SgNZgJsDFt3eUBOy7ADmL3gUL43zjTzgWRjsvYLtJUa5w9UYH8bMupo26rAaAe_SbEQkZUzib0ZZxqk_IqD_nfK0/s320/madrinha.png" width="287" height="320" data-original-width="458" data-original-height="511" /></a></div>

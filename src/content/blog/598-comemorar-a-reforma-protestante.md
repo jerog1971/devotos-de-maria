@@ -1,7 +1,7 @@
 ---
 title: "Comemorar a Reforma Protestante?"
 date: 2016-07-06T12:07:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2FyuJ6iaULw0WhfSSouWilogmdWrtbvUXbHMIeedxb5WQ-hlmGc-0SKu1GAeb1m6VvrxWFWTagfAjqhJRGh4rIm9ny8iX2VTh_yJ-esfB42Ul_M9_jxRhQIOHm2SXZ7qP66qd-_9Iibc/s320/reforma_protestante2.png"
+heroImage: "/images/reforma_protestante2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2FyuJ6iaULw0WhfSSouWilogmdWrtbvUXbHMIeedxb5WQ-hlmGc-0SKu1GAeb1m6VvrxWFWTagfAjqhJRGh4rIm9ny8iX2VTh_yJ-esfB42Ul_M9_jxRhQIOHm2SXZ7qP66qd-_9Iibc/s1600/reforma_protestante2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2FyuJ6iaULw0WhfSSouWilogmdWrtbvUXbHMIeedxb5WQ-hlmGc-0SKu1GAeb1m6VvrxWFWTagfAjqhJRGh4rIm9ny8iX2VTh_yJ-esfB42Ul_M9_jxRhQIOHm2SXZ7qP66qd-_9Iibc/s320/reforma_protestante2.png" width="320" height="169" data-original-width="368" data-original-height="194" /></a></div>

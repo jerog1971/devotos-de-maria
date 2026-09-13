@@ -1,7 +1,7 @@
 ---
 title: "Condições para ser catequista"
 date: 2016-06-13T14:29:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjruneJydHlX_Wj04t-FFxz07_oqEtSUpVhpr4MHApW1qK8R7a7Ee0zqwWG6MchdyHUE56NA1kNAlRge43JOEBjKqhKuyF3MSJbjeBGfuGCR3H4uuFg7gFHaw0vKprsMtuNB_u5z5r3zZw/s320/catequista2.png"
+heroImage: "/images/catequista2.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjruneJydHlX_Wj04t-FFxz07_oqEtSUpVhpr4MHApW1qK8R7a7Ee0zqwWG6MchdyHUE56NA1kNAlRge43JOEBjKqhKuyF3MSJbjeBGfuGCR3H4uuFg7gFHaw0vKprsMtuNB_u5z5r3zZw/s1600/catequista2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjruneJydHlX_Wj04t-FFxz07_oqEtSUpVhpr4MHApW1qK8R7a7Ee0zqwWG6MchdyHUE56NA1kNAlRge43JOEBjKqhKuyF3MSJbjeBGfuGCR3H4uuFg7gFHaw0vKprsMtuNB_u5z5r3zZw/s320/catequista2.png" width="320" height="299" data-original-width="514" data-original-height="480" /></a></div>

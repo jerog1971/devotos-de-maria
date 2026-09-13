@@ -1,7 +1,7 @@
 ---
 title: "Poema sobre o Passado"
 date: 2016-09-28T14:59:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyL43pPcZTUOtuBaWaIyNzBYJLocryk0hC9pCrta-tCdmbbd9ApGCroCsBd3GDfC-sc_UorVQ4AtI-Zf5MTcYiH5VKb6ly-uUTkq-0FG3ub0oTnuo2JZh7O5zoHzooRiSlRlqtts1QfrE/s320/passado.png"
+heroImage: "/images/passado.png"
 ---
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyL43pPcZTUOtuBaWaIyNzBYJLocryk0hC9pCrta-tCdmbbd9ApGCroCsBd3GDfC-sc_UorVQ4AtI-Zf5MTcYiH5VKb6ly-uUTkq-0FG3ub0oTnuo2JZh7O5zoHzooRiSlRlqtts1QfrE/s1600/passado.png" imageanchor="1" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyL43pPcZTUOtuBaWaIyNzBYJLocryk0hC9pCrta-tCdmbbd9ApGCroCsBd3GDfC-sc_UorVQ4AtI-Zf5MTcYiH5VKb6ly-uUTkq-0FG3ub0oTnuo2JZh7O5zoHzooRiSlRlqtts1QfrE/s320/passado.png" width="320" height="213" data-original-width="513" data-original-height="342" /></a>

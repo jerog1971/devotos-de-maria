@@ -1,7 +1,7 @@
 ---
 title: "Correrias e Deus"
 date: 2023-04-05T21:13:00.005Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEJ22X-aikXX4TUiAguoNRESWe5dUFrtqur_XQ3xxix3MLb_bOSTFqezTI0feRg-WWQYgHjMSdy6zg2smxMAz9F__OJwMnhjQ469HF_Z1W4zafntRN6Sr7qjWqxiJjB1Y2ZfUN1no3cAMTEePmb4q6cq33PyHFyJARmj28KtELmySnoBZwB9BF6X0y/s320/Correrias%20e%20Deus.png"
+heroImage: "/images/Correrias e Deus.png"
 ---
 
 <p></p><div class="separator" style="clear: both; text-align: left;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEJ22X-aikXX4TUiAguoNRESWe5dUFrtqur_XQ3xxix3MLb_bOSTFqezTI0feRg-WWQYgHjMSdy6zg2smxMAz9F__OJwMnhjQ469HF_Z1W4zafntRN6Sr7qjWqxiJjB1Y2ZfUN1no3cAMTEePmb4q6cq33PyHFyJARmj28KtELmySnoBZwB9BF6X0y/s711/Correrias%20e%20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="711" height="198" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEJ22X-aikXX4TUiAguoNRESWe5dUFrtqur_XQ3xxix3MLb_bOSTFqezTI0feRg-WWQYgHjMSdy6zg2smxMAz9F__OJwMnhjQ469HF_Z1W4zafntRN6Sr7qjWqxiJjB1Y2ZfUN1no3cAMTEePmb4q6cq33PyHFyJARmj28KtELmySnoBZwB9BF6X0y/s320/Correrias%20e%20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já sei que você sabe que sua vida é corrida; já sei e você

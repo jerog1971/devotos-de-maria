@@ -1,7 +1,7 @@
 ---
 title: "Ex-maçom convertido ao catolicismo"
 date: 2015-10-21T15:36:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51bmzGfgpb9l10CTSSNAl39XGXX1lgXoJXZ0-7DMr2GZ2abj0yDzG-wmO0VpmK4tF_fk9RHw00hev8az6W5A6BjbUHDEc_xc8vbSSCjRToOVl81x55tK8NS6arTESwrts_czGmgnPmNs/s320/ma%25C3%25A7om_convertido.png"
+heroImage: "/images/convertido.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51bmzGfgpb9l10CTSSNAl39XGXX1lgXoJXZ0-7DMr2GZ2abj0yDzG-wmO0VpmK4tF_fk9RHw00hev8az6W5A6BjbUHDEc_xc8vbSSCjRToOVl81x55tK8NS6arTESwrts_czGmgnPmNs/s1600/ma%25C3%25A7om_convertido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51bmzGfgpb9l10CTSSNAl39XGXX1lgXoJXZ0-7DMr2GZ2abj0yDzG-wmO0VpmK4tF_fk9RHw00hev8az6W5A6BjbUHDEc_xc8vbSSCjRToOVl81x55tK8NS6arTESwrts_czGmgnPmNs/s320/ma%25C3%25A7om_convertido.png" width="320" height="208" data-original-width="576" data-original-height="375" /></a></div>

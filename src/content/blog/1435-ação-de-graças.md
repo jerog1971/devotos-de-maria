@@ -1,7 +1,7 @@
 ---
 title: "Ação de Graças"
 date: 2017-05-25T16:50:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixYpIfAXXC4BoTZcqDXKZAAqBsoNadRvVXQ4n8HzsoYLYoTZviPxXgMYjZPm0qyHmyuW8YSeNGF_dC5-KCx4wF2ThyjuUgj5v4aZX9yPTE9boemV2NCL21HsHB4F3eyJv9VdNYWY6gLYw/s320/SoYas.jpg"
+heroImage: "/images/SoYas.jpg"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixYpIfAXXC4BoTZcqDXKZAAqBsoNadRvVXQ4n8HzsoYLYoTZviPxXgMYjZPm0qyHmyuW8YSeNGF_dC5-KCx4wF2ThyjuUgj5v4aZX9yPTE9boemV2NCL21HsHB4F3eyJv9VdNYWY6gLYw/s1600/SoYas.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixYpIfAXXC4BoTZcqDXKZAAqBsoNadRvVXQ4n8HzsoYLYoTZviPxXgMYjZPm0qyHmyuW8YSeNGF_dC5-KCx4wF2ThyjuUgj5v4aZX9yPTE9boemV2NCL21HsHB4F3eyJv9VdNYWY6gLYw/s320/SoYas.jpg" width="320" height="167" data-original-width="715" data-original-height="373" /></a></div>

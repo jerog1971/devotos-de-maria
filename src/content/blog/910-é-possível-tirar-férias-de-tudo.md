@@ -1,7 +1,7 @@
 ---
 title: "É possível tirar férias de tudo?"
 date: 2017-02-01T01:53:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9C-nYLj_4_wV3uXbj0cYeghhHbXW-4Eta7I0LNPZ7HFTp42UOxeIlgwB_8HLdp91CgFInrqvldVBuesc6CO1_gbn4w3e05qYZ1X8kKdQTaD1NSiVqL4b2vgyslUANJPmlorS1p9D4Qh8/s320/ferias.png"
+heroImage: "/images/ferias.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9C-nYLj_4_wV3uXbj0cYeghhHbXW-4Eta7I0LNPZ7HFTp42UOxeIlgwB_8HLdp91CgFInrqvldVBuesc6CO1_gbn4w3e05qYZ1X8kKdQTaD1NSiVqL4b2vgyslUANJPmlorS1p9D4Qh8/s1600/ferias.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="378" data-original-width="405" height="299" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9C-nYLj_4_wV3uXbj0cYeghhHbXW-4Eta7I0LNPZ7HFTp42UOxeIlgwB_8HLdp91CgFInrqvldVBuesc6CO1_gbn4w3e05qYZ1X8kKdQTaD1NSiVqL4b2vgyslUANJPmlorS1p9D4Qh8/s320/ferias.png" width="320" /></a></div>

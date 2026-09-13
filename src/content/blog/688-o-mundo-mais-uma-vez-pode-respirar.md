@@ -1,7 +1,7 @@
 ---
 title: "O mundo mais uma vez pode respirar"
 date: 2020-03-24T15:02:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMi8bH1m2avNBYbtYJRy82lz_jl67rzNTldOb3M-oNMnPHbc_V-JivzY3R3b3wmX2_v-dEUygntcDm0Q0YWVWsVboWntlaOxssTvQi8RcJjEunpHjfcrKI21mXs2mo_h_ZCG0xQFGEIc/s320/morrer.png"
+heroImage: "/images/morrer.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMi8bH1m2avNBYbtYJRy82lz_jl67rzNTldOb3M-oNMnPHbc_V-JivzY3R3b3wmX2_v-dEUygntcDm0Q0YWVWsVboWntlaOxssTvQi8RcJjEunpHjfcrKI21mXs2mo_h_ZCG0xQFGEIc/s1600/morrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMi8bH1m2avNBYbtYJRy82lz_jl67rzNTldOb3M-oNMnPHbc_V-JivzY3R3b3wmX2_v-dEUygntcDm0Q0YWVWsVboWntlaOxssTvQi8RcJjEunpHjfcrKI21mXs2mo_h_ZCG0xQFGEIc/s320/morrer.png" width="320" height="297" data-original-width="308" data-original-height="286" /></a></div>

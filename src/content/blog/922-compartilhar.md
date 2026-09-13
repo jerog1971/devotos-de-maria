@@ -1,7 +1,7 @@
 ---
 title: "Compartilhar"
 date: 2018-09-05T16:58:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6H5f54fdDA-LNTXP42s7jOlhh5diP-CMrhisPYYf6hiDCF-hE89BcsLVTFBr_WMdpvMA07txRWgX3k8EvvPb39ok1WeCG-cTAj8zaIuUBB4g35U7fUf_-SXD-9VwVZFiDClkOOzsSLvc/s320/compartilhar.png"
+heroImage: "/images/compartilhar.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6H5f54fdDA-LNTXP42s7jOlhh5diP-CMrhisPYYf6hiDCF-hE89BcsLVTFBr_WMdpvMA07txRWgX3k8EvvPb39ok1WeCG-cTAj8zaIuUBB4g35U7fUf_-SXD-9VwVZFiDClkOOzsSLvc/s1600/compartilhar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6H5f54fdDA-LNTXP42s7jOlhh5diP-CMrhisPYYf6hiDCF-hE89BcsLVTFBr_WMdpvMA07txRWgX3k8EvvPb39ok1WeCG-cTAj8zaIuUBB4g35U7fUf_-SXD-9VwVZFiDClkOOzsSLvc/s320/compartilhar.png" width="312" height="320" data-original-width="492" data-original-height="504" /></a></div>

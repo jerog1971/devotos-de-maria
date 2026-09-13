@@ -1,7 +1,7 @@
 ---
 title: "Como Cristo cuida de sua Igreja"
 date: 2016-07-27T19:24:00Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb0VQd8YX1mzqM9WbIWcyKbVe14BZmmJIFZGD4HMkOyuNB1ivW42vHPhbcqokjixo8xqhSU_DY4V0rfVEPGTHBHWJIBAAY0Ff3sTM4mOc5q5jk15-XEy7e11v3iUMNK0jFAMhIikjXMzU/s320/brigida.png"
+heroImage: "/images/brigida.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb0VQd8YX1mzqM9WbIWcyKbVe14BZmmJIFZGD4HMkOyuNB1ivW42vHPhbcqokjixo8xqhSU_DY4V0rfVEPGTHBHWJIBAAY0Ff3sTM4mOc5q5jk15-XEy7e11v3iUMNK0jFAMhIikjXMzU/s1600/brigida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb0VQd8YX1mzqM9WbIWcyKbVe14BZmmJIFZGD4HMkOyuNB1ivW42vHPhbcqokjixo8xqhSU_DY4V0rfVEPGTHBHWJIBAAY0Ff3sTM4mOc5q5jk15-XEy7e11v3iUMNK0jFAMhIikjXMzU/s320/brigida.png" width="320" height="233" data-original-width="699" data-original-height="510" /></a></div>

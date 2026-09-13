@@ -1,7 +1,7 @@
 ---
 title: "Subestimado ou Inferiorizado?"
 date: 2018-04-11T20:24:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhryIFn3nRZV_3DLATCZ_aroIU_IeQ8qXtw2JDA3V973y9WVCeCjO-b2pHKTnQ-Xov4rw8kmEzdl8zAwqdPU8UxwyXV1db36I4W3GK3JHX3fMwIyQKAfEIQQSNBTr_Szt8ZcoJT5epuLo/s320/subestimado.png"
+heroImage: "/images/subestimado.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhryIFn3nRZV_3DLATCZ_aroIU_IeQ8qXtw2JDA3V973y9WVCeCjO-b2pHKTnQ-Xov4rw8kmEzdl8zAwqdPU8UxwyXV1db36I4W3GK3JHX3fMwIyQKAfEIQQSNBTr_Szt8ZcoJT5epuLo/s1600/subestimado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhryIFn3nRZV_3DLATCZ_aroIU_IeQ8qXtw2JDA3V973y9WVCeCjO-b2pHKTnQ-Xov4rw8kmEzdl8zAwqdPU8UxwyXV1db36I4W3GK3JHX3fMwIyQKAfEIQQSNBTr_Szt8ZcoJT5epuLo/s320/subestimado.png" width="320" height="318" data-original-width="409" data-original-height="406" /></a></div>

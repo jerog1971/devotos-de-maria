@@ -1,7 +1,7 @@
 ---
 title: "Santo Padroeiro"
 date: 2016-10-03T16:28:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9PmnKjvn-ELDmj0w-8hIsg6WoLKHEhYanfEqMEKSylJiSS8kvRw5k9_5qy4E9WdAuHLPjs7dLJ0aC096HSgwOLkxM2mU0HIol8da09ApDCeJpAcjJKHylfMVOoFKWDEC-sJW0mJCFBps/s320/anastacia.png"
+heroImage: "/images/Santa Anastacia.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9PmnKjvn-ELDmj0w-8hIsg6WoLKHEhYanfEqMEKSylJiSS8kvRw5k9_5qy4E9WdAuHLPjs7dLJ0aC096HSgwOLkxM2mU0HIol8da09ApDCeJpAcjJKHylfMVOoFKWDEC-sJW0mJCFBps/s1600/anastacia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="232" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9PmnKjvn-ELDmj0w-8hIsg6WoLKHEhYanfEqMEKSylJiSS8kvRw5k9_5qy4E9WdAuHLPjs7dLJ0aC096HSgwOLkxM2mU0HIol8da09ApDCeJpAcjJKHylfMVOoFKWDEC-sJW0mJCFBps/s320/anastacia.png" width="225" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>De origem do latim PATRONUS, que quer dizer “defensor, protetor” e derivado de PATER, que quer dizer “pai”, para nós católicos é uma alegria imensa podermos contar com essa assistência celeste por intermédio dos anjos e santos de Deus. Colocarmos nossa vida, nossas questões diárias, nossas causas, nossas obras, nossos afazeres, enfim, todas as coisas que temos na vida sob a guarda e assistência de um padroeiro ou de uma padroeira não poderia existir algo de mais sábio a se fazer.

@@ -1,7 +1,7 @@
 ---
 title: "Inseparável Celular"
 date: 2017-05-30T14:32:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgauTI9k7nS0kdem-QDzaVetzd2PrkbRf_HIZZuVrslzhwdMXGqqJvHXYIMfVlqc-Z64-JqT9pWuMoIkYB9heC-RU4N4mM_Me0NRP_l8vbvXiwumOxjViUc0BTXaL8jSJhLoNsm1o2wS_k/s320/vicio.png"
+heroImage: "/images/vicio.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgauTI9k7nS0kdem-QDzaVetzd2PrkbRf_HIZZuVrslzhwdMXGqqJvHXYIMfVlqc-Z64-JqT9pWuMoIkYB9heC-RU4N4mM_Me0NRP_l8vbvXiwumOxjViUc0BTXaL8jSJhLoNsm1o2wS_k/s1600/vicio.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="221" data-original-width="221" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgauTI9k7nS0kdem-QDzaVetzd2PrkbRf_HIZZuVrslzhwdMXGqqJvHXYIMfVlqc-Z64-JqT9pWuMoIkYB9heC-RU4N4mM_Me0NRP_l8vbvXiwumOxjViUc0BTXaL8jSJhLoNsm1o2wS_k/s320/vicio.png" width="320" /></a></div>

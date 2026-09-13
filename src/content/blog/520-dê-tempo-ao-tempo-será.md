@@ -1,7 +1,7 @@
 ---
 title: "Dê tempo ao tempo, será?"
 date: 2017-09-12T11:48:00.001Z
-heroImage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHqI0TzseEpxH_4OHanZHAtqVQrBxyMI7oSqRJAkFhP2DFHVFi213XspcHRGHrF3SSV6k4s69QJOg2gQ-ssO9EpVjp61l-H0WNNjo3iRJhSZU5EkkS7XX99ZkMnviGRVWKogiyFnrAts/s320/ampulheta.png"
+heroImage: "/images/ampulheta.png"
 ---
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHqI0TzseEpxH_4OHanZHAtqVQrBxyMI7oSqRJAkFhP2DFHVFi213XspcHRGHrF3SSV6k4s69QJOg2gQ-ssO9EpVjp61l-H0WNNjo3iRJhSZU5EkkS7XX99ZkMnviGRVWKogiyFnrAts/s1600/ampulheta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHqI0TzseEpxH_4OHanZHAtqVQrBxyMI7oSqRJAkFhP2DFHVFi213XspcHRGHrF3SSV6k4s69QJOg2gQ-ssO9EpVjp61l-H0WNNjo3iRJhSZU5EkkS7XX99ZkMnviGRVWKogiyFnrAts/s320/ampulheta.png" width="320" height="303" data-original-width="515" data-original-height="487" /></a></div>
