@@ -73,8 +73,6 @@ Deus Todo-Poderoso e Eterno, que por um prodígio de bondade e misericórdia par
 
 ---
 
-**Vídeo:** Padre Paulo Ricardo - Se Relacionar com o Anjo da Guarda
-
 A tradição católica ensina que o coro celeste é dividido e organized segundo as funções atribuídas por Deus Pai:
 
 ### 1. Coro Celeste dos Serafins
