@@ -7,8 +7,6 @@ pubDate: '2026-09-13'
 
 # Nossa Senhora de Fátima e a Origem da Devoção Mariana
 
-![Anjo de Portugal](/images/paginas/fatima0.png)
-
 ## As aparições do Anjo de Portugal
 
 Em 1916, o Anjo de Portugal apareceu aos três pastorinhos e ensinou-os a rezar, preparando-os para as aparições de Nossa Senhora em 1917. Em Portugal, ao sul de uma cidade chamada Fátima, na aldeia de Aljustrel, viviam, no começo do século XX, três pastorinhos: Lúcia de Jesus dos Santos e seus primos Francisco e Jacinta Marto. Como todas as crianças inocentes e simples das montanhas daquela época, gostavam de brincar, jogar, ouvir histórias e sair com as ovelhas. Rezavam com regularidade o terço que levavam consigo sempre quando conduziam o rebanho a pastorear. Lúcia era a mais velha. Dócil e bondosa, estava sempre pronta para ajudar os outros. Ensinava as crianças a cantarem versos a Nossa Senhora e contava-lhes histórias. Jacinta tinha especial afeição pela narração da Paixão de Nosso Senhor Jesus Cristo.
@@ -50,8 +48,6 @@ O Anjo da Paz veio preparar as crianças para as importantes e reveladoras apari
 ## Primeira aparição de Nossa Senhora de Fátima
 
 **13 de maio de 1917**
-
-![Primeira Aparição de Nossa Senhora](/images/paginas/fatima1.png)
 
 Lúcia, Francisco e Jacinta estavam brincando num lugar chamado Cova da Iria. De repente, observaram dois clarões como de relâmpagos, e em seguida viram, sobre a copa de uma pequena árvore chamada azinheira, uma Senhora de beleza incomparável. Era uma Senhora vestida de branco, mais brilhante que o sol, irradiando luz mais clara e intensa que um copo de cristal cheio de água cristalina, atravessado pelos raios do sol mais ardente. Sua face, indescritivelmente bela, não era nem alegre e nem triste, mas séria, com ar de suave censura. As mãos juntas, como a rezar, apoiadas no peito, e voltadas para cima. Da sua mão direita pendia um Rosário. As vestes pareciam feitas somente de luz. A túnica e o manto eram brancos com bordas douradas, cobrindo a cabeça da Virgem Maria e descendo-lhe até os pés. Lúcia jamais conseguiu descrever perfeitamente os traços dessa fisionomia tão brilhante.
 
@@ -107,8 +103,6 @@ Em seguida, cercada de luz, começou a elevar-se serenamente, até desaparecer.
 
 ## Segunda aparição de Nossa Senhora de Fátima
 
-![Segunda Aparição de Nossa Senhora](/images/paginas/fatima2.png)
-
 Antes da segunda aparição, os pastorinhos notaram novamente um clarão, a que chamavam relâmpago, mas que não era propriamente um relâmpago. Era o reflexo de uma luz que se aproximava. Além dos pastorinhos, havia, também, cerca de 50 pessoas. Mas essas pessoas não viam Nossa Senhora. Lúcia começou a falar com Nossa Senhora.
 
 **Lúcia:** “Vossemecê que me quer?”
@@ -132,8 +126,6 @@ Foi no momento em que disse estas últimas palavras que Nossa Senhora abriu as m
 ---
 
 ## Terceira aparição de Nossa Senhora de Fátima
-
-![Terceira Aparição de Nossa Senhora](/images/paginas/fatima3.png)
 
 Uma nuvenzinha pairou sobre a azinheira. O sol se ofuscou. Uma brisa fresca soprou sobre a terra, apesar de ser o auge do verão. Os pastorinhos viram o reflexo da luz — como nas aparições anteriores — e, em seguida, viram Nossa Senhora sobre a arvorezinha chamada azinheira.
 
@@ -173,8 +165,6 @@ E, como de costume, Nossa Senhora começou a elevar-se até desaparecer no céu.
 
 ## Quarta aparição de Nossa Senhora de Fátima
 
-![Quarta Aparição de Nossa Senhora](/images/paginas/fatima4.png)
-
 Lúcia estava com Francisco e mais um primo, no local chamado Valinhos — uma propriedade de um de seus tios — quando, pelas 4 horas da tarde, começaram a se produzir as alterações atmosféricas que precediam as aparições de Nossa Senhora na Cova da Iria: um súbito refrescar da temperatura e uma diminuição da luz do sol. Lúcia, sentindo que alguma coisa de sobrenatural se aproximava e os envolvia, mandou chamar às pressas Jacinta, a qual chegou em tempo para ver Nossa Senhora que — anunciada, como das outras vezes, por um reflexo de luz — apareceu sobre a árvore chamada azinheira, um pouco maior que a da Cova da Iria, onde tinham-se dado as aparições anteriores. Lúcia pergunta a Nossa Senhora:
 
 **Lúcia:** “Que é que Vossemecê me quer?”
@@ -199,8 +189,6 @@ E, como de costume, começou a elevar-se até desaparecer. Os pastorinhos cortar
 
 ## Quinta aparição de Nossa Senhora de Fátima
 
-![Quinta Aparição de Nossa Senhora](/images/paginas/fatima5.png)
-
 Como das outras vezes, uma série de fenômenos atmosféricos foram observados pelas pessoas que tinham ido à Cova da Iria. Calculou-se que estavam presentes entre 15 e 20 mil pessoas. O súbito refrescar da atmosfera, o empalidecer do sol até o ponto de se verem as estrelas, uma espécie de chuva de pétalas ou flocos de neve, que desapareciam antes de pousarem na terra. E desta vez, foi notado um globo luminoso, que se movia, lenta e majestosamente pelo céu de um lado para outro e que, no final da aparição, moveu-se em sentido contrário. Os três pastorinhos notaram, como de costume, o reflexo de uma luz e, a seguir, viram Nossa Senhora sobre a azinheira.
 
 **Nossa Senhora:** “Continuem a rezar o Terço para alcançarem o fim da guerra. Em Outubro virá também Nosso Senhor, Nossa Senhora das Dores e do Carmo, São José com o Menino Jesus, para abençoarem o mundo. Deus está contente com os vossos sacrifícios, mas não quer que durmais com a corda; trazei-a só durante o dia.”
@@ -216,8 +204,6 @@ E, começando a elevar-se, desapareceu como de costume.
 ## Sexta aparição de Nossa Senhora de Fátima
 
 **13 de outubro de 1917**
-
-![Sexta Aparição de Nossa Senhora](/images/paginas/fatima6.png)
 
 Uma grande multidão rezava o Terço na Cova da Iria. Os três pastorinhos notaram o reflexo de uma luz e, em seguida, viram Nossa Senhora sobre a azinheira.
 
@@ -247,8 +233,6 @@ Finalmente, o sol voltou em ziguezague para o ponto de onde se tinha precipitado
 
 ## Origem da devoção à Virgem Maria
 
-![Anunciação](/images/paginas/anuncio.png)
-
 A Igreja sempre viu a mãe de Jesus Cristo como Mãe da própria Igreja, ou foi isso uma invenção posterior? Desde quando Maria é vista como nossa intercessora junto a Deus? Desde quando a Igreja pede proteção a Maria? Para aqueles que leem exclusivamente a Bíblia, estas são perguntas válidas e justas; afinal, as Sagradas Escrituras não tratam destas questões explicitamente.
 
 ### O erro fundamental
@@ -267,8 +251,6 @@ As tradições meramente humanas, como as dos antigos fariseus e doutores da Lei
 
 Estando claros esses pontos fundamentais, entremos, afinal, na questão da devoção a Nossa Senhora. Pois muitas acusações creem que a devoção à Virgem Maria começou depois de Constantino, ou que foi Constantino quem a "inventou"... Por isso, sempre é pedida alguma prova de que a Igreja que existia antes de Constantino já cultivava tal devoção. Muito bem, vejamos...
 
-![Apresentação no Templo](/images/paginas/circunsição.png)
-
 ### A origem está nos Evangelhos
 
 A devoção à Santíssima Virgem Maria começou com o próprio cristianismo. Naquela singelíssima casa de Nazaré, há dois milênios, encontramos o Anjo Gabriel, enviado por Deus, saudando Maria! *“Salve, ó cheia de graça, o Senhor está contigo!”* (Lc 1,28). Com estas palavras, vindas diretamente do Céu, começou a devoção mariana. Quem pode negar a evidência deste fato?
@@ -286,9 +268,6 @@ Na passagem das Bodas de Caná, vemos que o Senhor "adiantou a sua hora" — em 
 Assim é que começa a devoção mariana. E continua, pelos séculos, sem interrupção. A verdade histórica é: Maria, a partir das palavras pronunciadas pelo Anjo Gabriel (que eram as palavras do próprio Deus para ela, afinal o arcanjo é Mensageiro do Criador), foi imediatamente vista com especial admiração, com grande carinho e reverência. E logo sua intercessão foi invocada, pelo motivo óbvio: seu particularíssimo e incomparável vínculo com o Cristo — o vínculo da maternidade! Logo, é evidente que quando recorremos a Maria para pedir algum favor, não nos encontramos fora do contexto do Evangelho, mas totalmente dentro dele.
 
 Sei que aqui alguns questionarão dizendo que Maria não se encontra mais entre nós, e que isso faz toda a diferença. Segundo estes, não é a mesma coisa pedir a oração de um irmão que está ao nosso lado, aqui e agora, do que a um santo que morreu há muito tempo, ainda que esta santa, no caso, seja a própria mãe do Senhor. Bem, nós já tratamos deste assunto específico, e você pode ler e comprovar (também biblicamente) que os santos no Céu estão mais vivos do que nós, aqui na Terra, e permanecem em íntima união com Deus. Haja vista o relato encontrado sobre essa realidade no livro do Apocalipse.
-
-![Virgem Maria - Catacumbas de Santa Priscila](/images/paginas/mariasecII.png)
-*Primeira representação conhecida da Virgem Maria (Catacumbas de Santa Priscila - século II)*
 
 ### Outras provas: História e Arqueologia
 
