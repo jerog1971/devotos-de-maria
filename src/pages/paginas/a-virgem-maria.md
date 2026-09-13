@@ -7,40 +7,39 @@ heroImage: '/images/paginas/a-virgem-maria.png'
 
 ### Artigos e Devocionários
 
-* [01 - A Virgem Maria em Medjugorje](https://www.devotos-de-maria.com.br/2017/12/a-virgem-maria-em-medjugorge.html)
-* [02 - Os 10 segredos de Medjugorje - parte 01](https://www.devotos-de-maria.com.br/2017/12/os-10-segredos-de-medjugorje-parte-01.html)
-* [03 - Os 10 segredos de Medjugorje - parte 02](https://www.devotos-de-maria.com.br/2017/12/os-10-segredos-de-medjugorje-parte-02.html)
-* [04 - Os 10 segredos de Medjugorje - parte 03](https://www.devotos-de-maria.com.br/2017/12/os-10-segredos-de-medjugorge-parte-03.html)
-* [05 - Mensagem de Nossa Senhora](https://www.devotos-de-maria.com.br/2015/03/mensagem-de-nossa-senhora.html)
-* [06 - Não faça pela metade](https://www.devotos-de-maria.com.br/2018/11/nao-faca-pela-metade.html)
-* [07 - Palavras de Nossa Senhora](https://www.devotos-de-maria.com.br/2018/12/palavras-de-nossa-senhora.html)
-* [08 - A intercessão de Nossa Senhora](https://www.devotos-de-maria.com.br/2018/12/a-intersecao-de-nossa-senhora.html)
-* [09 - Depoimento de um bispo](https://www.devotos-de-maria.com.br/2018/11/depoimento-de-um-bispo.html)
-* [10 - Saindo do caminho da perdição](https://www.devotos-de-maria.com.br/2018/06/saindo-do-caminho-da-perdicao.html)
-* [11 - Por que dos segredos de Medjugorje?](https://www.devotos-de-maria.com.br/2019/06/ja-pararam-para-pensar-no-por-que-dos.html)
-* [12 - A maior dor de Mirjana](https://www.devotos-de-maria.com.br/2019/07/a-maior-dor-de-mirjana.html)
-* [13 - Nossa Senhora se manifesta](https://www.devotos-de-maria.com.br/2020/04/nossa-senhora-se-manifesta.html)
-* [14 - A presença da Virgem Maria](https://www.devotos-de-maria.com.br/2020/04/a-presenca-da-virgem-maria.html)
-* [15 - A Virgindade de Maria](https://www.devotos-de-maria.com.br/2020/04/a-virgindade-de-maria.html)
-* [16 - A assistência de Maria aos pecadores](https://www.devotos-de-maria.com.br/2020/04/a-assistencia-de-maria-aos-pecadores.html)
-* [17 - O início das aparições em Medjugorje](https://www.devotos-de-maria.com.br/2020/06/o-inicio-das-aparicoes-em-medjugorje.html)
-* [18 - O devoto de Maria não se perde](https://www.devotos-de-maria.com.br/2020/10/o-devoto-de-maria-nao-se-perde.html)
-* [19 - Aparições públicas da Virgem Maria](https://www.devotos-de-maria.com.br/2021/01/aparicoes-publicas-da-virgem-maria.html)
-* [20 - Será que ela ajuda mesmo?](https://www.devotos-de-maria.com.br/2021/08/sera-que-ela-ajuda-mesmo.html)
+* [01 - A Virgem Maria em Medjugorje](/blog/198-a-virgem-maria-em-medjugorge/)
+* [02 - Os 10 segredos de Medjugorje - parte 01](/blog/1808-os-10-segredos-de-medjugorje-parte-01/)
+* [03 - Os 10 segredos de Medjugorje - parte 02](/blog/1004-os-10-segredos-de-medjugorje-parte-02/)
+* [04 - Os 10 segredos de Medjugorje - parte 03](/blog/1804-os-10-segredos-de-medjugorje-parte-03/)
+* [05 - Mensagem de Nossa Senhora](/blog/1581-mensagem-de-nossa-senhora-em-02-de-maio-de-2018/)
+* [06 - Não faça pela metade](/blog/212-não-faça-pela-metade/)
+* [07 - Palavras de Nossa Senhora](/blog/2044-palavras-de-nossa-senhora/)
+* [08 - A intercessão de Nossa Senhora](/blog/683-a-intercessão-de-nossa-senhora/)
+* [09 - Depoimento de um bispo](/blog/1918-depoimento-de-um-bispo/)
+* [10 - Saindo do caminho da perdição](/blog/1150-saindo-do-caminho-da-perdição/)
+* [11 - Por que dos segredos de Medjugorje?](/blog/660-já-pararam-para-pensar-no-por-que-dos-segredos-de-/)
+* [12 - A maior dor de Mirjana](/blog/029-a-maior-dor-de-mirjana/)
+* [13 - A presença da Virgem Maria](/blog/711-a-presença-da-virgem-maria/)
+* [14 - A Virgindade de Maria](/blog/1988-a-virgindade-de-maria/)
+* [15 - A assistência de Maria aos pecadores](/blog/2101-a-assistência-de-maria-aos-pecadores/)
+* [16 - O início das aparições em Medjugorje](/blog/1118-o-início-das-aparições-em-medjugorje/)
+* [17 - O devoto de Maria não se perde](/blog/237-o-devoto-de-maria-não-se-perde/)
+* [18 - Aparições públicas da Virgem Maria](/blog/1286-aparições-públicas-da-virgem-maria/)
+* [19 - Será que ela ajuda mesmo?](/blog/1272-será-que-ela-ajuda-mesmo/)
 
 ---
 
-* [Papa Francisco duvida das aparições de Medjugorje](https://www.devotos-de-maria.com.br/2017/12/papa-francisco-duvida-das-aparicoes-de.html)
+* [Papa Francisco duvida das aparições de Medjugorje](/blog/1347-papa-francisco-duvida-das-aparições-de-medjugorje/)
 * [Canal Mary TV - Medjugorje](https://marytv.tv/)
 
 ---
 
 ### Outras Devoções Marianas
 
-* [Nossa Senhora de Fátima](https://www.devotos-de-maria.com.br/p/setena.html)
-* [Nossa Senhora das Graças](https://www.devotos-de-maria.com.br/p/nossa-senhora-das-gracas.html)
-* [Nossa Senhora das Lágrimas](https://www.devotos-de-maria.com.br/p/blog-page_22.html)
-* [O Santo Rosário](https://www.devotos-de-maria.com.br/p/blog-page.html)
+* [Nossa Senhora de Fátima](/blog/1425-13-de-maio-nossa-senhora-de-fátima/)
+* [Nossa Senhora das Graças](/blog/1531-nossa-senhora-das-graças/)
+* [Nossa Senhora das Lágrimas](/blog/1861-nossa-senhora-das-lágrimas/)
+* [O Santo Rosário](/blog/753-o-rosário/)
 
 ---
 
@@ -70,7 +69,7 @@ Quando a Santíssima Virgem, ao cair da tarde, sentiu aproximar-se-lhe o fim, qu
 
 A João disse como devia sepultar-lhe o corpo e distribuir-lhe a roupa entre a criada e outra moça pobre da vizinhança, que às vezes lhe viera prestar serviços.
 
-Depois dos Apóstolos, acercaram-se do leito da Santíssima Virgem os discípulos presentes e receberam-lhe também a bênção do mesmo modo. Os homens retiraram-se então para o quarto anterior da casa e prepararam-se para o ofício divino, enquanto as mulheres presentes se aproximavam do leito da Santíssima Virgem, se ajoelhavam e recebiam a bênção. Vi que uma delas, inclinando-se sobre Maria, recebeu dela um abraço. Nesse ínterim foi preparado o altar e os Apóstolos vestiram-se para o ofício divino, com longas vestes brancas, cingindo-se com as cintas ornadas de letras. Cinco deles, que funcionavam no ato solene do sacrifício como o viu celebrar por Pedro após a ascensão de Jesus, primeiro na Igreja nova perto do tanque de Betesda, revestiram-se das grandes e belas vestes sacerdotais.
+Depois dos Apóstolos, acercaram-se do leito da Santíssima Virgem os discípulos presentes e receberam-lhe também a bênção do mesmo modo. Os homens retiraram-se então para o quarto anterior da casa e prepararam-se para o ofício divino, enquanto as mulheres presentes se aproximavam do leito da Santíssima Virgem, se ajoelhavam e receberam a bênção. Vi que uma delas, inclinando-se sobre Maria, recebeu dela um abraço. Nesse ínterim foi preparado o altar e os Apóstolos vestiram-se para o ofício divino, com longas vestes brancas, cingindo-se com as cintas ornadas de letras. Cinco deles, que funcionavam no ato solene do sacrifício como o viu celebrar por Pedro após a ascensão de Jesus, primeiro na Igreja nova perto do tanque de Betesda, revestiram-se das grandes e belas vestes sacerdotais.
 
 O Ofício divino já estava adiantado quando chegaram Felipe e um companheiro do Egito. Dirigiu-se imediatamente à Mãe do Senhor e recebeu-lhe a bênção, chorando copiosamente.
 
