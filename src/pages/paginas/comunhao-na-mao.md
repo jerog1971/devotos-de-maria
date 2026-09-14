@@ -5,7 +5,7 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
-![Comunhão na mão](/images/comunhão na mão.png)
+![Comunhão na mão](/images/comunhao_na_mao.png)
 
 ### Comunhão na mão: recusada pelos bispos em 1969 e imposta a (quase) toda a Igreja
 
