@@ -2,23 +2,42 @@
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../consts';
 
-// Lista das páginas convertidas (as que já estão em src/pages/paginas/)
+// Lista completa das páginas convertidas (ordenadas alfabeticamente pelo título)
 const paginas = [
   { title: "A Bíblia e a Igreja", slug: "a-biblia-e-a-igreja" },
   { title: "A Santa Missa de Catalina", slug: "a-santa-missa-de-catalina" },
   { title: "A Virgem Maria", slug: "a-virgem-maria" },
   { title: "Anjos", slug: "anjos" },
+  { title: "Beata Alexandrina", slug: "beata-alexandrina" },
+  { title: "Beata Imelda", slug: "beata-imelda" },
+  { title: "Cantos", slug: "cantos" },
   { title: "Comunhão", slug: "comunhao" },
+  { title: "Comunhão na Mão", slug: "comunhao-na-mao" },
   { title: "Confissão", slug: "confissao" },
+  { title: "Confissões do Inferno", slug: "confissoes-do-inferno" },
   { title: "Esclarecimentos sobre a Oração", slug: "esclarecimentos-sobre-a-oracao" },
+  { title: "Jesus Misericordioso", slug: "jesus-misericordioso" },
   { title: "Nossa Senhora", slug: "nossa-senhora" },
   { title: "Nossa Senhora das Lágrimas", slug: "nossa-senhora-das-lagrimas" },
   { title: "Orações Diárias", slug: "oracoes-diarias" },
+  { title: "Orações em Latim", slug: "oracoes-em-latim" },
+  { title: "Orações Pessoais na Missa", slug: "oracoes-pessoais-na-missa" },
+  { title: "Os Santos", slug: "os-santos" },
+  { title: "Padre Pio", slug: "padre-pio" },
+  { title: "Sacramento do Batismo", slug: "sacramento-do-batismo" },
+  { title: "Sagrado Coração de Jesus", slug: "sagrado-coracao-de-jesus" },
   { title: "Santa Anastácia", slug: "santa-anastacia" },
   { title: "Santa Ângela de Foligno", slug: "santa-angela-de-foligno" },
   { title: "Santa Gema Galgani", slug: "santa-gema-galgani" },
+  { title: "Santa Gianna Beretta", slug: "santa-gianna-beretta" },
+  { title: "Santa Missa", slug: "santa-missa" },
   { title: "Santa Paulina", slug: "santa-paulina" },
+  { title: "Santa Sofia", slug: "santa-sofia" },
   { title: "Santa Teresa de Calcutá", slug: "santa-teresa-de-calcuta" },
+  { title: "São Tarcísio", slug: "sao-tarcisio" },
+  { title: "Sobre o Ecumenismo", slug: "sobre-o-ecumenismo" },
+  { title: "Terços", slug: "tercos" },
+  { title: "Verdades sobre a Oração", slug: "verdades-oracao" }
 ];
 ---
 
@@ -29,7 +48,7 @@ const paginas = [
       <HeaderLink href="/blog">Blog</HeaderLink>
       <HeaderLink href="/busca">Pesquisar</HeaderLink>
       
-      <!-- Menu Dropdown no lugar do "Sobre" -->
+      <!-- Menu Dropdown -->
       <div class="dropdown">
         <button class="dropdown-button">
           Páginas
@@ -134,7 +153,7 @@ const paginas = [
     display: block;
   }
 
-  /* Scroll suave para até 46 itens sem quebrar o layout */
+  /* Scroll suave para os itens sem quebrar o layout */
   .dropdown-scroll {
     max-height: 350px;
     overflow-y: auto;
