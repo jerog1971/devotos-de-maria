@@ -5,6 +5,8 @@ description: 'Conheça a história de Santa Gema Galgani, a mística italiana ag
 pubDate: '2026-09-13'
 ---
 
+![Santa Gemma Galgani](/images/Santa Gemma Galgani.png)
+
 # Santa Gema Galgani: A Mística da Redenção
 
 Santa Gema Galgani, em sua breve peregrinação por esta terra, deixou-nos o exemplo de sua intensa vida espiritual, oferecendo-se a Deus como vítima de expiação pelos pecados dos homens. Ao participar da Paixão, ela desejava ajudar Jesus em suas dores. Criou-se, assim, um pacto de amor de tal modo que Jesus a pudesse oferecer ao Pai como vítima de amor por todos os pecadores.
