@@ -6,6 +6,8 @@ pubDate: 2026-09-13
 heroImage: ""
 ---
 
+![Oração](/images/oração(1).png)
+
 Olá, caro leitor, seja bem-vindo a este site e a esta página que é fruto da exortação de Jesus, que nos recomenda a oração incessante. Criada em 11/02/2016, dia de Nossa Senhora de Lourdes, esta página tem a missão de vos familiarizar ainda mais com a importância de suas orações.
 
 Para embasar ainda mais este costume bíblico tão antigo, transcrevo aqui apenas alguns trechos que ilustram essa verdade:
