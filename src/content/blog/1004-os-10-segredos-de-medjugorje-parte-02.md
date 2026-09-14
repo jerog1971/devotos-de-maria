@@ -17,7 +17,7 @@ Nada se sabe sobre o quarto, quinto e sexto segredos, a sequência do meio dos 1
 
 Arquivo relacionado:
 
-<a href="https://www.devotos-de-maria.com.br/2017/12/os-10-segredos-de-medjugorge-parte-03.html" target="_blank">Os 10 segredos de Medjugorje - parte 03</a>
+* [Os 10 segredos de Medjugorje - parte 02](/blog/1004-os-10-segredos-de-medjugorje-parte-02/)
 
 
 fonte: adaptado de medjugorje.com.br
