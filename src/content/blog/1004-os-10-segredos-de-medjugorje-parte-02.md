@@ -17,7 +17,7 @@ Nada se sabe sobre o quarto, quinto e sexto segredos, a sequência do meio dos 1
 
 Arquivo relacionado:
 
-* [Os 10 segredos de Medjugorje - parte 02](/blog/1004-os-10-segredos-de-medjugorje-parte-02/)
+* [Os 10 segredos de Medjugorje - parte 03](/blog/1804-os-10-segredos-de-medjugorje-parte-03/)
 
 
 fonte: adaptado de medjugorje.com.br
