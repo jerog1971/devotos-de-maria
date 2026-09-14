@@ -5,7 +5,7 @@ description: 'História e vida de Santa Anastácia, mártir da Igreja'
 heroImage: '/images/paginas/santa-anastacia.png'
 ---
 
-![Santa Anastácia](/images/Santa Anastacia.png)
+![Santa Anastácia](/images/santa_anastacia.png)
 
 A vida de Santa Anastácia, transmitida de geração a geração desde os primórdios do cristianismo, traz os episódios históricos verídicos mesclados a fatos lendários e às tradições orais. Vejamos como chegou à cristandade no terceiro milênio.
 
