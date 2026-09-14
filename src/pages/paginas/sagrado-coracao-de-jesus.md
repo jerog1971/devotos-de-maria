@@ -1,4 +1,5 @@
 ---
+layout: '../../layouts/BlogPost.astro'
 title: "O Sagrado Coração de Jesus"
 date: 2026-09-13T21:00:00.000Z
 heroImage: ""
