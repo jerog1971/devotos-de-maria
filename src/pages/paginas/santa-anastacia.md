@@ -5,6 +5,8 @@ description: 'História e vida de Santa Anastácia, mártir da Igreja'
 heroImage: '/images/paginas/santa-anastacia.png'
 ---
 
+![Santa Anastácia](/images/Santa Anastacia.png)
+
 A vida de Santa Anastácia, transmitida de geração a geração desde os primórdios do cristianismo, traz os episódios históricos verídicos mesclados a fatos lendários e às tradições orais. Vejamos como chegou à cristandade no terceiro milênio.
 
 Diocleciano foi imperador romano entre os anos 284 e 305 d.C. Na época, Anastácia, filha de Protestato e Fausta, ambos romanos e pagãos, era uma jovem belíssima. Junto com sua mãe, foi convertida à fé cristã por seu professor Crisógono, futuro santo mártir. As duas se dedicavam a ajudar os pobres e à conversão de pagãos.
