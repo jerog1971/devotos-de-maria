@@ -5,6 +5,8 @@ description: 'Conheça a história de Irmã Amália de Jesus Flagelado, as apari
 pubDate: '2026-09-13'
 ---
 
+![Nossa Senhora das Lágrimas](/images/lagrimas.png)
+
 # Nossa Senhora das Lágrimas de Sangue
 
 No Instituto das Missionárias de Jesus Crucificado, fundado no Brasil por Monsenhor Dom Francisco de Campos Barreto, Bispo de Campinas, viveu uma piedosa religiosa de nome Irmã Amália de Jesus Flagelado (nascida Amália Aguirre). Tal como a mística alemã Teresa Neumann, Irmã Amália teve em seu próprio corpo os estigmas de Jesus. 
