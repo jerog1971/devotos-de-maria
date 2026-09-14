@@ -5,6 +5,8 @@ description: 'Uma análise histórica, doutrinária e litúrgica sobre a introdu
 pubDate: '2026-09-13'
 ---
 
+![Comunhão na mão](/images/comunhão na mão.png)
+
 # A História da Comunhão na Mão
 
 ## Os Antecedentes
