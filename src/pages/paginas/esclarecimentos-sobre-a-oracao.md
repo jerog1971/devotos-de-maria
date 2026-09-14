@@ -5,7 +5,7 @@ description: 'A oração infalível: que garantia podemos ter de que Deus vai ou
 heroImage: '/images/paginas/biblia.png'
 ---
 
-![Oração](/images/oração.png)
+![Oração](/images/oracao.png)
 
 ### A Oração Infalível
 
