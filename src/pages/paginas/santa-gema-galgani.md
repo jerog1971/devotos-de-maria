@@ -5,7 +5,7 @@ description: 'Conheça a história de Santa Gema Galgani, a mística italiana ag
 pubDate: '2026-09-13'
 ---
 
-![Santa Gemma Galgani](/images/Santa Gemma Galgani.png)
+![Santa Gemma Galgani](/images/santa_gemma_galgani.png)
 
 # Santa Gema Galgani: A Mística da Redenção
 
