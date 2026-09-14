@@ -5,7 +5,7 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
-![Sagrado Coração](/images/sagrado coração.png)
+![Sagrado Coração](/images/sagrado_coracao.png)
 
 A chamada Grande Revelação foi feita a Santa Margarida Maria Alacoque durante a oitava da festa do Corpus Domini de 1675. Mostrando o seu Coração divino, Jesus confiou à Santa:
 
