@@ -5,6 +5,8 @@ description: 'Histórico, vida, novena e orações a Santa Paulina'
 heroImage: '/images/paginas/paulina.png'
 ---
 
+![Santa Paulina](/images/paulina.png)
+
 Nascida no dia 16 de dezembro de 1865, em Vígolo Vattaro, Trentino Alto Ádige, norte da Itália, recebeu o nome de Amábile Lúcia Visintainer. Era a segunda filha de Antônio Napoleone Visintainer e Anna Pianezzer.
 
 Imigrante italiana radicada no Brasil desde os nove anos de idade, Santa Paulina adotou o Brasil como sua pátria e os brasileiros como irmãos.
