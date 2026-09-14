@@ -5,6 +5,8 @@ description: 'A oração infalível: que garantia podemos ter de que Deus vai ou
 heroImage: '/images/paginas/biblia.png'
 ---
 
+![Oração](/images/oração.png)
+
 ### A Oração Infalível
 
 Que garantia podemos ter de que Deus vai ouvir às nossas súplicas? Que a perseverança na oração é importante já sabemos, porque os Evangelhos insistem nisso. Lucas narra a parábola do vizinho inoportuno, que bate à porta em plena noite para pedir pães. Tanto insiste que o outro, para se ver livre dele, acaba por atendê-lo (Lc 11,5-8).
