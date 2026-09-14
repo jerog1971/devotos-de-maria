@@ -5,7 +5,7 @@ description: 'Coletânea de links, artigos e relatos sobre a Santíssima Virgem 
 heroImage: '/images/paginas/a-virgem-maria.png'
 ---
 
-![Virgem Maria](/images/Virgem Maria.png)
+![Virgem Maria](/images/virgem_maria.png)
 
 ### Artigos e Devocionários
 
