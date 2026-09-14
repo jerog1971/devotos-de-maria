@@ -5,7 +5,7 @@ description: 'Orações, orientações de como se confessar, exame de consciênc
 pubDate: '2026-09-13'
 ---
 
-![Confissão](/images/confissão.png)
+![Confissão](/images/confissao_1.png)
 
 # Confissão
 
