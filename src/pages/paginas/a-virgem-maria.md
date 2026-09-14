@@ -5,6 +5,8 @@ description: 'Coletânea de links, artigos e relatos sobre a Santíssima Virgem 
 heroImage: '/images/paginas/a-virgem-maria.png'
 ---
 
+![Virgem Maria](/images/Virgem Maria.png)
+
 ### Artigos e Devocionários
 
 * [01 - A Virgem Maria em Medjugorje](/blog/198-a-virgem-maria-em-medjugorge/)
