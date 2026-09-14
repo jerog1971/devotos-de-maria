@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Padre Amorth](/images/amorth.png)
+
 Transcrevemos aqui alguns trechos de exorcismos praticados na década de 1970 por um grupo de sacerdotes sobre uma mulher que por vários anos sofria de possessão. Esta compilação tem o respaldo da Igreja, foi confirmada por estudiosos do clero católico, e as atividades relatadas foram documentadas e gravadas, resultando no livro intitulado *Confissões do Inferno ao Mundo Contemporâneo*, com a participação do Padre Gabriele Amorth, famoso exorcista de Roma.
 
 Como o livro é bem extenso, publicamos aqui uma compilação de seu conteúdo que mantém fiel sintonia com os ensinamentos do Evangelho.
