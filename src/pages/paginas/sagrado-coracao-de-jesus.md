@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Sagrado Coração](/images/sagrado coração.png)
+
 A chamada Grande Revelação foi feita a Santa Margarida Maria Alacoque durante a oitava da festa do Corpus Domini de 1675. Mostrando o seu Coração divino, Jesus confiou à Santa:
 
 > Eis o Coração que tanto amou os homens, que nada poupou, até se esgotar e se consumir para lhes testemunhar seu amor. Como reconhecimento, não recebo da maior parte deles senão ingratidões, pelas suas irreverências, sacrilégios, e pela tibieza e desprezo que têm para comigo na Eucaristia. Entretanto, o que Me é mais sensível é que há corações consagrados que agem assim. Por isto te peço que a primeira sexta-feira após a oitava do Santíssimo Sacramento seja dedicada a uma festa particular para honrar Meu Coração, comungando neste dia, e O reparando pelos insultos que recebeu durante o tempo em que foi exposto sobre os altares.
