@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Comunhão na mão](/images/comunhão na mão.png)
+
 ### Comunhão na mão: recusada pelos bispos em 1969 e imposta a (quase) toda a Igreja
 
 Uma das práticas que acompanharam a Missa Nova mais destruidoras para a Fé: a comunhão na mão. Em tradução da Associação Montfort, segue publicação do documento *Memoriale Domini*, sobre a maneira de distribuir a Santa Comunhão, publicado pela Sagrada Congregação para o Culto Divino, em 29 de maio de 1969.
