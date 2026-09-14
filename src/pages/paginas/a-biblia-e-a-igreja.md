@@ -5,7 +5,7 @@ description: 'Estudo sobre a formação histórica do cânon bíblico, a tradiç
 heroImage: '/images/paginas/biblia.png'
 ---
 
-![Bíblia Sagrada](/images/paginas/biblia.png)
+![A bíblia](/images/biblia(1).png)
 
 Demoraram alguns séculos para que a Igreja Católica chegasse à forma final da Bíblia, com os 73 livros como temos hoje. Em vários Concílios, ao longo da história, a Igreja, assistida pelo Espírito Santo (cf. Jo 16,12-13) estudou e definiu o Índice (cânon) da Bíblia; uma vez que nenhum de seus livros traz o seu Índice. Foi a Igreja Católica quem berçou a Bíblia. Garante-nos o Catecismo da Igreja e o Concílio Vaticano II que: *“Foi a Tradição apostólica que fez a Igreja discernir que escritos deviam ser enumerados na lista dos Livros Sagrados”* (Dei Verbum 8; CIC, 120). Portanto, sem a Tradição da Igreja não teríamos a Bíblia. Santo Agostinho dizia: *“Eu não acreditaria no Evangelho, se a isso não me levasse a autoridade da Igreja Católica”* (CIC, 119).
 
