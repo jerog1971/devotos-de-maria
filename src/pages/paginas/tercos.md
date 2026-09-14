@@ -1,7 +1,8 @@
 ---
 layout: '../../layouts/BlogPost.astro'
 title: "Terços"
-date: 2026-09-13T21:00:00.000Z
+description: "Coletânea de terços e devoções para momentos de oração e fé."
+pubDate: 2026-09-13
 heroImage: ""
 ---
 
