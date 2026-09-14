@@ -1,7 +1,9 @@
 backend:
   name: github
-  repo: jerog1971/devotos-de-maria # Exemplo: jeffersonroger/devotos-de-maria
-  branch: main # Ou 'master', dependendo do nome da sua branch principal
+  repo: jerog1971/NOME-DO-SEU-REPOSITORIO # Substitua NOME-DO-SEU-REPOSITORIO pelo nome correto
+  branch: main
+  base_url: https://decap-oauth.jerog1971.workers.dev
+  auth_endpoint: /auth
 
 media_folder: "public/images/posts" # Onde as imagens serão salvas no repositório
 public_folder: "/images/posts" # Como o Astro enxergará o caminho das imagens
