@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Santa Missa](/images/santa_missa.png)
+
 ### Por Santo Afonso Maria de Ligório
 
 Os mesmos anjos aproveitam o tempo da missa para intercederem mais eficazmente em nosso favor; e o que então se não obtém, obter-se-á dificilmente em outro tempo. Que tesouros podemos, pois, ajuntar pela celebração devota do divino sacrifício e pela sua devota assistência!
