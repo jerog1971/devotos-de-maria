@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Santa Sofia](/images/santa sofia.png)
+
 **Santa Sofia, protetora das mães, das viúvas e intercessora contra as doenças da pele.**
 
 O nome Sofia significa "sabedoria de Deus". Santa Sofia nasceu em Roma, então governada pelo Imperador Adriano, perto do ano 130. Ela sofreu grande perseguição, principalmente por Antíoco, que era o prefeito de Roma na época. Santa Sofia se converteu ao cristianismo ainda bem jovem e dedicou toda a sua vida a levar Jesus às pessoas.
