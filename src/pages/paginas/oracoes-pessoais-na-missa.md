@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Orações pessoais](/images/oração4.png)
+
 ### Antes da Missa
 
 > *Oração ensinada por Nossa Senhora:*  
