@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Beata Alexandrina](/images/alexandrina.png)
+
 Aqui se destacam algumas datas e fatos importantes da vida e da evolução mística de Alexandrina Maria da Costa:
 
 * **1904 (30 de março):** Alexandrina nasce em Balasar, distrito do Porto (Portugal).
