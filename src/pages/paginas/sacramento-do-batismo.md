@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Batismo](/images/batismo.png)
+
 É fundamental que todo cristão compreenda bem a importância da graça do Batismo em sua vida. Este artigo não é suficiente para esclarecer completamente toda a riqueza e o valor do maravilhoso Sacramento do Batismo, mas serve como um convite à reflexão.
 
 ---
