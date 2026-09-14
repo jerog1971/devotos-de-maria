@@ -5,6 +5,8 @@ description: 'Orações aos Arcanjos São Rafael, São Gabriel e São Miguel, Ro
 pubDate: '2026-09-05'
 ---
 
+![Anjos](/images/anjos.png)
+
 ## Oração aos Anjos e Arcanjos
 
 ### Oração a São Rafael
