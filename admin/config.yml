@@ -1,1 +1,20 @@
-aguardando
+backend:
+  name: github
+  repo: jerog1971/devotos-de-maria # Exemplo: jeffersonroger/devotos-de-maria
+  branch: main # Ou 'master', dependendo do nome da sua branch principal
+
+media_folder: "public/images/posts" # Onde as imagens serão salvas no repositório
+public_folder: "/images/posts" # Como o Astro enxergará o caminho das imagens
+
+collections:
+  - name: "blog"
+    label: "Artigos / Blog"
+    folder: "src/content/blog" # Ajuste se sua pasta de posts/artigos for 'src/pages/blog' ou similar
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Descrição", name: "description", widget: "string" }
+      - { label: "Data de Publicação", name: "pubDate", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Imagem de Capa/Principal", name: "heroImage", widget: "image", required: false }
+      - { label: "Conteúdo do Artigo", name: "body", widget: "markdown" }
