@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Beata Imelda](/images/imelda.png)
+
 O nome da Bem-Aventurada é Imelda Lambertini. Ela nasceu em Bolonha (Itália) no ano de 1322. Desde pequena sempre cultivou um imenso amor pela oração, pois crescera em um ambiente católico, onde seus pais davam a ela uma educação cristã de grande valor e de sólidas bases. O seu amor pela oração e pelas coisas de Deus era exatamente o seu diferencial e motivo de atenção especial pelos seus pais. Ela sempre se escondia nos locais "obscuros" de sua casa para rezar em silêncio, escondida do mundo, mas vista apenas por Deus.
 
 O seu amor pela oração lhe criou na alma um desejo enorme de ser freira dominicana, isso com apenas 9 anos de idade! Claro que, assim como ocorreria nos dias de hoje, ela não foi aceita por causa da pouca idade. Mas Imelda possuía uma santa insistência que resultou numa conversa entre seus pais e a Madre Superiora do convento das irmãs dominicanas.
