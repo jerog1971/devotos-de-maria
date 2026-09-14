@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Santos](/images/santos.png)
+
 > *"Aprendam com a vida e o exemplo dos santos."*  
 > — **Maria**
 
