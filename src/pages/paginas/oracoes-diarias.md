@@ -5,6 +5,8 @@ description: 'Coletânea de orações matinais, atos de contrição, orações d
 heroImage: '/images/paginas/biblia.png'
 ---
 
+![Orações diárias](/images/oração3.png)
+
 ### Orações Matinais
 
 **1**  
