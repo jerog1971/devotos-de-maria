@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Jesus](/images/jesus_perdoa.png)
+
 Nosso Senhor Jesus Cristo desceu do céu e se fez um de nós para revelar o amor e a misericórdia de Deus. Os quatro Evangelhos relatam abundantemente fatos em que Jesus se revela misericordioso. Porém, como a humanidade tem dificuldade para crer na misericórdia de Deus, Jesus Misericordioso se revelou recentemente, no século XX, a **Santa Faustina Kowalska**. Essas revelações são reconhecidas pela Igreja e trazem esperança na misericórdia Divina, mas também responsabilidade sobre nossos atos.
 
 ---
