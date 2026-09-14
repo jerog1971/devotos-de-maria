@@ -5,6 +5,8 @@ description: 'Testemunho de Catalina Rivas sobre o mistério e o valor da Santa 
 pubDate: '2026-09-05'
 ---
 
+![Catalina Rivas](/images/catalina.png)
+
 # A Santa Missa: Testemunho de Catalina
 
 **Propriedade registrada © 2004, La Gran Cruzada del Amor y Misericordia.**
