@@ -5,7 +5,7 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
-![Santa Sofia](/images/santa sofia.png)
+![Santa Sofia](/images/santa_sofia.png)
 
 **Santa Sofia, protetora das mães, das viúvas e intercessora contra as doenças da pele.**
 
