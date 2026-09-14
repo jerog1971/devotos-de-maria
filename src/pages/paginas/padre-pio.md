@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![Padre Pio](/images/padre_pio.png)
+
 Padre Pio era o modelo de cada padre... Não se podia assistir "à sua Missa", sem que nos tornássemos, quase sem perceber, "participantes" desse drama que se vivia a cada manhã sobre o altar. Crucificado com o Crucificado, o Padre revivia a paixão de Jesus com grande dor, testemunhada por todos.
 
 Ele nos ensina que nossa Salvação só se poderá obter se, em primeiro lugar, a cruz for plantada na nossa vida. Dizia: 
