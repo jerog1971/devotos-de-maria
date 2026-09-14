@@ -1,0 +1,194 @@
+---
+title: "O Sagrado Coração de Jesus"
+date: 2026-09-13T21:00:00.000Z
+heroImage: ""
+---
+
+A chamada Grande Revelação foi feita a Santa Margarida Maria Alacoque durante a oitava da festa do Corpus Domini de 1675. Mostrando o seu Coração divino, Jesus confiou à Santa:
+
+> Eis o Coração que tanto amou os homens, que nada poupou, até se esgotar e se consumir para lhes testemunhar seu amor. Como reconhecimento, não recebo da maior parte deles senão ingratidões, pelas suas irreverências, sacrilégios, e pela tibieza e desprezo que têm para comigo na Eucaristia. Entretanto, o que Me é mais sensível é que há corações consagrados que agem assim. Por isto te peço que a primeira sexta-feira após a oitava do Santíssimo Sacramento seja dedicada a uma festa particular para honrar Meu Coração, comungando neste dia, e O reparando pelos insultos que recebeu durante o tempo em que foi exposto sobre os altares.
+
+> “Prometo-te que Meu Coração se dilatará para derramar os influxos de Seu amor divino sobre aqueles que Lhe prestarem esta honra”.
+
+Jesus apareceu-lhe numerosas vezes de 1673 até 1675. Dos seus colóquios com Nosso Senhor distinguem-se classicamente 12 promessas.
+
+“Os fiéis acharão, pelo intermédio desta devoção amável, todos os socorros necessários ao seu estado, ou seja, a paz nas suas famílias, o alívio nos seus trabalhos, as bênçãos do Céu em todas as suas empresas, a consolação nas suas misérias, e é propriamente neste sagrado Coração que alcançarão um lugar de refúgio durante toda a vida e principalmente na hora da sua morte”.
+
+O Meu divino Salvador fez-me compreender que aqueles que trabalham pela salvação das almas encontrarão a arte de comover os corações mais empedernidos e trabalharão com um êxito maravilhoso se eles mesmos estiverem penetrados de uma terna devoção ao divino Coração.
+
+Asseverando-Me que Ele recebia um contentamento singular em ser honrado sob a figura deste Coração de carne, cuja imagem desejava que fosse exibida em público, com a finalidade – acresceu – de tocar por seu intermédio o coração insensível dos homens; prometendo-me que derramaria em abundância todos os dons que possui em plenitude sobre todos aqueles que O honrassem; e que em todo lugar em que esta imagem fosse ostentada para ser objeto de especial honra ela atrairia toda sorte de bênçãos.
+
+Sinto-me totalmente imersa neste divino Coração; (...) estou como num abismo sem fundo onde Ele me revela os tesouros de amor e de graça que concede às pessoas que se consagram e sacrificam para lhe render e alcançar toda a honra, amor e glória de que são capazes.
+
+Confirmou-me que o contentamento que recebe em ser amado, conhecido e venerado pelas suas criaturas é tão grande que prometeu-me que todos aqueles que Lhe sejam devotados e consagrados não morrerão jamais.
+
+Numa sexta-feira, durante a Sagrada Comunhão, disse estas palavras à sua indigna escrava: “Prometo-te, na excessiva misericórdia do meu Coração, que o seu amor onipotente obterá a todos aqueles que comunguem nove primeiras sextas-feiras do mês seguidas a graça da penitência final, que não morrerão na minha desgraça, sem receber os seus sacramentos e que o Meu divino Coração será o seu refúgio assegurado no último momento”. Nada temas, Eu reinarei apesar dos meus inimigos e de todos aqueles que procurarão opor-se.
+
+“Este amável Coração reinará, apesar de Satanás. Isto me arrebata de alegria. Afinal reinará, este amável Coração, apesar de todos os que se quererão opor. Satã e todos os seus seguidores serão confundidos”.
+
+---
+
+### As Doze Promessas de Jesus
+
+1. “Eu darei aos devotos de meu Coração todas as graças necessárias a seu estado”.
+2. “Estabelecerei e conservarei a paz em suas famílias”.
+3. “Eu os consolarei em todas as suas aflições”.
+4. “Serei refúgio seguro na vida e principalmente na hora da morte”.
+5. “Lançarei bênçãos abundantes sobre os seus trabalhos e empreendimentos”.
+6. “Os pecadores encontrarão em meu Coração fonte inesgotável de misericórdias”.
+7. “As almas tíbias tornar-se-ão fervorosas pela prática dessa devoção”.
+8. “As almas fervorosas subirão em pouco tempo a uma alta perfeição”.
+9. “A minha bênção permanecerá sobre as casas em que se achar exposta e venerada a imagem de meu Sagrado Coração”.
+10. “Darei aos sacerdotes que praticarem especialmente essa devoção o poder de tocar os corações mais endurecidos”.
+11. “As pessoas que propagarem esta devoção terão o seu nome inscrito para sempre no meu Coração”.
+12. “A todos os que comunguem nas primeiras sextas-feiras de nove meses consecutivos, darei a graça da perseverança final e da salvação eterna”.
+
+---
+
+### Catecismo Sobre a Devoção ao Sagrado Coração de Jesus
+
+**1. O que se entende por devoção?**  
+A devoção é um ato de vontade. Vontade concreta e verdadeira de se aproximar de Deus. Sendo a religião o caminho que guia os homens a se aproximarem d'Ele, ela necessita de atos reais para isso e a devoção é um desses atos. Toda e qualquer devoção, que se manifesta através de orações e atos de piedade, que honra a uma pessoa ou coisa santa, deve ter seu fim último em Deus.
+
+**2. O que caracteriza um ato de devoção?**  
+Existem dois tipos fundamentais de atos de devoção: os atos interiores e exteriores.
+
+* **Atos interiores:** são aqueles produzidos pela inteligência, vontade e memória, ou seja, atos que fazem parte da intimidade de uma pessoa e do modo como ela busca honrar e louvar a Deus, através de suas ações individuais. *Exemplos:* oração, meditação, reflexão.
+* **Atos exteriores:** são os atos ligados às ações físicas, que podem ser presenciados por outras pessoas. *Exemplos:* penitências coletivas, louvor e cultos públicos, estudo, pregações.
+
+**3. Quais são os atos da inteligência?**  
+A inteligência permite aos homens conhecer e compreender uma devoção verdadeira e as razões para praticá-la. Um católico, por exemplo, sabe da importância fundamental de Nossa Senhora para o projeto de Deus no mundo e para chegarmos até Ele. É sabendo disso, através da inteligência, que ele adere a alguma devoção mariana.
+
+**4. Quais são os atos da vontade?**  
+Sendo a devoção um ato próprio de vontade, existem algumas ações que são como que sua extensão: adoração, submissão, amor e veneração. Pois, conhecendo e possuindo verdadeira devoção a algo santo, o devoto sente vontade de demonstrar o seu amor de maneira concreta.
+
+**5. E o papel da memória?**  
+A memória auxilia a inteligência e a vontade. Representa à inteligência dados que a impressionaram durante o estudo e a meditação, fortalecendo assim sua convicção. Pela recordação frequente das verdades conhecidas, a vontade se sente mais facilmente movida à adoração, ao desagravo, ao pedido de graças.
+
+**6. Que é mais importante: o culto interior ou o culto exterior?**  
+Sem dúvida alguma, o mais importante é o culto interior. O culto exterior não é senão a consequência da piedade interior. É na alma que se encontra o centro da verdadeira devoção. As manifestações sensíveis, físicas e visíveis só tem valor religioso na medida em que são vivificadas pelo fervor interior. Mas as exterioridades são importantes para manifestar e acrescentar a devoção interior.
+
+**7. O que caracteriza um devoto autêntico do Sagrado Coração de Jesus?**  
+O devoto autêntico do Sagrado Coração de Jesus é aquele que procura conhecer a fundo essa devoção, reconhece sua importância incomparável para todos os homens e tem uma disposição efetiva de amá-Lo e de fazer tudo quanto corresponda à Sua vontade.
+
+**8. Qual é o fim principal da devoção ao Sagrado Coração de Jesus?**  
+Segundo Santa Margarida Maria Alacoque, a Santa para qual o Sagrado Coração de Jesus apareceu em 1673, **"o fim principal desta devoção é converter as almas a seu amor".** Isso quer dizer que devemos retribuir dignamente o amor que Nosso Senhor teve por nós, fazendo as pessoas reconhecerem o quanto Ele nos ama.
+
+**9. Qual é o objeto da devoção ao Sagrado Coração?**  
+O objeto dessa devoção é o Coração do Verbo Encarnado, tanto considerado no seu aspecto corporal quanto no símbolo de seu amor por Deus e pelos homens.
+
+**10. Adora-se então o coração físico de Nosso Senhor?**  
+Sim. Seu coração físico é adorável, assim como qualquer parte do seu Corpo, unido substancialmente ao Verbo, a Segunda Pessoa da Santíssima Trindade.
+
+**11. Qual o termo final de nossas homenagens nesta devoção?**  
+O termo final de nossas homenagens é a Pessoa de Jesus Cristo. Assim, em seu sentido amplo, quando se fala do Coração fala-se da própria Pessoa do Divino Redentor.
+
+**12. Por que Jesus Cristo quer ser cultuado por meio de símbolos físicos?**  
+Ele quer ser cultuado por meio de símbolos físicos porque, conforme explica São Tomás de Aquino, o homem não sendo puro espírito, precisa das coisas sensíveis para chegar ao conhecimento das espirituais. Para conhecer a Deus, precisamos vê-Lo refletido em suas criaturas, representações e imagens. Quanto mais elas são perfeitas, tanto mais alta é a ideia que formamos da Divindade. Esse é, aliás, o que fundamenta o culto às imagens e a liturgia católica.
+
+**13. Por que Nosso Senhor escolheu o coração como símbolo do seu amor?**  
+Porque o coração representa a sede do afeto, da compaixão e do sentimento e, por isso, seria o símbolo que melhor exprimiria o amor de Cristo por Deus Pai e pelos homens. Representa também a mentalidade de Nosso Senhor.
+
+**14. De que maneira o Redentor quis que seu Coração simbolizasse o amor?**  
+Nosso Senhor apareceu a Santa Margarida Maria Alacoque mostrando seu Coração divino em chamas, rodeado por uma coroa de espinhos e encimado por uma cruz. É uma representação própria a despertar em nós sentimentos de gratidão, de reparação e o desejo da consagração.
+
+**15. Quais são as principais práticas da devoção ao Sagrado Coração?**  
+As principais práticas de piedade são:
+
+* **Comunhão Reparadora nas primeiras sextas-feiras de cada mês:** pedida expressamente por Nosso Senhor a Santa Margarida Maria Alacoque. Ligada a esta prática está a assim chamada grande promessa.
+* **Comunhão frequente:** um dos pedidos de Nosso Senhor a Santa Margarida Maria Alacoque foi o de "comungar tantas vezes quanto puder". Evidentemente estando em estado de graça e, para isso, confessando-se antes se necessário.
+* **Consagração:** esta prática comporta dois elementos: a consagração propriamente dita, que é conveniente renovar periodicamente; e o propósito de viver em conformidade com essa consagração, buscando apenas os interesses do Sagrado Coração. Embora a consagração, enquanto tal, não imponha obrigações novas, ela exige de maneira séria e constante a prática dos deveres de todo o cristão. Ela corresponde, em última análise, a uma renovação das promessas do Batismo. Manifesta a vontade da fidelidade ao maior dos Mandamentos: *"Amarás o Senhor teu Deus de todo o teu coração, com toda a tua alma, com todo o teu entendimento, e com todas as tuas forças"* (Mc 12,30).
+* **Hora Santa:** Nosso Senhor havia comunicado a Santa Margarida Maria Alacoque: *"Todas as noites de quinta para sexta-feira, te farei participar na mortal tristeza que quis sofrer no Horto das Oliveiras"*. A Santa tomou então o hábito de ficar em adoração diante do Santíssimo Sacramento nesse dia, das onze horas à meia-noite, em reparação e união aos sofrimentos de Nosso Senhor. Durante essa hora ela meditava especialmente nas dores morais de Nosso Senhor no jardim das oliveiras na quinta-feira santa. Isso inspirou a prática da hora santa, que pode ser feita em casa, na igreja, em particular ou em comum e a qualquer hora. Consiste no exercício de oração mental e vocal, contemplando a agonia de Nosso Senhor.
+* **Exposição e veneração da imagem do Sagrado Coração de Jesus:** a imagem do Sagrado Coração ocupa lugar destacado nos desejos e nas promessas de Nosso Senhor a Santa Margarida Maria Alacoque. Jesus prometeu grandes graças àqueles que a levassem consigo ou a colocassem nas suas casas, escritórios, etc. Sua representação clássica consiste em um coração, aberto no lado, envolto em chamas, rodeado por uma coroa de espinhos e encimado por uma chama mais potente e uma cruz. Ou ainda, a imagem de Nosso Senhor, com esse coração sobre o peito e o indicador da mão esquerda apontando para ele.
+
+Finalmente, a devoção ao Sagrado Coração pregada por Santa Margarida Maria Alacoque é uma devoção de reparação ao amor menosprezado e ultrajado de Jesus Cristo pelos homens. Por isso, o espírito de reparação deve animar todos os seus atos.
+
+**16. Há outras práticas recomendadas aos devotos do Sagrado Coração?**  
+Sim. Entre elas, a inscrição em associações pias, como por exemplo a Associação Apostolado do Sagrado Coração de Jesus e o Apostolado da Oração; as orações e sacrifícios pelas almas do Purgatório; a recitação de ladainhas e outras preces em louvor ao Sagrado Coração.
+
+**17. Deve a devoção ao Sagrado Coração de Jesus substituir outras devoções na igreja?**  
+De nenhum modo. Conforme o ensinamento do Papa Pio XII, na encíclica *Haurietis Aquas*, sobre o Sagrado Coração de Jesus, "ninguém pense que esta devoção prejudique no que quer que seja as outras formas de piedade". Essa devoção está na raiz das outras devoções e ajuda-as. Sem o fervor que vem da contemplação do amor de Nosso Senhor, as outras devoções não existem em estado perfeito, por isso ela é tão importante.
+
+**18. Existe alguma prática especial para significar a realeza de Cristo nas famílias, e para torná-la efetiva?**  
+Sim. Para o apostolado familiar existe a Obra da Entronização. Consiste em colocar solenemente num lugar de honra do lar uma imagem ou estampa do Sagrado Coração, como símbolo da realeza de Cristo sobre sua família. Esse ato se completa com a consagração da família ao Coração de Jesus.
+
+**19. Para quem é especialmente indicada a devoção ao Sagrado Coração?**  
+Esta devoção deve ser praticada por todos. Ela é, entretanto, especialmente indicada para aqueles que lutam para que Nosso Senhor reine não só no interior das consciências, mas também na sociedade. Por exemplo, para quem luta contra a imoralidade na televisão, a disseminação das drogas, o aborto e outros flagelos de nosso tempo. É o que recomenda o Papa Pio XII: *"Desejamos que todos os que... lutam ativamente para estabelecer o reino de Jesus Cristo no mundo considerem a devoção ao Coração de Jesus como bandeira"*.
+
+**20. A devoção ao Sagrado Coração está baseada apenas nas revelações a Santa Margarida Maria Alacoque?**  
+Não. Conforme ensina Pio XII, esta devoção tem sua base principal na Revelação pública e oficial, isto é, nas Sagradas Escrituras e na Tradição.
+
+**21. Que tipo de revelações recebeu Santa Margarida Maria Alacoque em Paray-le-Monial?**  
+Santa Margarida recebeu o que a Igreja denomina como revelações privadas.
+
+**22. O que são revelações privadas?**  
+Revelações privadas ou particulares são comunicações feitas por Deus a algumas almas, para sua edificação própria ou de outras pessoas. Não fazem parte do depósito da revelação pública e oficial, a qual é imutável e se encerrou com a morte do último dos apóstolos, São João Evangelista.
+
+**23. Que papel tiveram as revelações de Paray-le-Monial na devoção ao Sagrado Coração?**  
+Do ponto de vista teológico, a devoção ao Sagrado Coração de Jesus tem valor e legitimidade intrínsecos, não depende de revelações particulares. Se estas revelações não tivessem existido, ou fossem ilusórias ou controvertidas, o culto ao Sagrado Coração continuaria solidamente baseado e perfeitamente legítimo. Na ordem histórica, entretanto, a intervenção do Salvador - por meio das revelações na cidade de Paray-le-Monial -, bem como a ação pessoal de Santa Margarida Maria Alacoque, que ali recebeu tais revelações, tiveram um grande papel. Elas contribuíram para uma difusão sem precedentes da devoção ao Sagrado Coração.
+
+**24. O que se entende pela expressão "A Grande Promessa"?**  
+Essa expressão refere-se à promessa de Nosso Senhor a Santa Margarida Maria Alacoque a respeito da prática da comunhão reparadora nas primeiras sextas-feiras de cada mês. Disse Jesus à Santa: **"Eu te prometo, na excessiva misericórdia do meu Coração que concederei a graça da penitência final a todos os que comungarem na primeira sexta-feira de nove meses consecutivos. Eles não morrerão no meu desagrado, nem sem receber os sacramentos; e, nesse transe extremo, receberão asilo seguro no meu Coração".**
+
+**25. Em que documento estão consignadas essas palavras?**  
+Em uma carta de Santa Margarida a sua Superiora, Madre de Saumaise, escrita provavelmente em maio de 1688. Esta carta encontrava-se à vista do público, no convento da Visitação, em Dijon, até 1789. Desapareceu durante a Revolução Francesa. O Papa Bento XV, na bula de canonização da Santa, confirma a autenticidade dessas palavras: *"Estas foram efetivamente as palavras que Jesus bendito dirigiu à sua serva"*.
+
+**26. Quais são os elementos da grande promessa?**  
+Os elementos da grande promessa são três: o objeto, o motivo, a condição. O objeto principal da grande promessa é a graça da penitência final, ou seja, da morte em estado de graça; portanto, da salvação eterna. O motivo é o excesso de misericórdia do Coração de Jesus. A condição para alcançá-la é a prática da comunhão durante nove meses seguidos, sem interrupção.
+
+**27. A chamada grande promessa significa a salvação automática de quem cumpre esse exercício?**  
+Não existe salvação automática independente da observância dos Mandamentos, da prática da oração e das boas obras. A grande promessa deve ser entendida do seguinte modo: quem fizer as nove primeiras sextas-feiras receberá graças para não morrer em estado de pecado mortal, desde que as tenha feito com intenção reta, desejo de viver sempre na graça de Deus e fizer os esforços necessários para uma vida virtuosa. É preciso, pois, a intenção de viver estável e continuamente na prática dos Mandamentos. Nenhuma promessa pode substituir o esforço para amar e seguir a Deus, que é o que Ele quer de suas criaturas racionais e livres. Se alguém fizer as nove primeiras sextas-feiras com a intenção de viver depois fora da prática dos Mandamentos, despreocupado da salvação eterna, não atendeu às condições requeridas e arrisca-se à condenação eterna. Finalmente, é preciso lembrar que devemos implorar continuamente a graça da perseverança final em nossas orações.
+
+**28. A devoção ao Sagrado Coração de Jesus pode ser desvirtuada?**  
+Sim, infelizmente, como qualquer outra devoção. Corre-se o risco desta devoção, por tratar do amor, ser confundida com o naturalismo e o sentimentalismo relativista que hoje erroneamente é manifestado quando se diz possuir uma devoção.
+
+**29. Qual é o perigo do sentimentalismo?**  
+O sentimentalismo dá excessiva importância às emoções, com prejuízo da razão. A piedade se torna adocicada, negligente e amolecida, o que leva à condescendência consigo mesmo e com os vícios próprios e alheios.
+
+**30. Como evitar os perigos do sentimentalismo e do naturalismo?**  
+Quanto ao naturalismo, o remédio está em jamais atribuir à qualidade natural e ao esforço próprio aquilo que só pode vir da graça de Deus. O sentimentalismo se combate evitando exagerar o papel das emoções na vida de piedade; buscando a lógica e a coerência no pensar e no agir; cultivando o amor aos princípios. Dizia São Francisco de Sales que devemos buscar antes o Deus das consolações que as consolações de Deus. Do mesmo modo, devemos fugir de parcialismos e unilateralidades na consideração das virtudes do Divino Mestre: como tudo nEle é perfeito, devemos adorá-Lo não apenas em sua inigualável mansidão, mas também em seu ódio ao pecado.
+
+**31. A mansidão está no centro da devoção ao Sagrado Coração?**  
+Sim, e de tal maneira, que muitos teólogos, ao enumerar os fundamentos bíblicos desta devoção, apresentam em primeiro lugar aquela comovente exortação do Divino Mestre: **"Aprendei de mim, que sou manso e humilde de coração e achareis paz para a vossas almas"** (Mt 11,29).
+
+**32. Nosso Senhor, apesar de tão manso, foi odiado durante sua existência terrena?**  
+Apesar de sua mansidão e de, conforme diz São Pedro (At 10,38), ter passado a vida fazendo o bem, ninguém foi mais odiado do que Ele. Em certa ocasião, advertiu a seus discípulos: *"Se o mundo vos odeia, sabei que, antes do que a vós, odiou-me a mim. ...Odiaram-me sem motivo"* (Jo 15,18.25). A Nosso Senhor se aplica o que de si afirmou Davi, o profeta-rei: *"Com palavras de ódio me cercaram e sem causa me fizeram guerra. Em paga do meu amor, acusavam-me. Deram-me males em troca de bens, e ódio em troca do amor que lhes tinha"* (Sl 108,3-5). Por isso foi crucificado.
+
+**33. Se o próprio Nosso Senhor foi odiado, o devoto do Divino Coração não pode ser também objeto de um ódio injusto?**  
+Sim, pode: o discípulo não é maior do que o Mestre. O devoto do Sagrado Coração deve estar preparado para fazer frente de maneira corajosa e confiante ao ódio dos maus.
+
+**34. Podemos adorar também as indignações dos corações divinos contra o mal?**  
+Sim, pois todas as manifestações de Nosso Senhor são igualmente adoráveis. O Evangelho apresenta várias passagens nas quais Jesus manifesta sua indignação, por exemplo, contra os escribas e fariseus hipócritas. São Pio X observou a esse propósito: *"Se seu Coração desbordava mansidão para as almas de boa vontade, soube igualmente armar-se de uma santa indignação contra os profanadores da casa de Deus, contra os miseráveis que escandalizavam os pequenos, contra as autoridades que esmagam o povo sob o peso de cargas pesadas"*.
+
+**35. Podemos esperar a vitória do Coração de Jesus?**  
+Sim. A esperança de Sua vitória constitui, aliás, uma das características dessa devoção. O Redentor prometeu a Santa Margarida: *"Eu reinarei, apesar de meus inimigos e de todos aqueles que se opuserem a esta devoção"*.
+
+**36. O que devemos pedir especialmente ao Sagrado Coração?**  
+Podemos pedir tudo. A nossa santificação e a dos que nos são mais caros. Podemos ainda rezar a Ele por nossos interesses temporais e pelos daqueles a quem queremos bem, desde que não prejudiquem a salvação eterna, nossa e deles. Mas devemos pedir, sobretudo, Sua glória, isto é, o triunfo da Igreja e a salvação das almas. É uma decorrência do primeiro e maior dos Mandamentos: *Amar a Deus sobre todas as coisas*. Isso comporta o desejo ardente de que o Coração de Jesus ponha fim à avassaladora crise atual, que atinge ao mesmo tempo o terreno religioso e a esfera temporal.
+
+Era essa a esperança do Papa Pio XI: *"Na hora por Ele estabelecida Deus se erguerá e destroçará todos os seus inimigos (Sl 67,2). ... O Coração Divino de Jesus não poderá deixar de comover-se às súplicas e sacrifícios de sua igreja, e dirá enfim, à Esposa que geme a seus pés divinos, sob o peso de tantas dores e males: Grande é a tua fé: faça-se como queres"* (Mt 15,28).
+
+---
+
+### Novena ao Sagrado Coração de Jesus
+
+1. Ó meu Jesus, que dissestes: “Em verdade vos digo: pedi e recebereis, buscai e achareis, batei abrir-se-vos-á”, eis que eu bato, busco e peço a graça de *(formular o pedido...)*.
+
+*Pai Nosso, Ave Maria, Glória.*  
+*Sagrado Coração de Jesus, confio e espero em Vós.*
+
+2. Ó meu Jesus, que dissestes: “Qualquer coisa que peçais a meu Pai em meu nome, Ele vo-lo concederá”, eis que a vosso Pai, em vosso nome, eu peço a graça de *(formular o pedido...)*.
+
+*Pai Nosso, Ave Maria, Glória.*  
+*Sagrado Coração de Jesus, confio e espero em Vós.*
+
+3. Ó meu Jesus, que dissestes: “Em verdade vos digo: passarão o céu e a terra, mas as minhas palavras jamais passarão”, eis que, apoiado na infalibilidade de vossas santas palavras, eu peço a graça de *(formular o pedido...)*.
+
+*Pai Nosso, Ave Maria, Glória.*  
+*Sagrado Coração de Jesus, confio e espero em Vós.*
+
+**Oremos:**  
+Ó Sagrado Coração de Jesus, a Quem uma única coisa é impossível, isto é, a de não ter compaixão de nós, míseros pecadores, concedei-nos as graças que vos pedimos, por intermédio do Coração Imaculado da vossa e nossa terna Mãe. Amém.
+
+---
+*Fonte do catecismo: Associação Apostolado do Sagrado Coração de Jesus*
