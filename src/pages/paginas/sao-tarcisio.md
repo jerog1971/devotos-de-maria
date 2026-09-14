@@ -5,6 +5,8 @@ date: 2026-09-13T21:00:00.000Z
 heroImage: ""
 ---
 
+![São Tarcísio](/images/tarcisio.png)
+
 ### São Tarcísio, o Primeiro Mártir da Eucaristia
 
 Era nos primeiros tempos do cristianismo. Os cristãos eram perseguidos, lançados às feras, mortos. Quase todos procuravam antes receber a santa comunhão. Os sacerdotes tinham de esconder-se porque eram os mais procurados pelos inimigos. Um dia, depois de celebrar os divinos mistérios nas catacumbas, o padre, voltando-se para os fiéis reunidos, mostrou-lhes a Hóstia e disse:
