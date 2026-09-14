@@ -1,7 +1,8 @@
 ---
-layout: '../../layouts/BlogPost.astro'
+layout: "../../layouts/BlogPost.astro"
 title: "Sobre o Ecumenismo"
-date: 2026-09-13T21:00:00.000Z
+description: "Reflexão sobre a doutrina católica e o movimento ecumênico."
+pubDate: 2026-09-13
 heroImage: ""
 ---
 
