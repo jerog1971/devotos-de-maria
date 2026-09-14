@@ -6,6 +6,8 @@ pubDate: 2026-09-13
 heroImage: ""
 ---
 
+![Ecumenismo](/images/ecumenismo.png)
+
 ### Não se iluda com a simpatia do Ecumenismo
 
 Movimento este condenado por Jesus em várias passagens bíblicas e confirmado por Ele em aparições a alguns santos. Com a ideia de que a verdade não é uma exclusividade pregada no Evangelho, esse movimento levanta a bandeira de que "fiquemos com o que nos une, deixando de lado o que nos separa". Como é possível se até nas sagradas escrituras o próprio Cristo nos ensina que é necessária a unidade de todos em sua igreja e em seu caminho, verdade e vida para um dia vivermos as alegrias eternas unidos em um só rebanho? A palavra Ecumenismo de origem grega quer dizer "aberto para todo o mundo" porém esbarra em muitos princípios doutrinários e nos ensinamentos do próprio Salvador, Jesus Cristo verdadeiro Deus e verdadeiro homem, não se contradiz porque Ele, que é a verdade, não se engana e não engana ninguém. A castidade, obediência e fidelidade pregadas, ensinadas e mostradas em exemplos por Jesus jamais mudou de conceito ou foram atualizadas.
