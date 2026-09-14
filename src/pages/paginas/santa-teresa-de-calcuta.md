@@ -5,6 +5,8 @@ description: 'Conheça a vida, os ensinamentos, o processo de canonização e a 
 pubDate: '2026-09-13'
 ---
 
+![Santa Teresa de Calcutá](/images/calcuta.png)
+
 # Santa Teresa de Calcutá: A Apóstola dos Desvalidos
 
 ## Biografia
