@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jerog1971/NOME-DO-SEU-REPOSITORIO # Substitua NOME-DO-SEU-REPOSITORIO pelo nome correto
+  repo: jerog1971/devotos-de-maria # Substitua NOME-DO-SEU-REPOSITORIO pelo nome correto
   branch: main
   base_url: https://decap-oauth.jerog1971.workers.dev
   auth_endpoint: /auth
