@@ -4,7 +4,9 @@ date: 2022-05-07T14:58:00Z
 heroImage: "/images/posts/1928-cuide-de-sua-família-img-316824530.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1928-cuide-de-sua-família-img-316824530.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1440" data-original-width="2103" height="219" src="/images/posts/1928-cuide-de-sua-família-img-614411969.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que em um cesto de maçãs saudáveis e
+![](/images/posts/1928-cuide-de-sua-família-img-614411969.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo mundo sabe que em um cesto de maçãs saudáveis e
 maduras, se apenas uma – estragada, quase podre – for colocada dentro do cesto,
 todas as outras “adoecerão”. A analogia é válida porque, para que um membro de
 nossa família “se estrague” e promova o risco de corromper os demais da casa,
@@ -29,4 +31,7 @@ embasamento em Deus e em sua palavra devem alicerçar a vida desse lar, do
 contrário, se a igreja doméstica, que sempre será atacada, permitir que as
 portas do inferno prevaleçam sobre ela, o que será dos que ali residem?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

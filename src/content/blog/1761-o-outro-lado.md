@@ -4,7 +4,9 @@ date: 2020-09-18T15:10:00.001Z
 heroImage: "/images/posts/1761-o-outro-lado-Seu_outro_lado_2.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1761-o-outro-lado-Seu_outro_lado_2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="640" src="/images/posts/1761-o-outro-lado-Seu_outro_lado_2.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Romanos 7,18-24 – “Eu sei que em mim, isto é, na minha
+![](/images/posts/1761-o-outro-lado-Seu_outro_lado_2.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Romanos 7,18-24 – “Eu sei que em mim, isto é, na minha
 carne, não habita o bem, porque o querer o bem está em mim, mas não sou capaz
 de efetuá-lo. Não faço o bem que quereria, mas o mal que não quero. Ora, se
 faço o que não quero, já não sou eu que faço, mas sim o pecado que em mim
@@ -35,4 +37,7 @@ egoístas. Pior ainda é a tristeza que colocamos no coração de Deus se
 pretendemos viver assim, longe dos cuidados divinos numa vida que resultará em
 tormentos eternos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

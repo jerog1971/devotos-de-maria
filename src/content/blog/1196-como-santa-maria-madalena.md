@@ -4,7 +4,8 @@ date: 2015-08-18T11:44:00Z
 heroImage: "/images/posts/1196-como-santa-maria-madalena-santa_maria_madalena.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1196-como-santa-maria-madalena-santa_maria_madalena.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1196-como-santa-maria-madalena-santa_maria_madalena.png" width="320" height="243" data-original-width="660" data-original-height="502" /></a></div>
+![](/images/posts/1196-como-santa-maria-madalena-santa_maria_madalena.png)
+
 </br>
 Santa Maria Madalena chora aos pés de Nosso Senhor, e os enxuga com os próprios cabelos, tamanho era seu arrependimento pelos pecados que cometera.</br>
 </br>

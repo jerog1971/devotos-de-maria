@@ -4,7 +4,8 @@ date: 2016-06-01T13:54:00Z
 heroImage: "/images/posts/2103-cuide-da-confissão-confiss_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2103-cuide-da-confissão-confiss_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2103-cuide-da-confissão-confiss_25C3_25A3o.png" width="320" height="254" data-original-width="649" data-original-height="516" /></a></div>
+![](/images/posts/2103-cuide-da-confissão-confiss_25C3_25A3o.png)
+
 Uns dos cinco mandamentos da igreja é: “Confessar os seus pecados pelo menos uma vez por ano”. Traduzindo: de acordo com o poder petrino, conferido por Jesus a Pedro na afirmação da fundação da igreja sobre sua profissão de fé e transmitida pela sucessão apostólica, o que ligardes na terra será ligado no céu. Então como vemos se não cometermos pecados graves durante um ano, nossa confissão sacramental tem validade de um ano.</br>
 </br>
 Quando este período terminar, se você estiver a mais de um ano sem recorrer ao sacramento da confissão você está em estado de pecado grave. Isso é o que diz o mandamento da igreja. E o erro mais comum do fiel é continuar achando que, já que sua consciência não o acusa de nenhum pecado grave, ele não precisa de todo este esmero para buscar o sacramento da confissão. Errado! Não se confessar a mais de um ano é pecado grave, fere o mandamento da igreja que pelo poder petrino ligou no céu o que aqui na terra prescreveu. E isso foi desejado por Jesus, está em Mateus 16,19.</br>

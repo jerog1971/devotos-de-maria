@@ -4,7 +4,8 @@ date: 2019-07-10T16:00:00.002Z
 heroImage: "/images/posts/737-cuidado-com-a-presença-constante-do--presen_25C3_25A7a_do_mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/737-cuidado-com-a-presença-constante-do--presen_25C3_25A7a_do_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/737-cuidado-com-a-presença-constante-do--presen_25C3_25A7a_do_mal.png" width="320" height="225" data-original-width="712" data-original-height="500" /></a></div>
+![](/images/posts/737-cuidado-com-a-presença-constante-do--presen_25C3_25A7a_do_mal.png)
+
 Ou alguém acha que satanás, assim como os trabalhadores, trabalha de segunda a sexta 8 horas por dia, faz intervalo para o almoço e descansa aos sábados e domingos? Pois bem, “sede sóbrios e vigiai. Vosso adversário, o demônio, anda ao redor de vós como o leão que ruge, buscando a quem devorar” – 1ª Pedro 5,8. Vigiar é atitude constante. Como exemplo ilustramos a questão da vigilância dos quarteis; três grupos de soldados fazem a guarnição do aquartelamento durante 8 horas ininterruptas. A cada período deste tempo é feita a rendição porque aquilo que se está guarnecendo precisa de vigilância constante.</br>
 </br>
 Ora, convenhamos, o momento da morte acontece depois do bote do leão; uma vez abocanhada a presa, o destino é certo. Isso, no reino animal. Permanecendo na analogia feita na bíblia, sabemos que a coisa não muda muito de figura. O mal nos rodeia, de forma explícita ou não, é o leão que anda ao redor. Quando nos enamoramos da tentação e passamos a admiti-la em nossas vidas eis que nesse momento o leão encontro quem buscava. Na vigilância não contínua fomos confundidos e embotados, com a mente já turvada pelo canto da sereia que atrai o marujo para a morte, não sentimos o corpo afundar na água até o pescoço.</br>

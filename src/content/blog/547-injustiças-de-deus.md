@@ -4,7 +4,9 @@ date: 2021-09-17T15:38:00.006Z
 heroImage: "/images/posts/547-injustiças-de-deus-crueldade_de_Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/547-injustiças-de-deus-crueldade_de_Deus.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="587" data-original-width="587" height="320" src="/images/posts/547-injustiças-de-deus-crueldade_de_Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O “Deus” do antigo testamento para muitos parece ser uma
+![](/images/posts/547-injustiças-de-deus-crueldade_de_Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O “Deus” do antigo testamento para muitos parece ser uma
 entidade muito diferente do Deus do novo testamento. Isso porque no primeiro
 testamento bíblico vemos muita crueldade de todo tipo: genocídio, racismo,
 execuções terríveis de adúlteros e homossexuais, o assassinato de seus próprios
@@ -46,4 +48,7 @@ porque “O que está oculto pertence ao Senhor, nosso Deus; o que foi revelado 
 para nós e para nossos filhos, para sempre, a fim de que ponhamos em prática
 todas as palavras desta lei” – Deuteronômio 29,29. <o:p></o:p></p><p class="MsoNormal">Artigo relacionado:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2021/09/a-matanca-na-biblia.html" target="_blank">A matança na bíblia</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

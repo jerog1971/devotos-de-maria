@@ -4,7 +4,9 @@ date: 2021-10-21T15:24:00.001Z
 heroImage: "/images/posts/2249-as-razões-do-juízo-final-img-589086526.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2249-as-razões-do-juízo-final-img-589086526.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="410" data-original-width="415" height="316" src="/images/posts/2249-as-razões-do-juízo-final-img-9810135.png" width="320" /></a></div><br /><p></p><p class="MsoNormal">Aprendemos na doutrina católica que logo após a morte vem o
+![](/images/posts/2249-as-razões-do-juízo-final-img-9810135.png)
+
+<br /><p class="MsoNormal">Aprendemos na doutrina católica que logo após a morte vem o
 juízo particular e futuramente no final dos tempos virá, após a ressurreição o
 juízo final e universal. Ora bolas, se já fomos julgados após a morte, de que
 servirá o julgamento final? Com as palavras retiradas da homilia do Padre Paulo
@@ -61,7 +63,7 @@ ficaram noites sem dormir, jejuaram! —, receberão a recompensa do Céu; e as
 pessoas condenadas ao Inferno, por sua vez, serão castigadas e
 responsabilizadas, no corpo, pelo mal que praticaram.</p>
 
-<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"> </p>
 
 <p class="MsoNormal">A quarta razão pela qual é necessário um Juízo universal é
 que, nele, Deus irá mostrar a todos a sua Providência. Porque, afinal, quantos
@@ -97,5 +99,4 @@ pessoas que, em sua miséria e impotência, nada podiam fazer para responder a
 seus agressores? Não, Deus fará justiça e a fará rápido, disse Jesus”.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

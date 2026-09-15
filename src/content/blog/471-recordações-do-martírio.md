@@ -4,7 +4,8 @@ date: 2016-08-24T12:54:00.001Z
 heroImage: "/images/posts/471-recordações-do-martírio-martirio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/471-recordações-do-martírio-martirio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/471-recordações-do-martírio-martirio.png" width="314" height="320" data-original-width="349" data-original-height="356" /></a></div>
+![](/images/posts/471-recordações-do-martírio-martirio.png)
+
 A parte mais dramática de ser católico reside na vocação de estarmos sempre preparados para o martírio. Ainda que nem todos estejamos marcados para realmente morrer por ódio à Fé, manchetes anunciando a ação mortal do Estado Islâmico e de outros grupos que odeiam a Igreja lembram-nos que também nós podemos receber esse chamado e nos recordam que martírios não são alguma história do passado distante da Igreja, mas uma parte verdadeiramente real de nossa história hoje — em todos os tempos, na verdade.</br>
 </br>
 No último dia 14 de agosto, a Igreja celebrou duas diferentes expressões de martírio, separadas por mais de 450 anos: os mártires de Otranto, na Itália, e São Maximiliano Kolbe, na Polônia. Embora suas histórias façam parte de nosso passado, o exemplo deles pode iluminar nosso presente, ajudando-nos a ver o que podemos enfrentar em nossas próprias vidas e o que devemos fazer para cumprir nossa vocação cristã.</br>

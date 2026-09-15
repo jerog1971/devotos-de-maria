@@ -4,7 +4,8 @@ date: 2019-03-13T16:33:00.001Z
 heroImage: "/images/posts/225-o-mal-anda-à-solta-atentado_em_escola.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/225-o-mal-anda-à-solta-atentado_em_escola.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/225-o-mal-anda-à-solta-atentado_em_escola.png" width="320" height="251" data-original-width="567" data-original-height="444" /></a></div>
+![](/images/posts/225-o-mal-anda-à-solta-atentado_em_escola.png)
+
 Pensem caros leitores, durante a manhã de hoje o que vocês estavam fazendo? Trabalhando? Em casa dormindo? Filhos nas creches, escolas, faculdades, trabalhando também? Pois bem, apesar das dificuldades da sua vida e das muitas tribulações a vida segue adiante em família sob o olhar e a proteção divina?</br>
 </br>
 Ao final do dia, todos esperamos retornar para casa e rever nossos familiares; isso independe o pé de guerra ou não que está instalado em seu lar, as desarmonias ou aconchego e seja como for, a nossa vida é uma luta enquanto acontece nossa estadia por aqui. Deus, é bem verdade, já sabemos, embora não entendemos, permite o mal nesse mundo e nossas vidas. Jesus mesmo chama Satanás de príncipe do mundo, solto para tentar as almas para a perdição. O diabo faz a faxina para o Senhor, peneirando como o trigo (palavras do evangelho) as pessoas e a fé de cada uma. É a nossa realidade, enquanto escrevo uma de minhas filhas está na creche, a outra a caminho de casa, pois estuda de manhã e a esposa está no trabalho, assim como eu. Todos esperamos pela graça de Deus, ao fim do dia nos encontrarmos em casa.</br>

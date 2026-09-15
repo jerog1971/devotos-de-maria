@@ -4,7 +4,8 @@ date: 2016-01-04T12:11:00.001Z
 heroImage: "/images/posts/1895-sermos-santos-santos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1895-sermos-santos-santos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1895-sermos-santos-santos.png" width="320" height="210" data-original-width="679" data-original-height="446" /></a></div>
+![](/images/posts/1895-sermos-santos-santos.png)
+
 </br>
 “Eu sou o Deus todo poderoso. Anda na minha presença e sê íntegro;”</br>
 </br>

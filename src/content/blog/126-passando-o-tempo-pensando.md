@@ -4,7 +4,9 @@ date: 2021-08-17T16:16:00.002Z
 heroImage: "/images/posts/126-passando-o-tempo-pensando-passando_o_tempo.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/126-passando-o-tempo-pensando-passando_o_tempo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="522" data-original-width="533" height="313" src="/images/posts/126-passando-o-tempo-pensando-passando_o_tempo.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Quão precioso é nosso tempo; todo dia ao acordarmos supomos
+![](/images/posts/126-passando-o-tempo-pensando-passando_o_tempo.png)
+
+<br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Quão precioso é nosso tempo; todo dia ao acordarmos supomos
 que Deus nos concedeu para este dia um “crédito” de vinte e quatro horas, para
 ser gasto da forma que quisermos. O cristão, aquele que sabe que deve viver o
 seu dia como se fosse o último e estar com sua “mala” pronta para a viagem, pois,
@@ -41,4 +43,7 @@ lembrança, passo a noite toda PENSANDO em vós. Porque vós sois o meu apoio,
 exulto de alegria, à sombra de vossas asas. Minha alma está unida a vós,
 sustenta-me a vossa destra”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

@@ -4,7 +4,8 @@ date: 2020-01-20T18:40:00.001Z
 heroImage: "/images/posts/1207-o-mal-vem-para-cima-de-você-mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1207-o-mal-vem-para-cima-de-você-mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1207-o-mal-vem-para-cima-de-você-mal.png" width="320" height="212" data-original-width="561" data-original-height="371" /></a></div>
+![](/images/posts/1207-o-mal-vem-para-cima-de-você-mal.png)
+
 Pois é, ele vem mesmo. O mal em sua representação máxima – o diabo – vem para cima de todos. Não poupa esforços, basta lembrarmos que Jesus também precisou se confrontar com ele nas tentações do deserto. O poderio de fogo dele é imenso e sua experiência possui séculos de bagagem. Pobres de nós, que vivemos à tão pouco tempo e ainda queremos “bater de frente” com um oponente tão árduo como ele.</br>
 </br>
 Olhando atentamente para as sagradas escrituras parece que Deus criou a raça humana para ser dependente dele desde sempre. No entanto nunca houve escravidão e sim a autoridade paterna e amorosa, porém, rígida e justa. Vale sempre lembrar que o amor é responsável e não admite injustiças e maldades. Deus foi ditando suas regras desde o jardim do éden. Façam isso e não façam aquilo. Nossa Inteligência limitada por nosso criador nunca alcançará o porquê das coisas.</br>

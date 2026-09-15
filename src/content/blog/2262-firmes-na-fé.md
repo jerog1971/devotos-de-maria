@@ -4,7 +4,9 @@ date: 2021-02-23T20:57:00.004Z
 heroImage: "/images/posts/2262-firmes-na-fé-firmes_na_f_25C3_25A9.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2262-firmes-na-fé-firmes_na_f_25C3_25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="568" src="/images/posts/2262-firmes-na-fé-firmes_na_f_25C3_25A9.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos na santa palavra de Deus que fé é a certeza a respeito
+![](/images/posts/2262-firmes-na-fé-firmes_na_f_25C3_25A9.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Aprendemos na santa palavra de Deus que fé é a certeza a respeito
 daquilo que não se vê, é acreditar naquilo que não se vê. Possivelmente a
 maioria das pessoas conhece a fala que diz que “só acredito vendo, eu sou como
 São Tomé”. Jesus diz: felizes os que creem sem terem visto. E no caso dos cristãos,
@@ -37,4 +39,7 @@ fizermos nosso exame de consciência podemos aproveitar para refletir sobre o gr
 e o tipo de nossa fé, pois, sem dúvida alguma, ela é objeto de desejo do diabo,
 que busca mina-la e destruí-la.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-02-06T23:31:00.001Z
 heroImage: "/images/posts/2105-cuidado-não-facilite-n_C3_A3o_20facilite.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2105-cuidado-não-facilite-n_C3_A3o_20facilite.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="515" data-original-width="471" height="320" src="/images/posts/2105-cuidado-não-facilite-n_C3_A3o_20facilite.png" width="293" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente um olhar mais atento sobre os ensinamentos
+![](/images/posts/2105-cuidado-não-facilite-n_C3_A3o_20facilite.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente um olhar mais atento sobre os ensinamentos
 bíblicos irá trazer grandes alertas, grandes revelações e grandes avisos de
 toda a espécie; tanto no primeiro como no segundo testamento somos avisados de
 que o inimigo anda à solta espreitando a oportunidade de dar o bote. Aos
@@ -36,4 +38,7 @@ fim de qualquer possibilidade de conversão. Neste ponto, só resta o lamento, s
 algum houver, pois não se há mais tempo para limpar a sujeira que não evitamos
 durante a vida.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

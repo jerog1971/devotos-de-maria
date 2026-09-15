@@ -4,7 +4,9 @@ date: 2020-08-26T22:02:00.001Z
 heroImage: "/images/posts/463-contente-com-o-que-temos-Jefferson_brincando.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/463-contente-com-o-que-temos-Jefferson_brincando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="521" data-original-width="573" height="333" src="/images/posts/463-contente-com-o-que-temos-Jefferson_brincando.png" width="366" /></a><div style="text-align: left;"><br /></div><p class="MsoNormal" style="text-align: left;">O ser humano, desejado e criado por Deus, por ele foi
+![](/images/posts/463-contente-com-o-que-temos-Jefferson_brincando.png)
+
+<p class="MsoNormal" style="text-align: left;">O ser humano, desejado e criado por Deus, por ele foi
 ensinado que precisamos do que é essencial para viver. Tanto é que nos providencia
 tudo que precisamos para isso. Aí começam os problemas.<o:p></o:p></p>
 
@@ -36,4 +38,4 @@ céu. Temos que viver com o essencial que Deus determina para cada um e não com
 o pacote essencial de desejos que montamos achando que isso é o mínimo
 necessário. Como nos enganamos se Deus e o que ele nos provê não for suficiente.<o:p></o:p></p>
 
-<p class="MsoNormal" style="text-align: left;">Fonte: Jefferson Roger<o:p></o:p></p></div><p></p>
+<p class="MsoNormal" style="text-align: left;">Fonte: Jefferson Roger<o:p></o:p></p></div>

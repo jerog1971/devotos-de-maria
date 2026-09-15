@@ -4,7 +4,8 @@ date: 2016-01-29T18:49:00Z
 heroImage: "/images/posts/1343-exemplos-de-luxúria-e-avareza-avareza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1343-exemplos-de-luxúria-e-avareza-avareza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1343-exemplos-de-luxúria-e-avareza-avareza.png" width="320" height="184" data-original-width="592" data-original-height="341" /></a></div>
+![](/images/posts/1343-exemplos-de-luxúria-e-avareza-avareza.png)
+
 </br>
 "Hoje em uma programação de rádio da igreja Universal o bispo lançou o PACTO DA PROSPERIDADE, e para que esse “pacto” desse certo a pessoa teria que fazer um JEJUM DA RIQUEZA.</br>
 </br>
@@ -28,7 +29,9 @@ Afinal o que importa, o espiritual ou material?"</br>
 </br>
 Pois bem caros leitores, com esse artigo publicado em um site do Maranhão intitulado riquinha.com.br podemos, constatar o que no fundo muita gente sabe, senão todo mundo mas que sempre tratam de tampar o sol com a peneira. E o que seria? O fato de que a corrupção, o egoísmo, a idolatria ao dinheiro e a ânsia de poder e prestígio neste mundo, sem contar o fato das luxúrias que permeiam todas as área da humanidade e aí não escapam nem sacerdotes, pastores, religiosos e companhia a fora, estão sob o comando de satanás, a ceifar e perder muitas almas. Seguindo nessa linha das ofensas e pecados que clamam aos céus vejam outra matéria publicada no site saobentoemfoco.com.br onde conhecemos mais uma história de um pastor e sua seguidora:</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1343-exemplos-de-luxúria-e-avareza-pastor_transando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1343-exemplos-de-luxúria-e-avareza-pastor_transando.png" width="200" height="95" data-original-width="638" data-original-height="303" /></a></div>
+
+![](/images/posts/1343-exemplos-de-luxúria-e-avareza-pastor_transando.png)
+
 </br>
 "O Pastor evangélico, secretário de administração pública, deputado e candidato a prefeito da cidade de Vilhena no Roraima, Antônio Manoel Souza, caiu na net fazendo sexo com uma jovem cantora gospel da igreja Assembleia de Deus também da mesma cidade, chamada Priscila Yasmin Castilho.</br>
 </br>
@@ -46,7 +49,9 @@ As informações ainda não foram confirmadas, mas segundo alguns portais da reg
 </br>
 Pois é, caros leitores, mais uma vez a perna curta da mentira, lembrando que satanás é o pai da mentira, veio a tona. Assim nosso inimigo vai ganhando terreno ao destruir a fé de muitas pessoas que passam a desanimar com relação a Deus. Na sequencia, também vou publicar uma matéria do blog perigoreligioso15, sobre um caso de um sacerdote católico pedófilo. Dessa forma podemos concluir que a tarefa de casa do nosso inimigo número um, tem sido muito bem feita e ele se empenha muito para derrubar a todos com o pecado e fazer-nos sair do caminho da porta estreita.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1343-exemplos-de-luxúria-e-avareza-padre_pedofilo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1343-exemplos-de-luxúria-e-avareza-padre_pedofilo.png" width="200" height="128" data-original-width="539" data-original-height="345" /></a></div>
+
+![](/images/posts/1343-exemplos-de-luxúria-e-avareza-padre_pedofilo.png)
+
 </br>
 "Um padre confessou que era pedófilo e havia “cometido ações graves” contra uma menina de 13 anos de idade, e antes de ser expulso da paróquia, suicidou-se na sacristia.</br>
 Dom Max Suard, 48 anos, era o responsável pela paróquia de Santa Cruz, no Carso, nordeste da Itália. De acordo com informações do jornal Corriere Della Sera, o pároco procurou o bispo da diocese de Trieste no último sábado para confessar seu pecado.</br>
@@ -61,7 +66,9 @@ O próprio pontífice chegou a afirmar que hoje existem oito mil padres pedófil
 </br>
 E para concluirmos este artigo que trata de comprovar como a humanidade cai em tentação e é arrastada por satanás para o lodo do pecado, finalizo com mais uma matéria do blog perigoreligioso15 que também é republicada em outros sites e blogs pela internet, sobre outra pessoa que cedeu aos pecados da luxúria e com isso vai cavando a sua condenação.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1343-exemplos-de-luxúria-e-avareza-lux_25C3_25BAria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1343-exemplos-de-luxúria-e-avareza-lux_25C3_25BAria.png" width="200" height="127" data-original-width="537" data-original-height="341" /></a></div>
+
+![](/images/posts/1343-exemplos-de-luxúria-e-avareza-lux_25C3_25BAria.png)
+
 </br>
 "Evangélica faz a igreja estremecer: De dia serve a Deus e noite aos homens. Entenda! A Assembleia de Deus decidiu expulsar a irmã Joana Almeida após descobrir que a loira faz programas sexuais durante o dia e assim que sai do templo no período da noite. Joana Almeida durante a manhã serve a Deus mas a noite serve os homens com seu corpo. A bela gaúcha da cidade de Lajeado Novo adora sensualizar na internet e curtir uma praia.</br>
 </br>

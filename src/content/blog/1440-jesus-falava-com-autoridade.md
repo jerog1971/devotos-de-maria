@@ -4,7 +4,9 @@ date: 2022-01-11T15:33:00.001Z
 heroImage: "/images/posts/1440-jesus-falava-com-autoridade-AVvXsEiLej7vTpMCzyoqz0HHOWUqMNdsO4VhnL9TWIIvA8IbkHwDnoX5iq8YmJhhp-PdjmC2HulxnfNkxHNSk9liZRq2O7LVCGRyaSI97l1vjEvXayMvEOiUBLingMDbukKTcFN2LnDzq-GWRa6wT97nYqCPxw_d9KnEvsE1V3yhbRHJ-X5_y-tQkS2wSC0F_s553.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1440-jesus-falava-com-autoridade-AVvXsEiLej7vTpMCzyoqz0HHOWUqMNdsO4VhnL9TWIIvA8IbkHwDnoX5iq8YmJhhp-PdjmC2HulxnfNkxHNSk9liZRq2O7LVCGRyaSI97l1vjEvXayMvEOiUBLingMDbukKTcFN2LnDzq-GWRa6wT97nYqCPxw_d9KnEvsE1V3yhbRHJ-X5_y-tQkS2wSC0F_s553.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="/images/posts/1440-jesus-falava-com-autoridade-AVvXsEiLej7vTpMCzyoqz0HHOWUqMNdsO4VhnL9TWIIvA8IbkHwDnoX5iq8YmJhhp-PdjmC2HulxnfNkxHNSk9liZRq2O7LVCGRyaSI97l1vjEvXayMvEOiUBLingMDbukKTcFN2LnDzq-GWRa6wT97nYqCPxw_d9KnEvsE1V3yhbRHJ-X5_y-tQkS2wSC0F_s320.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois do famoso sermão da montanha, “quando Jesus terminou
+![](/images/posts/1440-jesus-falava-com-autoridade-AVvXsEiLej7vTpMCzyoqz0HHOWUqMNdsO4VhnL9TWIIvA8IbkHwDnoX5iq8YmJhhp-PdjmC2HulxnfNkxHNSk9liZRq2O7LVCGRyaSI97l1vjEvXayMvEOiUBLingMDbukKTcFN2LnDzq-GWRa6wT97nYqCPxw_d9KnEvsE1V3yhbRHJ-X5_y-tQkS2wSC0F_s320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Depois do famoso sermão da montanha, “quando Jesus terminou
 o discurso, a multidão ficou impressionada com a sua doutrina. Com efeito, ele
 a ensinava como quem tinha autoridade e não como os seus escribas” – Mateus 7,28-29.
 E por ser assim, enviado a mando do Pai Eterno para nos ensinar a boa nova e
@@ -34,4 +36,7 @@ serem castigados no dia do juízo, principalmente aqueles que correm com desejos
 impuros atrás dos prazeres da carne e desprezam a sua autoridade” – 2ª Pedro
 2,4-10.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-05-18T17:11:00.001Z
 heroImage: "/images/posts/309-a-ascensão-de-jesus-cristo-ao-céu-img-484378125.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/309-a-ascensão-de-jesus-cristo-ao-céu-img-484378125.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="430" data-original-width="763" height="180" src="/images/posts/309-a-ascensão-de-jesus-cristo-ao-céu-img-1431166992.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ao entrar em Jerusalém, lembramos que aqui repousava Nosso
+![](/images/posts/309-a-ascensão-de-jesus-cristo-ao-céu-img-1431166992.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ao entrar em Jerusalém, lembramos que aqui repousava Nosso
 Senhor Jesus Cristo em um sepulcro próximo, penetrado nem pelo ar nem pela luz.
 Seu Corpo Sagrado desfigurado pelas feridas. Envolto no Santo Sudário, Nosso
 Senhor jaz em completa escuridão, reduzido à inércia e à morte isoladas. Na
@@ -32,4 +34,7 @@ triunfo eterno.<o:p></o:p></p>
 do caminho que nos leva a salvação e glória eternas no paraíso, preparado para
 os benditos do Pai Eterno.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

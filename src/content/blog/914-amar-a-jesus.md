@@ -4,7 +4,11 @@ date: 2020-07-02T16:35:00.002Z
 heroImage: "/images/posts/914-amar-a-jesus-serm_25C3_25A3o.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/914-amar-a-jesus-serm_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" src="/images/posts/914-amar-a-jesus-serm_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Bem-aventurado aquele que compreende o que seja amar a Jesus
+<br />
+
+![](/images/posts/914-amar-a-jesus-serm_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Bem-aventurado aquele que compreende o que seja amar a Jesus
 e desprezar-se a si por amor de Jesus. Por esse amor deves deixar qualquer
 outro, pois Jesus quer ser amado acima de tudo. O amor da criatura é enganoso e
 inconstante; o amor de Jesus é fiel e inabalável. Apegado à criatura, cairás

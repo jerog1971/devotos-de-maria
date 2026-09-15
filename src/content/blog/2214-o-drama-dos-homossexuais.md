@@ -4,7 +4,8 @@ date: 2018-08-16T18:44:00.003Z
 heroImage: "/images/posts/2214-o-drama-dos-homossexuais-homossexual.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2214-o-drama-dos-homossexuais-homossexual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2214-o-drama-dos-homossexuais-homossexual.png" width="318" height="320" data-original-width="152" data-original-height="153" /></a></div>
+![](/images/posts/2214-o-drama-dos-homossexuais-homossexual.png)
+
 Olá caros leitores, transcrevo na íntegra essa matéria encontrada em padrepauloricardo.org por conter os ensinamentos defendidos por este site:</br>
 </br>
 O drama que os homossexuais vivem é semelhante ao de todos os seres humanos marcados pelo pecado original. Todos possuem um “canto de sereia", uma tentação demoníaca que diz: seja feliz, procure a felicidade aqui nesta terra. É buscando essa felicidade que o alcoólatra se embriaga, que o drogado se entorpece, que a prostituta se destrói, que o adúltero acaba com sua família e que o homossexual mendiga afeto de relação em relação. É buscando essa felicidade que o homem vive uma vida de desventura nesta terra. No entanto, Nosso Senhor não prometeu felicidade para ninguém aqui, mas sim no céu. Ele disse: “Na casa de meu Pai há muitas moradas. [...] Vou preparar um lugar para vós." (João, 14,2). Isso se dá porque diversas são as cruzes que devem ser carregadas.</br>

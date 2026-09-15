@@ -4,7 +4,9 @@ date: 2022-07-06T16:20:00.004Z
 heroImage: "/images/posts/1716-momentos-gratificantes-momentos_20gratificantes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1716-momentos-gratificantes-momentos_20gratificantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="743" data-original-width="801" height="297" src="/images/posts/1716-momentos-gratificantes-momentos_20gratificantes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Às vezes, em meio a tantas dificuldades da vida, imposta sem
+![](/images/posts/1716-momentos-gratificantes-momentos_20gratificantes.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Às vezes, em meio a tantas dificuldades da vida, imposta sem
 exceção a todos, somos agraciados por pequenos instantes que somente um olhar
 atento e treinado e uma alma em paz com Deus pode perceber. No mundo tribulado
 como o que estamos mergulhados nessa atualidade, valores importantes,
@@ -40,4 +42,7 @@ respeito para com todos e com um caminhar livre de prejuízos para a salvação 
 suas almas. Pode parecer uma meta muito alta, não há como saber, mas, se um
 apenas colher os frutos dessa oportunidade que convivemos, terá valido à pena.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2018-03-20T16:05:00Z
 heroImage: "/images/posts/761-não-arredeis-o-pé-sofrimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/761-não-arredeis-o-pé-sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/761-não-arredeis-o-pé-sofrimento.png" width="300" height="320" data-original-width="191" data-original-height="204" /></a></div>
+![](/images/posts/761-não-arredeis-o-pé-sofrimento.png)
+
 Pois, se o fizer e não cuidar estando de pé, podes cair com um simples esbarrão. Uma vez ao chão, ferido, sem orgulho e queixo erguido, pressionado a ficar ali, prostrado, na posição dos derrotados que não conseguem olhar para cima para poder enxergar que alguém lhe estende a mão, torna-se incapaz de retomar a caminhada.</br>
 </br>
 A cada queda mais marcas e cicatrizes vão se desenhando em nossos corpos. O movimento de caminhar rumo à pátria celeste vai consumindo muitos recursos e provando tantos outros. O marasmo das comodidades silenciosamente e sutilmente dá sinal de que o tsunami que ainda não se vê, está a caminho. Os distraídos, lembrados por São Pedro em suas cartas, são os que caem vítimas do bote do inimigo que como um leão, espreita atrás de quem atacar.</br>

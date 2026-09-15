@@ -4,7 +4,9 @@ date: 2022-11-11T16:04:00.004Z
 heroImage: "/images/posts/1465-lixos-do-inferno-lixos_20do_20inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1465-lixos-do-inferno-lixos_20do_20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="553" data-original-width="610" height="290" src="/images/posts/1465-lixos-do-inferno-lixos_20do_20inferno.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A habilidade do demônio é tamanha que ele consegue ludibriar
+![](/images/posts/1465-lixos-do-inferno-lixos_20do_20inferno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A habilidade do demônio é tamanha que ele consegue ludibriar
 muitas pessoas, fazendo-as enxergas “belezas” nas coisas mais imundas, repugnantes
 e abominadas por Deus (Tiago 4,4). Ele é habilidoso em se aproveitar das criações
 divinas, separando-as do sagrado e recheando-as com o lodo dos pecados.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -38,4 +40,7 @@ a terra (Eclesiástico 2,1), honrando a Deus com nossa vida e o glorificando com
 nosso corpo (1ª Coríntios 6,20) ou iremos sucumbir ao mal, chafurdando na lama
 dos pecados e nos tornando lixos com destino certo: a danação eterna.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

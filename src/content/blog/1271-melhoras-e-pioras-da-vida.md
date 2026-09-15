@@ -4,7 +4,9 @@ date: 2021-11-23T18:59:00.003Z
 heroImage: "/images/posts/1271-melhoras-e-pioras-da-vida-Melhoras_e_pioras_da_vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1271-melhoras-e-pioras-da-vida-Melhoras_e_pioras_da_vida.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="512" height="243" src="/images/posts/1271-melhoras-e-pioras-da-vida-Melhoras_e_pioras_da_vida.png" width="320" /></a></div><br /><p></p><p class="MsoNormal">A bíblia nos recorda que devemos ter em mente as duas situações
+![](/images/posts/1271-melhoras-e-pioras-da-vida-Melhoras_e_pioras_da_vida.png)
+
+<br /><p class="MsoNormal">A bíblia nos recorda que devemos ter em mente as duas situações
 que nos acometem a vida: bons e maus momentos. Estas duas situações chacoalham
 a pessoa como um barco em mar revolto e com muita violência. Como seria bom que
 houvesse maioria de coisas boas; mas não é assim, o modelo que a sagrada
@@ -35,5 +37,4 @@ ressuscitado.</p>
 outra fala dele? Ninguém vai ao Pai, senão por mim! Fim de conversa.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

@@ -4,7 +4,8 @@ date: 2016-09-27T16:29:00.001Z
 heroImage: "/images/posts/1195-concessões-para-indulgência-parcial-indulgencias2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1195-concessões-para-indulgência-parcial-indulgencias2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="403" height="224" src="/images/posts/1195-concessões-para-indulgência-parcial-indulgencias2.png" width="320" /></a></div>
+![](/images/posts/1195-concessões-para-indulgência-parcial-indulgencias2.png)
+
 Propõem-se em primeiro lugar três concessões de indulgências, com as quais se aconselha o fiel a informar de espírito cristão as ações de sua existência cotidiana e a tender em seu estado de vida à perfeição da caridade. A primeira e segunda concessão equivalem a muitas concessões que existiam outrora de maneira diferente. A terceira convém especialmente aos nossos tempos em que os fiéis devem ser movidos à penitência, além da obrigação da abstinência e do jejum, aliás bastante mitigada. 
 
 Considere-se, por exemplo, a primeira concessão, cujos termos são os seguintes: "Concede-se indulgência parcial ao fiel que, no cumprimento de seus deveres e na tolerância das aflições da vida, ergue o espírito a Deus com humilde confiança, acrescentando alguma piedosa invocação, mesmo só em pensamento".
@@ -20,6 +21,5 @@ As três concessões, como é claro, de modo especial, concordam com o Evangelho
 2ª Concessão – “Concede-se indulgência parcial ao fiel que, levado pelo espírito de fé, com o coração misericordioso, dispõe de si próprio e de seus bens no serviço dos irmãos que sofrem falta do necessário. O fiel é atraído por esta concessão de indulgência para que, seguindo o exemplo e preceito do Cristo Jesus, execute mais frequentemente obras de caridade ou de misericórdia. Contudo, nem todas as obras de caridade são enriquecidas de indulgência, mas só as que são feitas "para serviço dos irmãos que sofrem falta do necessário" como comida ou roupa para o corpo, ou consolação para alma”.
 
 3ª Concessão – “Concede-se indulgência parcial ao fiel que se abstém de coisa lícita e agradável, em espírito espontâneo de penitência. Por esta terceira concessão é impelido o fiel a refrear suas más inclinações, a aprender a sujeitar o corpo e a se conformar com Cristo pobre e paciente. Pois a penitência tanto mais vale quanto mais se une à caridade, conforme as palavras de São Leão Magno: Demos à virtude o que subtrairmos ao prazer. Torne-se refeição dos pobres a abstinência do que jejua". Alguns exemplos de concessões que são enriquecidas com indulgências serão apresentadas no artigo <a href="https://www.devotos-de-maria.com.br/2016/09/tipos-de-indulgencia-parcial.html" target="_blank">Tipos de Indulgência parcial</a>.
-
 
 fonte: por Jefferson Roger retirado dos documentos da igreja

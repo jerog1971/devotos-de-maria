@@ -4,7 +4,11 @@ date: 2020-06-20T14:22:00Z
 heroImage: "/images/posts/943-padre-rafael-palacios-Padre_Rafael_Palacios.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/943-padre-rafael-palacios-Padre_Rafael_Palacios.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="322" data-original-width="312" height="320" src="/images/posts/943-padre-rafael-palacios-Padre_Rafael_Palacios.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em San Luis Talpa, em 16 de outubro de 1938. Foi
+<br />
+
+![](/images/posts/943-padre-rafael-palacios-Padre_Rafael_Palacios.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em San Luis Talpa, em 16 de outubro de 1938. Foi
 ordenado no dia 26 de maio de 1963. Foi morto em plena rua, no dia 20 de junho
 de 1979, em El Salvador, quando retornava de uma reunião de CEB. Tinha 41 anos.</p>
 

@@ -4,7 +4,8 @@ date: 2019-03-21T16:49:00.002Z
 heroImage: "/images/posts/982-você-age-como-um-fariseu-fariseus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/982-você-age-como-um-fariseu-fariseus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/982-você-age-como-um-fariseu-fariseus.png" width="310" height="320" data-original-width="297" data-original-height="307" /></a></div>
+![](/images/posts/982-você-age-como-um-fariseu-fariseus.png)
+
 À primeira vista existe uma tendência de se responder que não. Imagina eu, agindo como aquelas pessoas que viveram na época de Jesus e que faziam ele “pisar em ovos”? Eu não, nada disso! Pois bem, o problema é que essa pergunta que podemos nos fazer precisa de um exame de consciência mais aprofundado. Por que? Porque a resposta pode estar na questão de se julgar como um fariseu na íntegra. Talvez não sejamos como eles, mas agimos como eles em alguma questão. Vamos entender melhor.</br>
 </br>
 Sobre os fariseus Jesus falou e debateu muito; com isso ele queria nos ensinar com o “mau exemplo” deles como não devemos agir. Eles são falsos, falam uma coisa e fazem outra e são preconceituosos. Então, baseados nesse ensinamento do Cristo, devemos pensar com muita atenção em nossas atitudes. Porém, se ainda assim não “enxergamos” a trave em nossos olhos talvez precisemos dar ouvidos ao que os outros dizem. </br>

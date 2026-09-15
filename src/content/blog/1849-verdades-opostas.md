@@ -4,7 +4,9 @@ date: 2022-02-16T18:02:00.003Z
 heroImage: "/images/posts/1849-verdades-opostas-img-716662333.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1849-verdades-opostas-img-716662333.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="282" height="263" src="/images/posts/1849-verdades-opostas-img-1614163661.jpg" width="282" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E hajam verdades espalhadas pelo mundo. Quando o sujeito
+![](/images/posts/1849-verdades-opostas-img-1614163661.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">E hajam verdades espalhadas pelo mundo. Quando o sujeito
 começa a investigar o que se fala a respeito de alguma coisa, o que existe
 escrito, ouvir opiniões, se ele não tomar cuidado, certamente um grande nó se
 formará em sua cabeça. São pontos de vista diferentes, verdades não totalmente “puras”,
@@ -44,4 +46,7 @@ Por isso devemos escolher. Tiago 4,4 – “Adúlteros, não sabeis que o amor d
 mundo é abominado por Deus? Todo aquele que quer ser amigo do mundo
 constitui-se inimigo de Deus”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

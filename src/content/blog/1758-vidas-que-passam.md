@@ -4,7 +4,8 @@ date: 2020-03-09T15:57:00.002Z
 heroImage: "/images/posts/1758-vidas-que-passam-jefferson_roger_2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1758-vidas-que-passam-jefferson_roger_2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1758-vidas-que-passam-jefferson_roger_2.png" width="320" height="300" data-original-width="555" data-original-height="521" /></a></div>
+![](/images/posts/1758-vidas-que-passam-jefferson_roger_2.png)
+
 Não existem, depois desabrocham,</br>
 Crescem, depois se desenvolvem.</br>
 Possuem início, meio e fim.</br>

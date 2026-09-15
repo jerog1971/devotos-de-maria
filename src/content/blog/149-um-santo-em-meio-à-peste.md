@@ -4,7 +4,11 @@ date: 2020-06-05T15:29:00Z
 heroImage: "/images/posts/149-um-santo-em-meio-à-peste-Carlos_Borromeu.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/149-um-santo-em-meio-à-peste-Carlos_Borromeu.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="470" src="/images/posts/149-um-santo-em-meio-à-peste-Carlos_Borromeu.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Carlos Borromeu, cardeal arcebispo de Milão, viveu numa
+<br />
+
+![](/images/posts/149-um-santo-em-meio-à-peste-Carlos_Borromeu.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Carlos Borromeu, cardeal arcebispo de Milão, viveu numa
 época de grande corrupção na Igreja, exemplificada na frouxidão do clero ficando
 chocado com “a negligência, a ignorância e a flagrante imoralidade de muitos
 sacerdotes e religiosos”. Muitos sacerdotes sequer sabiam as fórmulas corretas
@@ -61,7 +65,7 @@ finalmente deixou a cidade em 1578. O número de mortos na cidade foi estimado
 em 17 mil, além dos 8 mil que faleceram na zona rural. Durante os poucos anos
 que lhe restaram depois do fim da praga, São Carlos Borromeu continuou a
 praticar o que pregava, inspirando a todos com sua vida de oração e
-devoção<span style="mso-spacerun: yes;">&nbsp; </span>abnegada. Morreu em paz na noite
+devoção<span style="mso-spacerun: yes;">  </span>abnegada. Morreu em paz na noite
 de 3 de novembro de 1584, desejoso do descanso merecido por seus trabalhos. O
 amor que havia inspirado era evidente pelo fluxo contínuo de milaneses que
 faziam fila na capela da catedral em que o seu corpo estava exposto e pelos milagres

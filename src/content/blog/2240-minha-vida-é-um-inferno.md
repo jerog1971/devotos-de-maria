@@ -4,7 +4,9 @@ date: 2022-06-15T15:43:00.003Z
 heroImage: "/images/posts/2240-minha-vida-é-um-inferno-img-946992046.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2240-minha-vida-é-um-inferno-img-946992046.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="313" height="320" src="/images/posts/2240-minha-vida-é-um-inferno-img-1925408435.png" width="276" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando as pessoas dizem isso, referindo-se às dificuldades
+![](/images/posts/2240-minha-vida-é-um-inferno-img-1925408435.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quando as pessoas dizem isso, referindo-se às dificuldades
 que estão passando no decorrer de suas vidas, fazem uma comparação muito
 injusta em relação ao modelo que utilizam para exemplificar os problemas pelos
 quais estão passando. Sabe-se, pela doutrina católica, que o inferno é um lugar
@@ -38,4 +40,7 @@ realinhar nossos corações com os ensinamentos divinos para que nossa vida, que
 é eterna, após a transformação de nossa morte, de fato, não se coloque no inferno,
 onde o sempre nunca mais irá nos poupar dos sofrimentos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

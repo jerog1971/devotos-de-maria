@@ -4,7 +4,9 @@ date: 2021-10-10T16:08:00.003Z
 heroImage: "/images/posts/572-sem-expectativa-sem-frustração-img-1890236211.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/572-sem-expectativa-sem-frustração-img-1890236211.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="377" height="270" src="/images/posts/572-sem-expectativa-sem-frustração-img-62277973.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe uma linha de pensamento e filosofia de vida que prega
+![](/images/posts/572-sem-expectativa-sem-frustração-img-62277973.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existe uma linha de pensamento e filosofia de vida que prega
 que se você não gera expectativa sobre as coisas não corre o risco de passar
 por alguma frustração. Esse estilo defende a ideia de que se pode evitar
 dissabores na vida não alimentando desejos que poderão não se realizar. De
@@ -40,4 +42,7 @@ achareis o repouso para as vossas almas” – Mateus 11,29. Pois assim, não ir
 gerar expectativas em relação a querer aquilo que é abominável aos olhos de
 Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

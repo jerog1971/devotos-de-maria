@@ -4,7 +4,9 @@ date: 2021-02-02T15:32:00.001Z
 heroImage: "/images/posts/1182-o-povo-cabeça-dura-cabe_25C3_25A7a_dura.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1182-o-povo-cabeça-dura-cabe_25C3_25A7a_dura.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="387" data-original-width="414" src="/images/posts/1182-o-povo-cabeça-dura-cabe_25C3_25A7a_dura.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No livro do Deuteronômio ouvimos a exclamação que Deus faz
+![](/images/posts/1182-o-povo-cabeça-dura-cabe_25C3_25A7a_dura.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">No livro do Deuteronômio ouvimos a exclamação que Deus faz
 de seu povo chamando-o de cabeça dura. Mais adiante, já no novo testamento,
 essa mesma índole humana é relembrada pelo apóstolo Estevão. No livro
 aprendemos que através de calúnias os contrários a pregação do evangelho de Jesus
@@ -44,4 +46,7 @@ podemos escolher um lado. Estevão lembrou os incrédulos que Deus os considerav
 “cabeças duras”; quem sabe para eles Estevão é que era. Façamos a nossa escolha,
 Deus a está aguardando<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

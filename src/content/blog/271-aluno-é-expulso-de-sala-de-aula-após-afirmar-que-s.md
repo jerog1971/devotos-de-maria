@@ -4,7 +4,8 @@ date: 2019-06-25T16:47:00.003Z
 heroImage: "/images/posts/271-aluno-é-expulso-de-sala-de-aula-após-aluno_expulso.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/271-aluno-é-expulso-de-sala-de-aula-após-aluno_expulso.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/271-aluno-é-expulso-de-sala-de-aula-após-aluno_expulso.png" width="320" height="215" data-original-width="756" data-original-height="509" /></a></div>
+![](/images/posts/271-aluno-é-expulso-de-sala-de-aula-após-aluno_expulso.png)
+
 Para o cristão temente a Deus que deseja ir para o céu e por isso seu único interesse é agradar a Deus, já que fomos feitos para ama-lo, adora-lo e servi-lo, não é novidade alguma que Deus criou um homem e uma mulher, mandou que se multiplicassem tornando-se unidos numa só carne. Também não é novidade que ele “deixou” por escrito nas sagradas escrituras uma pequena lista de todas as proibições em relação ao que determinou em termos de união. Ora, se só está autorizado segundo sua palavra, homem com mulher se unirem em matrimônio, é mais do que claro que outras possibilidades estão excluídas.</br>
 </br>
 É de cansar esse tsunami que a cultura da morte insiste em jogar na goela do povo afirmando que a família não é mais aquela formada por moldes divinos – homem e mulher que se amam e unindo-se abertos a esse amor recebem de Deus a bênção dos filhos. O mundo prega que família pode ser dois homens que adotam crianças, ou duas mulheres mais um cachorro ou ainda qualquer outra maluquice que a embotada mente humana, fruto das delicias do diabo, pode conceber.</br>

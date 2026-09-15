@@ -4,7 +4,9 @@ date: 2022-05-27T19:04:00.001Z
 heroImage: "/images/posts/1829-a-mãe-que-nos-ajuda-img-189515514.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1829-a-mãe-que-nos-ajuda-img-189515514.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="354" height="298" src="/images/posts/1829-a-mãe-que-nos-ajuda-img-1939177689.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa Senhora Ajuda dos Cristãos! Caro leitor, já conhecia
+![](/images/posts/1829-a-mãe-que-nos-ajuda-img-1939177689.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nossa Senhora Ajuda dos Cristãos! Caro leitor, já conhecia
 esse título atribuído à mãe de Deus? Pois bem, não lhe parece na mesma linha de
 Nossa Senhora Auxiliadora, das Mercês, do Bom Conselho, do Perpétuo Socorro? Ela
 que é a Mãe de Deus, a corredentora da humanidade, a concebida sem pecado
@@ -38,4 +40,7 @@ filho, minha filha, o que você quer?"‎<o:p></o:p></p>
 <p class="MsoNormal">‎Quem hesitaria em responder a tal pergunta feita por uma
 mãe tão cheia de amor, tão cheia de poder para ajudar os seus filhos?‎”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

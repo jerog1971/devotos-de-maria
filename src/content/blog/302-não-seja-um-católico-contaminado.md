@@ -4,7 +4,8 @@ date: 2016-02-29T12:20:00Z
 heroImage: "/images/posts/302-não-seja-um-católico-contaminado-nerojansen.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/302-não-seja-um-católico-contaminado-nerojansen.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/302-não-seja-um-católico-contaminado-nerojansen.png" width="320" height="145" data-original-width="685" data-original-height="311" /></a></div>
+![](/images/posts/302-não-seja-um-católico-contaminado-nerojansen.png)
+
 <b>Mateus 6,24</b> - Ninguém pode servir a dois senhores, porque ou odiará a um e amará o outro, ou dedicar-se-á a um e desprezará o outro.</br>
 </br>
 <b>Eclesiástico 11,27-28</b> - 27 No dia feliz não percas a recordação dos males, nem a recordação do bem no dia infeliz. 28 Pois no dia da morte é fácil para Deus dar a cada um conforme o seu comportamento.</br>

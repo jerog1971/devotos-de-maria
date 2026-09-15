@@ -4,7 +4,8 @@ date: 2019-08-28T15:22:00.002Z
 heroImage: "/images/posts/1839-é-raro-ao-homem-combater-e-vencer-a-castidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1839-é-raro-ao-homem-combater-e-vencer-a-castidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1839-é-raro-ao-homem-combater-e-vencer-a-castidade.png" width="278" height="320" data-original-width="514" data-original-height="592" /></a></div>
+![](/images/posts/1839-é-raro-ao-homem-combater-e-vencer-a-castidade.png)
+
 Essas são palavras ditas por Santo Afonso Maria de Ligório em seu livro “As Glorias de Maria”. Pautado num compêndio de vários outros ensinamentos de outros tantos (santos e santas), ilustra de forma prática os ensinamentos do evangelho onde se diz que são três as práticas que o homem deve exercer se quiser manter em pé essa condição.</br>
 </br>
 A primeira delas é o jejum; é muito claro para o cristão, ou ao menos deveria ser, que a gula e o jejum não se dão bem. Muitos não compreendem qual a relação que jejuar tem com as concupiscências que nos arrastam para os pecados da carne. Ora, a gula é o apetite desenfreado e desordenado a respeito das necessidades. O erro aqui que muitos cometem é associar a gula apenas com o alimento. O jejum entra em cena para corrigir as vontades e trazer novamente ao equilíbrio aquilo que foi alterado e se tornou prejudicial.</br>

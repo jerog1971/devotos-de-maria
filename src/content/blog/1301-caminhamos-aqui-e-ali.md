@@ -4,7 +4,9 @@ date: 2022-10-07T15:12:00.004Z
 heroImage: "/images/posts/1301-caminhamos-aqui-e-ali-qual_20caminho_20seguir.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1301-caminhamos-aqui-e-ali-qual_20caminho_20seguir.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="217" data-original-width="258" height="217" src="/images/posts/1301-caminhamos-aqui-e-ali-qual_20caminho_20seguir.png" width="258" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Diariamente, infelizmente, o mundo segue enviando mais pessoas
+![](/images/posts/1301-caminhamos-aqui-e-ali-qual_20caminho_20seguir.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Diariamente, infelizmente, o mundo segue enviando mais pessoas
 para a condenação eterna. Com a liberdade que o ser humano recebeu de seu
 criador para poder escolher que caminho seguir nesta vida, cada vez mais as
 pessoas estão – conforme nos explica Jesus Cristo – entrando pelo caminho largo
@@ -40,4 +42,7 @@ por culpa própria e abandono de Deus em troca das amizades do mundo, abominadas
 pelo altíssimo (Tiago, 4,4), se jogam ao inferno fazendo a pior de suas
 escolhas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

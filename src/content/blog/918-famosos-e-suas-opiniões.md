@@ -4,7 +4,9 @@ date: 2020-11-06T14:23:00.004Z
 heroImage: "/images/posts/918-famosos-e-suas-opiniões-xuxa_18.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/918-famosos-e-suas-opiniões-xuxa_18.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="669" data-original-width="782" src="/images/posts/918-famosos-e-suas-opiniões-xuxa_18.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que a humanidade tem diante de si duas,
+![](/images/posts/918-famosos-e-suas-opiniões-xuxa_18.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo mundo sabe que a humanidade tem diante de si duas,
 podemos colocar desse modo, “ideologias”: uma divina e outra secular. Deus,
 depois de toda a tradição passar e repassar seus ensinamentos e regras para
 suas criaturas, deixou pela autoria do seu Espírito Santo, por escrito, as suas
@@ -66,4 +68,7 @@ convém.” – 1ª Coríntios 6,12. E mais nada pois em Efésios 5,3 lemos que 
 faça menção entre vós, como convém a santos”. Se nem devemos mencionar, quem
 dirá praticar!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-08-16T18:07:00Z
 heroImage: "/images/posts/958-casou-e-agora-casou.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/958-casou-e-agora-casou.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/958-casou-e-agora-casou.png" width="283" height="320" data-original-width="335" data-original-height="379" /></a></div>
+![](/images/posts/958-casou-e-agora-casou.png)
+
 <b>Gênesis 2,24</b> – “... o homem deixará seu pai e sua mãe para se unir à sua mulher; e já não são mais que uma só carne”. <b>Mateus 19,6</b> – “Assim, já não são dois, mas uma só carne. Portanto, NÃO SEPARE o homem o que Deus uniu”. E assim, com estes dois trechos da sagrada escritura, Jesus confirma o desejo e o projeto de Deus concebido desde a criação para a humanidade. A família, célula básica da sociedade, provém do amor de Deus, querido para suas criaturas.</br>
 </br>
 A família é uma realidade constituída por um homem, uma mulher e seus filhos. Qualquer outra concepção diferente desta, não passa de uma caricatura que sempre será malsucedida pois fere o projeto de Deus, uma vez que insiste em percorrer um caminho diferente do apresentado por Jesus. Enquanto as verdadeiras famílias expressam sua verdadeira essência, pensada e querida por Deus, as outras formas de aglomerados de pessoas sob um mesmo teto, brincam de casinha.</br>

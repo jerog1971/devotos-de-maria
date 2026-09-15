@@ -4,7 +4,9 @@ date: 2020-09-01T14:24:00.005Z
 heroImage: "/images/posts/274-as-histórias-de-uma-cama-camas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/274-as-histórias-de-uma-cama-camas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="799" height="326" src="/images/posts/274-as-histórias-de-uma-cama-camas.png" width="512" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa relação com a cama começa desde a nossa preconcepção.
+![](/images/posts/274-as-histórias-de-uma-cama-camas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nossa relação com a cama começa desde a nossa preconcepção.
 Nossos pais, unidos pelo matrimônio e abertos à fecundidade querida por Deus,
 cooperam com o criador, em nossa vinda ao mundo. Depois, passamos muito tempo
 numa cama, nomeada de berço. Do bercinho após alguns anos, ainda solteiros,
@@ -43,4 +45,7 @@ escolhas nos acompanhará ao cemitério. Então nosso justo juiz irá decretar a
 sentença condenatória ou irá pronunciar as palavras tão desejadas por todos que
 querem a glória e felicidades eternas no céu: vinde benditos!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

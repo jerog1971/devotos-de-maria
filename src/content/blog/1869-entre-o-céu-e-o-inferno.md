@@ -4,7 +4,9 @@ date: 2024-07-10T21:45:00.001Z
 heroImage: "/images/posts/1869-entre-o-céu-e-o-inferno-a_20dist_C3_A2ncia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1869-entre-o-céu-e-o-inferno-a_20dist_C3_A2ncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="341" data-original-width="434" height="251" src="/images/posts/1869-entre-o-céu-e-o-inferno-a_20dist_C3_A2ncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente a distância que estamos entre o céu e o inferno é
+![](/images/posts/1869-entre-o-céu-e-o-inferno-a_20dist_C3_A2ncia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente a distância que estamos entre o céu e o inferno é
 bem diferente em relação à nossa posição atual. O inferno está muito mais
 próximo do que se pode imaginar; ao passo que o céu se encontra em uma distância
 bem maior, bem maior mesmo. Vamos entender.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -40,4 +42,7 @@ ser pegos desprevenidos e seguirmos em frente, amando a Deus, ao próximo,
 nossas famílias e encurtando a cada dia a distância que nos separa do Reino dos
 Céus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

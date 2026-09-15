@@ -4,7 +4,8 @@ date: 2016-06-01T13:45:00Z
 heroImage: "/images/posts/1179-a-importância-do-retiro-retiro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1179-a-importância-do-retiro-retiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1179-a-importância-do-retiro-retiro.png" width="320" height="216" data-original-width="488" data-original-height="330" /></a></div>
+![](/images/posts/1179-a-importância-do-retiro-retiro.png)
+
 Vez por outra o ser humano sente dentro de si, uma necessidade de buscar o silêncio. Naturalmente, por termos sidos feitos para as coisas do alto, sempre nos inquieta de tempos em tempos, a melodia fora de ritmo que o mundo nos oferece diariamente. O verdadeiro cristão não fica por muito tempo em meio ao barulho das coisas e se necessário for, suporta com paciência toda a algazarra ao seu redor porque sabe que sempre tende para uma realidade superior. Exatamente como Jesus se comportou em sua paixão, morte e ressureição.</br>
 </br>
 Nas sagradas escrituras, podemos encontrar vários testemunhos nos dois testamentos, de episódios que narram alguém a se retirar, para dialogar com Deus buscando uma preparação, auxílio, dar graças ou pedir perdão. No caso do novo testamento acompanhamos essa questão principalmente na vida pública de Jesus. Os evangelhos nos mostram que Jesus sem dúvida era um homem de oração. Em tantas passagens ele se retirava e se isolava para rezar, meditar, refletir, buscar forças no Pai e elevar suas preces, agradecimentos e pedidos.</br>

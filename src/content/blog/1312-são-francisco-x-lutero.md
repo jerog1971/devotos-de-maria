@@ -4,7 +4,8 @@ date: 2016-10-05T15:59:00Z
 heroImage: "/images/posts/1312-são-francisco-x-lutero-S_25C3_25A3o_Francisco_x_Lutero.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1312-são-francisco-x-lutero-S_25C3_25A3o_Francisco_x_Lutero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1312-são-francisco-x-lutero-S_25C3_25A3o_Francisco_x_Lutero.png" width="320" height="241" data-original-width="397" data-original-height="299" /></a></div>
+![](/images/posts/1312-são-francisco-x-lutero-S_25C3_25A3o_Francisco_x_Lutero.png)
+
 Essencialmente, São Francisco de Assis nos ensina que não podemos lutar contra heresias através da criação de novas heresias. São Francisco sempre se submeteu à Igreja, os papas e os bispos. Sempre que a dita "reforma" começa com ações contra a Igreja institucional, mais heresia surge. Por exemplo, em muitos aspectos, a heresia monofisita (ou seja, Cristo tem uma só natureza) foi uma reação exagerada à heresia nestoriana (Cristo tem duas pessoas).</br>
 </br>
 As páginas da História da Igreja estão repletas de reformadores católicos: desde Paulo, Atanásio, passando por João Crisóstomo, João Damasceno, o Papa Gregório VII, Francisco de Assis, Domênico, Catarina de Sena, Inácio de Loyola, Teresa de Ávila, etc. Cada um desses reformadores católicos manteve a unidade da Igreja de Cristo submetido à liderança da Igreja, e pacientemente trouxeram renovação. Em muitos casos, esses renovadores sofreram a perseguição de outros cristãos e até mesmo caíram em suspeita de heresia. No entanto, sua humildade e silêncio finalmente vieram a confirmar a sua causa como defensores da verdade evangélica da Doutrina de Cristo.</br>

@@ -4,7 +4,9 @@ date: 2023-12-04T19:45:00Z
 heroImage: "/images/posts/2213-o-tempo-passa-28_20anos_20de_20namoro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2213-o-tempo-passa-28_20anos_20de_20namoro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="883" data-original-width="642" height="320" src="/images/posts/2213-o-tempo-passa-28_20anos_20de_20namoro.png" width="233" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O tempo voa e muitas coisas nessa vida continuam numa boa;
+![](/images/posts/2213-o-tempo-passa-28_20anos_20de_20namoro.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O tempo voa e muitas coisas nessa vida continuam numa boa;
 porém, outras, precisam de um cuidado especial para que continuem a prosperar.
 Assim é em uma relação a dois. Todo mundo sabe que se não houver esforço dos
 dois lados alguém sairá perdendo nesse cabo de guerra. Os relacionamentos
@@ -39,4 +41,7 @@ se o casal eliminar de sua vida conjugal e familiar o personagem mais importante
 da relação: Deus. Tente sem ele para descobrir muito cedo que você não irá
 muito longe. “Sem mim nada podeis fazer” – João 15,5.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

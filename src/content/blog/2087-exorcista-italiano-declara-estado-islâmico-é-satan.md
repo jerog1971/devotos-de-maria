@@ -4,11 +4,14 @@ date: 2016-07-06T11:30:00.001Z
 heroImage: "/images/posts/2087-exorcista-italiano-declara-estado-i-amorth.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2087-exorcista-italiano-declara-estado-i-amorth.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2087-exorcista-italiano-declara-estado-i-amorth.png" width="221" height="320" data-original-width="197" data-original-height="285" /></a></div>
+![](/images/posts/2087-exorcista-italiano-declara-estado-i-amorth.png)
+
 </br>
 "O Estado Islâmico é Satanás". Palavra de exorcista. Em entrevista ao jornal italiano Il Giorno, o padre Gabriele Amorth falou da ferocidade dos jihadistas contra os cristãos.
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2087-exorcista-italiano-declara-estado-i-estado_islamico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2087-exorcista-italiano-declara-estado-i-estado_islamico.png" width="200" height="132" data-original-width="279" data-original-height="184" /></a></div>
+
+![](/images/posts/2087-exorcista-italiano-declara-estado-i-estado_islamico.png)
+
 </br>
 "As coisas acontecem primeiro nas esferas espirituais e depois se tornam concretas nesta terra. Os reinos espirituais são apenas dois. O Espírito Santo e o espírito demoníaco. O mal disfarçado de várias maneiras, políticas, religiosas, culturais, tem uma única fonte inspiradora: o diabo. Como cristão, eu luto espiritualmente contra a besta".
 </br>

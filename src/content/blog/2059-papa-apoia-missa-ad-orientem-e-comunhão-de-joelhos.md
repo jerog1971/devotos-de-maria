@@ -4,7 +4,8 @@ date: 2016-07-20T12:42:00Z
 heroImage: "/images/posts/2059-papa-apoia-missa-ad-orientem-e-comu-cardeal_sarah.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2059-papa-apoia-missa-ad-orientem-e-comu-cardeal_sarah.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2059-papa-apoia-missa-ad-orientem-e-comu-cardeal_sarah.png" width="320" height="264" data-original-width="298" data-original-height="246" /></a></div>
+![](/images/posts/2059-papa-apoia-missa-ad-orientem-e-comu-cardeal_sarah.png)
+
 NESTES TEMPOS DE CRISE, quando vemos uma multidão de católicos desorientados e tantas pobres ovelhas de um grande rebanho errando confusas entre muitos pastores, que as conduzem a pastagens tão diversas (por vezes às ervas venenosas ou mesmo aos abismos), surgem as palavras consoladoras de um grande e verdadeiro pastor, este sim, digno e zeloso. São como bálsamo para nossas almas. Louvado seja Nosso Senhor, que temos Dom Sarah!</br>
 </br>
 "Queridos padres, devemos ouvir novamente o lamento de Deus proclamado pelo profeta Jeremias: “eles voltaram suas costas para mim” (2:27). Voltemo-nos novamente para o Senhor!"</br>
@@ -18,7 +19,9 @@ E quanto a inculturação na igreja o Cardeal Sarah usou com propriedade do seu 
 </br>
 Um dos abusos mencionados por ele é quando os padres “se afastam para permitir que os ministros extraordinários distribuam a sagrada Comunhão”, desde que muitos sacerdotes pensaram ser esta uma maneira de permitir uma maior e mais substancial participação dos leigos na Missa. Mas, conclui, “isto é errado, é uma negação do Ministério sacerdotal, bem como uma clericalização dos leigos” que não tem sentido e não é católica: “Quando isso acontece, é um sinal de que a formação foi muito errada, e que precisa ser corrigida”, acrescentou.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2059-papa-apoia-missa-ad-orientem-e-comu-cardeal_sarah2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2059-papa-apoia-missa-ad-orientem-e-comu-cardeal_sarah2.png" width="200" height="133" data-original-width="364" data-original-height="242" /></a></div>
+
+![](/images/posts/2059-papa-apoia-missa-ad-orientem-e-comu-cardeal_sarah2.png)
+
 Ele incentivou uma recepção generosa da Missa tradicional em latim e também incentivou as práticas tradicionais propostas anteriormente pelo Papa Bento, incluindo o uso do latim na Missa nova, ajoelhando-se para a Santa Comunhão, bem como o canto gregoriano. “Devemos cantar música sacra litúrgica, e não apenas música religiosa, ou pior, canções profanas!”, enfatizou. “O Concílio nunca teve a intenção de que o rito romano fosse exclusivamente celebrado em língua vernácula, mas tinha a intenção de (apenas) permitir a sua maior utilização, em particular para as leituras”.</br>
 </br>
 O prefeito da liturgia do Vaticano também fez questão de lembrar os sacerdotes de que eles estão proibidos de negar a Comunhão aos fiéis que se ajoelham para a recepção do Santíssimo Sacramento. Mais do que isso, encorajou todos os católicos a receberem a Comunhão ajoelhados, sempre que possível. “Ajoelhar-se na Consagração é essencial. No Ocidente, este é um ato de adoração corporal que nos humilha diante de nosso Senhor e Deus. É um ato próprio de oração. Onde essa reverência e genuflexão desapareceram da liturgia, é necessário que sejam restauradas, em particular no momento da nossa recepção a Nosso Santíssimo Senhor na Sagrada Comunhão”.</br>

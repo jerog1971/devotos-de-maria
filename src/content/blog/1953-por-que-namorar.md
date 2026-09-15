@@ -4,7 +4,8 @@ date: 2017-08-10T20:21:00Z
 heroImage: "/images/posts/1953-por-que-namorar-sexo_livre.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1953-por-que-namorar-sexo_livre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1953-por-que-namorar-sexo_livre.png" width="320" height="318" data-original-width="357" data-original-height="355" /></a></div>
+![](/images/posts/1953-por-que-namorar-sexo_livre.png)
+
 Jesus mostrou em seus ensinamentos que dá mais valor para aqueles que servem ao Senhor através da vida celibatária, basta para essa comprovação ler a passagem que ele fala dos eunucos. Porém, para aqueles que não querem fazer o melhor, que se casem para que não se abrasem, diz a sagrada escritura. Sendo assim, se também podemos, como confirma o Catecismo da Igreja Católica, servir a Deus ou pela castidade, ou pela virgindade, então que o façamos como manda o figurino.
 Servir a Deus, pela opção B (a castidade), significa viver as promessas batismais dentro do sacramento do santo matrimônio. Ser casto é ser fiel a uma pessoa. É preciso compreender então como são as coisas para bem podermos exerce-las. Para se casar é preciso se namorar, noivar e depois contrair núpcias. Outra forma não há, que seja aceita por Deus e como foi ele quem estabeleceu as diretrizes, qualquer reclamação depois cada um pode fazer pessoalmente quando estiver diante do justo juiz.</br>
 </br>

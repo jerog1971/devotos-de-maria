@@ -4,7 +4,9 @@ date: 2021-06-01T15:24:00.002Z
 heroImage: "/images/posts/1187-doenças-mazelas-e-sequelas-doen_25C3_25A7as.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1187-doenças-mazelas-e-sequelas-doen_25C3_25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="396" src="/images/posts/1187-doenças-mazelas-e-sequelas-doen_25C3_25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus é o médico do corpo e da alma, com o poder de nos
+![](/images/posts/1187-doenças-mazelas-e-sequelas-doen_25C3_25A7as.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus é o médico do corpo e da alma, com o poder de nos
 restaurar a saúde ou de nos privar dela para que nossos valores se alinhem
 melhor aos propósitos divinos. Nessa vida, todos passam pela experiência dos
 remédios amargos, físicos e espirituais. A doença vem, se instala, prejudica a
@@ -39,4 +41,7 @@ pois, este e aquele se sucedem em nossas vidas.<o:p></o:p></p>
 <p class="MsoNormal">Deus sempre dá a cada um conforme o seu desejo, pois não
 quer uma multidão escravos ou filhos inúteis.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,9 +4,11 @@ date: 2025-02-28T20:03:00.001Z
 heroImage: "/images/posts/1699-desrespeito-em-voga-diretora_20amea_C3_A7ada.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1699-desrespeito-em-voga-diretora_20amea_C3_A7ada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="634" height="239" src="/images/posts/1699-desrespeito-em-voga-diretora_20amea_C3_A7ada.png" width="320" /></a></div><br />
+![](/images/posts/1699-desrespeito-em-voga-diretora_20amea_C3_A7ada.png)
 
-<p></p><p class="MsoNormal">Seria isso mesmo? Há muito tempo que não bastam para as
+<br />
+
+<p class="MsoNormal">Seria isso mesmo? Há muito tempo que não bastam para as
 pessoas os dez mandamentos da lei de Deus e toda a sua palavra. O homem cria
 leis após leis e ao mesmo tempo, desrespeita leis após leis. Até tenta o homem
 corrigir o desrespeito, mas este mesmo homem, ironicamente não cumpre aquilo
@@ -58,4 +60,4 @@ vão ter resistência. O celular não vai ser diferente, e a gente entende’, d
 <p class="MsoNormal">A que ponto chegamos e só Deus sabe até onde o ser humano
 irá.</p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span><p>&nbsp;</p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span>

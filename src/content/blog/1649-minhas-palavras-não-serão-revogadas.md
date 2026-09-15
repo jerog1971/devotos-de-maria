@@ -4,7 +4,8 @@ date: 2016-02-01T13:26:00Z
 heroImage: "/images/posts/1649-minhas-palavras-não-serão-revogadas-entrada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1649-minhas-palavras-não-serão-revogadas-entrada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1649-minhas-palavras-não-serão-revogadas-entrada.png" width="320" height="306" data-original-width="398" data-original-height="381" /></a></div>
+![](/images/posts/1649-minhas-palavras-não-serão-revogadas-entrada.png)
+
 </br>
 Isaías 45,23 – Minhas palavras não serão revogadas.</br>
 </br>

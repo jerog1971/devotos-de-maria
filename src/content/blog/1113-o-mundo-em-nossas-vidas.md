@@ -4,7 +4,8 @@ date: 2017-06-27T14:44:00.001Z
 heroImage: "/images/posts/1113-o-mundo-em-nossas-vidas-limbo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1113-o-mundo-em-nossas-vidas-limbo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="352" data-original-width="356" height="316" src="/images/posts/1113-o-mundo-em-nossas-vidas-limbo.png" width="320" /></a></div>
+![](/images/posts/1113-o-mundo-em-nossas-vidas-limbo.png)
+
 No Livro da Sabedoria capítulo 17 aprendemos que as pessoas que caem no erro, tornando-se almas grosseiras por acharem que seus secretos pecados ficaram escondidos sob o véu sombrio do esquecimento, manifestam um comportamento que os mantém ligados ao mal, uma vez que aceitam a privação do auxílio (o auxílio de Deus). Dessa forma enquanto a luz do mundo (Jesus) brilha para aqueles que o temem, os que já escolheram sua recompensa, vivendo das escolhas mundanas caminham em vida sobre o leito das trevas que mais tarde irá os acolher caso não haja, neste tempo de graça, uma sincera e verdadeira conversão.
 
 Pois muito bem, Jesus nos fala desse modo quando cita que os fariseus já haviam recebido suas recompensas em virtude das escolhas e atitudes que praticavam. O mundo, criação bela e divina, que tem a missão de nos abrigar e servir é diariamente maltratada pela raça humana que, de forma egoísta, não enxerga nela a centelha do dedo criador de Deus. No livro do Gênesis aprendemos que tudo foi criado para o homem e que para o homem submetesse. Porém este homem não foi criado burro mas, muitas vezes ergue seu queixo e estufa seu peito agindo de modo que para ele muita coisa do que faz é benfeita mas, aos olhos do “dono”, não passa de desdém, mau uso e pouco caso da maravilhosa criação que nos cerca e que é maltratada e sujeitada ao bel prazer. E isso inclui também as pessoas.

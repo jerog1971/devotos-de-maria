@@ -4,7 +4,9 @@ date: 2023-02-21T01:26:00.001Z
 heroImage: "/images/posts/1246-convite-ao-pecado-Convite_20ao_20pecado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1246-convite-ao-pecado-Convite_20ao_20pecado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="364" data-original-width="467" height="249" src="/images/posts/1246-convite-ao-pecado-Convite_20ao_20pecado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Este ano foi a vez de mais uma escola de samba estimular as
+![](/images/posts/1246-convite-ao-pecado-Convite_20ao_20pecado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Este ano foi a vez de mais uma escola de samba estimular as
 pessoas a acreditar que pecado é não ser feliz. Em entrevista jornalística o carnavalesco
 responsável pelo enredo de uma famosa escola de samba do país, afirmou querer
 levar às pessoas o seu ponto de vista relativizando o pecado, criticando
@@ -37,4 +39,7 @@ se salvar, tome a sua cruz dia após dia e me siga” – Lucas 9,23. E ele nos 
 “quem perseverar até o fim será salvo” – Mateus 10,22. Como também nos alerta: “quem
 não está comigo está contra mim” – Mateus 12,30.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2017-06-05T11:49:00Z
 heroImage: "/images/posts/043-o-lar-de-muitos-orfanato.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/043-o-lar-de-muitos-orfanato.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/043-o-lar-de-muitos-orfanato.png" width="320" height="288" data-original-width="577" data-original-height="519" /></a></div>
+![](/images/posts/043-o-lar-de-muitos-orfanato.png)
+
 Refletindo de uma maneira muito bonita, imaginemos a Santíssima Trindade nos céus vivendo o puro e perfeito amor por todos os séculos dos séculos. Então Deus disse: não é possível em todo esse amor não existir alguém com quem possamos compartilhar essa felicidade. Então Jesus respondeu: estou de pleno acordo. O Espírito Santo disse: me parece perfeito. Assim, de comum acordo a trindade santa, Deus pôs-se a organizar a questão como um bom arquiteto, um bom programador. Desta forma, tendo em vista seu plano de amor, colocou-se a criar o mundo em vistas de “alguém”, não de algo ou alguma coisa. Alguém, caro leitor, você, eu, as pessoas que conhecemos e não conhecemos. Deus pensou em toda a criação para que ela servisse a alguém. Assim começou o amor de Deus.</br>
 </br>
 Em seguida, com tudo pronto, nos criou e nos ordenou que homem e mulher se unissem em uma só carne para que constituíssem família (Gênesis 2,24), abençoando essa relação. E sabemos, como nos recordou Jesus nos evangelhos, tem sido assim desde o princípio. O homem se torna esposo, a mulher se torna esposa. Se casam contraindo o sacramento do matrimônio, constituído por Jesus para elevar a realidade natural do casamento, e se casam para constituir família. Família essa, cujos membros batizados e pertencentes da igreja de Jesus Cristo recebem ainda a graça de Deus Pai de receberem, além do anjo da guarda de cada um, o anjo custódio responsável por esta família.</br>

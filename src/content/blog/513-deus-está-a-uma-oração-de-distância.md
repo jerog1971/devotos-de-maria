@@ -4,7 +4,9 @@ date: 2021-05-21T14:01:00.003Z
 heroImage: "/images/posts/513-deus-está-a-uma-oração-de-distância-img-814169036.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/513-deus-está-a-uma-oração-de-distância-img-814169036.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="261" src="/images/posts/513-deus-está-a-uma-oração-de-distância-img-1552147347.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele estende sua mão para nos amparar e está sempre pronto a
+![](/images/posts/513-deus-está-a-uma-oração-de-distância-img-1552147347.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ele estende sua mão para nos amparar e está sempre pronto a
 nos ouvir e, mesmo que não pareça, a nos atender. Não podemos vê-lo, a maioria
 de nós não pode ouvi-lo, outros tantos não podem, o que é pior, senti-lo. Como
 sua natureza é diferente da nossa não estamos convivendo com ele da mesma
@@ -36,4 +38,7 @@ acontece sob a permissão e vontade divinas.<o:p></o:p></p>
 repetições nossas orações serão inúteis para com Deus, pois dele não iremos arrancar
 nada. Ele é quem manda e quem concede, nós....<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

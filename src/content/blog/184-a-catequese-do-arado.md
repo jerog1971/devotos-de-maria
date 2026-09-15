@@ -4,7 +4,9 @@ date: 2021-01-29T17:53:00.002Z
 heroImage: "/images/posts/184-a-catequese-do-arado-arado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/184-a-catequese-do-arado-arado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="342" data-original-width="333" height="320" src="/images/posts/184-a-catequese-do-arado-arado.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lucas 9,62 – “Mas Jesus disse-lhe: Aquele que põe a mão no
+![](/images/posts/184-a-catequese-do-arado-arado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lucas 9,62 – “Mas Jesus disse-lhe: Aquele que põe a mão no
 arado e olha para trás, não é apto para o Reino de Deus”.<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Certamente Jesus está a nos ensinar que o desapego as coisas
@@ -45,4 +47,7 @@ corações, à imundície, de modo que desonraram entre si os próprios corpos.
 Trocaram a verdade de Deus pela mentira, e adoraram e serviram à criatura em
 vez do Criador, que é bendito pelos séculos. Amém!”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

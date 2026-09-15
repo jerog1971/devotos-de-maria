@@ -4,9 +4,13 @@ date: 2020-05-12T18:27:00Z
 heroImage: "/images/posts/1050-a-obrigação-e-o-dever-dos-bispos-AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1050-a-obrigação-e-o-dever-dos-bispos-AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="381" data-original-width="359" height="320" src="/images/posts/1050-a-obrigação-e-o-dever-dos-bispos-AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0.jpgs320/bispos_dedicados.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segundo o documento Christus Dominus:<o:p></o:p></p>
+<br />
 
-<p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>“Vigiem que a
+![](/images/posts/1050-a-obrigação-e-o-dever-dos-bispos-AVvXsEhuSqtmHo6qwlhD6zd5OYOMTLIpROZyKLtjDtX2Hqn98ksEVbh3OVNgz0XE5QgcQI-W31hRXUQN4FpHGmcBdw8BKbBNNvxp_6eGt3NE7TCamVj9jV9tfthV2KppSBIylv_WM_rKgO8UPX0.jpgs320/bispos_dedicados.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segundo o documento Christus Dominus:<o:p></o:p></p>
+
+<p class="MsoNormal"><span style="mso-spacerun: yes;"> </span>“Vigiem que a
 instrução catequética, que se orienta a fazer com que a fé, ilustrada pela doutrina,
 se torne viva, explícita e operosa nos homens, seja cuidadosamente ministrada
 quer às crianças e aos adolescentes, quer aos jovens, quer até aos adultos:
@@ -23,7 +27,7 @@ estão confiadas, que nelas brilhe plenamente o modo de sentir de toda a Igreja
 de Cristo. Por isso, promovam o mais possível as vocações sacerdotais e
 religiosas, e de modo particular as missionárias.<o:p></o:p></p>
 
-<p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>No exercício do seu
+<p class="MsoNormal"><span style="mso-spacerun: yes;"> </span>No exercício do seu
 múnus de pais e pastores, comportem-se os Bispos no meio dos seus como quem
 serve, como bons pastores que conhecem as suas ovelhas e por elas são
 conhecidos como verdadeiros pais que se distinguem pelo espírito de amor e de
@@ -51,6 +55,6 @@ Deus, que ele esteja aberto ao contato e apelos das comunidades que estão
 passando por experiências disformes em suas paróquias. Assim pede e manda Deus,
 assim confirma o magistério da igreja.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

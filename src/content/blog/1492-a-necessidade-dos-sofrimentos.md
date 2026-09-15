@@ -4,7 +4,8 @@ date: 2019-05-21T15:51:00.001Z
 heroImage: "/images/posts/1492-a-necessidade-dos-sofrimentos-cordeiro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1492-a-necessidade-dos-sofrimentos-cordeiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1492-a-necessidade-dos-sofrimentos-cordeiro.png" width="320" height="301" data-original-width="219" data-original-height="206" /></a></div>
+![](/images/posts/1492-a-necessidade-dos-sofrimentos-cordeiro.png)
+
 Uma coisa é muito certa em nossa realidade, tanto a passageira quanto a eterna: a existência do sofrimento. Para início de reflexão vamos logo reduzindo a coisa sob duas esferas de pensamento. Podemos escolher sofrermos em vida ou sofrermos depois da morte. Em termos espirituais nos parece muito clara a escolha. Ora bolas todo mundo quer sofrer agora, um sofrimento que é passageiro para evitar ter que sofrer eternamente depois da morte, sinal claro de que a alma foi condenada ao inferno.</br>
 </br>
 Todavia, na prática não é bem assim que as pessoas agem; elas tentam agradar a dois senhores: Deus e o mundo. Não adianta, São Tiago já nos recordou que quem quer ser amigo do mundo se faz inimigo de Deus – Tiago 4,4. No evangelho de São Lucas lemos que o que para os homens é bom para Deus é abominável. Como vemos, embora o alerta e o aviso estejam dados, as pessoas insistem na tentativa de evitar sofrimentos nessa vida e também evitar os sofrimentos futuros no pós-morte. O pequeno probleminha é que já está decretado que não vai dar certo agir assim.</br>

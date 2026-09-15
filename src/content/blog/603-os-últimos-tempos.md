@@ -4,7 +4,9 @@ date: 2023-10-31T21:43:00.001Z
 heroImage: "/images/posts/603-os-últimos-tempos-Lucia_20e_20Jacinta_20Marto.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/603-os-últimos-tempos-Lucia_20e_20Jacinta_20Marto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="433" data-original-width="316" height="320" src="/images/posts/603-os-últimos-tempos-Lucia_20e_20Jacinta_20Marto.png" width="234" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No dia 26 de dezembro de 1957, o padre Agustín Fuentes,
+![](/images/posts/603-os-últimos-tempos-Lucia_20e_20Jacinta_20Marto.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">No dia 26 de dezembro de 1957, o padre Agustín Fuentes,
 sacerdote da diocese de Veracruz (México) e vice-postulador das causas de
 beatificação de Santa Jacinta e São Francisco Marto, falou amplamente com a
 Irmã Lúcia no convento de Coimbra, em Portugal. Ao voltar ao México fez uma
@@ -41,4 +43,7 @@ difícil que seja, que não possamos resolver agora com a oração do Santo
 Rosário. Com o Santo Rosário nos salvaremos, nos santificaremos, consolaremos a
 Nosso Senhor e obteremos a salvação de muitas almas”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-12-02T15:47:00.003Z
 heroImage: "/images/posts/1234-as-promessas-do-homem-para-deus-AVvXsEiOMNm--KuyR2rdtHNz5c4lQoorAQGllHHqy0y54W4TZM5JB9N_CU74VjnLuRe_AzCBDNqokd-bR_JRNWqJijLf62Lq9WZRWujSERblBDIo_DdpyJFsLh1tf7WePmYhxyAGI7SH57bcur4HuHH7iyKsrqHmzsXQlIYLkGIDinNS8o1ocFUAeyb2BSW7_s522.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1234-as-promessas-do-homem-para-deus-AVvXsEiOMNm--KuyR2rdtHNz5c4lQoorAQGllHHqy0y54W4TZM5JB9N_CU74VjnLuRe_AzCBDNqokd-bR_JRNWqJijLf62Lq9WZRWujSERblBDIo_DdpyJFsLh1tf7WePmYhxyAGI7SH57bcur4HuHH7iyKsrqHmzsXQlIYLkGIDinNS8o1ocFUAeyb2BSW7_s522.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="490" data-original-width="522" height="300" src="/images/posts/1234-as-promessas-do-homem-para-deus-AVvXsEiOMNm--KuyR2rdtHNz5c4lQoorAQGllHHqy0y54W4TZM5JB9N_CU74VjnLuRe_AzCBDNqokd-bR_JRNWqJijLf62Lq9WZRWujSERblBDIo_DdpyJFsLh1tf7WePmYhxyAGI7SH57bcur4HuHH7iyKsrqHmzsXQlIYLkGIDinNS8o1ocFUAeyb2BSW7_s320.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Especificamente aos casados, que querem levar uma vida que
+![](/images/posts/1234-as-promessas-do-homem-para-deus-AVvXsEiOMNm--KuyR2rdtHNz5c4lQoorAQGllHHqy0y54W4TZM5JB9N_CU74VjnLuRe_AzCBDNqokd-bR_JRNWqJijLf62Lq9WZRWujSERblBDIo_DdpyJFsLh1tf7WePmYhxyAGI7SH57bcur4HuHH7iyKsrqHmzsXQlIYLkGIDinNS8o1ocFUAeyb2BSW7_s320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Especificamente aos casados, que querem levar uma vida que
 agrade a Deus, vale sempre recordar alguns lembretes bíblicos para que a boa
 conduta, comportamento e atitudes ao longo da jornada rumo a pátria celeste, seja
 coerente com o desejo de alcança-la já aqui nesta vida.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -44,4 +46,7 @@ A coisa não é brincadeira e certamente Deus espera de cada um, no mínimo, o m
 de esforço, lutando contra o sangue até o pecado – Hebreus 12,4 – e sendo imitador
 de Jesus Cristo – 1º Coríntios 11,1.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

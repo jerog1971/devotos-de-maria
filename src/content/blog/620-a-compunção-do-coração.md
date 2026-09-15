@@ -4,7 +4,11 @@ date: 2020-06-21T15:41:00.001Z
 heroImage: "/images/posts/620-a-compunção-do-coração-felicidade.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/620-a-compunção-do-coração-felicidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="425" data-original-width="469" src="/images/posts/620-a-compunção-do-coração-felicidade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se queres fazer algum progresso, conserva-te no temor de
+<br />
+
+![](/images/posts/620-a-compunção-do-coração-felicidade.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se queres fazer algum progresso, conserva-te no temor de
 Deus e não busques demasiada liberdade; refreia, antes, todos os teus sentidos
 com a disciplina e não te entregues à vã alegria. Procura e compunção do
 coração e acharás a devoção. A compunção descobre tesouros, que a dissipação

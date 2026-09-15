@@ -4,7 +4,8 @@ date: 2020-03-19T23:44:00.004Z
 heroImage: "/images/posts/329-arquidiocese-e-o-covid-19-covid-19_Curitiba.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/329-arquidiocese-e-o-covid-19-covid-19_Curitiba.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="383" data-original-width="747" height="164" src="/images/posts/329-arquidiocese-e-o-covid-19-covid-19_Curitiba.png" width="320" /></a></div>
+![](/images/posts/329-arquidiocese-e-o-covid-19-covid-19_Curitiba.png)
+
 Segue abaixo caros leitores a transcrição de trecho da determinação da arquidiocese de uma das capitais do país, no que tange as normas “impostas” pelas lideranças católicas (acatadas da determinação governamental), baseadas no número 87 do código de direito canônico: “Cân. 87 — § l. O Bispo diocesano, <b>sempre que julgar que isso contribui para o bem espiritual dos fiéis</b>, pode dispensá-los das leis disciplinares tanto universais como particulares promulgadas pela autoridade suprema da Igreja para o seu território ou para os seus súbditos, mas não das leis processuais ou penais nem daquelas cuja dispensa esteja especialmente reservada à Sé Apostólica ou a outra autoridade.” Obs: qual o bem espiritual que a pessoa recebe ao não participar da santa missa e receber a santa comunhão? Vá lá...
 
 “Diante da difusão exponencial do vírus COVID – 19, em ritmo mais acelerado do que os conhecidos em outros países, e a consequente pandemia em pleno movimento, elevando em muito os riscos de contaminação, consideramos mais acertado reavaliar as determinações dos últimos dias e optar por caminhos que favoreçam ainda mais as disposições preventivas. Segue, pois, que:
@@ -20,7 +21,6 @@ Recordo-me com isso que, no passado, existiram santos que por estarem doentes, a
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/p/comunhao-milagrosa.html" target="_blank">Comunhão milagrosa</a>
-
 
 Fonte: Jefferson Roger
 

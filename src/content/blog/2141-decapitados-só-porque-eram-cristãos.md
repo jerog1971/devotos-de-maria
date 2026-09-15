@@ -4,7 +4,8 @@ date: 2016-07-05T11:00:00Z
 heroImage: "/images/posts/2141-decapitados-só-porque-eram-cristãos-21.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2141-decapitados-só-porque-eram-cristãos-21.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2141-decapitados-só-porque-eram-cristãos-21.png" width="320" height="179" data-original-width="642" data-original-height="360" /></a></div>
+![](/images/posts/2141-decapitados-só-porque-eram-cristãos-21.png)
+
 </br>
 Vinte e um. Foi o número de cristãos mortos pelo Estado Islâmico, em um vídeo divulgado pelo grupo terrorista, no dia 15 de fevereiro de 2015.</br>
 </br>

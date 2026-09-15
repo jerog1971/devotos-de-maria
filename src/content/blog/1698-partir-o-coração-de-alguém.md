@@ -4,7 +4,8 @@ date: 2017-03-13T22:39:00.002Z
 heroImage: "/images/posts/1698-partir-o-coração-de-alguém-partido.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1698-partir-o-coração-de-alguém-partido.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="213" height="309" src="/images/posts/1698-partir-o-coração-de-alguém-partido.png" width="320" /></a></div>
+![](/images/posts/1698-partir-o-coração-de-alguém-partido.png)
+
 Caros leitores, sem dúvida muitos de nós já ouvimos a expressão que encabeça o título deste artigo. Seja nos noticiários, na fantasia cinematográfica, nos contos poéticos, nas histórias alheias e verídicas que nos chegam aos ouvidos e de tantas outras formas. Porém, uma coisa é tomar conhecimento de um fato que está externo a nossa vida e outra, completamente diferente, é fazer parte desta realidade, seja como aquele que faz ou aquele que recebe. Pois bem, ditados populares nos recordam que quem sofre a ofensa não se esquece facilmente ao passo que quem ofende, logo esquece. Ainda mais se tem uma natureza que faça a pessoa emitir um parecer de que suas atitudes estão certas e seu comportamento é normal. Assim sendo, o agressor sempre continuará agindo de uma maneira que ofende ao próximo. Eis o perigo das relações.
 
 Aquele que está mais próximo de nós é quem mais irá nos ofender. Seja por suas intenções ou por suas fraquezas e defeitos. Aqui, já é possível inserir, dentro de um contexto cristão católico, duas obras de misericórdia brilhantemente ensinadas por Jesus. Sofrer com paciência as fraquezas do próximo e perdoar as injúrias por amor a Deus. Comportamento bem diferente da lei do talião – olho por olho, dente por dente. Não se pode, segundo o discipulado que Jesus espera de cada um, que almeja passar pela porta estreita, agir movidos por impulsos completamente contrários aos princípios evangélicos.
@@ -20,6 +21,5 @@ Pois é, usando uma analogia se passa algo muito semelhante quando machucamos, m
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/10/nao-vale-mais-pena.html" target="_blank">Não vale mais a pena</a>
-
 
 fonte: Jefferson Roger

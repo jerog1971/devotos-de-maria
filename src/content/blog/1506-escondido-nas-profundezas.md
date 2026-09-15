@@ -4,7 +4,9 @@ date: 2021-08-02T15:08:00.001Z
 heroImage: "/images/posts/1506-escondido-nas-profundezas-escondido.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1506-escondido-nas-profundezas-escondido.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="320" src="/images/posts/1506-escondido-nas-profundezas-escondido.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 6,19-24 – “Não ajunteis para vós tesouros na terra,
+![](/images/posts/1506-escondido-nas-profundezas-escondido.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Mateus 6,19-24 – “Não ajunteis para vós tesouros na terra,
 onde a ferrugem e as traças corroem, onde os ladrões furtam e roubam. Ajuntai
 para vós tesouros no céu, onde não os consomem nem as traças nem a ferrugem, e
 os ladrões não furtam nem roubam. Porque onde está o teu tesouro, lá também
@@ -34,4 +36,7 @@ mundo e sal da terra” o dever é “amar a Deus sobre todas as coisas e ao pr�
 como a ti mesmo”, indo por toda a parte para pregar o evangelho a toda criatura”,
 e não se escondendo para praticar seus pecados.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

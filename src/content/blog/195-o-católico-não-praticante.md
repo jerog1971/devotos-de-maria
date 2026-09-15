@@ -4,7 +4,8 @@ date: 2015-09-16T23:56:00Z
 heroImage: "/images/posts/195-o-católico-não-praticante-n_25C3_25A3o_praticante.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/195-o-católico-não-praticante-n_25C3_25A3o_praticante.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/195-o-católico-não-praticante-n_25C3_25A3o_praticante.png" width="320" height="268" data-original-width="394" data-original-height="330" /></a></div>
+![](/images/posts/195-o-católico-não-praticante-n_25C3_25A3o_praticante.png)
+
 </br>
 Vez por outra em meio a conversas cotidianas, sempre que possível o assunto "religião" é mantido oculto, nas catacumbas remotas dos corações, almas e mentes. Quase tachado de assunto proibido, pois afinal, o mundo prega uma liberdade em todos os sentidos já que sua doutrina é a de viver o aqui e agora um paraíso sem Deus, buscando a felicidade e o prazer já aqui nesta terra. Quanto mais a história da humanidade avança mais vemos que o ato de se "religar" a Deus, origem latina da palavra religião, vai ficando sufocado por todas as vertentes relativistas que o mundo e os sábios homens apresentam para o homem moderno.</br>
 <br>
@@ -16,7 +17,9 @@ E aos poucos então em nossa caminhada rumo a pátria celeste começam as prova�
 </br>
 Lembremos: Marcos 8,34: Se alguém me quer seguir, renuncie-se a si mesmo, tome a sua cruz e siga-me.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/195-o-católico-não-praticante-cruz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/195-o-católico-não-praticante-cruz.png" width="200" height="137" data-original-width="460" data-original-height="315" /></a></div>
+
+![](/images/posts/195-o-católico-não-praticante-cruz.png)
+
 </br>
 E nesse ponto começam os problemas dos fiéis. Eles deixam de ser fiéis! Seguir Jesus passa a ser mais uma atividade do cotidiano que quando convém, seguimos e quando dá muito trabalho, fazemos de conta que não é conosco. E para isso existe a velha frase muito triste que com certeza muito entristece Nosso Senhor Jesus Cristo: "Sou católico não praticante".</br>
 </br>
@@ -60,7 +63,9 @@ Portanto viver na superficialidade a sua religião, deixando as práticas catól
 </br>
 O início, o ponto de partida de uma caminhada que precisa cada vez mais ser aprofundada nos ensinamentos celestes é ponto fundamental e essencial na caminhada rumo a porta estreita.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/195-o-católico-não-praticante-sacramentos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/195-o-católico-não-praticante-sacramentos.png" width="200" height="153" data-original-width="483" data-original-height="369" /></a></div>
+
+![](/images/posts/195-o-católico-não-praticante-sacramentos.png)
+
 </br>
 Pois bem, é assim que é. Nós devemos amar muito tudo aquilo que satanás odeia. E satanás, já sabemos, Jesus nos disse: ele é o príncipe do mundo e Jesus não tem parte com ele. Na santa missa existe uma oração pós comunhão onde pedimos a Deus a graça de abraçar as coisas que não passam em detrimento das que passam. Nossa peregrinação nesta terra é passageira, nossa fé apresentada pelas nossas obras é que teremos para entregar ao nosso justo juiz, que agora nos concede o tempo da igreja, o tempo de sua misericórdia.</br>
 </br>

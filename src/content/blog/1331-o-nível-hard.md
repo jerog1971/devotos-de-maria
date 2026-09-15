@@ -4,7 +4,9 @@ date: 2023-04-25T19:15:00.007Z
 heroImage: "/images/posts/1331-o-nível-hard-Est_C3_A1gio_Pedagogia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1331-o-nível-hard-Est_C3_A1gio_Pedagogia.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/1331-o-nível-hard-Est_C3_A1gio_Pedagogia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Hoje precisei, para encerramento de mais uma etapa acadêmica
+![](/images/posts/1331-o-nível-hard-Est_C3_A1gio_Pedagogia.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Hoje precisei, para encerramento de mais uma etapa acadêmica
 (estágio de regência), dar uma aula para uma turma do ensino fundamental I. Por
 ter habilidade de ensinar e assim o fazer a muito tempo já – desde 1985 – de fato,
 não foi tarefa das mais difíceis. Muitos fatores contribuíram para o “sucesso
@@ -47,4 +49,7 @@ exercemos uma extensão daquilo que fazemos em casa e em relação ao nosso
 convívio com Deus. Falo aqui por mim, que jamais desanimarei embora venham ventos
 contrários.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p><p class="MsoNormal"><o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p><p class="MsoNormal"><o:p></o:p></p></div>
+
+<br /> 
+

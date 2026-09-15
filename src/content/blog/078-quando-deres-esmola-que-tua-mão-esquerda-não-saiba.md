@@ -4,7 +4,8 @@ date: 2019-08-30T16:34:00.002Z
 heroImage: "/images/posts/078-quando-deres-esmola-que-tua-mão-esquerda-não-saiba-serm_25C3_25A3o_da_montanha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/078-quando-deres-esmola-que-tua-mão-esquerda-não-saiba-serm_25C3_25A3o_da_montanha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/078-quando-deres-esmola-que-tua-mão-esquerda-não-saiba-serm_25C3_25A3o_da_montanha.png" width="320" height="251" data-original-width="434" data-original-height="341" /></a></div>
+![](/images/posts/078-quando-deres-esmola-que-tua-mão-esquerda-não-saiba-serm_25C3_25A3o_da_montanha.png)
+
 Este ensinamento é um dos muitos ditos por Jesus em seu conhecido sermão da montanha. Vale recordar o detalhe onde a bíblia fala que ele se sentou e começou a ensinar – sinal de que a coisa iria ser prolongada. Onde também se pode aferir que sua autoridade transparecia em toda a sua postura, não era mais ou menos respeitado porque falava sentado ou em pé. Vejamos o exemplo de uma família onde, sentados à mesa do jantar, conversam e trocam ensinos e nem por isso, um pai ou uma mãe, ao chamar ou corrigir um filho, precisa se levantar para que ele acate.</br>
 </br>
 Seguindo adiante o que fica claro aqui é que nunca se deve subir no pedestal ou num palanque da vida para se evidenciar e se auto promover: olhem só, fiz isso, disse aquilo, fiz aquele outro. Olhem como sou bom, como sou inteligente, o dono da verdade.</br>

@@ -4,7 +4,9 @@ date: 2025-05-21T18:37:00.001Z
 heroImage: "/images/posts/1439-tem-necessidade-isso-reborn_20macabro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1439-tem-necessidade-isso-reborn_20macabro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="180" data-original-width="213" height="239" src="/images/posts/1439-tem-necessidade-isso-reborn_20macabro.png" width="283" /></a></div><br /><p style="line-height: 100%; margin-bottom: 0cm;">Pessoal, é sério isso? O que dizer sobre essa nova onda
+![](/images/posts/1439-tem-necessidade-isso-reborn_20macabro.png)
+
+<br /><p style="line-height: 100%; margin-bottom: 0cm;">Pessoal, é sério isso? O que dizer sobre essa nova onda
 comportamental onde os bebês realistas estão sendo utilizados para
 se conseguir preferências em benefícios de ordem pública entre
 outras situações. A que ponto chega o ser humano. Já existem

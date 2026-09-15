@@ -4,8 +4,10 @@ date: 2025-03-07T19:04:00Z
 heroImage: "/images/posts/938-manobras-evasivas-manobras_20evasivas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/938-manobras-evasivas-manobras_20evasivas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="379" data-original-width="478" height="254" src="/images/posts/938-manobras-evasivas-manobras_20evasivas.png" width="320" /></a></div><br />&nbsp;
-<p></p><p class="MsoNormal">Lemos na bíblia que se resistirmos ao diabo, ele fugirá para
+![](/images/posts/938-manobras-evasivas-manobras_20evasivas.png)
+
+<br /> 
+<p class="MsoNormal">Lemos na bíblia que se resistirmos ao diabo, ele fugirá para
 longe de nós – Tiago 4,7. Por outro lado, Padre Pio dizia que “quanto mais
 perto de Deus, mais a alma é tentada”. Um olhar desatento poderia apontar para
 alguma contradição: se resistirmos ele nos deixará (fugirá para longe de nós),
@@ -40,5 +42,4 @@ precisamos executar manobras evasivas para – como diz São Tiago – resistirm
 demônio.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

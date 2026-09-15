@@ -4,7 +4,8 @@ date: 2015-09-18T16:25:00.002Z
 heroImage: "/images/posts/1489-parece-aparencias.bmp"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1489-parece-aparencias.bmp" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1489-parece-aparencias.bmp" /></a></div>
+![](/images/posts/1489-parece-aparencias.bmp)
+
 Como definimos se alguma coisa se parece com outra?</br>
 </br>
 A resposta parece ser simples: Podemos comparar porque conhecemos o protótipo ou a coisa original.</br>

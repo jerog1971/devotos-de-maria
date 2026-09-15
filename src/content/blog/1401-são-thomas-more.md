@@ -4,7 +4,11 @@ date: 2020-06-22T15:12:00.001Z
 heroImage: "/images/posts/1401-são-thomas-more-Thomas_More.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1401-são-thomas-more-Thomas_More.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="429" data-original-width="407" height="320" src="/images/posts/1401-são-thomas-more-Thomas_More.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Londres, em 1477. Estudou na Universidade de
+<br />
+
+![](/images/posts/1401-são-thomas-more-Thomas_More.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Londres, em 1477. Estudou na Universidade de
 Oxford. Era de caráter extremamente simpático. Pai de família, teve um filho e
 três filhas. Era jurista e amigo de Erasmo, que lhe dedicou sua obra prima,
 Elogio da Loucura. Foi nomeado chanceler do Reino.</p>

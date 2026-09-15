@@ -4,7 +4,8 @@ date: 2015-10-13T12:49:00.001Z
 heroImage: "/images/posts/945-a-esposa-e-os-filhos-esposa_e_filhos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/945-a-esposa-e-os-filhos-esposa_e_filhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/945-a-esposa-e-os-filhos-esposa_e_filhos.png" width="320" height="320" data-original-width="263" data-original-height="263" /></a></div>
+![](/images/posts/945-a-esposa-e-os-filhos-esposa_e_filhos.png)
+
 </br>
 Sempre é bom recordarmos alguns ensinamentos sobre a realidade pensada e criada por Deus. Ele que nos pensou família e se fez família, nascendo em Belém. Ele que fez o homem e a mulher, para serem uma só carne e aceitarem os filhos que a providência mandar, para educá-los no temor ao Senhor. Ele que elevou a união conjugal ao sacramento do matrimônio e que apesar de nossa liberdade de filhos Seus, temos o peso que essa condição de filhos traz.</br>
 </br>

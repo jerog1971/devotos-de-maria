@@ -4,7 +4,8 @@ date: 2015-09-29T15:03:00Z
 heroImage: "/images/posts/2183-operai-a-vossa-salvação-com-temor-e-temor_e_tremor.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2183-operai-a-vossa-salvação-com-temor-e-temor_e_tremor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2183-operai-a-vossa-salvação-com-temor-e-temor_e_tremor.png" width="320" height="209" data-original-width="564" data-original-height="368" /></a></div>
+![](/images/posts/2183-operai-a-vossa-salvação-com-temor-e-temor_e_tremor.png)
+
 </br>
 Decerto, é muitíssimo bom ter uma confiança desmedida na misericórdia. Mas à luz da verdadeira fé, a esperança não deve estar separada do temor. E se a esperança deve alguma vez dominar o temor, é na condição de que o temor subsista como se fossem os fundamentos de uma casa que dá solidez a todo um edifício. Assim, o temor da justiça de Deus, o temor do pecado e do inferno deve afastar toda a vã presunção do nosso edifício espiritual. O mesmo Deus que disse: "quem vem a mim eu não o rejeitarei"; também disse: "operai a vossa salvação com temor e tremor". É preciso temer santamente para ter o direito ao sano dom da fortaleza.</br>
 </br>

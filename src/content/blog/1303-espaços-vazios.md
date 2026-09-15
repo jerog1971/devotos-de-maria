@@ -4,7 +4,9 @@ date: 2020-09-10T18:44:00.002Z
 heroImage: "/images/posts/1303-espaços-vazios-vazio.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1303-espaços-vazios-vazio.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="585" data-original-width="780" height="300" src="/images/posts/1303-espaços-vazios-vazio.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nem só de pão vive o homem, mas de toda a palavra que sai da
+![](/images/posts/1303-espaços-vazios-vazio.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nem só de pão vive o homem, mas de toda a palavra que sai da
 boca de Deus – assim disse Jesus. Dois detalhes podemos aferir nesse ensinamento:
 primeiro, importa cuidar do corpo, mas também do espírito; segundo: toda a palavra
 de Deus é necessitada para se viver, não só aquela que escolhemos.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -34,4 +36,7 @@ vazio se comparado as coisas espirituais que dizem respeito a salvação das
 almas, o homem se o abraçar terminará uma existência não só de mãos vazias, mas
 com o coração cheio de nada.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2018-02-21T20:58:00Z
 heroImage: "/images/posts/1415-defendendo-a-liberdade-a-qualquer-custo-defender.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1415-defendendo-a-liberdade-a-qualquer-custo-defender.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1415-defendendo-a-liberdade-a-qualquer-custo-defender.png" width="320" height="251" data-original-width="394" data-original-height="309" /></a></div>
+![](/images/posts/1415-defendendo-a-liberdade-a-qualquer-custo-defender.png)
+
 Muitos ideais, muitos princípios, muitas ideologias e muitos conceitos, tratam o tema da liberdade de formas muito variadas. Dentre eles, muitos saudáveis e outros nem tanto, ao cristão católico, perigosamente margeia sua vida os conceitos que levam em sua essência uma dose de revolta e rebeldia. Vamos refletir um pouco.</br>
 </br>
 A expressão “a qualquer custo” nos remete para uma ideia de preço e de valor. Analisada estaticamente e isoladamente nos parece que algo ou alguma coisa tem ou precisa acontecer “a qualquer custo”. E se tem que ser assim, nos parece em nossa simples análise que isso tem para nós relevante importância. Então, se importante é, empenho iremos colocar nessa empreitada para lograrmos êxito e atingirmos o resultado esperado. Ora, colocamos aqui de forma analítica algo que muitas vezes até automaticamente fazemos no dia a dia de nossas vidas. Para aquilo que vemos importância mais esforço e tempo colocamos sobre. O que definimos ser menos importante ou prioritário fica afastado para planos inferiores e destinado para sobras de tempo apenas. É o famoso se der tempo eu faço, ou quando der tempo eu faço, ou ainda, assim que der tempo eu faço. Tudo isso não passa de desculpa porque na verdade estamos afirmando a nós mesmos que não iremos fazer.</br>

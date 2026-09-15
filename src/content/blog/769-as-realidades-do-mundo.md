@@ -4,7 +4,8 @@ date: 2019-04-17T20:27:00.003Z
 heroImage: "/images/posts/769-as-realidades-do-mundo-Sofia_e_a_m_25C3_25A3e.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/769-as-realidades-do-mundo-Sofia_e_a_m_25C3_25A3e.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/769-as-realidades-do-mundo-Sofia_e_a_m_25C3_25A3e.png" width="315" height="320" data-original-width="603" data-original-height="613" /></a></div>
+![](/images/posts/769-as-realidades-do-mundo-Sofia_e_a_m_25C3_25A3e.png)
+
 Quanto mais nos envolvemos com as pessoas, mais vamos comprovando que aquilo que gostaríamos que fosse não é. O ideal que planejamos em várias áreas da vida não acontece. E por que? O fator humano está doente, não foi criado assim, mas se tornou assim.</br>
 </br>
 O início desta reflexão está motivado no fato que tenho comprovado mais de perto por conta de minha atuação como estagiário numa escola da rede municipal na cidade em que moro. Quanto mais nos envolvemos com as crianças de todos os anos escolares, ou no caso em questão, quanto mais me envolvo, a dura realidade vai se apresentando sem pedir licença. </br>

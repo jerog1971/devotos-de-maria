@@ -4,7 +4,8 @@ date: 2019-04-04T15:19:00Z
 heroImage: "/images/posts/651-respeito-x-egoísmo-egoismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/651-respeito-x-egoísmo-egoismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/651-respeito-x-egoísmo-egoismo.png" width="320" height="246" data-original-width="370" data-original-height="285" /></a></div>
+![](/images/posts/651-respeito-x-egoísmo-egoismo.png)
+
 Penso que a maioria das pessoas já ouviu dizer que seu direito termina onde começa o direito do outro. Também já ouviu alguma coisa em relação a direitos iguais. Pois bem, neste artigo a intenção é refletir um pouco sobre a batalha entre respeito e egoísmo que acontece na vida das pessoas.</br>
 </br>
 Não é muito difícil de entender que uma pessoa egoísta tem sérias dificuldades em relação ao respeito. Respeitar é reconhecer o próprio lugar. Um filho é educado a obedecer e respeitar os pais. As pessoas são educadas a respeitarem as leis de trânsito. Nas empresas os funcionários são educados a respeitarem as normas e regulamentos da instituição. Somos educados a respeitar os limites do corpo. Na sociedade, de modo geral, somos educados a respeitarmos as regras vigentes.</br>

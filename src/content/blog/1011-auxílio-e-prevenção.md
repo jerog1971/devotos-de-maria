@@ -4,7 +4,9 @@ date: 2021-06-14T19:34:00.001Z
 heroImage: "/images/posts/1011-auxílio-e-prevenção-Aux_25C3_25ADlio_e_Preven_25C3_25A7_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1011-auxílio-e-prevenção-Aux_25C3_25ADlio_e_Preven_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="851" data-original-width="950" src="/images/posts/1011-auxílio-e-prevenção-Aux_25C3_25ADlio_e_Preven_25C3_25A7_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Prevenir é melhor que remediar; todo mundo, arrisco dizer,
+![](/images/posts/1011-auxílio-e-prevenção-Aux_25C3_25ADlio_e_Preven_25C3_25A7_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Prevenir é melhor que remediar; todo mundo, arrisco dizer,
 já ouviu esse ditado popular. É melhor tomar atitudes que ajudem a evitar males
 maiores – física e espiritualmente falando – que agir desordenadamente e de
 forma desregrada colocando-se em perigo de contrair danos maiores para si.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -39,4 +41,7 @@ participar da glória eterna do paraíso. Para isso não podemos esquecer de nos
 prevenir de tudo que procura nos afligir e de buscarmos auxílio para tudo que
 somente nossas forças não são capazes de suportar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

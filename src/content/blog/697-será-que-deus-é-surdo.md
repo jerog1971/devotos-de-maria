@@ -4,7 +4,9 @@ date: 2023-01-28T18:47:00.001Z
 heroImage: "/images/posts/697-será-que-deus-é-surdo-Deus_20est_C3_A1_20surdo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/697-será-que-deus-é-surdo-Deus_20est_C3_A1_20surdo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="331" data-original-width="571" height="185" src="/images/posts/697-será-que-deus-é-surdo-Deus_20est_C3_A1_20surdo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente muitas pessoas ao passarem anos a fio pedindo
+![](/images/posts/697-será-que-deus-é-surdo-Deus_20est_C3_A1_20surdo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente muitas pessoas ao passarem anos a fio pedindo
 coisas para Deus e não as recebendo caem na tentação de refletir sobre esse
 aspecto dizendo: o que fiz para Deus para merecer tudo isso? Neste tudo isso, além
 é claro, das reclamações por causa das correções e castigos diários, está
@@ -28,4 +30,7 @@ ainda mais, disse também que “sem mim (sem ele, Jesus Cristo) nada podeis faz
 (João 15,5). Como vemos, o surdo nesta história somos nós, os que teimamos em
 não querer dar ouvidos para a verdade das coisas, a verdade que liberta.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

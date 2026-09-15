@@ -4,7 +4,9 @@ date: 2023-09-29T18:49:00.006Z
 heroImage: "/images/posts/1792-o-esforço-nosso-de-cada-dia-esfor_C3_A7o_20di_C3_A1rio.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1792-o-esforço-nosso-de-cada-dia-esfor_C3_A7o_20di_C3_A1rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="375" data-original-width="377" height="318" src="/images/posts/1792-o-esforço-nosso-de-cada-dia-esfor_C3_A7o_20di_C3_A1rio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, pedimos o pão nosso de cada dia e pedimos a Deus que
+![](/images/posts/1792-o-esforço-nosso-de-cada-dia-esfor_C3_A7o_20di_C3_A1rio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois é, pedimos o pão nosso de cada dia e pedimos a Deus que
 não nos deixe cair em tentação. Notaram os leitores que somente pedimos o sustento
 diário? Não pedimos que sejamos protegidos diariamente das tentações? Ou será
 que pedimos? Talvez estejamos a pensar que não somos protegidos diariamente, já
@@ -28,4 +30,7 @@ impossível para o homem se salvar”. De fato, Jesus concordou e disse que para
 nós é impossível, mas para Deus tudo é possível. Vamos traduzir? Jesus disse:
 se esforcem! Façam a sua parte!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

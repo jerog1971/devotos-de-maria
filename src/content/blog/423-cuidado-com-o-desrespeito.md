@@ -4,7 +4,9 @@ date: 2022-05-06T15:38:00.003Z
 heroImage: "/images/posts/423-cuidado-com-o-desrespeito-img-634005465.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/423-cuidado-com-o-desrespeito-img-634005465.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="449" data-original-width="684" height="210" src="/images/posts/423-cuidado-com-o-desrespeito-img-876103768.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou você respeita, ou deixa de respeitar ou, o que é pior,
+![](/images/posts/423-cuidado-com-o-desrespeito-img-876103768.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ou você respeita, ou deixa de respeitar ou, o que é pior,
 desrespeita. O sujeito é assim, se lhe convém, respeita, quando deixar de
 convir, deixa de respeitar e quando a obrigação lhe causa desconforto,
 desrespeita. Sabe-se de longa data que o respeito deve ser ensinado; sobre ele,
@@ -45,4 +47,7 @@ dará a vida? Os primeiros nos educaram para pouco tempo, segundo a sua própria
 conveniência, ao passo que este o faz para nosso bem, para nos comunicar sua
 santidade” – Hebreus 12,5-10.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2022-02-03T16:40:00.005Z
 heroImage: "/images/posts/1539-aproveita-o-tempo-evita-o-mal-AVvXsEjjo9c_XxPoM6wAzzzhGnoVd2nodVcFnMSEW1cJyY3w5gdydhjikXq4AcooEhPo5YQX-wPUbPUvGKfe1jSyvi2Og-HFP2J-di2la7mUy5V6yNJADngJ3MhFGS3SrfGD5Ybi6abqrTeuz_jJTV8FVbLpUtrc5IT1dSa4gOEFa6kvjUAxVUbzIbL_lg1j_s469.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1539-aproveita-o-tempo-evita-o-mal-AVvXsEjjo9c_XxPoM6wAzzzhGnoVd2nodVcFnMSEW1cJyY3w5gdydhjikXq4AcooEhPo5YQX-wPUbPUvGKfe1jSyvi2Og-HFP2J-di2la7mUy5V6yNJADngJ3MhFGS3SrfGD5Ybi6abqrTeuz_jJTV8FVbLpUtrc5IT1dSa4gOEFa6kvjUAxVUbzIbL_lg1j_s469.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="469" height="271" src="/images/posts/1539-aproveita-o-tempo-evita-o-mal-AVvXsEjjo9c_XxPoM6wAzzzhGnoVd2nodVcFnMSEW1cJyY3w5gdydhjikXq4AcooEhPo5YQX-wPUbPUvGKfe1jSyvi2Og-HFP2J-di2la7mUy5V6yNJADngJ3MhFGS3SrfGD5Ybi6abqrTeuz_jJTV8FVbLpUtrc5IT1dSa4gOEFa6kvjUAxVUbzIbL_lg1j_s320.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Este é um conselho bíblico que pode ser encontrado no livro
+![](/images/posts/1539-aproveita-o-tempo-evita-o-mal-AVvXsEjjo9c_XxPoM6wAzzzhGnoVd2nodVcFnMSEW1cJyY3w5gdydhjikXq4AcooEhPo5YQX-wPUbPUvGKfe1jSyvi2Og-HFP2J-di2la7mUy5V6yNJADngJ3MhFGS3SrfGD5Ybi6abqrTeuz_jJTV8FVbLpUtrc5IT1dSa4gOEFa6kvjUAxVUbzIbL_lg1j_s320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Este é um conselho bíblico que pode ser encontrado no livro
 do Eclesiástico. De fato, se levarmos em conta a maravilhosa questão do tempo e
 a relação que Deus quis nos proporcionar com ele, tempo é algo para ser bem aproveitado.
 Ele é um “artigo” que poderíamos chamar de luxo.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -40,4 +42,7 @@ mortais, se o custo de todo sofrimento será recompensado com uma vida eterna na
 felicidade do paraíso? Por isso vale e muito aproveitar o tempo na construção
 do reino de Deus, já em nossos corações.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

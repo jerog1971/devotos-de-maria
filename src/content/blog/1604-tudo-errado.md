@@ -4,7 +4,8 @@ date: 2017-06-30T15:49:00Z
 heroImage: "/images/posts/1604-tudo-errado-cerca.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1604-tudo-errado-cerca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1604-tudo-errado-cerca.png" width="320" height="282" data-original-width="263" data-original-height="232" /></a></div>
+![](/images/posts/1604-tudo-errado-cerca.png)
+
 Olá caros leitores, neste artigo irei colocar alguns comentários (apenas com algumas correções de português como “você” ao invés de “vc”, por exemplo) retirados de vários sites espalhados pela internet de psicólogos, psiquiatras, terapeutas e outras profissões. Realmente são vários pontos de vista e pode-se agrupar os depoimentos em alguns grandes grupos. O assunto em questão é o fato do resfriamento na relação sexual na vida dos casados e o tema teve o estopim partindo do homem. Opiniões diversas apontam para separações, traições, reparações e acomodações. A pesquisa mostrou que existe um equilíbrio muito grande nestes quatro grupos o que, como todos podem imaginar, torna o assunto polêmico. Resolvi neste artigo escolher os comentários de apenas uma linha de pensamento para depois refletirmos:</br>
 </br>
 1- Cristina Mazaki Da Silva – “Invente futebol toda quarta-feira...”</br>
@@ -19,7 +20,9 @@ Olá caros leitores, neste artigo irei colocar alguns comentários (apenas com a
 10- Ual – “Tenha uma amante, resolve 100%. Experiência de quem sempre teve...”</br>
 11- Júnio FV – “Em primeiro lugar, a chance dela está te traindo é enorme. Em segundo lugar, tá fazendo o quê com essa mulher ainda?”</br>
 12- Ana Claudia P – “Pula a cerca direto. Sempre que tiver vontade e for possível.”</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1604-tudo-errado-desejo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1604-tudo-errado-desejo.png" width="188" height="200" data-original-width="445" data-original-height="474" /></a></div>
+
+![](/images/posts/1604-tudo-errado-desejo.png)
+
 13- Vitordedeusptc – “O jeito é você procurar outra! De preferência uma novinha. Sua panela velha não faz mais comida boa!”</br>
 14- Rafael Augusto Pereira – “Convivo com isso já tem 17 anos (entre namoro e casamento tenho 33), a tortura psicológica que essa situação gera é absurda. Tem dias que não dá nem vontade de acordar de tão frustrante é.”</br>
 15- Tucuju – “É chifre. Não deu conta do recado, quem tá procurando outro, é ela.”</br>

@@ -4,7 +4,9 @@ date: 2024-04-19T19:04:00.003Z
 heroImage: "/images/posts/430-aventuras-inúteis-aventuras_20in_C3_BAteis.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/430-aventuras-inúteis-aventuras_20in_C3_BAteis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="424" data-original-width="502" height="270" src="/images/posts/430-aventuras-inúteis-aventuras_20in_C3_BAteis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Bom, todo mundo sabe muito bem que o diabo precisa disfarçar
+![](/images/posts/430-aventuras-inúteis-aventuras_20in_C3_BAteis.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Bom, todo mundo sabe muito bem que o diabo precisa disfarçar
 suas intenções misturando verdades com mentiras para ludibriar as almas divinas
 que caminham por este vale de lágrimas rumo ao céu. Sutil, muito esperto e com
 séculos de sabedoria em sua bagagem, além de conhecer a santa palavra e toda a
@@ -42,4 +44,7 @@ demônio se apropria delas e as coloca como ingredientes nas misturas maléficas
 que ele apresenta em suas ocasiões de pecado. Não é à toa que Jesus mandou vigiarmos
 constantemente e exorta que “quem está de pé, cuide para que não caia”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

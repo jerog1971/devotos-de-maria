@@ -4,7 +4,9 @@ date: 2022-05-17T20:46:00.002Z
 heroImage: "/images/posts/981-pequenas-conquistas-pequenas_20conquistas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/981-pequenas-conquistas-pequenas_20conquistas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="373" data-original-width="449" height="266" src="/images/posts/981-pequenas-conquistas-pequenas_20conquistas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em certo ponto da vida, a pessoa depois de uma longa
+![](/images/posts/981-pequenas-conquistas-pequenas_20conquistas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Em certo ponto da vida, a pessoa depois de uma longa
 caminhada “abraçada” aos vícios e aos pecados, decide, movida pela graça de
 Deus, a converter-se, abandonando tudo que não irá contribuir para sua salvação
 e passando a trilhar novamente o caminho no qual foi inserida a partir de seu
@@ -34,4 +36,7 @@ o que devemos ter, “quem está de pé, cuide que não caia, disse São Paulo;
 vigiai e orai sem cessar porque o espírito está pronto, mas a carne é fraca,
 disse Jesus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

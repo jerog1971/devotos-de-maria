@@ -4,7 +4,8 @@ date: 2018-05-18T17:50:00Z
 heroImage: "/images/posts/117-batalha-diária-batalha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/117-batalha-diária-batalha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/117-batalha-diária-batalha.png" width="320" height="283" data-original-width="534" data-original-height="472" /></a></div>
+![](/images/posts/117-batalha-diária-batalha.png)
+
 No capítulo nove de Atos dos Apóstolos lemos que o Espírito Santo fazia crescer em grande número os cristãos nos primeiros tempos da igreja de Cristo. No capítulo seguinte, lemos que isso se dava por conta da descida desse mesmo Espírito para converter as pessoas. Um pouquinho mais à frente, no capítulo dezesseis, encontramos a confirmação da condução da igreja pelo Espírito Santo quando este comanda os destinos dos apóstolos que saíam pelo mundo a pregar. Voltando ao antigo testamento encontramos uma passagem no livro do Deuteronômio 34,7-9 onde Moisés pela imposição de mãos confere a Josué, filho de Num, pouco antes da morte de Moisés, o Espírito de Sabedoria. Em Efésios, no capítulo 2,18-22, São Paulo vai nos dizer que temos acesso ao pai num mesmo Espírito. No capítulo 3,3-5 São Paulo nos explica que a revelação lhe foi manifestada pelo Espírito de Deus. Conclui no capítulo 06,17-18 que devemos nos empunhar a espada do Espírito, que é a palavra de Deus e em todas as circunstâncias orar por todos ao Espírito Santo.</br>
 </br>
 Poderíamos ir muito adiante neste movimento de encontrarmos passagens que falem da segunda pessoa da Santíssima Trindade, mas para a pequena reflexão que iremos fazer aqui nos basta esta pequena introdução. Reflexão essa que se debruça em três pontos:</br>

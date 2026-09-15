@@ -4,7 +4,9 @@ date: 2021-09-10T01:06:00.001Z
 heroImage: "/images/posts/641-vivendo-com-o-mínimo-vivendo_com_o_m_25C3_25ADnimo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/641-vivendo-com-o-mínimo-vivendo_com_o_m_25C3_25ADnimo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="341" data-original-width="353" height="309" src="/images/posts/641-vivendo-com-o-mínimo-vivendo_com_o_m_25C3_25ADnimo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os santos diziam que aquele cujo só o amor de Deus não basta
+![](/images/posts/641-vivendo-com-o-mínimo-vivendo_com_o_m_25C3_25ADnimo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Os santos diziam que aquele cujo só o amor de Deus não basta
 é um egoísta. De fato, a profundidade disso é imensa e não se trata de nenhuma
 surpresa, pois o que se lê aqui está fundamentado biblicamente.<o:p></o:p></p><div class="separator" style="clear: both;">
 
@@ -33,4 +35,7 @@ insiste em nos dizer que precisamos de mais e mais e mais; mais disso, mais
 daquilo e mais daquele outro. De tudo isso para que não sobre espaço para o que
 é mais importante: Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

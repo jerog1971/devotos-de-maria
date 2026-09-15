@@ -4,7 +4,9 @@ date: 2024-02-23T20:55:00.003Z
 heroImage: "/images/posts/2110-sacrilégio-dentro-da-igreja-img-523262625.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2110-sacrilégio-dentro-da-igreja-img-523262625.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="525" data-original-width="779" height="216" src="/images/posts/2110-sacrilégio-dentro-da-igreja-img-461237767.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como sempre, vira e mexe, o pessoal que não é adepto da
+![](/images/posts/2110-sacrilégio-dentro-da-igreja-img-461237767.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Como sempre, vira e mexe, o pessoal que não é adepto da
 palavra de Deus promove publicamente sua luta e posição em defesa daquilo que
 acreditam. Também, como sempre, cobram mais respeito, mas se dão ao luxo de
 querer algo que não é de mão dupla. Eles, podem zombar da fé dos cristãos das
@@ -47,4 +49,7 @@ como as que Jesus pediu de todos nós ao sairmos em defesa de nossa fé (me refi
 aos responsáveis que permitiram que tudo acontecesse). Eis aí o fardo daqueles que
 decidiram seguir Jesus Cristo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

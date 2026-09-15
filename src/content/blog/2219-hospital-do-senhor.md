@@ -4,7 +4,8 @@ date: 2016-07-12T11:00:00.002Z
 heroImage: "/images/posts/2219-hospital-do-senhor-hospital_do_senhor.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2219-hospital-do-senhor-hospital_do_senhor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2219-hospital-do-senhor-hospital_do_senhor.png" width="311" height="320" data-original-width="177" data-original-height="182" /></a></div>
+![](/images/posts/2219-hospital-do-senhor-hospital_do_senhor.png)
+
 </br>
 Fui ao Hospital do Senhor fazer um check-up de rotina, e constatei que estava doente:</br>
 </br>

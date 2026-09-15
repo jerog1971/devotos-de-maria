@@ -4,7 +4,9 @@ date: 2025-07-25T19:16:00.005Z
 heroImage: "/images/posts/1352-o-vingador-argumentos_20contra_20Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1352-o-vingador-argumentos_20contra_20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="308" data-original-width="393" height="251" src="/images/posts/1352-o-vingador-argumentos_20contra_20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">E, diga-se de passagem, o melhor entre todos os vingadores que
+![](/images/posts/1352-o-vingador-argumentos_20contra_20Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;">E, diga-se de passagem, o melhor entre todos os vingadores que
 poderíamos imaginar. Estamos aqui a falar de Deus; isso mesmo. O
 Altíssimo é vingativo e não só ele, Jesus Cristo também é um
 justiceiro. Calma, caro leitor, não é artigo para surpresas e
@@ -41,4 +43,7 @@ terei “toda a eternidade para praticar a justiça”.</p>
 Roger</p>
 <p style="line-height: 100%; margin-bottom: 0cm;"><br />
 
-</p></div><p><br />&nbsp;</p>
+</p></div>
+
+<br /> 
+

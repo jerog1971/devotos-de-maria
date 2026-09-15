@@ -4,7 +4,9 @@ date: 2021-03-25T14:02:00.001Z
 heroImage: "/images/posts/1835-pensamentos-impuros-atos-impuros-prostituir.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1835-pensamentos-impuros-atos-impuros-prostituir.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="319" src="/images/posts/1835-pensamentos-impuros-atos-impuros-prostituir.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa Senhora disse em suas aparições que os pecados que mais
+![](/images/posts/1835-pensamentos-impuros-atos-impuros-prostituir.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nossa Senhora disse em suas aparições que os pecados que mais
 arrastam as pessoas para o inferno são os da idolatria e os da carne. Nosso
 corpo, com o qual devemos glorificar a Deus (1ª Coríntios 6,20), destinado à
 santidade e consequentemente ao céu, participa com maior ou menor grau na
@@ -47,4 +49,7 @@ exemplos das drogas e do álcool.<o:p></o:p></p>
 mudar de lado; foi convencida de que as provações da alma (Eclesiástico 2,1-6)
 necessárias para a salvação eterna, podem ser substituídas pelos prazeres terrenos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-07-25T12:00:00Z
 heroImage: "/images/posts/432-sejamos-humildes-Nossa_Senhora.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/432-sejamos-humildes-Nossa_Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/432-sejamos-humildes-Nossa_Senhora.png" width="258" height="320" data-original-width="395" data-original-height="490" /></a></div>
+![](/images/posts/432-sejamos-humildes-Nossa_Senhora.png)
+
 </br>
 Infelizmente, encontramos muitos cristãos que agem com indiferença ou até mesmo desprezo em relação a Maria e sua intercessão. Pois pensam que ao recorrer a Maria estão desfazendo do poder do Senhor. De modo algum isso acontece. Nossa Senhora não é nenhuma deusa, toda poderosa e nunca se comportou de tal maneira. Nem é parte da doutrina Católica Apostólica Romana afirmar tal pensamento. Isso é apenas mais uma armadilha do inimigo para confundir a cabeça de quem poderia estar ainda mais próximo de Jesus pela intercessão e testemunho desta mulher tão desejada por Deus e que foi e é canal da Graça do Altíssimo.</br>
 </br>

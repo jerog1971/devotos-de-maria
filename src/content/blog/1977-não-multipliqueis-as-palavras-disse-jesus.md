@@ -4,7 +4,9 @@ date: 2021-12-07T15:24:00.003Z
 heroImage: "/images/posts/1977-não-multipliqueis-as-palavras-disse-img-1235518763.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1977-não-multipliqueis-as-palavras-disse-img-1235518763.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1070" data-original-width="1160" height="295" src="/images/posts/1977-não-multipliqueis-as-palavras-disse-img-1484163264.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos nas sagradas escrituras que não temos autoridade
+![](/images/posts/1977-não-multipliqueis-as-palavras-disse-img-1484163264.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Aprendemos nas sagradas escrituras que não temos autoridade
 para “arrancarmos” de Deus o que queremos; ele, que não é surdo, já ouviu da primeira
 vez que nos dirigimos com agradecimentos, súplicas, reclamações, pedidos, exigências
 e outras formas de uso que atribuímos às nossas orações.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -43,4 +45,7 @@ nada, ao contrário nos forçamos em súplicas a renunciarmos a nós mesmos,
 tomarmos nossa cruz dia após dia e segui-lo – Lucas 9,23 – contando com seu
 auxílio paternal (João 15,5) constantemente.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

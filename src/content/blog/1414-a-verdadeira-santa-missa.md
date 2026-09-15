@@ -10,27 +10,45 @@ Bem sabemos também que algumas vezes, quando não na maioria, somos nós mesmos
 </br>
 Por isso, coloco aqui os nomes de alguns sacerdotes e seus locais de atuação na data em que este artigo foi escrito onde, pela graça de Deus me foi concedido poder participar da celebração da santa missa presidida por eles. Com simplicidade, fidelidade ao evangelho e a santa igreja católica, estes entre outros, são verdadeiros pastores do rebanho do Nosso Salvador!</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1414-a-verdadeira-santa-missa-padre_emmanuel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1414-a-verdadeira-santa-missa-padre_emmanuel.png" width="134" height="200" data-original-width="273" data-original-height="407" /></a></div></br>
+
+![](/images/posts/1414-a-verdadeira-santa-missa-padre_emmanuel.png)
+
+</br>
 </br>
 Padre Emmanuel - sacerdote que preside na Catedral Basilica de Curitiba - Nossa Senhora da Luz dos Pinhais</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1414-a-verdadeira-santa-missa-padre_fabio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1414-a-verdadeira-santa-missa-padre_fabio.png" width="191" height="200" data-original-width="385" data-original-height="404" /></a></div></br>
+
+![](/images/posts/1414-a-verdadeira-santa-missa-padre_fabio.png)
+
+</br>
 </br>
 Padre Fabio - sacerdote da Paróquia do Santíssimo Sacramento - Bairro Água Verde, Curitiba-PR</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1414-a-verdadeira-santa-missa-padre_nilton.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1414-a-verdadeira-santa-missa-padre_nilton.png" width="200" height="181" data-original-width="322" data-original-height="291" /></a></div></br>
+
+![](/images/posts/1414-a-verdadeira-santa-missa-padre_nilton.png)
+
+</br>
 </br>
 Padre Nilton - sacerdote da Paróquia do Coração Imaculado de Maria - Bairro Rebouças, Curitiba-PR</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1414-a-verdadeira-santa-missa-padre_marcos_paulo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1414-a-verdadeira-santa-missa-padre_marcos_paulo.png" width="171" height="200" data-original-width="164" data-original-height="192" /></a></div></br>
+
+![](/images/posts/1414-a-verdadeira-santa-missa-padre_marcos_paulo.png)
+
+</br>
 </br>
 Padre Marcos - sacerdote da Paróquia São Rafael - Bairro Cidade Industrial, Curitiba-PR</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1414-a-verdadeira-santa-missa-padre_edson_odaguiri.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1414-a-verdadeira-santa-missa-padre_edson_odaguiri.png" width="172" height="200" data-original-width="313" data-original-height="365" /></a></div></br>
+
+![](/images/posts/1414-a-verdadeira-santa-missa-padre_edson_odaguiri.png)
+
+</br>
 </br>
 Padre Edson - sacerdote que preside na Paróquia Nossa Senhora de Guadalupe - Bairro Centro, Curitiba-PR</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1414-a-verdadeira-santa-missa-padre_paulo_ricardo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1414-a-verdadeira-santa-missa-padre_paulo_ricardo.png" width="195" height="200" data-original-width="255" data-original-height="261" /></a></div></br>
+
+![](/images/posts/1414-a-verdadeira-santa-missa-padre_paulo_ricardo.png)
+
+</br>
 Padre Paulo Ricardo - sacerdote que preside na Paróquia Cristo Rei, Cuiabá - Minas Gerais</br>
 </br>
 </br>

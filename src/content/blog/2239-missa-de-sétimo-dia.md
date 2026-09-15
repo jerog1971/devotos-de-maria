@@ -4,7 +4,9 @@ date: 2022-08-30T15:59:00Z
 heroImage: "/images/posts/2239-missa-de-sétimo-dia-missa_20de_20s_C3_A9timo_20dia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2239-missa-de-sétimo-dia-missa_20de_20s_C3_A9timo_20dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="531" data-original-width="664" height="256" src="/images/posts/2239-missa-de-sétimo-dia-missa_20de_20s_C3_A9timo_20dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O costume tradicional e universal é a celebração da missa de
+![](/images/posts/2239-missa-de-sétimo-dia-missa_20de_20s_C3_A9timo_20dia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O costume tradicional e universal é a celebração da missa de
 corpo presente, seguida do sepultamento do falecido. Todavia, tal prática “ganha”
 uma solução adaptada para a realidade de nosso país continental. Desde os
 tempos da colonização, as grandes distâncias que separavam os parentes e amigos
@@ -41,4 +43,7 @@ morte e ressurreição de Cristo, através dessa celebração ele pede para que 
 fiel falecido seja purificado de seus pecados e de suas consequências e seja
 admitido à plenitude pascal no Banquete do Reino.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

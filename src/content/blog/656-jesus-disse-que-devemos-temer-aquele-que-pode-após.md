@@ -4,7 +4,8 @@ date: 2019-06-28T18:51:00.002Z
 heroImage: "/images/posts/656-jesus-disse-que-devemos-temer-aquele-temer_a_Deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/656-jesus-disse-que-devemos-temer-aquele-temer_a_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/656-jesus-disse-que-devemos-temer-aquele-temer_a_Deus.png" width="320" height="229" data-original-width="472" data-original-height="338" /></a></div>
+![](/images/posts/656-jesus-disse-que-devemos-temer-aquele-temer_a_Deus.png)
+
 Lucas 12,4-5 – “Digo-vos a vós, meus amigos: não tenhais medo daqueles que matam o corpo e depois disto nada mais podem fazer. Mostrar-vos-ei a quem deveis temer: temei àquele que, depois de matar, tem poder de lançar no inferno; sim, eu vo-lo digo: temei a este”. Em outra parte bíblica lemos que nosso culto a Deus deve ser cheio de temor e respeito. Como vemos, caros leitores, ninguém lá em cima está para brincadeira. São os homens que teimam em não levar tudo a sério em suas vidas. É sempre a história do leite derramado, depois não adianta chorar.</br>
 </br>
 Marcos 13,23 – Disse Jesus – “Ficai de sobreaviso. Eis que vos preveni de tudo”. Não é por falta de aviso e sim por opção e escolha própria que cada um irá se atirar nas chamas do inferno. Se realmente não quisessem não agiriam como agem, numa vida que zomba de seu criador e aposta alto achando que tudo que Deus prescreveu não é uma verdade total.</br>

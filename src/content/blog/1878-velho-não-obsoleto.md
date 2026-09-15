@@ -4,7 +4,9 @@ date: 2021-02-08T10:22:00.001Z
 heroImage: "/images/posts/1878-velho-não-obsoleto-velho.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1878-velho-não-obsoleto-velho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="232" data-original-width="316" src="/images/posts/1878-velho-não-obsoleto-velho.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Para Deus muita coisa não muda; poderíamos quem sabe até
+![](/images/posts/1878-velho-não-obsoleto-velho.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Para Deus muita coisa não muda; poderíamos quem sabe até
 afirmar que, em relação ao que dele vem, nada muda. Dessa forma, se fosse o
 contrário, haveria injustiça entre as gerações ao longo dos séculos, pois, para
 cada uma existiria um grau e conjunto diferente de regras a serem cumpridas
@@ -43,4 +45,7 @@ a coroação de uma desobediência nossa!<o:p></o:p></p>
 serão obsoletos; pois ele nos diz: Malaquias 3,6 – “Sou o Senhor e não mudo”; Isaías
 45,23 – Minhas palavras não serão revogadas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

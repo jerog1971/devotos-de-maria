@@ -4,7 +4,9 @@ date: 2023-11-12T14:16:00.008Z
 heroImage: "/images/posts/860-um-dia-a-menos-um_20dia_20a_20menos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/860-um-dia-a-menos-um_20dia_20a_20menos.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="222" height="194" src="/images/posts/860-um-dia-a-menos-um_20dia_20a_20menos.png" width="287" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ontem, dentro da contagem regressiva desta história, oito dias
+![](/images/posts/860-um-dia-a-menos-um_20dia_20a_20menos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ontem, dentro da contagem regressiva desta história, oito dias
 se seguirão até que saiba o leitor como esse acontecimento termina, ou começa.
 A mãe tinha partido, começara então uma desestruturação familiar. Sim, em
 famílias precisam existir alicerces do contrário, como nas construções de
@@ -35,4 +37,7 @@ ou será soterrado por não lutar. Se é assim que é, não me restava opção, 
 que seguir lutando, aproximando-se do meu primeiro aniversário sem a presença
 de minha mãe.<o:p></o:p></p><p class="MsoNormal">Artigo anterior:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

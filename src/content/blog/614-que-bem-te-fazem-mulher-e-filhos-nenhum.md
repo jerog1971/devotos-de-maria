@@ -4,7 +4,8 @@ date: 2019-08-02T16:27:00.002Z
 heroImage: "/images/posts/614-que-bem-te-fazem-mulher-e-filhos-nen-bodnariu.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/614-que-bem-te-fazem-mulher-e-filhos-nen-bodnariu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/614-que-bem-te-fazem-mulher-e-filhos-nen-bodnariu.png" width="319" height="320" data-original-width="519" data-original-height="521" /></a></div>
+![](/images/posts/614-que-bem-te-fazem-mulher-e-filhos-nen-bodnariu.png)
+
 É isso, coloque na ponta do lápis e nos ponteiros do relógio para você ver só uma coisa. Teu salário é dividido pelo número de familiares. Quanto mais gente sob o mesmo teto, menor é a sua parte financeira. A vida, nesse mundo capitalista, é movida pelo dinheiro e por conta disso você precisa abrir mão de coisas e fazer sacrifícios. Experimente gastar com alguma coisa que só pode ser aproveitada por você para ver se não te chamam de egoísta. São mais pessoas para ficar doente, mais gasto com remédios, menos silêncio em casa, principalmente se morar perto de parentes.</br>
 </br>
 Mas não se preocupe, sempre pode piorar. No final das contas aquela mulher que você namorou e hoje está casada te deixou na mão, assumiu, na melhor das hipóteses, o lugar de sua mãe. Ela lava, cozinha, ajeita a casa e ainda te importuna porque você não é como acha que deveria ser e se comportar. O tempo passa e você percebe que entrou numa enrascada das grandes. Vai fazer o que então? Simples: o que tua mulher não te supre mais em casa (como matriz), você resolve com outra mulher (sua filial), que irá viver com você as deficiências que tem em casa. Com ela vocês criarão o próprio mundinho das fantasias.</br>

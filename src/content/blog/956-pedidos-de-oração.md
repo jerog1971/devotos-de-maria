@@ -4,7 +4,8 @@ date: 2018-06-15T17:15:00Z
 heroImage: "/images/posts/956-pedidos-de-oração-pedindo_ajuda.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/956-pedidos-de-oração-pedindo_ajuda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/956-pedidos-de-oração-pedindo_ajuda.png" width="320" height="311" data-original-width="394" data-original-height="383" /></a></div>
+![](/images/posts/956-pedidos-de-oração-pedindo_ajuda.png)
+
 Sempre me pergunto porque existem sacerdotes que andam por aí de uma forma que não podem ser identificados como tal. Jesus disse que eles precisam apascentar as ovelhas do Senhor. Nem poderia ser diferente até porque as almas são carentes de Deus e das graças divinas, por intermédio da ação do Espírito Santo entre os membros da igreja. E a ação santificadora é tamanha que ela se espalha como a luz.</br>
 </br>
 De minha parte, graças a Deus, as pessoas conseguem me identificar como um cristão, sobretudo católico. Não se trata de expor os acontecimentos para uma vã glória ou heroísmo ao estilo dos fariseus. Testemunhos sadios fazem bem a todos porque somos uma corrente onde nos ajudamos mutuamente a caminhar rumo à pátria celeste. Dito isto é recorrente em minha vida o fato das pessoas me procurarem para algum auxílio prático; seja um pedido de opinião, uma ajuda em forma de caridade, uma palavra amiga embasada nos evangelhos ou um pedido de intercessão.

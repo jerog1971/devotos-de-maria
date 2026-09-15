@@ -4,10 +4,12 @@ date: 2022-02-21T15:48:00.002Z
 heroImage: "/images/posts/876-a-vida-sempre-me-prova-que-estou-err-img-1315805302.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/876-a-vida-sempre-me-prova-que-estou-err-img-1315805302.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="375" data-original-width="381" height="315" src="/images/posts/876-a-vida-sempre-me-prova-que-estou-err-img-1315805489.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;">Ora bolas, não é assim que o ser humano de uma forma geral,
+![](/images/posts/876-a-vida-sempre-me-prova-que-estou-err-img-1315805489.jpg)
+
+<div class="separator" style="clear: both; text-align: left;">Ora bolas, não é assim que o ser humano de uma forma geral,
 se relaciona com ela? Ah mas eu queria que fosse assim, ah mas eu queria isso,
 ah mas eu queria daquele jeito. O que eu queria mesmo era que não fosse desse jeito
-e sim do jeito que eu gostaria que fosse, do jeito que eu quero.</div><p></p><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">
+e sim do jeito que eu gostaria que fosse, do jeito que eu quero.</div><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Pois é, Deus se utiliza da vida para nos demonstrar que a
 percorrer é uma tarefa mais difícil do que possa parecer. Precisamos sair do
@@ -37,4 +39,7 @@ nosso favor, mesmo que isso tornasse tudo e todos, objetos de consumo e
 prazeres mais importantes do que as importantes coisas que não passam, as
 coisas do céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

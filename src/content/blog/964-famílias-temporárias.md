@@ -4,7 +4,9 @@ date: 2021-04-28T20:55:00Z
 heroImage: "/images/posts/964-famílias-temporárias-Pais_e_Filhos.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/964-famílias-temporárias-Pais_e_Filhos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="2048" src="/images/posts/964-famílias-temporárias-Pais_e_Filhos.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus, aprendemos nas sagradas escrituras, desejou por seu
+![](/images/posts/964-famílias-temporárias-Pais_e_Filhos.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Deus, aprendemos nas sagradas escrituras, desejou por seu
 amor criar suas criaturas e constitui-las no formato denominado de famílias. Ao
 criar essa condição humana, determinou que não poderia ser desfeita de forma
 alguma; apenas por ele mesmo. Gênesis 1,27 – “Deus criou o homem à sua imagem;
@@ -46,4 +48,7 @@ somos nós que decidimos pelo fim das famílias, tão atacadas pelas ideologias 
 mundo e egoísmos, e sim o todo poderoso, criador do céu e da terra, das coisas
 visíveis e invisíveis. É até que a morte nos separe.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

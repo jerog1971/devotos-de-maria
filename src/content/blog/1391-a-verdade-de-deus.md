@@ -4,7 +4,9 @@ date: 2023-01-28T18:36:00.003Z
 heroImage: "/images/posts/1391-a-verdade-de-deus-censura_20patrocinada.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1391-a-verdade-de-deus-censura_20patrocinada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="199" data-original-width="315" height="199" src="/images/posts/1391-a-verdade-de-deus-censura_20patrocinada.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nada disso, a verdade relativa e adulterada por conta de
+![](/images/posts/1391-a-verdade-de-deus-censura_20patrocinada.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nada disso, a verdade relativa e adulterada por conta de
 ideais diferentes dos moldes cristãos. Trata-se da censura patrocinada pelo
 Estado; uma tendência totalitária que tem se acelerado em todo o mundo com uma
 velocidade assustadora. Os governos, muitas vezes com a ajuda das “Big Tech”,
@@ -63,4 +65,7 @@ ser aplicadas a qualquer discurso que o atual governo não goste. Pôncio Pilato
 perguntou famosamente: "O que é a verdade?" No futuro, a única
 resposta legal será: o que quer que o Estado diga que é.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger com adaptação do site de tfp.org<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger com adaptação do site de tfp.org<o:p></o:p></p></div>
+
+<br /> 
+

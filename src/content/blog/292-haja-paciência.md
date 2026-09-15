@@ -4,7 +4,8 @@ date: 2016-05-16T19:46:00Z
 heroImage: "/images/posts/292-haja-paciência-paci_25C3_25AAncia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/292-haja-paciência-paci_25C3_25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/292-haja-paciência-paci_25C3_25AAncia.png" width="320" height="273" data-original-width="246" data-original-height="210" /></a></div>
+![](/images/posts/292-haja-paciência-paci_25C3_25AAncia.png)
+
 Eclesiástico 2,1-4,16-17,21-23</br>
 </br>
 1 Meu filho, se entrares para o serviço de Deus, permanece firme na justiça e no temor, e prepara a tua alma para a provação;</br>

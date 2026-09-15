@@ -4,7 +4,9 @@ date: 2023-05-17T21:15:00Z
 heroImage: "/images/posts/1600-santa-missa-duvidosa-casamento_20gay.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1600-santa-missa-duvidosa-casamento_20gay.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="370" data-original-width="544" height="218" src="/images/posts/1600-santa-missa-duvidosa-casamento_20gay.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A associação americana America Needs Fatima publicou este mês
+![](/images/posts/1600-santa-missa-duvidosa-casamento_20gay.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A associação americana America Needs Fatima publicou este mês
 uma notícia relacionada aos valores do mundo e os valores cristãos,
 especificamente as verdades bíblicas sobre a sexualidade definida por Deus e a
 defendida pelo mundo. Segue, na íntegra a informação.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -30,4 +32,7 @@ possível. Como dizia Santa Joana D'Arc: “Os soldados lutarão e Deus conceder
 vitória”. Fazemos esta nobre cruzada, unindo nossos sofrimentos aos de Cristo
 na cruz através da oração e reparações, na absoluta certeza do triunfo de Deus”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

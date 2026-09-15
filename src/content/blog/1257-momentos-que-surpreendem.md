@@ -4,7 +4,11 @@ date: 2025-02-14T20:58:00.002Z
 heroImage: "/images/posts/1257-momentos-que-surpreendem-Tiba.png"
 ---
 
-<p class="MsoNormal"></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1257-momentos-que-surpreendem-Tiba.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="257" data-original-width="430" height="191" src="/images/posts/1257-momentos-que-surpreendem-Tiba.png" width="320" /></a></div><br />&nbsp;<p></p><p class="MsoNormal">O que você faria se, de repente, sua vida mudasse
+<p class="MsoNormal"></p>
+
+![](/images/posts/1257-momentos-que-surpreendem-Tiba.png)
+
+<br /> <p class="MsoNormal">O que você faria se, de repente, sua vida mudasse
 completamente em um instante? Estaríamos preparados para enfrentar provações
 inesperadas, com fé e esperança? Tiba Camargos é um influenciador católico, pai
 de onze filhos, sendo cinco no céu e sua esposa, gestante do sexto, escritor e
@@ -34,7 +38,11 @@ e mãe deve estar dilacerado, mas ao mesmo tempo fortalecido pela imensa
 corrente de amor e generosidade e pela fé que nos ensina a encontrar sentido,
 até nos momentos mais sombrios.</p>
 
-<p class="MsoNormal"></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1257-momentos-que-surpreendem-Tiba2.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="270" data-original-width="218" height="270" src="/images/posts/1257-momentos-que-surpreendem-Tiba2.png" width="218" /></a></div><br />&nbsp;<p></p><p class="MsoNormal">Uma notícia assim faz com que hoje, olhemos para nossos filhos
+<p class="MsoNormal"></p>
+
+![](/images/posts/1257-momentos-que-surpreendem-Tiba2.png)
+
+<br /> <p class="MsoNormal">Uma notícia assim faz com que hoje, olhemos para nossos filhos
 e filhas, nossas esposas e maridos, saudáveis, cheios de vida, e isso faz
 nossos corações se encherem de gratidão, mas o revés da vida pode chegar como
 uma tempestade inesperada, nos lançando em um calvário de incertezas e angústia.
@@ -51,5 +59,4 @@ mova e nos encha de coragem para seguir em frente, confiantes de que Ele nunca
 nos deixará sós.</p>
 
 <p class="MsoNormal">Fonte: adaptado de CitizenGO pelo autor do site</p>
-
 

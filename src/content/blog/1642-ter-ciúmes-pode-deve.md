@@ -4,7 +4,8 @@ date: 2017-05-15T12:18:00.001Z
 heroImage: "/images/posts/1642-ter-ciúmes-pode-deve-ciumes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1642-ter-ciúmes-pode-deve-ciumes.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="298" data-original-width="393" height="243" src="/images/posts/1642-ter-ciúmes-pode-deve-ciumes.png" width="320" /></a></div>
+![](/images/posts/1642-ter-ciúmes-pode-deve-ciumes.png)
+
 Muitos podem dizer, caros leitores, que eis aí mais um assunto que é polêmico porque sobre ele podem-se gerar opiniões diversas sobre a questão. Pode ter ciúmes, não pode, deve, não deve, é saudável, não é e tantas outras situações que surgem a partir desse sentimento. Mais uma vez então, a pedido de uma de nossas assíduas leitoras, este site entra no assunto procurando colaborar na questão e, como sempre, colocando a reflexão sobre o tema pautada numa visão sobrenatural e bíblica. Nada de expressões técnicas ou aprofundamentos científicos, psicológicos e acadêmicos sobre o tema. Vamos ao estilo curto e grosso, como São Pedro fazia.
 
 Inicialmente, porém, vamos colocar aqui uma das definições que encontramos pelos dicionários mundo afora. Diz-se que “O ciúme é um sentimento de reação natural do ser humano produzido pela falta de exclusividade do sentimento, da dedicação e do cuidado da pessoa de quem se gosta. É uma dedicação ao amor. O ciúme é uma manifestação provocada pela falta de confiança no sentimento do outro, que é transformada em medo de perder o parceiro.” Muito bem, sigamos adiante e de cara vou logo dizendo que Deus tem por cada um de nós um amor ciumento (Isaías 63,15). E por quê? Como vemos na definição dos dicionários, seu amor é ciumento porque ele tem medo de nos perder, no seguinte sentido. Ele que nos criou as moradas eternas e todo o paraíso em vistas de compartilhar seu amor conosco por toda a eternidade, criou, sem dúvida algumas, como atesta São Paulo (1ª Coríntios 2,9), maravilhas que nem temos conhecimento ainda, que os olhos não viram e nem os ouvidos escutaram. Por isso o seu ciúme, pois sabe que se nos perder, na verdade quem sairá perdendo somos nós. Deus irá se entristecer se ao fogo do inferno nos atirarmos por conta de nossas obras, mas ele continuará como Deus, e nós?
@@ -16,6 +17,5 @@ Por outro lado, existe também o sentimento que é causado pela insegurança na 
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2016/05/outra-familia-que-se-vai.html" target="_blank">Outra família que se vai</a>
-
 
 fonte: Jefferson Roger

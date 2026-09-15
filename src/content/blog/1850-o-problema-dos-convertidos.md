@@ -4,7 +4,8 @@ date: 2016-08-01T17:28:00Z
 heroImage: "/images/posts/1850-o-problema-dos-convertidos-convertidos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1850-o-problema-dos-convertidos-convertidos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1850-o-problema-dos-convertidos-convertidos.png" width="320" height="291" data-original-width="573" data-original-height="521" /></a></div>
+![](/images/posts/1850-o-problema-dos-convertidos-convertidos.png)
+
 Sabem qual é o problema caros leitores? O problema é que essas pessoas que se convertem, nos nossos tempos, não são como as de antigamente, e o digo por dois motivos: primeiro, porque são mais bem informadas e estão melhor preparadas do que os nossos pais e avós estavam, na época deles; as disposições com que se aproximam da Igreja são bastante diferentes. Segundo, porque o projeto de Igreja que se apresenta para elas, hoje, também não é mais o mesmo que se apresentava aos nossos pais e avós.</br>
 </br>
 As pessoa de hoje, via de regra, sem convertem mais pela razão do que pela emoção. Elas se apaixonaram e se converteram àquela Igreja heroica, dos santos e dos mártires; Igreja que preserva os dogmas; Igreja que está sempre disposta a dar a vida em sacrifício pela defesa da Verdade (que é Cristo); Igreja que tem valores inegociáveis; Igreja que celebra na Santa Missa a Renovação incruenta do Sacrifício do Calvário; Igreja que mantém a mesma fé apostólica por dois milênios; Igreja que é, enfim, a continuidade histórica de Nosso Senhor Jesus Cristo no mundo.</br>

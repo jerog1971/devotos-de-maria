@@ -4,7 +4,9 @@ date: 2020-09-25T13:35:00.002Z
 heroImage: "/images/posts/947-contente-com-o-que-tem-satisfeito.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/947-contente-com-o-que-tem-satisfeito.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="479" src="/images/posts/947-contente-com-o-que-tem-satisfeito.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mundo prega uma felicidade diferente daquela prometida por
+![](/images/posts/947-contente-com-o-que-tem-satisfeito.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O mundo prega uma felicidade diferente daquela prometida por
 nosso senhor Jesus Cristo. Por sinal, uma bem diferente. A felicidade divina
 nos apresenta um marco: ela está depois do sacrifício e das renúncias. A do
 mundo está antes. A divina nos providencia tudo que precisamos, a do mundo tudo
@@ -39,4 +41,7 @@ vida de descontentamentos, pois, “sabemos que todas as coisas concorrem para o
 bem daqueles que amam a Deus, daqueles que são os eleitos, segundo os seus
 desígnios” – Romanos 8,28.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

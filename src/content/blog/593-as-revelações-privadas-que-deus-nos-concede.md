@@ -4,7 +4,8 @@ date: 2019-04-24T17:15:00.001Z
 heroImage: "/images/posts/593-as-revelações-privadas-que-deus-nos--purgatorio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/593-as-revelações-privadas-que-deus-nos--purgatorio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/593-as-revelações-privadas-que-deus-nos--purgatorio.png" width="320" height="298" data-original-width="443" data-original-height="413" /></a></div>
+![](/images/posts/593-as-revelações-privadas-que-deus-nos--purgatorio.png)
+
 Diz o catecismo em seu número sessenta e sete: “No decurso dos séculos houve revelações denominadas ‘privadas’, e algumas delas têm sido reconhecidas pela autoridade da Igreja. Elas não pertencem, contudo, ao depósito da fé. A função delas não é ‘melhorar’ ou ‘completar’ a Revelação definitiva de Cristo, mas ajudar a viver dela com mais plenitude em determinada época da história. Guiado pelo Magistério da Igreja, o senso dos fiéis sabe discernir e acolher o que nessas revelações constitui um apelo autêntico de Cristo ou de seus santos à Igreja”.</br>
 </br>
 Como vemos, caros leitores, a igreja toma posição reconhecendo o valor que elas representam para a vida de fé do cristão e sua correta posição dentro do caminhar rumo à porta estreita. Baseados nisso colocamos aqui um pequeníssimo resumo à cerca das revelações que Deus quis conceder aos seus santos a respeito da realidade do purgatório. </br>

@@ -4,7 +4,9 @@ date: 2021-06-23T15:08:00.005Z
 heroImage: "/images/posts/1087-mentiras-do-diabo-mentiras_do_diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1087-mentiras-do-diabo-mentiras_do_diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="247" src="/images/posts/1087-mentiras-do-diabo-mentiras_do_diabo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O ladrão não vem senão para matar, roubar e destruir, é o
+![](/images/posts/1087-mentiras-do-diabo-mentiras_do_diabo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O ladrão não vem senão para matar, roubar e destruir, é o
 que lemos nas sagradas escrituras. Para isso, sua infinidade de recursos conta
 com um dos artifícios muito usado pelo nosso inimigo número um: a mentira. No livro
 do Eclesiástico lemos “cuida das mentiras”; a situação serve para mão de duas
@@ -34,4 +36,4 @@ de perdição eterna; o outro, representando tudo que é bom, vem em nome de Deu
 oferecer a felicidade eterna no paraíso. Sempre, como dizemos neste site, cabe
 a cada um fazer a sua escolha.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><br /> 

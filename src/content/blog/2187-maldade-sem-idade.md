@@ -4,7 +4,9 @@ date: 2020-12-22T19:24:00.002Z
 heroImage: "/images/posts/2187-maldade-sem-idade-maldade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2187-maldade-sem-idade-maldade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="514" data-original-width="653" src="/images/posts/2187-maldade-sem-idade-maldade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não existe preferência para o diabo quando o assunto é o
+![](/images/posts/2187-maldade-sem-idade-maldade.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não existe preferência para o diabo quando o assunto é o
 recrutamento das pessoas para o seu lado; consiste isso em voltar-se contra
 Deus. Ou alguém acha que Jesus mentiu quando disse que ninguém pode agradar a
 dois senhores? Pois bem, felizmente, o mesmo vale para a bondade. Lembra-se do
@@ -41,4 +43,7 @@ olhos do mundo e não de Deus.<o:p></o:p></p>
 <p class="MsoNormal">Tiago 4,4 – “não sabeis que o amor do mundo é abominado por
 Deus? Todo aquele que quer ser amigo do mundo constitui-se inimigo de Deus”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

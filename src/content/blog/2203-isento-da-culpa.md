@@ -4,7 +4,9 @@ date: 2022-09-20T18:47:00.005Z
 heroImage: "/images/posts/2203-isento-da-culpa-isento_20da_20culpa.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2203-isento-da-culpa-isento_20da_20culpa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="525" height="317" src="/images/posts/2203-isento-da-culpa-isento_20da_20culpa.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A santa palavra de Deus nos ensina que muitas coisas que
+![](/images/posts/2203-isento-da-culpa-isento_20da_20culpa.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A santa palavra de Deus nos ensina que muitas coisas que
 fazemos de errado são por nossa culpa, pois, nos é ensinado que temos sempre a
 opção de escolher: o lado do bem ou do mal. Na carta de Tiago a exortação do
 apóstolo vai nos dizer que não devemos colocar a culpa em Deus por conta de
@@ -40,4 +42,7 @@ O justo juiz julga a todos com os critérios dele e culpas que achamos carregar
 podem não existir, assim como culpa que achamos não ter podem sim, ser de nossa
 alçada.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

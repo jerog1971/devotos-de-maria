@@ -4,7 +4,8 @@ date: 2017-12-15T16:13:00Z
 heroImage: "/images/posts/1347-papa-francisco-duvida-das-aparições-de-medjugorje-Papa_Francisco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1347-papa-francisco-duvida-das-aparições-de-medjugorje-Papa_Francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1347-papa-francisco-duvida-das-aparições-de-medjugorje-Papa_Francisco.png" width="320" height="308" data-original-width="448" data-original-height="431" /></a></div>
+![](/images/posts/1347-papa-francisco-duvida-das-aparições-de-medjugorje-Papa_Francisco.png)
+
 Nem era de se esperar deste pontífice, uma atitude dessas. Em toda a história da igreja, a prudência bem comprovada e documentada inclusive no catecismo trata desse assunto sempre com especial cuidado. Afinal, não se pode “dar um cheque em branco” pois as aparições estão em curso e só podem ser confirmadas após sua conclusão. No entanto Jesus nos ensina algo bem valioso. Disse ele que pelos frutos conheceremos a árvore. Medjugorje parece ter um aspecto e natureza peculiares, embora o cerne de todas as aparições também aconteça lá na Bósnia-Herzegovina. Recordo porém, para início de conversa que em Fátima, quando no ano de 1917, Nossa Senhora apareceu aos três pastorinhos pela primeira vez em 13 de maio daquele ano, no diálogo acontecido é preciso destacar uma frase da mãe de Deus:</br>
 </br>
 <b>“Vim para pedir que venhais aqui seis meses seguidos, SEMPRE NO DIA 13, A ESTA MESMA HORA. Depois vos direi quem sou e o que quero. Em seguida, voltarei aqui ainda uma sétima vez.”</b></br>

@@ -4,7 +4,8 @@ date: 2016-06-27T20:23:00Z
 heroImage: "/images/posts/1510-racinha-do-c4r4lh0-palavrao.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1510-racinha-do-c4r4lh0-palavrao.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1510-racinha-do-c4r4lh0-palavrao.png" width="320" height="212" data-original-width="440" data-original-height="291" /></a></div>
+![](/images/posts/1510-racinha-do-c4r4lh0-palavrao.png)
+
 Pois é caros leitores, na expressão censurada no título do artigo, fica a liberdade de cada para encaixar a experiência que a vida traz a cada um. O teor da matéria que estou a refletir tem raízes na carta aos Efésios 4,26 onde está escrito: “Mesmo em cólera, não pequeis. Não se ponha o sol sobre o vosso ressentimento”. E com este ponto de partida nos fica bem claro que o título da matéria pode muito bem ser um xingamento quando a pessoa está a desabafar a respeito de algum comportamento inadequado da outra parte. Pelo menos é sempre assim que pensa quem “fala” está frase tão despolida.</br>
 </br>
 Notemos que o valor que a pessoa dá ao palavrão não está no singular, embora a frase esteja. Ela estende para a origem familiar daquele que está, segundo seu modo de ver, fazendo algo que não está de acordo. Não estamos aqui a defender alguma das partes somente e sim as duas, porque dentro do contexto que nos pede Jesus para vivermos seu evangelho e conforme relembramos neste trecho da carta aos Efésios que acabamos de ler no início do artigo, fica claro que o importante é não pecar, em circunstância nenhuma. É como diz o versículo: mesmo em cólera, mesmo quando estivermos com aquela raiva que nos faz soltar pela boca palavras que não conseguiremos jamais resgatar e que após lançadas irão semear o bem ou o mal onde ela for parar.</br>

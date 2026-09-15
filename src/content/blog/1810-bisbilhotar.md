@@ -4,7 +4,8 @@ date: 2017-11-21T10:41:00.001Z
 heroImage: "/images/posts/1810-bisbilhotar-bisbilhotar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1810-bisbilhotar-bisbilhotar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="305" height="284" src="/images/posts/1810-bisbilhotar-bisbilhotar.png" width="320" /></a></div>
+![](/images/posts/1810-bisbilhotar-bisbilhotar.png)
+
 Quem mexe no lixo dos outros vai acabar arrumando problemas, já dizia um personagem do filme de ação/ficção Rambo IV. Jesus, transportando para a nossa realidade física/espiritual, vai nos dizer que não devemos nos preocupar com o cisco no olho do irmão antes de nos preocuparmos com a trave em nossos olhos. Preocupar-se em salvar uma alma, não se omitindo perante o erro é um ato de caridade, assim como a omissão nos será cobrada, pois Deus não quer uma multidão de filhos infiéis e inúteis, aprendemos em Eclesiástico.
 
 Seja como for, as vezes parece que existe uma correlação entre estar desocupado e se ocupar com a vida dos outros. A curiosidade pelo alheio, a fome pela fofoca, pelo “você sabia” e pelo “ouvi falar”, boatos e outras leviandades despejadas através de línguas envenenadas e corações soterrados por sentimentos maculados, seguram o espírito acorrentando-o na densa nuvem que lhe impede de progredir no amor e na caridade. Quando isso acontece, se alguma caridade existia, ela se torna automática, uma rotina e seu verdadeiro valor e porquê tende a perder o sentido. As pessoas que bisbilhotam a vida de outrem, ficam sem tempo para amar as pessoas, para se dedicar a Deus, se rezam, não rezam pelos inimigos e vivem na certeza de que estão no caminho certo não percebendo que vivem exatamente no pelagianismo.
@@ -18,6 +19,5 @@ Pois muito bem, temos que concordar com o apóstolo: “não convém que seja as
 Artigo relacionado:
 
 <a href="https://devotos-de-maria.blogspot.com.br/2016/04/o-perigo-da-curiosidade.html" target="_blank">O perigo da curiosidade</a>
-
 
 fonte: Jefferson Roger

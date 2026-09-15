@@ -4,7 +4,9 @@ date: 2022-08-23T16:25:00.003Z
 heroImage: "/images/posts/1776-fraquezas-humanas-fraquezas_20humanas.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1776-fraquezas-humanas-fraquezas_20humanas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="532" data-original-width="513" height="320" src="/images/posts/1776-fraquezas-humanas-fraquezas_20humanas.png" width="309" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa natureza possui, todos já sabemos, grandes fraquezas.
+![](/images/posts/1776-fraquezas-humanas-fraquezas_20humanas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nossa natureza possui, todos já sabemos, grandes fraquezas.
 Sobre isso o apóstolo Paulo vai dizer: “Temos, portanto, um grande Sumo
 Sacerdote que penetrou nos céus, Jesus, Filho de Deus. Conservemos firme a
 nossa fé. Porque não temos nele um pontífice incapaz de compadecer-se das
@@ -40,4 +42,7 @@ nas fraquezas, nas afrontas, nas necessidades, nas perseguições, no profundo
 desgosto sofrido por amor de Cristo. Porque quando me sinto fraco, então é que
 sou forte”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

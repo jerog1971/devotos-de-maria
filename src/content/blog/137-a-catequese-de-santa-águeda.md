@@ -4,7 +4,8 @@ date: 2016-09-02T20:36:00.001Z
 heroImage: "/images/posts/137-a-catequese-de-santa-águeda-agueda.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/137-a-catequese-de-santa-águeda-agueda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/137-a-catequese-de-santa-águeda-agueda.png" width="320" height="316" data-original-width="317" data-original-height="313" /></a></div>
+![](/images/posts/137-a-catequese-de-santa-águeda-agueda.png)
+
 Um dos ensinamentos que esta Santa Italiana nos deixou, em sua passagem aqui pela terra, em completo testemunho de vida (Ela foi submetida a torturas com ferro e fogo. Foi esticada na roda, açoitada, marcada com ferros em brasa. Arrancaram seus seios. Depois, jogaram-na no calabouço sem curativos. Lá, porém, ela teve uma visão de São Pedro com um Anjo que a curou com óleos. Mais tarde ela foi amarrada e arrastada sobre carvão em brasa e vidros) tudo por amor a Jesus até o martírio; foi entre os tantos um que pouco se fala, mas que é de profunda importância pois trata da questão do comportamento cristão no campo dos detalhes.</br>
 </br>
 Dizia assim a Santa em sua catequese: um passarinho ao raiar da primavera, o mesmo com sede de despontar pelos céus em seus voos tão magnificamente projetados pela mão de Deus, assim o pode fazer por conta da sua liberdade que o permite alcançar as alturas das árvores e do céu num belíssimo passeio pelos caminhos invisíveis que a mão de Deus colocou ao seu dispor. Livremente, ele pode sair de seu ninho e ganhar as alturas.</br>

@@ -4,7 +4,8 @@ date: 2019-06-11T16:06:00.003Z
 heroImage: "/images/posts/1198-as-pessoas-esquecem-le_25C3_25A3o_espreitando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1198-as-pessoas-esquecem-le_25C3_25A3o_espreitando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1198-as-pessoas-esquecem-le_25C3_25A3o_espreitando.png" width="320" height="305" data-original-width="301" data-original-height="287" /></a></div>
+![](/images/posts/1198-as-pessoas-esquecem-le_25C3_25A3o_espreitando.png)
+
 Quando Jesus disse para vigiarmos e orarmos sem cessar porque o espírito está pronto, mas a carne é fraca, significa que o teor do aviso possuía e ainda possui uma grande gravidade. São Pedro nos recorda em suas cartas que o demônio está a nossa espreita, sempre procurando um meio de nos apanhar. A lógica é bem simples: bobeou, dançou.</br>
 </br>
 Se não seguimos o que o Cristo nos fala, deixamos de vigiar, ou de orar, ou pior ainda, deixamos de vigiar e orar ao mesmo tempo. Aí, danou-se de vez, presas fáceis na mão do inimigo. E a grande sacada do diabo é que ele faz com que o pecador não o veja como inimigo, ele quer sim, alterar o ponto de vista das pessoas e torna-las como que inimigos de Deus. Busca convencer a todos de que malvado é Deus, o castigador e desmancha prazeres que nos apresenta uma lista imensa de proibições e sofrimentos caso queiramos entrar no céu. Ele, ao contrário, propõe ajudar a cada um que está a fim de alegrias e prazeres no aqui e agora; isso de sofrer é algo ultrapassado.</br>

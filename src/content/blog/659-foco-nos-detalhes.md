@@ -4,7 +4,9 @@ date: 2024-05-24T19:41:00.007Z
 heroImage: "/images/posts/659-foco-nos-detalhes-foco_20nos_20detalhes.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/659-foco-nos-detalhes-foco_20nos_20detalhes.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="/images/posts/659-foco-nos-detalhes-foco_20nos_20detalhes.jpg" width="180" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ser um bom observador ajuda muito. De fato, quando paramos
+![](/images/posts/659-foco-nos-detalhes-foco_20nos_20detalhes.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ser um bom observador ajuda muito. De fato, quando paramos
 para prestar a atenção nas coisas podemos colher bons frutos e perceber os
 frutos ruins que não devemos pegar. Não é novidade a questão, já líamos na bíblia
 que tudo nos é apresentado, mas nem tudo nos convém; também já aprendemos na santa
@@ -38,4 +40,7 @@ preocupação, amor, carinho e bem-querer por parte da família. É um lembrete 
 que o espera ao final do dia, todos de braços abertos. Isso, caso não se tenha
 percebido, é um presente de Deus, uma graça completa: uma família.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

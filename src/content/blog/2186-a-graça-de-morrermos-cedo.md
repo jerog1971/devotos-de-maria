@@ -4,7 +4,9 @@ date: 2022-01-10T02:44:00.002Z
 heroImage: "/images/posts/2186-a-graça-de-morrermos-cedo-img-1538872397.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2186-a-graça-de-morrermos-cedo-img-1538872397.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="508" height="320" src="/images/posts/2186-a-graça-de-morrermos-cedo-img-1538874288.jpg" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, quando alguém se vai em idade não avançada alguns
+![](/images/posts/2186-a-graça-de-morrermos-cedo-img-1538874288.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois é, quando alguém se vai em idade não avançada alguns
 dizem que morreu cedo, que tinha uma vida inteira pela frente. Outros arriscam
 questionar porque os maus vivem mais tempo que muitos bons e lhes é permitido
 viverem por mais tempo suas maldades do que os bons as suas bondades, inclusive
@@ -34,4 +36,7 @@ Deus às suas paixões desregradas (carta aos Romanos), vivem a cada dia a oport
 de se arrependerem, se converterem e se tornarem como os bons, para um dia
 gozarem da presença de Deus e da felicidade eterna.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

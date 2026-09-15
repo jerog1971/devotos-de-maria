@@ -4,7 +4,11 @@ date: 2020-06-08T12:55:00.001Z
 heroImage: "/images/posts/1170-do-humilde-pensar-em-si-mesmo-sofrimento.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1170-do-humilde-pensar-em-si-mesmo-sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" src="/images/posts/1170-do-humilde-pensar-em-si-mesmo-sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todo homem tem desejo natural de saber; mas que aproveitará
+<br />
+
+![](/images/posts/1170-do-humilde-pensar-em-si-mesmo-sofrimento.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todo homem tem desejo natural de saber; mas que aproveitará
 a ciência, sem o temor de Deus? Melhor é, por certo, o humilde camponês que
 serve a Deus, do que o filósofo soberbo que observa o curso dos astros, mas se
 descuida de si mesmo. Aquele que se conhece bem despreza-se e não compraz em
@@ -37,5 +41,5 @@ faltas graves, nem por isso te deves julgar melhor, pois não sabes quanto tempo
 poderás perseverar no bem. Nós todos somos fracos, mas a ninguém deves
 considerar mais fraco que a ti mesmo.</p>
 
-<p class="MsoNormal">Fonte:<span style="mso-spacerun: yes;">&nbsp; </span>Tomás de
+<p class="MsoNormal">Fonte:<span style="mso-spacerun: yes;">  </span>Tomás de
 Kempis</p></div>

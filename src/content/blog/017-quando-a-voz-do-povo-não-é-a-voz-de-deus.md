@@ -4,11 +4,9 @@ date: 2021-12-07T20:31:00.003Z
 heroImage: "/images/posts/017-quando-a-voz-do-povo-não-é-a-voz-de-deus-AVvXsEiYl_HT8HmwWD96SRKKUfMGuNQjAyCY_B-Uy-VuXUq-Eut-wUNF-NRwvXHqNlOQbitqlSOy2xQQVbFQLBJGOGzNb0-IXnBgsjQcZXRtiE552tE_uUwOwqVYrrACwYYAx0vVpnJx7mLvISr2X0WRsKWcsfMVnu_MIXaYOalaJT24xjmiQUC7VrT4LpO2_s343.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/017-quando-a-voz-do-povo-não-é-a-voz-de-deus-AVvXsEiYl_HT8HmwWD96SRKKUfMGuNQjAyCY_B-Uy-VuXUq-Eut-wUNF-NRwvXHqNlOQbitqlSOy2xQQVbFQLBJGOGzNb0-IXnBgsjQcZXRtiE552tE_uUwOwqVYrrACwYYAx0vVpnJx7mLvISr2X0WRsKWcsfMVnu_MIXaYOalaJT24xjmiQUC7VrT4LpO2_s343.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="343" data-original-width="223" height="385" src="/images/posts/017-quando-a-voz-do-povo-não-é-a-voz-de-deus-AVvXsEiYl_HT8HmwWD96SRKKUfMGuNQjAyCY_B-Uy-VuXUq-Eut-wUNF-NRwvXHqNlOQbitqlSOy2xQQVbFQLBJGOGzNb0-IXnBgsjQcZXRtiE552tE_uUwOwqVYrrACwYYAx0vVpnJx7mLvISr2X0WRsKWcsfMVnu_MIXaYOalaJT24xjmiQUC7VrT4LpO2_w250-h385.jpg" width="250" /></a>&nbsp;Ouve-se dizer que a voz do povo é a voz de Deus, ouve-se
-dizer também que os ditados populares são outra forma de ouvirmos a palavra de
-Deus. Sabe-se, porém, que a igreja de Nosso Senhor Jesus Cristo – Mateus 16,18
-– é regida pelo rei dos reis num reinado, que lemos nas sagradas escrituras,
-que não terá fim.</div><p></p><p class="MsoNormal"><o:p></o:p></p><p class="MsoNormal">Nesta igreja de nosso Senhor Jesus Cristo, os eleitos,
+![](/images/posts/017-quando-a-voz-do-povo-não-é-a-voz-de-deus-AVvXsEiYl_HT8HmwWD96SRKKUfMGuNQjAyCY_B-Uy-VuXUq-Eut-wUNF-NRwvXHqNlOQbitqlSOy2xQQVbFQLBJGOGzNb0-IXnBgsjQcZXRtiE552tE_uUwOwqVYrrACwYYAx0vVpnJx7mLvISr2X0WRsKWcsfMVnu_MIXaYOalaJT24xjmiQUC7VrT4LpO2_w250-h385.jpg)
+
+<p class="MsoNormal"><o:p></o:p></p><p class="MsoNormal">Nesta igreja de nosso Senhor Jesus Cristo, os eleitos,
 elevados à estatura de filhos de Deus pelo batismo, herdeiros, portanto, do
 reino dos céus, possuem o dever bíblico de serem imitadores do Cristo (1ª
 Coríntios 11,1). Sendo assim, o criador espera de cada um que nos comportemos
@@ -44,12 +42,11 @@ tropeço, ele perecerá. Se não o advertires, ele morrerá por causa do seu
 delito, sem que sejam tomadas em conta as boas obras que anteriormente
 praticou, e é a ti que pedirei conta do seu sangue. Ao contrário, se advertires
 ao justo que se abstenha do pecado, e ele não pecar, então ele viverá, graças à
-tua advertência, e tu, assim, terás salvo a tua vida”.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/017-quando-a-voz-do-povo-não-é-a-voz-de-deus-AVvXsEjVmnx9qAO3IaD0X70hPX5jVBjew2fmC-erehif_Yl8ZDP9ZgXQQ0CCd0w1aZ3A_g3DVqbj8mcusFFjVuI3ISDAGPlKCj-zgOhd3JbDhvCTq8tBu1-NqFVUe2cgXwVU6R2I0H3oP0wMet4t88NIJgR43hJlz1mRPNjvnXG2jtHGEEJ9T-ZChEcvZRuf_s1280.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="720" data-original-width="1280" height="180" src="/images/posts/017-quando-a-voz-do-povo-não-é-a-voz-de-deus-AVvXsEjVmnx9qAO3IaD0X70hPX5jVBjew2fmC-erehif_Yl8ZDP9ZgXQQ0CCd0w1aZ3A_g3DVqbj8mcusFFjVuI3ISDAGPlKCj-zgOhd3JbDhvCTq8tBu1-NqFVUe2cgXwVU6R2I0H3oP0wMet4t88NIJgR43hJlz1mRPNjvnXG2jtHGEEJ9T-ZChEcvZRuf_s320.jpg" width="320" /></a></div><br /><p class="MsoNormal"><br /></p><p>
+tua advertência, e tu, assim, terás salvo a tua vida”.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p>
 
+![](/images/posts/017-quando-a-voz-do-povo-não-é-a-voz-de-deus-AVvXsEjVmnx9qAO3IaD0X70hPX5jVBjew2fmC-erehif_Yl8ZDP9ZgXQQ0CCd0w1aZ3A_g3DVqbj8mcusFFjVuI3ISDAGPlKCj-zgOhd3JbDhvCTq8tBu1-NqFVUe2cgXwVU6R2I0H3oP0wMet4t88NIJgR43hJlz1mRPNjvnXG2jtHGEEJ9T-ZChEcvZRuf_s320.jpg)
 
+<br /><p class="MsoNormal"><br /></p>
 
+<br /> 
 
-
-
-
-<br />&nbsp;</p>

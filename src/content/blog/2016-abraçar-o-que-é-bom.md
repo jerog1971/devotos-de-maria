@@ -4,7 +4,9 @@ date: 2021-05-15T18:34:00.004Z
 heroImage: "/images/posts/2016-abraçar-o-que-é-bom-abra_25C3_25A7o_quentinho.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2016-abraçar-o-que-é-bom-abra_25C3_25A7o_quentinho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="447" data-original-width="335" height="320" src="/images/posts/2016-abraçar-o-que-é-bom-abra_25C3_25A7o_quentinho.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">1ª Tessalonincenses 5,21 – “Examinai tudo: abraçai o que é
+![](/images/posts/2016-abraçar-o-que-é-bom-abra_25C3_25A7o_quentinho.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">1ª Tessalonincenses 5,21 – “Examinai tudo: abraçai o que é
 bom”. Isso, quanto a doutrina, nos exorta o apóstolo, pois, se uma relação com
 o ensino divino não for feita, esse “o que é bom” corre o risco de ser
 relativizado e começa a se abraçar o que é bom segundo princípios e desejos
@@ -39,4 +41,7 @@ não nos pertence e não precisamos. Se conscientes disso, ainda assim buscamos,
 obtemos prejudicamos a vida da graça, tão necessária para o céu eterno. São escolhas
 que temos que fazer.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2022-06-22T15:37:00.003Z
 heroImage: "/images/posts/2184-cansado-da-vida-sofrimento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2184-cansado-da-vida-sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="/images/posts/2184-cansado-da-vida-sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida do sujeito que almeja ir ao céu, diariamente não
+![](/images/posts/2184-cansado-da-vida-sofrimento.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A vida do sujeito que almeja ir ao céu, diariamente não
 passa de um grande martírio. De fato, já diziam os santos, que é um grande
 pesar e uma tortura diária viver nesse mundo. Ora bolas, não é de se espantar, o
 apóstolo Paulo dizia que morrer é lucro, mas também nos recordava que as
@@ -41,4 +43,7 @@ para que não caiamos (1ª Coríntios). Todo esforço que fizermos na direção
 certa, por mais que o inimigo queira demonstrar que é em vão, não passará
 despercebido ao olhar de Deus, que vê no oculto e enxerga os corações.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

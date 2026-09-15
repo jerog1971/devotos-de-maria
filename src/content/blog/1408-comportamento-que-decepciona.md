@@ -4,7 +4,9 @@ date: 2021-03-17T14:49:00.001Z
 heroImage: "/images/posts/1408-comportamento-que-decepciona-comportamento_que_decepciona.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1408-comportamento-que-decepciona-comportamento_que_decepciona.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="437" src="/images/posts/1408-comportamento-que-decepciona-comportamento_que_decepciona.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Alguns sites de notícias pela internet em relação ao assunto
+![](/images/posts/1408-comportamento-que-decepciona-comportamento_que_decepciona.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Alguns sites de notícias pela internet em relação ao assunto
 pandemia, tem publicado alguns artigos onde médicos, como o diretor Paulo
 Chapchap do Hospital Sírio Libanês em São Paulo, em entrevista a BBC News
 Brasil, que estão atuando na linha de frente desabafam suas indignações frente
@@ -58,6 +60,9 @@ comportamento decepciona as pessoas, o outro, a Deus.<o:p></o:p></p>
 
 <p class="MsoNormal">Arquivo relacionado:<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;<a href="https://www.bandab.com.br/saude/comportamento-da-populacao-na-pandemia-decepciona-diz-diretor-do-sirio-libanes/" target="_blank">Médico fala de comportamento durante a pandemia</a></o:p></p>
+<p class="MsoNormal"><o:p> <a href="https://www.bandab.com.br/saude/comportamento-da-populacao-na-pandemia-decepciona-diz-diretor-do-sirio-libanes/" target="_blank">Médico fala de comportamento durante a pandemia</a></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

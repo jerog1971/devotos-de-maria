@@ -4,7 +4,9 @@ date: 2022-08-01T20:10:00.005Z
 heroImage: "/images/posts/2136-a-vida-está-terminando-img-1177487619.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2136-a-vida-está-terminando-img-1177487619.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="525" data-original-width="526" height="319" src="/images/posts/2136-a-vida-está-terminando-img-1994975099.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Outro mês começa e neste novo dia o exame diário de
+![](/images/posts/2136-a-vida-está-terminando-img-1994975099.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Outro mês começa e neste novo dia o exame diário de
 consciência, voltado para os novíssimos de cada um, estabelece que estamos um
 dia mais próximos da morte; a transformadora morte, tão necessária como último
 recurso punitivo para assegurar a entrada de cada um ao paraíso, ou, de acordo
@@ -38,4 +40,7 @@ devíamos estar fazendo desde ontem. A vida eterna ainda não começou, embora
 seja um acontecimento certo, cabe a cada um fazer dessa certeza, em sua vida,
 um acontecimento bom no céu ou um acontecimento ruim no inferno.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

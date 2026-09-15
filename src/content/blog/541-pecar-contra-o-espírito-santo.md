@@ -4,7 +4,8 @@ date: 2015-10-30T19:15:00Z
 heroImage: "/images/posts/541-pecar-contra-o-espírito-santo-condenado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/541-pecar-contra-o-espírito-santo-condenado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/541-pecar-contra-o-espírito-santo-condenado.png" width="320" height="304" data-original-width="201" data-original-height="191" /></a></div>
+![](/images/posts/541-pecar-contra-o-espírito-santo-condenado.png)
+
 </br>
 Mateus 12,31 - Por isso, eu vos digo: todo pecado e toda blasfêmia serão perdoados aos homens, mas a blasfêmia contra o Espírito não lhes será perdoada.</br>
 </br>

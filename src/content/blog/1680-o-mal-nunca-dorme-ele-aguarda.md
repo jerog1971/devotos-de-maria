@@ -4,7 +4,9 @@ date: 2022-09-02T16:29:00.004Z
 heroImage: "/images/posts/1680-o-mal-nunca-dorme-ele-aguarda-o_20mal_20nunca_20dorme.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1680-o-mal-nunca-dorme-ele-aguarda-o_20mal_20nunca_20dorme.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="428" data-original-width="593" height="231" src="/images/posts/1680-o-mal-nunca-dorme-ele-aguarda-o_20mal_20nunca_20dorme.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é à toa que Jesus nos disse para sermos vigilantes.
+![](/images/posts/1680-o-mal-nunca-dorme-ele-aguarda-o_20mal_20nunca_20dorme.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não é à toa que Jesus nos disse para sermos vigilantes.
 Remetamos ao conhecimento que temos sobre os vigias, sobretudo os vigias noturnos.
 Também lembremos da parábola das virgens prudentes, dita por Jesus e também de seu
 ensinamento sobre o ladrão que, se o dono soubesse a hora, defenderia em sua
@@ -28,4 +30,7 @@ promovido pelas ofertas pecaminosas, sempre apresentadas em pratos saborosos.
 Não importa, a guerra declarada existe, nós estamos no meio dela, nos cabe uma
 escolha e o mal, vamos frisar outra vez: nunca dorme, ele aguarda.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

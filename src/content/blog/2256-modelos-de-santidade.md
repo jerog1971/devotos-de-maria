@@ -4,7 +4,9 @@ date: 2021-05-15T18:33:00.003Z
 heroImage: "/images/posts/2256-modelos-de-santidade-modelos_de_santidade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2256-modelos-de-santidade-modelos_de_santidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="664" data-original-width="892" src="/images/posts/2256-modelos-de-santidade-modelos_de_santidade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sede imitadores de Cristo – 1ª Coríntios 11,1, Efésios 5,1.
+![](/images/posts/2256-modelos-de-santidade-modelos_de_santidade.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sede imitadores de Cristo – 1ª Coríntios 11,1, Efésios 5,1.
 O modelo de santidade por excelência. Muitos adotam em suas vidas a técnica de
 contrapor a vida sob as decisões do Cristo. Agem assim: o que Jesus faria? O
 que Jesus diria? Como Jesus agiria? Como responderia? Como isso, como aquilo,
@@ -37,4 +39,7 @@ meio, metade bom e metade ruim, para agir conforme pede a situação. Em suma, s
 queremos seguir Jesus, qualquer situação não precisa pedir nada porque sempre
 teremos que agir segundo o modelo que é Jesus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2019-06-25T17:17:00.002Z
 heroImage: "/images/posts/844-a-coisa-está-ficando-preta-sacril_25C3_25A9gio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/844-a-coisa-está-ficando-preta-sacril_25C3_25A9gio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/844-a-coisa-está-ficando-preta-sacril_25C3_25A9gio.png" width="320" height="313" data-original-width="605" data-original-height="591" /></a></div>
+![](/images/posts/844-a-coisa-está-ficando-preta-sacril_25C3_25A9gio.png)
+
 Possivelmente podemos arriscar dizer que em cada geração, esta sente que é a última que está passando pela terra. Desde os tempos bíblicos e porque não dizer antes até, todo tipo de maluquice tem acontecido em relação ao modo de agir do ser humano. Em tempos que estamos vivendo, a situação parece não ser diferente. Basta uma passadinha por vários sites respeitados de notícias pelo mundo afora para se constatar o que aqui estamos escrevendo.</br>
 </br>
 São redes televisivas sugerindo que blasfêmias merecem punição, políticos sugerindo leis que punem os blasfemadores em relação as divindades variadas, porém, por outro lado, existem países abolindo leis que puniam os blasfemadores, como é o caso da Dinamarca e mais recentemente da Grécia. Talvez muitos não saibam, mas os mulçumanos já acusaram a Nike por causa de comercial de tênis que pisa em Alá. Para nós, esse pontinho no universo que chamamos de planeta Terra é imenso, e com tanta gente achando que é o dono da verdade e unindo-se àqueles que compactuam dos mesmos ideais, o eterno confronto que até aqui se realiza entre o bem e o mal segue de vento em polpa. Existem até países que não mencionam mais Deus em seus juramentos para assumir cargos políticos, aboliram crucifixos em tribunais e assim por diante. Pois é, a coisa está ficando preta mesmo, vinde logo Senhor Jesus.</br>

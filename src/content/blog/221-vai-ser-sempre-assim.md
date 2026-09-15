@@ -4,7 +4,11 @@ date: 2020-05-29T15:06:00.003Z
 heroImage: "/images/posts/221-vai-ser-sempre-assim-img-678709718.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/221-vai-ser-sempre-assim-img-678709718.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="387" data-original-width="449" src="/images/posts/221-vai-ser-sempre-assim-img-678709718.jpgs320/sempre_assim.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se uma pessoa marca um encontro, um compromisso, uma
+<br />
+
+![](/images/posts/221-vai-ser-sempre-assim-img-678709718.jpgs320/sempre_assim.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se uma pessoa marca um encontro, um compromisso, uma
 reunião, enfim, algum acontecimento que esteja definido para acontecer em
 determinado horário, é demasiado respeitoso que os envolvidos tenham o apreço
 de comparecer no local e hora marcada. Afinal, já dizia o ditado que o “combinado

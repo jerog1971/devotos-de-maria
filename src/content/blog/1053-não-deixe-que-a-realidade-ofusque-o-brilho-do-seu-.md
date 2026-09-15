@@ -4,7 +4,8 @@ date: 2019-05-14T16:08:00.002Z
 heroImage: "/images/posts/1053-não-deixe-que-a-realidade-ofusque-o-brilho-do-seu--encontradoporjesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1053-não-deixe-que-a-realidade-ofusque-o-brilho-do-seu--encontradoporjesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1053-não-deixe-que-a-realidade-ofusque-o-brilho-do-seu--encontradoporjesus.png" width="320" height="302" data-original-width="401" data-original-height="378" /></a></div>
+![](/images/posts/1053-não-deixe-que-a-realidade-ofusque-o-brilho-do-seu--encontradoporjesus.png)
+
 A vida, como qualquer pessoa já deve ter constatado, gosta muito de destruir os sonhos das pessoas. Até parece que um dos seus passatempos predileto é justamente este: impedir que os sonhos se realizem. Sem dúvida essa é a impressão que as pessoas têm. Ou alguém acha o contrário e defende a tese de que basta sonhar que de forma quase mágica tudo aquilo que você imaginou irá acontecer? Não é assim não é mesmo, ao contrário, é bem diferente.</br>
 </br>
 No entanto, é preciso perceber que os sonhos estão divididos em desejos e anseios. A diferença entre eles é imensa embora exista em princípio uma semelhança no exterior e no sentir. Porém, para simplificarmos a questão e colocarmos nos trilhos da questão espiritual cristã, vamos logo enfatizando que o desejo está mais relacionado com o material e o anseio com o espiritual. Vamos exemplificar.</br>

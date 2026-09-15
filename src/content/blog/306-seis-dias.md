@@ -4,7 +4,9 @@ date: 2023-11-13T18:27:00.002Z
 heroImage: "/images/posts/306-seis-dias-seis_20dias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/306-seis-dias-seis_20dias.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="382" data-original-width="444" height="275" src="/images/posts/306-seis-dias-seis_20dias.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia que Deus criou o mundo em seis dias e no
+![](/images/posts/306-seis-dias-seis_20dias.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lemos na bíblia que Deus criou o mundo em seis dias e no
 sétimo descansou. Daqui a seis dias irei comemorar o meu marco, já venho
 falando sobre isso faz três artigos e no domingo próximo o dia chegará. Não como
 a jornada divina de seis dias, pois a jornada que estou contando, muito
@@ -39,4 +41,7 @@ Assim é na vida, não adianta forçar a barra, remar contra a maré, dar murro 
 ponta de faca. Deus dita os termos de nossas vidas e nós aceitamos ou
 inutilmente nos rebelamos, igualzinho fez e faz o diabo todos os dias.<o:p></o:p></p><p class="MsoNormal">Artigos anteriores:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/so-mais-uma-semana.html" target="_blank">3 - Só mais uma semana</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-dia-menos.html" target="_blank">2 - Um dia a menos</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

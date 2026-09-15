@@ -4,7 +4,9 @@ date: 2021-06-30T16:39:00.003Z
 heroImage: "/images/posts/1409-dificuldades-e-desigualdades-dificuldades.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1409-dificuldades-e-desigualdades-dificuldades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="608" data-original-width="673" src="/images/posts/1409-dificuldades-e-desigualdades-dificuldades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ouve-se no meio do povo que todos são iguais perante Deus;
+![](/images/posts/1409-dificuldades-e-desigualdades-dificuldades.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ouve-se no meio do povo que todos são iguais perante Deus;
 de fato isso é verdade e até atestado está nas sagradas escrituras: “Deus não
 faz distinção de pessoas” – Atos 10,34. Da parte do altíssimo então, a mensagem
 é que as moradas celestes foram criadas para todos. Quando na bíblia lemos sobre
@@ -36,4 +38,7 @@ podem recompensa-lo com um pesar muito maior: o sofrimento eterno da alma. Ecles
 preceitos, é este o dever de todo homem. Deus fará prestar contas de tudo o que
 está oculto, todo ato, seja ele bom ou mau”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

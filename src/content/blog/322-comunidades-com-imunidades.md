@@ -4,7 +4,8 @@ date: 2019-04-29T15:46:00.002Z
 heroImage: "/images/posts/322-comunidades-com-imunidades-Comunidades_com_imunidades.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/322-comunidades-com-imunidades-Comunidades_com_imunidades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/322-comunidades-com-imunidades-Comunidades_com_imunidades.png" width="320" height="320" data-original-width="355" data-original-height="355" /></a></div>
+![](/images/posts/322-comunidades-com-imunidades-Comunidades_com_imunidades.png)
+
 A palavra imunidade é bem conhecida, de forma geral, pela humanidade. Certamente já se ouviu dizer que um vírus muito letal é imune aos tratamentos que visam combate-lo e extermina-lo. Pois bem, o vírus pode fazer o que bem entender dentro do corpo humano que nada pode empreender uma luta vitoriosa contra ele. Este desafio que o corpo não consegue vencer sozinho, algumas vezes, infelizmente, perde também o combate mesmo com a ajuda de medicamentos externos. A batalha pela vida muitas vezes é microscópica.</br>
 </br>
 Muitos não param para refletir sobre essa realidade. A vaidade do corpo pode ser colocada na lona muito facilmente; podemos de saudáveis e galopantes terminarmos os últimos dias como vegetais numa cama não conseguindo sequer urinar por vontade própria, comer ou ir ao banheiro. </br>

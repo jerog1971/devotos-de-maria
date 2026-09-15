@@ -4,7 +4,9 @@ date: 2016-03-23T14:53:00.001Z
 heroImage: "/images/posts/209-o-pecado-pecado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/209-o-pecado-pecado.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="360" data-original-width="478" height="241" src="/images/posts/209-o-pecado-pecado.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
+![](/images/posts/209-o-pecado-pecado.png)
+
+<div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
 Olá caros leitores, transcrevo para meu blog uma excelente reflexão sobre o conceito de pecado que a sociedade insiste em promover nas pessoas feita pelo sacerdote Padre Paulo Ricardo, atualmente vigário da paróquia Cristo Rei em Cuiabá:
 
 “Este é um conceito que as pessoas precisam aprender a reelaborar: “O que é pecado?” As pessoas pensam que pecado é uma coisa boa, gostosa, legal, mas que Deus a proibiu porque Ele é “chato”. Como se Ele fosse um “estraga-prazeres” que acordou mal-humorado e disse: “Quer saber? Vou proibir um bando de coisas para aquele povo lá na terra!”. Não é nada disso! As pessoas precisam entender que a coisa é pecado porque ela nos destrói. O veneno é mortal porque ele é mortífero.<div><br /></div><div>O sexo fora do matrimônio faz mal não porque a Igreja proíbe. Não vai acontecer, mas vamos supor que a Igreja dissesse: “Gente, tá liberado. Todo o mundo agora fazendo sexo!”. Ainda assim estaria fazendo mal porque Deus fez o sexo para quando há compromisso.

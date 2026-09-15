@@ -4,7 +4,8 @@ date: 2015-12-17T13:55:00.002Z
 heroImage: "/images/posts/405-mais-sobre-a-fumaça-de-satanás-na-ig-img-775828649.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/405-mais-sobre-a-fumaça-de-satanás-na-ig-img-775828649.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/405-mais-sobre-a-fumaça-de-satanás-na-ig-img-1352001347.png" width="320" height="284" data-original-width="284" data-original-height="252" /></a></div>
+![](/images/posts/405-mais-sobre-a-fumaça-de-satanás-na-ig-img-1352001347.png)
+
 </br>
 Olá caros leitores, no século XV, Nossa Senhora do Bom Sucesso profetiza a crise na Igreja, "calando-se quem deveria falar" e o desprezo pela a eucaristia. Ela nos fala: "Quase não se encontrará a inocência nas crianças nem pudor nas mulheres, e nessa suprema necessidade da Igreja, calar-se-á aquele a quem competia a tempo falar". (II, 7)</br>
 </br>

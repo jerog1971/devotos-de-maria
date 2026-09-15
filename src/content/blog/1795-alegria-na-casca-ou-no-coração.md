@@ -4,7 +4,9 @@ date: 2023-02-20T01:39:00.004Z
 heroImage: "/images/posts/1795-alegria-na-casca-ou-no-coração-a_20alegria_20dos_20santos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1795-alegria-na-casca-ou-no-coração-a_20alegria_20dos_20santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="419" data-original-width="452" height="297" src="/images/posts/1795-alegria-na-casca-ou-no-coração-a_20alegria_20dos_20santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Os santos passavam por tribulações tremendas aqui nessa
+![](/images/posts/1795-alegria-na-casca-ou-no-coração-a_20alegria_20dos_20santos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Os santos passavam por tribulações tremendas aqui nessa
 terra e, no entanto, tinham sempre no fundo do seu coração uma alegria que não
 se apagava. Enquanto as pessoas que vivem no pecado têm uma alegria externa e
 uma tristeza lá no fundo da alma. Não sei se você já parou para ver isto;
@@ -32,4 +34,7 @@ de pedir e não receber, receber quando quis ou como pediu. Isso só nos comprov
 que Deus dita as regras e a felicidade que dele provém não alimenta a casca e
 sim o coração.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

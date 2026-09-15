@@ -4,7 +4,9 @@ date: 2022-09-11T00:59:00Z
 heroImage: "/images/posts/1879-prisões-perpétuas-pris_C3_B5es_20perp_C3_A9tuas.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1879-prisões-perpétuas-pris_C3_B5es_20perp_C3_A9tuas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="243" data-original-width="242" height="243" src="/images/posts/1879-prisões-perpétuas-pris_C3_B5es_20perp_C3_A9tuas.png" width="242" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus disse que na recaída nosso estado é sete vezes pior do
+![](/images/posts/1879-prisões-perpétuas-pris_C3_B5es_20perp_C3_A9tuas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus disse que na recaída nosso estado é sete vezes pior do
 que a primeira queda. Isso é um aviso para lá de importante, pois, como se lê
 na bíblia, pecado gera pecado e este apresenta como salário a morte. A segunda
 morte, a morte da alma, reservada para os que não escolheram seguir o evangelho
@@ -25,4 +27,7 @@ pode mesmo e isso que nos atesta é Jesus Cristo que disse que é impossível ao
 homem se salvar porque sem ele (Jesus Cristo) nada podeis fazer (João 15,5).
 Para solucionar por fim a causa disse que para Deus tudo é possível.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

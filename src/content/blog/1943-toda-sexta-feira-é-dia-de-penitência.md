@@ -4,7 +4,8 @@ date: 2016-09-30T12:44:00Z
 heroImage: "/images/posts/1943-toda-sexta-feira-é-dia-de-penitênci-penitencia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1943-toda-sexta-feira-é-dia-de-penitênci-penitencia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1943-toda-sexta-feira-é-dia-de-penitênci-penitencia.png" width="320" height="181" data-original-width="710" data-original-height="402" /></a></div>
+![](/images/posts/1943-toda-sexta-feira-é-dia-de-penitênci-penitencia.png)
+
 Entre as várias formas de penitência interior, entre elas encontramos o jejum e a abstinência que encontram no catecismo da igreja católica a seguinte explicação em seu número 1431:</br>
 </br>
 Uma reorientação radical de toda a vida, um retorno, uma conversão para Deus de todo nosso coração, uma ruptura com o pecado, uma aversão ao mal e repugnância às mãs obras que cometemos. Ao mesmo tempo, é o desejo e a resolução de mudar de vida com a esperança da misericórdia divina e a confiança na ajuda de sua graça. Esta conversão do coração vem acompanhada de uma dor e de uma tristeza salutares chamadas pelos Padres de aflição do espírito, arrependimento do coração.</br>

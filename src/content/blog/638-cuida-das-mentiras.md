@@ -4,7 +4,8 @@ date: 2016-01-25T19:32:00Z
 heroImage: "/images/posts/638-cuida-das-mentiras-mentir.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/638-cuida-das-mentiras-mentir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/638-cuida-das-mentiras-mentir.png" width="320" height="320" data-original-width="224" data-original-height="224" /></a></div>
+![](/images/posts/638-cuida-das-mentiras-mentir.png)
+
 </br>
 “Cuida-te para não dizeres mentira alguma, pois o costume de mentir é coisa má”. Este versículo caros leitores é o versículo 14, retirado do capítulo 7 do livro do Eclesiástico. Assim como o livro dos Provérbios, este livro possui grandes ensinamentos encontrados em toda a sagrada escritura e com o versículo em questão que estamos a meditar, não poderia ser diferente. Mesmo que não fosse contextualizado facilmente uma pequena educação apoiada em bons, sensatos e honestos princípios poderia e pode apontar que, esse negócio de mentir não é coisa boa.</br>
 </br>

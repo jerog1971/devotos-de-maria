@@ -4,7 +4,9 @@ date: 2023-07-25T18:50:00.003Z
 heroImage: "/images/posts/2096-devotos-do-mal-devoto_20do_20mal.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2096-devotos-do-mal-devoto_20do_20mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="470" data-original-width="481" height="313" src="/images/posts/2096-devotos-do-mal-devoto_20do_20mal.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente, quando em 1973, os cinemas do mundo lotaram para
+![](/images/posts/2096-devotos-do-mal-devoto_20do_20mal.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente, quando em 1973, os cinemas do mundo lotaram para
 ver o filme O Exorcista, uma coisa, muito além da curiosidade e outros desejos,
 parece certo que as pessoas, podemos quem sabe elencar desta forma, queriam
 assistir a luta do bem contra o mal, representada nas telonas como algo que a
@@ -38,4 +40,7 @@ nossa escolha quanto a isso nunca mude para que possamos continuar felizes dia
 após dia porque Deus nunca irá apagar da existência aqueles que o amam, o
 servem, vivem a sua vontade e lutam até o sangue contra o pecado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

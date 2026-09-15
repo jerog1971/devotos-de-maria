@@ -4,7 +4,8 @@ date: 2018-03-31T00:24:00.001Z
 heroImage: "/images/posts/1697-quem-é-ela-precisar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1697-quem-é-ela-precisar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="273" height="309" src="/images/posts/1697-quem-é-ela-precisar.png" width="320" /></a></div>
+![](/images/posts/1697-quem-é-ela-precisar.png)
+
 Saiu a passear, sem destino e sem rumo, iria passear, apenas isso. Feriado talvez, não se sabe, mas isso não importava, importava que iria passear. E assim começou, a moça surda e muda, com alguns dedos faltando, roupa simples e chinelo de dedo andava feliz da vida em seu passeio. Tilintava seus pequenos passos como se cantarolasse apenas músicas preferidas que nunca ouvira.
 
 Mas adiante, deparou-se com um grupo de outras moças, estas belas e bem vestidas que também brincavam em meio ao bosque. As moças debocharam de suas vestes e a ignoraram por causa de seus defeitos. Entristecida compreendeu as más atitudes e as perdoou de coração, pois ainda assim, passeava.
@@ -19,7 +20,8 @@ Ao chegar ao ponto do riacho, onde estava a mulher, esta estava presa em meio a 
 
 A menina sorriu, pegou nas mãos da mulher e a abraçou, e gesticulando quis dizer que poderia ser ela mesma a estar ali. Então a mulher ao entender chorou muito, um choro de rancor e orgulho que saía do peito e purificava sua alma. Depois disso seguiram viagem juntas. Logo à frente depararam-se com o vira-lata, com a pata machucada e muito fraco; tinha sido apedrejado com certeza.
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1697-quem-é-ela-amizade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="549" height="303" src="/images/posts/1697-quem-é-ela-amizade.png" width="320" /></a></div>
+![](/images/posts/1697-quem-é-ela-amizade.png)
+
 Nesse ponto a mulher e a menina confortaram o cachorro a beira do carreiro, deram-lhe água do balde da mulher, que havia sido resgatado e limparam seus ferimentos. O cachorro olhou firmemente para as duas como se quisesse dizer obrigado, mas cachorro não fala, porém, demonstra e bastou para que elas entendessem. Continuaram a viagem, a mulher, a menina e o cachorro, carregado pela mulher e o balde pela menina, ainda com água.
 
 Em certo ponto da viagem, depararam-se com os meninos, um caído e o outro ao seu lado chorando sem saber o que fazer.
@@ -37,7 +39,6 @@ A mãe respondeu: o que eu ensino não se enxerga com os olhos, não se escuta c
 Artigo relacionado:
 
 <a href="https://devotos-de-maria.blogspot.com.br/2015/05/amizades.html" target="_blank">Amizades</a>
-
 
 Fonte – Jefferson Roger
 

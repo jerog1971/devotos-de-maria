@@ -4,7 +4,9 @@ date: 2021-12-05T23:25:00Z
 heroImage: "/images/posts/2020-o-que-é-mais-importante-img-857213077.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2020-o-que-é-mais-importante-img-857213077.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1080" height="320" src="/images/posts/2020-o-que-é-mais-importante-img-1357823083.jpg" width="216" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sem dúvida todo mundo tem uma lista das coisas que são mais
+![](/images/posts/2020-o-que-é-mais-importante-img-1357823083.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sem dúvida todo mundo tem uma lista das coisas que são mais
 importantes na vida; também elenca as pessoas que também o são. De fato, o ser
 humano aprende a priorizar tudo e, infelizmente, todos, mas, segundo conceitos que
 podem ser originários do céu ou, distorcidos e/ou originários do mundo, para
@@ -38,4 +40,7 @@ entregar-se por inteiro, corpo, alma e coração, para Deus e viver pela sua
 família e pelo próximo como nosso criador assim quis (Gênesis 2,24 – Mateus 19,6)
 desde o início dos tempos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

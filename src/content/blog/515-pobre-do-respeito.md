@@ -4,7 +4,9 @@ date: 2022-04-18T15:33:00.003Z
 heroImage: "/images/posts/515-pobre-do-respeito-pobre_20do_20respeito.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/515-pobre-do-respeito-pobre_20do_20respeito.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="609" data-original-width="587" height="320" src="/images/posts/515-pobre-do-respeito-pobre_20do_20respeito.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, não vamos ser radicais, ainda existe o respeito no
+![](/images/posts/515-pobre-do-respeito-pobre_20do_20respeito.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Claro, não vamos ser radicais, ainda existe o respeito no
 mundo, mas ele é uma bandeira difícil de se manter hasteada. Respeito é mais um
 dos valores que sofreu e sofre com a ação do tempo. Agora, respeita-se alguém
 quando convém ou não se tem opção. Como o respeito não caminha sozinho, sofre
@@ -43,4 +45,7 @@ ser aquele que serve e que se importa em obedecer antes a Deus que os homens. Ca
 a cada um escolher seu modo de agir, pois “Deus fará prestar contas de tudo o
 que está oculto, todo ato, seja ele bom ou mau” – Eclesiastes 12,14.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

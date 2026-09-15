@@ -4,7 +4,8 @@ date: 2018-12-21T18:27:00.002Z
 heroImage: "/images/posts/683-a-intercessão-de-nossa-senhora-img-151198832.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/683-a-intercessão-de-nossa-senhora-img-151198832.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/683-a-intercessão-de-nossa-senhora-img-184726668.png" width="320" height="232" data-original-width="486" data-original-height="352" /></a></div>
+![](/images/posts/683-a-intercessão-de-nossa-senhora-img-184726668.png)
+
 Collen Willard, ela mora em Chicago e estava doente de um tumor cerebral. A descoberta da doença, que piorava a cada dia fazendo-a emagrecer, aumentar a tireoide e provocando infecções em todo o corpo. Uma descoberta que não abalou a sua fé. Era ela quem dava forças à sua família, marido e filhos de não cair diante das tentações e dores.</br>
 </br>
 O seu cérebro e medula espinhal não respondiam a nenhum tratamento, como afirmavam os especialistas da clínica Mayo, um dos maiores centros de tratamento de câncer no mundo. Colleen não se rendia e desejava ir até Medjugorje: "Não demorou 24 horas veio até mim uma pessoa que tinha feito muitas peregrinações a Medjugorje e disse-me que seria muito agradável ir lá". Mas como isto seria possível?</br>

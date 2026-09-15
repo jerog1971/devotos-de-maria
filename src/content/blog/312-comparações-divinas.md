@@ -4,7 +4,9 @@ date: 2021-12-09T16:07:00.002Z
 heroImage: "/images/posts/312-comparações-divinas-img-1734388143.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/312-comparações-divinas-img-1734388143.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="313" height="207" src="/images/posts/312-comparações-divinas-img-691507632.jpg" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aos cristãos católicos existe o conhecimento – infelizmente não
+![](/images/posts/312-comparações-divinas-img-691507632.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Aos cristãos católicos existe o conhecimento – infelizmente não
 bem vivido por alguns – a respeito dos sacramentos; graças divinas concedidas
 por Deus para auxiliar a vida e caminhada de fé no retorno para a pátria celeste.
 Todos com embasamento bíblico, servem para fortalecer a pessoa no combate
@@ -41,4 +43,7 @@ como a salvação de si mesma. O inferno é sempre derrotado em nossas vidas
 quando Deus nos perdoa, renovamos nossa amizade com ele e voltamos para a vida
 da graça. Não existe comparação quando pensamos isso a nosso respeito.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

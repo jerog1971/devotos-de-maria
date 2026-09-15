@@ -4,7 +4,8 @@ date: 2017-06-05T15:01:00.001Z
 heroImage: "/images/posts/2208-as-dificuldades-corredor.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2208-as-dificuldades-corredor.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="489" height="320" src="/images/posts/2208-as-dificuldades-corredor.png" width="301" /></a></div>
+![](/images/posts/2208-as-dificuldades-corredor.png)
+
 Se existe uma coisa que dá trabalho na vida de alguém são as dificuldades. Elas existem nas mais variadas formas e aparecem quando menos se espera. Podem ser pequenas, podem ser repentinas, podem ser esperadas, podem ser complicadas, podem ser sazonais, podem ser imprevistas, podem ser aguardadas, podem ser muito grandes, podem ser de vários tamanhos e suas durações dependem também de outros fatores.
 
 Existem aquelas que são muito simples de serem resolvidas, ou por ser possível evita-las ou por se saber como se deve tratar o problema que porventura elas possam nos trazer. No entanto, em meio a este emaranhado que são as dificuldades, o ser humano, que está doente por causa do mundo, já que se deixa influenciar pelos míseros prazeres terrenos que dão como recompensa tormentos eternos, prejudicando também as relações interpessoais e as relações com Deus, cria ou rotula alguma coisa como dificuldade quando o que se passa é falta de coragem para encarar a situação. Vejamos:
@@ -24,6 +25,5 @@ Como vemos, dificuldades nos cercam durante a vida, fazem parte das provações,
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/05/haja-paciencia.html" target="_blank">Haja Paciência</a>
-
 
 fonte: Jefferson Roger

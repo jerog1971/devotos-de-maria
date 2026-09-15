@@ -4,7 +4,9 @@ date: 2021-05-31T13:52:00.004Z
 heroImage: "/images/posts/624-temos-um-só-deus-outros_deuses.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/624-temos-um-só-deus-outros_deuses.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="354" data-original-width="365" src="/images/posts/624-temos-um-só-deus-outros_deuses.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Embora o pecado articule e transforme as idolatrias em “novos
+![](/images/posts/624-temos-um-só-deus-outros_deuses.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Embora o pecado articule e transforme as idolatrias em “novos
 deuses”, colocando-as acima do nosso criador, de fato, essas idolatrias
 completam desejos menores, que não podem preencher um coração criado para ser preenchido
 por aquilo que o mantém seguro nas questões que envolvem a salvação das almas.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -34,4 +36,7 @@ amoroso remédio, que é amargo e corretivo, visa nos preparar para a eternidade
 junto de sua glória, onde não haverá mais dor e tristeza e todas as lágrimas
 serão enxugadas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

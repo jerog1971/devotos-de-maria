@@ -4,7 +4,8 @@ date: 2017-05-25T19:51:00Z
 heroImage: "/images/posts/833-conservar-as-certezas-certeza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/833-conservar-as-certezas-certeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/833-conservar-as-certezas-certeza.png" width="320" height="279" data-original-width="237" data-original-height="207" /></a></div>
+![](/images/posts/833-conservar-as-certezas-certeza.png)
+
 Na carta aos Hebreus aprendemos que fé é a certeza a respeito daquilo que não se vê. Um dom de Deus para que possamos viver segundo sua palavra para que, acreditando nele, façamos nossa entrega total ao altíssimo. É preciso sim, ser uma entrega total e não uma entrega com reservas. Quem reserva para si alguma reserva “técnica”, mantendo uma suposta margem de segurança, é alguém que não se abandona em Deus totalmente, mantém um receio até meio influenciado pelo mal.
 Nesta influência a pessoa que sabe que não vai encontrar a felicidade no pecado, continua insistindo, continua mantendo suas cartas na manga por receio de que o que Deus tem a oferecer não corresponda aos seus desejos. O mal traz o imediato prazer e ele lhe ensina a cultivar a preguiça de ser santo. Frente ao mal, que está pulverizado pelo mundo e bem organizado, mal este que oferece uma alternativa de amor que não nos custe o preço da aliança, é preciso focar no amor verdadeiro, que é o amor em Deus, do contrário nosso amor sempre será defeituoso, seja ele pela nossa família, familiares, amigos e pelo próximo.</br>
 </br>

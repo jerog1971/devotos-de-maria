@@ -4,7 +4,9 @@ date: 2021-02-19T18:55:00.002Z
 heroImage: "/images/posts/2166-rogai-por-nós-pecadores-Virgem_Maria.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2166-rogai-por-nós-pecadores-Virgem_Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="719" data-original-width="767" src="/images/posts/2166-rogai-por-nós-pecadores-Virgem_Maria.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A consciência cristã de sua pequenez, fraqueza e miséria
+![](/images/posts/2166-rogai-por-nós-pecadores-Virgem_Maria.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A consciência cristã de sua pequenez, fraqueza e miséria
 humana, aliadas ao fato das próprias culpas e da afirmação de Jesus de que sem
 ele nada podemos fazer (João 15,5), conduz as pobres e humildes almas a pedirem
 constantemente o auxílio celeste. No plano de Deus uma de suas determinações é
@@ -39,4 +41,7 @@ por nós não irá atender favores, irá demonstrar a Deus com seu amor por nós
 que nos quer um dia no céu, pedindo ao altíssimo graças e bênçãos para o aqui e
 agora, porém, visando o acolá: a pátria celeste.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

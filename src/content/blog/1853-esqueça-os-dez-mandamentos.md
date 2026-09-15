@@ -4,7 +4,9 @@ date: 2022-02-18T11:53:00.003Z
 heroImage: "/images/posts/1853-esqueça-os-dez-mandamentos-img-1706122860.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1853-esqueça-os-dez-mandamentos-img-1706122860.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="370" height="308" src="/images/posts/1853-esqueça-os-dez-mandamentos-img-1706122705.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Podemos dizer que a grande maioria das pessoas que de alguma
+![](/images/posts/1853-esqueça-os-dez-mandamentos-img-1706122705.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Podemos dizer que a grande maioria das pessoas que de alguma
 forma se envolvem com Deus ou o que dele procede, termina por conhecer que ele
 propôs para a humanidade mandamentos, que visam o correto comportamento do
 homem para com ele e do homem para com o próximo. O antigo testamento elenca em
@@ -82,4 +84,7 @@ pecados de qualquer natureza e consequentemente a capacidade de observar todos o
 
 <p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal"><o:p> </o:p></p></div>
+
+<br /> 
+

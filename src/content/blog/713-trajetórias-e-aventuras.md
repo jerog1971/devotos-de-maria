@@ -4,7 +4,9 @@ date: 2023-08-22T16:53:00.005Z
 heroImage: "/images/posts/713-trajetórias-e-aventuras-Star_20Trek_20-_20Kirk.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/713-trajetórias-e-aventuras-Star_20Trek_20-_20Kirk.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="424" data-original-width="683" height="199" src="/images/posts/713-trajetórias-e-aventuras-Star_20Trek_20-_20Kirk.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Temos um percurso a percorrer; quando nascemos somos
+![](/images/posts/713-trajetórias-e-aventuras-Star_20Trek_20-_20Kirk.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Temos um percurso a percorrer; quando nascemos somos
 acometidos da primeira e mais certa de todas as certezas: passaremos pela
 experiência da morte. O bondoso Deus, em sua sabedoria infinita faz de tudo
 para que um dia passemos a morar com ele na eternidade, felicidade e glória do
@@ -41,4 +43,7 @@ de Jesus Cristo –, sem dúvida o exemplo dos exemplos para que com essa atitud
 em nossas vidas possamos vive-la audaciosamente e corajosamente sem medo de um
 dia perdermos o céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

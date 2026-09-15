@@ -4,15 +4,16 @@ date: 2025-01-30T18:47:00.001Z
 heroImage: "/images/posts/1309-mude-o-pensamento-para-mudar-as-atitudes-mude_20o_20pensamento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1309-mude-o-pensamento-para-mudar-as-atitudes-mude_20o_20pensamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="270" data-original-width="286" height="270" src="/images/posts/1309-mude-o-pensamento-para-mudar-as-atitudes-mude_20o_20pensamento.png" width="286" /></a></div><br />&nbsp;
+![](/images/posts/1309-mude-o-pensamento-para-mudar-as-atitudes-mude_20o_20pensamento.png)
 
+<br /> 
 
 	
 	
 	
 	
 
-<p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">Seja por impulso ou não, existe a tendência de o ser humano agir
+<p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;">Seja por impulso ou não, existe a tendência de o ser humano agir
 posteriormente a um grau maior ou menor de pensamento. Por mais que
 insista que não, como defender uma tese de que nada veio antes do
 agir? Será? Nenhum pensamento lhe ocorreu antes do ato? Simplesmente
@@ -48,4 +49,5 @@ estreita mais precavidos das ofertas malígnas.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
 Roger</p>
 
-<p><style type="text/css">p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }</style></p>
+<style type="text/css">p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }</style>
+

@@ -4,7 +4,8 @@ date: 2017-05-19T20:04:00Z
 heroImage: "/images/posts/1334-sempre-por-elas-por_elas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1334-sempre-por-elas-por_elas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1334-sempre-por-elas-por_elas.png" width="312" height="320" data-original-width="492" data-original-height="504" /></a></div>
+![](/images/posts/1334-sempre-por-elas-por_elas.png)
+
 Para uma pessoa que é consagrada a Jesus, caminho, verdade e vida, por meio de Maria Santíssima, tudo se configura ao Cristo, fim último de toda a consagração mariana, pelas mãos da toda cheia de graça, submissa ao seu filho, redentor do mundo, e que não fica com nada para ela, pois Maria é toda de Deus. Ao consagrado cabe, em sua vivência diária fazer tudo por Maria, tudo para Maria, tudo em Maria e tudo com Maria de modo que não seja mais possível desperdiçar munição onde a melhor estratégia aponta em outra direção. Nós somos assim, os soldados de Cristo, como diz a escritura, nem sabemos rezar e pedir como convém, ou seja, gastamos munição em alvos errados, se tentarmos decidir sozinhos o que fazer na questão da salvação das almas.</br>
 </br>
 A devoção mariana se vivida corretamente em nossa humildade, ela nos aproxima de Jesus, por meio de Maria. Digo se vivida corretamente porque muitas pessoas se dizem devotas, lotam santuários marianos, rezam seus terços ou rosários ou ainda dizem que “basta apenas uma oração da Ave-Maria bem rezada” que é suficiente para se considerar um devoto. Se considerar um devoto para si mesmos porque aos olhos de Jesus o ultraje é muito grande. O papel de Maria é nos auxiliar e nos conduzir ao seu filho. Por ter sido especialmente agraciada com a Imaculada Conceição diz-se que Maria é o templo de Deus e não o Deus do templo.</br>

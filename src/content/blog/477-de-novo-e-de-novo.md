@@ -4,7 +4,8 @@ date: 2018-04-18T16:36:00.001Z
 heroImage: "/images/posts/477-de-novo-e-de-novo-Sofia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/477-de-novo-e-de-novo-Sofia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/477-de-novo-e-de-novo-Sofia.png" width="320" height="302" data-original-width="669" data-original-height="631" /></a></div>
+![](/images/posts/477-de-novo-e-de-novo-Sofia.png)
+
 Pessoal, lá no sermão da montanha no evangelho de Mateus, capítulos cinco, seis e sete, Jesus, sentado no monte ensinava às multidões e com autoridade. Não que se destaque apenas essa parte de tudo aquilo que ele ensinou, mas para o artigo de hoje destaco quando ele disse para “não fazermos ao outro aquilo que não queiramos que nos façam”. Por conta disso, Jesus nada mais faz do que frisar o que Deus já tinha deixado pelos profetas durante a história que acompanhamos no antigo testamento. De fato, nosso criador, assim como um pai que acompanha de perto o desempenho do filho na escola, quer saber como anda nosso relacionamento com ele e com o próximo. Haja vista os mandamentos, só para citarmos um exemplo.</br>
 </br>
 Só por aí, já podemos perceber o quanto nos deixamos levar pelos três inimigos da alma para fazermos coisas erradas. Santa Tereza de Jesus dizia a respeito disso: “como somos desleixados”. Se sabemos que todo cuidado é pouco, como se diz no ditado, por que nem isso fazemos? Nem cuidamos de forma compromissada? Só cuidamos do que é fácil de se cuidar, do que dá mais trabalho (e por isso é mais valioso) não cuidamos com o mesmo esmero. Pobres de nós, somos culpados e pegamos nossas culpas e colocamos sobre os ombros de outras pessoas. Tudo vira desculpa e a desculpa quase sempre tenta esconder alguma coisa errada.</br>

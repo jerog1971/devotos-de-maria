@@ -4,7 +4,8 @@ date: 2016-08-10T12:27:00.001Z
 heroImage: "/images/posts/238-livro-de-tobias-contém-referência-do-tobias.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/238-livro-de-tobias-contém-referência-do-tobias.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/238-livro-de-tobias-contém-referência-do-tobias.png" width="320" height="235" data-original-width="693" data-original-height="510" /></a></div>
+![](/images/posts/238-livro-de-tobias-contém-referência-do-tobias.png)
+
 O livro das revelações, também chamado de Apocalipse, escrito num gênero literário cheio de simbolismos, traz mensagens de ordem profética, mas também de correção e conversão. Ensina através de suas palavras, a seriedade do segmento de Jesus e de todo o plano de Deus até sua consumação no fim dos tempos. Porém o que nos leva a cita-lo neste artigo, é o fato, mais uma vez descrito aqui neste site, de que os ensinos bíblicos precisam ser recebidos dentro de todo o contexto dos livros canônicos. Existe valor em tudo e nada fica sem nos deixar aprendizado.</br>
 </br>
 De origem grega, a palavra aportuguesada para a expressão “apocalipse” ela quer dizer “revelação”. E assim como toda a sagrada escritura trata de ser uma grande revelação do projeto e plano de Deus para toda a sua criação, da mesma maneira, na nova aliança sempre encontramos alguma coisa já transmitida na antiga aliança. Lembrando a nós católicos, que pertencemos a religião de uma pessoa, Jesus Cristo e, portanto, seguimos aquilo que vem dele. Porém, não estamos dispensados de lançar um olhar sobre a antiga aliança. Ela contém toda a história de um povo e nos demonstra o cuidado e a prefiguração de tudo que Deus pretendia ao seu povo. Além do que, serve também para nos mostrar que a história é conduzida em sua presença e sua lei não foi abolida, mas levada a perfeição (Mateus 5,17).</br>

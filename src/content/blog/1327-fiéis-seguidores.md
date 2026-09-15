@@ -4,7 +4,9 @@ date: 2021-08-20T15:23:00.003Z
 heroImage: "/images/posts/1327-fiéis-seguidores-fieis_seguidores.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1327-fiéis-seguidores-fieis_seguidores.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="525" height="320" src="/images/posts/1327-fiéis-seguidores-fieis_seguidores.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De muitas formas o ser humano é fiel; motivado por seus
+![](/images/posts/1327-fiéis-seguidores-fieis_seguidores.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">De muitas formas o ser humano é fiel; motivado por seus
 interesses ele se dedica naquilo que muito lhe apetece. Todavia, se algo é de
 suma importância para sua vida física, material e espiritual, mas ele não vê
 nesta perspectiva o que se apresenta a sua frente, lá se vai a possibilidade de
@@ -36,4 +38,7 @@ Todos os que sem a lei pecaram, sem aplicação da lei perecerão; e quantos
 pecaram sob o regime da lei, pela lei serão julgados. Porque diante de Deus não
 são justos os que ouvem a lei, mas serão tidos por justos os que praticam a lei”.<o:p></o:p></p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div><p><br /></p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>
+
+<br />
+

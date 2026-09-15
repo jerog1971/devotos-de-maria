@@ -4,7 +4,8 @@ date: 2017-05-25T18:17:00Z
 heroImage: "/images/posts/502-aliança-de-sangue-familia_2016.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/502-aliança-de-sangue-familia_2016.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/502-aliança-de-sangue-familia_2016.jpg" width="320" height="211" data-original-width="1600" data-original-height="1055" /></a></div>
+![](/images/posts/502-aliança-de-sangue-familia_2016.jpg)
+
 Não importa o quanto o mundo comandado pelos seguidores do mal insistam, já foi dito por Jesus que o inferno não prevalecerá sobre a sua igreja. E nós, membros do corpo de Cristo, que é a sua igreja, se imersos nela não pereceremos de igual forma e pelos mesmos motivos. Por causa da aliança de sangue. O sangue da nova e eterna aliança derramado por nós para o perdão dos pecados nos deixou a santa eucaristia e, nos convidando a fazermos parte dessa cruz, unindo as nossas no alto do calvário. Na aliança que Jesus fez conosco está impresso a seguinte afirmação em seu gesto da parte de Jesus:</br>
 </br>
 Eu derramo o meu sangue mais eu não desisto de você.</br>

@@ -4,7 +4,9 @@ date: 2022-05-16T16:13:00.004Z
 heroImage: "/images/posts/517-eu-e-os-problemas-eu_20e_20os_20problemas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/517-eu-e-os-problemas-eu_20e_20os_20problemas.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="419" data-original-width="416" height="320" src="/images/posts/517-eu-e-os-problemas-eu_20e_20os_20problemas.png" width="318" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Parando para pensar, me deparo com a imensidão de problemas
+![](/images/posts/517-eu-e-os-problemas-eu_20e_20os_20problemas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Parando para pensar, me deparo com a imensidão de problemas
 que a vida nos impõe. Ademais, não bastasse isso, minhas atitudes erradas me
 colocam numa posição de não só fazer parte deles – dos problemas – mas também
 ser um. Fico a pensar se em alguma coisa sou bom, ou se a única coisa em que
@@ -38,4 +40,7 @@ aflitos sob o fardo, e eu vos aliviarei. Tomai meu jugo sobre vós e recebei
 minha doutrina, porque eu sou manso e humilde de coração e achareis o repouso
 para as vossas almas. Porque meu jugo é suave e meu peso é leve” – Mateus 11,28-30.<o:p></o:p></p><p class="MsoNormal">Artigo relacionado:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2017/11/nao-sao-problemas-sao-oportunidades.html" target="_blank">Não são problemas, são oportunidades</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

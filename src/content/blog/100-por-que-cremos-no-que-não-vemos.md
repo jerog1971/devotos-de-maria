@@ -4,7 +4,8 @@ date: 2017-09-05T20:18:00Z
 heroImage: "/images/posts/100-por-que-cremos-no-que-não-vemos-crer.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/100-por-que-cremos-no-que-não-vemos-crer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/100-por-que-cremos-no-que-não-vemos-crer.png" width="320" height="306" data-original-width="544" data-original-height="521" /></a></div>
+![](/images/posts/100-por-que-cremos-no-que-não-vemos-crer.png)
+
 Certa vez uma menina em idade escolar perguntou a um padre: O que devo responder para minhas amigas na escola quando me perguntam por que acredito em Deus? Afinal, caros leitores, essa não é a pergunta que muitas pessoas fazem durante suas vidas? A sociedade educa cérebros, não educa almas. Aquilo que realmente importa é invisível, o que é visível aos sentidos básicos, é irrelevante.</br>
 </br>
 Como tudo que importa para nós tem sua natureza no invisível, começamos a compreender que isso, o que importa, é uma realidade da alma. Se as pessoas sedem as realidades da carne, dos prazeres e dos sentidos, fatalmente colocam de lado o cuidado com a parte invisível. O desequilíbrio acontece e não conseguimos sustentar nossa subida rumos aos céus por conta de nosso constante movimento de distração ou dedicação para as coisas irrelevantes, as coisas que passam.</br>

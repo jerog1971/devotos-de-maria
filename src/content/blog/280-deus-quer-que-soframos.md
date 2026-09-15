@@ -4,7 +4,8 @@ date: 2017-08-10T14:20:00Z
 heroImage: "/images/posts/280-deus-quer-que-soframos-sofrimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/280-deus-quer-que-soframos-sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/280-deus-quer-que-soframos-sofrimento.png" width="320" height="308" data-original-width="408" data-original-height="393" /></a></div>
+![](/images/posts/280-deus-quer-que-soframos-sofrimento.png)
+
 Muitas pessoas que passam levianamente pela experiência de se conhecer a Deus, erroneamente caem na desgraça de conhecer apenas uma caricatura dele. Acabam por conhecer um Deus que é pintado para as pessoas de diversas maneiras, conforme seus desejos e seus anseios. Porém, quando a cortina das fantasias e ilusões vem abaixo, ou a pessoa fica maravilhada com a experiência de Deus em sua vida, ou fica desiludida e frustrada. A questão que buscamos refletir neste artigo é a do sofrimento.</br>
 </br>
 Como qualquer pessoa pode muito bem atestar, não existe idade para o sofrimento. Não existe alguém que esteja isento de sofrer. Sabemos por experiência própria que cedo ou tarde, acabamos por sofrer em algum aspecto de nossas vidas. E não vamos ser fingidos em dizer que a questão nunca nos fez achar que parece que Deus é injusto e parece que Deus gosta que soframos. Basta entrarmos num hospital infantil para vermos inúmeros pais com seus pequenos bebês e suas crianças com pouca idade a sofrerem enfermidades de várias naturezas. Um sentimento de impotência e de revolta contra Deus arrisca aparecer. Como entender que aquela criança que mal começou a viver neste mundo tenha que passar pelos sofrimentos de doenças tão graves? E se morrem então, muito cedo o que dizer? O que pensar? O sentimento de injustiça bate a nossa porta e muitos pais irão dizer que prefeririam morrer ao ver seus filhos morrerem.</br>

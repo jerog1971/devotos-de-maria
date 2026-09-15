@@ -4,7 +4,8 @@ date: 2019-09-16T16:21:00.003Z
 heroImage: "/images/posts/1007-raízes-e-valores-raizes_e_valores.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1007-raízes-e-valores-raizes_e_valores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1007-raízes-e-valores-raizes_e_valores.png" width="298" height="320" data-original-width="428" data-original-height="459" /></a></div>
+![](/images/posts/1007-raízes-e-valores-raizes_e_valores.png)
+
 Duas situações que nos acompanham por toda a caminhada rumo à pátria celeste. Podemos todo dia, em nossas reflexões, parar e pensar sobre isso. Qual é minha raiz? De onde vim? Sob quais valores minha vida é regida? Quão importante é para mim esta dupla? Muitos são os questionamentos que podemos e devemos fazer. Afinal, nós cristãos, portadores da fé, temos uma natureza criadora, temos uma origem, conhecemos nossas raízes. E para nos mantermos dentro desse caminho aprendemos um conjunto de valores que formam a base, o alicerce de nossas vidas.</br>
 </br>
 Quando abandonamos isso tudo os problemas começam a aparecer, tanto de ordem física quanto espiritual. Quem se alegra com essa condição é nosso inimigo cruel. Quando perdemos o fio da meada, desviamo-nos do caminho da porta estreita sofremos mais do que o necessário por culpa própria. Precisamos prestar a atenção aos detalhes porque a correria e a barulheira da vida e do mundo são peritos em causar muita confusão dentro de nossos corações.</br>

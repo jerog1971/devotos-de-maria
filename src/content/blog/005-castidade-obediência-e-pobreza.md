@@ -4,7 +4,8 @@ date: 2017-02-08T15:51:00.001Z
 heroImage: "/images/posts/005-castidade-obediência-e-pobreza-obediencia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/005-castidade-obediência-e-pobreza-obediencia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/005-castidade-obediência-e-pobreza-obediencia.png" width="320" height="302" data-original-width="363" data-original-height="343" /></a></div>
+![](/images/posts/005-castidade-obediência-e-pobreza-obediencia.png)
+
 Quando muitos ouvem falar estas palavras, mais precisamente se pronunciadas juntas, já remetem o seu entendimento ao voto religioso que uma pessoa consagrada faz ao entrar para uma determinada ordem. Tanto homens como mulheres assumem esse compromisso ao se entregarem a este estilo de vida celibatário e casto que é a vida de um religioso. Todavia, o que os católicos esquecem é que esta entrega feita através dos votos, para ingresso numa congregação, nada mais é do que uma entrega, vamos dizer assim, jurídica e, aqui vem o mistério da coisa porque também existe a entrega diária na prática, pedida a todos nós por Jesus.</br>
 </br>
 Para os menos atentos é preciso esclarecermos muito bem uma coisa. Todos aqueles que são batizados, membros do corpo de Cristo e que recebem a economia da salvação através dos sacramentos da Igreja de Jesus e de seu evangelho, é convidado a fazer esta entrega. Vamos esclarecer. O voto de castidade que o cristão católico deve fazer consiste na fidelidade a Jesus. Sim, ser casto significa ser fiel a um apenas. Então ou se está com Jesus ou contra ele (Mateus 12,30).

@@ -4,7 +4,8 @@ date: 2016-11-03T12:59:00Z
 heroImage: "/images/posts/845-amar-o-pecador-e-odiar-o-pecado-madalena.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/845-amar-o-pecador-e-odiar-o-pecado-madalena.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/845-amar-o-pecador-e-odiar-o-pecado-madalena.png" width="320" height="240" data-original-width="315" data-original-height="236" /></a></div>
+![](/images/posts/845-amar-o-pecador-e-odiar-o-pecado-madalena.png)
+
 “O desejo de Deus está inscrito no coração do homem, já que o homem é criado por Deus e para Deus; e Deus não cessa de atrair o homem a si, e somente em Deus o homem há de encontrar a verdade e a felicidade que não cessa de procurar. Mas esta "união íntima e vital com Deus" pode ser esquecida, ignorada e até rejeitada explicitamente pelo homem. Tais atitudes podem ter origens muito diversas: a revolta contra o mal no mundo, a ignorância ou a indiferença religiosas, as preocupações com as coisas do mundo e com as riquezas, o mau exemplo dos crentes, as correntes de pensamento hostis à religião, e finalmente essa atitude do homem pecador que, por medo, se esconde diante de Deus e foge diante de seu chamado.</br>
 </br>
 "Alegre-se o coração dos que buscam o Senhor!" (Sl 105,3). Se o homem pode esquecer ou rejeitar a Deus, este, de sua parte, não cessa de chamar todo homem a procurá-lo, para que viva e encontre a felicidade. Mas esta busca exige do homem todo o esforço de sua inteligência, a retidão de sua vontade, "um coração reto", e também o testemunho dos outros, que o ensinam a procurar a Deus.” (CIC 27, 29 e 30)</br>

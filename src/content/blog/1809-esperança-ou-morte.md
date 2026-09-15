@@ -4,7 +4,9 @@ date: 2021-12-15T16:16:00.001Z
 heroImage: "/images/posts/1809-esperança-ou-morte-img-440695200.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1809-esperança-ou-morte-img-440695200.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" height="286" src="/images/posts/1809-esperança-ou-morte-img-1344045403.jpg" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano tende a acreditar que a esperança é a última
+![](/images/posts/1809-esperança-ou-morte-img-1344045403.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ser humano tende a acreditar que a esperança é a última
 que morre; não é assim que ouvimos a afirmação do ditado popular? Pois bem, nada
 disso, o cristão deve se esforçar ao máximo para que isso nunca seja uma
 verdade. Vamos entender melhor, analisando a trajetória de nossas vidas com um
@@ -40,4 +42,7 @@ esperança na graça que vos será dada no dia em que Jesus Cristo aparecer. Por
 ele tendes fé em Deus, que o ressuscitou dos mortos e glorificou, a fim de que
 vossa fé e vossa esperança se fixem em Deus”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

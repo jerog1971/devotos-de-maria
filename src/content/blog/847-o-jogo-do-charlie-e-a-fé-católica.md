@@ -4,7 +4,8 @@ date: 2016-07-12T11:00:00.001Z
 heroImage: "/images/posts/847-o-jogo-do-charlie-e-a-fé-católica-charlie.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/847-o-jogo-do-charlie-e-a-fé-católica-charlie.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/847-o-jogo-do-charlie-e-a-fé-católica-charlie.png" width="320" height="265" data-original-width="202" data-original-height="167" /></a></div>
+![](/images/posts/847-o-jogo-do-charlie-e-a-fé-católica-charlie.png)
+
 </br>
 O QUE TEM ACONTECIDO com as brincadeiras? O que significa o "desafio Charlie"? Nos últimos tempos a prática dessa “brincadeira” tem preocupado pais, professores e a Igreja.</br> 
 </br>

@@ -4,7 +4,9 @@ date: 2022-11-04T15:07:00.006Z
 heroImage: "/images/posts/151-confissões-do-inferno-confiss_C3_B5es_20do_20inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/151-confissões-do-inferno-confiss_C3_B5es_20do_20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="315" data-original-width="249" height="315" src="/images/posts/151-confissões-do-inferno-confiss_C3_B5es_20do_20inferno.png" width="249" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Para um olhar treinado todos os dias é possível perceber o
+![](/images/posts/151-confissões-do-inferno-confiss_C3_B5es_20do_20inferno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Para um olhar treinado todos os dias é possível perceber o
 quanto o mal se abre para nós. De forma escancarada (embora pareça ser sútil),
 basta olharmos ao redor de nossas vidas para perceber o tamanho da confissão
 que o mal, que o inferno faz a cada instante. A coisa é assim mesmo, muito
@@ -41,4 +43,7 @@ vigilância constante para que a distração do demônio e seus seguidores não 
 desvie do difícil, apertado e tribulado caminho da porta estreita, a porta do
 céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

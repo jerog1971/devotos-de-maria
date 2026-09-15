@@ -4,7 +4,9 @@ date: 2022-10-03T19:40:00Z
 heroImage: "/images/posts/218-vidas-aterrorizantes-terror_20em_20vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/218-vidas-aterrorizantes-terror_20em_20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="427" data-original-width="477" height="286" src="/images/posts/218-vidas-aterrorizantes-terror_20em_20vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo, podemos crer, arriscaria dizer que a vida nos
+![](/images/posts/218-vidas-aterrorizantes-terror_20em_20vida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo mundo, podemos crer, arriscaria dizer que a vida nos
 aterroriza de muitas formas, ou então que somos aterrorizados na vida de muitas
 formas. Sem dúvida, o que mete medo numa pessoa não mete medo em outra. Claro,
 existem coisas que metem medo em grupos maiores e outras que são raras de causar
@@ -44,4 +46,7 @@ Jesus nos disse: “Não temais aqueles que matam o corpo, mas não podem matar 
 alma; temei antes aquele que pode precipitar a alma e o corpo na geena” –
 Mateus 10,28.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-07-18T17:36:00.001Z
 heroImage: "/images/posts/1428-mãe-e-filho-mae_e_filho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1428-mãe-e-filho-mae_e_filho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1428-mãe-e-filho-mae_e_filho.png" width="320" height="305" data-original-width="411" data-original-height="392" /></a></div>
+![](/images/posts/1428-mãe-e-filho-mae_e_filho.png)
+
 Criança e Deus</br>
 </br>
 Uma criança pronta para nascer perguntou a Deus:</br>

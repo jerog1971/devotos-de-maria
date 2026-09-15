@@ -4,7 +4,9 @@ date: 2022-10-31T15:16:00.003Z
 heroImage: "/images/posts/893-até-o-fim-do-mundo-almas_20do_20purgat_C3_B3rio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/893-até-o-fim-do-mundo-almas_20do_20purgat_C3_B3rio.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="276" height="320" src="/images/posts/893-até-o-fim-do-mundo-almas_20do_20purgat_C3_B3rio.png" width="266" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Disse Lúcia a Nossa Senhora: E a Amélia? – referindo-se a
+![](/images/posts/893-até-o-fim-do-mundo-almas_20do_20purgat_C3_B3rio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Disse Lúcia a Nossa Senhora: E a Amélia? – referindo-se a
 amiga que recentemente tinha morrido, querendo saber se a mesma já se encontrava
 no céu. Estará no purgatório até ao fim do mundo – disse Nossa Senhora. Talvez
 a revelação da Virgem Santíssima à Irmã Lúcia assuste-nos um pouco. É de fato
@@ -47,4 +49,7 @@ heroísmo e, como recompensa, foram acolhidos sem demora no Reino dos Céus.
 Quanto à alma de Amélia, só o que lhe resta é contar com as nossas orações…
 “até ao fim do mundo”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger com adaptações do site padrepauloricardo.org<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger com adaptações do site padrepauloricardo.org<o:p></o:p></p></div>
+
+<br /> 
+

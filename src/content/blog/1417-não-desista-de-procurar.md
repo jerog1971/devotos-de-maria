@@ -4,7 +4,9 @@ date: 2024-03-25T19:19:00.003Z
 heroImage: "/images/posts/1417-não-desista-de-procurar-N_C3_A3o_20desista_20de_20procurar.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1417-não-desista-de-procurar-N_C3_A3o_20desista_20de_20procurar.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/1417-não-desista-de-procurar-N_C3_A3o_20desista_20de_20procurar.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 7,7-8 – “Pedi e se vos dará. Buscai e achareis. Batei
+![](/images/posts/1417-não-desista-de-procurar-N_C3_A3o_20desista_20de_20procurar.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Mateus 7,7-8 – “Pedi e se vos dará. Buscai e achareis. Batei
 e vos será aberto. Porque todo aquele que pede, recebe. Quem busca, acha. A
 quem bate, abrir-se-á”. Pois bem, foi Jesus quem disse isso. O problema é que
 as pessoas rapidamente não acreditam nessa fala porque esquecem que ela não está
@@ -29,4 +31,7 @@ final da busca incessante e incansável, iremos achar o que estamos a procurar.
 Quem garante isso é nosso justo juiz, que nos aguarda para pronunciar o
 veredito final de nossa existência eterna.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

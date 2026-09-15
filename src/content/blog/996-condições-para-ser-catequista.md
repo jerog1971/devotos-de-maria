@@ -4,7 +4,8 @@ date: 2016-06-13T14:29:00Z
 heroImage: "/images/posts/996-condições-para-ser-catequista-catequista2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/996-condições-para-ser-catequista-catequista2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/996-condições-para-ser-catequista-catequista2.png" width="320" height="299" data-original-width="514" data-original-height="480" /></a></div>
+![](/images/posts/996-condições-para-ser-catequista-catequista2.png)
+
 Olá caros leitores, neste artigo vou comentar, sobre a questão de ser catequista, sobre um ponto de vista prático e espiritual. Vamos ver se consigo. O motivo do artigo aconteceu depois que eu encontrei no site de uma paróquia aqui da cidade de Curitiba, uma explicação do que é necessário para ser catequista. Vou transcreve-la para meu blog. O texto foi encontrado no site do Santuário Nossa Senhora de Guadalupe:</br>
 </br>
 1- Ter idade mínima de dezoito anos;</br>

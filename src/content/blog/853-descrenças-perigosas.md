@@ -4,7 +4,9 @@ date: 2024-01-16T18:03:00.001Z
 heroImage: "/images/posts/853-descrenças-perigosas-descren_C3_A7as_20perigosas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/853-descrenças-perigosas-descren_C3_A7as_20perigosas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="465" height="209" src="/images/posts/853-descrenças-perigosas-descren_C3_A7as_20perigosas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sempre assim, vez por outra algumas pessoas resolvem levar
+![](/images/posts/853-descrenças-perigosas-descren_C3_A7as_20perigosas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É sempre assim, vez por outra algumas pessoas resolvem levar
 a vida no estilo das comprovações, do só acredito vendo. Que perigo é agir
 assim pois, certos mandatos divinos e avisos de Jesus Cristo serão pedidos somente
 na prestação de contas final. Infelizmente agir assim, para o bem do mal, é
@@ -36,4 +38,7 @@ criação. Não existe, se a alma quer entrar no céu, retornar para sua pátria
 celeste, divisões em seu coração, morada do Espírito Santo. Deixar de acreditar
 nisso é algo muito perigoso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

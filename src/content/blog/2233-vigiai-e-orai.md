@@ -4,7 +4,8 @@ date: 2016-02-15T19:30:00Z
 heroImage: "/images/posts/2233-vigiai-e-orai-ora_25C3_25A7_25C3_25A3o4.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2233-vigiai-e-orai-ora_25C3_25A7_25C3_25A3o4.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2233-vigiai-e-orai-ora_25C3_25A7_25C3_25A3o4.png" width="279" height="320" data-original-width="367" data-original-height="421" /></a></div>
+![](/images/posts/2233-vigiai-e-orai-ora_25C3_25A7_25C3_25A3o4.png)
+
 “Vigiai e orai para que não entreis em tentação”, Mateus 26,41. Palavras de Jesus Cristo e perfeitas para colocarmos em prática em nossa batalha diária espiritual. Como bem sabemos, satanás anda a espreita como um leão buscando a quem dar o bote e devorar. Por isso da vigilância. Afinal, quando baixamos a guarda e deixamos de vigiar, a distração toma conta de nós e a tentação nos derruba e por isso é que pecamos.</br>
 </br>
 Da mesma maneira, essa vigilância precisa ser acompanhada pela oração pois não é possível apenas vigiar. E por quê? Porque o cansaço e o tédio da vigilância assaltam a mente. Por isso nosso Senhor Jesus Cristo nos ensinou que enquanto vigiamos precisamos orar e também enquanto oramos precisamos estar atentos. Não adianta apenas cumprirmos preceitos sem propósitos. Se não sabemos porque fazemos não enxergamos o sentido das coisas.</br>

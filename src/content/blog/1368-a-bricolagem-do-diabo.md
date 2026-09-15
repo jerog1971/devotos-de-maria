@@ -4,7 +4,9 @@ date: 2021-06-21T12:34:00.001Z
 heroImage: "/images/posts/1368-a-bricolagem-do-diabo-bricolagem_do_diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1368-a-bricolagem-do-diabo-bricolagem_do_diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="461" data-original-width="381" height="320" src="/images/posts/1368-a-bricolagem-do-diabo-bricolagem_do_diabo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O termo bricolagem se refere a atividades como montagem,
+![](/images/posts/1368-a-bricolagem-do-diabo-bricolagem_do_diabo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O termo bricolagem se refere a atividades como montagem,
 instalação ou reparos feitos por pessoa não especializada, sem a ajuda de serviço
 profissional e tipicamente para proveito próprio. Se analisarmos com cautela,
 nosso inimigo, em vistas de que percamos a salvação eterna, adota entre seus
@@ -33,4 +35,7 @@ inimigo sabe que uma das portas de entrada de acesso ao nosso coração são os
 sentidos e a mente; e ele não precisa que a abramos por completo, se
 permitirmos uma brecha apenas, o resto ele conquista.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

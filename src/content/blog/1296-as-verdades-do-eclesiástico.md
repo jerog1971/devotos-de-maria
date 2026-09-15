@@ -4,7 +4,9 @@ date: 2020-10-29T13:51:00.003Z
 heroImage: "/images/posts/1296-as-verdades-do-eclesiástico-prova_25C3_25A7_25C3_25A3o_crist_25C3_25A3.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1296-as-verdades-do-eclesiástico-prova_25C3_25A7_25C3_25A3o_crist_25C3_25A3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="297" src="/images/posts/1296-as-verdades-do-eclesiástico-prova_25C3_25A7_25C3_25A3o_crist_25C3_25A3.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sem dúvida um dos livros bíblicos muito apreciado pelos
+![](/images/posts/1296-as-verdades-do-eclesiástico-prova_25C3_25A7_25C3_25A3o_crist_25C3_25A3.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sem dúvida um dos livros bíblicos muito apreciado pelos
 cristãos que se esforçam por viverem aquilo que Deus nos pede. É sempre um
 desafio diário alinhar a felicidade terrena com a felicidade que brota de um
 coração onde a santíssima trindade habita. Desafio porque elas não se combinam
@@ -56,4 +58,7 @@ mandamentos, têm paciência até que ele lance os olhos sobre eles, dizendo: Se
 não fizermos penitência, cairemos nas mãos do Senhor, e não nas mãos dos
 homens, pois a misericórdia dele está na medida de sua grandeza”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-03-17T10:15:00.001Z
 heroImage: "/images/posts/1227-o-diabo-tem-poder-o_cavalo_e_o_burro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1227-o-diabo-tem-poder-o_cavalo_e_o_burro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="288" data-original-width="338" src="/images/posts/1227-o-diabo-tem-poder-o_cavalo_e_o_burro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O poderio do demônio para aliciar uma alma induzindo-a ao
+![](/images/posts/1227-o-diabo-tem-poder-o_cavalo_e_o_burro.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O poderio do demônio para aliciar uma alma induzindo-a ao
 pecado é imenso. Tanto é que num confronto direto contra ele não possuímos
 meios para vence-lo; por isso Jesus Cristo nos ensinou que sem ele (Jesus) não
 podemos fazer nada – João 15,5. E se o Cristo disse esse “nada”, certamente
@@ -43,4 +45,7 @@ nossa condição de herdeiros do reino dos céus e aceitamos o jugo que o poder 
 mal irá impor sobre nossos ombros, tornando-os submissos e escravos de Satanás.
 Sempre lembramos por aqui: de nossa parte é uma questão de escolha.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

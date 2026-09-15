@@ -4,7 +4,8 @@ date: 2017-07-11T17:18:00Z
 heroImage: "/images/posts/230-aconteceu-outra-vez-expulsando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/230-aconteceu-outra-vez-expulsando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/230-aconteceu-outra-vez-expulsando.png" width="320" height="294" data-original-width="300" data-original-height="276" /></a></div>
+![](/images/posts/230-aconteceu-outra-vez-expulsando.png)
+
 Nossa! – Comigo aconteceu a mesma coisa! Já não aconteceu alguma vez caro leitor de você ter ouvido essa expressão ou mesmo a dito? Quanto mais vivemos e mais nos socializamos a chance de acontecer alguma coisa conosco que já aconteceu a alguém é possível ou então o contrário. Essas coisas não são acontecimentos fabulosos ou artimanhas do destino. Nem fatos isolados e extraordinários que nos acometem para nos engrandecer ou diminuir.</br>
 </br>
 1ª Pedro 4,12-14 – “Caríssimos, não vos perturbeis no fogo da provação, como se vos acontecesse alguma coisa extraordinária. Pelo contrário, alegrai-vos em ser participantes dos sofrimentos de Cristo, para que vos possais alegrar e exultar no dia em que for manifestada sua glória. Se fordes ultrajados pelo nome de Cristo, bem-aventurados sois vós, porque o Espírito de glória, o Espírito de Deus repousa sobre vós.”</br>

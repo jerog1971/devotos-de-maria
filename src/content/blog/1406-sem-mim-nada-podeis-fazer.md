@@ -4,7 +4,8 @@ date: 2016-07-12T19:51:00Z
 heroImage: "/images/posts/1406-sem-mim-nada-podeis-fazer-joao_15_5.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1406-sem-mim-nada-podeis-fazer-joao_15_5.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1406-sem-mim-nada-podeis-fazer-joao_15_5.png" width="320" height="188" data-original-width="523" data-original-height="308" /></a></div>
+![](/images/posts/1406-sem-mim-nada-podeis-fazer-joao_15_5.png)
+
 Vez por outra é importante fazermos um exercício de meditação e reflexão sobre o modo como a humanidade leva sua vida e o modo como cada um de nós leva a própria vida. O exercício é muito salutar porque o ser humano se faz de espelho para si e para os outros. E tanto é verdade, que Jesus foi logo nos advertindo que devemos proceder de maneira correta nossos julgamentos, pois do contrário, serão para nós ocasião de queda.</br>
 </br>
 Seja a qualquer hora do dia ou em qualquer lugar, é muito fácil de se comprovar o que estamos a refletir neste pequeno artigo. E a internet não fica de fora da balburdia. São inúmeros sites que se dedicam em promover a casca provisória chamada corpo e os comportamentos de ostentação material que mantém o estrelato e a fama na crista da onda.</br>

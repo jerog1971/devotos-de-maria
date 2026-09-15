@@ -32,7 +32,9 @@ Ela disse como me devo conduzir face a meu diretor espiritual, como me comportar
 </br>
 - Minha filha, Deus quer te encarregar de uma missão. Terás muito que sofrer, porém hás de suportar, pensando que o farás para a glória de Deus. Saberás (discernir) o que é de Deus. Serás atormentada, até pelo que disseres a quem está encarregado de te dirigir. Serás contraditada, mas terás a graça. Não temas. Dize tudo com confiança e simplicidade. Serás inspirada em tuas orações. O tempo atual é muito ruim. Calamidades vão se abater sobre a França. O trono será derrubado. O mundo inteiro se verá transtornado por males de todo tipo (a Santíssima Virgem tinha um ar muito entristecido ao dizer isso). Mas venham ao pé deste altar: aí as graças serão derramadas sobre todas as pessoas, grandes e pequenas, particularmente sobre aquelas que as pedirem com confiança e fervor. O perigo será grande, porém não deves temer: Deus e São Vicente protegerão esta Comunidade.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1531-nossa-senhora-das-graças-catarina_laboure2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1531-nossa-senhora-das-graças-catarina_laboure2.png" width="200" height="190" data-original-width="536" data-original-height="510" /></a></div>
+
+![](/images/posts/1531-nossa-senhora-das-graças-catarina_laboure2.png)
+
 </br>
 Quatro meses transcorreram desde aquela prodigiosa noite em que Santa Catarina contemplara pela primeira vez a Santíssima Virgem. Na inocente alma da religiosa cresciam as saudades daquele bendito encontro e o desejo intenso de que lhe fosse concedido de novo o augusto favor de rever a Mãe de Deus. E foi atendida. Era 27 de novembro de 1830, sábado. Às cinco e meia da tarde, as Filhas da Caridade encontravam-se reunidas na sua capela da rue du Bac para o costumeiro período de meditação. Reinava perfeito silêncio nas fileiras das freiras e noviças. Como as demais, Catarina se mantinha em profundo recolhimento. De súbito...</br>
 </br>

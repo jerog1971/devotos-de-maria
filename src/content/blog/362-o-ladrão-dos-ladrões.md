@@ -4,7 +4,9 @@ date: 2020-09-29T18:01:00.001Z
 heroImage: "/images/posts/362-o-ladrão-dos-ladrões-ladr_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/362-o-ladrão-dos-ladrões-ladr_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="282" src="/images/posts/362-o-ladrão-dos-ladrões-ladr_25C3_25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">João 10,10 – “O ladrão não vem senão para furtar, matar e
+![](/images/posts/362-o-ladrão-dos-ladrões-ladr_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">João 10,10 – “O ladrão não vem senão para furtar, matar e
 destruir”. Ele quer o benefício próprio e isso significa que só ajuda quando disso
 resultar o seu intento. Não pode o ladrão oferecer algo de bom, lembremos da
 história do fruto que demonstra o tipo da árvore. Para nós cristãos, nosso
@@ -44,4 +46,7 @@ amam a Deus – Romanos 8,28. Quanto antes se conformam ao que Deus pede e
 oferece, mais cedo compreendem que quem rouba nessa história não é aquele que
 amou primeiro – 1ª João 4,19.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2018-04-18T19:56:00.001Z
 heroImage: "/images/posts/1061-tem-gente-que-não-aprende-vaidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1061-tem-gente-que-não-aprende-vaidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1061-tem-gente-que-não-aprende-vaidade.png" width="306" height="320" data-original-width="236" data-original-height="247" /></a></div>
+![](/images/posts/1061-tem-gente-que-não-aprende-vaidade.png)
+
 Existiu a poucos anos atrás um sacerdote muito popular da comunidade Canção Nova que cativava os fiéis com sua criatividade em ilustrar através de historietas e crônicas os ensinamentos de Jesus. Uma das coisas que era marca registrada do Padre Léo era quando ele chamava as pessoas de “antas”. Vamos recordar, a anta é um animal e quando ele queria ilustrar que uma pessoa agia por impulso (deixando a inteligência e a razão de lado), como um animal, entrava em cena esse título de forma análoga muito bem colocado. Isso não é novidade, porque semelhante uso comparativo se encontra na bíblia.</br>
 </br>
 Tobias 6,16-17 – “O anjo respondeu-lhe: Ouve-me, e eu te mostrarei sobre quem o demônio tem poder: são os que se casam, banindo Deus de seu coração e de seu pensamento, e se entregam à sua paixão como o cavalo e o burro, que não têm entendimento: sobre estes o demônio tem poder.”</br>

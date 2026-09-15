@@ -4,7 +4,9 @@ date: 2021-10-16T17:56:00Z
 heroImage: "/images/posts/2218-blasfêmias-contra-a-virgem-maria-img-333504663.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2218-blasfêmias-contra-a-virgem-maria-img-333504663.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="466" data-original-width="410" height="320" src="/images/posts/2218-blasfêmias-contra-a-virgem-maria-img-1419750406.png" width="282" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aqui na Terra, se alguém ofende sua mãe, certamente isso lhe
+![](/images/posts/2218-blasfêmias-contra-a-virgem-maria-img-1419750406.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Aqui na Terra, se alguém ofende sua mãe, certamente isso lhe
 trará sentimentos devastadores; a menos que não a ame, você sentirá que a
 apunhalada foi direta em seu coração. Pelo amor que temos por ela, a ofensa
 feita por alguém ou alguma coisa, fere o coração e a indignação bate à porta,
@@ -41,4 +43,7 @@ colherá a corrupção; quem semeia no Espírito, do Espírito colherá a vida
 eterna. Não nos cansemos de fazer o bem, porque a seu tempo colheremos, se não
 relaxarmos” – Gálatas 6,7-9.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

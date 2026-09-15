@@ -4,7 +4,8 @@ date: 2019-09-11T15:42:00.003Z
 heroImage: "/images/posts/073-busque-a-luz-busque_a_luz.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/073-busque-a-luz-busque_a_luz.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/073-busque-a-luz-busque_a_luz.jpg" width="240" height="320" data-original-width="612" data-original-height="816" /></a></div>
+![](/images/posts/073-busque-a-luz-busque_a_luz.jpg)
+
 Disse Jesus em João 8,12 – “Eu sou a luz do mundo; aquele que me segue não andará em trevas, mas terá a luz da vida”. E em João 12,46 – “Eu vim como luz ao mundo; assim, todo aquele que crer em mim não ficará nas trevas”. Essas, caros leitores, são belas e estimuladoras palavras ditas pelo Ressuscitado. É muito confortante saber que basta acreditar nele e segui-lo para que as coisas caminhem em nossas vidas da melhor forma possível.</br>
 </br>
 No entanto, a prática é bem diferente da teoria: Lucas 9,23 – “Se alguém quer vir após mim, renegue-se a si mesmo, tome cada dia a sua cruz e siga-me”. E para tornar a coisa mais séria ainda lemos em Mateus 10,38 – “Quem não toma a sua cruz e não me segue, não é digno de mim”. E para completar a reflexão terminamos com essa exortação do Cristo que encontramos em Lucas 9,62 – “Aquele que põe a mão no arado e olha para trás, não é apto para o Reino de Deus”.</br>

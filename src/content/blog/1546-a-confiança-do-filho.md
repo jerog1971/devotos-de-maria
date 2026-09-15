@@ -4,7 +4,8 @@ date: 2018-09-27T13:00:00Z
 heroImage: "/images/posts/1546-a-confiança-do-filho-confian_25C3_25A7a_dos_filhos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1546-a-confiança-do-filho-confian_25C3_25A7a_dos_filhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1546-a-confiança-do-filho-confian_25C3_25A7a_dos_filhos.png" width="320" height="296" data-original-width="381" data-original-height="353" /></a></div>
+![](/images/posts/1546-a-confiança-do-filho-confian_25C3_25A7a_dos_filhos.png)
+
 - Pai........</br>
 - Hummmmm?</br>
 - Como é o feminino de sexo?</br>

@@ -4,7 +4,8 @@ date: 2019-02-14T15:38:00Z
 heroImage: "/images/posts/736-você-merece-ser-defendido-ser_defendido.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/736-você-merece-ser-defendido-ser_defendido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/736-você-merece-ser-defendido-ser_defendido.png" width="320" height="309" data-original-width="454" data-original-height="439" /></a></div>
+![](/images/posts/736-você-merece-ser-defendido-ser_defendido.png)
+
 Eis aí, caro leitor, uma pergunta delicadíssima de ser respondida. Ela passa pelo nosso julgamento, pelo julgamento do próximo e pelo julgamento de Deus, na pessoa do verbo encarnado.</br>
 </br>
 Nosso julgamento pode ser sincero e honesto (julgamento esperado por Deus) ou pode ser inapropriado porque apresenta tendência de ser parcial, pendendo ao nosso favor. Consiste naquela pessoa que fica se dando tapinha nas costas parabenizando-se por tudo.</br>

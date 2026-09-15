@@ -4,7 +4,9 @@ date: 2021-11-30T15:58:00.003Z
 heroImage: "/images/posts/2257-o-perigo-das-interpretações-img-851352280.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2257-o-perigo-das-interpretações-img-851352280.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="591" data-original-width="617" height="307" src="/images/posts/2257-o-perigo-das-interpretações-img-2057050813.png" width="320" /></a></div><p></p><p class="MsoNormal">Já dizia o ditado sobre: “puxar a sardinha para o próprio
+![](/images/posts/2257-o-perigo-das-interpretações-img-2057050813.png)
+
+<p class="MsoNormal">Já dizia o ditado sobre: “puxar a sardinha para o próprio
 lado”. Expressão usada para se referir sobre a atitude de promover alguma coisa
 em benefício próprio, dando aquela famosa entortadinha no modo de ver e entender
 as coisas. Ora bolas, facilmente podemos colocar aqui o exemplo dos exemplos, e
@@ -36,4 +38,7 @@ o que não é bom em algo muito atrativo.<o:p></o:p></p>
 mal, que mudam as trevas em luz e a luz em trevas, que tornam doce o que é
 amargo, e amargo o que é doce!”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

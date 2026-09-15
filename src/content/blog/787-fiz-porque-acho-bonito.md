@@ -4,7 +4,9 @@ date: 2021-12-17T15:43:00.003Z
 heroImage: "/images/posts/787-fiz-porque-acho-bonito-img-213517698.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/787-fiz-porque-acho-bonito-img-213517698.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="504" data-original-width="565" height="285" src="/images/posts/787-fiz-porque-acho-bonito-img-213519749.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe sempre algo de muito saboroso em cada pecado; embora lemos
+![](/images/posts/787-fiz-porque-acho-bonito-img-213519749.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existe sempre algo de muito saboroso em cada pecado; embora lemos
 na bíblia que sua recompensa é a condenação eterna, a sutileza dos inimigos da
 alma sempre encontra um meio de que ele seja cometido sem o maior
 arrependimento. O diabo, sempre mais esperto e inteligente que o ser humano,
@@ -42,4 +44,7 @@ mandamentos. Ele próprio te dará um coração, e ser-te-á concedida a sabedor
 que desejas”. Salmo 111,1 – “Aleluia. Feliz o homem que teme o Senhor, e põe o
 seu prazer em observar os seus mandamentos”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

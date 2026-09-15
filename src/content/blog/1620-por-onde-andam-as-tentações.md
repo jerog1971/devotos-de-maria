@@ -4,7 +4,8 @@ date: 2015-11-12T10:40:00Z
 heroImage: "/images/posts/1620-por-onde-andam-as-tentações-tenta_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1620-por-onde-andam-as-tentações-tenta_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1620-por-onde-andam-as-tentações-tenta_25C3_25A7_25C3_25A3o.png" width="320" height="192" data-original-width="449" data-original-height="269" /></a></div>
+![](/images/posts/1620-por-onde-andam-as-tentações-tenta_25C3_25A7_25C3_25A3o.png)
+
 </br>
 Uma famosa oração, atribuída a Santo Agostinho, e rezada por quem se prepara para a Santa Escravidão a Nossa Senhora, possui uma frase digna de profunda meditação: “Ó Jesus, anátema seja quem não Vos ama. Aquele que não Vos ama seja repleto de amarguras.”</br>
 </br>

@@ -4,7 +4,9 @@ date: 2021-09-10T17:35:00.003Z
 heroImage: "/images/posts/293-a-regra-dos-prazeres-a_regra_dos_prazeres.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/293-a-regra-dos-prazeres-a_regra_dos_prazeres.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="193" data-original-width="228" height="193" src="/images/posts/293-a-regra-dos-prazeres-a_regra_dos_prazeres.png" width="228" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pessoal, podemos partir do princípio que todas as coisas boas
+![](/images/posts/293-a-regra-dos-prazeres-a_regra_dos_prazeres.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pessoal, podemos partir do princípio que todas as coisas boas
 foram criadas por Deus e dizemos isso em relação ao homem e a mulher. Como
 vemos no livro do Gênesis, criou os dois e liberou o prazer entre eles, mas....
 Tem sempre o mas, a condição dessa liberação colocou-os dentro de um círculo.
@@ -32,4 +34,7 @@ ainda temos o lembrete do apóstolo: “Examinai tudo: abraçai o que é bom.
 Guardai-vos de toda a espécie de mal” – Tessalonicenses 5,21-22. Mal para si e
 mal para o próximo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

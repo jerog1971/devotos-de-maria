@@ -4,7 +4,8 @@ date: 2016-07-13T13:00:00Z
 heroImage: "/images/posts/387-proteção-contra-o-demônio-akamine.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/387-proteção-contra-o-demônio-akamine.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/387-proteção-contra-o-demônio-akamine.png" width="225" height="320" data-original-width="210" data-original-height="299" /></a></div>
+![](/images/posts/387-proteção-contra-o-demônio-akamine.png)
+
 </br>
 Por Dom Julio Endi Akamine, Bispo Auxiliar da Arquidiocese de São Paulo: A rebelião de Satanás contra Deus não se deu somente em um passado distante e durante a vida terrena de Jesus. A história da salvação não chegou ainda ao seu termo, e o juízo final sobre os demônios deve ainda ocorrer. Até o retorno de Cristo, o mundo é ainda teatro do conflito entre o Reino de Deus e o de Satanás. Por isso, às potências demoníacas permanece a possibilidade de uma atividade (atenção: uma atividade limitada e permitida) na tentação e sedução dos homens.</br>
 </br>

@@ -4,8 +4,10 @@ date: 2020-03-15T18:39:00.003Z
 heroImage: "/images/posts/1905-qual-dos-dois-é-um-padre-img-190936547.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1905-qual-dos-dois-é-um-padre-img-190936547.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="359" data-original-width="502" src="/images/posts/1905-qual-dos-dois-é-um-padre-img-190936547.jpgs320/padre.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div>
-A resposta correta é: nenhum deles! Isso mesmo, por mais que as pessoas reconheçam a diferença na foto, no lado esquerdo, a figura de um padre&nbsp; da renovação carismática; espiritualmente falando as coisas são um pouco diferentes. Ele não deixou de acreditar em Deus, mas ele se comporta como as pessoas que Jesus apontou que estarão do lado esquerdo da fila no dia do juízo.
+![](/images/posts/1905-qual-dos-dois-é-um-padre-img-190936547.jpgs320/padre.png)
+
+<div class="separator" style="clear: both; text-align: center;"><br /></div>
+A resposta correta é: nenhum deles! Isso mesmo, por mais que as pessoas reconheçam a diferença na foto, no lado esquerdo, a figura de um padre  da renovação carismática; espiritualmente falando as coisas são um pouco diferentes. Ele não deixou de acreditar em Deus, mas ele se comporta como as pessoas que Jesus apontou que estarão do lado esquerdo da fila no dia do juízo.
 
 Mateus 7,21-23- “Nem todo aquele que me diz: Senhor, Senhor, entrará no Reino dos céus, mas sim aquele que faz a vontade de meu Pai que está nos céus. Muitos me dirão naquele dia: Senhor, Senhor, não pregamos nós em vosso nome, e não foi em vosso nome que expulsamos os demônios e fizemos muitos milagres? E, no entanto, eu lhes direi: Nunca vos conheci. Retirai-vos de mim, operários maus!
 
@@ -34,6 +36,5 @@ Artigos selecionados:
 <a href="https://www.devotos-de-maria.com.br/2016/02/nao-seja-um-carismatico.html" target="_blank">Não seja um carismático</a>
 
 <a href="https://www.devotos-de-maria.com.br/2016/05/palmas-na-santa-missa-nao.html" target="_blank">Palmas na santa missa não!</a>
-
 
 Fonte: Jefferson Roger

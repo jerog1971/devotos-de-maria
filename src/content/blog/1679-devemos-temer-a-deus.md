@@ -4,7 +4,8 @@ date: 2016-09-06T15:33:00Z
 heroImage: "/images/posts/1679-devemos-temer-a-deus-deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1679-devemos-temer-a-deus-deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1679-devemos-temer-a-deus-deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
+![](/images/posts/1679-devemos-temer-a-deus-deus.png)
+
 As Escrituras dizem que "o temor de Deus é o princípio da sabedoria" (Sl 110, 10) e a Igreja, por sua vez, enumera este como um dos sete dons do Espírito Santo. A alguns ouvidos, porém, a expressão "temor de Deus" pode soar estranha. O que ela realmente significa? Por acaso devemos "sentir medo" de Deus? Não seria isso contrário ao mandamento do amor, que é o maior de todos os preceitos? Em primeiro lugar, o testemunho das Escrituras é muito claro: Deus deve sim ser temido. Para confirmá-lo, Santo Tomás cita pelo menos dois versículos bíblicos: "Quem não te temerá, ó Rei das nações?" (Jr 10, 7) e "Se eu sou o Senhor, onde está o temor que me é devido?" (Ml 1, 6).</br>
 </br>
 É óbvio que não vale, para contradizer essas passagens, dizer que elas "estão no Antigo Testamento", como se as palavras que Deus inspirou aos patriarcas e profetas valessem menos que as do Novo; ou como se o Deus de Abraão, Isaac e Jacó fosse diferente do Deus que se fez carne e veio fazer morada no meio dos homens — Jesus Cristo. O que precisamos fazer, como bons católicos, é ler em sintonia tanto as páginas do Velho quanto as do Novo Testamento. Se algo parece entrar em contradição — coisa que acontece não poucas vezes a quem tem o hábito de ler e meditar as Escrituras —, "mãos às obras" dos bons teólogos, que são os santos. Eles podem nos ajudar a compreender o que diz a Palavra de Deus.</br>

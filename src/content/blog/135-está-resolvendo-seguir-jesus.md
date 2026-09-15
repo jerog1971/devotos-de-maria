@@ -4,7 +4,8 @@ date: 2019-01-10T15:05:00.001Z
 heroImage: "/images/posts/135-está-resolvendo-seguir-jesus-serm_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/135-está-resolvendo-seguir-jesus-serm_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/135-está-resolvendo-seguir-jesus-serm_25C3_25A3o.png" width="320" height="299" data-original-width="553" data-original-height="516" /></a></div>
+![](/images/posts/135-está-resolvendo-seguir-jesus-serm_25C3_25A3o.png)
+
 Lucas 9,23 – (disse Jesus) “Quem quiser me seguir, renuncie a si mesmo, tome sua cruz dia após dia e me siga.” Caros leitores, essa afirmação de Jesus nos traz muitos ensinamentos em relação ao que consiste levar uma vida segundo os desígnios de Deus. Jesus vai logo mandando seu recado de forma bem direta, sem enrolação. Quer segui-lo? Tem que ser todos os dias. A afirmação que ele nos faz está diretamente relacionada com a oração ensinada por ele do “Pai Nosso”.</br>
 </br>
 Por quê? Porque segui-lo significa abrir mão da própria vontade em prol da vontade de Deus! Se não fizermos assim não iremos conseguir caminhar com o Cristo, estaremos inclinados a seguir o salvador apenas quando for conveniente, mais fácil ou houver interesse egoísta. Os desejos pessoais, se não forem egoístas não contribuirão negativamente para a peregrinação, pois serão colocados em segundo plano.</br>

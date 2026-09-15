@@ -4,7 +4,8 @@ date: 2018-11-23T19:21:00Z
 heroImage: "/images/posts/1966-a-descrença-descren_25C3_25A7a.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1966-a-descrença-descren_25C3_25A7a.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1966-a-descrença-descren_25C3_25A7a.png" width="320" height="312" data-original-width="389" data-original-height="379" /></a></div>
+![](/images/posts/1966-a-descrença-descren_25C3_25A7a.png)
+
 Acreditar em algo, alguma coisa ou alguém. Se colocarmos o prefixo de negação “des” na frente da palavra ela significará o oposto, desacreditar. Quando acreditamos em alguma coisa, temos por esta coisa o que chamamos de crença. Um conjunto de fatores reunidos nos fornecem uma maioria de motivos que nos levam a desenvolvermos essa crença. Um conjunto bem embasado e livre de refutações, oferece condições para que a crença não possa ser abalada. Afinal, foi através delas (as condições), que pudemos atestar e compreender que o verídico faz parte desse ato de crer.</br>
 </br>
 Todavia, os seres humanos influenciáveis, permitem que o pacote fechado de crenças possa ser questionado. Já dizia o Padre Tomas de Kempis que uma alma que busca algo se torna inquieta enquanto não a alcança. Vemos que isso vale para as coisas ruins e boas; atesta esse fato Santo Agostinho.</br>

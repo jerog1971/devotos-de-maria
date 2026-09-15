@@ -4,7 +4,8 @@ date: 2017-05-10T18:03:00.001Z
 heroImage: "/images/posts/995-as-farpas-da-discussão-brigas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/995-as-farpas-da-discussão-brigas.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="323" data-original-width="335" height="309" src="/images/posts/995-as-farpas-da-discussão-brigas.png" width="320" /></a></div>
+![](/images/posts/995-as-farpas-da-discussão-brigas.png)
+
 Se estamos em concórdia, estamos com o coração no mesmo lugar, estamos em sintonia e de pleno acordo colocando de lado nossa verdade em prol de uma verdade superior. Jesus, que é o caminho, a verdade e a vida. No entanto, aquilo que entendemos por nossa verdade, todavia não é algo que deva ser completamente descartado. Pois nossa verdade deve ser configurada aos moldes do Cristo. Cada pessoa, por ser única, detém em si, uma realidade global e universal que a cerca, mas também detém a exclusividade de coisas que particularmente lhe competem naquilo que é seu estado de vida.
 
 Houve-se por aí o ditado popular que diz que religião, política e futebol não se discutem. É preciso entender a origem do dito para compreender do que se trata essa fala. Popularmente falando esses três assuntos são conhecidos por serem polêmicos. Polêmicos porque suas naturezas competem para oferecer mais de um ponto de vista pessoal a respeito do todo. Como diferentes pontos de vista, geram diferentes opiniões e diferentes opiniões podem gerar discussões, ao ponto que se elas se tornarem encaloradas, as trocas de ofensas começam e as discussões terminam sempre sem nenhum vencedor. Como pode haver vencedor se o debate girava em torno de duas verdades opostas? É como sempre se diz do matrimônio, se não houver doação e não ceder as intrigas, conflitos e discussões transformam o dia a dia e a rotina num verdadeiro cenário de batalha. E mais cedo ou mais tarde, começam a aparecerem os feridos.
@@ -18,6 +19,5 @@ Artigos relacionados:
 <a href="https://www.devotos-de-maria.com.br/2016/08/brigar-discutir-e-xingar.html" target="_blank">Brigar, Discutir e Xingar</a>
 
 <a href="https://www.devotos-de-maria.com.br/2016/09/voce-ja-reclamou-hoje.html" target="_blank">Você já reclamou hoje?</a>
-
 
 fonte: Jefferson Roger

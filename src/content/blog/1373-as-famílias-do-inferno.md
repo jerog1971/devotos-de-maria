@@ -4,7 +4,8 @@ date: 2017-08-10T18:07:00Z
 heroImage: "/images/posts/1373-as-famílias-do-inferno-inferno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1373-as-famílias-do-inferno-inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1373-as-famílias-do-inferno-inferno.png" width="320" height="319" data-original-width="302" data-original-height="301" /></a></div>
+![](/images/posts/1373-as-famílias-do-inferno-inferno.png)
+
 Aos cristãos de todo o mundo, que se esforçam para viverem o caminho da porta estreita, no segmento do rigoroso evangelho de nosso senhor Jesus Cristo, é sempre um grande pesar testemunhar pelo mundo afora que tudo aquilo que foi pensado, desejado e criado por Deus é gravemente jogado na lama, que nada mais é que a lama do pecado. O pecador sempre quando peca se comporta como se proclamasse que Deus está errado e que o mundo é que está certo. Família é mulher, marido e filhos, mais nada. Qualquer combinação diferente desta, como diz nas sagradas escrituras: vem do maligno.</br>
 </br>
 Pois muito bem, mesmo em nosso pequeno mundinho que acaba por ser globalizado por conta da modernidade, tecnologia e meio de comunicação em toda a espécie de mídia, terminamos por ter ciência do estrago que os inimigos da alma promovem por toda a parte. Já escrevi em outros artigos por aqui e o que escrevi tantos outros cristãos e a própria igreja já trataram do assunto a respeito, além é claro, da santa palavra de Deus, de que as coisas como são colocadas hoje em dia estão completamente erradas. Esse negócio de que para toda regra existe a exceção não vale para se argumentar contra Deus.</br>

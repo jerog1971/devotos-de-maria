@@ -4,7 +4,8 @@ date: 2019-05-08T18:44:00.002Z
 heroImage: "/images/posts/1130-a-pulverização-na-internet-jejum.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1130-a-pulverização-na-internet-jejum.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1130-a-pulverização-na-internet-jejum.png" width="283" height="320" data-original-width="355" data-original-height="402" /></a></div>
+![](/images/posts/1130-a-pulverização-na-internet-jejum.png)
+
 A grande rede mundial de informações realmente, como qualquer um pode comprovar, fornece uma imensidão de informações. De fato, ela é tão útil quanto inútil e isso podemos constatar por causa da finalidade que as pessoas dão para essa ferramenta tecnológica que já tem seu lugar ao sol plenamente conquistado.</br>
 </br>
 Não existe um uníssono quando o assunto é informação e opinião. Todos podem, por trás das telinhas, serem os lobos devoradores de ovelhas. As trocas de farpas e debates acalorados não saem, na maioria das vezes, do campo virtual. Então, por conta disso, todo mundo é corajoso quando empunha não mais um revolver, mas um teclado. </br>

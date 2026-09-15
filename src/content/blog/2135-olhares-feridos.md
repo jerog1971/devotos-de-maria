@@ -4,7 +4,11 @@ date: 2020-05-08T16:16:00.001Z
 heroImage: "/images/posts/2135-olhares-feridos-img-838544891.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2135-olhares-feridos-img-838544891.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1350" height="320" src="/images/posts/2135-olhares-feridos-img-838544891.jpgs320/Olhares_feridos.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nossos sentidos como bem sabemos são, entre outras coisas,
+<br />
+
+![](/images/posts/2135-olhares-feridos-img-838544891.jpgs320/Olhares_feridos.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nossos sentidos como bem sabemos são, entre outras coisas,
 responsáveis por promover nossos sentimentos. São diariamente muito utilizados,
 pena que, infelizmente, o diabo faz uso deles também. Deixamos que ele os influencie
 e tente nos arrastar para o lado do mal. Se isso acontece, nossos sentidos,
@@ -32,6 +36,6 @@ ele).</p>
 consiste em viver uma vida que agrade a Deus e descontente Satanás? O remédio é
 Jesus, médico do corpo e da alma.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

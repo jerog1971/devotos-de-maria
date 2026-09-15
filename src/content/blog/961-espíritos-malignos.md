@@ -4,7 +4,9 @@ date: 2025-07-24T19:57:00.005Z
 heroImage: "/images/posts/961-espíritos-malignos-esp_C3_ADritos_20malignos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/961-espíritos-malignos-esp_C3_ADritos_20malignos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="441" data-original-width="493" height="286" src="/images/posts/961-espíritos-malignos-esp_C3_ADritos_20malignos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">Que andam pelo mundo para perder as almas. E uma de suas formas de
+![](/images/posts/961-espíritos-malignos-esp_C3_ADritos_20malignos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;">Que andam pelo mundo para perder as almas. E uma de suas formas de
 fazer isso é através da forma ordinária das tentações. Tentações
 que soam aos sentidos humanos como um canto que embala e entorpece as
 faculdades mentais. Tentações que convertem a razão humana através
@@ -37,4 +39,7 @@ conscientes que essa batalha é aquela que exige de nós o esforço
 contido em Lucas 9,23 e Hebreus 12,4: renunciar a nós mesmos levando
 a cruz dia após dia e lutar até o sangue contra o pecado.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

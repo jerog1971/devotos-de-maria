@@ -4,7 +4,8 @@ date: 2017-09-13T12:01:00Z
 heroImage: "/images/posts/902-cartas-para-deus-cartas_para_deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/902-cartas-para-deus-cartas_para_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/902-cartas-para-deus-cartas_para_deus.png" width="237" height="320" data-original-width="716" data-original-height="967" /></a></div>
+![](/images/posts/902-cartas-para-deus-cartas_para_deus.png)
+
 Deus nos fala de muitas formas, nós é que não ouvimos, não prestamos a atenção (Jó 33,13-14). Temos o mau hábito de transformar nossas orações em listas de pedidos e exigências, tentando inutilmente arrancar de Deus alguma coisa que queremos para em troca o bendizermos publicamente. Assim não são as coisas pois dessa forma “que recompensa tereis?”(Mateus 5,46)</br>
 </br>
 Já dizia Santa Tereza D´Ávila: “não é a toa Senhor que tens tão poucos amigos”. Dizia ela dessa forma em face da conduta que Deus adota com suas criaturas. As pessoas não possuem inteligência suficiente para compreender porque que o tratamento de Deus para com elas precisa vir recheado de sofrimentos, dificuldades, tribulações e toda a forma de acontecimentos que na grande maioria das vezes parecem não se encaixarem no comportamento que esperaríamos de um denominado Deus de amor e misericórdia.</br>

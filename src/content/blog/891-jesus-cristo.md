@@ -4,11 +4,13 @@ date: 2020-11-09T16:26:00.001Z
 heroImage: "/images/posts/891-jesus-cristo-jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/891-jesus-cristo-jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" src="/images/posts/891-jesus-cristo-jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal"><b>U</b> m dia Deus viu que a humanidade precisava<o:p></o:p></p><div class="separator" style="clear: both;">
+![](/images/posts/891-jesus-cristo-jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal"><b>U</b> m dia Deus viu que a humanidade precisava<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal"><b>M</b> uito ser reconciliada com seu criador. Na<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal"><b>H</b> ora e momento certos, na plenitude dos tempos,<o:p></o:p></p>
 
@@ -20,7 +22,7 @@ heroImage: "/images/posts/891-jesus-cristo-jesus.png"
 
 <p class="MsoNormal"><b>M</b> ostrar como se chega ao Pai. Reconciliados<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal"><b>C</b> om Deus, graças a paixão do Redentor,<o:p></o:p></p>
 
@@ -37,7 +39,7 @@ Cristo.<o:p></o:p></p>
 
 <p class="MsoNormal"><b>O</b> filho de Deus que<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal"><b>J</b> amais mediu esforços para<o:p></o:p></p>
 
@@ -49,7 +51,7 @@ Cristo.<o:p></o:p></p>
 
 <p class="MsoNormal"><b>S</b> ua ascenção estar<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal"><b>C</b> onosco em todos os dias dessa caminhada<o:p></o:p></p>
 
@@ -61,4 +63,7 @@ Cristo.<o:p></o:p></p>
 
 <p class="MsoNormal"><b>T</b> ão sublime intercessora junto ao filho:<o:p></o:p></p>
 
-<p class="MsoNormal"><b>O</b> Salvador do Mundo – Lucas 2,11.<o:p></o:p></p><p class="MsoNormal"><br /></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div><p><br />&nbsp;</p>
+<p class="MsoNormal"><b>O</b> Salvador do Mundo – Lucas 2,11.<o:p></o:p></p><p class="MsoNormal"><br /></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div>
+
+<br /> 
+

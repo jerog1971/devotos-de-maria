@@ -4,7 +4,8 @@ date: 2020-03-19T15:24:00.001Z
 heroImage: "/images/posts/503-festa-do-diabo-img-140427585.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/503-festa-do-diabo-img-140427585.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/503-festa-do-diabo-img-257549329.png" width="320" height="271" data-original-width="525" data-original-height="444" /></a></div>
+![](/images/posts/503-festa-do-diabo-img-257549329.png)
+
 O memorial da paixão, morte e ressurreição de Nosso Senhor Jesus Cristo (fazei isso em memória de mim – Lucas 22,19) foi, para a alegria do diabo, interrompido por período indeterminado. Grandes santuários ao redor do mundo interromperam a prática do sacramento da confissão e da celebração da santa missa. Valha-me Deus, onde isso vai parar?</br>
 </br>
 Será que Deus, para o bem comum da saúde global, permitiria, aceitaria ou ordenaria uma medida nesta direção, algo completamente contraditório aos seus ensinamentos? Teria Jesus que disse – quem come a minha carne e bebe o meu sangue permanece em mim e eu nele e terá a vida eterna – agora resolveu que a comunhão com Deus será alterada para uma nova forma? Todos os XXI séculos de sua doutrina agora simplesmente, vão por água abaixo, assim tão facilmente, promovido por decretos mundanos? Ainda que para o alegado bem da saúde pública?</br>

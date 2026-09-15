@@ -4,7 +4,9 @@ date: 2021-07-29T20:24:00.001Z
 heroImage: "/images/posts/219-fraquezas-físicas-e-espirituais-fraqueza_espiritual.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/219-fraquezas-físicas-e-espirituais-fraqueza_espiritual.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="218" data-original-width="246" height="218" src="/images/posts/219-fraquezas-físicas-e-espirituais-fraqueza_espiritual.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que fazer em relação a elas? O ser humano não nasceu
+![](/images/posts/219-fraquezas-físicas-e-espirituais-fraqueza_espiritual.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O que fazer em relação a elas? O ser humano não nasceu
 doente, tornou-se doente por conta de suas escolhas. Se elas o afastam das
 coisas do alto, das coisas de Deus, elas ampliam o que de mal existe dentro de
 cada um. O mesmo vale, graças a Deus, ao que é bom, se as escolhas nos aproximam
@@ -28,4 +30,7 @@ por muito pouco que satanás oferece ela é deixada de lado. Jesus, para colocar
 um ponto final na questão deixou bem claro: “Sem mim, nada podeis fazer” – João
 15.5.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2025-05-21T17:54:00.003Z
 heroImage: "/images/posts/1876-o-sombrio-mundo-virtual-sombrio_20mundo_20virtual.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1876-o-sombrio-mundo-virtual-sombrio_20mundo_20virtual.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="375" data-original-width="478" height="251" src="/images/posts/1876-o-sombrio-mundo-virtual-sombrio_20mundo_20virtual.png" width="320" /></a></div><br />&nbsp;<p></p><p style="line-height: 100%; margin-bottom: 0cm;">
+![](/images/posts/1876-o-sombrio-mundo-virtual-sombrio_20mundo_20virtual.png)
+
+<br /> <p style="line-height: 100%; margin-bottom: 0cm;">
 Sim, existe a claridade nele, mas reina também uma boa parcela
 perigosa que envolve a participação daqueles que investem o seu
 tempo para coisas diferentes de um contexto saudável. Para ilustrar
@@ -44,6 +46,7 @@ sobrevivido às novas versões de guerras. Eu estou a um passo de
 desistir. Proteja-se. Em proporções diferentes, é claro, mas você
 está sob a mira da mais assertiva armadilha que o Diabo criou: o
 mundo virtual.”</p>
-<p><br />
-Fonte: adaptado por Jefferson Roger do site da bandab</p>
+
+<br />
+Fonte: adaptado por Jefferson Roger do site da bandab
 

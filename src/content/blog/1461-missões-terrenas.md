@@ -4,7 +4,9 @@ date: 2024-08-12T17:21:00Z
 heroImage: "/images/posts/1461-missões-terrenas-miss_C3_B5es_20terrenas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1461-missões-terrenas-miss_C3_B5es_20terrenas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="645" data-original-width="650" height="318" src="/images/posts/1461-missões-terrenas-miss_C3_B5es_20terrenas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus de vez em quando lança para seus filhos alguns pedidos;
+![](/images/posts/1461-missões-terrenas-miss_C3_B5es_20terrenas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Deus de vez em quando lança para seus filhos alguns pedidos;
 uns mais simples, outros nem tanto, e assim, vai nosso criador averiguando se “somos
 fiéis no pouco e também no muito”. Alguns desses pedidos alcançam um patamar
 tão alto que desafiam a capacidade humana. São momentos em que nossa vida se
@@ -42,4 +44,7 @@ cartas, “cuidar para não cair quando estou de pé”. Afinal, na fila das pes
 que tenho para não desagradar os filhos estão no TOP 03: 01-Santíssima Trindade
 (Deus, Jesus, Espírito Santo), 02-Maria Santíssima, 03-Família (esposa e filhas).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

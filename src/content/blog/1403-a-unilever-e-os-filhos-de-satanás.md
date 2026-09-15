@@ -4,7 +4,8 @@ date: 2017-10-17T17:21:00Z
 heroImage: "/images/posts/1403-a-unilever-e-os-filhos-de-satanás-omo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1403-a-unilever-e-os-filhos-de-satanás-omo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1403-a-unilever-e-os-filhos-de-satanás-omo.png" width="320" height="182" data-original-width="628" data-original-height="357" /></a></div>
+![](/images/posts/1403-a-unilever-e-os-filhos-de-satanás-omo.png)
+
 Recentemente caros leitores, a empresa Omo, que pertence ao grupo Unilever, que para quem não sabe é grande apoiadora da maior empresa de controle de natalidade e aborto do mundo chamada Planned Parentood, divulgou um vídeo conclamando os pais e responsáveis através de sua campanha pró-ideologia de gênero a inculcarem nas mentes infantis a ideia de que sexo não é uma condição criada por Deus e sim uma construção social onde cada um pode decidir que papel (sexo) vai escolher.
 Notaram caros leitores que vivemos em tempos que parece que tudo está afunilando? Não damos conta de assistir, tomar conhecimento ou de denunciar tantas barbaridades. Sabemos que o diabo tem sobre ele o decreto da derrota, mas, mesmo assim, faz todo o estrago possível aos filhos de Deus. Não é possível olhar para o mundo em que vivemos e achar que nossa geração não é a última a passar por essa terra. Parece que é. Embora também possa ter parecido em gerações passadas ao longo da história da humanidade desde o princípio das coisas, nós, que vivemos no hoje, podemos quase apalpar o furor da batalha que acontece frente nossos olhos.</br>
 </br>

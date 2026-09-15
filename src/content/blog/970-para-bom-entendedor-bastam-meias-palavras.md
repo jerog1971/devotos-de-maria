@@ -4,7 +4,8 @@ date: 2019-06-14T15:08:00.001Z
 heroImage: "/images/posts/970-para-bom-entendedor-bastam-meias-pal-bom_entendedor.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/970-para-bom-entendedor-bastam-meias-pal-bom_entendedor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/970-para-bom-entendedor-bastam-meias-pal-bom_entendedor.png" width="320" height="287" data-original-width="559" data-original-height="501" /></a></div>
+![](/images/posts/970-para-bom-entendedor-bastam-meias-pal-bom_entendedor.png)
+
 Caros leitores, frases como essa e suas variações muito possivelmente foram ouvidas por vocês ou quem sabe até proferidas. Falam por aí, nos ditos populares, que não precisa dar muito detalhe sobre algo para alguém que está “antenado”. Com poucas explicações já é possível absorver a essência da coisa e agir ou reagir conforme sua necessidade.</br>
 </br>
 Muitos dão de ombros e na presunção assumida vestem a carapuça do que na infância de muitos chamava-se de “metidez” (palavra cunhada para denominar pessoa que é metida) dentro do meio informal. Pois bem, além do que alguns dizem que a falta de paciência e o “eu já sei disso” também fazem uso dessa expressão. É como alguém que está a ouvir e algo que já sabe e então nos sai com essa: Fulano, pode parar de falar, para bom entendedor bastam meias palavras.</br>

@@ -4,7 +4,9 @@ date: 2022-03-12T14:38:00Z
 heroImage: "/images/posts/1772-nada-de-ordens-img-28629454.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1772-nada-de-ordens-img-28629454.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3611" data-original-width="2848" height="320" src="/images/posts/1772-nada-de-ordens-img-1940586054.jpg" width="252" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem alguma coisa que o ser humano vai tomando ciência à
+![](/images/posts/1772-nada-de-ordens-img-1940586054.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se tem alguma coisa que o ser humano vai tomando ciência à
 medida que vai crescendo e evoluindo, é que sua vida é cercada por situações
 que envolvem ordens. E como ele é composto por corpo e alma, ordens a seguir
 acontecem no meio da sociedade e também, mas principalmente, acontecem na
@@ -31,4 +33,7 @@ cada um dificulta a caminhada rumo ao céu. Como disse o Cristo, entre nós
 [cristãos] não deve ser assim, agir no egoísmo e na rebeldia é seguir outro
 exemplo: o do diabo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

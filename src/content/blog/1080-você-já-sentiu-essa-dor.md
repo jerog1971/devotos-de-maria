@@ -4,7 +4,8 @@ date: 2018-08-24T19:56:00Z
 heroImage: "/images/posts/1080-você-já-sentiu-essa-dor-dor.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1080-você-já-sentiu-essa-dor-dor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1080-você-já-sentiu-essa-dor-dor.png" width="292" height="320" data-original-width="355" data-original-height="389" /></a></div>
+![](/images/posts/1080-você-já-sentiu-essa-dor-dor.png)
+
 <b>D</b>eprimido = triste, abatido.</br>
 </br>
 <b>O</b>primido = humilhado ou sujeitado.</br>

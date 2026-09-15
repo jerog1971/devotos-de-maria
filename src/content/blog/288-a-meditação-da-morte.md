@@ -4,7 +4,11 @@ date: 2020-06-23T14:46:00.003Z
 heroImage: "/images/posts/288-a-meditação-da-morte-morrer.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/288-a-meditação-da-morte-morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" src="/images/posts/288-a-meditação-da-morte-img-1575612545.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mui depressa chegará teu fim neste mundo; vê, pois, como te
+<br />
+
+![](/images/posts/288-a-meditação-da-morte-img-1575612545.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mui depressa chegará teu fim neste mundo; vê, pois, como te
 preparas: hoje está vivo o homem, e amanhã já não existe. Entretanto, logo que
 se perdeu de vista, também se perderá da memória. Ó cegueira e dureza do
 coração humano, que só cuida do presente, sem olhar para o futuro! De tal modo

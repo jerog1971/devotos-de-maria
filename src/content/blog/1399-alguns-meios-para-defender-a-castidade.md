@@ -4,7 +4,8 @@ date: 2015-10-14T12:28:00.001Z
 heroImage: "/images/posts/1399-alguns-meios-para-defender-a-castidade-santo_afonso_maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1399-alguns-meios-para-defender-a-castidade-santo_afonso_maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1399-alguns-meios-para-defender-a-castidade-santo_afonso_maria.png" width="271" height="320" data-original-width="436" data-original-height="515" /></a></div>
+![](/images/posts/1399-alguns-meios-para-defender-a-castidade-santo_afonso_maria.png)
+
 </br>
 TRATADO DA CASTIDADE</br>
 </br>  

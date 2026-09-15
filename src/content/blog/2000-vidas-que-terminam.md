@@ -4,7 +4,9 @@ date: 2021-03-19T15:09:00.003Z
 heroImage: "/images/posts/2000-vidas-que-terminam-ressurrei_25C3_25A7_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2000-vidas-que-terminam-ressurrei_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="669" data-original-width="712" src="/images/posts/2000-vidas-que-terminam-ressurrei_25C3_25A7_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O corpo, segundo informações bíblicas está destinado a
+![](/images/posts/2000-vidas-que-terminam-ressurrei_25C3_25A7_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O corpo, segundo informações bíblicas está destinado a
 algumas coisas. Destinado a voltar ao pó, destinado a ser ressuscitado e destinado
 à santidade. Deve voltar ao pó para reparar a sua participação frente as ofensas
 cometidas contra Deus. Depois, ressuscitado e unido novamente a alma, receberá
@@ -43,4 +45,7 @@ evitar a transformação da morte, resta a cada um, como sempre se diz, estar co
 a mala pronta para viagem vivendo de acordo com os mandatos e a vontade divina.
 Mas, cabe também a cada um, crer ou não, Deus permite que se escolha.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2020-02-21T15:32:00Z
 heroImage: "/images/posts/744-achou-que-seria-fácil-seguir-jesus-cruz.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/744-achou-que-seria-fácil-seguir-jesus-cruz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/744-achou-que-seria-fácil-seguir-jesus-cruz.png" width="320" height="219" data-original-width="460" data-original-height="315" /></a></div>
+![](/images/posts/744-achou-que-seria-fácil-seguir-jesus-cruz.png)
+
 Pois bem, se está dando uma passadinha por este site já deve ter percebido que não é. Ainda mais quando ouvimos de sua boca que “quem quer se salvar, renuncie a si mesmo, tome sua cruz dia após dia e me siga” – Lucas 9,23. E mais: quem coloca a mão no arado e olha para trás não é digno de mim. Pois é, a religião, que existe para religar o homem a Deus não funciona no estilo “super bond”, não é como a cola instantânea que em poucos segundos une duas coisas. Na vida real percebemos que unir-se a Jesus requer um esforço que, além de contínuo, consome praticamente todo nosso tempo e forças.</br>
 </br>
 Por isso as pessoas sofrem a barbaridade que sofrem. Não existe esmero na caminhada rumo ao céu. O tempo que Deus deu a cada um é diluído em muitas atividades e prazeres e assim, como uma dedicação tão pequena vamos sentindo o peso dos passos que são percorridos para frente. São Paulo vai dizer que “quem está de pé cuide para que não caia.” De fato, qualquer um já viu o quanto difícil é subir a ladeira, afinal, o paraíso celeste fica para cima, a danação eterna para baixo; não é à toa que viver lascivamente é muito mais fácil. Só que muitos esquecem do perigo que a descida representa.</br>

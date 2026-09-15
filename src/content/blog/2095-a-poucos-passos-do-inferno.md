@@ -4,7 +4,9 @@ date: 2023-01-18T02:27:00.001Z
 heroImage: "/images/posts/2095-a-poucos-passos-do-inferno-pecado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2095-a-poucos-passos-do-inferno-pecado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="287" height="266" src="/images/posts/2095-a-poucos-passos-do-inferno-pecado.png" width="287" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia, na carta de São Tiago, que quem transgride
+![](/images/posts/2095-a-poucos-passos-do-inferno-pecado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lemos na bíblia, na carta de São Tiago, que quem transgride
 um item da lei é culpado de desobedece-la por inteiro, porque o promulgador da
 lei que escreve esta norma, também escreve aquela norma. Vamos conferir. “Pois
 quem guardar os preceitos da lei, mas faltar em um só ponto, tornar-se-á
@@ -33,4 +35,7 @@ céu está a uma distância de uma difícil escalada. A jornada é longa e difí
 é por isso que Jesus deu a maior de todas as dicas: “Sem mim nada podeis fazer”
 – João 15,5.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2022-02-09T16:32:00.002Z
 heroImage: "/images/posts/1873-crianças-atacadas-img-604568907.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1873-crianças-atacadas-img-604568907.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="466" height="299" src="/images/posts/1873-crianças-atacadas-img-604569998.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus é bem direto quando adverte as pessoas sob o mal que
+![](/images/posts/1873-crianças-atacadas-img-604569998.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus é bem direto quando adverte as pessoas sob o mal que
 elas pretendam fazer para as crianças. Nem poderia ser diferente. A inocência
 de uma criança, sua pureza, sua ingenuidade, sua capacidade de enxergar o bem
 acima de tudo e perceber nos detalhes a beleza da criação divina, entre outras
@@ -47,4 +49,7 @@ que vivem dentro de cada um e percorrer o caminho de mãos dadas com o Cristo e
 sua mãe, a sempre Virgem Maria, responsável por nos fazer não esquecer que
 devemos “fazer tudo o que ele (seu filho) nos disser”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

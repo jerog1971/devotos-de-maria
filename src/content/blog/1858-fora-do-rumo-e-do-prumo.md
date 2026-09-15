@@ -4,8 +4,10 @@ date: 2025-03-14T18:26:00Z
 heroImage: "/images/posts/1858-fora-do-rumo-e-do-prumo-fora_20do_20prumo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1858-fora-do-rumo-e-do-prumo-fora_20do_20prumo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="433" height="239" src="/images/posts/1858-fora-do-rumo-e-do-prumo-fora_20do_20prumo.png" width="320" /></a></div><br />&nbsp;
-<p></p><p class="MsoNormal">Se estamos em uma floresta e precisamos sair do ponto A em
+![](/images/posts/1858-fora-do-rumo-e-do-prumo-fora_20do_20prumo.png)
+
+<br /> 
+<p class="MsoNormal">Se estamos em uma floresta e precisamos sair do ponto A em
 direção ao ponto B, temos algumas opções. Se soubermos onde fica o ponto B
 podemos, por exemplo, utilizar uma bússola para nos guiarmos até lá. Outra
 opção seria percorrer um caminho que já existe para ligar os dois lugares.</p>
@@ -30,5 +32,4 @@ auxílio divino é como o próprio Cristo disse: virá a ruína sobre a casa con
 em cima da areia.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

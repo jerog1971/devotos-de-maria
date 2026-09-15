@@ -4,7 +4,8 @@ date: 2019-01-15T22:54:00.001Z
 heroImage: "/images/posts/395-a-rotina-da-oração-rezando.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/395-a-rotina-da-oração-rezando.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/395-a-rotina-da-oração-rezando.jpg" width="256" height="320" data-original-width="384" data-original-height="480" /></a></div>
+![](/images/posts/395-a-rotina-da-oração-rezando.jpg)
+
 Muitas pessoas ditas de fé colocam em sua rotina diária suas práticas religiosas. Separam durante seu dia um horário para as meditações, para as orações, para o rosário, para as reflexões, leituras católicas e sagradas. Ao longo de suas vinte e quatro horas vão vivendo e colocando Deus e tudo que procede dele entrelaçado no decorrer das horas que passam.</br>
 </br>
 Se a rotina é adaptada numa vida atribulada e tem sucesso, ótimo. Todavia, o que acontece se, por exemplo, o sujeito tira férias do trabalho? Digamos que durante o dia cerca de três horas são destinadas ao convívio mais direto com Deus, isso dentro de uma agenda bem atribulada. Ora, pode-se facilmente cair na tentação de se pensar que se a pessoa tira férias de seu trabalho terá mais tempo disponível para sua comunhão com Deus.</br>

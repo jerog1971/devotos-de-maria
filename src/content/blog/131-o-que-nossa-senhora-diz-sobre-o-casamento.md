@@ -4,7 +4,8 @@ date: 2019-07-08T19:28:00.002Z
 heroImage: "/images/posts/131-o-que-nossa-senhora-diz-sobre-o-casamento-Ivanka.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/131-o-que-nossa-senhora-diz-sobre-o-casamento-Ivanka.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/131-o-que-nossa-senhora-diz-sobre-o-casamento-Ivanka.png" width="320" height="312" data-original-width="427" data-original-height="416" /></a></div>
+![](/images/posts/131-o-que-nossa-senhora-diz-sobre-o-casamento-Ivanka.png)
+
 Nossa Senhora está nos chamando para respeitarmos o Sacramento do Santo Matrimônio – Ivanka Ivankovick-Elez. “Ontem houve um casamento no hotel onde nós estamos hospedados. Eu os vi todos muito alegres e felizes – o jovem casal e todos os amigos que estavam lá. Do primeiro dia em diante, eles precisam dar ao outro aquele amor, aquele calor, e cuidar para que aquele amor possa crescer, e que eles possam seguir em frente no caminho da santidade. </br>
 </br>
 Quando nós nos casamos em casa, naquele momento quando fizemos o juramento, pegamos um crucifixo em nossas mãos. E sobre a cruz, nós prometemos, diante de Deus e de nossas testemunhas, que nós cuidaremos um do outro, e respeitaríamos um ao outro, nos dias bons e nos dias ruins, na saúde e na doença. Porque através do caminho da vida, existirão desentendimentos; existirão problemas, haverá doença e dor.</br>

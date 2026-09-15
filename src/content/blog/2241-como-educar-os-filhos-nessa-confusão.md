@@ -4,7 +4,8 @@ date: 2019-03-25T20:06:00Z
 heroImage: "/images/posts/2241-como-educar-os-filhos-nessa-confusã-ensinando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2241-como-educar-os-filhos-nessa-confusã-ensinando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2241-como-educar-os-filhos-nessa-confusã-ensinando.png" width="320" height="265" data-original-width="341" data-original-height="282" /></a></div>
+![](/images/posts/2241-como-educar-os-filhos-nessa-confusã-ensinando.png)
+
 “O mundo atual está imerso na cultura do relativismo. Não existem mais certezas, nem valores nos quais se basear. O certo e o errado são apenas conceitos vagos que variam de pessoa para pessoa, de acordo com o que se traz ou não do berço. O mais forte opositor dessa cultura é o Papa Bento XVI, que a classificou não como "cultura", mas sim, como ditadura do Relativismo.</br>
 </br>
 A ditadura do relativismo está inserida em todos os campos, inclusive no educacional. Desde a mais tenra idade as crianças já estão sendo mergulhadas nesse modo de enxergar a vida e quanto mais avançam na caminhada escolar mais são influenciadas. </br>

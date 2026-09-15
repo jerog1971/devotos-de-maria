@@ -4,7 +4,9 @@ date: 2022-03-31T19:17:00.001Z
 heroImage: "/images/posts/2116-as-duas-grandes-dicas-de-jesus-barco.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2116-as-duas-grandes-dicas-de-jesus-barco.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="297" height="320" src="/images/posts/2116-as-duas-grandes-dicas-de-jesus-barco.png" width="242" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muita coisa aprendemos da boca e do exemplo de nosso
+![](/images/posts/2116-as-duas-grandes-dicas-de-jesus-barco.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muita coisa aprendemos da boca e do exemplo de nosso
 salvador Jesus Cristo. Nem podemos elencar o que seria mais importante, pois,
 sendo ele quem é, tudo, podemos colocar nestes termos, é de suma importância
 para nossas vidas, tanto na parte física quanto espiritual, já que nesta etapa
@@ -39,4 +41,7 @@ tem consciência de seus pecados”. Claro! Não seria diferente, não podemos a
 a dois senhores: na oração nos aproximamos de Deus, se a evitamos é porque
 estamos escolhendo outro caminho diferente daquilo que Jesus ordenou.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

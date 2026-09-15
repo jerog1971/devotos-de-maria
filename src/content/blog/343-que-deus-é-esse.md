@@ -4,7 +4,9 @@ date: 2021-01-04T14:52:00.002Z
 heroImage: "/images/posts/343-que-deus-é-esse-biblia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/343-que-deus-é-esse-biblia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="336" data-original-width="293" height="320" src="/images/posts/343-que-deus-é-esse-biblia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto mistério envolve a pessoa de Deus... Para muitos é
+![](/images/posts/343-que-deus-é-esse-biblia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quanto mistério envolve a pessoa de Deus... Para muitos é
 difícil conectar o “Deus” do antigo testamento, que mandava povos serem
 exterminados, com o “Deus” do novo testamento, que é denominado como sinônimo
 de amor. Um Deus que pune, castiga, exige sofrimentos sem conta e nos fornece
@@ -49,4 +51,7 @@ Santíssima para que nossa vida não perca sentido, seja enfadonha, monótona ou
 rotineira. Ademais se lê em Deuteronômio 29,29 que Deus só nos revelou o que é
 vital sabermos para nossa salvação.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-07-18T12:30:00Z
 heroImage: "/images/posts/657-uma-fé-morta-f_25C3_25A9_morta.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/657-uma-fé-morta-f_25C3_25A9_morta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/657-uma-fé-morta-f_25C3_25A9_morta.png" width="320" height="245" data-original-width="683" data-original-height="522" /></a></div>
+![](/images/posts/657-uma-fé-morta-f_25C3_25A9_morta.png)
+
 Tão importante é o tema da tentação, que mereceu ser incluído por Nosso Senhor na oração do Pai-Nosso: "Não nos deixeis cair em tentação" (Mt 6, 13). Tão negligenciado, porém, é esse mesmo assunto, que bem se pode dizer que a única tentação da qual muitos ouviram falar foi aquela que seduziu Adão e Eva, no Jardim do Éden (cf. Gn 3, 1-7). As pessoas – e, deve-se dizer, os cristãos – vivem como se tentações não existissem – e, com elas, tampouco o pecado, o demônio ou o inferno.</br>
 </br>
 Isso acontece porque o mundo está impregnado de materialismo e não consegue mais elevar os seus olhos para nada que esteja além da experiência dos sentidos. Verdadeiro, então, é o que se pode ver, ouvir, tocar, cheirar ou sentir... Todo o resto parece situar-se no campo da mera subjetividade. O próprio Deus é muitas vezes reduzido a um "sentimento", a alguns arrepios que se sentem durante um culto religioso ou uma palestra motivacional. As realidades espirituais, porque invisíveis, deixaram de ser reais para o homem moderno, deixaram de ser úteis e, lamentavelmente, são muitos os que as abandonam.</br>

@@ -4,7 +4,8 @@ date: 2018-09-04T20:30:00Z
 heroImage: "/images/posts/095-ganhei-o-dia-ganhei_o_dia.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/095-ganhei-o-dia-ganhei_o_dia.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/095-ganhei-o-dia-ganhei_o_dia.jpg" width="211" height="320" data-original-width="1055" data-original-height="1600" /></a></div>
+![](/images/posts/095-ganhei-o-dia-ganhei_o_dia.jpg)
+
 Sempre tenho falado pelas catequeses e palestras que tenho dado, com temas relacionados com a meta final de todo católico que, o que importa, além de estarmos sempre com a “malinha” pronta para viagem, é focarmos no objetivo final que é passar para o lado de lá da porta estreita. Às vezes, em reflexões e meditações que faço, penso: “qual será a primeira coisa que irei dizer quando, por misericórdia divina, for admitido aos céus?” Penso e respondo: “consegui”.</br>
 </br>
 É aquele sentimento de ter superado todas as adversidades da vida, todas as incompreensões que nos derrubaram tantas vezes e ter vencido todas as batalhas que me deixaram prostrado no chão. É poder olhar para a primeira etapa da vida que se foi e perceber que os anos terrestres deixam naquele instante de perder importância porque o objetivo da vida eterna na glória de Deus foi alcançado. O que são anos terrestres de uma vida, mesmo que de dificuldades e sofrimentos comparados a felicidade eterna?</br>

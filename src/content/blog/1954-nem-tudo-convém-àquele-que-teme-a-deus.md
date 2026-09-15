@@ -4,7 +4,9 @@ date: 2021-12-17T19:13:00Z
 heroImage: "/images/posts/1954-nem-tudo-convém-àquele-que-teme-a-d-img-1915245756.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1954-nem-tudo-convém-àquele-que-teme-a-d-img-1915245756.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="161" data-original-width="194" height="256" src="/images/posts/1954-nem-tudo-convém-àquele-que-teme-a-d-img-1930113455.jpg" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Este é um dos muitos assuntos polêmicos que parece que nunca
+![](/images/posts/1954-nem-tudo-convém-àquele-que-teme-a-d-img-1930113455.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Este é um dos muitos assuntos polêmicos que parece que nunca
 terão solução, embora esta seja muito simples se a pessoa desejar dar ouvidos
 ao que Deus nos ensina em sua santa palavra. Pois bem, vamos lá, vamos entender
 o que está por trás da questão para não cair no conto do trapaceiro maldito: o
@@ -45,4 +47,7 @@ Virgem Maria, quando disse em Fátima que viriam muitas modas que ofenderiam seu
 filho Jesus. O livre arbítrio está aí, a vigilância que Jesus exigiu de todos
 também.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

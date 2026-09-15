@@ -4,7 +4,8 @@ date: 2019-04-12T15:21:00.002Z
 heroImage: "/images/posts/2054-padre-marcelo-rossi-e-xuxa-são-a-me-Rossi_e_Xuxa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2054-padre-marcelo-rossi-e-xuxa-são-a-me-Rossi_e_Xuxa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2054-padre-marcelo-rossi-e-xuxa-são-a-me-Rossi_e_Xuxa.png" width="320" height="313" data-original-width="294" data-original-height="288" /></a></div>
+![](/images/posts/2054-padre-marcelo-rossi-e-xuxa-são-a-me-Rossi_e_Xuxa.png)
+
 Caros leitores, segue aqui um trecho de entrevista concedida pelo excomungado teólogo Leonardo Boff para a revista época. Transcrevo parte aqui do que foi relatado lá em razão deste site defender que padre deveria seguir os moldes do Padre Pio, de São João Maria Vianney, do Padre Duarte Souza Lara e do Padre Gabrielle Amorth, só para apontar uma direção.</br>
 </br>
 O padre Marcelo Rossi e a Xuxa Meneghel são “a mesma coisa”, disse o teólogo Leonardo Boff em uma entrevista na qual ele criticou os padres “animadores de auditórios”. </br>

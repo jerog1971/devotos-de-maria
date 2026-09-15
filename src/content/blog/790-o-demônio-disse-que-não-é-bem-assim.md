@@ -4,7 +4,9 @@ date: 2022-05-04T16:56:00.003Z
 heroImage: "/images/posts/790-o-demônio-disse-que-não-é-bem-assim-alei.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/790-o-demônio-disse-que-não-é-bem-assim-alei.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="370" height="308" src="/images/posts/790-o-demônio-disse-que-não-é-bem-assim-alei.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tudo isso que é “pintado” sobre Deus aos homens não é
+![](/images/posts/790-o-demônio-disse-que-não-é-bem-assim-alei.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Tudo isso que é “pintado” sobre Deus aos homens não é
 totalmente genuíno. Afinal, é claro que para vender o seu peixe existem duas
 técnicas: falar mal do peixe do outro ou falar muito bem do seu próprio, o que
 seria muito mais honesto. Há quem diga que os livros de história, em sua maioria,
@@ -37,4 +39,8 @@ um executor de desgraças terrenas. O inimigo omite e quer mudar o sentido das
 coisas, por exemplo, que “Deus corrige e castiga aqueles que ama e tem por seus
 filhos”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p><div class="separator" style="clear: both; text-align: left;"><br /></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><br /> 

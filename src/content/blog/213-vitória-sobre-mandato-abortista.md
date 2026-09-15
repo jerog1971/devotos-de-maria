@@ -4,13 +4,16 @@ date: 2016-08-23T11:39:00.001Z
 heroImage: "/images/posts/213-vitória-sobre-mandato-abortista-freiras.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/213-vitória-sobre-mandato-abortista-freiras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/213-vitória-sobre-mandato-abortista-freiras.png" width="320" height="269" data-original-width="262" data-original-height="220" /></a></div>
+![](/images/posts/213-vitória-sobre-mandato-abortista-freiras.png)
+
 UMA CONGREGAÇÃO RELIGIOSA venceu o governo Barack Obama num processo que corria na Suprema Corte do país. Em 2012, o governo norte-americano obrigou todas as empresas e instituições a oferecer plano de saúde aos seus empregados, incluindo controle de natalidade, esterilização e pílulas abortivas. Todavia a Suprema Corte daquele país decidiu recentemente (05/2016), por votação unânime, que o governo não poderá multar a Congregação das Irmãzinhas dos Pobres por não obedecer à ordem arbitrária.</br>
 </br>
 A Justiça determinou ainda que tribunais menores ajudem o governo a escolher métodos alternativos para prover serviços, sem exigir a participação das freiras naqueles que contrariem frontalmente a sua fé religiosa, conforme informou a agência ACI Prensa.</br>
 </br>
 As religiosas precisaram lembrar à Justiça o óbvio: que proporcionar tais serviços viola suas crenças. “Tudo o que queremos fazer é servir os mais necessitados entre nós como se fossem o próprio Cristo”, disse a simpaticíssima irmã Loraine Marie Maguire, madre provincial da congregação.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/213-vitória-sobre-mandato-abortista-madre_loraine.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/213-vitória-sobre-mandato-abortista-madre_loraine.png" width="200" height="200" data-original-width="200" data-original-height="200" /></a></div>
+
+![](/images/posts/213-vitória-sobre-mandato-abortista-madre_loraine.png)
+
 Para Mark Rienzi, conselheiro sênior do Fundo Becket para a Liberdade Religiosa e advogado das religiosas, o fracasso do governo Obama na Suprema Corte, por abir um importante precedente, pode “mudar o jogo” em casos semelhantes. “Essa decisão unânime é uma imensa vitória para as Irmãzinhas, para a liberdade religiosa e para todos os norte-americanos”, disse ele.</br>
 </br>
 Segundo um comunicado de Rienzi, “a Corte eliminou todas as decisões equivocadas dos tribunais menores e protegeu as Irmãzinhas das multas do governo”.</br>

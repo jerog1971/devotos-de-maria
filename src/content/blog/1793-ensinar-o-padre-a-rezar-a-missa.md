@@ -4,7 +4,9 @@ date: 2020-08-12T20:22:00.002Z
 heroImage: "/images/posts/1793-ensinar-o-padre-a-rezar-a-missa-maus_padres_4.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1793-ensinar-o-padre-a-rezar-a-missa-maus_padres_4.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="452" data-original-width="466" height="361" src="/images/posts/1793-ensinar-o-padre-a-rezar-a-missa-maus_padres_4.jpg" width="373" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ditado é antigo; junto a este, outro diz que “você não
+![](/images/posts/1793-ensinar-o-padre-a-rezar-a-missa-maus_padres_4.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ditado é antigo; junto a este, outro diz que “você não
 sabe da missa a metade”. Vamos a um exemplo? São sempre úteis. O sujeito sabe
 como fazer uma certa tarefa da maneira como deve ser executada, da maneira
 correta. Então, alguém temendo que possa ele não a fazer como segue o
@@ -48,4 +50,4 @@ leituras da missa.<o:p></o:p></p>
 desculpa para justificar atitudes alegando algo com alguma inserção mundana, egoísta
 ou relativa sobre assuntos que dizem respeito a salvação de nossas almas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>

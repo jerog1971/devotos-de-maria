@@ -4,7 +4,8 @@ date: 2015-12-18T12:22:00.001Z
 heroImage: "/images/posts/1640-ensinar-a-doutrina-catequisando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1640-ensinar-a-doutrina-catequisando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1640-ensinar-a-doutrina-catequisando.png" width="320" height="306" data-original-width="304" data-original-height="291" /></a></div>
+![](/images/posts/1640-ensinar-a-doutrina-catequisando.png)
+
 </br>
 No Evangelho de São Mateus, lemos as palavras de Cristo que sintetizam a missão da Igreja: "Ide, pois, e ensinai a todas as nações; batizai-as em nome do Pai, do Filho e do Espírito Santo" ( Mt 28, 19). Evangelizar é o primeiro dever. A catequese, neste sentido, reveste-se de uma importância fundamental. Dela depende o florescimento de uma nova geração de cristãos, precisamente porque é no estudo do catecismo que se sobressai o esforço do fiel para compreender a doutrina, celebrar os sacramentos, obedecer a Deus e ter vida de oração. Esses quatro elementos, chamados tradicionalmente de lex credendi, lex celebrandi, lex vivendi e lex orandi, estão intimamente ligados. Um conduz ao outro: a fé leva-me a celebrar, a celebração leva-me a viver e a vivência leva-me a rezar. Ao contrário, quando uma só dessas colunas é danificada, todo o edifício ameaça ruir.</br>
 </br>

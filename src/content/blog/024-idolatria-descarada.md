@@ -4,7 +4,8 @@ date: 2018-11-18T10:14:00Z
 heroImage: "/images/posts/024-idolatria-descarada-illuminidol.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/024-idolatria-descarada-illuminidol.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/024-idolatria-descarada-illuminidol.png" width="320" height="180" data-original-width="1366" data-original-height="768" /></a></div>
+![](/images/posts/024-idolatria-descarada-illuminidol.png)
+
 Não bastassem todas as ofensas diárias que existem no mundo nas mais diversas formas de idolatria, cujo empenho básico é colocar algo ou alguém no lugar de Deus, este artigo trás à tona mais um episódio que visa colocar as pessoas ainda mais afastadas dele, incentivando diferentes formas de interações entre as pessoas que não possuem uma ligação com o Pai Eterno.</br>
 </br>
 Ademais, todo católico que se preze recorda-se facilmente que Maria Santíssima disse em suas aparições que muitas modas surgiriam para ofender Jesus. Pois bem, eis aqui mais uma.</br>

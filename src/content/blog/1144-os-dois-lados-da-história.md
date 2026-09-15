@@ -4,7 +4,9 @@ date: 2021-01-15T15:06:00.002Z
 heroImage: "/images/posts/1144-os-dois-lados-da-história-agir_do_catolico.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1144-os-dois-lados-da-história-agir_do_catolico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="297" src="/images/posts/1144-os-dois-lados-da-história-agir_do_catolico.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Normalmente a história é contada pelo lado vencedor, o lado
+![](/images/posts/1144-os-dois-lados-da-história-agir_do_catolico.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Normalmente a história é contada pelo lado vencedor, o lado
 que sai perdendo fica abafado. O lado vencedor “pinta” o lado que perdeu como
 merecedor disso, enfatizando o porquê de seu sucesso na vitória. Ou seja, temos
 que acreditar que a versão de quem ganha é a única verdadeira, pois a versão de
@@ -37,4 +39,7 @@ ofertada pelo demônio, essa contradição poderá depor contra o réu. Num mome
 como esse, que não existe mais o tempo, nem para o arrependimento, toda a
 eternidade na felicidade dos céus, poderá ter sido jogada na lama.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

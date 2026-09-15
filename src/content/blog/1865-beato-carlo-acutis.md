@@ -4,7 +4,9 @@ date: 2020-10-16T20:25:00.005Z
 heroImage: "/images/posts/1865-beato-carlo-acutis-Carlo_Acutis.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1865-beato-carlo-acutis-Carlo_Acutis.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="174" data-original-width="150" src="/images/posts/1865-beato-carlo-acutis-Carlo_Acutis.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os católicos brasileiros tomaram conhecimento poucos dias
+![](/images/posts/1865-beato-carlo-acutis-Carlo_Acutis.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Os católicos brasileiros tomaram conhecimento poucos dias
 atrás da beatificação do jovem Carlo Acutis. Sua trajetória de vida pode ser
 encontrada em vários meios comunicativos pela internet, porém, a contribuição que
 pretendemos dar é a de uma pequena reflexão relacionada a estrada para o céu
@@ -41,6 +43,6 @@ chama-se Jesus. O próprio Cristo nos confirmou: sou o caminho, a verdade e a
 vida. Como vemos, tudo que não nos conduzir para Jesus, não nos colocará no
 caminho da porta estreita.</p><p class="MsoNormal"></p><p class="MsoNormal"><o:p></o:p></p>
 
-<p class="MsoNormal">Atualização:&nbsp;"O Santuário Santa Rita de Cássia, que fica no bairro Hauer, em Curitiba, vai receber, de modo permanente, nesta terça-feira (1 de julho), uma relíquia de primeiro grau (um fragmento corporal) do jovem beato Carlo Acutis.
+<p class="MsoNormal">Atualização: "O Santuário Santa Rita de Cássia, que fica no bairro Hauer, em Curitiba, vai receber, de modo permanente, nesta terça-feira (1 de julho), uma relíquia de primeiro grau (um fragmento corporal) do jovem beato Carlo Acutis.
 
-A entronização da relíquia vai ser durante a celebração da Santa Missa, no Santuário Santa Rita de Cássia, às 19h. A missa será presidida pelo Padre Fábio Vieira, da diocese de Corumbá (MS), Diretor do Apostolado Carlo Acutis no Brasil e um dos principais divulgadores do apostolado do beato em todo o mundo.&nbsp;Sua canonização está prevista para o próximo dia 7 de setembro, em Roma (Itália)" - BandaB<p class="MsoNormal"></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div>
+A entronização da relíquia vai ser durante a celebração da Santa Missa, no Santuário Santa Rita de Cássia, às 19h. A missa será presidida pelo Padre Fábio Vieira, da diocese de Corumbá (MS), Diretor do Apostolado Carlo Acutis no Brasil e um dos principais divulgadores do apostolado do beato em todo o mundo. Sua canonização está prevista para o próximo dia 7 de setembro, em Roma (Itália)" - BandaB<p class="MsoNormal"></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div>

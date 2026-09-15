@@ -4,7 +4,9 @@ date: 2021-05-03T22:53:00.003Z
 heroImage: "/images/posts/1338-não-pratiques-o-mal-n_25C3_25A3o_pratiques_o_mal.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1338-não-pratiques-o-mal-n_25C3_25A3o_pratiques_o_mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="343" data-original-width="323" height="320" src="/images/posts/1338-não-pratiques-o-mal-n_25C3_25A3o_pratiques_o_mal.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O livro do Eclesiástico, poderíamos dizer, é um livro de
+![](/images/posts/1338-não-pratiques-o-mal-n_25C3_25A3o_pratiques_o_mal.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O livro do Eclesiástico, poderíamos dizer, é um livro de
 muitos “nãos”. Lá, lemos que não devemos muitas coisas nesta vida. O livro vai
 se desenrolando com exortações, podemos dizer, um tanto práticas. Por exemplo,
 no capítulo oito, dos vinte e dois versículos, dezoito deles começam com não.
@@ -39,4 +41,7 @@ ouve no dito popular. Descuido é uma coisa que não pode passar desapercebida e
 nossa trajetória rumo aos céus. Não é à toa que Jesus nos mandou vigiar e orar
 sem cessar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

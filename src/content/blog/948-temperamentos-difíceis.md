@@ -4,7 +4,9 @@ date: 2022-06-03T19:03:00.001Z
 heroImage: "/images/posts/948-temperamentos-difíceis-temperamentos_20dif_C3_ADceis.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/948-temperamentos-difíceis-temperamentos_20dif_C3_ADceis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="811" height="210" src="/images/posts/948-temperamentos-difíceis-temperamentos_20dif_C3_ADceis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na ira não pequeis, não deixe o sol se por sobre o seu
+![](/images/posts/948-temperamentos-difíceis-temperamentos_20dif_C3_ADceis.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na ira não pequeis, não deixe o sol se por sobre o seu
 ressentimento. Convenhamos, interrelações dão muito trabalho; atritos
 praticamente são inevitáveis. Todavia, a questão é: o que fazer em meio às
 adversidades? O cristão tem um modelo a seguir: Jesus Cristo. Se parar para
@@ -36,4 +38,7 @@ sempre em nossas vidas, para todas as circunstâncias, os ensinamentos bíblicos
 e o exemplo deixado por nosso salvador que deve sempre ser imitado (1ª Coríntios
 11,1)<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson<o:p></o:p></p></div>
+
+<br /> 
+

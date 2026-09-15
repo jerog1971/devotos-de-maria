@@ -4,7 +4,9 @@ date: 2020-12-29T13:05:00.001Z
 heroImage: "/images/posts/440-roubar-matar-e-destruir-assalto.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/440-roubar-matar-e-destruir-assalto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="571" src="/images/posts/440-roubar-matar-e-destruir-assalto.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O diabo prima por essas três coisas: ele quer roubar nossa
+![](/images/posts/440-roubar-matar-e-destruir-assalto.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O diabo prima por essas três coisas: ele quer roubar nossa
 felicidade, quer matar nossa fé em Jesus Cristo e quer destruir nossas famílias.<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Roubando nossa verdadeira felicidade ele desvenda nossas
@@ -38,4 +40,7 @@ destruir nossos apegos com pecados de estimação que por costume não o encaram
 mais dessa forma. E assim, configurados ao Cristo (1ªCoríntios 11,1) seguimos
 pelo íngreme caminho (João 14,6) que nos conduzirá para a porta estreita.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger&nbsp;<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger <o:p></o:p></p></div>
+
+<br /> 
+

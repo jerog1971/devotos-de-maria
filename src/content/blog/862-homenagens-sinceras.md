@@ -4,7 +4,9 @@ date: 2024-09-04T20:11:00.001Z
 heroImage: "/images/posts/862-homenagens-sinceras-homenagem.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/862-homenagens-sinceras-homenagem.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="961" data-original-width="928" height="320" src="/images/posts/862-homenagens-sinceras-homenagem.jpg" width="309" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Vezes por outra o reconhecimento pelo esforço que fazemos é algo
+![](/images/posts/862-homenagens-sinceras-homenagem.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;"> Vezes por outra o reconhecimento pelo esforço que fazemos é algo
 recompensador. Sinal de que estamos olhando para a direção certa e
 reunindo forças para que cheguemos ao destino correto. Nunca é
 fácil, em várias vertentes da vida, seguir pela trilha apropriada.
@@ -38,4 +40,7 @@ família.</p>
 
 </p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

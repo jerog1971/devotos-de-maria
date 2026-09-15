@@ -4,7 +4,9 @@ date: 2023-01-28T18:45:00.003Z
 heroImage: "/images/posts/055-pela-conversão-dos-pecadores-fatima2.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/055-pela-conversão-dos-pecadores-fatima2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" height="215" src="/images/posts/055-pela-conversão-dos-pecadores-fatima2.png" width="221" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Eu vos digo que, a menos que vos convertais e vos torneis
+![](/images/posts/055-pela-conversão-dos-pecadores-fatima2.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Eu vos digo que, a menos que vos convertais e vos torneis
 como criancinhas, não entrareis no reino dos céus” – Mateus 18:3. Quando Irmã
 Lúcia perguntou a Nossa Senhora se Francisco iria para o céu, Nossa Senhora
 disse: "Sim, mas ele deve rezar muitos rosários primeiro". Depois
@@ -33,4 +35,7 @@ carentes da ajuda divina. Ou melhor, já somos e não podemos deixar de pensar n
 irmãos que padecem as dores da caminhada rumo ao céu, caindo por terra nos
 ataques das tentações.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

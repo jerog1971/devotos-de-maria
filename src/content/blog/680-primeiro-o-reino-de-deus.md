@@ -4,7 +4,8 @@ date: 2016-05-30T14:39:00Z
 heroImage: "/images/posts/680-primeiro-o-reino-de-deus-Yasmin.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/680-primeiro-o-reino-de-deus-Yasmin.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/680-primeiro-o-reino-de-deus-Yasmin.png" width="256" height="320" data-original-width="347" data-original-height="433" /></a></div>
+![](/images/posts/680-primeiro-o-reino-de-deus-Yasmin.png)
+
 Colossenses 3,17,20,21 - Tudo quanto fizerdes, por palavra ou por obra, fazei-o em nome do Senhor Jesus, dando por ele graças a Deus Pai. Filhos, obedecei em tudo a vossos pais, porque isto agrada ao Senhor. Pais, deixai de irritar vossos filhos, para que não se tornem desanimados.</br>
 </br>
 Neste artigo, para uma pequena reflexão seguiremos com esta passagem da carta aos Colossenses, onde de maneira bastante breve, vemos o contexto da família sendo abordado pelo apóstolo, segundo o que receberam do próprio Cristo. De início já vemos que tudo precisa ser em nome de Jesus. É como nós católicos rezamos na santa missa: Por Cristo, Com Cristo e em Cristo. Não rezamos: por dinheiro, com prazer e no mundo. Que diferença monstruosa. Pior são aqueles que, sempre sabidinhos, colocam tudo isso no liquidificador da vida esperando encontrar um resultado que satisfaça primeiro suas aparentes necessidades.</br>

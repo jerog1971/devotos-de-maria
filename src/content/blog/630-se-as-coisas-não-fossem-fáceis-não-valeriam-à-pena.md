@@ -4,7 +4,9 @@ date: 2020-11-03T16:30:00.003Z
 heroImage: "/images/posts/630-se-as-coisas-não-fossem-fáceis-não-v-vale_a_pena.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/630-se-as-coisas-não-fossem-fáceis-não-v-vale_a_pena.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="379" data-original-width="466" src="/images/posts/630-se-as-coisas-não-fossem-fáceis-não-v-vale_a_pena.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando chegou a plenitude dos tempos Deus olhou lá do céu,
+![](/images/posts/630-se-as-coisas-não-fossem-fáceis-não-v-vale_a_pena.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quando chegou a plenitude dos tempos Deus olhou lá do céu,
 do alto do seu trono, e viu em que situação se encontrava a humanidade, criada
 a sua imagem e semelhança e corrompidíssima. Ao longo dos tempos enviou profeta
 após profeta e nada do povo dar ouvidos. Infelizmente sempre foi assim e,
@@ -49,4 +51,7 @@ Pois é pelo fogo que se experimentam o ouro e a prata, e os homens agradáveis 
 Deus, pelo cadinho da humilhação. Põe tua confiança em Deus e ele te salvará;
 orienta bem o teu caminho e espera nele. Conserva o temor dele até na velhice”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

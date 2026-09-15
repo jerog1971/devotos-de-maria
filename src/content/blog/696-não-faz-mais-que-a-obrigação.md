@@ -4,15 +4,25 @@ date: 2025-01-15T21:35:00.002Z
 heroImage: "/images/posts/696-não-faz-mais-que-a-obrigação-img-706662872.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/696-não-faz-mais-que-a-obrigação-img-706662872.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="162" data-original-width="166" height="241" src="/images/posts/696-não-faz-mais-que-a-obrigação-img-1773776568.png" width="247" /></a></div><p></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p>
+![](/images/posts/696-não-faz-mais-que-a-obrigação-img-1773776568.png)
 
+<br />
 
-	
-	
-	
-	
+<br />
 
-</p><p style="line-height: 100%; margin-bottom: 0cm;">Eis aí um ditado ou uma frase muito ouvida pelo povo em geral; o
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<p style="line-height: 100%; margin-bottom: 0cm;">Eis aí um ditado ou uma frase muito ouvida pelo povo em geral; o
 título deste artigo, arrisco dizer, já deve ter sido pronunciado
 diversas vezes por inúmeras pessoas. Penso que tenha sido usada
 quando alguém cumpre com o seu dever, com sua obrigação mas, por
@@ -54,4 +64,5 @@ divina).</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
 Roger</p>
 
-<p><style type="text/css">p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }</style></p>
+<style type="text/css">p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }</style>
+

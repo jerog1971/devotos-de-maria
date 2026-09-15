@@ -4,7 +4,9 @@ date: 2021-07-19T18:47:00.003Z
 heroImage: "/images/posts/1205-promessas-divinas-e-terrenas-promessas_divinas_e_terrenas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1205-promessas-divinas-e-terrenas-promessas_divinas_e_terrenas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="456" data-original-width="461" src="/images/posts/1205-promessas-divinas-e-terrenas-promessas_divinas_e_terrenas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, todo cristão sabe e até mesmo aqueles que se dispuseram
+![](/images/posts/1205-promessas-divinas-e-terrenas-promessas_divinas_e_terrenas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, todo cristão sabe e até mesmo aqueles que se dispuseram
 a conhecer um pouco sobre a “pessoa” de Jesus Cristo e a mensagem que ele trouxe
 do Pai, que sua palavra é definitiva. O que está dito não será mudado. Malaquias
 3,6 – “Sou o Senhor e não mudo”. Isaías 45,23 – “Minhas palavras não serão
@@ -38,4 +40,7 @@ Para honrarmos o que temos que fazer e ser nessa caminhada, o auxílio divino e 
 comunhão com o Cristo devem estar acima de tudo, pois o sangue derramado na
 cruz cobra de cada um, no mínimo, o máximo de esforço.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

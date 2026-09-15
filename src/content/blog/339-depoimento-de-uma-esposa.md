@@ -4,7 +4,8 @@ date: 2016-01-29T17:03:00Z
 heroImage: "/images/posts/339-depoimento-de-uma-esposa-s_25C3_25A3o_bento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/339-depoimento-de-uma-esposa-s_25C3_25A3o_bento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/339-depoimento-de-uma-esposa-s_25C3_25A3o_bento.png" width="266" height="320" data-original-width="427" data-original-height="513" /></a></div>
+![](/images/posts/339-depoimento-de-uma-esposa-s_25C3_25A3o_bento.png)
+
 </br>
 Caríssimos leitores, recentemente, como associado que sou da Associação Apostolado do Sagrado Coração de Jesus, recebi por e-mail da Sra. Elza, vice-presidente da associação, pessoa que já mantive contato por telefone, um depoimento autorizado de outra associada em forma de testemunho. Nele, podemos comprovar que a proteção divina para nossas vidas se dá através de tantos meios que Deus sempre tem a nos oferecer. Vamos ao depoimento:</br>
 </br>

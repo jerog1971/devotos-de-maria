@@ -4,7 +4,9 @@ date: 2022-11-08T19:42:00.004Z
 heroImage: "/images/posts/1612-o-diabo-e-o-padre-amorth-o_20diabo_20e_20o_20padre_20amorth.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1612-o-diabo-e-o-padre-amorth-o_20diabo_20e_20o_20padre_20amorth.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="374" data-original-width="628" height="191" src="/images/posts/1612-o-diabo-e-o-padre-amorth-o_20diabo_20e_20o_20padre_20amorth.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Podemos dizer que todos concordam que existe os dois lados
+![](/images/posts/1612-o-diabo-e-o-padre-amorth-o_20diabo_20e_20o_20padre_20amorth.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Podemos dizer que todos concordam que existe os dois lados
 de uma moeda: o certo e o errado, o bem e o mal. Nós, pela crença e aprendizado
 em Deus, sabemos que fomos criados bons, porém, providos de uma inclinação
 natural para o mal, chamada biblicamente de concupiscência.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -40,4 +42,7 @@ erradas no mundo, pessoas como o Padre Amorth, demonstraram e com o seu legado
 deixado na terra, demonstrarão, que o mal existe e como disse o Papa João Paulo
 II, ele está personificado na pessoa de Satanás.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

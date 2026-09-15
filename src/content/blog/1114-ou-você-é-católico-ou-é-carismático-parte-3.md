@@ -4,7 +4,8 @@ date: 2020-03-27T17:25:00.006Z
 heroImage: "/images/posts/1114-ou-você-é-católico-ou-é-carismático-parte-3-cat_25C3_25B3lico_ou_carism_25C3_25A1tico_2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1114-ou-você-é-católico-ou-é-carismático-parte-3-cat_25C3_25B3lico_ou_carism_25C3_25A1tico_2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="293" data-original-width="424" height="221" src="/images/posts/1114-ou-você-é-católico-ou-é-carismático-parte-3-cat_25C3_25B3lico_ou_carism_25C3_25A1tico_2.png" width="320" /></a></div>
+![](/images/posts/1114-ou-você-é-católico-ou-é-carismático-parte-3-cat_25C3_25B3lico_ou_carism_25C3_25A1tico_2.png)
+
 Os carismáticos colocam a primazia sobre a “cura física” e dizem ao povo que Deus não quer ninguém doente, encorajando as pessoas a pedirem cura e milagres o tempo todo, tudo daquele jeitinho bem barulhento, com imposição de mãos, música alta e assim por diante. Eles não possuem um sólido fundamento para pensar desse modo, pois na Igreja de Deus (Mateus 16,18) sempre se ensinou que sofrer tais privações com resignação é coisa edificante e meritória. Eis o belíssimo exemplo de São Paulo em sua segunda carta aos Coríntios 12,7-10 – “Demais, para que a grandeza das revelações não me levasse ao orgulho, foi-me dado um espinho na carne, um anjo de Satanás para me esbofetear e me livrar do perigo da vaidade. Três vezes roguei ao Senhor que o apartasse de mim. Mas ele me disse: Basta-te minha graça, porque é na fraqueza que se revela totalmente a minha força. Portanto, prefiro gloriar-me das minhas fraquezas, para que habite em mim a força de Cristo. Eis por que sinto alegria nas fraquezas, nas afrontas, nas necessidades, nas perseguições, no profundo desgosto sofrido por amor de Cristo. Porque quando me sinto fraco, então é que sou forte.”
 
 A Renovação Carismática se gaba de ter chamado a atenção para o Espírito Santo, aquele que era o “Deus desconhecido” da Igreja pré-Vaticano II. Muito bem, mas e se eu lhe disser, caro leitor, que o Espírito Santo não chama a atenção para si, mas para o mistério de Cristo? Vamos comprovar? João 16,13-14 – “Quando vier o Paráclito, o Espírito da Verdade, ensinar-vos-á toda a verdade, porque não falará por si mesmo, mas dirá o que ouvir, e anunciar-vos-á as coisas que virão. Ele me glorificará, porque receberá do que é meu, e vo-lo anunciará.”
@@ -16,6 +17,5 @@ Essa identificação é um equívoco! Vejamos o que os santos dizem: Assim diz S
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2016/02/nao-seja-um-carismatico.html" target="_blank">Não seja um carismático</a>
-
 
 Fonte: Jefferson Roger e adaptação do site controversiacatolica

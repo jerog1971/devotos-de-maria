@@ -4,7 +4,8 @@ date: 2018-04-18T16:10:00.001Z
 heroImage: "/images/posts/096-puta-merda-puta_merda.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/096-puta-merda-puta_merda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/096-puta-merda-puta_merda.png" width="320" height="286" data-original-width="390" data-original-height="349" /></a></div>
+![](/images/posts/096-puta-merda-puta_merda.png)
+
 Não sei vocês caros leitores, mas quanto mais caminhamos rumo à pátria celeste, mesmo em meio a tantos tombos que levamos durante a subida, vamos nos catolicizando mais e mais, porém, vamos nos indignando com a grande massa da população mundial que vai tratando das coisas de Deus e do próprio Deus de uma maneira exorcística embora não acreditem nisso sendo aqui um empréstimo para bom esclarecimento.</br>
 </br>
 Escândalos vão deixando de ser, tabus vão deixando de ser, heresias vão deixando de ser, padrões vão se transformando, conceitos vão mudando ou sendo substituídos e, não poderia deixar de ser, pecados vão virando assunto do passado, um conceito superado pela evolução inevitável da raça humana, assim dizem os que se excluem dos propósitos divinos e se recusam a aceitar a verdade do criador.</br>

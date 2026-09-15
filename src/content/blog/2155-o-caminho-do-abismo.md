@@ -4,7 +4,9 @@ date: 2016-06-30T11:30:00Z
 heroImage: "/images/posts/2155-o-caminho-do-abismo-abismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2155-o-caminho-do-abismo-abismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2155-o-caminho-do-abismo-abismo.png" width="320" height="281" data-original-width="592" data-original-height="519" /></a></div></br>
+![](/images/posts/2155-o-caminho-do-abismo-abismo.png)
+
+</br>
 </br>
 <h1>
 Ateus, mas adoram o demônio</br>
@@ -22,7 +24,10 @@ Já nos ensinava Santo Agostinho, se não teme pelo seu pecado venial, espanta-t
 </br>
 De passo em passo, até o extremo deste tenebroso processo, qualquer tipo de culto satânico se torna possível e até provável. Chega-se ao fundo do abismo, e lá longe, bem no fundo, completa-se o “caminho fácil” de adoração ao demônio. Este nem se dá a conhecer, mas poucos resistem às suas ofertas. Não retornam mais ao Caminho de Deus na condição de penitentes. A grande maioria aceita, parcial ou totalmente, as exigências do demônio, podendo incluir ou não os cultos satânicos. <b>O inimigo conhece o caminho mais adequado a cada vítima</b>.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2155-o-caminho-do-abismo-adoradores.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2155-o-caminho-do-abismo-adoradores.png" width="200" height="183" data-original-width="289" data-original-height="264" /></a></div></br>
+
+![](/images/posts/2155-o-caminho-do-abismo-adoradores.png)
+
+</br>
 </br>
 As primeiras derrapadas geralmente conduzem a pessoa à descrença, ao pensamento destrutivo de que Deus não ajuda, só proíbe e cobra. Em seguida, começam-se a procurar facilidades, com a ajuda de quem parece amigo de outro “todo-poderoso”. Daí a fazer pacto com ele e ceder em tudo o que quer, inclusive na adoração explícita, é questão de tempo. Muitos percorrem o caminho de volta, mas infelizmente a maioria não retorna.</br>
 </br>

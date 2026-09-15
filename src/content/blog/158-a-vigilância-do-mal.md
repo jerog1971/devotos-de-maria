@@ -4,7 +4,9 @@ date: 2024-02-16T18:45:00.004Z
 heroImage: "/images/posts/158-a-vigilância-do-mal-A_20vigil_C3_A2ncia_20do_20mal.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/158-a-vigilância-do-mal-A_20vigil_C3_A2ncia_20do_20mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="395" height="238" src="/images/posts/158-a-vigilância-do-mal-A_20vigil_C3_A2ncia_20do_20mal.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, existe no mundo diversas crenças, algumas religiosas,
+![](/images/posts/158-a-vigilância-do-mal-A_20vigil_C3_A2ncia_20do_20mal.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Claro, existe no mundo diversas crenças, algumas religiosas,
 outras científicas, outras exotéricas, outras mundanas, outras são uma
 verdadeira “salada de frutas” e por aí vai. Cabe ao ser humano decidir se
 viverá sua existência pautada em uma delas, em algumas, em nenhuma ou varie
@@ -36,4 +38,7 @@ dia em que Deus nos chamar para prestarmos conta de nossas vidas? Já que a
 vigilância do mal é constante em sua espreita, que vivamos debaixo dos cuidados
 divinos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

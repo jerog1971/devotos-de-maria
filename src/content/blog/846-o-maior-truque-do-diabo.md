@@ -4,7 +4,8 @@ date: 2020-02-26T20:17:00Z
 heroImage: "/images/posts/846-o-maior-truque-do-diabo-inferno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/846-o-maior-truque-do-diabo-inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/846-o-maior-truque-do-diabo-inferno.png" width="320" height="263" data-original-width="362" data-original-height="298" /></a></div>
+![](/images/posts/846-o-maior-truque-do-diabo-inferno.png)
+
 É fazer com que as pessoas não acreditem em sua existência. Outro grande trunfo foi o de fazer muitas pessoas acreditarem que o inferno não existe, pois, ora, se Deus é amor, não criaria o inferno para condenar a ele “seus filhos” por um simples pecado grave que fosse. Pois é, dizem que Deus não condena ninguém, a pessoa que se condena por suas atitudes. No evangelho lemos que Jesus virá para julgar, decretar o destino de cada um por causa de suas atitudes.</br>
 </br>
 Não parece que estamos no meio do fogo cruzado? Deus de um lado nos querendo na eternidade com ele; o diabo do outro nos querendo na eternidade com ele. Ficam tentando nos convencer para escolhermos o lado que iremos querer no aqui e agora e para todo o sempre. Isso não é novidade para ninguém, basta lermos o livro de Jó.</br>

@@ -4,7 +4,8 @@ date: 2016-01-21T17:51:00Z
 heroImage: "/images/posts/733-um-grande-testemunho-sobre-a-eucaris-menina.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/733-um-grande-testemunho-sobre-a-eucaris-menina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/733-um-grande-testemunho-sobre-a-eucaris-menina.png" width="320" height="211" data-original-width="503" data-original-height="331" /></a></div>
+![](/images/posts/733-um-grande-testemunho-sobre-a-eucaris-menina.png)
+
 </br>
 Alguns meses antes de sua morte, o Bispo Fulton J. Sheen foi entrevistado pela rede nacional de televisão: “Bispo Sheen, milhares de pessoas em todo o mundo inspiram-se em você. Em quem você se inspirou? Foi por acaso em algum Papa?”.</br>
 </br>

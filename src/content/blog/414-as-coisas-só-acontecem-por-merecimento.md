@@ -4,7 +4,8 @@ date: 2019-06-19T15:45:00.003Z
 heroImage: "/images/posts/414-as-coisas-só-acontecem-por-merecimen-merecimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/414-as-coisas-só-acontecem-por-merecimen-merecimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/414-as-coisas-só-acontecem-por-merecimen-merecimento.png" width="320" height="313" data-original-width="287" data-original-height="281" /></a></div>
+![](/images/posts/414-as-coisas-só-acontecem-por-merecimen-merecimento.png)
+
 Eis aí um pensamento difícil de ser aceito pelas pessoas. Muitas vezes elas não acham que mereceram alguma coisa que aconteceu em suas vidas; dizem: o que é que eu fiz para merecer isso? Para aquelas que acreditam em Deus o dilema é maior ainda, sobretudo, quando se julgam boas pessoas. Ficam analisando suas vidas sem compreenderem porque o Deus em que acreditam, dito misericordioso, permite ou envia, sofrimentos e tribulações para suas vidas.</br>
 </br>
 Pobre da fé, certeza a respeito daquilo que não se vê, é chacoalhada para lá e para cá como ingredientes de bolo numa batedeira. Fala-se que no batismo recebemos o dom de crer, recebemos pela fé de pais e padrinhos aquilo que acredita a fé da igreja. Tudo muito bonito, porém, depois, na prática qualquer um percebe que a coisa é muito diferente. Está fé pode aumentar ou diminuir.</br>

@@ -4,7 +4,9 @@ date: 2025-07-29T18:00:00.002Z
 heroImage: "/images/posts/282-mortal-kombat-mortal_20kombat.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/282-mortal-kombat-mortal_20kombat.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="535" height="260" src="/images/posts/282-mortal-kombat-mortal_20kombat.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 115%; margin-bottom: 0cm;">No jogo de videogame que posteriormente se transformou em filme,
+![](/images/posts/282-mortal-kombat-mortal_20kombat.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 115%; margin-bottom: 0cm;">No jogo de videogame que posteriormente se transformou em filme,
 neste, a história contava que os lutadores da Terra deveriam
 enfrentar outros lutadores de outro reino para manterem o planeta sem
 a invasão permanente do oponente. Eles competiam por suas vidas e
@@ -35,4 +37,7 @@ fiquemos firmes, pois nenhuma surra que levarmos – na vida, seja
 pelas provações ou tentações – será dura o bastante se a
 suportarmos em vista do prêmio eterno no Reino de Deus.</p>
 <p style="line-height: 115%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

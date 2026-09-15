@@ -4,7 +4,9 @@ date: 2022-10-14T15:20:00.003Z
 heroImage: "/images/posts/984-dias-difíceis-tribulações-e-dificuld-img-1140219124.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/984-dias-difíceis-tribulações-e-dificuld-img-1140219124.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="399" data-original-width="456" height="280" src="/images/posts/984-dias-difíceis-tribulações-e-dificuld-img-1573824336.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como cabe apenas a Deus saber o tempo dos dias finais da
+![](/images/posts/984-dias-difíceis-tribulações-e-dificuld-img-1573824336.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Como cabe apenas a Deus saber o tempo dos dias finais da
 humanidade, pois, mesmo o Cristo quando indagado sobre isso disse não saber,
 cada geração vai, século após século, vivendo numa expectativa de estar
 passando pelas tribulações finais. Assim o faz o criador para que cada um deposite
@@ -34,4 +36,7 @@ serão ainda mais penosas. Deve se perguntar agora qual seria? Não deixemos par
 depois, trata-se da perseverança: “Sereis odiados de todos por causa de meu
 nome, mas aquele que <b>perseverar</b> até o fim será salvo” – Mateus 10,22.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

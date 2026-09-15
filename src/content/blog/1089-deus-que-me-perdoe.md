@@ -4,7 +4,8 @@ date: 2019-05-14T16:35:00.001Z
 heroImage: "/images/posts/1089-deus-que-me-perdoe-porta_estreita.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1089-deus-que-me-perdoe-porta_estreita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1089-deus-que-me-perdoe-porta_estreita.png" width="255" height="320" data-original-width="323" data-original-height="405" /></a></div>
+![](/images/posts/1089-deus-que-me-perdoe-porta_estreita.png)
+
 Com certeza, caro leitor, essa expressão você já deve ter muito ouvido da boca de muitas pessoas e, tomara, que você não a tenha dito tantas vezes ou mais vezes do que tenha ouvido. Vamos entender.</br>
 </br>
 Jesus disse que nem todo aquele que diz Senhor, Senhor entrará no reino dos céus, mas sim aquele que fizer a vontade do pai. Os estudiosos apontam claramente aqui uma referência direta com o segundo mandamento da lei de Deus que nos orienta a não tomarmos o seu santo nome em vão. O nome daquele que é Santo, Santo, Santo, Senhor Deus do Universo, onde o céu e a terra proclamam a vossa glória não é palavra que se use ou pronuncie sem a devida consciência e respeito daquilo que realmente representa.</br>

@@ -4,7 +4,8 @@ date: 2015-10-12T16:47:00Z
 heroImage: "/images/posts/1466-o-verdadeiro-devoto-Nossa_Senhora.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1466-o-verdadeiro-devoto-Nossa_Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1466-o-verdadeiro-devoto-Nossa_Senhora.png" width="258" height="320" data-original-width="395" data-original-height="490" /></a></div>
+![](/images/posts/1466-o-verdadeiro-devoto-Nossa_Senhora.png)
+
 </br>
 São Luis Grignion de Monfort nasceu em 1673 e morreu em 1716. Foi um sacerdote francês e incluído no cânone dos santos católicos. Ele é reconhecido por ser um grande pregador e escritor, cujos livros são amplamente lidos nos dias atuais e considerados de extrema importância no magistério da Igreja Católica. É considerado um dos primeiros defensores da devoção mariana.</br>
 </br>

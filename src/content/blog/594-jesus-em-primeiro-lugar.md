@@ -4,7 +4,11 @@ date: 2020-05-20T20:18:00Z
 heroImage: "/images/posts/594-jesus-em-primeiro-lugar-img-1647160291.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/594-jesus-em-primeiro-lugar-img-1647160291.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="677" data-original-width="906" src="/images/posts/594-jesus-em-primeiro-lugar-img-1647160291.jpgs320/tchau_Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Atos 5,29 – “Pedro e os apóstolos replicaram: Importa
+<br />
+
+![](/images/posts/594-jesus-em-primeiro-lugar-img-1647160291.jpgs320/tchau_Jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Atos 5,29 – “Pedro e os apóstolos replicaram: Importa
 obedecer antes a Deus do que aos homens.”</p>
 
 <p class="MsoNormal">Gálatas 1,10 – “É, porventura, o favor dos homens que eu
@@ -37,6 +41,6 @@ alguém dentre vós se julga sábio à maneira deste mundo, faça-se louco para
 tornar-se sábio, porque a sabedoria deste mundo é loucura diante de Deus; pois
 (diz a Escritura) ele apanhará os sábios na sua própria astúcia (Jó 5,13).</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

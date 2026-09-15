@@ -4,7 +4,8 @@ date: 2019-09-13T20:22:00.001Z
 heroImage: "/images/posts/403-a-dor-é-filha-do-amor-desculpas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/403-a-dor-é-filha-do-amor-desculpas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/403-a-dor-é-filha-do-amor-desculpas.png" width="320" height="320" data-original-width="317" data-original-height="317" /></a></div>
+![](/images/posts/403-a-dor-é-filha-do-amor-desculpas.png)
+
 Quem acha o contrário faça a seguinte experiência: pense numa pessoa que você tem certeza de que gosta de você, que te ama de verdade. Pensou? Muito provavelmente as pessoas em sua maioria pensam em suas mães. Não sei se sua resposta foi essa, mas vamos refletir a respeito. Por que a mãe encabeça uma lista como essa? Simples, o amor que tem pelos filhos chega ao ponto de extremos. É uma amostra aqui na terra do amor que Jesus tem por cada um de nós. Se não amasse a cada um por que aceitaria fazer o que fez e passar pelo que passou? Jesus, pessoa da Santíssima Trindade, já tinha tudo e não precisava de mais nada. Quem aceita livremente por amor a alguém padecer?</br>
 </br>
 Pois bem, as mães, como dissemos, aceitam. Por amor ao filho tiram do seu prato e dão para ele, o visitam na penitenciária, deixam de comprar uma roupa para si para comprar para ele. Se o filho adoece gravemente a visão da indefesa criança sofrendo “corta-lhe” o coração. Se pudesse sofreria em seu lugar; quantas mães já não pediram isso a Deus? Que sofressem no lugar dos filhos?</br>

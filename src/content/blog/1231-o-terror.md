@@ -4,9 +4,11 @@ date: 2024-12-12T18:57:00.002Z
 heroImage: "/images/posts/1231-o-terror-terror.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1231-o-terror-terror.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="395" data-original-width="705" height="179" src="/images/posts/1231-o-terror-terror.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/1231-o-terror-terror.png)
 
-<p></p><p class="MsoNormal">No cinema os filmes de terror e seus subgêneros se
+<br /> 
+
+<p class="MsoNormal">No cinema os filmes de terror e seus subgêneros se
 manifestam de várias formas; no entanto, sempre buscam aterrorizar e colocar medo
 no espectador. Muitos desses filmes não possuem final feliz, o mal vence mesmo
 e ponto final. Nesta forma de entretenimento, o ser humano, sem dúvida inspirado
@@ -38,5 +40,4 @@ aquele que será admitido no reino que desde o início para nós foi preparado,
 pois buscou primeiro e esse reino, buscou as coisas do alto.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

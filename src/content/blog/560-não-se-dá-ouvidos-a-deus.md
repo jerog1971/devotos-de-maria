@@ -4,7 +4,9 @@ date: 2022-07-04T15:14:00.001Z
 heroImage: "/images/posts/560-não-se-dá-ouvidos-a-deus-dar_20ouvidos_20a_20Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/560-não-se-dá-ouvidos-a-deus-dar_20ouvidos_20a_20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="484" data-original-width="452" height="320" src="/images/posts/560-não-se-dá-ouvidos-a-deus-dar_20ouvidos_20a_20Deus.png" width="299" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Buscai primeiro o reino de Deus e tudo mais você será
+![](/images/posts/560-não-se-dá-ouvidos-a-deus-dar_20ouvidos_20a_20Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Buscai primeiro o reino de Deus e tudo mais você será
 acrescentado; o Pai do céu sabe do que precisas antes mesmo que vos peça. Deus
 vê no oculto dos corações e todo aquele que por minha causa deixar irmãos,
 irmãs, pai, mãe, mulher, filhos, terras ou casa receberá o cêntuplo e possuirá
@@ -34,4 +36,7 @@ situação para que necessitássemos dele, pois é mais fácil obedecer do que
 mandar. Ademais, não sabemos conduzir por meios próprios nossas vidas (João
 15,5).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2017-08-28T12:05:00Z
 heroImage: "/images/posts/1578-fazer-de-tudo-para-não-fazer-nada-fazer_nada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1578-fazer-de-tudo-para-não-fazer-nada-fazer_nada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1578-fazer-de-tudo-para-não-fazer-nada-fazer_nada.png" width="320" height="265" data-original-width="318" data-original-height="263" /></a></div>
+![](/images/posts/1578-fazer-de-tudo-para-não-fazer-nada-fazer_nada.png)
+
 Caros leitores, se existe uma coisa em que o mundo ensina com maestria, e falo aqui no contexto espiritual em que nossa batalha pela salvação das almas é constante, são formas de “enrolarmos” nossa consciência, razão e coração para não fazermos o que precisamos e sim o que queremos precisar. É muito fácil olharmos para nossas vidas, quando elas estão sendo vividas com desleixo espiritual que é de dar vergonha e tristeza a qualquer santo de Deus, para percebermos como somos mestres na arte de arrumarmos tempo para tudo e não arrumarmos tempo para tudo. Explico.</br>
 </br>
 Quando se trata dos prazeres terrenos, acha-se tempo para tudo, quando se trata dos prazeres eternos, falta-se tempo para tudo. O diabo, muito astuto como sempre, sabe que o ser humano faz muito uso dos sentidos e por isso ele compreende que uma pessoa, se não estiver mergulhada no mistério pascal, vai se comportar um pouco como São Tomé. Como ele não pode experimentar, ou pensa que não pode, as alegrias celestes no aqui e agora, investe naquilo que pode sentir no já.

@@ -4,7 +4,9 @@ date: 2024-07-24T21:53:00Z
 heroImage: "/images/posts/1344-o-mestre-o_20mestre.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1344-o-mestre-o_20mestre.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="529" height="232" src="/images/posts/1344-o-mestre-o_20mestre.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vós que estais cansados e fatigados.... aprendei de mim que
+![](/images/posts/1344-o-mestre-o_20mestre.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vós que estais cansados e fatigados.... aprendei de mim que
 sou manso e humilde de coração... pedi e recebereis, buscai e achareis, batei e
 vos será aberto... Pois bem, se o caro leitor enxergou alguma semelhança com as
 falas de Jesus Cristo neste início de artigo, saibas, não é palpite seu; é
@@ -32,4 +34,7 @@ não estão em nossa vida por acaso, pode e sempre irá ajudar a quem o procurar
 com um coração sincero. Que não se perca tempo quanto a isso, já que o assunto
 é sempre sério: a salvação de nossas almas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

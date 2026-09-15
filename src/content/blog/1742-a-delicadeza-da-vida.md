@@ -4,7 +4,9 @@ date: 2021-04-07T11:36:00.004Z
 heroImage: "/images/posts/1742-a-delicadeza-da-vida-delicadeza_da_vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1742-a-delicadeza-da-vida-delicadeza_da_vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="326" height="320" src="/images/posts/1742-a-delicadeza-da-vida-delicadeza_da_vida.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jó 7,7 – “Minha vida nada mais é do que um sopro”, quando
+![](/images/posts/1742-a-delicadeza-da-vida-delicadeza_da_vida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jó 7,7 – “Minha vida nada mais é do que um sopro”, quando
 menos esperarmos Deus coloca o ponto final, se não ouvimos o conselho de Jesus
 (Marcos 13,23 – “Ficai de sobreaviso. Eis que vos preveni de tudo” e Marcos
 13,33 – “Ficai de sobreaviso, vigiai; porque não sabeis quando será o tempo”.),
@@ -48,4 +50,7 @@ Deus só resultará numa caminhada mais difícil do que por ele foi determinada.
 bem no dia infeliz. Pois no dia da morte é fácil para Deus dar a cada um
 conforme o seu comportamento”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

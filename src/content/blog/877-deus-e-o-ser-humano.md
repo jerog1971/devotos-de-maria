@@ -4,7 +4,9 @@ date: 2022-10-28T17:30:00.005Z
 heroImage: "/images/posts/877-deus-e-o-ser-humano-Deus_20e_20o_20ser_20humano.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/877-deus-e-o-ser-humano-Deus_20e_20o_20ser_20humano.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="553" height="308" src="/images/posts/877-deus-e-o-ser-humano-Deus_20e_20o_20ser_20humano.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus fez o ser humano e determinou que as relações íntimas
+![](/images/posts/877-deus-e-o-ser-humano-Deus_20e_20o_20ser_20humano.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Deus fez o ser humano e determinou que as relações íntimas
 acontecessem apenas entre pessoas de sexos diferentes e unidas através do santo
 matrimônio. Dentre as muitas pessoas que passaram pela vida de alguém, coube “escolher”
 aquela para compartilhar todo o desafio da vida até que o altíssimo determine a
@@ -40,4 +42,7 @@ Deus: nesta disputa sempre sairemos vencedores; ganharemos a glória eterna se o
 obedecermos ou ganharemos a condenação eterna se não vivermos o que ele nos
 pede. Cabe a cada um a escolha de suas vidas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

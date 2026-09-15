@@ -4,7 +4,8 @@ date: 2016-08-11T13:30:00Z
 heroImage: "/images/posts/290-diário-de-um-bebê-não-nascido-gianna.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/290-diário-de-um-bebê-não-nascido-gianna.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/290-diário-de-um-bebê-não-nascido-gianna.png" width="318" height="320" data-original-width="384" data-original-height="386" /></a></div>
+![](/images/posts/290-diário-de-um-bebê-não-nascido-gianna.png)
+
 5 de outubro: Hoje começa minha vida, meu pais ainda não sabem. Sou tão pequena quanto uma semente de maçã, mas já existo e sou única no mundo e diferente de todas as demais. E, apesar de quase não ter forma ainda, serei uma menina. Terei cabelos loiros e olhos azuis, e sei que gostarei muito de flores. Os cientistas diriam que tudo isto já tenho impresso no meu código genético.</br>
 </br>
 19 de outubro: Cresci um pouco, mas ainda sou muito pequena para poder fazer algo por mim mesma. A mamãe faz tudo por mim. Mas o mais  engraçado é que nem sabe que está me carregando consigo, precisamente debaixo de seu coração, alimentando-me com seu próprio sangue.</br>

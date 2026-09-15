@@ -4,7 +4,8 @@ date: 2016-01-29T13:30:00.001Z
 heroImage: "/images/posts/714-a-ilusão-da-presença-de-deus-wathey.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/714-a-ilusão-da-presença-de-deus-wathey.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/714-a-ilusão-da-presença-de-deus-wathey.png" width="320" height="234" data-original-width="313" data-original-height="229" /></a></div>
+![](/images/posts/714-a-ilusão-da-presença-de-deus-wathey.png)
+
 </br>
 Olá caros leitores assíduos e casuais, hoje transcrevo para meu blog, uma matéria encontrada no site "www.pointofinquiry.org" e inicialmente transcrita pelo site www.paulopes.com.br, onde um cientista entrevistado conta em seu livro publicado que a presença de Deus é uma ilusão. Para mim, que me esforço a cada dia para me tornar cada vez mais um bom e autêntico católico, vivendo segundo a vontade e o agrado de Deus, pedindo e suplicando sempre o auxílio celeste, quando li a matéria, vi uma ótima oportunidade de colocar aqui, mais um exemplo daquilo que vai de encontro com as verdades celestes. Vamos ver algumas delas?
 </br>
@@ -46,7 +47,9 @@ O neurocentista argumentou que essa pode ser a explicação, entre outras atitud
 </br>
 Espere aí um pouquinho, tenho que intervir em nome de Jesus e por Maria. Dizer que a religião tem características infantis tem a sua verdade. Jesus disse que quem quiser se salvar que seja como as criancinhas. Ele também disse, deixai vir a mim as criancinhas. Disse também que o que fizermos aos pequeninos é a Ele que fazemos e tantas outros ensinamentos que comprovam a pureza dos ensinamentos pregados por Jesus. Agora dentro do contexto proposto pelo autor do livro, ele destaca que a origem do anseio espiritual tem raízes biológicas. Acho que ele não percebeu e não sabe, Santo Agostinho nos disse que nossa alma e nosso coração não descansará enquanto não retornar para Deus, porque fomos feitos par Ele. Que brilhante. Deus plantou a sementinha em nossa alma e nosso coração, a parte biológica comprova essa verdade. Não tem novidade nenhuma nisso que o cientista está alardeando. Mas tem mais; ele disse ainda que outras atitudes também residem nessa origem biológica. Parabéns, será que ele demorou para descobrir isso? Se demorou perdeu tempo porque tanto o antigo como o novo testamento ensinam claramente que o que brota do coração é o que salva o homem assim como todas as coisas que não são boas nascem dentro dele. Bastaria se dedicar a um estudo sério da bíblia para comprovar o que sempre foi assim. Brotam no coração, se instalam na mente e se transformam em atitudes, após nossas escolhas. Vamos em frente.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/714-a-ilusão-da-presença-de-deus-illusion.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/714-a-ilusão-da-presença-de-deus-illusion.png" width="126" height="200" data-original-width="173" data-original-height="274" /></a></div>
+
+![](/images/posts/714-a-ilusão-da-presença-de-deus-illusion.png)
+
 </br>
 “A oração é quase universal em quase todas as religiões, mas é bastante óbvio que a ela é inútil”, disse.</br>
 </br>
@@ -72,5 +75,4 @@ Verdade; é possível, mas é certo? É o que de melhor podemos fazer? Se acredi
 </br>
 </br>
 fonte: Jefferson Roger e demais fontes descritas no texto
-
 

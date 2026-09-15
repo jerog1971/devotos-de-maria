@@ -4,7 +4,8 @@ date: 2019-04-29T20:16:00.002Z
 heroImage: "/images/posts/718-para-não-esquecer-n_25C3_25A3o_esquecer.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/718-para-não-esquecer-n_25C3_25A3o_esquecer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/718-para-não-esquecer-n_25C3_25A3o_esquecer.png" width="320" height="278" data-original-width="222" data-original-height="193" /></a></div>
+![](/images/posts/718-para-não-esquecer-n_25C3_25A3o_esquecer.png)
+
 Gálatas 1,10 = Devo agradar a Deus e não aos homens;</br>
 Levítico 20,13 = Deus nos ensina: o homossexualismo é coisa abominável. Será punido de morte...; </br>
 Levítico 19,28 = Não faças marcas em seu corpo (tatuagem); </br>

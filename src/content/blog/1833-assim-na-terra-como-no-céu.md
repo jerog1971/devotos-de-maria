@@ -4,7 +4,9 @@ date: 2022-04-13T16:11:00.001Z
 heroImage: "/images/posts/1833-assim-na-terra-como-no-céu-img-966726945.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1833-assim-na-terra-como-no-céu-img-966726945.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="359" data-original-width="392" height="293" src="/images/posts/1833-assim-na-terra-como-no-céu-img-1172284538.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, certamente em nossas vidas muitas coisas não
+![](/images/posts/1833-assim-na-terra-como-no-céu-img-1172284538.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, certamente em nossas vidas muitas coisas não
 queremos pensar; preferimos deixar para lá e viver como se essas realidades não
 fossem presentes. Damos o exemplo da morte, que é certa e irá nos acometer,
 provavelmente sem aviso algum. Digo provavelmente porque pode ser que, pela
@@ -41,4 +43,7 @@ em oração que seja feita a vontade dele ao invés da nossa, boa coisa é. Do
 contrário tudo seria uma grande enganação vinda dos céus e até onde sabemos,
 quem gosta de enganar é o pai da mentira.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

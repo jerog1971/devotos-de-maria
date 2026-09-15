@@ -4,7 +4,9 @@ date: 2020-08-10T20:04:00Z
 heroImage: "/images/posts/1647-as-influências-do-mundo-influencias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1647-as-influências-do-mundo-influencias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="447" src="/images/posts/1647-as-influências-do-mundo-influencias.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quanto mais a história da humanidade avança, mais de tudo e
+![](/images/posts/1647-as-influências-do-mundo-influencias.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quanto mais a história da humanidade avança, mais de tudo e
 mais coisas ela possui à sua disposição. Esta chamada globalização e a
 disseminação internacional da informação e do ponto de vista de cada um. Nossa
 vida, que é composta de duas partes: primeira parte do nascimento até a morte e
@@ -41,4 +43,4 @@ imita-lo, assim saberemos reconhecer aqueles que o imitam e não cairemos na
 tentação de imitarmos, seguirmos ou vangloriarmos os falsos cristos presentes
 pelo mundo inteiro.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p></div>

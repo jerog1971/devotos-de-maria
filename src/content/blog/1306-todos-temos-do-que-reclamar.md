@@ -4,7 +4,8 @@ date: 2018-10-11T16:23:00Z
 heroImage: "/images/posts/1306-todos-temos-do-que-reclamar-reclamar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1306-todos-temos-do-que-reclamar-reclamar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1306-todos-temos-do-que-reclamar-reclamar.png" width="319" height="320" data-original-width="594" data-original-height="595" /></a></div>
+![](/images/posts/1306-todos-temos-do-que-reclamar-reclamar.png)
+
 A palavra reclamar possui dois significados diretos, pode ser “queixar-se” ou “exigir, reivindicar”. Normalmente, porém, mais a utilizamos na forma menos positiva. Eis aí um grande problema, as reclamações, as queixas nunca devem descer, devem subir ou, no mínimo, manter-se no patamar atual. Vamos entender.</br>
 </br>
 Aquele que espreita, rondando como um leão procurando a quem dar o bote tem sua intenção facilitada quando baixamos a guarda e tratamos de anunciar aos quatro ventos nossas insatisfações com alguma coisa. Ele é excelente ouvinte e não perde tempo em organizar tudo ao nosso redor para que o cenário seja propício para a realização de nossos desejos, por mais desenfreados e desregrados que sejam.</br>

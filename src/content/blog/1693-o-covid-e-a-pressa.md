@@ -4,7 +4,11 @@ date: 2020-06-21T15:51:00.001Z
 heroImage: "/images/posts/1693-o-covid-e-a-pressa-microsc_25C3_25B3pico.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1693-o-covid-e-a-pressa-microsc_25C3_25B3pico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="322" data-original-width="379" src="/images/posts/1693-o-covid-e-a-pressa-microsc_25C3_25B3pico.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">As autoridades sanitárias e o pessoal diretamente envolvido
+<br />
+
+![](/images/posts/1693-o-covid-e-a-pressa-microsc_25C3_25B3pico.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">As autoridades sanitárias e o pessoal diretamente envolvido
 na situação, em pronunciamentos embasados nas referências e perspectivas
 científicas e históricas, declararam que a pandemia pode se estender para médio
 e longo prazo. É evidente que todos gostariam que a realidade fosse exatamente

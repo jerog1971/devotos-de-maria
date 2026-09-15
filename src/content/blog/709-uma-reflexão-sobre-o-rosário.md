@@ -4,7 +4,8 @@ date: 2017-05-22T16:11:00.001Z
 heroImage: "/images/posts/709-uma-reflexão-sobre-o-rosário-rosario.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/709-uma-reflexão-sobre-o-rosário-rosario.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="717" height="230" src="/images/posts/709-uma-reflexão-sobre-o-rosário-rosario.png" width="320" /></a></div>
+![](/images/posts/709-uma-reflexão-sobre-o-rosário-rosario.png)
+
 Para aqueles que acham que a oração do Santo Rosário ou até mesmo do Santo Terço é uma prática antiquada e monótona por ser repetitiva, iremos refletir um pouco sobre essa questão da repetição para concluirmos que muitas coisas planejadas por Deus em sua criação seguem o fator de continuidade das ações. Vejamos:
 
 Para nos mantermos em estado de vida precisamos respirar, inspirando e expirando continuamente e repetidamente para movimentarmos nosso aparelho respiratório.
@@ -26,6 +27,5 @@ Os que rezam diariamente o seu Rosário são como os membros de uma família que
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2017/03/a-arma.html" target="_blank">A arma</a>
-
 
 fonte: Jefferson Roger

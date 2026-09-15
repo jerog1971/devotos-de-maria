@@ -4,7 +4,8 @@ date: 2016-09-01T19:32:00Z
 heroImage: "/images/posts/561-dízimo-é-preceito-d_25C3_25ADzimo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/561-dízimo-é-preceito-d_25C3_25ADzimo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/561-dízimo-é-preceito-d_25C3_25ADzimo.png" width="315" height="320" data-original-width="328" data-original-height="333" /></a></div>
+![](/images/posts/561-dízimo-é-preceito-d_25C3_25ADzimo.png)
+
 Caros leitores, essa é uma questão que tem deixado muitas dúvidas entre as pessoas com relação a sua obrigatoriedade, necessidade, doutrina e é claro, a palavra de Deus. Aos católicos é importante compreenderem a questão do dízimo para entenderem bem que esta devolução, que precisa ser de coração (2ª Cor 9,7), não é uma obrigação legalizada em forma de lei canônica e sim um chamado interior no, um “ob-ligatus”, que é a necessidade por amor a Deus, de retribuir. Vejamos:</br>
 </br>
 No antigo testamento, as leis que Deus transmitia ao povo de Israel por meio de Moisés e posteriormente pelos profetas, prescrevia o pagamento obrigatório de 10% dos rendimentos do fiel (pagos na forma de bens e mantimentos, principalmente produtos agrícolas), para manter a tribo de Levi e os sacerdotes, responsáveis pela manutenção do Tabernáculo e depois do Templo, já que eles não podiam possuir heranças e territórios. Esses mantimentos eram também usados para assistir aos órfãos, viúvas e pobres em suas necessidades.</br>

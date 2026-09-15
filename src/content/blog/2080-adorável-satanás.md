@@ -4,7 +4,9 @@ date: 2023-05-17T21:34:00.003Z
 heroImage: "/images/posts/2080-adorável-satanás-o_20abra_C3_A7o_20do_20inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2080-adorável-satanás-o_20abra_C3_A7o_20do_20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="552" data-original-width="501" height="320" src="/images/posts/2080-adorável-satanás-o_20abra_C3_A7o_20do_20inferno.png" width="290" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente um título assim causa estranheza e repulsa para
+![](/images/posts/2080-adorável-satanás-o_20abra_C3_A7o_20do_20inferno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente um título assim causa estranheza e repulsa para
 muitas pessoas. Puxa! Vão logo pensando que é um admirador declarado do inimigo
 número um de nossas almas. Como pode tê-lo em tão alta conta sendo que para o
 católico adorável é Jesus Cristo e sua mãe? E é claro que eu concordarei com a
@@ -33,4 +35,7 @@ vivem bem em relação a Deus quando na verdade estão na direção contrária. 
 todo aquele que me diz: Senhor, Senhor, entrará no Reino dos céus, mas sim
 aquele que faz a vontade de meu Pai que está nos céus” – Mateus 7,21.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

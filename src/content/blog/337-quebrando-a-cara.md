@@ -4,7 +4,9 @@ date: 2023-09-29T19:31:00.005Z
 heroImage: "/images/posts/337-quebrando-a-cara-quebrando_20a_20cara.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/337-quebrando-a-cara-quebrando_20a_20cara.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="418" height="254" src="/images/posts/337-quebrando-a-cara-quebrando_20a_20cara.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa expressão muita gente conhece, quebrar a cara é se dar
+![](/images/posts/337-quebrando-a-cara-quebrando_20a_20cara.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Essa expressão muita gente conhece, quebrar a cara é se dar
 mal, tentar fazer alguma coisa que no final das contas não deu certo. Pois bem,
 algumas vezes somos avisados de que uma coisa que temos intenção de fazer tem
 tudo para não dar certo; mesmo assim não damos ouvidos e o resultado é de que
@@ -33,4 +35,7 @@ eterna nele de nada adianta, só irá aumentar o sofrimento certo e muito justo.
 Ou paramos com isso, enquanto ainda é tempo para se juntar os pedaços ou iremos
 para a condenação eterna com todos eles.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

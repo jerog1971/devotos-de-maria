@@ -4,7 +4,9 @@ date: 2021-04-12T18:01:00Z
 heroImage: "/images/posts/2126-rezar-com-calma-exame.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2126-rezar-com-calma-exame.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="316" src="/images/posts/2126-rezar-com-calma-exame.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Santa Teresa de Jesus dizia que: “não chamo oração mexer com
+![](/images/posts/2126-rezar-com-calma-exame.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Santa Teresa de Jesus dizia que: “não chamo oração mexer com
 os lábios sem pensar no que dizemos, nem no que pedimos, nem quem somos nós,
 nem quem é aquele ao qual nos dirigimos. Algumas vezes poderá acontecer isso a
 pessoas que se esforçam para rezar bem, mas será por motivos que se justificam,
@@ -48,4 +50,7 @@ percorrermos até o céu. Se estamos com ele (João 15,5) a pressa é dissipada
 porque queremos saborear do seu amor em nossas vidas, sentimento este que devemos
 buscar também quando estamos em oração.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,12 +4,23 @@ date: 2020-02-20T15:38:00.002Z
 heroImage: "/images/posts/1681-você-vai-ceder-ao-mal-inimigos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1681-você-vai-ceder-ao-mal-inimigos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="305" data-original-width="297" height="320" src="/images/posts/1681-você-vai-ceder-ao-mal-inimigos.png" width="312" /></a></div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Em primeira avaliação a maioria das pessoas irá dizer que não, ora, ceder ao mal? Nem pensar! O mal, contrário de bem, que nos traz tudo que irá nos prejudicar física e espiritualmente falando não é algo bem-vindo em nossas vidas. Parece coerente que a afirmação saia quase que de “bate pronto” de nossas bocas. Ah se fosse tão simples assim evitar o mal...
+![](/images/posts/1681-você-vai-ceder-ao-mal-inimigos.png)
 
-Poderíamos dizer que até é, porém, o ser humano é habilidoso em complicar as coisas e faz com que a luta do “bom combate” na vivência da fé em Deus, que normalmente é imposta pelo criador como algo difícil de ser realizado, torne-se uma tarefa de proporções titânicas. Por que?</p><p>Porque o “louco” do ser humano insiste em tentar viver sua vida sem Jesus Cristo.
+Em primeira avaliação a maioria das pessoas irá dizer que não, ora, ceder ao mal? Nem pensar! O mal, contrário de bem, que nos traz tudo que irá nos prejudicar física e espiritualmente falando não é algo bem-vindo em nossas vidas. Parece coerente que a afirmação saia quase que de “bate pronto” de nossas bocas. Ah se fosse tão simples assim evitar o mal...
+
+Poderíamos dizer que até é, porém, o ser humano é habilidoso em complicar as coisas e faz com que a luta do “bom combate” na vivência da fé em Deus, que normalmente é imposta pelo criador como algo difícil de ser realizado, torne-se uma tarefa de proporções titânicas. Por que?
+
+Porque o “louco” do ser humano insiste em tentar viver sua vida sem Jesus Cristo.
 
 Ele mesmo nos disse em João 15,5 que “sem mim nada podeis fazer”. Pessoal! Se ele disse que não podemos fazer “NADA” sem ele está na cara que isso inclui viver e lutar contra o mal. Lembremos por um instante dos apóstolos, dos doze de uma forma geral, mas precisamente de Judas, que entregou Jesus por trinta moedas. Com uma vivência diária pertinho do Cristo deu no que deu, ele cedeu ao mal. E nós, que vivemos com um Jesus presente apenas em Espírito? Precisamos da fé e da comunhão com Deus para seguir em frente. 
 
-Podemos afirmar que nosso inimigo cruel trabalha muito bem; com séculos de experiência à nossa frente e todo o tempo diário disponível para suas maquinações, entramos numa batalha com pouquíssimas chances de chegar ao céu. Jesus já dizia aos apóstolos que é impossível ao homem salvar-se.</p><p>Isso é tarefa do Deus do impossível, nossa parte e viver segundo seus mandatos, que existem para nos orientar e nos dar margem para, livres, amarmos ao próximo e a nós mesmos por causa dele (de Deus).
+Podemos afirmar que nosso inimigo cruel trabalha muito bem; com séculos de experiência à nossa frente e todo o tempo diário disponível para suas maquinações, entramos numa batalha com pouquíssimas chances de chegar ao céu. Jesus já dizia aos apóstolos que é impossível ao homem salvar-se.
 
-Então, como vemos, não podemos ceder ao mal, seja lá em que forma ele for apresentado. Dizemos isso a respeito do mal porque ele vem disfarçado de muitas formas e sem aparência de mal. Devemos manter distância e não dialogar com o demônio como fez Eva com a serpente; não precisamos saber “como se dá isso”, se sabemos que não podemos e nem devemos então sequer procuramos “querer”.</p><p>O que devemos sim, querer e muito querer é estarmos pertinho de Jesus, grudados nele mesmo, mergulhados no refúgio que é seu sagrado coração, sob o bálsamo das suas santas chagas, que existem para todo o sempre em seu corpo glorioso para nos dar testemunhos de que somos muito caros para Deus. Isso tem que valer muito mais do que as ofertas do maligno, que não nos tem recompensa nenhuma ao final de nossas vidas, somente a possibilidade de vivermos com ele na danação eterna.&nbsp;</p><p>Fonte: Jefferson Roger</p>
+Isso é tarefa do Deus do impossível, nossa parte e viver segundo seus mandatos, que existem para nos orientar e nos dar margem para, livres, amarmos ao próximo e a nós mesmos por causa dele (de Deus).
+
+Então, como vemos, não podemos ceder ao mal, seja lá em que forma ele for apresentado. Dizemos isso a respeito do mal porque ele vem disfarçado de muitas formas e sem aparência de mal. Devemos manter distância e não dialogar com o demônio como fez Eva com a serpente; não precisamos saber “como se dá isso”, se sabemos que não podemos e nem devemos então sequer procuramos “querer”.
+
+O que devemos sim, querer e muito querer é estarmos pertinho de Jesus, grudados nele mesmo, mergulhados no refúgio que é seu sagrado coração, sob o bálsamo das suas santas chagas, que existem para todo o sempre em seu corpo glorioso para nos dar testemunhos de que somos muito caros para Deus. Isso tem que valer muito mais do que as ofertas do maligno, que não nos tem recompensa nenhuma ao final de nossas vidas, somente a possibilidade de vivermos com ele na danação eterna. 
+
+Fonte: Jefferson Roger
+

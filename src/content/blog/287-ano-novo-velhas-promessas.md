@@ -4,7 +4,9 @@ date: 2023-01-01T16:27:00.001Z
 heroImage: "/images/posts/287-ano-novo-velhas-promessas-igreja_port_C3_A3o.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/287-ano-novo-velhas-promessas-igreja_port_C3_A3o.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/287-ano-novo-velhas-promessas-igreja_port_C3_A3o.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, sabemos que a cena se repete. O ser humano em sua
+![](/images/posts/287-ano-novo-velhas-promessas-igreja_port_C3_A3o.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, sabemos que a cena se repete. O ser humano em sua
 fraqueza busca incessantemente regularizar sua situação perante sua consciência,
 Deus, familiares e com as pessoas de forma geral. Recomeçam as tentativas de
 abandonar vícios físicos, espirituais, maus hábitos e comportamentos desregrados.
@@ -45,4 +47,7 @@ Senhor, tende confiança nele, a fim de que não se desvaneça vossa recompensa.
 Vós, que temeis o Senhor, esperai nele; sua misericórdia vos será fonte de
 alegria” – Eclesiástico 2,1-9.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

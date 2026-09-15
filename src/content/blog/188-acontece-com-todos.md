@@ -4,7 +4,8 @@ date: 2017-08-03T14:06:00Z
 heroImage: "/images/posts/188-acontece-com-todos-morrer.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/188-acontece-com-todos-morrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/188-acontece-com-todos-morrer.png" width="320" height="297" data-original-width="308" data-original-height="286" /></a></div>
+![](/images/posts/188-acontece-com-todos-morrer.png)
+
 Na vida o corre corre ao qual nos submetemos acaba por delinear certos aspectos da vida que acabam, por não acontecerem com frequência, sendo deixados de lado. As pessoas dentro de suas casas muitas vezes transformam a convivência em família num verdadeiro cenário de guerra. Vivem em constante ritmo frenético e as grandes provações, tribulações e dificuldades da vida vão sendo deixadas ao acaso. As pessoas acabam por não colocarem a devida atenção e um olhar espiritual sobre tudo e vão deixando o relapso participar de suas vidas. Depois vão entender lá na frente que, como diz o ditado, não adianta chorar sobre o leite derramado.</br>
 </br>
 Essa noite, que foi uma bela noite de sono, muito bem dormida, tive ao acordar para ir ao trabalho a lembrança de um sonho. Neste sonho minha esposa estava hospitalizada e eu estava com ela. Corria de um lado para o outro, preocupada com as filhas pois sabia que pouco tempo lhe restava e a morte se aproximava rapidamente, tratou de me passar “todas as diretrizes” a respeito delas. Depois de ter me falado tudo, no sonho eu sentia que sabia quando ela iria morrer e sabia que era em menos de uma hora. Como sempre acontece com a maioria de nós, sempre lembramos do final dos sonhos e acabamos por acordar. Acordei e ainda faltavam poucos minutos para levantar e se arrumar para ir ao trabalho.</br>

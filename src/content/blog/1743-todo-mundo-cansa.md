@@ -4,7 +4,9 @@ date: 2024-04-09T17:49:00.004Z
 heroImage: "/images/posts/1743-todo-mundo-cansa-Todo_20mundo_20cansa.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1743-todo-mundo-cansa-Todo_20mundo_20cansa.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="199" height="207" src="/images/posts/1743-todo-mundo-cansa-Todo_20mundo_20cansa.jpg" width="199" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já que és feito de carne e osso, capaz de somatizar para seu
+![](/images/posts/1743-todo-mundo-cansa-Todo_20mundo_20cansa.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Já que és feito de carne e osso, capaz de somatizar para seu
 interior tudo que lhe acontece ao redor, de fato você está no grupo dos que
 enfrentam a dura batalha diária. A situação é bem antiga e remonta ao início da
 humanidade. Enquanto os primeiros seres vivos caçavam para sobreviver e
@@ -44,4 +46,7 @@ dizer que você não consegue por causa dele ou dela, ou de quem quer que seja.
 Só covardes fazem isso e você não é covarde, você é melhor do que isso.” Lembre-se,
 Jesus quer te ajudar! Não permaneça sofrendo longe dele!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

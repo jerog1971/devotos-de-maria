@@ -4,7 +4,8 @@ date: 2018-04-19T20:27:00Z
 heroImage: "/images/posts/331-viva-os-filhos-familia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/331-viva-os-filhos-familia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/331-viva-os-filhos-familia.png" width="320" height="267" data-original-width="575" data-original-height="479" /></a></div>
+![](/images/posts/331-viva-os-filhos-familia.png)
+
 Deixai vir a mim as criancinhas disse Jesus e também disse que é preciso se assemelhar a elas para se entrar no Reino dos Céus. No Salmo 126,3 lemos que os filhos são um dom de Deus.
 Vamos recordar: entre nós aqui na terra damos e trocamos presentes. Entre nós e Deus a troca é um pouco diferente porque os “presentes” que recebemos são os dons e em troca a eles o que damos? Porque nos ama o criador nos presenteia e podemos dizer que é para compensar o propósito dele em nos manter dependentes e na miséria humana sempre carente de sua ajuda. </br>
 </br>

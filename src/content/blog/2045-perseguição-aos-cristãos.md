@@ -4,7 +4,8 @@ date: 2016-11-21T14:05:00Z
 heroImage: "/images/posts/2045-perseguição-aos-cristãos-21.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2045-perseguição-aos-cristãos-21.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2045-perseguição-aos-cristãos-21.png" width="320" height="179" data-original-width="642" data-original-height="360" /></a></div>
+![](/images/posts/2045-perseguição-aos-cristãos-21.png)
+
 Mateus 5,11-12 – “Bem-aventurados sereis quando vos caluniarem, quando vos perseguirem e disserem falsamente todo o mal contra vós por causa de mim. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus, pois assim PERSEGUIRAM os profetas que vieram antes de vós”.</br>
 </br>
 João 15,20-21 – “Lembrai-vos da palavra que vos disse: O servo não é maior do que o seu senhor. Se me PERSEGUIRAM, também vos hão de perseguir. Se guardaram a minha palavra, hão de guardar também a vossa. Mas vos farão tudo isso por causa do meu nome, porque não conhecem aquele que me enviou.</br>

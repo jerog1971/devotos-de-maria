@@ -4,7 +4,11 @@ date: 2020-06-18T17:13:00Z
 heroImage: "/images/posts/1295-são-gregório-barbarigo-S_25C3_25A3o_Greg_25C3_25B3rio_Barbarigo.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1295-são-gregório-barbarigo-S_25C3_25A3o_Greg_25C3_25B3rio_Barbarigo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="300" src="/images/posts/1295-são-gregório-barbarigo-AVvXsEh-vLl2vd_0s6voGOH2RN_D3x9qR3xiRv7qLG2zGYBsX-SaFZVpnRicZ5nhfYsbwEprLbh_aT9-txGxHGSr9e2XN4dHPzjxzSJBIT8Rn-eWopzM2V7AfKrVEvG6BiIljuhzBmYJpZDlBoM.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Veneza, Itália, em 1625. Em 1648, acompanhou o
+<br />
+
+![](/images/posts/1295-são-gregório-barbarigo-AVvXsEh-vLl2vd_0s6voGOH2RN_D3x9qR3xiRv7qLG2zGYBsX-SaFZVpnRicZ5nhfYsbwEprLbh_aT9-txGxHGSr9e2XN4dHPzjxzSJBIT8Rn-eWopzM2V7AfKrVEvG6BiIljuhzBmYJpZDlBoM.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Veneza, Itália, em 1625. Em 1648, acompanhou o
 embaixador de Veneza, Contarini, às negociações realizadas em vista do Tratado
 de Vestefália. Em Münster travou conhecimento com Fábio Chigi, núncio
 apostólico. Eleito papa com o nome de Alexandre VII, Fábio Chigi nomeou

@@ -4,7 +4,8 @@ date: 2018-10-30T20:31:00Z
 heroImage: "/images/posts/1779-é-o-diabo-satanás-ou-o-demônio-Jesus_x_diabo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1779-é-o-diabo-satanás-ou-o-demônio-Jesus_x_diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1779-é-o-diabo-satanás-ou-o-demônio-Jesus_x_diabo.png" width="299" height="320" data-original-width="488" data-original-height="522" /></a></div>
+![](/images/posts/1779-é-o-diabo-satanás-ou-o-demônio-Jesus_x_diabo.png)
+
 Caros leitores, por que será que nosso inimigo cruel é chamado de várias formas? Já pararam para pensar? Será que existe alguma atribuição quanto ao seu grau de maldade? Será que são entidades diferentes, como se fossem uma paródia da Santíssima Trindade? Como se o diabo, fosse o chefe, satanás seu braço direito e o demônio, uma espécie de capataz?</br>
 </br>
 Bom, vamos por partes, para compreendermos bem a relação do mal com tudo isso. A palavra diabo tem origem no latim e quer dizer “caluniador”, “acusador”.</br>

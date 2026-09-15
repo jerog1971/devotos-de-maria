@@ -4,7 +4,8 @@ date: 2016-07-25T11:30:00Z
 heroImage: "/images/posts/1351-verdadeiro-homem-serm_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1351-verdadeiro-homem-serm_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1351-verdadeiro-homem-serm_25C3_25A3o.png" width="320" height="299" data-original-width="553" data-original-height="516" /></a></div>
+![](/images/posts/1351-verdadeiro-homem-serm_25C3_25A3o.png)
+
 </br>
 Nos séculos VIII e IX, durante a grande controvérsia iconoclasta, uma questão dividiu o mundo cristão oriental. À parte se o uso de ícones no cristianismo violava ou não a proibição do Antigo Testamento sobre a confecção e o uso de esculturas (cf. Ex 20, 4), a pergunta era se Cristo poderia ser realmente retratado em uma imagem. Afinal, qualquer imagem real de Cristo deve apontar tanto para a Sua humanidade quanto para a Sua divindade. Como, porém, representar o infinito? Como descrever o indescritível? Alguns vão mais longe, a ponto de dizer que o próprio Cristo, sendo Deus, não teria possuído quaisquer características finitas. Jesus teria tido todas as cores possíveis de cabelo, todas as formas possíveis de nariz, todos os tamanhos possíveis de pés.</br>
 </br>

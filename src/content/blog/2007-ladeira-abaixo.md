@@ -4,7 +4,8 @@ date: 2018-02-02T19:16:00.001Z
 heroImage: "/images/posts/2007-ladeira-abaixo-unissex.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2007-ladeira-abaixo-unissex.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2007-ladeira-abaixo-unissex.png" width="224" height="320" data-original-width="451" data-original-height="645" /></a></div>
+![](/images/posts/2007-ladeira-abaixo-unissex.png)
+
 Todos aqueles que se esforçam para viverem os valores do evangelho de Nosso Senhor Jesus Cristo, fundador da Igreja Católica (Mateus 16,18), sofrem diariamente com o avanço nesse mundo das linhas inimigas. A lista é grande de artifícios e frentes de combate impostas aos cristãos do mundo inteiro. Aqui no Brasil não é diferente. Para os desavisados vai a informação de que no ano passado, pasmem caros leitores, a Pontifícia Universidade Católica de São Paulo, isso mesmo que você leu, lançou nota oficial em redes sociais, depois que implantou em seu estabelecimento um banheiro unissex. Segue a nota:</br>
 </br>
 “A PUC-SP, atenta à diversidade de sua comunidade universitária, composta por alunos, professores e funcionários, buscou contemplar a todos com a implementação do banheiro unissex. A Instituição ressalta que estes sanitários são de uso comum, não direcionados a públicos específicos.”</br>

@@ -4,7 +4,9 @@ date: 2023-02-20T02:06:00.005Z
 heroImage: "/images/posts/830-annabelle-ontem-e-hoje-Annabelle.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/830-annabelle-ontem-e-hoje-Annabelle.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="534" data-original-width="614" height="278" src="/images/posts/830-annabelle-ontem-e-hoje-Annabelle.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A boneca possuída mais famosa do mundo é também um dos casos
+![](/images/posts/830-annabelle-ontem-e-hoje-Annabelle.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A boneca possuída mais famosa do mundo é também um dos casos
 mais populares investigados pelos Warren. Bem diferente da aparência
 assustadora dos filmes, Annabelle era uma boneca de pano que uma jovem
 enfermeira chamada Donna ganhou de sua mãe. Porém, ela e sua colega de
@@ -34,4 +36,7 @@ uma boneca de pano, pode ser qualquer outra coisa ou alguém a nos convidar ao
 mal. Vigiai e orai sem cessar para que não entreis em tentação porque o
 espírito está pronto, mas a carne é fraca – disse Jesus Cristo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

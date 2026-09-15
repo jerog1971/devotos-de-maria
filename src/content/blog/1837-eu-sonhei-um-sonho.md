@@ -4,7 +4,9 @@ date: 2023-03-07T21:12:00Z
 heroImage: "/images/posts/1837-eu-sonhei-um-sonho-sonho_20de_20crian_C3_A7a.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1837-eu-sonhei-um-sonho-sonho_20de_20crian_C3_A7a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/1837-eu-sonhei-um-sonho-sonho_20de_20crian_C3_A7a.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida é repleta de sonhos; bons, ruins, sonhos que sonhamos
+![](/images/posts/1837-eu-sonhei-um-sonho-sonho_20de_20crian_C3_A7a.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A vida é repleta de sonhos; bons, ruins, sonhos que sonhamos
 enquanto dormimos e sonhos que sonhamos acordados. Sobre estes, podemos
 refletir um pouco, pois, podem não passar disso, sendo apenas como um desejo
 que o vento pode levar de nossas mentes, ou então, pode amadurecer muito, tornando-se
@@ -35,4 +37,7 @@ Pois é, que em nossa vida, material e espiritual não sejamos assim, sejamos
 perseverantes para que o sonho de morar no paraíso se torne um anseio e com a
 ajuda da perseverança se torne uma realidade.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

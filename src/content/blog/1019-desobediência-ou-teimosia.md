@@ -4,7 +4,9 @@ date: 2022-05-10T02:54:00.004Z
 heroImage: "/images/posts/1019-desobediência-ou-teimosia-desobedi_C3_AAncia_20ou_20teimosia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1019-desobediência-ou-teimosia-desobedi_C3_AAncia_20ou_20teimosia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="353" data-original-width="354" height="319" src="/images/posts/1019-desobediência-ou-teimosia-desobedi_C3_AAncia_20ou_20teimosia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essas duas ações existem, não se pode nega-las. No entanto, a
+![](/images/posts/1019-desobediência-ou-teimosia-desobedi_C3_AAncia_20ou_20teimosia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Essas duas ações existem, não se pode nega-las. No entanto, a
 inteligência concedida ao homem, por Deus, e também seu livre-arbítrio, permitem
 que esse utilize no curso de sua vida da maneira que melhor lhe convir. Eis o
 perigo da coisa, pois, o diabo nos tenta para que pratiquemos a desobediência e
@@ -37,4 +39,7 @@ do juízo por aquele que irá nos julgar por nossas obras (Apocalipse 22,12),
 pode não ser aquilo que esperamos e nesta altura, o leite derramado não adianta
 ser chorado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

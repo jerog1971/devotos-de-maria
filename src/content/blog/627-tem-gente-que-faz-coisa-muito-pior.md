@@ -4,7 +4,8 @@ date: 2016-10-27T13:34:00.002Z
 heroImage: "/images/posts/627-tem-gente-que-faz-coisa-muito-pior-pior.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/627-tem-gente-que-faz-coisa-muito-pior-pior.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/627-tem-gente-que-faz-coisa-muito-pior-pior.png" width="320" height="281" data-original-width="306" data-original-height="269" /></a></div>
+![](/images/posts/627-tem-gente-que-faz-coisa-muito-pior-pior.png)
+
 Jesus é muito direto quando nos adverte que não devemos ficar justificando nossas atitudes por conta de atitudes das outras pessoas. Em Lucas 4,24 lemos que “Atendei ao que ouvis: com a medida com que medirdes, vos medirão a vós, e ainda se vos acrescentará.” Não podemos chegar na frente do justo juiz no dia de nosso julgamento e querer dizer que fulano fez coisa bem pior do que eu. Jesus nesta hora bem poderia dizer que é ele quem irá julgar a cada um segundo a verdade dele. Não iremos convencer Jesus de que podemos receber a recompensa da glória e passarmos pela porta estreita apresentando a nossa verdade. Nem podemos negociar pois não se trata de um debate sobre quem está com a razão. Em sua frente iremos receber o julgamento e a sentença. O tempo de obras ficou para trás.</br>
 </br>
 Muitas pessoas não conseguem viver as exigências do evangelho porque misturam suas interpretações pessoais e suas verdades as de Jesus e dessa salada toda querem tirar um cristianismo analgésico e sem cruz. Afinal, pensam elas que Deus irá me poupar assim que ele ver que tem gente que faz coisa muito pior. Só que existe um grande problema nisso tudo.</br>

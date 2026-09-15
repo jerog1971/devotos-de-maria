@@ -4,7 +4,9 @@ date: 2020-10-02T19:43:00.004Z
 heroImage: "/images/posts/899-ausência-de-deus-Aus_25C3_25AAncia_de_Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/899-ausência-de-deus-Aus_25C3_25AAncia_de_Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="368" data-original-width="395" src="/images/posts/899-ausência-de-deus-Aus_25C3_25AAncia_de_Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Atualmente e anualmente em alguma parte do mundo acontecem
+![](/images/posts/899-ausência-de-deus-Aus_25C3_25AAncia_de_Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Atualmente e anualmente em alguma parte do mundo acontecem
 os grandes períodos de estiagem, de calor e de falta de alguma coisa.
 Independente de realidades como essa, que afetam a vida de todas as pessoas
 indistintamente, realidades ainda mais graves nos atingem sem discriminar
@@ -37,4 +39,7 @@ nossa frente para decretar a sentença da condenação ou o prêmio eterno,
 tentarmos explicar os nossos porquês. A regra da vida não é de nossa autoria,
 podemos acatá-la ou ignora-la, nunca a adaptar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2022-10-13T16:05:00.004Z
 heroImage: "/images/posts/1993-condenados-por-deus-Condenados_20por_20Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1993-condenados-por-deus-Condenados_20por_20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="537" data-original-width="563" height="305" src="/images/posts/1993-condenados-por-deus-Condenados_20por_20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nada disso, ele pode ser bom para os outros, que levam vida
+![](/images/posts/1993-condenados-por-deus-Condenados_20por_20Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nada disso, ele pode ser bom para os outros, que levam vida
 mais fácil que a minha, possuem mais facilidades, mais confortos, maior
 condição financeira, mais desejos realizados. A grama do vizinho realmente é
 mais verde que a minha, sua conta bancária mais gorda, sua família dá menos
@@ -37,4 +39,7 @@ mal. Nada disso: “Deus corrige e castiga aqueles que ama e tem por seus filhos
 não seríamos julgados. Mas, sendo julgados pelo Senhor, ele nos castiga para
 não sermos condenados com o mundo” – 1ª Coríntios 11,31-32.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

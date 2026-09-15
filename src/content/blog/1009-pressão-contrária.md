@@ -4,7 +4,9 @@ date: 2024-04-22T17:15:00.001Z
 heroImage: "/images/posts/1009-pressão-contrária-press_C3_A3o_20contr_C3_A1ria.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1009-pressão-contrária-press_C3_A3o_20contr_C3_A1ria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="370" data-original-width="645" height="184" src="/images/posts/1009-pressão-contrária-press_C3_A3o_20contr_C3_A1ria.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Neste ano, durante a vigília pascal, no momento da homilia,
+![](/images/posts/1009-pressão-contrária-press_C3_A3o_20contr_C3_A1ria.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Neste ano, durante a vigília pascal, no momento da homilia,
 o sacerdote ao catequizar os presentes na celebração, a respeito da importância
 do que Jesus fez por nós, significando por essas atitudes o quanto ele nos ama,
 entre suas palavras algumas frases me chamaram muita atenção e concordo com
@@ -44,4 +46,7 @@ luta contra o mal se vale de tudo, até de se infiltrar no campo alheio para ata
 em todas as frentes possíveis. Vamos repetir? Por isso Deus pediu (Mateus
 10,22) a perseverança até o fim, caso queiramos entrar no céu.<o:p></o:p></p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div><p><br />&nbsp;</p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-11-05T15:37:00.004Z
 heroImage: "/images/posts/969-pecados-por-impulso-pecados_da_ira.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/969-pecados-por-impulso-pecados_da_ira.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="232" data-original-width="227" height="232" src="/images/posts/969-pecados-por-impulso-pecados_da_ira.png" width="227" /></a></div><br /><p></p><p class="MsoNormal">Em várias passagens bíblicas atestamos que Deus perdoa
+![](/images/posts/969-pecados-por-impulso-pecados_da_ira.png)
+
+<br /><p class="MsoNormal">Em várias passagens bíblicas atestamos que Deus perdoa
 pecados, das mais variadas naturezas, desde é claro, que exista o
 arrependimento, pois, o pecado planejado, esse não deve esperar de Deus o seu
 perdão; afinal, o sujeito pecou conscientemente. Ele sabia que a matéria era
@@ -60,5 +62,4 @@ pedra.</p>
 <p class="MsoNormal">Como vemos, Deus escuta os arrependimentos e nos perdoa.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

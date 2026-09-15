@@ -4,7 +4,8 @@ date: 2017-09-01T12:17:00.001Z
 heroImage: "/images/posts/729-o-paraíso-sem-deus-manipula_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/729-o-paraíso-sem-deus-manipula_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/729-o-paraíso-sem-deus-manipula_25C3_25A7_25C3_25A3o.png" width="320" height="304" data-original-width="337" data-original-height="320" /></a></div>
+![](/images/posts/729-o-paraíso-sem-deus-manipula_25C3_25A7_25C3_25A3o.png)
+
 A agenda de destruição das famílias infelizmente segue acirrada a sua busca pela implantação dos ideais marxistas que tanto insistem em destruir a célula básica da sociedade, jogar no latão de lixo o plano salvífico de Deus e ainda por cima defender a teste de que tudo isso que promovem não passa de uma evolução natural da humanidade. Tenha paciência viu.</br>
 </br>
 Já é de muito tempo que a batalha entre a frente cristã e os promotores da cultura da morte acontecem pelos continentes a fora. Há de se recordar que o fato é biblicamente registrado. “Cuidai de vós mesmos e de todo o rebanho” – diz a escritura (Atos 20,28). E por que precisamos cuidar? Simples, porque “Sei que depois da minha partida se introduzirão entre vós lobos cruéis, que não pouparão o rebanho. Mesmo dentre vós surgirão homens que hão de proferir doutrinas perversas, com o intento de arrebatarem após si os discípulos” – nos alerta a passagem (Atos 20,29-30).</br>

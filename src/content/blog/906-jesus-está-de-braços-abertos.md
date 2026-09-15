@@ -4,7 +4,9 @@ date: 2022-09-11T00:48:00.001Z
 heroImage: "/images/posts/906-jesus-está-de-braços-abertos-img-1185272568.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/906-jesus-está-de-braços-abertos-img-1185272568.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="260" height="246" src="/images/posts/906-jesus-está-de-braços-abertos-img-1156107867.png" width="260" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Numa das parábolas reconhecidas como parábola da
+![](/images/posts/906-jesus-está-de-braços-abertos-img-1156107867.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Numa das parábolas reconhecidas como parábola da
 misericórdia, o pai com seus dois filhos acolhe o que retorna e acalenta o que
 dele não se afasta. As interpretações dizem que o pai misericordioso da parábola
 contada por Jesus representa a atitude que Deus tem para cada um de nós.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -29,4 +31,7 @@ divino sabemos que enquanto estamos vivos nos resta escolher seguir ou não
 Jesus Cristo, cabe a cada um, como sempre dizemos por aqui uma escolha, de que
 lado ficar, quem seguir.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson&nbsp;<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson <o:p></o:p></p></div>
+
+<br /> 
+

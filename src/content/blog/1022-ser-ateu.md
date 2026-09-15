@@ -4,7 +4,8 @@ date: 2016-02-01T18:48:00.002Z
 heroImage: "/images/posts/1022-ser-ateu-andrea_beltr_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1022-ser-ateu-andrea_beltr_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1022-ser-ateu-andrea_beltr_25C3_25A3o.png" width="320" height="316" data-original-width="434" data-original-height="429" /></a></div>
+![](/images/posts/1022-ser-ateu-andrea_beltr_25C3_25A3o.png)
+
 </br>
 Pois bem, certa vez Jesus disse a Santa Angela de Foligno que muitos seguem a moda que o mundo e as celebridades ditam. Tanto é verdade que basta algum show sertanejo ou de algum artista famoso nacional ou internacional que lá se vão um batalhão de fãs erguer acampamento em frente a estádios, hotéis ou onde for em busca daquela foto, de poder estar perto, quem sabe tocar na pessoa, quase como aquelas pessoas do evangelho que queriam tocar Jesus. E tem mais, isso para estas pessoas não é esforço nenhum. Vamos traduzir?</br>
 </br>

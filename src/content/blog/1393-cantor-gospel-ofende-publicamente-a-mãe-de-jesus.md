@@ -4,7 +4,8 @@ date: 2019-06-25T15:55:00.001Z
 heroImage: "/images/posts/1393-cantor-gospel-ofende-publicamente-a-mãe-de-jesus-corpus_christi.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1393-cantor-gospel-ofende-publicamente-a-mãe-de-jesus-corpus_christi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1393-cantor-gospel-ofende-publicamente-a-mãe-de-jesus-corpus_christi.png" width="320" height="286" data-original-width="469" data-original-height="419" /></a></div>
+![](/images/posts/1393-cantor-gospel-ofende-publicamente-a-mãe-de-jesus-corpus_christi.png)
+
 Lucas 1,30-35 – “O anjo disse-lhe: Não temas, Maria, pois encontraste graça diante de Deus. Eis que conceberás e darás à luz um filho, e lhe porás o nome de Jesus. Ele será grande e chamar-se-á Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi; e reinará eternamente na casa de Jacó, e o seu reino não terá fim. Maria perguntou ao anjo: Como se fará isso, pois não conheço homem? Respondeu-lhe o anjo: O Espírito Santo descerá sobre ti, e a força do Altíssimo te envolverá com a sua sombra. Por isso o ente santo que nascer de ti será chamado Filho de Deus”.</br>
 </br>
 Lucas 1,39-43 – “Naqueles dias, Maria se levantou e foi às pressas às montanhas, a uma cidade de Judá. Entrou em casa de Zacarias e saudou Isabel. Ora, apenas Isabel ouviu a saudação de Maria, a criança estremeceu no seu seio; e Isabel ficou cheia do Espírito Santo. E exclamou em alta voz: Bendita és tu entre as mulheres e bendito é o fruto do teu ventre. Donde me vem esta honra de vir a mim a mãe de meu Senhor”?</br>

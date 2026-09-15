@@ -4,7 +4,9 @@ date: 2022-09-14T18:40:00.003Z
 heroImage: "/images/posts/428-será-que-me-enquadro-na-lista-dos-pe-sou_20pecador.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/428-será-que-me-enquadro-na-lista-dos-pe-sou_20pecador.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="408" data-original-width="479" height="273" src="/images/posts/428-será-que-me-enquadro-na-lista-dos-pe-sou_20pecador.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, sobre aqueles que Deus define como pecadores em
+![](/images/posts/428-será-que-me-enquadro-na-lista-dos-pe-sou_20pecador.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, sobre aqueles que Deus define como pecadores em
 sua santa palavra descrita nos livros sagrados, muitas pessoas podem correr o
 risco, num simples descuido ou quem sabe por medo ou preguiça de descobrir a verdade,
 de estarem inseridas nas listas dos pecadores e não se darem conta, julgarem a
@@ -43,4 +45,7 @@ contexto em que a pessoa se insere para que não incida em práticas de pecado.
 Sendo assim, precisamos sempre olhar para o todo para que não caiamos na
 tentação de justificar atitudes distorcendo a palavra de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

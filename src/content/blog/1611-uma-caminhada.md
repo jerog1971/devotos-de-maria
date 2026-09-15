@@ -4,7 +4,9 @@ date: 2020-11-17T13:37:00.002Z
 heroImage: "/images/posts/1611-uma-caminhada-M_25C3_25A3e_e_Filha.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1611-uma-caminhada-M_25C3_25A3e_e_Filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="920" data-original-width="807" height="320" src="/images/posts/1611-uma-caminhada-M_25C3_25A3e_e_Filha.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A graça de se viver é concedida a cada dia. Quando deitamos
+![](/images/posts/1611-uma-caminhada-M_25C3_25A3e_e_Filha.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A graça de se viver é concedida a cada dia. Quando deitamos
 para dormir nunca sabemos se iremos acordar para enfrentarmos as novas
 oportunidades que Deus prepara para aqueles que o amam (Romanos 8,28).
 Oportunidades essas que muitas vezes tornam nossa caminhada de retorno para a
@@ -33,4 +35,7 @@ famílias que se presam vivem sem adivinhações, pois caminham na certeza de qu
 não abandona os seus, pois, “quem serve ao Senhor com alegria, um dia entrará
 exultante em sua presença” – Salmo 99.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

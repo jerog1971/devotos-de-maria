@@ -4,7 +4,8 @@ date: 2018-06-04T20:23:00Z
 heroImage: "/images/posts/1021-cortar-o-mal-pela-raiz-thanos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1021-cortar-o-mal-pela-raiz-thanos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1021-cortar-o-mal-pela-raiz-thanos.png" width="320" height="263" data-original-width="451" data-original-height="371" /></a></div>
+![](/images/posts/1021-cortar-o-mal-pela-raiz-thanos.png)
+
 Em poucos minutos, se dermos asas às tentações e ouvidos na tentativa de dialogar com o inimigo, aquilo que era um pequenino ser se transforma num gigante de proporções colossais. Já diziam os santos padres que a tentação é mais facilmente vencida se for combatida nos primeiros instantes de sua gestação. Ao contrário, se ela receber atenção crescerá em força e poder com magnitude colossal e progressão aritmética.</br>
 </br>
 Um dos problemas é que as pessoas esquecem da preciosidade que disse Jesus quando falou que “sem mim, nada podeis fazer (João 15,5).” Se ele falou nada, essas duas sílabas querem dizer o que dizem: nada! Não é nada exceto isso ou aquilo, é simplesmente nada. Eis aí a brecha humana que permite ao diabo tomar parte na situação. O homem acha que pode muitas coisas sozinho e pior, acha que pode muitas coisas sem o auxílio divino, sem Deus. Que lástima e que pesar; é um voo cego onde a insistência vai causar uma aterrisagem forçada e sem as rodas. Na certa será um grande estrago.</br>

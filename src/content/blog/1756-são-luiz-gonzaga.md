@@ -4,7 +4,11 @@ date: 2020-06-21T15:38:00.001Z
 heroImage: "/images/posts/1756-são-luiz-gonzaga-S_25C3_25A3o_Luiz_Gonzaga.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1756-são-luiz-gonzaga-S_25C3_25A3o_Luiz_Gonzaga.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="359" data-original-width="358" height="320" src="/images/posts/1756-são-luiz-gonzaga-S_25C3_25A3o_Luiz_Gonzaga.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Mântua, Itália, em 1568 e morreu com 23 anos de
+<br />
+
+![](/images/posts/1756-são-luiz-gonzaga-S_25C3_25A3o_Luiz_Gonzaga.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Mântua, Itália, em 1568 e morreu com 23 anos de
 idade, em 1591. É o patrono da juventude, e o seu corpo repousa na igreja de
 Santo Inácio, em Roma.</p>
 

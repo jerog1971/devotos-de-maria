@@ -4,7 +4,8 @@ date: 2016-08-18T20:32:00Z
 heroImage: "/images/posts/673-como-manter-as-ofertas-do-mundo-fora-prazeres.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/673-como-manter-as-ofertas-do-mundo-fora-prazeres.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/673-como-manter-as-ofertas-do-mundo-fora-prazeres.png" width="320" height="292" data-original-width="317" data-original-height="289" /></a></div>
+![](/images/posts/673-como-manter-as-ofertas-do-mundo-fora-prazeres.png)
+
 “Quem é amigo do mundo se torna inimigo de Deus” – Tiago 4,4. “Não vos conformeis com este mundo, mas transformai-vos pela renovação do vosso espírito, para que possais discernir qual é a vontade de Deus, o que é bom, o que lhe agrada e o que é perfeito” – Romanos 12,2. E com estes dois trechos das sagradas escrituras, caros leitores, começamos esta pequena reflexão acerca da resistência que se deve oferecer a tudo aquilo que o mundo oferece e que está em desacordo com a vontade de Deus.</br>
 </br>
 Todo mundo é capaz de aguentar qualquer “como” desde que ele tenha um “porquê”, já dizia um grande filósofo ateu Friedrich Nietzsche, perito na observação do comportamento humano. E vemos que até mesmo um ateu pode contribuir para a espiritualidade católica, mas, será que ele, lá no fundo, não estava deixando o ateísmo de lado quando começou a enxergar esta verdade? Bem, isso é entre ele e Deus. Sigamos com o artigo.</br>

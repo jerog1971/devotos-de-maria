@@ -4,7 +4,8 @@ date: 2016-07-12T11:00:00Z
 heroImage: "/images/posts/1001-seja-feita-a-vossa-vontade-rezando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1001-seja-feita-a-vossa-vontade-rezando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1001-seja-feita-a-vossa-vontade-rezando.png" width="271" height="320" data-original-width="327" data-original-height="386" /></a></div>
+![](/images/posts/1001-seja-feita-a-vossa-vontade-rezando.png)
+
 </br>
 "Sejais imitadores de Cristo", nos ensina a sagrada escritura. Também aprendemos que, "Deus não faz distinção de pessoas". Outro ensinamento bem direto, verdadeiro e que nos convida a aceitarmos o que Jesus nos ensinou na oração do Pai Nosso: "Seja feita a Vossa Vontade..."</br>
 </br>

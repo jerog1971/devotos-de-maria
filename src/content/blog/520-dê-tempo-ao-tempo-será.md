@@ -4,7 +4,8 @@ date: 2017-09-12T11:48:00.001Z
 heroImage: "/images/posts/520-dê-tempo-ao-tempo-será-ampulheta.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/520-dê-tempo-ao-tempo-será-ampulheta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/520-dê-tempo-ao-tempo-será-ampulheta.png" width="320" height="303" data-original-width="515" data-original-height="487" /></a></div>
+![](/images/posts/520-dê-tempo-ao-tempo-será-ampulheta.png)
+
 Existem por aí, todos nós bem sabemos, vários ditados populares que procuram envolver o tempo nas questões comportamentais e humanas. Dizem que o tempo cura as feridas, dizem que o tempo é como um predador, dizem que o tempo é nosso aliado, dizem que é preciso dar tempo ao tempo e até, no livro do Eclesiastes se diz que existe tempo para tudo.</br>
 </br>
 De fato, as coisas são assim mesmo, me refiro ao livro do Eclesiastes, mas, uma coisa é certa sobre o tempo. Não podemos culpar o tempo por causa de nossas atitudes. O tempo nunca nos falta, sempre é uma questão de prioridade. Se damos muita importância para algo, iremos arrumar tempo para fazê-lo. Se não damos, só o faremos se sobrar algum tempo, do contrário, o tempo que se vire, afinal é culpa dele não nos ter concedido tempo para fazermos aquilo. Pobre dos que pensam assim, o hábito de se colocar a própria culpa nos outros ou em alguma coisa não passa de desculpa, e como se diz por aí, das bem esfarrapadas. Acham que não entrarão na fila do juízo para encararem o olhar penetrante de Jesus, o justo juiz.</br>

@@ -4,7 +4,11 @@ date: 2020-06-24T16:27:00.001Z
 heroImage: "/images/posts/2082-as-penas-dos-pecadores-dificuldades.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2082-as-penas-dos-pecadores-dificuldades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="485" data-original-width="464" height="320" src="/images/posts/2082-as-penas-dos-pecadores-dificuldades.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em todas as coisas olha o fim, e de que sorte estarás diante
+<br />
+
+![](/images/posts/2082-as-penas-dos-pecadores-dificuldades.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em todas as coisas olha o fim, e de que sorte estarás diante
 do severo juiz a quem nada é oculto, que não se deixa aplacar com dádivas, nem
 aceita desculpas, mas que julgará segundo a justiça. Ó misérrimo e insensato
 pecador! Que responderás a Deus, que conhece todos os teus crimes, se, às

@@ -4,7 +4,9 @@ date: 2023-12-11T16:57:00Z
 heroImage: "/images/posts/121-está-tudo-bem-est_C3_A1_20tudo_20bem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/121-está-tudo-bem-est_C3_A1_20tudo_20bem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="365" data-original-width="403" height="290" src="/images/posts/121-está-tudo-bem-est_C3_A1_20tudo_20bem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quem está de pé cuide para que não caia. Essa frase que inicia
+![](/images/posts/121-está-tudo-bem-est_C3_A1_20tudo_20bem.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quem está de pé cuide para que não caia. Essa frase que inicia
 o artigo já foi transcrita em outras publicações neste site. Nem poderia ser
 diferente; o alerta bíblico é muito pertinente à condição do cristão. Sim, pois
 nunca estamos livres de sermos arrastados para a condenação eterna.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -33,4 +35,7 @@ frente com o Ressuscitado, dependendo do olhar que ele lançar sobre nós,
 saberemos: Sim, está tudo bem! – você irá para o céu; não, não está tudo bem” –
 ide maldito para o fogo do inferno (Mateus 25,41).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

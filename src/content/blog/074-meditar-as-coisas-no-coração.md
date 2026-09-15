@@ -4,7 +4,8 @@ date: 2017-10-10T12:00:00Z
 heroImage: "/images/posts/074-meditar-as-coisas-no-coração-pensativo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/074-meditar-as-coisas-no-coração-pensativo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/074-meditar-as-coisas-no-coração-pensativo.png" width="310" height="320" data-original-width="353" data-original-height="364" /></a></div>
+![](/images/posts/074-meditar-as-coisas-no-coração-pensativo.png)
+
 No evangelho de São Lucas no segundo capítulo, aprendemos da Virgem Maria que, conforme nos ensinou o seu filho Jesus, tudo vem do coração. As coisas brotam no coração, se instalam na mente e são manifestadas exteriormente pelo corpo. O coração move as pessoas de bem, se a razão interfere tentando desfazer o equilíbrio que deve existir dentro da pessoa, tendemos a dar ouvidos ao diabo, aceitar suas ofertas e poluir nosso pobre coração com as coisas que passam. Satanás precisa só de uma fresta em nosso coração para conquista-lo por inteiro. Se dialogarmos com ele, tentando agradar a dois senhores, fatalmente iremos padecer.</br>
 </br>
 O coração precisa ser alimentado pelas coisas de Deus, depois essas coisas precisam se instalar em nossa mente e em consequência nossas atitudes irão corresponder àquilo que acreditamos (coração) e aquilo que sabemos (razão). Santo Antonio Maria Claret já dizia que quem quer ser se salvar precisa ter Deus no coração, o paraíso na mente e o mundo debaixo dos seus pés. Maria era assim, depois na narrativa do nascimento de Jesus onde se lê que os anjos anunciaram aos pastores o que havia acontecido, eles, ao visitarem a Sagrada Família de Nazaré, contaram o que havia acontecido e a Virgem Santíssima “conservava todas estas palavras, meditando-as no seu coração” – Lucas 2,19.</br>

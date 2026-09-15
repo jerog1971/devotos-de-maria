@@ -4,7 +4,9 @@ date: 2025-06-13T21:14:00.001Z
 heroImage: "/images/posts/708-tudo-para-ontem-vicio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/708-tudo-para-ontem-vicio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="221" data-original-width="221" height="221" src="/images/posts/708-tudo-para-ontem-vicio.png" width="221" /></a></div><br />&nbsp;<p style="line-height: 100%; margin-bottom: 0cm;">
+![](/images/posts/708-tudo-para-ontem-vicio.png)
+
+<br /> <p style="line-height: 100%; margin-bottom: 0cm;">
 Podem observar, a humanidade tem sido treinada para o imediatismo, o
 consumismo e a busca pelo ter e pelo prazer. Ainda é possível ouvir
 pessoas dizerem que fazem isso ou aquilo em seu tempo livre, mas isso
@@ -40,4 +42,4 @@ um coloque na balança o peso de sua relação com Deus e com o mundo
 e veja para qual lado ela se inclina.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
 Roger</p>
-<p></p>
+

@@ -4,7 +4,8 @@ date: 2015-10-26T10:47:00.002Z
 heroImage: "/images/posts/315-o-catecismo-catecismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/315-o-catecismo-catecismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/315-o-catecismo-catecismo.png" width="221" height="320" data-original-width="272" data-original-height="394" /></a></div>
+![](/images/posts/315-o-catecismo-catecismo.png)
+
 </br>
 VEMOS HOJE muita gente bem intencionada que parece encontrar problemas para entender o que vem a ser, exatamente, o Catecismo da Igreja Católica. Para grande parcela da população católica, dizer “Catecismo” pode ser uma referência às enfadonhas "aulinhas" que tiveram, quando crianças, que na maior parte das vezes consistiam de atividades que não lhes deixaram marcas: brincar, colorir, desenhar. Para os que têm uma participação mais ativa na vida eclesial, a referência é ao Catecismo do Papa João Paulo II. Raros são os católicos que vão além disto, e raros também são aqueles que percebem o que realmente vem a ser o Catecismo.</br>
 </br>

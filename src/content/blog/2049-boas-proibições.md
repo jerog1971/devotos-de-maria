@@ -4,7 +4,9 @@ date: 2023-01-13T13:20:00.003Z
 heroImage: "/images/posts/2049-boas-proibições-boas_20proibi_C3_A7_C3_B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2049-boas-proibições-boas_20proibi_C3_A7_C3_B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="358" height="235" src="/images/posts/2049-boas-proibições-boas_20proibi_C3_A7_C3_B5es.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O diabo, grande amigo da onça e inimigo da humanidade,
+![](/images/posts/2049-boas-proibições-boas_20proibi_C3_A7_C3_B5es.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O diabo, grande amigo da onça e inimigo da humanidade,
 sempre irá insistir que proibição tem relação com algo ruim. Não chega a ser
 mentira, olha aí ele usando de meias verdades, mas o problema está na ótica em
 que ele quer que aceitemos. Se dermos uma olhadinha nos mandamentos de Deus,
@@ -35,4 +37,7 @@ para sermos seus fantoches, suas formiguinhas, prontas a sofrer para alegra-lo.
 Conceito distorcido pelo mal, que se aceito, nos faz viver uma vida de escolhas
 onde o que queremos proibir é que sejamos impedidos de vive-la como quisermos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-02-05T13:30:00.003Z
 heroImage: "/images/posts/1904-atitudes-não-católicas-arcebispo_20samuel_20aquila.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1904-atitudes-não-católicas-arcebispo_20samuel_20aquila.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="550" data-original-width="668" height="263" src="/images/posts/1904-atitudes-não-católicas-arcebispo_20samuel_20aquila.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todos sabem, já está a torto e direito por toda a parte a
+![](/images/posts/1904-atitudes-não-católicas-arcebispo_20samuel_20aquila.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todos sabem, já está a torto e direito por toda a parte a
 pregação mundial e mundana sobre a necessidade de uma única mentalidade,
 social, religiosa e política para que o mundo possa viver em “paz e segurança”.
 Porém, para os católicos isso significa abrir mãos das verdades de Deus, do
@@ -41,4 +43,7 @@ podemos recordar as palavras de Paulo VI que dizia que a fumaça de satanás
 havia invadido a igreja. Muitos se escandalizaram, mas já estava em suas
 palavras, profetizado o que dia após dia estamos testemunhando.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

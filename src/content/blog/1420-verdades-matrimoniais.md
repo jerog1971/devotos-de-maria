@@ -4,7 +4,9 @@ date: 2021-09-10T01:03:00.005Z
 heroImage: "/images/posts/1420-verdades-matrimoniais-verdades_matrimoniais.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1420-verdades-matrimoniais-verdades_matrimoniais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="304" height="273" src="/images/posts/1420-verdades-matrimoniais-verdades_matrimoniais.png" width="304" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A escalada da vida a dois, da vida matrimonial, é cheia de
+![](/images/posts/1420-verdades-matrimoniais-verdades_matrimoniais.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A escalada da vida a dois, da vida matrimonial, é cheia de
 tropeços, cheia de dificuldades e isso, por incrível que possa parecer, é algo
 benéfico concedido por Deus. O que? Capaz! – podem pensar alguns. Ora...
 olhemos para os atletas das maratonas e para os corredores olímpicos e para o
@@ -33,4 +35,7 @@ qualquer pitada do que o maligno despeje sobre nós é muitíssimo prejudicial
 para a saúde do casal e jamais devem se misturar com as verdades matrimoniais,
 todas descritas na palavra de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

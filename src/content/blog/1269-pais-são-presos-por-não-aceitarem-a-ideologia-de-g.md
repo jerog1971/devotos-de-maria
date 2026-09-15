@@ -4,7 +4,8 @@ date: 2016-07-04T11:30:00Z
 heroImage: "/images/posts/1269-pais-são-presos-por-não-aceitarem-a-ideologia-de-g-pais_presos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1269-pais-são-presos-por-não-aceitarem-a-ideologia-de-g-pais_presos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1269-pais-são-presos-por-não-aceitarem-a-ideologia-de-g-pais_presos.png" width="320" height="241" data-original-width="634" data-original-height="477" /></a></div>
+![](/images/posts/1269-pais-são-presos-por-não-aceitarem-a-ideologia-de-g-pais_presos.png)
+
 </br>
 Enquanto o Brasil resiste bravamente à implantação legal da ideologia de gênero, alguns fatos ocorridos fora do continente podem ajudar a esclarecer ainda mais de que se trata essa grande farsa, concebida para destruir a sociedade, a família e o próprio homem.</br>
 </br>

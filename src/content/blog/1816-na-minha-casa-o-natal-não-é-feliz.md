@@ -4,7 +4,9 @@ date: 2022-12-26T17:44:00.003Z
 heroImage: "/images/posts/1816-na-minha-casa-o-natal-não-é-feliz-natal_20infeliz.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1816-na-minha-casa-o-natal-não-é-feliz-natal_20infeliz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="281" data-original-width="363" height="248" src="/images/posts/1816-na-minha-casa-o-natal-não-é-feliz-natal_20infeliz.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Natal é apenas mais uma data onde o comércio faz a sua força
+![](/images/posts/1816-na-minha-casa-o-natal-não-é-feliz-natal_20infeliz.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Natal é apenas mais uma data onde o comércio faz a sua força
 para que o consumo relacionado com este dia aconteça da melhor forma possível.
 A lista é imensa, é preciso comprar pelo menos uma lembrancinha para cada um,
 do contrário, o que irão dizer, o que irão pensar. E pior, se eu ganhar algo de
@@ -30,4 +32,7 @@ maneira certa e o mundo ludibriou a mente, modificando valores. É preciso
 cuidado, rever valores porque cada um terminará responsável por suas próprias
 escolhas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

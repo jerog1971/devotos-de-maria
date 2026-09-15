@@ -4,7 +4,9 @@ date: 2022-11-28T21:24:00.001Z
 heroImage: "/images/posts/2222-a-que-ponto-chegamos-a_20que_20ponto_20chegamos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2222-a-que-ponto-chegamos-a_20que_20ponto_20chegamos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="522" height="213" src="/images/posts/2222-a-que-ponto-chegamos-a_20que_20ponto_20chegamos.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Tudo pode? Tudo é certo? Tudo vale? Tudo depende? Não vemos
+![](/images/posts/2222-a-que-ponto-chegamos-a_20que_20ponto_20chegamos.png)
+
+<br /><div class="separator" style="clear: both; text-align: left;">Tudo pode? Tudo é certo? Tudo vale? Tudo depende? Não vemos
 o mal onde ele existe, não vemos a gravidade das coisas onde elas existem; tampouco
 sentimos que o bem que deixamos de fazer irá nos prejudicar.</div><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">
 
@@ -35,4 +37,7 @@ conhecimento do fim terreno para concluir a corrida e como diz o apóstolo,
 combater o bom combate, sendo merecedores, pelas obras, da coroa da glória
 eterna, concedida depois do julgamento (Apocalipse 22,12).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

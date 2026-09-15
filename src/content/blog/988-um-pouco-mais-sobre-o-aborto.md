@@ -4,9 +4,11 @@ date: 2024-11-28T18:10:00.002Z
 heroImage: "/images/posts/988-um-pouco-mais-sobre-o-aborto-aborto.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/988-um-pouco-mais-sobre-o-aborto-aborto.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="482" height="302" src="/images/posts/988-um-pouco-mais-sobre-o-aborto-aborto.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/988-um-pouco-mais-sobre-o-aborto-aborto.png)
 
-<p></p><p class="MsoNormal">Caro leitor, quando os militares em missão planejada, por
+<br /> 
+
+<p class="MsoNormal">Caro leitor, quando os militares em missão planejada, por
 algum motivo percebem não haver êxito na investida, cujo um dos motivos seja,
 além do insucesso, uma possível perda de vidas, não é raro que os responsáveis
 pela missão decidam abortá-la. Percebem? Neste contexto, abortar é interromper
@@ -67,5 +69,4 @@ grandes incompatibilidades para com o senhor de sua vida, seu criador. Mas isso,
 essa decisão, caberá a cada um sobre ela, explicar-se no dia do seu juízo.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

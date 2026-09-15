@@ -4,7 +4,9 @@ date: 2023-11-05T17:51:00.006Z
 heroImage: "/images/posts/1998-voltando-no-tempo-voltando_20no_20tempo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1998-voltando-no-tempo-voltando_20no_20tempo.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="351" height="258" src="/images/posts/1998-voltando-no-tempo-voltando_20no_20tempo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme A Máquina do Tempo de 2002, acompanhamos a trajetória
+![](/images/posts/1998-voltando-no-tempo-voltando_20no_20tempo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">No filme A Máquina do Tempo de 2002, acompanhamos a trajetória
 do protagonista que, por conta de acontecimentos imprevistos, se torna obcecado
 em retornar no tempo para interferir em eventos de sua vida que levaram a morte
 de sua amada. Cada vez que ele faz a sua tentativa, de uma forma diferente, sua
@@ -33,4 +35,7 @@ erradas que fazemos e recorremos aos braços do Pai Eterno, que sempre nos
 acolhe, perdoa, ama e nos corrige, pois, não nos quer como filhos inúteis e
 sim, como herdeiros do reino dos céus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

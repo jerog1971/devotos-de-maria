@@ -4,7 +4,9 @@ date: 2022-08-04T20:15:00.004Z
 heroImage: "/images/posts/1094-sofrimento-a-boa-notícia-do-evangelho-sofrimento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1094-sofrimento-a-boa-notícia-do-evangelho-sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="372" data-original-width="372" height="320" src="/images/posts/1094-sofrimento-a-boa-notícia-do-evangelho-sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo caro leitor, o teor da boa nova do evangelho,
+![](/images/posts/1094-sofrimento-a-boa-notícia-do-evangelho-sofrimento.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É isso mesmo caro leitor, o teor da boa nova do evangelho,
 trazido por nosso senhor Jesus Cristo é exatamente isso: uma das chaves da
 entrada ao céu se chama sofrimento. Sobre isso, lemos em inúmeras partes
 bíblicas. Sofrer por amor a Deus, de alguma forma, traz e trará para a alma
@@ -41,4 +43,7 @@ Conselho, cheios de alegria, por terem sido achados dignos de sofrer afrontas
 pelo nome de Jesus. E todos os dias não cessavam de ensinar e de pregar o
 Evangelho de Jesus Cristo no templo e pelas casas”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

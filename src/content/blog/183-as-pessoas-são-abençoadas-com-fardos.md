@@ -4,7 +4,9 @@ date: 2022-06-21T15:56:00.002Z
 heroImage: "/images/posts/183-as-pessoas-são-abençoadas-com-fardos-fardo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/183-as-pessoas-são-abençoadas-com-fardos-fardo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="443" data-original-width="445" height="319" src="/images/posts/183-as-pessoas-são-abençoadas-com-fardos-fardo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As pessoas durante sua caminhada rumo ao céu sofrem a tentação
+![](/images/posts/183-as-pessoas-são-abençoadas-com-fardos-fardo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">As pessoas durante sua caminhada rumo ao céu sofrem a tentação
 da confusão das bênçãos. Elas acham que uma vida de bênçãos está relacionada
 somente com coisas boas, mas isso é comprovadamente confirmado nas sagradas
 escrituras de que as coisas não passam nem perto de ser assim.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -33,4 +35,7 @@ que a vida, que é uma batalha, não pode ser vivida sem o auxílio de Jesus (Jo
 15,5); ele não vive nossa vida, mas nos ajuda pela mão e nos conforta quando
 afirma para não deixarmos nosso coração se perturbar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

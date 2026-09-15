@@ -4,7 +4,9 @@ date: 2022-04-04T17:56:00.004Z
 heroImage: "/images/posts/1571-coisas-inúteis-e-desnecessárias-gemma.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1571-coisas-inúteis-e-desnecessárias-gemma.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="342" height="320" src="/images/posts/1571-coisas-inúteis-e-desnecessárias-gemma.png" width="276" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida de muitos santos e santas de Deus, depois que tiveram
+![](/images/posts/1571-coisas-inúteis-e-desnecessárias-gemma.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A vida de muitos santos e santas de Deus, depois que tiveram
 a experiência do encontro com Jesus Cristo, assim como os relatos do apóstolo
 São Paulo, passou a ser um grande peso, um grande martírio, porque, com o
 coração preenchido por aquilo que só pode preenche-lo [o amor de Deus], passa a
@@ -47,4 +49,7 @@ pelo cadinho da humilhação. Portanto, coloquemos nossa confiança em Deus e el
 salvará; orientemos bem o nosso caminho e esperemos nele. Conservemos o temor
 dele até na velhice” (Eclesiástico 2,1-6).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,8 +4,10 @@ date: 2024-12-01T18:01:00.003Z
 heroImage: "/images/posts/052-caminhos-percorridos-casal.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/052-caminhos-percorridos-casal.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="872" data-original-width="700" height="320" src="/images/posts/052-caminhos-percorridos-casal.jpg" width="257" /></a></div><br />&nbsp;
-<p></p><p class="MsoNormal">"Hoje estamos comemorando vinte e nove anos juntos. Sim, vinte
+![](/images/posts/052-caminhos-percorridos-casal.jpg)
+
+<br /> 
+<p class="MsoNormal">"Hoje estamos comemorando vinte e nove anos juntos. Sim, vinte
 e seis anos de casado e três de namoro; poderíamos escrever vários livros.
 Passamos por muitas coisas e estamos aqui, juntos.</p>
 
@@ -23,5 +25,4 @@ e hoje estamos colhendo o que plantamos.</p>
 <p class="MsoNormal">Amo você, marido!"</p>
 
 <p class="MsoNormal">Fonte: Debora Cristina</p>
-
 

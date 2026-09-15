@@ -4,7 +4,11 @@ date: 2020-06-26T16:06:00.002Z
 heroImage: "/images/posts/604-a-caridade-aos-olhos-de-deus-acolher.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/604-a-caridade-aos-olhos-de-deus-acolher.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="246" data-original-width="344" src="/images/posts/604-a-caridade-aos-olhos-de-deus-acolher.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em várias partes do evangelho vemos Jesus exortar as pessoas
+<br />
+
+![](/images/posts/604-a-caridade-aos-olhos-de-deus-acolher.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em várias partes do evangelho vemos Jesus exortar as pessoas
 de que, o bem que ele fizera não devia ser anunciado publicamente ao toque da
 trombeta. Jesus queria demonstrar com sua atitude que importa a Deus o bem que
 fazemos ao próximo e não a nós mesmos. E para que, além de seus exemplos,
@@ -32,7 +36,7 @@ será exaltado.</p>
 
 <p class="MsoNormal">Pois bem, essa é a marca do cristão, que se nos apercebermos
 bem, é a conduta da Virgem Maria; a mãe foi o suporte do filho aqui na terra e
-ainda é na glória dos céus.<span style="mso-spacerun: yes;">&nbsp; </span>E como o
+ainda é na glória dos céus.<span style="mso-spacerun: yes;">  </span>E como o
 evangelho tinha a principal mensagem referida ao filho, ela passou no
 escondimento, sem holofotes voltados para si. Maria Santíssima nos demonstra
 como seu filho Jesus quer que nos comportemos. Quando ela diz que devemos fazer

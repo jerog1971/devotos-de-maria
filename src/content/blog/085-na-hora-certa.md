@@ -4,14 +4,15 @@ date: 2025-07-24T19:17:00.006Z
 heroImage: "/images/posts/085-na-hora-certa-confiss_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/085-na-hora-certa-confiss_C3_A3o.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="207" data-original-width="313" height="207" src="/images/posts/085-na-hora-certa-confiss_C3_A3o.png" width="313" /></a></div><br />Teus pecados estão perdoados, vá e não peques mais para que não
+![](/images/posts/085-na-hora-certa-confiss_C3_A3o.png)
+
+<br />Teus pecados estão perdoados, vá e não peques mais para que não
 lhe aconteça coisa pior. Está é uma das afirmações de Jesus
 Cristo muito fácil de se entender; existem algumas maneiras de
 compreender o que Jesus ensina com essa advertência, sempre é
 claro, em relação ao estado de graça que uma alma se encontra
 quando volta ao seu estado de batismo, através da reconciliação
-com Deus no perdão dos pecados.<p>
-</p><p style="line-height: 100%; margin-bottom: 0cm;">Mas o que será que
+com Deus no perdão dos pecados.<p style="line-height: 100%; margin-bottom: 0cm;">Mas o que será que
 podemos concluir quando Jesus diz que nos pode acontecer coisa pior
 se pecarmos mais?</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Nem é tão difícil
@@ -51,4 +52,4 @@ por forças próprias retroceder para seu estado sadio antes da
 consumação do vício. Então, concluímos que “na hora certa”
 não é quando der tempo é o quanto antes.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p><br /><p></p>
+Roger</p><br />

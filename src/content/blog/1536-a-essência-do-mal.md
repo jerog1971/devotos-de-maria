@@ -4,7 +4,8 @@ date: 2015-12-11T17:15:00Z
 heroImage: "/images/posts/1536-a-essência-do-mal-o_mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1536-a-essência-do-mal-o_mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1536-a-essência-do-mal-o_mal.png" width="320" height="287" data-original-width="575" data-original-height="516" /></a></div>
+![](/images/posts/1536-a-essência-do-mal-o_mal.png)
+
 </br>
 Um homem de 43 anos é suspeito de matar o próprio filho de dois anos em Rio Branco do Sul, região metropolitana de Curitiba (PR). O pai confessou ter cometido o crime porque teve medo de perder o emprego e chegou a forjar um sequestro para enganar a polícia.</br>
 </br>

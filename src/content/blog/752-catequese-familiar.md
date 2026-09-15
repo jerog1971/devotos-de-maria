@@ -4,7 +4,8 @@ date: 2019-05-21T16:16:00.001Z
 heroImage: "/images/pedindo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-HN2cMBKdoDg/Vlg9uPpq6nI/AAAAAAAABgg/h5TWp0S1ZUMpX6mE3ofIGG3HBnzia1l4QCPcB/s1600/pedindo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-HN2cMBKdoDg/Vlg9uPpq6nI/AAAAAAAABgg/h5TWp0S1ZUMpX6mE3ofIGG3HBnzia1l4QCPcB/s320/pedindo.jpg" width="320" height="237" /></a></div>
+![](https://4.bp.blogspot.com/-HN2cMBKdoDg/Vlg9uPpq6nI/AAAAAAAABgg/h5TWp0S1ZUMpX6mE3ofIGG3HBnzia1l4QCPcB/s320/pedindo.jpg)
+
 <h2> Família, seja bem vinda!</h2>
 </br>
 Caros pais e responsáveis, sejam todos bem acolhidos dentro desta caminhada que se inicia a partir deste ano junto aos seus filhos e filhas queridos. Aqui neste espaço, iremos manter contato 24 horas por dia levando até vocês informações importantes e relacionadas com este trilhar que agora, em comunhão eclesial, passaremos a percorrer juntos. Parabéns a todos pelo compromisso em assumir junto a Deus e por seus filhos e famílias essa empreitada que tem como objetivo único integrar a vivência na fé comunitária, que é a fé da Igreja de mais de dois mil anos de Nosso Senhor Jesus Cristo, fundada sobre a profissão de fé do Apóstolo São Pedro. Não poderia haver motivo de maior alegria para a Igreja quando esta vê os familiares unidos e coesos em volta de Jesus Cristo para o bem comum de sua família e de outras famílias que podem se levantar e seguir adiante, graças aos nossos exemplos.</br>

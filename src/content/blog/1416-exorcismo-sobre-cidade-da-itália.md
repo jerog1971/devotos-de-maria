@@ -4,7 +4,8 @@ date: 2015-08-20T20:00:00Z
 heroImage: "/images/posts/1416-exorcismo-sobre-cidade-da-itália-heli.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1416-exorcismo-sobre-cidade-da-itália-heli.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1416-exorcismo-sobre-cidade-da-itália-heli.png" width="320" height="272" data-original-width="415" data-original-height="353" /></a></div>
+![](/images/posts/1416-exorcismo-sobre-cidade-da-itália-heli.png)
+
 </br>
 A 30 quilômetros de Nápoles, a cidade litorânea de Castellammare di Stabia, com seus pouco mais de 65 mil habitantes, recebeu uma oração especial no último dia 9 de julho. A bordo de um helicóptero, um padre realizou um "exorcismo aéreo" sobre o povoado italiano, em resposta ao crescimento de roubos a igrejas e outros vandalismos na região.</br>
 </br>
@@ -18,7 +19,9 @@ Os habitantes do lugar esperam que esse ato, juntamente com o aumento da devoç�
 </br>
 Ainda que a oração feita de um helicóptero pareça inédita, não é a primeira vez que um exorcismo é realizado especialmente sobre um lugar ou um povoado. São Francisco de Assis, certa feita, expulsou de uma só vez todos os demônios da cidade italiana de Arezzo:</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1416-exorcismo-sobre-cidade-da-itália-arezzo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1416-exorcismo-sobre-cidade-da-itália-arezzo.png" width="200" height="174" data-original-width="635" data-original-height="553" /></a></div>
+
+![](/images/posts/1416-exorcismo-sobre-cidade-da-itália-arezzo.png)
+
 </br>
 "Hospedado numa aldeia fora da cidade, o homem de Deus viu, acima daquela terra, demônios exultantes e cidadãos que inflamavam a destruição de seus próprios concidadãos. Chamando Frei Silvestre, um homem de Deus de digna simplicidade, deu-lhe ordem, dizendo: 'Vai à frente da porta da cidade e, da parte de Deus todo-poderoso, manda aos demônios que saiam da cidade quanto antes!' Apressou-se a santa simplicidade a cumprir a obediência. Piedoso e simples, o frade foi correndo cumprir a ordem e, apresentando-se diante de Deus com hinos de louvor, clamou valentemente diante da porta: 'Da parte de Deus e por ordem de nosso pai Francisco, ide embora para longe daqui, demônios todos!' A cidade voltou à paz pouco depois e tratou de preservar com grande tranquilidade os direitos dos cidadãos."</br> 
 </br>

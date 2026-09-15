@@ -4,7 +4,8 @@ date: 2018-04-11T20:24:00.001Z
 heroImage: "/images/posts/2011-subestimado-ou-inferiorizado-subestimado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2011-subestimado-ou-inferiorizado-subestimado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2011-subestimado-ou-inferiorizado-subestimado.png" width="320" height="318" data-original-width="409" data-original-height="406" /></a></div>
+![](/images/posts/2011-subestimado-ou-inferiorizado-subestimado.png)
+
 Pessoal se existe alguma coisa que provoca nosso nível de paciência e tolerância para com o próximo são os conceitos que emitem sobre nossa pessoa, subestimando-nos ou nos inferiorizando. Muitas vezes ao olharem para a casca, para a aparência, para a procedência, para os conceitos formados a nosso respeito, é até certo ponto natural, sermos rotulados com informações que não valem o quanto pesam. Todavia, subestimar alguém não tem apenas uma origem maldosa. Podemos também subestimar ou sermos subestimados por falta de conhecimento a respeito de alguém ou sobre nós.</br>
 </br>
 A questão de ser inferiorizado ou se sentir inferiorizado caminha por sendas mais delicadas. Se querem nos inferiorizar, modernamente falando, temos nas expressões da atualidade conceitos e definições que nos apontam para uma espécie de bulling. Agora, se nos sentimos inferiorizados, isso também não possui uma só origem. Se, como diziam os filósofos gregos nos esforçamos para nos conhecermos, sabemos nos defender internamente e não sermos contaminados pelas intenções do bulling. Se estamos, porém, com questões internas em conflitos somos presas fáceis nessa selva de pedra e sempre correremos o risco de cairmos espiritualmente. Alguns entram em depressão, outros em desespero e assim por diante.</br>

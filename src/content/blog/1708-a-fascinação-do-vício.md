@@ -4,7 +4,9 @@ date: 2022-01-10T02:50:00.002Z
 heroImage: "/images/posts/1708-a-fascinação-do-vício-img-799041328.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1708-a-fascinação-do-vício-img-799041328.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="426" data-original-width="491" height="278" src="/images/posts/1708-a-fascinação-do-vício-img-799040149.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, se o vício não fosse fascinante não existiria razão
+![](/images/posts/1708-a-fascinação-do-vício-img-799040149.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois é, se o vício não fosse fascinante não existiria razão
 para ele existir e sobreviver em meio a humanidade. Alguns ditados falam a esse
 respeito; um deles diz que tudo que é demais faz mal. Certamente, pois o que é
 demasiado traz desequilíbrio. Todavia, nosso inimigo número um é muito astuto e
@@ -36,4 +38,7 @@ prática a vigilância e sobriedade constantes que Jesus nos alertou a exercer,
 correremos menos risco desnecessários em nossa caminhada de retorno rumo à pátria
 celeste.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

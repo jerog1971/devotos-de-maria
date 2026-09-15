@@ -4,7 +4,9 @@ date: 2021-11-13T23:59:00Z
 heroImage: "/images/posts/1055-a-esperança-esperan_25C3_25A7a.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1055-a-esperança-esperan_25C3_25A7a.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="305" height="310" src="/images/posts/1055-a-esperança-esperan_25C3_25A7a.png" width="305" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eu sei que todos pensam que somos imortais. Era para ser
+![](/images/posts/1055-a-esperança-esperan_25C3_25A7a.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Eu sei que todos pensam que somos imortais. Era para ser
 assim. Estamos vivendo sem vislumbrar o destino certo da morte. Mas, o que
 torna a vida valiosa é não durar para sempre. O que a torna preciosa é que ela
 termina. Sei disso agora mais do que nunca. Cada dia é especial para nos
@@ -33,4 +35,7 @@ outro lado, prontos para receber a coroa da glória quando Jesus Cristo
 pronunciar o “vinde benditos”.<o:p></o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger (adaptado do filme ‘O espetacular
-Homem-Aranha 2’<o:p></o:p></p></div><p><br />&nbsp;</p>
+Homem-Aranha 2’<o:p></o:p></p></div>
+
+<br /> 
+

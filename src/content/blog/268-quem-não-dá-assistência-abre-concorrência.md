@@ -4,7 +4,8 @@ date: 2019-05-30T15:58:00.002Z
 heroImage: "/images/posts/268-quem-não-dá-assistência-abre-concorr-assist_25C3_25AAncia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/268-quem-não-dá-assistência-abre-concorr-assist_25C3_25AAncia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/268-quem-não-dá-assistência-abre-concorr-assist_25C3_25AAncia.png" width="320" height="315" data-original-width="296" data-original-height="291" /></a></div>
+![](/images/posts/268-quem-não-dá-assistência-abre-concorr-assist_25C3_25AAncia.png)
+
 E aí pessoal, será que Deus por não dar assistência abriu concorrência para o diabo “pintar e bordar” no meio do mundo? Jesus disse que ele (satanás) é o príncipe do mundo e o apóstolo João vai dizer em sua primeira carta que todo mundo jaz sob o poder do maligno. Como é que ficamos então? Parece que a Santíssima Trindade não dá assistência e abre concorrência para que o maligno atue tentando vender o seu peixe.</br>
 </br>
 Todavia, se isso do diabo poder atuar no mundo é permitido por Deus, não causa estranheza essa permissão? Pois, se Jesus disse que Deus quer que todos que o confiastes sejam salvos e cheguem ao conhecimento da verdade então será que Deus não confiou todo mundo? Existe uma pista ou melhor dizendo algumas pistas nas sagradas escrituras que apontam para a direção correta afim de elucidarmos a questão.</br>

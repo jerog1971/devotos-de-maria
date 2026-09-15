@@ -4,7 +4,11 @@ date: 2020-05-05T16:27:00.001Z
 heroImage: "/images/posts/1570-hereges-disfarçados-de-padres-AVvXsEhxJeCBt7egYZuWo7G4iyRt-9DSLFPtj910drfJSuvZ4PULAXQiL1WWqLSo71UjN0ENp2NeNFZ8UYtTJ5UedfruVTCDnuTd7VYWp16oUWJQwIBq-5LIPispOiVEoyTS3pEvsN6sw3bYr6I.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1570-hereges-disfarçados-de-padres-AVvXsEhxJeCBt7egYZuWo7G4iyRt-9DSLFPtj910drfJSuvZ4PULAXQiL1WWqLSo71UjN0ENp2NeNFZ8UYtTJ5UedfruVTCDnuTd7VYWp16oUWJQwIBq-5LIPispOiVEoyTS3pEvsN6sw3bYr6I.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="193" src="/images/posts/1570-hereges-disfarçados-de-padres-AVvXsEhxJeCBt7egYZuWo7G4iyRt-9DSLFPtj910drfJSuvZ4PULAXQiL1WWqLSo71UjN0ENp2NeNFZ8UYtTJ5UedfruVTCDnuTd7VYWp16oUWJQwIBq-5LIPispOiVEoyTS3pEvsN6sw3bYr6I.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Isso mesmo, já vai o tempo em que os sacerdotes poderiam
+<br />
+
+![](/images/posts/1570-hereges-disfarçados-de-padres-AVvXsEhxJeCBt7egYZuWo7G4iyRt-9DSLFPtj910drfJSuvZ4PULAXQiL1WWqLSo71UjN0ENp2NeNFZ8UYtTJ5UedfruVTCDnuTd7VYWp16oUWJQwIBq-5LIPispOiVEoyTS3pEvsN6sw3bYr6I.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Isso mesmo, já vai o tempo em que os sacerdotes poderiam
 apenas exercer suas funções do estado assumido. Lotavam-se igrejas esperando as
 portas se abrirem para os primeiros e concorridos lugares serem ocupados, as
 filas nos confessionários se formarem e os ouvidos e corações se “queimarem”
@@ -46,6 +50,6 @@ ignorância e impaciência, quando muito, concordam com a denúncia, mas dizem q
 quando vamos conviver com essa corja e caterva infernal no meio da tua igreja.
 Vem logo senhor Jesus, que o juízo chegue o quanto antes.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

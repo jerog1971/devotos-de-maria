@@ -4,7 +4,9 @@ date: 2023-07-14T19:38:00.001Z
 heroImage: "/images/posts/521-a-ajuda-do-diabo-ajuda_20do_20diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/521-a-ajuda-do-diabo-ajuda_20do_20diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="350" height="320" src="/images/posts/521-a-ajuda-do-diabo-ajuda_20do_20diabo.png" width="268" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele quer me ajudar a ter facilidades, muitos prazeres, uma
+![](/images/posts/521-a-ajuda-do-diabo-ajuda_20do_20diabo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ele quer me ajudar a ter facilidades, muitos prazeres, uma
 vida sem regras como se ela fosse um parque de diversões. Quer me ajudar a me
 beneficiar de todas as coisas que o mundo tem a oferecer. Quer que eu obtenha
 lucros passando por cima das pessoas, não só isso; fazendo com que as pessoas
@@ -40,4 +42,7 @@ paraíso, o diabo até tenta nos ajudar por aqui em nossos desejos desregrados e
 abominados por Deus, mas na hora da morte, começa nosso infortúnio se for em
 vida, escolhido por nós segui-lo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2020-01-11T02:16:00.001Z
 heroImage: "/images/posts/1932-a-deus-pelos-filhos-filhas.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1932-a-deus-pelos-filhos-filhas.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1932-a-deus-pelos-filhos-filhas.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>
+![](/images/posts/1932-a-deus-pelos-filhos-filhas.jpg)
+
 Deus está sempre presente no seio familiar. Por meio de nossas orações nos sentimos ainda mais próximos dele. Falta proximidade? Faltam orações; se faltam orações, o tempo não gasto com elas está sendo gasto com outras coisas. Normalmente o cristão esquece que em primeiro lugar ele nos orienta a ama-lo acima de todas as coisas com todo nosso coração, alma e entendimento. Ainda no livro do deuteronômio cap. 6,6-7 ele já nos orienta a ensinarmos seus mandatos aos filhos a todo instante.</br>
 </br>
 Felizes os pais que praticam isso. Podem na longevidade de seus dias assistirem seus filhos viverem conforme o agrado de Deus. Ainda que em meio as suas fraquezas humanas, pais e mães, pautados na palavra de Deus, seguidores dele e testemunhas vivas da sua eficácia, conseguem – João 15,5 – encaminhar seus filhos para a batalha do vale de lágrimas certos de que fizeram o que lhe cabia.</br>

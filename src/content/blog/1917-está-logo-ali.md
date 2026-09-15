@@ -4,7 +4,9 @@ date: 2023-11-15T13:45:00.001Z
 heroImage: "/images/posts/1917-está-logo-ali-um_20casal.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1917-está-logo-ali-um_20casal.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2095" data-original-width="2289" height="293" src="/images/posts/1917-está-logo-ali-um_20casal.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um ditado que diz que já se pode ver a luz no fim do
+![](/images/posts/1917-está-logo-ali-um_20casal.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existe um ditado que diz que já se pode ver a luz no fim do
 túnel. Pois é, vivo uma sensação parecida, pois daqui a quatro dias, se Deus
 quiser, terei atravessado esse túnel. Diria eu, fazendo uma breve analogia, que
 Deus nos coloca numa espécie de túnel, Do ponto em que nascemos até o final da
@@ -37,4 +39,7 @@ seguissem unidos. Assim começou o dia a dia, não de uma vida nova, mas de uma
 nova vida. Eu me achava o “cara”, pisando firme por aí, tinha namorada, uhuuu!
 Estava feliz da vida, um novo tipo de amor entrara em minha vida.<o:p></o:p></p><p class="MsoNormal">Artigos anteriores:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-passo-de-cada-vez.html" target="_blank">5 - Um passo de cada vez</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/seis-dias.html" target="_blank">4 - Seis dias</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/so-mais-uma-semana.html" target="_blank">3 - Só mais uma semana</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-dia-menos.html" target="_blank">2 - Um dia a menos</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

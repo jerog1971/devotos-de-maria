@@ -4,7 +4,8 @@ date: 2016-01-26T19:02:00Z
 heroImage: "/images/posts/2207-pornografia-pornografia3.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2207-pornografia-pornografia3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2207-pornografia-pornografia3.png" width="320" height="317" data-original-width="464" data-original-height="459" /></a></div>
+![](/images/posts/2207-pornografia-pornografia3.png)
+
 </br>
 Tomografias computadorizadas atestam: a pornografia e a masturbação alteram o funcionamento do cérebro humano e podem causar dependência. Não é exagero. A pornografia é realmente um novo tipo de droga, tanto quanto a cocaína ou a heroína.</br>
 </br>

@@ -4,7 +4,8 @@ date: 2018-11-09T14:54:00Z
 heroImage: "/images/posts/771-ensinando-com-bom-humor-humor.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/771-ensinando-com-bom-humor-humor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/771-ensinando-com-bom-humor-humor.png" width="315" height="320" data-original-width="176" data-original-height="179" /></a></div>
+![](/images/posts/771-ensinando-com-bom-humor-humor.png)
+
 Aproximar-se dos jovens sempre foi para o público adulto uma tarefa um tanto complicada. Até parece que os adultos de hoje esqueceram que foram os adolescentes de ontem. Essa época de descobertas pelas quais a juventude passa costuma efervescer ânimos e relações interpessoais. Não deixam de gostar dos pais, mas sentem um ímpeto para caminhar pelas próprias pernas e abraçarem mais em suas vidas um maior grau de autonomia.</br>
 </br>
 Ademais, voltando agora o assunto para o âmbito da catequese, transmitir saberes de origens celestes para esse público sempre foi e será um grande exercício de flexibilidade. Sobretudo quando se reúnem grupos de abrangência etária bem variada. Como tratar de temas necessários e sérios para a caminhada das pessoas (no caso aqui os jovens) sem promover o tédio, desdém, falta de interesse e atenção?</br>

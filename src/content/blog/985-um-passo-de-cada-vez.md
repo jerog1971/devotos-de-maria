@@ -4,7 +4,9 @@ date: 2023-11-14T16:58:00.004Z
 heroImage: "/images/posts/985-um-passo-de-cada-vez-um_20passo_20de_20cada_20vez.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/985-um-passo-de-cada-vez-um_20passo_20de_20cada_20vez.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="353" data-original-width="395" height="286" src="/images/posts/985-um-passo-de-cada-vez-um_20passo_20de_20cada_20vez.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Um soco, um passo, um round de cada vez”; ouvimos essa
+![](/images/posts/985-um-passo-de-cada-vez-um_20passo_20de_20cada_20vez.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Um soco, um passo, um round de cada vez”; ouvimos essa
 frase no filme Creed – Nascido para Lutar. Na mensagem que o personagem passa
 está o fato de que devemos seguir pela trilha cientes de que não existem caminhos
 fáceis na vida, ainda mais quanto mais alto é o preço das conquistas que
@@ -39,4 +41,7 @@ apostou todas as fichas. E junto a lembrança do aniversário que não se
 comemoraria mais em outubro achegou-se a informação de que em outubro minha namorada
 fazia aniversário.<o:p></o:p></p><p class="MsoNormal">Artigos anteriores:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/seis-dias.html" target="_blank">4 - Seis dias</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/so-mais-uma-semana.html" target="_blank">3 - Só mais uma semana</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-dia-menos.html" target="_blank">2 - Um dia a menos</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

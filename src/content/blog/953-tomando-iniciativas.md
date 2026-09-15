@@ -4,7 +4,9 @@ date: 2021-06-28T20:16:00.003Z
 heroImage: "/images/posts/953-tomando-iniciativas-tomando_iniciativas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/953-tomando-iniciativas-tomando_iniciativas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="289" src="/images/posts/953-tomando-iniciativas-tomando_iniciativas.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ditado de que “não adianta esperar que caia do céu”
+![](/images/posts/953-tomando-iniciativas-tomando_iniciativas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ditado de que “não adianta esperar que caia do céu”
 certamente cai muito bem ao modo de vida, esperado por Deus, do cristão. A vida,
 espiritualmente falando, não pode ser vivida de forma vegetativa. Realmente “as
 coisas não caem do céu” e, se não fizermos a nossa parte, alguém se pronunciará
@@ -34,4 +36,7 @@ escolha: o bem ou o mal; e agir não parando pelo caminho para apreciar opções
 diferentes da que Jesus Cristo apresenta. Ele só tem uma opção, chama-se a cruz
 da salvação.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

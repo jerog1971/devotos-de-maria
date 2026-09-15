@@ -4,7 +4,11 @@ date: 2020-06-25T16:10:00.001Z
 heroImage: "/images/posts/849-são-próspero-de-aquitânia-img-1608227990.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/849-são-próspero-de-aquitânia-img-1608227990.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="380" height="320" src="/images/posts/849-são-próspero-de-aquitânia-img-290560997.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu n Aquitânia, França, no século IV. Filósofo e poeta
+<br />
+
+![](/images/posts/849-são-próspero-de-aquitânia-img-290560997.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu n Aquitânia, França, no século IV. Filósofo e poeta
 De um esposo à esposa, julga-se que fosse casado, pois dirige-se à mulher
 nestes termos:</p>
 

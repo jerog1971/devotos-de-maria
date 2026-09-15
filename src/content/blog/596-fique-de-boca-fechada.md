@@ -4,12 +4,14 @@ date: 2022-03-09T20:24:00.003Z
 heroImage: "/images/posts/596-fique-de-boca-fechada-img-1367158485.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/596-fique-de-boca-fechada-img-1367158485.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="270" height="265" src="/images/posts/596-fique-de-boca-fechada-img-1038829578.jpg" width="270" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Essa é uma dica que veio, por incrível que possa parecer, de
+![](/images/posts/596-fique-de-boca-fechada-img-1038829578.jpg)
+
+<br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Essa é uma dica que veio, por incrível que possa parecer, de
 Jesus Cristo. Basta uma passadinha pelas escrituras quando do episódio de sua
 paixão. Como foi difícil arrancarem dele alguma, ainda que em sua própria
 defesa, palavra. Mantinha-se calado, embora com sua autoridade dada por Deus,
 poderia proferir, como fez em sua passagem pela terra, palavras certeiras e
-incontestáveis.</div><p></p><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">
+incontestáveis.</div><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Não o fez.<o:p></o:p></p>
 
@@ -45,4 +47,7 @@ que um rico entrar no Reino de Deus. A estas palavras seus discípulos,
 pasmados, perguntaram: Quem poderá então salvar-se? Jesus olhou para eles e
 disse: Aos homens isto é impossível, mas a Deus tudo é possível” – Mateus 19,24-26.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

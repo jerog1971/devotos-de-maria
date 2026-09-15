@@ -4,7 +4,8 @@ date: 2016-09-21T18:34:00Z
 heroImage: "/images/posts/1072-tal-pai-tal-filhas-pai_e_filha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1072-tal-pai-tal-filhas-pai_e_filha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1072-tal-pai-tal-filhas-pai_e_filha.png" width="320" height="232" data-original-width="402" data-original-height="292" /></a></div>
+![](/images/posts/1072-tal-pai-tal-filhas-pai_e_filha.png)
+
 Pois bem caros leitores pertencentes ao grupo dos pais. Aos pais de toda e qualquer natureza. Como bem é sabido por todos Deus provê ao ser humano a paternidade enquanto missão antes mesmo de ser enquanto geração. Nas sagradas escrituras o grande exemplo que temos a respeito dessa verdade é a paternidade que Deus quis conceder a São José, o qual foi escolhido para exercer o matrimônio Josefino. Homem justo, sempre acreditou nas mensagens que Deus lhe enviou através dos seus anjos e não poupou esforços para exercer seu mandato com o máximo empenho que a tarefa lhe impunha.</br>
 </br>
 Pensemos por um instante apenas. Nos coloquemos no lugar de São José, o pai nutrício de Jesus e esposo de Maria. Ser o companheiro daquela que foi especialmente designada e agraciada por Deus para receber em seu ventre o divino salvador. Ser o provedor do lar e junto com Maria Santíssima educar Jesus, aquele que veio para nos resgatar da dívida impagável. Que missão e que responsabilidade!</br>

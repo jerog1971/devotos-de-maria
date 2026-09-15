@@ -4,7 +4,9 @@ date: 2021-10-05T12:16:00Z
 heroImage: "/images/posts/2199-perpétuo-socorro-perpetuo_socorro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2199-perpétuo-socorro-perpetuo_socorro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="570" data-original-width="458" height="320" src="/images/posts/2199-perpétuo-socorro-perpetuo_socorro.png" width="257" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esse é um dos títulos que Nossa Senhora confessou ser um dos
+![](/images/posts/2199-perpétuo-socorro-perpetuo_socorro.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Esse é um dos títulos que Nossa Senhora confessou ser um dos
 preferidos porque é um dos papéis que ela assumiu em frente a cruz de Jesus no
 dia de sua morte. O apóstolo João, representando toda a humanidade entregue ao auxílio
 de Maria, ouviu as palavras do mestre dirigidas à sua mãe: “eis aí o teu filho”.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -32,4 +34,7 @@ espírito, deixando as coisas velhas para trás e buscando as coisas do alto, as
 coisas de Deus em primeiro lugar, para que tudo mais lhe seja acrescentado –
 Mateus 6,33.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,11 @@ date: 2020-06-14T17:29:00.001Z
 heroImage: "/images/posts/494-santo-antonio-Santo_Antonio.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/494-santo-antonio-Santo_Antonio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="329" src="/images/posts/494-santo-antonio-Santo_Antonio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Santo é doutor da Igreja. Nasceu na cidade de Lisboa,
+<br />
+
+![](/images/posts/494-santo-antonio-Santo_Antonio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Santo é doutor da Igreja. Nasceu na cidade de Lisboa,
 Portugal, em 1195. Seu nome de batismo era Fernando de Bulhões y Taveira de
 Azevedo. Frade franciscano, foi contemporâneo de São Francisco de Assis, que o
 chamava de “o meu bispo”. Foi certamente um dos pregadores itinerantes mais

@@ -4,7 +4,9 @@ date: 2022-07-17T18:28:00.003Z
 heroImage: "/images/posts/1503-fazendo-coisas-erradas-fazendo_20coisas_20erradas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1503-fazendo-coisas-erradas-fazendo_20coisas_20erradas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="530" height="254" src="/images/posts/1503-fazendo-coisas-erradas-fazendo_20coisas_20erradas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim é o ser humano: capaz de acertar e de errar; às vezes,
+![](/images/posts/1503-fazendo-coisas-erradas-fazendo_20coisas_20erradas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Assim é o ser humano: capaz de acertar e de errar; às vezes,
 tentando acertar, erra, outras vezes, acha que o que faz não é errado, pelo
 menos aos seus olhos e seus conceitos. O problema nisso tudo é o relativismo,
 pois, para endossar suas atitudes, ele define que, se não é feito mal para alguém,
@@ -30,4 +32,7 @@ Deus, passa a vida numa longa luta de ignorância, dando o nome de paz a um
 estado tão infeliz” – Sabedoria 14,22. Sim, pois as coisas erradas não
 preenchem de alegria o coração humano, isso é tarefa exclusiva de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-01-28T11:13:00.001Z
 heroImage: "/images/posts/211-se-entregar-pelo-outro-bernardo_alergia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/211-se-entregar-pelo-outro-bernardo_alergia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/211-se-entregar-pelo-outro-bernardo_alergia.png" width="320" height="208" data-original-width="606" data-original-height="393" /></a></div>
+![](/images/posts/211-se-entregar-pelo-outro-bernardo_alergia.png)
+
 </br>
 Já dizia Jesus que não existe amor maior do que aquele que dá a vida pelo irmão. Amar é fazer aquilo que é bom para o outro. Gostar é fazer aquilo que é bom para si próprio. Por isso no curso de nossas vidas encontramos tantas pessoas gostando demais e amando de menos. Gostar tem raízes egoístas. Através do dom da sabedoria, recebido pelo Espírito Santo, passamos a amar o próximo como a nós mesmos, mas por amor a Deus. Essa atitude que fica em completa sintonia com os mandamentos do amor faz a pessoa se colocar a serviço do próximo, seja esse próximo quem for.</br>
 </br>

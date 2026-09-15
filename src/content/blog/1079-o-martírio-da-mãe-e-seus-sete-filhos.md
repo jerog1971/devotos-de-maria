@@ -4,7 +4,8 @@ date: 2016-09-29T12:09:00Z
 heroImage: "/images/posts/1079-o-martírio-da-mãe-e-seus-sete-filhos-martirio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1079-o-martírio-da-mãe-e-seus-sete-filhos-martirio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1079-o-martírio-da-mãe-e-seus-sete-filhos-martirio.png" width="320" height="213" data-original-width="605" data-original-height="403" /></a></div>
+![](/images/posts/1079-o-martírio-da-mãe-e-seus-sete-filhos-martirio.png)
+
 Para aqueles que querem seguir um dos conselhos que Nossa Senhora faz em suas aparições, nos recomendando Hebreus 6,12, onde se ensina que devemos ser imitadores daqueles que pela fé e paciência se tornaram herdeiros das promessas, e com isso ela fala claramente que devemos aprender com a vida e o exemplo dos santos, muito se tem documentado pelos livros piedosos sobre inúmeros testemunhos de pessoas, jovens e adultos, que viveram seu amor a Deus até as últimas consequências. Entendiam eles que o prêmio da vida eterna supera qualquer medo terreno.</br>
 </br>
 Pois bem, para o agrado de todo cristão, na própria bíblia encontramos belíssimos testemunhos de martírio cristão e até de martírio por amor a Deus. Segue aqui para leitura um relato dessa natureza que encontramos no segundo livro de Macabeus. Com esse pequeno exemplo podemos refletir como é o grau da fé que professamos e vivemos:</br>

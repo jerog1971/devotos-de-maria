@@ -4,7 +4,8 @@ date: 2017-10-25T11:15:00Z
 heroImage: "/images/posts/1190-jesus-cura-tudo-jesus_cura.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1190-jesus-cura-tudo-jesus_cura.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1190-jesus-cura-tudo-jesus_cura.png" width="320" height="290" data-original-width="422" data-original-height="383" /></a></div>
+![](/images/posts/1190-jesus-cura-tudo-jesus_cura.png)
+
 Minha Nossa Senhora viu, por mais que esteja escancarado nas sagradas escrituras sobre o que Nosso Senhor Jesus Cristo Ressuscitado é capaz de fazer na vida das pessoas, muitas delas não se aproximam daquele que pode tudo, que pode transformar vidas. Nos evangelhos os relatos das curas que Jesus fez na vida das pessoas que o procuravam é descrito em abundância. Na celebração do sacramento da unção dos enfermos existe uma oração muito bela proferida pelo sacerdote que diz num trecho o seguinte a respeito de Jesus Cristo: “médico do corpo e da alma”.</br>
 </br>
 Começamos bem, porém, existem alguns pormenores comprovadamente históricos que atingiu e atinge todas as gerações. E mais; atingirá. Trata-se do, já comentado neste site, o sofrimento. É difícil para muitos compreenderem que o sofrimento é uma coisa boa. Realmente é muito difícil porque ele é penoso, seja na esfera física ou na esfera espiritual. No entanto, está presente e se fará presente até o fim dos tempos conforme aprendemos no livro das revelações. E por este motivo, as tentações não deixam de existir, por isso rezamos como ensina Jesus pedindo que Deus não nos deixe cair em tentações. Por isso Jesus disse que aqueles que estiverem cansados por causa do peso de seus jugos que recorram a ele, o manso e humilde de coração, que ele os aliviará.</br>

@@ -4,7 +4,8 @@ date: 2016-08-08T12:28:00Z
 heroImage: "/images/posts/1744-jesus-confirma-ensino-do-eclesiásti-sofrimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1744-jesus-confirma-ensino-do-eclesiásti-sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1744-jesus-confirma-ensino-do-eclesiásti-sofrimento.png" width="320" height="181" data-original-width="628" data-original-height="356" /></a></div>
+![](/images/posts/1744-jesus-confirma-ensino-do-eclesiásti-sofrimento.png)
+
 No livro do Eclesiástico, presente no cânon do antigo testamento da bíblia católica, temos em seu capítulo 51,23-30, uma espécie de testemunho e exemplo a ser seguido. O trecho que está aqui neste texto nos recorda que, se nos humilharmos a Deus e nos colocarmos numa atitude de buscar com o coração e alma tudo que vem dos céus, procurando a verdade que vem do alto, ao recebermos de Deus esses dons, nos alegraremos imensamente e, naturalmente teremos uma atitude de testemunho na propagação do Reino de Deus. E assim, conformados a vontade de Deus e seguidores da sua vontade não seremos pelo Deus da vida, abandonados ou confundidos com os seguidores do mundo. Vejamos a passagem:</br>
 </br>
 “Tributarei glória àquele que ma deu, pois resolvi pô-la em prática; fui zeloso no bem e não serei confundido. Lutou minha alma para atingi-la, robusteci-me, pondo-a em prática.</br>

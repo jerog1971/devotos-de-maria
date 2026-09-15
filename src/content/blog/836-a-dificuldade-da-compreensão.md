@@ -4,11 +4,15 @@ date: 2022-01-20T00:24:00Z
 heroImage: "/images/posts/836-a-dificuldade-da-compreensão-img-1746386962.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/836-a-dificuldade-da-compreensão-img-1746386962.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="187" data-original-width="210" height="243" src="/images/posts/836-a-dificuldade-da-compreensão-img-1706512139.jpg" width="273" /></a></div><p>Dar ouvidos ao que dizem é uma coisa, ouvir o que se diz
+![](/images/posts/836-a-dificuldade-da-compreensão-img-1706512139.jpg)
+
+Dar ouvidos ao que dizem é uma coisa, ouvir o que se diz
 também, agora, escutar e entender é outra questão ainda. Colocamos as coisas
 dessa forma porque podemos ouvir atentamente, palavra por palavra e não
 entendermos nada; lermos, ouvirmos e nada do que escutamos parece fazer
-sentido.</p><p></p><p class="MsoNormal"><o:p></o:p></p><p class="MsoNormal">Puxa vida, o ser humano é assim, vai vivendo e vai amadurecendo;
+sentido.
+
+<p class="MsoNormal"><o:p></o:p></p><p class="MsoNormal">Puxa vida, o ser humano é assim, vai vivendo e vai amadurecendo;
 seu nível de compreensão a respeito de tudo também acompanha essa evolução.
 Todavia, um cérebro precisa ser treinado para poder compreender as coisas,
 precisa de exercício e de prática constante para facilitar o acesso ao
@@ -27,12 +31,4 @@ vida, a pessoa sofre tentando se dar bem na vida e ao mesmo tempo agradar a
 Deus. E o pior de tudo isso é que biblicamente está colocado que isso não é
 possível acontecer, vamos recordar: “Adúlteros, não sabeis que o amor do mundo
 é abominado por Deus? Todo aquele que quer ser amigo do mundo constitui-se
-inimigo de Deus” – Tiago 4,4.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p><p>
-
-
-
-
-
-
-
-&nbsp;</p>
+inimigo de Deus” – Tiago 4,4.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p>

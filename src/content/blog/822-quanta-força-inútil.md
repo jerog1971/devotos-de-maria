@@ -4,9 +4,11 @@ date: 2024-12-03T20:00:00.001Z
 heroImage: "/images/posts/822-quanta-força-inútil-for_C3_A7a_20in_C3_BAtil.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/822-quanta-força-inútil-for_C3_A7a_20in_C3_BAtil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="433" height="284" src="/images/posts/822-quanta-força-inútil-for_C3_A7a_20in_C3_BAtil.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/822-quanta-força-inútil-for_C3_A7a_20in_C3_BAtil.png)
 
-<p></p><p class="MsoNormal">Uma das maiores problemáticas impostas ao homem pelo mundo
+<br /> 
+
+<p class="MsoNormal">Uma das maiores problemáticas impostas ao homem pelo mundo
 diz respeito ao modo como ele deve se comportar se quiser alcançar êxitos na
 vida. Neste mundo os homens são julgados pela habilidade com que realizam as coisas.
 O esforço que fazem para ter sucesso exerce muita pressão sobre os nervos; uma

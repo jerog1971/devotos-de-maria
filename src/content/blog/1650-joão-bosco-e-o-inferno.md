@@ -4,7 +4,9 @@ date: 2023-01-31T14:12:00Z
 heroImage: "/images/posts/1650-joão-bosco-e-o-inferno-Jo_C3_A3o_20Bosco_20e_20o_20Inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1650-joão-bosco-e-o-inferno-Jo_C3_A3o_20Bosco_20e_20o_20Inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="368" data-original-width="282" height="320" src="/images/posts/1650-joão-bosco-e-o-inferno-Jo_C3_A3o_20Bosco_20e_20o_20Inferno.png" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Embora favorecido com visitas da Santíssima Mãe e sonhos e
+![](/images/posts/1650-joão-bosco-e-o-inferno-Jo_C3_A3o_20Bosco_20e_20o_20Inferno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Embora favorecido com visitas da Santíssima Mãe e sonhos e
 visões incríveis, ele sempre permaneceu humilde e testemunhando pessoalmente o
 efeito em sua vida por Nossa Santíssima Mãe: "Eu tenho sido um instrumento
 nas mãos de Maria. Ela fez tudo. Se eu tivesse sido um instrumento mais digno,
@@ -44,4 +46,7 @@ sacerdote que transcendeu as fronteiras do invisível de uma maneira mais
 visível do que a maioria dos homens, e suas maravilhas abalaram o mundo. Simplificando,
 quem não gostaria de aprender e imitar esse grande herói católico?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-04-18T13:46:00Z
 heroImage: "/images/posts/810-siga-o-evangelho-cruz.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/810-siga-o-evangelho-cruz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/810-siga-o-evangelho-cruz.png" width="320" height="307" data-original-width="446" data-original-height="428" /></a></div>
+![](/images/posts/810-siga-o-evangelho-cruz.png)
+
 Acompanhe a simplicidade da coisa: O evangelho de Mateus tem 28 capítulos e é possível lê-lo em 2h15min. O evangelho de Marcos tem 16 capítulos e é possível lê-lo em 2h00min. O evangelho de Lucas tem 24 capítulos e é possível lê-lo em 2h05min. O evangelho de João tem 21 capítulos e é possível lê-lo em 1h50min. Se você somar tudo vai encontrar o resultado 89. O que isto quer dizer? Acompanhemos a maravilha da coisa:</br>
 </br>
 <b>89</b> é o todo, mas Jesus nos ensinou que, você precisa seguir os 10 mandamentos, sobra</br>

@@ -4,7 +4,9 @@ date: 2023-05-05T19:13:00.003Z
 heroImage: "/images/posts/1791-coragem-faça-promessas-vitalícias-maria_20e_20gusm_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1791-coragem-faça-promessas-vitalícias-maria_20e_20gusm_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="336" height="320" src="/images/posts/1791-coragem-faça-promessas-vitalícias-maria_20e_20gusm_C3_A3o.png" width="274" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos lá? Mais um pouquinho sobre as promessas? Há quem diga
+![](/images/posts/1791-coragem-faça-promessas-vitalícias-maria_20e_20gusm_C3_A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vamos lá? Mais um pouquinho sobre as promessas? Há quem diga
 que promessas existem para ser quebradas. Puxa vida, quanta baixeza em alguém
 que faz pouco caso de uma oportunidade de crescer como pessoa – espiritualmente
 falando – ao honrar uma promessa. Ainda mais se uma promessa for vitalícia,
@@ -48,4 +50,7 @@ nos propósitos de vida e de vida eterna e paremos de tratar essa vida como um
 parque de diversões. Assim como ela me atendeu, irá lhe atender também. Se
 ainda não o fez, se pergunte o que falta para que isso aconteça.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,11 @@ date: 2020-06-19T15:40:00.002Z
 heroImage: "/images/posts/464-até-que-ponto-vai-seu-amor-por-deus-santidade.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/464-até-que-ponto-vai-seu-amor-por-deus-santidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="408" src="/images/posts/464-até-que-ponto-vai-seu-amor-por-deus-santidade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Ama tanto até o desprezo de Deus ou ama tanto até o desprezo
+<br />
+
+![](/images/posts/464-até-que-ponto-vai-seu-amor-por-deus-santidade.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Ama tanto até o desprezo de Deus ou ama tanto até o desprezo
 de sim mesmo. Sabemos que no mundo existem diferentes “amores”. Muito já se
 escreveu sobre as formas de amar. Afinal, o amor anda em pauta no mundo desde
 que a história da humanidade começou a caminhar. Em nosso caso, os cristãos,

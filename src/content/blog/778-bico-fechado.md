@@ -4,7 +4,9 @@ date: 2021-09-15T15:16:00.004Z
 heroImage: "/images/posts/778-bico-fechado-bico_fechado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/778-bico-fechado-bico_fechado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="637" data-original-width="715" height="285" src="/images/posts/778-bico-fechado-bico_fechado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus espera de cada um as obras (Apocalipse 22,12), espera
+![](/images/posts/778-bico-fechado-bico_fechado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Deus espera de cada um as obras (Apocalipse 22,12), espera
 mais ação e menos falação. Porém, não se deve pensar que toda fala deve ser
 evitada uma vez que “a fé provém da pregação e a pregação se exerce em razão da
 palavra de Cristo” – Romanos 10,17. Pois bem, lemos em Tiago 3,19-22 que “todo
@@ -30,4 +32,7 @@ Eclesiástico 20,5-9.<o:p></o:p></p>
 da fala em nossas vidas, tão importante quanto saber falar e o que falar,
 aprendemos a primordialidade do saber ouvir, para aprender.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2019-07-02T20:01:00.002Z
 heroImage: "/images/posts/894-cada-idade-tem-suas-alegrias-e-suas--proibido.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/894-cada-idade-tem-suas-alegrias-e-suas--proibido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/894-cada-idade-tem-suas-alegrias-e-suas--proibido.png" width="320" height="316" data-original-width="389" data-original-height="384" /></a></div>
+![](/images/posts/894-cada-idade-tem-suas-alegrias-e-suas--proibido.png)
+
 Disse São Paulo aos coríntios em sua primeira carta no capítulo treze, versículo onze: “quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Desde que me tornei homem, eliminei as coisas de criança”. De cara, caros leitores, o que estamos vendo aqui nada mais é do que um apontamento para o amadurecimento do intelecto e da razão humana.</br>
 </br>
 Criancices, meninices e infantilidades, colocadas em termos espirituais, pretendem colocar a pessoa num estado contínuo de alguém que só quer saber de farras e prazeres sem nenhum compromisso assumido em sua trajetória de vida. E não é assim que muitos pecados agem na vida das pessoas? Basta uma rápida olhada para se perceber que nenhum pecado tem em sua “embalagem” um rótulo diferente daquele que diz “beba, coma, divirta-se e faça o que tem vontade”.</br>

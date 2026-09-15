@@ -4,7 +4,8 @@ date: 2016-02-11T18:52:00Z
 heroImage: "/images/posts/1562-o-sábio-escapará-do-perigo-perigo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1562-o-sábio-escapará-do-perigo-perigo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1562-o-sábio-escapará-do-perigo-perigo.png" width="318" height="320" data-original-width="390" data-original-height="393" /></a></div>
+![](/images/posts/1562-o-sábio-escapará-do-perigo-perigo.png)
+
 </br>
 No livro dos Provérbios, capítulo 28,26 está o ensinamento que iremos refletir neste artigo. Diz assim: “quem caminha com sabedoria escapará do perigo”. Pois bem, o tal do perigo é algo que durante toda nossa vida nos rodeia. Sobre vários aspectos qualquer um de nós pode descrever alguma forma de perigo e também de certa forma, de uma maneira genérica digamos assim, pode descrever um remédio preventivo: o medo.</br>
 </br>

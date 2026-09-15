@@ -4,7 +4,9 @@ date: 2021-07-27T15:10:00.002Z
 heroImage: "/images/posts/1657-paixões-diabólicas-paix_25C3_25B5es_diab_25C3_25B3licas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1657-paixões-diabólicas-paix_25C3_25B5es_diab_25C3_25B3licas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="666" data-original-width="588" height="320" src="/images/posts/1657-paixões-diabólicas-paix_25C3_25B5es_diab_25C3_25B3licas.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Segunda carta São Pedro, capítulo dois: “Assim como houve
+![](/images/posts/1657-paixões-diabólicas-paix_25C3_25B5es_diab_25C3_25B3licas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Segunda carta São Pedro, capítulo dois: “Assim como houve
 entre o povo falsos profetas, assim também haverá entre vós falsos doutores que
 introduzirão disfarçadamente seitas perniciosas. Com palavras tão vãs quanto
 enganadoras, atraem pelas paixões carnais e pela devassidão aqueles que mal
@@ -28,4 +30,7 @@ que devemos amar muito. Agindo dessa forma não correremos o risco da assumirmos
 paixões contrárias àquilo que Deus quer em nossas vidas, pois, estaremos sempre
 em conformidade com o que ele nos ensina e espera de cada um.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

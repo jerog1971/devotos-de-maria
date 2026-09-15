@@ -4,7 +4,9 @@ date: 2023-08-30T21:56:00.003Z
 heroImage: "/images/posts/255-nunca-esteve-sozinho-nunca_20esteve_20sozinho.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/255-nunca-esteve-sozinho-nunca_20esteve_20sozinho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="505" data-original-width="732" height="221" src="/images/posts/255-nunca-esteve-sozinho-nunca_20esteve_20sozinho.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme Star Trek V o personagem Capitão Kirk diz logo no
+![](/images/posts/255-nunca-esteve-sozinho-nunca_20esteve_20sozinho.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">No filme Star Trek V o personagem Capitão Kirk diz logo no
 início do filme – enquanto estavam a tirar uma folga de seus serviços – ao doutor
 e Spock enquanto acampavam sobre a certeza de que ele, Kirk, não morreria em
 determinado momento de uma de suas aventuras (ele estava a escalar uma
@@ -32,4 +34,7 @@ espíritos malignos dispersos pelos ares que buscam como um leão a oportunidade
 de dar o bote. Temos que escolher de que lado pretendemos viver no aqui e no
 acolá, depois que a passagem chegar e o julgamento acontecer.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

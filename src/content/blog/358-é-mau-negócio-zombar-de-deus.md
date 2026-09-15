@@ -4,7 +4,9 @@ date: 2021-02-16T19:43:00.003Z
 heroImage: "/images/posts/358-é-mau-negócio-zombar-de-deus-zombar_de_Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/358-é-mau-negócio-zombar-de-deus-zombar_de_Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="408" src="/images/posts/358-é-mau-negócio-zombar-de-deus-zombar_de_Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Podemos reclamar para ele (até devemos), mas reclamar dele,
+![](/images/posts/358-é-mau-negócio-zombar-de-deus-zombar_de_Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Podemos reclamar para ele (até devemos), mas reclamar dele,
 que seja para consigo mesmo. Todavia, querer tomar satisfação, ensina-lo,
 julga-lo e ainda por cima dar de ombros contra o altíssimo aí a coisa muda
 completamente de figura. Sim, pois não é possível da estatura em que estamos,
@@ -39,4 +41,7 @@ sois, quem vos poderá resistir, diante do furor de vossa cólera?” – Salmo 
 Hebreus 10,30-31 – “Minha é a vingança; eu a exercerei (Dt 32,35). E ainda: O
 Senhor julgará o seu povo (Sl 134,14). É horrendo cair nas mãos de Deus vivo”.<o:p></o:p></p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div><p><br />&nbsp;</p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>
+
+<br /> 
+

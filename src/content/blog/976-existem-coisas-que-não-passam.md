@@ -4,7 +4,9 @@ date: 2023-03-03T21:04:00.006Z
 heroImage: "/images/posts/976-existem-coisas-que-não-passam-img-1131667580.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/976-existem-coisas-que-não-passam-img-1131667580.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="425" data-original-width="546" height="249" src="/images/posts/976-existem-coisas-que-não-passam-img-1153014654.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou, se formos olhar na perspectiva do mal, as coisas passam
+![](/images/posts/976-existem-coisas-que-não-passam-img-1153014654.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ou, se formos olhar na perspectiva do mal, as coisas passam
 sim: o diabo, astuto que é, consegue misturas suas verdades em mentiras e
 modificar, pelo menos aparentemente, a concepção do mal para algo bom. Nada
 passa desapercebido pelo inimigo número um de nossas almas. Sempre será
@@ -35,4 +37,7 @@ celestes. Todavia, assim como este ataque, enquanto vivos, nunca passa, também,
 da parte de Deus a sua vontade de nos ter no céu, ao seu lado para todo o
 sempre. Cabe aqui a escolha de cada um.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

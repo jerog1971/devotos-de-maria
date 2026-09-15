@@ -4,7 +4,8 @@ date: 2020-04-12T17:59:00.003Z
 heroImage: "/images/posts/2121-o-que-não-vemos-é-mais-importante-d-levar_a_serio.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2121-o-que-não-vemos-é-mais-importante-d-levar_a_serio.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2121-o-que-não-vemos-é-mais-importante-d-levar_a_serio.jpg" width="269" height="320" data-original-width="720" data-original-height="857" /></a></div>
+![](/images/posts/2121-o-que-não-vemos-é-mais-importante-d-levar_a_serio.jpg)
+
 Já dizia Jesus que Deus que vê no oculto te dará a recompensa. Como todas as coisas brotam no coração e depois que se instalam na mente, transformam-se em atitudes, o concreto se traduz em obras e comportamentos. Não vemos o calor, mas vemos o fogo. Se olharmos de longe talvez não demos tanta importância para seus efeitos (o de produzir calor), porém essa consequência é de suma importância. Existe um limite de relacionamento com esse calor. Todo mundo sabe que o calor da chama do fogão ajuda no preparo do alimento. O calor das micro-ondas aquece tão famosamente o leite ou aquele sanduíche.</br>
 </br>
 Dois exemplos distintos, vemos o fogo e não vemos as micro-ondas, assim como não vemos as frequências de rádio e televisão, o sinal de wi-fi, infravermelho e o Bluetooth, porém, todo mundo dá a devida importância para eles. Sendo assim, a humanidade em sua evolução aprendeu a dar importância para coisas que não se vê. Que ótimo, faz com isso grandes progressos.</br>

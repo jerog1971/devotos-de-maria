@@ -4,7 +4,9 @@ date: 2021-01-29T16:48:00.004Z
 heroImage: "/images/posts/1502-a-realidade-bíblica-daquelas-que-vendem-seu-corpo-prostituir.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1502-a-realidade-bíblica-daquelas-que-vendem-seu-corpo-prostituir.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="319" src="/images/posts/1502-a-realidade-bíblica-daquelas-que-vendem-seu-corpo-prostituir.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Provérbios 7,4-27 – “Dize à sabedoria: Tu és minha irmã, e
+![](/images/posts/1502-a-realidade-bíblica-daquelas-que-vendem-seu-corpo-prostituir.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Provérbios 7,4-27 – “Dize à sabedoria: Tu és minha irmã, e
 chama a inteligência minha amiga, para que elas te guardem da mulher alheia, da
 estranha que tem palavras lúbricas. Estava eu atrás da janela de minha casa,
 olhava por entre as grades. Vi entre os imprudentes, entre os jovens, um
@@ -46,4 +48,7 @@ vosso corpo é templo do Espírito Santo, que habita em vós, o qual recebestes 
 Deus e que, por isso mesmo, já não vos pertenceis? Porque fostes comprados por
 um grande preço. Glorificai, pois, a Deus no vosso corpo”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

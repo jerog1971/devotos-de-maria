@@ -4,7 +4,9 @@ date: 2022-10-04T19:16:00.002Z
 heroImage: "/images/posts/1783-o-véu-do-mal-o_20v_C3_A9u_20do_20mal.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1783-o-véu-do-mal-o_20v_C3_A9u_20do_20mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="453" data-original-width="468" height="310" src="/images/posts/1783-o-véu-do-mal-o_20v_C3_A9u_20do_20mal.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mal existe e se personifica na pessoa do demônio; eis que
+![](/images/posts/1783-o-véu-do-mal-o_20v_C3_A9u_20do_20mal.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O mal existe e se personifica na pessoa do demônio; eis que
 o mal puro e primário, raiz de todos os outros males assola o mundo desde o Éden.
 Conforme aprendemos pela santa palavra de Deus, desde o início dos tempos nos
 parece que nosso invejoso inimigo sempre procura se aproximar demonstrando
@@ -42,4 +44,7 @@ retirado, já se estará além dos arrependimentos e conversões e a glória e
 felicidade eternas do reino de Deus terá sido varrida da vida como uma página
 virada.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-07-11T12:00:00.001Z
 heroImage: "/images/posts/1441-quem-educa-quem-educar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1441-quem-educa-quem-educar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1441-quem-educa-quem-educar.png" width="320" height="204" data-original-width="478" data-original-height="304" /></a></div>
+![](/images/posts/1441-quem-educa-quem-educar.png)
+
 </br>
 É inicio de semana, saio para ir ao trabalho. Uma caminhada voluntária de quase 20 minutos de casa ao terminal de ônibus. Em frente de onde moro vejo pais deixando seus filhos em uma creche. Numa das mãos ou no colo, a criança. Na outra, o "outro" membro da família, eterno companheiro da atualidade: o celular.</br>
 </br>

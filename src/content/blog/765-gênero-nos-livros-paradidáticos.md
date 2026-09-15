@@ -4,7 +4,8 @@ date: 2015-07-24T20:08:00.001Z
 heroImage: "/images/posts/765-gênero-nos-livros-paradidáticos-livro_paradidatico.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/765-gênero-nos-livros-paradidáticos-livro_paradidatico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/765-gênero-nos-livros-paradidáticos-livro_paradidatico.png" width="320" height="185" data-original-width="638" data-original-height="369" /></a></div>
+![](/images/posts/765-gênero-nos-livros-paradidáticos-livro_paradidatico.png)
+
 </br>
 A prova que faltava: livro recomendado pelo MEC ensina "gênero" nas escolas.</br>
 </br>
@@ -32,7 +33,9 @@ O "status" elevado da mulher no cristianismo se devia, entre outras coisas, à v
 </br>
 Fica evidente, por conseguinte, a falsidade da acusação feita por Marx, Michel Foucault e cia. É no paganismo, na libertinagem sexual, na depravação moral que surgem as opressões contra as mulheres, os homossexuais e outros indivíduos — não no cristianismo. E isso por uma razão óbvia: a libertinagem sexual transforma o ser humano em um ser descartável, em uma massinha de modelar. O comportamento violento dos jovens é resultado direto desse modelo de educação liberal, que os considera animais adestráveis. Um animal se comportará como um animal.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/765-gênero-nos-livros-paradidáticos-livro_paradidatico2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/765-gênero-nos-livros-paradidáticos-livro_paradidatico2.png" width="200" height="113" data-original-width="647" data-original-height="364" /></a></div>
+
+![](/images/posts/765-gênero-nos-livros-paradidáticos-livro_paradidatico2.png)
+
 </br>
 O principal problema dessa questão é de cunho humanístico. A Teoria de Gênero defende uma visão de pessoa humana profundamente equivocada, segundo a qual o ser humano seria determinado apenas pelo ego e pela vontade. O corpo nada tem a dizer nessa história. Trata-se apenas de um instrumento para a satisfação das vontades. Assim, pode-se admitir todo tipo de "união sexual", desde que exista o desejo e o consentimento para tal. O homem fica reduzido às suas paixões.</br>
 </br>

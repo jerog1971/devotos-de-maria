@@ -4,7 +4,9 @@ date: 2022-08-17T15:10:00.001Z
 heroImage: "/images/posts/1206-entre-você-e-deus-entre_20voc_C3_AA_20e_20Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1206-entre-você-e-deus-entre_20voc_C3_AA_20e_20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="553" data-original-width="530" height="320" src="/images/posts/1206-entre-você-e-deus-entre_20voc_C3_AA_20e_20Deus.png" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“O bem que você faz hoje, pode ser esquecido amanhã. Faça-o
+![](/images/posts/1206-entre-você-e-deus-entre_20voc_C3_AA_20e_20Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“O bem que você faz hoje, pode ser esquecido amanhã. Faça-o
 assim mesmo. Veja que, ao final das contas, é tudo entre você e Deus! Nunca foi
 entre você e os outros” – Santa Teresa de Calcutá. Pois bem, não é à toa que
 lemos em Atos 5,29 que importa antes obedecer a Deus que aos homens e em Gálatas
@@ -37,4 +39,7 @@ nos fará prestar contas de todo ato, seja ele bom ou mal.<o:p></o:p></p>
 agrade a Deus; tanto é que é isso que ele espera de nós em seu mandamento de
 amá-lo sobre todas as coisas, com todo nosso coração, alma e entendimento.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

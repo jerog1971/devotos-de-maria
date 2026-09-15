@@ -4,7 +4,8 @@ date: 2020-03-04T15:16:00.001Z
 heroImage: "/images/posts/1617-eu-só-quero-terminar-bem-jerusalem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1617-eu-só-quero-terminar-bem-jerusalem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1617-eu-só-quero-terminar-bem-jerusalem.png" width="320" height="241" data-original-width="468" data-original-height="352" /></a></div>
+![](/images/posts/1617-eu-só-quero-terminar-bem-jerusalem.png)
+
 Os corredores de rua quando estão preparando-se para uma competição, ao mínimo eles tem um propósito em comum: terminar bem a prova. Para isso, existe uma etapa dividida em duas partes: a preparação e a preparação próxima. Sobre a preparação é sabido que o atleta precisa seguir uma vida regrada, com horários certos para as refeições, uma rotina de afazeres, exercícios e boa noite de sono e a fuga constante de qualquer excesso ou atividade prejudicial ao resultado que ele espera alcançar.</br>
 </br>
 O atleta sabe que o dia da competição não se resume nele mesmo. Seu bom desempenho e resultado irá depender em parte de sua preparação anterior ao evento assim como a preparação próxima às vésperas da competição. O despreparo é seu vilão, porém, pode ser controlado. Ademais, ainda existem os fatores externos que independem de sua vontade. Todavia, a parte que lhe cabe fazer precisa ser cumprida.</br>

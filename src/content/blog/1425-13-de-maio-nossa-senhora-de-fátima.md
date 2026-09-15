@@ -4,7 +4,8 @@ date: 2016-05-13T11:00:00Z
 heroImage: "/images/posts/1425-13-de-maio-nossa-senhora-de-fátima-fatima13.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1425-13-de-maio-nossa-senhora-de-fátima-fatima13.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1425-13-de-maio-nossa-senhora-de-fátima-fatima13.png" width="320" height="281" data-original-width="571" data-original-height="502" /></a></div>
+![](/images/posts/1425-13-de-maio-nossa-senhora-de-fátima-fatima13.png)
+
 </br>
 "Por fim o meu Imaculado Coração Triunfará". Nossa Senhora em Fátima, Portugal nos afirmou essa frase após nos ensinar que seu filho Jesus deseja estabelecer no mundo a devoção ao seu Imaculado Coração para a salvação de toda a humanidade, pois quase não há no mundo quem reze e faça penitência pelos pecadores.</br>
 </br>

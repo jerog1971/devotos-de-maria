@@ -4,7 +4,9 @@ date: 2024-06-06T20:00:00.001Z
 heroImage: "/images/posts/1542-correrias-da-vida-Correrias_20da_20vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1542-correrias-da-vida-Correrias_20da_20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="241" data-original-width="266" height="241" src="/images/posts/1542-correrias-da-vida-Correrias_20da_20vida.png" width="266" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mundo sempre vai tentar o ser humano a colocar mais coisas
+![](/images/posts/1542-correrias-da-vida-Correrias_20da_20vida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O mundo sempre vai tentar o ser humano a colocar mais coisas
 dentro das vinte e quatro horas. Não importa a correria que façamos, não iremos
 conseguir “enfiar” tudo neste espaço de tempo. Ahhh, mas o ser humano é muito inteligente
 e parcela suas tarefas em dias, semanas e meses. Muito bem, com uma atitude
@@ -34,4 +36,7 @@ Responsáveis por um dia nos permitir entrar no céu. Já se ouvia dizer de um
 sábio que na vida as alegrias e tristezas passam e só ficam as consequências de
 nossas escolhas; que poderão ser eternas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

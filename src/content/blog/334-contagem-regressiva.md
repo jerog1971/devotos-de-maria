@@ -4,7 +4,8 @@ date: 2019-04-15T20:18:00Z
 heroImage: "/images/posts/334-contagem-regressiva-Vingadores_Ultimato.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/334-contagem-regressiva-Vingadores_Ultimato.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/334-contagem-regressiva-Vingadores_Ultimato.png" width="320" height="238" data-original-width="645" data-original-height="480" /></a></div>
+![](/images/posts/334-contagem-regressiva-Vingadores_Ultimato.png)
+
 Todos que são adeptos do entretenimento cinematográfico estão sempre acompanhando mês a mês a contagem regressiva das grandes produções hollywoodianas. O tempo vai passando e o que se vê pelo capitalismo afora é empresa comprando empresa. Vale para todas as áreas. Vimos isso acontecer em bancos, em supermercados, em empresas de informática e mais precisamente, foco deste artigo, em empresas cinematográficas. São investimentos de cifras altíssimas para que uma produção renda o suficiente para o salário dos atores e de toda a equipe envolvida.</br>
 </br>
 Antigamente os filmes eram promovidos numa escala de marketing muito menor do que acompanhamos hoje em dia. Atualmente a movimentação dos envolvidos e fãs é realmente constante e poderíamos arriscar dizer que é até mesmo ininterrupta. A indústria que move bilhões, é o que se escuta dizer com bastante facilidade nas mídias. </br>

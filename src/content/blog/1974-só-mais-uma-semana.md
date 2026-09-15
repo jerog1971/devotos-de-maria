@@ -4,7 +4,9 @@ date: 2023-11-12T14:17:00.007Z
 heroImage: "/images/posts/1974-só-mais-uma-semana-s_C3_B3_20mais_20uma_20semana.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1974-só-mais-uma-semana-s_C3_B3_20mais_20uma_20semana.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="261" data-original-width="282" height="261" src="/images/posts/1974-só-mais-uma-semana-s_C3_B3_20mais_20uma_20semana.png" width="282" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, doze mais sete é igual a dezenove. Pois é, dia
+![](/images/posts/1974-só-mais-uma-semana-s_C3_B3_20mais_20uma_20semana.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, doze mais sete é igual a dezenove. Pois é, dia
 dezenove de novembro será um domingo. Neste dia um marco chegará e será fincado
 no mapa e história de minha vida. Mas vamos em frente, temos que preencher as lacunas
 que separam estes dias. Dissera eu no artigo anterior que meu aniversário, o
@@ -35,4 +37,7 @@ pensar constantemente em nossos novíssimos e jamais pecaremos. Só por aí já
 deduzimos que não pensamos o quanto deveríamos. Eu particularmente até que
 pensava e ainda penso e quanto mais vivo mais lembro disso. Recordando, os
 novíssimos são as últimas realidades de nossa vida: morte, julgamento, inferno,
-purgatório e/ou céu.<o:p></o:p></p><p class="MsoNormal">Artigos anteriores:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-dia-menos.html" target="_blank">2 - Um dia a menos</a></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a><br /></p><p class="MsoNormal">Fonte: Jefferson Roger</p><p class="MsoNormal"><o:p></o:p></p></div><p><br />&nbsp;</p>
+purgatório e/ou céu.<o:p></o:p></p><p class="MsoNormal">Artigos anteriores:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-dia-menos.html" target="_blank">2 - Um dia a menos</a></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a><br /></p><p class="MsoNormal">Fonte: Jefferson Roger</p><p class="MsoNormal"><o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2022-02-25T19:50:00.002Z
 heroImage: "/images/posts/199-abraçando-ótimas-surpresas-img-434471050.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/199-abraçando-ótimas-surpresas-img-434471050.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="407" data-original-width="458" height="284" src="/images/posts/199-abraçando-ótimas-surpresas-img-434472112.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já a algum tempo atrás, tinha eu me deparado com alguns
+![](/images/posts/199-abraçando-ótimas-surpresas-img-434472112.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Já a algum tempo atrás, tinha eu me deparado com alguns
 dizeres muito incisivos relacionados com a salvação de nossa alma. Lendo um
 livro de Santo Antonio Maria Claret, encontrei em suas reflexões grandes
 verdades sobre o pecado, que a propósito já as tinha encontrado em Santa
@@ -44,4 +46,7 @@ pensar, agir e despertar o cristão de seu sono mundano que procura transformar
 o aqui em algo desnecessário para a alma humana, caso ela faça as escolhas
 incompatíveis com as realidades de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,7 @@ date: 2015-08-27T14:01:00.001Z
 heroImage: "/images/posts/2144-você-se-lembra-desse-casal-jonathan.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2144-você-se-lembra-desse-casal-jonathan.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="177" data-original-width="238" height="149" src="/images/posts/2144-você-se-lembra-desse-casal-jonathan.png" width="200" /></a></div>
+![](/images/posts/2144-você-se-lembra-desse-casal-jonathan.png)
 
 Se tua resposta é não; não se preocupe, você pode ler a matéria completa <a href="http://devotos-de-maria.blogspot.com.br/2015/07/amor-verdadeiro.html" target="_blank"><b>aqui</b></a>. Trata-se de Jonathan e Kelem, moradores da cidade de Araucária-PR que demonstraram com seu exemplo de vida e dedicação ao outro que seguir o Evangelho requer entrega, dedicação e compromisso.
 Quase ao final do mês passado, eles tiveram como nos contou o primeiro artigo deste blog, o sonho realizado de oficializar seu casamento perante Deus, elevando-o, assim como fez Cristo, à categoria de sacramento. O sacramento do matrimônio. Que emocionante para minha família foi ver aquele jovem casal, que por circunstâncias da vida tiveram que amadurecer a "toque de caixa" e encarar as pedras do caminho e o peso de suas cruzes como fizeram ao longo da história muitos santos e santas e ainda o fazem muitas pessoas pelo mundo afora.
@@ -13,7 +13,7 @@ Abrir mão do modo de vida e do padrão de vida que o mundo prega para viver a c
 
 Muitos mal saem da celebração religiosa e durante a festa de comemoração já começam a entrar no processo de esquecimento de tudo aquilo que na presença de Deus pronunciaram. "Não é assim que deve ser entre vocês", nos ensina Jesus. Um Deus que é sempre fiel apesar de nossa constante insistência em tratá-lo meio como inimigo, não descansa e não desiste de nós. Nos quer como filhos e não como escravos e não se cansa de nos mostrar que a dor é filha do amor. Cada sofrimento que Jesus passou foi por amor à nós pecadores. Sem reservas Ele deu sua vida livremente para nos garantir a vida eterna enquanto que muitos de nós não cogitam sequer algum esforço por amar ao próximo com o amor que Jesus nos pede.
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2144-você-se-lembra-desse-casal-jonathan2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="176" data-original-width="233" height="151" src="/images/posts/2144-você-se-lembra-desse-casal-jonathan2.png" width="200" /></a></div>
+![](/images/posts/2144-você-se-lembra-desse-casal-jonathan2.png)
 
 Mas sempre é possível...
 
@@ -35,13 +35,12 @@ As missas e as novenas que mais ajuntam número de fiéis assim o fazem para ped
 
 Se esquecem que no livro de São Tiago está escrito alegrai-vos na tribulação, ou quando São Pedro nos recorda que quando vierem os sofrimentos, saibais que isso não é nada de extraordinário, ou ainda, quando São Paulo nos lembra que todos os sofrimentos aqui da terra não tem comparação com as alegrias que nos esperam no céu. Também nos recorda São Rafael no livro de Tobias que por sermos agradáveis a Deus é necessário que passemos pelos sofrimentos. E por aí seguem tantas outras passagens e ensinamentos das sagradas escrituras e da tradição.
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2144-você-se-lembra-desse-casal-jonathan3.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="175" data-original-width="236" height="148" src="/images/posts/2144-você-se-lembra-desse-casal-jonathan3.png" width="200" /></a></div>
+![](/images/posts/2144-você-se-lembra-desse-casal-jonathan3.png)
 
 Sejamos francos caro leitor. Sofrer não é uma experiência igual a deitar no sofá com uma coberta e assistir a um filme enquanto se faz um lanchinho. Sofrer é acima de tudo necessário para nossa santificação e salvação. É fato de que em algum momento de nossas vidas nós sofremos, estamos a sofrer ou ainda sofreremos. Por isso na bíblia existe uma verdade muito bonita que nos ensina que devemos ter paciência nos sofrimentos e tribulações. A dor é filha do amor, a cruz é a regra e não a exceção.
 
 Nossa Senhora, em Fátima no ano de 1917, pediu aos três pastorinhos Lúcia, Francisco e Jacinta, de 10, 9 e 7 anos se eles aceitariam os sofrimentos que Deus enviaria para suas santificações, expiação das ofensas contra Ele e para a conversão dos pecadores ao passo que elas aceitaram. Crianças! Outra passagem belíssima da bíblia na carta aos Hebreus 6,12 nos ensina a sermos imitadores daqueles que pela fé e paciência se tornaram herdeiros das promessas.
 
 O céu nos espera, a eternidade junto ao amor eterno nos aguarda. Como nos ensina Santo Antonio Maria Claret, quem quer se salvar precisa ter Deus na mente, o paraíso no coração e o mundo debaixo dos seus pés. Nos aproximemos de Jesus por amor aceitando sempre a sua vontade assim como Ele nos ensinou na oração do Pai Nosso. Como Jonathan e Kelem, que podemos ver em seus rostos a alegria de não trilharem o caminho da porta estreita sozinhos, pois Jesus nos disse, "estarei convosco todos os dias". E assim o é, o mundo quer que esqueçamos essa verdade e quer que tenhamos ódio ao sofrimento e busquemos somente o prazer, o mundo quer que tenhamos horror ao sofrimento, pois o mundo comandado pelo seu príncipe satanás, sabe, que o sofrimento salva almas. Padre Pio já nos afirmava: "as almas custam sangue".
-
 
 fonte: Jefferson Roger

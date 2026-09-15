@@ -4,7 +4,9 @@ date: 2021-02-05T20:51:00.004Z
 heroImage: "/images/posts/1294-caridade-para-com-os-outros-Santa_Edwiges.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1294-caridade-para-com-os-outros-Santa_Edwiges.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="284" height="320" src="/images/posts/1294-caridade-para-com-os-outros-Santa_Edwiges.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">"A santidade da vida, unida ao saber, garante à alma
+![](/images/posts/1294-caridade-para-com-os-outros-Santa_Edwiges.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">"A santidade da vida, unida ao saber, garante à alma
 maior glória dos céus". Estas são palavras ditas por uma mulher que viveu
 séculos atrás, que teve uma vida com bons recursos, mas, escolheu dispô-la para
 com os pobres e endividados. Quando Jesus ensinou que devemos desapegar de tudo
@@ -45,4 +47,7 @@ dos santos, como membros do corpo de Cristo, lembremos que o egoísmo e
 interesses próprios “barram” qualquer coisa que peçamos a Deus; ainda mais se não
 contribuir para a salvação de nossas almas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

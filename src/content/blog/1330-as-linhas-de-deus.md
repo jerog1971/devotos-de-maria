@@ -4,7 +4,9 @@ date: 2023-03-22T20:44:00.007Z
 heroImage: "/images/posts/1330-as-linhas-de-deus-as_20linhas_20de_20deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1330-as-linhas-de-deus-as_20linhas_20de_20deus.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="320" data-original-width="426" height="240" src="/images/posts/1330-as-linhas-de-deus-as_20linhas_20de_20deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Era uma tarde de trabalho; pela primeira vez saía com um motorista
+![](/images/posts/1330-as-linhas-de-deus-as_20linhas_20de_20deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Era uma tarde de trabalho; pela primeira vez saía com um motorista
 até então desconhecido. Apresentações iniciais e o serviço começara. Sua missão
 era ir me levando pelos pontos da cidade predeterminados para a vistoria do dia.
 Os quilômetros foram passando, o calor do dia não, e as apresentações, que a
@@ -37,4 +39,7 @@ venham ventos contrários”.
 Horas é fácil viver, horas é mais difícil, pois bem, a entrada no céu nunca foi
 pelo Cristo, declarada fácil. Fiquemos, pois, dentro das linhas de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

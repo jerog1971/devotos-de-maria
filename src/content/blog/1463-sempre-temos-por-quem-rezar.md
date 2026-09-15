@@ -4,7 +4,8 @@ date: 2016-04-12T20:13:00Z
 heroImage: "/images/posts/1463-sempre-temos-por-quem-rezar-rezando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1463-sempre-temos-por-quem-rezar-rezando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1463-sempre-temos-por-quem-rezar-rezando.png" width="320" height="219" data-original-width="265" data-original-height="181" /></a></div>
+![](/images/posts/1463-sempre-temos-por-quem-rezar-rezando.png)
+
 Sempre temos por quem rezar. Basta olharmos ao nosso redor, com os olhos do Cristo. Ele, nos ensina que devemos reconhece-lo no irmão e nos recorda que no dia do juízo, aqueles que não praticaram as obras de caridade deixaram de faze-las ao próprio Jesus.</br>
 </br>
 Antes da oração se tornar uma lista de pedidos, que tanto desagrada a Deus se for uma lista egoísta, é preciso sim, transforma-la numa prática constante de um diálogo com Deus em favor de todos os membros da igreja. Pois o contrário poderá ser uma atitude de egoísmo, uma vez que não posso desejar o céu e não o desejar para o irmão.</br>

@@ -4,7 +4,8 @@ date: 2016-08-10T14:36:00Z
 heroImage: "/images/posts/1583-quando-só-restou-o-respeito-respeito.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1583-quando-só-restou-o-respeito-respeito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1583-quando-só-restou-o-respeito-respeito.png" width="320" height="313" data-original-width="370" data-original-height="362" /></a></div>
+![](/images/posts/1583-quando-só-restou-o-respeito-respeito.png)
+
 Sem dúvida alguma, todas as pessoas já passaram, passam ou passarão por invasivas do inimigo, que sempre busca em suas tentativas desenfreadas atacar e destruir as duas expressões do amor de Deus, que acontece em nossas vidas: a Castidade e a Virgindade.</br>
 </br>
 Uma representa o Matrimônio e a outra representa o Sacerdócio. Estas duas vertentes desse amor sofreram e sofrem em toda a história da humanidade e em toda a parte, constantes infortúnios do “maldito anjo caído”. Os pecados capitais avassalam cotidianamente suas tentativas de entrada através das tentações e como aquele velho ditado popular que diz “água mole em pedra dura, tanto bate até que fura”, acabam por certas vezes, penetrar por estas brechas e causar, assim como a fumaça de satanás que o papa Paulo VI disse que penetrou na igreja, grandes sofrimentos, problemas, pesares e derrotas na caminhada de todos.</br>
@@ -14,7 +15,9 @@ Pois bem, na vida de casado, homem e mulher são constantemente assediados pela 
 Mas e quando as quedas deixam marcas muito profundas que, mesmo depois de cicatrizadas, nos transformaram e não nos deixaram esquecer os acontecimentos? Muitas são as consequências. E algumas perigosas para nossa vida nesta terra e na eternidade. Uma delas é o ressentimento. Ele tem um poder destruidor e consegue abafar outros bons sentimentos, afoga-los ou sufoca-los. Em Efésios 4,26 aprendemos que ele deve ser exterminado o mais rápido de nossas vidas. Do contrário, ele pode um a um retirar de nós coisas boas que possuímos.</br>
 </br>
 Podemos aqui, caro leitor, recordar sem dúvida alguma, testemunhos sobre o assunto pois é uma verdade comprovada por todas as pessoas que vivem a experiência do matrimônio. Nós já passamos por isso ou conhecemos alguém que já passou. E assim como Jesus deu exemplos, testemunhos, ensinou e mostrou como se fazia, devemos ser seus imitadores e fazer o mesmo. Não devemos somente proferir o belo, também devemos colocar sob a luz da verdade o que está oculto, pois ela nos libertará (João 8,32). Vejamos:</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1583-quando-só-restou-o-respeito-brigas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1583-quando-só-restou-o-respeito-brigas.png" width="200" height="121" data-original-width="489" data-original-height="296" /></a></div>
+
+![](/images/posts/1583-quando-só-restou-o-respeito-brigas.png)
+
 </br>
 Conta-se na vivência popular que muitas vezes, o desgaste dos relacionamentos acaba por vezes a ferir muitos sentimentos que existem na relação de um casal. E se o desgaste for tanto ao ponto de só restar, por exemplo o respeito? E se nas palavras dela o que restou agora é “só o respeito”? E se sua lista de desabafo for imensa quando o assunto for a conduta como homem, pessoa, pai, filho e cristão? Pois bem, a culpa todos sabemos, é do pecado que por culpa própria cometemos. Longe de ser aquilo que a esposa um dia sonhou para si, o homem algumas vezes não passa de uma pessoa que simplesmente é o pai de suas filhas. E não passa disso. E como existem exemplos assim na sociedade. Seu coração foi a muito perfurado pelos males que o marido causou e suas cicatrizes mudaram o rumo do que poderia ser uma família nos moldes da sagrada família. E ao invés de procurarem o médico do corpo e da alma, Jesus, correm atrás das soluções do mundo e enchem os consultórios de psicologia.</br>
 </br>

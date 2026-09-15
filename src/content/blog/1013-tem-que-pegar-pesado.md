@@ -4,7 +4,9 @@ date: 2021-09-10T17:36:00.003Z
 heroImage: "/images/posts/1013-tem-que-pegar-pesado-tem_que_pesar_pesado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1013-tem-que-pegar-pesado-tem_que_pesar_pesado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="272" data-original-width="288" height="272" src="/images/posts/1013-tem-que-pegar-pesado-tem_que_pesar_pesado.png" width="288" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Traduzido para o bom e direto português é exatamente isso de
+![](/images/posts/1013-tem-que-pegar-pesado-tem_que_pesar_pesado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Traduzido para o bom e direto português é exatamente isso de
 que trata o versículo quatro, do capítulo doze da carta aos Hebreus. O limite
 mínimo que devemos alcançar no combate diário, diga-se de passagem, é bem alto
 e bem caro. Afinal, nem poderia ser diferente a menos que alguém julgue que a
@@ -36,4 +38,7 @@ aquele que sofreu tantas contrariedades dos pecadores (Jesus Cristo), e não vos
 deixeis abater pelo desânimo. Ainda não tendes resistido até o sangue, na luta
 contra o pecado” – Hebreus 12,3-4.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

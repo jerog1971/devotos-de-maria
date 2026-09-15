@@ -4,7 +4,9 @@ date: 2023-06-14T21:16:00.001Z
 heroImage: "/images/posts/031-talentos-e-responsabilidades-ainda-existem-liberdade_20de_20express_C3_A3o_20e_20censura.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/031-talentos-e-responsabilidades-ainda-existem-liberdade_20de_20express_C3_A3o_20e_20censura.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1836" data-original-width="2448" height="240" src="/images/posts/031-talentos-e-responsabilidades-ainda-existem-liberdade_20de_20express_C3_A3o_20e_20censura.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ainda hoje, felizmente, existem jovens comprometidos com o
+![](/images/posts/031-talentos-e-responsabilidades-ainda-existem-liberdade_20de_20express_C3_A3o_20e_20censura.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ainda hoje, felizmente, existem jovens comprometidos com o
 seu futuro e com a oportunidade que diariamente se apresenta em suas vidas para
 que cresçam como pessoas, envoltos em suas responsabilidades, sem deixar de
 lado as boas coisas da vida. Eu como professor das etapas do ensino médio,
@@ -40,4 +42,7 @@ aquilo que receberam em casa [sua educação, princípios e valores] e aprimoram
 com a ajuda de seus professores. Parabéns pelo empenho e capricho no cartaz,
 pesquisa e apresentação.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

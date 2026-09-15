@@ -4,7 +4,11 @@ date: 2020-06-30T15:58:00.001Z
 heroImage: "/images/posts/165-primeiros-mártires-da-igreja-de-roma-m_25C3_25A1rtires_de_Roma.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/165-primeiros-mártires-da-igreja-de-roma-m_25C3_25A1rtires_de_Roma.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="407" src="/images/posts/165-primeiros-mártires-da-igreja-de-roma-m_25C3_25A1rtires_de_Roma.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Hoje a igreja celebra a memória dos cristãos que sofreram o
+<br />
+
+![](/images/posts/165-primeiros-mártires-da-igreja-de-roma-m_25C3_25A1rtires_de_Roma.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Hoje a igreja celebra a memória dos cristãos que sofreram o
 martírio durante a perseguição de Nero, no ano 64. A culpa do incêndio de Roma
 recaiu sobre os cristãos, os quais foram cruelmente martirizados:</p>
 

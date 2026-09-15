@@ -4,7 +4,8 @@ date: 2019-04-29T16:10:00.003Z
 heroImage: "/images/posts/578-eu-me-acho-Eu_me_acho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/578-eu-me-acho-Eu_me_acho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/578-eu-me-acho-Eu_me_acho.png" width="318" height="320" data-original-width="266" data-original-height="268" /></a></div>
+![](/images/posts/578-eu-me-acho-Eu_me_acho.png)
+
 Eu me acho, eu me basto, eu sou o cara, eu sou o tal, eu sei tudo, deixe que isso eu resolvo, sempre fiz assim e deu certo e por aí vai. Nesta pequena frase já podemos perceber de que tipo de comportamento e pessoa estaremos a tratar. O vaidoso e o egoísta, o presunçoso e o exibicionista, o metido e o arrogante.</br>
 </br>
 O grande problema, para início de conversa, é que embora existam pessoas que expressam esses comportamentos de forma bem acentuada, certa dose deles, poderíamos arriscar dizer que de todos eles, estão dentro de nós. Por isso se diz que a luta neste vale de lágrimas é constante. Jesus quando nos pediu a vigilância não estava de brincadeira, ele sabia que se a vigilância deixasse de acontecer, seu substituto, a distração, iria nos colocar no campo das possibilidades de se pecar. </br>

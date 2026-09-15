@@ -4,7 +4,9 @@ date: 2024-09-04T20:42:00.004Z
 heroImage: "/images/posts/2174-a-sofia-A_20Sofia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2174-a-sofia-A_20Sofia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="480" height="320" src="/images/posts/2174-a-sofia-A_20Sofia.jpg" width="160" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Ela é uma das minhas filhas, uma maravilha de criança, muito
+![](/images/posts/2174-a-sofia-A_20Sofia.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;"> Ela é uma das minhas filhas, uma maravilha de criança, muito
 agradável de se conviver. Minha parceirinha nas jogatinas de
 videogame, nós mandamos bem juntos e nos divertimos bem nesses
 momentos. Ela fala muito mais do que eu enquanto jogamos. Minha
@@ -35,4 +37,7 @@ com ela para eu ficar fazendo lambanças na vida, como pai.</p>
 
 </p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

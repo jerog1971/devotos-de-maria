@@ -4,7 +4,8 @@ date: 2016-03-09T16:27:00Z
 heroImage: "/images/posts/1407-guarda-os-mandamentos-em-teu-coração-alei.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1407-guarda-os-mandamentos-em-teu-coração-alei.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1407-guarda-os-mandamentos-em-teu-coração-alei.png" width="320" height="308" data-original-width="370" data-original-height="356" /></a></div>
+![](/images/posts/1407-guarda-os-mandamentos-em-teu-coração-alei.png)
+
 Deuteronômio 6,6-7 - 6 Os mandamentos que hoje te dou serão gravados no teu coração. 7 Tu os inculcarás a teus filhos, e deles falarás, seja sentado em tua casa, seja andando pelo caminho, ao te deitares e ao te levantares.</br>
 </br>
 Traduzindo o versículo 7 significa dizer que a todo o instante devemos em nossas vidas sermos um exemplo vivo dos mandamentos de Deus, seja no falar e no agir. E mais, somos exortados a ensinar os mandamentos do Senhor dentro de nossa própria casa, no meio de nossas famílias. Este pequeno trecho das sagradas escrituras esconde muito mais do que parece aparentar, como na realidade o é em toda a bíblia. É por isso que nunca devemos nos dirigir com um olhar intelectual às sagradas escrituras, com espírito aventureiro e explorador, ou como a um cientista que está querendo desvendar e comprovar suas hipóteses.</br>

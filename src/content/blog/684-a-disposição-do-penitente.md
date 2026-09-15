@@ -4,7 +4,8 @@ date: 2019-04-10T20:08:00.001Z
 heroImage: "/images/posts/684-a-disposição-do-penitente-confessar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/684-a-disposição-do-penitente-confessar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/684-a-disposição-do-penitente-confessar.png" width="320" height="226" data-original-width="467" data-original-height="330" /></a></div>
+![](/images/posts/684-a-disposição-do-penitente-confessar.png)
+
 Já pararam para pensar porque é que as pessoas comungam, comungam e comungam, confessam, confessam e confessam e não ficam mais santas? Ou até mesmo o exame de consciência próprio nos traz à tona essa realidade de vida? Pois bem, a relação da improdutividade está na disposição do penitente. Jesus é o mesmo para cada um, a sua graça é a mesma para cada um. Fazendo uma analogia temos: o sol é o mesmo ao distribuir seu calor por toda a parte. Seus raios atingem uma telha de metal e uma telha de barro. Porque uma esquenta mais do que a outra se o sol é o mesmo e emite por igual seus raios?</br>
 </br>
 São Tomás de Aquino nos esclarece que a disposição do penitente é fator importantíssimo na recepção dos sacramentos. Essa disposição pode, por causa do pecado cometido, servir de trampolim para um estado de graça maior. Pode ainda manter o penitente no mesmo estado de santidade; ou colocá-lo num estado inferior.</br>

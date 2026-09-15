@@ -4,7 +4,9 @@ date: 2022-11-30T15:51:00.002Z
 heroImage: "/images/posts/826-socorro-silencioso-Socorro_20silencioso.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/826-socorro-silencioso-Socorro_20silencioso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="432" data-original-width="360" height="320" src="/images/posts/826-socorro-silencioso-Socorro_20silencioso.png" width="267" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é um mistério o fato de pedirmos tanta ajuda para Deus e
+![](/images/posts/826-socorro-silencioso-Socorro_20silencioso.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não é um mistério o fato de pedirmos tanta ajuda para Deus e
 nada acontecer em nosso favor? Pelo menos, não da forma como gostaríamos. Em
 verdade, o problema está em nossa birra que teima sempre em ser desenfreada. Se
 queremos algo de Deus, queremos imediatamente, isso, quando não o queremos para
@@ -37,4 +39,7 @@ fala de muitas maneiras e age de muitas formas que somente podemos perceber se
 nosso coração, alma e espírito não estiverem soterrados pelas coisas do mundo e
 do mal.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

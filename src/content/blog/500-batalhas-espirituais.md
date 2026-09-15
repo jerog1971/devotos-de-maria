@@ -4,13 +4,15 @@ date: 2023-07-14T19:16:00.004Z
 heroImage: "/images/posts/500-batalhas-espirituais-batalha_20espiritual.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/500-batalhas-espirituais-batalha_20espiritual.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="189" data-original-width="160" height="249" src="/images/posts/500-batalhas-espirituais-batalha_20espiritual.png" width="211" /></a></div><p class="MsoNormal">Já dizia o apóstolo, nos recordando as realidades que nos
+![](/images/posts/500-batalhas-espirituais-batalha_20espiritual.png)
+
+<p class="MsoNormal">Já dizia o apóstolo, nos recordando as realidades que nos
 cercam, que a batalha que empreendemos é contra os espíritos malignos (Efésios
 6,12). O bondoso Deus quis, para poupar muitos dos terrores diários que
 vivemos, proibir que possamos ver o mundo espiritual que nos cerca. Todavia,
 embora as coisas sejam assim, todos nós temos um grau de mediunidade, chegando
 alguns casos a ter um grau mais elevado denominado pela bíblia de dom de discernimento
-dos espíritos (1ª Coríntios 12,10).<o:p></o:p></p><p></p><p class="MsoNormal">Seja como for, para a maioria de nós e na maioria das vezes,
+dos espíritos (1ª Coríntios 12,10).<o:p></o:p></p><p class="MsoNormal">Seja como for, para a maioria de nós e na maioria das vezes,
 tudo não passa de sensações e pressentimentos, que por não desenvolvermos o
 dom, nos deixa bem aquém dos recursos necessários para o combate diário que
 precisamos e precisaremos empreender contra a caterva infernal por toda a nossa
@@ -32,12 +34,7 @@ sombras (Salmo 22); e renuncie a si mesmo, tome sua cruz, dia após dia, e siga
 Jesus Cristo (Lucas 9,23).<o:p></o:p></p><p class="MsoNormal">Nunca se ouviu dizer que, mesmo que mui raramente, uma
 pessoa conseguiu sozinha vencer a batalha espiritual, de peito aberto e apenas
 com recursos próprios contra as investidas do mal. Já não nos parece muito difícil
-com a ajuda divina? Quem dirá se cometermos a burrice de tentarmos sozinhos.<o:p></o:p></p><p>
+com a ajuda divina? Quem dirá se cometermos a burrice de tentarmos sozinhos.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p>
 
+<br /> 
 
-
-
-
-
-
-</p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p><p><br />&nbsp;</p>

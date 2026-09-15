@@ -4,7 +4,9 @@ date: 2020-11-06T14:48:00.002Z
 heroImage: "/images/posts/2120-onde-andam-seus-merecimentos-pensando.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2120-onde-andam-seus-merecimentos-pensando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="449" data-original-width="413" height="320" src="/images/posts/2120-onde-andam-seus-merecimentos-pensando.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eis aí um grande dilema que tenta a muitos, senão a todos. A
+![](/images/posts/2120-onde-andam-seus-merecimentos-pensando.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Eis aí um grande dilema que tenta a muitos, senão a todos. A
 pessoa faz um juízo de si e decreta um veredito ao seu favor. É pesaroso
 acusar-se, reconhecer suas falhas e fraquezas; se vai comparar-se a alguém
 normalmente o faz com base num padrão publicamente reconhecido como pior que o
@@ -40,4 +42,7 @@ sincero, que sabe olhar para o homem com o olhar de Deus, justo, honesto e
 misericordioso, procurando agir conforme o modelo dado por Deus (1º Coríntios
 11,1): Jesus Cristo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

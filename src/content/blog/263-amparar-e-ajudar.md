@@ -4,7 +4,9 @@ date: 2020-12-15T16:37:00.003Z
 heroImage: "/images/posts/263-amparar-e-ajudar-amparar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/263-amparar-e-ajudar-amparar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="762" data-original-width="773" src="/images/posts/263-amparar-e-ajudar-amparar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E ainda mais, como no ensina Jesus, “sem esperar nada em
+![](/images/posts/263-amparar-e-ajudar-amparar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">E ainda mais, como no ensina Jesus, “sem esperar nada em
 troca”. O Cristo nos ensinou que o interesse do benefício próprio em detrimento
 ao benefício de outrem não é bem querido como ingrediente para se entrar no céu.
 Na foto do artigo vemos duas pombas que pararam sobre o telhado porque uma delas
@@ -37,4 +39,7 @@ abandona uma vida de erros e passa a caminhar pelas veredas do Senhor.<o:p></o:p
 <p class="MsoNormal">Jó 33,14 – “Pois a verdade é que Deus fala, ora de um modo,
 ora de outro, mesmo que o homem não o perceba”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

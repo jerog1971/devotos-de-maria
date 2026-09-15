@@ -4,7 +4,8 @@ date: 2018-06-20T15:54:00.002Z
 heroImage: "/images/posts/968-o-perigo-de-nos-acharmos-santos-santinha_safada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/968-o-perigo-de-nos-acharmos-santos-santinha_safada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/968-o-perigo-de-nos-acharmos-santos-santinha_safada.png" width="320" height="314" data-original-width="507" data-original-height="498" /></a></div>
+![](/images/posts/968-o-perigo-de-nos-acharmos-santos-santinha_safada.png)
+
 Nos evangelhos Jesus nos fala daquelas três obras que temos de realizar a fim de purificarmos o nosso coração: a esmola, o jejum e a oração. Tudo isso — diz-nos o Senhor —, devemos praticá-lo sempre e com generosidade, mas precavidos de que o diabo, que anda em derredor buscando a quem devorar, é capaz de fazer-nos desvirtuar até mesmo essas obras de justiça. O jejum, por isso, pode converte-se em farisaísmo; a esmola, em vaidade; a oração, em soberba. </br>
 </br>
 Ainda que já nos tenhamos convertido, o inimigo se aproxima, vê-nos afastados dos pecados mais grosseiros de outros tempos e, para roubar nossos méritos e reconduzir-nos consigo para o fogo do inferno, inspira-nos a pestilenta sensação de nos acharmos muito santos. Ele, que está em pé de guerra com os membros do Corpo de Cristo, procura a todo custo destilar em nossas almas o veneno da vaidade espiritual, que torna estéril nossa virtude e mortas nossas obras. Para não cairmos nesses laços de mentira, a primeira coisa que podemos fazer é encomendar a Deus logo pela manhã as ações de cada dia, pedindo a graça de que elas lhe sejam gratas e realizadas com reta intenção.</br>

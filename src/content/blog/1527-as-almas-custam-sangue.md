@@ -4,7 +4,11 @@ date: 2020-06-25T16:30:00.002Z
 heroImage: "/images/posts/1527-as-almas-custam-sangue-padre_pio.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1527-as-almas-custam-sangue-padre_pio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="358" data-original-width="537" src="/images/posts/1527-as-almas-custam-sangue-padre_pio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Assim dizia o padre Pio, grande modelo de sacerdote, um
+<br />
+
+![](/images/posts/1527-as-almas-custam-sangue-padre_pio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Assim dizia o padre Pio, grande modelo de sacerdote, um
 santo portentoso que pela sua estatura de santidade sempre nos trouxe palavras
 que não carecem de dúvida ou suspeita alguma. Tão radical no segmento de Jesus
 que lhe custou até a perseguição da igreja, pois, ele tão mergulhado no amor de

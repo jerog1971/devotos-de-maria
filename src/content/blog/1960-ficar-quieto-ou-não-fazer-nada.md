@@ -4,7 +4,8 @@ date: 2016-08-31T20:27:00Z
 heroImage: "/images/posts/1960-ficar-quieto-ou-não-fazer-nada-quieto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1960-ficar-quieto-ou-não-fazer-nada-quieto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1960-ficar-quieto-ou-não-fazer-nada-quieto.png" width="320" height="314" data-original-width="343" data-original-height="337" /></a></div>
+![](/images/posts/1960-ficar-quieto-ou-não-fazer-nada-quieto.png)
+
 Eis duas expressões que muitas pessoas deixam passar despercebidas. Muitas acham que são sinônimos e que no fundo querem dizer a mesma coisa. Mas não é bem assim que funciona. Vamos com calma refletir um pouco a este respeito.</br>
 </br>
 Nas sagradas escrituras encontramos uma passagem a respeito da expressão ficar quieto no Livro de Jó 31,33-34. Lá encontramos em meio aos lamentos de Jó que ele não iria ter uma atitude hipócrita perante os outros ficando quieto para que não viesse à tona suas fraquezas e defeitos. Jó deixa claro em suas palavras que ele é transparente aos olhos de Deus e dos homens. Como já poderíamos intuir, ficar quieto é não fazer alarde, não fazer barulho e fazer silêncio, exatamente como comprova a sagrada escritura.</br>

@@ -4,7 +4,8 @@ date: 2015-12-21T11:40:00Z
 heroImage: "/images/posts/2083-tenha-em-vista-os-interesses-dos-ou-interesses_dos_outros.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2083-tenha-em-vista-os-interesses-dos-ou-interesses_dos_outros.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2083-tenha-em-vista-os-interesses-dos-ou-interesses_dos_outros.png" width="320" height="276" data-original-width="603" data-original-height="521" /></a></div>
+![](/images/posts/2083-tenha-em-vista-os-interesses-dos-ou-interesses_dos_outros.png)
+
 </br>
 Filipenses 2,4 - Cada qual tenha em vista não os seus próprios interesses, e sim os dos outros.</br>
 </br>

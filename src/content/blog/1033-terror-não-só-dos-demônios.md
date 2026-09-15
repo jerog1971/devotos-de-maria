@@ -4,7 +4,11 @@ date: 2020-05-26T17:13:00Z
 heroImage: "/images/posts/1033-terror-não-só-dos-demônios-AVvXsEioy9kpEM73LAL38RmEiJ8lfqJPhc5OKNPvxdxMK6smQjafBxWGEc2hQLWKOp47NuZa_IkzQo-0_FKqDVRpOpBYYqCeqPaoloCY8F24w6GixzenuSscJM2JSJXZBoof0zCcuCTiarb7doI.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1033-terror-não-só-dos-demônios-AVvXsEioy9kpEM73LAL38RmEiJ8lfqJPhc5OKNPvxdxMK6smQjafBxWGEc2hQLWKOp47NuZa_IkzQo-0_FKqDVRpOpBYYqCeqPaoloCY8F24w6GixzenuSscJM2JSJXZBoof0zCcuCTiarb7doI.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1920" data-original-width="2560" src="/images/posts/1033-terror-não-só-dos-demônios-AVvXsEioy9kpEM73LAL38RmEiJ8lfqJPhc5OKNPvxdxMK6smQjafBxWGEc2hQLWKOp47NuZa_IkzQo-0_FKqDVRpOpBYYqCeqPaoloCY8F24w6GixzenuSscJM2JSJXZBoof0zCcuCTiarb7doI.jpgs320/maio_com_Maria.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Terror também para os não católicos que atacam a religião
+<br />
+
+![](/images/posts/1033-terror-não-só-dos-demônios-AVvXsEioy9kpEM73LAL38RmEiJ8lfqJPhc5OKNPvxdxMK6smQjafBxWGEc2hQLWKOp47NuZa_IkzQo-0_FKqDVRpOpBYYqCeqPaoloCY8F24w6GixzenuSscJM2JSJXZBoof0zCcuCTiarb7doI.jpgs320/maio_com_Maria.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Terror também para os não católicos que atacam a religião
 cristã que pratica os chamados cultos de dulia (a devoção aos santos) e
 hiperdulia (a devoção a Nossa Senhora). A tecla batida é sempre a mesma. Os
 católicos praticam a idolatria, os católicos são idólatras, na bíblia diz que
@@ -55,7 +59,7 @@ qualquer imagem, ao contrário; a Bíblia, já no Antigo Testamento, defende o u
 das imagens no culto; e não só no livro do Êxodo. Há muitas afirmações em
 diversos outros livros. Outro exemplo:<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Números 21,7-9 – "O povo veio a Moisés e disse:
 ‘Pecamos, pois temos falado contra o Senhor e contra ti. Pede por nós ao

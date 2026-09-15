@@ -4,7 +4,9 @@ date: 2021-03-22T10:46:00.003Z
 heroImage: "/images/posts/1729-o-valor-das-escrituras-o_diabo_ataca.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1729-o-valor-das-escrituras-o_diabo_ataca.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="432" height="320" src="/images/posts/1729-o-valor-das-escrituras-o_diabo_ataca.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A coleção de livros sagrados denominada de bíblia, inspirada
+![](/images/posts/1729-o-valor-das-escrituras-o_diabo_ataca.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A coleção de livros sagrados denominada de bíblia, inspirada
 aos homens pelo Espírito Santo de Deus, traz até suas criaturas o que o homem
 precisa saber, o que o homem precisa fazer e o que o homem nunca deve esquecer.<o:p></o:p></p><div class="separator" style="clear: both;">
 
@@ -36,4 +38,7 @@ que nenhuma profecia da Escritura é de interpretação pessoal. Porque jamais u
 profecia foi proferida por efeito de uma vontade humana. Homens inspirados pelo
 Espírito Santo falaram da parte de Deus”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

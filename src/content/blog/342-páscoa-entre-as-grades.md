@@ -4,7 +4,8 @@ date: 2020-04-12T17:57:00.002Z
 heroImage: "/images/posts/342-páscoa-entre-as-grades-img-1396259101.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/342-páscoa-entre-as-grades-img-1396259101.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/342-páscoa-entre-as-grades-img-572881455.jpg" width="320" height="308" data-original-width="720" data-original-height="692" /></a></div>
+![](/images/posts/342-páscoa-entre-as-grades-img-572881455.jpg)
+
 Os judeus comemoravam a libertação da escravidão do povo no Egito; os cristãos, adeptos do cristianismo comemoram a ressurreição de Jesus Cristo. Seguindo-se a isso veio então por alguns séculos a perseguição aos cristãos. Eram tempos de celebrações em catacumbas, escondidos pela proibição de se praticar uma religião diferente do império, preservavam-se os seguidores do Cristo escondendo-se para poderem celebrar o mistério da fé.</br>
 </br>
 De certa forma não era uma celebração pascal entre “as grades”? Se não eram livres, então eram prisioneiros das circunstâncias, mesmo assim não deixavam de celebrar. No livro de Atos dos Apóstolos vemos o nascimento da igreja de forma familiar e posteriormente locais mais adequados eram construídos para comportar melhor a adesão das pessoas que era crescente.</br>

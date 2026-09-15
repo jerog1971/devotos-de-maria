@@ -4,7 +4,8 @@ date: 2016-01-05T11:27:00Z
 heroImage: "/images/posts/549-o-justo-juiz-juiz.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/549-o-justo-juiz-juiz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/549-o-justo-juiz-juiz.png" width="249" height="320" data-original-width="247" data-original-height="318" /></a></div>
+![](/images/posts/549-o-justo-juiz-juiz.png)
+
 </br>
 Livro do Eclesiástico 5,6-10</br>
 </br>

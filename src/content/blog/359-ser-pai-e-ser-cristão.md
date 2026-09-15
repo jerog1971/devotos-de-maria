@@ -4,7 +4,8 @@ date: 2016-08-23T12:26:00Z
 heroImage: "/images/posts/359-ser-pai-e-ser-cristão-familia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/359-ser-pai-e-ser-cristão-familia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/359-ser-pai-e-ser-cristão-familia.png" width="320" height="244" data-original-width="371" data-original-height="283" /></a></div>
+![](/images/posts/359-ser-pai-e-ser-cristão-familia.png)
+
 Parece ocorrer, no mundo atual, uma crise da paternidade. Cada vez menos homens querem assumir o título de “pai” com todas as obrigações e responsabilidades que isto implica. Quando Nosso Senhor Jesus Cristo diz: “A ninguém chameis pai” (Mt 23,9), estava obviamente se referindo à necessidade que todos temos de olhar primeiro para Deus, se é que pretendemos compreender o pleno significado da palavra – pois o Criador é a Fonte e a perfeição de toda a paternidade. S. Paulo Apóstolo diz (em Ef 3,14-15): “Dobro os joelhos em Presença do Pai do Céu, ao qual deve a sua existência toda família no Céu e na Terra”.</br>
 </br>
 Se quisermos compreender o que é ser um pai, não devemos e não podemos olhar para o reino animal e nem para as fraquezas humanas. Se quisermos saber o que é ser pai, devemos olhar para Deus, meditar na Paternidade Divina, e assim poderemos vislumbrar um pouco da vocação que os pais têm aqui na Terra. Meditemos: quais os motivos de estarem faltando pais de verdade neste mundo em nossos tempos, e por que o demônio vem demonstrando tanto ódio aos pais e ao seu papel fundamental?</br>

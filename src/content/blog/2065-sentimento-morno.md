@@ -4,7 +4,9 @@ date: 2021-03-10T17:13:00.002Z
 heroImage: "/images/posts/2065-sentimento-morno-morno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2065-sentimento-morno-morno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="606" data-original-width="631" src="/images/posts/2065-sentimento-morno-morno.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dificilmente uma pessoa gosta de tomar uma bebida morna; ou
+![](/images/posts/2065-sentimento-morno-morno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Dificilmente uma pessoa gosta de tomar uma bebida morna; ou
 gosta dela fria, ou gosta dela quente. Morna ou em temperatura ambiente não é
 uma apreciação bem vinda em muitos casos. Ah, aposto que alguém lembrou do leitinho
 morno antes de ir dormir! Pois é, ele cai bem, mas como todos nós sabemos, nem
@@ -36,4 +38,7 @@ mundo. São Tiago nos recorda que quem “quer ser amigo do mundo constitui-se
 inimigo de Deus”. Por isso Jesus se enfurece ao ponto de comparar ao indesejado
 no corpo que precisa ser vomitado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

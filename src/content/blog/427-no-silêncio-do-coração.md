@@ -4,7 +4,9 @@ date: 2020-12-21T13:11:00.004Z
 heroImage: "/images/posts/427-no-silêncio-do-coração-presepio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/427-no-silêncio-do-coração-presepio.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="593" data-original-width="771" src="/images/posts/427-no-silêncio-do-coração-presepio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lucas 2,10-19 – “O anjo disse-lhes: Não temais, eis que vos
+![](/images/posts/427-no-silêncio-do-coração-presepio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lucas 2,10-19 – “O anjo disse-lhes: Não temais, eis que vos
 anuncio uma boa nova que será alegria para todo o povo: hoje vos nasceu na
 Cidade de Davi um Salvador, que é o Cristo Senhor. Isto vos servirá de sinal:
 achareis um recém-nascido envolto em faixas e posto numa manjedoura. E
@@ -51,4 +53,7 @@ assim, toda prática religiosa em que eles se engajarem não passará de
 superstição pagã. Quase como dar sete pulos nas ondas do mar durante a virada
 do ano" - Padre Paulo Ricardo.</p><p class="MsoNormal"><o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-07-12T16:30:00Z
 heroImage: "/images/posts/689-deus-e-o-anonimato-anonimato.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/689-deus-e-o-anonimato-anonimato.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="878" height="320" src="/images/posts/689-deus-e-o-anonimato-anonimato.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa é uma escolha que cabe a cada um; isso mesmo, pois,
+![](/images/posts/689-deus-e-o-anonimato-anonimato.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Essa é uma escolha que cabe a cada um; isso mesmo, pois,
 podemos escolher vivermos debaixo de seu especial cuidado ou podemos escolher
 vivermos apenas sob seus cuidados genéricos, como das espécies animais ou
 vegetais, por exemplo. Deus cuida de toda a fauna e cuida de toda a flora, mas,
@@ -29,4 +31,7 @@ uma pessoa, temos um nome e somos únicos; por que escolhermos uma posição de
 anonimato quando temos o direito – pelo batismo – de sermos filhos e herdeiros
 da glória celeste? Sempre dizemos: é questão de escolha.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

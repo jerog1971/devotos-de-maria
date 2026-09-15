@@ -4,7 +4,8 @@ date: 2020-02-26T02:39:00.002Z
 heroImage: "/images/posts/1375-os-fariseus-de-nossas-paróquias-fariseus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1375-os-fariseus-de-nossas-paróquias-fariseus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1375-os-fariseus-de-nossas-paróquias-fariseus.png" width="320" height="227" data-original-width="459" data-original-height="325" /></a></div>
+![](/images/posts/1375-os-fariseus-de-nossas-paróquias-fariseus.png)
+
 Sobre os fariseus, Jesus sempre nos deu grandes ensinamentos. Os fariseus não acreditavam em Jesus, diziam: Mateus 9,34 – “É pelo príncipe dos demônios que ele (Jesus) expulsa os demônios.” Também quiseram chamar a atenção de Jesus: Mateus 12,2 – “Eis que teus discípulos fazem o que é proibido no dia de sábado.” Jesus era uma pedra no caminho dos fariseus: Mateus 12,14 – “Os fariseus saíram dali e deliberaram sobre os meios de o matar.”</br>
 </br>
 Como vemos, são poucos exemplos, mas já é possível perceber que eles não estavam alinhados com a proposta trazida pelo Cristo. Afinal, sua vinda a este mundo trouxe muito incômodo e ainda traz até os dias de hoje, o Ressuscitado “bagunçou” com a vida de muita gente. São muitas pessoas que fermentam e fomentam coisas infrutíferas no meio daqueles que se esforçam para seguir o caminho da porta estreita. Mateus 16,6  -“Jesus disse-lhes: Guardai-vos com cuidado do fermento dos fariseus.” Estes que Jesus chamou também de “raça de víboras”.</br>

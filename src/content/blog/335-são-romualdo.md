@@ -4,7 +4,11 @@ date: 2020-06-19T15:36:00.001Z
 heroImage: "/images/posts/335-são-romualdo-S_25C3_25A3o_Romualdo.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/335-são-romualdo-S_25C3_25A3o_Romualdo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="426" data-original-width="403" height="320" src="/images/posts/335-são-romualdo-S_25C3_25A3o_Romualdo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Romualdo nasceu na Toscana e viveu no final do século X
+<br />
+
+![](/images/posts/335-são-romualdo-S_25C3_25A3o_Romualdo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Romualdo nasceu na Toscana e viveu no final do século X
 e início do século XI. Reformador da vida monástica, chegou à vida religiosa
 marcado por um triste acontecimento: seu pai matara em duelo um parente.</p>
 

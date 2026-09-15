@@ -4,7 +4,9 @@ date: 2023-08-08T20:46:00.005Z
 heroImage: "/images/posts/2079-tentativas-tentativas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2079-tentativas-tentativas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="429" height="292" src="/images/posts/2079-tentativas-tentativas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tentativas e mais tentativas; muitas são as pessoas que passam
+![](/images/posts/2079-tentativas-tentativas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Tentativas e mais tentativas; muitas são as pessoas que passam
 a vida fazendo tentativas. Bom, acho que podemos concordar que todos nós
 tentamos muitas coisas em muitas áreas da vida. Às vezes erramos tentando
 acertar; outras vezes a “pontaria” nem estava tão boa e acertamos dentro do alvo.
@@ -35,4 +37,7 @@ Afinal, o ser humano preza e dá valor para tantas coisas suas e tantas
 conquistas e o bem mais precioso que recebeu, sua alma que é eterna, vai despacha-la
 tão facilmente assim para a condenação?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

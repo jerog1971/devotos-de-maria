@@ -4,7 +4,9 @@ date: 2021-03-15T15:25:00Z
 heroImage: "/images/posts/1975-distúrbios-espirituais-disturbios.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1975-distúrbios-espirituais-disturbios.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="296" data-original-width="276" src="/images/posts/1975-distúrbios-espirituais-disturbios.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A alma é quem peca, com maior ou menor contribuição do corpo.
+![](/images/posts/1975-distúrbios-espirituais-disturbios.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A alma é quem peca, com maior ou menor contribuição do corpo.
 Quando a tentação vence o homem e a retidão cede espaço ao ato desregrado que
 foge ao padrão estabelecido por Deus, essa conduta humana que mancha o recipiente
 da graça divina coloca em perigo a sua salvação.<o:p></o:p></p>
@@ -37,4 +39,4 @@ a perdição eterna. Contra isso Jesus disse para sermos constantes na
 vigilância. Só temos uma vida, que consiste numa chance única para salvarmos a
 nossa alma.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><br /> 

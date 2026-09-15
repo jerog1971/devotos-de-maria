@@ -4,7 +4,11 @@ date: 2020-05-13T20:25:00Z
 heroImage: "/images/posts/189-o-caminho-esconde-suas-pedras-img-1678015654.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/189-o-caminho-esconde-suas-pedras-img-1678015654.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="476" data-original-width="527" src="/images/posts/189-o-caminho-esconde-suas-pedras-img-1678015654.jpgs320/pedras_ocultas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 21,11 – “O caminho dos pecadores é calçado de
+<br />
+
+![](/images/posts/189-o-caminho-esconde-suas-pedras-img-1678015654.jpgs320/pedras_ocultas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 21,11 – “O caminho dos pecadores é calçado de
 pedras unidas, mas ele conduz à região dos mortos, às trevas e aos suplícios.”</p>
 
 <p class="MsoNormal">Eclesiástico 27,1-3 – “Quem procura enriquecer, afasta os
@@ -43,6 +47,6 @@ facilidade. Uma parte da coisa é culpa nossa, pois decidimos dar atenção ao
 diabo, assim como Eva fez com a serpente. Com o mal não se dialoga já dizia o
 Padre Gabriele Amorth, se combate.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <span style="font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;; font-size: 11.0pt; line-height: 115%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>

@@ -4,7 +4,9 @@ date: 2022-06-28T16:00:00.006Z
 heroImage: "/images/posts/1145-pelo-menos-alguém-se-salva-alguem_20se_20salva.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1145-pelo-menos-alguém-se-salva-alguem_20se_20salva.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="852" data-original-width="957" height="285" src="/images/posts/1145-pelo-menos-alguém-se-salva-alguem_20se_20salva.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Às vezes, nós educadores, desanimamos em sala de aula; a tão
+![](/images/posts/1145-pelo-menos-alguém-se-salva-alguem_20se_20salva.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Às vezes, nós educadores, desanimamos em sala de aula; a tão
 ultrapassada sala das escolas que insistem em se manter nos moldes tradicionais.
 Claro, não generalizemos, todavia, já que a reflexão caminha dentro dessa
 esfera, voltemos o olhar para os envolvidos. Turmas muitas vezes com mais de
@@ -33,4 +35,7 @@ será esquecida por Deus. Ele mesmo atestou isso: “Todo aquele que der ainda q
 seja somente um copo de água fresca a um destes pequeninos, porque é meu
 discípulo, em verdade eu vos digo: não perderá sua recompensa” – Mateus 10,42.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

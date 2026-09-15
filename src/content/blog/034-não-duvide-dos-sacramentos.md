@@ -4,7 +4,8 @@ date: 2017-12-01T19:23:00.002Z
 heroImage: "/images/posts/034-não-duvide-dos-sacramentos-crisma.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/034-não-duvide-dos-sacramentos-crisma.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="281" height="301" src="/images/posts/034-não-duvide-dos-sacramentos-crisma.png" width="320" /></a></div>
+![](/images/posts/034-não-duvide-dos-sacramentos-crisma.png)
+
 Olá pessoal, nós católicos sabemos que pouquíssimas denominações religiosas, inclusive aquelas que dizem que seguem a bíblia (pobres delas, deviam seguir Jesus), aceitam que os sacramentos ministrados pela igreja católica foram instituídos por Jesus. São peritos em falar que seguem a bíblia mas omissos e ágeis em selecionar só o que lhes convém para poderem sustentarem uma prática religiosa meio autônoma e picaretada nas páginas sagradas.
 
 Os sacramentos são sete. Vamos lá, a bíblia está recheada de passagens que confirmam e embasam o caráter sacramental que o cuidado e o amor de Deus quis deixar em sua igreja (Mateus 16,18) para o bem de seus filhos. Sacramentos são sinais visíveis da graça invisível. Em João 3,5 Jesus responde a Nicodemos: “Em verdade, em verdade te digo: quem não renascer da água e do Espírito não poderá entrar no Reino de Deus” Opa! – vemos a matéria (sinal visível água mais a fórmula aplicada pelo Cristo) e a essência invisível (Espírito Santo santificador) presentes na questão do batismo e, vejam bem, são palavras de Jesus. Mateus 28,19 – “Ide, pois, e ensinai a todas as nações; batizai-as em nome do Pai, do Filho e do Espírito Santo.” (disse Jesus). Vemos aí qual é a fórmula da qual ele explicava para Nicodemos.
@@ -22,6 +23,5 @@ Artigos relacionados:
 <a href="https://devotos-de-maria.blogspot.com.br/2016/11/porque-todos-nao-recorrem-aos.html" target="_blank">Por que todos não recorrem aos sacramentos?</a>
 
 <a href="https://devotos-de-maria.blogspot.com.br/2016/08/deixar-igreja-e-um-absurdo.html" target="_blank">Deixar a Igreja é um absurdo</a>
-
 
 fonte: Jefferson Roger

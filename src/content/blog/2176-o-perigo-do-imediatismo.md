@@ -4,8 +4,9 @@ date: 2024-11-08T17:38:00.003Z
 heroImage: "/images/posts/2176-o-perigo-do-imediatismo-imediatismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="428" data-original-width="515" height="266" src="/images/posts/2176-o-perigo-do-imediatismo-imediatismo.png" width="320" /></div><p></p>
-<p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Poderíamos começar o artigo fazendo uso de um dito popular
+![](/images/posts/2176-o-perigo-do-imediatismo-imediatismo.png)
+
+<p class="MsoNormal"> </p><p class="MsoNormal">Poderíamos começar o artigo fazendo uso de um dito popular
 que fala de uma faca de dois gumes; isso não seria errado porque, o que pode
 ajudar também pode prejudicar. Estamos a falar do imediatismo, aquele senso de urgência
 que afasta a procrastinação, aquela atitude que não fica esperando de braços
@@ -39,5 +40,4 @@ impedidos de reparar qualquer mal que nos impedirá de entrar no céu; a hora é
 agora.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

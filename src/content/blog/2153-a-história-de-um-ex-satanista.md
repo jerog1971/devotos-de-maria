@@ -4,7 +4,8 @@ date: 2019-12-19T19:49:00.001Z
 heroImage: "/images/posts/2153-a-história-de-um-ex-satanista-satanismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2153-a-história-de-um-ex-satanista-satanismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2153-a-história-de-um-ex-satanista-satanismo.png" width="320" height="216" data-original-width="412" data-original-height="278" /></a></div>
+![](/images/posts/2153-a-história-de-um-ex-satanista-satanismo.png)
+
 Em resumo colocamos aqui um pequeno relato de um ex-satanista e sua conversão ao catolicismo. Seu nome é Zachary King, criado no meio evangélico batista tornou-se adepto de uma seita satânica aos treze anos. Ele conta em entrevista ao Instituto Lepanto que aos quinze anos já tinha quebrado todos os dez mandamentos e que trilhou uma jornada nesse meio até se tornar um “sumo sacerdote” desta seita satânica.</br>
 </br>
 Em sua entrevista ele começa contando que foi introduzido ao satanismo por causa da curiosidade a respeito da magia; se ela era real. Dessa forma ele foi apresentado a um grupo por seus “amigos” que assim como ele também acreditavam que poderia ser real. Mais tarde esse grupo revelou-se ser a seita satânica da qual ele faria parte. Neste primeiro grupo Zachary permaneceu até seus dezoito anos quando então entrou definitivamente para a Igreja Mundial de Satanás. Nela, uma de suas funções, assim que atingiu o mais alto grau dentro desta seita, era sair pelo mundo realizando quaisquer feitiços que as pessoas quisessem (entende-se aqui as pessoas que buscavam fama, poder, dinheiro, riqueza e luxúria) e isso a qualquer preço.</br>

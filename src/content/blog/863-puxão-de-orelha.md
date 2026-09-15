@@ -4,7 +4,9 @@ date: 2022-05-12T20:37:00.004Z
 heroImage: "/images/posts/863-puxão-de-orelha-Nossa_20Senhora.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/863-puxão-de-orelha-Nossa_20Senhora.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="291" height="320" src="/images/posts/863-puxão-de-orelha-Nossa_20Senhora.png" width="241" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não importa a idade ou a época em que nos encontramos em
+![](/images/posts/863-puxão-de-orelha-Nossa_20Senhora.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não importa a idade ou a época em que nos encontramos em
 nossa vida. Sempre iremos receber de Deus, nosso criador, um puxão de orelha
 aqui e outro acolá. Não importa, vai acontecer; e mais, ele “corrige e castiga
 aqueles que ama e tem por seus filhos” – lemos no livro dos Provérbios.
@@ -43,4 +45,7 @@ contar com a mãe terrena por longos anos na terra, embora cada ano é valiosís
 Todavia, a felicidade é maior ainda por termos para todo o sempre o amor da
 Virgem Maria por cada um de nós, amor que vai até as últimas consequências.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

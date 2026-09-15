@@ -4,7 +4,9 @@ date: 2022-07-09T16:47:00.003Z
 heroImage: "/images/posts/356-mantendo-o-foco-mantendo_20o_20foco.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/356-mantendo-o-foco-mantendo_20o_20foco.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="283" height="265" src="/images/posts/356-mantendo-o-foco-mantendo_20o_20foco.png" width="283" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, ao cristão que pretende sempre agradar a Deus – 1ª Gálatas
+![](/images/posts/356-mantendo-o-foco-mantendo_20o_20foco.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Claro, ao cristão que pretende sempre agradar a Deus – 1ª Gálatas
 1,10, vale sempre o lembrete de que Jesus Cristo ensinou que a vigilância e a
 oração precisam ser constantes. Todavia, esse lembrete também é de ciência do
 inimigo da alma e por isso, ele busca com suas tentações colocar na vida das
@@ -32,4 +34,7 @@ filhos” – Provérbios 3,11-12. Não importa como seja, sempre cabe a cada um
 escolha, pois Jesus nos disse que “onde está nosso tesouro ali está nosso coração”
 – Mateus 6,21.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

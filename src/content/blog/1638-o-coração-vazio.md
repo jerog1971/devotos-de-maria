@@ -4,7 +4,8 @@ date: 2019-04-28T13:44:00.002Z
 heroImage: "/images/posts/1638-o-coração-vazio-sala_vazia.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1638-o-coração-vazio-sala_vazia.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1638-o-coração-vazio-sala_vazia.jpg" width="320" height="240" data-original-width="1306" data-original-height="980" /></a></div>
+![](/images/posts/1638-o-coração-vazio-sala_vazia.jpg)
+
 A alma feita para Deus só encontra repouso nele, a inquietação do coração não pode ser resolvida com algo diferente para qual sua natureza foi criada. Naqueles brinquedos pedagógicos de montar vemos que não é possível encaixar uma peça quadrada num buraco redondo. É exatamente isso que muitas pessoas tentam fazer em suas vidas, querem preencher o vazio de seus corações com algo que não foi feito para ele. Qual o resultado disso?</br>
 </br>
 A tecla que se bate é sempre a mesma. Queremos substituir a alegria da felicidade pela satisfação do prazer. As pessoas querem viver de conta gotas, pequenas satisfações, umas atrás das outras; o problema é que elas satisfazem apetites do corpo. O corpo então recebe autorização para comandar toda a máquina que é o ser humano e as consequências muita gente já conhece: o coração continua vazio porque a mente fica embotada pelo que o corpo anuncia como carro chefe, o acúmulo dos prazeres.</br>

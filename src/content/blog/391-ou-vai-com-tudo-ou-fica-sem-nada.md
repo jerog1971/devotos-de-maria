@@ -4,7 +4,9 @@ date: 2023-05-26T20:04:00.004Z
 heroImage: "/images/posts/391-ou-vai-com-tudo-ou-fica-sem-nada-img-1490345313.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/391-ou-vai-com-tudo-ou-fica-sem-nada-img-1490345313.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="547" height="246" src="/images/posts/391-ou-vai-com-tudo-ou-fica-sem-nada-img-1344972326.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, afinal, não é assim que Jesus colocou os termos
+![](/images/posts/391-ou-vai-com-tudo-ou-fica-sem-nada-img-1344972326.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Isso mesmo, afinal, não é assim que Jesus colocou os termos
 de nossa salvação? Quando ele diz que o morno ele vomita, se refere a pessoa
 que está em cima do muro, que ainda não se decidiu. Todavia, a coisa pende mais
 ainda para o lado da rigidez do ressuscitado quando o assunto é a salvação de
@@ -34,4 +36,7 @@ pecado” significa unir-se a Jesus (João 15,5) para tudo fazermos até o fim d
 nossas vidas. E aqui, neste assunto tão sério que é a salvação da alma, ficar
 sem nada significa perder tudo que vem de Deus, para sempre.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

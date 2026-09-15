@@ -4,7 +4,9 @@ date: 2021-12-23T13:42:00.003Z
 heroImage: "/images/posts/821-o-pecado-da-sodomia-não-é-mais-pecad-img-416764525.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/821-o-pecado-da-sodomia-não-é-mais-pecad-img-416764525.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="382" data-original-width="399" height="306" src="/images/posts/821-o-pecado-da-sodomia-não-é-mais-pecad-img-416764751.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quem sabe muitos nem reconheçam que tipo de pecado é este,
+![](/images/posts/821-o-pecado-da-sodomia-não-é-mais-pecad-img-416764751.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quem sabe muitos nem reconheçam que tipo de pecado é este,
 mas ele existe mundo afora e, infelizmente ganha muito espaço dia após dia
 dentro do seio da humanidade. De forma tão organizada pelo mal que seu aspecto –
 de abominável por Deus – ganha uma roupagem de algo natural, parte da evolução humana
@@ -50,4 +52,7 @@ para nós mesmos, ou seja, "que ele possa amar a Deus com um afeto
 perfeito" e como disse Jesus, renunciar a si mesmo (isso inclui as más paixões),
 tomar sua cruz dia após dia e segui-lo – Lucas 9,23.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

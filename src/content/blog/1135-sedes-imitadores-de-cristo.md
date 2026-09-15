@@ -4,7 +4,8 @@ date: 2015-09-22T14:33:00.002Z
 heroImage: "/images/posts/1135-sedes-imitadores-de-cristo-imitar_jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1135-sedes-imitadores-de-cristo-imitar_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1135-sedes-imitadores-de-cristo-imitar_jesus.png" width="320" height="221" data-original-width="750" data-original-height="518" /></a></div>
+![](/images/posts/1135-sedes-imitadores-de-cristo-imitar_jesus.png)
+
 </br>
 Assim nos recorda São Paulo em sua carta aos Coríntios. Ele, o Cristo que é o caminho, a verdade e a vida deixou bem claro em seus ensinamentos no evangelho, e em seus exemplos que precisamos sempre "pensar como Jesus pensou, agir como Jesus agiu, sorrir como Jesus sorriu, para sempre chegarmos ao fim do dia e podermos entregar nossas obras, no ensaio diário para a morte, de tudo aquilo que fizemos durante o dia e isso inclui nossas faltas e omissões.</br>
 </br>

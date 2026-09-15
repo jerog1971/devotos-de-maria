@@ -4,7 +4,11 @@ date: 2020-06-10T16:46:00.002Z
 heroImage: "/images/posts/1151-santa-olívia-Santa_Ol_25C3_25ADvia.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1151-santa-olívia-Santa_Ol_25C3_25ADvia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="443" data-original-width="378" height="320" src="/images/posts/1151-santa-olívia-Santa_Ol_25C3_25ADvia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Palermo, na Sicília, no século IX. Contava 13 anos
+<br />
+
+![](/images/posts/1151-santa-olívia-Santa_Ol_25C3_25ADvia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Palermo, na Sicília, no século IX. Contava 13 anos
 quando Genserico, rei dos vândalos, invadiu a Sicília. Feita prisioneira dos
 sarracenos, foi levada a Tunes e colocada à disposição de Amira, governador da
 cidade. Por não se entregar seus caprichos e paixões, Amira mandou açoita-la e

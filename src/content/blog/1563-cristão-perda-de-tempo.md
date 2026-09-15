@@ -4,7 +4,8 @@ date: 2015-12-09T10:50:00Z
 heroImage: "/images/posts/1563-cristão-perda-de-tempo-santa_terezinha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1563-cristão-perda-de-tempo-santa_terezinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1563-cristão-perda-de-tempo-santa_terezinha.png" width="316" height="320" data-original-width="349" data-original-height="353" /></a></div>
+![](/images/posts/1563-cristão-perda-de-tempo-santa_terezinha.png)
+
 </br>
 A uma sociedade que abandonou a fé e considera um "desperdício" ser cristão, a grande Santa Teresinha do Menino Jesus tem uma resposta a oferecer. Para ela, a "perda de tempo" dos que amam a Deus é o "santo desperdício" de quem ganha a eternidade!</br>
 </br>

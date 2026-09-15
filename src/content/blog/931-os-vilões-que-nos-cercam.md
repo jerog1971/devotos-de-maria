@@ -4,7 +4,8 @@ date: 2018-09-12T16:09:00.001Z
 heroImage: "/images/posts/931-os-vilões-que-nos-cercam-vil_25C3_25B5es.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/931-os-vilões-que-nos-cercam-vil_25C3_25B5es.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/931-os-vilões-que-nos-cercam-vil_25C3_25B5es.png" width="320" height="235" data-original-width="540" data-original-height="397" /></a></div>
+![](/images/posts/931-os-vilões-que-nos-cercam-vil_25C3_25B5es.png)
+
 Se ouvirmos a expressão vilão, podemos facilmente, rebobinarmos uma lista de personagens de ficção que representam o mal, a maldade e que efetivamente são inimigos e cruéis. Todo mundo já ouviu a expressão “o herói salva a mocinha das garras do vilão”. Podemos, também facilmente, atribuirmos uma série de “características e atitudes” próprias a estes personagens. No entanto, trazendo a coisa para o lado da realidade, algo interessante acontece. Entre nós seres humanos, existem também os vilões, reais e abstratos. Um diabético poderá dizer que “o açúcar em exagero é um vilão para ele”. Ou alguém poderá dizer que “o vilão causador daquele acidente de trânsito foi o consumo de álcool”.</br>
 </br>
 Como vemos, entendemos bem o que significa essa expressão e seus agravantes. E é neste ponto, transpondo o assunto para o cunho religioso, que moram os problemas. Sabemos em nossas vidas, físicas e espirituais, o que nos faz mal. Virtudes praticadas nos fazem bem e também ao próximo, contra virtudes praticadas nos fazem mal e também ao próximo. E detalhe, uma agrada a Deus e outra, conforme sua natureza, além de desagradar, ofende e rompe a amizade com ele. Qual a consequência disso? Qualquer um sabe, ficamos afastados das graças santificantes.</br>

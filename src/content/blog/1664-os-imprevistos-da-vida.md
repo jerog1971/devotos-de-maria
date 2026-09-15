@@ -4,7 +4,9 @@ date: 2021-06-16T15:08:00.004Z
 heroImage: "/images/posts/1664-os-imprevistos-da-vida-Imprevistos.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1664-os-imprevistos-da-vida-Imprevistos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1170" data-original-width="1560" src="/images/posts/1664-os-imprevistos-da-vida-Imprevistos.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como seria bom se a vida caminhasse dentro dos eixos, se
+![](/images/posts/1664-os-imprevistos-da-vida-Imprevistos.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Como seria bom se a vida caminhasse dentro dos eixos, se
 tudo saísse como planejado e se mudando de endereço as dificuldades não nos acompanhassem,
 mas, não é assim. Não podemos sequer em nossas vidas dar conta do planejado,
 quem dirá, do não planejado. Nem o minuto seguinte de nossas vidas temos
@@ -35,4 +37,7 @@ João 14,1 – “Não se perturbe o vosso coração. Credes em Deus, crede tamb
 mim”. E mais: Romanos 8,28 – “todas as coisas concorrem para o bem daqueles que
 amam a Deus, daqueles que são os eleitos, segundo os seus desígnios”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

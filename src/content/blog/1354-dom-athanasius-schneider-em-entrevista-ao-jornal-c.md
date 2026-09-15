@@ -4,13 +4,17 @@ date: 2020-05-26T16:12:00.001Z
 heroImage: "/images/posts/1354-dom-athanasius-schneider-em-entrevista-ao-jornal-c-AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1354-dom-athanasius-schneider-em-entrevista-ao-jornal-c-AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="230" data-original-width="304" src="/images/posts/1354-dom-athanasius-schneider-em-entrevista-ao-jornal-c-AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segue a matéria na íntegra com tradução feita pelo site
+<br />
+
+![](/images/posts/1354-dom-athanasius-schneider-em-entrevista-ao-jornal-c-AVvXsEh6qGVrAvrbUwu_XmiwpVhvsDiM36UfqSFyRIN4G8A5rgsM0TISBCf-SiMKgWjM9dtMNGMcg3XlFl1prW-J668lrjSq0uPnneG4FnmZZVGh-dIe-5Fv93aCa4aZPsMrCeEw4F7xg8NO0mQ.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segue a matéria na íntegra com tradução feita pelo site
 montfort.org.br:</p>
 
 <p class="MsoNormal">Diane Montagna (DM): Excelência, qual é a sua impressão
 geral sobre o modo como a Igreja está lidando com a epidemia de coronavírus?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">+ Athanasius Schneider: Minha impressão geral é que a
 maioria dos bispos reagiu precipitadamente e em pânico ao proibir todas as
@@ -19,7 +23,7 @@ Tais bispos reagiram mais como burocratas civis do que pastores. Ao se
 concentrarem exclusivamente em todas as medidas de proteção higiênicas, eles
 perderam a visão sobrenatural e abandonaram a primazia do bem eterno das almas.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: A diocese de Roma suspendeu rapidamente todas as missas
 públicas para cumprir as diretrizes do governo. Os bispos de todo o mundo
@@ -28,7 +32,7 @@ mais missas fossem celebradas para que a aglomeração fosse menor. Qual a sua
 opinião sobre a decisão de suspender as missas públicas para impedir a
 disseminação do coronavírus?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Enquanto os supermercados estiverem abertos e acessíveis e
 enquanto as pessoas tiverem acesso ao transporte público, não se vê uma razão
@@ -49,7 +53,7 @@ As igrejas são lugares onde as pessoas podem buscar a verdadeira cura, porque
 ali reside o Deus verdadeiro. Não tenha medo de louvar e buscar o rosto de Deus
 na igreja. ”<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Referindo-se à Eucaristia, o Presidente Magufuli também
 falou estas palavras encorajadoras: “O coronavírus não pode sobreviver no corpo
@@ -57,18 +61,18 @@ eucarístico de Cristo; em breve será queimado. Foi exatamente por isso que nã
 entrei em pânico ao receber a Santa Comunhão, porque sabia que com Jesus na
 Eucaristia, estou seguro. Este é o momento de construir nossa fé em Deus. ”<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: Vossa Excelência acha que é responsável um sacerdote
 celebrar uma missa particular com alguns fiéis leigos presentes, desde que
 sejam tomadas as devidas precauções de saúde?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">É responsável, e também meritório, e seria um autêntico ato
 pastoral, desde que o sacerdote tome as precauções sanitárias necessárias.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: Os padres estão em uma posição difícil nessa situação.
 Alguns bons padres estão sendo criticados por obedecer às diretrizes de seu
@@ -77,7 +81,7 @@ particular). Outros estão procurando maneiras criativas de ouvir confissões
 enquanto procuram proteger a saúde das pessoas. Que conselho você daria aos
 padres para viverem sua vocação nesses tempos?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Os padres devem lembrar que eles são, acima de tudo,
 pastores de almas imortais. Eles devem imitar a Cristo, que disse: “Eu sou o
@@ -95,20 +99,20 @@ um pequeno grupo, a celebração da Santa Missa e a recepção dos sacramentos. 
 era o comportamento pastoral de todos os padres confessores e mártires em
 tempos de perseguição.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: É legítimo que um padre desafie a autoridade,
 particularmente a autoridade eclesiástica (por exemplo, se um padre é instruído
 a não ir visitar os doentes e moribundos)?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Se um sacerdote é proibido por uma autoridade eclesiástica
 de visitar os doentes e moribundos, ele não pode obedecer. Essa proibição é um
 abuso de poder. Cristo não deu ao bispo o poder de proibir a visita de doentes
 e moribundos. Um verdadeiro padre fará todo o possível para visitar uma pessoa
 que está morrendo. Muitos padres o fizeram, mesmo quando isso significava
-colocar suas vidas em perigo, seja no caso de perseguição<span style="mso-spacerun: yes;">&nbsp; </span>ou de uma epidemia. Temos muitos exemplos
+colocar suas vidas em perigo, seja no caso de perseguição<span style="mso-spacerun: yes;">  </span>ou de uma epidemia. Temos muitos exemplos
 desses padres na história da Igreja. São Carlos Borromeu, por exemplo, deu a
 Santa Comunhão com as próprias mãos na língua de moribundos que estavam
 infectados pela peste. Em nossos dias, temos o exemplo emocionante e edificante
@@ -119,7 +123,7 @@ depois de desistir do ventilador, do qual precisava para sobreviver, e permitiu
 que ele fosse administrado a um paciente mais jovem. Não visitar os doentes e
 moribundos é o comportamento mais de um mercenário do que de um bom pastor.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: Vossa Excelência passou seus primeiros anos na Igreja
 subterrânea soviética. Que análise ou perspectiva gostaria de compartilhar com
@@ -127,7 +131,7 @@ os fiéis leigos que não podem assistir à missa e, em alguns casos, nem sequer
 podem passar um tempo diante do Santíssimo Sacramento, porque todas as igrejas
 em sua diocese foram fechadas?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Eu encorajaria os fiéis a fazerem frequentes atos de
 comunhão espiritual. Eles podem ler e meditar as leituras diárias da Missa e
@@ -138,7 +142,7 @@ com todos os cristãos que estão doentes e acamados, com todos os cristãos
 moribundos que são privados dos sacramentos. Deus preencherá este tempo de
 privação temporal da Santa Missa e do Santíssimo Sacramento com muitas graças.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: O Vaticano anunciou recentemente que as liturgias da
 Páscoa serão celebradas sem os fiéis presentes. Mais tarde, especificou que
@@ -146,7 +150,7 @@ está estudando “formas de implementação e participação que respeitam as m
 de segurança adotadas para impedir a disseminação do coronavírus”. Qual a sua
 opinião sobre essa decisão?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Dada a estrita proibição de reuniões de massa pelas
 autoridades governamentais italianas, pode-se entender que o Papa não possa
@@ -160,13 +164,13 @@ acender o fogo (novo), a bênção da água e o batismo na Vigília Pascal, como
 essas ações transmitissem um vírus. Um medo quase patológico superou o senso
 comum e a visão sobrenatural.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: Excelência, o que o modo como a Igreja está lidando com
 a epidemia de coronavírus revela sobre o estado atual da Igreja e,
 particularmente, da hierarquia?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Está revelando a perda da visão sobrenatural. Nas últimas
 décadas, muitos membros da hierarquia da Igreja têm se envolvido
@@ -182,13 +186,13 @@ seus fiéis da contaminação por um vírus material, permitiram tranquilamente 
 o vírus venenoso dos ensinamentos e práticas heréticos se espalhasse entre seus
 rebanhos.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: O cardeal Vincent Nichols disse recentemente que teremos
 uma nova fome pela Eucaristia depois que a epidemia de coronavírus terminar.
 Vossa Excelência concorda?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Espero que essas palavras sejam verdadeiras para muitos
 católicos. É uma experiência humana comum que a privação prolongada de uma
@@ -200,7 +204,7 @@ com o Santo dos Santos que passaram a considerá-lo algo comum e banal
 experimentem uma conversão espiritual e compreendam e tratem a Santa Eucaristia
 a partir de agora como coisa extraordinária e sublime.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: No domingo, 15 de março, o Papa Francisco foi rezar
 diante da imagem de (Nossa Senhora) Salus Populo Romani em Santa Maria Maggiore
@@ -208,9 +212,9 @@ e diante do milagroso Crucifixo instalado na igreja de San Marcelo al Corso.
 Vossa Excelência acha importante que bispos e cardeais realizem atos
 semelhantes de oração pública pelo fim do coronavírus?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
-<p class="MsoNormal">O exemplo do Papa Francisco pode encorajar<span style="mso-spacerun: yes;">&nbsp; </span>muitos bispos a atos semelhantes de
+<p class="MsoNormal">O exemplo do Papa Francisco pode encorajar<span style="mso-spacerun: yes;">  </span>muitos bispos a atos semelhantes de
 testemunho público de fé e oração e a sinais concretos de penitência que
 implorem a Deus pelo fim da epidemia. Pode-se recomendar que bispos e padres
 atravessem regularmente suas cidades, vilas e aldeias com o Santíssimo
@@ -219,13 +223,13 @@ fiéis (um, dois ou três), dependendo dos regulamentos do governo. Tais
 procissões com o Senhor Eucarístico transmitirão aos fiéis e aos cidadãos o
 consolo e a alegria de não estarem sozinhos em tempos de tribulação, de que o
 Senhor esteja verdadeiramente com eles, de que a Igreja é uma mãe que não
-esqueceu nem abandonou os filhos.<span style="mso-spacerun: yes;">&nbsp;
+esqueceu nem abandonou os filhos.<span style="mso-spacerun: yes;"> 
 </span>Poderia ser lançada uma corrente mundial de ostensórios carregando o
 Santíssimo Sacramento pelas ruas deste mundo. Tais mini-procissões
 eucarísticas, mesmo que sejam realizadas por apenas um bispo ou um sacerdote,
 implorarão graças de cura e conversão físicas e espirituais.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: O coronavírus eclodiu na China pouco depois do Sínodo da
 Amazônia. Alguns meios de comunicação acreditam firmemente que esse é um
@@ -233,7 +237,7 @@ castigo divino pela presença de Pachamama no Vaticano. Outros supõem que seja
 um castigo divino pelo acordo Vaticano-China. Vossa Excelência acha que alguma
 dessas posições é válida?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">A epidemia de coronavírus, na minha opinião, é sem dúvida
 uma intervenção divina para castigar e purificar o mundo pecaminoso e também a
@@ -248,7 +252,7 @@ os matou, vós pensais que eles eram mais culpados do que os outros habitantes
 de Jerusalém? Eu vos digo que não; e se vós não vos converterdes, todos
 perecereis da mesma maneira ».” (Lucas 13: 1-5)<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">A veneração do ídolo pagão de Pachamama dentro do Vaticano,
 com a aprovação do Papa, foi certamente um grande pecado de infidelidade ao
@@ -266,7 +270,7 @@ a idolatria e adultério (ver Ap 2:20), também pode ser entendida como um
 símbolo do mundo em nossos dias – com quem muitos da hierarquia da Igreja hoje
 estão flertando.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">As seguintes palavras de Cristo também permanecem válidas
 para o nosso tempo: “Aqueles que cometerem adultério com ela lançarei em grande
@@ -283,13 +287,13 @@ implicitamente relações sexuais fora de um casamento válido, permitindo que o
 chamados “divorciados e recasados ” vivendo como casados recebessem a Sagrada
 Comunhão.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: Vossa Excelência fez referência aos Evangelhos e ao
 livro do Apocalipse. A maneira como Deus tratou Seu povo escolhido no Antigo
 Testamento nos dá alguma ideia da situação atual?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">A epidemia de coronavírus causou uma situação dentro da
 Igreja que, a meu conhecimento, é única, ou seja, uma proibição quase mundial
@@ -299,7 +303,7 @@ situação atual é sem precedentes, no entanto, porque no nosso caso a proibiç
 do culto público foi emitida pelos bispos católicos, e até mesmo antes dos
 respectivos mandatos governamentais.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">De certa forma, a situação atual também pode ser comparada à
 cessação da adoração sacrificial do Templo de Jerusalém durante o cativeiro
@@ -322,7 +326,7 @@ grande misericórdia. Ó Senhor, ouvi; Ó Senhor, perdoai. Ó Senhor, prestai
 atenção e agi. Não demorai, por vosso próprio bem, ó meu Deus, porque vossa
 cidade e vosso povo são chamados pelo vosso nome ”(Dan 9: 11,18-19).<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: São Roberto Belarmino escreveu: “[São] sinais relativos
 à vinda do Anticristo … haverá a maior e a última perseguição, e também o
@@ -331,7 +335,7 @@ páginas 37-38). Vossa Excelência acha que aquilo a que ele se refere aqui é o
 que estamos testemunhando agora? É o começo do grande castigo profetizado no
 livro de Apocalipse?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">A situação atual fornece motivos razoáveis e ​​suficientes
 para pensar que estamos no início de um tempo apocalíptico, que inclui castigos
@@ -345,7 +349,7 @@ membros da hierarquia da Igreja não verem a situação atual como uma tribulaç
 como um castigo divino, ou seja, como uma “visita divina” no sentido bíblico.
 Essas palavras do Senhor também se aplicam a muitos membros do clero no meio da
 atual epidemia física e espiritual: “Tu não reconheceste o tempo em que foste
-visitada” (Lucas 19: 44). A situação atual dessa “prova de fogo” (ver<span style="mso-spacerun: yes;">&nbsp; </span>1 Pedro 4:12) deve ser levada a sério pelo
+visitada” (Lucas 19: 44). A situação atual dessa “prova de fogo” (ver<span style="mso-spacerun: yes;">  </span>1 Pedro 4:12) deve ser levada a sério pelo
 Papa e pelos bispos, a fim de levar a uma profunda conversão de toda a Igreja.
 Se isso não ocorrer, a mensagem da seguinte história de Soren Kierkegaard
 também será aplicável à nossa situação atual: “Um incêndio eclodiu nos bastidores
@@ -354,12 +358,12 @@ piada e aplaudiram. Ele repetiu; a aclamação foi ainda maior. Eu acho que é
 assim que o mundo chegará ao fim: aplausos gerais daqueles que acreditam que é
 uma piada. “<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">DM: Excelência, qual é o significado mais profundo por trás
 de tudo isso?<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">A situação da cessação pública da Santa Missa e da Santa
 Comunhão sacramental é tão única e séria que se pode descobrir por trás de tudo
@@ -382,7 +386,7 @@ inconscientemente para esses fiéis apenas uma espécie de pão ou símbolo
 sagrado. Agora, o Senhor interveio e privou quase todos os fiéis de assistir à
 Santa Missa e de receber sacramentalmente a Santa Comunhão.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Os inocentes e os culpados estão sofrendo esta tribulação
 juntos, pois no mistério da Igreja todos estão mutuamente unidos como membros:
@@ -395,7 +399,7 @@ o Espírito Santo toque o coração do Papa e dos bispos e leve-os a emitir norm
 litúrgicas concretas, a fim de que o culto eucarístico de toda a Igreja seja
 purificado e orientado novamente para o Senhor.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Pode-se sugerir que o Papa, juntamente com cardeais e
 bispos, realize um ato público de reparação em Roma pelos pecados contra a
@@ -408,7 +412,7 @@ prática da Comunhão na mão, pois a Igreja não pode continuar sem punição p
 tratar o Santo dos Santos na pequena Hóstia consagrada de uma maneira tão
 minimalista e displicente.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">A seguinte oração de Azarias na fornalha ardente, que todo
 sacerdote diz durante o ritual do ofertório da Missa, pode inspirar o Papa e os

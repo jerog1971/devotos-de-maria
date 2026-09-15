@@ -4,7 +4,9 @@ date: 2022-01-06T02:15:00.003Z
 heroImage: "/images/posts/817-jesus-disse-mude-de-vida-img-1039906672.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/817-jesus-disse-mude-de-vida-img-1039906672.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3120" data-original-width="4160" height="240" src="/images/posts/817-jesus-disse-mude-de-vida-img-2111756296.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em todo o ensinamento de Jesus, por mais que ele desdobre
+![](/images/posts/817-jesus-disse-mude-de-vida-img-2111756296.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Em todo o ensinamento de Jesus, por mais que ele desdobre
 suas palavras em muitas direções, abrangendo o comportamento das pessoas nas
 mais variadas situações e modos de vida, o salvador sempre aponta para um único
 cerne. Muito ele discursa sobre como Deus quer que seus filhos se comportem e
@@ -35,4 +37,7 @@ da própria alma. E não estamos a falar de idades cronológicas e sim de um
 amadurecimento verdadeiro e profundo na fé que promove o crescimento da alma no
 amor e santidade.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

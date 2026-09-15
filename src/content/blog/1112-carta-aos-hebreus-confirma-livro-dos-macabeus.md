@@ -4,7 +4,8 @@ date: 2016-08-09T12:35:00.001Z
 heroImage: "/images/posts/1112-carta-aos-hebreus-confirma-livro-dos-macabeus-hebreus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1112-carta-aos-hebreus-confirma-livro-dos-macabeus-hebreus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1112-carta-aos-hebreus-confirma-livro-dos-macabeus-hebreus.png" width="320" height="297" data-original-width="567" data-original-height="526" /></a></div>
+![](/images/posts/1112-carta-aos-hebreus-confirma-livro-dos-macabeus-hebreus.png)
+
 Hebreus 11,32-34 – “Que mais direi? Faltar-me-á o tempo, se falar de Gedeão, Barac, Sansão, Jefté, Davi, Samuel e dos profetas. Graças à sua fé conquistaram reinos, praticaram a justiça, viram se realizar as promessas. Taparam bocas de leões, extinguiram a violência do fogo, escaparam ao fio de espada, triunfaram de enfermidades, foram corajosos na guerra e puseram em debandada exércitos estrangeiros”.</br>
 </br>
 Em sua carta ao povo Hebreu, o apóstolo São Paulo faz uma bela catequese sobre o tema da fé no capítulo 11. Capítulo este inclusive indicado pelos papas para quem quiser compreender esse dom recebido dos céus. De forma histórica, o apóstolo vai demonstrando o “trabalho” da fé pelas épocas bíblicas. Vai também, com isso, nos fazendo perceber a importância de aprendermos de Deus, tudo que ele tem a nos ensinar através de “toda” a sagrada escritura, e não apenas, de alguns livros, ou daqueles livros que são mais “a nossa cara”.</br>

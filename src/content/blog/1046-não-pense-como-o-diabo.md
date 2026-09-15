@@ -4,7 +4,9 @@ date: 2023-11-07T18:44:00.002Z
 heroImage: "/images/posts/1046-não-pense-como-o-diabo-Que_20se_20dane.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1046-não-pense-como-o-diabo-Que_20se_20dane.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="253" height="274" src="/images/posts/1046-não-pense-como-o-diabo-Que_20se_20dane.png" width="253" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele tem suas filosofias e seu modo de pensar e agir. Segundo
+![](/images/posts/1046-não-pense-como-o-diabo-Que_20se_20dane.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ele tem suas filosofias e seu modo de pensar e agir. Segundo
 a palavra de Deus, quando chegar o fim dos tempos ele será derrotado de forma
 definitiva e banido para todo o sempre da existência humana. Até lá, vá
 entender os motivos divinos, temos que conviver com suas artimanhas. Digo vá
@@ -40,4 +42,4 @@ devemos virar nosso pensamento 180° e focar nas coisas do alto, colocando nosso
 coração no céu. Lembremos, onde está nosso coração aí está nosso tesouro, disse
 Jesus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p></p><div class="separator" style="clear: both; text-align: left;"><br /></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><div class="separator" style="clear: both; text-align: left;"><br /></div><br /> 

@@ -4,7 +4,9 @@ date: 2023-09-28T21:56:00.003Z
 heroImage: "/images/posts/1101-a-vida-termina-um-pouco-a-cada-dia-fim_20da_20vida.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1101-a-vida-termina-um-pouco-a-cada-dia-fim_20da_20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="377" height="282" src="/images/posts/1101-a-vida-termina-um-pouco-a-cada-dia-fim_20da_20vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, pensai constantemente em seus novíssimos e não pecareis.
+![](/images/posts/1101-a-vida-termina-um-pouco-a-cada-dia-fim_20da_20vida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, pensai constantemente em seus novíssimos e não pecareis.
 Este trecho retirado do livro do Eclesiástico nos atenta para o fato da
 realidade derradeira que todos irão passar; diga-se de passagem, já comentada
 por aqui, mas, nunca é demais, pois, até o próprio Cristo ensinou algumas
@@ -37,4 +39,7 @@ dirigir a nós no dia da morte e dizer: “eu avisei”, caso negligenciemos o q
 dele temos que aprender e colocar em prática. Disse-nos também que seremos
 felizes se dele aprendermos e vivermos o que nos transmitiu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

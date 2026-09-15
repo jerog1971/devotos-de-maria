@@ -4,7 +4,8 @@ date: 2019-09-06T16:49:00.001Z
 heroImage: "/images/posts/1985-vigiai-vigiai.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1985-vigiai-vigiai.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1985-vigiai-vigiai.png" width="320" height="289" data-original-width="429" data-original-height="387" /></a></div>
+![](/images/posts/1985-vigiai-vigiai.png)
+
 Não é o primeiro artigo que este site publica com a temática da vigilância, no entanto, a técnica aqui usada é a mesma que Jesus ensinou a todos: perseverança. Está em Mateus 10,22; a perseverança irá recompensar o perseverante com a coroa da glória eterna. Todavia, se mal usada também pode funcionar na contramão da situação. Basta sermos perseverantes no erro, nas maldades, no pecado para vermos onde isso vai acabar.</br>
 </br>
 O diabo gosta muito disso, que sejamos como ele, que perseveremos e não arredemos o pé; vale o que eu quero para mim e não o que Deus quer. Sujeito muito experto, vira e mexe falamos dele por aqui, aqui no site vinde-benditos ele não passa despercebido como quer que o mundo faça. Sua sutileza e disfarces tão brilhantemente apontados por Jesus e olha que Jesus ainda frisou: “estais de sobreaviso, eis que vos preveni de tudo”.</br>

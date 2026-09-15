@@ -4,7 +4,9 @@ date: 2020-12-22T16:26:00.003Z
 heroImage: "/images/posts/499-desafios-rotineiros-rotinas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/499-desafios-rotineiros-rotinas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="407" data-original-width="453" src="/images/posts/499-desafios-rotineiros-rotinas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ninguém escapa de viver algum tipo de rotina em sua vida.
+![](/images/posts/499-desafios-rotineiros-rotinas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ninguém escapa de viver algum tipo de rotina em sua vida.
 Algumas são inevitáveis, outras são queridas e desejadas, outras planejadas e
 ainda outras queremos para bem longe de nossas vidas. Administrar as vinte e
 quatro horas e tudo que queremos e precisamos fazer durante esse tempo é tarefa
@@ -42,4 +44,7 @@ pôs diante de ti a água e o fogo: estende a mão para aquilo que desejares. A
 vida e a morte, o bem e o mal estão diante do homem; o que ele escolher, isso
 lhe será dado”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

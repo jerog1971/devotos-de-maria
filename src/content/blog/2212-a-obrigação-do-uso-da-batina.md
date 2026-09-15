@@ -4,7 +4,8 @@ date: 2016-03-02T20:31:00.001Z
 heroImage: "/images/posts/2212-a-obrigação-do-uso-da-batina-batina.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2212-a-obrigação-do-uso-da-batina-batina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2212-a-obrigação-do-uso-da-batina-batina.png" width="320" height="188" data-original-width="474" data-original-height="278" /></a></div>
+![](/images/posts/2212-a-obrigação-do-uso-da-batina-batina.png)
+
 A realidade é esta: muitos sacerdotes usam o colarinho romano (ou o clergyman), enquanto outros se vestem como pessoas comuns. A norma é esta: "o hábito eclesiástico é obrigatório em circunstâncias normais".</br>
  </br>
 Será que esta norma – reafirmada nos últimos anos – está distante da realidade e se tornou, para alguns, uma lei sem sentido? Não há dúvida de que esta é uma questão controversa, mas será que se trata de uma mera formalidade ou é uma questão essencial? Até que ponto isso é importante?</br>

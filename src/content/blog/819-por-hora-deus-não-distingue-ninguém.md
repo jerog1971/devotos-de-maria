@@ -4,7 +4,9 @@ date: 2020-10-06T18:23:00.002Z
 heroImage: "/images/posts/819-por-hora-deus-não-distingue-ninguém-o_sol.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/819-por-hora-deus-não-distingue-ninguém-o_sol.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1040" data-original-width="780" height="320" src="/images/posts/819-por-hora-deus-não-distingue-ninguém-o_sol.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 5,44-48 – “Orai pelos que vos [maltratam e]
+![](/images/posts/819-por-hora-deus-não-distingue-ninguém-o_sol.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Mateus 5,44-48 – “Orai pelos que vos [maltratam e]
 perseguem. Deste modo sereis os filhos de vosso Pai do céu, pois ELE FAZ NASCER
 O SOL TANTO SOBRE OS MAUS COMO SOBRE OS BONS, e faz chover sobre os justos e
 sobre os injustos. Se amais somente os que vos amam, que recompensa tereis? Não
@@ -37,4 +39,7 @@ pois a luz de Deus nos iluminará. Ou seja, nada de sol para ninguém, a
 diferença é que para os condenados ele será substituído pelas trevas e para os
 eleitos será substituído por Deus. Nem existe comparação.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

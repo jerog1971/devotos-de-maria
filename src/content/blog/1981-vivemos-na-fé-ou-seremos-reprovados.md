@@ -4,7 +4,8 @@ date: 2019-07-10T15:28:00Z
 heroImage: "/images/posts/1981-vivemos-na-fé-ou-seremos-reprovados-viver_pela_f_25C3_25A9.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1981-vivemos-na-fé-ou-seremos-reprovados-viver_pela_f_25C3_25A9.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1981-vivemos-na-fé-ou-seremos-reprovados-viver_pela_f_25C3_25A9.png" width="320" height="251" data-original-width="358" data-original-height="281" /></a></div>
+![](/images/posts/1981-vivemos-na-fé-ou-seremos-reprovados-viver_pela_f_25C3_25A9.png)
+
 O cristianismo é o mistério da presença real de Jesus Ressuscitado ao nosso lado – Dom Divo Barsotti. Deveras, o exercício do cristianismo supõe uma comunidade e uma relação íntima com Deus, de modo que se pode viver constantemente na sua presença, “mesmo que minha fé seja tão pobre que eu não consiga reconhecê-la”.</br>
 </br>
 Mas como entender essa presença real de Jesus Ressuscitado? O capítulo 24 do Evangelho de São Lucas pode nos dar algumas pistas a esse respeito. Trata-se da passagem em que Jesus se encontra com os discípulos de Emaús e, abrindo-lhes a inteligência, revela-se como um Deus que caminha conosco, ainda que não reconheçamos a sua presença. Os discípulos de Emaús são, na verdade, os cristãos de todas épocas que, diante das dificuldades e das notícias más, terminam acabrunhados e desesperados. Jesus, por sua vez, concede-lhes a sua graça para que vejam e creiam outra vez.</br>

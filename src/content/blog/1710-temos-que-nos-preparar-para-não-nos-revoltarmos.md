@@ -4,7 +4,8 @@ date: 2019-08-19T16:05:00.002Z
 heroImage: "/images/posts/1710-temos-que-nos-preparar-para-não-nos-revoltado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1710-temos-que-nos-preparar-para-não-nos-revoltado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1710-temos-que-nos-preparar-para-não-nos-revoltado.png" width="310" height="320" data-original-width="295" data-original-height="305" /></a></div>
+![](/images/posts/1710-temos-que-nos-preparar-para-não-nos-revoltado.png)
+
 O tema da revolta é algo muito amplo e foco de muitos pontos de vista ou resumidamente podemos dizer que chega a ser um assunto polêmico. No entanto, pensando no bem estar de nossa alma, que deve caminhar rumo a sua salvação, o tema deve ser tratado com muita atenção, pois, no início de tudo, falando-se em bases cristãs, foi por uma revolta de um ser que queria ser como Deus, que todo o desenrolar que conhecemos começou.</br>
 </br>
 A revolta de quem se rebelou e desobedeceu promoveu sucessivas quedas e ainda, infelizmente, promove. A revolta deve ser combatida quando ela é sinal de perigo. Na bíblia lemos a história dos filhos cujo pai pediu ajuda, um disse que ajudaria, mas não o fez; o outro disse que não ajudaria, porém, depois o fez. Jesus quer uma resposta quando nos indaga quem fez a vontade do pai. Foi aquele que se revoltou inicialmente, mas retomou as rédeas, combateu.</br>

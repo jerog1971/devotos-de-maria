@@ -4,7 +4,9 @@ date: 2022-01-28T17:14:00.001Z
 heroImage: "/images/posts/1540-desobediência-e-pecado-por-que-são-ofensas-AVvXsEh6QVv6gZTn7TXZovIdRaopkTLBN65aqAGv11vGwdHjoARURUhKIBjamZ11edv83ekBCKhRBRmOKf62_XqGqJIm_pVIODNuVZD3wks0UuDWy0jVDi2osqw5jKk8B2jPm3QN8LXVh6yrTANn-9DM5JxOBO2f8ZB0xd0t01VQ2fGI6Nd1lbwvaLiya_hR_s417.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1540-desobediência-e-pecado-por-que-são-ofensas-AVvXsEh6QVv6gZTn7TXZovIdRaopkTLBN65aqAGv11vGwdHjoARURUhKIBjamZ11edv83ekBCKhRBRmOKf62_XqGqJIm_pVIODNuVZD3wks0UuDWy0jVDi2osqw5jKk8B2jPm3QN8LXVh6yrTANn-9DM5JxOBO2f8ZB0xd0t01VQ2fGI6Nd1lbwvaLiya_hR_s417.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="417" data-original-width="403" height="320" src="/images/posts/1540-desobediência-e-pecado-por-que-são-ofensas-AVvXsEh6QVv6gZTn7TXZovIdRaopkTLBN65aqAGv11vGwdHjoARURUhKIBjamZ11edv83ekBCKhRBRmOKf62_XqGqJIm_pVIODNuVZD3wks0UuDWy0jVDi2osqw5jKk8B2jPm3QN8LXVh6yrTANn-9DM5JxOBO2f8ZB0xd0t01VQ2fGI6Nd1lbwvaLiya_hR_s320.jpg" width="309" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O sujeito pode cair na tentação de procurar uma resposta para
+![](/images/posts/1540-desobediência-e-pecado-por-que-são-ofensas-AVvXsEh6QVv6gZTn7TXZovIdRaopkTLBN65aqAGv11vGwdHjoARURUhKIBjamZ11edv83ekBCKhRBRmOKf62_XqGqJIm_pVIODNuVZD3wks0UuDWy0jVDi2osqw5jKk8B2jPm3QN8LXVh6yrTANn-9DM5JxOBO2f8ZB0xd0t01VQ2fGI6Nd1lbwvaLiya_hR_s320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O sujeito pode cair na tentação de procurar uma resposta para
 essa questão; e ao não encontrar (por não procurar onde deve), tende a achar
 que Deus não é ofendido por causa de pecados e desobediência, e sim, por causa
 de blasfêmias (xingamentos). Afinal, não é assim que as pessoas fazem quando
@@ -37,4 +39,7 @@ conseguem permanecer definitivamente na vida da graça, só ao custo muito alto 
 muita penitência, contando é claro, com uma caminhada de mãos dadas com Jesus
 Cristo e sua mãe, Maria Santíssima.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-02-20T01:11:00.001Z
 heroImage: "/images/posts/1049-a-ruptura-da-fé-mesmo_20com_20f_C3_A9.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1049-a-ruptura-da-fé-mesmo_20com_20f_C3_A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="505" data-original-width="614" height="263" src="/images/posts/1049-a-ruptura-da-fé-mesmo_20com_20f_C3_A9.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O padre desiludido, a menina que tenta contatar espíritos e
+![](/images/posts/1049-a-ruptura-da-fé-mesmo_20com_20f_C3_A9.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O padre desiludido, a menina que tenta contatar espíritos e
 acaba possuída, o ator que sela um pacto pela fama, a família que perde sua fé
 por conta das assombrações da casa. A lição é bem semelhante ao Pecado
 Original: quem cai em tentação está sujeito aos horrores celestiais.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -35,4 +37,7 @@ mantenha. Pois, a fé deve nunca perecer, graças a ela a pessoa não se permite
 mover sua vida numa direção diferente daquela aberta, ensinada, apontada e trilhada
 por Jesus Cristo: o caminho da porta estreita.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

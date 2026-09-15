@@ -4,7 +4,8 @@ date: 2016-01-18T12:46:00Z
 heroImage: "/images/posts/1029-não-zombe-de-deus-inferno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1029-não-zombe-de-deus-inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1029-não-zombe-de-deus-inferno.png" width="312" height="320" data-original-width="285" data-original-height="292" /></a></div>
+![](/images/posts/1029-não-zombe-de-deus-inferno.png)
+
 </br>
 Gálatas 6,7-9</br>
 </br>

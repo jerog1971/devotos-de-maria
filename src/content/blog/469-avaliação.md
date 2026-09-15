@@ -4,7 +4,8 @@ date: 2019-05-10T17:53:00Z
 heroImage: "/images/posts/469-avaliação-img-1704329721.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/469-avaliação-img-1704329721.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/469-avaliação-img-251080601.png" width="316" height="320" data-original-width="230" data-original-height="233" /></a></div>
+![](/images/posts/469-avaliação-img-251080601.png)
+
 Se você precisa fazer uma escolha entre duas opções, seja lá o que for, você provavelmente irá fazer uma avaliação a respeito do que as duas lhe oferecem. Vai analisar os pontos positivos e negativos de cada uma, vantagens e desvantagens para, enfim, tomar a decisão que mais lhe pareça a correta.</br>
 </br>
 Quando queremos fazer alguma escolha sem avaliarmos primeiramente, agindo numa espécie de impulso, corremos o risco de não sermos felizes no intento. A maioria das pessoas já deve ter ouvido falar que “apressado come cru, que o barato sai caro, meteu os pés pelas mãos” e assim por diante. </br>

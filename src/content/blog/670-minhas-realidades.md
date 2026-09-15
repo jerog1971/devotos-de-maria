@@ -4,7 +4,9 @@ date: 2021-08-27T16:11:00.003Z
 heroImage: "/images/posts/670-minhas-realidades-minhas_realidades.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/670-minhas-realidades-minhas_realidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="546" height="319" src="/images/posts/670-minhas-realidades-minhas_realidades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, olhando para a vida que levamos podemos concluir
+![](/images/posts/670-minhas-realidades-minhas_realidades.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, olhando para a vida que levamos podemos concluir
 que somos pessoas que prestam ou que não prestam. Pessoas predominantemente
 boas, predominantemente ruins ou, pior ainda, pessoas intermediárias, nem boas
 e nem ruins. Porque dizemos “pior”, já paramos para refletir? A dica vem do próprio
@@ -35,4 +37,7 @@ felicidade e alegrias do paraíso, onde não haverá mais choro e ranger de dent
 (Mateus 8,12). Nesse dia, suspiraremos aliviados conscientes de que todo esforço
 na luta até o sangue contra o pecado (Hebreus 12,4) valeu a pena.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

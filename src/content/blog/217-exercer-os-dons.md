@@ -4,7 +4,9 @@ date: 2021-04-29T18:00:00.003Z
 heroImage: "/images/posts/217-exercer-os-dons-exercer_o_dom.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/217-exercer-os-dons-exercer_o_dom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="361" data-original-width="409" src="/images/posts/217-exercer-os-dons-exercer_o_dom.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Na vida a gente tem que fazer o que a gente sabe fazer”. “O
+![](/images/posts/217-exercer-os-dons-exercer_o_dom.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Na vida a gente tem que fazer o que a gente sabe fazer”. “O
 gato bebe leite, o rato come queijo e eu sou palhaço”. Duas frases que embasam
 uma das mensagens do filme nacional ‘O palhaço’ e que servem para uma reflexão
 voltada para a parte espiritual de nossas vidas. Elas se conectam e não podem
@@ -46,4 +48,7 @@ fez o personagem do filme, voltando para nossas raízes (delegadas por Deus), ou
 iremos fincar raízes em paragens muito distantes das moradas (João 14,2-3) que
 Jesus afirmou estarem sendo preparadas para os tementes a Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

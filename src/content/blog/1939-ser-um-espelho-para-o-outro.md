@@ -4,7 +4,8 @@ date: 2017-04-07T14:47:00.001Z
 heroImage: "/images/posts/1939-ser-um-espelho-para-o-outro-espelho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1939-ser-um-espelho-para-o-outro-espelho.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="628" height="260" src="/images/posts/1939-ser-um-espelho-para-o-outro-espelho.png" width="320" /></a></div>
+![](/images/posts/1939-ser-um-espelho-para-o-outro-espelho.png)
+
 Aprendei de mim que sou manso e humilde de coração – essa frase foi dita por Jesus Cristo. Ela está ligada diretamente com a necessidade que temos de ser como ele, de ser seus imitadores (1ª Coríntios 11,1). Se precisamos ser seus imitadores, se precisamos ser um reflexo do Cristo no mundo, precisamos, com toda a certeza, aprender com ele como são as coisas, aprender com ele como agir, aprender com ele o que fazer e o que não fazer, aprender com ele como nos comportar. Eu fico pensando no momento que Jesus disse essa frase, o aprendei de mim; que alívio deve ter sido para quem ouviu e acreditava em sua palavra e em sua pessoa, saber que o salvador da humanidade, ali, a poucos metros, o qual queriam até tocar, estava afirmando que ele compraria por cada um, qualquer “briga”, qualquer “bronca”, qualquer “angustia, qualquer “coisa”. Pois nos disse, que nos aliviará se o procurarmos. Então fica sempre a pergunta: por que é que as pessoas não procuram em primeiro lugar Jesus? Tentam resolver a vida e seus problemas por meios e recursos próprios e quando todas as tentativas se esgotam, não enxergam outra alternativa a não ser chorar suplicantes aos pés dele?
 <br />
 Porque não foram em primeiro lugar até ele? Vamos responder porque essa é bem fácil! O amor de Jesus e o seu cuidado para conosco possui duas verdades: ele é exigente e de nós exige conversão e renúncia, e ele é doloroso porque nos entrega seus frutos através de nossas cruzes. Como a dor é filha do amor, e ninguém gosta muito dessa tal de dor porque ela está anexada aos sofrimentos, então primeiro as pessoas buscam alternativas que sejam analgésicas, fáceis e que deem pouco ou nenhum trabalho, além de apresentarem resultados imediatos. Se aproximam de Jesus como se ele fosse um curandeiro, um bancário, um latifundiário, um empresário ou, como bem estamos percebendo, aproximam-se de Jesus com uma lista de pedidos e exigências achando que religião é um mecanismo que existe para Deus nos servir. Mas notem, essa aproximação é quando sobrou só ele para socorrer, ou mesmo que não se vá até ele por último, a lista de pedidos e exigências continua na mão. Pois bem, nada disso, através da religião nos ligamos a Deus e nos conformamos à sua vontade. Do contrário ela será um fardo pesado e cheia de proibições que nos ceifam a liberdade para viver livremente mundo afora.
@@ -14,6 +15,5 @@ Certos disso precisamos de um esforço violento, se almejamos o céu (Mateus 11,
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2017/03/partir-o-coracao-de-alguem.html" target="_blank">Partir o Coração de Alguém</a>
-
 
 fonte: Jefferson Roger

@@ -4,7 +4,9 @@ date: 2025-10-02T12:37:00.001Z
 heroImage: "/images/posts/1992-o-perigo-da-acomodação-cansado.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1992-o-perigo-da-acomodação-cansado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="167" data-original-width="172" height="167" src="/images/posts/1992-o-perigo-da-acomodação-cansado.png" width="172" /></a></div><br /><p></p><p style="line-height: 100%; margin-bottom: 0cm;">
+![](/images/posts/1992-o-perigo-da-acomodação-cansado.png)
+
+<br /><p style="line-height: 100%; margin-bottom: 0cm;">
 De conforto podemos dizer que a maioria das pessoas gostam, não
 podemos dizer sobre todas, mas o cenário aponta para um número que
 é considerável haja vista o mundo não se cansar de oferecer

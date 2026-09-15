@@ -4,7 +4,8 @@ date: 2018-11-06T18:36:00Z
 heroImage: "/images/posts/099-adolescentes-dispersos-adolescentes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/099-adolescentes-dispersos-adolescentes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/099-adolescentes-dispersos-adolescentes.png" width="318" height="320" data-original-width="393" data-original-height="395" /></a></div>
+![](/images/posts/099-adolescentes-dispersos-adolescentes.png)
+
 A fase da vida de muitas transformações e formação de identidade, com algumas crises aqui e ali, a adolescência, além de todas as transformações muito bem sabidas por todos, mas as vezes parece que não sabida pelos próprios, traz também algumas peculiaridades que envolvem a esfera espiritual, ou pelo menos a afeta.</br>
 </br>
 Num tempo em que o jovem quer experimentar muito do mundo e pouco do resto, não percebe a gravidade dessa prioridade concebida. Ele quer isso, quer aquilo, quer aquele outro; a vida oferece muita coisa e tempo, que é item escasso e muito valioso, não pode ser desperdiçado com o resto.</br>

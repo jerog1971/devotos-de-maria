@@ -4,11 +4,13 @@ date: 2022-09-26T20:21:00.001Z
 heroImage: "/images/posts/591-perseguições-persegui_C3_A7_C3_B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/591-perseguições-persegui_C3_A7_C3_B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="149" height="199" src="/images/posts/591-perseguições-persegui_C3_A7_C3_B5es.png" width="198" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div>Certamente todo mundo, arrisco dizer, já deve ter passado
+![](/images/posts/591-perseguições-persegui_C3_A7_C3_B5es.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div>Certamente todo mundo, arrisco dizer, já deve ter passado
 pela experiência de se perguntar: “o que será que fiz para Deus para merecer
 tudo isso”. Senão exatamente com estas palavras, com outras que significam a mesma
 coisa. Vive-se numa sensação de perseguição constante; mal termina um problema,
-começa outro. Mal resolvemos isso, aquilo se apresenta em nossas vidas.<p></p><p class="MsoNormal"><o:p></o:p></p>
+começa outro. Mal resolvemos isso, aquilo se apresenta em nossas vidas.<p class="MsoNormal"><o:p></o:p></p>
 
 <p class="MsoNormal">Que dureza, parece que vivemos só para apagar incêndios,
 matar um leão por dia, pagar hoje o que comemos ontem e a lista dos ditados

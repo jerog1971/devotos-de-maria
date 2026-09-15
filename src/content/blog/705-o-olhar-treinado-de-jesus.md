@@ -4,7 +4,8 @@ date: 2017-09-12T12:20:00Z
 heroImage: "/images/posts/705-o-olhar-treinado-de-jesus-ressequida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/705-o-olhar-treinado-de-jesus-ressequida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/705-o-olhar-treinado-de-jesus-ressequida.png" width="292" height="320" data-original-width="427" data-original-height="468" /></a></div>
+![](/images/posts/705-o-olhar-treinado-de-jesus-ressequida.png)
+
 Sedes imitadores de Cristo, assim lemos em Efésios 5,1 e 1ªCoríntios 11,1. Pois muito bem caro leitor, vamos concordar numa coisa, é difíiiicilllllll ser imitador de Cristo não é não?! Claro que é, qualquer um sabe disso e quantos desistem de imita-lo e abrem mão de “pagar o preço” para se entrar nos céus. Não entendam mal, pagar o preço aqui, significa estar disposto a viver tudo, eu disse “tudo” que Jesus nos propõe em seu evangelho. Tudo quer dizer, vou ter que me repetir: tudo!</br>
 </br>
 Tudo é 100% e não 99,9% e é nesse ponto que o diabo se mete no meio. Aquele sem vergonha. Ele entra com a tentação do exagero querendo convencer as pessoas a ficarem na superficialidade, na política do salário mínimo, na atitude rasa e descompromissada, alegando, aquele derrotado, que não é preciso tanto exagero afinal, Jesus já perdoou nossos pecados e Deus, é como um vovô, é como o papai noel e vai nos permitir entrar no paraíso até mesmo contra a nossa vontade. Ora, diz o diabo, ele não ensina na parábola do filho pródigo e do pai misericordioso que dá para se fazer farra e depois é só retornar que tudo bem?</br>

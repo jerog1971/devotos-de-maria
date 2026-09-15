@@ -4,7 +4,9 @@ date: 2022-06-09T15:17:00.003Z
 heroImage: "/images/posts/1543-ninguém-aprende-esquecendo-ningu_C3_A9m_20aprende_20esquecendo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1543-ninguém-aprende-esquecendo-ningu_C3_A9m_20aprende_20esquecendo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="226" data-original-width="207" height="226" src="/images/posts/1543-ninguém-aprende-esquecendo-ningu_C3_A9m_20aprende_20esquecendo.png" width="207" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De fato, todos podem reconhecer que aprendemos praticando;
+![](/images/posts/1543-ninguém-aprende-esquecendo-ningu_C3_A9m_20aprende_20esquecendo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">De fato, todos podem reconhecer que aprendemos praticando;
 todavia, neste ato de praticar, algumas vezes acertamos e outras vezes erramos.
 Então, podemos corretamente dizer que aprendemos com os erros. No entanto, uma
 coisa é certa e nunca deve passar despercebida: ninguém aprende esquecendo.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -34,4 +36,7 @@ tão somente aprender com o mal as abomináveis alegrias do mundo e vale sempre
 lembrar: “Adúlteros, não sabeis que o amor do mundo é abominado por Deus? Todo
 aquele que quer ser amigo do mundo constitui-se inimigo de Deus” – Tiago 4,4.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

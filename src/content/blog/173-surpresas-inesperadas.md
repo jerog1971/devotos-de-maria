@@ -4,7 +4,9 @@ date: 2024-08-16T20:43:00.003Z
 heroImage: "/images/posts/173-surpresas-inesperadas-surpresas_20inesperadas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/173-surpresas-inesperadas-surpresas_20inesperadas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="285" data-original-width="471" height="194" src="/images/posts/173-surpresas-inesperadas-surpresas_20inesperadas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em meio ao já esperado comportamento do personagem Deadpool
+![](/images/posts/173-surpresas-inesperadas-surpresas_20inesperadas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Em meio ao já esperado comportamento do personagem Deadpool
 em seu terceiro filme, onde a tão aguardada participação de Wolverine era
 ansiosamente pelos fãs, contada de forma regressiva, o desenrolar do filme foi
 presenteando os espectadores com aparições de alguns atores que reviveram personagens
@@ -39,4 +41,7 @@ com os momentos em que Deus toca em nossas vidas e nos faz sentir que ele não
 se esquece de cada um, que nos ama profundamente e que nos espera em sua
 eternidade, na felicidade do paraíso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

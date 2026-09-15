@@ -4,7 +4,9 @@ date: 2022-03-22T18:52:00.001Z
 heroImage: "/images/posts/1602-deus-me-deixa-confuso-sofrimento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1602-deus-me-deixa-confuso-sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="/images/posts/1602-deus-me-deixa-confuso-sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Olha só pessoal, arrisco dizer que possivelmente todo mundo
+![](/images/posts/1602-deus-me-deixa-confuso-sofrimento.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Olha só pessoal, arrisco dizer que possivelmente todo mundo
 passe alguma vez na vida pela sensação de que Deus quer de nós coisas ambíguas.
 De fato, ele surpreende a todos e nem os grandes santos escaparam da sensação
 de achar uma coisa a seu respeito e descobrirem que ele é e age diferente do
@@ -46,4 +48,7 @@ inimigo quer que pensemos que Deus não nos quer como filhos e sim como servos.
 Temos, como sempre dizemos por aqui, que escolher o lado: o que aprendemos com
 Deus ou o que aprendemos com o demônio.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

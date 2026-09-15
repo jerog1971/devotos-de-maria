@@ -4,7 +4,9 @@ date: 2020-10-19T14:02:00.004Z
 heroImage: "/images/posts/049-uma-vida-cheia-de-cobranças-cobran_25C3_25A7as.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/049-uma-vida-cheia-de-cobranças-cobran_25C3_25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="601" src="/images/posts/049-uma-vida-cheia-de-cobranças-cobran_25C3_25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A sociedade tem disso: cobra muito. O indivíduo para se
+![](/images/posts/049-uma-vida-cheia-de-cobranças-cobran_25C3_25A7as.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A sociedade tem disso: cobra muito. O indivíduo para se
 inserir nela e galgar degraus desejados precisa submeter-se ao regime das cobranças.
 Fala-se aqui das cobranças financeiras, morais, cívicas, contratuais, acadêmicas
 e por aí vai. E a coisa acaba virando um efeito cascata. O mundo capitalizado
@@ -33,4 +35,7 @@ relembrar. Eclesiastes 12,13-14 – “Tudo bem entendido, teme a Deus e observa
 seus preceitos, é este o dever de todo homem. Deus fará prestar contas de tudo
 o que está oculto, todo ato, seja ele bom ou mau”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

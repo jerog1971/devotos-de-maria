@@ -4,7 +4,9 @@ date: 2021-03-12T14:40:00.003Z
 heroImage: "/images/posts/467-isso-não-tem-futuro-sem_futuro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/467-isso-não-tem-futuro-sem_futuro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="405" src="/images/posts/467-isso-não-tem-futuro-sem_futuro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando as pessoas falam sobre acontecimentos vindouros – o chamado
+![](/images/posts/467-isso-não-tem-futuro-sem_futuro.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quando as pessoas falam sobre acontecimentos vindouros – o chamado
 futuro – fazem uma verdadeira viagem em relação a essa realidade inerente a
 todo ser humano. É desconcertante pensar sobre o futuro, o instante em que
 vivemos, o presente, instante após já se tornou passado e nesse mesmo instante
@@ -43,4 +45,7 @@ realidade dá sim, mas um futuro ruim – subentende-se. E frente a isso como ag
 as pessoas? Escolhem “pagar para ver” e adotam esse estilo de vida até que seja
 tarde demais e a realidade do tempo não exista mais por causa da morte.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

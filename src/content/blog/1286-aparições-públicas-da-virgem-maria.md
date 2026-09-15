@@ -4,7 +4,9 @@ date: 2021-01-19T15:13:00.001Z
 heroImage: "/images/posts/1286-aparições-públicas-da-virgem-maria-Vidente_Mirjana.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1286-aparições-públicas-da-virgem-maria-Vidente_Mirjana.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="328" data-original-width="369" src="/images/posts/1286-aparições-públicas-da-virgem-maria-Vidente_Mirjana.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sabido pela humanidade que a mando de Deus, Nossa Senhora
+![](/images/posts/1286-aparições-públicas-da-virgem-maria-Vidente_Mirjana.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É sabido pela humanidade que a mando de Deus, Nossa Senhora
 tem durante os anos da existência humana neste vale de lágrimas, aparecido em
 muitos lugares do mundo para recordar os homens sobre o que é necessário viver
 e saber para que um dia possam viver a felicidade eterna no reino de Deus.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -39,4 +41,7 @@ vamos recordar? Marcos 13,23 – “Ficai de sobreaviso. Eis que vos preveni de
 tudo”. Marcos 13,33 – “Ficai de sobreaviso, vigiai; porque não sabeis quando
 será o tempo”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

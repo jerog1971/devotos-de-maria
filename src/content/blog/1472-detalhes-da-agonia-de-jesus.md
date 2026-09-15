@@ -4,12 +4,14 @@ date: 2025-12-18T13:35:00Z
 heroImage: "/images/posts/1472-detalhes-da-agonia-de-jesus-agonia_20de_20jesus.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1472-detalhes-da-agonia-de-jesus-agonia_20de_20jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="262" height="320" src="/images/posts/1472-detalhes-da-agonia-de-jesus-agonia_20de_20jesus.png" width="257" /></a></div>“Chegada a hora da Paixão de meu Filho, seus inimigos o prenderam 
+![](/images/posts/1472-detalhes-da-agonia-de-jesus-agonia_20de_20jesus.png)
+
+“Chegada a hora da Paixão de meu Filho, seus inimigos o prenderam 
 dando-lhe golpes em seu pescoço e em seu rosto e, cuspindo nele, o 
 escarneciam. Além de o despirem, prenderam suas mãos em uma coluna 
 atando-as sem misericórdia e, assim, se encontrando com esta sorte, nu 
 por completo, padeceu a vergonha de sua nudez.<br />
-<p></p><div>
+<div>
 <br />
 Diante de seus amigos, seus inimigos que o cercaram e começaram a 
 açoitar seu puríssimo e santíssimo corpo. Ao primeiro açoite, eu, que em
@@ -142,9 +144,9 @@ permaneceram abertos. E por último, O colocaram no sepulcro.”<br />
 <br />
 “Ama-me de todo coração, pois eu lhe tenho amado tanto que com prazer me
  entreguei por você a meus inimigos por própria e livre vontade e minha 
-Mãe e amigos&nbsp;entregaram-se juntos a uma amarguíssima dor e pranto. 
+Mãe e amigos entregaram-se juntos a uma amarguíssima dor e pranto. 
 Quando vi a lança, os cravos e os açoites e os demais instrumentos de 
-minha Paixão, ainda assim me&nbsp;coloquei a sofrer com alegria. Quando minha
+minha Paixão, ainda assim me coloquei a sofrer com alegria. Quando minha
  cabeça sangrava por todas as partes desde a coroação de espinhos, 
 assim, então, meus inimigos se apoderaram de meu coração, preferiria que
  o fizessem e o despedaçassem ao ter que perdê-la. Portanto, você seria 
@@ -160,7 +162,7 @@ Minhas mãos foram estendidas e atravessadas com os cravos, por isso suas
  obras, que são representadas pelas mãos, devem estender-se aos pobres e
  a cumprir meus mandamentos. Teus pés, isto é, os afetos com que você 
 deve vir a mim, devem ser crucificados afastando-se de todos os 
-deleites&nbsp;mundanos para que, assim, como eu padeci em todos os meus 
+deleites mundanos para que, assim, como eu padeci em todos os meus 
 membros, de igual sorte, todos os seus se ocupem do meu serviço, porque 
 dando-lhe mais graças que aos outros, quero que me sirva mais que a 
 eles”.<br />
@@ -187,7 +189,7 @@ morte e que sua amargura se prolongasse ainda mais no cúmulo de sua dor.
  cabeça, que ia para trás a todo momento, pareceu erguer-se de uma 
 maneira diferente. Abriu levemente seus olhos semifechados e por vez 
 abriu sua boca de forma que pude ver sua língua ensangüentada. Seus 
-dedos e braços, que estavam muito contraídos, se esticaram.&nbsp;</div>
+dedos e braços, que estavam muito contraídos, se esticaram. </div>
 <div>
 <br /></div>
 <div>
@@ -240,4 +242,7 @@ tristeza foi misturada com uma medida de alegria. Eu realmente posso
 dizer que existe dois corações na sepultura que meu Filho foi enterrado.
  Não é dito que: ‘Onde seu tesouro está, também está seu coração? Da 
 mesma forma, meu coração e minha mente estavam sempre na sepultura do 
-meu Filho.</div></div><p>Fonte: adaptado de https://vashonorabile.blogspot.com</p>
+meu Filho.</div></div>
+
+Fonte: adaptado de https://vashonorabile.blogspot.com
+

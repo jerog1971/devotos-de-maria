@@ -4,7 +4,9 @@ date: 2020-11-30T13:24:00.002Z
 heroImage: "/images/posts/376-bastaria-seguir-a-lei-maior-lei_do_amor.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/376-bastaria-seguir-a-lei-maior-lei_do_amor.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="350" src="/images/posts/376-bastaria-seguir-a-lei-maior-lei_do_amor.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Atentando-se apenas ao âmbito religioso, especificamente ao
+![](/images/posts/376-bastaria-seguir-a-lei-maior-lei_do_amor.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Atentando-se apenas ao âmbito religioso, especificamente ao
 meio cristão, infelizmente a necessidade humana de prevalecer ao seu favor tudo
 que for possível, por meio de jogo de palavras e variadas interpretações –
 algumas ridículas – o ser humano incansavelmente faz adaptações e largos
@@ -46,4 +48,7 @@ se resumem toda a lei e os profetas”. Enquanto a vivência desse amor não pre
 totalmente os corações, as leis humanas tentam fragilmente completar o que lhe
 falta indo na contramão do que o Cristo e sua mãe afirmaram.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

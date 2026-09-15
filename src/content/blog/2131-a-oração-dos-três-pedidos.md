@@ -4,7 +4,9 @@ date: 2021-12-20T20:22:00.003Z
 heroImage: "/images/posts/2131-a-oração-dos-três-pedidos-img-1167451429.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2131-a-oração-dos-três-pedidos-img-1167451429.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="254" data-original-width="234" height="254" src="/images/posts/2131-a-oração-dos-três-pedidos-img-1189344224.jpg" width="234" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano, pelo que se sabe espiritualmente falando, é o
+![](/images/posts/2131-a-oração-dos-três-pedidos-img-1189344224.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ser humano, pelo que se sabe espiritualmente falando, é o
 maior dos alvos ambulantes que existe na face da terra. Acho que todo mundo pode
 concordar que ele é submetido a uma imensa variedade de desafios das mais
 variadas naturezas. Se ele não estiver com boa saúde em alguma área de sua
@@ -37,4 +39,7 @@ mergulhando numa vida que agrade a Deus, conseguirá, com a ajuda de Jesus (Joã
 certeza de que Deus não desampara seus filhos que o buscam com um coração
 sincero e o desejo de servi-lo e seguir seus mandamentos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

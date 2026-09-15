@@ -4,7 +4,8 @@ date: 2016-08-11T13:55:00.001Z
 heroImage: "/images/posts/2221-é-ultrapassado-falar-de-pecado-mort-pecado_mortal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2221-é-ultrapassado-falar-de-pecado-mort-pecado_mortal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2221-é-ultrapassado-falar-de-pecado-mort-pecado_mortal.png" width="320" height="291" data-original-width="569" data-original-height="518" /></a></div>
+![](/images/posts/2221-é-ultrapassado-falar-de-pecado-mort-pecado_mortal.png)
+
 Afinal de contas, não estará "ultrapassado" falar de pecado mortal?</br>
 </br>
 Os que se fazem essa pergunta, presente na boca de não pouca gente, supõem — quase sempre sem o saber — que também está "ultrapassado" falar de vida eterna, do destino perpétuo que nos aguarda para além do sepulcro. Com efeito, quando a Igreja ensina a seus filhos a gravidade dos pecados mortais, ela não está referindo-se à morte natural do corpo, mas antes a algo muitíssimo pior e decisivo, ou seja: à morte eterna da alma. No entanto, para bem entendermos este problema, convém fazer algumas precisões iniciais.</br>

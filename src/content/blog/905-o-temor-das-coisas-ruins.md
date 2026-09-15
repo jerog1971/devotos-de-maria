@@ -4,7 +4,9 @@ date: 2022-04-18T15:10:00.003Z
 heroImage: "/images/posts/905-o-temor-das-coisas-ruins-img-198770039.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/905-o-temor-das-coisas-ruins-img-198770039.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="602" data-original-width="570" height="320" src="/images/posts/905-o-temor-das-coisas-ruins-img-707010530.png" width="303" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente o ser humano teme por si e por aqueles que ama. Não
+![](/images/posts/905-o-temor-das-coisas-ruins-img-707010530.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente o ser humano teme por si e por aqueles que ama. Não
 quer a dor e o sofrimento em sua vida, tampouco na vida dos familiares e dos
 seus próximos. E por querer que coisas ruins não lhe aconteçam toma os devidos
 cuidados para que os agraves de categoria séria não integrem sua existência.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -34,4 +36,7 @@ ruins aconteçam em sua vida, precisa ser mais honesto e não só teme-las, prec
 evita-las e não as procurar (ocasiões de pecado), pois o mal está aí, à solta
 como um leão a espreita procurando a quem dar o bote – 1ª Pedro 5,8.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

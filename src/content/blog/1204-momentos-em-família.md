@@ -4,7 +4,9 @@ date: 2021-11-16T18:28:00.004Z
 heroImage: "/images/posts/1204-momentos-em-família-Momentos_em_fam_25C3_25ADlia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1204-momentos-em-família-Momentos_em_fam_25C3_25ADlia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1422" data-original-width="930" height="320" src="/images/posts/1204-momentos-em-família-Momentos_em_fam_25C3_25ADlia.png" width="209" /></a></div><br /><p></p><p class="MsoNormal">Jesus Cristo veio para anunciar a paz a vós que estáveis
+![](/images/posts/1204-momentos-em-família-Momentos_em_fam_25C3_25ADlia.png)
+
+<br /><p class="MsoNormal">Jesus Cristo veio para anunciar a paz a vós que estáveis
 longe, e a paz também àqueles que estavam perto; porquanto é por ele que ambos
 temos acesso junto ao Pai num mesmo espírito. Consequentemente, já não sois
 hóspedes nem peregrinos, mas sois concidadãos dos santos e membros da família
@@ -35,5 +37,4 @@ certamente sim, ficamos felizes com a felicidade deles porque ela brotou das bê
 do céu.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

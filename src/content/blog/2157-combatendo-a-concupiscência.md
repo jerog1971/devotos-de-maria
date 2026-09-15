@@ -4,7 +4,9 @@ date: 2021-04-26T21:41:00.002Z
 heroImage: "/images/posts/2157-combatendo-a-concupiscência-concupisc_25C3_25AAncia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2157-combatendo-a-concupiscência-concupisc_25C3_25AAncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="341" src="/images/posts/2157-combatendo-a-concupiscência-concupisc_25C3_25AAncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Feliz o homem que suporta a tentação. Porque, depois de
+![](/images/posts/2157-combatendo-a-concupiscência-concupisc_25C3_25AAncia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Feliz o homem que suporta a tentação. Porque, depois de
 sofrer a provação, receberá a coroa da vida que Deus prometeu aos que o amam.
 Ninguém, quando for tentado, diga: É Deus quem me tenta. Deus é inacessível ao
 mal e não tenta a ninguém. Cada um é tentado pela sua própria concupiscência,
@@ -36,4 +38,7 @@ ao ponto de Jó descrever a vida como uma luta diária, é alvo de atenção
 constante; do contrário, cedendo a ele, seremos transformados, por nossa culpa,
 em inimigos de Deus (Tiago 4,4).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2024-03-19T20:09:00.007Z
 heroImage: "/images/posts/873-resoluções-perigosas-img-1952907902.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/873-resoluções-perigosas-img-1952907902.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="300" height="300" src="/images/posts/873-resoluções-perigosas-img-1283545416.png" width="300" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Talvez você não saiba, caro leitor, mas até enquanto
+![](/images/posts/873-resoluções-perigosas-img-1283545416.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Talvez você não saiba, caro leitor, mas até enquanto
 dormimos e mesmo sobre os olhares bem despertos das famílias, a incansável
 agenda da morte, apontada com dedo em riste pelo Papa João Paulo II, sempre
 está a empurrar um pouquinho mais, mas bem homeopaticamente, suas intenções
@@ -45,4 +47,7 @@ de ser cobrado pela sua omissão frente ao pecado e ao erro. Já passou da hora
 de escolhermos e defender o lado escolhido, lutando contra aquilo que é
 contrário a tudo que Deus quer, ensinou, pede e espera de cada um.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

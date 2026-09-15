@@ -4,7 +4,11 @@ date: 2020-06-02T21:20:00.001Z
 heroImage: "/images/posts/992-meu-coração-dói-img-386978517.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/992-meu-coração-dói-img-386978517.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="213" src="/images/posts/992-meu-coração-dói-img-386978517.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Meu coração dói quando vejo a verdade dos evangelhos ser
+<br />
+
+![](/images/posts/992-meu-coração-dói-img-386978517.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Meu coração dói quando vejo a verdade dos evangelhos ser
 corrompida,</p>
 
 <p class="MsoNormal">Ele dói quando ela é transformada, travestida.</p>
@@ -13,7 +17,7 @@ corrompida,</p>
 
 <p class="MsoNormal">Uma ofensa de alguém que não está arrependido.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Nem pode arrepender-se, porque vive uma outra verdade,</p>
 
@@ -23,7 +27,7 @@ corrompida,</p>
 
 <p class="MsoNormal">Mas que são capazes apenas de os conduzir ao abismo.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Difícil como disse Jesus, é sair desse estado,</p>
 
@@ -33,7 +37,7 @@ corrompida,</p>
 
 <p class="MsoNormal">Num amor com Deus e de infinito laço.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">E isso é um grande pesar, que faz o coração doer,</p>
 
@@ -43,7 +47,7 @@ corrompida,</p>
 
 <p class="MsoNormal">Precisam de plateia para satisfazer suas necessidades.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Meu coração dói, porque não quero ser assim como eles,</p>
 
@@ -55,7 +59,7 @@ encarnada.</p>
 <p class="MsoNormal">Quem ouve minhas palavras e as pratica, esse me ama e terá a
 vida eterna.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">E essa dor eu quero sentir</p>
 

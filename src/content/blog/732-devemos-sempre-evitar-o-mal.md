@@ -4,7 +4,9 @@ date: 2021-12-06T16:24:00.001Z
 heroImage: "/images/posts/732-devemos-sempre-evitar-o-mal-img-1757511441.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/732-devemos-sempre-evitar-o-mal-img-1757511441.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="539" height="261" src="/images/posts/732-devemos-sempre-evitar-o-mal-img-1757509479.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As famosas ocasiões de perigo; todo mundo já ouviu falar
+![](/images/posts/732-devemos-sempre-evitar-o-mal-img-1757509479.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">As famosas ocasiões de perigo; todo mundo já ouviu falar
 sobre elas. São situações onde a probabilidade de coisas ruins acontecerem
 conosco é maior do que o normal. Sabemos que o perigo está em toda a parte,
 mas, de forma mais especial, ele ronda por setores da nossa vida com maior
@@ -35,4 +37,7 @@ o diálogo com ele, pois, como lemos em Provérbios 16,17 – “O caminho dos
 corretos consiste em evitar o mal; o que vigia seu procedimento conserva sua
 vida”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

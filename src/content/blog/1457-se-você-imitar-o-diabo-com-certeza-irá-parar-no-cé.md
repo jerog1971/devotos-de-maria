@@ -4,7 +4,8 @@ date: 2019-06-28T15:28:00Z
 heroImage: "/images/posts/1457-se-você-imitar-o-diabo-com-certeza-irá-parar-no-cé-diabo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1457-se-você-imitar-o-diabo-com-certeza-irá-parar-no-cé-diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1457-se-você-imitar-o-diabo-com-certeza-irá-parar-no-cé-diabo.png" width="302" height="320" data-original-width="290" data-original-height="307" /></a></div>
+![](/images/posts/1457-se-você-imitar-o-diabo-com-certeza-irá-parar-no-cé-diabo.png)
+
 Pessoal, é isso mesmo que vocês leram no título do artigo. Muitos não percebem mas existe nas atitudes do demônio um grande exemplo que pode ser seguido por qualquer pessoa sem medo algum de no dia de seu juízo ser condenado ao fogo do inferno. Não é preciso ter medo algum pois o fato realmente se sustenta e iremos comprovar com esta pequena reflexão que é possível sim, servir-se de seu exemplo e ainda no final da vida galgar os degraus que nos permitirão passar pela porta do céu.</br>
 </br>
 Como todos nós sabemos a bíblia nos diz que o diabo ronda as pessoas como um leão à espreita esperando a oportunidade de encontrar sua vítima desatenta par dar o seu bote. Sabemos também que ele nos tenta até o último momento de vida; por isso na oração da Ave-Maria pede-se pelo auxílio na hora derradeira. O diabo nos odeia com o máximo do ódio que ele pode nutrir contra nós. Ele já está fazendo o seu máximo para alcançar o seu objetivo que é o de levar as almas para o inferno. Ele é incansável e gasta todo o seu tempo no esforço para conseguir seu intento.</br>

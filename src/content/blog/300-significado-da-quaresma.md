@@ -4,7 +4,8 @@ date: 2018-02-23T15:30:00Z
 heroImage: "/images/posts/300-significado-da-quaresma-quaresma.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/300-significado-da-quaresma-quaresma.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/300-significado-da-quaresma-quaresma.png" width="320" height="270" data-original-width="315" data-original-height="266" /></a></div>
+![](/images/posts/300-significado-da-quaresma-quaresma.png)
+
 </br>
 Na quarta-feira de Cinzas, o cristão recebe uma cruz na fronte com as cinzas obtidas da queima das palmas usadas no Domingo de Ramos do ano anterior. Esta tradição da Igreja ficou como simples serviço em algumas igrejas protestantes, como a anglicana e a luterana. A Igreja Ortodoxa começa a Quaresma a partir da segunda-feira anterior e não celebra a Quarta-feira de Cinzas. Saiba mais sobre a Cerimônia das Cinzas na Igreja Católica, a única instituída diretamente por Nosso Senhor Jesus Cristo, lendo este artigo.</br>
 </br>

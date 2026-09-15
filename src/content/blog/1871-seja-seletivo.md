@@ -4,7 +4,9 @@ date: 2025-06-30T20:48:00.004Z
 heroImage: "/images/posts/1871-seja-seletivo-Seja_20Seletivo.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1871-seja-seletivo-Seja_20Seletivo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="389" data-original-width="429" height="290" src="/images/posts/1871-seja-seletivo-Seja_20Seletivo.png" width="320" /></a></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">
+![](/images/posts/1871-seja-seletivo-Seja_20Seletivo.png)
+
+<p style="line-height: 100%; margin-bottom: 0cm;">
 Isso só irá lhe fazer bem! Até porque, lendo com bastante atenção
 as sagradas escrituras, em várias passagens vemos ensinamentos que
 apontam nessa direção. Sim, isso mesmo, é preciso ser uma pessoa
@@ -43,4 +45,6 @@ entrarmos na fila da esquerda, lugar dos que precipitarão para a
 danação eterna.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
 Roger</p>
-<p><br /></p>
+
+<br />
+

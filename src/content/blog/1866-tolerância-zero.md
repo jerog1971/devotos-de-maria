@@ -4,7 +4,9 @@ date: 2021-09-24T19:58:00.003Z
 heroImage: "/images/posts/1866-tolerância-zero-toler_25C3_25A2ncia_zero.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1866-tolerância-zero-toler_25C3_25A2ncia_zero.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="471" data-original-width="551" height="274" src="/images/posts/1866-tolerância-zero-toler_25C3_25A2ncia_zero.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na carta aos romanos 1,28-32, o apóstolo descreve uma lista
+![](/images/posts/1866-tolerância-zero-toler_25C3_25A2ncia_zero.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na carta aos romanos 1,28-32, o apóstolo descreve uma lista
 com vinte tipos de pecadores condenados. Depois, no início do próximo capítulo,
 vem o “puxão de orelha” ao exortar o leitor a respeito de uma atitude intolerante,
 julgando com rigidez o próximo quando se esquece algumas qualidades de Deus: “Assim,
@@ -35,4 +37,7 @@ feito a nossa imagem e semelhança e sim o contrário. Todavia, a tolerância ze
 contra os ataques do demônio devemos agir com tolerância zero, não concedendo
 margem para que ele consiga tempo nosso para promover suas ofertas de perdição.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

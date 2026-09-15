@@ -4,7 +4,9 @@ date: 2022-12-13T14:57:00.002Z
 heroImage: "/images/posts/1493-inferno-assunto-esquecido-Inferno_20-_20assunto_20esquecido.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1493-inferno-assunto-esquecido-Inferno_20-_20assunto_20esquecido.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="420" data-original-width="468" height="287" src="/images/posts/1493-inferno-assunto-esquecido-Inferno_20-_20assunto_20esquecido.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já é de longa data que o tema do inferno foi deixado de
+![](/images/posts/1493-inferno-assunto-esquecido-Inferno_20-_20assunto_20esquecido.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Já é de longa data que o tema do inferno foi deixado de
 lado. De fato, a data é muito longa e tem sua comprovação já nos relatos
 bíblicos. Jesus nos diz que o inferno foi preparado para o diabo e seus demônios;
 acrescenta-se a isso também “os seus seguidores. Sim, pois o Cristo nos diz que
@@ -40,4 +42,7 @@ fazer esta analogia, tampouco aceita-la das mãos do diabo. Nossa salvação pas
 por uma condição de vida e atitudes bem diferentes e isso sim, é o que mais o
 demônio quer que se torne a cada dia um assunto esquecido.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

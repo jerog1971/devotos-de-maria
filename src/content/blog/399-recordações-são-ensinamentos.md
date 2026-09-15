@@ -4,7 +4,8 @@ date: 2016-04-14T14:45:00.001Z
 heroImage: "/images/posts/399-recordações-são-ensinamentos-Sofia_dormindo.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/399-recordações-são-ensinamentos-Sofia_dormindo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/399-recordações-são-ensinamentos-Sofia_dormindo.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>
+![](/images/posts/399-recordações-são-ensinamentos-Sofia_dormindo.jpg)
+
 No dia de hoje, 14 de abril de 2016, faz um ano que a irmã gêmea de minha segunda filha que se chama Sofia morreu. Para mim que sou católico de berço, minha crença me diz que a vida tem seu início em sua concepção. Deus a partir de então, depois que os pais em santo matrimônio colaboraram no seu plano divino de povoar o céu, designa um anjo da guarda para esta nova vida, com a missão principal de conduzi-la ao céu.</br>
 </br>
 Quanto mais não entendemos os porquês da vida significa que mais estamos afastados do modo e do olhar que Deus lança sobre tudo. Como a bíblia nos ensina que devemos ser imitadores do Cristo, ser imitadores significa ser imitadores! Não podemos ser falsificados, temos que ser cópias fiéis de Jesus. Percebam a grande diferença entre uma cópia autenticada e uma falsificação. E quem nos autentica é ninguém menos que o Espírito Santo de Deus.</br>

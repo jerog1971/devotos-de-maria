@@ -4,7 +4,9 @@ date: 2021-04-13T12:12:00.001Z
 heroImage: "/images/posts/2196-a-blasfêmia-de-quem-não-crê-blasf_25C3_25AAmia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2196-a-blasfêmia-de-quem-não-crê-blasf_25C3_25AAmia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="417" data-original-width="418" src="/images/posts/2196-a-blasfêmia-de-quem-não-crê-blasf_25C3_25AAmia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma coisa é não crer, outra coisa é desdenhar da crença de
+![](/images/posts/2196-a-blasfêmia-de-quem-não-crê-blasf_25C3_25AAmia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Uma coisa é não crer, outra coisa é desdenhar da crença de
 alguém; pior ainda é, além de desdenhar infringir agressões de toda ordem
 contra os que creem e suas crenças, assim como o objeto causador da fé de uma
 pessoa. Não podemos quando as coisas não são como gostaríamos culpar a Deus por
@@ -22,7 +24,7 @@ proferir blasfêmias contra Deus, Jesus Cristo, o Espírito Santo e Nossa Senhor
 Aqui segue relato de um acontecimento recente sobre esse tipo de ofensa:<o:p></o:p></p>
 
 <p class="MsoNormal">“A editora Drawn &amp; Quarterly continua a oferecer o livro
-gráfico (ilustrado):&nbsp; Maria chorou aos
+gráfico (ilustrado):  Maria chorou aos
 pés de Jesus. De acordo com os relatos das notas do autor no livro, ele afirma
 que até mesmo o título tem um significado indescritivelmente impuro no aramaico
 original. Ele está sendo vendido em muitos locais populares como Amazon, Barnes
@@ -50,4 +52,7 @@ e Sua mãe, Maria Santíssima frente a este tipo de acusação? Enfim, o tema ma
 uma vez é polêmico pois promove uma “escavação” na crença tradicional de muitas
 pessoas. E como sempre dizemos, cada um precisa escolher um lado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: adaptado de “America Needs Fatima”</p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: adaptado de “America Needs Fatima”</p></div>
+
+<br /> 
+

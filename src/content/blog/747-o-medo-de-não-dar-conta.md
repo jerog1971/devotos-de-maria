@@ -4,7 +4,8 @@ date: 2016-09-02T15:13:00Z
 heroImage: "/images/posts/747-o-medo-de-não-dar-conta-medo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/747-o-medo-de-não-dar-conta-medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/747-o-medo-de-não-dar-conta-medo.png" width="299" height="320" data-original-width="300" data-original-height="321" /></a></div>
+![](/images/posts/747-o-medo-de-não-dar-conta-medo.png)
+
 Eis aí um sentimento que está, esteve ou estará presente na vida de tantas pessoas. Em tantas áreas de nossa vida o inesperado, o desconhecido e o perigoso podem nos presentear com a sensação do medo.</br>
 </br>
 O inesperado nos pega de surpresa, e o susto do repentino nos desarma e a impotência nos encobre com o medo.</br>

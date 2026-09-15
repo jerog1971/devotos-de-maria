@@ -4,7 +4,9 @@ date: 2021-10-02T23:02:00.003Z
 heroImage: "/images/posts/553-ainda-existe-pureza-pureza.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/553-ainda-existe-pureza-pureza.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="437" data-original-width="471" height="297" src="/images/posts/553-ainda-existe-pureza-pureza.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É possível imaginar algo assim no mundo em que vivemos?
+![](/images/posts/553-ainda-existe-pureza-pureza.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É possível imaginar algo assim no mundo em que vivemos?
 Pureza de espírito, pureza de coração, pureza de ações, enfim, atitudes,
 pensamentos e comportamentos que são afastados da linha que origina tudo que é
 abominável por Deus? Começamos o artigo dizendo que sim! Sabedoria 7,24-28 – “Mais
@@ -34,4 +36,7 @@ Deus lhes conceda o arrependimento e o conhecimento da verdade, e voltem a si,
 uma vez livres dos laços do demônio, que os mantém cativos e submetidos aos
 seus caprichos”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

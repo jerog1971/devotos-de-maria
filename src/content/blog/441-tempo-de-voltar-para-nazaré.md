@@ -4,7 +4,8 @@ date: 2016-07-01T12:23:00Z
 heroImage: "/images/posts/441-tempo-de-voltar-para-nazaré-sagrada_familia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/441-tempo-de-voltar-para-nazaré-sagrada_familia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/441-tempo-de-voltar-para-nazaré-sagrada_familia.png" width="320" height="203" data-original-width="400" data-original-height="254" /></a></div>
+![](/images/posts/441-tempo-de-voltar-para-nazaré-sagrada_familia.png)
+
 No primeiro período após a conversão, quando Deus generosamente dá alegrias e consolações espirituais, a pessoa, abrasada pelo amor divino, anseia experimentar esse amor cada vez mais. Constantemente busca novas experiências espirituais. Cai em um estado que São João da Cruz chamou de gula espiritual.</br>
 </br>
 Aparece, então, um grande perigo, a tentação de buscar a si mesmo em experiências pessoais, e não a Deus por Ele mesmo e Sua santa vontade. Para não sucumbir a essa tentação, é necessário uma total obediência a palavra de Deus.</br>

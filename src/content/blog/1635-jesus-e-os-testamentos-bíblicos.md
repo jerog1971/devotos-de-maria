@@ -4,7 +4,9 @@ date: 2021-10-21T15:22:00.005Z
 heroImage: "/images/posts/1635-jesus-e-os-testamentos-bíblicos-Jesus_e_os_testamentos_b_25C3_25ADblicos.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1635-jesus-e-os-testamentos-bíblicos-Jesus_e_os_testamentos_b_25C3_25ADblicos.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="1040" height="240" src="/images/posts/1635-jesus-e-os-testamentos-bíblicos-Jesus_e_os_testamentos_b_25C3_25ADblicos.jpg" width="320" /></a></div><br /><p></p><p class="MsoNormal">Hebreus 9,17-28 – “Um testamento só entra em vigor depois da
+![](/images/posts/1635-jesus-e-os-testamentos-bíblicos-Jesus_e_os_testamentos_b_25C3_25ADblicos.jpg)
+
+<br /><p class="MsoNormal">Hebreus 9,17-28 – “Um testamento só entra em vigor depois da
 morte do testador. Permanece sem efeito enquanto ele vive. Por essa razão, nem
 mesmo o primeiro testamento foi inaugurado sem uma efusão de sangue. Moisés, ao
 concluir a proclamação de todos os mandamentos da lei, em presença de todo o
@@ -38,5 +40,4 @@ explicação de São Paulo, a razão do primeiro e do segundo testamento, assim
 como, a razão da morte de Jesus Cristo.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

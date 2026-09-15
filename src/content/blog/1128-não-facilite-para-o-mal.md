@@ -4,7 +4,9 @@ date: 2022-02-04T15:59:00.003Z
 heroImage: "/images/posts/1128-não-facilite-para-o-mal-AVvXsEhLDHh6i0b3xm-IlqBu3racqwmHPhO4MkH95JqGrn2RA7zukti2l5kqUP0TKLO29IpnQezRxtU4cE0vZlmqPHy2Kcqyu2mt0v0H8vffsOsuwVhRKuAOM69cxEShYhfeJbBAr6Say0La-iiXhKoSUzPF_FIn1qwHQLXAxdQsp40sLBZoN7YcAQxvWXq4_s283.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1128-não-facilite-para-o-mal-AVvXsEhLDHh6i0b3xm-IlqBu3racqwmHPhO4MkH95JqGrn2RA7zukti2l5kqUP0TKLO29IpnQezRxtU4cE0vZlmqPHy2Kcqyu2mt0v0H8vffsOsuwVhRKuAOM69cxEShYhfeJbBAr6Say0La-iiXhKoSUzPF_FIn1qwHQLXAxdQsp40sLBZoN7YcAQxvWXq4_s283.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="282" height="283" src="/images/posts/1128-não-facilite-para-o-mal-AVvXsEhLDHh6i0b3xm-IlqBu3racqwmHPhO4MkH95JqGrn2RA7zukti2l5kqUP0TKLO29IpnQezRxtU4cE0vZlmqPHy2Kcqyu2mt0v0H8vffsOsuwVhRKuAOM69cxEShYhfeJbBAr6Say0La-iiXhKoSUzPF_FIn1qwHQLXAxdQsp40sLBZoN7YcAQxvWXq4.jpg" width="282" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já sabemos que por desígnio divino o mal tem permissão para
+![](/images/posts/1128-não-facilite-para-o-mal-AVvXsEhLDHh6i0b3xm-IlqBu3racqwmHPhO4MkH95JqGrn2RA7zukti2l5kqUP0TKLO29IpnQezRxtU4cE0vZlmqPHy2Kcqyu2mt0v0H8vffsOsuwVhRKuAOM69cxEShYhfeJbBAr6Say0La-iiXhKoSUzPF_FIn1qwHQLXAxdQsp40sLBZoN7YcAQxvWXq4.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Já sabemos que por desígnio divino o mal tem permissão para
 nos tentar durante toda nossa vida. Para esse combate, sabemos também, que Deus
 provê forças para que lutemos contra ele. Não se trata de uma luta fácil,
 muitas vezes até achamos que a maldade tem mais poder que a bondade, haja vista
@@ -38,4 +40,7 @@ mesmos padecimentos que vós.” – 1ª Pedro 5,9. <o:p></o:p></p>
 
 <p class="MsoNormal">Efésios 4,27 – “Não deis lugar ao demônio”.<o:p></o:p></p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div><p><br />&nbsp;</p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>
+
+<br /> 
+

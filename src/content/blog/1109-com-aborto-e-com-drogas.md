@@ -4,13 +4,15 @@ date: 2022-09-13T15:25:00Z
 heroImage: "/images/posts/1109-com-aborto-e-com-drogas-com_20aborto_20e_20com_20drogas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1109-com-aborto-e-com-drogas-com_20aborto_20e_20com_20drogas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="413" data-original-width="316" height="320" src="/images/posts/1109-com-aborto-e-com-drogas-com_20aborto_20e_20com_20drogas.png" width="245" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Isso mesmo, o cristão que se preza precisa sim de muitos
+![](/images/posts/1109-com-aborto-e-com-drogas-com_20aborto_20e_20com_20drogas.png)
+
+<br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Isso mesmo, o cristão que se preza precisa sim de muitos
 abortos em sua vida e de muitas drogas, pois, do contrário, terá muita
 dificuldade em alcançar o céu. A frase utilizada para iniciar este artigo, de
 cara, parece ir na contramão da proposta deste site. Sim, se o site é católico,
 presume-se que lute contra o aborto, defendendo a vida e lute contra as drogas,
 defendendo a saúde do corpo. Então, como é possível que um artigo incluído
-neste site comece deste jeito? Vamos acompanhar.</div><p></p><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">
+neste site comece deste jeito? Vamos acompanhar.</div><p class="MsoNormal"><o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Começando com uma pequena analogia lembremos de um
 destacamento militar que planejou uma missão; em determinado momento de seu
@@ -40,4 +42,7 @@ nesta batalha diária que é vida do homem sobre a terra? Corpo e alma padecem a
 cada passo que é dado em direção ao céu se nenhum esforço real for feito e,
 claro, sempre com a ajuda de Jesus Cristo (João 15,5).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

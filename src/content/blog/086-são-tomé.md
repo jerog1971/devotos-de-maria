@@ -4,7 +4,11 @@ date: 2020-07-03T16:20:00.001Z
 heroImage: "/images/posts/086-são-tomé-Tom_25C3_25A9_ap_25C3_25B3stolo.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/086-são-tomé-Tom_25C3_25A9_ap_25C3_25B3stolo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="432" height="320" src="/images/posts/086-são-tomé-Tom_25C3_25A9_ap_25C3_25B3stolo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi um dos doze apóstolos de Jesus. Era israelita. Seu nome
+<br />
+
+![](/images/posts/086-são-tomé-Tom_25C3_25A9_ap_25C3_25B3stolo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi um dos doze apóstolos de Jesus. Era israelita. Seu nome
 consta na lista dos quatro evangelistas. O evangelho de São João dá-lhe grande
 destaque. Em João 11,16, ele incita os discípulos a seguirem Jesus e morrerem
 com ele na Judeia: Tomé, chamado Dídimo, disse então aos discípulos: vamos

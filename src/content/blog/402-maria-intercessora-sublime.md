@@ -4,7 +4,8 @@ date: 2017-02-01T21:41:00.002Z
 heroImage: "/images/posts/402-maria-intercessora-sublime-mae_das_maes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/402-maria-intercessora-sublime-mae_das_maes.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="314" data-original-width="285" height="320" src="/images/posts/402-maria-intercessora-sublime-mae_das_maes.png" width="290" /></a></div>
+![](/images/posts/402-maria-intercessora-sublime-mae_das_maes.png)
+
 Ela, como Rainha do Céu e Mãe da Igreja está sempre presente em nossas vidas, inclusive no momento da renovação do Sacrifício do Calvário, sempre de modo especial. Ninguém acompanhou Nosso Senhor como ela, nenhum dos apóstolos, absolutamente ninguém, desde a concepção até a morte pavorosa. Por isso mesmo, muitos católicos pedem a ela que os acompanhe o tempo todo, durante toda a vida e até na Celebração da Santa Missa. Mas esse carinho filial para com a Mãe de Deus não muda o fato de que toda a Celebração da santa Missa é feita "por Cristo, com Cristo e em Cristo", dirigida a Deus Pai, em Comunhão com o Espírito Santo. Sim, podemos rogar pela presença de Maria a todo instante, mas o católico que não concentra todas as suas atenções em Nosso Senhor Jesus Cristo durante o sublime momento da Comunhão está perdido; precisa de ajuda urgente!
 
 É mais do que evidente que não é a Maria que adoramos e nem é a ela que suplicamos pela salvação das nossas almas. Cremos que ela intercede, mas sabemos que é sempre Cristo Quem concede. Não é o corpo dela que oferecemos a Deus e nem é a ela que pedimos perdão. Também não é do corpo de Maria que somos membros, mas do de Cristo, o nosso (como gostam de dizer os protestantes) "único e suficiente Salvador".
@@ -16,6 +17,5 @@ Ainda assim, mesmo nas solenidades de exaltação da Virgem santíssima, todas a
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2017/02/sera-que-os-catolicos-adoram-maria.html" target="_blank">Será que os católicos adoram Maria?</a>
-
 
 fonte: adaptado de ofielcatolico

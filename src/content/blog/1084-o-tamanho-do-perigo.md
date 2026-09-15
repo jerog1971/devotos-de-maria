@@ -4,7 +4,9 @@ date: 2021-04-18T02:20:00.001Z
 heroImage: "/images/posts/1084-o-tamanho-do-perigo-perigo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1084-o-tamanho-do-perigo-perigo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="187" data-original-width="169" height="230" src="/images/posts/1084-o-tamanho-do-perigo-perigo.png" width="208" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa vida é rodeada de perigos, fisicamente e espiritualmente
+![](/images/posts/1084-o-tamanho-do-perigo-perigo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nossa vida é rodeada de perigos, fisicamente e espiritualmente
 falando, de fato, o ser humano nem pode mensurar com exatidão o quão rodeado está,
 isso não é coisa que está sob seu controle. Todavia, nos foi ensinado que
 devemos ser cuidadosos em nosso proceder, vigilantes e atentos, sóbrios no agir
@@ -39,4 +41,4 @@ príncipes deste mundo tenebroso, contra as forças espirituais do mal
 contra o perigo de sermos condenados à danação eterna. E não existe para o
 filho de Deus perigo maior.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p></p><div class="separator" style="clear: both; text-align: left;"><br /></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><div class="separator" style="clear: both; text-align: left;"><br /></div><br /> 

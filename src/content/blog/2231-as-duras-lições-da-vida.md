@@ -4,7 +4,9 @@ date: 2022-02-04T00:30:00.001Z
 heroImage: "/images/posts/2231-as-duras-lições-da-vida-img-1522215657.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2231-as-duras-lições-da-vida-img-1522215657.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="480" height="202" src="/images/posts/2231-as-duras-lições-da-vida-img-1522214510.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O céu está a uma distância de uma vida. Todavia, não é uma
+![](/images/posts/2231-as-duras-lições-da-vida-img-1522214510.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O céu está a uma distância de uma vida. Todavia, não é uma
 distância qualquer tampouco uma vida qualquer. O paraíso, todos que se inteiram
 sobre o assunto sabem, custa para uma alma o preço de sangue. Não apenas, vamos
 compreender: ao preço de seu sangue redentor Jesus Cristo derramou muito e
@@ -39,4 +41,7 @@ quando passais por diversas provações, sabendo que a prova da vossa fé produz
 paciência. Mas é preciso que a paciência efetue a sua obra, a fim de serdes
 perfeitos e íntegros, sem fraqueza alguma”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

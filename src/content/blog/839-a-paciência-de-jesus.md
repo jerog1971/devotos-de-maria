@@ -4,7 +4,9 @@ date: 2021-03-03T14:21:00.003Z
 heroImage: "/images/posts/839-a-paciência-de-jesus-serm_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/839-a-paciência-de-jesus-serm_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" src="/images/posts/839-a-paciência-de-jesus-serm_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Será que a paciência e sua rival, a impaciência humana,
+![](/images/posts/839-a-paciência-de-jesus-serm_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Será que a paciência e sua rival, a impaciência humana,
 possuem sua razão de ser em função do tempo? Parece que sim, pois vivemos num
 mundo que prega que “tempo é dinheiro”, que “não há tempo a se perder”. Com
 algum esforço até podemos compreender alguma falta de paciência, todavia
@@ -44,4 +46,7 @@ recompensa. Vós, que temeis o Senhor, esperai nele; sua misericórdia vos será
 fonte de alegria. Vós, que temeis o Senhor, amai-o, e vossos corações se
 encherão de luz.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

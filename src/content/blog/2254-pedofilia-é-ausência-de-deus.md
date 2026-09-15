@@ -4,7 +4,8 @@ date: 2019-04-12T15:07:00.002Z
 heroImage: "/images/posts/2254-pedofilia-é-ausência-de-deus-Bento_XVI.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2254-pedofilia-é-ausência-de-deus-Bento_XVI.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2254-pedofilia-é-ausência-de-deus-Bento_XVI.png" width="320" height="312" data-original-width="460" data-original-height="449" /></a></div>
+![](/images/posts/2254-pedofilia-é-ausência-de-deus-Bento_XVI.png)
+
 Após longa data o papa emérito redigiu um artigo que foi publicado no site “https://cruxnow.com/vatican/2019/04/11/benedict-blames-scandals-on-68-says-church-law-cant-just-protect-accused/” onde fala sobre a questão da pedofilia dentro da igreja católica. O resumo colocado aqui encontra-se no site “paulopes.com.br”.</br>
 </br>
 O papa emérito Bento XVI escreveu um artigo afirmando que os escândalos de pedofilia dentro da Igreja Católica sem devem a uma “ausência de Deus” demonstrada na laicização da sociedade.</br>

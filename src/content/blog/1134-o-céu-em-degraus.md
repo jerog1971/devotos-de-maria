@@ -4,7 +4,8 @@ date: 2017-08-31T15:06:00Z
 heroImage: "/images/posts/1134-o-céu-em-degraus-c_25C3_25A9us.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1134-o-céu-em-degraus-c_25C3_25A9us.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1134-o-céu-em-degraus-c_25C3_25A9us.png" width="320" height="199" data-original-width="560" data-original-height="348" /></a></div>
+![](/images/posts/1134-o-céu-em-degraus-c_25C3_25A9us.png)
+
 Caros leitores, biblicamente falando, nossa vida passa pela experiência dos três céus. Não se trata de algum tipo de invenção mundana ou científica e sim de uma realidade que nos é ensinada nos testamentos bíblicos. Vejamos.</br>
 </br>
 Agora, nesta etapa de nossas vidas eternas, nessa passagem estagiária por este vale de lágrimas, estamos a viver sob o firmamento, criado por Deus como vemos no livro do Gênesis, que é denominado como o primeiro céu. Trata-se do céu que fisicamente podemos contemplar, podemos visualizar. Ele se estende até onde nossa visão alcança. Lembrando que nossa visão alcança a realidade celeste que denominamos de universo. Podemos ver a maravilha do seu azul num dia ensolarado e a sua sobriedade durante uma noite estrelada, o que nos dá uma pequeníssima ideia do universo. Este é o céu que abarca o ar que precisamos para inflar os pulmões e numa realidade além, está compreendido dentro do universo.</br>

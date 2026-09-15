@@ -4,7 +4,9 @@ date: 2022-04-05T18:12:00.003Z
 heroImage: "/images/posts/1594-o-mal-em-ação-satanismo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1594-o-mal-em-ação-satanismo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="453" height="259" src="/images/posts/1594-o-mal-em-ação-satanismo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vejam só caros leitores, estamos nos aproximando mais uma
+![](/images/posts/1594-o-mal-em-ação-satanismo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vejam só caros leitores, estamos nos aproximando mais uma
 vez da grande festa central do Cristianismo. Enquanto isso, os contrários ao divino,
 a tudo que vem dos céus, parodia uma manjedoura que ao invés do menino Jesus, encontra-se
 uma figura distorcida de um demônio bebê chamado Baphomet. E detalhe, a imagem
@@ -48,4 +50,7 @@ Reconhecei a vossa miséria, afligi-vos e chorai. Converta-se o vosso riso em
 pranto e a vossa alegria em tristeza. Humilhai-vos na presença do Senhor, e ele
 vos exaltará” – Tiago 4,4-10.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

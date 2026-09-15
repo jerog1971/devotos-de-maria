@@ -4,7 +4,8 @@ date: 2016-10-05T11:40:00Z
 heroImage: "/images/posts/639-tem-vergonha-cuidado-catolico.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/639-tem-vergonha-cuidado-catolico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/639-tem-vergonha-cuidado-catolico.png" width="320" height="291" data-original-width="571" data-original-height="519" /></a></div>
+![](/images/posts/639-tem-vergonha-cuidado-catolico.png)
+
 Mateus 10,32-33 - 32 Portanto, quem der testemunho de mim diante dos homens, também eu darei testemunho dele diante de meu Pai que está nos céus. 33 Aquele, porém, que me negar diante dos homens, também eu o negarei diante de meu Pai que está nos céus.</br>
 </br>
 Com essa séria afirmação, Jesus deixa claro que é preciso se posicionar no mundo como um verdadeiro cristão católico apostólico romano. A radicalidade do evangelho pedida por Jesus é capaz até do martírio. Ele que conhece os corações se entristece em saber que na hora das tribulações, muitos se acovardam e em meio as suas tibiezas da alma, cedem ao medo imposto pelo mundo, chegando ao ponto de não negar só 3 vezes, como o apóstolo Pedro, mas se colocar em constante negação, praticando a política da boa vizinhança e do politicamente correto, para tentar, desgraçadamente, agradar a dois senhores. Deus e o mundo.

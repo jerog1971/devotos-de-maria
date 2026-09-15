@@ -4,7 +4,8 @@ date: 2016-07-26T11:00:00.001Z
 heroImage: "/images/posts/632-educar-para-o-amor-educar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/632-educar-para-o-amor-educar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/632-educar-para-o-amor-educar.png" width="320" height="276" data-original-width="282" data-original-height="243" /></a></div>
+![](/images/posts/632-educar-para-o-amor-educar.png)
+
 </br>
 Os homens, imersos no universo do sexo pornográfico, olham para o ato sexual cada vez mais como uma "oportunidade". O que interessa é alcançar o clímax sexual, sejam quais forem os meios. Nessa lógica, as mulheres – que deveriam ser as suas companheiras de vida, respeitadas e amadas – se convertem em mero "instrumento" para a obtenção de um prazer fácil e passageiro.</br>
 </br>

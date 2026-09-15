@@ -4,7 +4,9 @@ date: 2021-01-13T15:56:00.002Z
 heroImage: "/images/posts/1547-expectativa-da-segunda-vinda-de-jesus-segunda_vinda.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1547-expectativa-da-segunda-vinda-de-jesus-segunda_vinda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="369" data-original-width="399" src="/images/posts/1547-expectativa-da-segunda-vinda-de-jesus-segunda_vinda.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O cristão, aquele que verdadeiramente anseia o céu, vive uma
+![](/images/posts/1547-expectativa-da-segunda-vinda-de-jesus-segunda_vinda.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O cristão, aquele que verdadeiramente anseia o céu, vive uma
 vida de esforço contínuo para agradar a Deus e uma expectativa pelo fim desse
 ciclo da vida na terra e o início do novo ciclo, o da vida eterna, na nova
 Jerusalém celeste, onde Deus enxugará todas as lágrimas.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -44,4 +46,7 @@ homem; o que ele escolher, isso lhe será dado, porque é grande a sabedoria de
 Deus. Forte e poderoso, ele vê sem cessar todos os homens. Os olhos do Senhor
 estão sobre os que o temem, e ele conhece todo o comportamento dos homens”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

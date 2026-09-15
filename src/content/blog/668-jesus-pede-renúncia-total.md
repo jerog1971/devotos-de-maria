@@ -4,7 +4,9 @@ date: 2022-09-15T20:43:00.004Z
 heroImage: "/images/posts/668-jesus-pede-renúncia-total-img-927380393.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/668-jesus-pede-renúncia-total-img-927380393.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="162" data-original-width="166" height="226" src="/images/posts/668-jesus-pede-renúncia-total-img-868936763.png" width="231" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está lá em Lucas 9,23 – “quem quiser se salvar, renuncie a
+![](/images/posts/668-jesus-pede-renúncia-total-img-868936763.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Está lá em Lucas 9,23 – “quem quiser se salvar, renuncie a
 si mesmo, tome sua cruz dia após dia e me siga”. Isso significa segui-lo todos
 os dias, não apenas quando nos convém, pois aposto que ninguém quer ser atendido
 quando pede algo a Deus apenas quando convém ao altíssimo não é mesmo! Todos gostariam
@@ -52,4 +54,7 @@ não serão revogadas” (Isaías 45,23). Cada um, porém, escolhe no que acredi
 como viver, mas, o que está proferido não mudará e Jesus nos disse que “passará
 o céu e a terra, antes que desapareça um jota, um traço da lei (Mateus 5,18).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

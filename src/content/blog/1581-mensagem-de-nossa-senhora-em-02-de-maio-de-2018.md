@@ -4,7 +4,8 @@ date: 2018-05-02T16:42:00Z
 heroImage: "/images/posts/1581-mensagem-de-nossa-senhora-em-02-de-maio-de-2018-mirjana_medjugorje_02_05_2018.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1581-mensagem-de-nossa-senhora-em-02-de-maio-de-2018-mirjana_medjugorje_02_05_2018.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1581-mensagem-de-nossa-senhora-em-02-de-maio-de-2018-mirjana_medjugorje_02_05_2018.png" width="292" height="320" data-original-width="197" data-original-height="216" /></a></div>
+![](/images/posts/1581-mensagem-de-nossa-senhora-em-02-de-maio-de-2018-mirjana_medjugorje_02_05_2018.png)
+
 Queridos filhos, tudo o que MEU FILHO, que é a Luz do AMOR, tem feito e faz, ELE tem feito por amor. Também vocês, meus filhos, quando vocês vivem no amor e amam seus próximos, vocês estão fazendo a vontade do MEU FILHO.</br>
 </br>
 Apóstolos do Meu Amor, tornem-se pequenos, abram seus corações puros ao MEU FILHO para que ELE possa operar através de vocês. Com a ajuda da fé, sejam preenchidos com amor. Mas, meus filhos, não esqueçam que a EUCARISTIA é o coração da fé. Isto é MEU FILHO que os alimenta com SEU CORPO e fortalece vocês com o SEU SANGUE. Isto é um milagre de amor: MEU FILHO, que sempre vem novamente, vivo, trazer de volta a vida para as almas.</br>

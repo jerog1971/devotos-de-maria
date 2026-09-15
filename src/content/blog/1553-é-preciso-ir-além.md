@@ -4,7 +4,8 @@ date: 2016-10-11T13:18:00Z
 heroImage: "/images/posts/1553-é-preciso-ir-além-al_25C3_25A9m.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1553-é-preciso-ir-além-al_25C3_25A9m.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1553-é-preciso-ir-além-al_25C3_25A9m.png" width="320" height="306" data-original-width="204" data-original-height="195" /></a></div>
+![](/images/posts/1553-é-preciso-ir-além-al_25C3_25A9m.png)
+
 Que Jesus Cristo espera de nós, no mínimo o máximo de esforço em nossa caminhada, isso não é novidade para ninguém. Não é novidade também que, mesmo que façamos todo o esforço que pudermos, ainda não será suficiente. Quem nos comprova isso é o próprio Cristo quando nos diz que sem ele nada podemos fazer (João 15,5).</br>
 </br>
 Como Jesus, pelo querer do Pai Eterno que quis servir-se de Maria para a salvação da humanidade, e continua querendo assim (Malaquias 3,6 – Isaías 45,23), veio até nós pelo seio virginal da toda cheia de graça (Lucas 1,28), ele, o Cristo cabeça da sua Igreja (Mateus 16,18), único mediador entre Deus e os homens, nos fez por direito divino, passarmos de criaturas à filhos de Deus, pelo batismo, sacramento instituído pelo nosso salvador, assim todos nós, membros do seu corpo, que é a igreja, também fomos gerados para ela (a igreja e corpo de Cristo) por Maria. Afinal, se uma mãe der à luz somente a cabeça sem corpo, isto todos concordariam ser uma aberração da natureza. Como a natureza humana imita a natureza divina, a dupla via é verdadeira.</br>

@@ -4,7 +4,8 @@ date: 2017-05-22T14:51:00.001Z
 heroImage: "/images/posts/1280-por-que-não-apenas-padre-malafaia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1280-por-que-não-apenas-padre-malafaia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="476" data-original-width="635" height="240" src="/images/posts/1280-por-que-não-apenas-padre-malafaia.png" width="320" /></a></div>
+![](/images/posts/1280-por-que-não-apenas-padre-malafaia.png)
+
 O que digo por aqui, caros leitores, vale para qualquer religião. Mas, vou comentar dentro da igreja católica apenas porque tem muita cabeça nesse meio que a carapuça vai servir. Vamos logo ao assunto então. Cada vez que estou a estudar a vida dos santos fico admirado com a beleza de suas vidas heroicas e seus testemunhos. Dentre alguns, existiam os sacerdotes. E indo a fundo em suas biografias, vemos que um padre era apenas isso, um padre. São inúmeros testemunhos de vida dos santos que comprovam essa verdade. O padre era padre e exercia suas obrigações de ofício. Fazia o que lhe cabia o sacerdócio em prol das ovelhas do senhor que estavam arrebanhadas na paróquia para a qual ele foi designado.
 
 Já vão gritar os arruaceiros e modernistas de plantão, saindo em defesa dos padres que são muito atarefados por causa da falta de padres e crescimento populacional. Pois é, não discordo plenamente mas existem algumas funções que o clero poderia dar treinamento aos leigos para que eles trabalhassem em funções administrativas que muitos clérigos hoje em dia atuam. Já se sabe que essa realidade existe nos dias de hoje, mas precisaria acontecer com maior profundidade. No entanto, mesmo que de forma precária esse mal-estar anda meio que sob controle e por isso o apenas padre a que vou me referir, se destina àqueles que querem acumular funções seculares que destoam das suas origens sacerdotais.
@@ -23,6 +24,5 @@ Lucas 16,15 - “Ele lhes disse: Vós pretendeis passar por justos perante os ho
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/01/verdadeiros-sacerdotes.html" target="_blank">Verdadeiros Sacerdotes?</a>
-
 
 fonte: Jefferson Roger

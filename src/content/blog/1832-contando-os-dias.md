@@ -4,7 +4,9 @@ date: 2023-11-10T21:12:00.002Z
 heroImage: "/images/posts/1832-contando-os-dias-contando_20os_20dias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1832-contando-os-dias-contando_20os_20dias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="529" data-original-width="509" height="320" src="/images/posts/1832-contando-os-dias-contando_20os_20dias.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A história que vou contar, como a maioria das histórias de
+![](/images/posts/1832-contando-os-dias-contando_20os_20dias.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A história que vou contar, como a maioria das histórias de
 nossas vidas, caracteriza-se como um momento único, que nunca mais irá se
 repetir. Nossa vida, de fato, é muito rica; não dizem os ditados que daria para
 escrever um livro? Pois bem, acredito que daria sim. Porém, por aqui, faltando
@@ -39,4 +41,7 @@ chegou; com ele o dia derradeiro: a mãe, depois de lutar por três anos contra 
 câncer faleceu em casa: era o dia 22 de abril. Ali começou outra contagem, uma
 vida que Deus chama para seu convívio eterno e um contar de dias e meses para o
 ingressar de novos acontecimentos. Eu não sabia, mas esperava por mim o mês de
-dezembro com um grande acontecimento preparado por Deus...<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div><p><br />&nbsp;</p>
+dezembro com um grande acontecimento preparado por Deus...<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div>
+
+<br /> 
+

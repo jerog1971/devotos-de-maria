@@ -4,7 +4,8 @@ date: 2018-11-19T18:28:00Z
 heroImage: "/images/posts/251-o-que-cristo-ensina-ou-o-que-a-igrej-igreja_dividida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/251-o-que-cristo-ensina-ou-o-que-a-igrej-igreja_dividida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/251-o-que-cristo-ensina-ou-o-que-a-igrej-igreja_dividida.png" width="320" height="233" data-original-width="523" data-original-height="381" /></a></div>
+![](/images/posts/251-o-que-cristo-ensina-ou-o-que-a-igrej-igreja_dividida.png)
+
 Começo o artigo apontando para uma frase dita por Nossa Senhora em suas aparições, em resposta à indagação a respeito do porquê das aparições. Primeiro, ela diz que Deus Pai permite as aparições para que os homens sejam lembrados daquilo que deixaram de seguir, de fazer e de acreditar. Segundo: ela diz que seu filho Jesus nos deixou tudo que precisamos para nos salvar, nos evangelhos. Como não lemos, seguimos e não vivemos o evangelho, as aparições se tornaram necessárias por constituírem-se um modo de lembrar a humanidade a respeito desta verdade.</br>
 </br>
 Colocado isso de forma muito clara pela mãe de Deus e nossa mãe, fica muito fácil de se compreender porque tantas coisas não andam bem na relação homem-Deus-religião.  Como religião consiste em ligar-se novamente a Deus e Jesus veio para eliminar o muro que o pecado de Adão e Eva ergueu sob a investida da serpente para a desgraça da humanidade, percebe-se o cabo de guerra que coloca o homem no meio da situação é o responsável por tanta baderna.</br>

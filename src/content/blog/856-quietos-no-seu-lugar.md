@@ -4,7 +4,9 @@ date: 2021-06-09T15:38:00.003Z
 heroImage: "/images/posts/856-quietos-no-seu-lugar-quietos_no_seu_lugar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/856-quietos-no-seu-lugar-quietos_no_seu_lugar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="317" src="/images/posts/856-quietos-no-seu-lugar-quietos_no_seu_lugar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que a alma humana padece em suas batalhas
+![](/images/posts/856-quietos-no-seu-lugar-quietos_no_seu_lugar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se tem uma coisa que a alma humana padece em suas batalhas
 diárias é a tentação de deixar para amanhã, de não se aquietar e de não se
 mexer na direção de Deus. Sem dúvida alguma nosso inimigo cruel, sempre com
 tempo para dedicar-se nos assuntos que dizem respeito à nossa perdição eterna,
@@ -45,4 +47,7 @@ sabermos onde precisamos ficar quietos, em nosso lugar, e onde devemos agir na
 direção que conduz para a porta estreita, a porta do céu, local das moradas
 eternas para os que irão ouvir de Jesus Cristo o “vinde benditos de meu pai”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

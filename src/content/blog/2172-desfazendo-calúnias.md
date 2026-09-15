@@ -4,8 +4,9 @@ date: 2024-11-08T17:40:00.010Z
 heroImage: "/images/posts/2172-desfazendo-calúnias-cal_C3_BAnia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="415" data-original-width="484" height="274" src="/images/posts/2172-desfazendo-calúnias-cal_C3_BAnia.png" width="320" /></div>
-<div class="MsoNormal" style="text-align: left;">&nbsp;</div><div class="MsoNormal" style="text-align: left;">Sabe-se, pela tradição religiosa, que o demônio conhece o
+![](/images/posts/2172-desfazendo-calúnias-cal_C3_BAnia.png)
+
+<div class="MsoNormal" style="text-align: left;"> </div><div class="MsoNormal" style="text-align: left;">Sabe-se, pela tradição religiosa, que o demônio conhece o
 mal e o erro praticado pelo ser humano e joga na cara de Jesus todas as nossas
 mazelas da vida para justificar nossa ida para o inferno. Ele, que é o
 acusador, o pai da mentira é muito bom em caluniar; está em toda a existência
@@ -36,5 +37,4 @@ frentes. Não sejamos, porém, como ele, sejamos o oposto; sobre o diabo falemos
 abertamente toda a verdade, não sejamos seus imitadores e sim, de Cristo.</p>
 
 <p class="MsoNormal" style="text-align: left;">Fonte: Jefferson Roger</p>
-
 

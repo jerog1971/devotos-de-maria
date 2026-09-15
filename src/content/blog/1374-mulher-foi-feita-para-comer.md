@@ -4,7 +4,8 @@ date: 2018-08-16T17:50:00.001Z
 heroImage: "/images/posts/1374-mulher-foi-feita-para-comer-comer_a__mulher.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1374-mulher-foi-feita-para-comer-comer_a__mulher.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1374-mulher-foi-feita-para-comer-comer_a__mulher.png" width="320" height="316" data-original-width="270" data-original-height="267" /></a></div>
+![](/images/posts/1374-mulher-foi-feita-para-comer-comer_a__mulher.png)
+
 “Não é bom que o homem fique só, vou fazer-lhe uma companheira adequada” – assim disse Deus Pai Todo Poderoso. Não é bom que o homem fique só, vou providenciar-lhe qualquer companhia (homem ou mulher) para satisfazer suas vontades e desejos desregrados e baixos. Assim age satanás. E como ele é o pai da mentira e mistura verdades com falsidades lá se vai o homem achar que mulher serve mais como empregada, faxineira, cozinheira e, pior de todos os rótulos: objeto de consumo.</br>
 </br>
 Mas vamos ao título desse artigo. Mulher foi sim feita para comer:</br>

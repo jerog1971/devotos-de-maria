@@ -4,7 +4,9 @@ date: 2021-04-14T19:06:00.005Z
 heroImage: "/images/posts/676-confessar-os-pecados-confessionario.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/676-confessar-os-pecados-confessionario.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="772" data-original-width="931" src="/images/posts/676-confessar-os-pecados-confessionario.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os cristãos de base católica acatam os dizeres bíblicos que
+![](/images/posts/676-confessar-os-pecados-confessionario.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Os cristãos de base católica acatam os dizeres bíblicos que
 educam o penitente a confessar seus pecados a outrem. Os de outras bases
 argumentam que pecados só devem ser confessados diretamente para Deus. Aqui,
 sem querer polemizar, defendemos a crença católica que prescreve biblicamente
@@ -47,4 +49,7 @@ que irá absolver o penitente? Pois bem, ela termina com as palavras “em nome 
 Pai, do Filho e do Espírito Santo”. O padre não perdoa pecados, Deus os perdoa!
 O padre é um instrumento nas mãos do Altíssimo! E mais, para entrarmos na glória dos céus, não podemos tê-los!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

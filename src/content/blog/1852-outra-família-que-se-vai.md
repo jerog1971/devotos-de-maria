@@ -4,7 +4,8 @@ date: 2016-05-31T19:05:00Z
 heroImage: "/images/posts/1852-outra-família-que-se-vai-familia_schmitz.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1852-outra-família-que-se-vai-familia_schmitz.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1852-outra-família-que-se-vai-familia_schmitz.png" width="320" height="252" data-original-width="555" data-original-height="437" /></a></div>
+![](/images/posts/1852-outra-família-que-se-vai-familia_schmitz.png)
+
 Por onde quer que se ande, sempre acabamos por esbarrar no assunto das famílias desfeitas. Um casal que se separa e passam a viver com outras pessoas. Filhos que no meio deste tiroteio egoísta algumas vezes se tornam bagagens onde o mundo alegremente trata de educar e criar com sua catequese de morte. Famílias que nem chegam a começar e são mutiladas deixando como resultado uma mãe solteira. Famílias que não são famílias, pois não foram criadas no molde pensado e desejado por Deus. E tantas outras facetas de aglomerações de pessoas sob o mesmo teto ou não, que não conseguem sequer levar adiante o projeto de Deus, querido e planejado para a humanidade.</br>
 </br>
 E por que? Volto a dizer aqui no meu blog, mais uma vez. A família é uma aliança de sangue. É dizer: eu derramo o meu sangue, mas eu não desisto de você. Deus que nos pensou como família e quis se fazer família vindo no ventre da Virgem Maria e trazendo para todos nós o modelo que é a Sagrada Família, sofre muito a cada dia quando cada um de nós, membros que somos ou fomos de uma família, permitimos que em nossos corações esse mesmo Deus através do Espírito Santo, não habite plenamente nesta morada que foi comprada a preço de sangue e que, portanto, não nos pertence. Mal-agradecidos, egoístas e rebeldes que somos se assim agirmos. O resultado nunca é bom, o mal toma posse e as desgraças acontecem.</br>

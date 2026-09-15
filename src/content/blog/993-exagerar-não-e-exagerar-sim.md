@@ -4,7 +4,8 @@ date: 2016-05-02T13:21:00Z
 heroImage: "/images/posts/993-exagerar-não-e-exagerar-sim-exagero.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/993-exagerar-não-e-exagerar-sim-exagero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/993-exagerar-não-e-exagerar-sim-exagero.png" width="230" height="320" data-original-width="354" data-original-height="493" /></a></div>
+![](/images/posts/993-exagerar-não-e-exagerar-sim-exagero.png)
+
 Dependência é uma das coisas que nosso cérebro aprende ao longo de nossas vidas a administrar. Pelo que nos consta, dependemos de muitas coisas em nossas vidas. Sejam elas físicas, psíquicas, afetivas e espirituais. O ser humano, que é um composto formado por corpo e alma, sabe pela sua fé em Deus que, um dia terá esse invólucro provisório chamado corpo glorificado por Deus com sua alma, tornando-se um corpo glorioso para entrar na vida eterna e receber sua recompensa, a coroa da glória ou a condenação eterna. Nunca é demais lembrarmos destas verdades. Está lá no livro do Eclesiástico 7,40, são os novíssimos.</br>
 </br>
 Pois bem, até aqui nos parece uma reflexão sem maiores impactos para nosso dia a dia, mas infelizmente na prática, o que vemos é um total desequilíbrio em nossas necessidades. Para um pequeno exemplo e constatação vamos ilustrar o que digo com a tecnologia, com a internet e com os serviços agregados aos smartphones como os mensageiros instantâneos e as redes sociais digitais.</br>

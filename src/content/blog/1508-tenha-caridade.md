@@ -4,7 +4,8 @@ date: 2019-05-30T20:25:00.001Z
 heroImage: "/images/posts/1508-tenha-caridade-caridade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1508-tenha-caridade-caridade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1508-tenha-caridade-caridade.png" width="320" height="249" data-original-width="449" data-original-height="349" /></a></div>
+![](/images/posts/1508-tenha-caridade-caridade.png)
+
 O amor fraterno nos leva à caridade, nos recorda a sagrada escritura. Em Hebreus 6,10 lemos que “Deus não é injusto e não esquecerá vossas obras e a caridade que mostrastes por amor de seu nome”. São Pedro (1ª Pedro 4,8) vai nos dizer que “antes de tudo, mantende entre vós uma ardente caridade, porque a caridade cobre a multidão dos pecados”, citando uma passagem do livro dos Provérbios. São Paulo vai ainda nos falar que devemos levar uma vida digna “com toda a humildade e amabilidade, com grandeza de alma, suportando-vos mutuamente com caridade”.</br>
 </br>
 Não tenhas preguiça de visitar um doente, pois é assim que te firmarás na caridade, ou seja, o livro do Eclesiástico nos ensina que a caridade deve ser exercitada. Não sabes como exercita-la? Outro ensinamento do mesmo livro diz que “em Deus se encontram a sabedoria, o conhecimento e a ciência da lei; nele residem a caridade e as boas obras”.</br>

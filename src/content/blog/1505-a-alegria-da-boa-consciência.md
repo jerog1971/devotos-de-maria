@@ -4,7 +4,11 @@ date: 2020-07-01T16:43:00.001Z
 heroImage: "/images/posts/1505-a-alegria-da-boa-consciência-analise.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1505-a-alegria-da-boa-consciência-analise.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="421" src="/images/posts/1505-a-alegria-da-boa-consciência-analise.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A glória do homem virtuoso é o testemunho da boa
+<br />
+
+![](/images/posts/1505-a-alegria-da-boa-consciência-analise.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A glória do homem virtuoso é o testemunho da boa
 consciência. Conserva pura a consciência, e sempre terás alegria. A boa
 consciência pode suportar muita coisa e permanece alegre, até nas adversidades.
 A má consciência anda sempre medrosa e inquieta. Suave sossego gozarás, se de

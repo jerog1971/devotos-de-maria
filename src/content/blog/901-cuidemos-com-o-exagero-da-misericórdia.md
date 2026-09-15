@@ -4,7 +4,8 @@ date: 2016-07-18T12:37:00.001Z
 heroImage: "/images/posts/901-cuidemos-com-o-exagero-da-misericórd-padre_gilson.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/901-cuidemos-com-o-exagero-da-misericórd-padre_gilson.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/901-cuidemos-com-o-exagero-da-misericórd-padre_gilson.png" width="320" height="287" data-original-width="364" data-original-height="327" /></a></div>
+![](/images/posts/901-cuidemos-com-o-exagero-da-misericórd-padre_gilson.png)
+
 Eclesiástico 5,6-9 - Não digas: A misericórdia do Senhor é grande, ele terá piedade da multidão dos meus pecados, pois piedade e cólera são nele igualmente rápidas, e o seu furor visa aos pecadores. Não demores em te converteres ao Senhor, não adies de dia em dia, pois sua cólera virá de repente, e ele te perderá no dia do castigo.</br>
 </br>
 Gálatas – 6,7 - Não vos enganeis: de Deus não se zomba. O que o homem semeia, isso mesmo colherá.</br>
@@ -17,7 +18,9 @@ Eis que surge o atual papa, que de longe, na opinião de muita gente, basta conf
 </br>
 Então, após a chegada deste papa, o mesmo não perdeu tempo e colocou a igreja a enfatizar a Misericórdia de Deus acima de tudo e como vimos no início do artigo, biblicamente as coisas não são assim. Até satanás sabe disso e a tantos anos insiste em vender a ideia de que Deus, por ser infinita misericórdia, o que é verdade, podemos fazer o que quisermos, viver como queremos e pecarmos à vontade, o que é mentira, porque, por misericórdia de Deus, iremos entrar no céu, mesmo contra nossa vontade. Assim ensina o diabo e, para quem for bem atento, assim quer Francisco que a igreja se comporte.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/901-cuidemos-com-o-exagero-da-misericórd-padre_gilson2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/901-cuidemos-com-o-exagero-da-misericórd-padre_gilson2.png" width="197" height="200" data-original-width="472" data-original-height="479" /></a></div>
+
+![](/images/posts/901-cuidemos-com-o-exagero-da-misericórd-padre_gilson2.png)
+
 O que ocorre então, é que esse reflexo já está dentro da igreja. Bergoglio tem feito um bom trabalho. Haja vista em um desses dias que comentei que participei de formações com o Padre Gilson, já mencionado no artigo, o mesmo, ao ser indagado por alguns a respeito de se é pecado mortal ou venial essa ou aquela questão, deu uma resposta que foi de pasmar. A resposta do padre, que depois ele fez questão de levar a conhecimento de todos foi a seguinte:</br>
 </br>
 “Antigamente a igreja fazia distinção entre o pecado mortal e venial. Agora não, a misericórdia de Deus está acima de tudo. Para uma pessoa o que é pecado mortal pode ser apenas um pecado venial para a outra. Depende da formação de consciência de cada um”.</br>

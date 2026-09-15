@@ -4,7 +4,7 @@ date: 2016-02-12T12:59:00.001Z
 heroImage: "/images/posts/350-ecumenismo-condenado-por-jesus-ecumenismo2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/350-ecumenismo-condenado-por-jesus-ecumenismo2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="477" data-original-width="476" height="320" src="/images/posts/350-ecumenismo-condenado-por-jesus-ecumenismo2.png" width="319" /></a></div>
+![](/images/posts/350-ecumenismo-condenado-por-jesus-ecumenismo2.png)
 
 Olá caros leitores. Já tem algum tempo que tenho seguido de perto a trajetória do atual papa Francisco. Penso que todo cristão católico precisa acompanhar o que acontece com o pontífice. Sabemos também que todo o mundo coloca seu olhar sempre atento a conduta deste sacerdote que está no comando da igreja católica.
 Particularmente tenho que dizer que me identifico muito mais com o papa emérito Bento XVI e sem sombra de dúvida alguma com o papa João Paulo II. E digo isso porque em seus papados pude identificar em meus estudos e pesquisas uma afinidade mais aproximada com as verdades do evangelho. Claro que quando começamos a escavar a vida de qualquer papa, sempre vão aparecendo erros aqui e ali. Afinal, somos todos pecadores, sujeitos ao erro pela concupiscência, fruto do pecado original, e como nos recorda o livro dos Provérbios 24,16, ainda que justos pecamos diariamente.
@@ -70,6 +70,5 @@ Eis a realidade: São quase 10 gerações completas de povos preparados por sata
 Acontecer o que? Fácil, tome a sua Bíblia, comece pelo profeta Isaías e percorra todos os profetas buscando aquilo que eles falaram sobre o “Dia do Senhor”, que é exatamente aquele dia que São Paulo nos alertou e que “virá como um ladrão”, quando menos se espera, e que pode ser a qualquer momento. Quando pesquisou estes 300 versículos, perceberá que o Livro do Apocalipse de São João, combinado com o pequeno Apocalipse de Daniel (7 a 12) e o capítulo 24 de Isaías, mostram todo o drama dos Fim dos Tempos.
 
 Aí não se terá mais dúvida alguma de que chegamos a ele!
-
 
 fonte: Jefferson Roger e recadosdoaarao.com.br

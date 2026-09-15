@@ -4,7 +4,8 @@ date: 2019-12-09T16:13:00.002Z
 heroImage: "/images/posts/2151-o-que-fazemos-nessa-vida-tem-conseq-escolher.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2151-o-que-fazemos-nessa-vida-tem-conseq-escolher.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2151-o-que-fazemos-nessa-vida-tem-conseq-escolher.png" width="320" height="179" data-original-width="478" data-original-height="267" /></a></div>
+![](/images/posts/2151-o-que-fazemos-nessa-vida-tem-conseq-escolher.png)
+
 Muitos acham que a coisa não é bem dessa maneira. Os grandes intelectuais, sobretudo, quando arriscam falar a respeito das questões religiosas e sobre Deus, arrastam seus comentários para o lado das impossibilidades. Dizem que: como pode um Deus que se denomina como “amor” permitir todo o sofrimento que se vê no mundo e mais, condenar alguém que ele diz amar ao tormento eterno só por causa de um pecado? Muitas vezes um pecado cometido em pouquíssimos minutos?</br>
 </br>
 Pois bem, de fato, com um olhar muito voltado para a superfície da situação corremos o risco de achar que é isso mesmo. Mas o comentário que se faz nessa direção não se ouve nem ao menos o que se diz. Basta uma simples comparação para ajudar no esclarecimento. Um pai ou uma mãe quando repreende e castiga um filho o faz porque ele desviou-se do caminho apontado pelos pais (educação), feriu algum princípio moral, ético, religioso e precisa o quanto antes ser recolocado nos trilhos. Os pais sabem que a tolerância após tolerância, que consiste num constante “passar a mão na cabeça” não fortifica as bases tão necessárias para os enfrentamentos que a vida impõe, tanto natural quanto sobrenatural.</br>

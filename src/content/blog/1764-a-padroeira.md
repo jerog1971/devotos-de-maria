@@ -4,7 +4,9 @@ date: 2021-10-13T20:19:00.005Z
 heroImage: "/images/posts/1764-a-padroeira-padroeira_do_brasil.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1764-a-padroeira-padroeira_do_brasil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="457" data-original-width="456" height="320" src="/images/posts/1764-a-padroeira-padroeira_do_brasil.png" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aquele ou aquela que foi escolhida para ser o intercessor
+![](/images/posts/1764-a-padroeira-padroeira_do_brasil.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Aquele ou aquela que foi escolhida para ser o intercessor
 junto de Deus. Essa é uma das melhores definições atribuídas para a palavra
 padroeira. No caso do nosso tão sofrido e chacoalhado Brasil – Nossa Senhora da
 Imaculada Conceição Aparecida – tem essa missão: diante de seu filho Jesus,
@@ -45,4 +47,7 @@ contribui ainda mais para que a ajuda do crucificado aconteça em nós com maior
 profundidade e intensidade, pois, se Maria intercede por nós, para seu filho
 isso significa que queremos ele em nossas vidas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

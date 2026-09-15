@@ -4,7 +4,8 @@ date: 2015-05-13T12:48:00.001Z
 heroImage: "/images/posts/154-a-tentativa-de-legalizar-o-aborto-no-paraguai-aborto_paraguai.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/154-a-tentativa-de-legalizar-o-aborto-no-paraguai-aborto_paraguai.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/154-a-tentativa-de-legalizar-o-aborto-no-paraguai-aborto_paraguai.png" width="320" height="224" data-original-width="501" data-original-height="350" /></a></div>
+![](/images/posts/154-a-tentativa-de-legalizar-o-aborto-no-paraguai-aborto_paraguai.png)
+
 </br>
 "Menina de 10 anos grávida por estupro no Paraguai": uma manchete assim, sem dúvidas, é de chocar e paralisar qualquer um. Como mãe de uma menina de 12 anos que vive no Paraguai, não posso sequer começar a imaginar o que sentiria em meu coração se algo desse tipo acontecesse a minha filha.</br>
 </br>

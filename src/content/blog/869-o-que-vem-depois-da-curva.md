@@ -4,7 +4,9 @@ date: 2020-09-11T13:42:00.004Z
 heroImage: "/images/posts/869-o-que-vem-depois-da-curva-curva_perigosa.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/869-o-que-vem-depois-da-curva-curva_perigosa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="546" data-original-width="598" height="365" src="/images/posts/869-o-que-vem-depois-da-curva-curva_perigosa.png" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Difícil prever, pode vir qualquer coisa, não temos como
+![](/images/posts/869-o-que-vem-depois-da-curva-curva_perigosa.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Difícil prever, pode vir qualquer coisa, não temos como
 precisar o que nos aguarda. Assim age nosso inimigo número um. O caminho
 apertado que nos leva para a porta do céu é árduo e pesaroso. É subida íngreme
 que devemos superar dia após dia com a cruz nas costas (Lucas 9,23). E nada de
@@ -39,4 +41,7 @@ antiga, mas pelo jeito muito eficiente... Ainda continuamos caindo; devíamos es
 melhor o que Deus nos ensina e deixar de lado a vontade de agir como Eva que
 quis comprovar o que havia depois da curva.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

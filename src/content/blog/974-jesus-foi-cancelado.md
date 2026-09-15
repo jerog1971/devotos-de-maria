@@ -4,7 +4,9 @@ date: 2022-08-08T15:48:00.002Z
 heroImage: "/images/posts/974-jesus-foi-cancelado-Jesus_20foi_20cancelado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/974-jesus-foi-cancelado-Jesus_20foi_20cancelado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="461" data-original-width="519" height="284" src="/images/posts/974-jesus-foi-cancelado-Jesus_20foi_20cancelado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Muito se tem falado, comentado e “espalhado” pelos
+![](/images/posts/974-jesus-foi-cancelado-Jesus_20foi_20cancelado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Muito se tem falado, comentado e “espalhado” pelos
 ventiladores da sociedade a respeito de uma das modas em voga denominadas de ‘cultura
 do cancelamento’. Cancelar alguém, algo ou alguma coisa tem recebido caráter de
 empoderamento para muitas pessoas, mas, como tudo que percorre a vastidão desse
@@ -39,4 +41,4 @@ mais crédito por muitas pessoas, para que sejamos em função de nossas obras
 corremos o risco de sermos “riscados” do livro da vida (Apocalipse 22,15) e
 termos nossa entrada na glória e felicidade eterna do paraíso, cancelada.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><br /> 

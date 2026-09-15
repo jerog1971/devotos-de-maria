@@ -4,7 +4,8 @@ date: 2019-02-07T16:51:00.002Z
 heroImage: "/images/posts/1284-não-tente-ser-quem-você-não-é-seja_voc_25C3_25AA_mesmo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1284-não-tente-ser-quem-você-não-é-seja_voc_25C3_25AA_mesmo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1284-não-tente-ser-quem-você-não-é-seja_voc_25C3_25AA_mesmo.png" width="320" height="305" data-original-width="637" data-original-height="608" /></a></div>
+![](/images/posts/1284-não-tente-ser-quem-você-não-é-seja_voc_25C3_25AA_mesmo.png)
+
 Um dos maiores desafios na vida é ser você mesmo em um mundo que tenta fazê-lo igual a todos os outros. Alguém sempre vai ser mais bonito, alguém sempre será mais esperto, alguém sempre será mais jovem, mas eles jamais serão você. Não mude para que os outros passem a gostar de você. Seja você mesmo e as pessoas certas vão amar quem você é de verdade. (www.awebic.com)</br>
 </br>
 As pessoas estão abrindo mão de sua personalidade, intimidade, privacidade e valores para subirem na esteira rolante do mundo que tenta, com sua liberdade aparente, convencer a todos de que é possível ser livre e ser feliz, fazendo o que seu coração quer e seu corpo pede. É o lema do todo mundo faz, do seguir a moda, a última do pedaço. Quem não adere sente-se excluído, é rotulado de diferente e essa diferença oferece risco para a sociedade.</br>

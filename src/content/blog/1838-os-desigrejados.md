@@ -4,7 +4,8 @@ date: 2017-09-28T19:51:00Z
 heroImage: "/images/posts/1838-os-desigrejados-desigrejados.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1838-os-desigrejados-desigrejados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1838-os-desigrejados-desigrejados.png" width="320" height="269" data-original-width="555" data-original-height="467" /></a></div>
+![](/images/posts/1838-os-desigrejados-desigrejados.png)
+
 Existe pelo mundo afora, e também por aqui no Brasil, uma denominação de pessoas que se intitulam desigrejados. Essa bandeira eles sustentam com muito orgulho pois afirmam seguir a igreja de Cristo (Mateus 16,18) e não as instituições físicas que se intitulam igrejas. Porém, motivados por alguns argumentos até válidos e sinceros, a atitude da pessoa que abandona a igreja, enquanto instituição, esbarra num problema muito grande: eles amam o Cristo cabeça mas não querem fazer parte do corpo de Cristo. Segundo eles, os desigrejados, não é necessário fazer parte de uma instituição para seguir Jesus. Pelo que vi, no histórico dessas pessoas, existem alguns fatores que corroboram para essa guinada.</br>
 </br>
 Frustrações, decepções, indignações e incapacidade de seguir um magistério estão entre as principais causas. Uma coisa é certa. Eles defendem que a pessoa precisa ler muito a bíblia para compreenderem porque não devem fazer parte de qualquer instituição chamada de igreja. Defendem a tese de que a palavra original “igreja” quer dizer assembleia e em nenhum momento na bíblia se encontra essa denominação relacionando-a com as instituições e seus prédios. Bom pessoal, como católico que sou, agora vou defender a religião que pertenço e a sua igreja, que é a católica. Vamos lá.</br>

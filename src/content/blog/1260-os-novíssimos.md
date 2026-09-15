@@ -4,7 +4,9 @@ date: 2023-08-17T18:37:00.002Z
 heroImage: "/images/posts/1260-os-novíssimos-morrer.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1260-os-novíssimos-morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" height="286" src="/images/posts/1260-os-novíssimos-morrer.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sobre este assunto já falamos por aqui; são os últimos
+![](/images/posts/1260-os-novíssimos-morrer.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sobre este assunto já falamos por aqui; são os últimos
 acontecimentos que acometerão cada pessoa. São eles: morte, julgamento,
 sentença, purgatório e/ou céu ou inferno. Pois bem, lemos na bíblia que devemos
 pensar constantemente em nossos novíssimos para que não pequemos. De fato,
@@ -45,4 +47,7 @@ por Deus) ou a ordem celeste do criador, a hora de cada um poderá nos pegar
 desprevenidos. Ai daquele que não seguiu o conselho do Cristo e não foi
 prudente e simples, além de perseverante e vigilante, orando sem cessar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

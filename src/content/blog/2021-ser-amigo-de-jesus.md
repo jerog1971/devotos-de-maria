@@ -4,7 +4,11 @@ date: 2020-07-03T16:22:00.001Z
 heroImage: "/images/posts/2021-ser-amigo-de-jesus-img-1400611283.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2021-ser-amigo-de-jesus-img-1400611283.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="372" height="320" src="/images/posts/2021-ser-amigo-de-jesus-img-1138241128.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Quando Jesus está presente, tudo é suave e nada parece
+<br />
+
+![](/images/posts/2021-ser-amigo-de-jesus-img-1138241128.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Quando Jesus está presente, tudo é suave e nada parece
 dificultoso; mas, quando Jesus está ausente, tudo se torna penoso. Quando Jesus
 não fala ao coração, nenhuma consolação tem valor; mas se Jesus fala uma só
 palavra, sentimos grande alívio. Porventura não se levantou logo Maria Madalena

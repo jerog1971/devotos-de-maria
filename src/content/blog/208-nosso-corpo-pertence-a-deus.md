@@ -4,7 +4,8 @@ date: 2016-06-23T15:30:00.001Z
 heroImage: "/images/posts/208-nosso-corpo-pertence-a-deus-levitico1928.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/208-nosso-corpo-pertence-a-deus-levitico1928.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/208-nosso-corpo-pertence-a-deus-levitico1928.png" width="316" height="320" data-original-width="325" data-original-height="329" /></a></div>
+![](/images/posts/208-nosso-corpo-pertence-a-deus-levitico1928.png)
+
 </br>
 Livro do Levítico 19,28</br>
 </br>

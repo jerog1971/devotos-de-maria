@@ -4,7 +4,9 @@ date: 2020-08-11T20:09:00Z
 heroImage: "/images/posts/127-o-que-para-nós-é-direito-maus_padres_3.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/127-o-que-para-nós-é-direito-maus_padres_3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="254" data-original-width="300" src="/images/posts/127-o-que-para-nós-é-direito-maus_padres_3.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sigamos na seguinte linha de pensamento: qual o contrário de
+![](/images/posts/127-o-que-para-nós-é-direito-maus_padres_3.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sigamos na seguinte linha de pensamento: qual o contrário de
 direito? Se abrirmos um leque de pesquisa encontraremos muitas opções de
 resposta. De certa forma aí reside um certo perigo, pois existe a tentação de “forçarmos”
 uma definição que melhor se encaixe naquilo que queremos. Vamos a um exemplo bem
@@ -48,4 +50,4 @@ direito [do que fazemos de correto por amor a Deus], porque o fraco [que
 insiste em viver sem Jesus (João 15,5) e por isso, sucumbe mais facilmente às
 tentações], em verdade, não serve para nada”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>

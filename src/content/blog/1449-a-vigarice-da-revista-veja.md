@@ -4,7 +4,8 @@ date: 2016-06-23T13:47:00Z
 heroImage: "/images/posts/1449-a-vigarice-da-revista-veja-revista_veja.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1449-a-vigarice-da-revista-veja-revista_veja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1449-a-vigarice-da-revista-veja-revista_veja.png" width="277" height="320" data-original-width="307" data-original-height="355" /></a></div>
+![](/images/posts/1449-a-vigarice-da-revista-veja-revista_veja.png)
+
 HÁ MENTIRAS QUE SÃO DITAS usando uma verdade como instrumento. Os que usam a verdade para conduzir à mentira são mais criminosos do que os que usam a mentira como instrumento de trabalho. A revista Veja trouxe na capa da edição de 15/6/2016, um caso de pedofilia envolvendo um padre em Goiás. Segundo a reportagem, Fabiano Santos Gonzaga, 28 (foto), abusou de um adolescente de 15 numa sauna de um clube. O garoto tem retardo mental e sua compreensão do mundo é próxima a de uma criança de 9 anos de idade. Segundo a denúncia, o padre, ao ficar sozinho com o menino, obrigou-o a fazer sexo oral. Ao que consta, o menino, depois, sem entender bem a gravidade do ocorrido, pediu à mãe para lavar a boca, justificando o porquê. A mãe foi atrás do abusador e descobriu, posteriormente, que era um padre católico. O padre nega o ocorrido, mas, devido o seu celular ter sido apreendido, já se sabe que ele não vivia a castidade e mantinha relações homossexuais.</br>
 </br>
 Um caso escandaloso, sem dúvida, e mais do que isso. Todavia vejamos não somente os terríveis fatos, mas também os bastidores do caso. Da notícia resumida acima, a revista Veja dá uma capa com manchete em letras garrafais: “PEDOFILIA NA IGREJA”. Acompanha o titulo sensacionalista a imagem de um falso padre vestido de batina, segurando um Terço e tampando a boca de uma criança assustada.</br>
@@ -15,7 +16,9 @@ O que se pretende com isso? É evidente que atacar um padre específico não bas
 </br>
 Curioso, mas a pesquisa do sociólogo italiano Massimo Introvigne demonstrou, em 2010, que num período de várias décadas, cem (100) padres foram denunciados na Itália, enquanto 6 mil professores de Educação Física sofriam condenação pelo mesmo delito. Na Alemanha, desde 1995, existiram no total 210 mil denúncias de abusos. Destas 210 mil, 300 estavam ligadas ao clero. Menos de 0,2%. Por que a Imprensa se empenha tanto em comentar, sempre, esta ínfima minoria no quadro geral?</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1449-a-vigarice-da-revista-veja-fabiano.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1449-a-vigarice-da-revista-veja-fabiano.png" width="200" height="178" data-original-width="576" data-original-height="514" /></a></div>
+
+![](/images/posts/1449-a-vigarice-da-revista-veja-fabiano.png)
+
 Sim, somos os primeiros a concordar que, ainda que houvesse apenas um único caso de pedofilia envolvendo um padre, isto seria um crime monstruoso e um absurdo lamentável. Não desejamos justificar nenhum crime, pelo contrário: padres que comprovadamente se envolveram em pedofilia devem ser expulsos do clero e presos. Não é isso o que estamos questionando aqui. O que questionamos é a clara tentativa  de se impor à Igreja uma pecha absolutamente injusta. Negar a proporção dos fatos concretos é render-se à mentira.</br>
 </br>
 Alguém poderia contra-argumentar que o importante é que exista o crime, e não a quantidade de casos. Mas o fato é que nenhuma instituição está livre da pedofilia, e o crime está em querer se associar o prolema à Igreja, como se ela fosse sua causadora ou incentivadora em algum nível, o que simplesmente não é verdade. Insistimos que é uma vergonha que exista um membro da Igreja envolvido nisso, mas negar as devidas proporções do crime é a lógica dos desonestos.</br>

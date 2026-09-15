@@ -4,7 +4,9 @@ date: 2021-05-30T12:22:00.004Z
 heroImage: "/images/posts/1430-enfermidades-que-vem-e-vão-enfermidades.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1430-enfermidades-que-vem-e-vão-enfermidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="435" height="320" src="/images/posts/1430-enfermidades-que-vem-e-vão-enfermidades.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eclesiástico 7,36-40 – “Estende a mão para o pobre, a fim de
+![](/images/posts/1430-enfermidades-que-vem-e-vão-enfermidades.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Eclesiástico 7,36-40 – “Estende a mão para o pobre, a fim de
 que sejam perfeitos teu sacrifício e tua oferenda. Dá de boa vontade a todos os
 vivos, não recuses esse benefício a um morto (a sua oração feita de boa
 vontade, pedindo a Deus por ele e o consolo aos familiares). Não deixes de
@@ -45,4 +47,7 @@ da sentença que me foi dada: a tua será igual; ontem para mim, hoje para ti. N
 paz em que o morto entrou, deixa repousar a sua memória, e conforta-o no
 momento em que exalar o último suspiro”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

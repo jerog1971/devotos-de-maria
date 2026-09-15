@@ -4,7 +4,8 @@ date: 2015-11-24T15:57:00.001Z
 heroImage: "/images/posts/1798-viver-como-irmãos-por-amor-a-cristo-stravinskas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1798-viver-como-irmãos-por-amor-a-cristo-stravinskas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1798-viver-como-irmãos-por-amor-a-cristo-stravinskas.png" width="320" height="199" data-original-width="799" data-original-height="496" /></a></div>
+![](/images/posts/1798-viver-como-irmãos-por-amor-a-cristo-stravinskas.png)
+
 </br>
 Continência no casamento, "viver como irmão e irmã": o caminho que a Igreja sempre indicou aos casais que vivem em segunda união – o qual, para algumas pessoas hoje, soa uma proposta "irrealista" e quase absurda – foi justamente a solução que Peter e Anne Stravinskas encontraram, a fim de conformarem suas vidas à vontade de Deus e estarem aptos para receber a Sagrada Comunhão.</br>
 </br>

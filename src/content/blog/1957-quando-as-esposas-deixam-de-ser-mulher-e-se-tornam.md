@@ -4,7 +4,8 @@ date: 2016-11-25T15:56:00.001Z
 heroImage: "/images/posts/1957-quando-as-esposas-deixam-de-ser-mul-maes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1957-quando-as-esposas-deixam-de-ser-mul-maes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1957-quando-as-esposas-deixam-de-ser-mul-maes.png" width="320" height="293" data-original-width="175" data-original-height="160" /></a></div>
+![](/images/posts/1957-quando-as-esposas-deixam-de-ser-mul-maes.png)
+
 A natureza humana em todo o curso de sua existência deu inúmeros exemplos de que ela procura imitar a natureza divina. Em várias áreas de nossas vidas nos comportamos, ou procuramos nos comportar, de acordo com a conduta celeste. Exemplos são tantos e nem iremos aqui aprecia-los, pois, aqui o que nos vale essa citação, é o seguinte:</br>
 </br>
 Nos evangelhos acompanhamos belíssimos exemplos dados por Jesus quanto a sua vida de oração. É possível acompanhar em toda a narrativa que quando iriam acontecer grandes episódios em sua vida e testemunho, Jesus recorria ao pai através de sua oração. Lembremos aqui o episódio da ressureição de Lázaro, apenas para citar um exemplo. Ou ainda no episódio da agonia de Jesus, quando se colocava para iniciar a sua paixão e morte na cruz. Nestes dois momentos, pela oração ele buscava o que lhe faltava. Força, alento, confiança, consolo e outras necessidades.</br>

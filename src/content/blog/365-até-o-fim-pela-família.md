@@ -4,9 +4,11 @@ date: 2024-12-11T20:55:00.004Z
 heroImage: "/images/posts/365-até-o-fim-pela-família-at_C3_A9_20o_20fim.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/365-até-o-fim-pela-família-at_C3_A9_20o_20fim.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="382" data-original-width="475" height="257" src="/images/posts/365-até-o-fim-pela-família-at_C3_A9_20o_20fim.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/365-até-o-fim-pela-família-at_C3_A9_20o_20fim.png)
 
-<p></p><p class="MsoNormal">Para os fãs da DC o final da temporada, de fato, foi
+<br /> 
+
+<p class="MsoNormal">Para os fãs da DC o final da temporada, de fato, foi
 emocionante e digno de emoções, sensações e aplausos, mesmo no sofá de casa.
 Superman e Lois, durante quatro temporadas, deram vida a muitos aspectos dos
 quadrinhos que embalaram uma história muito boa de se acompanhar. Em casa, meus
@@ -43,5 +45,4 @@ vigilante enxerga os desígnios divinos em toda a parte e todo instante, pois
 Deus fala conosco de muitas maneiras, basta sabermos observar e ouvir.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

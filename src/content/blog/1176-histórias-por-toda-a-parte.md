@@ -4,7 +4,9 @@ date: 2024-03-11T19:24:00.003Z
 heroImage: "/images/posts/1176-histórias-por-toda-a-parte-Jeff_20e_20Deb_2003.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1176-histórias-por-toda-a-parte-Jeff_20e_20Deb_2003.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="686" data-original-width="720" height="305" src="/images/posts/1176-histórias-por-toda-a-parte-Jeff_20e_20Deb_2003.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se alguém discordar que nossas vidas são páginas e mais páginas
+![](/images/posts/1176-histórias-por-toda-a-parte-Jeff_20e_20Deb_2003.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se alguém discordar que nossas vidas são páginas e mais páginas
 de uma história, tudo bem, pensa-se cada um como quiser a respeito de sua vida.
 No entanto, não vamos a cada passo que damos, deixando marcas na vida das
 pessoas, lembranças, ensinamentos, legados e todo tipo de registro? Para nos
@@ -37,4 +39,7 @@ transforme em algo bom o que um dia não foi. Aposto que irá se sentir melhor e
 irá agradar a pessoa número um da fila de pessoas que te ama e sempre fica
 feliz por você fazer o que é certo: Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

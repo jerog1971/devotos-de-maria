@@ -4,7 +4,8 @@ date: 2016-02-05T11:21:00Z
 heroImage: "/images/posts/1690-o-diabo-do-canal-fox-diabo_na_fox.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1690-o-diabo-do-canal-fox-diabo_na_fox.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1690-o-diabo-do-canal-fox-diabo_na_fox.png" width="320" height="180" data-original-width="632" data-original-height="355" /></a></div>
+![](/images/posts/1690-o-diabo-do-canal-fox-diabo_na_fox.png)
+
 </br>
 A nova estrela do canal Fox é ninguém menos que o próprio diabo. Trata-se de mais uma guinada da televisão para o satanismo.</br>
 </br>

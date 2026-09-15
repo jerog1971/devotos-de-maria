@@ -4,7 +4,8 @@ date: 2020-04-05T14:03:00.003Z
 heroImage: "/images/posts/1483-o-significado-do-domingo-de-ramos-domingo_de_ramos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1483-o-significado-do-domingo-de-ramos-domingo_de_ramos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1483-o-significado-do-domingo-de-ramos-domingo_de_ramos.png" width="305" height="320" data-original-width="394" data-original-height="414" /></a></div>
+![](/images/posts/1483-o-significado-do-domingo-de-ramos-domingo_de_ramos.png)
+
 De imediato vamos logo colocando que o significado deste dia, distante da páscoa uma semana, é relembrar o evangelho de Lucas, no qual conta a chegada de Jesus a Jerusalém. Depois dos 40 dias de deserto, Cristo volta à sua cidade montado em um burrico e é saudado pelo povo com ramos nas mãos. Ademais, o verdadeiro sentido dos ramos em nossas casas é lembrar que Jesus é nosso rei e que devemos sempre dar-lhes as boas-vindas em nosso lar.</br>
 </br>
 Fora isso as crendices populares contam as mais diversas serventias para os ramos bentos, como “acalmar tempestades”, “fazer chá para dor de barriga e cólica de criança”, “colocar-se na janela para diminuir ventanias” e assim por diante. Todavia o caso não é esse, quando abençoados na celebração eles possuem outro papel.</br>

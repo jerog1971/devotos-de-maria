@@ -4,7 +4,8 @@ date: 2016-04-11T14:49:00.001Z
 heroImage: "/images/posts/2001-desobediência-real-ad_25C3_25A3o_e_eva.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2001-desobediência-real-ad_25C3_25A3o_e_eva.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2001-desobediência-real-ad_25C3_25A3o_e_eva.png" width="288" height="320" data-original-width="257" data-original-height="286" /></a></div>
+![](/images/posts/2001-desobediência-real-ad_25C3_25A3o_e_eva.png)
+
 Mateus 16,18-19 - 18 E eu te declaro: tu és Pedro, e sobre esta pedra edificarei a minha Igreja; as portas do inferno não prevalecerão contra ela.
 19 Eu te darei as chaves do Reino dos céus: tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus.</br>
 </br>

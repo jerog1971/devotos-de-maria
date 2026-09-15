@@ -4,7 +4,9 @@ date: 2022-11-04T15:39:00Z
 heroImage: "/images/posts/1668-não-deixe-seus-problemas-de-lado-resolvendo_20problemas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1668-não-deixe-seus-problemas-de-lado-resolvendo_20problemas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="438" data-original-width="497" height="282" src="/images/posts/1668-não-deixe-seus-problemas-de-lado-resolvendo_20problemas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se você almeja a felicidade em sua vida, certamente e muito
+![](/images/posts/1668-não-deixe-seus-problemas-de-lado-resolvendo_20problemas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se você almeja a felicidade em sua vida, certamente e muito
 possivelmente você atrela esta felicidade com a ausência de problemas e a
 presença de prazeres. Pois é, provavelmente você já deve ter percebido que
 alguma coisa não se encaixa neste conceito. Mais acertado seria dizer que os
@@ -41,4 +43,7 @@ interceder. “Sem mim nada podeis fazer” – nos disse o Cristo (João 15,5).
 acumulem. Isso pode soterrar nossas vidas e nossos corações o que dificultará
 além do necessário nossa caminhada rumo ao céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

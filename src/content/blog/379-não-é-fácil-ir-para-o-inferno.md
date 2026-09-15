@@ -4,7 +4,8 @@ date: 2016-07-18T13:42:00Z
 heroImage: "/images/posts/379-não-é-fácil-ir-para-o-inferno-padre.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/379-não-é-fácil-ir-para-o-inferno-padre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/379-não-é-fácil-ir-para-o-inferno-padre.png" width="320" height="234" data-original-width="390" data-original-height="285" /></a></div>
+![](/images/posts/379-não-é-fácil-ir-para-o-inferno-padre.png)
+
 Esta foi a afirmação de um sacerdote chamado Padre Gilson Cézar de Camargo, que atua na data deste artigo, na cidade de Imbituva-PR. Em sua explicação sobre céu e inferno, sobre o que é pecado ou não, realizada em julho de 2016, numa formação realizada em Curitiba-PR, da qual participei, ele explicou que quem vai para o inferno é quem “Rejeita Deus”. São palavras deles.</br>
 </br>
 Sua explicação, como não fazia parte do tema, foi insuficiente para encerrar a questão. Para as mentes pouco instruídas nas verdades da fé, por não haver aprofundamento na questão do que é “rejeitar”, a ambiguidade que suas palavras trouxeram aos presentes torna-se perigosa dependendo do solo em que esta semente caiu.</br>

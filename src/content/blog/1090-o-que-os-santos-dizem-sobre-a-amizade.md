@@ -4,7 +4,9 @@ date: 2022-09-28T16:35:00.001Z
 heroImage: "/images/posts/1090-o-que-os-santos-dizem-sobre-a-amizade-amizades.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1090-o-que-os-santos-dizem-sobre-a-amizade-amizades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="498" height="280" src="/images/posts/1090-o-que-os-santos-dizem-sobre-a-amizade-amizades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Por amizades perigosas entendem-se, em particular, as
+![](/images/posts/1090-o-que-os-santos-dizem-sobre-a-amizade-amizades.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Por amizades perigosas entendem-se, em particular, as
 sensuais, isto é, aquelas que se baseiam sobre uma complacência sensual, sobre
 a fruição comum de prazeres dos sentidos, sobre certas qualidades fúteis e vãs
 de espírito e coração. Essas amizades são já por si perigosas, mesmo que, no
@@ -37,4 +39,7 @@ ficando na ocasião, diz São Tomás, fazendo violência contra nós mesmos; mas
 vício contrário à pureza, porém, só o poderemos vencer fugindo da ocasião e renunciando
 às afeições perigosas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

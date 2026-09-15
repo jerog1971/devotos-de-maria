@@ -4,7 +4,9 @@ date: 2022-12-05T10:41:00.001Z
 heroImage: "/images/posts/1605-purgando-aos-poucos-Purgando_20aos_20poucos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1605-purgando-aos-poucos-Purgando_20aos_20poucos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="272" data-original-width="245" height="272" src="/images/posts/1605-purgando-aos-poucos-Purgando_20aos_20poucos.png" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Da mesma forma que as coisas vêm, elas vão. O sujeito não
+![](/images/posts/1605-purgando-aos-poucos-Purgando_20aos_20poucos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Da mesma forma que as coisas vêm, elas vão. O sujeito não
 cai numa vida desregrada de uma hora para outra; não deita em amizade com Deus
 e acorda amigo do diabo. O processo para se cair no abismo começa com o primeiro
 passo e de passo em passo vai conduzindo a pobre alma para a beirada do abismo,
@@ -33,4 +35,7 @@ coração e preenche-lo ocupando o lugar da morada do Espírito Santo. “Quem
 quiser se salvar (disse Jesus), renuncie a si mesmo, tome sua cruz dia após dia
 e me siga” – Lucas 9,23.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

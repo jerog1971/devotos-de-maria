@@ -4,7 +4,8 @@ date: 2018-10-22T18:37:00Z
 heroImage: "/images/posts/927-e-eles-como-ficam-familia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/927-e-eles-como-ficam-familia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/927-e-eles-como-ficam-familia.png" width="320" height="318" data-original-width="462" data-original-height="459" /></a></div>
+![](/images/posts/927-e-eles-como-ficam-familia.png)
+
 Se somos egoístas...</br>
 Eles que se danem.</br>
 Se somos pessimistas...</br>

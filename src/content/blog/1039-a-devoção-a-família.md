@@ -4,7 +4,9 @@ date: 2024-01-23T19:39:00.004Z
 heroImage: "/images/posts/1039-a-devoção-a-família-devo_C3_A7_C3_A3o_20a_20familia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1039-a-devoção-a-família-devo_C3_A7_C3_A3o_20a_20familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="372" data-original-width="393" height="303" src="/images/posts/1039-a-devoção-a-família-devo_C3_A7_C3_A3o_20a_20familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muito importante é a devoção a família; aliada aos alicerces
+![](/images/posts/1039-a-devoção-a-família-devo_C3_A7_C3_A3o_20a_20familia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muito importante é a devoção a família; aliada aos alicerces
 de verdade, justiça e lealdade, a pessoa consegue manter seu rumo nesta vida
 bem apontado para a direção correta: a direção da pátria celeste. Como poderia
 ter melhor chance sem estar aliado a pessoas que comungam de mesmos ideais de
@@ -30,4 +32,7 @@ Desde o matrimônio, a maternidade e paternidade, a prosperidade de seus membros
 e os obstáculos impostos pelo mundo além daqueles enviados por Deus, lá está a
 família: se bem vivida será uma porta de entrada para o céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2019-03-22T17:56:00.001Z
 heroImage: "/images/posts/824-videogames-violentos-não-criam-assas-jogos_violentos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/824-videogames-violentos-não-criam-assas-jogos_violentos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="482" data-original-width="500" height="308" src="/images/posts/824-videogames-violentos-não-criam-assas-jogos_violentos.png" width="320" /></a></div>
+![](/images/posts/824-videogames-violentos-não-criam-assas-jogos_violentos.png)
+
 Pois bem, caros leitores, todos acompanharam o recente acontecimento numa cidade do interior de São Paulo (Suzano). Mortos feridos e suicídios foram relacionados à forte influência dos jogos violentos que existem nas mais variadas plataformas de videogames. Para começar o artigo, posso ir adiantando que faço parte dessa fatia de pessoas que joga, e não joga (ou melhor seria dizer) não jogo pouco. Lá se vão muitas horas reservadas para esse entretenimento e também muitos anos. Já joguei uma variedade imensa de jogos e tenho assim como qualquer um, minhas preferências e posso dizer que depois de tanto tempo ainda não virei assassino tampouco criei tendências violentas. Ademais, para endossar um pouco mais a reflexão, transcrevo aqui outro artigo que pode ser encontrado no site https://brasilescola.uol.com.br/sociologia/videogames-violentos-nao-criam-assassinos.htm - acessado em 22/03/2019 onde sobre o assunto é falado um pouco mais. Vamos a ele:
 
 “Os videogames matam? Será que a culpa da violência dos jovens na atualidade é por causa da excessiva quantidade de jogos eletrônicos violentos? Não está determinado ainda se videogames violentos conduzem crianças a comportamento sanguinário, mas um novo estudo concluiu que jogos de tiro não transformam garotos em assassinos. Karen Sterheimer, socióloga da Universidade de Southern California que pesquisa este assunto desde 1999, disse que culpar os videogames pela violência dos jovens é algo muito relevante e deixa de considerar outros fatores importantes que podem claramente influenciar no comportamento do jovem. 
@@ -15,9 +16,7 @@ A pesquisa de Sterheimer, que envolve análise da cobertura jornalística e de e
 
 Sterheimer disse que culpar os videogames inocenta o ambiente em que a criança foi criada e também remove a culpa dos criminosos. "O problema é complicado e merece mais que uma solução simples", afirmou.”<br />
 
-
 Fonte: Jefferson Roger
-
 
 Artigo relacionado:
 

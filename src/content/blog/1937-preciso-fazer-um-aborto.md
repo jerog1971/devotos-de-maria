@@ -4,7 +4,8 @@ date: 2016-08-31T19:32:00Z
 heroImage: "/images/posts/1937-preciso-fazer-um-aborto-aborto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1937-preciso-fazer-um-aborto-aborto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1937-preciso-fazer-um-aborto-aborto.png" width="320" height="255" data-original-width="443" data-original-height="353" /></a></div>
+![](/images/posts/1937-preciso-fazer-um-aborto-aborto.png)
+
 Caros leitores, a frase deste artigo é uma das que configura nas pesquisas que levam as pessoas a procurarem na internet por este tipo de informação. Infelizmente para elas, tantos sites aparecem nas pesquisas oferecendo o que querem, mas também, tantos outros oferecendo a oportunidade de conhecer a mão sempre estendida de Deus, que está a ponto de ser cuspida, pelo desespero e outros motivos errados, que levam a pessoa em sua ignorância a querer fazer parte do rol dos assassinos.</br>
 </br>
 Partindo daqui o que podemos perceber é que a privacidade da internet (até certo ponto), permite que qualquer pessoa sem os devidos cuidados, navegue pelo mundo virtual da rede mundial em busca de informações. E certamente, como bem sabemos, acabará encontrando. Antigamente era preciso um pouco mais de coragem e atrevimento porque precisávamos nos dirigir até uma biblioteca, nos expormos na tentativa de encontrar a informação que queríamos e isso também levava mais tempo.</br>

@@ -4,7 +4,11 @@ date: 2020-06-30T16:04:00.001Z
 heroImage: "/images/posts/608-consideração-própria-cuidado.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/608-consideração-própria-cuidado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="401" data-original-width="416" src="/images/posts/608-consideração-própria-cuidado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não podemos confiar muito em nós, porque frequentemente nos
+<br />
+
+![](/images/posts/608-consideração-própria-cuidado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não podemos confiar muito em nós, porque frequentemente nos
 faltam a graça e o critério. Pouca luz temos em nós e esta facilmente a
 perdemos por negligência. De ordinário também não avaliamos quanta é nossa
 cegueira interior. A miúdo procedemos mal e nos desculpamos, o que é pior. Às

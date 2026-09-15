@@ -4,7 +4,8 @@ date: 2020-04-18T15:26:00.003Z
 heroImage: "/images/posts/438-credo-niceno-constantinopolitano-credo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/438-credo-niceno-constantinopolitano-credo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/438-credo-niceno-constantinopolitano-credo.png" width="238" height="320" data-original-width="179" data-original-height="241" /></a></div>
+![](/images/posts/438-credo-niceno-constantinopolitano-credo.png)
+
 O Símbolo denominado niceno-constantinopolitano tem sua grande autoridade no fato de ter resultado dos dois primeiros Concílios ecumênicos (325 e 381). Ainda hoje ele é comum a todas as grandes Igrejas do Oriente e do Ocidente.”(CIC§ 195)</br>
 </br>
 O Credo Niceno-Constantinopolitano ou Símbolo Niceno-Constantinopolitano, é uma declaração de fé cristã que é aceita pela Igreja Católica e pela Igreja Ortodoxa. O nome está relacionado com o Primeiro Concílio de Niceia (325), no qual foi adotado, e com o Primeiro Concílio de Constantinopla (381), onde foi aceita uma versão revista. Por esse motivo, ele pode ser referido especificamente como o Credo Niceno-Constantinopolitano para o distinguir tanto da versão de 325 como de versões posteriores que incluem a cláusula filioque. Houve vários outros credos elaborados em reação a doutrinas que apareceram posteriormente como heresias, mas este, na sua revisão de 381, foi o último em que as comunhões católica e ortodoxa conseguiram concordar em todos os pontos.</br>

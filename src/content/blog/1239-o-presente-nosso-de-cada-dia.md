@@ -4,7 +4,9 @@ date: 2021-07-13T15:20:00.004Z
 heroImage: "/images/posts/1239-o-presente-nosso-de-cada-dia-presente_da_vida.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1239-o-presente-nosso-de-cada-dia-presente_da_vida.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="828" data-original-width="1515" src="/images/posts/1239-o-presente-nosso-de-cada-dia-presente_da_vida.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa vida percorre uma trajetória de início, meio e fim. Quanto
+![](/images/posts/1239-o-presente-nosso-de-cada-dia-presente_da_vida.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nossa vida percorre uma trajetória de início, meio e fim. Quanto
 ao período em que ela se passa nunca soubemos, nem saberemos; não sabemos
 quando começará, nem se estamos no fim, tampouco se irá acabar naquele exato
 momento. Ela é assim, tem uma duração que desconhecemos e por isso, se torna um
@@ -34,4 +36,7 @@ inabaláveis, de que um dia estaremos na felicidade eterna do reino dos céus
 onde, olhando para trás, iremos agradecer por termos escolhido o “sim” e “resistidos
 até o sangue na luta contra o pecado” – Hebreus 12,4.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

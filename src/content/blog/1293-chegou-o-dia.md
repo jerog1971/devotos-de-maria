@@ -4,7 +4,9 @@ date: 2024-04-15T20:13:00.003Z
 heroImage: "/images/posts/1293-chegou-o-dia-chegou_20o_20dia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1293-chegou-o-dia-chegou_20o_20dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="457" data-original-width="452" height="320" src="/images/posts/1293-chegou-o-dia-chegou_20o_20dia.png" width="316" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Enfim, este é o artigo de número dois mil deste pequeno site
+![](/images/posts/1293-chegou-o-dia-chegou_20o_20dia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Enfim, este é o artigo de número dois mil deste pequeno site
 que tem a ousadia de se pronunciar defendendo a religião católica autêntica e
 tradicional. Tirando as demais páginas do site, que juntas acrescentam mais de
 nossa tão querida e amada doutrina, este pequeno texto comemora sim, uma
@@ -43,4 +45,7 @@ palavras do Cristo, nos foi preparado desde o início dos tempos. Obrigado a
 todos que por aqui passam, passaram e retornaram. Que a bênção de Deus Pai Todo
 Poderoso desça sobre você e toda a sua família, amém.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

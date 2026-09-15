@@ -4,7 +4,9 @@ date: 2021-10-21T00:58:00Z
 heroImage: "/images/posts/777-deus-e-a-distinção-de-pessoas-img-1255676371.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/777-deus-e-a-distinção-de-pessoas-img-1255676371.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="294" height="294" src="/images/posts/777-deus-e-a-distinção-de-pessoas-img-1987728554.png" width="294" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas pessoas são facilmente ludibriadas pelo demônio – que
+![](/images/posts/777-deus-e-a-distinção-de-pessoas-img-1987728554.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitas pessoas são facilmente ludibriadas pelo demônio – que
 conhece muito bem as escrituras – quando são convencidas a aderir, praticar e
 ensinar o mal assim que aceitam a expressão, vinda diretamente do inimigo de que
 Deus não faz distinção de pessoas. Não importa o que você faz, como pense, no
@@ -37,4 +39,7 @@ da morte será abençoado. O temor ao Senhor expulsa o pecado, pois aquele que
 não tem esse temor não poderá tornar-se justo. A violência de sua paixão
 causará sua ruína”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-08-23T13:12:00Z
 heroImage: "/images/posts/1241-o-discípulo-de-santo-agostinho-prospero.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1241-o-discípulo-de-santo-agostinho-prospero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1241-o-discípulo-de-santo-agostinho-prospero.png" width="314" height="320" data-original-width="375" data-original-height="382" /></a></div>
+![](/images/posts/1241-o-discípulo-de-santo-agostinho-prospero.png)
+
 São Próspero de Aquitânia, hoje chamada de Limoges na França, tornou-se grande escritor e teólogo. Como monge leigo, combatia a heresia da época que Pelágio insistia em divulgar de que a graça divina era importante, mas não essencial para a salvação pois bastava o esforço pessoal de cada um. Também Pelágio propagava que era contra a doutrina do pecado original. Nesta época, período que acontecia dentro do ano 400 em diante, São Próspero conheceu Agostinho, que tornou-se seu mestre. Por ser grande escritor ele manifestava através de seus escritos sua defesa em favor dos ensinos de Santo Agostinho, que na época eram criticados por muitos do clero. Chegou ao ponto de escrever ao sumo pontífice Celestino I, que determinou por documento que os bispos da França deixassem este imenso doutor e mestre da igreja fora de suas críticas.</br>
 </br>
 Tudo que se sabe a respeito de São Próspero se reúne nos materiais que ele mesmo produzia. Na história da igreja existe relato de um quadro feito sobre o santo que está exposto na igreja de São Clemente em Roma, local que em 417 o papa Zózimo condenou a heresia do pelagianismo, fortemente combatida por São Próspero.</br>

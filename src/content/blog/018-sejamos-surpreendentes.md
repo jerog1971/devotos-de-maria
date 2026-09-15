@@ -4,7 +4,9 @@ date: 2023-07-04T18:12:00.003Z
 heroImage: "/images/posts/018-sejamos-surpreendentes-Surpreendente.jpg"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/018-sejamos-surpreendentes-Surpreendente.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="564" data-original-width="942" height="192" src="/images/posts/018-sejamos-surpreendentes-Surpreendente.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como é bacana quando nos deparamos com uma experiência
+![](/images/posts/018-sejamos-surpreendentes-Surpreendente.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Como é bacana quando nos deparamos com uma experiência
 impactante e que nos agrada muito. Como exemplo, destacamos o final
 surpreendente da terceira temporada da série Superman e Lois, onde o inimigo
 Bizarro de temporadas passadas é transformado por Lex Luthor numa versão do
@@ -44,4 +46,7 @@ prêmio por qualquer ato heroico, mas sim, por termos sidos fiéis a Deus e com
 isso ouvirmos de Jesus a frase que todos almejam no coração escutar: Vinde Benditos
 de meu pai, para o reino que vos fostes preparado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

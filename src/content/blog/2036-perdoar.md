@@ -4,7 +4,9 @@ date: 2024-04-22T20:16:00.002Z
 heroImage: "/images/posts/2036-perdoar-Perdonar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2036-perdoar-Perdonar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="564" data-original-width="464" height="320" src="/images/posts/2036-perdoar-Perdonar.png" width="263" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, Jesus nos avisou que se não perdoarmos as ofensas
+![](/images/posts/2036-perdoar-Perdonar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois é, Jesus nos avisou que se não perdoarmos as ofensas
 (pecados) cometidos contra nós, tampouco Deus nos perdoará. Ou seja, existe aí
 uma condição divina: perdoou, eu te perdoo; não perdoou, não lhe perdoo. Que coisa
 hein! E ainda vai mais longe a questão: quando o apóstolo Pedro perguntou a
@@ -41,4 +43,7 @@ final, o que parece é que tentamos inutilmente agir sozinhos; padecemos por
 isso muito mais que padeceríamos se não tivéssemos largado a mão de Deus
 durante o retorno par ao céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

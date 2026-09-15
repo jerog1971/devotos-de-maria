@@ -4,7 +4,11 @@ date: 2020-05-08T15:48:00.003Z
 heroImage: "/images/posts/1499-palavras-duras-AVvXsEhENgD-Va0KbeGVPr87VwCU4ewy35yIFaPDisdCrGaPluL1uXuxEkqxTEK-l5k9tcE8wkMQrp1DQFHi6uH7CRGcu4FJy8Hcb3239jbBoz8P2d_MZ14_vgSV5mVNCKCFKMDu-EUaiVqwtWU.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1499-palavras-duras-AVvXsEhENgD-Va0KbeGVPr87VwCU4ewy35yIFaPDisdCrGaPluL1uXuxEkqxTEK-l5k9tcE8wkMQrp1DQFHi6uH7CRGcu4FJy8Hcb3239jbBoz8P2d_MZ14_vgSV5mVNCKCFKMDu-EUaiVqwtWU.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="308" data-original-width="451" src="/images/posts/1499-palavras-duras-AVvXsEhENgD-Va0KbeGVPr87VwCU4ewy35yIFaPDisdCrGaPluL1uXuxEkqxTEK-l5k9tcE8wkMQrp1DQFHi6uH7CRGcu4FJy8Hcb3239jbBoz8P2d_MZ14_vgSV5mVNCKCFKMDu-EUaiVqwtWU.jpgs320/falta+de+%25C3%25A1gua.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 18,15-17 – “Meu filho, não mistures a
+<br />
+
+![](/images/posts/1499-palavras-duras-AVvXsEhENgD-Va0KbeGVPr87VwCU4ewy35yIFaPDisdCrGaPluL1uXuxEkqxTEK-l5k9tcE8wkMQrp1DQFHi6uH7CRGcu4FJy8Hcb3239jbBoz8P2d_MZ14_vgSV5mVNCKCFKMDu-EUaiVqwtWU.jpgs320/falta+de+%25C3%25A1gua.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Eclesiástico 18,15-17 – “Meu filho, não mistures a
 repreensão com o benefício, não acrescentes nunca palavras duras e más às tuas
 dádivas. Porventura o orvalho não refresca o calor ardente? Assim, uma palavra
 doce vale mais do que um presente. A doçura da palavra não prevalece sobre a
@@ -35,6 +39,6 @@ de realidade para que o povo acorde e pare de viver como se a vida fosse um
 parque de diversões e um Shopping Center 24 horas por dia. Jesus disse: “não se
 perturbe o vosso coração.”</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

@@ -4,7 +4,8 @@ date: 2016-08-01T17:40:00Z
 heroImage: "/images/posts/868-freira-não-recua-diante-da-guerra-freira_maria_de_guadalupe.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/868-freira-não-recua-diante-da-guerra-freira_maria_de_guadalupe.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/868-freira-não-recua-diante-da-guerra-freira_maria_de_guadalupe.png" width="320" height="297" data-original-width="253" data-original-height="235" /></a></div>
+![](/images/posts/868-freira-não-recua-diante-da-guerra-freira_maria_de_guadalupe.png)
+
 A irmã Maria de Guadalupe Rodrigo está em missão na Síria desde que a guerra começou. E não tem nenhuma pretensão de sair de lá.</br>
 </br>
 A crise na Síria é uma das mais graves das últimas duas décadas, com milhões de pessoas desabrigadas e mais de 210 mil mortos. "Eu não sabia o que era a guerra", revela à agência Zenit a freira Maria de Guadalupe Rodrigo. "Não é possível imaginar o seu alcance até que a vivamos na pele. É o flagelo mais horroroso que pode sofrer um povo." Vivendo desde 2011 na cidade de Alepo, a mais atingida pelo conflito, essa missionária argentina entrou para a vida religiosa com apenas 18 anos, em uma congregação relativamente nova, o "Instituto do Verbo Encarnado". Ao fazer sua profissão, essa servidora "do Senhor e da Virgem de Matará" (SSVM) — o ramo feminino da comunidade — abandonou o nome de batismo, Jimena, para chamar-se María de Guadalupe. A troca, no entanto, não lhe tirou o sobrenome Rodrigo, herdado de seu avô espanhol.</br>

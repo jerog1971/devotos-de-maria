@@ -4,7 +4,9 @@ date: 2021-05-13T23:08:00Z
 heroImage: "/images/posts/1429-fácil-de-cometer-difícil-de-abandonar-pecados_da_carne.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1429-fácil-de-cometer-difícil-de-abandonar-pecados_da_carne.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="311" src="/images/posts/1429-fácil-de-cometer-difícil-de-abandonar-pecados_da_carne.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nas palavras do Padre Tomaz de Kemphis assim se refere o
+![](/images/posts/1429-fácil-de-cometer-difícil-de-abandonar-pecados_da_carne.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nas palavras do Padre Tomaz de Kemphis assim se refere o
 sacerdote em relação aos pecados dos prazeres, que embotam a mente, o corpo e
 os sentidos e, como os entorpecentes, mexem na química do corpo promovendo
 inclusive uma alteração da razão. Assim, afastados de Deus por estar
@@ -38,4 +40,7 @@ infelizmente, tornando-se inimigo do altíssimo, já que abraçou a amizade do
 mundo: “Adúlteros, não sabeis que o amor do mundo é abominado por Deus? Todo aquele
 que quer ser amigo do mundo constitui-se inimigo de Deus” – Tiago 4,4.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

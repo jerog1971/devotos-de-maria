@@ -4,7 +4,8 @@ date: 2018-10-08T20:08:00.001Z
 heroImage: "/images/posts/867-o-manto-da-humildade-humildade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/867-o-manto-da-humildade-humildade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/867-o-manto-da-humildade-humildade.png" width="311" height="320" data-original-width="342" data-original-height="352" /></a></div>
+![](/images/posts/867-o-manto-da-humildade-humildade.png)
+
 “O diabo pode ocultar-se até sob o manto da humildade, mas não sabe vestir o manto da obediência”. Quem disse isso foi Santa Maria Faustina Kowalska, a mensageira da divina misericórdia que em toda a sua vida nos dá o exemplo de como um cristão deve viver próximo de Jesus e dos sacramentos da confissão e eucaristia.</br>
 </br>
 Queres ser humilde? Como fazer, a bíblia tem as respostas, vamos resumir?</br>

@@ -4,12 +4,11 @@ date: 2023-08-28T21:48:00.007Z
 heroImage: "/images/posts/1941-esforço-e-dedicação-exemplo-mimica5.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1941-esforço-e-dedicação-exemplo-mimica5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="1280" height="240" src="/images/posts/1941-esforço-e-dedicação-exemplo-mimica5.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou se vai com isso em mente, tocando a vida para frente, ou
-a derrocada é assunto decretado no inferno para a alma que insiste em caminhar
-pelas estradas paralelas, tentando fugir da fiscalização; algo inútil, diga-se
-de passagem. Deus, que vê no oculto e enxerga dentro dos corações, certamente
-lamenta quando uma de suas criaturas vacila na crença dos céus e afrouxa a
-vigilância no percurso.<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1941-esforço-e-dedicação-exemplo-mimica7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="1280" height="240" src="/images/posts/1941-esforço-e-dedicação-exemplo-mimica7.jpg" width="320" /></a></div><br /><p class="MsoNormal">Não deixa de se esforçar, tampouco de se dedicar, todavia
+![](/images/posts/1941-esforço-e-dedicação-exemplo-mimica5.jpg)
+
+![](/images/posts/1941-esforço-e-dedicação-exemplo-mimica7.jpg)
+
+<br /><p class="MsoNormal">Não deixa de se esforçar, tampouco de se dedicar, todavia
 muda sua direção, radicaliza amenizado pelos discursos da outra parte, os discursos
 do mundo, que sempre irão oferecer a solução mágica, instantânea, com recompensas
 imediatas e sem contratempos. Bem conto da carochinha mesmo e o sujeito é
@@ -27,4 +26,7 @@ nossas crianças. Para que aprendam desde cedo pelo que vale a pena viver, porqu
 vale a pena termos família e a amarmos, amando a Deus sobre todas as coisas e
 ao próximo como a nós mesmos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

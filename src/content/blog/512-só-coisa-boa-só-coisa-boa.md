@@ -4,7 +4,9 @@ date: 2021-07-27T15:09:00.003Z
 heroImage: "/images/posts/512-só-coisa-boa-só-coisa-boa-s_25C3_25B3_coisa_boa.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/512-só-coisa-boa-só-coisa-boa-s_25C3_25B3_coisa_boa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="336" height="320" src="/images/posts/512-só-coisa-boa-só-coisa-boa-s_25C3_25B3_coisa_boa.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sofrimentos, tribulações, preocupações, dificuldades,
+![](/images/posts/512-só-coisa-boa-só-coisa-boa-s_25C3_25B3_coisa_boa.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sofrimentos, tribulações, preocupações, dificuldades,
 provações, tentações, problemas e a lista pode ainda seguir em frente; porém,
 todos esses acontecimentos, por mais que pareçam ruins, de acordo com o olhar sobrenatural
 e divino não o são, ao contrário, além de necessários são benefícios e oportunidades
@@ -30,4 +32,7 @@ vida, seus desdobramentos e a balança do bem e do mal. Relativizar o que é bom
 e vigiar e orar sem cessar, pois tudo nos é permitido, mas nem tudo nos convém
 e isso, podemos discernir com o auxílio do Espírito Santo de Deus”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

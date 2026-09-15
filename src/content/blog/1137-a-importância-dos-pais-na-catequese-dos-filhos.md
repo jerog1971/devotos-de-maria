@@ -4,7 +4,8 @@ date: 2016-08-18T17:33:00.001Z
 heroImage: "/images/posts/1137-a-importância-dos-pais-na-catequese-dos-filhos-importancia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1137-a-importância-dos-pais-na-catequese-dos-filhos-importancia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="387" height="320" src="/images/posts/1137-a-importância-dos-pais-na-catequese-dos-filhos-importancia.png" width="244" /></a></div>
+![](/images/posts/1137-a-importância-dos-pais-na-catequese-dos-filhos-importancia.png)
+
 Catequese significa “fazer ecoar a palavra de Deus”. Sendo assim, a catequese dos filhos é algo que precisa ser levado em primeiro lugar pelos pais (Mateus 6,33). Infelizmente, a falta de conhecimento, empenho, dedicação e amor pela causa, que é tão importante na vida dos filhos, acaba fazendo com que pais e responsáveis terceirizem a parte que lhes cabem.
 
 Nem sempre foi assim. Em gerações passadas o ensino religioso vinha numa constante e forte tradição de pai para filho. Tradição esta que é comprovada biblicamente (2ª Tessalonicenses 3,6). Sempre, o que se recebeu passou-se adiante. E também esta tradição foi um mandato divino concedido por Deus Pai: Deuteronômio 6,6-7: “Os mandamentos que hoje te dou serão gravados no teu coração. Tu os inculcarás a teus filhos, e deles falarás, seja sentado em tua casa, seja andando pelo caminho, ao te deitares e ao te levantares.”
@@ -21,6 +22,5 @@ Além de participar da catequese dos filhos é importante catequiza-los e isto, 
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/05/o-papel-dos-pais-na-catequese.html" target="_blank">O papel dos pais na catequese</a>
-
 
 fonte: Jefferson Roger

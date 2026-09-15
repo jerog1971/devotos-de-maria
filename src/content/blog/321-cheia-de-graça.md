@@ -4,7 +4,9 @@ date: 2022-12-08T15:52:00.003Z
 heroImage: "/images/posts/321-cheia-de-graça-cheia_20de_20gra_C3_A7a.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/321-cheia-de-graça-cheia_20de_20gra_C3_A7a.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="310" height="320" src="/images/posts/321-cheia-de-graça-cheia_20de_20gra_C3_A7a.png" width="258" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Foi o que o enviado de Deus, o anjo Gabriel disse ao saudar
+![](/images/posts/321-cheia-de-graça-cheia_20de_20gra_C3_A7a.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Foi o que o enviado de Deus, o anjo Gabriel disse ao saudar
 Maria, quando da sua missão de anunciar-propor que ela fosse a mulher a receber
 no ventre o filho de Deus: nosso senhor Jesus Cristo. Sabe-se por vários meios,
 deduções e escritos sagrados, que Jesus, livre de toda a mancha de pecado não
@@ -41,4 +43,7 @@ isso Jesus já sinalizava: “Digo-vos que em breve [Deus] lhes fará justiça
 (justiça aos seus escolhidos). Mas, quando vier o Filho do Homem, acaso achará
 fé sobre a terra?” – Lucas 18,8.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

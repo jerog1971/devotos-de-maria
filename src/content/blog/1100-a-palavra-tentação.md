@@ -4,7 +4,9 @@ date: 2021-03-05T10:24:00.001Z
 heroImage: "/images/posts/1100-a-palavra-tentação-nem_s_25C3_25B3_de_p_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1100-a-palavra-tentação-nem_s_25C3_25B3_de_p_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="287" data-original-width="220" src="/images/posts/1100-a-palavra-tentação-nem_s_25C3_25B3_de_p_25C3_25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Movimento que busca tentar que alguém pratique uma ação:
+![](/images/posts/1100-a-palavra-tentação-nem_s_25C3_25B3_de_p_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Movimento que busca tentar que alguém pratique uma ação:
 tenta(r) + ação = tentaração, suprimindo o “ra” resulta na expressão tentação.
 Palavra conhecida por muitos, ignorada por tantos e abraçada fervorosamente por
 milhares. Em linhas bem resumidas podemos dizer que ela é um meio de provação
@@ -46,4 +48,7 @@ caminhar para frente, rumo à pátria celeste, deve evitar até, como dizia Sant
 Antonio Maria Claret, a menor tentação para que não cometamos o menor pecado
 sequer.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

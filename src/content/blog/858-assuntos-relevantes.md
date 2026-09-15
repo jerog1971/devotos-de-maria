@@ -4,7 +4,9 @@ date: 2021-11-10T01:02:00.001Z
 heroImage: "/images/posts/858-assuntos-relevantes-assuntos_relevantes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/858-assuntos-relevantes-assuntos_relevantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="526" data-original-width="375" height="320" src="/images/posts/858-assuntos-relevantes-assuntos_relevantes.png" width="228" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Entre os discursos que propagam mundo afora as novas
+![](/images/posts/858-assuntos-relevantes-assuntos_relevantes.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Entre os discursos que propagam mundo afora as novas
 definições que impulsionam a vida para novos horizontes, um deles, muito
 entristecidamente, buscam transformar conceitos divinos e imutáveis em
 conhecimentos de museu, antiquados e ultrapassados. Muito facilmente podemos
@@ -32,4 +34,7 @@ homem o centro de tudo em sua vida; não mais Deus.<o:p></o:p></p>
 corre o risco de fazer a pior de todas as decisões: escolher que entre os
 assuntos relevantes para a sua vida, Deus não está mais na lista destes.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

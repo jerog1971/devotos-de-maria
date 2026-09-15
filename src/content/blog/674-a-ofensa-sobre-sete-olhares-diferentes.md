@@ -4,7 +4,9 @@ date: 2022-02-23T18:09:00.003Z
 heroImage: "/images/posts/674-a-ofensa-sobre-sete-olhares-diferent-img-1613822105.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/674-a-ofensa-sobre-sete-olhares-diferent-img-1613822105.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="311" data-original-width="316" height="311" src="/images/posts/674-a-ofensa-sobre-sete-olhares-diferent-img-1873384315.jpg" width="316" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, vamos aqui apresentar sete formas diferentes com
+![](/images/posts/674-a-ofensa-sobre-sete-olhares-diferent-img-1873384315.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Isso mesmo, vamos aqui apresentar sete formas diferentes com
 que o termo ofensa é apresentado ao cristão nas sagradas escrituras. Pois bem,
 para aqueles que defendem publicamente aquilo que vem do Deus único e não se
 acovardam perante os falsos deuses e idolatrias do mundo, é possível pedir a
@@ -43,4 +45,7 @@ vida desregrada que promove ofensas a ele e ao próximo para trás, e passar a
 trilhar ou recomeçar, ou retomar o caminho da porta estreita que nos levará ao
 céu, para a felicidade eterna!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

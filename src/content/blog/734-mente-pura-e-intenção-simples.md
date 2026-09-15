@@ -4,7 +4,11 @@ date: 2020-06-29T15:58:00.002Z
 heroImage: "/images/posts/734-mente-pura-e-intenção-simples-imelda2.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/734-mente-pura-e-intenção-simples-imelda2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="395" data-original-width="214" height="320" src="/images/posts/734-mente-pura-e-intenção-simples-imelda2.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Com duas asas se levanta o homem acima das coisas terrenas:
+<br />
+
+![](/images/posts/734-mente-pura-e-intenção-simples-imelda2.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Com duas asas se levanta o homem acima das coisas terrenas:
 simplicidade e pureza. A simplicidade há de estar na intenção e a pureza no
 afeto. A simplicidade procura a Deus, a pureza o abraça e frui.</p>
 

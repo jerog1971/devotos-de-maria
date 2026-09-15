@@ -4,7 +4,8 @@ date: 2019-11-27T16:30:00.002Z
 heroImage: "/images/posts/2246-o-que-está-por-trás-de-você-img-1665350350.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2246-o-que-está-por-trás-de-você-img-1665350350.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2246-o-que-está-por-trás-de-você-img-769025408.jpg" width="320" height="180" data-original-width="960" data-original-height="540" /></a></div>
+![](/images/posts/2246-o-que-está-por-trás-de-você-img-769025408.jpg)
+
 Ao te conhecerem qual é a primeira impressão que as pessoas recebem? E a segunda? A terceira? Qual é a conclusão que elas tiram depois que se relacionaram com você por algum tempo? A experiência de relacionamento entre as pessoas nos leva a constatar o que está por trás delas. Que educação receberam, quais são seus princípios morais e éticos, como anda sua fé e sua relação com Deus.</br>
 </br>
 No entanto, o esforço do mundo consiste em fazer algo diferente: ele quer que você aceite o que vem pela frente deixando de lado o que está por trás. Vejamos. O mundo inunda os sentidos com suas propostas, o diabo nunca perde tempo e sempre está a te puxar com suas tentações porque ele quer que você perca o direito ao céu por causa do seu livre consentimento.</br>

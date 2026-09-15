@@ -4,7 +4,9 @@ date: 2022-09-15T17:10:00.003Z
 heroImage: "/images/posts/091-pobres-adúlteros-pobres_20ad_C3_BAlteros.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/091-pobres-adúlteros-pobres_20ad_C3_BAlteros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="570" data-original-width="582" height="313" src="/images/posts/091-pobres-adúlteros-pobres_20ad_C3_BAlteros.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos lá, primeira carta aos Coríntios, capítulo seis, versículos
+![](/images/posts/091-pobres-adúlteros-pobres_20ad_C3_BAlteros.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vamos lá, primeira carta aos Coríntios, capítulo seis, versículos
 do nove ao dez; nela, o apóstolo vai elencar a lista dos onze tipos de
 pecadores condenados. Entre estes temos os adúlteros. Na carta aos Gálatas,
 capítulo cinco, versículos do dezenove ao vinte e um, uma nova lista, esta com
@@ -39,4 +41,7 @@ desejos impuros atrás dos prazeres da carne.<o:p></o:p></p>
 <p class="MsoNormal">E para encerrar, vamos recordar o antigo testamento?
 Deuteronômio 5,18 e Êxodo 20,14 – “Não cometerás adultério”. <o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

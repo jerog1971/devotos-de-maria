@@ -4,7 +4,9 @@ date: 2021-12-13T15:26:00.001Z
 heroImage: "/images/posts/2028-sempre-corremos-riscos-img-644626223.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2028-sempre-corremos-riscos-img-644626223.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="404" data-original-width="483" height="268" src="/images/posts/2028-sempre-corremos-riscos-img-644627373.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente não podemos ser ingênuos quando o assunto consiste
+![](/images/posts/2028-sempre-corremos-riscos-img-644627373.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente não podemos ser ingênuos quando o assunto consiste
 na salvação de nossa alma. Poderíamos dizer, conforme o olhar que colocamos
 sobre a questão, que somos disputados pelo bem e pelo mal, como se estivéssemos
 no meio de um cabo de guerra. No entanto, da parte de Deus, isso se aplica se
@@ -33,4 +35,7 @@ e querida; dessa forma o filho de Deus não empreende resistência e reação
 alguma, ou se faz, o faz em mínima escala, o que só aumenta o risco dos perigos
 promoverem os intentos do mal.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

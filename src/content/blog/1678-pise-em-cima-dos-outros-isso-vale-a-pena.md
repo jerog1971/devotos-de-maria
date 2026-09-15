@@ -4,12 +4,14 @@ date: 2021-01-27T20:01:00.004Z
 heroImage: "/images/posts/1678-pise-em-cima-dos-outros-isso-vale-a-pisar_nos_outros.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1678-pise-em-cima-dos-outros-isso-vale-a-pisar_nos_outros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="305" data-original-width="310" src="/images/posts/1678-pise-em-cima-dos-outros-isso-vale-a-pisar_nos_outros.png" /></a></div><p class="MsoNormal">Isso mesmo, e como vale, faça os outros de degrau para você
+![](/images/posts/1678-pise-em-cima-dos-outros-isso-vale-a-pisar_nos_outros.png)
+
+<p class="MsoNormal">Isso mesmo, e como vale, faça os outros de degrau para você
 subir na vida, manipule as pessoas, use-as de todas as maneiras, seja duas caras
 mesmo, até que você alcance aquilo que desejava, depois descarte como papel
 higiênico cada um que te serviu de alguma forma, para suprir teus interesses e
 siga para a conquista do próximo objetivo pois o que importa são suas
-conquistas e suas felicidades.<o:p></o:p></p><p></p><p class="MsoNormal">Caro leitor, como isso que acabamos de ler no parágrafo acima
+conquistas e suas felicidades.<o:p></o:p></p><p class="MsoNormal">Caro leitor, como isso que acabamos de ler no parágrafo acima
 soa muito pesado não é mesmo! Todavia, o que nos entristece é que infelizmente
 as coisas acontecem dessa maneira pelo mundo afora. Pessoas foram transformadas
 em objetos de consumo, iguais aos atuais produtos de consumo onde muitos deles
@@ -32,14 +34,4 @@ a Deus, espera com paciência, a fim de que no derradeiro momento tua vida se
 enriqueça. Aceita tudo o que te acontecer. Na dor, permanece firme; na
 humilhação, tem paciência”.<o:p></o:p></p><p class="MsoNormal">Como vemos os ensinamentos de Deus opõem-se diretamente à proposta
 do diabo, pois, ele quer que pisemos em cima dos outros, mas Deus quer nos
-exaltar através de nossa humilhação. É questão de escolha.<o:p></o:p></p><p>
-
-
-
-
-
-
-
-
-
-</p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p><p>&nbsp;</p>
+exaltar através de nossa humilhação. É questão de escolha.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p>

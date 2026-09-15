@@ -4,7 +4,9 @@ date: 2020-08-26T23:43:00.002Z
 heroImage: "/images/posts/1909-morre-fundador-paroquiano-história--idoso_falecido.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1909-morre-fundador-paroquiano-história--idoso_falecido.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="428" src="/images/posts/1909-morre-fundador-paroquiano-história--idoso_falecido.png" /></a></div><p></p><p class="MsoNormal">Era uma vez... sim, isso mesmo:<o:p></o:p></p><div class="separator" style="clear: both;">
+![](/images/posts/1909-morre-fundador-paroquiano-história--idoso_falecido.png)
+
+<p class="MsoNormal">Era uma vez... sim, isso mesmo:<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Um homem que doou um terreno para a fundação de uma igreja
 paroquial.<o:p></o:p></p>
@@ -39,4 +41,7 @@ procuram com o coração sincero. Será que esse padre julgou que o fundador des
 igreja não o procurou com o coração sincero? Graças a Deus, nada é oculto aos
 olhos do Pai Eterno e cada um receberá conforme suas obras.<o:p></o:p></p><p class="MsoNormal">Efésios 5,1 e 1ª Coríntios 11,1 nos recordam que devemos ser imitadores do Cristo. Pois bem, não se encontra no evangelho passagem alguma onde Cristo não acolha os pedidos dos que o buscam com o coração sincero.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

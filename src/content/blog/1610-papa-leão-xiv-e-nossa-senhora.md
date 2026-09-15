@@ -4,7 +4,9 @@ date: 2025-05-13T18:15:00.005Z
 heroImage: "/images/posts/1610-papa-leão-xiv-e-nossa-senhora-Le_C3_A3o_20XIV_20e_20Nossa_20Senhora.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1610-papa-leão-xiv-e-nossa-senhora-Le_C3_A3o_20XIV_20e_20Nossa_20Senhora.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="372" data-original-width="563" height="211" src="/images/posts/1610-papa-leão-xiv-e-nossa-senhora-Le_C3_A3o_20XIV_20e_20Nossa_20Senhora.png" width="320" /></a></div><p>&nbsp;</p><p>Foi por sua expressa vontade que, neste último sábado, o
+![](/images/posts/1610-papa-leão-xiv-e-nossa-senhora-Le_C3_A3o_20XIV_20e_20Nossa_20Senhora.png)
+
+Foi por sua expressa vontade que, neste último sábado, o
 Papa Leão XIV se dirigiu ao Santuário de Nossa Senhora do Bom Conselho, em
 Genazzano. A decisão não partiu de um protocolo oficial, nem de um gesto
 agendado por assessores. Partiu do coração de um Papa que, em meio às trevas do
@@ -12,7 +14,7 @@ nosso tempo, desejou colocar-se como simples filho aos pés da Mãe e confiar se
 pontificado à proteção da Mãe do Bom Conselho. O Santuário de Genazzano está
 sob os cuidados da Ordem de Santo Agostinho desde os seus primórdios.
 
-</p><p class="MsoNormal">Essa ligação torna ainda mais significativa a visita do Papa
+<p class="MsoNormal">Essa ligação torna ainda mais significativa a visita do Papa
 Leão XIV, ele próprio membro da família agostiniana. Como filho espiritual de
 Santo Agostinho, ele quis honrar o templo confiado à sua Ordem e venerar, como
 devoto, a imagem que ali se conserva há séculos. Diante da imagem milagrosa da
@@ -50,4 +52,3 @@ firme</b>.”</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger, adaptado de reginafidei.com.br</p>
 
-<p>&nbsp;</p>

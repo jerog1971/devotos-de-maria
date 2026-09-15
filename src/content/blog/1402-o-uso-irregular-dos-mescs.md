@@ -4,7 +4,8 @@ date: 2016-12-22T15:55:00.001Z
 heroImage: "/images/posts/1402-o-uso-irregular-dos-mescs-mesc_irregular.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1402-o-uso-irregular-dos-mescs-mesc_irregular.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="479" data-original-width="714" height="215" src="/images/posts/1402-o-uso-irregular-dos-mescs-mesc_irregular.png" width="320" /></a></div>
+![](/images/posts/1402-o-uso-irregular-dos-mescs-mesc_irregular.png)
+
 Como bem sabemos caro leitor, não é de hoje que a igreja católica ensina uma coisa na teoria e na prática faz outra coisa, bem ao estilo condenado por Jesus dos fariseus. Fico aqui a pensar o quanto a igreja que Jesus fundou o desagrada com seus membros pecadores que tanta baderna fazem dentro dela. Ainda bem que ela (a igreja) é santa e que Jesus nos garantiu que as portas do inferno não prevalecerão contra ela mas que o inferno faz um estrago aos seus membros e faz padecer na caminhada a igreja militante, isso não resta dúvidas a ninguém. Apenas resta dúvidas para aqueles que querem não enxergar a profundidade das coisas. Eu particularmente ando entristecido por fazer parte de uma igreja tão suja por dentro e que varre tanta coisa para debaixo do tapete. Os membros dessa igreja em sua maioria seguem o papa e não Jesus, ou ainda a Santíssima Trindade e muitos são os exemplos que qualquer pessoa interessada, com algumas horas de séria pesquisa pode comprovar a questão.
 
 Por aqui, neste artigo irei apenas citar um simples exemplo de como é o comportamento da igreja católica. Comportamento que não é bom, já quero adiantar. É o caso dos ministros extraordinários da sagrada comunhão, que nada mais são que leigos instituídos pela igreja para ajudar o sacerdote em algumas de suas atividades que o sacramento da ordem elencam como exclusivas deste ministério. Já começa aí o problema, acompanhem o raciocínio, que é pessoal e portanto livre de aceite ou não. Segundo São Tomás de Aquino em sua publicação Suma Teológica, ele descreve as razões pela qual a distribuição do corpo de Cristo deve ser feita apenas por quem tem o sacramento da ordem. São elas:
@@ -26,6 +27,5 @@ O erro é da igreja que faz uso errado desta função. Se é para ser extraordin
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/09/missa-tradicional-x-mescs.html" target="_blank">Missa Tradicional x Mesc's</a>
-
 
 fonte: Jefferson Roger

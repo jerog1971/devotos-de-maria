@@ -4,7 +4,8 @@ date: 2018-07-11T16:31:00.001Z
 heroImage: "/images/posts/2029-mulher-para-você-é-o-que-trepadeira.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2029-mulher-para-você-é-o-que-trepadeira.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2029-mulher-para-você-é-o-que-trepadeira.png" width="310" height="320" data-original-width="242" data-original-height="250" /></a></div>
+![](/images/posts/2029-mulher-para-você-é-o-que-trepadeira.png)
+
 Mulher pode ser muitas coisas na concepção masculina, muitas coisas na concepção machista, muitas coisas na sua concepção egoísta. Mas, tudo isso que se pensa a respeito delas, querendo ou não, acaba por esbarrar nos conceitos originários ou nos desvios interesseiros desses conceitos. Vamos dar uma olhadinha no que o criador da mulher tem a nos ensinar sobre ela.</br>
 </br>
 Gênesis 2,18 – “O Senhor Deus disse: “Não é bom que o homem esteja só; vou dar-lhe uma ajuda que lhe seja adequada.” Gênesis 2,21-22 – “Então o Senhor Deus mandou ao homem um profundo sono; e enquanto ele dormia, tomou-lhe uma costela e fechou com carne o seu lugar. E da costela que tinha tomado do homem, o Senhor Deus fez uma mulher, e levou-a para junto do homem.”

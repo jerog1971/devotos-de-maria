@@ -4,7 +4,8 @@ date: 2017-12-15T15:31:00.007Z
 heroImage: "/images/posts/1004-os-10-segredos-de-medjugorje-parte-02-monte_das_aparicoes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1004-os-10-segredos-de-medjugorje-parte-02-monte_das_aparicoes.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="264" height="320" src="/images/posts/1004-os-10-segredos-de-medjugorje-parte-02-monte_das_aparicoes.png" width="319" /></a></div>
+![](/images/posts/1004-os-10-segredos-de-medjugorje-parte-02-monte_das_aparicoes.png)
+
 A terra nunca viu nada igual. Ele vai aparecer de repente, como se viesse do nada, ou direto do Céu. Ele vai chegar de tal forma que as pessoas não terão palavras para dizer o que é. Ele aparecerá no solo, poderá ser visto e fotografado, mas não poderá ser tocado. Hoje já existe uma webcam (www.marytv.tv) constantemente filmando o local onde ele vai surgir. De acordo com os videntes, algum dia, um sinal permanente irá aparecer no local da primeira aparição. Belo e indestrutível, o sinal vai levar a muitas conversões. De acordo com Marija, também haverá curas. Mas em primeiro lugar, ele vai fazer muito mais pessoas acreditarem. “Naturalmente, será claro para todos que não é algo construído e erguido. Ninguém será capaz de dizer que ele foi trazido e colocado nesse ponto particular, digamos, alguém de Medjugorje”, disse Mirjana ao autor católico e jornalista Michael H. Brown, em 2002.
 
 O Sinal Permanente é o terceiro segredo conhecido pelos videntes de Medjugorje. Ele é o único segredo ao que se saiba, que todos os videntes sabem sobre ele. Pelo menos quatro deles também sabem quando o sinal vai aparecer. Porque os dois primeiros segredos terão sido revelados e pertencerão ao passado na época do Sinal Permanente, o sinal será percebido e vivido pelas pessoas, à luz dos dois primeiros segredos – ou pelo menos à luz do primeiro que Mirjana disse “irá sacudir as pessoas” e “fazer com que as pessoas se vejam sob uma nova luz.”
@@ -18,6 +19,5 @@ Nada se sabe sobre o quarto, quinto e sexto segredos, a sequência do meio dos 1
 Arquivo relacionado:
 
 * [Os 10 segredos de Medjugorje - parte 03](/blog/1804-os-10-segredos-de-medjugorje-parte-03/)
-
 
 fonte: adaptado de medjugorje.com.br

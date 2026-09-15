@@ -4,7 +4,9 @@ date: 2022-06-14T15:14:00.001Z
 heroImage: "/images/posts/567-sacrifícios-inúteis-img-811456787.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/567-sacrifícios-inúteis-img-811456787.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="472" data-original-width="481" height="314" src="/images/posts/567-sacrifícios-inúteis-img-197485207.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ditado popular já nos recorda de longa data que não
+![](/images/posts/567-sacrifícios-inúteis-img-197485207.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ditado popular já nos recorda de longa data que não
 adianta dar murro em ponta de faca. Forçar soluções próprias tentando “burlar”
 as leis divinas não leva a pessoa muito longe; ou melhor, se pensarmos bem, em
 termos de contexto espiritual, leva sim, leva para a condenação eterna.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -35,4 +37,7 @@ céus, pois ela está aí, ao alcance de um estender de mãos. Ou nos sacrificam
 pelos motivos certos (os divinos) ou nos tornaremos exímios em fazer
 sacrifícios inúteis.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

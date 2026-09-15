@@ -4,7 +4,9 @@ date: 2021-01-25T15:40:00.004Z
 heroImage: "/images/posts/1842-o-preço-da-aliança-testemunho.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1842-o-preço-da-aliança-testemunho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="159" data-original-width="171" src="/images/posts/1842-o-preço-da-aliança-testemunho.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo que decide se iniciar nos caminhos que levam até
+![](/images/posts/1842-o-preço-da-aliança-testemunho.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo mundo que decide se iniciar nos caminhos que levam até
 Deus, dentro de pouco tempo irá descobrir que Deus quis assumir um grande
 compromisso com suas criaturas: a expressão dessa iniciativa dele conhecemos
 com o nome de aliança. Baruc 2,35 – “Com eles estabelecerei eterna aliança; e
@@ -59,4 +61,7 @@ geração. Assim como as graças são abundantes e distribuídas a todos segundo
 abertura de coração de cada um, pecados nunca deixaram, tampouco deixarão de
 ser pecados.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

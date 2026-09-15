@@ -4,7 +4,8 @@ date: 2017-05-25T16:50:00Z
 heroImage: "/images/posts/1435-ação-de-graças-SoYas.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1435-ação-de-graças-SoYas.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1435-ação-de-graças-SoYas.jpg" width="320" height="167" data-original-width="715" data-original-height="373" /></a></div>
+![](/images/posts/1435-ação-de-graças-SoYas.jpg)
+
 Jesus rendia graças ao Pai, vemos isso nos evangelhos. Durante sua vida pública sabemos muito bem pelas escrituras que ele não teve moleza nenhuma. Fora a multidão que o seguia porque acreditava nele, haviam os que o seguiam para receberem curas e também os que o seguiam para encontrar uma ocasião de deslize da sua parte para condená-lo em suas atitudes. Sempre rodeado por pessoas de vários interesses não teve uma passagem fácil por aqui. Quantos queriam puxar-lhe o tapete? Quantos acorriam a sua pessoa com as mais diversas finalidades? No entanto Jesus nos mostrou como devemos nos comportar. Ele ouvia as pessoas, as respeitava, falava-lhes a verdade, não descriminava e os atendia não ferindo sequer algum princípio celeste. Jesus não era curandeiro, mas também curava, Jesus não era palestrante, mas também ensinava, Jesus não era partidário, mas não se afastava das verdades divinas. Era humilde e sabia que sem a comunhão com o Pai Eterno não era possível fazer o que fosse do seu agrado.</br>
 </br>
 Seu comportamento, que deve ser imitado, nos mostra que não importa como são e como andam as coisas, devemos sempre agradecer.</br>

@@ -4,7 +4,9 @@ date: 2022-04-01T17:35:00.002Z
 heroImage: "/images/posts/1632-a-honestidade-de-jesus-honestidade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1632-a-honestidade-de-jesus-honestidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="379" data-original-width="358" height="320" src="/images/posts/1632-a-honestidade-de-jesus-honestidade.png" width="302" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Num dia como o de hoje, onde o diabo, intitulado biblicamente
+![](/images/posts/1632-a-honestidade-de-jesus-honestidade.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Num dia como o de hoje, onde o diabo, intitulado biblicamente
 como o pai da mentira, se alegra muito com a comemoração do dia da mentira, enquanto
 as pessoas se divertem com mentirinhas, mentiras e mentironas, grandes mentiras
 e por aí vai, deixando de lado o divertimento que a data incentiva, quando
@@ -41,4 +43,7 @@ honestos, ao contrário do diabo que se faz de falso amigo, e para com ele [o
 demônio e seus séquitos], devemos ser inimigos, pois, quanto ao próximo Jesus
 nos pede que rezemos por eles (Mateus 5,44).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

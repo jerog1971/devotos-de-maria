@@ -4,7 +4,11 @@ date: 2020-07-02T16:33:00.002Z
 heroImage: "/images/posts/1582-santo-otão-Santo_Ot_25C3_25A3o.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1582-santo-otão-Santo_Ot_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="412" data-original-width="299" height="320" src="/images/posts/1582-santo-otão-Santo_Ot_25C3_25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi Bispo de Bamberg e é chamado o apóstolo da Pomerânia.
+<br />
+
+![](/images/posts/1582-santo-otão-Santo_Ot_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi Bispo de Bamberg e é chamado o apóstolo da Pomerânia.
 Nasceu na Suábia, Alemanha, e viveu no século XII. Órfão de pai e mãe,
 enfrentou várias dificuldades para custear seus estudos. Mesmo assim conseguiu
 formar-se em filosofia e ciências humanas. Partiu então para a Polônia a fim de
@@ -20,7 +24,7 @@ do papa Pascoal, por volta do ano de 1106.</p>
 numerosos mosteiros. Apoiado por Boleslau, duque da Polônia, que havia subjugado
 a região, e por Vratislau, duque cristão da Pomerânia, percorreu todas as
 cidades, instruindo os gentios e batizando os que aderiram à fé, intercedendo
-junto ao príncipe <span style="mso-spacerun: yes;">&nbsp;</span>pela liberdade dos
+junto ao príncipe <span style="mso-spacerun: yes;"> </span>pela liberdade dos
 prisioneiros, chamando todos a abandonar os ídolos e a se converter ao Deus de
 Jesus Cristo. Espalhou missionários por toda a Pomerânia.</p>
 
@@ -31,7 +35,7 @@ nome.</p>
 
 <p class="MsoNormal">Vós sois a rocha em que buscamos apoio e proteção. Que suba
 até vós este canto: escutai, ó céus, e eu falarei; ouve, ó terra, as palavras
-de minha boca;<span style="mso-spacerun: yes;">&nbsp; </span>minha doutrina desça como
+de minha boca;<span style="mso-spacerun: yes;">  </span>minha doutrina desça como
 chuva, minha palavra se espalhe como orvalho; como chuvisco sobre a relva e
 aguaceiro sobre a grama. Vou proclamar o nome do Senhor: e vós, daí glória ao
 nosso Deus! Ele é a Rocha, e sua obra é perfeita, pois seus caminhos todos são justos;

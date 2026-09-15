@@ -4,7 +4,9 @@ date: 2022-02-13T15:54:00.003Z
 heroImage: "/images/posts/364-as-fachadas-da-igreja-img-619730945.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/364-as-fachadas-da-igreja-img-619730945.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="275" data-original-width="333" height="264" src="/images/posts/364-as-fachadas-da-igreja-img-619730979.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pobre da igreja fundada por Nosso Senhor Jesus Cristo –
+![](/images/posts/364-as-fachadas-da-igreja-img-619730979.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pobre da igreja fundada por Nosso Senhor Jesus Cristo –
 Mateus 16,18. Sofre diariamente desde o início dos tempos uma tribulação
 constante e, um olhar muito atento e treinado pode constatar, tem buscado
 também desde sempre, se desvencilhar da hierarquia divina. Parte da culpa é
@@ -40,4 +42,7 @@ adulteradas, o fiel cristão pode caminhar com uma consciência tranquila,
 sabendo que “aquele que fizer a vontade de meu pai que estás no céu, este é meu
 irmão” – disse Jesus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

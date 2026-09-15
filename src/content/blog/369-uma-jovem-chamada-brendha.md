@@ -4,7 +4,8 @@ date: 2017-09-29T19:13:00Z
 heroImage: "/images/posts/369-uma-jovem-chamada-brendha-brenda.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/369-uma-jovem-chamada-brendha-brenda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/369-uma-jovem-chamada-brendha-brenda.png" width="310" height="320" data-original-width="477" data-original-height="493" /></a></div>
+![](/images/posts/369-uma-jovem-chamada-brendha-brenda.png)
+
 Certa vez, nos conta Santa Faustina Kowalska em seu diário, que embora reconhecesse que procurava humildemente viver uma vida como nos pede o evangelho, impressionou a jovem freira o comportamento que uma irmã de congregação de muito mais idade tinha. A idosa era muito fervorosa e não descuidava de suas práticas religiosas e sobretudo da oração. Tal disciplina chegou ao ponto de chamar a atenção de Faustina que não se conteve e foi conversar com a senhora. A idosa após ouvir a felicidade e admiração de Faustina em vista de sua grande dedicação a religião, proferiu as seguintes palavras:</br>
 </br>
 “Ninguém está dispensado da luta.”</br>

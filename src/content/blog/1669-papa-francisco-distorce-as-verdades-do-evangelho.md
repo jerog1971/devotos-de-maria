@@ -4,7 +4,8 @@ date: 2016-07-01T18:49:00Z
 heroImage: "/images/posts/1669-papa-francisco-distorce-as-verdades-do-evangelho-herege.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1669-papa-francisco-distorce-as-verdades-do-evangelho-herege.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1669-papa-francisco-distorce-as-verdades-do-evangelho-herege.png" width="320" height="319" data-original-width="397" data-original-height="396" /></a></div>
+![](/images/posts/1669-papa-francisco-distorce-as-verdades-do-evangelho-herege.png)
+
 Na exortação "Amoris Laetitia", sobre o amor na família, Francisco diz....</br>
 </br>
 "297. Trata-se de integrar a todos, deve-se ajudar cada um a encontrar a sua própria maneira de participar na comunidade eclesial, para que se sinta objecto duma misericórdia "imerecida, incondicional e gratuita". Ninguém pode ser condenado para sempre, porque esta não é a lógica do Evangelho! Não me refiro só aos divorciados que vivem numa nova união, mas a todos seja qual for a situação em que se encontrem".</br>

@@ -4,7 +4,9 @@ date: 2022-03-14T12:05:00.002Z
 heroImage: "/images/posts/294-afastar-se-é-mais-difícil-que-evitar-img-826878180.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/294-afastar-se-é-mais-difícil-que-evitar-img-826878180.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" height="267" src="/images/posts/294-afastar-se-é-mais-difícil-que-evitar-img-1741532129.jpg" width="275" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus em seu evangelho nos ensinou sobre a gravidade que é a
+![](/images/posts/294-afastar-se-é-mais-difícil-que-evitar-img-1741532129.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus em seu evangelho nos ensinou sobre a gravidade que é a
 recaída no pecado. Quando perdoava os que lhe procuravam dizia: vá e não peques
 mais. Se Jesus disse isso, ele, que sabe infinitamente mais do que todos nós
 está, nas entrelinhas, afirmando uma coisa: que é possível não pecar. Todavia,
@@ -40,4 +42,7 @@ contra os pecados, onde inclusive sobre isso o apóstolo Paulo nos diz que temos
 que lutar até o sangue contra ele (o pecado) e também diz que quem está de pé cuide para que não caia. Um esforço que inclui procurarmos
 viver o modelo de Jesus que muito certamente, não cometeu pecados veniais.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

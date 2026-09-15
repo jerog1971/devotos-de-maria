@@ -4,7 +4,8 @@ date: 2015-12-18T11:56:00.002Z
 heroImage: "/images/posts/581-sexo-livre-sexo_livre.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/581-sexo-livre-sexo_livre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/581-sexo-livre-sexo_livre.png" width="320" height="318" data-original-width="357" data-original-height="355" /></a></div>
+![](/images/posts/581-sexo-livre-sexo_livre.png)
+
 </br>
 A palavra vício diz respeito àqueles maus hábitos adquiridos ao longo da vida, cuja consequência mais direta é a dependência. Uma pessoa viciada em algo dificilmente consegue libertar-se, a não ser por meio de grandes esforços de ascese e de renúncia. O primeiro passo no caminho da recuperação é a humildade para reconhecer-se escravo, e, conforme as possibilidades, buscar o tratamento certo.</br>
 </br>

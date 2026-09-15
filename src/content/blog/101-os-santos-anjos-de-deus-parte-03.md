@@ -4,7 +4,8 @@ date: 2017-09-29T14:13:00Z
 heroImage: "/images/posts/101-os-santos-anjos-de-deus-parte-03-anjo_da_guarda.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/101-os-santos-anjos-de-deus-parte-03-anjo_da_guarda.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/101-os-santos-anjos-de-deus-parte-03-anjo_da_guarda.png" width="320" height="239" data-original-width="829" data-original-height="619" /></a></div>
+![](/images/posts/101-os-santos-anjos-de-deus-parte-03-anjo_da_guarda.png)
+
 Nessa parte final, vamos aprender um pouquinho mais sobre os anjos. Muitos não acreditam em anjos, é uma pena porque Jesus disse que Deus faz chover e nascer o sol sobre justos e injustos. Ora, a todos os anjos auxiliam e assistem, mas eles respeitam o livre arbítrio de cada um. Não é Deus que escolhe se uma pessoa vai ter um anjo da guarda ou não, a pessoa é que se excluiu do auxílio dos anjos, da mesma forma, que não é Deus que condena, é a pessoa que se condena. Os que não acreditam em anjos argumentam com muitos motivos, entre eles, por exemplo, alegam que o livro de Tobias, aqui me refiro aos não católicos e aos católicos de meia tigela, é fictício porque lá encontramos um anjo que mente e se disfarça e isso não pode vir de Deus. Pois bem, para devolver na mesma moeda, para aqueles que não seguem a religião de uma pessoa e sim a religião de um livro, com seu livre exame das escrituras e seus achismos e conveniências, defendendo que se está na bíblia eles seguem, se não está eles não seguem, vamos dar alguns exemplos bíblicos.</br>
 </br>
 Como são de mente curta e olhar interesseiro facilmente iludidos pela caricatura falsa que fazem da igreja católica, utilizando-se de suas bíblias mutiladas, coloco aqui então, apenas alguns exemplos de que tudo depende da finalidade desejada por Deus, vamos ver:</br>

@@ -4,7 +4,8 @@ date: 2016-07-14T11:30:00Z
 heroImage: "/images/posts/802-a-conversão-de-um-judeu-hadaj.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/802-a-conversão-de-um-judeu-hadaj.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/802-a-conversão-de-um-judeu-hadaj.png" width="320" height="287" data-original-width="578" data-original-height="519" /></a></div>
+![](/images/posts/802-a-conversão-de-um-judeu-hadaj.png)
+
 </br>
 De família judia da esquerda radical, ele era ateu, niilista, comunista e só queria atacar a Igreja. Hoje, o professor francês Fabrice Hadjadj é um dos mais renomados pensadores católicos do mundo, depois de ter atravessado um longo processo de conversão.</br>
 </br>

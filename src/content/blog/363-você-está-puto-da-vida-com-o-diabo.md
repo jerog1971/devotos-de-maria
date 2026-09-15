@@ -4,7 +4,8 @@ date: 2019-06-24T19:01:00.001Z
 heroImage: "/images/posts/363-você-está-puto-da-vida-com-o-diabo-lev_25C3_25ADtico_20_252C13.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/363-você-está-puto-da-vida-com-o-diabo-lev_25C3_25ADtico_20_252C13.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="322" height="320" src="/images/posts/363-você-está-puto-da-vida-com-o-diabo-lev_25C3_25ADtico_20_252C13.png" width="316" /></a></div>
+![](/images/posts/363-você-está-puto-da-vida-com-o-diabo-lev_25C3_25ADtico_20_252C13.png)
+
 Se não está e se intitula um cristão, você deveria estar. Ele se rebelou contra Deus e seu projeto para a humanidade, quis ser “outro deus”, convenceu a muitos (e ainda convence) e dissemina por todo o planeta suas mentiras endossando ano após ano que tudo isso faz parte da natural evolução da humanidade. Sobre a lápide do preconceito, que o mundo insiste em manter a sete palmos faz de tudo para que os valores divinos se mantenham abaixo da linha vermelha.
 
 Levítico 20,13 – “Se um homem dormir com outro homem, como se fosse mulher, ambos cometerão uma coisa abominável. Serão punidos de morte e levarão a sua culpa”. Como vemos, Deus nem precisa de muitas palavras e muitas linhas para nos dizer que agir conforme a natureza criada e pensada por ele simplesmente, além de proibido, trará como resultado a condenação ao fogo do inferno, a segunda morte, a morte da alma. E ele ainda é bem claro, “levarão a sua culpa” – não será por culpa de alguém. A culpa é do sujeito mesmo, porque sabia que não podia e não devia e escolheu fazer.
@@ -22,6 +23,5 @@ Artigos relacionados:
 <a href="https://www.devotos-de-maria.com.br/2017/04/homossexualismo-e-as-sagradas-escrituras.html" target="_blank">Homossexualismo e as sagradas escrituras</a>
 
 <a href="https://www.devotos-de-maria.com.br/2017/05/lgbt-direitos-iguais.html" target="_blank">LGBT - Direitos Iguais?</a>
-
 
 Fonte: Jefferson Roger

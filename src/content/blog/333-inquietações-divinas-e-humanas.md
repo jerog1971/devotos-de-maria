@@ -4,7 +4,9 @@ date: 2022-09-05T20:24:00.001Z
 heroImage: "/images/posts/333-inquietações-divinas-e-humanas-img-1897716144.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/333-inquietações-divinas-e-humanas-img-1897716144.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="508" data-original-width="543" height="299" src="/images/posts/333-inquietações-divinas-e-humanas-img-1729713581.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tudo bem, tudo bem e tudo bem! Lemos e estamos cansados de
+![](/images/posts/333-inquietações-divinas-e-humanas-img-1729713581.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Tudo bem, tudo bem e tudo bem! Lemos e estamos cansados de
 ler na bíblia que Deus isso, Deus aquilo, Deus aquele outro. Mas, claro, sempre
 existe o “mas”, na prática a teoria ensinada nas sagradas escrituras é muito difícil
 de ser vivida, comprovada e atestada. De vez em quando acontecem alguns
@@ -37,4 +39,7 @@ pensamentos e impedimos que nele sobre algum espaço para que a Santíssima
 Trindade venha habitar e nos fazer felizes da maneira como Deus deseja.
 Escolhamos!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

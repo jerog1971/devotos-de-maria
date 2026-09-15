@@ -4,7 +4,8 @@ date: 2020-03-16T19:27:00Z
 heroImage: "/images/posts/1025-não-esqueçamos-jesus-morreu-pelo-que-disse-jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1025-não-esqueçamos-jesus-morreu-pelo-que-disse-jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1025-não-esqueçamos-jesus-morreu-pelo-que-disse-jesus.png" width="320" height="291" data-original-width="341" data-original-height="310" /></a></div>
+![](/images/posts/1025-não-esqueçamos-jesus-morreu-pelo-que-disse-jesus.png)
+
 A cultura do ocidente sustenta um grande problema; a tendência a dar mais ênfase a sentimentos e emoções (como fazem os malucos hereges da renovação carismática) do que a verdade e a razão. A Igreja está contaminada por isso: muitas vezes, a política da boa vizinhança e do politicamente correto tomam frente ao invés de se ensinar ao estilo de Jesus, entregando a verdade dura, crua, dolorida, mas libertadora. Trata-se afinal das doutrinas e verdades da fé.</br>
 </br>
 O amor e a misericórdia são muito bonitos, mas a verdade os antecede. Vamos recordar que decidimos seguir Jesus Cristo, morto pelo que disse; ele, que amou seus inimigos mais do que qualquer um. No entanto, o que vemos em tempos atuais é literalmente uma inversão de valores. A verdade foi renegada ao segundo plano. Em caso de crise, primeiro se prioriza o amor e a misericórdia, a verdade...</br>

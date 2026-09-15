@@ -4,7 +4,8 @@ date: 2019-06-24T16:41:00.002Z
 heroImage: "/images/posts/640-rede-de-canais-discovery-channel-lan-ideologia_de_g_25C3_25AAnero.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/640-rede-de-canais-discovery-channel-lan-ideologia_de_g_25C3_25AAnero.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/640-rede-de-canais-discovery-channel-lan-ideologia_de_g_25C3_25AAnero.png" width="320" height="312" data-original-width="510" data-original-height="498" /></a></div>
+![](/images/posts/640-rede-de-canais-discovery-channel-lan-ideologia_de_g_25C3_25AAnero.png)
+
 A poucos dias, para quem acompanha os canais da rede Discovery uma nova chamada realizada nos intervalos comerciais está tratando do tema ideologia de gênero demonstrando apoio aberto pelos organizadores da rede. Já é sabido que a algum tempo vários de seus programas que tratam do assunto são apresentados em forma de série. Porém, como o investimento mundial da cultura da morte, anunciada a tempos longínquos pelo Papa João Paulo II, é maciça e acontece em forma de avalanche, como uma doença silenciosa, que procura espalhar-se sem demonstrar a que veio, dessa vez, não bastassem seus programas, atacam também durante os intervalos.</br>
 </br>
 O slogan, o carro chefe do comercial diz que quando você fecha seus olhos passa a perceber os outros de outra forma, uma forma mais realista, deixando o preconceito de lado.</br>

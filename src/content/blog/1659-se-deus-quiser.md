@@ -4,7 +4,8 @@ date: 2018-08-29T18:55:00Z
 heroImage: "/images/posts/1659-se-deus-quiser-Se_Deus_quiser.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1659-se-deus-quiser-Se_Deus_quiser.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1659-se-deus-quiser-Se_Deus_quiser.png" width="320" height="317" data-original-width="286" data-original-height="283" /></a></div>
+![](/images/posts/1659-se-deus-quiser-Se_Deus_quiser.png)
+
 Pois muito bem, essa expressão, caro leitor, com certeza você já ouviu ou quem sabe até mesmo já a disse. Em alguns contextos ela é muito bem usada. Por exemplo, quando temos algum projeto ou planejamento que pretendemos pôr em prática e não queremos fazê-lo sem a anuência de Deus, tratamos logo de deixar isso bem claro para ele proferindo as palavras “se Deus quiser”.</br>
 </br>
 Porém, se fizermos, ainda que por cima, uma pequena contabilidade em nossa vida a respeito do que pedimos a Deus e não nos foi concedido o que fazer com todos os resultados de termos dito essa frase e termos constatado em primeira mão que ele não quis? Será que é isso mesmo? Será que pedimos e não fomos atendidos porque ele não quis? Nos parece que sim, a bíblia nos ensina nas cartas apostólicas que o Espírito Santo intercede por nós com gemidos inefáveis porque nem sabemos o que pedir e pedir como convém. Somos maus “pedidores” e o que é pior: maus “agradecedores”, em expressões que cunhei inspirado no desenho animado por computador francês de nome A Bailarina, onde a personagem Felice fala para o Victor que ele é um péssimo “fugidor”.</br>

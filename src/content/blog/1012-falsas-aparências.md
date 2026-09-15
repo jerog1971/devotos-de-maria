@@ -4,7 +4,9 @@ date: 2023-06-01T16:44:00.003Z
 heroImage: "/images/posts/1012-falsas-aparências-falsas_20apar_C3_AAncias.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1012-falsas-aparências-falsas_20apar_C3_AAncias.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="645" data-original-width="496" height="320" src="/images/posts/1012-falsas-aparências-falsas_20apar_C3_AAncias.jpg" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Doce na boca e amargo no estômago; esta expressão
+![](/images/posts/1012-falsas-aparências-falsas_20apar_C3_AAncias.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Doce na boca e amargo no estômago; esta expressão
 encontramos na bíblia e está relacionada com o golpe enganoso que o diabo
 desfere contra as pessoas seduzindo-as a cometerem pecados. Como o pecado em si
 é algo que destrói a alma, precisa nosso inimigo número um articular muito bem
@@ -40,4 +42,7 @@ conclusão: teme a Deus e observa seus preceitos, é este o dever de todo homem.
 Deus fará prestar contas de tudo o que está oculto, todo ato, seja ele bom ou
 mau”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

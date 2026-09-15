@@ -4,8 +4,9 @@ date: 2025-02-28T19:44:00.001Z
 heroImage: "/images/posts/2215-espreita-espreita.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2215-espreita-espreita.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="297" data-original-width="299" height="297" src="/images/posts/2215-espreita-espreita.png" width="299" /></a></div><p></p><p>
-</p><p class="MsoNormal">Esperando a quem dar o bote – assim o apóstolo Pedro se
+![](/images/posts/2215-espreita-espreita.png)
+
+<p class="MsoNormal">Esperando a quem dar o bote – assim o apóstolo Pedro se
 referia ao demônio, incansável inimigo da alma, disposto a nos convencer de que
 o inimigo na verdade é outro: é Deus, um velhaco desmancha prazeres que impõe
 uma lista de proibições para aqueles que se prontificam ao céu.</p>
@@ -33,4 +34,7 @@ testemunhando contra ti a favor de sua condenação e rindo desgraçadamente de
 sua cara. Afinal, como disse Jesus: “fostes avisado sobretudo”. Cabe a cada um
 escolher e Deus lhe concederá aquilo que quiseres: Eclesiástico.</p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span><p><br /></p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span>
+
+<br />
+

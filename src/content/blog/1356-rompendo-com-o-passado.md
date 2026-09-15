@@ -4,7 +4,9 @@ date: 2021-08-24T15:46:00.003Z
 heroImage: "/images/posts/1356-rompendo-com-o-passado-rompendo_com_o_passado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1356-rompendo-com-o-passado-rompendo_com_o_passado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="610" data-original-width="624" height="313" src="/images/posts/1356-rompendo-com-o-passado-rompendo_com_o_passado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A química dos pecados se instala por toda a parte no ser
+![](/images/posts/1356-rompendo-com-o-passado-rompendo_com_o_passado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A química dos pecados se instala por toda a parte no ser
 humano. De fato, ele se aproveita de toda oportunidade e toda forma de contágio
 possível para com o homem. Ele pode entrar em nossas vidas através do que
 ouvimos, através do que vemos, do que sentimos no corpo. E por falar em corpo,
@@ -33,4 +35,7 @@ o que fizerdes, fazei-o de bom coração, como para o Senhor e não para os
 homens, certos de que recebereis, como recompensa, a herança das mãos do
 Senhor. Servi a Cristo, Senhor”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

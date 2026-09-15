@@ -4,7 +4,9 @@ date: 2022-10-31T20:26:00.005Z
 heroImage: "/images/posts/706-desgraças-sobre-desgraças-desgra_C3_A7as.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/706-desgraças-sobre-desgraças-desgra_C3_A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="378" data-original-width="363" height="320" src="/images/posts/706-desgraças-sobre-desgraças-desgra_C3_A7as.png" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não parece às vezes que a vida é assim? Nos parece que
+![](/images/posts/706-desgraças-sobre-desgraças-desgra_C3_A7as.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não parece às vezes que a vida é assim? Nos parece que
 durante o caminhar o que existe é uma fila imensa, daquelas de virar o
 quarteirão, de problemas aguardando a vez de se pronunciarem em nossas vidas.
 Puxa vida, vai entender esse peneirar, que Jesus nos disse em seus evangelhos,
@@ -36,4 +38,7 @@ em consequência não podemos nos agradar tentando servir aos dois. A doutrina d
 escolha nunca esteve tão presente em nossas vidas, ela nos acompanhará desde o
 nascer até o suspiro final.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

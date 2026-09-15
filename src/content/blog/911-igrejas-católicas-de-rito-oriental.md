@@ -4,7 +4,8 @@ date: 2016-01-15T11:18:00Z
 heroImage: "/images/posts/911-igrejas-católicas-de-rito-oriental-oriental.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/911-igrejas-católicas-de-rito-oriental-oriental.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/911-igrejas-católicas-de-rito-oriental-oriental.png" width="320" height="196" data-original-width="394" data-original-height="241" /></a></div>
+![](/images/posts/911-igrejas-católicas-de-rito-oriental-oriental.png)
+
 </br>
 É UM TRISTE FATO que a maioria dos católicos jamais tenha ouvido falar dos católicos de Rito Oriental e, comumente, acabam confundindo a Igreja Latina, com suas tradições e disciplinas próprias, com a própria Igreja Católica.</br>
 </br>
@@ -27,7 +28,9 @@ Igreja Grega Católica; Igreja Ítalo-Albanesa Católica; Igreja Ucrâniana Cat�
 Igreja Iugoslava Católica; Igreja Romena Católica; Igreja Rutena Católica; Igreja (Comunidade) Bielo-russa Católica; Igreja (Comunidade) Russa Católica;
 Igreja (Comunidade) Albanesa Católica; Igreja Armênia Católica; Igreja Caldeana Católica; Igreja Siríaca Malabar Católica.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/911-igrejas-católicas-de-rito-oriental-oriental2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/911-igrejas-católicas-de-rito-oriental-oriental2.png" width="200" height="121" data-original-width="398" data-original-height="241" /></a></div>
+
+![](/images/posts/911-igrejas-católicas-de-rito-oriental-oriental2.png)
+
 </br>
 E quanto aos diversos títulos, estes estão relacionados à localização geográfica, mas nesses casos específicos eles são necessários, também e principalmente, devido às diferenças expostas, – algumas relevantes, – entre os ritos e nos usos e costumes latinos e orientais.</br>
 </br>

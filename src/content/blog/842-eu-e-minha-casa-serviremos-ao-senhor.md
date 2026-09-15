@@ -4,7 +4,8 @@ date: 2019-02-19T19:53:00Z
 heroImage: "/images/posts/842-eu-e-minha-casa-serviremos-ao-senhor-servir_ao_senhor.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/842-eu-e-minha-casa-serviremos-ao-senhor-servir_ao_senhor.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/842-eu-e-minha-casa-serviremos-ao-senhor-servir_ao_senhor.png" width="320" height="300" data-original-width="389" data-original-height="365" /></a></div>
+![](/images/posts/842-eu-e-minha-casa-serviremos-ao-senhor-servir_ao_senhor.png)
+
 Encontramos, caro leitor, essa afirmação no capítulo vinte e quatro do livro de Josué. E o artigo se pauta nesta frase porque ela nos remete à uma reflexão muito profunda relacionada aquilo que vivemos em nosso dia a dia.</br>
 </br>
 A grande dica, ou a grande mensagem que podemos acolher desta afirmação, provém de podermos transforma-la num propósito de vida. Num exame de consciência podemos admitir que servimos ao Senhor? Não só nós, mas nossa família também? Se a família está no mesmo barco (igreja doméstica) não é natural pensar que todos seguem na mesma direção que o barco se dirige por estarem dentro dele?</br>

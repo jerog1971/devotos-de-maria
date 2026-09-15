@@ -4,7 +4,8 @@ date: 2020-04-05T14:06:00.002Z
 heroImage: "/images/posts/1332-a-comunhão-com-deus-testemunho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1332-a-comunhão-com-deus-testemunho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1332-a-comunhão-com-deus-testemunho.png" width="320" height="298" data-original-width="171" data-original-height="159" /></a></div>
+![](/images/posts/1332-a-comunhão-com-deus-testemunho.png)
+
 Comum união, união em comum e por fim comunhão. Isso é o que significa. É querermos uma união com Deus que seja constante ao ponto de ser comum em nossas vidas. Precisamos fazer dele uma presença incessante em nosso caminhar. Assim como é comum durante o dia praticarmos muitas atividades, como nos alimentarmos, cuidarmos da higiene do corpo, estudarmos e trabalharmos, já que somos um composto de corpo e alma, também precisamos ater-nos aos cuidados do nosso espírito.</br>
 </br>
 Assim como não faz sentido dentro de uma família, dentro de sua casa, membros que vivem ali não partilharem suas vidas, da mesma forma não existe sentido em praticar uma religião que não promove a união com Deus. Religião vem do latim “religare”, que consiste em atividade realizada para religar a pessoa a Deus. Ora, não é possível ligar-se a algo sem união com esse algo.</br>

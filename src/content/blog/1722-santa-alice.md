@@ -4,7 +4,11 @@ date: 2020-06-12T16:57:00.001Z
 heroImage: "/images/posts/1722-santa-alice-Santa_Alice.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1722-santa-alice-Santa_Alice.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="217" src="/images/posts/1722-santa-alice-img-355312745.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Chamada também de Adelaide, Aleida ou Alida. Nasceu em
+<br />
+
+![](/images/posts/1722-santa-alice-img-355312745.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Chamada também de Adelaide, Aleida ou Alida. Nasceu em
 Bruxelas, na Bélgica, e viveu no século XIII. A jovem monja cisterciense, logo
 após a profissão religiosa, contraiu a terrível doença da época: a lepra. Foi
 segregada e rigorosamente isolada do convívio normal da comunidade. Viveu o

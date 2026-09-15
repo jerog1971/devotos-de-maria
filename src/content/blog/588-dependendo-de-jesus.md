@@ -4,7 +4,8 @@ date: 2019-06-03T15:55:00.003Z
 heroImage: "/images/posts/588-dependendo-de-jesus-joelho_dobrado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/588-dependendo-de-jesus-joelho_dobrado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/588-dependendo-de-jesus-joelho_dobrado.png" width="320" height="224" data-original-width="685" data-original-height="480" /></a></div>
+![](/images/posts/588-dependendo-de-jesus-joelho_dobrado.png)
+
 Sem mim nada podeis fazer, disse Jesus em João 15,5. Por isso Deus o exaltou soberanamente e lhe outorgou o nome que está acima de todos os nomes, para que ao nome de Jesus se dobre todo joelho no céu, na terra e nos infernos. E toda língua confesse, para a glória de Deus Pai, que Jesus Cristo é Senhor. Assim, meus caríssimos, vós que sempre fostes obedientes, trabalhai na vossa salvação com temor e tremor – Filipenses 2,9-12.</br>
 </br>
 Ademais, todos temos que comparecer perante o tribunal de Deus. Porque está escrito: Por minha vida, diz o Senhor, diante de mim se dobrará todo joelho, e toda língua dará glória a Deus. Assim, pois, cada um de nós dará conta de si mesmo a Deus.</br>

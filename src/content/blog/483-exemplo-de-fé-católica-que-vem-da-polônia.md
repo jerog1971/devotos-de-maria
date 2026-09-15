@@ -4,7 +4,8 @@ date: 2017-10-17T18:03:00.001Z
 heroImage: "/images/posts/483-exemplo-de-fé-católica-que-vem-da-po-polonia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/483-exemplo-de-fé-católica-que-vem-da-po-polonia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/483-exemplo-de-fé-católica-que-vem-da-po-polonia.png" width="320" height="319" data-original-width="223" data-original-height="222" /></a></div>
+![](/images/posts/483-exemplo-de-fé-católica-que-vem-da-po-polonia.png)
+
 Não há como não se emocionar um coração verdadeiramente católico que vive a atualidade de tantas barbaridades no mundo de hoje. Pedofilias, apostasias, heresias, injustiças sociais por culpa do egoísmo de poucos, materialismo, abortos, guerras, massacres, ideologia de gênero, inversão de valores cristãos e morais, destruição das famílias e toda a parafernália que cada um de nós presenciamos nesse mundo globalizado e empobrecido no lamaçal dos pecados.</br>
 </br>
 Me refiro ao dia de Nossa Senhora do Rosário, celebrado em 7 de outubro. Lá onde surgiu entre tantos, Santa Maria Faustina Kowalska, São Maximiliano Kolbe e São João Paulo II, só para citar alguns nomes, lá na Polônia, neste ano, a data foi comemorada de forma memorável e em proporções bíblicas. Pouco a de se falar, os poloneses literalmente abraçaram toda a fronteira polonesa num movimento que foi intitulado como Rosário nas Fronteiras, onde além de recordarem o episódio da intercessão de Maria na batalha de Lepanto onde os Otomanos não conseguiram invadir essas terras europeias, pediram a Virgem Santíssima que interceda junto ao seu filho Jesus, pedindo pela abertura de coração de todos os poloneses para a graça de Deus.</br>

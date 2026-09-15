@@ -4,7 +4,8 @@ date: 2017-08-23T14:26:00Z
 heroImage: "/images/posts/793-as-confissões-do-inferno-amorth.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/793-as-confissões-do-inferno-amorth.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/793-as-confissões-do-inferno-amorth.png" width="221" height="320" data-original-width="197" data-original-height="285" /></a></div>
+![](/images/posts/793-as-confissões-do-inferno-amorth.png)
+
 </br>
 Aqui caros leitores nesta página, transcrevemos alguns trechos de exorcismos praticados na década de 70 por um grupo de sacerdotes sobre uma mulher que por vários anos sofria de possessão. Esta compilação que aqui fazemos tem o respaldo da igreja, foi confirmada por estudiosos do clero católico e estas atividades relatadas foram documentadas e gravadas e viraram um livro intitulado CONFISSÕES DO INFERNO AO MUNDO CONTEMPORÂNEO com a participação do Padre Gabriele Amorth, famoso exorcista de Roma, nascido em 1925.</br>
 </br>
@@ -64,7 +65,9 @@ Se numa guerra, não se tem consciência do inimigo e de seu poder de fogo, todo
 </br>
 Porém, o mais grave é que com esses atos e omissões, desmentem e até traem o próprio SENHOR que os salvou e os constituiu em dignidade, pois ignoram as santas Palavras do Evangelho, quando elas afirmam claramente:</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/793-as-confissões-do-inferno-amorth2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/793-as-confissões-do-inferno-amorth2.png" width="200" height="195" data-original-width="335" data-original-height="327" /></a></div>
+
+![](/images/posts/793-as-confissões-do-inferno-amorth2.png)
+
 </br>
 “Em seguida, JESUS foi conduzido pelo ESPÍRITO ao deserto para ser tentado pelo demônio.</br>
 Jejuou quarenta dias e quarenta noites. Depois, teve fome. O tentador aproximou-se DELE e LHE disse: “Se és FILHO de DEUS, ordena que estas pedras se tornem pães.” JESUS respondeu: “Está escrito: Não só de pão vive o homem, mas de toda Palavra que procede da Boca de Deus” (Deut. 8,3).</br>
@@ -133,7 +136,9 @@ Observemos o que afirmou Joseph Ratzinger, hoje 27/01/2016, Papa Emérito Bento 
 </br>
 <h2>Exorcismo de 14 de agosto de 1975</h2></br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/793-as-confissões-do-inferno-inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/793-as-confissões-do-inferno-inferno.png" width="195" height="200" data-original-width="285" data-original-height="292" /></a></div>
+
+![](/images/posts/793-as-confissões-do-inferno-inferno.png)
+
 </br>
 Em todos os exorcismos, os preparativos eram intensos e compreendiam orações especiais do ritual Romano, Consagrações, Salmos prescritos, o Rosário, Ladainhas, Exorcismos, etc... Os sacerdotes exorcizam demônios previamente identificados.</br>
 </br>
@@ -178,7 +183,9 @@ Exorcista (E): - Diz a verdade e só a verdade, em Nome da SANTÍSSIMA TRINDADE,
 </br>
 ...a Comunhão na boca...</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/793-as-confissões-do-inferno-naboca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/793-as-confissões-do-inferno-naboca.png" width="200" height="173" data-original-width="335" data-original-height="289" /></a></div>
+
+![](/images/posts/793-as-confissões-do-inferno-naboca.png)
+
 </br>
 (A) - ...Devem receber convenientemente os Sacramentos... Fazer uma confissão verdadeira, e não apenas participar nas cerimônias penitenciais e na Comunhão. A Comunhão, o celebrante deve dizer três vezes, “...Senhor, eu não sou digno de que entreis em minha morada, mas dizei (...), e não uma vez só. Devem receber a Comunhão na boca, e não na mão.</br>
 </br>
@@ -202,7 +209,9 @@ Exorcista (E): - Diz a verdade e só a verdade, em Nome da SANTÍSSIMA TRINDADE,
 </br>
 (E) - Continua a dizer a verdade, em Nome (...)</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/793-as-confissões-do-inferno-paix_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/793-as-confissões-do-inferno-paix_25C3_25A3o.png" width="151" height="200" data-original-width="222" data-original-height="294" /></a></div>
+
+![](/images/posts/793-as-confissões-do-inferno-paix_25C3_25A3o.png)
+
 </br>
 (A) - Os jovens devem habituar-se a fazer peregrinações. Devem voltar-se, cada vez mais, para a Santíssima Virgem; não devem bani-LA. Devem... devem reconhecer a Santíssima Virgem, e não viver segundo o espírito dos “inovadores”. Não devem aceitar absolutamente nada deles (grita, cheio de fúria). Eles é que são bobos. A esses já os temos, já os temos bem seguros.</br>
 </br>
@@ -222,7 +231,9 @@ Estes sofrimentos têm um valor imenso. Esses sofrimentos, esses momentos obscur
 (E) - Diz a verdade em Nome (...)</br>
 (A) - Deveis rezar muito ao ESPÍRITO SANTO, rezar agora e sempre ao ESPIRITO SANTO. Então, compreendereis no mais profundo de vós mesmos o que é preciso fazer. Aconteça o que acontecer, não vacileis na vossa antiga fé.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/793-as-confissões-do-inferno-tridentina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/793-as-confissões-do-inferno-tridentina.png" width="155" height="200" data-original-width="265" data-original-height="343" /></a></div>
+
+![](/images/posts/793-as-confissões-do-inferno-tridentina.png)
+
 </br>
 Devo dizer que este Segundo Concílio do Vaticano não foi tão bom como se pensa. Em parte, foi obra do inferno.</br>
 </br>
@@ -268,7 +279,9 @@ Deveria também restabelecer-se a cerimônia da aspersão. A aspersão com água
 E - Sacerdote exorcista.</br>
 J - Judas Iscariotes.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/793-as-confissões-do-inferno-aspers_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/793-as-confissões-do-inferno-aspers_25C3_25A3o.png" width="197" height="200" data-original-width="510" data-original-height="519" /></a></div>
+
+![](/images/posts/793-as-confissões-do-inferno-aspers_25C3_25A3o.png)
+
 </br>
 E - Diz a verdade, toda a verdade, da parte da Santíssima Virgem, diz o que Ela nos quer transmitir por teu intermédio, Judas Iscariotes! Continua a falar, diz tudo o que tens a dizer e só a verdade da parte da Santíssima Virgem!</br>
 J - Em 14 de Agosto, Akabor, teve que falar do Aspergesme, que deveria ser reintroduzido no princípio da Missa. É verdade, é verdade! Assim somos obrigados a fugir da Igreja.</br>
@@ -294,7 +307,9 @@ J - Agora há também muitos que fazem Sacrários de qualquer maneira, em ferro.
 E - Diz a verdade, só a verdade, em nome (...)!</br>
 J - Um tabernáculo - Estais a ouvir-me? - Deve ser dourado. Isto é: nem o ouro, nem as pedras mais preciosas seriam dignas de encerrar o que ele encerra. Estariam bem longe de ser merecedoras do que ele abriga. É uma vergonha, mesmo nós lá em baixo, temos de o reconhecer, é uma vergonha ver as Igrejas e Tabernáculos que os homens constroem.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/793-as-confissões-do-inferno-rosario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/793-as-confissões-do-inferno-rosario.png" width="183" height="200" data-original-width="321" data-original-height="351" /></a></div>
+
+![](/images/posts/793-as-confissões-do-inferno-rosario.png)
+
 </br>
 E - Continua a dizer a verdade, diz tudo o que tens a dizer sob as ordens da Santíssima Virgem! Continua a falar!</br>
 J - O Santíssimo Sacramento: O Santíssimo Sacramento já não é adorado. Está totalmente posto de lado. As exposições do Santíssimo Sacramento são agora raras. Fazem-se ainda em alguns atos de reparação e entre os “tradicionalistas”. Fora disso são muito raras. Este Sacramento... se soubésseis como é Grande!</br>

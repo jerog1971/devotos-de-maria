@@ -4,7 +4,9 @@ date: 2022-12-06T16:06:00.003Z
 heroImage: "/images/posts/204-bondades-que-levam-ao-inferno-img-703334305.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/204-bondades-que-levam-ao-inferno-img-703334305.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="629" data-original-width="515" height="320" src="/images/posts/204-bondades-que-levam-ao-inferno-img-152777709.png" width="262" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo que estamos a ler. Ora bolas, não existem as
+![](/images/posts/204-bondades-que-levam-ao-inferno-img-152777709.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Isso mesmo que estamos a ler. Ora bolas, não existem as
 maldades? Assim também existem as bondades! Todavia é preciso muita atenção,
 como Jesus nos alertou, para podermos identificar sempre a origem das coisas.
 Sim, pois, se não formos vigilantes de forma constante, como estamos advertidos
@@ -38,4 +40,7 @@ castigos divinos que se recebem de Deus por conta da filiação que um dia, se
 vivida conforme o agrado dele, irá nos coroar com a eterna felicidade do
 paraíso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2017-08-23T18:37:00Z
 heroImage: "/images/posts/828-santa-gianna-beretta-giannaberetta.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/828-santa-gianna-beretta-giannaberetta.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/828-santa-gianna-beretta-giannaberetta.png" width="316" height="320" data-original-width="316" data-original-height="320" /></a></div>
+![](/images/posts/828-santa-gianna-beretta-giannaberetta.png)
+
 Santa Gianna Beretta Molla nasceu em Magenta, perto de Milão, Itália, em 4 de outubro de 1922 , décima de 13 filhos. Ainda jovem ela acolhe plenamente o dom da fé e da educação cristã , recebidas de seus bons pais. Como resultado , ela experimentou a vida como um dom maravilhoso de Deus , tinha uma fé na Providência e foi convencida da necessidade de oração.</br>
 </br>
 Como uma adolescente e jovem adulta , ela era membro da Sociedade São Vicente de Paulo e oferecia seu tempo ao trabalho entre os idosos e pobres. Ao mesmo tempo ela se aplicava aos estudos , graduando-se em medicina e cirurgia na Universidade de Pavia em 1949 . No ano seguinte , ela abriu uma clínica médica em Meseno perto de sua cidade natal. Ela se especializou em pediatria na Universidade de Milão em 1952 e posteriormente deu uma atenção especial às mães, idosos e pobres.</br>

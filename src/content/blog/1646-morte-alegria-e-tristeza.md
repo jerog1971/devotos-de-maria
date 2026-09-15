@@ -4,7 +4,9 @@ date: 2021-07-16T16:32:00.004Z
 heroImage: "/images/posts/1646-morte-alegria-e-tristeza-morte_alegria_tristeza.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1646-morte-alegria-e-tristeza-morte_alegria_tristeza.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="472" data-original-width="521" src="/images/posts/1646-morte-alegria-e-tristeza-morte_alegria_tristeza.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A morte tem sua veia paradoxal; ela é benvinda e também não
+![](/images/posts/1646-morte-alegria-e-tristeza-morte_alegria_tristeza.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A morte tem sua veia paradoxal; ela é benvinda e também não
 é. Tudo depende do olhar que lançamos sobre a questão. Sabemos que é
 necessária, “ao pó voltarás” – disse nosso criador. Ela é recheada de atributos,
 marca o final de uma etapa e o início de outra. Se pela fé cremos que temos uma
@@ -34,4 +36,7 @@ que morrer é lucro? Se assim pensava é porque vivia uma vida em conformidade
 com o que Deus nos pede. Ao contrário, tristeza seria ser ceifado por ela em
 meio a uma vida totalmente desviada do caminho que Jesus abriu para nós (João 14,6).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

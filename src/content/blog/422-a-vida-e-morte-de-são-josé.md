@@ -4,7 +4,8 @@ date: 2020-02-27T18:44:00.004Z
 heroImage: "/images/posts/422-a-vida-e-morte-de-são-josé-img-1241962934.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/422-a-vida-e-morte-de-são-josé-img-1241962934.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/422-a-vida-e-morte-de-são-josé-img-569837722.png" width="249" height="320" data-original-width="274" data-original-height="352" /></a></div>
+![](/images/posts/422-a-vida-e-morte-de-são-josé-img-569837722.png)
+
 Muitos cristãos, vez por outra, gostariam de saber mais detalhes a respeito de acontecimentos bíblicos que terminaram sem muitas explicações. Sabem aquele filme de suspense que ao final não termina? Fica para você imaginar o que pode ter acontecido ou quais as possibilidades? Ou quando você está acompanhando um seriado na Netflix e no último capítulo da temporada ela simplesmente não termina? Deixa você a ver navios e sem saber quando a próxima temporada chegará e sequer se ela irá atender suas expectativas? Pois bem, como sabemos as vezes não existem cenas dos próximos capítulos.</br>
 </br>
 E isso não é novidade alguma, a natureza humana imita a natureza divina. Em nossas vidas sempre vivemos o dia de hoje. As “cenas dos próximos capítulos” não existem ainda, são apenas projetadas já que não temos domínio em nossas vidas sequer sobre o minuto seguinte, quem dirá o dia seguinte. Por isso a tradição de dizer “se Deus quiser”, pois quando ele não quiser mais, ao pó voltaremos.</br>

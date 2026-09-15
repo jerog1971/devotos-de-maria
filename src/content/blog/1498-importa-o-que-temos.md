@@ -4,7 +4,9 @@ date: 2020-11-24T13:47:00.001Z
 heroImage: "/images/posts/1498-importa-o-que-temos-trindade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1498-importa-o-que-temos-trindade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="416" data-original-width="458" src="/images/posts/1498-importa-o-que-temos-trindade.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eclesiástico 6,37 – “Concentra teu pensamento nos preceitos
+![](/images/posts/1498-importa-o-que-temos-trindade.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Eclesiástico 6,37 – “Concentra teu pensamento nos preceitos
 de Deus, sê assíduo à meditação de seus mandamentos. Ele próprio te dará um
 coração, e ser-te-á concedida a sabedoria que desejas”. Eclesiástico 5,10 – “Não
 te inquietes à procura de riquezas injustas, de nada te servirão no dia do
@@ -43,4 +45,7 @@ não precisa ser feita sozinha, nem é possível; deve ser feita junto de Jesus,
 que garantiu estar conosco todos os dias. Presente melhor que esse? É isso que
 temos, concedido por Deus, junto com o Espírito Santo, e isso importa, e muito!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

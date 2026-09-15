@@ -4,7 +4,9 @@ date: 2021-05-14T13:27:00.004Z
 heroImage: "/images/posts/443-constantes-ameaças-amea_25C3_25A7as.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/443-constantes-ameaças-amea_25C3_25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="372" src="/images/posts/443-constantes-ameaças-amea_25C3_25A7as.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A tribulação de nossas vidas é repleta de eventos e
+![](/images/posts/443-constantes-ameaças-amea_25C3_25A7as.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A tribulação de nossas vidas é repleta de eventos e
 situações ameaçadoras; visíveis e invisíveis. Como todos bem sabem, elementos
 microscópicos podem, em pouco tempo, “colocar na lona” uma pessoa que se
 considerava forte, saudável e gozando de plena vitalidade. Pobre humanidade,
@@ -50,4 +52,7 @@ o que quiser salvar a sua vida, perdê-la-á; mas o que perder a sua vida por
 amor de mim e do Evangelho, salvá-la-á. Pois que aproveitará ao homem ganhar o
 mundo inteiro, se vier a perder a sua vida?”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

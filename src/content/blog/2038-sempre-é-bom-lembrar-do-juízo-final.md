@@ -4,7 +4,7 @@ date: 2024-11-11T20:24:00.013Z
 heroImage: "/images/posts/2038-sempre-é-bom-lembrar-do-juízo-final-ju_C3_ADzo_20final.png"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="767" data-original-width="630" height="320" src="/images/posts/2038-sempre-é-bom-lembrar-do-juízo-final-ju_C3_ADzo_20final.png" width="263" /></div>
+![](/images/posts/2038-sempre-é-bom-lembrar-do-juízo-final-ju_C3_ADzo_20final.png)
 
 <p class="MsoNormal">Por aqui já muito se escreveu sobre o dia do juízo final,
 grande momento onde toda a farsa humana será desmascarada perante todos.
@@ -41,5 +41,4 @@ como dizia São Tomás de Aquino: “quem não vive o que crê, termina crendo o
 vive”.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

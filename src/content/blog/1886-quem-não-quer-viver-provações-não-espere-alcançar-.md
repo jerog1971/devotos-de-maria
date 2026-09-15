@@ -4,7 +4,9 @@ date: 2020-09-17T13:44:00.002Z
 heroImage: "/images/posts/1886-quem-não-quer-viver-provações-não-e-cansado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1886-quem-não-quer-viver-provações-não-e-cansado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="167" data-original-width="172" height="311" src="/images/posts/1886-quem-não-quer-viver-provações-não-e-cansado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Realmente a reflexão do artigo é bem pertinente. A vida
+![](/images/posts/1886-quem-não-quer-viver-provações-não-e-cansado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Realmente a reflexão do artigo é bem pertinente. A vida
 daquele que pretende seguir Jesus Cristo simplesmente não é fácil. Desde o
 início dos tempos já verificamos na bíblia que o homem precisava ocupar-se. O
 jardim do Éden não se cuidava sozinho. Tudo foi criado por Deus para o homem “administrar”
@@ -40,4 +42,7 @@ existissem, mas não nos cabe sofrer por isso, é assim desde o início. Nos cab
 como sempre dizemos por aqui, escolhermos quem seguir, não há meio termo: ou
 sofremos agora, graças a Deus, ou sofremos depois, graças ao diabo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

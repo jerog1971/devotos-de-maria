@@ -4,7 +4,8 @@ date: 2019-03-15T20:26:00.001Z
 heroImage: "/images/posts/1311-músicos-na-missa-musicos_na_missa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1311-músicos-na-missa-musicos_na_missa.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="247" data-original-width="258" height="306" src="/images/posts/1311-músicos-na-missa-musicos_na_missa.png" width="320" /></a></div>
+![](/images/posts/1311-músicos-na-missa-musicos_na_missa.png)
+
 Se existe uma coisa que desgraçadamente acontece dentro da santa missa é a participação mundana das pessoas que compõe a equipe de música. Em sua grande maioria e começo o artigo dessa forma porque existem pessoas que cantam dentro da igreja e comportam-se conforme o agrado de Deus. No entanto, em sua grande maioria, repito, comportam-se como se fossem estrelas de um show. Acompanhemos alguns pequenos pontos que podem ser observados durante as celebrações.
 
 Primeiro, a equipe de música deveria estudar a introdução geral ao missal romano; lá está escrito que a oração do “glória” e do “santo” podem ser cantadas (não substituídas). E o que acontece? Pois é, mudam por outras músicas que falam da glória de Deus e de sua santidade. Onde estão os sacerdotes que permitem uma balburdia dessas? Não são párocos com a missão de conduzir esse rebanho comunitário? Ficam calados e não se envolvem, são uns covardes ou então frouxos. Segundo, os padres ficam à mercê dos músicos. Eles precisam ficar esperando os cantores terminarem a sequência dos cantos quando teria que ser exatamente o contrário, a música deve acompanhar os ritos e não o oposto. O que vemos são padres de cabeça baixa olhando para a hóstia aguardando os músicos terminarem o refrão ou a estrofe. 
@@ -16,6 +17,5 @@ Diz-se que a santa missa é uma oração. Pois bem, alguém quando vai rezar o S
 Aprende-se dentro da religião católica que a missa começa e termina com o sinal da cruz. Essa história de “iniciemos a nossa celebração cantando” é outra invenção desnecessária. Nem a oração do “Cordeiro de Deus” escapa da saraivada dos músicos. Pior ainda é se os músicos querem comandar a assembleia como os cantores fazem nos shows, incentivando a baterem palmas e agitarem as mãos. É uma ofensa terrível a Nosso Senhor Jesus Cristo e sobre isso indico o colóquio que Nosso Salvador teve com Santa Angela de Foligno onde ele descreve com alguns detalhes algumas coisas que desaprova na santa missa. Segue aqui o link caso queiram averiguar: <a href="https://www.devotos-de-maria.com.br/p/santa-angela-de-foligno.html" target="_blank">Jesus em colóquio com Santa Angela</a>. 
 
 Como vemos, caros leitores, a igreja permite tudo isso. Graças a Deus existem os bons católicos que participam da missa e inclusive cantam, desaparecem para que o Cristo apareça. Peçamos sempre a Deus que ele conserve os bons e converta os que necessitam de humildade. 
-
 
 Fonte: Jefferson Roger

@@ -4,7 +4,9 @@ date: 2024-03-11T19:22:00.005Z
 heroImage: "/images/posts/311-as-lembranças-Jeff_20e_20Deb_2001.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/311-as-lembranças-Jeff_20e_20Deb_2001.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="662" data-original-width="720" height="294" src="/images/posts/311-as-lembranças-Jeff_20e_20Deb_2001.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Claro, em nossa mente ficam armazenadas as lembranças, porém,
+![](/images/posts/311-as-lembranças-Jeff_20e_20Deb_2001.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Claro, em nossa mente ficam armazenadas as lembranças, porém,
 quem não passou pela experiência de sentir um aroma, ouvir uma música, ou
 passar outra vez em algum lugar e o cérebro rapidamente, senão quase
 instantaneamente, lhe traz as recordações associadas? Pois é, funcionamos
@@ -33,4 +35,7 @@ eternizar em nossos cliques, pois, ao piscar de olhos, poderemos ser apenas
 lembranças, seja em papel ou nos meios digitais, e teremos perdido a oportunidade
 de fazer o bem e amar diariamente.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

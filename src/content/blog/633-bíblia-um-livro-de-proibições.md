@@ -4,7 +4,9 @@ date: 2022-04-07T15:47:00.003Z
 heroImage: "/images/posts/633-bíblia-um-livro-de-proibições-religiao.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/633-bíblia-um-livro-de-proibições-religiao.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="310" height="276" src="/images/posts/633-bíblia-um-livro-de-proibições-religiao.png" width="310" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia sagrada serve para muita coisa, todavia, além
+![](/images/posts/633-bíblia-um-livro-de-proibições-religiao.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A bíblia sagrada serve para muita coisa, todavia, além
 daquilo para o qual foi, por desejo de Deus, originalmente criada, ela serve de
 pretexto para muitas pessoas, serve para pincelar algum versículo que
 justifique algo fora do contexto e é alvo do público que, por não querer coisa
@@ -40,4 +42,7 @@ coloca na direção certa, não importando, como diz São Paulo, todos os
 sofrimentos da presente vida, que não se comparam com a glória dos céus que nos
 será revelada.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

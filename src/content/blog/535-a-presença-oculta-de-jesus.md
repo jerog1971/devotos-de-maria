@@ -4,7 +4,8 @@ date: 2018-05-10T15:48:00Z
 heroImage: "/images/posts/535-a-presença-oculta-de-jesus-Jesus_oculto.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/535-a-presença-oculta-de-jesus-Jesus_oculto.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/535-a-presença-oculta-de-jesus-Jesus_oculto.jpg" width="320" height="315" data-original-width="720" data-original-height="708" /></a></div>
+![](/images/posts/535-a-presença-oculta-de-jesus-Jesus_oculto.jpg)
+
 É bem sabido de muitas pessoas que um montante muito grande da população mundial pratica a conduta de São Tomé, precisam ver para crer. Algo bem contrário da fé e porque não dizer, totalmente contrário. Quem só acredita vendo caminha por este vale de lágrimas correndo perigo constante e um enorme risco de varrer para fora de sua vida tudo aquilo que não passa em detrimento daquilo que passa. Outras denominações e seitas religiosas pregam suas atividades baseadas no aqui e agora. Para muitos, esse negócio de Deus soa meio como papo furado porque ele (Deus), está lá em cima e nós aqui embaixo é que temos que conviver com as mazelas da vida. Como dizia no filme de Hollywood o ator Jim Carrey, Deus é um castigador que fica lá de cima com uma lupa “mirando” nas pobres formiguinhas (nós) aqui na terra.</br>
 </br>
 O ver para crer é algo que o diabo gosta muito. Ele vende as alegrias e os prazeres no aqui e no agora, não no depois como recompensa por nossa perseverança em meio a uma vida de se carregar a cruz. O ensinamento do Cristo de que “a dor é filha do amor” cai por terra muito facilmente. Parece a todo instante que o ser humano precisa de chacoalhões para acordar de seu transe meio ao estilo morto-vivo, igual aos admiradores de vitrines dos shoppings, e começar a trabalhar pela sua salvação e a salvação dos membros do corpo de Cristo.</br>

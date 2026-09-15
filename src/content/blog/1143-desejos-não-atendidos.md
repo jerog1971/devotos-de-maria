@@ -4,7 +4,9 @@ date: 2022-01-21T16:50:00.003Z
 heroImage: "/images/posts/1143-desejos-não-atendidos-AVvXsEhCnd5Xgrn0EHzJCc1psWONSKnJTeEUThDVHYSwUEU845EmdiudrkUqzyE6PHHpio2jWNx5r5i2gK4fX86S6eRC9MLcGQyrUNeldBtBp6jrcjpp66EQtkB1Cgdlmn1M4d2gq7Y95c_j-DBW4gl7SpETkKGeFTVL_0LryHfpWDZt-aLos1a9LXmzbKwU_s532.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1143-desejos-não-atendidos-AVvXsEhCnd5Xgrn0EHzJCc1psWONSKnJTeEUThDVHYSwUEU845EmdiudrkUqzyE6PHHpio2jWNx5r5i2gK4fX86S6eRC9MLcGQyrUNeldBtBp6jrcjpp66EQtkB1Cgdlmn1M4d2gq7Y95c_j-DBW4gl7SpETkKGeFTVL_0LryHfpWDZt-aLos1a9LXmzbKwU_s532.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="509" data-original-width="532" height="306" src="/images/posts/1143-desejos-não-atendidos-AVvXsEhCnd5Xgrn0EHzJCc1psWONSKnJTeEUThDVHYSwUEU845EmdiudrkUqzyE6PHHpio2jWNx5r5i2gK4fX86S6eRC9MLcGQyrUNeldBtBp6jrcjpp66EQtkB1Cgdlmn1M4d2gq7Y95c_j-DBW4gl7SpETkKGeFTVL_0LryHfpWDZt-aLos1a9LXmzbKwU_s320.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O tema é recorrente por aqui e mais uma vez a reflexão
+![](/images/posts/1143-desejos-não-atendidos-AVvXsEhCnd5Xgrn0EHzJCc1psWONSKnJTeEUThDVHYSwUEU845EmdiudrkUqzyE6PHHpio2jWNx5r5i2gK4fX86S6eRC9MLcGQyrUNeldBtBp6jrcjpp66EQtkB1Cgdlmn1M4d2gq7Y95c_j-DBW4gl7SpETkKGeFTVL_0LryHfpWDZt-aLos1a9LXmzbKwU_s320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O tema é recorrente por aqui e mais uma vez a reflexão
 esbarra nos sentimentos que as pessoas enfrentam cada vez que seus desejos não
 são realizados, atendidos por Deus. Certamente, um olhar que compara a própria
 vida com a do próximo vai induzir a pessoa a perguntar: o que é que eu fiz para
@@ -42,4 +44,7 @@ mas o Espírito mesmo intercede por nós com gemidos inefáveis” – Romanos 8
 Isso porque ele “não deseja uma multidão de filhos infiéis e inúteis” –
 Eclesiástico 15,22.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

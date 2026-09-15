@@ -4,7 +4,9 @@ date: 2023-07-31T21:02:00.006Z
 heroImage: "/images/posts/214-encarando-situações-img-1691797347.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/214-encarando-situações-img-1691797347.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="574" height="211" src="/images/posts/214-encarando-situações-img-642386178.png" width="381" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não há como negar, não se passa ileso pela vida; sempre
+![](/images/posts/214-encarando-situações-img-642386178.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não há como negar, não se passa ileso pela vida; sempre
 existe a cada dia a possibilidade de esbarramos com um problema. Problemas são
 algo que ainda não se sabe a solução; caso não exista, algo a esse respeito
 precisa ser feito, pois, do contrário, ele dificilmente desaparecerá com o tempo,
@@ -38,4 +40,7 @@ ocasiões de pecado possui uma fartura imensurável para cada um de nós. É
 preciso então encararmos as situações, agindo como dizem os santos: “fuja do
 demônio e só assim o vencerás”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger&nbsp;<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger <o:p></o:p></p></div>
+
+<br /> 
+

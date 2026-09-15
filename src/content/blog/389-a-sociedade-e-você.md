@@ -4,7 +4,9 @@ date: 2024-04-29T17:14:00.003Z
 heroImage: "/images/posts/389-a-sociedade-e-você-A_20sociedade_20e_20voc_C3_AA.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/389-a-sociedade-e-você-A_20sociedade_20e_20voc_C3_AA.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/389-a-sociedade-e-você-A_20sociedade_20e_20voc_C3_AA.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim que o mundo lhe descobriu através da sua certidão de
+![](/images/posts/389-a-sociedade-e-você-A_20sociedade_20e_20voc_C3_AA.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Assim que o mundo lhe descobriu através da sua certidão de
 nascimento, começa sua jornada em meio a multidão de humanos. Cheia de regras,
 regulamentos, normas e leis, a sociedade – grupo de pessoas reunidas para partilhar
 interesses comuns e administrar as diferenças de cada pessoa – vai lhe
@@ -34,4 +36,7 @@ daquela que o mundo nos convida a levar.<o:p></o:p></p>
 de Jesus Cristo (1ª Coríntios 11,1). Eis aí a encruzilhada que nos oferece uma
 escolha. Dois convites com dois destinos bem diferentes.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

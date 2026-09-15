@@ -4,7 +4,8 @@ date: 2016-07-06T11:00:00Z
 heroImage: "/images/posts/023-ser-radicalmente-de-deus-radicalmente_de_deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/023-ser-radicalmente-de-deus-radicalmente_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/023-ser-radicalmente-de-deus-radicalmente_de_deus.png" width="320" height="267" data-original-width="431" data-original-height="360" /></a></div>
+![](/images/posts/023-ser-radicalmente-de-deus-radicalmente_de_deus.png)
+
 </br>
 Quando uma pessoa se converte e começa a mudar os próprios hábitos e comportamentos para se conformar à vontade de Deus, o mundo começa a impor-lhe a conhecida pecha de "radical". Experimente deixar de usar determinadas roupas, parar de fazer alguns comentários maldosos, afastar-se da turminha "descolada" do colégio ou começar a usar algum adereço externo que sinalize que você é católico. Imediatamente, o mundo começará a zombar de você.</br>
 </br>

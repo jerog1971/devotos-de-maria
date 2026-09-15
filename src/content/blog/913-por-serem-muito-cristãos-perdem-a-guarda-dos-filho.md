@@ -4,7 +4,8 @@ date: 2015-12-18T12:12:00.001Z
 heroImage: "/images/posts/913-por-serem-muito-cristãos-perdem-a-gu-bodnariu.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/913-por-serem-muito-cristãos-perdem-a-gu-bodnariu.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/913-por-serem-muito-cristãos-perdem-a-gu-bodnariu.png" width="319" height="320" data-original-width="519" data-original-height="521" /></a></div>
+![](/images/posts/913-por-serem-muito-cristãos-perdem-a-gu-bodnariu.png)
+
 </br>
 Em um ato flagrante de abuso de poder, o governo da Noruega tomou cinco crianças de sua família, depois de os seus pais serem acusados de "radicalismo e doutrinação cristã". Ruth e Marius Bodnariu estão desde o dia 16 de novembro sem os filhos – dois meninos, duas meninas e um bebê, ainda em fase de amamentação –, que foram transferidos a diferentes lares adotivos, por decisão do Barnevernet, o departamento de "proteção à infância" da Noruega. Uma petição online pedindo o retorno das crianças à sua família já foi assinada por mais de 35 mil pessoas.</br>
 </br>
@@ -22,7 +23,9 @@ Depois de consultar um advogado, o casal obteve acesso ao documento com as acusa
 </br>
 Até o momento, o casal Bodnariu ainda está separado de seus cinco filhos. Ruth e Marius estão impedidos de ver os quatro mais velhos e a mãe só pode ver o pequeno Ezekiel esporadicamente. "O que eles não entendem é por que os seus filhos foram tirados de si sem serem previamente alertados", explica Daniel, no Facebook. "Por que foram tratados como criminosos ou maus pais – como os adictos em drogas e alcóolatras? Por que ainda lhe estão sendo negados os seus direitos como pais, que deveriam prevalecer contra qualquer direito que o Estado possa presumir?"</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/913-por-serem-muito-cristãos-perdem-a-gu-bodnariu2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/913-por-serem-muito-cristãos-perdem-a-gu-bodnariu2.png" width="200" height="174" data-original-width="412" data-original-height="358" /></a></div>
+
+![](/images/posts/913-por-serem-muito-cristãos-perdem-a-gu-bodnariu2.png)
+
 </br>
 Não é a primeira vez que o departamento de "proteção à infância" da Noruega é acusado de intrometer-se indevidamente na vida das famílias, com alguns líderes políticos chegando a qualificar o Barnevernet de "nazista". Diante de episódios como esses, é realmente difícil não evocar as cruéis imagens dos regimes totalitários do século XX, que, detendo a "fórmula" de uma sociedade perfeita, tentaram impô-la a todo o custo, desprezando as instituições e os direitos mais elementares dos indivíduos.</br>
 </br>

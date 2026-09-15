@@ -4,7 +4,9 @@ date: 2024-11-18T18:57:00.002Z
 heroImage: "/images/posts/012-juntos-e-do-mesmo-lado-coisas-diferentes-lobo_20em_20pele_20de_20ovelha.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="256" data-original-width="239" height="256" src="/images/posts/012-juntos-e-do-mesmo-lado-coisas-diferentes-lobo_20em_20pele_20de_20ovelha.png" width="239" /></div>&nbsp;<p></p>
+![](/images/posts/012-juntos-e-do-mesmo-lado-coisas-diferentes-lobo_20em_20pele_20de_20ovelha.png)
+
+ 
 
 <p class="MsoNormal">É bem assim como lemos no título do artigo; nem sempre estar
 do mesmo lado significa estar em concórdia com os mesmos ideais e princípios.
@@ -35,5 +37,4 @@ já nos alertava o Cristo dizendo a respeito do maligno, na figura do lobo em
 pele de ovelha.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

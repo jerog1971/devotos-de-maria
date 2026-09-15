@@ -4,7 +4,9 @@ date: 2020-08-31T18:56:00.004Z
 heroImage: "/images/posts/375-propaganda-do-diabo-propaganda_do_diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/375-propaganda-do-diabo-propaganda_do_diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="368" data-original-width="454" src="/images/posts/375-propaganda-do-diabo-propaganda_do_diabo.png" /></a></div><p></p><p class="MsoNormal">O diabo cada vez dá menos e exige mais. É como o fornecedor
+![](/images/posts/375-propaganda-do-diabo-propaganda_do_diabo.png)
+
+<p class="MsoNormal">O diabo cada vez dá menos e exige mais. É como o fornecedor
 de drogas: para que seu “cliente” adquira o “produto” ele fornece a famosa
 amostra grátis. O quanto for necessário para que o vício se instale no sujeito.
 Com isso fica mais fácil convencer a pessoa de que aquilo que não faz bem é
@@ -37,4 +39,7 @@ mais do que uma mentira.<o:p></o:p></p>
 estai de sobreaviso, ficai atentos, vigia e orai sem cessar, sede sóbrios,
 precisa de mais algum aviso? Acho que não!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

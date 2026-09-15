@@ -4,8 +4,10 @@ date: 2025-05-13T18:14:00.001Z
 heroImage: "/images/posts/2015-nossa-senhora-do-bom-conselho-genaz-img-1605834743.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2015-nossa-senhora-do-bom-conselho-genaz-img-1605834743.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="375" data-original-width="396" height="303" src="/images/posts/2015-nossa-senhora-do-bom-conselho-genaz-img-300649450.png" width="320" /></a></div><br />&nbsp;
-<p></p><p class="MsoNormal">Em 1467, na cidade italiana de Genazzano, um prodígio
+![](/images/posts/2015-nossa-senhora-do-bom-conselho-genaz-img-300649450.png)
+
+<br /> 
+<p class="MsoNormal">Em 1467, na cidade italiana de Genazzano, um prodígio
 mariano comoveu toda a cristandade. No dia 25 de abril, durante a festa de São
 Marcos, uma nuvem branca e luminosa desceu dos céus e pousou sobre uma das
 paredes da igreja dos agostinianos, em reformas. Quando a nuvem se dissipou,
@@ -33,5 +35,4 @@ aparição. Petruccia tornou-se, assim, símbolo da confiança total na Providê
 Divina e da fé que atrai os prodígios do Céu.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger, adaptado de reginafidei.com.br</p>
-
 

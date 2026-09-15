@@ -4,7 +4,9 @@ date: 2021-03-24T10:33:00.001Z
 heroImage: "/images/posts/1548-morreu-e-ressuscitou-jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1548-morreu-e-ressuscitou-jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" src="/images/posts/1548-morreu-e-ressuscitou-jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Grande parte das pessoas de nosso mundo, as que vivem e as
+![](/images/posts/1548-morreu-e-ressuscitou-jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Grande parte das pessoas de nosso mundo, as que vivem e as
 que já passaram por aqui, conhecem ou conheceram a história sobre a vida de
 Jesus Cristo. Em linhas bastante resumidas vamos dizer que: Deus o enviou ao mundo
 para padecer pelos pecados da humanidade e através de sua morte e ressurreição
@@ -56,4 +58,7 @@ não! Cristo ressuscitou dentre os mortos, como primícias dos que morreram! Com
 efeito, se por um homem veio a morte, por um homem vem a ressurreição dos
 mortos. Assim como em Adão todos morrem, assim em Cristo todos reviverão”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

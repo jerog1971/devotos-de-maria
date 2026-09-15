@@ -4,7 +4,8 @@ date: 2017-02-03T00:53:00.001Z
 heroImage: "/images/posts/326-é-preciso-ser-exemplo-e-testemunhar--paiz_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/326-é-preciso-ser-exemplo-e-testemunhar--paiz_25C3_25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="361" height="316" src="/images/posts/326-é-preciso-ser-exemplo-e-testemunhar--paiz_25C3_25A3o.png" width="320" /></a></div>
+![](/images/posts/326-é-preciso-ser-exemplo-e-testemunhar--paiz_25C3_25A3o.png)
+
 Efésios 5,2 – “Progredi na caridade, segundo o exemplo de Cristo, que nos amou e por nós se entregou a Deus como oferenda e sacrifício de agradável odor.” Filipenses 3,17 – “Irmãos, sede meus imitadores, e olhai atentamente para os que vivem segundo o exemplo que nós vos damos.”  1ª Pedro 1,15-16 – “A exemplo da santidade daquele que vos chamou, sede também vós santos em todas as vossas ações, pois está escrito: Sede santos, porque eu sou santo (Levítico 11,44).” Eis aí caros leitores, alguns poucos trechos bíblicos que nos recordam que aquele que é o caminho, a verdade e a vida (João 14,6) precisa ser imitado (1ª Coríntios 11,1) e esta imitação precisa acontecer em todas as áreas de nossa existência. Afinal qual a dimensão de nossa fé? Talvez não saibamos mas uma coisa precisa ficar clara: ela não pode ser uma fé percentual. Pois assim deixamos, numa tendência ensinada pela catequese do mundo, de nos esforçarmos naquilo que mais exige de nós um compromisso cristão. Para muitos católicos não é esforço nenhum ir a um barzinho e passar despercebidas duas ou três horas confraternizando com seus amigos; mas, participar de uma santa missa na vigília pascal, que também tem uma duração similar, já é algo a se pensar.
 
 Pois bem, a questão do exemplo, do ser exemplo e de se dar o exemplo não poderia ficar de fora das investidas do inimigo cruel da humanidade. Satanás deixa claro que os bons exemplos cultivados pelo mundo consistem naquilo que todo mundo faz, tornando o comum uma coisa certa. Nada disso, nem tudo que é comum é certo. Até fora da religião isso é patente. Entretanto o cenário está aí, postos aos olhos de todos. Sobretudo aos olhos de Deus, aquele que vê no oculto e que nos recompensará segundo nossas obras (Mateus 6,6 – Apocalipse 22,12).
@@ -15,10 +16,8 @@ Eclesiástico 19,3 – “Aquele que se une às prostitutas é um homem de nenhu
 
 Enfim, em nossa existência como humanidade e membros do corpo de Cristo que é a sua igreja (1ª Coríntios 12 – Efésios 5) somos convidados a dar exemplo, ser exemplo e seguir exemplos. Exemplos do Cristo, exemplos dos apóstolos como vimos em Filipenses e exemplos das pessoas que conhecemos e que nos identificamos com o caminho que elas estão seguindo, pois percebemos que é o caminho do evangelho. Portanto, é preciso de nossa parte, para que nos sintamos agraciados e para que sempre agradeçamos a Deus por estarmos cumprindo, dentro do nosso esforço católico, um bom papel como cristãos batizados, como pais, irmãos, amigos e como aquele que precisa ser para o próximo sal e luz, pedirmos a graça de sermos bons exemplos, com aquilo que fazemos e falamos, procurando acertar e ensinando a se levantar em cada queda, através dos sacramentos. Assim nos enxergam as filhas e filhos, assim enxergam esposas e maridos, assim enxergam as pessoas que convivem conosco em maior ou menor grau, como a autora da lembrança da foto, carinhosamente feita por uma católica chamada Karuê, seguidora deste site, grande pessoa que também procura viver o caminho da porta estreita levando aos outros os seus exemplos. Sejamos assim, unidos ao Ressuscitado como membros do seu corpo e “membros uns dos outros – Efésios 4,25”.
 
-
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2015/06/os-maus-exemplos.html" target="_blank">Os maus exemplos</a>
-
 
 fonte: Jefferson Roger

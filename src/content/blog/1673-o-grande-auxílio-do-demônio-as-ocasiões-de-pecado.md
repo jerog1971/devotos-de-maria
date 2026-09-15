@@ -4,7 +4,9 @@ date: 2022-02-25T18:41:00.004Z
 heroImage: "/images/posts/1673-o-grande-auxílio-do-demônio-as-ocas-img-1318944326.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1673-o-grande-auxílio-do-demônio-as-ocas-img-1318944326.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="568" data-original-width="692" height="263" src="/images/posts/1673-o-grande-auxílio-do-demônio-as-ocas-img-1318941224.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nada auxilia tanto os planos do demônio quanto as ocasiões
+![](/images/posts/1673-o-grande-auxílio-do-demônio-as-ocas-img-1318941224.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nada auxilia tanto os planos do demônio quanto as ocasiões
 de pecado. São como que as emboscadas onde a todo momento aquela antiga
 serpente prepara o bote. Logo não há outra alternativa para o homem: ou a fuga
 das más ocasiões ou a morte espiritual. Sobre isso adverte-nos Santo Afonso Maria
@@ -46,4 +48,7 @@ impuro, dificilmente se salvará."<o:p></o:p></p>
 percebemos, na clareza de suas palavras, quão sério e delicado é o assunto da
 salvação de nossas almas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

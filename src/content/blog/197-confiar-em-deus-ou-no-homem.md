@@ -4,7 +4,9 @@ date: 2021-11-18T23:55:00.003Z
 heroImage: "/images/posts/197-confiar-em-deus-ou-no-homem-confiar_em_deus_ou_no_homem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/197-confiar-em-deus-ou-no-homem-confiar_em_deus_ou_no_homem.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="430" data-original-width="447" height="308" src="/images/posts/197-confiar-em-deus-ou-no-homem-confiar_em_deus_ou_no_homem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Será que devemos confiar em um ou em outro? Ou será que
+![](/images/posts/197-confiar-em-deus-ou-no-homem-confiar_em_deus_ou_no_homem.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Será que devemos confiar em um ou em outro? Ou será que
 podemos confiar em ambos? A santas palavras de Deus falam muito a esse respeito
 e por ela podemos tirar grandes e delicados proveitos. Para início de reflexão,
 as leis bíblicas ensinam ao ser humano um comportamento adequado para a
@@ -49,4 +51,7 @@ soberbos, e daquele que está à espreita para ver a ruína do próximo.
 Transformando o bem em mal, ele arma ciladas, e põe nódoas nas coisas mais
 puras”.<o:p></o:p></p><p class="MsoNormal">Artigo relacionado:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2016/09/maldito-o-homem-que-confia-em-outro.html" target="_blank">Maldito o homem que confia em outro homem</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

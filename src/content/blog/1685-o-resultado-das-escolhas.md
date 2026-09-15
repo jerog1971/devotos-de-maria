@@ -4,7 +4,9 @@ date: 2022-07-19T20:17:00.003Z
 heroImage: "/images/posts/1685-o-resultado-das-escolhas-porta_estreita.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1685-o-resultado-das-escolhas-porta_estreita.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="405" data-original-width="323" height="320" src="/images/posts/1685-o-resultado-das-escolhas-porta_estreita.png" width="255" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos recordar: nossa vida é uma vida de escolhas. Desde o
+![](/images/posts/1685-o-resultado-das-escolhas-porta_estreita.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vamos recordar: nossa vida é uma vida de escolhas. Desde o
 início dos tempos, os relatos bíblicos apontam essa realidade. Entre tantas
 coisas que devemos escolher, muitas são importantíssimas e dizem respeito ao
 modo como conduzimos nossa vida e as consequências que esperam cada pessoa no
@@ -51,4 +53,7 @@ suas obras (Apocalipse 22,12), acolhe a todos e diz: “quem quer se salvar, ren
 a si mesmo, tome a sua cruz, dia após dia e me siga” (Lucas 9,23) e acrescenta:
 quem não está comigo, está contra mim (Mateus 12,30).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

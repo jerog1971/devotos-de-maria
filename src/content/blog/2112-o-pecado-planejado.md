@@ -4,7 +4,8 @@ date: 2019-05-20T15:30:00.001Z
 heroImage: "/images/posts/2112-o-pecado-planejado-planejado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2112-o-pecado-planejado-planejado.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="273" height="320" src="/images/posts/2112-o-pecado-planejado-planejado.png" width="220" /></a></div>
+![](/images/posts/2112-o-pecado-planejado-planejado.png)
+
 Indo direto ao ponto é preciso entender que tudo aquilo de errado que se faz escondido, por sua natureza é considerado pecado. Desde as pequenas traquinices e travessuras que crianças, jovens e adolescentes fazem com suas más companhias, longe dos pais, até as ilícitas atitudes que os adultos fazem, longe dos olhares humanos, cada uma, independente da sua gravidade, irá contribuir na fatura final que nos será apresentada no dia do juízo. Temos duas saídas. Fazemo-nos de espertos e vamos praticando uma vida toda planejada no que diz respeito aos comportamentos que desagradam a Deus ou, fazemo-nos humildes e reconhecedores de nossa miséria e vamos praticando uma vida toda voltada para servir e agradar a Deus. Uma terceira saída não existe. Jesus disse que não podemos agradar a dois senhores, ponto final. Então, como vemos, não é possível inventarmos um caminho que seja nosso para podermos gozar os prazeres do mundo, vivermos segundo nossa vontade e ainda sermos agradáveis aos olhos de Deus. Não vai dar certo pensar e agir assim. Quem é amigo do mundo se faz inimigo de Deus, está escrito na carta de São Tiago 4,4.
 
 Pois bem, pecar com intenção de se confessar de nada adianta. E o próprio Deus, num de seus colóquios com Santa Catarina de Sena lhe confirmou: “quem peca com intenção de se confessar não espere de mim, nem o perdão e nem a misericórdia”. E não é para se assustar pois a pessoa vai confessar o que se não está arrependida? Será uma confissão sacrílega com absolvição inválida e o motivo é muito simples: não existe arrependimento, o pecado foi premeditado. E enquanto planejado este pecado a ele foi anexado várias justificativas para endossa-lo o que no fundo, nada mais é do que um gesto para arrumar alguma desculpa esfarrapada para se cometer o erro. Ainda mais grave, é importante lembrar, que esses erros que estão sendo planejados, afastam a pessoa da renúncia pedida por Jesus para a salvação de cada um (Lucas 9,23), e demonstram com isso que a pessoa se acostumou com o pecado, tornou o pecado uma obstinação e um objeto de estimação, sendo necessário muito mais violência, para recuperar seu coração, alma e mente, que espontaneamente foram entregues aos domínios malignos. E a palavra espontaneamente se encaixa muito bem na questão porque as pessoas insistem em entrar em debate com as tentações do inimigo e acabam convencidas a pecar, ao caírem nessas tentações. Depois, ao verem os resultados, felizmente algumas se arrependem, mas, infelizmente, outras saboreiam o prazer sentido e se afiliam à rebeldia de satanás.
@@ -18,6 +19,5 @@ Artigos relacionados:
 <a href="https://www.devotos-de-maria.com.br/2016/03/os-pecados-da-carne.html" target="_blank">Os pecados da carne</a>
 
 <a href="https://www.devotos-de-maria.com.br/2016/02/moteis.html" target="_blank">Motéis</a>
-
 
 fonte: Jefferson Roger

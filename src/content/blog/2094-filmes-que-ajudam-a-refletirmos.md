@@ -4,7 +4,8 @@ date: 2019-03-14T18:21:00Z
 heroImage: "/images/posts/2094-filmes-que-ajudam-a-refletirmos-Alex_Kendrick.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2094-filmes-que-ajudam-a-refletirmos-Alex_Kendrick.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2094-filmes-que-ajudam-a-refletirmos-Alex_Kendrick.png" width="319" height="320" data-original-width="466" data-original-height="468" /></a></div>
+![](/images/posts/2094-filmes-que-ajudam-a-refletirmos-Alex_Kendrick.png)
+
 É sabido por todos, nem precisamos entrar em muitos detalhes por aqui, que o universo cinematográfico tem o poder de transmitir através de seus filmes muitas histórias e histórias das mais diversas naturezas. Poderíamos até arriscar um palpite ao dizermos que é muito difícil encontrarmos alguém que não goste de nenhum gênero de filme. Existe, mas são muito poucos. Normalmente o que se vê por aí são respostas que elencam alguns tipos de filmes que “caem” no gosto das pessoas.</br>
 </br>
 Sendo assim, neste breve artigo destacaremos alguns filmes de origem cristã que, apesar de não serem católicos, apresentam um bom conteúdo para se assistir em família. Estes cinco filmes: Prova de Fogo, A virada, Desafiando Gigantes, Corajosos e Quarto de Guerra são filmes que baseados na palavra de Deus e nos resultados de uma vida em comunhão ou não com ele, demonstram em suas histórias exemplos que poderiam muito bem acontecer na vida real. </br>

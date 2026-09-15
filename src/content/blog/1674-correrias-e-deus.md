@@ -4,7 +4,9 @@ date: 2023-04-05T21:13:00.005Z
 heroImage: "/images/posts/1674-correrias-e-deus-Correrias_20e_20Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1674-correrias-e-deus-Correrias_20e_20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="711" height="198" src="/images/posts/1674-correrias-e-deus-Correrias_20e_20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já sei que você sabe que sua vida é corrida; já sei e você
+![](/images/posts/1674-correrias-e-deus-Correrias_20e_20Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Já sei que você sabe que sua vida é corrida; já sei e você
 sabe que tempo é algo muito precioso. Todo mundo não tem tempo a perder quanto
 menos para jogar fora, desperdiçar ou seja lá qual mau uso fazer do pobrezinho.
 Sempre ao nosso lado faz de tudo para ser nosso aliado; isso se seguirmos o bom
@@ -39,4 +41,7 @@ do tipo de correria que levamos na vida, será a vez do justo juiz, aquele que
 irá nos julgar segundo nossas obras (Apocalipse 22,12) correr a nos decretar a
 sentença eterna e imutável. Pode então ser para nós, tarde demais.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

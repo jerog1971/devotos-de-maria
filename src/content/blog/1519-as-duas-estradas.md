@@ -4,7 +4,8 @@ date: 2016-07-25T12:00:00.001Z
 heroImage: "/images/posts/1519-as-duas-estradas-porta_estreita.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1519-as-duas-estradas-porta_estreita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1519-as-duas-estradas-porta_estreita.png" width="255" height="320" data-original-width="323" data-original-height="405" /></a></div>
+![](/images/posts/1519-as-duas-estradas-porta_estreita.png)
+
 </br>
 Um dia, vi duas estradas:</br>
 </br>

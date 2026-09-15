@@ -4,7 +4,9 @@ date: 2022-07-28T15:21:00.004Z
 heroImage: "/images/posts/1749-cristão-irredutível-img-188553959.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1749-cristão-irredutível-img-188553959.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="513" data-original-width="543" height="302" src="/images/posts/1749-cristão-irredutível-img-1696875222.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo em seus ensinamentos, por várias vezes, deixou
+![](/images/posts/1749-cristão-irredutível-img-1696875222.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus Cristo em seus ensinamentos, por várias vezes, deixou
 muito claro que “o céu é arrebatado à força e são os violentos que o conquistam”
 – Mateus 11,12. Quando fala sobre as coisas ruins que irão acometer a humanidade,
 diz que, por mais que o mal tente o homem, os eleitos não poderão se enganados
@@ -32,4 +34,7 @@ do lugar nunca esteve tão na moda. Não devemos de forma alguma aceitar as
 ofertas do mundo, embora tenhamos que conviver com elas. “Quem perseverar até o
 fim será salvo” – Mateus 10,22, disse Jesus Cristo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

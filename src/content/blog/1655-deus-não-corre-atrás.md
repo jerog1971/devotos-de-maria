@@ -4,7 +4,9 @@ date: 2021-03-08T19:36:00.003Z
 heroImage: "/images/posts/1655-deus-não-corre-atrás-escolhas_solit_25C3_25A1rias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1655-deus-não-corre-atrás-escolhas_solit_25C3_25A1rias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="393" src="/images/posts/1655-deus-não-corre-atrás-escolhas_solit_25C3_25A1rias.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou será que corre? Vale a reflexão, pois certamente, muitos
+![](/images/posts/1655-deus-não-corre-atrás-escolhas_solit_25C3_25A1rias.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ou será que corre? Vale a reflexão, pois certamente, muitos
 de nós já passamos pela sensação de ter sido abandonados por Deus. No meio
 cristão fala-se da noite escura da alma esse afastamento que Deus promove em
 relação a sua criatura. É uma provação por causa do amor, como lemos no livro
@@ -47,4 +49,7 @@ ele se afaste. Na parábola do filho pródigo narrada por Jesus, vemos a mesma
 situação; o pai não foi atrás do filho, permitiu que ele saísse de casa, mas
 acolheu com alegria quando arrependido retornou.<o:p></o:p></p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div><p><br />&nbsp;</p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>
+
+<br /> 
+

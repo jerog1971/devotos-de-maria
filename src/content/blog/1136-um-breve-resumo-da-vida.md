@@ -4,7 +4,9 @@ date: 2022-10-24T19:08:00.005Z
 heroImage: "/images/posts/1136-um-breve-resumo-da-vida-um_20breve_20resumo_20da_20vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1136-um-breve-resumo-da-vida-um_20breve_20resumo_20da_20vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="373" data-original-width="331" height="320" src="/images/posts/1136-um-breve-resumo-da-vida-um_20breve_20resumo_20da_20vida.png" width="284" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Será que quando chegar a hora derradeira e tivermos que
+![](/images/posts/1136-um-breve-resumo-da-vida-um_20breve_20resumo_20da_20vida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Será que quando chegar a hora derradeira e tivermos que
 passar por aquela experiência que muitos relatam que viram a vida inteira passar
 em sua frente, como num filme, teremos motivos para nos orgulhar e ficarmos
 felizes ou a hora dos lamentos eternos irá começar? Pois é, sabemos que o braço
@@ -40,4 +42,7 @@ evitarmos pecados graves, temos que diariamente nos comportarmos de modo a afast
 com plena certeza até os pecados veniais para só assim sentirmos verdadeiramente
 a certeza de que o céu nos aguarda.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

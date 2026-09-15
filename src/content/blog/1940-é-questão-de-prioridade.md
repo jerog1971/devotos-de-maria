@@ -4,7 +4,8 @@ date: 2018-11-13T19:19:00Z
 heroImage: "/images/posts/1940-é-questão-de-prioridade-prioridades.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1940-é-questão-de-prioridade-prioridades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1940-é-questão-de-prioridade-prioridades.png" width="290" height="320" data-original-width="541" data-original-height="597" /></a></div>
+![](/images/posts/1940-é-questão-de-prioridade-prioridades.png)
+
 Todo mundo sabe, se pararmos para analisar nossa relação com o tempo, iremos perceber que interagimos com ele conforme nossas definições de importância. Eis aí um grande porém, muitas coisas são importantes e não damos a devida atenção; outras não são e ganham mais atenção de nossa parte. Estamos sempre gerenciando nosso recurso de vinte e quatro horas.
 Sempre corremos o risco nas relações interpessoais de protegermos nossos interesses cedendo muito pouco ou quase nada aos interesses alheios. Quanto maior o envolvimento mais necessário é o empenho que se deve fazer para que tudo saia bem.</br>
 </br>

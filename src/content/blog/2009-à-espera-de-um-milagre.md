@@ -4,7 +4,9 @@ date: 2023-08-08T20:29:00.005Z
 heroImage: "/images/posts/2009-à-espera-de-um-milagre-a_20espera_20de_20um_20milagre.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2009-à-espera-de-um-milagre-a_20espera_20de_20um_20milagre.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="392" data-original-width="512" height="245" src="/images/posts/2009-à-espera-de-um-milagre-a_20espera_20de_20um_20milagre.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Saber esperar é uma virtude! Aceitar, sem questionar, que
+![](/images/posts/2009-à-espera-de-um-milagre-a_20espera_20de_20um_20milagre.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Saber esperar é uma virtude! Aceitar, sem questionar, que
 cada coisa tem um tempo certo para acontecer… é ter Fé!” Pois bem, eis aí uma
 boa reflexão que podemos colher do filme À espera de um milagre. Afinal, com o
 andar do mundo de hoje, que já vem de tempos, quantas pessoas não se
@@ -32,4 +34,7 @@ sobre a terra?” – Lucas 18,1-8.<o:p></o:p></p>
 <p class="MsoNormal">Pois é, não bastasse ainda nos disse que a virtude da perseverança
 (Mateus 10,22) é a grande responsável por nos ajudar a chegar no paraíso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

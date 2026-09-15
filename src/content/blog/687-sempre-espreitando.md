@@ -4,7 +4,9 @@ date: 2025-05-13T20:56:00.004Z
 heroImage: "/images/posts/687-sempre-espreitando-Sempre_20espreitando.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/687-sempre-espreitando-Sempre_20espreitando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="429" data-original-width="740" height="186" src="/images/posts/687-sempre-espreitando-Sempre_20espreitando.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/687-sempre-espreitando-Sempre_20espreitando.png)
+
+<br /> 
 
 <p class="MsoNormal">Mais uma vez e, provavelmente a última vez, a atriz Vera
 Farmiga irá interpretar ao lado de Patrick Wilson, a clarividente Lorraine
@@ -42,4 +44,3 @@ quem será contra nós?</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
 
-<p></p>

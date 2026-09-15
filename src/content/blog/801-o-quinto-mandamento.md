@@ -4,7 +4,8 @@ date: 2017-05-17T20:25:00Z
 heroImage: "/images/posts/801-o-quinto-mandamento-matar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/801-o-quinto-mandamento-matar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/801-o-quinto-mandamento-matar.png" width="320" height="261" data-original-width="393" data-original-height="320" /></a></div>
+![](/images/posts/801-o-quinto-mandamento-matar.png)
+
 Brilhante é a doutrina e a teologia feita sobre a questão dos mandamentos da lei de Deus. É assunto que rende muito pano para a manga. E dá muito pano porque cada mandamento envolve uma série de comportamentos e atitudes que se enquadram dentro do mandato. De muitas formas podemos desobedecer um mandamento. Não existe simplicidade quando o assunto são mandamentos e ao mesmo tempo existe muita simplicidade quando o assunto é mandamento. Parece meio confuso mas vamos ver como se dão as coisas. A doutrina, Santa Tradição e a bíblia convergem para um ponto só na questão dos mandamentos.</br>
 </br>
 A questão não é tão simples porque nem sempre uma desobediência se enquadra na categoria dos erros denominados de pecados graves, que podem nos condenar ao inferno. Só pela doutrina dos pecados, já sabemos da boca do próprio Jesus que existem pecados maiores e menores. Ou através da doutrina e tradição que existem pecados veniais (leves e cotidianos) e graves (mortais). A complicação da coisa está aí, distinguir o que é grave e rompe com o amor e a amizade de Deus, nos privando de suas graças santificantes e o que não é. Na outra esfera do aparente paradoxo se encontra a simplicidade que é transgredir um mandamento.</br>

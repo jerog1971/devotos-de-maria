@@ -4,7 +4,9 @@ date: 2022-04-19T23:53:00.003Z
 heroImage: "/images/posts/2204-para-deus-quem-é-digno-ser_20digno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2204-para-deus-quem-é-digno-ser_20digno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="259" data-original-width="256" height="259" src="/images/posts/2204-para-deus-quem-é-digno-ser_20digno.png" width="256" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na mitologia nórdica o martelo mjolnir pudera ser empunhado
+![](/images/posts/2204-para-deus-quem-é-digno-ser_20digno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na mitologia nórdica o martelo mjolnir pudera ser empunhado
 pelo Deus do trovão, Thor. Para título de curiosidade, este martelo que só pôde
 estar nas mãos de quem fosse digno, o foi em outros personagens além de Thor,
 mas, isso não é foco de nosso artigo. Todavia, como a ficção imita a realidade
@@ -31,4 +33,7 @@ eterna no reino dos céus. Dentre tantas coisas que disse, embora muitas marcant
 ficamos com o que foi dito em Mateus 10,38 – “Quem não toma a sua cruz e não me
 segue, não é digno de mim”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

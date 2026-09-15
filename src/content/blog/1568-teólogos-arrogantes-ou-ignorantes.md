@@ -4,7 +4,8 @@ date: 2019-02-20T16:32:00Z
 heroImage: "/images/posts/1568-teólogos-arrogantes-ou-ignorantes-teologos_arrogantes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1568-teólogos-arrogantes-ou-ignorantes-teologos_arrogantes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1568-teólogos-arrogantes-ou-ignorantes-teologos_arrogantes.png" width="320" height="289" data-original-width="421" data-original-height="380" /></a></div>
+![](/images/posts/1568-teólogos-arrogantes-ou-ignorantes-teologos_arrogantes.png)
+
 <b>T</b> odo o esforço que o homem</br>
 <b>E</b> mpreende para tentar</br>
 <b>O</b> lhar para o divino e compreender o</br>

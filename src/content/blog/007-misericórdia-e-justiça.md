@@ -4,7 +4,8 @@ date: 2016-10-19T11:19:00Z
 heroImage: "/images/posts/007-misericórdia-e-justiça-faustina.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/007-misericórdia-e-justiça-faustina.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/007-misericórdia-e-justiça-faustina.png" width="239" height="320" data-original-width="267" data-original-height="357" /></a></div>
+![](/images/posts/007-misericórdia-e-justiça-faustina.png)
+
 Santa Maria Faustina Kowalska, a mensageira da misericórdia, levou uma vida de constante oração, confissão e adoração ao Senhor, sempre vivendo diariamente em sua companhia e sendo aquela que se diminuía para que Jesus aparecesse. Como grande graça concedida para a humanidade, através dessa grande santa, nos foi deixado por ela, a mando de Jesus, um relato em forma de diário para que o povo de Deus viva ainda melhor, os ensinamentos do evangelho. Esse testemunho pessoal que Santa Faustina deixa para todos, serve para nos mostrar como pode e deve ser nosso relacionamento com o Cristo Ressuscitado.</br>
 </br>
 Em seu diário, cuja leitura recomendo a todos os católicos, em seu número 1728, Jesus faz um pequeno lembrete da sua condição de Jesus Misericordioso e Jesus Justo Juiz, nos recordando que sua misericórdia é infinita, não pode ser vencida mas, existe o braço da justiça que irá pender sobre todos. Vejamos o trecho do diário:</br>

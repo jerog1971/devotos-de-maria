@@ -4,7 +4,9 @@ date: 2021-03-29T14:01:00.003Z
 heroImage: "/images/posts/2088-sacrifícios-e-sofrimentos-paix_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2088-sacrifícios-e-sofrimentos-paix_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="222" src="/images/posts/2088-sacrifícios-e-sofrimentos-paix_25C3_25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Hebreus 5,5-9 – “Cristo não se atribuiu a si mesmo a glória
+![](/images/posts/2088-sacrifícios-e-sofrimentos-paix_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Hebreus 5,5-9 – “Cristo não se atribuiu a si mesmo a glória
 de ser pontífice. Esta lhe foi dada por aquele que lhe disse: Tu és meu Filho,
 eu hoje te gerei (Salmos 2,7), como também diz em outra passagem: Tu és
 sacerdote eternamente, segundo a ordem de Melquisedec (Salmos 109,4). Nos dias
@@ -49,4 +51,7 @@ vos possais alegrar e exultar no dia em que for manifestada sua glória. Se
 fordes ultrajados pelo nome de Cristo, bem-aventurados sois vós, porque o
 Espírito de glória, o Espírito de Deus repousa sobre vós”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

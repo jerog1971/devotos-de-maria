@@ -4,7 +4,8 @@ date: 2016-01-05T15:45:00.001Z
 heroImage: "/images/posts/1105-guarde-estes-números-dom_bosco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1105-guarde-estes-números-dom_bosco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1105-guarde-estes-números-dom_bosco.png" width="320" height="293" data-original-width="566" data-original-height="519" /></a></div>
+![](/images/posts/1105-guarde-estes-números-dom_bosco.png)
+
 </br>
 Viveu, no século XIX, um homem muito famoso por seus milagres e profecias. Mesmo antes de morrer em odor de santidade, a fama de São João Bosco se espalhava por todos os lados. A uns, anunciava-lhes por quantos anos havia de viver; a outros, dizia-lhes a profissão que teriam no futuro; e, a muitos, adivinhava-lhes os pecados antes que os contassem no confessionário. Ao todo, Dom Bosco – como era chamado – realizou mais de oitocentos milagres.</br>
 </br>

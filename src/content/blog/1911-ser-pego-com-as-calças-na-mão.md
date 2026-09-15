@@ -4,9 +4,11 @@ date: 2021-10-05T12:21:00.003Z
 heroImage: "/images/posts/1911-ser-pego-com-as-calças-na-mão-img-1192357095.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1911-ser-pego-com-as-calças-na-mão-img-1192357095.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="268" height="294" src="/images/posts/1911-ser-pego-com-as-calças-na-mão-img-718771932.png" width="268" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quem não pensa em seus novíssimos, como nos recorda o livro
+![](/images/posts/1911-ser-pego-com-as-calças-na-mão-img-718771932.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quem não pensa em seus novíssimos, como nos recorda o livro
 do Eclesiástico, a parábola das virgens imprudentes e outras passagens bíblicas,
-corre o risco de ser pego como diz o ditado popular, pois, &nbsp;a vigilância que Jesus nos mandou ter durante
+corre o risco de ser pego como diz o ditado popular, pois,  a vigilância que Jesus nos mandou ter durante
 toda a vida, se pensamos um dia morar no céu, esbarra numa consciência de que a
 vida eterna tem pré-requisito; estamos exatamente passando por ele: nossa vida
 terrena, cercada de variedades de todos os tipos, variedades de coisas a se
@@ -33,4 +35,7 @@ ideia para que ela não nos cause estranheza e medo e sim, uma esperança e
 tranquilidade de que quando chegar a nossa vez, não teremos do que nos arrepender
 pela vida que foi levada.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

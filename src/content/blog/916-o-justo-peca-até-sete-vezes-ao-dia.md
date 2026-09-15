@@ -4,7 +4,8 @@ date: 2020-02-28T14:50:00.002Z
 heroImage: "/images/posts/916-o-justo-peca-até-sete-vezes-ao-dia-ora_25C3_25A7_25C3_25A3o2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/916-o-justo-peca-até-sete-vezes-ao-dia-ora_25C3_25A7_25C3_25A3o2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/916-o-justo-peca-até-sete-vezes-ao-dia-ora_25C3_25A7_25C3_25A3o2.png" width="320" height="303" data-original-width="324" data-original-height="307" /></a></div>
+![](/images/posts/916-o-justo-peca-até-sete-vezes-ao-dia-ora_25C3_25A7_25C3_25A3o2.png)
+
 Caro leitor, é isso que lemos no livro dos Provérbios; ora, Abraão era justo, São José era justo aos olhos de Deus e por aí já podemos ter uma ideia de nossa miséria. Nossa Senhora disse em suas aparições que todos pecam diariamente, ainda que venialmente; então, o negócio é “descer do salto”, nos humilharmos perante Deus e vivermos uma vida que seja do seu agrado.</br>
 </br>
 Foi ele mesmo que disse que quem se humilhar será exaltado. O humilde se humilha, o soberbo se exalta. Somos assim, criados à sua semelhança, porém, passíveis das tribulações da vida. E que vida! Convenhamos... É um combate diário, mas podemos escolher e colocar uma visão sobrenatural nesta vida para podermos, assim como fala São Paulo: lutarmos o bom combate.</br>

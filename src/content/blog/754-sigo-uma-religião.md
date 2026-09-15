@@ -4,7 +4,9 @@ date: 2022-07-27T19:16:00.002Z
 heroImage: "/images/posts/754-sigo-uma-religião-juiz.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/754-sigo-uma-religião-juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="/images/posts/754-sigo-uma-religião-juiz.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, religião vem do latim que significa religar-se a
+![](/images/posts/754-sigo-uma-religião-juiz.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, religião vem do latim que significa religar-se a
 Deus. Isso, depois que o homem caiu no paraíso ao desobedecer a ordem que lhe
 proibia de comer da árvore da sabedoria do bem e do mal. Convenhamos, podia
 comer de tudo, menos do fruto daquela árvore; não podia contentar-se com isso?
@@ -42,4 +44,7 @@ final será, com toda a certeza desse mundo e do vindouro, preto no branco, pois
 “Deus fará prestar contas de tudo o que está oculto, todo ato, seja ele bom ou
 mau” – Eclesiastes 12,14.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

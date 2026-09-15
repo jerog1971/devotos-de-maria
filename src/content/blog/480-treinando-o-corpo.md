@@ -4,7 +4,8 @@ date: 2017-09-15T19:42:00Z
 heroImage: "/images/posts/480-treinando-o-corpo-urubici_2011.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/480-treinando-o-corpo-urubici_2011.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/480-treinando-o-corpo-urubici_2011.png" width="303" height="320" data-original-width="418" data-original-height="441" /></a></div>
+![](/images/posts/480-treinando-o-corpo-urubici_2011.png)
+
 Glorificai a Deus no vosso corpo, assim lemos na primeira carta aos Coríntios. Nosso corpo, que é santo, presente de Deus para nossa interação e vivência neste período provisório de peregrinação no vale de lágrimas precisa sim, como diz a escritura, ser muito bem cabresteado por nós, porque, também sabemos muito bem, ele tende a agir meio como advogado do diabo.</br>
 </br>
 Facilmente ele se acostuma com confortos e prazeres corpóreos e com algum custo, ele se acostuma com uma vida disciplinada. Não é fácil, caros leitores, nos sentarmos escravizadamente em frente a um prato delicioso e nos empanturrarmos até a sacies dos olhos só parando por que não cabe mais nada em nosso estômago? Não é fácil ficarmos debaixo das cobertas numa manhã fria e chuvosa de domingo ao invés de sairmos, por exemplo, para irmos à missa? Não é fácil ficarmos esparramados no sofá da sala apenas usando o controle remoto para trocar canais e assim ficarmos por horas atrofiando os músculos?</br>

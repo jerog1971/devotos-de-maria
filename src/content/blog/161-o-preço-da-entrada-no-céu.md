@@ -4,7 +4,9 @@ date: 2024-03-19T21:46:00.004Z
 heroImage: "/images/posts/161-o-preço-da-entrada-no-céu-Entrar_20no_20c_C3_A9u.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/161-o-preço-da-entrada-no-céu-Entrar_20no_20c_C3_A9u.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="417" data-original-width="506" height="264" src="/images/posts/161-o-preço-da-entrada-no-céu-Entrar_20no_20c_C3_A9u.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo que você leu, caro leitor. E posso dizer que
+![](/images/posts/161-o-preço-da-entrada-no-céu-Entrar_20no_20c_C3_A9u.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É isso mesmo que você leu, caro leitor. E posso dizer que
 não é invenção nenhuma, a coisa é bíblica mesmo e só não vê quem não quer ou
 quem viu e gostaria de não ter visto; ou ainda pior, nem quer se arriscar a
 saber e ver porque já ouviu dizer que o preço deste ingresso é muito caro.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -19,7 +21,7 @@ nossas vidas. No entanto, não mudou nada em relação à essência divina.<o:p>
 
 <p class="MsoNormal">Pessoal, não sei vocês, mas isso é muito difícil. Não digo
 difícil de acreditar que Deus exista, mas acreditar que nos ame como é propagado
-e ao mesmo tempo exija tanto de nós.&nbsp;
+e ao mesmo tempo exija tanto de nós. 
 Principalmente quando o assunto é nosso retorno para o céu. Não iremos
 aqui listar e citar as inúmeras passagens bíblicas contidas nos dois
 testamentos que exaltam os sofrimentos por amor a Deus indo ao desprezo de
@@ -43,4 +45,7 @@ prata, e os homens agradáveis a Deus, pelo cadinho da humilhação. Põe tua
 confiança em Deus e ele te salvará; orienta bem o teu caminho e espera nele.
 Conserva o temor dele até na velhice” – Eclesiástico 2,1-6<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-02-12T19:44:00.003Z
 heroImage: "/images/posts/1590-um-homem-decente-não-abandona-sua-família-homem_decente.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1590-um-homem-decente-não-abandona-sua-família-homem_decente.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="333" data-original-width="405" src="/images/posts/1590-um-homem-decente-não-abandona-sua-família-homem_decente.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Inicialmente é bom relembrarmos algumas definições que os
+![](/images/posts/1590-um-homem-decente-não-abandona-sua-família-homem_decente.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Inicialmente é bom relembrarmos algumas definições que os
 dicionários oferecem para o termo <i>decente</i>, que se enquadra em nossa língua
 como um adjetivo: “que demonstra decência, decoro, excesso de pudor; decoroso.
 Que concorda com as normas éticas e morais da sociedade. Que age com
@@ -50,4 +52,7 @@ Ora, se ele começa por nós, qual será a sorte daqueles que são infiéis ao
 Evangelho de Deus? E, se o justo se salva com dificuldade, que será do ímpio e
 do pecador?” Devemos refletir e escolhermos que caminho seguir.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

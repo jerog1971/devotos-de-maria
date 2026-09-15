@@ -4,7 +4,9 @@ date: 2022-11-28T21:11:00.005Z
 heroImage: "/images/posts/1008-doutrinas-que-se-espalham-homossexualismo_20na_20tv.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1008-doutrinas-que-se-espalham-homossexualismo_20na_20tv.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="392" height="265" src="/images/posts/1008-doutrinas-que-se-espalham-homossexualismo_20na_20tv.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é de hoje que o mundo tem insistido em pregar sua
+![](/images/posts/1008-doutrinas-que-se-espalham-homossexualismo_20na_20tv.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não é de hoje que o mundo tem insistido em pregar sua
 doutrina libertadora e escravizadora. Libertadora porque permite ao homem a
 condição de fazer aquilo que quer, desejar e consentir com aquilo que lhe vem à
 mente, planejar o seu próprio prazer. No entanto, escravizadora porque a
@@ -36,4 +38,7 @@ acolhemos sua palavra e seguimos o evangelho e os mandatos divinos. Portanto,
 conforme lemos em Romanos, quem pratica o que é errado e ensina o erro será
 condenado eternamente.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

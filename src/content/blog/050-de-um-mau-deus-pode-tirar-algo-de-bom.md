@@ -4,7 +4,8 @@ date: 2018-08-15T16:49:00.001Z
 heroImage: "/images/posts/050-de-um-mau-deus-pode-tirar-algo-de-bom-mal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/050-de-um-mau-deus-pode-tirar-algo-de-bom-mal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/050-de-um-mau-deus-pode-tirar-algo-de-bom-mal.png" width="320" height="315" data-original-width="348" data-original-height="343" /></a></div>
+![](/images/posts/050-de-um-mau-deus-pode-tirar-algo-de-bom-mal.png)
+
 Pessoal, convenhamos, a religião católica, numa tentativa de explicar a frase título deste artigo, que também possui referências bíblicas e na Tradição com origem apostólica, busca justificar o sofrimento alegadamente imposto por Deus ou permitido por ele, para nosso bem e crescimento espiritual e no amor. Detalhadamente pesquisando até poderemos, de fato, encontrar argumentos que respaldem essa afirmação. Porém, na prática, parece não haver unanimidade nesta questão quando o assunto se relaciona com a salvação da alma.</br>
 </br>
 Vamos refletir um pouquinho na onisciência de Jesus, isso mesmo que você leu. Todo mundo sabe, porque leu nos evangelhos que, durante e santa ceia Jesus disse que um dos doze iria traí-lo. Também se sabe que quando Pedro disse que seguiria Jesus não importando o que acontecesse, Jesus disse que ele o negaria antes que o galo cantasse. Como vemos, não precisamos de estranheza nenhuma ao pensarmos que Jesus sabe de antemão tudo que iremos fazer. Acabamos de relembrar duas passagens bíblicas. Dois exemplos práticos que podem nos ajudar na reflexão maior que buscamos neste artigo.</br>

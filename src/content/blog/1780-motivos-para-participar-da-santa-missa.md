@@ -4,7 +4,8 @@ date: 2015-10-20T10:34:00Z
 heroImage: "/images/posts/1780-motivos-para-participar-da-santa-mi-missa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1780-motivos-para-participar-da-santa-mi-missa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1780-motivos-para-participar-da-santa-mi-missa.png" width="320" height="213" data-original-width="781" data-original-height="519" /></a></div>
+![](/images/posts/1780-motivos-para-participar-da-santa-mi-missa.png)
+
 </br>
 Por São Leonardo de Porto Maurício</br>
 </br>

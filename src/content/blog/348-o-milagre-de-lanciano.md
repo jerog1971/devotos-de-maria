@@ -4,7 +4,8 @@ date: 2015-12-22T11:33:00Z
 heroImage: "/images/posts/348-o-milagre-de-lanciano-lanciano.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/348-o-milagre-de-lanciano-lanciano.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/348-o-milagre-de-lanciano-lanciano.png" width="220" height="320" data-original-width="355" data-original-height="516" /></a></div>
+![](/images/posts/348-o-milagre-de-lanciano-lanciano.png)
+
 </br>
 Era uma manhã de domingo comum, na cidade italiana de Lanciano, no mosteiro de São Legoziano, onde viviam os Monges de São Basílio. O mais incrédulo deles proferia as palavras da Oração Eucarística, quando, de repente, ocorreu o inesperado. Os olhos assustados do religioso denunciavam o evento. Deus havia condecorado a sua suspeita quanto à transubstanciação com o mais prodigioso dos milagres eucarísticos de que se ouviu falar.</br>
 </br>

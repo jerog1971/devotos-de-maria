@@ -4,7 +4,8 @@ date: 2016-01-25T13:31:00Z
 heroImage: "/images/posts/2150-cuida-do-seu-povo-e-da-sua-religião-cuida_do_povo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2150-cuida-do-seu-povo-e-da-sua-religião-cuida_do_povo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2150-cuida-do-seu-povo-e-da-sua-religião-cuida_do_povo.png" width="320" height="209" data-original-width="393" data-original-height="257" /></a></div>
+![](/images/posts/2150-cuida-do-seu-povo-e-da-sua-religião-cuida_do_povo.png)
+
 </br>
 De grande valor histórico, o livro de Macabeus, integrante dos deuterocanônicos da bíblia, narra a história de um povo que luta pela liberdade política e religiosa, comandados, podemos dizer assim, pela família dos Macabeus, na pessoa de Judas Macabeus. Feito esta pequena introdução muitíssimo resumida, pois o objetivo deste artigo não é fazer um estudo a respeito dos livros de Macabeus, presentes no antigo testamento e sim colocar um norte a respeito do que iremos refletir nesta postagem.</br>
 </br>

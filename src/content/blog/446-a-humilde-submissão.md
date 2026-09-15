@@ -4,7 +4,11 @@ date: 2020-06-28T00:53:00.002Z
 heroImage: "/images/posts/446-a-humilde-submissão-retiro.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/446-a-humilde-submissão-retiro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="488" src="/images/posts/446-a-humilde-submissão-retiro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não te importes muito de saber quem seja por ti ou contra
+<br />
+
+![](/images/posts/446-a-humilde-submissão-retiro.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não te importes muito de saber quem seja por ti ou contra
 ti; mas trata e procura que Deus seja contigo em tudo que fizeres. Tem boa
 consciência e Deus te defenderá, pois a quem Deus ajuda não há maldade que o
 possa prejudicar. Se souberes calar e sofrer, verás, sem dúvida, o socorro do

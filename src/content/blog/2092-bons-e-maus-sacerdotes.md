@@ -4,7 +4,8 @@ date: 2016-06-28T12:18:00.001Z
 heroImage: "/images/posts/2092-bons-e-maus-sacerdotes-vianney.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2092-bons-e-maus-sacerdotes-vianney.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2092-bons-e-maus-sacerdotes-vianney.png" width="320" height="315" data-original-width="361" data-original-height="355" /></a></div>
+![](/images/posts/2092-bons-e-maus-sacerdotes-vianney.png)
+
 A pergunta que desmascara toda a infidelidade de um sacerdote, aquela que mostra qual caminho ele está trilhando é a seguinte: contra o que ele luta? Ela parece de fácil resposta porque, em geral, os padres estão sempre lutando por algo (melhor catequese, em favor dos pobres, contra a injustiça, para mais confissão, menos pecado, melhoria na paróquia etc). Lutas positivas que são muito necessárias. Mas não só isso:</br>
 </br>
 1- um padre pode lutar contra coisas corretas: contra o pecado dentro dele mesmo, para que o seu rebanho combata o pecado real e concreto e que almeje a vida eterna, contra a heresia, a apostasia, os abusos litúrgicos, a falta de sacralidade, de modéstia, contra o sexo desregrado, a fornicação e tudo o mais que prejudica a Igreja e a salvação dos fiéis. Este padre luta o bom combate.</br>

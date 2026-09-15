@@ -4,7 +4,8 @@ date: 2018-12-12T17:59:00Z
 heroImage: "/images/posts/2217-sendo-trocado-Sendo_trocado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2217-sendo-trocado-Sendo_trocado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2217-sendo-trocado-Sendo_trocado.png" width="320" height="262" data-original-width="614" data-original-height="503" /></a></div>
+![](/images/posts/2217-sendo-trocado-Sendo_trocado.png)
+
 Já se foi o tempo em que trocar alguma coisa se resumia em objetos. Quando muito, ouvíamos dizer que um funcionário foi trocado (substituído) por outro em determinada função de uma empresa. A arte de trocar acompanha o homem a muito tempo. São incontáveis exemplos de trocas que podemos elencar num passeio de memória de poucos minutos. Podemos arriscar perigosamente a dizer, que praticamente quase tudo pode ser trocado.</br>
 </br>
 Não parece ser uma inverdade e por aqui permeiam os problemas. O ser humano tem a habilidade de tornar relativo alguma coisa. Isto nem seria problema se tudo ficasse no campo daquilo que não invade outras naturezas. Trocar uma pilha do relógio porque acabou, trocar de roupa quando chegamos em casa depois de um dia de trabalho, trocar o pneu furado pelo estepe, trocar mercadorias no mercado por dinheiro e assim sucessivamente, tudo como vemos, anda conforme manda o figurino. Mas, como dizem sempre tem o mas; mas e se o figurino mudou?</br>

@@ -4,7 +4,9 @@ date: 2024-02-08T17:35:00.004Z
 heroImage: "/images/posts/866-princípios-religiosos-Hospital_20S_C3_A3o_20Camilo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/866-princípios-religiosos-Hospital_20S_C3_A3o_20Camilo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="302" data-original-width="550" height="176" src="/images/posts/866-princípios-religiosos-Hospital_20S_C3_A3o_20Camilo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O título do artigo é bem esclarecedor, trata-se de viver uma
+![](/images/posts/866-princípios-religiosos-Hospital_20S_C3_A3o_20Camilo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O título do artigo é bem esclarecedor, trata-se de viver uma
 vida com base neste tipo de princípios. Pessoas e instituições possuem a
 liberdade de dizer o seu sim para Jesus Cristo e seguir tudo aquilo que ele nos
 ensinou e nos trouxe do Pai Eterno. Claro, como o Cristo já havia previsto,
@@ -37,4 +39,7 @@ publicamente confessada promover atos políticos como este. Claro, o assunto aos
 mundo sempre será polêmico e encontrará divisões, mas por aqui, neste site
 católico, mantemos uma postura solidária e em favor da vida.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

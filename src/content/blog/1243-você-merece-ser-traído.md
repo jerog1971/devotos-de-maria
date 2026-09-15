@@ -4,7 +4,9 @@ date: 2021-02-15T20:07:00Z
 heroImage: "/images/posts/1243-você-merece-ser-traído-homenagem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1243-você-merece-ser-traído-homenagem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="678" src="/images/posts/1243-você-merece-ser-traído-homenagem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente essa assim como tantas outras perguntas devem
+![](/images/posts/1243-você-merece-ser-traído-homenagem.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente essa assim como tantas outras perguntas devem
 passar em nossos exames de consciência diários que fazemos. Se não fazemos
 deveríamos; ao menos três vezes ao dia. Todavia, o ser humano transborda de
 grande dificuldade em apontar e reconhecer suas misérias ao mesmo tempo em que
@@ -44,4 +46,7 @@ olhos se abrirão e o véu cairá, a dor no coração brotará com sua contriç�
 a misericórdia divinas! E assim, reconciliados viveremos aquela paz que só
 Jesus pode nos dar. Porque, afinal, ele não merece, jamais!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

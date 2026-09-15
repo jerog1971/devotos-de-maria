@@ -4,7 +4,8 @@ date: 2019-05-03T19:28:00.002Z
 heroImage: "/images/posts/1192-o-diabo-já-está-fazendo-o-seu-melhor-diabo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1192-o-diabo-já-está-fazendo-o-seu-melhor-diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1192-o-diabo-já-está-fazendo-o-seu-melhor-diabo.png" width="320" height="199" data-original-width="693" data-original-height="430" /></a></div>
+![](/images/posts/1192-o-diabo-já-está-fazendo-o-seu-melhor-diabo.png)
+
 Muitas pessoas caem no erro, que até podemos denominar de infantil, de achar que se deixarem o diabo em paz ele irá retribuir da mesma maneira. Pensam que se não o incomodarem com suas práticas religiosas e deixando de fazer coisas que ele não gosta (que caridade inútil não é mesmo), o pobre do coitado como recompensa vai seguir seu curso não os importunando.</br>
 </br>
 E ainda justificam suas atitudes dizendo que na vida dos santos e dos exorcismos se aprende que é uma grande vitória para o demônio conseguir derrubar almas mais santas e com maior grau de santidade. Com isso querem dizer que o maligno quer pegar peixe grande. Dão como exemplo as tentações que Jesus sofreu diretamente de satanás o mesmo acontecendo com muitos santos em que o próprio encardido se encarregou dos ataques. </br>

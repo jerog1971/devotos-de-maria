@@ -4,7 +4,9 @@ date: 2021-07-06T17:09:00.004Z
 heroImage: "/images/posts/528-virando-páginas-p_25C3_25A1ginas_da_vuida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/528-virando-páginas-p_25C3_25A1ginas_da_vuida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="461" data-original-width="479" src="/images/posts/528-virando-páginas-p_25C3_25A1ginas_da_vuida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando estamos numa leitura atenta, mergulhados em seu
+![](/images/posts/528-virando-páginas-p_25C3_25A1ginas_da_vuida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quando estamos numa leitura atenta, mergulhados em seu
 enredo – até fazendo parte da mesma – vamos adentrando cada vez mais fundo na
 história do livro e, página por página, vamos virando, virando e virando,
 ansiosos por chegarmos ao final. Para o leitor, as horas passam tão rapidamente
@@ -37,4 +39,7 @@ nos comportarmos como tal. Certamente não iríamos querer que quando chegar a
 tempos, ficássemos do lado que foi virado (condenados) e sim do lado que foi
 aberto (a entrada no reino dos céus).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

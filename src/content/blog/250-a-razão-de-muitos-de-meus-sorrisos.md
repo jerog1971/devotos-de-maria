@@ -4,7 +4,9 @@ date: 2024-08-21T17:22:00.006Z
 heroImage: "/images/posts/250-a-razão-de-muitos-de-meus-sorrisos-img-1198808690.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/250-a-razão-de-muitos-de-meus-sorrisos-img-1198808690.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="957" data-original-width="718" height="320" src="/images/posts/250-a-razão-de-muitos-de-meus-sorrisos-img-1785871524.png" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que nossa realidade nos apresenta tristezas e
+![](/images/posts/250-a-razão-de-muitos-de-meus-sorrisos-img-1785871524.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sabemos que nossa realidade nos apresenta tristezas e
 alegrias; sabemos muito bem. No entanto, passar por cada uma delas nos traz experiências
 bem diferentes. Ficamos marcados por aquilo que mais prezamos. Sem dúvida, para
 que arrependimentos não se instalem em nossa vida é preciso vivê-la dentro da
@@ -32,4 +34,7 @@ razão de muitos de meus sorrisos; repito: a razão de muitos de meus sorrisos. 
 que tem o(a) seu(sua) cônjuge, que dele(a) cuide como a pedra preciosa que foi
 encontrada no deserto.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

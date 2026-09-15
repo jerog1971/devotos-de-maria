@@ -4,7 +4,8 @@ date: 2017-05-12T00:00:00.001Z
 heroImage: "/images/posts/1820-minha-mulher-é-um-lixo-mulher.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1820-minha-mulher-é-um-lixo-mulher.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="511" data-original-width="506" height="320" src="/images/posts/1820-minha-mulher-é-um-lixo-mulher.png" width="317" /></a></div>
+![](/images/posts/1820-minha-mulher-é-um-lixo-mulher.png)
+
 Pois é, essa frase é motivada por satanás nos corações dos maridos que não permitem que a santíssima trindade faça morada dentro deles, dos corações, onde Jesus nos ensinou que é o local que nascem todas as coisas (Mateus 15,18-19). Essa reclamação, primeiro é íntima e pessoal, algumas vezes uma reclamação dirigida a Deus, outras vezes aos amigos e por fim, a mais perigosa forma de reclamação, é feita para outra mulher. Nesse contexto o diabo, arquiteto das ocasiões de pecado, sempre enganador (João 8,44), foi o responsável por engendrar a situação que irá levar a destruição mais um matrimônio ou uma família.
 
 Por não haver, como ensinam as escrituras sagradas, comum acordo entre os cônjuges, fatalmente as brechas vão surgindo e o pensamento vai sendo contaminado por aquilo que o corpo pede e que recebeu do coração. A mulher por quem se apaixonou na juventude e início de casamento vai mudando como num passe de mágica e se tornando uma outra coisa que não uma mulher, pensam eles. O problema está no conceito que o homem faz da mulher e o que ele espera dela. Se o homem se unirá a sua mulher e os dois serão uma só carne (Gênesis 2,24), não há como desmembrar a mulher deste contexto. Uma só carne é uma só carne. Não um pedaço de carne a parte, para ser comida e saboreada. Muito menos um objeto que depois que não servir ou atender as necessidades, se descarta, se joga no lixo e se substitui por outro.
@@ -22,6 +23,5 @@ Artigos relacionados:
 <a href="https://www.devotos-de-maria.com.br/2016/06/o-desequilibrio-das-pessoas.html" target="_blank">O desequilíbrio das pessoas</a>
 
 <a href="https://www.devotos-de-maria.com.br/2017/04/as-mulheres-de-hoje-em-dia.html" target="_blank">As mulheres de hoje em dia</a>
-
 
 fonte: Jefferson Roger

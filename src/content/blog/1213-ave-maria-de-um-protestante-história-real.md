@@ -4,7 +4,8 @@ date: 2016-02-05T13:25:00Z
 heroImage: "/images/posts/1213-ave-maria-de-um-protestante-história-real-ave-maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1213-ave-maria-de-um-protestante-história-real-ave-maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1213-ave-maria-de-um-protestante-história-real-ave-maria.png" width="239" height="320" data-original-width="236" data-original-height="316" /></a></div>
+![](/images/posts/1213-ave-maria-de-um-protestante-história-real-ave-maria.png)
+
 </br>
 Um garotinho protestante de apenas 6 anos sempre ouvia seus amiguinhos católicos rezando a Ave Maria, ele gostou tanto da oração que copiou-a num papel e recitava-as todos os dias. “Olha, mamãe, que oração linda!”, disse o garotinho um dia a sua mãe. “Nunca repita-a, meu filho!”, respondeu a mãe. “Esta é uma oração supersticiosa dos católicos, que adoram ídolos e pensam que Maria é uma espécie de Deusa. Mas na verdade ela não passa de uma mulher como uma outra qualquer. Pegue esta Bíblia e leia-a, nela encontramos tudo o que devemos e o que não devemos fazer”.</br>
 </br>

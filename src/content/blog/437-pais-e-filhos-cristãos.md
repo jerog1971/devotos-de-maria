@@ -4,7 +4,9 @@ date: 2023-06-15T18:11:00.004Z
 heroImage: "/images/posts/437-pais-e-filhos-cristãos-Sofia_20como_20Bela.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/437-pais-e-filhos-cristãos-Sofia_20como_20Bela.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1200" height="320" src="/images/posts/437-pais-e-filhos-cristãos-Sofia_20como_20Bela.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mundo avança e os valores tradicionais, passados de
+![](/images/posts/437-pais-e-filhos-cristãos-Sofia_20como_20Bela.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O mundo avança e os valores tradicionais, passados de
 gerações em gerações, assim como seus valores morais e princípios, sofrem
 constantemente numa batalha ao estilo cabo de guerra. Aos adultos, firmes na fé
 e embasados solidamente em suas crenças, a diversidade contrária a Deus tem
@@ -40,4 +42,8 @@ coração. Tu os inculcarás a teus filhos, e deles falarás, seja sentado em tu
 casa, seja andando pelo caminho, ao te deitares e ao te levantares” –
 Deuteronômio 6,6-7.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p><div class="separator" style="clear: both; text-align: center;"><br /></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+
+<div class="separator" style="clear: both; text-align: center;"><br /></div><br /> 

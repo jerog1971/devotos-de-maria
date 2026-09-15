@@ -4,7 +4,8 @@ date: 2020-04-04T13:36:00.001Z
 heroImage: "/images/posts/2002-a-confiança-em-deus-barco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2002-a-confiança-em-deus-barco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2002-a-confiança-em-deus-barco.png" width="242" height="320" data-original-width="297" data-original-height="393" /></a></div>
+![](/images/posts/2002-a-confiança-em-deus-barco.png)
+
 “Quem não vive o que crê, termina crendo o que vive”. Se a pessoa tem uma relação apenas intelectual com a palavra de Deus, não colocando em prática terminará gerando para si alguns problemas relacionados à fé. A pessoa quer ter paz e esquece que a paz possui duas opções: a paz que o mundo dá e a paz que Jesus dá. São bem diferentes, pois apenas uma delas conforta. Ademais, Jesus nos ensina que não devemos nos perturbar na vida, ela é dura mesmo e sempre será. Não é possível viver sem ausência de problemas, dificuldades e tribulações.<br>
 </br>
 João 14,1 – “Não se perturbe o vosso coração. Credes em Deus, crede também em mim.” João 14,27 – “Deixo-vos a paz, dou-vos a minha paz. Não vo-la dou como o mundo a dá. Não se perturbe o vosso coração, nem se atemorize!” Alguns poderiam cair na tentação de pensar: para Jesus é fácil falar, ele está do outro lado da situação, ele já é do céu, nossa ida para lá ainda esbarra em alguns fatores.</br>

@@ -4,7 +4,11 @@ date: 2020-07-21T15:50:00.002Z
 heroImage: "/images/posts/080-a-alegria-de-termos-um-anjo-da-guarda-anjo_defensor.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/080-a-alegria-de-termos-um-anjo-da-guarda-anjo_defensor.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="688" data-original-width="860" src="/images/posts/080-a-alegria-de-termos-um-anjo-da-guarda-anjo_defensor.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nosso defensor, nosso guarda espadas que não cobra nada por
+<br />
+
+![](/images/posts/080-a-alegria-de-termos-um-anjo-da-guarda-anjo_defensor.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nosso defensor, nosso guarda espadas que não cobra nada por
 sua assistência constante, embora muitos pensem que não seja bem dessa forma,
 pois alegam que, quando passam por situações desfavoráveis querem comprovar com
 isso que anjos não existem, pois se assim o fosse, ele os teria protegido do

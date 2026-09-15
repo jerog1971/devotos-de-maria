@@ -4,14 +4,17 @@ date: 2016-07-14T11:34:00Z
 heroImage: "/images/posts/166-os-negociantes-e-a-santa-missa-LeonardoP.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/166-os-negociantes-e-a-santa-missa-LeonardoP.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/166-os-negociantes-e-a-santa-missa-LeonardoP.png" width="288" height="320" data-original-width="248" data-original-height="276" /></a></div>
+![](/images/posts/166-os-negociantes-e-a-santa-missa-LeonardoP.png)
+
 Por São Leonardo de Porto Maurício</br>
 </br>
 INFELIZMENTE O "DEUS" dos nossos tempos é o dinheiro. Quão numerosos são os que se prostram diante dele e lhe oferecem adoração em todo tempo e lugar! O resultado é que, correndo atrás deste ídolo, esquecem o verdadeiro DEUS, e, por consequência, precipitam-se num abismo de desgraças e perdem toda a felicidade, enquanto que, na afirmação do Profeta e Rei, aqueles que buscam a DEUS antes de tudo, não caem em nenhum verdadeiro mal e têm acréscimo de todos os bens, "Inquirentes Dominum non minuentur omni bono – Os poderosos empobrecem e passam fome, mas aos que buscam o Senhor nada lhes falta". (Sl 33,11). Esta Palavra se verifica ainda mais naqueles que, antes de se entregarem ao seu trabalho ou a seus negócios, têm o cuidado de assistir ativa e atentamente à Santa Missa.</br>
 </br>
 É o que prova a história dos três negociantes de Gúbio. Dirigiram-se a uma feira que se realizava num burgo chamado Cisterno. Depois de vender suas mercadorias, dois deles começaram a pensar na volta e resolveram partir no dia seguinte de madrugada, a fim de estarem em casa ao cair da tarde. O terceiro discordou desta resolução e declarou que, sendo o dia seguinte um domingo, não se punha a caminho sem antes ter assistido à Santa Missa. E exortou aos outros: se queriam voltar como tinham vindo, teriam primeiro que assistir à Santa Missa; em seguida fariam uma refeição e partiriam abençoados. Além disso, se não pudessem chegar naquela mesma noite a Gúbio, não faltariam albergues confortáveis no caminho. Os companheiros não se renderam aos conselhos salutares e sensatos; decididos a chegar naquela mesma noite aos seus lares, responderam que DEUS havia de perdoar-lhes se por aquela vez faltassem à Santa Missa.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/166-os-negociantes-e-a-santa-missa-missa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/166-os-negociantes-e-a-santa-missa-missa.png" width="200" height="139" data-original-width="759" data-original-height="526" /></a></div>
+
+![](/images/posts/166-os-negociantes-e-a-santa-missa-missa.png)
+
 </br>
 Assim, no domingo, antes da aurora, sem entrar sequer na igreja, montaram a cavalo e tomaram a estrada para sua terra. Em breve chegaram à torrente de Corfuone, que a chuva torrencial da noite anterior engrossara a ponto de fazer transbordar. A água, em corrente impetuosa, sacudira e deslocara bastante a ponte de madeira. Os dois negociantes meteram-se por ela com seus animais, mas, bem não tinham chegado ao meio, rompeu-se o madeirame à pressão da água e os dois cavaleiros precipitaram-se no rio onde se afogaram, perdendo assim dinheiro, mercadorias e a vida.</br>
 </br>

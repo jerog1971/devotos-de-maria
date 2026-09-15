@@ -4,12 +4,14 @@ date: 2025-04-22T16:17:00.001Z
 heroImage: "/images/posts/1202-o-legado-da-destruição-e-divisão-Papa_20Francisco.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1202-o-legado-da-destruição-e-divisão-Papa_20Francisco.png" style="margin-left: 1em; margin-right: 1em;"></a><a href="/images/posts/1202-o-legado-da-destruição-e-divisão-Papa_20Francisco.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="202" data-original-width="275" height="202" src="/images/posts/1202-o-legado-da-destruição-e-divisão-Papa_20Francisco.png" width="275" /></a></div><p>&nbsp;</p><p>Com a morte do Papa, relatos por todo o mundo descrevem com
+![](/images/posts/1202-o-legado-da-destruição-e-divisão-Papa_20Francisco.png)
+
+Com a morte do Papa, relatos por todo o mundo descrevem com
 suas palavras o que representou para as pessoas, a igreja e o mundo, o seu
 pontificado. Aqui neste site, apresentamos alguns depoimentos de escritores católicos, mais
 afastados da linha que conduzia o Sumo Pontífice, recém-falecido neste final de semana que passou:
 
-</p><p class="MsoNormal"></p>
+<p class="MsoNormal"></p>
 
 <p class="MsoNormal"><b>Ed Condon, The Spectator</b>: "Não escreveu uma nova
 sinfonia, mas uma violenta cacofonia, deixando atrás de si uma Igreja mais
@@ -51,4 +53,4 @@ comando, bispos, padres, religiosos e leigos que estavam a dar bons frutos em
 termos de reverência, vida espiritual, fidelidade à doutrina católica e
 vocações em expansão foram cancelados ou ostracizados."</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger, transcrito de pt.news (gloria.tv)</p><p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger, transcrito de pt.news (gloria.tv)</p>

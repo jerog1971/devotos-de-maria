@@ -4,9 +4,11 @@ date: 2025-03-07T19:01:00.004Z
 heroImage: "/images/posts/664-prazeres-certos-prazeres_20certos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/664-prazeres-certos-prazeres_20certos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="339" data-original-width="400" height="271" src="/images/posts/664-prazeres-certos-prazeres_20certos.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/664-prazeres-certos-prazeres_20certos.png)
 
-<p></p><p class="MsoNormal">Fala-se por aí, que a pessoa precisa passar pela experiência
+<br /> 
+
+<p class="MsoNormal">Fala-se por aí, que a pessoa precisa passar pela experiência
 de conhecer o amor de Cristo. Também já se ouviu, da parte de Nossa Senhora em
 suas aparições, que se soubéssemos o quanto ela nos ama, morreríamos de amor.
 Lemos na bíblia, em situação aparentemente contraditória ao que vemos sobre
@@ -32,5 +34,4 @@ endossada pela consciência, que permanece leve demonstrando que enfrentamos o
 dia a dia com as “ferramentas” certas, aquelas dadas por Deus.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

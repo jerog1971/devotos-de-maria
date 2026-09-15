@@ -4,10 +4,14 @@ date: 2020-06-15T23:19:00.004Z
 heroImage: "/images/posts/246-são-vito-S_25C3_25A3o_Vito.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/246-são-vito-S_25C3_25A3o_Vito.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="354" height="320" src="/images/posts/246-são-vito-S_25C3_25A3o_Vito.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segundo consta nos anais, São Vito nasceu na Sicília e
+<br />
+
+![](/images/posts/246-são-vito-S_25C3_25A3o_Vito.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Segundo consta nos anais, São Vito nasceu na Sicília e
 sofreu o martírio por volta do ano 300. A sua vida está em volta em lendas e
 fatos extraordinários. Conforme as atas do seu martírio, São Vito foi instruído
-secretamente na doutrina cristã por Modesto, seu preceptor.<span style="mso-spacerun: yes;">&nbsp; </span>Ao descobrir, Hilas, seu pai, tentou
+secretamente na doutrina cristã por Modesto, seu preceptor.<span style="mso-spacerun: yes;">  </span>Ao descobrir, Hilas, seu pai, tentou
 persuadir o filho a abandonar a fé, temendo que o fato viesse a público. De
 fato, o que o pai temia acabou acontecendo: o garoto foi preso e levado perante
 o tribunal. Como persistisse em se declarar cristão, foi açoitado e posto em

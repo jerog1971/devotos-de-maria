@@ -4,7 +4,9 @@ date: 2020-07-23T20:15:00Z
 heroImage: "/images/posts/565-os-grandes-sacerdotes-grandes_sacerdotes.png"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/565-os-grandes-sacerdotes-grandes_sacerdotes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="642" data-original-width="501" height="320" src="/images/posts/565-os-grandes-sacerdotes-grandes_sacerdotes.png" /></a></div><p class="MsoNormal"><br /></p><p class="MsoNormal">Se refletirmos um pouco sobre a graça concedida da comunhão
+![](/images/posts/565-os-grandes-sacerdotes-grandes_sacerdotes.png)
+
+<p class="MsoNormal"><br /></p><p class="MsoNormal">Se refletirmos um pouco sobre a graça concedida da comunhão
 dos santos – atestada biblicamente – iremos nos deparar em nossas mentes com
 vários nomes de santos e santas do mundo. Pessoas que seguiram o exemplo de
 Jesus (1ª Coríntios 11,1 – Efésios 5,1), percorreram o caminho da porta

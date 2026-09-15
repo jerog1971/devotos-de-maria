@@ -4,7 +4,8 @@ date: 2018-06-07T15:50:00.001Z
 heroImage: "/images/posts/129-para-que-viver-se-nada-é-como-quero-pensando_na_vida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/129-para-que-viver-se-nada-é-como-quero-pensando_na_vida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/129-para-que-viver-se-nada-é-como-quero-pensando_na_vida.png" width="316" height="320" data-original-width="343" data-original-height="347" /></a></div>
+![](/images/posts/129-para-que-viver-se-nada-é-como-quero-pensando_na_vida.png)
+
 Sempre nos parece, não é mesmo caros leitores, que a vida, para ser vivida, precisa ser abraçada. Viver, ensina o mundo, é levar uma vida repleta de prazeres e conquistas materiais. O mundo prega uma felicidade e alegrias que estão em constante evolução. Um dos seus ingredientes é o consumismo e a cultura do descartável. Acham-se tão inteligentes os homens, mas produzem por conta disso muita sucata e o que é mais perigoso, sucata material e espiritual.</br>
 </br>
 Quanto mais coisa você tiver mais feliz você vai ser. Quanto mais socialmente você estiver em evidência mais feliz vai se sentir; afinal, vaidoso precisa de plateia, faça o que te dá vontade e aproveite a vida porque ela é curta. E não é assim? As redes sociais que o digam, é um festival de exposição de privacidades e exibicionismo. A expressão “status” demonstra publicamente intenções, emoções e uma declarada manifestação de querer “estar bem” perante sua rede imensa de amigos. São pessoas que não vivem o que gostariam, mas, como já escutei dizerem, preferem o mundo virtual porque podem pelo menos transparecer o que não são, mas gostariam de ser.</br>

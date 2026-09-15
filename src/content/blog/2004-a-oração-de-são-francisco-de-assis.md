@@ -4,7 +4,8 @@ date: 2017-12-12T13:20:00Z
 heroImage: "/images/posts/2004-a-oração-de-são-francisco-de-assis-oracao_sao_francisco_de_assis.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2004-a-oração-de-são-francisco-de-assis-oracao_sao_francisco_de_assis.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2004-a-oração-de-são-francisco-de-assis-oracao_sao_francisco_de_assis.png" width="320" height="314" data-original-width="453" data-original-height="445" /></a></div>
+![](/images/posts/2004-a-oração-de-são-francisco-de-assis-oracao_sao_francisco_de_assis.png)
+
 São Francisco de Assis, que viveu a extrema pobreza e radicalidade do evangelho de Jesus Cristo, assim como Santa Clara de Assis, compôs uma bela oração que muitos talvez não tenham percebido mas, é repleta de embasamentos bíblicos que podem ser retirados em vários trechos da santa palavra de Deus. Aqui colocamos apenas algumas possibilidades. Vale a leitura para que tenhamos ainda mais amor a essa oração, que recitada ou cantada, enche o coração e é um pedido sincero para que Deus nos molde a estatura de seu filho Jesus:</br>
 </br>
 <b>Senhor, fazei-me instrumento de vossa paz.</b>

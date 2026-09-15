@@ -4,7 +4,8 @@ date: 2016-11-07T14:08:00.001Z
 heroImage: "/images/posts/540-o-comportamento-comportamento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/540-o-comportamento-comportamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/540-o-comportamento-comportamento.png" width="320" height="236" data-original-width="222" data-original-height="164" /></a></div>
+![](/images/posts/540-o-comportamento-comportamento.png)
+
 A palavra comportamento tem sua origem do latim “comportare”, que é uma junção de “com”, ‘junto, com’ e “portare”, ‘carregar, transportar’. Por isso cada pessoa tem o seu. A maneira de agir ou não, suas atitudes e omissões, tudo que fazemos fazem de nós o que somos, se constituem em nossa “bagagem”, que levamos conosco para onde formos. Através de nosso comportamento demonstramos para as outras pessoas quem somos.</br>
 </br>
 Geralmente, na sociedade se diz que quem se comporta bem é bem-educado, e quem se comporta mal é mal-educado. Neste ponto compreendemos que nos comportamos conforme nossa educação. E nossa educação existe na medida daquilo que aprendemos. Feito este apanhado geral, a nós católicos cabe ainda, refletirmos sobre nossa conduta, frente a nossa realidade espiritual, apresentada e exigida por Deus.</br>

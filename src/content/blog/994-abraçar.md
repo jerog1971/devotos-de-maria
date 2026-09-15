@@ -4,7 +4,8 @@ date: 2017-12-11T16:45:00Z
 heroImage: "/images/posts/994-abraçar-abra_25C3_25A7o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/994-abraçar-abra_25C3_25A7o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/994-abraçar-abra_25C3_25A7o.png" width="320" height="313" data-original-width="339" data-original-height="332" /></a></div>
+![](/images/posts/994-abraçar-abra_25C3_25A7o.png)
+
 Abraçar é uma coisa boa mas, como não poderia deixar de ser, também o olhar de satanás se volta para essa expressão de sentimento buscando, como sempre, uma oportunidade de transformar, manchar e macular essa forma de afeto em uma oportunidade para ele vender o seu peixe mau cheiroso, de agradável sabor ao paladar mas amargo no estômago. Sobre isso as sagradas escrituras, como sempre atentas em nos ensinar sabiamente sobre a prudência da serpente, que muita cautela se deve ter. São João Paulo II falava sobre essas coisas intitulando-as e colocando-as sob a faceta da teologia do corpo.</br>
 </br>
 O livro dos provérbios no recorda que é muito saudável nos enamorarmos com uma mulher em nossa juventude e assim permanecermos, ou seja, ficarmos com ela, fieis e como disse Jesus, separáveis apenas pela morte. Provérbios 5,18-23 – “Seja bendita a tua fonte! Regozija-te com a mulher de tua juventude, corça de amor, serva encantadora. Que sejas sempre embriagado com seus encantos e que seus amores te embriaguem sem cessar! Por que hás de te enamorar de uma alheia e abraçar o seio de uma estranha? Pois o Senhor olha os caminhos dos homens e observa todas as suas veredas. O homem será preso por suas próprias faltas e ligado com as cadeias de seu pecado. Perecerá por falta de correção e se desviará pelo excesso de sua loucura.” Como a passagem é clara e nos lembra que Deus, que tudo vê, irá nos sentenciar com o preço que o pecado cobra de cada um.</br>

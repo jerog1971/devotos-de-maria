@@ -4,7 +4,8 @@ date: 2020-03-22T00:55:00Z
 heroImage: "/images/posts/426-a-igreja-católica-virou-as-costas-pa-igrejas_vazias.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/426-a-igreja-católica-virou-as-costas-pa-igrejas_vazias.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/426-a-igreja-católica-virou-as-costas-pa-igrejas_vazias.png" width="320" height="187" data-original-width="500" data-original-height="292" /></a></div>
+![](/images/posts/426-a-igreja-católica-virou-as-costas-pa-igrejas_vazias.png)
+
 Em tempos difíceis, angustiantes e duvidosos, quando as ovelhas do Senhor (bom pastor) mais necessitam de direção, pois foi o que Jesus Cristo disse a Pedro (apascenta minhas ovelhas), a sua igreja (Mateus 16,18) que deveria ser a última a fechar as portas para que pudesse acolher e amparar os filhos de Deus faz exatamente o contrário, sendo uma das primeiras a ceder ao cabresto das leis governamentais mundanas.</br>
 </br>
 A sagrada escritura perde valor perante um simples decreto e toda a garantia que Deus dá para quem está em comunhão com ele vai por água abaixo. Pelo jeito as lideranças católicas acreditam que o poder de Deus só serve para causas espirituais; para causas materiais é melhor fazermos igual aos apóstolos fizeram: esconderam-se entre quatro paredes com medo.</br>

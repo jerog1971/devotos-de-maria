@@ -4,7 +4,9 @@ date: 2023-04-24T14:15:00.004Z
 heroImage: "/images/posts/571-desgraças-da-vida-desgra_C3_A7as_20da_20vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/571-desgraças-da-vida-desgra_C3_A7as_20da_20vida.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="179" data-original-width="220" height="179" src="/images/posts/571-desgraças-da-vida-desgra_C3_A7as_20da_20vida.png" width="220" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Dizem os ditados populares que as desgraças nunca vêm
+![](/images/posts/571-desgraças-da-vida-desgra_C3_A7as_20da_20vida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Dizem os ditados populares que as desgraças nunca vêm
 sozinhas. Se dizem isso sobre ela alguma comprovação existe. Penso que todo
 mundo já pode, a partir de certa idade e maturidade, dizer sobre sua vida que
 as coisas são por aí mesmo. Horas é uma maré de sorte, outras vezes é uma maré

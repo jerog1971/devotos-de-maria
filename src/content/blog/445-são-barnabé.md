@@ -4,7 +4,11 @@ date: 2020-06-11T19:17:00.001Z
 heroImage: "/images/posts/445-são-barnabé-S_25C3_25A3o_Barnab_25C3_25A9.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/445-são-barnabé-S_25C3_25A3o_Barnab_25C3_25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="435" data-original-width="292" height="320" src="/images/posts/445-são-barnabé-S_25C3_25A3o_Barnab_25C3_25A9.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Era natural da ilha de Chipre. Como São Paulo apóstolo, foi
+<br />
+
+![](/images/posts/445-são-barnabé-S_25C3_25A3o_Barnab_25C3_25A9.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Era natural da ilha de Chipre. Como São Paulo apóstolo, foi
 discípulo de Gamaliel: “José, a quem os apóstolos haviam dado o cognome de
 Barnabé, que quer dizer ‘filho da consolação’, era um levita originário de
 Chipre. Sendo proprietário de um campo, vendeu-o e trouxe o dinheiro,

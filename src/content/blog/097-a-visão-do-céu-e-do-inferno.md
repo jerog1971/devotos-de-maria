@@ -4,7 +4,8 @@ date: 2019-11-12T20:20:00.002Z
 heroImage: "/images/posts/097-a-visão-do-céu-e-do-inferno-inferno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/097-a-visão-do-céu-e-do-inferno-inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/097-a-visão-do-céu-e-do-inferno-inferno.png" width="320" height="263" data-original-width="362" data-original-height="298" /></a></div>
+![](/images/posts/097-a-visão-do-céu-e-do-inferno-inferno.png)
+
 Dentro da vida da igreja está atestado pelos santos a graça de Deus em poderem ter uma visão do inferno. Inclusive para alguns foi dado o mandato divino de escrever a respeito disso. Biblicamente falando não existe descrição detalhada a respeito do céu e do inferno enquanto características. O que existe sim é a finalidade de cada um: para que serve o inferno e para que serve o céu. Para Deus basta que seja assim, que conheçamos a finalidade para podermos decidir onde queremos passar nossa eternidade.</br>
 </br>
 São Paulo em suas cartas chega a dizer que nem podemos conceber o que nos aguarda no céu. Quer dizer com isso que a “surpresa” do que nos aguarda é sem dúvida alguma muito melhor do que podemos esperar. No entanto, quando os santos nos relatam a visão do inferno, mesmo que sem muito aprofundamento, o temor já pode tomar conta de uma alma. Pensemos em Fátima, Portugal; onde as crianças receberam por instante uma visão do inferno, local para onde vão as almas condenadas. Também Santa Francisca Romana e Santa Maria Faustina Kowalska, só para retratarmos alguns exemplos.</br>

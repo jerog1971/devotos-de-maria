@@ -4,8 +4,10 @@ date: 2025-03-14T18:27:00.001Z
 heroImage: "/images/posts/2178-brincando-de-ir-para-o-inferno-img-715743542.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2178-brincando-de-ir-para-o-inferno-img-715743542.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="252" data-original-width="330" height="244" src="/images/posts/2178-brincando-de-ir-para-o-inferno-img-1878483275.png" width="320" /></a></div><br />&nbsp;
-<p></p><p class="MsoNormal">O sujeito precisa se converter, todavia vai, como se lê da
+![](/images/posts/2178-brincando-de-ir-para-o-inferno-img-1878483275.png)
+
+<br /> 
+<p class="MsoNormal">O sujeito precisa se converter, todavia vai, como se lê da
 geração má apontada por Jesus, esperando sinais de Deus para se converter. Sobre
 isso o Cristo disse que o sinal dado pelo profeta Jonas ao povo de Nínive já
 basta.</p>
@@ -30,5 +32,4 @@ caminha feliz para o destino celestial. Se a pessoa vive brincando de ir para o
 inferno terminará realmente indo para lá.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

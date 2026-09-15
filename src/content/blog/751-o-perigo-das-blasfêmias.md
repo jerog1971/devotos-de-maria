@@ -4,7 +4,9 @@ date: 2021-10-16T17:22:00Z
 heroImage: "/images/posts/751-o-perigo-das-blasfêmias-img-1790208095.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/751-o-perigo-das-blasfêmias-img-1790208095.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="414" height="268" src="/images/posts/751-o-perigo-das-blasfêmias-img-2115753081.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lucas 3,28-30 – “Em verdade vos digo: todos os pecados serão
+![](/images/posts/751-o-perigo-das-blasfêmias-img-2115753081.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lucas 3,28-30 – “Em verdade vos digo: todos os pecados serão
 perdoados aos filhos dos homens, mesmo as suas blasfêmias; mas todo o que tiver
 blasfemado contra o Espírito Santo jamais terá perdão, mas será culpado de um
 pecado eterno. Jesus falava assim porque tinham dito: Ele tem um espírito
@@ -43,4 +45,7 @@ orarmos sem cessar e assim, concluímos que o perigo das blasfêmias, além da s
 natureza obvia, pode acontecer em outras vertentes, caso nos afastemos da
 conduta que a palavra de Deus nos ensina.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

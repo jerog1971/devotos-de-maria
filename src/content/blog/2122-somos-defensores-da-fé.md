@@ -4,7 +4,9 @@ date: 2021-11-21T00:18:00.004Z
 heroImage: "/images/posts/2122-somos-defensores-da-fé-defensores_da_f_25C3_25A9.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2122-somos-defensores-da-fé-defensores_da_f_25C3_25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="235" height="214" src="/images/posts/2122-somos-defensores-da-fé-defensores_da_f_25C3_25A9.png" width="235" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ou pelo menos deveríamos, pois, este é um dos mandatos divinos.
+![](/images/posts/2122-somos-defensores-da-fé-defensores_da_f_25C3_25A9.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ou pelo menos deveríamos, pois, este é um dos mandatos divinos.
 “Ide e pregai o evangelho a toda a criatura” – disse Jesus. Já no antigo
 testamento, em Deuteronômio, ouvimos de Deus que devemos a todo instante pregar
 e viver os mandamentos; também lemos isso em Eclesiastes e por aí vai. Por
@@ -35,4 +37,7 @@ quando passais por diversas provações, sabendo que a prova da vossa fé produz
 paciência. Mas é preciso que a paciência efetue a sua obra, a fim de serdes
 perfeitos e íntegros, sem fraqueza alguma”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

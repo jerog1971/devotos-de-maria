@@ -4,7 +4,9 @@ date: 2020-08-14T19:38:00.003Z
 heroImage: "/images/posts/042-quando-as-pessoas-são-destratadas-maus_padres_5.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/042-quando-as-pessoas-são-destratadas-maus_padres_5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="406" data-original-width="443" src="/images/posts/042-quando-as-pessoas-são-destratadas-maus_padres_5.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Infelizmente no meio em que vivemos já temos por comprovação
+![](/images/posts/042-quando-as-pessoas-são-destratadas-maus_padres_5.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Infelizmente no meio em que vivemos já temos por comprovação
 e constatação própria que “lidar” com o ser humano nunca foi tarefa fácil.
 Deus, ao nos criar, resolveu não inserir em nossa “programação” protocolos
 rígidos referentes ao modo de agir e pensar, tampouco em relação as coisas que
@@ -44,4 +46,4 @@ amor relembrados pelo Cristo.<o:p></o:p></p>
 / 1ª Coríntios 11,1 – é simplesmente varrido para debaixo do tapete. Jesus foi
 bem claro: Marcos 10,23 – “Ficai de sobreaviso. Eis que vos preveni de tudo”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>

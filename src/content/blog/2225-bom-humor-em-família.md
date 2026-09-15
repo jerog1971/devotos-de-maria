@@ -4,7 +4,9 @@ date: 2024-09-04T21:09:00Z
 heroImage: "/images/posts/2225-bom-humor-em-família-img-1836391137.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2225-bom-humor-em-família-img-1836391137.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="480" height="320" src="/images/posts/2225-bom-humor-em-família-img-1463461661.jpg" width="160" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Ele é o animal de estimação da família, já está há alguns anos
+![](/images/posts/2225-bom-humor-em-família-img-1463461661.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;"> Ele é o animal de estimação da família, já está há alguns anos
 conosco, bem calminho, muito obediente. Não foi o primeiro animal a
 frequentar a casa, mas, nas palavras de minha esposa, ele é sob
 medida. O cachorro veio quando ainda filhote, com pouco tempo de
@@ -32,4 +34,7 @@ sentimento delas; sendo dessa maneira uma forma de expressão de
 minha parte de que egoísmos devem passar longe de todos e cada um,
 dentro de uma família.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;"><br /></p><p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2022-05-25T01:46:00.002Z
 heroImage: "/images/posts/1302-obediência-desde-a-infância-fam_C3_ADlia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1302-obediência-desde-a-infância-fam_C3_ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2279" data-original-width="2335" height="312" src="/images/posts/1302-obediência-desde-a-infância-fam_C3_ADlia.jpg" width="320" /></a></div><br />&nbsp;<p></p><p class="MsoNormal">Ela está inserida no processo de educação do ser humano. Não
+![](/images/posts/1302-obediência-desde-a-infância-fam_C3_ADlia.jpg)
+
+<br /> <p class="MsoNormal">Ela está inserida no processo de educação do ser humano. Não
 adianta, em algum ponto da caminhada, para não dizermos em muitos deles,
 fatalmente teremos que obedecer. Desde algo simples até coisas mais sérias e
 grandiosas. Existe um ditado que diz que é mais fácil obedecer do que mandar.<o:p></o:p></p>

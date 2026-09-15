@@ -4,7 +4,8 @@ date: 2017-05-26T19:29:00.001Z
 heroImage: "/images/posts/1813-o-lamaçal-do-pecado-lamacal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1813-o-lamaçal-do-pecado-lamacal.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="450" data-original-width="493" height="292" src="/images/posts/1813-o-lamaçal-do-pecado-lamacal.png" width="320" /></a></div>
+![](/images/posts/1813-o-lamaçal-do-pecado-lamacal.png)
+
 Ovelhas não chafurdam, porcos sim. Não cabem às ovelhas do Bom Pastor se macularem nos prazeres mundanos pois como dizem os santos: “por pequenos prazeres terrenos sofrem-se tormentos eternos. Nosso corpo que é santo e destinado ao culto agradável a Deus como vemos nas cartas apostólicas não deve prevaricar com o mal, ferir sua natureza e origem e mancomunar com o inimigo cruel.
 
 1ª Coríntios 6,15-18 – “Não sabeis que vossos corpos são membros de Cristo? Tomarei, então, os membros de Cristo e os farei membros de uma prostituta? De modo algum! Ou não sabeis que o que se ajunta a uma prostituta se torna um só corpo com ela? Está escrito: Os dois serão uma só carne (Gênesis 2,24). Pelo contrário, quem se une ao Senhor torna-se com ele um só espírito. Fugi da fornicação. Qualquer outro pecado que o homem comete é fora do corpo, mas o impuro peca contra o seu próprio corpo.”
@@ -23,6 +24,5 @@ Mateus 5,28 – “Eu [Jesus], porém, vos digo: todo aquele que lançar um olha
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/02/o-prazer.html" target="_blank">O prazer no adultério e na fornicação</a>
-
 
 fonte: Jefferson Roger

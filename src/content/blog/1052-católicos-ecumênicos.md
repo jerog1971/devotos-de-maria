@@ -4,7 +4,8 @@ date: 2016-04-28T14:53:00.001Z
 heroImage: "/images/posts/1052-católicos-ecumênicos-infieis.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1052-católicos-ecumênicos-infieis.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1052-católicos-ecumênicos-infieis.png" width="320" height="214" data-original-width="674" data-original-height="451" /></a></div>
+![](/images/posts/1052-católicos-ecumênicos-infieis.png)
+
 Assim como o mundo tem suas modas e tantas pessoas aderem aos mais diferentes modismos, a igreja católica tem se comportado da mesma forma em algumas instancias religiosas. Vira e mexe ela bate na tecla do ecumenismo. Mas não se enganem com a simpatia do ecumenismo pois ele defende a bandeira de que “fiquemos com o que nos une e deixemos de lado o que nos separa”.</br>
 </br>
 Só por este prisma já dá para ver a proporção do erro. O céu é católico e o inferno é ecumênico. Se essa iniciativa de promover um movimento ecumênico tivesse um único objetivo</br>

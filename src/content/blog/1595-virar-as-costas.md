@@ -4,7 +4,9 @@ date: 2020-08-31T18:05:00.004Z
 heroImage: "/images/posts/1595-virar-as-costas-virar_as_costas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1595-virar-as-costas-virar_as_costas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="428" src="/images/posts/1595-virar-as-costas-virar_as_costas.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O cristão, engajado no segmento de Jesus Cristo sabe
+![](/images/posts/1595-virar-as-costas-virar_as_costas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O cristão, engajado no segmento de Jesus Cristo sabe
 direitinho que o céu não permite a entrada do egoísmo. São vários os
 ensinamentos divinos que tratam sobre o despojo de si mesmo em prol do próximo.
 “O pão NOSSO de cada dia nos daí hoje”. Nosso salvador nos ensinou que quando
@@ -44,4 +46,7 @@ inteira para praticar a justiça. A justiça que nos cabe é aquela que nos move
 caminhar pelos caminhos do Senhor, fazendo o que lhe agrada e seguindo os seus
 mandatos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

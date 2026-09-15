@@ -4,7 +4,9 @@ date: 2021-11-02T16:40:00.001Z
 heroImage: "/images/posts/1705-ao-pó-voltarás-img-290283268.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1705-ao-pó-voltarás-img-290283268.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="194" data-original-width="198" height="194" src="/images/posts/1705-ao-pó-voltarás-img-1595118052.png" width="198" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Gênesis 3,19 – “Comerás o teu pão com o suor do teu rosto,
+![](/images/posts/1705-ao-pó-voltarás-img-1595118052.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Gênesis 3,19 – “Comerás o teu pão com o suor do teu rosto,
 até que voltes à terra de que foste tirado; porque és pó, e pó te hás de tornar”.
 Mateus 8,22 – “Segue-me e deixa que os mortos enterrem seus mortos” Certos da
 finidade deste invólucro provisório chamado corpo, precisamos, conforme nos ensina
@@ -35,4 +37,7 @@ Aprendemos no Eclesiástico que devemos pensar constantemente na morte para que
 não pequemos. Duro ensino, mas de muita importância, pois, não podemos ser pegos
 de surpresa por ela vivendo uma vida acomodada no pecado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

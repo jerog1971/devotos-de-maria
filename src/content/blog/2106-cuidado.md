@@ -4,7 +4,8 @@ date: 2019-02-07T18:51:00.001Z
 heroImage: "/images/posts/2106-cuidado-cuidado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2106-cuidado-cuidado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2106-cuidado-cuidado.png" width="320" height="298" data-original-width="416" data-original-height="387" /></a></div>
+![](/images/posts/2106-cuidado-cuidado.png)
+
 Na carta de São Pedro lemos que o diabo anda à espreita esperando uma vítima a quem possa devorar. Vários artigos deste site batem na mesma tecla: é na distração que cometemos nossos erros. Distraídos não percebemos o mal que nos cerca e disfarçado se apresenta como algo que é bom.</br>
 </br>
 Não tem como, o diabo, já derrotado e pelos mistérios de Deus, com aval para nos aliciar e corromper, não quer a felicidade de ninguém e ao contrário, nos quer com ele por todo o sempre nas profundezas infernais. É preciso cuidado, muito cuidado!</br>

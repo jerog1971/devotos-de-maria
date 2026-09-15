@@ -4,7 +4,8 @@ date: 2017-05-30T14:32:00.001Z
 heroImage: "/images/posts/679-inseparável-celular-vicio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/679-inseparável-celular-vicio.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="221" data-original-width="221" height="320" src="/images/posts/679-inseparável-celular-vicio.png" width="320" /></a></div>
+![](/images/posts/679-inseparável-celular-vicio.png)
+
 Hoje, caros leitores, lançamos mais um artigo que tem como tema principal um dos vilões tecnológicos do século chamado celular. Para os mais adiantados é o famoso telefone inteligente ou para os modernets de plantão são os smartphones. Que beleza não é mesmo que é ter um aparelhinho desses que nos tempos remotos eram chamados de tijolão. Depois diminuíram de tamanho e em tempos atuais estão novamente maiores. Com muitos recursos e tantos recursos que não são necessários para o dia a dia das pessoas, mal conseguem ficar 48 horas sem precisar de uma recarga de bateria. Com ele, a internet saiu das casas e escritórios para também poder ser acessada através destes portáteis.
 
 Ótima evolução não é mesmo, podemos concordar nisso pois, sem dúvida, você pode resolver muitas coisas de sua vida através de um smartphone com acesso à rede mundial de dados. Porém, qualquer um sabe que esse negócio de estar “sempre online” em suas redes sociais e aplicativos de mensagens instantâneas exige um preço a se pagar. Cada vez mais as pessoas falam menos umas com as outras. No início dessa invenção era “moda” falar com alguém ao celular. Agora usam-se os aplicativos mensageiros e as conversas propriamente ditas foram reduzidas e quando muito se transformaram em mensagem de voz. A rede de amigos é online, a vida social é virtualmente social, tudo, quanto mais o tempo avança, está passando pelo crivo da tecnologia, da internet e seus acessórios.
@@ -26,6 +27,5 @@ Artigos relacionados:
 <a href="http://devotos-de-maria.blogspot.com.br/2016/11/o-jejum-da-tecnologia.html" target="_blank">O jejum da tecnologia</a>
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/05/exagerar-nao-e-exagerar-sim.html" target="_blank">Exagerar não e Exagerar sim</a>
-
 
 fonte: Jefferson Roger

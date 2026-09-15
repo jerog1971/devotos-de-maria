@@ -4,7 +4,8 @@ date: 2017-09-01T14:53:00Z
 heroImage: "/images/posts/1362-perseguição-até-dentro-da-igreja-padre_Rodrigo_Maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1362-perseguição-até-dentro-da-igreja-padre_Rodrigo_Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1362-perseguição-até-dentro-da-igreja-padre_Rodrigo_Maria.png" width="320" height="272" data-original-width="357" data-original-height="304" /></a></div>
+![](/images/posts/1362-perseguição-até-dentro-da-igreja-padre_Rodrigo_Maria.png)
+
 Não é de hoje que aprendemos na história da igreja que os defensores que de faca nos dentes se lançam na jaula dos leões para erguer em riste o estandarte do evangelho são perseguidos. Novidade nenhuma é porque Jesus disse que “sereis perseguidos por causa de mim”. E a perseguição que começou no início dos tempos e se alastra até os dias atuais não poupa nenhuma área do seu alcance. Anônimos cristãos ou não sofrem a tentativa de cárcere espiritual e duras sanções por parte dos acusadores e, infelizmente para os cristãos, como a fumaça de satanás invadiu a igreja, nas palavras muito acertadas do Papa Paulo VI, também dentro da mesma acontecem as perseguições.</br>
 </br>
 São membros do corpo de Cristo que, corrompidos pelo mal, agem para o agrado do demônio. Basta uma rápida passadinha pela vida dos santos. Incontáveis perseguições a freiras e padres e religiosos leigos para atestarmos o quanto o mal não se sente bem com o brilho da luz de Cristo em ação no mundo. Desde Santa Terezinha, os pastorinhos de Fátima, Santa Bernadete, Santa Catarina Labouré, São Francisco e Padre Pio, só para recordarmos alguns exemplos heroicos da fé, sem mencionarmos os mártires, até os dias de hoje, como diz Jesus: sereis perseguidos por causa de mim. E as perseguições acontecem nos mais variados escalões.</br>

@@ -4,13 +4,15 @@ date: 2025-05-13T18:13:00.001Z
 heroImage: "/images/posts/741-dia-de-aparição-img-196840978.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/741-dia-de-aparição-img-196840978.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="382" data-original-width="452" height="270" src="/images/posts/741-dia-de-aparição-img-406871566.png" width="320" /></a></div><p>&nbsp;</p><p>Hoje os católicos celebram a aparição de Nossa Senhora em
+![](/images/posts/741-dia-de-aparição-img-406871566.png)
+
+Hoje os católicos celebram a aparição de Nossa Senhora em
 Fátima, Portugal. Um marco na doutrina da mãe de Jesus que, traz grandes reflexões
 e advertências em seu apelo para que ouçamos e sigamos o Ressuscitado enquanto
 ainda há tempo, um tempo que se esgota rápido e que para cada um tem uma medida
 diferente.
 
-</p><p class="MsoNormal">Em seus ensinamentos vale relembrar uma afirmação bem direta
+<p class="MsoNormal">Em seus ensinamentos vale relembrar uma afirmação bem direta
 da Nossa Senhora; ela não atende a todos os pedidos dos videntes de Fátima. Alguns
 ela recusa. Na segunda aparição, em junho de 1917, Lucia pede pela cura de um
 doente. Nossa Senhora responde: “Se se converter, será curado durante o ano.” Na
@@ -37,4 +39,4 @@ toda doença deve ser curada. Nem tudo o que pedimos nos é concedido nesta vida
 Mas o que sempre nos é dado é o meio de salvação: a oração, a penitência, a
 submissão à vontade divina.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger, adaptado do site reginafidei.com.br</p><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger, adaptado do site reginafidei.com.br</p>

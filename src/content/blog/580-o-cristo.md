@@ -4,15 +4,9 @@ date: 2025-08-16T20:05:00.003Z
 heroImage: "/images/posts/580-o-cristo-Cristo_20Redentor.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/580-o-cristo-Cristo_20Redentor.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="463" height="203" src="/images/posts/580-o-cristo-Cristo_20Redentor.png" width="320" /><span style="background-color: black;"><span></span></span></a></div><p></p><p>
+![](/images/posts/580-o-cristo-Cristo_20Redentor.png)
 
-
-	
-	
-	
-	
-
-</p><div style="font-style: normal; font-variant: normal; font-weight: normal; line-height: 138%; margin-bottom: 0cm; text-align: left; text-decoration: none;"><a name="docs-internal-guid-11699a00-7fff-5d29-16aa-0550c0476d53"></a>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; line-height: 138%; margin-bottom: 0cm; text-align: left; text-decoration: none;"><a name="docs-internal-guid-11699a00-7fff-5d29-16aa-0550c0476d53"></a>
 <span style="background-color: black; color: white; font-family: inherit;"><span style="font-size: small;"><span style="background-attachment: scroll; background-clip: border-box; background-image: none; background-origin: padding-box; background-position: 0% 0%; background-repeat: repeat; background-size: auto;">Muitos
 cidadãos brasileiros talvez não estejam cientes das situações que
 envolvem o monumento Cristo Redentor, no Rio de Janeiro. Sendo assim,
@@ -47,4 +41,5 @@ perseguição velada à fé e os valores cristãos católicos?</span></span></p>
 <p style="line-height: 100%; margin-bottom: 0cm;"><span style="background-color: black; color: white; font-family: inherit;">Fonte: Jefferson
 Roger</span></p>
 
-<p><style type="text/css"><span style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }</span></style><span style="background-color: black;"></span><br /></p>
+<style type="text/css"><span style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }</span></style><span style="background-color: black;"></span><br />
+

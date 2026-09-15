@@ -4,7 +4,11 @@ date: 2020-05-27T22:03:00Z
 heroImage: "/images/posts/1788-prescrições-canônicas-para-os-sacer-img-136796334.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1788-prescrições-canônicas-para-os-sacer-img-136796334.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="306" src="/images/posts/1788-prescrições-canônicas-para-os-sacer-img-136796334.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Cânones retirados do Código de Direito Canônico:</p>
+<br />
+
+![](/images/posts/1788-prescrições-canônicas-para-os-sacer-img-136796334.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Cânones retirados do Código de Direito Canônico:</p>
 
 <p class="MsoNormal">Cân. 214 — Os fiéis têm o direito de prestar culto a Deus
 segundo as prescrições do rito próprio aprovado pelos legítimos Pastores da
@@ -20,24 +24,24 @@ interesses próprios e vaidosos)</b><o:p></o:p></p>
 
 <p class="MsoNormal">§ 2. Para poderem adquirir esta perfeição:<o:p></o:p></p>
 
-<p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>1.° antes de mais,
+<p class="MsoNormal"><span style="mso-spacerun: yes;"> </span>1.° antes de mais,
 desempenhem fiel e esforçadamente os deveres do ministério pastoral;<o:p></o:p></p>
 
-<p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>2.° alimentem a sua
+<p class="MsoNormal"><span style="mso-spacerun: yes;"> </span>2.° alimentem a sua
 vida espiritual na dupla mesa da sagrada Escritura e da Eucaristia; pelo que,
 os sacerdotes são instantemente convidados a oferecer diariamente o Sacrifício
 eucarístico, e os diáconos a participar também quotidianamente nessa oblação;<o:p></o:p></p>
 
-<p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>3.° os sacerdotes e
+<p class="MsoNormal"><span style="mso-spacerun: yes;"> </span>3.° os sacerdotes e
 os diáconos que aspiram ao sacerdócio têm a obrigação de rezar diariamente a
 liturgia das horas segundo os livros litúrgicos próprios e aprovados; os
 diáconos permanentes rezam-na na parte determinada pela Conferência episcopal;<o:p></o:p></p>
 
-<p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>4.° igualmente têm a
+<p class="MsoNormal"><span style="mso-spacerun: yes;"> </span>4.° igualmente têm a
 obrigação de participar nos exercícios espirituais, segundo as prescrições do
 direito particular;<o:p></o:p></p>
 
-<p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>5.° recomenda-se-lhes
+<p class="MsoNormal"><span style="mso-spacerun: yes;"> </span>5.° recomenda-se-lhes
 que façam regularmente oração mental, se aproximem frequentemente do sacramento
 da penitência, honrem com particular veneração a Virgem Mãe de Deus e empreguem
 outros meios de santificação comuns e particulares.<o:p></o:p></p>

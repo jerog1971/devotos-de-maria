@@ -4,7 +4,9 @@ date: 2021-04-16T17:02:00.004Z
 heroImage: "/images/posts/1675-a-pessoa-mente-para-conseguir-o-que-img-1377485023.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1675-a-pessoa-mente-para-conseguir-o-que-img-1377485023.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="358" data-original-width="383" src="/images/posts/1675-a-pessoa-mente-para-conseguir-o-que-img-1063145282.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A mentira desde muito tempo – tempos bíblicos diga-se de passagem
+![](/images/posts/1675-a-pessoa-mente-para-conseguir-o-que-img-1063145282.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A mentira desde muito tempo – tempos bíblicos diga-se de passagem
 – é uma “carta na manga”, um excelente recurso para obtenção de algo ou alguma
 coisa. Já começou a entrar em cena quando a serpente a utilizando convenceu que
 o fruto proibido fosse cobiçado e ingerido. Depois, aliado a esta mentira começou
@@ -43,4 +45,7 @@ Fiquemos então com o ensinamento do Eclesiástico 4,23-24 – “Meu filho,
 aproveita-te do tempo, evita o mal; para o bem de tua alma, não te envergonhes
 de dizer a verdade”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

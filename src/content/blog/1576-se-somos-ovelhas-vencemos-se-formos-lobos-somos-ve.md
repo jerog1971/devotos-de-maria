@@ -4,7 +4,8 @@ date: 2018-12-07T18:18:00Z
 heroImage: "/images/posts/1576-se-somos-ovelhas-vencemos-se-formos-lobos-somos-ve-lobos_e_ovelhas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1576-se-somos-ovelhas-vencemos-se-formos-lobos-somos-ve-lobos_e_ovelhas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1576-se-somos-ovelhas-vencemos-se-formos-lobos-somos-ve-lobos_e_ovelhas.png" width="320" height="283" data-original-width="568" data-original-height="502" /></a></div>
+![](/images/posts/1576-se-somos-ovelhas-vencemos-se-formos-lobos-somos-ve-lobos_e_ovelhas.png)
+
 Trata-se de uma frase de São João Crisóstomo proferida pelo santo em uma de suas homilias, pois trata-se (mais uma vez comentando aqui neste site) de uma questão de escolha. Nossa atitude traz a consequência dos cuidados divinos. Isso não é novidade para o cristão que lê a bíblia e aprendeu que Jesus disse que pelas escolhas já recebemos por aqui a nossa recompensa. Também se aprende na carta aos Romanos que Deus entrega cada um as suas escolhas.</br>
 </br>
 Desta forma podemos entender porque como ovelhas vencemos e como lobos não. Ora, Jesus é o bom pastor, aquele que cuida das ovelhas e elas o conhecem pela voz. Basta uma passadinha no evangelho de São João para um rápido avivamento de memória. Pastor apascenta ovelhas e não lobos, se escolhemos não dar ocasião para Jesus mostrar o seu poder em nossas vidas, seremos deixados e abandonados por culpa própria.</br>

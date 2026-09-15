@@ -4,7 +4,11 @@ date: 2023-04-24T14:01:00.002Z
 heroImage: "/images/posts/1085-a-espera-do-bote-a_20espera_20do_20bote.png"
 ---
 
-<p align="left" class="western" style="line-height: 100%; margin-bottom: 0cm;"></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1085-a-espera-do-bote-a_20espera_20do_20bote.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="242" data-original-width="319" height="242" src="/images/posts/1085-a-espera-do-bote-a_20espera_20do_20bote.png" width="319" /></a></div>&nbsp;<p class="MsoNormal">Gosto sempre de lembrar da passagem que diz que o demônio é
+<p align="left" class="western" style="line-height: 100%; margin-bottom: 0cm;"></p>
+
+![](/images/posts/1085-a-espera-do-bote-a_20espera_20do_20bote.png)
+
+ <p class="MsoNormal">Gosto sempre de lembrar da passagem que diz que o demônio é
 como um leão à espreita esperando a oportunidade de dar o bote. Fico imaginando
 que nosso mundo – a selva de pedra – tem, além deste “leão” metaforado nas
 sagradas escrituras, tantos outros leões. De fato, a alma tem categoricamente

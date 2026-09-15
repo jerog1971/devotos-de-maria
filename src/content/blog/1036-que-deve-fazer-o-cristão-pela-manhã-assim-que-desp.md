@@ -4,7 +4,8 @@ date: 2019-04-12T16:27:00.001Z
 heroImage: "/images/posts/1036-que-deve-fazer-o-cristão-pela-manhã-assim-que-desp-desleixo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1036-que-deve-fazer-o-cristão-pela-manhã-assim-que-desp-desleixo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1036-que-deve-fazer-o-cristão-pela-manhã-assim-que-desp-desleixo.png" width="320" height="312" data-original-width="415" data-original-height="405" /></a></div>
+![](/images/posts/1036-que-deve-fazer-o-cristão-pela-manhã-assim-que-desp-desleixo.png)
+
 Pergunta o Catecismo de São Pio X, e ele mesmo responde: “Um bom cristão, pela manhã, assim que desperta, deve fazer o sinal da Cruz, e oferecer o coração a Deus, dizendo estas ou outras palavras semelhantes: Meu Deus, eu vos dou o meu coração e a minha alma”.</br>
 </br>
 “À noite, antes de deitar, que se deve fazer”?, pergunta o mesmo Catecismo, e responde: “À noite, antes de deitar, convém pôr-se, como de manhã, na presença de Deus, recitar devotamente as mesmas orações, fazer um breve exame de consciência, e pedir perdão a Deus dos pecados cometidos durante o dia”.</br>

@@ -4,7 +4,8 @@ date: 2019-05-16T20:23:00.002Z
 heroImage: "/images/posts/1068-a-verdade-brilha-sozinha-a-mentira-é-muito-trabalh-eu_sou.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1068-a-verdade-brilha-sozinha-a-mentira-é-muito-trabalh-eu_sou.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1068-a-verdade-brilha-sozinha-a-mentira-é-muito-trabalh-eu_sou.png" width="320" height="208" data-original-width="317" data-original-height="206" /></a></div>
+![](/images/posts/1068-a-verdade-brilha-sozinha-a-mentira-é-muito-trabalh-eu_sou.png)
+
 Eu sou o caminho, a verdade e a vida, ninguém vai ao Pai senão por mim. A verdade vos libertará. Essas e tantas outras frases que encontramos nas sagradas escrituras, além de tantas outras situações que os livros da bíblia nos apontam, convergem para um mesmo cenário. Haja vista o esforço que satanás faz para manter em voga suas mentiras. Cria-las, divulga-las e sustenta-las como aparentes verdades sem dúvida alguma dá muito trabalho.</br>
 </br>
 Infelizmente já podemos atestar que nosso inimigo trabalha muito bem, pois convence a muitos a esse respeito. Seu esforço é incansável pois sabe que quando o fim dos tempos chegar não mais poderá convencer os filhos de Deus a respeito das coisas. Como sabemos que Jesus é a luz do mundo, que brilha e mantém longe das trevas aqueles que o seguem, imaginem só quanta mão de obra e jogo de cintura o diabo tem que fazer para ofuscar a verdade.</br>

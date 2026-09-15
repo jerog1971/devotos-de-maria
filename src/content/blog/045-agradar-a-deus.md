@@ -4,7 +4,8 @@ date: 2015-12-02T11:30:00Z
 heroImage: "/images/posts/045-agradar-a-deus-servo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/045-agradar-a-deus-servo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/045-agradar-a-deus-servo.png" width="320" height="278" data-original-width="190" data-original-height="165" /></a></div>
+![](/images/posts/045-agradar-a-deus-servo.png)
+
 </br>
 Carta aos Gálatas 1,7-12</br>
 </br>

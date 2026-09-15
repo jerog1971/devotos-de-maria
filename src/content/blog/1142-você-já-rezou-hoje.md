@@ -4,7 +4,7 @@ date: 2015-10-03T01:37:00.002Z
 heroImage: "/images/posts/1142-você-já-rezou-hoje-crian_25C3_25A7a_rezando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1142-você-já-rezou-hoje-crian_25C3_25A7a_rezando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="391" data-original-width="391" height="320" src="/images/posts/1142-você-já-rezou-hoje-crian_25C3_25A7a_rezando.png" width="320" /></a></div>
+![](/images/posts/1142-você-já-rezou-hoje-crian_25C3_25A7a_rezando.png)
 
 Melhor ainda caro leitor, é nos fazermos esta pergunta: Já rezei hoje? Vamos refletir e meditar nessa grande verdade que acompanha nossa vida de católicos. A oração constante. Quem nos manda agir assim é ninguém menos que nosso Salvador e Redentor, Jesus Cristo. Já nos é ensinado desde a época em que passamos em catequese que a oração é o diálogo que fazemos com Deus e os céus. E isto é bem entendido, pois não se trata de uma lista de pedidos que fazemos a Deus inclusive com prazo de validade para sermos atendidos.
 
@@ -65,6 +65,5 @@ Artigos Relacionados:
 <a href="https://www.devotos-de-maria.com.br/2016/09/ja-rezou-hoje-e-o-celular-ja-usou-hoje.html" target="_blank">Já rezou hoje? E o celular, já usou hoje?</a>
 
 <a href="https://www.devotos-de-maria.com.br/2016/11/o-jejum-da-tecnologia.html" target="_blank">O jejum da tecnologia</a>
-
 
 fonte: Jefferson Roger e ofielcatolico.com.br

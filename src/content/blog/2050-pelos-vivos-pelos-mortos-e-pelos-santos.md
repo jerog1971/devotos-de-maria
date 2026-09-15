@@ -4,7 +4,8 @@ date: 2017-10-31T19:02:00.002Z
 heroImage: "/images/posts/2050-pelos-vivos-pelos-mortos-e-pelos-sa-defuntos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2050-pelos-vivos-pelos-mortos-e-pelos-sa-defuntos.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="422" data-original-width="404" height="320" src="/images/posts/2050-pelos-vivos-pelos-mortos-e-pelos-sa-defuntos.png" width="306" /></a></div>
+![](/images/posts/2050-pelos-vivos-pelos-mortos-e-pelos-sa-defuntos.png)
+
 Estamos as portas de mais um feriado. Aos católicos de meia tigela, aqueles que pensam que irão entrar no céu vivendo sua política de salário mínimo, que não inclui obras (Apocalipse 22,12) e nem vida pautada no sacramento, nas obras de misericórdia, obediência aos mandamentos e vivência nas bem-aventuranças, a data não irá passar de mais uma oportunidade para se viajar. É mais um feriadão, como dizem muitos. Pobres destes, se não acordarem enquanto é tempo de misericórdia, depois terão explicação a dar, mas, isto, é entre eles e o justo juiz.
 
 Entre nós, como diz Jesus, não deve ser assim. Alguns não se recordam que dia 01 de novembro é dia de todos os santos. Dia em que a igreja faz memória a todos que já passaram por aqui, trilharam o caminho do Cristo e estão nos céus. O faz (a Igreja) dessa maneira para ser justa, imitando aquele que é justo e assim não só fazendo memória dos santos que são públicos e mais conhecidos mas a todos. Depois entramos pelo dia 02 de novembro rezando pelos fiéis defuntos, por todos que adormeceram na esperança da ressurreição.
@@ -22,6 +23,5 @@ Artigos Relacionados:
 <a href="https://www.devotos-de-maria.com.br/2016/10/finados-comemoracao-de-todos-os-fieis.html" target="_blank">Finados - Comemoração dos fieis defuntos</a>
 
 <a href="https://www.devotos-de-maria.com.br/2016/07/o-luto.html" target="_blank">O luto</a>
-
 
 fonte: Jefferson Roger

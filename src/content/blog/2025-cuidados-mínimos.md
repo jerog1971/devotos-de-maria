@@ -4,7 +4,8 @@ date: 2019-05-20T18:54:00.002Z
 heroImage: "/images/posts/2025-cuidados-mínimos-Jesus_Diabo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2025-cuidados-mínimos-Jesus_Diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2025-cuidados-mínimos-Jesus_Diabo.png" width="320" height="305" data-original-width="503" data-original-height="480" /></a></div>
+![](/images/posts/2025-cuidados-mínimos-Jesus_Diabo.png)
+
 Desleixo e relaxo, duas expressões que facilmente podemos explanar a respeito de seus significados. Independente, no entanto, de nosso conhecimento a respeito dessas expressões, uma coisa é certa: sabemos que se referem a coisas que não são tão boas. Em linhas gerais o relaxado é aquele que não é caprichoso, já o desleixado é aquele que não trata as coisas com o devido zelo e cuidado.</br>
 </br>
 Algo que sem dúvida passava e passa muito longe do comportamento dos santos. Os cuidados tomados durante a caminhada são mínimos. Santo Antonio Maria Claret a esse respeito ministrava uma catequese dizendo que a garantia de salvação consiste num zelo que procure evitar até a mínima possibilidade de se pecar venialmente.</br>

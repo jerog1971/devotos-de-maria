@@ -4,7 +4,9 @@ date: 2021-12-16T20:29:00.004Z
 heroImage: "/images/posts/2167-o-povo-tem-pressa-img-1695043423.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2167-o-povo-tem-pressa-img-1695043423.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="481" data-original-width="470" height="320" src="/images/posts/2167-o-povo-tem-pressa-img-1695042275.jpg" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muita pressa; de que as coisas que quer aconteçam
+![](/images/posts/2167-o-povo-tem-pressa-img-1695042275.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muita pressa; de que as coisas que quer aconteçam
 principalmente. Todavia, logo que toma conhecimento de que é uma criatura que
 deve obediência ao seu criador, se quiser na segunda etapa de sua existência
 que é eterna, vai logo percebendo de que a nossa pressa de nada adianta frente
@@ -38,4 +40,7 @@ essa sim, para o verdadeiro filho de Deus, é a pressa das pressas, que logo
 este mundo passe e que o paraíso nos receba com sua felicidade para todo o
 sempre.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

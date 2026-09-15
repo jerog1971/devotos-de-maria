@@ -4,7 +4,8 @@ date: 2015-10-21T15:36:00.001Z
 heroImage: "/images/posts/1654-ex-maçom-convertido-ao-catolicismo-ma_25C3_25A7om_convertido.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1654-ex-maçom-convertido-ao-catolicismo-ma_25C3_25A7om_convertido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1654-ex-maçom-convertido-ao-catolicismo-ma_25C3_25A7om_convertido.png" width="320" height="208" data-original-width="576" data-original-height="375" /></a></div>
+![](/images/posts/1654-ex-maçom-convertido-ao-catolicismo-ma_25C3_25A7om_convertido.png)
+
 </br>
 MADRI, 04 Mai. 15 / 07:14 pm (ACI).- Serge Abad-Gallardo foi membro da maçonaria durante mais de 25 anos, chegou a ser mestre de 14º grau. Depois de uma peregrinação ao Santuário de Lourdes tudo mudou e começou seu caminho de conversão, que logo o levou a escrever um livro. Na entrevista ao grupo ACI ele explica também a relação que existe entre o demônio e a organização.</br>
 </br>

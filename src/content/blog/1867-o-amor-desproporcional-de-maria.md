@@ -4,7 +4,9 @@ date: 2022-11-18T15:18:00.004Z
 heroImage: "/images/posts/1867-o-amor-desproporcional-de-maria-O_20amor_20de_20Maria.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1867-o-amor-desproporcional-de-maria-O_20amor_20de_20Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="431" data-original-width="519" height="266" src="/images/posts/1867-o-amor-desproporcional-de-maria-O_20amor_20de_20Maria.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pela devoção mais simples para com a mãe de Jesus, em troca,
+![](/images/posts/1867-o-amor-desproporcional-de-maria-O_20amor_20de_20Maria.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pela devoção mais simples para com a mãe de Jesus, em troca,
 ela nos dá um amor tão desproporcional.<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">O fato foi narrado pelo Padre Auriemma: uma pobre pastora
@@ -44,4 +46,7 @@ Então aquelas santas virgens começaram a cantar, e com aquela doce música a
 alma abençoada foi libertada do corpo. Maria coroou-a e levou a sua alma
 consigo para o paraíso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

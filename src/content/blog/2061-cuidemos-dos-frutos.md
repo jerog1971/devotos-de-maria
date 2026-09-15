@@ -4,7 +4,8 @@ date: 2018-02-17T13:21:00Z
 heroImage: "/images/posts/2061-cuidemos-dos-frutos-naboca.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2061-cuidemos-dos-frutos-naboca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2061-cuidemos-dos-frutos-naboca.png" width="320" height="276" data-original-width="335" data-original-height="289" /></a></div>
+![](/images/posts/2061-cuidemos-dos-frutos-naboca.png)
+
 Já nos ensinava Jesus que devemos estar preparados (Mateus 24,44). Embora nosso salvador tratava de outro contexto pois ensinava sobre a importância do que fazemos com o tempo que Deus nos deu e não a importância de quanto tempo temos, no fundo a questão da preparação, colocada sob um olhar sobrenatural em nossas vidas passa por todos os aspectos e práticas religiosas que precisamos fazer se almejamos o reino dos céus. Desde o início da história da humanidade o ser humano aprende que a preparação é um pré-requisito para bem fazermos algo que necessite de muito empenho, dedicação e envolve um preço muito alto no resultado que se almeja.</br>
 </br>
 Se vamos fazer uma prova na escola, nos preparamos estudando para ela.</br>

@@ -4,7 +4,8 @@ date: 2018-09-05T16:07:00Z
 heroImage: "/images/posts/062-prioridades-prioridade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/062-prioridades-prioridade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/062-prioridades-prioridade.png" width="320" height="317" data-original-width="585" data-original-height="579" /></a></div>
+![](/images/posts/062-prioridades-prioridade.png)
+
 Se existe uma coisa que todo mundo tem que fazer na vida é organizar suas prioridades. Como o Deus todo poderoso, justíssimo que é e de infinita misericórdia “não quer que nenhum daqueles que entregou ao seu filho se percam, mas sejam salvos e cheguem ao conhecimento da verdade”, tratou logo de conceder a todos a mesma quantidade do recurso chamado tempo.</br>
 </br>
 Todo mundo dispõe de 24 horas por dia. E as coisas param por aí. Como não somos donos do minuto seguinte em nossas vidas não podemos “contar” com perspectivas futuras em relação ao tempo. Chega a ser quase paradoxal porque devemos viver no agora a esperança na eternidade e sim, planejar e projetar nossas vidas, porém, sem deixar de lado o essencial de cada dia.</br>

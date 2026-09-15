@@ -4,7 +4,8 @@ date: 2019-10-28T16:00:00.001Z
 heroImage: "/images/posts/971-como-anda-sua-liberdade-liberdade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/971-como-anda-sua-liberdade-liberdade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/971-como-anda-sua-liberdade-liberdade.png" width="320" height="271" data-original-width="605" data-original-height="513" /></a></div>
+![](/images/posts/971-como-anda-sua-liberdade-liberdade.png)
+
 Muitos pensam que liberdade é poder fazer tudo que se tem vontade. Pois bem, é e não é. Depende de algumas questões. A liberdade possui alguns termômetros e algumas regras que a contextualizam conforme o rumo que se quer tomar na vida. Podemos pensar em algo como uma espécie de hierarquia e proporcionalidade, isso nos ajuda a evitar problemas na vida.</br>
 </br>
 Desde pequeno os filhos já recebem toda a liberdade possível dos pais? Certamente que não! Ouve-se dizer que quanto mais crescem e amadurecem mais responsabilidades vão recebendo dos pais e da vida. Isso já é um aspecto inicial. Mas e então, como anda a nossa liberdade? Fazemos o que bem entendemos? Que se dane o mundo? Eu sei de mim? Sou dono do meu próprio nariz? Não devo satisfação para ninguém?</br>

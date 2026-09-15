@@ -4,7 +4,11 @@ date: 2020-05-31T16:03:00.002Z
 heroImage: "/images/posts/128-você-é-um-pacato-AVvXsEj1xOumUI0TfxmdKzvsqhqrHpFwAYUi9yVzucvyg-jNcxA4i_gnlo9H8LdFLVM3O0pZk1tDLDcbCuBvx9yp4UwRwXvkonTnkr6jiw42BTXhtNlalMHI9lm6WveSNeLPxoNY5AxjDMEXz4w.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/128-você-é-um-pacato-AVvXsEj1xOumUI0TfxmdKzvsqhqrHpFwAYUi9yVzucvyg-jNcxA4i_gnlo9H8LdFLVM3O0pZk1tDLDcbCuBvx9yp4UwRwXvkonTnkr6jiw42BTXhtNlalMHI9lm6WveSNeLPxoNY5AxjDMEXz4w.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="212" data-original-width="242" src="/images/posts/128-você-é-um-pacato-AVvXsEj1xOumUI0TfxmdKzvsqhqrHpFwAYUi9yVzucvyg-jNcxA4i_gnlo9H8LdFLVM3O0pZk1tDLDcbCuBvx9yp4UwRwXvkonTnkr6jiw42BTXhtNlalMHI9lm6WveSNeLPxoNY5AxjDMEXz4w.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Antes de tudo comecemos relembrando um dos significados para
+<br />
+
+![](/images/posts/128-você-é-um-pacato-AVvXsEj1xOumUI0TfxmdKzvsqhqrHpFwAYUi9yVzucvyg-jNcxA4i_gnlo9H8LdFLVM3O0pZk1tDLDcbCuBvx9yp4UwRwXvkonTnkr6jiw42BTXhtNlalMHI9lm6WveSNeLPxoNY5AxjDMEXz4w.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Antes de tudo comecemos relembrando um dos significados para
 a palavra ‘pacato’: “quem apresenta certa passividade ou inércia; apático”.
 Pois bem, trata-se do sujeito de comprometimento majoritariamente acomodado,
 incapaz de se pronunciar sobre seus pontos de vista, facilmente coagido ou

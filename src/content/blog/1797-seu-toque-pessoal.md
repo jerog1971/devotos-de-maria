@@ -4,7 +4,9 @@ date: 2023-06-29T18:33:00.003Z
 heroImage: "/images/posts/1797-seu-toque-pessoal-seu_20toque_20pessoal.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1797-seu-toque-pessoal-seu_20toque_20pessoal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="686" height="180" src="/images/posts/1797-seu-toque-pessoal-seu_20toque_20pessoal.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em cada época da história de nossa humanidade, vários atores
+![](/images/posts/1797-seu-toque-pessoal-seu_20toque_20pessoal.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Em cada época da história de nossa humanidade, vários atores
 foram escalados, a partir de um ponto de partida na criação de um personagem de
 quadrinhos, para interpreta-lo nas telonas ou nas telinhas. Vários vestiram em
 décadas a caracterização que melhor os roteiristas e figurinistas tinham
@@ -40,4 +42,7 @@ nomes escritos no livro da vida (Apocalipse). Basta uma firmeza de propósito
 quanto a “renunciar e si mesmo, tomar sua cruz dia após dia e seguir Jesus” –
 Lucas 9,23.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,11 @@ date: 2020-06-24T16:20:00.003Z
 heroImage: "/images/posts/725-natividade-de-são-joão-batista-img-993197909.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/725-natividade-de-são-joão-batista-img-993197909.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="245" data-original-width="218" src="/images/posts/725-natividade-de-são-joão-batista-img-903589225.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">João Batista era filho de Zacarias e de Santa Isabel.
+<br />
+
+![](/images/posts/725-natividade-de-são-joão-batista-img-903589225.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">João Batista era filho de Zacarias e de Santa Isabel.
 Chamava-se “Batista” pelo fato de ser um “batizador”. João, cujo nome significa
 “Deus é propício, veio à luz em idade avançada de seus pais. Parente de Jesus,
 foi o precursor do messias. É João Batista que aponta a Jesus, dizendo: Eis o

@@ -4,7 +4,11 @@ date: 2020-06-12T17:01:00.001Z
 heroImage: "/images/posts/1817-obediência-sujeição-e-conversas-sup-minimizar.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1817-obediência-sujeição-e-conversas-sup-minimizar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="615" src="/images/posts/1817-obediência-sujeição-e-conversas-sup-minimizar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Grande coisa é viver na obediência, sob a direção de um
+<br />
+
+![](/images/posts/1817-obediência-sujeição-e-conversas-sup-minimizar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Grande coisa é viver na obediência, sob a direção de um
 superior, e não dispor da própria vontade. Muito mais seguro é obedecer que
 mandar. Muitos obedecem mais por necessidade que por amor: por isso sofrem e
 facilmente murmuram. Esses não alcançaram a liberdade de espírito, enquanto não

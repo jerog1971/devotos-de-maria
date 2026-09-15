@@ -4,7 +4,8 @@ date: 2019-05-09T20:08:00.001Z
 heroImage: "/images/posts/559-a-realidade-humana-vista-por-thanos-thanos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/559-a-realidade-humana-vista-por-thanos-thanos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/559-a-realidade-humana-vista-por-thanos-thanos.png" width="320" height="290" data-original-width="506" data-original-height="459" /></a></div>
+![](/images/posts/559-a-realidade-humana-vista-por-thanos-thanos.png)
+
 Olá caros leitores, passados alguns dias da estreia cinematográfica do último filme da Marvel, Vingadores Ultimato, aproveitamos de um ensejo do mesmo para refletirmos um pouco sobre uma colocação que o vilão Thanos apontou relacionado ao comportamento das pessoas. Vejamos.</br>
 </br>
 Thanos pensava que a solução para a ordem do universo era eliminar metade dos seres inteligentes para que, com mais espaço para se viver, os sobreviventes poderiam organizar melhor a situação em que se encontravam. Isso veio à tona no filme Guerra Infinita. Muito bem, de fato isso aconteceu e na sequência cinematográfica que atualmente está em cartaz, sabe-se que o ponto de vista de Thanos não é o da maioria, principalmente daqueles que restaram. Por conta disso a trama segue tentando desfazer o ocorrido e eliminar a causa do problema. </br>

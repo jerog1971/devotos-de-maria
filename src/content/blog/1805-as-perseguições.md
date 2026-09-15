@@ -4,7 +4,9 @@ date: 2021-06-18T16:03:00.004Z
 heroImage: "/images/posts/1805-as-perseguições-persegui_25C3_25A7_25C3_25B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1805-as-perseguições-persegui_25C3_25A7_25C3_25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="548" data-original-width="638" src="/images/posts/1805-as-perseguições-persegui_25C3_25A7_25C3_25B5es.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As coisas que nos pertencem não podem ser delegadas,
+![](/images/posts/1805-as-perseguições-persegui_25C3_25A7_25C3_25B5es.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">As coisas que nos pertencem não podem ser delegadas,
 transferidas, postergadas, deixadas de lado ou algo do gênero. Se lhe cabe o
 fardo e o jugo, não há como comportar-se como se assim não fosse. Isso de que “a
 culpa é sua e, portanto, você coloca em quem quiser” não resolve nada.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -37,4 +39,7 @@ da morte. E já que se está a falar em perseguições, que possamos nós nunca
 deixarmos de perseguir o objetivo principal de se viver que é um dia morar na
 felicidade eterna do paraíso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

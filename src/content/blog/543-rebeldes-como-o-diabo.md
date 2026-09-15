@@ -4,7 +4,9 @@ date: 2021-08-05T16:17:00.001Z
 heroImage: "/images/posts/543-rebeldes-como-o-diabo-rebeldes_como_o_diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/543-rebeldes-como-o-diabo-rebeldes_como_o_diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="407" data-original-width="404" height="320" src="/images/posts/543-rebeldes-como-o-diabo-rebeldes_como_o_diabo.png" width="318" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que o diabo por não querer aceitar a regra
+![](/images/posts/543-rebeldes-como-o-diabo-rebeldes_como_o_diabo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo mundo sabe que o diabo por não querer aceitar a regra
 divina rebelou-se contra Deus e quis fazer as coisas da sua maneira. Todo mundo
 sabe também no que essa decisão resultou. Como vemos, se rebelar, dependendo do
 contexto, pode trazer consequências desastrosas para a pobre alma que tem uma
@@ -28,4 +30,7 @@ definitiva. Não podemos ficar de galho em galho ou em cima do muro. Os santos j
 diziam: ou santos ou nada! Se é para nos rebelarmos contra alguém que seja
 contra Satanás, lutando até o sangue contra o pecado – Hebreus 12.4<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

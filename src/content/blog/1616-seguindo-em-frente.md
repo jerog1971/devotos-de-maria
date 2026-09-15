@@ -4,7 +4,8 @@ date: 2016-04-25T13:06:00Z
 heroImage: "/images/posts/1616-seguindo-em-frente-em_frente.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1616-seguindo-em-frente-em_frente.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1616-seguindo-em-frente-em_frente.png" width="320" height="279" data-original-width="527" data-original-height="460" /></a></div>
+![](/images/posts/1616-seguindo-em-frente-em_frente.png)
+
 Certa vez aprendi com a santa mensageira da misericórdia, Santa Maria Faustina Kowalska que, num dos conventos que frequentou, uma das freiras já de muita idade, acabou por chamar a atenção de Santa Faustina. O que acontecia? Esta freira já com muitos anos vividos aqui na terra era uma mulher de muitas e constantes orações. E vejam aqui caros leitores o interessante da coisa. Faustina era uma freira muito dedicada a oração diária e para ela perceber o que sua irmã de convento fazia a ponto de lhe chamar a atenção já podemos imaginar a constante entrega que tinha a boa idosa por Jesus.</br>
 </br>
 Porém, no final das contas, elas estavam a fazer aquilo que Jesus nos ensinou. Vigiai e orai sem cessar. E graças a oração mental como nos recorda Santa Tereza de D’Ávila, o sem cessar pode realmente ser colocado em prática.</br>

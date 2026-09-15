@@ -4,9 +4,9 @@ date: 2025-03-06T20:54:00Z
 heroImage: "/images/posts/1265-foto-de-felicidade-foto_20de_20felicidade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1265-foto-de-felicidade-foto_20de_20felicidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="543" data-original-width="381" height="320" src="/images/posts/1265-foto-de-felicidade-foto_20de_20felicidade.png" width="225" /></a></div><p></p><p>
+![](/images/posts/1265-foto-de-felicidade-foto_20de_20felicidade.png)
 
-</p><p class="MsoNormal">Pode ser, como vemos nas redes sociais, muitas imagens de
+<p class="MsoNormal">Pode ser, como vemos nas redes sociais, muitas imagens de
 aparência. A pessoa não está lá aquelas coisas com vários aspectos de sua vida,
 mas, pelo bem da boa imagem e dos cliques dos seguidores, quase que se demonstra
 como um personagem que nada o abala. Nem parece ser de carne e osso e, pelo bem
@@ -33,4 +33,7 @@ que o tempo passa, a vida segue, desafios vem e vão, são superados, o amor
 matrimonial, familiar e conjugal cresce e, como jamais poderia deixar de ser,
 Deus esteve presente em todos os momentos, elo indissolúvel da união familiar.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-03-17T20:19:00.004Z
 heroImage: "/images/posts/2162-leve-só-o-que-for-bom-img-618734918.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2162-leve-só-o-que-for-bom-img-618734918.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1216" data-original-width="1431" height="272" src="/images/posts/2162-leve-só-o-que-for-bom-img-1928849300.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos nos versículos bíblicos que devemos apenas reter para
+![](/images/posts/2162-leve-só-o-que-for-bom-img-1928849300.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lemos nos versículos bíblicos que devemos apenas reter para
 nossas vidas aquilo que for bom, e bom segundo os desígnios divinos. Eis aí um
 dos grandes problemas, pois muitas vezes o que é bom para o ser humano –
 segundo sua própria visão – não é bom aos olhos de Deus. Padre Kempis vai dizer
@@ -40,4 +42,7 @@ devidamente colocada ao lado da dele no Calvário. Fora isso, o restante, como
 lemos em Eclesiastes, é vaidade: vaidade perigosa e corrosiva, que pode por
 prazeres terrenos nos causar tormentos eternos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

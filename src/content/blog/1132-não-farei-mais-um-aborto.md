@@ -4,7 +4,8 @@ date: 2016-08-11T14:23:00.004Z
 heroImage: "/images/posts/1132-não-farei-mais-um-aborto-Anthony_Levatino.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1132-não-farei-mais-um-aborto-Anthony_Levatino.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1132-não-farei-mais-um-aborto-Anthony_Levatino.png" width="320" height="241" data-original-width="475" data-original-height="358" /></a></div>
+![](/images/posts/1132-não-farei-mais-um-aborto-Anthony_Levatino.png)
+
 Em 1976, o obstetra e ginecologista Dr. Anthony Levatino tinha acabado de receber a sua graduação em medicina e era, sem sombra de dúvida, a favor do aborto. Ele defendia convicto o chamado "direito ao aborto" e acreditava que o tema não passava de uma decisão a ser tomada apenas entre uma mulher e o seu médico.</br>
 </br>
 "Muitas pessoas se identificam como sendo contra (pro-life) ou a favor do aborto (pro-choice), mas, para a maior parte delas, nada disso as afeta pessoalmente, nada disso impacta as suas vidas do modo como eu queria que as impactasse", diz Levatino em uma palestra para a associação Pro-Life Action League. "Mas, quando você é um obstetra ou ginecologista e se diz a favor do aborto, a coisa se torna bem mais pessoal, porque é você quem realiza os abortos e é você quem deve tomar a decisão de fazer aquilo ou não."</br>

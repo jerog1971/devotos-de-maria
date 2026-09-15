@@ -4,7 +4,9 @@ date: 2021-01-10T14:49:00.003Z
 heroImage: "/images/posts/1614-o-batismo-do-senhor-batismo_de_Jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1614-o-batismo-do-senhor-batismo_de_Jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="344" src="/images/posts/1614-o-batismo-do-senhor-batismo_de_Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Serve para nos recordar que adotados por Deus pelo batismo
+![](/images/posts/1614-o-batismo-do-senhor-batismo_de_Jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Serve para nos recordar que adotados por Deus pelo batismo
 através do seu Espírito Santo, somos enviados permanentemente em missão para
 propagar a boa nova de Jesus Cristo. <o:p></o:p></p><div class="separator" style="clear: both;">
 
@@ -44,4 +46,7 @@ para tornar-se filho adotivo, pelo seu sim a Deus começa a percorrer sem
 reservas o caminho pedregoso e apertado que conduz para a porta estreita, o
 caminho da glória eterna dos céus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2015-11-25T11:58:00Z
 heroImage: "/images/posts/1518-como-inimigos-de-deus-inimigos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1518-como-inimigos-de-deus-inimigos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1518-como-inimigos-de-deus-inimigos.png" width="312" height="320" data-original-width="297" data-original-height="305" /></a></div>
+![](/images/posts/1518-como-inimigos-de-deus-inimigos.png)
+
 </br>
 Lucas 6,27-32</br>
 </br>

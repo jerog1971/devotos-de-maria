@@ -4,7 +4,8 @@ date: 2016-10-26T15:11:00Z
 heroImage: "/images/posts/1083-perdoar-o-corpo-do-outro-idade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1083-perdoar-o-corpo-do-outro-idade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1083-perdoar-o-corpo-do-outro-idade.png" width="320" height="315" data-original-width="409" data-original-height="402" /></a></div>
+![](/images/posts/1083-perdoar-o-corpo-do-outro-idade.png)
+
 Na corrida desenfreada e frenética promovida pelo mundo, em busca da constante vaidade que alimenta a beleza de aparências, o ser humano a muito tempo procura retardar o inevitável. A raça humana como bem sabemos vem se degradando ao longo dos séculos. Os corpos físicos recebidos de Deus, que na época bíblica “duravam” facilmente mais de cem anos, haja vista tantos exemplos do antigo testamento, agora dificilmente chegam a esta marca.</br>
 </br>
 O tempo foi passando e o homem deixou de viver como antigamente. Diariamente tantas pessoas se dedicam mais a causa do corpo do que a causa do espírito. E o processo evolutivo da humanidade, que muitos apontam como inevitável, evita que as pessoas se aproximem de Deus. Aliado a isto existem os conceitos morais e costumes de épocas e lugares que ditam normas, regras e modismos norteando o que se deve ter, ser e fazer para ser aceito na sociedade.</br>

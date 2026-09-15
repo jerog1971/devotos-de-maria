@@ -4,7 +4,8 @@ date: 2016-05-25T11:38:00Z
 heroImage: "/images/posts/1897-aproveitamos-os-feriados-escadaria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1897-aproveitamos-os-feriados-escadaria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1897-aproveitamos-os-feriados-escadaria.png" width="320" height="239" data-original-width="694" data-original-height="518" /></a></div>
+![](/images/posts/1897-aproveitamos-os-feriados-escadaria.png)
+
 </br>
 Em alguns meses do ano, coincide que algumas datas religiosas para nós católicos "caem" em dias propícios para o que se costuma chamar de "emendar" o feriado, ou ainda o chamado "feriadão" prolongado. Sem dúvida alguma é sempre um ótimo período para trocar as atividades do dia a dia e realizar alguma coisa fora da rotina.</br>
 </br>

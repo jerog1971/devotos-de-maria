@@ -4,7 +4,9 @@ date: 2021-04-16T17:01:00.001Z
 heroImage: "/images/posts/2138-cortando-o-mal-pela-raiz-cortando_o_mal_pela_raiz.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2138-cortando-o-mal-pela-raiz-cortando_o_mal_pela_raiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="469" data-original-width="484" src="/images/posts/2138-cortando-o-mal-pela-raiz-cortando_o_mal_pela_raiz.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo sabe que cortar-aparar a grama é uma atividade
+![](/images/posts/2138-cortando-o-mal-pela-raiz-cortando_o_mal_pela_raiz.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo mundo sabe que cortar-aparar a grama é uma atividade
 que de tempos em tempos precisa ser feita. Sem cuidado algum podemos dizer que
 é difícil que a grama morra, salvo uma grande estiagem ou a mesma sofrer uma
 ação intencional como aqueles <i>carreiros</i> que as pessoas fazem ao caminhar
@@ -38,4 +40,7 @@ e elas denunciam a fraqueza de cada ser humano. Portanto é hora de escolher
 romper definitivamente com o mal; um esforço que todo mundo pode fazer
 aliando-se com Jesus Cristo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

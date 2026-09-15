@@ -4,9 +4,11 @@ date: 2024-11-26T21:25:00.003Z
 heroImage: "/images/posts/960-só-pode-ser-brincadeira-Brincadeira.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/960-só-pode-ser-brincadeira-Brincadeira.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="224" height="320" src="/images/posts/960-só-pode-ser-brincadeira-Brincadeira.png" width="179" /></a></div><br />&nbsp;
+![](/images/posts/960-só-pode-ser-brincadeira-Brincadeira.png)
 
-<p></p><p class="MsoNormal">Você acredita? Uma por uma fui elencando todas as opções que
+<br /> 
+
+<p class="MsoNormal">Você acredita? Uma por uma fui elencando todas as opções que
 eu, como professor de língua portuguesa, ofereci dentro da disciplina de
 Oratória para um grupo de estudantes do segundo ano do ensino médio. A missão
 deles era a de produzir um material, como projeto final da disciplina e do
@@ -44,5 +46,4 @@ principalmente na principal de todas, aquela que nos premiará com a entrada no
 céu.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

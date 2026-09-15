@@ -4,7 +4,8 @@ date: 2018-05-09T20:29:00Z
 heroImage: "/images/posts/455-chuveiro-espiritual-confessar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/455-chuveiro-espiritual-confessar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/455-chuveiro-espiritual-confessar.png" width="320" height="313" data-original-width="529" data-original-height="518" /></a></div>
+![](/images/posts/455-chuveiro-espiritual-confessar.png)
+
 Muitas pessoas aderem à propaganda do mundo que insiste em promover um ser humano como sendo apenas um humano e nada mais. Antes que alguma estranheza aconteça vamos esclarecer. O ser humano é um composto de corpo e alma. Sendo assim, é necessário cuidarmos das duas constituições que, inclusive, se relacionam. Haja vista o pecado ser uma realidade do espírito que quando praticado afeta o destino do todo. Não irá o corpo para a condenação eterna e a alma para a glória do céu.</br>
 </br>
 É o famoso ditado, ou vai ou racha. Ou santos ou nada. Pois bem, colocadas as coisas dessa maneira, o olhar espiritual que todo cristão precisa depositar sobre sua vida nos aponta para a direção de se cuidar do bem-estar tanto do corpo quanto da alma. Todos sabem muito bem que se adiarem por demais a higiene do corpo, deixando o banho para lá, a escovação dos dentes, o cuidado com as unhas, a alimentação e o descanso, nada de bom pode resultar com esse desleixo todo.</br>

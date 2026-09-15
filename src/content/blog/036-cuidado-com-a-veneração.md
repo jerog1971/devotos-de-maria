@@ -4,7 +4,8 @@ date: 2020-04-02T16:27:00.002Z
 heroImage: "/images/posts/036-cuidado-com-a-veneração-venera_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/036-cuidado-com-a-veneração-venera_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/036-cuidado-com-a-veneração-venera_25C3_25A7_25C3_25A3o.png" width="320" height="260" data-original-width="519" data-original-height="421" /></a></div>
+![](/images/posts/036-cuidado-com-a-veneração-venera_25C3_25A7_25C3_25A3o.png)
+
 Nossa Senhora em toda a história de suas aparições nunca disse: rezem que eu darei – palavras da vidente Mirjana de Medjugorje – ela sempre disse: “rezem que eu pedirei ao meu filho por vocês”. E não é o que todo mundo faz aqui na terra? Não pedimos uns pelos outros a Deus? A Jesus?</br>
 </br>
 Tiago 5,16 – “Confessai os vossos pecados uns aos outros, e ORAI uns pelos outros para serdes curados. A oração do justo tem grande eficácia.” Ora, aqui em vida todos intercedemos uns pelos outros, pedimos a Deus uns pelos outros. São Paulo diz em suas cartas que nada nos separará do amor de Cristo. Continuamos, portanto, a pedir uns pelos outros, quando saímos da igreja peregrina (estando vivos) e passamos para a condição da igreja triunfante (junto de Deus). Não esquecendo também que pedimos pela igreja padecente (as almas do purgatório).</br>

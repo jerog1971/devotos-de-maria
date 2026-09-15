@@ -4,7 +4,9 @@ date: 2023-10-27T17:47:00.004Z
 heroImage: "/images/posts/607-santas-almas-santas_20almas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/607-santas-almas-santas_20almas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="275" height="320" src="/images/posts/607-santas-almas-santas_20almas.png" width="229" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos recordar? Em Fátima, durante a primeira aparição,
+![](/images/posts/607-santas-almas-santas_20almas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vamos recordar? Em Fátima, durante a primeira aparição,
 Nossa Senhora disse à Lúcia que uma menina (Amélia) falecida recentemente
 ficaria no purgatório até ao fim do mundo. Pessoal! “Até o fim do mundo!” Esse
 fato costuma ser encoberto porque, bem, honestamente, nos deixa um pouco (ou
@@ -40,4 +42,7 @@ lá é para o céu. Ufa! Pelo menos isso! Todavia, também temos que recordar qu
 sofrimento do purgatório é muito semelhante ao do inferno; distingue-se apenas
 pela sua duração: do purgatório um dia sairemos, já do inferno...<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

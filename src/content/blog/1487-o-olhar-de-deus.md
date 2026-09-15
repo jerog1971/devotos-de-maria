@@ -4,7 +4,8 @@ date: 2015-09-18T16:31:00.001Z
 heroImage: "/images/posts/1487-o-olhar-de-deus-olhar_de_deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1487-o-olhar-de-deus-olhar_de_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1487-o-olhar-de-deus-olhar_de_deus.png" width="320" height="292" data-original-width="534" data-original-height="488" /></a></div>
+![](/images/posts/1487-o-olhar-de-deus-olhar_de_deus.png)
+
 </br>
 Deus não faz distinção de pessoas (At 10,34)</br>
 </br>
@@ -20,7 +21,9 @@ Pois bem, é preciso portanto e isso também é um mandamento de nosso Senhor Je
 </br>
 Como disse Jesus ninguém pode servir a dois senhores e portanto, mesmo em nosso livre arbítrio é preciso entendermos que somos livres para fazer a Sua vontade e não nos deixarmos escravizar pelo mundo.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1487-o-olhar-de-deus-inclus_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1487-o-olhar-de-deus-inclus_25C3_25A3o.png" width="200" height="197" data-original-width="383" data-original-height="378" /></a></div>
+
+![](/images/posts/1487-o-olhar-de-deus-inclus_25C3_25A3o.png)
+
 </br>
 Pois assim como o mundo nos quer escravizar, nossa opção por ele, o mundo, ofende muito a Deus, muitas vezes nos conduz ao pecado, contra Deus e contra o próximo e nos afasta do caminho da retidão. O pecado é "pintado" como "belo" e isso envenena a nossa alma afastando a caridade e o amor ao próximo e recordemos: são ensinamentos de Jesus.</br>
 </br>

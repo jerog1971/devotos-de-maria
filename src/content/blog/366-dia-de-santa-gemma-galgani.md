@@ -4,7 +4,9 @@ date: 2024-04-11T17:46:00.001Z
 heroImage: "/images/posts/366-dia-de-santa-gemma-galgani-Santa_20Gemma_20Galgani.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/366-dia-de-santa-gemma-galgani-Santa_20Gemma_20Galgani.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="260" data-original-width="255" height="260" src="/images/posts/366-dia-de-santa-gemma-galgani-Santa_20Gemma_20Galgani.png" width="255" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Hoje comemora-se o dia de Santa Gemma Galgani. Por aqui,
+![](/images/posts/366-dia-de-santa-gemma-galgani-Santa_20Gemma_20Galgani.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Hoje comemora-se o dia de Santa Gemma Galgani. Por aqui,
 quem vos escreve a tem como uma das minhas santas padroeiras. Pobre santa, deve
 ser de dar dó, caso isso fosse possível, contemplar os contínuos desgostos
 diários que eu a dou. Logo uma santa de vida tão radical pautada no evangelho,
@@ -37,4 +39,7 @@ incentivo para todo cristão. Dizia a jovem menina: "Apesar de tudo e de
 todos, eu serei uma santa". Quem não gostaria de contar com uma amiga
 assim?<o:p></o:p></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/p/santa-gemma-galgani.html" target="_blank">Santa Gemma Galgani</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

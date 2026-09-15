@@ -4,7 +4,8 @@ date: 2016-08-09T11:32:00Z
 heroImage: "/images/posts/1514-sobre-os-títulos-de-maria-santíssima-fatima13.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1514-sobre-os-títulos-de-maria-santíssima-fatima13.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1514-sobre-os-títulos-de-maria-santíssima-fatima13.png" width="320" height="281" data-original-width="571" data-original-height="502" /></a></div>
+![](/images/posts/1514-sobre-os-títulos-de-maria-santíssima-fatima13.png)
+
 Certa vez, duas amigas desciam pelo elevador de um prédio quando uma delas disse:</br>
 </br>
 - Estou indo rezar com Nossa Senhora. Então a outra respondeu:</br>

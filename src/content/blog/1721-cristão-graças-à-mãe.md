@@ -4,7 +4,9 @@ date: 2021-10-29T01:56:00.001Z
 heroImage: "/images/posts/1721-cristão-graças-à-mãe-m_25C3_25A3e_e_filho.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1721-cristão-graças-à-mãe-m_25C3_25A3e_e_filho.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1040" data-original-width="780" height="320" src="/images/posts/1721-cristão-graças-à-mãe-m_25C3_25A3e_e_filho.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas pessoas conhecem o ditado que diz que é de pequenino
+![](/images/posts/1721-cristão-graças-à-mãe-m_25C3_25A3e_e_filho.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitas pessoas conhecem o ditado que diz que é de pequenino
 que se torce o pepino. Mais tarde, quando a educação transmitida de pais para
 filhos precisava ser corrigida, era comum para essas gerações ouvirem pais e
 avós dizerem que “Deus está vendo”. E afinal, isso nunca foi mentira, pois,
@@ -28,4 +30,7 @@ nunca se ausenta da missão de auxiliar maternalmente os que seu filho confiou
 no dia da crucificação. Em suas próprias palavras: “não estou aqui que sou sua
 mãe?” (Nossa Senhora em Guadalupe).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

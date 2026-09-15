@@ -4,7 +4,9 @@ date: 2021-07-19T20:26:00.003Z
 heroImage: "/images/posts/1526-não-adianta-teimar-com-deus-teimosia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1526-não-adianta-teimar-com-deus-teimosia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="381" data-original-width="389" src="/images/posts/1526-não-adianta-teimar-com-deus-teimosia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Tem gente que acha que adianta, teima em ser rebelde quanto
+![](/images/posts/1526-não-adianta-teimar-com-deus-teimosia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Tem gente que acha que adianta, teima em ser rebelde quanto
 aos seus mandamentos, sua palavra e tudo que dele vem, porque Deus quer nos
 permitir entrar em “seu céu” somente se padecermos aqui na terra, comermos o
 pão que o diabo amassou, sofrermos para lá de nossas capacidades em troca de
@@ -35,4 +37,7 @@ moldes de um parque de diversões, regada a farras e todo tipo de divertimento
 desregrado. Se queremos ser teimosos e insistentes, que sejamos contra o diabo,
 incansável inimigo que quer nos ver no inferno para toda a eternidade.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

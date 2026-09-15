@@ -4,7 +4,8 @@ date: 2020-04-09T21:52:00.001Z
 heroImage: "/images/posts/1115-semana-santa-virtual-paix_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1115-semana-santa-virtual-paix_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1115-semana-santa-virtual-paix_25C3_25A3o.png" width="242" height="320" data-original-width="222" data-original-height="294" /></a></div>
+![](/images/posts/1115-semana-santa-virtual-paix_25C3_25A3o.png)
+
 Pois bem, o ano é 2020. A igreja católica prega que estamos no ponto central das celebrações e da fé que professa. É o marco da fé. 1ª Coríntios 15,12-14 – “Ora, se se prega que Jesus ressuscitou dentre os mortos, como dizem alguns de vós que não há ressurreição de mortos? Se não há ressurreição dos mortos, nem Cristo ressuscitou. Se Cristo não ressuscitou, é vã a nossa pregação, e também é vã a vossa fé.”</br>
 </br>
 Belíssimas palavras e mais certeiras não poderiam ser, pois, se não cremos no que São Paulo disse sobre Jesus Cristo, o que é que estamos vivendo em nossa religião? O que fazemos de nossa crença? Cremos em que? Em tudo ou só no que convém? Agora, em tempos como esse Jesus tem um grande recado, ele nos mandou mantermos nosso coração sem perturbações. Para muitos de nós é um tempo inédito na vida.</br>

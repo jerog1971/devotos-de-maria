@@ -4,7 +4,9 @@ date: 2021-10-10T16:07:00.004Z
 heroImage: "/images/posts/1495-será-que-maria-passa-na-frente-Maria_passa_na_frente.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1495-será-que-maria-passa-na-frente-Maria_passa_na_frente.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="534" data-original-width="559" height="306" src="/images/posts/1495-será-que-maria-passa-na-frente-Maria_passa_na_frente.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Entre as muitas devoções que a população experimenta durante
+![](/images/posts/1495-será-que-maria-passa-na-frente-Maria_passa_na_frente.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Entre as muitas devoções que a população experimenta durante
 sua jornada rumo a pátria celeste, muitas estão relacionadas com Jesus Cristo e
 sua mãe, Maria Santíssima. A humanidade atribui vários títulos aos dois
 prescrevendo ou rotulando características e funções específicas para ambos. Chega,
@@ -38,4 +40,7 @@ com nossas mães, só que recorrendo a uma mãe divina, que tem autorização ce
 para nos auxiliar a sermos imitadores de seu filho Jesus – 1ª Coríntios 11,1 e
 Hebreus 6,12.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

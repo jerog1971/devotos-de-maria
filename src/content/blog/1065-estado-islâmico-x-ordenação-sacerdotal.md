@@ -4,7 +4,8 @@ date: 2016-10-05T16:05:00Z
 heroImage: "/images/posts/1065-estado-islâmico-x-ordenação-sacerdotal-Padre_Martin_Baani.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1065-estado-islâmico-x-ordenação-sacerdotal-Padre_Martin_Baani.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1065-estado-islâmico-x-ordenação-sacerdotal-Padre_Martin_Baani.png" width="320" height="269" data-original-width="398" data-original-height="334" /></a></div>
+![](/images/posts/1065-estado-islâmico-x-ordenação-sacerdotal-Padre_Martin_Baani.png)
+
 BAGDÁ, 28/9/016 – No último fim de semana foram ordenados 7 sacerdotes católicos no Iraque, entre eles o jovem Martin Baani (foto), de 26 anos, que em agosto de 2014 arriscou a própria vida para salvar o Santíssimo Sacramento da igreja de seu povoado e evitar que fosse profanado pelo famigerado "Estado Islâmico" (EI ou ISIS).</br>
 </br>
 Segundo informações da Fundação Pontifícia Ajuda à Igreja que Sofre (ACN), aproximadamente 500 pessoas estiveram presentes na cerimônia de ordenação, na igreja Nossa Senhora do Perpétuo Socorro, em Erbil, capital do Curdistão iraquiano e sede do governo regional curdo. A Eucaristia foi presidida por Dom Louis Raphaël Sako, Patriarca da Igreja Católica Caldeia, o qual disse que este acontecimento é “um grande sinal de esperança em um momento de grande crise”.</br>

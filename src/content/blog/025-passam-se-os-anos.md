@@ -4,7 +4,9 @@ date: 2024-03-11T19:23:00.004Z
 heroImage: "/images/posts/025-passam-se-os-anos-Jeff_20e_20Deb_2002.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/025-passam-se-os-anos-Jeff_20e_20Deb_2002.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="702" data-original-width="720" height="312" src="/images/posts/025-passam-se-os-anos-Jeff_20e_20Deb_2002.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E os tropeços, que viram e mexem, insistem em aparecer na
+![](/images/posts/025-passam-se-os-anos-Jeff_20e_20Deb_2002.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">E os tropeços, que viram e mexem, insistem em aparecer na
 vida de todos, vão cedendo aqui e ali, pela bravura das pessoas que, já que é
 assim, na base da insistência, não desistem de superar adversidades, diferenças
 e muitas barreiras que às vezes, parecem incontáveis e intermináveis e continuam
@@ -35,4 +37,7 @@ filho de Deus, como lemos em Eclesiástico, lhe será apresentado o bem e o mal,
 o que se escolher lhe será entregue. Cuidemos de não afastar nossas famílias do
 cuidado diário do Pai Eterno.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p></div>
+
+<br /> 
+

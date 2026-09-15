@@ -4,7 +4,9 @@ date: 2020-11-13T13:57:00.002Z
 heroImage: "/images/posts/346-o-propósito-da-vida-é-terminar-fim_da_vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/346-o-propósito-da-vida-é-terminar-fim_da_vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="447" src="/images/posts/346-o-propósito-da-vida-é-terminar-fim_da_vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que nos é palpável é a experiência que temos sobre a realidade
+![](/images/posts/346-o-propósito-da-vida-é-terminar-fim_da_vida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O que nos é palpável é a experiência que temos sobre a realidade
 que nos cerca. Apesar das sagradas escrituras e a tradição cristã atestarem uma
 situação diferente em termos da vindoura transformação de nossos corpos em
 corpos gloriosos para o gozo das felicidades eternas nas moradas celestes
@@ -35,4 +37,7 @@ pode ser um trampolim para o céu ou um escorregador para o inferno. Deus nos
 deixou livre para escolhermos o que fazer com essa realidade e com o tempo que
 nos foi dado e nem sabemos quanto é.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

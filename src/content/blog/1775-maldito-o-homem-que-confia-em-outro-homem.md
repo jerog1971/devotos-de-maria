@@ -4,7 +4,8 @@ date: 2016-09-21T20:29:00.001Z
 heroImage: "/images/posts/1775-maldito-o-homem-que-confia-em-outro-maldito.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1775-maldito-o-homem-que-confia-em-outro-maldito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1775-maldito-o-homem-que-confia-em-outro-maldito.png" width="320" height="282" data-original-width="234" data-original-height="206" /></a></div>
+![](/images/posts/1775-maldito-o-homem-que-confia-em-outro-maldito.png)
+
 Jeremias 17,5-8 – “Eis o que diz o Senhor: Maldito o homem que confia em outro homem, que da carne faz o seu apoio e cujo coração vive distante do Senhor! Assemelha-se ao cardo da charneca e nem percebe a chegada do bom tempo, habitando o solo calcinado do deserto, terra salobra em que ninguém reside. Bendito o homem que deposita a confiança no Senhor, e cuja esperança é o Senhor. Assemelha-se à árvore plantada perto da água, que estende as raízes para o arroio; se vier o calor, ela não temerá, e sua folhagem continuará verdejante; não a inquieta a seca de um ano, pois ela continua a produzir frutos”.</br>
 </br>
 Pois é caros leitores, pois é. Isso de se confiar em alguém todos nós sabemos que dá trabalho. E como dá. Mas é preciso uma leitura atenta das sagradas escrituras que parecem atestar que não é bom confiar no homem. Não é exatamente assim que funcionam as coisas pois se fossem a bíblia estaria nos dizendo que não devemos confiar em ninguém. Na verdade, Deus nos explica em qual grupo de pessoas não devemos confiar. Olhemos com atenção:</br>

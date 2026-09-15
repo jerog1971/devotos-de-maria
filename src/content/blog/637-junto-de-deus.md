@@ -4,7 +4,8 @@ date: 2019-11-13T15:28:00.001Z
 heroImage: "/images/posts/637-junto-de-deus-junto_de_Deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/637-junto-de-deus-junto_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/637-junto-de-deus-junto_de_Deus.png" width="320" height="230" data-original-width="910" data-original-height="654" /></a></div>
+![](/images/posts/637-junto-de-deus-junto_de_Deus.png)
+
 Certa vez, quando familiares, parentes e amigos estavam reunidos em volta do caixão, prestando suas despedidas finais ao ente falecido, em meio aos mais variados sentimentos possíveis para a ocasião, um sacerdote, ao proclamar suas palavras finais e de alento disse: “ se temos fé, alegremo-nos, este que parte está indo para junto de Deus; não existe lugar melhor para ele estar”. Pela nossa fé é nisso que cremos e por causa disso, como a certeza de tudo cabe a Deus, passamos a rezar pedindo por esta pessoa que deixa essa vida.</br>
 </br>
 Outrossim, devemos ainda em vida recordarmos que Jesus disse que estará conosco até o fim dos tempos. Naturalmente não o vemos, quem sabe muitos nem conseguem sentir sua presença, a presença das forças celestiais em suas vidas, como os anjos de Deus. Falta fé? Falta colocar-se mais em comunhão com Deus? Falta mais vida de oração? Falta mais desapego aos pecados, por menor que eles sejam? Faltam atitudes dignas dos servos de Cristo? Pior será se faltar tudo isso junto e ainda mais.</br>

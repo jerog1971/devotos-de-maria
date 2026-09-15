@@ -4,7 +4,8 @@ date: 2019-11-19T20:23:00.001Z
 heroImage: "/images/posts/1950-a-ação-ordinária-do-mal-pecado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1950-a-ação-ordinária-do-mal-pecado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1950-a-ação-ordinária-do-mal-pecado.png" width="320" height="297" data-original-width="287" data-original-height="266" /></a></div>
+![](/images/posts/1950-a-ação-ordinária-do-mal-pecado.png)
+
 Qual é? Você já parou para pensar nisso? Como o mal (contrário de bem) nos atinge? Já parou para pensar em como ele pode ser tão silencioso quanto abertamente barulhento? Pode passar por algo bom, que a bíblia diz que é doce na boca e amargo no estômago. A ação natural, normal e cotidiana consiste nas tentativas de derrubar a alma. Os muito recursos disponíveis são imensos, muito superiores ao arsenal próprio que cada ser humano dispõe. </br>
 </br>
 O que fazer?</br>

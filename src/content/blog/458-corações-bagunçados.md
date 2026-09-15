@@ -4,7 +4,9 @@ date: 2022-02-24T13:15:00.003Z
 heroImage: "/images/posts/458-corações-bagunçados-img-1044687740.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/458-corações-bagunçados-img-1044687740.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="295" data-original-width="295" height="295" src="/images/posts/458-corações-bagunçados-img-899240140.jpg" width="295" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se existe um alvo para ser o centro das atenções nesse mundo,
+![](/images/posts/458-corações-bagunçados-img-899240140.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se existe um alvo para ser o centro das atenções nesse mundo,
 tanto deste quanto de nosso cruel inimigo número um, esse alvo é o coração. E a
 resposta é muito simples, foi dada por Jesus. Ele disse que todas as coisas
 nascem no coração. Não é à toa que o diabo foca sua atenção e esforços
@@ -42,4 +44,8 @@ se causa a sua própria ruína? Se alguém se envergonhar de mim e das minhas pa
 também o Filho do Homem se envergonhará dele, quando vier na sua glória, na
 glória de seu Pai e dos santos anjos” – Lucas 9,23-26.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p><div class="separator" style="clear: both; text-align: center;"><br /></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+
+<div class="separator" style="clear: both; text-align: center;"><br /></div><br /> 

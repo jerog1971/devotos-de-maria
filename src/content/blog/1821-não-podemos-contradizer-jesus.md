@@ -4,7 +4,8 @@ date: 2015-10-21T16:23:00Z
 heroImage: "/images/posts/1821-não-podemos-contradizer-jesus-cardeal_Urosa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1821-não-podemos-contradizer-jesus-cardeal_Urosa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1821-não-podemos-contradizer-jesus-cardeal_Urosa.png" width="320" height="288" data-original-width="370" data-original-height="333" /></a></div>
+![](/images/posts/1821-não-podemos-contradizer-jesus-cardeal_Urosa.png)
+
 </br>
 Roma, 16 Out. 15 / 01:10 pm (ACI).- O Arcebispo de Caracas (Venezuela), Cardeal Jorge Urosa, encorajou os padres sinodais participantes do Sínodo sobre a Família, que acontece durante estes dias no Vaticano, a fim de que não esqueçam os ensinamentos de Jesus e da Igreja ao discutirem acerca da possibilidade de que os divorciados em nova união possam receber o Sacramento da Comunhão.</br>
 </br>

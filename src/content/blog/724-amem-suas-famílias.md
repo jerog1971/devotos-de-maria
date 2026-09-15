@@ -4,7 +4,8 @@ date: 2020-02-28T14:51:00.003Z
 heroImage: "/images/posts/724-amem-suas-famílias-catequisando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/724-amem-suas-famílias-catequisando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/724-amem-suas-famílias-catequisando.png" width="320" height="306" data-original-width="304" data-original-height="291" /></a></div>
+![](/images/posts/724-amem-suas-famílias-catequisando.png)
+
 Família é um conceito pensado, desejado e criado por Deus. Logo nas primeiras páginas das escrituras em Gênesis 2,24 já encontramos o relato dessa realidade que veio do altíssimo. Uma realidade que não foi criada como um experimento: ah (pensou Deus) vou fazer isso aqui para ver como é que fica, se funciona bem. Nada disso, aprendemos das escrituras que Deus por amor nos criou; então, por este prisma, é impossível que ele tenha querido criar os seres humanos só para ver no que ia dar.</br>
 </br>
 Lemos na bíblia que Deus foi criando as coisas e vendo que era bom, mas ao criar o homem viu que isso era muito bom! Viu que não devia o homem ficar só, criou a sua companheira; viu ainda que o casal, não uma dupla vejam bem, precisam frutificar no amor e promulgou o mandato para a criação da família. Serão uma só carne, dessa união fecunda brota na colaboração de homem e mulher uma nova vida. Assim fez Deus.</br>

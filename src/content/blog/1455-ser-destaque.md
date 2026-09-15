@@ -4,7 +4,9 @@ date: 2024-05-27T18:01:00Z
 heroImage: "/images/posts/1455-ser-destaque-ser_20destaque.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1455-ser-destaque-ser_20destaque.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/1455-ser-destaque-ser_20destaque.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas vezes a sociedade em que vivemos elege pessoas de
+![](/images/posts/1455-ser-destaque-ser_20destaque.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitas vezes a sociedade em que vivemos elege pessoas de
 destaque. De alguma forma, a atividade que se faz, o esforço que se faz, o bem
 que se procura fazer, é reconhecido por aqueles que estão envolvidos no processo.
 Todavia, mesmo que o destaque não se apresente publicamente, isso pouco
@@ -29,4 +31,7 @@ porque, Jesus nos garantiu que é necessário e fundamental que cultivemos em n�
 a única virtude que nos garantirá o céu: a perseverança; pois nos disse em Mateus
 10,22 que “aquele que perseverar até o fim, será salvo”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

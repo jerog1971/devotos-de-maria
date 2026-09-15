@@ -9,16 +9,22 @@ Todo batizado é chamado à castidade. O cristão "se vestiu de Cristo, modelo d
 A castidade há de distinguir as pessoas de acordo com seus diferentes estados de vida: umas na virgindade ou no celibato consagrado, maneira eminente de se dedicar mais facilmente a Deus com um coração indiviso; outras, da maneira como a lei moral determina, conforme forem casados ou celibatários. As pessoas casadas são convidadas a viver a castidade conjugal; os outros praticam a castidade na continência:</br>
 </br>
 <h2>Existem três formas da virtude da castidade:</h2></br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2102-as-diversas-formas-de-castidade-castidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2102-as-diversas-formas-de-castidade-castidade.png" width="200" height="132" data-original-width="247" data-original-height="163" /></a></div>
+
+![](/images/posts/2102-as-diversas-formas-de-castidade-castidade.png)
+
 </br>
 Santo Ambrósio nos recorda: A primeira forma de castidade é a dos esposos; a segunda, da viuvez; a terceira, da virgindade. Nós não louvamos uma delas excluindo as outras. Nisso a disciplina da Igreja é rica.</br>
 </br>
 Os noivos são convidados a viver a castidade na continência. Nessa provação eles verão uma descoberta do respeito mútuo, uma aprendizagem da fidelidade e da esperança de se receberem ambos da parte de Deus.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2102-as-diversas-formas-de-castidade-virgindade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2102-as-diversas-formas-de-castidade-virgindade.png" width="200" height="145" data-original-width="250" data-original-height="181" /></a></div>
+
+![](/images/posts/2102-as-diversas-formas-de-castidade-virgindade.png)
+
 Reservarão para o tempo do casamento as manifestações de ternura específicas do amor conjugal. Ajudar-se-ão mutuamente a crescer na castidade.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2102-as-diversas-formas-de-castidade-viuvez.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2102-as-diversas-formas-de-castidade-viuvez.png" width="200" height="123" data-original-width="230" data-original-height="142" /></a></div>
+
+![](/images/posts/2102-as-diversas-formas-de-castidade-viuvez.png)
+
 </br>
 Aos solteiros e às viúvas, digo que lhes <b>é bom se permanecerem assim</b>, como eu. Mas, se não podem guardar a continência, casem-se. É melhor casar do que abrasar-se. (1ª Cor 7,8-9)</br>
 </br>

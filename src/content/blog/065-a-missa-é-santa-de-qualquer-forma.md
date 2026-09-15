@@ -4,7 +4,8 @@ date: 2020-04-14T14:21:00.002Z
 heroImage: "/images/posts/065-a-missa-é-santa-de-qualquer-forma-catolicos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/065-a-missa-é-santa-de-qualquer-forma-catolicos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/065-a-missa-é-santa-de-qualquer-forma-catolicos.png" width="320" height="309" data-original-width="331" data-original-height="320" /></a></div>
+![](/images/posts/065-a-missa-é-santa-de-qualquer-forma-catolicos.png)
+
 Será que tanto faz o modo como ela é celebrada? Bastam as palavras ditas pelo sacerdote que pão e vinho se transformam no corpo e sangue de Jesus, <i>borá</i> comungar, cantar “parabéns pra você” para os aniversariantes do mês, ouvir a parafernália de avisos, mais alguma besteirinha aqui e outra ali e pronto, vamos sair correndo da igreja porque, afinal, temos mais o que fazer, obrigação concluída, rito terminado.</br>
 </br>
 Certamente não é bem assim que as coisas são. Preparar a refeição do almoço por mais que seja tarefa cotidiana se não for levada a sério os pratos preparados não serão saborosos. Comida sem sabor ou temperada demais, mal cozida ou mal frita, mal preparada ou ainda preparada sem o devido esmero em relação à higiene na hora do fazer.</br>

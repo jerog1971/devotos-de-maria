@@ -4,7 +4,11 @@ date: 2020-06-26T15:46:00.002Z
 heroImage: "/images/posts/672-são-joão-e-são-paulo-Santos_Jo_25C3_25A3o_e_Paulo.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/672-são-joão-e-são-paulo-Santos_Jo_25C3_25A3o_e_Paulo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="219" src="/images/posts/672-são-joão-e-são-paulo-img-1104556773.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">João e Paulo eram irmãos. Deram testemunho de sua fé durante
+<br />
+
+![](/images/posts/672-são-joão-e-são-paulo-img-1104556773.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">João e Paulo eram irmãos. Deram testemunho de sua fé durante
 a perseguição de Juliano, o apóstata, em junho de 362. Eram ricos, e tudo
 indica que haviam sido oficiais da guarda imperial. Renunciaram aos cargos e se
 recolheram em sua propriedade no Monte Célio, dedicando-se à oração e ao

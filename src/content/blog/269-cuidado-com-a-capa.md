@@ -4,7 +4,9 @@ date: 2023-10-10T19:28:00.005Z
 heroImage: "/images/posts/269-cuidado-com-a-capa-Cuidado_20com_20a_20capa.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/269-cuidado-com-a-capa-Cuidado_20com_20a_20capa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="593" data-original-width="598" height="317" src="/images/posts/269-cuidado-com-a-capa-Cuidado_20com_20a_20capa.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sempre, vez por outra, falamos por aqui que as ofertas do
+![](/images/posts/269-cuidado-com-a-capa-Cuidado_20com_20a_20capa.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sempre, vez por outra, falamos por aqui que as ofertas do
 mal vêm representadas, disfarçadas em pratos saborosos, deliciosos. Claro, elas
 não podem dar as caras explicitamente, pois afastariam os pobres pecadores
 muito facilmente. Não é assim nos documentários que vemos sobre animais? Os
@@ -35,4 +37,7 @@ sabe, nos interessarmos por ela e em nossa curiosidade, abrirmos esse livro,
 que será o livro de nossa condenação, por livremente escolhermos deixar Deus de
 lado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

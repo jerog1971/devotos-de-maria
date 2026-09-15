@@ -4,7 +4,8 @@ date: 2018-11-27T19:02:00Z
 heroImage: "/images/posts/1643-gostos-e-compromissos-1543068580618.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1643-gostos-e-compromissos-1543068580618.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1643-gostos-e-compromissos-1543068580618.jpg" width="320" height="211" data-original-width="512" data-original-height="338" /></a></div>
+![](/images/posts/1643-gostos-e-compromissos-1543068580618.jpg)
+
 Há quem diga que vida de solteiro e vida de casado não se coadunam enquanto características próprias. De fato, parece que a voz do povo tem uma direção acertada nesta questão. Tanto é que a palavra que mais se houve dizer, relacionada ao êxito no matrimônio, é renúncia, tolerância e perdão.</br>
 </br>
 Esforço, Compromisso, Dedicação e Seriedade devem fazer parte de uma conduta de quem passou a não viver mais sob o título de solteiro. Podemos acrescentar também o equilíbrio, que traz para dentro do lar a moderação, ponderação e afasta os exageros. Sem dúvida qualquer pessoa pode atestar o grau de mudança que suas vidas recebem quando mudam da água para o vinho (se casam); nem é preciso algum especialista para falar sobre isso porque cada um acaba por se tornar especialista no assunto.</br>

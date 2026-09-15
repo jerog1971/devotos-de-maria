@@ -4,7 +4,9 @@ date: 2021-04-15T16:24:00.001Z
 heroImage: "/images/posts/067-posso-ser-feliz-no-meu-lugar-feliz_no_meu_lugar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/067-posso-ser-feliz-no-meu-lugar-feliz_no_meu_lugar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="240" data-original-width="248" src="/images/posts/067-posso-ser-feliz-no-meu-lugar-feliz_no_meu_lugar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O mundo prega um leque de opções para que a felicidade de
+![](/images/posts/067-posso-ser-feliz-no-meu-lugar-feliz_no_meu_lugar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O mundo prega um leque de opções para que a felicidade de
 cada um seja alcançada. O problema é que as pessoas não filtram a avalanche de
 ofertas que inundam mentes e corações e terminam por escolherem, entre erros e
 acertos, algumas coisas que querem ao invés de algumas coisas que devem.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -36,4 +38,7 @@ lugar. A vida do outro não lhe pertence, não a cobice (décimo mandamento da l
 de Deus). Você pode ser feliz em seu lugar com tudo que Deus tem, faça a sua
 escolha.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

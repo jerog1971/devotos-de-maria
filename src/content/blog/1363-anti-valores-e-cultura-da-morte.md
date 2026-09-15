@@ -4,7 +4,9 @@ date: 2021-11-29T16:12:00.003Z
 heroImage: "/images/posts/1363-anti-valores-e-cultura-da-morte-anti_valores.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1363-anti-valores-e-cultura-da-morte-anti_valores.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="421" height="247" src="/images/posts/1363-anti-valores-e-cultura-da-morte-anti_valores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Assim chamavam o papa Bento XVI e o papa João Paulo II a respeito
+![](/images/posts/1363-anti-valores-e-cultura-da-morte-anti_valores.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Assim chamavam o papa Bento XVI e o papa João Paulo II a respeito
 da cultura que o mundo vai gradativamente modificando ao longo da história da
 humanidade; tão aos poucos que as pessoas vão se acostumando com as mudanças e
 por conta disso vão esboçando pouca ou nenhuma reação frente às abominações que
@@ -44,4 +46,7 @@ lei do Senhor dos exércitos, e desprezaram a palavra do Santo de Israel”.<o:p
 que faz, o lado que quer para si e o que faz com a verdade divina que é pura porque
 vem de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

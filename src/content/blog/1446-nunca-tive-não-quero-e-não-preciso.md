@@ -4,7 +4,9 @@ date: 2021-05-10T16:14:00.003Z
 heroImage: "/images/posts/1446-nunca-tive-não-quero-e-não-preciso-n_25C3_25A3o_preciso.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1446-nunca-tive-não-quero-e-não-preciso-n_25C3_25A3o_preciso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="253" data-original-width="276" src="/images/posts/1446-nunca-tive-não-quero-e-não-preciso-n_25C3_25A3o_preciso.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pedi, pedi e pedi a Deus por um auxílio, uma ajuda: nunca
+![](/images/posts/1446-nunca-tive-não-quero-e-não-preciso-n_25C3_25A3o_preciso.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pedi, pedi e pedi a Deus por um auxílio, uma ajuda: nunca
 tive. Esse Deus que pregam por aí que me cobra muito sofrimento e me oferece
 muitas tribulações como paga para a entrada em seu reino, não quero. A vida já
 é tão difícil e a luta diária pelo pão de cada dia já é muito penosa, porque
@@ -37,4 +39,7 @@ um amor cheio de exigências – lembrando que dor é filha do amor – precisa 
 consciência de que o caminho é um e o remédio para evitar a condenação eterna
 (para os que creem) também: chama-se Jesus Cristo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2019-06-27T16:03:00.002Z
 heroImage: "/images/posts/386-papa-francisco-não-acredita-na-multi-Francisco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/386-papa-francisco-não-acredita-na-multi-Francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/386-papa-francisco-não-acredita-na-multi-Francisco.png" width="320" height="243" data-original-width="507" data-original-height="385" /></a></div>
+![](/images/posts/386-papa-francisco-não-acredita-na-multi-Francisco.png)
+
 Caros leitores, essas é mais uma das maluquices que Francisco vomita no seio da comunidade católica. Muitos talvez não perceberam, mas na homilia da santa missa na celebração de Corpus Christi desse ano o pontífice fez mais uma declaração perturbante para os atentos ouvidos católicos.</br>
 </br>
 Ele disse que o evangelho de São Lucas 9,16 não trata da multiplicação dos pães como tal. Segundo o papa, que mais uma vez dá ares não católicos e procura falar dos textos bíblicos com viés de interpretação própria, este trecho das escrituras coloca em evidência aspectos como partilhar e distribuir, embora facilmente comprovemos que sobre esse conceito não existe menção.</br>

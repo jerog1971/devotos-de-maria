@@ -4,7 +4,8 @@ date: 2017-11-24T16:50:00Z
 heroImage: "/images/posts/1925-católico-ignorante-futuro-protestan-img-292155990.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1925-católico-ignorante-futuro-protestan-img-292155990.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1925-católico-ignorante-futuro-protestan-img-1266128316.png" width="320" height="241" data-original-width="397" data-original-height="299" /></a></div>
+![](/images/posts/1925-católico-ignorante-futuro-protestan-img-1266128316.png)
+
 Sem dúvida alguma esse trocadilho que se ouve por muitas vielas da vida, retrata com grande acerto a consequência do católico morno, do católico só de fachada, do católico não praticante, do católico que é católico porque foi batizado na igreja de Nosso Senhor Jesus Cristo (Mateus 16,18) e, como o batismo é indelével, não podendo ser desfeito, morrerá católico, embora sua falta de obra (Romanos 2,5-6), se displicente for para com o talento recebido do pai (Mateus 25,14-31), possa lhe coroar com o título de maldito (Mateus 25,41).</br>
 </br>
 De fato, existe também o outro lado da moeda. Os evangélicos protestantes, que por serem ignorantes em relação ao assunto “religião e Jesus Cristo”, não compreendem a fundo os motivos causadores que originou a revolução (pois reforma é o que não foi) protestante. Precisam ser maus protestantes evangélicos para não terminarem se tornando bons católicos. Quem se enverada de forma sincera e imparcial a aprofundar seus conhecimentos nos assuntos celestes em toda a história da humanidade, irá terminando, assim como lemos em Atos dos Apóstolos, querendo ser batizado e toda a sua família (Atos 16,33) e fazer parte, como membros do corpo de Cristo, de sua igreja.</br>

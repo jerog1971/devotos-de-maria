@@ -4,7 +4,8 @@ date: 2016-02-02T15:30:00.002Z
 heroImage: "/images/posts/715-testemunho-de-um-ex-protestante-convertido.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/715-testemunho-de-um-ex-protestante-convertido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/715-testemunho-de-um-ex-protestante-convertido.png" width="315" height="320" data-original-width="448" data-original-height="455" /></a></div>
+![](/images/posts/715-testemunho-de-um-ex-protestante-convertido.png)
+
 </br>
 Olá, meus amigos e minhas amigas, venho através deste meio de comunicação expressar minha alegria e gratidão em retornar à Casa de Deus, a Santa e Única Igreja Católica Apostólica Romana. Nasci em lar católico, na minha cidade natal de Aiuaba-Ceará. Durante minha infância e adolescência cresci um pouco desligado das coisas da fé, limitando-me a apenas algumas poucas missas em ocasiões especiais como Natal, Festas da Padroeira, dentre outras. Conheci o protestantismo através das pregações de amigos e amigas a quem estimo e considero com amor fraternal, pois os considero irmãos e irmãs em Cristo, dado que a Igreja Católica sempre os considerou e considera como “irmãos separados”.</br>
 </br>

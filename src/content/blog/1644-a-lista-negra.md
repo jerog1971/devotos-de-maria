@@ -4,7 +4,8 @@ date: 2017-07-11T12:18:00.001Z
 heroImage: "/images/posts/1644-a-lista-negra-lista_negra.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1644-a-lista-negra-lista_negra.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="373" height="314" src="/images/posts/1644-a-lista-negra-lista_negra.png" width="320" /></a></div>
+![](/images/posts/1644-a-lista-negra-lista_negra.png)
+
 Ainda me lembro quando criança de que na escola, os alunos que aprontavam alguma coisa que fugia das regras disciplinares, eram levados pela professora ou pelas cuidadoras de pátio até a diretora. Ela tinha uma conversa com o rebelde ou a rebelde e então seu nome era inscrito num livro que tinha uma capa dura na cor preta. Era um controle da escola para acompanhar incidências e reincidências comportamentais das crianças que não caminhavam segundo as normas da instituição e das boas maneiras. Penso que o livro “pegou” esse apelido por ser de capa na cor negra. Quem tinha seu nome nessa lista passava automaticamente a ter sua reputação manchada no ambiente escolar. O boca a boca tratava de divulgar o acontecido e essa marca acompanharia o infrator por toda sua vida estudantil pelo menos naquela instituição. “Fulano foi para a lista negra da diretora”.
 
 Feito esse pequeno apanhado histórico fato é, de que o conceito é muito bem aceito em nossa sociedade, muito bem utilizado e se aplica com facilidade em várias áreas de nossa vida, material e inclusive espiritual. Entendemos por lista negra uma lista onde encontramos itens que são, de alguma forma, contrários a tudo que é bom ou apresentam características que não condizem com o que é certo. Podem ser de diversos tipos. Listas de coisas que não devemos comer ou beber porque nos fazem mal; listas de afazeres que não devemos fazer porque são prejudiciais ao nosso bem-estar social e por aí segue adiante. Claro que o conceito também aplicamos de forma mais amena. Criamos uma lista das coisas que não gostamos de fazer; criamos uma lista dos tipos de músicas que não gostamos de ouvir ou uma lista do tipo de programas televisivos que não gostamos.
@@ -16,6 +17,5 @@ Certo é, no entanto, que Deus odeia muitas coisas e atitudes do pecador, mas n�
 Artigo relacionado:
 
 <a href="https://devotos-de-maria.blogspot.com.br/2017/05/as-sete-coisas-que-deus-odeia.html" target="_blank">As sete coisas que Deus odeia</a>
-
 
 fonte: Jefferson Roger

@@ -4,7 +4,8 @@ date: 2016-08-31T14:42:00Z
 heroImage: "/images/posts/424-meu-casamento-vai-mal-será-idosos2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/424-meu-casamento-vai-mal-será-idosos2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/424-meu-casamento-vai-mal-será-idosos2.png" width="317" height="320" data-original-width="491" data-original-height="496" /></a></div>
+![](/images/posts/424-meu-casamento-vai-mal-será-idosos2.png)
+
 Para muitas pessoas, quando Deus disse que não era bom que o homem vivesse só e, portanto, iria criar uma companheira para ele (Gênesis 2,18), esta questão soa um tanto desagradável. Parece que Deus esqueceu de avisar para a companheira do homem, que o homem é um ser danado de complicado e esqueceu de avisar a mulher que ela tinha que ser uma “companheira agradável” e não uma “sarna” que não para de tumultuar a vida do homem.</br>
 </br>
 Porém, muito na contramão do que as coisas parecem, disse Jesus, “no princípio não era assim” (Mateus 19,8). Antes do pecado original o ser humano vivia em completa harmonia com seu criador, que descia todas as tardes para passear no jardim com suas criaturas (Gênesis 3,8). Mas, os anjos de Deus, cuja tradição da igreja nos ensina que foram criados para servir ao homem entraram nesta equação divina a contragosto motivados pelo anjo caído Lúcifer. Ele, que se opôs a este desígnio divino, pois como criaturas superiores ao homem, não queria aceitar a vontade de Deus, rebelou-se, revoltou-se e desobedeceu diretamente ao Altíssimo.

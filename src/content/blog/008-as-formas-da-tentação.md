@@ -4,7 +4,8 @@ date: 2018-10-09T15:21:00Z
 heroImage: "/images/posts/008-as-formas-da-tentação-tenta_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/008-as-formas-da-tentação-tenta_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/008-as-formas-da-tentação-tenta_25C3_25A7_25C3_25A3o.png" width="320" height="295" data-original-width="339" data-original-height="313" /></a></div>
+![](/images/posts/008-as-formas-da-tentação-tenta_25C3_25A7_25C3_25A3o.png)
+
 Tentações existem, todo mundo sabe disso; alguns erroneamente a banalizam, assim como banalizam os erros graves (denominados pecados) e os erros menores (pecados veniais). Foi-se o tempo em que não “dar bola” para os pecadinhos não fazia diferença. É a história da mentirinha boa ou boba. Como pode uma mentira ser boa? Não importa seu tamanho, mentira é o oposto da verdade, faz parte da relação bem e mal. A verdade é como a luz, resplandece. A mentira se esconde por trás de tudo para se disfarçar.</br>
 </br>
 Assim como Jesus disse que existem pecados maiores e menores, também os erros possuem dimensões. Alguns são cumulativos (capitais), como as doenças espirituais que somam pecado sobre pecado, escravizam a pessoa através do vício onde seu grau de entrega trará, cedo ou tarde, a ruína da alma.</br>

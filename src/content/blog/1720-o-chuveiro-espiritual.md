@@ -4,10 +4,11 @@ date: 2025-04-09T20:53:00.002Z
 heroImage: "/images/posts/1720-o-chuveiro-espiritual-Chuveiro_20espiritual.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1720-o-chuveiro-espiritual-Chuveiro_20espiritual.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="506" height="276" src="/images/posts/1720-o-chuveiro-espiritual-Chuveiro_20espiritual.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/1720-o-chuveiro-espiritual-Chuveiro_20espiritual.png)
 
+<br /> 
 
-<p></p><p class="MsoNormal">Nosso corpo precisa de higiene. Sempre e de forma constante
+<p class="MsoNormal">Nosso corpo precisa de higiene. Sempre e de forma constante
 estamos a cuidar dele, da pele, cabelo, dentes, saúde dos ossos, dos olhos, do
 organismo em geral. Sempre estamos a tomar banho para nos mantermos limpos,
 asseados e saudáveis. Afinal, se não o fizermos, os problemas e as doenças
@@ -38,5 +39,4 @@ com ele, não trará alívio nenhum para a alma, tantas vezes avisada quais seri
 as consequências de suas escolhas.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

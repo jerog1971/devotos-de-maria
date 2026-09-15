@@ -4,7 +4,9 @@ date: 2021-09-10T01:02:00.005Z
 heroImage: "/images/posts/837-casamentos-que-funcionam-casamentos_que_funcionam.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/837-casamentos-que-funcionam-casamentos_que_funcionam.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="259" height="291" src="/images/posts/837-casamentos-que-funcionam-casamentos_que_funcionam.png" width="259" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, em tempos atuais, e quem sabe não tão atuais
+![](/images/posts/837-casamentos-que-funcionam-casamentos_que_funcionam.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, em tempos atuais, e quem sabe não tão atuais
 assim, quando encontramos algum conhecido na rua, que por muito tempo não o
 víamos, aquela conversa padronizada sobre como andam as coisas inevitavelmente
 acontece. Dentre as várias perguntas certamente uma das que fazem parte do elenco
@@ -33,4 +35,7 @@ por diante e o resultado vai na contramão do “é melhor prevenir do que remed
 Casamentos possuem muitas engrenagens que devem estar alinhadas para que ele funcione
 bem, para que dê certo. A principal delas se chama Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

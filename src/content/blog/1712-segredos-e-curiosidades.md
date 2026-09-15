@@ -4,7 +4,9 @@ date: 2021-12-10T15:16:00.001Z
 heroImage: "/images/posts/1712-segredos-e-curiosidades-img-1533095655.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1712-segredos-e-curiosidades-img-1533095655.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="503" data-original-width="482" height="320" src="/images/posts/1712-segredos-e-curiosidades-img-1533093792.jpg" width="307" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia, em deuteronômio, que o que nos é necessário
+![](/images/posts/1712-segredos-e-curiosidades-img-1533093792.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lemos na bíblia, em deuteronômio, que o que nos é necessário
 saber, nos foi revelado por Deus. Fora isso, o altíssimo, oculta de nós, em
 segredo, o que não nos cabe saber, como por exemplo, o dia de nossa morte. E aliás,
 diga-se de passagem, por um motivo muito importante para nossas vidas, pois, se
@@ -37,4 +39,7 @@ secretamente (aos olhos alheios, mas não aos olhos de Deus).<o:p></o:p></p>
 teme a Deus e observa seus preceitos, é este o dever de todo homem. Deus fará
 prestar contas de tudo o que está oculto, todo ato, seja ele bom ou mau”.<o:p></o:p></p><p class="MsoNormal">Artigo relacionado:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2016/04/o-perigo-da-curiosidade.html" target="_blank">O perigo da curiosidade</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

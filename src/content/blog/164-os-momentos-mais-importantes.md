@@ -4,7 +4,9 @@ date: 2015-09-17T12:49:00.001Z
 heroImage: "/images/posts/164-os-momentos-mais-importantes-agora.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/164-os-momentos-mais-importantes-agora.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="293" data-original-width="376" height="249" src="/images/posts/164-os-momentos-mais-importantes-agora.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
+![](/images/posts/164-os-momentos-mais-importantes-agora.png)
+
+<div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
 
 Meu povo é inclinado a separar-se de Mim, convidam-no a subir para o Altíssimo mas ninguém procura elevar-se; nos ensina uma das passagens do livro de Oséias 11,7. E tomo esta passagem para refletirmos a respeito da conduta que a humanidade insiste em seguir frente às exortações feitas pelos céus durante toda a história do homem.
 
@@ -22,11 +24,11 @@ Tudo verdade, mas façamos uma analogia para esclarecermos o assunto. Nós não 
 
 Mudou a linha de pensamento não é mesmo? Pensando por este lado percebemos que existem coisas que não podem ser deixadas de lado e nem adiadas. Se assim o é com relação a higiene do corpo, quem dirá com a higiene da alma? Façamos portanto hoje o que deixaríamos para amanhã e já deveríamos ter feito ontem.
 
-Então este é um dos momentos mais importantes: <b>O Agora</b>.&nbsp;</div><div><br /></div><div>Continuando nossa reflexão pensemos na atitude das pessoas que estão sempre escravas do cotidiano de suas vidas que muitas vezes são agravadas pelas imposições do mundo. E assim, vivendo o frenetismo do corre corre vão deixando de lado a realidade dos seus novíssimos.
+Então este é um dos momentos mais importantes: <b>O Agora</b>. </div><div><br /></div><div>Continuando nossa reflexão pensemos na atitude das pessoas que estão sempre escravas do cotidiano de suas vidas que muitas vezes são agravadas pelas imposições do mundo. E assim, vivendo o frenetismo do corre corre vão deixando de lado a realidade dos seus novíssimos.
 
 Eclesiástico 7,40 - pensa constantemente em seus novíssimos e jamais pecareis. Relembrando que os novíssimos são as últimas realidades de nossas vidas: morte, juízo particular, inferno, purgatório e/ou céu.
 
-Neste clima de deixemos para depois, a hora da morte, oculta de nosso conhecimento, hora esta tão importante, pois é onde nosso tempo do agora termina, o prazo para as boas obras acaba. O tempo para o arrependimento e emenda de vida se vai. A oportunidade de conversão e retorno ao caminho da porta estreita se encerra.&nbsp;</div><div><br /></div><div>Diante do justo juiz, sua "conta" está apresentada e todo o seu "histórico" da vida terrena. Sem segunda chance ou oportunidade de argumentar, pedir desculpas, querer convencer o Verbo Encarnado de que a verdade que vale é a sua e não a Dele.
+Neste clima de deixemos para depois, a hora da morte, oculta de nosso conhecimento, hora esta tão importante, pois é onde nosso tempo do agora termina, o prazo para as boas obras acaba. O tempo para o arrependimento e emenda de vida se vai. A oportunidade de conversão e retorno ao caminho da porta estreita se encerra. </div><div><br /></div><div>Diante do justo juiz, sua "conta" está apresentada e todo o seu "histórico" da vida terrena. Sem segunda chance ou oportunidade de argumentar, pedir desculpas, querer convencer o Verbo Encarnado de que a verdade que vale é a sua e não a Dele.
 
 Deste ponto em diante, em seu agora o que te resta é a tua vida terrena, transformada em passado. É a "conta" sobre a mesa do justo juiz. É a hora da sentença. E dentro do seu passado, seu último momento vivido para o qual também nem importou-se foi: a hora da sua morte.
 

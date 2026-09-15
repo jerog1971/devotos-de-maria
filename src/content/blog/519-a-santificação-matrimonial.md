@@ -4,7 +4,8 @@ date: 2017-01-02T19:51:00.003Z
 heroImage: "/images/posts/519-a-santificação-matrimonial-casamento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/519-a-santificação-matrimonial-casamento.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="320" data-original-width="320" height="320" src="/images/posts/519-a-santificação-matrimonial-casamento.png" width="320" /></a></div>
+![](/images/posts/519-a-santificação-matrimonial-casamento.png)
+
 O ano era 1999, o dia era 02 de janeiro, um sábado. O noivo faltando meia hora para a celebração matrimonial ainda tomava banho em seu apartamento, no qual morava sozinho. Muito tranquilamente o homem que sempre honrava (e ainda honra) compromissos com horários marcados estava ainda a lavar os cabelos mas com a cabeça nos minutos que antecediam a marca das 19:00 horas. Desligou o chuveiro, enxugou-se, fez aquela higiene dos bons cheiros pelo corpo e vestiu o seu terno. Dali onde morava, seu carro marca wolkswagen, modelo Apollo levaria poucos minutos até a igreja antiga do bairro do Portão. E de fato levou mesmo, quando eram 18:55h já estava eu de pé em frente a porta da igreja aguardando o término de uma celebração anterior que teve início às 18:00. Evidentemente todos os convidados estavam ali fora também. A noiva se desmanchava em nervosismo porque até então, faltando 5 minutos para às 19:00, nada do noivo chegar.
 
 Sem necessidade, o noivo é um rapaz pontual. Se caso alguma coisa desse errado ele, como bom corredor, poderia continuar o caminho até a igreja correndo e com muita facilidade porque a distância era muito pequena para seus padrões. Pois bem, deu-se a cerimônia, com atrasos e tudo o mais. Meia noite e sete minutos do dia seguinte, o casal de nubentes, agora marido e mulher seguiram rumo ao seu novo lar, aquele apartamento em que o noivo morava sozinho.
@@ -32,6 +33,5 @@ Artigos relacionados:
 <a href="https://www.devotos-de-maria.com.br/2016/09/quem-ama-nao-trai.html" target="_blank">Quem ama não trai</a>
 
 <a href="https://www.devotos-de-maria.com.br/2016/08/casou-e-agora.html" target="_blank">Casou? ... e agora?</a>
-
 
 fonte: Jefferson Roger

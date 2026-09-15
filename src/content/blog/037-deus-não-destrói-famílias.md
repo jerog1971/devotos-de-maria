@@ -4,7 +4,8 @@ date: 2018-07-29T18:20:00Z
 heroImage: "/images/posts/037-deus-não-destrói-famílias-fam_25C3_25ADlia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/037-deus-não-destrói-famílias-fam_25C3_25ADlia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/037-deus-não-destrói-famílias-fam_25C3_25ADlia.png" width="320" height="200" data-original-width="800" data-original-height="500" /></a></div>
+![](/images/posts/037-deus-não-destrói-famílias-fam_25C3_25ADlia.png)
+
 Certa vez uma mulher cristã de uma denominação não católica disse que ao procurar o pastor da igreja a qual ela fazia parte pedindo sua direção espiritual, após explicar-lhe o motivo seguiu-se o desfecho da conversa:</br>
 </br>
 Mulher: Pastor, preciso de ajuda, descobri que meu casamento corre perigo porque meu marido está me traindo com outra mulher já há algum tempo.</br>

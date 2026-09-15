@@ -4,7 +4,9 @@ date: 2022-09-11T00:50:00Z
 heroImage: "/images/posts/959-gritos-mortais-gritos_20mortais.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/959-gritos-mortais-gritos_20mortais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="202" data-original-width="214" height="202" src="/images/posts/959-gritos-mortais-gritos_20mortais.png" width="214" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos durante nossa caminhada que a vida é muito cheia
+![](/images/posts/959-gritos-mortais-gritos_20mortais.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Aprendemos durante nossa caminhada que a vida é muito cheia
 de temperos. Alguns gostamos e outros não. Não sabemos qual é a dose que cada
 pessoa recebe; isso é com Deus e não nos cabe a esse respeito tomarmos qualquer
 conhecimento, tampouco julgar Deus por conta da distribuição que ele faz das
@@ -28,4 +30,7 @@ Cristo], disse: Eis que eu renovo todas as coisas” – Apocalipse 21,3-5.<o:p>
 “grito mortal da segunda morte, a morte no inferno, onde “haverá choro e ranger
 de dentes” – Mateus 8,12.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

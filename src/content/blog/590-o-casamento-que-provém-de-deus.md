@@ -4,7 +4,9 @@ date: 2023-02-22T13:57:00.003Z
 heroImage: "/images/posts/590-o-casamento-que-provém-de-deus-img-1050516946.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/590-o-casamento-que-provém-de-deus-img-1050516946.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="523" data-original-width="621" height="270" src="/images/posts/590-o-casamento-que-provém-de-deus-img-702074902.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em muitos lugares ao redor do mundo, a luta contra as
+![](/images/posts/590-o-casamento-que-provém-de-deus-img-702074902.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Em muitos lugares ao redor do mundo, a luta contra as
 verdades contrárias a Deus que tentam tomar o lugar daquilo que provém dos céus,
 tem sido incessante, embora, este tipo de atitude – que está espalhada através
 dos católicos pelo mundo – não é material de interesse para ser divulgado. Somente
@@ -49,4 +51,7 @@ da agenda homossexual em público. E quando os homens bons não fazem nada, o ma
 avança. Vale recordar as palavras de Nossa Senhora: “No final, meu Imaculado
 Coração triunfará!”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

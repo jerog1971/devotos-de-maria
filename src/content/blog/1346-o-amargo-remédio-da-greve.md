@@ -4,7 +4,8 @@ date: 2015-08-01T00:45:00.003Z
 heroImage: "/images/posts/1346-o-amargo-remédio-da-greve-greve_urbs2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1346-o-amargo-remédio-da-greve-greve_urbs2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1346-o-amargo-remédio-da-greve-greve_urbs2.png" width="232" height="320" data-original-width="230" data-original-height="317" /></a></div>
+![](/images/posts/1346-o-amargo-remédio-da-greve-greve_urbs2.png)
+
 As pessoas não costumam ir ao médico se estão sadias, porém, se estão doentes e esta doença "toma" proporção considerada grave, muitas vezes é chegada a hora do "remédio". E haja vista, muito bem sabemos desde nossa tenra infância, o quanto são amargos os remédios. Ainda pequenos não conseguimos compreender porque quando estamos doentes precisamos tomar uma "coisa ruim" e é esta coisa que irá nos curar? Ou ainda como entender, quando pequenos, que uma picada de uma injeção causará uma dor que é para nosso bem? Tentemos explicar essa agulhada para uma criança com pouca idade, muitas mães sabem como é isso.</br>
 </br>
 Pois bem, este artigo trás à tona, sob a ótica da fé os ingredientes deste amargo remédio que nossa sociedade tem ingerido a cada dia que passa, mais vezes. Chegam até em alguns casos, em ser um remédio controlado ou ainda, algumas vezes de uso contínuo.</br>
@@ -18,7 +19,9 @@ Como nos recorda São Tomás de Aquino: <i>"a avareza é o amor exagerado pelo p
 E foi o apóstolo Paulo que de forma incisiva compreendeu a verdadeira natureza "religiosa" da avareza, quando escreveu aos Colossenses (cap 3,5): "Mortificai os vossos membros, isto é, o que em vós pertence à terra ... especialmente a <b>ganância</b>, que é uma idolatria". E para que não nos reste dúvida, ele reafirma aos Efésios (cap 5,5): "o ganancioso é um idólatra".</br>
 E é Jesus quem nos coloca uma alternativa radical sobre a questão: "Ninguém pode servir a dois senhores. Pois vai odiar a um e amar o outro, ou se apegar a um e desprezar o outro. Não podeis servir a Deus e ao Dinheiro" (Lucas 16,13;Mateus 6,24).</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1346-o-amargo-remédio-da-greve-greve_urbs.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1346-o-amargo-remédio-da-greve-greve_urbs.png" width="200" height="114" data-original-width="298" data-original-height="170" /></a></div>
+
+![](/images/posts/1346-o-amargo-remédio-da-greve-greve_urbs.png)
+
 </br>
 <b>ACORDAR O QUE É JUSTO (Mateus 20,4)</b></br>
 </br>

@@ -4,7 +4,8 @@ date: 2019-06-10T18:45:00.002Z
 heroImage: "/images/posts/223-nossas-tristezas-denunciam-nossas-pr-tristeza.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/223-nossas-tristezas-denunciam-nossas-pr-tristeza.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/223-nossas-tristezas-denunciam-nossas-pr-tristeza.png" width="320" height="283" data-original-width="559" data-original-height="494" /></a></div>
+![](/images/posts/223-nossas-tristezas-denunciam-nossas-pr-tristeza.png)
+
 Já parou para pensar, caro leitor, por que ficamos tristes? A tristeza, sem dúvida alguma representa o termômetro de nossas prioridades. Ela sinaliza toda vez que algo acontece que contraria nossas vontades e desejos. Porém, não só isso, ela silenciosamente pode ir somatizando dentro de nós e eclodir como uma doença, física ou psicológica. Alguém já ouviu falar em depressão? Pois bem, creio que todos começaram a ligar os pontinhos nessa reflexão, vamos adiante.</br>
 </br>
 O embotamento da mente humana, permitido por cada um por causa de sua curiosidade em relação as ofertas do mundo e do mal, transformam o ser humano num indivíduo que não consegue mais, como o cavaleiro que em rédeas em pulso comanda a direção do cavalo, ordenar os caminhos que precisa percorrer em vida. A dignidade humana facilmente se torna um marionete que se deixa conduzir pelo que o mundo diz que precisa ser feito, comprado, vivido e aproveitado.</br>

@@ -4,7 +4,11 @@ date: 2020-05-17T15:38:00.002Z
 heroImage: "/images/posts/1893-padres-que-desobedecem-mandamentos-img-1252373052.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1893-padres-que-desobedecem-mandamentos-img-1252373052.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="261" src="/images/posts/1893-padres-que-desobedecem-mandamentos-img-1252373052.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Amar a Deus sobre todas as coisas significa, como diz João
+<br />
+
+![](/images/posts/1893-padres-que-desobedecem-mandamentos-img-1252373052.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Amar a Deus sobre todas as coisas significa, como diz João
 Batista, diminuirmos para que o Cristo apareça. É o pleno exercício da
 humildade. Um padre tem que ficar nos bastidores, é o ministro de Cristo, o que
 importa é Jesus. Louvável são os padres que não se exaltam, que não transformam
@@ -57,6 +61,6 @@ Graças a Deus não é unânime, muitas pessoas não se bandeiam para longe de
 Jesus, são fiéis aos mandamentos dados por Deus. Conhece, caro leitor, ou
 convive com algum padre assim, pois é, eu sim.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

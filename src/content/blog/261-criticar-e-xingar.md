@@ -4,7 +4,9 @@ date: 2021-06-28T19:47:00.001Z
 heroImage: "/images/posts/261-criticar-e-xingar-criticar_e_xingar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/261-criticar-e-xingar-criticar_e_xingar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="616" data-original-width="564" height="320" src="/images/posts/261-criticar-e-xingar-criticar_e_xingar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ao que se sabe, podemos presumir que ninguém neste mundo
+![](/images/posts/261-criticar-e-xingar-criticar_e_xingar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ao que se sabe, podemos presumir que ninguém neste mundo
 está isento de ser criticado e xingado, ofendido. O ser humano utiliza essas
 duas ações como arma de combate para os mais variados motivos. Elas são empunhadas
 em conjunto ou conforme a necessidade de quem as coloca em ação. Criticar
@@ -49,4 +51,7 @@ de cima, é primeiramente pura, depois pacífica, condescendente, conciliadora,
 cheia de misericórdia e de bons frutos, sem parcialidade, nem fingimento. O
 fruto da justiça semeia-se na paz para aqueles que praticam a paz”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

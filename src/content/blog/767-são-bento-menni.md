@@ -4,7 +4,11 @@ date: 2020-06-23T14:43:00.002Z
 heroImage: "/images/posts/767-são-bento-menni-S_25C3_25A3o_Bento_Menni.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/767-são-bento-menni-S_25C3_25A3o_Bento_Menni.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="312" data-original-width="323" src="/images/posts/767-são-bento-menni-S_25C3_25A3o_Bento_Menni.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É o fundador da Congregação das Irmãs Hospitaleiras do
+<br />
+
+![](/images/posts/767-são-bento-menni-S_25C3_25A3o_Bento_Menni.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É o fundador da Congregação das Irmãs Hospitaleiras do
 Sagrado Coração de Jesus. Nasceu em Milão, Itália, em 1841, mas passou a sua
 vida na Espanha. Aos 19 anos, Bento Menni ingressou na Ordem de São José de
 Deus. Ordenado sacerdote em 1866, partiu para a Espanha.</p>

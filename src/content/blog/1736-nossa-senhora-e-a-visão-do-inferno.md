@@ -4,7 +4,9 @@ date: 2022-07-13T15:03:00.003Z
 heroImage: "/images/posts/1736-nossa-senhora-e-a-visão-do-inferno-img-766984487.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1736-nossa-senhora-e-a-visão-do-inferno-img-766984487.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="518" data-original-width="546" height="304" src="/images/posts/1736-nossa-senhora-e-a-visão-do-inferno-img-1249197805.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ainda bem que Nossa Senhora não estava preocupada em ser
+![](/images/posts/1736-nossa-senhora-e-a-visão-do-inferno-img-1249197805.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ainda bem que Nossa Senhora não estava preocupada em ser
 politicamente correta quando apareceu para as três crianças pastoras neste dia,
 há 105 anos.‎ ‎Por que? Porque ela ama seus filhos como a melhor de todas as
 mães.‎ ‎E amor significa fazer o que é melhor, mesmo que seja difícil.‎ ‎E
@@ -45,4 +47,7 @@ pela conversão de toda a humanidade, para que possamos testemunhar seu glorioso
 triunfo (o de Nossa Senhora) sobre Satanás e todos os espíritos malignos que
 vagam pelo mundo em busca da ruína das almas.‎<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

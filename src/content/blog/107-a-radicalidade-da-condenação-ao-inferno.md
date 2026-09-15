@@ -4,7 +4,9 @@ date: 2022-12-21T18:34:00.003Z
 heroImage: "/images/posts/107-a-radicalidade-da-condenação-ao-inferno-condenado_20ao_20inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/107-a-radicalidade-da-condenação-ao-inferno-condenado_20ao_20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="446" height="313" src="/images/posts/107-a-radicalidade-da-condenação-ao-inferno-condenado_20ao_20inferno.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente e isso inclui a parte peregrina da igreja de
+![](/images/posts/107-a-radicalidade-da-condenação-ao-inferno-condenado_20ao_20inferno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente e isso inclui a parte peregrina da igreja de
 nosso senhor Jesus Cristo, todo mundo que já decidiu fazer um exame de
 consciência mais apurado, quiçá, mais radical e rigoroso a respeito de sua
 conduta e relação com Deus e com o próximo, visando chegar ao céu, escapando
@@ -37,4 +39,7 @@ salvar (João 15,5). Que perigo constante vive uma alma neste vale de lágrimas.
 E não se trata de coragem tentar seguir em frente ignorando a ajuda divina, se
 trata de burrice mesmo, loucura.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

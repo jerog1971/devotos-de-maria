@@ -4,7 +4,9 @@ date: 2024-06-28T21:49:00.005Z
 heroImage: "/images/posts/1059-você-tem-tempo-voc_C3_AA_20tem_20tempo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1059-você-tem-tempo-voc_C3_AA_20tem_20tempo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="496" data-original-width="536" height="296" src="/images/posts/1059-você-tem-tempo-voc_C3_AA_20tem_20tempo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certo dia me perguntaram se, caso eu tivesse tempo, se poderia
+![](/images/posts/1059-você-tem-tempo-voc_C3_AA_20tem_20tempo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certo dia me perguntaram se, caso eu tivesse tempo, se poderia
 dar uma “olhada” em um documento antes que ele fosse enviado para avaliação.
 Pois bem, sabemos muito bem que arrumamos tempo para aquilo que nos é
 prioritário. Deixamos a rotina de lado, se necessário, alteramos horários e
@@ -40,4 +42,7 @@ afinal, se ouviu dizer alguma coisa sobre Jesus Cristo proclamar vanglorias por
 tudo que passou por nossa causa? Claro que não! Ele fez por amor e assim, procurando
 imitá-lo, faço o mesmo pela família.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger&nbsp;<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger <o:p></o:p></p></div>
+
+<br /> 
+

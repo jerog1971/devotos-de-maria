@@ -4,7 +4,8 @@ date: 2019-08-15T14:48:00.001Z
 heroImage: "/images/posts/2189-vai-dando-sopa-para-o-perigo-descuido.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2189-vai-dando-sopa-para-o-perigo-descuido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2189-vai-dando-sopa-para-o-perigo-descuido.png" width="320" height="212" data-original-width="775" data-original-height="514" /></a></div>
+![](/images/posts/2189-vai-dando-sopa-para-o-perigo-descuido.png)
+
 As pessoas sabem o que é certo e o que é errado, socialmente falando. Não se pode fazer tudo aquilo que se tem vontade. Ainda não se pode porque, infelizmente, muitas coisas que não se admitiam por causa do respeito às leis divinas hoje em dia são relativizadas e seguir a Deus simplesmente é colocado como uma opção em meio a tantas outras. Muitos intelectuais e estudiosos são categóricos em afirmar que a grande invenção humana chamada Deus é um grande meio de coação, desculpa e doutrinação por meio de um cabresto que, já em tempos antigos, foi imposto pela igreja.</br>
 </br>
 Ora, libertar-se disso é um acontecimento marcante na vida de uma pessoa. Não mais está presa as proibições celestes e passa com isso a não correr mais perigo de perder a sua alma. O bem e mal recebem outro viés e tudo fica mais fácil porque eu decido agora o que é mau ou bom para mim. Que lástima e que pesar, como agradam satanás aqueles que pensam assim. Decidiram pagar o preço em viver uma vida onde, ao seu final, eles não receberão algo menos bom do que pode galgar por aqui nesta terra. Somos livres para sermos felizes, esse e outros slogans floreiam os belos caminhos de uma vida que foi transformada num parque de diversões.</br>

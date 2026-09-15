@@ -4,7 +4,8 @@ date: 2016-02-23T16:18:00Z
 heroImage: "/images/posts/602-chegar-a-jesus-por-maria-jesus_e_maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/602-chegar-a-jesus-por-maria-jesus_e_maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/602-chegar-a-jesus-por-maria-jesus_e_maria.png" width="320" height="222" data-original-width="408" data-original-height="283" /></a></div>
+![](/images/posts/602-chegar-a-jesus-por-maria-jesus_e_maria.png)
+
 Jesus Cristo é o fim último da devoção à Santíssima Virgem. Esta é uma das afirmações que encabeçam as explicações que São Luis Maria Grignion de Monfort, sacerdote francês, que viveu entre os anos 1673 e 1716, faz a respeito da prática de viver plenamente e mais profundamente as promessas do batismo: negar o diabo, o mundo e a carne, abraçando o evangelho de Cristo em sua totalidade por amor a Deus e ao próximo. Assim como fizeram tantas pessoas antes de mim e você caro leitor, os escritos contidos no Tratado da Verdadeira Devoção à Santíssima Virgem explica, de forma simples e conclusiva o que é e no que consiste uma devoção que busca a Jesus, caminho, verdade e vida, por meio de Maria.</br>
 </br>
 Recordemos, que a mãe de nosso salvador é uma poderosíssima intercessora. Porém, como ela é toda submissa, dócil, humilde e plenamente em sintonia com a vontade de Deus Pai sendo despojada de tudo que pudesse desagradar ao criador, Maria não fica com nada para si. Se nos aproximarmos dela, por amor a ela, não existe sombra de dúvidas que não iremos amar menos ao seu filho. Ninguém deixa Jesus de lado porque se aproxima de Maria porque mãe e filho estão em comunhão. Ela que gerou em seu ventre o redentor, por desejo de Deus, se entregou tanto, como escrava do Pai, que nunca lhe foi possível se desfigurar em relação ao Cristo.</br>

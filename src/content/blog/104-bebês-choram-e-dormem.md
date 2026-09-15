@@ -4,7 +4,8 @@ date: 2015-11-23T00:15:00Z
 heroImage: "/images/posts/104-bebês-choram-e-dormem-Sofia_dormindo.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/104-bebês-choram-e-dormem-Sofia_dormindo.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/104-bebês-choram-e-dormem-Sofia_dormindo.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>
+![](/images/posts/104-bebês-choram-e-dormem-Sofia_dormindo.jpg)
+
 Um dos três objetivos do matrimônio é a abertura a fecundidade; ter filhos e educá-los no temor ao Senhor. Sua recusa portanto implica na negação à verdade revelada por Deus do Seu desejo de se unir ao homem por amor em perfeita comunhão. "Crescei e multiplicai-vos" - diz a Sagrada Escritura.</br>
 </br>
 Esta finalidade vai ao contrário de qualquer sentimento de egoísmo. Muitos casais, que de casais não possuem nada pois se comportam como uma dupla, escolhem se casar e não terem filhos. E a lista de motivos, muito bem embasados é bem extensa.</br>

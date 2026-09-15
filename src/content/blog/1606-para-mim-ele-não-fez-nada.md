@@ -4,7 +4,11 @@ date: 2020-05-17T15:37:00.001Z
 heroImage: "/images/posts/1606-para-mim-ele-não-fez-nada-AVvXsEhR14055CODznQRdlb1JFhIZbPkWwSKMRBle9KRSPFol0tK381nzjbLQWVxb3Ito9C772cFBl5k9xxpdxBR0JBtInVAsT5DkxsfnbzntNfPl0eZuWlNlx-b49eJXnRSKHiNShfs3PkibHo.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1606-para-mim-ele-não-fez-nada-AVvXsEhR14055CODznQRdlb1JFhIZbPkWwSKMRBle9KRSPFol0tK381nzjbLQWVxb3Ito9C772cFBl5k9xxpdxBR0JBtInVAsT5DkxsfnbzntNfPl0eZuWlNlx-b49eJXnRSKHiNShfs3PkibHo.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="366" height="320" src="/images/posts/1606-para-mim-ele-não-fez-nada-AVvXsEhR14055CODznQRdlb1JFhIZbPkWwSKMRBle9KRSPFol0tK381nzjbLQWVxb3Ito9C772cFBl5k9xxpdxBR0JBtInVAsT5DkxsfnbzntNfPl0eZuWlNlx-b49eJXnRSKHiNShfs3PkibHo.jpgs320/padres_disfar%25C3%25A7ados.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Ezequiel 3,19-21 – “Contudo, [o pecador] se depois de
+<br />
+
+![](/images/posts/1606-para-mim-ele-não-fez-nada-AVvXsEhR14055CODznQRdlb1JFhIZbPkWwSKMRBle9KRSPFol0tK381nzjbLQWVxb3Ito9C772cFBl5k9xxpdxBR0JBtInVAsT5DkxsfnbzntNfPl0eZuWlNlx-b49eJXnRSKHiNShfs3PkibHo.jpgs320/padres_disfar%25C3%25A7ados.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Ezequiel 3,19-21 – “Contudo, [o pecador] se depois de
 advertido por ti, não se corrigir da malícia e perversidade, ele perecerá por
 causa de seu pecado, enquanto tu hás de salvar a tua vida. E, quando um justo
 abandonar a sua justiça para praticar o mal, e eu permitir diante dele algum
@@ -44,6 +48,6 @@ que deveria meter medo defende-la? Porque o mal, organizado que está, ameaça a
 rotina das pessoas. Para defender a verdade em certos momentos é preciso deixar
 o conforto de nossas vidas e seguir a Jesus – Lucas 9,23.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

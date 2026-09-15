@@ -4,7 +4,9 @@ date: 2020-08-25T19:02:00.004Z
 heroImage: "/images/posts/408-o-ensino-das-vaidades-Jefferson_brinquedos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/408-o-ensino-das-vaidades-Jefferson_brinquedos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="514" data-original-width="540" height="410" src="/images/posts/408-o-ensino-das-vaidades-Jefferson_brinquedos.png" width="432" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vaidoso precisa de plateia; por causa dela que o demônio
+![](/images/posts/408-o-ensino-das-vaidades-Jefferson_brinquedos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vaidoso precisa de plateia; por causa dela que o demônio
 caiu, sua soberba que o levou a querer ser como Deus resultou na desenfreada
 derrocada. E assim como ele caiu, quer caiamos também. Eclesiastes 11,10 – “Exclui
 a tristeza de teu coração, poupa o sofrimento a teu corpo, porque a juventude e
@@ -40,4 +42,4 @@ comportamento de filhos, herdeiros do seu Reino, pois ele nos diz – 2ª Corín
 minha força”. Mateus 6,33 – “Buscai em primeiro lugar o Reino de Deus e a sua
 justiça e todas estas coisas vos serão dadas em acréscimo”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>

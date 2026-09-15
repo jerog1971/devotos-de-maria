@@ -4,7 +4,9 @@ date: 2021-10-25T16:00:00.006Z
 heroImage: "/images/posts/1279-acomodados-no-pecado-acomodados_no_pecado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1279-acomodados-no-pecado-acomodados_no_pecado.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="170" data-original-width="227" height="170" src="/images/posts/1279-acomodados-no-pecado-acomodados_no_pecado.png" width="227" /></a></div><br /><p></p><p class="MsoNormal">Os confortos da vida, os prazeres terrenos, as muitas
+![](/images/posts/1279-acomodados-no-pecado-acomodados_no_pecado.png)
+
+<br /><p class="MsoNormal">Os confortos da vida, os prazeres terrenos, as muitas
 facilidades que a modernidade oferece para as pessoas podem ser relativizadas;
 isso mesmo, tudo depende do olhar que colocamos sobre estas questões. E a
 grande dica vem de Jesus Cristo, que nos disse que devemos em primeiro lugar
@@ -41,5 +43,4 @@ Deus fará prestar contas de tudo o que está oculto, todo ato, seja ele bom ou
 mau”.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

@@ -4,7 +4,9 @@ date: 2021-05-21T12:30:00.003Z
 heroImage: "/images/posts/1278-quem-não-sabe-diga-não-sei-n_25C3_25A3o_sei.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1278-quem-não-sabe-diga-não-sei-n_25C3_25A3o_sei.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="293" data-original-width="327" src="/images/posts/1278-quem-não-sabe-diga-não-sei-n_25C3_25A3o_sei.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se não sabemos das coisas então, como nos ensinam as
+![](/images/posts/1278-quem-não-sabe-diga-não-sei-n_25C3_25A3o_sei.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se não sabemos das coisas então, como nos ensinam as
 sagradas escrituras que busquemos ao Senhor. Que peçamos pela sua sabedoria; nisso
 consiste sermos humildes e conscientes de nossa dependência por ele. Muitas
 vezes o orgulho próprio e o ego impedem que a pessoa aproveite essas
@@ -43,4 +45,7 @@ com um coração contrito e firme propósito de não mais cair, afinal é o que
 lemos quando Jesus estende a mão aos pecadores humilhados: “vá e não peques
 mais”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

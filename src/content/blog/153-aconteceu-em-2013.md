@@ -4,7 +4,8 @@ date: 2016-02-25T12:03:00Z
 heroImage: "/images/posts/153-aconteceu-em-2013-marisa_formolo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/153-aconteceu-em-2013-marisa_formolo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/153-aconteceu-em-2013-marisa_formolo.png" width="320" height="297" data-original-width="537" data-original-height="499" /></a></div>
+![](/images/posts/153-aconteceu-em-2013-marisa_formolo.png)
+
 A balbúrdia que se seguiu na classe falante brasileira após a renúncia do Papa Bento XVI é o bastante para percebermos que as opiniões emitidas nessas tribunas não passam de tagarelices e de conversa de aloprados. "Que o próximo Papa seja mais aberto", dizem uns, "que a Igreja acorde para os problemas sociais", dizem outros, como se a doutrina católica fosse definida pelo consenso de um coletivo, bem ao estilo de um grêmio estudantil. Mas no reino da insensatez, infelizmente, qualquer um está apto a opinar sobre assuntos que não lhes dizem respeito. Quem explica muito bem isso é o filósofo Olavo de Carvalho:</br>
 </br>
 "O idiota presunçoso, isto é, o tipo mais representativo de qualquer profissão hoje em dia, incluindo as letras, o ensino e o jornalismo, forma opinião de maneira imediata e espontânea, com base numa quantidade ínfima ou nula de conhecimentos, e se apega a seu julgamento com a tenacidade de quem defende um tesouro maior que a vida. A rigor, não tem propriamente opiniões. Tem apenas impressões difusas que não podendo, é claro, encontrar expressão adequada, se acomodam mecanicamente a qualquer fórmula de sentido análogo, colhida do ambiente, e então lhe parecem opiniões pessoais, como se a conquista de uma autêntica opinião pessoal prescindisse de esforço".</br>
@@ -21,5 +22,4 @@ Infelizmente, casos como o da senhora Marisa Formolo não são os únicos nos ú
 </br>
 </br>
 fonte: padrepauloricardo.org
-
 

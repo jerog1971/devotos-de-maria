@@ -4,7 +4,8 @@ date: 2015-07-03T12:17:00.001Z
 heroImage: "/images/posts/646-exorcismo-magno-no-méxico-exorcismo_magno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/646-exorcismo-magno-no-méxico-exorcismo_magno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/646-exorcismo-magno-no-méxico-exorcismo_magno.png" width="275" height="320" data-original-width="244" data-original-height="284" /></a></div>
+![](/images/posts/646-exorcismo-magno-no-méxico-exorcismo_magno.png)
+
 </br>
 Um evento sem precedentes teve lugar na cidade de San Luís Potosí, região central do México, quando um grupo de bispos realizou um "exorcismo magno" sobre todo o país.</br>
 </br>

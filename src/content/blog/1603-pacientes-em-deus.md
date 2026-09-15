@@ -4,7 +4,8 @@ date: 2017-06-29T20:19:00Z
 heroImage: "/images/posts/1603-pacientes-em-deus-casal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1603-pacientes-em-deus-casal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1603-pacientes-em-deus-casal.png" width="313" height="320" data-original-width="500" data-original-height="512" /></a></div>
+![](/images/posts/1603-pacientes-em-deus-casal.png)
+
 Não há como negar que o composto de corpo e alma denominado de ser humano por conta de suas particularidades e diferenças dentro da própria espécie, caminha sob um pesado fardo que lhe cobra diariamente no mínimo, o máximo de esforço. Todos sabemos que nunca foi fácil e nunca nos foi prometido alguma facilidade por parte de Jesus. “Se me perseguiram, perseguirão vocês.” E a lista dos que perseguem os filhos de Deus, sem dúvida alguma começa pelo diabo, o mais interessado de todos em que não consigamos entrar nos céus. E que batalha pois quanto mais tempo Deus nos concede de vida para nos santificarmos por aqui neste vale de lágrimas, mais tempo tem nosso inimigo para investir fogo pesado contra nossas armadas.</br>
 </br>
 Meio paradoxal ou contraditório, mas são desígnios divinos que não nos cabem entender (Deuteronômio 29,29. Se fizermos uma lista de coisas que não são como gostaríamos que fossem precisamos arrumar tempo para isso porque a lista de qualquer um com certeza é muito grande. Muita coisa não acontece como gostaríamos, muitas coisas acontecem exatamente como não gostaríamos que acontecessem. Nos colocamos em alto grau de exigência e análise quando se trata dos outros mas com relação à nós mesmos somos bem coniventes e autoindulgentes. Queremos sempre ser perdoados e prioritariamente por Deus mas, não fazemos questão de perdoar aqueles que não passam em nosso rigorosíssimo teste de retidão.</br>

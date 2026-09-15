@@ -4,7 +4,9 @@ date: 2022-12-21T19:07:00Z
 heroImage: "/images/posts/783-cuidado-com-sua-válvula-de-escape-img-1861635087.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/783-cuidado-com-sua-válvula-de-escape-img-1861635087.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="345" data-original-width="422" height="262" src="/images/posts/783-cuidado-com-sua-válvula-de-escape-img-456982676.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sabido pela maioria das pessoas que, para afastar-se das
+![](/images/posts/783-cuidado-com-sua-válvula-de-escape-img-456982676.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É sabido pela maioria das pessoas que, para afastar-se das
 dificuldades da vida, muitas cultivam algum tipo de hobby, algo de que gostem e
 sintam prazer e possam regenerar as forças físicas, intelectuais e espirituais,
 para que consigam seguir em frente nesta vida que a cada dia é muito mais difícil
@@ -44,4 +46,7 @@ por outras coisas da vida e por outras pessoas. Pior, pelas pessoas da família.
 Como dissemos, exemplos são inúmeros, mas o cuidado é um só. Vamos relembrar o
 dito do salvador. “Sede sóbrios, vigiai e orai sem cessar”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

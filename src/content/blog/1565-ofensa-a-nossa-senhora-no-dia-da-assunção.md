@@ -4,7 +4,8 @@ date: 2016-07-25T12:12:00.002Z
 heroImage: "/images/posts/1565-ofensa-a-nossa-senhora-no-dia-da-assunção-assun_25C3_25A7_25C3_25A3o2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1565-ofensa-a-nossa-senhora-no-dia-da-assunção-assun_25C3_25A7_25C3_25A3o2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1565-ofensa-a-nossa-senhora-no-dia-da-assunção-assun_25C3_25A7_25C3_25A3o2.png" width="283" height="320" data-original-width="252" data-original-height="285" /></a></div>
+![](/images/posts/1565-ofensa-a-nossa-senhora-no-dia-da-assunção-assun_25C3_25A7_25C3_25A3o2.png)
+
 Caros leitores, segue um relato que recebi da Associação América Precisa de Fátima, com sede nos EUA, a qual acompanho a tempos, onde o Sr. Robert Ritchie, membro desta encaminha uma notícia de fato que está planejado para acontecer no dia 15/08, data em que nós católicos comemoramos a Assunção de Maria aos Céus. Acompanhem: (traduzido pelo autor deste site)</br>
 </br>
 “Caro Sr. Roger,</br>

@@ -4,7 +4,9 @@ date: 2024-01-07T17:12:00.004Z
 heroImage: "/images/posts/1045-que-bom-quando-deus-está-de-acordo-conosco-precisar.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1045-que-bom-quando-deus-está-de-acordo-conosco-precisar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="264" data-original-width="273" height="264" src="/images/posts/1045-que-bom-quando-deus-está-de-acordo-conosco-precisar.png" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, quando pedimos, pedimos e pedimos e parece Deus não
+![](/images/posts/1045-que-bom-quando-deus-está-de-acordo-conosco-precisar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois é, quando pedimos, pedimos e pedimos e parece Deus não
 estar nem aí para nossas súplicas corremos rapidamente a reclamar dele para
 todos e, infelizmente, esses brados raivosos são ouvidos até pelo mais atento
 dos ouvintes: o demônio. Mal sabemos que o erro é gravíssimo, além de ser
@@ -31,4 +33,7 @@ vindas do céu, valiosíssimas e que devemos, como na parábola dos talentos,
 fazer com que se multipliquem, através de nossa melhora contínua na caminhada rumo
 ao céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

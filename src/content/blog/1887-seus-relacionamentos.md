@@ -4,7 +4,8 @@ date: 2020-01-20T18:38:00Z
 heroImage: "/images/posts/1887-seus-relacionamentos-medo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1887-seus-relacionamentos-medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1887-seus-relacionamentos-medo.png" width="320" height="303" data-original-width="405" data-original-height="384" /></a></div>
+![](/images/posts/1887-seus-relacionamentos-medo.png)
+
 O sujeito faz uma coisa errada e acha que não é. Foi convencido de alguma forma que aquilo não é errado. Pois no mundo existem muitas “formas de viver a vida” e cada uma apresenta seu pacote de regras. Que maravilha, você escolhe a que mais lhe atende e vive feliz a partir de então. Pacotes mais simples possuem um número menor de regras, fica mais fácil de seguir. Pacotes mais completos apresentam mais normas e dá mais trabalho seguir por esse caminho.</br>
 </br>
 O problema é exatamente esse. Existem pacotes de código de conduta com maior ou menor grau de envolvimento com Deus; e até sem grau nenhum. E o que não falta no “mercado” são opções. Inclusive a cada dia mais surgem. Cada um faz a sua adaptando de uma já existente. Que farra viu! No entanto, para os que querem se envolver com Deus, ao contrário do que se pensa, as coisas ficam mais simples. Vejamos:</br>

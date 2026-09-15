@@ -4,7 +4,8 @@ date: 2015-05-22T11:48:00.001Z
 heroImage: "/images/posts/2129-cristãos-as-vítimas-de-boko-haram-quenia_boko_haram.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2129-cristãos-as-vítimas-de-boko-haram-quenia_boko_haram.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2129-cristãos-as-vítimas-de-boko-haram-quenia_boko_haram.png" width="320" height="202" data-original-width="637" data-original-height="403" /></a></div>
+![](/images/posts/2129-cristãos-as-vítimas-de-boko-haram-quenia_boko_haram.png)
+
 </br>
 BOKO HARAM O ASSASSINO DOS CRISTÃOS</br>
 </br>

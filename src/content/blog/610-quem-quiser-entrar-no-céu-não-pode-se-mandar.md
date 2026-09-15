@@ -4,7 +4,9 @@ date: 2022-11-16T20:31:00Z
 heroImage: "/images/posts/610-quem-quiser-entrar-no-céu-não-pode-s-convem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/610-quem-quiser-entrar-no-céu-não-pode-s-convem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="402" height="314" src="/images/posts/610-quem-quiser-entrar-no-céu-não-pode-s-convem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente esta é uma das verdades bíblicas mais duras de
+![](/images/posts/610-quem-quiser-entrar-no-céu-não-pode-s-convem.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente esta é uma das verdades bíblicas mais duras de
 assimilar. O ser humano em seu desenvolvimento tende cada vez mais a se emancipar
 em muitas áreas de sua vida. No entanto, ao passo que ele vai se desenvolvendo
 e adquirindo mais maturidade, sapiência e discernimento sobre as coisas e sobre
@@ -36,4 +38,7 @@ Santo, comprado a preço de sangue, pertencente a Deus e não aos homens) – 1�
 Todavia, existe sempre um remédio entregue a todos por Jesus: “sem mim (disse o
 ressuscitado) nada podeis fazer” (João 15,5).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-05-04T15:40:00.003Z
 heroImage: "/images/posts/667-abraçai-o-que-é-bom-ficai_com_o_que_25C3_25A9_bom.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/667-abraçai-o-que-é-bom-ficai_com_o_que_25C3_25A9_bom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="595" data-original-width="758" src="/images/posts/667-abraçai-o-que-é-bom-ficai_com_o_que_25C3_25A9_bom.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nas sagradas escrituras, na primeira carta aos Tessalonicenses,
+![](/images/posts/667-abraçai-o-que-é-bom-ficai_com_o_que_25C3_25A9_bom.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nas sagradas escrituras, na primeira carta aos Tessalonicenses,
 ouvimos do apóstolo Paulo que devemos examinar tudo, mas ficar com o que é bom.
 O que é bom, segundo o olhar de Deus, pois, se dermos ouvidos ao canto da
 sereia, Satanás, sem perda de tempo, irá oferecer suas “boas” opções, bem mais
@@ -36,4 +38,7 @@ corpo destinado a condenação eterna reservada para os que escolheram livrement
 ficar com as coisas que passam, as coisas do mundo, oferecidas por seu príncipe
 (João 14,30).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jeferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jeferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-01-28T18:39:00.001Z
 heroImage: "/images/posts/284-o-católico-e-a-contemplação-contempla_C3_A7_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/284-o-católico-e-a-contemplação-contempla_C3_A7_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="197" data-original-width="308" height="197" src="/images/posts/284-o-católico-e-a-contemplação-contempla_C3_A7_C3_A3o.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dar sentido à crise atual é uma tarefa assustadora.
+![](/images/posts/284-o-católico-e-a-contemplação-contempla_C3_A7_C3_A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Dar sentido à crise atual é uma tarefa assustadora.
 Enfrentamos um desastre moral que exige olhar para além do plano natural das
 políticas e da política mesquinha. Se quisermos encontrar a solução, devemos
 nos aprofundar no problema. Há um poderoso meio de discernimento que precisa
@@ -44,4 +46,7 @@ esse comportamento. No entanto, para avançar, devemos adotar uma abordagem
 contemplativa. Se a contemplação continuar a ser negligenciada, nosso destino
 estará selado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

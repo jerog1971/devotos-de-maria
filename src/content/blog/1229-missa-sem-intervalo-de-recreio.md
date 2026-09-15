@@ -4,7 +4,8 @@ date: 2016-05-06T14:02:00Z
 heroImage: "/images/posts/1229-missa-sem-intervalo-de-recreio-recreio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1229-missa-sem-intervalo-de-recreio-recreio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1229-missa-sem-intervalo-de-recreio-recreio.png" width="314" height="320" data-original-width="315" data-original-height="321" /></a></div>
+![](/images/posts/1229-missa-sem-intervalo-de-recreio-recreio.png)
+
 Na carta circular intitulada: O significado ritual do dom da paz na missa, datada de junho de 2014 pelo papa Francisco, para a Congregação para o Culto Divino e a Disciplina dos Sacramentos, traz à tona por meio deste documento, uma ampla referência documental da igreja a respeito deste tema. Isso inclui citações dos Evangelhos de João e Mateus, a Instrução Redemptionis Sacramentum, o Missal Romano e exortações apostólicas de Bento XVI.</br>
 </br>
 Enfim com este documento o papa determina que a “hora do recreio da missa” não deve acontecer. Em outras palavras o papa Francisco disse que aqui, na santa missa, a voz do povo não é a voz de Deus. Nada deste intervalinho, onde é permitido a baguncinha, onde todo mundo pode romper o silêncio, sair dando abracinhos, beijinhos, e colocando o papo em dia. Também não é a hora de tocar aquela musiquinha animada da paz dizendo que você é importante, e que é muito bom você estar aqui. E muito menos o momento do padre abandonar o altar e bancar o padre peregrino que não descansa até cumprimentar o último fiel presente. E fica a pergunta: Como o padre pode pedir obediência aos fiéis, se nem ele mesmo obedece? Como o padre pode ensinar aos fiéis a fazer aquilo que Deus ensina, se os padres não obedecem a Igreja e fazem tudo que lhe dá na telha? Claro que existem bons e maus padres, não generalizemos.</br>

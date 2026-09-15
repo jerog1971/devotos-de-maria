@@ -4,7 +4,8 @@ date: 2017-05-29T17:23:00Z
 heroImage: "/images/posts/966-se-você-não-está-em-estado-de-graça--dificuldades.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/966-se-você-não-está-em-estado-de-graça--dificuldades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/966-se-você-não-está-em-estado-de-graça--dificuldades.png" width="320" height="296" data-original-width="279" data-original-height="258" /></a></div>
+![](/images/posts/966-se-você-não-está-em-estado-de-graça--dificuldades.png)
+
 A palavra de Deus nos ensina que a tudo devemos dar graças a Deus. De uma forma bem resumida esse tudo engloba as coisas “boas e ruins”, para tratar do assunto de uma forma bem catequética. A bíblia nos ensina que precisa ser por tudo porque, Deus nos concede as coisas boas e permite ou concede as ruins. Desta forma, se fizermos escolhas erradas acabaremos escolhendo coisas ruins que julgamos serem boas e deixaremos de aceitar coisas ruins que não julgamos boas. O cenário aqui que serve de pano de fundo para a questão, é a salvação das almas.</br>
 </br>
 O estado de graça que perdemos é feito por escolha própria, o bem e o mal nos é apresentado e conscientes da matéria grave e com pleno consentimento e desejo de acatar a matéria, nos excluímos por decisão própria do cuidado individual que Deus promove aos que o amam e temem.</br>

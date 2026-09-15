@@ -4,7 +4,9 @@ date: 2022-01-13T21:31:00Z
 heroImage: "/images/posts/2163-o-diabo-e-a-abstinência-img-790375219.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2163-o-diabo-e-a-abstinência-img-790375219.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="716" data-original-width="851" height="269" src="/images/posts/2163-o-diabo-e-a-abstinência-img-790370320.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como sempre se é de esperar, o diabo não abre mão de nada
+![](/images/posts/2163-o-diabo-e-a-abstinência-img-790370320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Como sempre se é de esperar, o diabo não abre mão de nada
 quando o assunto é derrubar uma alma para que ela se precipite ao inferno. Nada
 lhe passa despercebido, tudo pode ser utilizado como ferramenta no combate entre
 o bem e o mal. E nós, as pobres almas, fracas e pecadoras, somos o “troféu” tão
@@ -50,4 +52,7 @@ essa dificuldade toda as sagradas escrituras nos trazem o grande ensinamento do
 Ressuscitado: João 15,5 – “sem mim nada podeis fazer”. Isso inclui vencer as
 batalhas (todas elas) durante a caminhada, subindo rumo ao céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

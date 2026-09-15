@@ -4,7 +4,9 @@ date: 2024-06-07T19:52:00.002Z
 heroImage: "/images/posts/1147-os-presentes-Os_20presentes.jpeg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1147-os-presentes-Os_20presentes.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="576" height="320" src="/images/posts/1147-os-presentes-Os_20presentes.jpeg" width="180" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem presentes e presentes. Quem não gosta de ganhar
+![](/images/posts/1147-os-presentes-Os_20presentes.jpeg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existem presentes e presentes. Quem não gosta de ganhar
 aquela lembrancinha, aquele mimo, aquele presente feito pela pessoa, todo
 personalizado ou ainda algo que é a sua cara, aos olhos de quem lhe presenteou?
 Pois bem, acho que podemos dizer que é bem difícil encontrar quem não goste.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -37,4 +39,7 @@ formamos não nasceu de um amor só: nasceu de um amor entre um homem e uma
 mulher, abençoados por Deus, tementes a Deus que frutificaram na forma das
 filhas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

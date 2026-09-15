@@ -4,7 +4,8 @@ date: 2020-03-13T19:40:00.002Z
 heroImage: "/images/posts/092-entra-o-coronavirus-sai-o-calor-humano-precisar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/092-entra-o-coronavirus-sai-o-calor-humano-precisar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/092-entra-o-coronavirus-sai-o-calor-humano-precisar.png" width="320" height="309" data-original-width="273" data-original-height="264" /></a></div>
+![](/images/posts/092-entra-o-coronavirus-sai-o-calor-humano-precisar.png)
+
 Sem beijinho, sem abraço, nem aperto de mão, não é desprezo, é apenas proteção. Pois muito bem, este slogan já está circulando por aí. Enquanto Jesus curava todos os doentes e muitos santos e santas o imitavam no trato com os enfermos, pouco importando-se com o contágio, onde inclusive alguns vieram a morrer por causa da doença, agora, com a desculpa atual do coronavirus, mais uma vez a igreja católica acata as leis mundanas em detrimento das leis divinas.</br>
 </br>
 Comporta-se como os fariseus que falavam uma coisa e faziam outra. Ela proclama pessoas como santos, mas não quer imita-los. Capaz, pensam as autoridades eclesiásticas, melhor prevenir. Só que o prevenir aqui não se estende para as fronteiras espirituais. Amai o próximo como a ti mesmo? Faça pelo outro o que queres que lhe façam? Nada disso, Jesus que nos desculpe, temos que nos precaver do contágio; paciência, os doentes que se virem.</br>

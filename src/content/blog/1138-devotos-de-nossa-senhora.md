@@ -4,21 +4,11 @@ date: 2023-11-17T21:51:00.009Z
 heroImage: "/images/posts/1138-devotos-de-nossa-senhora-Ernany_20e_20Lauro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1138-devotos-de-nossa-senhora-Ernany_20e_20Lauro.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="362" height="280" src="/images/posts/1138-devotos-de-nossa-senhora-Ernany_20e_20Lauro.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aqui neste site, dedicado a Virgem Santíssima, eu não
-poderia deixar de escrever, ainda que com palavras que não alcançarão o valor
-dos remetidos, uma pequena homenagem, reconhecimento ao exemplo de pessoas que
-seguiram o exemplo da mãe de Jesus. Caro leitor, tive a graça de conviver, depois
-da minha mãe, com mais duas pessoas devotas de Nossa Senhora. Antes que os não
-católicos possam esbaforir em contrário, por aqui, neste site católico, somos
-sim, devotos da Virgem Maria. Ela, que a mando do seu filho pregado na cruz,
-assumiu toda a maternidade da humanidade, não desampara aquele que a ela recorre.<o:p></o:p></p><div class="separator" style="clear: both;">
+![](/images/posts/1138-devotos-de-nossa-senhora-Ernany_20e_20Lauro.png)
 
-<p class="MsoNormal">Tenho plena certeza de que a “mãezinha do céu”, como dizia o
-meu sogro – Lauro Hammerschmidt (foto), intercede por cada um dos filhos de
-Deus. Como não acreditar em um endosso do próprio Cristo? Ela nos ensinou que “devemos
-fazer tudo o que ele (Jesus Cristo) nos disser. Achegar-se junto da mãe é
-certeza de estar perto do filho, pois mãe e filho estão a nos amparar, ajudar,
-ensinar e nos suportar em nossas fraquezas.<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1138-devotos-de-nossa-senhora-ernany_20hammerschmidt.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="529" height="161" src="/images/posts/1138-devotos-de-nossa-senhora-ernany_20hammerschmidt.png" width="312" /></a><a href="/images/posts/1138-devotos-de-nossa-senhora-lauro_20hammerschmidt.png" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="282" data-original-width="523" height="160" src="/images/posts/1138-devotos-de-nossa-senhora-lauro_20hammerschmidt.png" width="293" /></a><br /><br /></div><p class="MsoNormal">A Dona Nany, Ernany Bastos (foto), esposa e mãe primorosa,
+![](/images/posts/1138-devotos-de-nossa-senhora-ernany_20hammerschmidt.png)
+
+<p class="MsoNormal">A Dona Nany, Ernany Bastos (foto), esposa e mãe primorosa,
 embalou-me em seus braços e afetos. Fui o genro que tinha como filho e isso,
 admitia publicamente. Por ela, fiz tudo que pude, a tratei como mãe e não ficou
 para trás nenhum arrependimento; só a saudade. Eu, que sou um homem consciente
@@ -39,4 +29,7 @@ a felicidade de um dia ter vivido com eles, a esperança de um dia reencontrá-l
 e a certeza de que nos céus, eles intercedem por nós junto a quem? Como dizia
 Seu Lauro: “a mãezinha do céu”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-04-09T13:55:00.001Z
 heroImage: "/images/posts/940-viver-é-lutar-viver_e_lutar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/940-viver-é-lutar-viver_e_lutar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="404" src="/images/posts/940-viver-é-lutar-viver_e_lutar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já dizia Jó no antigo testamento:<o:p></o:p></p><div class="separator" style="clear: both;">
+![](/images/posts/940-viver-é-lutar-viver_e_lutar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Já dizia Jó no antigo testamento:<o:p></o:p></p><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">“A vida do homem sobre a terra é uma luta”.<o:p></o:p></p>
 
@@ -12,7 +14,7 @@ heroImage: "/images/posts/940-viver-é-lutar-viver_e_lutar.png"
 
 <p class="MsoNormal">E ainda por cima, diariamente, temos a nossa labuta.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Ao nascer, lutamos para vir ao mundo,<o:p></o:p></p>
 
@@ -22,7 +24,7 @@ heroImage: "/images/posts/940-viver-é-lutar-viver_e_lutar.png"
 
 <p class="MsoNormal">Começamos nossa contagem regressiva, de fato.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Não como os animais fazem, mas lutamos por muitas coisas.<o:p></o:p></p>
 
@@ -32,7 +34,7 @@ heroImage: "/images/posts/940-viver-é-lutar-viver_e_lutar.png"
 
 <p class="MsoNormal">Com muitas táticas perversas e investidas ardilosas.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">E essa luta, que envolve o corpo e a alma,<o:p></o:p></p>
 
@@ -42,7 +44,7 @@ heroImage: "/images/posts/940-viver-é-lutar-viver_e_lutar.png"
 
 <p class="MsoNormal">Basta lhe estendermos a mão e recusar o que vem do inimigo.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Parece que temos uma escolha,<o:p></o:p></p>
 
@@ -51,4 +53,7 @@ heroImage: "/images/posts/940-viver-é-lutar-viver_e_lutar.png"
 <p class="MsoNormal">Com Jesus, lutando aqui na terra,<o:p></o:p></p>
 
 <p class="MsoNormal">Ou sem ele, aliados ao diabo, até o dia em que irá nos
-condenar.<o:p></o:p></p><p class="MsoNormal"><br /></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div><p><br />&nbsp;</p>
+condenar.<o:p></o:p></p><p class="MsoNormal"><br /></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div>
+
+<br /> 
+

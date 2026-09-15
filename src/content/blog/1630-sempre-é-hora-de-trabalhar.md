@@ -4,7 +4,9 @@ date: 2022-05-01T14:32:00.004Z
 heroImage: "/images/posts/1630-sempre-é-hora-de-trabalhar-sempre_20devemos_20trabalhar.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1630-sempre-é-hora-de-trabalhar-sempre_20devemos_20trabalhar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="222" height="214" src="/images/posts/1630-sempre-é-hora-de-trabalhar-sempre_20devemos_20trabalhar.png" width="222" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E aqui estamos a falar do empenho em sempre trabalharmos com
+![](/images/posts/1630-sempre-é-hora-de-trabalhar-sempre_20devemos_20trabalhar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">E aqui estamos a falar do empenho em sempre trabalharmos com
 afinco, temor e tremor de Deus, pela salvação de nossa alma, pois, “os desejos
 do preguiçoso o matam porque suas mãos recusam o trabalho” – Provérbios 21,25.
 E trabalhar durante a vida para que um dia alcancemos o céu, segundo a base de fé
@@ -32,4 +34,7 @@ uma sociedade depravada e maliciosa, onde brilhais como luzeiros no mundo, a
 ostentar a palavra da vida. Dessa forma, no dia de Cristo, sentirei alegria em
 não ter corrido em vão, em não ter trabalhado em vão” – Filipenses 2,12-16.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

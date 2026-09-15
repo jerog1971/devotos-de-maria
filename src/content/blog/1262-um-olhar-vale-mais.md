@@ -4,7 +4,8 @@ date: 2015-09-18T16:24:00Z
 heroImage: "/images/posts/1262-um-olhar-vale-mais-olhar.JPG"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1262-um-olhar-vale-mais-olhar.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1262-um-olhar-vale-mais-olhar.JPG" /></a></div>
+![](/images/posts/1262-um-olhar-vale-mais-olhar.JPG)
+
 </br>
 Todos nós conhecemos um velho ditado que diz: "um olhar vale mais que mil palavras".</br>
 </br>

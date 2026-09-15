@@ -4,7 +4,8 @@ date: 2016-01-05T15:58:00Z
 heroImage: "/images/posts/2211-a-mãe-de-deus-Nossa_Senhora.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2211-a-mãe-de-deus-Nossa_Senhora.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2211-a-mãe-de-deus-Nossa_Senhora.jpg" width="217" height="320" data-original-width="290" data-original-height="427" /></a></div>
+![](/images/posts/2211-a-mãe-de-deus-Nossa_Senhora.jpg)
+
 </br>
 No primeiro dia de janeiro, a Igreja celebra a Solenidade de Maria, Mãe de Deus. Não é sem propósito que a liturgia coloca a celebração desse importante dogma de nossa fé, cuja proclamação foi motivo de grande júbilo para os cristãos primitivos, no início do novo ano. Nestes tempos em que a sociedade costuma dirigir seus pensamentos para as coisas mundanas, temos de recordar a maravilhosa notícia da maternidade de Maria.</br>
 </br>

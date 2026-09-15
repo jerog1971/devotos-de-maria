@@ -4,7 +4,8 @@ date: 2016-01-29T11:01:00.001Z
 heroImage: "/images/posts/2229-pornografia-em-2015-pornografia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2229-pornografia-em-2015-pornografia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2229-pornografia-em-2015-pornografia.png" width="320" height="197" data-original-width="565" data-original-height="348" /></a></div>
+![](/images/posts/2229-pornografia-em-2015-pornografia.png)
+
 </br>
 4.392.486.580 é o número de horas que foram gastas com pornografia no ano de 2015. Isto significa que em um ano, internautas do mundo todo passaram 501.425 anos assistindo pornografia em algum site pornô. Em apenas um site, os acessos chegaram a escandalosos 87.849.731.608 — ou seja, para cada uma pessoa no planeta, 12 vídeos pornôs foram vistos. Os dados são do LifeSiteNews.com.</br>
 </br>

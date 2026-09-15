@@ -4,7 +4,9 @@ date: 2021-08-10T15:47:00.005Z
 heroImage: "/images/posts/1688-sentimentos-sobrenaturais-sentimentos_sobrenaturais.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1688-sentimentos-sobrenaturais-sentimentos_sobrenaturais.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="482" data-original-width="594" height="260" src="/images/posts/1688-sentimentos-sobrenaturais-sentimentos_sobrenaturais.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A humanidade através da ciência já descobriu que a matéria
+![](/images/posts/1688-sentimentos-sobrenaturais-sentimentos_sobrenaturais.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A humanidade através da ciência já descobriu que a matéria
 se forma através da energia condensada e condicionada e se manifesta através dos
 estados vibracionais. Pois bem, essa constatação feita através da ciência em seu
 desdobramento denominado física quântica, serve para ilustrar uma questão que
@@ -34,4 +36,7 @@ me esforço e não consigo tantos avanços e fico com medo de estar me iludindo,
 achando que está acontecendo algo na direção certa quando não está. Mas a fé é
 assim mesmo, Jesus disse que “nenhum sinal nos será dado” – Mateus 12,39.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

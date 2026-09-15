@@ -4,7 +4,9 @@ date: 2022-07-01T18:50:00.005Z
 heroImage: "/images/posts/1631-estamos-na-iminência-estamos_20na_20imin_C3_AAncia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1631-estamos-na-iminência-estamos_20na_20imin_C3_AAncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="380" data-original-width="507" height="240" src="/images/posts/1631-estamos-na-iminência-estamos_20na_20imin_C3_AAncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é o que parece aos filhos de Deus, legítimos, que quando
+![](/images/posts/1631-estamos-na-iminência-estamos_20na_20imin_C3_AAncia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não é o que parece aos filhos de Deus, legítimos, que quando
 dizem que o amam seguem tudo aquilo que ele prescreve? Sim, porque não é
 possível dizer que o amamos se não nos comportamos como seus filhos. A
 humanidade desde sempre, leia-se desde os tempos bíblicos, para colocarmos uma
@@ -38,4 +40,7 @@ ausência de preconceito não significa que devemos abrir mão da verdade divina
 ensinada desde sempre e que pede de cada um, vamos recordar: uma renúncia
 completa de nós mesmos (Lucas 9,23).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

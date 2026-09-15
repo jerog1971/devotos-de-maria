@@ -4,7 +4,9 @@ date: 2023-07-14T20:20:00.004Z
 heroImage: "/images/posts/200-vale-o-quanto-pesa-Vale_20o_20quanto_20pesa.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/200-vale-o-quanto-pesa-Vale_20o_20quanto_20pesa.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/200-vale-o-quanto-pesa-Vale_20o_20quanto_20pesa.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem coisas que damos mais valor do que o necessário; outras,
+![](/images/posts/200-vale-o-quanto-pesa-Vale_20o_20quanto_20pesa.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existem coisas que damos mais valor do que o necessário; outras,
 por outro lado, que merecem muito mais valor, mas muito mais valor mesmo, ficam
 elencadas para patamares bem inferiores. Haja vista, todos podem confirmar,
 ouvirmos as pessoas dizerem que este, aquele ou aquela outra pessoa só deu
@@ -35,4 +37,7 @@ foi passada e como cristão, se tenho vergonha na cara e temor a Deus, preciso
 honrar os dons recebidos por ele. Afinal, como posso dar bom testemunho se me
 comportar como os fariseus, chamados por Jesus de hipócritas?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

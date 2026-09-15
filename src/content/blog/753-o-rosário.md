@@ -110,7 +110,9 @@ Salve Rainha, Mãe de misericórdia, vida, doçura, esperança nossa salve. A v�
 </br>
 <h2>Catequese sobre o Santo Rosário</h2></br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/753-o-rosário-maria_e_gusm_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/753-o-rosário-maria_e_gusm_25C3_25A3o.png" width="171" height="200" data-original-width="336" data-original-height="392" /></a></div>
+
+![](/images/posts/753-o-rosário-maria_e_gusm_25C3_25A3o.png)
+
 Os mistérios luminosos acrescentados por São João Paulo II não são divulgados na prática da oração do santo Rosário neste blog devido a seu caráter de opcionalidade proposto pelo próprio pontífice em sua <a href="http://w2.vatican.va/content/john-paul-ii/pt/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html">"CARTA APOSTÓLICA ROSARIUM VIRGINIS MARIAE DO SUMO PONTÍFICE JOÃO PAULO II AO EPISCOPADO AO CLERO E AOS FIÉIS SOBRE O ROSÁRIO"</a>, publicada em 2002 onde lá diz assim em seu número 19:</br>
 </br>
 "Considero, no entanto, que, para reforçar o espessor cristológico do Rosário, seja oportuna uma inserção que, <b>EMBORA DEIXADA À LIVRE VALORIZAÇÃO DE CADA PESSOA E DAS COMUNIDADES</b>, lhes permita abraçar também os mistérios da vida pública de Cristo entre o Baptismo e a Paixão".</br>
@@ -148,7 +150,9 @@ c) O terceiro para a vida unificativa.</br>
 </br>
 5ª – E, finalmente, nos dar graças em abundância durante nossa vida, paz na morte, e glória na eternidade".</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/753-o-rosário-bento_xvi.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/753-o-rosário-bento_xvi.png" width="145" height="200" data-original-width="225" data-original-height="310" /></a></div>
+
+![](/images/posts/753-o-rosário-bento_xvi.png)
+
 Para concluir este trecho da explicação vamos acompanhar mais um trecho do livro onde Nossa Senhora diz a São Domingos: “Quando os fiéis rezam as Cento e cinquenta Ave Marias e os Quinze PAI Nossos, muito me agradam e esta devoção é eficaz para se obter graças. Mas a eficácia aumenta muito mais e me agradarão mais ainda se, enquanto se rezar, meditar na Vida, Paixão, Morte e Ressureição de JESUS CRISTO, pois a meditação é a alma desta devoção.”</br>
 </br>
 Continuando com a explicação é de se saber também, que o sucessor de João Paulo II, o papa Bento XVI confirmou o caráter de OPCIONALIDADE dos mistérios luminosos ao publicar a seguinte explanação: "Meu dever para com a Igreja e o mundo, tento cumprir com uma oração que ocupa todo o meu dia'. Oração mental ou verbal, Santidade?, ocorreu-me perguntar, talvez banalmente. Sua resposta foi imediata: 'Sobretudo verbal: o rosário completo, COM SEUS TRÊS MISTÉRIOS; depois os salmos, as orações escritas pelos santos e as passagens bíblicas e invocações do breviário'. A oração mental é proporcionada por suas muitas leituras de textos de espiritualidade, que se unem aos de teologia e exegese bíblica." Sábias palavras de Bento XVI, um dos maiores teólogos que o mundo conhece.</br>

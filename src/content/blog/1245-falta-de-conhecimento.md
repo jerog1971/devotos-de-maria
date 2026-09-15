@@ -4,7 +4,8 @@ date: 2016-03-30T13:08:00.002Z
 heroImage: "/images/posts/1245-falta-de-conhecimento-falta_de_conhecimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1245-falta-de-conhecimento-falta_de_conhecimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1245-falta-de-conhecimento-falta_de_conhecimento.png" width="320" height="233" data-original-width="712" data-original-height="518" /></a></div>
+![](/images/posts/1245-falta-de-conhecimento-falta_de_conhecimento.png)
+
 Oséias 4,6 – Meu povo se perde por falta de conhecimento. E existe algo mais verdadeiro do que essa afirmação do profeta? Isso inclusive vale para todas as instancias de nossa vida, mas sobre tudo, aqui estamos a refletir sobre nossa vida espiritual. Quando Deus se dirige a nós com estas palavras através do profeta Oséias, esta afirmação tão direta atinge muitas áreas e hierarquias do chamado assim povo de Deus.</br>
 </br>
 Como filho de Deus, pelo batismo, pai de família e catequista posso afirmar nesta minha curta caminhada já em meus 44 anos que, a falta de interesse por aquilo que é necessário faz muito mal na vida do cristão. Vamos entender. Já dizia São João Maria Vianney que não adianta ficar perdendo tempo com coisas que não irão nos levar ao céu. E mais, ele também disse que não adianta ficar perdendo tempo em aprender sobre coisas que, se não as conhecermos isso não irá ser motivo de condenação.</br>

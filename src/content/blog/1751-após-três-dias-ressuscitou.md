@@ -4,7 +4,9 @@ date: 2023-11-16T16:40:00.002Z
 heroImage: "/images/posts/1751-após-três-dias-ressuscitou-Ressuscitou.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1751-após-três-dias-ressuscitou-Ressuscitou.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="345" data-original-width="380" height="291" src="/images/posts/1751-após-três-dias-ressuscitou-Ressuscitou.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo cristão sabe que depois de três dias Jesus Cristo
+![](/images/posts/1751-após-três-dias-ressuscitou-Ressuscitou.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo cristão sabe que depois de três dias Jesus Cristo
 deixou a morte para trás, abriu definitivamente o caminho da porta estreita até
 o céu e decretou que todos precisam se esforçar se desejam um dia morar no céu,
 no lugar da alegria e felicidade eternas. Por aqui, faltando três dias para o domingo,
@@ -36,4 +38,7 @@ isso aconteceu no século passado eu não fugi nadinha do “script”. Uma deci
 não seria tratada com leviandade, pois é uma notificação oficial de que o
 relacionamento pode subir um patamar no campo da seriedade.<o:p></o:p></p><p class="MsoNormal">Artigos anteriores:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/esta-logo-ali.html" target="_blank">6 - Está logo ali</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-passo-de-cada-vez.html" target="_blank">5 - Um passo de cada vez</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/seis-dias.html" target="_blank">4 - Seis dias</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/so-mais-uma-semana.html" target="_blank">3 - Só mais uma semana</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-dia-menos.html" target="_blank">2 - Um dia a menos</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

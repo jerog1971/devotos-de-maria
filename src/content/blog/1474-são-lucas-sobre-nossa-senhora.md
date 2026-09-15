@@ -4,7 +4,9 @@ date: 2021-10-19T00:40:00.001Z
 heroImage: "/images/posts/1474-são-lucas-sobre-nossa-senhora-S_25C3_25A3o_Lucas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1474-são-lucas-sobre-nossa-senhora-S_25C3_25A3o_Lucas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="296" data-original-width="295" height="296" src="/images/posts/1474-são-lucas-sobre-nossa-senhora-S_25C3_25A3o_Lucas.png" width="295" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Seu evangelho é o que mais dedica espaço para narrativas
+![](/images/posts/1474-são-lucas-sobre-nossa-senhora-S_25C3_25A3o_Lucas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Seu evangelho é o que mais dedica espaço para narrativas
 sobre a mãe de Jesus. Nas santas missas de Maria Santíssima boa parte de seus
 textos são tomados do seu evangelho, pois foi quem mais longamente expos sua
 moralidade e bondade da alma. A oração do magnificat aprendemos em seus textos.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -34,4 +36,7 @@ ricos. Acolheu a Israel, seu servo, lembrado da sua misericórdia, conforme
 prometera a nossos pais, em favor de Abraão e sua posteridade, para sempre” –
 Lucas 1,46-55.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

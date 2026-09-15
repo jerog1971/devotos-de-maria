@@ -4,7 +4,9 @@ date: 2022-03-25T17:59:00.004Z
 heroImage: "/images/posts/1258-apesar-de-tudo-temos-jesus-jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1258-apesar-de-tudo-temos-jesus-jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" height="291" src="/images/posts/1258-apesar-de-tudo-temos-jesus-jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele nos disse que não devemos perturbar nossos corações, que
+![](/images/posts/1258-apesar-de-tudo-temos-jesus-jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ele nos disse que não devemos perturbar nossos corações, que
 devemos colocar nossa confiança nele. Nos disse que estará conosco até o fim
 dos dias. Ele nos desejou a sua paz, não como a paz pregada pelo mundo. Também
 nos advertiu que quem não está com ele, está contra ele.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -39,4 +41,7 @@ fazer violência contra tudo que é contrário ao altíssimo e uma luta contra o
 que, se preciso for, exija de nós, até o nosso sangue (Mateus 11,12 e Hebreus
 12,4).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

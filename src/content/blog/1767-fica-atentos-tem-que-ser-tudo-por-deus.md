@@ -4,7 +4,9 @@ date: 2020-08-24T22:16:00Z
 heroImage: "/images/posts/1767-fica-atentos-tem-que-ser-tudo-por-d-Jefferson_1972.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1767-fica-atentos-tem-que-ser-tudo-por-d-Jefferson_1972.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="585" height="512" src="/images/posts/1767-fica-atentos-tem-que-ser-tudo-por-d-Jefferson_1972.jpg" width="384" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eclesiástico 2,11-13 – “Considerai, meus filhos, as gerações
+![](/images/posts/1767-fica-atentos-tem-que-ser-tudo-por-d-Jefferson_1972.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Eclesiástico 2,11-13 – “Considerai, meus filhos, as gerações
 humanas: sabei que nenhum daqueles que confiavam no Senhor foi confundido. Pois
 quem foi abandonado após ter perseverado em seus mandamentos? Quem é aquele
 cuja oração foi desprezada? Pois Deus é cheio de bondade e de misericórdia, ele
@@ -41,4 +43,4 @@ temos na terra nossos pais que nos corrigem e, no entanto, os olhamos com
 respeito. Com quanto mais razão nos havemos de submeter ao Pai de nossas almas,
 o qual nos dará a vida?”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>

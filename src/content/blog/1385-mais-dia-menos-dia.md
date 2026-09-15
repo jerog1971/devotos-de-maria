@@ -4,7 +4,9 @@ date: 2021-09-01T20:14:00Z
 heroImage: "/images/posts/1385-mais-dia-menos-dia-mais_dia_menos_dia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1385-mais-dia-menos-dia-mais_dia_menos_dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="492" data-original-width="496" height="317" src="/images/posts/1385-mais-dia-menos-dia-mais_dia_menos_dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E então, a vida é uma sucessão de horas em meio a um caminhar
+![](/images/posts/1385-mais-dia-menos-dia-mais_dia_menos_dia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">E então, a vida é uma sucessão de horas em meio a um caminhar
 sem sentido? Trabalhamos, comemos, dormimos, pagamos as contas, sofremos, nos
 preocupamos e, pincelado no meio disso tudo, estão timidamente colocadas as alegrias.
 Puxa vida! Nossa vida, que é eterna, exige de cada um nesta primeira etapa, um
@@ -35,4 +37,7 @@ como um ladrão. Ou estamos sempre prontos não deixando nada para amanhã, isso
 arrependimentos e fazer a coisa certa, ou sofreremos como o exemplo das virgens
 imprudentes relatadas no evangelho.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

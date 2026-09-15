@@ -4,7 +4,9 @@ date: 2023-01-28T18:40:00.003Z
 heroImage: "/images/posts/210-blasfêmias-blasf_C3_AAmia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/210-blasfêmias-blasf_C3_AAmia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="383" data-original-width="555" height="221" src="/images/posts/210-blasfêmias-blasf_C3_AAmia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A blasfêmia é desenfreada hoje em dia. Algumas das coisas
+![](/images/posts/210-blasfêmias-blasf_C3_AAmia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A blasfêmia é desenfreada hoje em dia. Algumas das coisas
 que vemos nos noticiários nos deixam chocados; perguntamo-nos até como tais
 abominações poderiam ocorrer. É desnecessário explicar por que Maria é a Mãe
 das Dores. De fato, os pecados que vemos acontecer hoje devem entristecer
@@ -35,4 +37,7 @@ católicos e suas crenças.<o:p></o:p></p>
 apóstolo, unir nossos sofrimentos aos de Cristo e como nosso salvador pedir: “Pai,
 perdoai-lhes porque não sabem o que fazem”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

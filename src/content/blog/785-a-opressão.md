@@ -4,7 +4,8 @@ date: 2017-06-27T17:31:00.001Z
 heroImage: "/images/posts/785-a-opressão-inside.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/785-a-opressão-inside.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/785-a-opressão-inside.png" width="320" height="300" data-original-width="415" data-original-height="389" /></a></div>
+![](/images/posts/785-a-opressão-inside.png)
+
 Se existe uma coisa que o diabo e o mundo gosta de fazer é oprimir pessoas. Oprimir é fazer pressão, é sufocar, é pressionar, é exercer força coercitiva sobre uma situação ou alguém. Primeiro a pessoa é atacada pela opressão, que pode perigosamente se elevar ao patamar da depressão em alguns casos. O sujeito é pressionado pelos padrões da sociedade e essa opressão faz com que ele tente organizar sua existência conforme essas exigências. Se não conseguir, essa frustração irá desloca-lo da sociedade e a depressão poderá bater às portas. Ou então a pessoa se impõe uma auto exigência em forma de opressão, cobrando de si um comportamento ideal que não está ao seu alcance. Por não ser tangível e palpável a derrota sucessiva de suas tentativas poderá também lhe causar a depressão.</br>
 </br>
 Seja como for, ao cristão uma coisa precisa ficar bem clara. Sozinho não conseguimos (João 15,5). Se não pedirmos ao Espírito Santo o dom da fortaleza, nossos problemas, dificuldades, tribulações e provações poderão terminar acabando conosco. Mais uma vez, sozinhos não conseguimos. A batalha existe, ela está aí para ser lutada, acoados num canto escuro, encolhidos esperando a poeira baixar não vai adiantar nada. Não basta evitarmos o mal, precisamos fazer o bem. Não basta suportar a opressão é preciso combate-la.</br>

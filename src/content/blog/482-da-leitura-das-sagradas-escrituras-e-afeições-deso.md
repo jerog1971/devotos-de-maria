@@ -4,7 +4,11 @@ date: 2020-06-10T16:44:00.002Z
 heroImage: "/images/posts/482-da-leitura-das-sagradas-escrituras-e-testamento.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/482-da-leitura-das-sagradas-escrituras-e-testamento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" src="/images/posts/482-da-leitura-das-sagradas-escrituras-e-img-1985896950.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nas sagradas escrituras devemos buscar a verdade, e não e
+<br />
+
+![](/images/posts/482-da-leitura-das-sagradas-escrituras-e-img-1985896950.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nas sagradas escrituras devemos buscar a verdade, e não e
 eloquência. Todo livro sagrado deve ser lido com o mesmo espírito que o ditou.
 Nas escrituras devemos antes buscar nosso proveito que a sutileza da linguagem.
 Tão grata nos deve ser a leitura dos livros simples e piedosos, como a dos

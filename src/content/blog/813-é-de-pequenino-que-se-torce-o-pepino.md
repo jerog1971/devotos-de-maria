@@ -4,7 +4,8 @@ date: 2017-01-08T00:15:00.001Z
 heroImage: "/images/posts/813-é-de-pequenino-que-se-torce-o-pepino-pequenino.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/813-é-de-pequenino-que-se-torce-o-pepino-pequenino.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="307" height="320" src="/images/posts/813-é-de-pequenino-que-se-torce-o-pepino-pequenino.png" width="310" /></a></div>
+![](/images/posts/813-é-de-pequenino-que-se-torce-o-pepino-pequenino.png)
+
 A história que retrata a educação familiar, tradicionalmente passada de gerações de pai para filho, é repleta, como todos bem conhecem de vários ditos populares. Na expressão mais acertada da sabedoria popular e fazendo um paralelo com Nosso Senhor Jesus Cristo, os ditados populares são as parábolas do povo. Assim como Jesus, para melhor se fazer compreender, transmitia alguns de seus ensinos por meio das tão conhecidas parábolas, estes ditados contém neles inúmeras verdades muito bem explicadas que por si só estão repletas de muita sabedoria.
 
 Esta educação, passada pela tradição familiar (e aí já podemos ver a importância de nossa tradição católica) precisa de fato, ser levada muito a sério e, o que é mais importante, nunca deixar de existir. Não existe essa coisa de que agora meu filho é de maior, é adulto e sabe se cuidar. Nada disso. Jesus ensina a todos, sem distinção de pessoas (Atos 10,34), e com certeza, como bem aprendemos do evangelho, isso inclui crianças, mulheres, homens e idosos.
@@ -22,6 +23,5 @@ Empunhemos nossa bandeira de cristãos, que é a nossa cruz (Lucas 9,23) e não 
 Artigo Relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/05/primeiro-o-reino-de-deus.html" target="_blank">Primeiro o Reino de Deus - 30/05/2016</a>
-
 
 fonte: Jefferson Roger

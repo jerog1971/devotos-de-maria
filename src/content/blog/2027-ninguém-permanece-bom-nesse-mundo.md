@@ -4,7 +4,9 @@ date: 2022-12-21T19:56:00.001Z
 heroImage: "/images/posts/2027-ninguém-permanece-bom-nesse-mundo-img-480541441.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2027-ninguém-permanece-bom-nesse-mundo-img-480541441.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="319" data-original-width="432" height="236" src="/images/posts/2027-ninguém-permanece-bom-nesse-mundo-img-531357663.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos trazer para a realidade de nossa existência. Podemos facilmente
+![](/images/posts/2027-ninguém-permanece-bom-nesse-mundo-img-531357663.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vamos trazer para a realidade de nossa existência. Podemos facilmente
 utilizar essa expressão falada pelo herói da DC Comics – o homem de aço.
 Talvez, se formos um oceano de positividade, quem sabe, muito remotamente,
 possa ter existido ou exista alguém que permaneceu bom nesse mundo, em toda a
@@ -39,4 +41,7 @@ vida de um modo diferente, um modo como o que ele nos ensinou. Não dará porque
 em sua misericórdia, já nos concede essa dádiva todos os dias, no aqui e no
 agora.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

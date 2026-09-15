@@ -4,7 +4,9 @@ date: 2025-07-28T17:04:00.001Z
 heroImage: "/images/posts/313-dedicação-extrema-img-520752675.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/313-dedicação-extrema-img-520752675.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="345" height="247" src="/images/posts/313-dedicação-extrema-img-98716832.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">Sempre é bom lembrar o quanto o ser humano é capaz de se empenhar
+![](/images/posts/313-dedicação-extrema-img-98716832.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;">Sempre é bom lembrar o quanto o ser humano é capaz de se empenhar
 para conquistar objetivos. Alguns chegam a prejudicar até alguns
 aspectos de suas vidas por conta desses propósitos. A vontade é
 tamanha que às vezes vira até obsessão. Quando as coisas tomam
@@ -39,4 +41,7 @@ dificuldade e, se é assim que as coisas estão colocadas, o jeito é
 arregaçar as mangas e botar para quebrar, indo com tudo e, ao
 extremo.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

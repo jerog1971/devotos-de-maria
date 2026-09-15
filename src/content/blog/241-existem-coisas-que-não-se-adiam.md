@@ -4,7 +4,9 @@ date: 2022-04-24T16:38:00.003Z
 heroImage: "/images/posts/241-existem-coisas-que-não-se-adiam-img-766646567.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/241-existem-coisas-que-não-se-adiam-img-766646567.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="412" data-original-width="447" height="295" src="/images/posts/241-existem-coisas-que-não-se-adiam-img-98623699.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em sua jornada de vida muitas pessoas, se não a maioria, já
+![](/images/posts/241-existem-coisas-que-não-se-adiam-img-98623699.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Em sua jornada de vida muitas pessoas, se não a maioria, já
 passaram pela experiência de planejarem alguma coisa e verem seus planos
 modificados por Deus. De fato, agindo dessa maneira, o altíssimo relembra suas
 criaturas de que as coisas são como ele quer. Até ditado popular sobre o
@@ -31,4 +33,7 @@ justo juiz. Certas coisas não se adiam, com uma vida e uma alma para salvar,
 não podemos hoje, deixar para amanhã o que devíamos ter feito ontem. O ladrão
 vem sem aviso e como disse Jesus: eis que estamos avisados sobre tudo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2017-04-27T14:10:00.001Z
 heroImage: "/images/posts/1577-a-vigilância-do-casal-diabonomeio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1577-a-vigilância-do-casal-diabonomeio.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="369" data-original-width="299" height="320" src="/images/posts/1577-a-vigilância-do-casal-diabonomeio.png" width="259" /></a></div>
+![](/images/posts/1577-a-vigilância-do-casal-diabonomeio.png)
+
 Quando se passa muito tempo de uma vida em convivência com uma pessoa, torna-se fato de que essa pessoa se tornará quem mais nos conhece. Mesmo que ela diga que passou tanto tempo conosco e não nos conhece não pode ser verdade. Alguém que divide sob o mesmo teto tudo que a vida nos impõe, se assume para si o compromisso confirmado na presença de Deus, no ato do sacramento do matrimônio, essa pessoa, que agora é o cônjuge, irá passar pela purificação que faz parte dessa condição criada no princípio (Gênesis 2,24). O que Deus uniu, não separe o homem, confirmou mais tarde Jesus. Sendo assim, essa realidade pensada e criada por Deus, é muito conhecida por nosso cruel inimigo número um, que quer arrastar quantos puder para seu lado. Ele não mede esforços para ceifar a salvação eterna da vida das pessoas. Nós sim, agimos de forma bem diferente e quantas vezes nosso esforço nem chega ao patamar mínimo. Com uma alma para salvar e uma única vida para fazer isso, sem sabermos o quanto ela dura, ficamos a brincar com fogo e correndo o risco de nos queimarmos. Existe sempre a história do leite derramado. Depois, não adianta chorar.
 
 Pois bem, dizia eu que o danado do diabo se mete em toda parte. Ele como lemos na carta de São Pedro nos espreita como um leão procurando a quem dar o bote. E por que espreita? Porque ele sempre anda atrás de uma brecha para se enfiar. O diabo não precisa que abramos toda a porta do nosso coração e permitamos que ele entre com suas oferendas. Basta uma fresta consentida para ele conquistar o resto. Se dermos espaço e dialogarmos, as ocasiões de pecado podem se tornar pecados capitais e deste ponto em diante os pecados graves começam a despontar no fim do túnel, aguardando a derrocada do cristão.
@@ -16,7 +17,6 @@ Já sabemos pela boca do próprio Jesus que sem ele não podemos fazer nada (Jo�
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2017/03/como-andam-as-coisas.html" target="_blank">Como andam as coisas?</a>
-
 
 fonte: Jefferson Roger
 

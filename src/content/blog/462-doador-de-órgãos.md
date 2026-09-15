@@ -4,7 +4,8 @@ date: 2018-08-29T19:40:00.001Z
 heroImage: "/images/posts/462-doador-de-órgãos-img-252821354.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/462-doador-de-órgãos-img-252821354.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/462-doador-de-órgãos-img-977429196.png" width="320" height="308" data-original-width="409" data-original-height="394" /></a></div>
+![](/images/posts/462-doador-de-órgãos-img-977429196.png)
+
 O mundo, sabemos muito bem, está repleto de muita coisa ruim e que nos faz mal de várias formas. Nossa saúde, tanto física quanto espiritual sempre está sendo posta à prova. Embora em muitos casos exista um desequilíbrio na forma como as pessoas (composto de corpo e alma) cuidam desse detalhe, que é o de manter sua saúde completa em bom estado, ainda assim, muitos vivem na esfera do primeiro eu, os outros, se houver tempo, vejo o que faço.</br>
 </br>
 Felizmente na humanidade, graças a Deus, existe também muita coisa boa. Aqui deixo mais um relato que aconteceu no oriente e que serve de bom exemplo para nós cristãos. Jesus nos disse que não existe amor maior do que aquele que dá a sua vida pelo irmão. O que vou relatar não é o caso de forma direta, porém, tem raízes nos mesmo princípios. Trata-se de um menino de 11 anos chamado Liang Yaoyi, um chinês que foi diagnosticado com câncer no cérebro. Um tipo de câncer que iria vencer mais uma batalha a seu favor.</br>

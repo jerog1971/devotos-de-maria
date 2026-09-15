@@ -4,7 +4,11 @@ date: 2020-06-23T19:06:00.002Z
 heroImage: "/images/posts/1752-palavras-da-pequena-jacinta-marto-fatima2.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1752-palavras-da-pequena-jacinta-marto-fatima2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="215" data-original-width="221" src="/images/posts/1752-palavras-da-pequena-jacinta-marto-img-264102118.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Como bem sabemos, nós adultos não temos desculpa; Nossa
+<br />
+
+![](/images/posts/1752-palavras-da-pequena-jacinta-marto-img-264102118.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Como bem sabemos, nós adultos não temos desculpa; Nossa
 Senhora pediu para três crianças que rezassem o terço todos os dias. O céu
 nunca nos pede o impossível. Os homens colocam obstáculos naquilo que Deus nos
 pede. Ora bolas! Ele preparou nossa morada eterna no céu e as pessoas ainda

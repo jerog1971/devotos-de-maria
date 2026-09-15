@@ -4,7 +4,11 @@ date: 2020-08-03T20:27:00.003Z
 heroImage: "/images/posts/1432-quando-se-envolve-com-o-mal-Efeitos_do_mal.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1432-quando-se-envolve-com-o-mal-Efeitos_do_mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="483" data-original-width="531" height="386" src="/images/posts/1432-quando-se-envolve-com-o-mal-Efeitos_do_mal.png" width="424" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se alguém se aproximar de você e lhe oferecer um copo de
+<br />
+
+![](/images/posts/1432-quando-se-envolve-com-o-mal-Efeitos_do_mal.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Se alguém se aproximar de você e lhe oferecer um copo de
 veneno dizendo que agora foi descoberto que veneno faz bem para a saúde, que
 você pode tomar quantos copos quiser por dia que não irão lhe prejudicar,
 certamente isso lhe soaria como um absurdo! Se num copo com água for misturado

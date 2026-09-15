@@ -4,7 +4,9 @@ date: 2024-05-27T19:24:00Z
 heroImage: "/images/posts/917-as-fissuras-na-barragem-As_20fissuras_20na_20barragem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/917-as-fissuras-na-barragem-As_20fissuras_20na_20barragem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="314" data-original-width="498" height="202" src="/images/posts/917-as-fissuras-na-barragem-As_20fissuras_20na_20barragem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Revoluções são como rompimentos de barragens. Em vez de um
+![](/images/posts/917-as-fissuras-na-barragem-As_20fissuras_20na_20barragem.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Revoluções são como rompimentos de barragens. Em vez de um
 aumento imprevisto no volume de água contida, é o enfraquecimento de sua
 estrutura de contenção devido à deterioração não detectada que causa a abertura
 repentina de brechas através das quais o fluxo tumultuado da massa líquida
@@ -49,4 +51,7 @@ acontecimentos desses tempos, também confirmados em Fátima. Fiquemos, pois,
 fortes e perseverantes, já que a luta irá exigir de todo filho de Deus um
 compromisso que vai até o sangue na luta contra o pecado (Hebreus 12,4).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

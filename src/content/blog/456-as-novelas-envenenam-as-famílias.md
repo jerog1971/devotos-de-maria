@@ -4,7 +4,8 @@ date: 2016-07-04T11:30:00.002Z
 heroImage: "/images/posts/456-as-novelas-envenenam-as-famílias-veneno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/456-as-novelas-envenenam-as-famílias-veneno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/456-as-novelas-envenenam-as-famílias-veneno.png" width="320" height="245" data-original-width="506" data-original-height="387" /></a></div>
+![](/images/posts/456-as-novelas-envenenam-as-famílias-veneno.png)
+
 </br>
 As novelas envenenam os valores que a família possui, atingindo a mente até dos cristãos. Certa vez, um amigo chamado Franz Victor, psicólogo já falecido, disse-me que as novelas fazem uma pregação sistemática de antivalores. Embora isso já faça bastante tempo, eu nunca esqueci essa frase. Meu amigo me disse uma grande verdade.</br>
 </br>

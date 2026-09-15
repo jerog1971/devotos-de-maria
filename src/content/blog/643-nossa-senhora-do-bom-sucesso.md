@@ -4,7 +4,9 @@ date: 2024-01-27T15:14:00.001Z
 heroImage: "/images/posts/643-nossa-senhora-do-bom-sucesso-img-1599578948.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/643-nossa-senhora-do-bom-sucesso-img-1599578948.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="321" data-original-width="397" height="259" src="/images/posts/643-nossa-senhora-do-bom-sucesso-img-672784796.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Durante os séculos XV e XVI, Nossa Senhora do Bom Sucesso
+![](/images/posts/643-nossa-senhora-do-bom-sucesso-img-672784796.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Durante os séculos XV e XVI, Nossa Senhora do Bom Sucesso
 apareceu em Quito, Equador, a uma freira espanhola – Mariana de Jesus Torres – cuja
 vida era pouco conhecida, mas extraordinária, profetizando muitas coisas que têm
 uma ligação direta com nossos dias; seguem aqui alguns trechos da fala de Nossa
@@ -87,4 +89,7 @@ Eucarístico do Meu Santíssimo Filho que tenha piedade dos Seus ministros e
 acabe o mais depressa possível com estes tempos infelizes, enviando à Sua
 Igreja o Prelado que restaurará o espírito dos seus sacerdotes”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Adaptado do site tfp.org<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Adaptado do site tfp.org<o:p></o:p></p></div>
+
+<br /> 
+

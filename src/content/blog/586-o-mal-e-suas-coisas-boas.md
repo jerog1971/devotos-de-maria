@@ -4,9 +4,11 @@ date: 2025-05-15T17:00:00.002Z
 heroImage: "/images/posts/586-o-mal-e-suas-coisas-boas-img-1656919724.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/586-o-mal-e-suas-coisas-boas-img-1656919724.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="544" data-original-width="578" height="301" src="/images/posts/586-o-mal-e-suas-coisas-boas-img-375562521.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/586-o-mal-e-suas-coisas-boas-img-375562521.png)
 
-<p></p><p class="MsoNormal">Pois é, é isso mesmo que você leu, caro leitor, quem diria
+<br /> 
+
+<p class="MsoNormal">Pois é, é isso mesmo que você leu, caro leitor, quem diria
 que algo mau poderia conter em si algo bom. Todavia a questão não pode causar
 estranheza já que se ouve no meio cristão que “de um mal Deus pode tirar algo de
 bom”. Mesmo assim não estamos a falar aqui do mesmo tipo de bem ou mesmo tipo
@@ -38,5 +40,4 @@ assim, deixar de buscar, também como diziam os santos, os prazeres baixos e as 
 infrutíferas no que concerne a salvação da alma.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

@@ -4,7 +4,9 @@ date: 2022-06-07T19:32:00.003Z
 heroImage: "/images/posts/1800-as-provas-da-vida-alunos_20em_20prova.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1800-as-provas-da-vida-alunos_20em_20prova.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="914" data-original-width="1118" height="262" src="/images/posts/1800-as-provas-da-vida-alunos_20em_20prova.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vivemos num mundo de provações e tentações; uma tem origem boa
+![](/images/posts/1800-as-provas-da-vida-alunos_20em_20prova.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vivemos num mundo de provações e tentações; uma tem origem boa
 e outra não. Na bíblia lemos que precisamos ser provados por Deus para
 crescermos em santidade. “O Senhor corrige a quem ama e castiga todo aquele que
 reconhece por seu filho (Pr 3,11s). Estais sendo provados para a vossa
@@ -40,4 +42,7 @@ cadinho da humilhação. Põe tua confiança em Deus e ele te salvará; orienta 
 o teu caminho e espera nele. Conserva o temor dele até na velhice” –
 Eclesiástico 2, 1-6.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-06-29T19:55:00Z
 heroImage: "/images/posts/1127-nem-sempre-dá-certo-nem_20sempre_20d_C3_A1_20certo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1127-nem-sempre-dá-certo-nem_20sempre_20d_C3_A1_20certo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="275" data-original-width="306" height="275" src="/images/posts/1127-nem-sempre-dá-certo-nem_20sempre_20d_C3_A1_20certo.png" width="306" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existem muitas coisas na vida que não podem ser corrigidas;
+![](/images/posts/1127-nem-sempre-dá-certo-nem_20sempre_20d_C3_A1_20certo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existem muitas coisas na vida que não podem ser corrigidas;
 elas ficam à mercê dos arrependimentos e do perdão divino. Isso tudo por conta
 da liberdade que Deus nos deu em escolhermos e decidirmos. Por mais que
 tentemos é assim que Deus criou as coisas, não podemos ir contra as
@@ -33,4 +35,7 @@ máscaras que em vida foram injustas quando acobertavam o mal dando a ilusão de
 bem. Não adianta, em vida os consertos não serão perfeitos, mas somente para
 Deus tudo é possível e será no dia derradeiro alinhado novamente.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

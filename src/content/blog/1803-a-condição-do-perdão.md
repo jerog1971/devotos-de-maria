@@ -4,12 +4,15 @@ date: 2018-06-20T15:31:00Z
 heroImage: "/images/posts/1803-a-condição-do-perdão-perdoar_o_outro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1803-a-condição-do-perdão-perdoar_o_outro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1803-a-condição-do-perdão-perdoar_o_outro.png" width="320" height="306" data-original-width="404" data-original-height="386" /></a></div>
+![](/images/posts/1803-a-condição-do-perdão-perdoar_o_outro.png)
+
 Nosso senhor Jesus Cristo, quando de sua passagem pelo vale de lágrimas, no episódio do conhecido sermão da montanha, nos deixa muito claro que a tarefa de perdoar é uma via de mão dupla. Logo após ele ensinar a oração do Pai Nosso, onde no final, pedimos que sejamos perdoados, dentro dessa oração já nos é apresentada a condição do perdão. Vale lembrar:
 Mateus 6,12 – “perdoai as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido...”</br>
 </br>
 Pois bem, e para que não restasse alguma dúvida o Cristo foi logo explicando do que se trata essa condição, embora a frase já nos é muito clara. Mateus 6,14-15 – “Porque, se perdoardes aos homens as suas ofensas, vosso Pai celeste também vos perdoará. Mas se não perdoardes aos homens, tampouco vosso Pai vos perdoará.” E como vemos muito bem, é aí que a porca torce o rabo! Jesus nos ensina que não teremos direito ao perdão se não concedermos o perdão. Eis, sem dúvida nenhuma, uma tarefa que pode chegar a proporções titânicas. Sim, porque certos perdões custam muito caros para serem liberados. Falamos aqui de fato de perdão e não de desculpas condicionadas. Difícil atitude tem o servo de Cristo que é chamado a imita-lo.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1803-a-condição-do-perdão-jesus_perdoa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1803-a-condição-do-perdão-jesus_perdoa.png" width="320" height="291" data-original-width="437" data-original-height="398" /></a></div>
+
+![](/images/posts/1803-a-condição-do-perdão-jesus_perdoa.png)
+
 Perdoar é abrir mão da justiça, parece algo exigente demais pedido por Deus. No entanto a aparente exigência cai por terra se refletirmos sobre nossa condição sempre miserável e necessitada constantemente do perdão divino. Ora, queremos sempre o perdão de Deus e dos outros, mas nem sempre estamos dispostos a conceder o perdão para alguém. A bíblia nos ensina em Efésios que não devemos deixar o sol se pôr sobre nosso ressentimento. Ela diz que essa atitude significa “dar lugar ao demônio”.</br>
 </br>
 Portanto, quando a pessoa é pega numa situação que admite não conseguir perdoar, é preciso avaliar as causas dessa deficiência, dessa dificuldade. É como um aluno que vai mal em determinada disciplina, se ele não parar para analisar o porquê do seu mau desempenho, para poder corrigir o que está acontecendo, não conseguirá o êxito da sua aprovação na mesma. Dificilmente irá adiantar o aluno que vai mal na disciplina forçar alguma situação em seu favor perante o professor que está aplicando a matéria, ou ele se adapta ao professor e procura se aplicar no entendimento dos conteúdos das aulas, se esmerando ainda mais no cumprimento de tudo que for pedido ou fatalmente irá reprovar.</br>

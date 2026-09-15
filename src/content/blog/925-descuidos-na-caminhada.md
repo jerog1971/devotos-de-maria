@@ -4,7 +4,9 @@ date: 2022-05-20T19:29:00.003Z
 heroImage: "/images/posts/925-descuidos-na-caminhada-descuidos_20na_20caminhada.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/925-descuidos-na-caminhada-descuidos_20na_20caminhada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="530" data-original-width="586" height="289" src="/images/posts/925-descuidos-na-caminhada-descuidos_20na_20caminhada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não importa o quanto uma pessoa esteja preparada fisicamente
+![](/images/posts/925-descuidos-na-caminhada-descuidos_20na_20caminhada.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não importa o quanto uma pessoa esteja preparada fisicamente
 para a prática de um exercício físico como uma corrida ou caminhada. Se durante
 o percurso não tomar os devidos cuidados no decorrer do exercício, corre o
 risco de sofrer um acidente de proporções preocupantes, quiçá até graves.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -33,4 +35,7 @@ eternas no reino que nos foi preparado desde o início dos tempos; onde não
 haverá mais choro e ranger de dentes e toda lágrima será enxugada. Por certo,
 para os que creem em Deus, todo cuidado não será demais e valerá todo esforço.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

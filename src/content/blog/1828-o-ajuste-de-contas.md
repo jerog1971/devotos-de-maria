@@ -4,7 +4,9 @@ date: 2021-02-04T14:34:00.004Z
 heroImage: "/images/posts/1828-o-ajuste-de-contas-ajuste_de_contas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1828-o-ajuste-de-contas-ajuste_de_contas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="363" src="/images/posts/1828-o-ajuste-de-contas-ajuste_de_contas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia em muitas passagens nos ensina que haverá um ajuste
+![](/images/posts/1828-o-ajuste-de-contas-ajuste_de_contas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A bíblia em muitas passagens nos ensina que haverá um ajuste
 de contas. Nessa vida, enquanto percorremos dia após dia a meta que é o retorno
 para a pátria celeste (pelo menos é o que Deus espera de cada um), esbarramos
 em muitos percalços e muitas distrações. Tudo contribui para tornar nossa
@@ -40,4 +42,7 @@ coração e precisamos sempre levantar de nossas quedas, estender a mão para a
 graça de um auxílio oportuno e sermos pegos na hora da morte num estado
 vigilante de quem luta até o sangue contra o pecado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

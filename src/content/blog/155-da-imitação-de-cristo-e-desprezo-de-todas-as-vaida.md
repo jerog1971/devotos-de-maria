@@ -4,7 +4,11 @@ date: 2020-06-07T15:42:00Z
 heroImage: "/images/posts/155-da-imitação-de-cristo-e-desprezo-de-todas-as-vaida-jesus.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/155-da-imitação-de-cristo-e-desprezo-de-todas-as-vaida-jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="341" src="/images/posts/155-da-imitação-de-cristo-e-desprezo-de-todas-as-vaida-jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Quem me segue não anda nas trevas, diz o Senhor (João 8,12).
+<br />
+
+![](/images/posts/155-da-imitação-de-cristo-e-desprezo-de-todas-as-vaida-jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Quem me segue não anda nas trevas, diz o Senhor (João 8,12).
 São estas palavras de Cristo, pelas quais somos advertidos que imitemos sua
 vida e seus costumes, se verdadeiramente ser iluminados e livres de toda
 cegueira de coração. Seja, pois, o nosso principal empenho meditar sobre a vida

@@ -4,7 +4,8 @@ date: 2017-05-16T20:12:00.001Z
 heroImage: "/images/posts/1095-vaidoso-precisa-de-plateia-vaidoso.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1095-vaidoso-precisa-de-plateia-vaidoso.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="518" data-original-width="582" height="285" src="/images/posts/1095-vaidoso-precisa-de-plateia-vaidoso.png" width="320" /></a></div>
+![](/images/posts/1095-vaidoso-precisa-de-plateia-vaidoso.png)
+
 Isso é uma consequência natural de quem é vaidoso. O vaidoso sustenta um status de poder e riqueza, seja ela financeira ou não. Se ele, o vaidoso, compra uma roupa nova, precisa mostrar para alguém, precisa se exibir. Se as pessoas não lhe dão bola então o jeito é escancarar, tocar no assunto e falar abertamente: olha minha roupa nova. O vaidoso se basta, não consegue conviver com a humildade, com a simplicidade e pobreza de espírito. Sai para lá essa coisa de pobreza, de qualquer tipo. Vaidoso sempre precisa comprar a roupa da moda porque sua roupa já ficou velha ou caiu no desgosto. Seus armários estão sempre abarrotados, em último caso doam alguma peça de roupa. Dizem que custou dinheiro e se apegam mesmo aos bens materiais. Casos graves deste tipo de apego transformam as pessoas em acumuladores compulsivos.
 
 Quem é vaidoso não consegue viver sozinho pois precisa sempre que alguém esteja a lhe aplaudir. Tudo para o vaidoso gira em torno de um palco como se ele sempre estivesse a dar espetáculo. Seu corpo é o primeiro envolvido no assunto da vaidade. Vestir-se bem para o vaidoso não é estar bem arrumado, limpo e decente de modo que suas vestes permitam que suas qualidades interiores apareçam. Vestir-se bem para quem tem vaidade é estar arrumado de forma que seu corpo em combinação com o que veste formem um belo par e possam, aos olhos de todos, causarem olhares de todas as espécies. Olhares de cobiça, olhares de inveja, olhares de desdém e olhares de raiva. A pessoa que é vaidosa se torna um alvo ambulante e promove muitas formas de pecado com seus exemplos e atitudes.
@@ -18,6 +19,5 @@ No fim a vaidade vai se desenvolvendo na vida da pessoa e vai perigosamente cami
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/03/cuidado-com-vaidade.html" target="_blank">Cuidado com a vaidade</a>
-
 
 fonte: Jefferson Roger

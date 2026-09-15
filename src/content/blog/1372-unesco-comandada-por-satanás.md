@@ -4,7 +4,8 @@ date: 2016-11-21T11:34:00.001Z
 heroImage: "/images/posts/1372-unesco-comandada-por-satanás-unesco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1372-unesco-comandada-por-satanás-unesco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1372-unesco-comandada-por-satanás-unesco.png" width="320" height="156" data-original-width="456" data-original-height="223" /></a></div>
+![](/images/posts/1372-unesco-comandada-por-satanás-unesco.png)
+
 Muitas pessoas ao redor do mundo fazem um esforço tremendo para viver uma vida e um progresso evolutivo e inevitável, (assim dizem elas) para viverem suas vidas trabalhando com unhas e dentes para que elas, as suas vidas, sejam um paraíso já aqui na terra. Este esforço que é tremendo, o é porque as pessoas querem, permitam-me a comparação, jogar um jogo sem obedecer às regras do mesmo. O ainda, querem trabalhar numa grande empresa sem seguirem as normas e regulamentos internos da mesma. Como pode? Não pode não é mesmo!</br>
 </br>
 Mas, muitos acham que pode. Acham que de Deus só lhes cabe aceitar que os criou e que os concedeu o livre-arbítrio, a liberdade. Não compreendem o que de fato é esse livre-arbítrio e acham que essa liberdade os permite fazerem tudo o que querem, ferindo a natureza criada por Deus, revoltando-se contra o criador e pecando a vontade, defendendo e empunhando a bandeira de sua causa, que é uma causa que não caminha e não está alinhada ao evangelho de Jesus Cristo.</br>

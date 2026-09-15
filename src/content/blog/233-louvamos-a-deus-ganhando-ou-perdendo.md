@@ -4,7 +4,9 @@ date: 2023-06-20T19:16:00Z
 heroImage: "/images/posts/233-louvamos-a-deus-ganhando-ou-perdendo-img-1772457442.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/233-louvamos-a-deus-ganhando-ou-perdendo-img-1772457442.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="499" height="204" src="/images/posts/233-louvamos-a-deus-ganhando-ou-perdendo-img-699283611.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O título deste artigo é uma das mensagens passadas em um dos
+![](/images/posts/233-louvamos-a-deus-ganhando-ou-perdendo-img-699283611.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O título deste artigo é uma das mensagens passadas em um dos
 filmes dos irmãos Kendricks, chamado Desafiando Gigantes. A proposta diz que é
 preciso agradecer por tudo e orar sem cessar, exatamente como lemos nas
 sagradas escrituras. O foco aqui reside no fato de que o ser humano é hábil em falar
@@ -34,4 +36,7 @@ momento, a fé garante na espera confiante em Deus de que sempre vale o que
 rezamos na oração que Jesus nos ensinou: “seja feita a vossa vontade, assim na
 terra com no céu”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

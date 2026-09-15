@@ -4,7 +4,9 @@ date: 2021-10-05T12:22:00.003Z
 heroImage: "/images/posts/1500-descansar-ao-invés-de-desistir-dencansar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1500-descansar-ao-invés-de-desistir-dencansar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="394" height="320" src="/images/posts/1500-descansar-ao-invés-de-desistir-dencansar.png" width="313" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É o que as pessoas precisam aprender. Muitas vezes cansam durante
+![](/images/posts/1500-descansar-ao-invés-de-desistir-dencansar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É o que as pessoas precisam aprender. Muitas vezes cansam durante
 a caminhada para a porta estreita, a porta do céu, a entrada para a Jerusalém
 Celeste, pois, fala sério, dá trabalho subir toda essa ladeira ainda mais com
 nossa cruz nas costas, e quando cansam fazem o que? Desistem! Buscam o plano B,
@@ -36,4 +38,7 @@ Se a vida eterna é almejada todo esforço não é em vão. São João Maria Via
 dizia que agora é hora de trabalharmos pela nossa salvação; no céu
 descansaremos!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2015-12-10T12:34:00Z
 heroImage: "/images/posts/367-desagradar-a-deus-levitico_20_13.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/367-desagradar-a-deus-levitico_20_13.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/367-desagradar-a-deus-levitico_20_13.png" width="320" height="184" data-original-width="418" data-original-height="241" /></a></div>
+![](/images/posts/367-desagradar-a-deus-levitico_20_13.png)
+
 </br>
 Levítico 20,13</br>
 </br>

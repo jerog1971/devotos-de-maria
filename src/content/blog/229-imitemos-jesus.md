@@ -4,7 +4,8 @@ date: 2016-02-19T11:36:00.001Z
 heroImage: "/images/posts/229-imitemos-jesus-imitar_jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/229-imitemos-jesus-imitar_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/229-imitemos-jesus-imitar_jesus.png" width="320" height="221" data-original-width="750" data-original-height="518" /></a></div>
+![](/images/posts/229-imitemos-jesus-imitar_jesus.png)
+
 Quem me segue não anda nas trevas, diz o Senhor (Jo 8,12).</br>
 </br>
 São estas as palavras de Cristo, pelas quais somos advertidos que imitemos sua vida e seus costumes, se verdadeiramente queremos ser iluminados e livres de toda cegueira de coração.</br>

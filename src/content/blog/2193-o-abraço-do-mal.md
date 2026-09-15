@@ -4,7 +4,8 @@ date: 2017-06-27T16:38:00Z
 heroImage: "/images/posts/2193-o-abraço-do-mal-zelador.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2193-o-abraço-do-mal-zelador.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2193-o-abraço-do-mal-zelador.png" width="320" height="263" data-original-width="632" data-original-height="519" /></a></div>
+![](/images/posts/2193-o-abraço-do-mal-zelador.png)
+
 Muitas pessoas tendem a ceder quando seduzidas pelos três inimigos da alma no que se refere ao rigor em definir o que é errado, o que não faz bem e o que é mal, puramente mal. Muitos tentam relativizar o mal e afasta-lo da sua natureza intrinsicamente pura. Como se existisse um mal que não faz tanto mal começam a viver em suas vidas um namoro com muitas formas de maldade que por se disfarçarem com uma roupagem mais atraente oferecem exatamente aquilo que os autoconvencidos devoradores de prazeres pecaminosos mais querem que é acalmar seus corações e consciências em relação ao que decidiram para suas vidas.</br>
 </br>
 Os santos já diziam que o diabo é como um cachorro acorrentado, não se aproxime demais, senão serás mordido! Portanto, o diabo e tudo que dele provém, e esse tudo é essencialmente mal, pois ainda que ele fosse amigo de alguém, seria o chamado amigo da onça. O diabo não dá ponto sem nó e na verdade suas ofertas são tão tentadoras porque ele não cobra muita coisa já que sabe que nossa liberdade em aderir a sua revolta irá nos custar o salário do pecado. Ele é esperto e sabe envolver a quem lhe der ouvidos. Seus assuntos despertam muitos interesses porque sempre estão em sintonia com aquilo que as pessoas pedem a Deus e não recebem e ele, prontamente, está ao nosso dispor para preencher as lacunas divinas.</br>

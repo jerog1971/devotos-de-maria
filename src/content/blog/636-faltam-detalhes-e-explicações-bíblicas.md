@@ -4,7 +4,9 @@ date: 2022-01-20T20:43:00.003Z
 heroImage: "/images/posts/636-faltam-detalhes-e-explicações-bíblic-img-1120786407.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/636-faltam-detalhes-e-explicações-bíblic-img-1120786407.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" height="272" src="/images/posts/636-faltam-detalhes-e-explicações-bíblic-img-399637148.jpg" width="248" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente qualquer pessoa que dedicou grande parte de seu
+![](/images/posts/636-faltam-detalhes-e-explicações-bíblic-img-399637148.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente qualquer pessoa que dedicou grande parte de seu
 tempo em estudar a bíblia se deparou com muitas falhas dentro da mesma. A
 quantidade de coisas que não possuem explicações claras e a falta de coerência nas
 narrativas, seja aqui ou acolá, coloca naturalmente muita dúvida sobre os
@@ -35,4 +37,7 @@ por Jesus Cristo (1ª Coríntios 11,1) para que ao final desta etapa provisória
 possamos ouvir de Jesus, as palavras tão esperadas: vinde benditos de meu Pai
 (Mateus 25,34).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

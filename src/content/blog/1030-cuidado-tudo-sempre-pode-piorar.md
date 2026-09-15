@@ -4,7 +4,9 @@ date: 2023-03-10T21:25:00.004Z
 heroImage: "/images/posts/1030-cuidado-tudo-sempre-pode-piorar-convem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1030-cuidado-tudo-sempre-pode-piorar-convem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="402" height="314" src="/images/posts/1030-cuidado-tudo-sempre-pode-piorar-convem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quem está de pé cuide para que não caia – lemos esta exortação
+![](/images/posts/1030-cuidado-tudo-sempre-pode-piorar-convem.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quem está de pé cuide para que não caia – lemos esta exortação
 nas cartas apostólicas. Sem dúvida, grande verdade, pois, a certeza da entrada
 no paraíso celeste só virá depois que Jesus Cristo pronunciar a sentença tão
 esperada: vinde benditos. Até lá, em nossos encalços eis que vemos, como uma
@@ -38,4 +40,7 @@ tempo da escolha, e ela acontece sempre no aqui e agora, pois não sabemos
 quanto tempo temos e não sabemos se o próximo minuto de nossas vidas será o
 último.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

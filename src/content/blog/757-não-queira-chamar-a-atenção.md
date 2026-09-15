@@ -4,7 +4,9 @@ date: 2021-07-20T16:30:00.002Z
 heroImage: "/images/posts/757-não-queira-chamar-a-atenção-img-974350729.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/757-não-queira-chamar-a-atenção-img-974350729.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="551" src="/images/posts/757-não-queira-chamar-a-atenção-img-1172063657.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 6,1-6 – “Guardai-vos de fazer vossas boas obras
+![](/images/posts/757-não-queira-chamar-a-atenção-img-1172063657.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Mateus 6,1-6 – “Guardai-vos de fazer vossas boas obras
 diante dos homens, para serdes vistos por eles. Do contrário, não tereis
 recompensa junto de vosso Pai que está no céu. Quando, pois, dás esmola, não
 toques a trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas
@@ -32,4 +34,7 @@ em sua direção e com seu apoio. “Vede que ninguém pague a outro mal por mal
 Antes, procurai sempre praticar o bem entre vós e para com todos” – 1ª
 Tessalonicenses 5,15.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

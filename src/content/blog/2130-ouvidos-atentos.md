@@ -4,7 +4,9 @@ date: 2022-05-29T13:51:00Z
 heroImage: "/images/posts/2130-ouvidos-atentos-ouvidos_20atentos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2130-ouvidos-atentos-ouvidos_20atentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="451" height="320" src="/images/posts/2130-ouvidos-atentos-ouvidos_20atentos.png" width="314" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Os olhos do Senhor estão voltados para os justos, e seus
+![](/images/posts/2130-ouvidos-atentos-ouvidos_20atentos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Os olhos do Senhor estão voltados para os justos, e seus
 ouvidos atentos aos seus clamores” – Salmo 33,16. “Senhor, ouvi minha oração.
 Que vossos ouvidos estejam atentos à voz de minha súplica. Se tiverdes em conta
 nossos pecados, Senhor, Senhor, quem poderá subsistir diante de vós? Mas em vós
@@ -36,4 +38,7 @@ comportamento dos homens. Ele não deu ordem a ninguém para fazer o mal, e a
 ninguém deu licença para pecar; pois não deseja uma multidão de filhos infiéis
 e inúteis” – Eclesiástico 15,16-22.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

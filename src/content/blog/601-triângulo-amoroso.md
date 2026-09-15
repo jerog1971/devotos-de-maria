@@ -4,7 +4,9 @@ date: 2021-10-22T16:14:00.005Z
 heroImage: "/images/posts/601-triângulo-amoroso-tri_25C3_25A2ngulo_amoroso.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/601-triângulo-amoroso-tri_25C3_25A2ngulo_amoroso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="462" data-original-width="477" height="310" src="/images/posts/601-triângulo-amoroso-tri_25C3_25A2ngulo_amoroso.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aprendemos nas sagradas escrituras que certos tipos de triângulo
+![](/images/posts/601-triângulo-amoroso-tri_25C3_25A2ngulo_amoroso.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Aprendemos nas sagradas escrituras que certos tipos de triângulo
 amoroso são abominados por Deus. Antes, porém, de partirmos para esta reflexão,
 poderíamos nos perguntar: então, quais são ou qual é o triângulo amoroso que é
 permitido? Se é que existe ou existem? Pois bem, podemos apontar alguns sabidamente
@@ -43,4 +45,7 @@ ao sujeito fazer a sua escolha: viver e praticar o amor que vem de Deus ou o
 amor que vem do mundo. No dia do juízo seremos julgados por nossas obras –
 Apocalipse 22,12.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

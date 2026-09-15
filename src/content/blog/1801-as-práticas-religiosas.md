@@ -4,7 +4,11 @@ date: 2020-06-23T14:49:00.001Z
 heroImage: "/images/posts/1801-as-práticas-religiosas-catolico.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1801-as-práticas-religiosas-catolico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="519" data-original-width="571" src="/images/posts/1801-as-práticas-religiosas-catolico.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Como sofrem as práticas religiosas; os costumes das atitudes
+<br />
+
+![](/images/posts/1801-as-práticas-religiosas-catolico.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Como sofrem as práticas religiosas; os costumes das atitudes
 que nos relacionam com Deus são mui facilmente deixadas de lado, convertidas,
 adaptadas, abandonadas e colocadas em segundo plano. São Tomás de Aquino dizia
 que “quem não vive o que crê, termina crendo o que vive”. As práticas podem

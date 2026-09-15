@@ -4,7 +4,9 @@ date: 2023-01-11T20:48:00.001Z
 heroImage: "/images/posts/1361-o-deus-dos-testamentos-testamento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1361-o-deus-dos-testamentos-testamento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" height="214" src="/images/posts/1361-o-deus-dos-testamentos-testamento.png" width="195" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Convenhamos, parece que o Deus que acompanha a história do
+![](/images/posts/1361-o-deus-dos-testamentos-testamento.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Convenhamos, parece que o Deus que acompanha a história do
 primeiro testamento é um enquanto o Deus do segundo testamento bíblico é outro.
 As diferenças nem são poucas e mais: parece que a solução para a vida eterna no
 antigo testamento, dada por esse Deus é uma; depois, a solução para a vida
@@ -43,4 +45,7 @@ consiste uma humildade onde podemos nos regozijar com as palavras de Jesus que
 nos disse que “felizes os simples e humildes de coração a quem o pai do céu revelaste
 tudo” que precisamos saber para nossa salvação.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

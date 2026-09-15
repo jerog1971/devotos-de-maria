@@ -4,7 +4,9 @@ date: 2022-03-24T16:38:00.004Z
 heroImage: "/images/posts/1915-as-delícias-do-inferno-pecados.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1915-as-delícias-do-inferno-pecados.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="241" data-original-width="246" height="241" src="/images/posts/1915-as-delícias-do-inferno-pecados.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabe-se, ao longo da história da humanidade, que Deus permitiu
+![](/images/posts/1915-as-delícias-do-inferno-pecados.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sabe-se, ao longo da história da humanidade, que Deus permitiu
 que algumas de suas criaturas vissem os horrores que aguardam os pecadores no
 inferno. Tudo, para que o aviso bíblico sobre ele seja enriquecido ainda mais
 com esses detalhes já, que na visão do próprio Deus, ele nos considera um “povo
@@ -43,4 +45,7 @@ podemos viver as alegrias indizíveis por todo o sempre abraçando as delícias 
 verdadeira doutrina dos céus, a doutrina que liberta o homem da escravidão dos
 pecados.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

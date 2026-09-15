@@ -4,7 +4,9 @@ date: 2021-09-23T17:59:00.001Z
 heroImage: "/images/posts/1369-primeiro-dedicação-depois-paz-dedica_25C3_25A7_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1369-primeiro-dedicação-depois-paz-dedica_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="349" height="318" src="/images/posts/1369-primeiro-dedicação-depois-paz-dedica_25C3_25A7_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A paz do coração, dada somente por Jesus Cristo, é a certeza
+![](/images/posts/1369-primeiro-dedicação-depois-paz-dedica_25C3_25A7_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A paz do coração, dada somente por Jesus Cristo, é a certeza
 de sua companhia e seu auxílio em todos os momentos de nossas vidas; a menos
 que voluntariamente viremos as costas para ele, como se fôssemos inimigos de
 Deus. De fato, podemos acertadamente dizer, que todas as pessoas, em algum
@@ -35,4 +37,7 @@ palavras de minha esposa: “a paz que hoje eu tenho em casa veio depois de muit
 dedicação”. Palavras certeiras, comprovadas em Efésios 6,7 – “servi com
 dedicação, como servos do Senhor e não dos homens”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

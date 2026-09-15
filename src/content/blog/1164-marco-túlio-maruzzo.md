@@ -4,7 +4,11 @@ date: 2020-07-01T16:29:00.001Z
 heroImage: "/images/posts/1164-marco-túlio-maruzzo-Marco_Tulio_Maruzzo.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1164-marco-túlio-maruzzo-Marco_Tulio_Maruzzo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="190" src="/images/posts/1164-marco-túlio-maruzzo-AVvXsEgTxVt7j_LX7ATEKTjHV_xd3tEaobhghTlvB9LEw9WeCHP5e6iC6A3rTQoH0eizlNP2AMAz-z3DPbjQmSCorT7Ggwi29iQfJbgq0-Vi07yMoQOPt5ay1YHMDUG2agIny5W3l64Jc4KMWO8.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Marco Túlio nasceu em Lapio de Arcugmano, em 1930, Itália.
+<br />
+
+![](/images/posts/1164-marco-túlio-maruzzo-AVvXsEgTxVt7j_LX7ATEKTjHV_xd3tEaobhghTlvB9LEw9WeCHP5e6iC6A3rTQoH0eizlNP2AMAz-z3DPbjQmSCorT7Ggwi29iQfJbgq0-Vi07yMoQOPt5ay1YHMDUG2agIny5W3l64Jc4KMWO8.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Marco Túlio nasceu em Lapio de Arcugmano, em 1930, Itália.
 Logo após a ordenação, veio para a Guatemala. Exerceu grande parte do seu
 ministério na diocese de Izabal e , finalmente, em Quirigua e Los Amates.</p>
 

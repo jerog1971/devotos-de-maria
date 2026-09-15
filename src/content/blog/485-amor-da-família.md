@@ -4,7 +4,9 @@ date: 2022-10-19T20:18:00.003Z
 heroImage: "/images/posts/485-amor-da-família-amor_20da_20fam_C3_ADlia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/485-amor-da-família-amor_20da_20fam_C3_ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1802" data-original-width="2699" height="214" src="/images/posts/485-amor-da-família-amor_20da_20fam_C3_ADlia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O molde existe, é a sagrada família. Sua história todos
+![](/images/posts/485-amor-da-família-amor_20da_20fam_C3_ADlia.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O molde existe, é a sagrada família. Sua história todos
 conhecem; se não a conhecem é porque não querem, pois todos sabem de sua
 existência. O criador de todas as coisas visíveis e invisíveis desejou que suas
 criaturas vivessem no modelo familiar, pensado por ele: pai, mãe e filhos. Quis
@@ -37,4 +39,7 @@ riqueza e pobreza, acima de tudo, sempre acima do que pode um dia, por um
 segundo que seja, colocar sob o domínio do mal a família que um dia acordou uma
 aliança feita com a Santíssima Trindade.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

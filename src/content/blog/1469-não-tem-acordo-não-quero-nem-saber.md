@@ -4,7 +4,8 @@ date: 2020-02-28T18:41:00.002Z
 heroImage: "/images/posts/1469-não-tem-acordo-não-quero-nem-saber-convem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1469-não-tem-acordo-não-quero-nem-saber-convem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1469-não-tem-acordo-não-quero-nem-saber-convem.png" width="320" height="314" data-original-width="402" data-original-height="394" /></a></div>
+![](/images/posts/1469-não-tem-acordo-não-quero-nem-saber-convem.png)
+
 É assim que devemos agir em relação as ofertas do inimigo. Ele quer passar a conversa, vender o bilhete premiado, a solução imediata para todos os problemas. Apesar de Deus ter dito que nem deviam tocar no fruto proibido sequer, quem dirá comer, pois a morte seria a consequência, o diabo conseguiu convencer a mulher, que convenceu o homem e todo mundo se estrepou. O diabo usou a técnica da meia verdade para poder misturá-la com suas mentiras.</br>
 </br>
 Gênesis 3,3 – “Mas do fruto da árvore que está no meio do jardim, Deus disse: Vós não comereis dele, nem o tocareis, para que não morrais.” De fato, pelo que vemos, a criação divina chamada ser humano foi inicialmente criada isenta de morte. É um mistério, isso é bem verdade, o porquê Deus quis colocar esse estopim no Jardim do Éden para constantemente ser uma tentação. Será que se não fosse a serpente, eles nunca teriam curiosidade de experimentar do fruto proibido? Bom, se Deus disse que morreriam ao comerem lhes ensinou com certeza sobre o que é a morte.</br>

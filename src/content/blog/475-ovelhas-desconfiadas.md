@@ -4,7 +4,8 @@ date: 2019-10-04T15:45:00.003Z
 heroImage: "/images/posts/475-ovelhas-desconfiadas-ovelhas_desconfiadas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/475-ovelhas-desconfiadas-ovelhas_desconfiadas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/475-ovelhas-desconfiadas-ovelhas_desconfiadas.png" width="320" height="252" data-original-width="360" data-original-height="284" /></a></div>
+![](/images/posts/475-ovelhas-desconfiadas-ovelhas_desconfiadas.png)
+
 E aí, será que todo mundo passa por isso? Ou você confia, ou você não confia, ou você desconfia. Esse negócio de que você confia desconfiando (o famoso pé atrás) demonstra alguns problemas relacionados ao modo de pensar e agir. Pois bem, ensina-se que Jesus é bom pastor e que nós somos suas ovelhas. No mundo em que vivemos para que servem as ovelhas? Muito grosseiramente falando e muito mais resumidamente ainda, servem para produzir lucro para seus donos através da sua lã. Depois de um tempo ela morre e fim de conversa. Seus donos possuem o cuidado de reproduzi-las para sempre terem sua fonte de lucros (produção de lã) garantida. Não se trata de interesse próprio?</br>
 </br>
 Por isso Jesus não estendeu a analogia dos filhos de Deus com as ovelhas pastoreadas adiante do que ele falou. Quis ficar apenas na relação de cuidado entre o dono e sua propriedade. Porém, convenhamos, será que o pastor das ovelhas tinha algum amor imenso por elas ao ponto de dar a vida para salva-la? Colocando-a em prioridade acima da sua família? Ou será que mantinha extremo zelo, alegrando-se por ter encontrado a ovelha perdida porque recuperou uma peça da sua fonte de lucro?</br>

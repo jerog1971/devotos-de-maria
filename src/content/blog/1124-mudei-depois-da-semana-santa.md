@@ -4,7 +4,9 @@ date: 2022-04-23T14:52:00Z
 heroImage: "/images/posts/1124-mudei-depois-da-semana-santa-mudei_20depois_20da_20semana_20santa.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1124-mudei-depois-da-semana-santa-mudei_20depois_20da_20semana_20santa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="308" data-original-width="364" height="271" src="/images/posts/1124-mudei-depois-da-semana-santa-mudei_20depois_20da_20semana_20santa.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ouve-se por aí que a celebração da semana santa é sempre a
+![](/images/posts/1124-mudei-depois-da-semana-santa-mudei_20depois_20da_20semana_20santa.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ouve-se por aí que a celebração da semana santa é sempre a
 mesma, que é tudo igual. Além de demorada, sempre acontece a mesma coisa.
 Sempre uma repetição de leituras, mas, por que será que isso sempre acontece em
 nossas vidas? As rotinas e repetições? Com um olhar mais atento percebemos que
@@ -28,7 +30,7 @@ inimigo.<o:p></o:p></p>
 <p class="MsoNormal">Ele tenta nos usar para nos derrubar, mesmo em nosso próprio
 território não se acovarda e explora nossos sentidos buscando qualquer brecha
 para que possa semear seus venenos destruidores de almas. Não facilitando a
-luta já é difícil, facilitando então...&nbsp; Por
+luta já é difícil, facilitando então...  Por
 isso, nos cabe aqui, sempre uma pergunta, não apenas se mudamos depois da
 semana santa, mas, se hoje somos melhores do que ontem, para que amanhã sejamos
 melhores que hoje.<o:p></o:p></p>
@@ -36,4 +38,7 @@ melhores que hoje.<o:p></o:p></p>
 <p class="MsoNormal">Este é o propósito que temos, sempre melhorar para o bem e
 isso exige de cada um (exigência divina) que mudemos (nos convertamos).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

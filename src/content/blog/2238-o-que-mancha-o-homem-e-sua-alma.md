@@ -4,7 +4,9 @@ date: 2022-03-02T14:15:00.001Z
 heroImage: "/images/posts/2238-o-que-mancha-o-homem-e-sua-alma-img-1949935975.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2238-o-que-mancha-o-homem-e-sua-alma-img-1949935975.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="434" data-original-width="478" height="291" src="/images/posts/2238-o-que-mancha-o-homem-e-sua-alma-img-1949934851.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como todo cristão bem sabe, o céu é um lugar onde o três
+![](/images/posts/2238-o-que-mancha-o-homem-e-sua-alma-img-1949934851.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Como todo cristão bem sabe, o céu é um lugar onde o três
 vezes santo, o Deus altíssimo, irá admitir as almas puras e sem mancha, que
 viveram segundo seu agrado, incansavelmente pregando evangelho de nosso Senhor
 Jesus Cristo e amando-os acima de todas as coisas e ao próximo com a si mesmas.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -45,4 +47,7 @@ vaidades. O apóstolo nos recorda muito bem que devemos glorificar a Deus em
 nosso corpo e isso significa que ele e nossa alma não podem receber do mundo o
 que para Deus é abominável.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

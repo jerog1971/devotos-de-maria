@@ -4,7 +4,9 @@ date: 2021-05-19T13:34:00.001Z
 heroImage: "/images/posts/1523-designado-para-servir-a-deus-no-próximo-Servir_a_Deus_no_pr_25C3_25B3ximo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><br /></div><br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1523-designado-para-servir-a-deus-no-próximo-Servir_a_Deus_no_pr_25C3_25B3ximo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="351" data-original-width="389" src="/images/posts/1523-designado-para-servir-a-deus-no-próximo-Servir_a_Deus_no_pr_25C3_25B3ximo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia lemos que os dons e o chamado de Deus são
+![](/images/posts/1523-designado-para-servir-a-deus-no-próximo-Servir_a_Deus_no_pr_25C3_25B3ximo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na bíblia lemos que os dons e o chamado de Deus são
 irrevogáveis. Também lemos que quem quer ser servido, seja aquele que serve e,
 que precisamos ajudar o enfermo.<o:p></o:p></p><div class="separator" style="clear: both;">
 
@@ -39,4 +41,7 @@ as pessoas que precisavam de auxílio recorriam a ele, porque sabiam que seriam
 acolhidos, Deus quer que, aos outros, exista a certeza de que acolheremos o
 necessitado fazendo o nosso melhor por amor a Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

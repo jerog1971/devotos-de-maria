@@ -4,7 +4,8 @@ date: 2020-03-18T19:48:00.001Z
 heroImage: "/images/posts/190-filhotes-não-são-bebês-img-830470000.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/190-filhotes-não-são-bebês-img-830470000.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/190-filhotes-não-são-bebês-img-1367761418.png" width="320" height="170" data-original-width="755" data-original-height="401" /></a></div>
+![](/images/posts/190-filhotes-não-são-bebês-img-1367761418.png)
+
 A crueldade com os animais é com razão repugnada, no entanto, o aborto é celebrado. Os animais de estimação são vistos como preciosos, já as crianças no útero são outra história. Como é ter um animal de estimação? Uma tarefa rotineira, mas divertida. Animais de estimação são fáceis: eles comem, dormem, brincam e imitam o dono. E ter um filho? Inconveniente e perigoso. Afinal de contas, como criar uma família neste mundo? É algo que envolve muita responsabilidade, e incerteza também. Cuidar de um bebê é inconveniente. Criar um filho é como criar um cachorro, só que o cachorro às vezes é mais divertido! Por exemplo, quando você adquire seu primeiro cachorro, é necessário dedicar-se a cuidados de higiene e limpeza, mas não se perde muito sono por causa disso. Já quando você tem seu primeiro filho, precisa ficar sempre de plantão durante a noite.</br>
 </br>
 No entanto, há uma diferença, e ela é crucial: seu filho é uma pessoa. Não há como fugir desse fato: ele é uma nova pessoa. Quem ele será? Como vamos educá-lo? O que eu fiz para merecê-lo? Ao vê-lo crescer e fazer descobertas, sei que nunca poderia ter gerado meu filho sozinho e por minhas próprias forças. Ele é um dom. Eu não decidi seu sexo, aniversário ou características físicas.</br>

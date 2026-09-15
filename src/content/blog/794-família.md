@@ -4,7 +4,9 @@ date: 2024-04-29T17:16:00.001Z
 heroImage: "/images/posts/794-família-fam_C3_ADlia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/794-família-fam_C3_ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1944" data-original-width="2592" height="240" src="/images/posts/794-família-fam_C3_ADlia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esse é um dos assuntos que nunca irá sair de moda. Ela é
+![](/images/posts/794-família-fam_C3_ADlia.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Esse é um dos assuntos que nunca irá sair de moda. Ela é
 foco de cuidados especiais da parte de Deus e foco também, de toda a atenção do
 mal e daqueles que trabalham para ele. Infelizmente, a sociedade, que no
 decorrer de sua história vai se afastando de Deus, não enxerga que esse tempo
@@ -39,4 +41,7 @@ separará do amor de Cristo”; eis aí dizeres bíblicos que nos garantem que s
 sempre Deus como membro de nossas famílias, teremos a certeza de ter escolhido
 o lado certo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

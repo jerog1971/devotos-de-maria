@@ -4,7 +4,9 @@ date: 2022-11-03T15:04:00.006Z
 heroImage: "/images/posts/749-a-descrença-no-inferno-descren_C3_A7a.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/749-a-descrença-no-inferno-descren_C3_A7a.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="598" data-original-width="456" height="320" src="/images/posts/749-a-descrença-no-inferno-descren_C3_A7a.png" width="244" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sobre a condenação ao inferno vemos Jesus Cristo depor
+![](/images/posts/749-a-descrença-no-inferno-descren_C3_A7a.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sobre a condenação ao inferno vemos Jesus Cristo depor
 contra essa realidade em mais de quatorze passagens bíblicas. Ora, não parece
 ser assunto leviano ou de pouca importância. Ademais, até um pensamento
 enraizado no bom senso não descartaria a ideia de prêmio e castigo, condenação
@@ -47,4 +49,7 @@ reino, violentos no agir para alcançar o céu (Mateus 11,12), obreiros da vinha
 do Senhor, seus imitadores (1ªCoríntios 11,1) e perseverantes na palavra de
 Deus até o fim (Mateus 10,22). Para estes, a descrença do inferno não existe.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

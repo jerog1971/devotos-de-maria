@@ -4,7 +4,9 @@ date: 2024-07-10T21:45:00.006Z
 heroImage: "/images/posts/267-meus-talentos-quais-são-meus_20talentos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/267-meus-talentos-quais-são-meus_20talentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="347" data-original-width="428" height="259" src="/images/posts/267-meus-talentos-quais-são-meus_20talentos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em uma auto análise cada um pode investigar como anda a sua
+![](/images/posts/267-meus-talentos-quais-são-meus_20talentos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Em uma auto análise cada um pode investigar como anda a sua
 qualidade enquanto pessoa; como anda a sua balança que determina de modo geral
 que tipo de ser humano se é. Se tem melhorado, se tem piorado, se anda por
 constantes inconstâncias e irregularidades, se caminha por labirintos e ruas
@@ -38,4 +40,7 @@ nem os transformemos ou deixemos que sejam corrompidos, pois correremos o risco
 de sermos “descartados” e do outro lado da porta estreita não estaremos se não
 formos compatíveis com o “buraco da fechadura”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

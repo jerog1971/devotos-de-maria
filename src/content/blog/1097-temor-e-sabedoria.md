@@ -4,7 +4,9 @@ date: 2021-04-13T13:45:00.001Z
 heroImage: "/images/posts/1097-temor-e-sabedoria-justi_25C3_25A7a_divina.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1097-temor-e-sabedoria-justi_25C3_25A7a_divina.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="284" data-original-width="341" src="/images/posts/1097-temor-e-sabedoria-justi_25C3_25A7a_divina.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Duas coisas essenciais para que em nós frutifique o que
+![](/images/posts/1097-temor-e-sabedoria-justi_25C3_25A7a_divina.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Duas coisas essenciais para que em nós frutifique o que
 precisamos para a salvação de nossa alma. Sobre o temor e a sabedoria
 aprendemos grandes verdades no primeiro capítulo do livro do Eclesiástico.<o:p></o:p></p><div class="separator" style="clear: both;">
 
@@ -36,4 +38,7 @@ de que percorremos o caminho da porta estreita. Pois, lemos acima que o temor a
 Deus expulsa o pecado para longe de nossos corações, permitindo que a Santíssima
 Trindade faça neles sua morada.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

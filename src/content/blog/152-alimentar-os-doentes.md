@@ -4,7 +4,9 @@ date: 2021-05-27T14:40:00.002Z
 heroImage: "/images/posts/152-alimentar-os-doentes-alimentar_os_doentes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/152-alimentar-os-doentes-alimentar_os_doentes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="285" src="/images/posts/152-alimentar-os-doentes-alimentar_os_doentes.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 25,34-36 – “Vinde, benditos de meu Pai, tomai posse
+![](/images/posts/152-alimentar-os-doentes-alimentar_os_doentes.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Mateus 25,34-36 – “Vinde, benditos de meu Pai, tomai posse
 do Reino que vos está preparado desde a criação do mundo, porque tive fome e me
 destes de comer; tive sede e me destes de beber; era peregrino e me acolhestes;
 nu e me vestistes; enfermo e me visitastes; estava na prisão e viestes a mim”.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -38,4 +40,7 @@ bênçãos e graças.<o:p></o:p></p>
 próprios interesses, e sim os dos outros”. Atos 20,35 – “É maior felicidade dar
 que receber!”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

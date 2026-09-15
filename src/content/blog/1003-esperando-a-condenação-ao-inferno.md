@@ -4,7 +4,9 @@ date: 2023-01-27T12:53:00.003Z
 heroImage: "/images/posts/1003-esperando-a-condenação-ao-inferno-morte.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1003-esperando-a-condenação-ao-inferno-morte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="508" height="320" src="/images/posts/1003-esperando-a-condenação-ao-inferno-morte.png" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos serão os chamados, mas poucos os escolhidos – nos disse
+![](/images/posts/1003-esperando-a-condenação-ao-inferno-morte.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitos serão os chamados, mas poucos os escolhidos – nos disse
 Jesus. Todos serão convidados para ir ao céu, para todos será apresentada a
 proposta de Deus e tudo que ela implica. Eis aí o começo dos problemas; quando
 o sujeito se depara com a proposta vai logo entendendo que as ofertas são
@@ -33,4 +35,7 @@ sempre os desígnios divinos, para que não ocorra de vivermos uma vida esperand
 (achando) que tudo está bem entre nós e Deus, quando na verdade estamos “nos
 tornando seus inimigos” – Tiago 4,4.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

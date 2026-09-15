@@ -4,7 +4,9 @@ date: 2020-12-01T16:38:00.004Z
 heroImage: "/images/posts/2242-seu-copo-como-está-copo_vazio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2242-seu-copo-como-está-copo_vazio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="328" data-original-width="463" src="/images/posts/2242-seu-copo-como-está-copo_vazio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se você for honesto consigo vai dizer que depende, horas
+![](/images/posts/2242-seu-copo-como-está-copo_vazio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se você for honesto consigo vai dizer que depende, horas
 você o considera meio cheio ou enchendo e horas você o considera meio vazio ou
 esvaziando. Dependendo do termo de referência que usar você poderá definir a
 respeito dessa causa. Agora, se você for honesto com Deus a situação muda
@@ -41,4 +43,7 @@ Conselho, <b>cheios de alegria</b>, por terem sido achados dignos de SOFRER
 afrontas pelo nome de Jesus. E todos os dias não cessavam de ensinar e de
 pregar o Evangelho de Jesus Cristo no templo e pelas casas”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

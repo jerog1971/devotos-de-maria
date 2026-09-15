@@ -4,7 +4,9 @@ date: 2023-01-20T12:03:00.004Z
 heroImage: "/images/posts/1774-aparências-do-inferno-aparencias_20do_20inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1774-aparências-do-inferno-aparencias_20do_20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="542" data-original-width="522" height="320" src="/images/posts/1774-aparências-do-inferno-aparencias_20do_20inferno.png" width="308" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Cuidado para quem você reza; sua oração, dita em forma de
+![](/images/posts/1774-aparências-do-inferno-aparencias_20do_20inferno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Cuidado para quem você reza; sua oração, dita em forma de
 reclamação, pode sim ser dirigida diretamente a Deus. Cuidado! Repetimos, se
 não houver remetente muito claro o diabo se apropria de todas as suas
 insatisfações e lhe propõe soluções mais adequadas para as suas necessidades
@@ -38,4 +40,7 @@ significa seguir Jesus Cristo, do que viver uma vida de permanente infantilidade
 achando que isso tudo é um grande parque de diversões, onde ao final do dia
 basta voltar para casa, tomar banho, comer, descansar e pronto.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

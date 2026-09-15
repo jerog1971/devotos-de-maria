@@ -4,7 +4,8 @@ date: 2018-10-02T15:49:00.001Z
 heroImage: "/images/posts/1438-temos-que-consertar-oficina_b_25C3_25ADblica.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1438-temos-que-consertar-oficina_b_25C3_25ADblica.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1438-temos-que-consertar-oficina_b_25C3_25ADblica.png" width="320" height="267" data-original-width="824" data-original-height="687" /></a></div>
+![](/images/posts/1438-temos-que-consertar-oficina_b_25C3_25ADblica.png)
+
 Se pararmos para analisar a evolução comportamental das pessoas, e porque não dizer, nossa própria evolução, iremos perceber que a medida que vivemos a interação que temos com o mundo, as pessoas, os acontecimentos, movida por interesses pessoais, compulsórios ou necessários, vai causando em nossa integridade e personalidade muitas mudanças.</br>
 </br>
 É comum ouvirmos alguém dizer que cresceu e amadureceu, também é comum, infelizmente, ouvirmos alguém falar que aquele sujeito parece criança, só tem idade. Porém, chegamos num ponto que precisamos deixar a meninice de lado e pensar que onde vivemos, este mundo, não é um paraíso:</br>

@@ -4,7 +4,8 @@ date: 2017-05-19T14:29:00Z
 heroImage: "/images/posts/1240-famílias-o-alvo-do-inimigo-capa.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1240-famílias-o-alvo-do-inimigo-capa.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1240-famílias-o-alvo-do-inimigo-capa.jpg" width="228" height="320" data-original-width="571" data-original-height="801" /></a></div>
+![](/images/posts/1240-famílias-o-alvo-do-inimigo-capa.jpg)
+
 Caros leitores, mais uma vez neste site, vamos conversar mais um pouco sobre a questão da família. Digo mais uma vez porque por aqui muitos artigos existem em prol da defesa da família e também foi motivo de três livros que publiquei. Da única e verdadeira família, aquela pensada e criada por Deus: pai/esposo, mãe/esposa e filhos. Outra forma de família não existe, o que existe é uma apropriação indevida e errônea do mundo que insiste em afirmar que família é a união de um grupo de pessoas sob um mesmo teto. E vale nestas famílias piratas até substituir filhos por cachorros, numa união homossexual estável. Jesus, misericórdia, não sabem o que fazem e pensam saber, colocando suas Inteligências embotadas pelo mundo a serviço do maligno.</br>
 </br>
 O mal é uma presença constante e muito organizada, não podemos ser ingênuos. O inimigo sabe que se destruir a família, destrói uma avalanche de outras coisas. Sua infiltração no seio da família através de um de seus membros pode acarretar a derrubada de todos e o fim da família. Exemplo? Precisamos dar? Acho que não, todos nós que defendemos a fé católica e os princípios do evangelho de Jesus, conhecemos muito bem situações onde o mal, após se instalar em alguém, derruba a família inteira.</br>

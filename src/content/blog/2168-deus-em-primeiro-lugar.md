@@ -4,7 +4,9 @@ date: 2020-08-17T19:06:00.002Z
 heroImage: "/images/posts/2168-deus-em-primeiro-lugar-maus_padres_6.jpg"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2168-deus-em-primeiro-lugar-maus_padres_6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="604" data-original-width="768" height="322" src="/images/posts/2168-deus-em-primeiro-lugar-maus_padres_6.jpg" width="409" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Começo o artigo com uma exortação do Papa Bento XVI: “Não se
+![](/images/posts/2168-deus-em-primeiro-lugar-maus_padres_6.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Começo o artigo com uma exortação do Papa Bento XVI: “Não se
 deixem intimidar por um ambiente no qual se pretende excluir Deus e no qual o
 poder e o prazer são os principais critérios que regem a existência”. Esse
 apontamento não poderia ser mais acertado; infelizmente, seduzidos pela modernidade
@@ -46,4 +48,4 @@ Assim deve ser o cristão, cada pessoa que tem intenção de um dia viver no
 paraíso, irá acabar cedo ou tarde sendo colocada à prova por Deus, pois ele “não
 deseja uma multidão de filhos infiéis e inúteis” – Eclesiástico 15,22.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p></div><p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p></div>

@@ -4,7 +4,8 @@ date: 2018-06-15T16:29:00.001Z
 heroImage: "/images/posts/1099-não-existe-meio-termo-ou-deus-ou-satanás-confessar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1099-não-existe-meio-termo-ou-deus-ou-satanás-confessar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1099-não-existe-meio-termo-ou-deus-ou-satanás-confessar.png" width="287" height="320" data-original-width="671" data-original-height="747" /></a></div>
+![](/images/posts/1099-não-existe-meio-termo-ou-deus-ou-satanás-confessar.png)
+
 Essa afirmação foi feita pelo sacerdote exorcista de Roma, já falecido, Gabriele Amorth. E como bem sabemos não existe discrepância alguma com os ensinamentos celestes, pois, ao afirmar no livro das revelações que o morno ele vomita, Jesus claramente nos exorta a fazermos a escolha de nossas vidas. São Tiago vai nos dizer que quem se faz amigo do mundo se torna inimigo de Deus. E tem mais, o Cristo nos diz que não podemos servir a dois senhores e também diz que, ou estamos com ele ou contra ele.</br>
 </br>
 Pessoal, não adianta, ou santos ou nada, ou salvos ou condenados. Nós, que somos eternos, precisamos decidir onde queremos passar a segunda etapa de nossas vidas. O cristão, aderente ao plano salvífico de Deus, deve superar o quanto antes a tentação de querer viver “dando o seu jeitinho” para tudo. Não vai funcionar! Em Apocalipse 22,12 Jesus disse que vai nos julgar segundo nossas obras. São Tiago diz que a fé sem obras é morta. Sendo assim não basta crer, este crer precisa nos mover. Exemplifico:</br>

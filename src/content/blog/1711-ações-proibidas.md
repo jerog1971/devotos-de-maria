@@ -4,7 +4,9 @@ date: 2020-12-07T15:23:00.003Z
 heroImage: "/images/posts/1711-ações-proibidas-convem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1711-ações-proibidas-convem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="402" src="/images/posts/1711-ações-proibidas-convem.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos adeptos de um modo de viver que tenta ser
+![](/images/posts/1711-ações-proibidas-convem.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitos adeptos de um modo de viver que tenta ser
 politicamente correto esbarram sempre num grande problema: como agradar a Deus
 e aos homens. Rapidamente percebem – até porque as escrituras garantem que isso
 não é possível – que a solução para esse desejo consiste em colocar Deus de
@@ -46,4 +48,7 @@ culpa ceder as tentações com tantos recursos que o altíssimo coloca a nossa
 disposição), pois as ações proibidas (os chamados pecados) nos conduzem à um
 destino certo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

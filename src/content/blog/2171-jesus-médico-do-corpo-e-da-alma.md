@@ -4,7 +4,9 @@ date: 2022-06-01T15:29:00.003Z
 heroImage: "/images/posts/2171-jesus-médico-do-corpo-e-da-alma-serm_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2171-jesus-médico-do-corpo-e-da-alma-serm_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="/images/posts/2171-jesus-médico-do-corpo-e-da-alma-serm_C3_A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma leitura atenta ao evangelho trás, além de grandes e duras
+![](/images/posts/2171-jesus-médico-do-corpo-e-da-alma-serm_C3_A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Uma leitura atenta ao evangelho trás, além de grandes e duras
 verdades, também grandes consolos; pois, aprendemos em sua palavra que Jesus
 Cristo é o médico do corpo e da alma. Afinal, foi ele quem disse: “Vinde a mim,
 vós todos que estais aflitos sob o fardo, e eu vos aliviarei. Tomai meu jugo
@@ -40,4 +42,7 @@ que ela poderia ter sido evitada lá atrás se a vida fosse conduzida “buscand
 primeiro o reino de Deus e a sua justiça para que todas as outras coisas fossem
 acrescentadas” – Mateus 6,33.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

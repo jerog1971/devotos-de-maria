@@ -4,7 +4,8 @@ date: 2018-10-08T19:39:00Z
 heroImage: "/images/posts/2003-sempre-se-conhecendo-casando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2003-sempre-se-conhecendo-casando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2003-sempre-se-conhecendo-casando.png" width="320" height="302" data-original-width="551" data-original-height="520" /></a></div>
+![](/images/posts/2003-sempre-se-conhecendo-casando.png)
+
 Gênesis 2,24 – “Por isso o homem deixa o seu pai e sua mãe para se unir à sua mulher; e já não são mais que uma só carne”.</br>
 </br>
 Mateus 19,4-5 – “Respondeu-lhes Jesus: Não lestes que o Criador, no começo, fez o homem e a mulher e disse: Por isso, o homem deixará seu pai e sua mãe e se unirá à sua mulher; e os dois formarão uma só carne”?<br>

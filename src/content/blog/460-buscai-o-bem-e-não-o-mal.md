@@ -4,7 +4,11 @@ date: 2020-07-20T15:08:00.002Z
 heroImage: "/images/posts/460-buscai-o-bem-e-não-o-mal-freira.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/460-buscai-o-bem-e-não-o-mal-freira.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="572" data-original-width="956" src="/images/posts/460-buscai-o-bem-e-não-o-mal-freira.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">E vivereis; e o Senhor Deus dos exércitos estará convosco,
+<br />
+
+![](/images/posts/460-buscai-o-bem-e-não-o-mal-freira.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">E vivereis; e o Senhor Deus dos exércitos estará convosco,
 como o dizeis. Detestai o mal, amai o bem, fazei reinar a justiça nas vossas assembleias
 (Amós 5,14-15). Pois não é contra homens de carne e sangue que temos de lutar,
 mas contra os principados e potestades, contra os príncipes deste mundo

@@ -4,7 +4,11 @@ date: 2020-07-27T17:01:00.001Z
 heroImage: "/images/posts/1349-a-dor-um-dia-nos-alcança-sofrimento2.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1349-a-dor-um-dia-nos-alcança-sofrimento2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="235" data-original-width="250" src="/images/posts/1349-a-dor-um-dia-nos-alcança-sofrimento2.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todo mundo já passou, está passando ou irá passar por algum
+<br />
+
+![](/images/posts/1349-a-dor-um-dia-nos-alcança-sofrimento2.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Todo mundo já passou, está passando ou irá passar por algum
 tipo de dor em sua vida. Seja ela de natureza, física, material, psíquica ou
 espiritual; ou ainda um outro tipo de sofrimento qualquer. Algumas são
 passageiras, outras se tornam crônicas, outras são repentinas, outras ainda

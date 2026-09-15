@@ -4,7 +4,8 @@ date: 2017-05-17T18:27:00Z
 heroImage: "/images/posts/2148-a-perna-curta-da-mentira-trai_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2148-a-perna-curta-da-mentira-trai_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2148-a-perna-curta-da-mentira-trai_25C3_25A7_25C3_25A3o.png" width="320" height="256" data-original-width="493" data-original-height="395" /></a></div>
+![](/images/posts/2148-a-perna-curta-da-mentira-trai_25C3_25A7_25C3_25A3o.png)
+
 Não adianta pessoal, vamos concordar numa coisa, o ditado popular de que “mentira tem perna curta” é a mais pura verdade que poderia sair da boca do povo. Como sempre digo por aqui, elas são a parábola do povo. Parábolas, como bem sabemos, são uma forma literária de se contar alguma coisa de modo que sua mensagem possa ser melhor compreendida do que se fosse utilizado uma forma de expressão muito erudita ou acadêmica.</br>
 </br>
 Pois muito bem, seguindo como sempre o propósito do site, vamos iluminar a questão com os ensinamentos das sagradas escrituras. Antes, porém, vale comentar que, o assunto da hipocrisia, tão condenada por Jesus, do oitavo mandamento da lei de Deus (não levantar falso testemunho) e das mentiras propriamente ditas já foram palco de outros artigos aqui neste site. Desta forma, o intuito da presente reflexão é abordar o tema por outro ângulo. Não devemos ser ingênuos, o mal em nosso mundo está muito organizado. Ou alguém acha que se o diabo tenta uma pessoa com um tipo de pecado e ele não consegue intento então ele abandona a luta? Claro que não, ele se afasta, estuda a pessoa para tentar, por outro ponto de vista, por outro ângulo, arquitetar nova investida por outra parte a fim de averiguar quão guarnecida ou não ela possa estar. Colocada a questão às claras, vamos em frente.</br>

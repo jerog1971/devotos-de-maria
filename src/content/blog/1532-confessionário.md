@@ -4,7 +4,9 @@ date: 2025-07-24T18:34:00.003Z
 heroImage: "/images/posts/1532-confessionário-Confession_C3_A1rio.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1532-confessionário-Confession_C3_A1rio.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/1532-confessionário-Confession_C3_A1rio.jpg" width="320" /></a></div><br />Outras crenças religiosas não creditam importância alguma, sequer
+![](/images/posts/1532-confessionário-Confession_C3_A1rio.jpg)
+
+<br />Outras crenças religiosas não creditam importância alguma, sequer
 grande importância para a situação da alma, a confissão
 auricular. E isso mesmo com o aval de muitas passagens bíblicas nos
 dois testamentos apontando para essa necessidade. Não iremos aqui,
@@ -49,4 +51,4 @@ sacramento da confissão para o perdão dos pecados está aí,
 instituído. No entanto, o fiel em seu livre arbítrio pode escolher
 acessá-lo ou não.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p><br /><p></p>
+Roger</p><br />

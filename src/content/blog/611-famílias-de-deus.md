@@ -4,7 +4,11 @@ date: 2020-06-05T18:21:00.003Z
 heroImage: "/images/posts/611-famílias-de-deus-catequisando.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/611-famílias-de-deus-catequisando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="304" src="/images/posts/611-famílias-de-deus-img-376807927.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">As verdadeiras famílias cristãs são formadas por uma união
+<br />
+
+![](/images/posts/611-famílias-de-deus-img-376807927.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">As verdadeiras famílias cristãs são formadas por uma união
 prescrita no gênesis e confirmada no evangelho. Tornam-se de fato famílias
 porque prosperam uma geração, uma tradição de fé e princípios morais e
 religiosos e não se deixam corromper pelas ofertas e erros do mundo. Hoje o

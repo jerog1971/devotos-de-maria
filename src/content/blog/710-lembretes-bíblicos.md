@@ -4,7 +4,9 @@ date: 2023-06-27T16:26:00.001Z
 heroImage: "/images/posts/710-lembretes-bíblicos-religiao.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/710-lembretes-bíblicos-religiao.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="310" height="276" src="/images/posts/710-lembretes-bíblicos-religiao.png" width="310" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois que o sujeito se depara com as verdades das sagradas
+![](/images/posts/710-lembretes-bíblicos-religiao.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Depois que o sujeito se depara com as verdades das sagradas
 escrituras, não lhe é mais capaz, simplesmente abandonar a descoberta e seguir
 vivendo como se as verdades divinas não passassem de teorias. É assim que as
 coisas funcionam porque uma consciência e um intelecto invadido por este tipo
@@ -34,4 +36,7 @@ praticarem não herdarão o Reino de Deus!</b>” – Gálatas 5,19-21. E como d
 Jesus que irá julgar a todos pelas obras (Apocalipse 22,12): estais avisados
 sobre tudo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

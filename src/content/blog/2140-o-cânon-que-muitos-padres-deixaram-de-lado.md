@@ -4,7 +4,11 @@ date: 2020-05-26T17:41:00.003Z
 heroImage: "/images/posts/2140-o-cânon-que-muitos-padres-deixaram--img-834063905.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2140-o-cânon-que-muitos-padres-deixaram--img-834063905.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="352" data-original-width="250" height="320" src="/images/posts/2140-o-cânon-que-muitos-padres-deixaram--img-834063905.jpgs320/santa_missa.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Pessoal! Todo mundo sabe que a missa pertence a Nosso Senhor
+<br />
+
+![](/images/posts/2140-o-cânon-que-muitos-padres-deixaram--img-834063905.jpgs320/santa_missa.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Pessoal! Todo mundo sabe que a missa pertence a Nosso Senhor
 Jesus Cristo. O sacerdote deve desaparecer para que o Cristo apareça; assim
 tanto faz participar de uma missa do padre “X” ou do padre “Y”, porque o foco
 de atenção está nas finalidades e efeitos que a missa possui.</p>

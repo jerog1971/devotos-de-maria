@@ -4,7 +4,11 @@ date: 2020-05-20T19:13:00Z
 heroImage: "/images/posts/1984-não-deixe-o-que-é-importante-de-lad-img-2030226624.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1984-não-deixe-o-que-é-importante-de-lad-img-2030226624.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="676" data-original-width="868" src="/images/posts/1984-não-deixe-o-que-é-importante-de-lad-img-2030226624.jpgs320/invasores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 23,23 – “Ai de vós, escribas e fariseus hipócritas!
+<br />
+
+![](/images/posts/1984-não-deixe-o-que-é-importante-de-lad-img-2030226624.jpgs320/invasores.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 23,23 – “Ai de vós, escribas e fariseus hipócritas!
 Pagais o dízimo da hortelã, do endro e do cominho e desprezais os preceitos
 mais importantes da lei: a justiça, a misericórdia, a fidelidade. Eis o que era
 preciso praticar em primeiro lugar, sem contudo deixar o restante.”</p>
@@ -32,7 +36,7 @@ porquês. Quando compreendemos isso, paramos de padecer e espernear em vão.</p>
 
 <p class="MsoNormal">Quando queremos ir para o céu e então decidimos seguir
 Jesus; ele que quer nos salvar nos concede a cruz. Marca registrada do cristão.
-Lucas 9,23<span style="mso-spacerun: yes;">&nbsp; </span>- “Em seguida, [Jesus] dirigiu-se
+Lucas 9,23<span style="mso-spacerun: yes;">  </span>- “Em seguida, [Jesus] dirigiu-se
 a TODOS: Se alguém quer vir após mim, renegue-se a si mesmo, <b style="mso-bidi-font-weight: normal;">tome cada dia a sua cruz e siga-me</b>.”</p>
 
 <p class="MsoNormal">Portanto, cabe a todos. Ninguém está excluído e isso se
@@ -49,6 +53,6 @@ caterva de sacerdotes maculados pelo mundo, recorde-se que vivemos no tempo da
 igreja, o tempo da graça, o tempo da conversão, de voltar-se para Deus e seguir
 de mãos dadas com ele. Tem que ser por Cristo, com Cristo e em Cristo.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

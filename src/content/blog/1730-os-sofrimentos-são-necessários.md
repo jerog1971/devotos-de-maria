@@ -4,7 +4,9 @@ date: 2020-11-27T13:52:00.003Z
 heroImage: "/images/posts/1730-os-sofrimentos-são-necessários-sofrimentos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1730-os-sofrimentos-são-necessários-sofrimentos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="563" src="/images/posts/1730-os-sofrimentos-são-necessários-sofrimentos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Faz parte da natureza humana sofrer. Inicialmente não era
+![](/images/posts/1730-os-sofrimentos-são-necessários-sofrimentos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Faz parte da natureza humana sofrer. Inicialmente não era
 para ser assim, Deus ao final da tarde passeava com suas criaturas pelo jardim –
 lemos em Gênesis. Porém, o homem escolheu não dar ouvidos somente ao seu criador
 e permitiu que sua natureza padecesse as penas dessa decisão. Que erro
@@ -44,4 +46,7 @@ tempo da infelicidade, sofre as demoras de Deus; dedica-te a Deus, espera com
 paciência, a fim de que no derradeiro momento tua vida se enriqueça. <b>Aceita
 tudo o que te acontecer. Na dor, permanece firme; na humilhação, tem paciência</b>”.<b><o:p></o:p></b></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

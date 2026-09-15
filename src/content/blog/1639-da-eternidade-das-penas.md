@@ -4,7 +4,8 @@ date: 2016-07-08T11:30:00.001Z
 heroImage: "/images/posts/1639-da-eternidade-das-penas-penas_do_inferno.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1639-da-eternidade-das-penas-penas_do_inferno.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1639-da-eternidade-das-penas-penas_do_inferno.png" width="221" height="320" data-original-width="274" data-original-height="397" /></a></div>
+![](/images/posts/1639-da-eternidade-das-penas-penas_do_inferno.png)
+
 </br>
 1.Considera que o inferno não tem fim: padecem-se nele todas as penas, e todas são eternas.De maneira que passarão cem anos daquelas penas, passarão mil, e o inferno estará como se então principiasse!</br>
 </br>

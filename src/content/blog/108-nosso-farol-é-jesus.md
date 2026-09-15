@@ -4,7 +4,9 @@ date: 2021-05-15T18:32:00.001Z
 heroImage: "/images/posts/108-nosso-farol-é-jesus-nosso_farol__25C3_25A9_Jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/108-nosso-farol-é-jesus-nosso_farol__25C3_25A9_Jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="304" data-original-width="299" src="/images/posts/108-nosso-farol-é-jesus-nosso_farol__25C3_25A9_Jesus.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todos sabem que Jesus nos ensinou que é caminho, verdade e
+![](/images/posts/108-nosso-farol-é-jesus-nosso_farol__25C3_25A9_Jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todos sabem que Jesus nos ensinou que é caminho, verdade e
 vida e que ninguém vai ao Pai senão através dele. Também nos ensinou que ele e
 o pai são um e que aquele que o vê, vê também o Pai. Também nos ensinou que
 quem o segue não andará em trevas, pois ele é a luz que precisamos durante
@@ -39,4 +41,7 @@ jugo sobre vós e recebei minha doutrina, porque eu sou manso e humilde de
 coração e achareis o repouso para as vossas almas. Porque meu jugo é suave e
 meu peso é leve”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

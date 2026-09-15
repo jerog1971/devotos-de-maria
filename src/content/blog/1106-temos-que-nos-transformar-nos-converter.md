@@ -4,7 +4,9 @@ date: 2023-02-20T20:10:00.003Z
 heroImage: "/images/posts/1106-temos-que-nos-transformar-nos-converter-exemplo_20de_20convers_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1106-temos-que-nos-transformar-nos-converter-exemplo_20de_20convers_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="503" data-original-width="511" height="315" src="/images/posts/1106-temos-que-nos-transformar-nos-converter-exemplo_20de_20convers_C3_A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">"Não se conforme mais ao padrão deste mundo, mas seja
+![](/images/posts/1106-temos-que-nos-transformar-nos-converter-exemplo_20de_20convers_C3_A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">"Não se conforme mais ao padrão deste mundo, mas seja
 transformado pela renovação de sua mente. Então você será capaz de testar e provar
 qual é a vontade de Deus, a sua boa, agradável e perfeita vontade." –
 assim fala São Paulo aos romanos. Isso parece uma tarefa impossível, não é
@@ -39,4 +41,7 @@ vidas; nos perguntemos sobre isso. Já estou seguindo o evangelho de nosso senho
 Jesus Cristo, pedindo pela intercessão de sua mãe, a conformidade com os
 desejos do ressuscitado? Fazendo a vontade do Pai Eterno? Pois é...<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

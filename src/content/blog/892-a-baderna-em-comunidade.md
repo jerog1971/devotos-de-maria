@@ -4,7 +4,8 @@ date: 2018-04-12T20:23:00.001Z
 heroImage: "/images/posts/892-a-baderna-em-comunidade-baderna.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/892-a-baderna-em-comunidade-baderna.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/892-a-baderna-em-comunidade-baderna.png" width="320" height="319" data-original-width="277" data-original-height="276" /></a></div>
+![](/images/posts/892-a-baderna-em-comunidade-baderna.png)
+
 Muitas comunidades pelo mundo afora padecem do mesmo problema que o egoísmo acarreta em toda a parte. As lideranças comunitárias até se esforçam para liderar, mas sempre uma dose de autoritarismo influenciada pela tentação do poder acaba maculando, afastando a democratização e coibindo ou minguando a participação colaborativa de outros membros da comunidade. Sobre o que se fala aqui especificamente entra no contexto das comunidades paroquiais, porém, como o agente participante, o ser humano, vagueia em outros campos enquanto anda pelas estradas da vida, o mesmo acontece de forma muito semelhante no trabalho, na escola, nas famílias e tantos outros locais onde o ser humano se encontra.</br>
 </br>
 Às vezes é a conhecida disputa de poder, outras vezes é o receio de sua perda, outras vezes é o medo da mudança, outras ainda é o exagero delas e mais adiante também é a falta de abertura para conciliar os membros em busca a caminharem todos num único sentido: o bem da Igreja de Cristo, representada neste pequeno pedaço que é a comunidade em que vivemos.</br>

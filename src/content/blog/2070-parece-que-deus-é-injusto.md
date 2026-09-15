@@ -4,7 +4,9 @@ date: 2022-08-29T15:36:00Z
 heroImage: "/images/posts/2070-parece-que-deus-é-injusto-img-124378148.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2070-parece-que-deus-é-injusto-img-124378148.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="313" data-original-width="270" height="313" src="/images/posts/2070-parece-que-deus-é-injusto-img-49545882.png" width="270" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dentro das perspectivas humanas saudáveis, o homem sonha e
+![](/images/posts/2070-parece-que-deus-é-injusto-img-49545882.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Dentro das perspectivas humanas saudáveis, o homem sonha e
 planeja constituir uma família e com ela, viver as alegrias da vida. Em seu
 curso de caminhada, porém, espera que a tendência natural percebida pela
 humanidade aconteça, ou seja: que os mais velhos morram primeiro que os mais
@@ -39,4 +41,7 @@ base em conceitos humanos, simplesmente porque não o entendemos ou não queremo
 o entender. Se o achamos injusto o rotulamos de mentiroso em relação à sua
 palavra.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

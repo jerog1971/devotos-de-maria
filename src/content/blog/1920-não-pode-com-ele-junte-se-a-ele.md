@@ -4,7 +4,8 @@ date: 2018-03-28T15:37:00Z
 heroImage: "/images/posts/1920-não-pode-com-ele-junte-se-a-ele-santidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1920-não-pode-com-ele-junte-se-a-ele-santidade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1920-não-pode-com-ele-junte-se-a-ele-santidade.png" width="320" height="303" data-original-width="408" data-original-height="386" /></a></div>
+![](/images/posts/1920-não-pode-com-ele-junte-se-a-ele-santidade.png)
+
 Pessoal, não adianta, por mais que os sociólogos reclamem, os ateus reclamem, os adeptos de outras denominações não cristãs reclamem e os cientistas balburdiem seus conceitos pautados numa sabedoria humana, infinitamente abaixo da sabedoria divina, não adianta, como lemos em Filipenses: que todo joelho se dobre ao nome de Jesus, na terra, nos céus e abaixo da terra. Ou seja, a verdade está aí, aos olhos de todos, um Deus em três pessoas, acima de qualquer compreensão humana e que nos diz em Deuteronômio 29,29 que devemos nos ater ao que nos foi revelado porque o que não foi é porque assim o quis nosso criador.</br>
 </br>
 Então, por mais que se tente, o que se faz é apenas isso: tentar. Porém, tentar aqui depende do contexto e das escolhas que tomamos. Se tentamos viver ao nosso modo, caminhamos em areia movediça e ficamos largados aos sabores dos ventos, que nunca sabemos de onde vem e para onde vão. Se tentamos viver buscando um equilíbrio entre o que queremos e o que Deus quer, fatalmente, qualquer um pode fazer a experiência, iremos acabar tentando, como disse Jesus, agradar a dois senhores. Ele mesmo nos disse que isso não vai funcionar já que é uma tentativa que muitas vezes está contaminada pelos nossos pecados de estimação.</br>

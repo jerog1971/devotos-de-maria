@@ -4,7 +4,8 @@ date: 2016-09-15T20:06:00Z
 heroImage: "/images/posts/089-pessoas-vazias-pessoa_vazia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/089-pessoas-vazias-pessoa_vazia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/089-pessoas-vazias-pessoa_vazia.png" width="316" height="320" data-original-width="321" data-original-height="325" /></a></div>
+![](/images/posts/089-pessoas-vazias-pessoa_vazia.png)
+
 Vazios, homens vazios e mulheres vazias. Vazios de valores. Ocos em seu interior, Bonitos e chamativos por fora. No fundo são como cortes de carne a amostra no balcão do açougue das vaidades humanas. E como tudo que fica exposto ao tempo, está sujeito às moscas. Também pode logo ser comprado, consumido e a sobra descartada.</br>
 </br>
 Pessoas assim quantos livros será que já leram este ano? Possivelmente nenhum. Neste estado de vazio elas não gostam de exercitar o cérebro, preferem exercitar os glúteos e os peitorais numa academia de ginástica. Preferem passar horas em frente ao espelho conferindo se tudo está no lugar, bem firminho, na ilusória esperança de que seus corpos em forma escondam o quanto são vazios por dentro.</br>

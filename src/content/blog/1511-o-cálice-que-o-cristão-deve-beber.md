@@ -4,7 +4,9 @@ date: 2022-02-25T18:42:00.003Z
 heroImage: "/images/posts/1511-o-cálice-que-o-cristão-deve-beber-AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki_s370.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1511-o-cálice-que-o-cristão-deve-beber-AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki_s370.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="370" data-original-width="340" height="320" src="/images/posts/1511-o-cálice-que-o-cristão-deve-beber-AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki_s320.jpg" width="294" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como cristãos, somos sempre chamados a santidade, e o
+![](/images/posts/1511-o-cálice-que-o-cristão-deve-beber-AVvXsEhAIpFE2Ssl35bpGgoZfrvIparIEKhTYmEBiNAPlOAfT4laX_sdXxkc17OBTNwxo2DqxtkOCygP-Q7wQWaAc5exjyoZrzlIrX36EP707pmFHWR3Zlw_KmLR8oPKmtPvYYZ_aNfXqNSjVnHBFcq9VznffDEy07OmRYgRTVyZnEWOVCbJSJlmUf4aAhki_s320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Como cristãos, somos sempre chamados a santidade, e o
 sentido da palavra santo é "outro" ou "separado". Santo é
 aquilo/aquele que está separado do impuro ou do profano para o serviço de Deus.
 Não podemos, em situação alguma, fazer parte de algo que está em oposição a
@@ -43,4 +45,7 @@ Jesus veio a terra para sofrer e nos salvar; disso, ele tinha consciência e nos
 confirmou durante o episódio de sua prisão, quando Pedro queria defende-lo, mas
 Jesus o proibiu e explicou que cabia ao Cristo tomar parte de nossa salvação
 dessa maneira: “Mas Jesus disse a Pedro: Enfia a tua espada na bainha! Não hei
-de beber eu o cálice que o Pai me deu?” – João 18,11.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div><p><br />&nbsp;</p>
+de beber eu o cálice que o Pai me deu?” – João 18,11.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div>
+
+<br /> 
+

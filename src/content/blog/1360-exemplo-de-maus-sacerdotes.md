@@ -4,7 +4,11 @@ date: 2020-05-09T22:27:00.006Z
 heroImage: "/images/posts/1360-exemplo-de-maus-sacerdotes-AVvXsEjt7214T02nxspkOtydXl4a-BQi7WqwOtAnhoQA8GxDVMGG3PYKbYhhO7I45i3D4ENHEuT52ZGELGcwcrXBn4Qes8B0mHOhTFgYe-DRat1KwfnPjdBDAlySiDTfaYzAUIgmAF4PnDQmihY.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1360-exemplo-de-maus-sacerdotes-AVvXsEjt7214T02nxspkOtydXl4a-BQi7WqwOtAnhoQA8GxDVMGG3PYKbYhhO7I45i3D4ENHEuT52ZGELGcwcrXBn4Qes8B0mHOhTFgYe-DRat1KwfnPjdBDAlySiDTfaYzAUIgmAF4PnDQmihY.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="263" data-original-width="232" src="/images/posts/1360-exemplo-de-maus-sacerdotes-AVvXsEjt7214T02nxspkOtydXl4a-BQi7WqwOtAnhoQA8GxDVMGG3PYKbYhhO7I45i3D4ENHEuT52ZGELGcwcrXBn4Qes8B0mHOhTFgYe-DRat1KwfnPjdBDAlySiDTfaYzAUIgmAF4PnDQmihY.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Durante a semana minha esposa ligou na paróquia onde moramos querendo saber se era possível ir até a
+<br />
+
+![](/images/posts/1360-exemplo-de-maus-sacerdotes-AVvXsEjt7214T02nxspkOtydXl4a-BQi7WqwOtAnhoQA8GxDVMGG3PYKbYhhO7I45i3D4ENHEuT52ZGELGcwcrXBn4Qes8B0mHOhTFgYe-DRat1KwfnPjdBDAlySiDTfaYzAUIgmAF4PnDQmihY.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Durante a semana minha esposa ligou na paróquia onde moramos querendo saber se era possível ir até a
 igreja para acender uma vela no cruzeiro durante o horário paroquial. Quem
 atendeu foi uma funcionária da secretaria. Ela disse que a igreja não
 estava aberta para visitas – embora aqui na arquidiocese outras igrejas ficam
@@ -48,6 +52,6 @@ um grão de mostarda consigo ver isso e sou incapaz de ser convencido do
 contrário, quem dirá Jesus Cristo, sabedoria divina encarnada no seio da Virgem
 Maria.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

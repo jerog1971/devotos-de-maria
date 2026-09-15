@@ -4,7 +4,8 @@ date: 2020-01-11T02:18:00.001Z
 heroImage: "/images/posts/397-viver-sem-servir-alguém-Nossa_Senhora.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/397-viver-sem-servir-alguém-Nossa_Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/397-viver-sem-servir-alguém-Nossa_Senhora.png" width="285" height="320" data-original-width="710" data-original-height="796" /></a></div>
+![](/images/posts/397-viver-sem-servir-alguém-Nossa_Senhora.png)
+
 Jesus disse, lemos em Mateus 20,26 – “Todo aquele que quiser tornar-se grande entre vós, se faça vosso servo. E o que quiser tornar-se entre vós o primeiro, se faça vosso escravo”. E ainda em Marcos 9,35 – “Se alguém quer ser o primeiro, seja o último de todos e o servo de todos”. E para embasar o artigo acrescentamos que Atos 20,35 – “existe mais alegria em dar do que me receber e Filipenses 2,4 – “Cada qual tenha em vista não os seus próprios interesses, e sim os dos outros”.</br>
 </br>
 Como vemos, caro leitor, nosso salvador é muito claro, tanto no que faz quanto no que diz. No que faz, através de sua passagem por este vale de lágrimas, com suas atitudes e exemplos, sempre mostrando como devemos proceder. No que diz, através de suas pregações. A mensagem é muito clara e em resumo, precisamos viver deixando de lado qualquer forma de egoísmo. Ele exige de cada um (o egoísmo), uma atitude que beneficie o portador colocando sempre em primeiro lugar seus interesses. Egoísmo, soberba, orgulho, ego... tudo tão prejudicial para a alma cristã.</br>

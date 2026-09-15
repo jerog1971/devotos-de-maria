@@ -4,7 +4,9 @@ date: 2022-01-04T03:25:00.003Z
 heroImage: "/images/posts/1754-insatisfação-constante-img-446985802.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1754-insatisfação-constante-img-446985802.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="326" data-original-width="363" height="287" src="/images/posts/1754-insatisfação-constante-img-446985675.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os santos padres já diziam que uma alma se torna inquieta
+![](/images/posts/1754-insatisfação-constante-img-446985675.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Os santos padres já diziam que uma alma se torna inquieta
 por não alcançar aquilo que deseja. De forma “pura”, digamos assim, isso é uma
 coisa boa pois, com uma semente plantada por Deus quando fomos criados, não
 descansamos enquanto não voltarmos para o seio do Pai Eterno. O filho de Deus,
@@ -48,4 +50,7 @@ recompensa. Vós, que temeis o Senhor, esperai nele; sua misericórdia vos será
 fonte de alegria. Vós, que temeis o Senhor, amai-o, e vossos corações se
 encherão de luz”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

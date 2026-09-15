@@ -4,7 +4,8 @@ date: 2016-07-20T11:15:00Z
 heroImage: "/images/posts/2008-único-casamento-possível-sob-os-olh-unico.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2008-único-casamento-possível-sob-os-olh-unico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2008-único-casamento-possível-sob-os-olh-unico.png" width="319" height="320" data-original-width="349" data-original-height="350" /></a></div>
+![](/images/posts/2008-único-casamento-possível-sob-os-olh-unico.png)
+
 </br>
 Sabe o que as Sagradas Escrituras dizem sobre o “casamento” homossexual?</br>
 </br>

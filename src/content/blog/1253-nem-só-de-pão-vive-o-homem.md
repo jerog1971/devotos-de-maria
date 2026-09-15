@@ -4,7 +4,8 @@ date: 2017-04-24T14:13:00.001Z
 heroImage: "/images/posts/1253-nem-só-de-pão-vive-o-homem-nem_s_25C3_25B3_de_p_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1253-nem-só-de-pão-vive-o-homem-nem_s_25C3_25B3_de_p_25C3_25A3o.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="287" data-original-width="220" height="320" src="/images/posts/1253-nem-só-de-pão-vive-o-homem-nem_s_25C3_25B3_de_p_25C3_25A3o.png" width="245" /></a></div>
+![](/images/posts/1253-nem-só-de-pão-vive-o-homem-nem_s_25C3_25B3_de_p_25C3_25A3o.png)
+
 Mas de toda a palavra que sai da boca de Deus. Isto foi dito por Jesus quando aconteceu o episódio da tentação do deserto. Jesus após os quarenta dias, nos contam as sagradas escrituras, teve fome. O diabo o tentou lhe dizendo para transformar as pedras em pães e levou de Cristo uma “chapuletada” daquelas! O diabo não é bobo, mas é burro! Convenhamos caro leitor, como é que ele foi achar que Jesus, em sua fraqueza humana, neste retiro espiritual no deserto que antecedia suas atividades públicas de pregação da boa nova, iria ceder à tentação da comida? A bíblia é clara em nos contar que Jesus foi conduzido pelo espírito ao deserto. Uma coisa é ser conduzido, outra coisa é ser arrastado na marra. Como Jesus, segunda pessoa da Santíssima Trindade, vive em comunhão com o Pai e o Espírito Santo colocava em curso sua atitude, mesmo para fazer a vontade do Pai, porém, de comum acordo com ele. “Burro” do diabo, sem querer ofender os animais, porque Jesus que ensinou para primeiro buscarmos o reino de Deus e a sua Justiça e tudo o mais nos será acrescentado, era uma pessoa que ensina e mostrava com se fazia. Esse foi um dos motivos do insucesso de satanás ao tentar o Cristo. A tentação foi vencida não porque Jesus era Deus com o Pai, mas porque ele agiu segundo a ordem das coisas, primeiro o Reino de Deus.
 
 E de fato as coisas são assim mesmo, para qualquer um de nós. Este episódio das tentações do deserto serve para nos ensinar que não devemos ceder as tentações do mundo colocando-as adiante das coisas celestes, que não passam. Isso o diabo sabe, como já lemos no início do artigo, ele não é bobo. E por ser, ao contrário, bem esperto, utiliza a tentação da gula, um dos pecados capitais, para promover uma derrocada maldita na vida das pessoas. Por que capital? Porque são pecados que podem levar a outros pecados. Assim como o dinheiro que rende na poupança ou rende numa aplicação bancária chamada de plano de capitalização, esses pecados, que geram novos pecados, são perigosos porque arrastam as pessoas por vias muito difíceis de se dar meia volta e retornarem. As pessoas tornam-se escravas desses pecados e aqui, como vemos e sabemos, tornam-se escravas do alimento.
@@ -16,6 +17,5 @@ Artigos relacionados:
 <a href="http://devotos-de-maria.blogspot.com.br/2016/09/toda-sexta-feira-e-dia-de-penitencia.html" target="_blank">Toda a sexta-feira é dia de penitência</a>
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/11/o-jejum-da-tecnologia.html" target="_blank">O jejum da tecnologia</a>
-
 
 fonte: Jefferson Roger

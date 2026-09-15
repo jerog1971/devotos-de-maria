@@ -4,7 +4,8 @@ date: 2017-05-15T19:25:00Z
 heroImage: "/images/posts/2058-lá-vem-chumbo-grosso-chumbo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2058-lá-vem-chumbo-grosso-chumbo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2058-lá-vem-chumbo-grosso-chumbo.png" width="320" height="295" data-original-width="330" data-original-height="304" /></a></div>
+![](/images/posts/2058-lá-vem-chumbo-grosso-chumbo.png)
+
 Olá pessoal, vamos concordar com uma coisa, se uma coisa que é difícil de se fazer é atravessar por uma cerca de arame farpado sem se machucar. Ou se rolar num gramado com roupas curtas sem depois ficar com coceira. Ou ainda beber alguma coisa bem gelada no inverno sem ficar ao menos com a garganta irritada. Ou comer bolacha recheada de chocolate sem sujar os dentes. E cada um de vocês podem colocar tantas outras situações do dia a dia que, se arriscarmos enfrentar, sabemos que possivelmente e provavelmente não sairemos ilesos. Pensemos agora nos relacionamentos interpessoais. Alguém já viu uma discussão acabar bem? Claro que já, porque discussões podem ser boas ou não. Exemplo de uma discussão boa? Um planejamento numa reunião onde se discute e define as atribuições de cada um para a execução de algum evento.</br>
 </br>
 Agora, já que as boas discussões obviamente trazem bons resultados e frutos na vida das pessoas vamos refletir um pouquinho sobre aquelas que são calorosas onde ninguém quer dar por derrotado. As discussões que a bíblia chama de contenda. Os verdadeiros bate bocas, o arranca rabo, a quebração de pau mesmo. O tipo de discussão que machuca, que ofende, que humilha, que incomoda, que faz sofrer, faz chorar, faz querer vingança e pode levar a consequências mais graves, como vemos em tantos noticiários policiais, quando a morte de alguém faz parte deste cenário promovido pelas discussões.</br>

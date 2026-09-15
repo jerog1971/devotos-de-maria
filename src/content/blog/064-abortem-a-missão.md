@@ -4,7 +4,8 @@ date: 2020-04-23T13:10:00.001Z
 heroImage: "/images/posts/064-abortem-a-missão-aborto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/064-abortem-a-missão-aborto.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="482" height="302" src="/images/posts/064-abortem-a-missão-aborto.png" width="320" /></a></div>
+![](/images/posts/064-abortem-a-missão-aborto.png)
+
 Vemos em muitos filmes que quando algo planejado vai dar errado por força de uma circunstância maior, o contexto muitas vezes exige que aquilo que foi pensado e projetado, por causa de um fator não previsto, sofre as consequências da ação e como resultado é preciso abortar a missão, se existir o famoso plano “B”, ele é colocado em prática.
 
 Para um pequeno exemplo colocamos um trecho da animação da Pixar – Os Incríveis. Helena Pera segue em missão solo para resgatar o senhor Incrível, aprisionado na ilha do inimigo. Não sabe ela que seus filhos embarcaram na missão escondidos. Pouco antes de chegarem ao desfecho o inimigo descobrindo a ação lança mísseis para abater o avião. Antes um pouco, Helena (a mulher elástica) descobre a intrusão das crianças (fator imprevisto) e não podendo retornar segue na missão. Todavia, em perigo de morte, ela envia mensagem ao inimigo pedindo que o ataque fosse abortado, pois havia crianças a bordo.
@@ -36,6 +37,5 @@ Artigos relacionados:
 <a href="https://www.devotos-de-maria.com.br/2016/08/preciso-fazer-um-aborto.html" target="_blank">Preciso fazer um aborto</a>
 
 <a href="https://www.devotos-de-maria.com.br/2016/04/diario-de-um-bebe-nao-nascido.html">Diário de um bebê não nascido</a>
-
 
 Fonte: Jefferson Roger

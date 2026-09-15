@@ -4,7 +4,9 @@ date: 2025-05-20T19:02:00.004Z
 heroImage: "/images/posts/653-maus-exemplos-maus_20exemplos.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/653-maus-exemplos-maus_20exemplos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="810" data-original-width="1137" height="228" src="/images/posts/653-maus-exemplos-maus_20exemplos.jpg" width="320" /></a></div><br />&nbsp;<p style="line-height: 100%; margin-bottom: 0cm;">
+![](/images/posts/653-maus-exemplos-maus_20exemplos.jpg)
+
+<br /> <p style="line-height: 100%; margin-bottom: 0cm;">
 Existem pessoas que acham que regras e obrigações não fazem parte
 da sua realidade; gostam de cobrar dos outros, mas quando lhes
 envolve uma atitude “pulam” fora da raia como se não estivesse
@@ -56,4 +58,4 @@ merce de Deus.</p>
 </p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
 Roger</p>
-<p></p>
+

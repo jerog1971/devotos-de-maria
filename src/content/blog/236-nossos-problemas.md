@@ -4,7 +4,8 @@ date: 2019-02-07T16:22:00Z
 heroImage: "/images/posts/236-nossos-problemas-nossos_problemas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/236-nossos-problemas-nossos_problemas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/236-nossos-problemas-nossos_problemas.png" width="320" height="296" data-original-width="636" data-original-height="588" /></a></div>
+![](/images/posts/236-nossos-problemas-nossos_problemas.png)
+
 Problemas, por incrível que pareça, caso não tenham percebido, são relativos. Isso mesmo que você acabou de ler caro leitor. E não é difícil a constatação dessa afirmação. Todavia, também é fato, que os problemas possuem graus. Existem aqueles que são macros, outros são micros, outros são medianos e relevantes, outros irrelevantes, outros públicos e tantos outros, privados.</br>
 </br>
 Uma coisa pode ser problema para alguém e não ser problema para você. Poderíamos aqui passarmos horas “filosofando” sobre a questão e elencando uma mega lista de problemas. Mas não vem ao caso, vamos de um pequeno exemplo apenas.</br>

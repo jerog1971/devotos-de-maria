@@ -4,7 +4,11 @@ date: 2020-05-08T15:09:00Z
 heroImage: "/images/posts/349-o-olhar-img-1955085353.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/349-o-olhar-img-1955085353.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1200" height="320" src="/images/posts/349-o-olhar-img-1955085353.jpgs320/Olhar.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 5,28 – “Eu, porém (Jesus), vos digo: todo aquele que
+<br />
+
+![](/images/posts/349-o-olhar-img-1955085353.jpgs320/Olhar.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 5,28 – “Eu, porém (Jesus), vos digo: todo aquele que
 lançar um olhar de cobiça para uma mulher, já adulterou com ela em seu coração.
 Mateus 18,9 – “Se teu olho te leva ao pecado, arranca-o e lança-o longe de ti:
 é melhor para ti entrares na vida cego de um olho que seres jogado com teus
@@ -41,6 +45,6 @@ encosto. Coincidência? O cristão acredita em providências divinas! Vale a
 reflexão, pois é a realidade em que vivemos e ao menos sabemos que no meio de
 nós existem os anjos de Deus além das catervas infernais.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

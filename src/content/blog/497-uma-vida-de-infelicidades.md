@@ -4,7 +4,9 @@ date: 2021-08-30T15:32:00.003Z
 heroImage: "/images/posts/497-uma-vida-de-infelicidades-uma_vida_de_infelicidades.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/497-uma-vida-de-infelicidades-uma_vida_de_infelicidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="449" data-original-width="463" height="310" src="/images/posts/497-uma-vida-de-infelicidades-uma_vida_de_infelicidades.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas vezes a sensação que temos é que durante todo o decorrer
+![](/images/posts/497-uma-vida-de-infelicidades-uma_vida_de_infelicidades.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitas vezes a sensação que temos é que durante todo o decorrer
 de nossas vidas a quantidade de acontecimentos infelizes supera, e muito, a
 quantidade de acontecimentos bons. De fato, a bíblia nos fala algumas verdades
 (bem duras por sinal) a respeito dessa balança bem desequilibrada das coisas
@@ -34,4 +36,7 @@ perda: após a tempestade, mandais a bonança; depois das lágrimas e dos gemido
 derramais a alegria. Ó Deus de Israel, que o vosso nome seja eternamente
 bendito!” – Tobias 3,21-23.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

@@ -4,7 +4,8 @@ date: 2020-04-07T21:27:00.001Z
 heroImage: "/images/posts/1732-os-sacramentos-católicos-tem-base-b-igreja.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1732-os-sacramentos-católicos-tem-base-b-igreja.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1732-os-sacramentos-católicos-tem-base-b-igreja.png" width="320" height="215" data-original-width="637" data-original-height="427" /></a></div>
+![](/images/posts/1732-os-sacramentos-católicos-tem-base-b-igreja.png)
+
 A igreja romana defende que sim e ilustra sua crença em algumas passagens retiradas com pinça para comprovar o que afirmam. Para cada sacramento existe algum versículo; ela ensina que foram instituídos por Jesus e fazem parte do cristianismo proferido pelos católicos apostólicos romanos. No entanto o poder santificante dos sacramentos, tão propagado e defendido por muitos esbarra numa grande realidade que muita gente pode experimentar por si própria.</br>
 </br>
 Não é todo mundo que pode dizer que depois do sacramento tornou-se outra pessoa. E antes da reflexão já vamos colocando que se ensina que os sacramentos atuam na medida da disposição do penitente, não possuem uma força motriz que independe do sujeito. Vamos lá. O sujeito comunga e confessa muitas vezes durante sua vida. Ao olhar em certa altura para ela pode dizer que se tornou pessoa melhor? Pode dizer que foi por causa desses dois sacramentos? Ademais se diz que eles fornecem graças espirituais. Tudo muito abstrato e por isso precisam as pessoas se ancorarem fortemente na fé para colherem algum fruto.</br>

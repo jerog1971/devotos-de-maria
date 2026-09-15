@@ -4,7 +4,11 @@ date: 2020-06-29T15:55:00.002Z
 heroImage: "/images/posts/1383-são-pedro-radicalmente_de_deus.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1383-são-pedro-radicalmente_de_deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="360" data-original-width="431" src="/images/posts/1383-são-pedro-radicalmente_de_deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Simão Pedro, pescador galileu de Cafarnaum e apóstolo de
+<br />
+
+![](/images/posts/1383-são-pedro-radicalmente_de_deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Simão Pedro, pescador galileu de Cafarnaum e apóstolo de
 Jesus, foi o primeiro papa da igreja. Desde que aceitou o convite de Jesus para
 ser seu discípulo, exerceu a liderança no grupo dos doze, sendo por isso
 chamado de príncipe dos apóstolos. Com Paulo apóstolo, teve papel fundamental

@@ -4,7 +4,8 @@ date: 2017-05-17T17:03:00.001Z
 heroImage: "/images/posts/116-a-virtude-da-temperança-temperan_25C3_25A7a.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/116-a-virtude-da-temperança-temperan_25C3_25A7a.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="196" data-original-width="235" height="267" src="/images/posts/116-a-virtude-da-temperança-temperan_25C3_25A7a.png" width="320" /></a></div>
+![](/images/posts/116-a-virtude-da-temperança-temperan_25C3_25A7a.png)
+
 Temperança é moderar e equilibrar os prazeres sensíveis. Essa virtude nos é muito importante porque através dela não iremos cometer pecados de ira. Lembrando que a ira é um dos pecados capitais e, portanto, perigosíssimo para a condição da alma. Muitas pessoas já passaram ou já testemunharam a situação onde, num momento apenas, ao invés de ficarem calados, falaram o que não deviam, na hora errada e para a pessoa errada. Em minutos de descontrole podemos arremessar uma saraivada de flechas (palavras) em direção certeira, capazes de perfurar e penetrar tão profundamente o alvo (as pessoas), que mesmo que se retire a flecha e se faça um curativo no local do machucado já será tarde, irá ficar a cicatriz e sabemos muito bem que, velhas feridas se não forem bem tratadas, podem se abrir.
 
 A falta desta virtude em nossas vidas faz com que nossos comportamentos fiquem no campo do “demais”. Comemos demais, falamos demais, trabalhamos demais, brigamos demais, quando podemos dormimos demais, tudo no ser humano que não possui a temperança é demais. E notemos que o demais vale também para as coisas boas, senão não existiria a virtude da temperança. Vemos alguns exemplos assim na bíblia e posso aqui destacar um. Trata-se da questão de vigiar e orar sem cessar e da relação marido e mulher. Nas cartas apostólicas e nos evangelhos vemos que é preciso oração e vigilância constante, mas a beleza da virtude da temperança, que não vem para estragar relação interpessoal de nenhuma natureza, se apresenta para contribuir com a questão quando vemos em outra parte das sagradas escrituras que o casal não deve deixar de se relacionar concedendo, de comum acordo, um intervalo para que se dediquem as práticas religiosas da oração.
@@ -20,6 +21,5 @@ Artigos relacionados:
 <a href="https://www.devotos-de-maria.com.br/2016/06/o-desequilibrio-das-pessoas.html" target="_blank">O desequilíbrio das pessoas</a>
 
 <a href="https://www.devotos-de-maria.com.br/2016/05/haja-paciencia.html" target="_blank">Haja Paciência</a><br />
-
 
 fonte: Jefferson Roger

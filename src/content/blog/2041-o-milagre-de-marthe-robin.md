@@ -4,16 +4,22 @@ date: 2016-08-22T18:55:00Z
 heroImage: "/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin.png" width="306" height="320" data-original-width="303" data-original-height="317" /></a></div>
+![](/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin.png)
+
 Nascida em 13 de março de 1902 em Châteauneuf-de-Galaure, França, filha de camponeses foi desde cedo predestinada por Deus a viver uma vida extremamente unida a paixão de Jesus em reparação pelas ofensas dos pobres pecadores. Desde muito cedo, aos 16 anos de idade começam os primeiros sintomas de encefalite, doença que irá acompanha-la por toda a vida. Em vão foram as várias tentativas de tratamento e enquanto seu quadro progredia sua espiritualidade também.</br>
 </br>
 Aos 23 anos ela oferece-se a Deus como vítima de amor e dois anos após compreende através de uma pregação em sua paróquia que sua vocação seria servir a Deus na doença e pela doença incessantemente para a salvação das almas. Um ano depois ela ficou tetraplégica e perdeu até os movimentos que lhe permitiam engolir e digerir qualquer tipo de alimento, assim permanecendo até sua morte em 1981.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin2.png" width="198" height="200" data-original-width="203" data-original-height="205" /></a></div>
+
+![](/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin2.png)
+
 Com 28 anos recebe os estigmas da paixão e passa a reviver toda a semana em seu corpo todos os sofrimentos físicos e morais de Jesus. Ficando assim pelos próximos anos ela desconsertava todos os médicos pelo fato de sobreviver sem dormir e se alimentar recebendo, apenas uma vez por semana, a comunhão em sua própria cama, o que acontecia sempre nas noites de quarta-feira. Após a comunhão ela entrava em êxtase vindo a acordar dias depois. No final de sua vida chegava a ficar em êxtase até 5 dias. Durante esses dias em que ela “revivia” a paixão de Jesus, na sexta-feira pouco depois das 15 horas, ela “caía” num aparente estado de morte vindo a “ressuscitar” com Jesus no domingo, embora saísse do êxtase apenas na segunda-feira.
 Como foi explicado, devido a sua doença, Marthe não podia deglutir e digerir alimentos então como se dava o fato dela receber a santa comunhão? Bondade divina, não importava o sacerdote, bastava aproximar a hóstia de sua boca e, nas palavras dos padres, “era como se a comunhão escapasse das mãos” entrando na boca de Marthe para desaparecer em seguida.
 Quando sua vida coincidiu com o período da segunda guerra mundial, a maior necessidade de reparação exigiu de Marthe que ela ficasse cega até o final de sua vida.</br>
 Compreende-se pela imensa graça que Deus concedeu a Marthe, a fúria violenta de satanás contra esta serva de Deus, que era violentamente espancada por uma mão invisível, e isso diante de presentes, ao ponto do seu diretor, o Padre Finet, convidar padres que não acreditavam no demônio a fazerem uma visita a Marthe ao cair da noite e verem com seus próprios olhos as impressionantes cenas de terror que lá se desenrolavam.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin3.png" width="200" height="198" data-original-width="345" data-original-height="342" /></a></div></br>
+
+![](/images/posts/2041-o-milagre-de-marthe-robin-Marthe_Robin3.png)
+
+</br>
 E o mais notável destes ataques satânicos que ela sofria, foi que Deus permitiu ao diabo levar a cabo a vida de Marthe Robin. Ela morreu na tarde de sexta-feira de 6 de fevereiro de 1981.</br>
 </br>
 Antes de entrar neste seu último e definitivo êxtase, Marthe avisou o seu confessor que "desta vez Deus permitirá que o demônio vá até o fim". De fato, ao entardecer daquele dia, quando o Padre Finet entrou no quartinho de Marthe, encontrou-a jogada no chão, já sem vida. E assim, uma das maiores vítimas reparadoras subiu para a glória eterna entregando toda a sua existência, por vontade de Deus, nas mãos da Virgem Maria, através do tratado da verdadeira devoção a Virgem Santíssima, cujo desígnio divino lhe foi comunicado por uma aparição de Maria logo nos primeiros anos de sua vida mística.</br>

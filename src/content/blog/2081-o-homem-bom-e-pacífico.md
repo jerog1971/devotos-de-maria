@@ -4,7 +4,11 @@ date: 2020-06-28T23:03:00Z
 heroImage: "/images/posts/2081-o-homem-bom-e-pacífico-santidade_do_pai.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2081-o-homem-bom-e-pacífico-santidade_do_pai.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="401" data-original-width="397" height="320" src="/images/posts/2081-o-homem-bom-e-pacífico-santidade_do_pai.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Primeiro conserva-te em paz, e depois poderás pacificar os
+<br />
+
+![](/images/posts/2081-o-homem-bom-e-pacífico-santidade_do_pai.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Primeiro conserva-te em paz, e depois poderás pacificar os
 outros. O homem apaixonado, até o bem converte em mal e facilmente acredita no
 mal; o homem bom e pacífico, pelo contrário; faz com que tudo se converta em
 bem. Quem está em boa paz de ninguém desconfia; o descontente e perturbado,
@@ -19,7 +23,7 @@ o teu irmão. Suporta os outros, se queres que te suportem a ti. Nota quão long
 estás ainda da verdadeira caridade e humildade que não sabe irar-se ou
 indignar-se senão contra si própria. Não é grande coisa conviver com homens
 bons e mansos, porque isso, naturalmente, agrada a todos; e cada um gosta de
-viver em paz e ama os que são de seu parecer.<span style="mso-spacerun: yes;">&nbsp;
+viver em paz e ama os que são de seu parecer.<span style="mso-spacerun: yes;"> 
 </span>Viver, porém, em paz com pessoas ásperas, perversas e mal-educadas que
 nos contrariam, é grande graça e ação louvável e varonil.</p>
 

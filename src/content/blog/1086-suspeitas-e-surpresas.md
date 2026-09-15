@@ -4,7 +4,9 @@ date: 2024-09-04T20:29:00.004Z
 heroImage: "/images/posts/1086-suspeitas-e-surpresas-Surpresas.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1086-suspeitas-e-surpresas-Surpresas.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/1086-suspeitas-e-surpresas-Surpresas.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Quando as pessoas se preocupam em demonstrar seu contentamento para
+![](/images/posts/1086-suspeitas-e-surpresas-Surpresas.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;"> Quando as pessoas se preocupam em demonstrar seu contentamento para
 com alguém, possuem muitas maneiras de expressarem seus sentimentos
 e contentações. Para nós professores, os alunos sempre serão um
 impulsionador, uma alavanca que move o ideal de ensinar sem esperar
@@ -50,4 +52,7 @@ uma coisa boa e querida por Deus.</p>
 
 </p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

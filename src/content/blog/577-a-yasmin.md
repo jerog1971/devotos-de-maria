@@ -4,7 +4,9 @@ date: 2024-09-04T20:49:00.006Z
 heroImage: "/images/posts/577-a-yasmin-A_20Yasmin.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/577-a-yasmin-A_20Yasmin.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="960" data-original-width="480" height="320" src="/images/posts/577-a-yasmin-A_20Yasmin.jpg" width="160" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Ela é uma das minhas filhas, já é uma moça, uma mulher, muito
+![](/images/posts/577-a-yasmin-A_20Yasmin.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;"> Ela é uma das minhas filhas, já é uma moça, uma mulher, muito
 agradável de se conviver. Foi e ainda é minha parceira nas
 jogatinas de videogame, nós mandamos bem juntos e nos divertimos bem
 nesses momentos. Somos peritos em Resident Evil e temos tanta
@@ -44,4 +46,7 @@ com ela para eu ficar fazendo lambanças na vida, como pai.</p>
 
 </p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

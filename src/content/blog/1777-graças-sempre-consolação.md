@@ -4,7 +4,9 @@ date: 2020-11-09T14:34:00.003Z
 heroImage: "/images/posts/1777-graças-sempre-consolação-ora_25C3_25A7_25C3_25A3o3.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1777-graças-sempre-consolação-ora_25C3_25A7_25C3_25A3o3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="297" data-original-width="281" src="/images/posts/1777-graças-sempre-consolação-ora_25C3_25A7_25C3_25A3o3.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A experiência do título deste artigo arrisco dizer que já
+![](/images/posts/1777-graças-sempre-consolação-ora_25C3_25A7_25C3_25A3o3.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A experiência do título deste artigo arrisco dizer que já
 foi vivida por todas as pessoas que já se colocaram a rezar. A pessoa pede em
 orações muitas coisas, variados tipos de graças e sente na carne, no dia a dia,
 que parece Deus peneirar, e com uma peneira muito fina, aquilo que pedimos. A
@@ -45,4 +47,7 @@ coisa.<o:p></o:p></p>
 sem cessar segundo nosso redentor; todavia, um comportamento ao modelo do ressuscitado
 – 1ª Coríntios 11,1 – configura e completa a realidade do cristão.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

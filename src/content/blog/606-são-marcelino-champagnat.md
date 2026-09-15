@@ -4,7 +4,11 @@ date: 2020-06-06T14:05:00.001Z
 heroImage: "/images/posts/606-são-marcelino-champagnat-santos.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/606-são-marcelino-champagnat-santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="/images/posts/606-são-marcelino-champagnat-santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Marcelino nasceu em Marlhes, França, em 1789. É o
+<br />
+
+![](/images/posts/606-são-marcelino-champagnat-santos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">São Marcelino nasceu em Marlhes, França, em 1789. É o
 fundador dos irmãos Maristas. De família humilde e habituado ao trabalho do
 campo, aos quinze anos ingressou no seminário. Em 1816 foi ordenado sacerdote.
 Viveu em um tempo conturbado pelas intrigas políticas e pelas guerras
@@ -13,7 +17,7 @@ a ideia de fundar um Instituto de Irmãos que se dedicasse ao ensino e a educaç
 cristã de infância e da juventude. Em 1817, juntamente com dois jovens
 paroquianos, deu início à obra dos Irmãos Maristas, dedicada à educação e a
 formação religiosa e profissional da juventude. Ao morrer, em 1840, havia cerca
-de<span style="mso-spacerun: yes;">&nbsp; </span>quarenta casas e duzentos Irmãos
+de<span style="mso-spacerun: yes;">  </span>quarenta casas e duzentos Irmãos
 Maristas.</p>
 
 <p class="MsoNormal">Prece do dia:</p>

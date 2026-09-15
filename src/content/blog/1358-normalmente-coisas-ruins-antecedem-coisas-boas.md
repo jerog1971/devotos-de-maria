@@ -4,7 +4,9 @@ date: 2023-09-06T21:54:00.002Z
 heroImage: "/images/posts/1358-normalmente-coisas-ruins-antecedem-coisas-boas-sofrimento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1358-normalmente-coisas-ruins-antecedem-coisas-boas-sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="/images/posts/1358-normalmente-coisas-ruins-antecedem-coisas-boas-sofrimento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Escutei essa frase em um filme e depois de refletir,
+![](/images/posts/1358-normalmente-coisas-ruins-antecedem-coisas-boas-sofrimento.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Escutei essa frase em um filme e depois de refletir,
 passando aquele filme de toda minha vida como um filme, vou concordar. E mais,
 a frase tem ainda por cima, respaldo bíblico. Toda a sagrada escritura ilustra
 essa condição que os filhos de Deus precisam viver para um dia serem elevados
@@ -30,4 +32,7 @@ que é a entrada no paraíso.<o:p></o:p></p>
 corromper; isso sim é um acontecimento ruim: deixar-se levar pelos prazeres terrenos
 que irão nos fazer sofrer tormentos eternos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

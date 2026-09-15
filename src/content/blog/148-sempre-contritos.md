@@ -4,7 +4,9 @@ date: 2021-06-07T12:44:00.001Z
 heroImage: "/images/posts/148-sempre-contritos-contritos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/148-sempre-contritos-contritos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="307" data-original-width="306" src="/images/posts/148-sempre-contritos-contritos.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os santos já diziam a respeito de um coração constantemente
+![](/images/posts/148-sempre-contritos-contritos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Os santos já diziam a respeito de um coração constantemente
 colocado em estado de arrependimento perpétuo. Então o sujeito, por conta dessa
 afirmação, poderia se perguntar: mas viver em estado de constante
 arrependimento? Será que não existe alguma coisa errada com as atitudes da
@@ -42,4 +44,7 @@ coração que anseia retornar para a felicidade de estar no caminho certo e
 sempre que isso custe estar contrito, pois, nem se compara a perder o que nos
 aguarda e condenar-se eternamente para a perdição onde a tristeza é sem fim.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

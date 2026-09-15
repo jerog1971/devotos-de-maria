@@ -4,7 +4,11 @@ date: 2020-05-12T14:04:00Z
 heroImage: "/images/posts/1365-a-doutrina-do-medo-AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1365-a-doutrina-do-medo-AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="299" data-original-width="278" src="/images/posts/1365-a-doutrina-do-medo-AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O medo é algo conhecido por todos, para certos tipos desse
+<br />
+
+![](/images/posts/1365-a-doutrina-do-medo-AVvXsEi8HwmlRH0cv5uVvCORjQz1QQjJzNx4vD_4Mw5A4e7Oy1uoPkebXW0L2ToscerIuekzkw1YEwx-czLMcgA5PBzRrkeiPGA41KsSChEeL5SU1Pcui9AdFi45LEGS24zBYZqdaY_bq_Lt8lI.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O medo é algo conhecido por todos, para certos tipos desse
 sentimento podemos dizer até que de maneira “saudável” ele é benéfico, pois
 instiga as pessoas a serem prudentes. Se você não sabe nadar, certamente o medo
 de morrer afogado o impedirá de se atirar numa lagoa profunda para tentar
@@ -45,6 +49,6 @@ em nossas vidas a oportunidade desses medos nos permitirão colher. João 14,1 e
 a paz, dou-vos a minha paz. Não vo-la dou como o mundo a dá. Não se perturbe o
 vosso coração, nem se atemorize!”</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <span style="font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;; font-size: 11.0pt; line-height: 115%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>

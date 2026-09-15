@@ -4,7 +4,9 @@ date: 2022-06-18T15:39:00Z
 heroImage: "/images/posts/1524-cuidado-com-os-argumentos-contra-deus-argumentos_20contra_20Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1524-cuidado-com-os-argumentos-contra-deus-argumentos_20contra_20Deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="308" data-original-width="393" height="251" src="/images/posts/1524-cuidado-com-os-argumentos-contra-deus-argumentos_20contra_20Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A sabedoria e misericórdia divinas são invencíveis, assim
+![](/images/posts/1524-cuidado-com-os-argumentos-contra-deus-argumentos_20contra_20Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A sabedoria e misericórdia divinas são invencíveis, assim
 como o amor de Deus por suas criaturas. Ele, apesar de seu amor declarado e
 muitas vezes não compreendido na totalidade, cuidar com maestria de seus
 filhos, não abre mão da sua justiça divina. O julgamento existe no caminho do
@@ -35,4 +37,7 @@ um absurdo pensar nessa hipótese. Fomos convencidos pelo mal de que podemos ir
 ao céu vivendo de uma forma diferente da ordenada por Deus, mas, não vemos nas
 entrelinhas que quem nos convenceu foi aquele que de lá foi banido.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

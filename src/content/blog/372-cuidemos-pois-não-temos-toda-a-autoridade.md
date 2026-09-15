@@ -4,7 +4,9 @@ date: 2023-01-13T21:54:00.001Z
 heroImage: "/images/posts/372-cuidemos-pois-não-temos-toda-a-autor-img-1048470330.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/372-cuidemos-pois-não-temos-toda-a-autor-img-1048470330.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="329" data-original-width="427" height="247" src="/images/posts/372-cuidemos-pois-não-temos-toda-a-autor-img-227614206.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não se ouve falar por aí e com frequência que os pais dão
+![](/images/posts/372-cuidemos-pois-não-temos-toda-a-autor-img-227614206.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não se ouve falar por aí e com frequência que os pais dão
 autoridade aos seus filhos menores sobre as responsabilidades de uma casa e
 tudo que a ela esteja relacionado. Sabem os pais que é preciso muita
 maturidade, aprendizado e experiência para que seja possível gerir coisas dessa
@@ -47,4 +49,7 @@ mulher; e os dois formarão uma só carne? Assim, já não são dois, mas uma s�
 carne. Portanto, (já que Deus não lhes deu autoridade), não separe o homem o
 que Deus uniu”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

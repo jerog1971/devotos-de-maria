@@ -4,7 +4,8 @@ date: 2016-01-20T15:44:00Z
 heroImage: "/images/posts/544-advertir-o-irmão-advertir.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/544-advertir-o-irmão-advertir.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/544-advertir-o-irmão-advertir.png" width="320" height="169" data-original-width="358" data-original-height="189" /></a></div>
+![](/images/posts/544-advertir-o-irmão-advertir.png)
+
 </br>
 Ezequiel 3,18-20</br>
 </br>

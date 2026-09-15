@@ -4,9 +4,9 @@ date: 2025-04-14T20:11:00Z
 heroImage: "/images/posts/409-obrigações-e-proibições-img-733482001.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/409-obrigações-e-proibições-img-733482001.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="470" data-original-width="543" height="277" src="/images/posts/409-obrigações-e-proibições-img-1514653780.png" width="320" /></a></div><p></p><p>
+![](/images/posts/409-obrigações-e-proibições-img-1514653780.png)
 
-</p><p class="MsoNormal">Certamente para muitos de nós a religião é vista de uma
+<p class="MsoNormal">Certamente para muitos de nós a religião é vista de uma
 maneira afastada daquilo que é seu real e legítimo propósito: religar-se a
 Deus. Para piorar ainda mais a situação, se o sujeito se atentar para as
 leituras bíblicas irá lhe parecer que existem dois “deuses” bíblicos: o do
@@ -43,4 +43,7 @@ Deus, isso facilita muito as coisas. Ele nos quer no céu e colocou à nossa
 disposição seu filho Jesus Cristo, sua mãe Maria Santíssima e toda a milícia celeste
 para nos auxiliar na caminhada de retorno. Abre mão quem quer.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p>
+
+<br />
+

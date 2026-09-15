@@ -4,7 +4,8 @@ date: 2017-05-23T20:18:00Z
 heroImage: "/images/posts/576-sentiu-se-sozinho-procure-a-outra-sozinho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/576-sentiu-se-sozinho-procure-a-outra-sozinho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/576-sentiu-se-sozinho-procure-a-outra-sozinho.png" width="320" height="298" data-original-width="350" data-original-height="326" /></a></div>
+![](/images/posts/576-sentiu-se-sozinho-procure-a-outra-sozinho.png)
+
 Quando se sentir sozinho, procure a outra</br>
 </br>
 Como podes pensar assim?</br>

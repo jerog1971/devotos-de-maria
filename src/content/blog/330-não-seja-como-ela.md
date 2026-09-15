@@ -4,7 +4,9 @@ date: 2020-10-07T13:35:00.001Z
 heroImage: "/images/posts/330-não-seja-como-ela-ovelhas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/330-não-seja-como-ela-ovelhas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="554" src="/images/posts/330-não-seja-como-ela-ovelhas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">João 12,11-15 – “Eu sou o bom pastor. O bom pastor expõe a
+![](/images/posts/330-não-seja-como-ela-ovelhas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">João 12,11-15 – “Eu sou o bom pastor. O bom pastor expõe a
 sua vida pelas ovelhas. O mercenário, porém, que não é pastor, a quem não
 pertencem as ovelhas, quando vê que o lobo vem vindo, abandona as ovelhas e
 foge; o lobo rouba e dispersa as ovelhas. O mercenário, porém, foge, porque é
@@ -53,4 +55,7 @@ Grande Conselho, <b>cheios de alegria, por terem sido achados dignos de sofrer
 afrontas pelo nome de Jesus</b>. E todos os dias não cessavam de ensinar e de
 pregar o Evangelho de Jesus Cristo no templo e pelas casas”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

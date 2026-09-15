@@ -4,7 +4,8 @@ date: 2016-11-09T15:38:00Z
 heroImage: "/images/posts/1481-o-preço-da-porta-estreita-porta_estreita.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1481-o-preço-da-porta-estreita-porta_estreita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1481-o-preço-da-porta-estreita-porta_estreita.png" width="255" height="320" data-original-width="323" data-original-height="405" /></a></div>
+![](/images/posts/1481-o-preço-da-porta-estreita-porta_estreita.png)
+
 Com a correria do dia a dia e a frenética agitação que o mundo impõe para as almas sedentas de felicidade e alegrias, passa despercebido para muitos a consciência de como andam seus preparativos para a vida eterna. O bondoso Deus (Mateus 19,17) que em sua justiça irá recompensar cada um segundo suas obras (Mateus 16,27) nos apresenta um desafio que não podemos vencer sozinhos (Mateus 19,26), que se trata da nossa salvação. Sem a ajuda de Jesus nada podemos fazer (João 15,5) e isso nem seria o mais importante, já que o mais importante para o católico, que é a salvação de sua alma, nem isso pode fazer sozinho, a ajuda de Jesus não pode em hipótese nenhuma ser ignorada. Aqueles que assim o fazem, ele mesmo já disse que já receberam a sua recompensa (Mateus 6).</br>
 </br>
 Esse desafio, no entanto, é alcançável. O desafio de passarmos pela “porta estreita”, Jesus, a porta do céu (João 10,9). Sozinhos não podemos, já sabemos, mas nossa parte devemos fazer, isso também sabemos. Deus não quer filhos infiéis e inúteis (Eclesiástico 15,22), muito pelo contrário. Nos quer dependentes e obedientes a sua vontade, configurados à sua imagem. Porque “muitos tentarão e poucos conseguirão” (Lucas 13,24).<br>

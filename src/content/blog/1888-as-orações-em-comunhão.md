@@ -4,7 +4,9 @@ date: 2021-05-14T13:29:00.001Z
 heroImage: "/images/posts/1888-as-orações-em-comunhão-img-1592857529.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1888-as-orações-em-comunhão-img-1592857529.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="311" src="/images/posts/1888-as-orações-em-comunhão-img-449383446.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os filhos de Deus vivem uma vida na esteira da corrente das
+![](/images/posts/1888-as-orações-em-comunhão-img-449383446.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Os filhos de Deus vivem uma vida na esteira da corrente das
 graças; por causa do amor caridade, intercedemos uns pelos outros pedindo a
 Deus pelas nossas necessidades. Depois que morremos não deixamos de existir, se
 fomos tementes a Deus, agora ergueremos louvores, está escrito no livro do
@@ -41,4 +43,7 @@ igreja militante, na terra, padecente, na purificação expiatória, e triunfant
 na glória do paraíso, quem membro dela é e caminha sobre a verdade de Jesus
 Cristo, não se exclui e não está excluído dessa comunhão.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

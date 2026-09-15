@@ -4,7 +4,9 @@ date: 2020-11-20T13:48:00Z
 heroImage: "/images/posts/145-sim-não-cresça-ou-espere-ora_25C3_25A7_25C3_25A3o2.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/145-sim-não-cresça-ou-espere-ora_25C3_25A7_25C3_25A3o2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="307" data-original-width="324" src="/images/posts/145-sim-não-cresça-ou-espere-ora_25C3_25A7_25C3_25A3o2.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Rezo tanto e até para pedidos tão ínfimos perante a grandeza
+![](/images/posts/145-sim-não-cresça-ou-espere-ora_25C3_25A7_25C3_25A3o2.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Rezo tanto e até para pedidos tão ínfimos perante a grandeza
 de Deus eu não sou atendido. Pior ainda é quando se passam anos pedindo a mesma
 coisa, que não é pedido material e sim espiritual, não é só para mim e ainda assim
 Deus me responde com seu silêncio. Que situação inquietante. O recado que constantemente
@@ -50,4 +52,7 @@ pedimos. Ser discípulo de Jesus não é fácil, precisamos guardar tudo no cora
 (Lucas 2,19), como Maria Santíssima fazia e sermos imitadores de Cristo (1ª
 Coríntios 11,1).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

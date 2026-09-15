@@ -4,7 +4,8 @@ date: 2015-12-17T13:29:00Z
 heroImage: "/images/posts/898-temor-e-respeito-temor_e_respeito.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/898-temor-e-respeito-temor_e_respeito.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/898-temor-e-respeito-temor_e_respeito.png" width="320" height="270" data-original-width="282" data-original-height="238" /></a></div>
+![](/images/posts/898-temor-e-respeito-temor_e_respeito.png)
+
 </br>
 Carta aos Hebreus 12,28</br>
 </br>

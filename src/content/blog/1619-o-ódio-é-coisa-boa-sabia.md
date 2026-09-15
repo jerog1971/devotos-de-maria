@@ -4,7 +4,8 @@ date: 2016-05-09T13:51:00Z
 heroImage: "/images/posts/1619-o-ódio-é-coisa-boa-sabia-odio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1619-o-ódio-é-coisa-boa-sabia-odio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1619-o-ódio-é-coisa-boa-sabia-odio.png" width="320" height="197" data-original-width="486" data-original-height="299" /></a></div>
+![](/images/posts/1619-o-ódio-é-coisa-boa-sabia-odio.png)
+
 Efésio 4,26-27 - Mesmo em cólera, não pequeis. Não se ponha o sol sobre o vosso ressentimento. Não deis lugar ao demônio.</br>
 </br>
 Como é comum os impulsos humanos aflorarem e sobrepujarem a razão causando muitos estragos sobretudo, nos relacionamentos humanos. A questão é muito antiga e ela remonta aos primórdios da civilização. A contenda sempre irá existir entre as pessoas e tenhamos consciência disto: quem mais nos ofende é quem mais perto de nós está e mais convive conosco.</br>

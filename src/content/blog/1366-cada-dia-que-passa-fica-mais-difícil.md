@@ -4,7 +4,8 @@ date: 2016-09-13T13:17:00Z
 heroImage: "/images/posts/1366-cada-dia-que-passa-fica-mais-difícil-dificuldades.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1366-cada-dia-que-passa-fica-mais-difícil-dificuldades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1366-cada-dia-que-passa-fica-mais-difícil-dificuldades.png" width="320" height="311" data-original-width="375" data-original-height="365" /></a></div>
+![](/images/posts/1366-cada-dia-que-passa-fica-mais-difícil-dificuldades.png)
+
 Em vários contextos de nossas vidas, em diferentes épocas ou situações, a frase que encabeça o título deste artigo sem dúvida alguma ou já foi dita por nós ou ouvida. É interessante notar que o ser humano compreende perfeitamente que a realidade das coisas naturais que o cercam, e também das materiais e provocadas por ele mesmo, apresentam em sua matéria condições que, ao nos envolverem, nos permitem avaliar o patamar em que nos encontramos perante estas realidades.</br>
 </br>
 Como um atleta de salto em altura, que sabe que, quanto mais alto deseja saltar, mais preparo, técnica e equipamento adequado precisa ter, assim cada um de nós percebe também que quando “enxergamos” a dificuldade em nossa frente, sabemos que transpo-la irá exigir de nós mais preparo, mais técnica e melhores equipamentos. Vamos ver como se dá isso.</br>

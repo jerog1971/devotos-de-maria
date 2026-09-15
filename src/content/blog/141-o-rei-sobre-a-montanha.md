@@ -4,7 +4,11 @@ date: 2020-05-09T22:23:00.003Z
 heroImage: "/images/posts/141-o-rei-sobre-a-montanha-AVvXsEgwuECWJ-Uj9POvoSa9AwPa40pUimpmvlung3_XyKFlHhn0HmU2hu_SgrSUxVTzbfuCRj1yL3zHzRooEPU9LOg1BoUFeFGxEMUG32lgiAdpj2Bc7xezxeg1GxErWI3v1pT7MpMFPzNhc8Y.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/141-o-rei-sobre-a-montanha-AVvXsEgwuECWJ-Uj9POvoSa9AwPa40pUimpmvlung3_XyKFlHhn0HmU2hu_SgrSUxVTzbfuCRj1yL3zHzRooEPU9LOg1BoUFeFGxEMUG32lgiAdpj2Bc7xezxeg1GxErWI3v1pT7MpMFPzNhc8Y.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="314" src="/images/posts/141-o-rei-sobre-a-montanha-AVvXsEgwuECWJ-Uj9POvoSa9AwPa40pUimpmvlung3_XyKFlHhn0HmU2hu_SgrSUxVTzbfuCRj1yL3zHzRooEPU9LOg1BoUFeFGxEMUG32lgiAdpj2Bc7xezxeg1GxErWI3v1pT7MpMFPzNhc8Y.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Desde o princípio, conforme lemos nas sagradas escrituras,
+<br />
+
+![](/images/posts/141-o-rei-sobre-a-montanha-AVvXsEgwuECWJ-Uj9POvoSa9AwPa40pUimpmvlung3_XyKFlHhn0HmU2hu_SgrSUxVTzbfuCRj1yL3zHzRooEPU9LOg1BoUFeFGxEMUG32lgiAdpj2Bc7xezxeg1GxErWI3v1pT7MpMFPzNhc8Y.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Desde o princípio, conforme lemos nas sagradas escrituras,
 Deus colocou pessoas para servi-lo em prol de seu povo. As coisas são assim até
 o dia de hoje. Infelizmente, a natureza humana possível de ser corrompida, de
 fato, assim está. Sobretudo falamos aqui dos sacerdotes maculados, atuais
@@ -45,6 +49,6 @@ eternidade toda para praticar a justiça. Então, como vemos, seguimos a
 Santíssima Trindade e o que genuinamente sua igreja nos entrega ou seguimos os
 tiranetes – falsos artistas e hereges – disfarçados de padres.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

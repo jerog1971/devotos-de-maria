@@ -4,7 +4,9 @@ date: 2021-09-14T17:03:00Z
 heroImage: "/images/posts/584-atento-aos-detalhes-atento_aos_detalhes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/584-atento-aos-detalhes-atento_aos_detalhes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="493" data-original-width="521" height="303" src="/images/posts/584-atento-aos-detalhes-atento_aos_detalhes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isaías 48,17-18 – “Eis o que diz o Senhor, teu Redentor, o
+![](/images/posts/584-atento-aos-detalhes-atento_aos_detalhes.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Isaías 48,17-18 – “Eis o que diz o Senhor, teu Redentor, o
 Santo de Israel: eu sou o Senhor teu Deus, que te dá lições salutares, que te
 conduz pelo caminho que deves seguir. Ah! Se tivesses sido ATENTO às minhas
 ordens! Teu bem-estar assemelhar-se-ia a um rio, e tua felicidade às ondas do
@@ -34,4 +36,7 @@ ao redor de vós como o leão que ruge, buscando a quem devorar”. Marcos 13,23
 de sobreaviso [ficai ATENTOS, disse Jesus]. Eis que vos preveni de tudo”.<o:p></o:p></p>
 
 <p class="MsoNormal">Fonte:
-Jefferson Roger<span style="font-family: &quot;Segoe UI Symbol&quot;,sans-serif; mso-fareast-font-family: &quot;Segoe UI Symbol&quot;; mso-fareast-language: JA;"><o:p></o:p></span></p></div><p><br />&nbsp;</p>
+Jefferson Roger<span style="font-family: &quot;Segoe UI Symbol&quot;,sans-serif; mso-fareast-font-family: &quot;Segoe UI Symbol&quot;; mso-fareast-language: JA;"><o:p></o:p></span></p></div>
+
+<br /> 
+

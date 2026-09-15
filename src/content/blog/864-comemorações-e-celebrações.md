@@ -4,7 +4,9 @@ date: 2021-10-31T16:04:00.003Z
 heroImage: "/images/posts/864-comemorações-e-celebrações-img-281961481.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/864-comemorações-e-celebrações-img-281961481.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="317" data-original-width="315" height="317" src="/images/posts/864-comemorações-e-celebrações-img-1261826688.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">À primeira vista um olhar mais destreinado sobre a questão
+![](/images/posts/864-comemorações-e-celebrações-img-1261826688.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">À primeira vista um olhar mais destreinado sobre a questão
 pode imaginar que as palavras são sinônimas; o que não estaria errado, pois, de
 fato, são. Todavia, embora sejam, para certos casos e ocasiões, uma se encaixa
 melhor do que a outra. Em verdade, não é assim em muitas circunstâncias da
@@ -42,4 +44,7 @@ olhos do Senhor estão sobre os que o temem, e ele conhece todo o comportamento
 dos homens. Ele não deu ordem a ninguém para fazer o mal, e a ninguém deu
 licença para pecar; pois não deseja uma multidão de filhos infiéis e inúteis”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

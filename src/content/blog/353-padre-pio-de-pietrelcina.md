@@ -59,7 +59,10 @@ Duração - 1:02h</br>
 </br>
 Oração de São Padre Pio, após a comunhão</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/353-padre-pio-de-pietrelcina-Padre_Pio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/353-padre-pio-de-pietrelcina-Padre_Pio.png" width="160" height="200" data-original-width="385" data-original-height="480" /></a></div></br>
+
+![](/images/posts/353-padre-pio-de-pietrelcina-Padre_Pio.png)
+
+</br>
 </br>
 Permanecei, Senhor, comigo, porque é necessária a Vossa presença para não Vos esquecer. Sabeis quão facilmente Vos abandono.
 Permanecei, Senhor, comigo, pois sou fraco e preciso da Vossa força para não cair tantas vezes.

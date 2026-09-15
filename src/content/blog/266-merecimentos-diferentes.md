@@ -4,7 +4,9 @@ date: 2021-09-02T19:40:00.005Z
 heroImage: "/images/posts/266-merecimentos-diferentes-merecimentos_diferentes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/266-merecimentos-diferentes-merecimentos_diferentes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="710" data-original-width="729" height="312" src="/images/posts/266-merecimentos-diferentes-merecimentos_diferentes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente é comum o ser humano se deparar em algum ponto de
+![](/images/posts/266-merecimentos-diferentes-merecimentos_diferentes.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente é comum o ser humano se deparar em algum ponto de
 sua vida com um nível de injustiça imposto por Deus para si em relação ao que
 vivem outras pessoas. A tendência de não se reconhecer “servo inútil” – Lucas 17,11
 é muito grande e o sujeito sempre vai achar que vale mais ou que merece mais do
@@ -38,4 +40,7 @@ e ele irá conceder os meios para que todos cheguem até ele, mas, a cada um, co
 suas particularidades. Se não compreendermos isso, sofreremos mais que o
 necessário e mais facilmente podemos ceder às ofertas da opção “b”: o diabo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

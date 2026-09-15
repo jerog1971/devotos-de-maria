@@ -4,7 +4,9 @@ date: 2016-07-13T13:00:00.002Z
 heroImage: "/images/posts/1364-o-matrimônio-matrim_25C3_25B4nio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1364-o-matrimônio-matrim_25C3_25B4nio.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="392" height="223" src="/images/posts/1364-o-matrimônio-matrim_25C3_25B4nio.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
+![](/images/posts/1364-o-matrimônio-matrim_25C3_25B4nio.png)
+
+<div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
 
 Vez por outra podemos nos deparar em meio a alguma conversa com a seguinte pergunta: "Você é casado?" E certas vezes a resposta é "só no civil".
 
@@ -40,5 +42,5 @@ Tente ser interessante para o outro e fazer o outro mais interessante para você
 Mateus 18,19-20- 19- Digo-vos ainda isto: se dois de vós se unirem sobre a terra para pedir, seja o que for, consegui-lo-ão de meu Pai que está nos céus.
 20- Porque onde dois ou três estão reunidos em meu nome, aí estou eu no meio deles.
 
-Lutemos por nossas famílias, pois assim quis nosso salvador, Jesus se fez família e habitou entre nós, sigamos o exemplo da sagrada família, vivendo felizes com nossa cruz e fazendo a vontade do Pai.&nbsp;</div><div><br /></div><div>Fonte: Jefferson Roger e adaptação do boletim da Paróquia Nossa Senhora da Luz dos Pinhais
+Lutemos por nossas famílias, pois assim quis nosso salvador, Jesus se fez família e habitou entre nós, sigamos o exemplo da sagrada família, vivendo felizes com nossa cruz e fazendo a vontade do Pai. </div><div><br /></div><div>Fonte: Jefferson Roger e adaptação do boletim da Paróquia Nossa Senhora da Luz dos Pinhais
 </div>

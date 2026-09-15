@@ -4,7 +4,8 @@ date: 2015-09-18T16:30:00.001Z
 heroImage: "/images/posts/203-nasceu-sem-olhos-richie_lopez.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/203-nasceu-sem-olhos-richie_lopez.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/203-nasceu-sem-olhos-richie_lopez.png" width="320" height="221" data-original-width="445" data-original-height="307" /></a></div>
+![](/images/posts/203-nasceu-sem-olhos-richie_lopez.png)
+
 </br>
 Richie tem 3 meses, nasceu sem olhos e está fazendo muita gente enxergar mais longe.</br>
 </br>
@@ -20,7 +21,9 @@ A notícia chocante só veio 13 dias depois, confirmada pela ressonância magné
 </br>
 "Ficamos todos chocados", conta a mãe. "O primeiro pensamento foi: como é que isso aconteceu? E por que não notamos antes?".</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/203-nasceu-sem-olhos-richie_lopez2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/203-nasceu-sem-olhos-richie_lopez2.png" width="200" height="163" data-original-width="406" data-original-height="330" /></a></div>
+
+![](/images/posts/203-nasceu-sem-olhos-richie_lopez2.png)
+
 </br>
 A família ainda não tem todas as respostas para este caso extremamente raro.</br>
 </br>

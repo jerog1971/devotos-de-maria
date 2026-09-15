@@ -4,7 +4,8 @@ date: 2020-02-02T03:27:00.002Z
 heroImage: "/images/posts/814-o-diabo-fica-do-lado-de-fora-diabo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/814-o-diabo-fica-do-lado-de-fora-diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/814-o-diabo-fica-do-lado-de-fora-diabo.png" width="320" height="288" data-original-width="304" data-original-height="274" /></a></div>
+![](/images/posts/814-o-diabo-fica-do-lado-de-fora-diabo.png)
+
 Criados para amar, servir e adorar a Deus, somos suas criaturas, adotados como seus filhos através do batismo. Lemos na bíblia que Deus vê o que se passa em nossos corações. Por isso ele disse que quem o procurar com um coração sincero será acolhido. Frente a Deus não existe máscaras, fingimento algum. Outrossim, uma grande graça que Deus nos concede, também está escrito nas escrituras, é que todo pecado perdoado é esquecido pelo altíssimo. Por isso, nosso acusador, o diabo, só pode nos acusar das faltas não confessadas.</br>
 </br>
 No entanto, seguimos ainda com a questão do coração, é nele que Jesus disse que brotam todas as coisas. Dentro dele, além da Santíssima Trindade, nosso anjo da guarda também sabe o que se passa. Não reclame, portanto, aos ventos ou para a pessoa errada. O primeiro da lista sempre deve ser Deus, porque se aquele que fica do lado de fora tentando adivinhar o que se passa em seu íntimo (Satanás) tiver uma brecha concedida por você, pode ter certeza de que meia porta aberta para ele basta para que ele conquiste o resto.</br>

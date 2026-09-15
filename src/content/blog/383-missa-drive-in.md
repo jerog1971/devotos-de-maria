@@ -4,7 +4,11 @@ date: 2020-05-29T15:05:00.002Z
 heroImage: "/images/posts/383-missa-drive-in-img-976002173.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/383-missa-drive-in-img-976002173.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="497" data-original-width="606" src="/images/posts/383-missa-drive-in-img-976002173.jpgs320/missa-drive-in.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A Santa Missa; sobre ela podemos atestar na bíblia sua origem
+<br />
+
+![](/images/posts/383-missa-drive-in-img-976002173.jpgs320/missa-drive-in.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A Santa Missa; sobre ela podemos atestar na bíblia sua origem
 nas praças públicas, onde o povo se reunia para ouvir a palavra de Deus. Vamos
 acompanhar um, entre vários trechos bíblicos que falam sobre isso?</p>
 

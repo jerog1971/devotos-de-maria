@@ -4,7 +4,9 @@ date: 2021-09-13T14:58:00.002Z
 heroImage: "/images/posts/720-bodas-de-ouro-bodas_de_ouro.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/720-bodas-de-ouro-bodas_de_ouro.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1128" data-original-width="2048" height="220" src="/images/posts/720-bodas-de-ouro-bodas_de_ouro.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que? Cinquenta anos de casados? Isso mesmo, para quem se
+![](/images/posts/720-bodas-de-ouro-bodas_de_ouro.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O que? Cinquenta anos de casados? Isso mesmo, para quem se
 surpreende com acontecimentos dessa natureza saibam todos que eles ainda
 existem. Para pessoas que não retiram Deus de suas vidas matrimoniais o
 casamento fica desde o início sob seu comando e “por isso o homem deixa o seu
@@ -43,4 +45,7 @@ amam a Deus, daqueles que são os eleitos, segundo os seus desígnios” – Rom
 e “em todas as circunstâncias, dai graças, porque esta é a vosso respeito a
 vontade de Deus em Jesus Cristo” – Tessalonicenses 5,18.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

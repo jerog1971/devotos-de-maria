@@ -4,7 +4,9 @@ date: 2021-04-16T18:04:00.003Z
 heroImage: "/images/posts/196-deus-inventou-o-matrimônio-o-homem-i-img-1806298026.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/196-deus-inventou-o-matrimônio-o-homem-i-img-1806298026.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="320" data-original-width="348" src="/images/posts/196-deus-inventou-o-matrimônio-o-homem-i-img-599047268.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Gênesis 2,23-24 – ““Eis agora aqui, disse o homem, o osso de
+![](/images/posts/196-deus-inventou-o-matrimônio-o-homem-i-img-599047268.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Gênesis 2,23-24 – ““Eis agora aqui, disse o homem, o osso de
 meus ossos e a carne de minha carne; ela se chamará mulher, porque foi tomada
 do homem.” Por isso o homem deixa o seu pai e sua mãe para se unir à sua
 mulher; e já não são mais que uma só carne.<o:p></o:p></p>
@@ -39,4 +41,7 @@ palavra ou por obra, fazei-o em nome do Senhor Jesus, dando por ele graças a
 Deus Pai. Mulheres, sede submissas a vossos maridos, porque assim convém, no
 Senhor. Maridos, amai as vossas mulheres e não as trateis com aspereza”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"></div>
+
+<br /> 
+

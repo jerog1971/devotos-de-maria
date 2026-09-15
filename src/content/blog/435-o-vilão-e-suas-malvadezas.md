@@ -4,13 +4,15 @@ date: 2024-05-19T17:23:00.004Z
 heroImage: "/images/posts/435-o-vilão-e-suas-malvadezas-vil_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/435-o-vilão-e-suas-malvadezas-vil_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="290" data-original-width="214" height="290" src="/images/posts/435-o-vilão-e-suas-malvadezas-vil_C3_A3o.png" width="214" /></a></div><br />&nbsp;Ao vilão são atribuídas muitas características; existe uma
+![](/images/posts/435-o-vilão-e-suas-malvadezas-vil_C3_A3o.png)
+
+<br /> Ao vilão são atribuídas muitas características; existe uma
 tendência de se convencionar que o mocinho representa o bem e o vilão
 representa o mal. Por outro lado, na realidade em que vivemos e de acordo com a
 natureza humana, sabemos que não existe alguém somente bom ou somente ruim.
 Sim, existem aqueles predominantemente bons e aqueles predominantemente ruins. Para
 piorar, existem também aqueles que hora são bons e hora são ruins, a depender
-das circunstâncias, interesses e motivações.<p></p><p class="MsoNormal"><o:p></o:p></p>
+das circunstâncias, interesses e motivações.<p class="MsoNormal"><o:p></o:p></p>
 
 <p class="MsoNormal">Aí, para o cristão, reside o perigo, pois a fina peneira que
 irá separar os escolhidos ao paraíso dos condenados ao inferno, medirá com extrema

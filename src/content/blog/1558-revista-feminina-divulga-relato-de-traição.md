@@ -4,7 +4,8 @@ date: 2016-09-14T20:13:00Z
 heroImage: "/images/posts/1558-revista-feminina-divulga-relato-de-traição-revista.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1558-revista-feminina-divulga-relato-de-traição-revista.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1558-revista-feminina-divulga-relato-de-traição-revista.png" width="249" height="320" data-original-width="404" data-original-height="519" /></a></div>
+![](/images/posts/1558-revista-feminina-divulga-relato-de-traição-revista.png)
+
 Esta revista de circulação nacional tem um espaço chamado Eu, Leitor, onde publica depoimentos de seus leitores a respeito de temas que fazem parte da pasta de assuntos levados às bancas e pela internet por esta editora. Aqui neste site, iremos resumir um destes depoimentos colhidos no site da editora para demonstrar como é o pensamento daqueles que cometem uma das formas de pecado contra o Espírito Santo, que não tem perdão, chamado obstinação ao pecado:</br>
 </br>
 “Sou casada mas adoro transar com estranhos”</br>
@@ -15,7 +16,9 @@ Outra vez, peguei um metrô na zona sul, sentido zona norte. Assim que entrei no
 </br>
 Faço isso por puro prazer. Nunca paguei para ter sexo. Tenho meu negócio, minha renda mensal, sou independente. Alguns taxistas nem querem receber a corrida, mas faço questão de acertar e até deixo uma gorjeta. Principalmente quando algum me leva às nuvens em segundos. Sei que eles dependem desse dinheiro para sobreviver. Claro que minha vida não se resume a esse fetiche. Na maior parte do tempo, me dedico ao trabalho, sou uma mulher comum. Nos fins de semana, faço programas bem família: cinema, praia, restaurante com meu marido e meu filho. Sou mãezona. Ajudo nas lições de casa sempre que posso, gosto de conferir os cadernos. Cuido também do meu marido. Eu mesma compro suas roupas, ele é meio desligado para se vestir.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1558-revista-feminina-divulga-relato-de-traição-traindo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1558-revista-feminina-divulga-relato-de-traição-traindo.png" width="200" height="172" data-original-width="347" data-original-height="298" /></a></div>
+
+![](/images/posts/1558-revista-feminina-divulga-relato-de-traição-traindo.png)
+
 Não gosto nem de pensar no que aconteceria se um dia o Guga descobrisse que levo essa vida paralela. Acho que ele ficaria muito mal, até se separaria de mim. Só uma prima minha sabe de tudo. Ela sempre foi minha melhor amiga, desde a infância. Confio nela até de baixo d'água. Ela acha que sou uma maluca, claro. Mas também morre de rir com minhas histórias.</br>
 </br>
 Não me considero infiel. No começo, eu sentia uma pontinha de culpa, mas depois passou. Decidi ficar bem comigo mesma, realizada em todos os sentidos, sem trair meus pensamentos ou meus desejos. Acho que, se eu me reprimisse, aí, sim, seria infeliz e passaria essa angústia para o meu casamento. E nunca traí meu marido sentimentalmente. Essas aventuras foram carnais, nunca me envolvi com nenhum desses homens. Se me apaixonasse, talvez me sentisse infiel.</br>

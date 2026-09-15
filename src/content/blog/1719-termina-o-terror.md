@@ -4,7 +4,9 @@ date: 2024-04-22T21:56:00.005Z
 heroImage: "/images/posts/1719-termina-o-terror-termina_20o_20terror.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1719-termina-o-terror-termina_20o_20terror.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="487" data-original-width="375" height="320" src="/images/posts/1719-termina-o-terror-termina_20o_20terror.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos na bíblia que devemos aproveitar os bons tempos e
+![](/images/posts/1719-termina-o-terror-termina_20o_20terror.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lemos na bíblia que devemos aproveitar os bons tempos e
 lembrar que os maus tempos existem, que eles retornarão para nos assombrar, mas
 que passarão. Por conta disso a perseverança nos é indicada como grande e importante
 arma no combate que se estende por toda a nossa vida. Não importa, mesmo que a coisa
@@ -39,4 +41,7 @@ frente, alertas e com o olhar para cima, para onde devemos chegar, pois, assim
 não teremos medo do horror diário que nos assombra e não nos distrairemos pelo
 caminho, já que estamos buscando as coisas do alto, as coisas que não passam.<o:p></o:p></p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div><p><br />&nbsp;</p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>
+
+<br /> 
+

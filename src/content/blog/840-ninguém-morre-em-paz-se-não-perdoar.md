@@ -4,7 +4,9 @@ date: 2021-07-05T11:07:00.002Z
 heroImage: "/images/posts/840-ninguém-morre-em-paz-se-não-perdoar-perdoar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/840-ninguém-morre-em-paz-se-não-perdoar-perdoar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="289" src="/images/posts/840-ninguém-morre-em-paz-se-não-perdoar-perdoar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O perdão, que exige abrir mão da justiça, liberta a alma
+![](/images/posts/840-ninguém-morre-em-paz-se-não-perdoar-perdoar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O perdão, que exige abrir mão da justiça, liberta a alma
 pois, existe mais alegria em dar do que receber, lemos nas sagradas escrituras.
 Quando se perdoa a alma é lavada, de ambos os lados, porque é dado maior crédito
 para os frutos do amor do que para sentimentos menores, que aprisionam o
@@ -34,4 +36,7 @@ Nosso Senhor Jesus Cristo, sempre pronto para amar e perdoar e isso, a qualquer
 custo, pois, essa atitude está elencada entre as que contribuem para alcançarmos
 o céu eterno.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

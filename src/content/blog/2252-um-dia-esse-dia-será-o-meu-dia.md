@@ -4,12 +4,15 @@ date: 2019-10-15T20:23:00Z
 heroImage: "/images/posts/2252-um-dia-esse-dia-será-o-meu-dia-professor.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2252-um-dia-esse-dia-será-o-meu-dia-professor.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2252-um-dia-esse-dia-será-o-meu-dia-professor.jpg" width="320" height="180" data-original-width="960" data-original-height="540" /></a></div>
+![](/images/posts/2252-um-dia-esse-dia-será-o-meu-dia-professor.jpg)
+
 Hoje comemora-se o dia do professor, quem vos fala em meio aos seus quase cinquenta anos, cursa sua segunda faculdade, essa de Letras – Língua Portuguesa. Já com os conhecimentos e a fluência em libras muito próxima na presente data, almeja-se com esse projeto de vida ser um professor de português que, como diria um jovem aprendiz que trabalha com minha esposa, “já vem com libras”.</br>
 </br>
 Pois bem, ao acordar todas as manhãs, dias mais cedo outros mais cedo ainda e alguns não tão cedo assim, ao começar os estudos a distância faço a recordação diária do propósito de estar acordado naquele momento. Digo para mim: “você está estudando porque quer um dia ser professor e dar aulas”. Todos os dias é preciso firmar o compromisso, realmente levar a sério. Outrossim, o exemplo dado aqui é, como sempre costumo dizer, uma imitação da natureza humana em relação ao divino.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2252-um-dia-esse-dia-será-o-meu-dia-professor_2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2252-um-dia-esse-dia-será-o-meu-dia-professor_2.jpg" width="320" height="180" data-original-width="960" data-original-height="540" /></a></div>
+
+![](/images/posts/2252-um-dia-esse-dia-será-o-meu-dia-professor_2.jpg)
+
 Precisamente o que quero dizer é que: somos empenhados e dedicados no cumprimento daquilo que nos importa, em nossos projetos de vida, em crescer na vida, adquirir bens, ter família, carro, produtos tecnológicos e por aí vai. Salutar sem dúvida, desde que não se coloque tudo isso acima de Deus. Ademais, esse esforço que fazemos precisa, sem dúvida alguma, acontecer em nossa parte espiritual.</br>
 </br>
 Que tal, todos os dias quando acordamos renovarmos nossas promessas batismais? A renúncia as coisas do mundo, ao pecado e as ofertas do diabo? Não é difícil, fazemos isso todos os dias para aquilo que nos interessa! Eis o problema, ou não queremos realmente ser salvos ou até queremos mas sentimos o peso do preço que Deus nos apresenta. Jesus quando nos aceita nos entrega a cruz, instrumento pessoal de salvação para cada um. A igreja nos recorda uma prática antiga dos três exames de consciência: um pela manhã, um ao meio dia e outro na hora de dormir. Prática religiosa muito promissora porque mantém o cristão atento em seu caminhar.</br>

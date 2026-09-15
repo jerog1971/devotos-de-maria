@@ -4,7 +4,8 @@ date: 2017-03-10T23:13:00.002Z
 heroImage: "/images/posts/489-a-arma-rosario.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/489-a-arma-rosario.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="717" height="230" src="/images/posts/489-a-arma-rosario.png" width="320" /></a></div>
+![](/images/posts/489-a-arma-rosario.png)
+
 Caros leitores, existe uma realidade que qualquer pessoa possui em sua condição de devoto. Trata-se do “grau”. Especificamente falando fala-se aqui do grau de envolvimento que o fiel tem com a devoção que pratica e professa. Em linhas gerais podemos facilmente encontrar uma pessoa que se diz devota de alguma coisa, mas exerce uma devoção segundo o seu grau de conhecimento e envolvimento. Vejamos bem, não estamos a debater quem é mais devoto ou menos devoto porque parte de Deus não se fazer distinção de pessoas. Tanto verdade é que encontramos esse ensinamento em Atos 10,34, Colossenses 3,25, Efésios 6,9, Romanos 10,12-13 e 1ª Pedro 1,17. Ora, se está muito claro isso e até Jesus nos disse que devemos olhar primeiro para nossa realidade, no sermão da montanha, quando falava do cisco e da trave, não devemos medir nossa devoção pelo grau que outra pessoa tem. Não esqueçamos, cada um com sua cruz.
 
 Sendo assim, é possível uma pessoa ser exímia oradora e passar horas em meio a fórmulas e depois sair se vangloriando que reza tantas horas por dia. Jesus já falou sobre isso, usando o exemplo dos fariseus hipócritas, nos alertando que nem todo aquele que diz Senhor, Senhor entrará no reino dos céus e que muitos apenas o honram com os lábios mas seus corações estão longe dele. Como vemos, se queremos mais em nossa devoção, o objetivo tem que ser o mesmo dos santos. Saber mais para melhor poder amar e honrar a Deus e tudo que dele procede. Pois ninguém dá aquilo que não tem e ninguém ama aquilo que não conhece, já diziam também os santos.
@@ -26,6 +27,5 @@ Vídeo relacionado:
 <div style="height: 0px; padding-bottom: 56.3%; position: relative; width: 100%;"><iframe allowfullscreen="" frameborder="0" height="240" scrolling="no" src="https://gloria.tv/embed/+/video/ED9fjTJGH4L81cTCqcapEEuLo" style="bottom: 0; height: 100%; left: 0; position: absolute; right: 0; top: 0; width: 100%;" width="426"></iframe></div>
 Padre Duarte Sousa Lara - Confissão, Comunhão e Terço
 Duração - 7min59s
-
 
 fonte: Jefferson Roger

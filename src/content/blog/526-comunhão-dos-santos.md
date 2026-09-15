@@ -4,7 +4,9 @@ date: 2023-12-01T18:56:00.006Z
 heroImage: "/images/posts/526-comunhão-dos-santos-Comunh_C3_A3o_20dos_20santos.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/526-comunhão-dos-santos-Comunh_C3_A3o_20dos_20santos.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/526-comunhão-dos-santos-Comunh_C3_A3o_20dos_20santos.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No céu estão os santos, os santos da terra ainda estão peregrinando
+![](/images/posts/526-comunhão-dos-santos-Comunh_C3_A3o_20dos_20santos.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">No céu estão os santos, os santos da terra ainda estão peregrinando
 e sofrendo a cada dia suas provações. Depois que sobem para o andar da igreja
 gloriosa e triunfante, começam a interceder pelos que aqui na terra ainda
 estão; no patamar da igreja militante. Aos que morreram ainda não sendo santos,
@@ -32,4 +34,7 @@ dos que mais precisarem. Exatamente como pedimos ao Cristo quando rezamos: Ó
 meu Jesus, perdoai-nos e livrai-nos do fogo do inferno, levai as almas todas
 para o céu e socorrei principalmente as que mais precisarem.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

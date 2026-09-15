@@ -4,7 +4,9 @@ date: 2021-09-23T19:20:00.004Z
 heroImage: "/images/posts/1624-vai-fazer-besteira-pense-na-família-filhos_de_Deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1624-vai-fazer-besteira-pense-na-família-filhos_de_Deus.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="537" data-original-width="561" height="306" src="/images/posts/1624-vai-fazer-besteira-pense-na-família-filhos_de_Deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A palavra “besteira” serve para muitos encaixes na vida de
+![](/images/posts/1624-vai-fazer-besteira-pense-na-família-filhos_de_Deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A palavra “besteira” serve para muitos encaixes na vida de
 uma pessoa. Não seria por menos já que existem muitos sinônimos para ela: absurdo,
 bobagem, burrice, estupidez, idiotice, imbecilidade, patetice, sandice, tolice estão
 entre outras só para ilustrarmos a questão. Aqui no site, como o cunho é
@@ -43,4 +45,7 @@ alguém cogitar um pensamento a nosso respeito que vá na direção errada. Se
 vivemos pelo Cristo e morremos por ele e por nossa família, é o mínimo de nossa
 parte.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2022-04-11T20:09:00.003Z
 heroImage: "/images/posts/1357-o-sofrimento-de-jesus-o_20sofrimento_20de_20Jesus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1357-o-sofrimento-de-jesus-o_20sofrimento_20de_20Jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="381" data-original-width="374" height="320" src="/images/posts/1357-o-sofrimento-de-jesus-o_20sofrimento_20de_20Jesus.png" width="314" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Qualquer arranhãozinho, qualquer tombo ou mau jeito que
+![](/images/posts/1357-o-sofrimento-de-jesus-o_20sofrimento_20de_20Jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Qualquer arranhãozinho, qualquer tombo ou mau jeito que
 damos e lá vem aquela dor, queima o dedo no fogão fazendo comida, toca sem
 querer numa panela quente, bate a cabeça ou a coxa numa quina de móveis em sua
 casa para ver a dor se apresentar e o sofrimento, ainda que passageiro, chegar
@@ -41,4 +43,7 @@ com uma recompensa de condenação, por culpa de nossa desobediência, ou
 padecermos no mundo (renunciando ao mal e seus prazeres) com vistas a glória
 eterna: a escolha é de cada um.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

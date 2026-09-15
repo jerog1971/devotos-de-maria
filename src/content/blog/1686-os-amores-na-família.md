@@ -4,7 +4,9 @@ date: 2021-01-20T18:59:00.002Z
 heroImage: "/images/posts/1686-os-amores-na-família-catequisando.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1686-os-amores-na-família-catequisando.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="304" src="/images/posts/1686-os-amores-na-família-catequisando.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus constituiu a família e nos deu como exemplo a Sagrada
+![](/images/posts/1686-os-amores-na-família-catequisando.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Deus constituiu a família e nos deu como exemplo a Sagrada
 Família: Jesus, Maria e José. Modelo a ser seguido pelas famílias cristãs.
 Todavia, nesse modelo não tinha o mandato de Deus para multiplicarem em número
 de filhos; coube isso para os descendentes – nós, herdeiros do reino e filhos adotivos
@@ -41,4 +43,7 @@ o diabo quer. Pois se Deus é por nós, quem irá contra nós e, “se escolhemo
 entrar para o serviço de Deus, devemos preparar nossa alma para as tribulações
 e sofrer com paciência as demoras do altíssimo” – Eclesiástico.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

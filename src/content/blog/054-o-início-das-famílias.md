@@ -4,7 +4,9 @@ date: 2021-12-01T16:16:00.004Z
 heroImage: "/images/posts/054-o-início-das-famílias-O_in_25C3_25ADcio_das_fam_25C3_25ADlias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/054-o-início-das-famílias-O_in_25C3_25ADcio_das_fam_25C3_25ADlias.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1577" data-original-width="1070" height="320" src="/images/posts/054-o-início-das-famílias-O_in_25C3_25ADcio_das_fam_25C3_25ADlias.png" width="217" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Existe o tempo para tudo, lemos no livro do Eclesiastes.
+![](/images/posts/054-o-início-das-famílias-O_in_25C3_25ADcio_das_fam_25C3_25ADlias.png)
+
+<br /><div class="separator" style="clear: both; text-align: left;">Existe o tempo para tudo, lemos no livro do Eclesiastes.
 Tempo para acertar, tempo para errar, tempo a não se perder, para se
 arrepender, tempo para se dedicar aos valores que importam e as pessoas que se
 importam conosco e com as quais nos importamos. Hoje, aos 50 anos e vivendo
@@ -40,4 +42,7 @@ Deus de poder, mesmo em tempos dos mais variados tipos, continuar escrevendo
 nossa história segurando os dois na mão de Deus e nós nas mãos dos filhos, até
 que a morte nos separe, pois o amor não perece.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2020-01-11T02:46:00.002Z
 heroImage: "/images/posts/2177-caímos-e-levantamos-sofrimento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2177-caímos-e-levantamos-sofrimento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2177-caímos-e-levantamos-sofrimento.png" width="320" height="308" data-original-width="408" data-original-height="393" /></a></div>
+![](/images/posts/2177-caímos-e-levantamos-sofrimento.png)
+
 Jesus que perscruta os corações, lugar onde ele mesmo disse que é fonte de nascimento de todas as coisas, sabe o quanto esses corações são sinceros. Na bíblia lemos que Deus acolhe que o procura com um coração sincero. Não podemos achar que existe sinceridade em nossas vidas se vivermos com os pecadinhos de estimação presos em coleiras. Quando decidimos não abrir mão de algum desejo pessoal para que Deus ocupe o primeiro lugar em nossas vidas colocamos ela mesma em risco de danação eterna.</br>
 </br>
 Não sabemos quanto tempo temos de vida; sabemos que ela é uma contagem regressiva. Queremos que o justo juiz – Apocalipse 22,12 – nos receba no dia do juízo depois de uma queda, em meio a ela ou antes dela? Se queremos viver conforme as alternativas do mundo, iremos viver sobre o cabresto do mal, chafurdando na lama do pecado; em constante estado de queda.</br>

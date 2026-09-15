@@ -4,7 +4,9 @@ date: 2023-07-31T20:43:00.004Z
 heroImage: "/images/posts/495-deixando-as-diferenças-de-lado-img-1740039549.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/495-deixando-as-diferenças-de-lado-img-1740039549.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="799" data-original-width="1042" height="245" src="/images/posts/495-deixando-as-diferenças-de-lado-img-1200380883.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos por experiência própria que devemos conviver com
+![](/images/posts/495-deixando-as-diferenças-de-lado-img-1200380883.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sabemos por experiência própria que devemos conviver com
 afinidades e diferenças das pessoas. De fato, este é um dos grandes desafios humanos:
 exercitar virtudes, corrigir fraquezas, superar defeitos, aprender com o melhor
 de alguém, ajudar o outro a melhorar, aceitar a ajuda que sempre deve ser bem-vinda.
@@ -37,4 +39,7 @@ estiverem reunidos para pedirem a Deus, seja o que for, meu pai que estás no
 céu vos concederá, pois onde dois ou mais estiverem reunidos em meu nome, eu
 estarei no meio deles”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

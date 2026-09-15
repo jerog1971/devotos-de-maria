@@ -4,12 +4,14 @@ date: 2024-06-07T16:50:00.005Z
 heroImage: "/images/posts/525-as-consequências-permanecem-consequ_C3_AAncias.png"
 ---
 
-<div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/525-as-consequências-permanecem-consequ_C3_AAncias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="405" height="314" src="/images/posts/525-as-consequências-permanecem-consequ_C3_AAncias.png" width="320" /></a></div><br /><p></p><div class="separator" style="clear: both; text-align: left;">Todos sabemos que é assim. Algumas duram mais que outras,
+![](/images/posts/525-as-consequências-permanecem-consequ_C3_AAncias.png)
+
+<br /><div class="separator" style="clear: both; text-align: left;">Todos sabemos que é assim. Algumas duram mais que outras,
 algumas são curtas, outras muito curtas, outras ainda demoram mais do que
 gostaríamos. Ao contrário, caso sejam positivas, ficamos muito satisfeitos por
 tê-las por um longo período conosco. No entanto, essa realidade imposta por Deus,
 da temporariedade das coisas, o que inclui a vida de terrena de todos, faz com
-que o ser humano esteja sempre em busca de novas experiências.</div><p></p><div class="separator" style="clear: both;">
+que o ser humano esteja sempre em busca de novas experiências.</div><div class="separator" style="clear: both;">
 
 <p class="MsoNormal">Por causa disso estamos sempre a decidir sobre as coisas, em
 verdade, sobre muitas coisas, mais verdade ainda, sobre tudo. Estamos sempre a
@@ -33,4 +35,7 @@ alegrias e tristezas. Sempre podemos baixar a vigilância e nossas orações e
 escorregarmos em um simples tropeço na vida. Aí todo mundo já sabe, é a
 história do choro sobre o leite derramado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

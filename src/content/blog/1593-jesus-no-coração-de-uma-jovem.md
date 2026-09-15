@@ -4,7 +4,8 @@ date: 2016-05-13T19:59:00Z
 heroImage: "/images/posts/1593-jesus-no-coração-de-uma-jovem-catolico.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1593-jesus-no-coração-de-uma-jovem-catolico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1593-jesus-no-coração-de-uma-jovem-catolico.png" width="320" height="314" data-original-width="403" data-original-height="396" /></a></div>
+![](/images/posts/1593-jesus-no-coração-de-uma-jovem-catolico.png)
+
 Olá caros leitores, a intenção deste artigo é mostrar duas coisas. Primeira: O que o correto e bom trabalho de evangelização pautado nas verdades de Cristo faz na vida das pessoas. Segundo: Mostrar que quando estamos na verdade, vivemos e professamos aquilo em que acreditamos, nos é impossível ficarmos calados.</br>
 </br>
 Logo abaixo neste artigo irei mostrar uma pequena postagem que uma moça fez em um blog de denominação não católica, de uma religião chamada batista bereia. Lá como sempre se vê por aí, um certo artigo atacava fortemente os católicos e o pano de manga de discussão sempre é o mesmo, ou seja, que a religião católica está errada e os evangélicos protestantes, mesmo divididos e não seguidores das sagradas escrituras, praticantes de uma denominação criada depois da reforma, caminham na verdade. O artigo elencava alguns motivos para uma pessoa não ser católica baseado na bíblia.</br>

@@ -4,7 +4,8 @@ date: 2016-10-14T13:45:00.007Z
 heroImage: "/images/posts/505-não-vale-mais-a-pena-partido.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/505-não-vale-mais-a-pena-partido.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/505-não-vale-mais-a-pena-partido.png" width="320" height="309" data-original-width="213" data-original-height="206" /></a></div>
+![](/images/posts/505-não-vale-mais-a-pena-partido.png)
+
 O livro do Eclesiástico nos ensina: “Não pratiques o mal, e o mal não te iludirá. Afasta-te da injustiça, e a injustiça se afastará de ti. Não te justifiques perante Deus, pois ele conhece o fundo dos corações. Não acrescentes um segundo pecado ao primeiro, pois mesmo por causa de um só não ficarás impune. Não te deixes levar ao desânimo. Não descuides de orar nem de dar esmola. NÃO DIGAS: Deus há de considerar a quantidade de meus dons; quando os oferecer ao Deus Altíssimo, ele os há de aceitar.“</br>
 </br>
 Como vemos caros leitores, este pequeno trecho do capítulo sete do livro do Eclesiástico, livro este que contém ensinamentos bastante diretos e de fácil compreensão, nos aponta duramente para a realidade que nos aguarda por conta de abandonarmos nossa batalha cotidiana rumo à pátria celeste.</br>

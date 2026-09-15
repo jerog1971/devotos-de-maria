@@ -4,7 +4,9 @@ date: 2025-07-24T20:27:00.002Z
 heroImage: "/images/posts/170-os-espreitadores-espreitadores.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/170-os-espreitadores-espreitadores.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="410" data-original-width="489" height="268" src="/images/posts/170-os-espreitadores-espreitadores.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">Existem em várias esferas e com vários propósitos. Existem entre
+![](/images/posts/170-os-espreitadores-espreitadores.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;">Existem em várias esferas e com vários propósitos. Existem entre
 eles os humanos e os não humanos. Espreitar, observar de longe com
 intenção pré-definida, seja para o bem ou para o mal. Vamos aqui
 ilustrar um pouco o tema sobre a perspectiva bíblica.</p><div class="separator" style="clear: both;">
@@ -54,4 +56,7 @@ desgraças satânicas e mundanas. Fiquemos atentos, é a dica do
 Cristo, vale lembrar que o esforço tem que ser titânico, pois, o
 apóstolo Pedro nos recorda que “o justo se salva com dificuldade”.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

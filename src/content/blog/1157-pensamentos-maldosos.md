@@ -4,9 +4,11 @@ date: 2024-12-19T17:42:00.004Z
 heroImage: "/images/posts/1157-pensamentos-maldosos-pensamentos_20maldosos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1157-pensamentos-maldosos-pensamentos_20maldosos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="429" data-original-width="441" height="311" src="/images/posts/1157-pensamentos-maldosos-pensamentos_20maldosos.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/1157-pensamentos-maldosos-pensamentos_20maldosos.png)
 
-<p></p><p class="MsoNormal">O pensamento de um homem pode direcioná-lo de várias formas
+<br /> 
+
+<p class="MsoNormal">O pensamento de um homem pode direcioná-lo de várias formas
 e para situações bem diferentes. A inquietude da alma, já dizia o padre que escreveu
 o livro Imitação de Cristo, não o abandona enquanto esta não se saciar nos
 pecados. Fica ali, martelando a cabeça do sujeito e comandando um corpo, que é
@@ -40,5 +42,4 @@ precisamos levar a sério e nos afastar das maldades já no seu início, quando
 tentam nascer em nossos corações e se instalar em nossas mentes.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

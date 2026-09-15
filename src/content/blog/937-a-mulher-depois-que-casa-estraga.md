@@ -4,7 +4,9 @@ date: 2021-07-19T20:10:00.003Z
 heroImage: "/images/posts/937-a-mulher-depois-que-casa-estraga.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/937-a-mulher-depois-que-casa-estraga.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="/images/posts/937-a-mulher-depois-que-casa-estraga.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é assim? O rapaz encontra uma moça, começa o namoro,
+![](/images/posts/937-a-mulher-depois-que-casa-estraga.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não é assim? O rapaz encontra uma moça, começa o namoro,
 tudo vai bem, passa pelo noivado, tudo se intensifica e depois assume o
 matrimônio para a vida toda. Mal começam a viver juntos e as diferenças que
 estiveram ocultas em tetos separados agora precisam conviver sob o mesmo
@@ -41,4 +43,7 @@ final das contas, promove um “estrago” muito maior na vida daqueles que
 escolheram virar as costas para Jesus e tentar resolver a vida sem o seu
 auxílio.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

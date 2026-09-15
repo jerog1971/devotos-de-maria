@@ -4,7 +4,8 @@ date: 2016-01-15T12:39:00Z
 heroImage: "/images/posts/2023-a-alegria-de-dar-dar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2023-a-alegria-de-dar-dar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2023-a-alegria-de-dar-dar.png" width="320" height="282" data-original-width="498" data-original-height="439" /></a></div>
+![](/images/posts/2023-a-alegria-de-dar-dar.png)
+
 </br>
 Atos 20,35 - Em tudo vos tenho mostrado que assim, trabalhando, convém acudir os fracos e lembrar-se das palavras do Senhor Jesus, porquanto ele mesmo disse: É maior felicidade dar que receber!</br>
 </br>

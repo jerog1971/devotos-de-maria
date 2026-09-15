@@ -4,7 +4,8 @@ date: 2019-01-03T18:08:00Z
 heroImage: "/images/posts/2154-o-que-escrever-o-que-pensar-pensando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2154-o-que-escrever-o-que-pensar-pensando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2154-o-que-escrever-o-que-pensar-pensando.png" width="320" height="296" data-original-width="348" data-original-height="322" /></a></div>
+![](/images/posts/2154-o-que-escrever-o-que-pensar-pensando.png)
+
 Essas são perguntas que normalmente fazemos quando estamos reclusos em nossos pensamentos, unidos ao coração e fazendo um autodiagnóstico a nosso respeito. O que pensar a respeito da vida que levo? Das atitudes que tenho? Das atitudes que deveria ter e não tenho? Diz o ditado popular que Deus escreve certo por linhas tortas; e eu, como estou escrevendo os capítulos da minha vida?</br>
 </br>
 Deixar que a vida ande no automático é um perigo daqueles. De tempos em tempos a pessoa faz uma atualização dessa automação (oferecida pelo mundo) e segue feliz e contente rumo a que? Pensa que a regra do jogo está ao alcance de uma prateleira, do dinheiro, das drogas, do prazer desregrado e das futilidades que não preenchem o coração com aquela satisfação que se recebe quando mais damos do que recebemos para alguém – Atos 20,35.</br>

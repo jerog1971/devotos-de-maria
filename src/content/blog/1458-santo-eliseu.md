@@ -4,7 +4,11 @@ date: 2020-06-14T17:33:00.002Z
 heroImage: "/images/posts/1458-santo-eliseu-Santo_Eliseu.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1458-santo-eliseu-Santo_Eliseu.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="244" data-original-width="277" src="/images/posts/1458-santo-eliseu-AVvXsEivGFv9L_-EbgFzk6Lg_ZBeELapJeEHIG1G0g9l49zxwpvlwsBRcZms43GKLHfseWzwHPgrDkHoYPouPrNni6fzx-mKgPqt7N_-DSALNruVLsm3mPUp9NTqQye0t7SSqz9iLB5Vp6IGcuw.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Santo Eliseu foi discípulo e sucessor do profeta Elias e
+<br />
+
+![](/images/posts/1458-santo-eliseu-AVvXsEivGFv9L_-EbgFzk6Lg_ZBeELapJeEHIG1G0g9l49zxwpvlwsBRcZms43GKLHfseWzwHPgrDkHoYPouPrNni6fzx-mKgPqt7N_-DSALNruVLsm3mPUp9NTqQye0t7SSqz9iLB5Vp6IGcuw.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Santo Eliseu foi discípulo e sucessor do profeta Elias e
 viveu no século IX antes de Cristo. Sua profecia se fez ouvir em Israel,
 durante os reinados de Ocozias, Jorão, Jeú, Joás e Joacaz. Estava arando o
 campo quando o profeta Elias o chamou. Acompanhou Elias até o final de sua

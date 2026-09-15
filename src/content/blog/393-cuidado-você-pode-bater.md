@@ -4,7 +4,9 @@ date: 2023-10-12T15:43:00.001Z
 heroImage: "/images/posts/393-cuidado-você-pode-bater-img-1464424994.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/393-cuidado-você-pode-bater-img-1464424994.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1385" height="320" src="/images/posts/393-cuidado-você-pode-bater-img-1481920740.jpg" width="277" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um ditado que diz que a pessoa dá com os burros na
+![](/images/posts/393-cuidado-você-pode-bater-img-1481920740.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existe um ditado que diz que a pessoa dá com os burros na
 água; significa que tentou alguma coisa e não deu certo. Até aqui parece
 simples, mas a diversidade de opções pode complicar bem mais o erro que se
 comete. Tratam-se dos riscos que as pessoas intencionalmente decidem correr.
@@ -36,4 +38,7 @@ o céu seria um caminho fácil; ao contrário, fala-se que o caminho da danaçã
 eterna é largo, em declive e bem pavimentado e muitos são os que por ele
 trafegam.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

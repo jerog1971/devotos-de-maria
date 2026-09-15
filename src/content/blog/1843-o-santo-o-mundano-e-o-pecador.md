@@ -4,7 +4,8 @@ date: 2019-01-29T21:42:00.003Z
 heroImage: "/images/posts/1843-o-santo-o-mundano-e-o-pecador-porta_estreita.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1843-o-santo-o-mundano-e-o-pecador-porta_estreita.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1843-o-santo-o-mundano-e-o-pecador-porta_estreita.png" width="255" height="320" data-original-width="323" data-original-height="405" /></a></div>
+![](/images/posts/1843-o-santo-o-mundano-e-o-pecador-porta_estreita.png)
+
 A diferença entre ser salvo e ser santo é muito bem explicada por Jesus quando se faz entender através do episódio do jovem rico. O jovem queria saber o que fazer para alcançar o reino dos céus e Jesus lhe disse que deveria seguir os mandamentos. Porém, quando o jovem disse que já fazia tudo isso e ainda queria mais, então Jesus lhe explicou que deveria vender seus bens, dar aos pobres e o acompanhar. Ou seja, deveria se desapegar da materialidade e suas raízes mundanas. Resumindo até aqui, o Cristo disse que se queremos ser salvos devemos seguir os mandamentos, mas se queremos ser santos temos que ir além.</br>
 </br>
 Eis aí a diferença entre quem é salvo e quem é santo. O pecador vai fazendo o seu esforço entre quedas e levantes e na obrigação dos mandamentos sai do estado de abaixo de zero (pecador em estado de pecado mortal) para o estado de salvo, com seus pecados perdoados e suas penitências cumpridas. Nesse ponto, o penitente está no “zero”, nem tem o que pensar de si, pois sequer deu um passo na direção da santidade.</br>

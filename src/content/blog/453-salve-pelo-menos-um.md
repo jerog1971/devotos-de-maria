@@ -4,7 +4,8 @@ date: 2019-04-11T20:16:00.001Z
 heroImage: "/images/posts/453-salve-pelo-menos-um-salve_uma_pessoa.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/453-salve-pelo-menos-um-salve_uma_pessoa.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/453-salve-pelo-menos-um-salve_uma_pessoa.png" width="320" height="288" data-original-width="533" data-original-height="480" /></a></div>
+![](/images/posts/453-salve-pelo-menos-um-salve_uma_pessoa.png)
+
 No universo cinematográfico hollywoodiano e mais precisamente nos filmes da DC Comics, no filme Liga da Justiça, existe uma cena que iremos referenciar aqui para ilustrar o artigo. Trata-se dos momentos que antecedem o primeiro combate entre o Lobo da Estepe e os heróis da liga, ainda sem o Superman. Quando, preparando-se para empreender esforços contra o vilão, arquitetavam qual seria a melhor estratégia, eis que o Flash chega para o Batman e diz que não tinha condições de enfrentar a situação, ele estava com medo. Todavia, para que o time não ficasse desfalcado, Batman o incentiva e diz a frase título deste artigo.</br>
 </br>
 E embarcando nessa frase que retomamos os vetores cristãos. Sabe-se que nenhum egoísta entrará na glória do paraíso, isso está garantido pelo Cristo. Não é possível você querer o céu e não querer que alguém chegue lá. Nem ao nosso inimigo devemos desejar que ele não alcance a salvação. Jesus é claríssimo a esse respeito. A lógica até chega a ser simples. Se aprendemos que devemos ser seus imitadores então não devemos desejar o mal, ou alguém acha que Jesus deseja o mal para alguém?</br>

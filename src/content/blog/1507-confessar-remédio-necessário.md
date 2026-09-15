@@ -4,7 +4,9 @@ date: 2022-07-19T15:22:00.003Z
 heroImage: "/images/posts/1507-confessar-remédio-necessário-confessar_20-_20rem_C3_A9dio_20necess_C3_A1rio.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1507-confessar-remédio-necessário-confessar_20-_20rem_C3_A9dio_20necess_C3_A1rio.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/1507-confessar-remédio-necessário-confessar_20-_20rem_C3_A9dio_20necess_C3_A1rio.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ora bolas, todo cristão sabe que precisa pedir perdão à Deus
+![](/images/posts/1507-confessar-remédio-necessário-confessar_20-_20rem_C3_A9dio_20necess_C3_A1rio.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ora bolas, todo cristão sabe que precisa pedir perdão à Deus
 de suas faltas; o critério para isso é a lei divina e não o que achamos que
 precisamos ou devemos confessar. As coisas são erradas segundo o ponto de vista
 de quem elaborou “a regra de vida” (Deus todo poderoso) e não segundo as
@@ -37,4 +39,7 @@ para serdes curados. A oração do justo tem grande eficácia” – Tiago 5,16.
 a palavra de Deus, sempre direta, justa, verdadeira e imutável; o remédio
 amargo e necessário que todos precisamos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

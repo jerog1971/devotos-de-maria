@@ -4,7 +4,9 @@ date: 2020-08-20T23:15:00.002Z
 heroImage: "/images/posts/924-vamos-ao-trabalho-trabalhar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/924-vamos-ao-trabalho-trabalhar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="314" src="/images/posts/924-vamos-ao-trabalho-trabalhar.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Mateus 21-28-31 – “Que vos parece? Um homem tinha dois
+![](/images/posts/924-vamos-ao-trabalho-trabalhar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Mateus 21-28-31 – “Que vos parece? Um homem tinha dois
 filhos. Dirigindo-se ao primeiro, disse-lhe: - Meu filho, vai trabalhar hoje na
 vinha. Respondeu ele: - Não quero. Mas, em seguida, tocado de arrependimento,
 foi. Dirigindo-se depois ao outro, disse-lhe a mesma coisa. O filho respondeu:
@@ -42,4 +44,4 @@ se apresenta em nossa frente.<o:p></o:p></p>
 <p class="MsoNormal">Nosso trabalho é incessante, o demônio trabalha sem cessar e
 de nossa parte, o mínimo que devemos fazer é o máximo de esforço.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>

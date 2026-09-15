@@ -4,7 +4,8 @@ date: 2018-10-29T15:39:00.001Z
 heroImage: "/images/posts/1923-as-razões-somam-17-obras.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1923-as-razões-somam-17-obras.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1923-as-razões-somam-17-obras.png" width="294" height="320" data-original-width="307" data-original-height="334" /></a></div>
+![](/images/posts/1923-as-razões-somam-17-obras.png)
+
 Números são uma realidade que nos acompanham. Talvez alguns de nós quando crianças, se perguntaram porque estudar matemática na escola. Para que “cargas d’água” aprender tantas coisas que se relacionam com os números. Existe o profissionalismo e as razões acadêmicas e sociais para isso. Em tempos eleitorais, números são temporariamente memorizados; em tempos de olimpíadas, também; quando acontece a copa do mundo e por aí em diante. Números, nos cercam por toda a parte. Que número de sapato você usa? Qual seu número da chamada em sala de aula? Qual seu número de telefone? Número da casa onde mora? Do CEP? E as senhas? Um monte de números não é mesmo! Nossa vida, além de tudo isso e muito mais, tem a regência explicitada a partir dos números. O que dizer da “contagem regressiva” que progride a cada dia? Nascemos e começamos a morrer um pouco a cada dia. O tique-taque dos segundos anuncia constantemente que: o tempo está passando, o tempo está se esgotando.</br>
 </br>
 Se é assim que são as coisas, que tal darmos atenção ao que realmente importa? Já sabemos pela palavra de Deus que Jesus irá julgar cada um pelas obras (Apocalipse 22,12). Podemos achar muito prudente por conta disso, não chegarmos na frente dele no dia do juízo de mãos abanando, vazias, sem termos o que fazer com elas porque não temos obras para apresentar. Em verdade, serão, de certa forma, números que irão expor nossa quantidade de obras.</br>

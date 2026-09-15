@@ -4,7 +4,9 @@ date: 2022-12-16T17:52:00.005Z
 heroImage: "/images/posts/1877-arrastando-se-para-o-céu-img-543846296.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1877-arrastando-se-para-o-céu-img-543846296.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="341" height="320" src="/images/posts/1877-arrastando-se-para-o-céu-img-1559566873.png" width="301" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é assim que muitas vezes as pessoas se sentem? Quem sabe
+![](/images/posts/1877-arrastando-se-para-o-céu-img-1559566873.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não é assim que muitas vezes as pessoas se sentem? Quem sabe
 até mesmo nós? Pois é, temos que nos sentir assim mesmo; se não por uma razão,
 então por outra. Vamos entender. Se tudo for bem com nossas práticas religiosas,
 a observância dos mandamentos, do evangelho de Jesus Cristo e da santa palavra
@@ -40,4 +42,7 @@ dedica-te a Deus, espera com paciência, a fim de que no derradeiro momento tua
 vida se enriqueça. Aceita tudo o que te acontecer. Na dor, permanece firme; na
 humilhação, tem paciência.” – Eclesiástico 2,1-4.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger+<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger+<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-04-04T23:12:00Z
 heroImage: "/images/posts/1968-ocupar-se-de-viver-ou-ocupar-se-de--morrer.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1968-ocupar-se-de-viver-ou-ocupar-se-de--morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="286" data-original-width="308" src="/images/posts/1968-ocupar-se-de-viver-ou-ocupar-se-de--morrer.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que fazemos com o tempo de vida que Deus nos dá? Tão logo
+![](/images/posts/1968-ocupar-se-de-viver-ou-ocupar-se-de--morrer.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O que fazemos com o tempo de vida que Deus nos dá? Tão logo
 adquirimos consciência sobre nossa natureza aprendemos que um dia iremos
 morrer. O ensinamento cristão – aos que escolheram seguir a Cristo – explica que
 o ser humano é um composto de corpo e alma – matéria e espírito. O corpo, parte
@@ -42,4 +44,7 @@ para nos ocuparmos do que é bom ou mal; depois, quando a realidade do tempo nã
 mais existir por conta da morte, nem tempo para “prepararmos uma defesa/desculpa”
 existirá. Será a hora da sentença do justo juiz.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

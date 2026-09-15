@@ -4,7 +4,8 @@ date: 2016-04-14T17:59:00.001Z
 heroImage: "/images/posts/474-mãe-e-madrinha-madrinha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/474-mãe-e-madrinha-madrinha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/474-mãe-e-madrinha-madrinha.png" width="320" height="317" data-original-width="201" data-original-height="199" /></a></div>
+![](/images/posts/474-mãe-e-madrinha-madrinha.png)
+
 Remonta a tempos muito remotos a figura da pessoa que recebe o título de madrinha. Como gosto sempre de fazer, aponto aqui a origem da palavra, que vem do latim MATRINA, variante de MATER, que quer dizer mãe. Em termos práticos é a famosa “mãe de reserva”, mas não se enganem com a aparente falta de consideração que a expressão parece apontar.</br>
 </br>
 Muito pelo contrário. Na história da humanidade, por gerações sempre existiu a dificuldade em se manter uma família. Por questões financeiras, humanitárias, de saúde e tantos outros motivos. Sendo assim a escolha de uma madrinha configurou-se na transmissão instintiva dos pais, que por saberem de sua realidade finita, colocam a sua maior herança, seus filhos sob a tutela da madrinha. Assim o fazendo iriam garantir para sua prole a transmissão do amor pois isso é um verdadeiro testamento de amor que colocamos no colo de madrinhas e padrinhos.</br>

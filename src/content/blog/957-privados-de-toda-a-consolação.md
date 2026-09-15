@@ -4,7 +4,11 @@ date: 2020-07-05T15:59:00.002Z
 heroImage: "/images/posts/957-privados-de-toda-a-consolação-incomodo.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/957-privados-de-toda-a-consolação-incomodo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="403" data-original-width="428" src="/images/posts/957-privados-de-toda-a-consolação-incomodo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não é dificultoso desprezar as consolações humanas, quando
+<br />
+
+![](/images/posts/957-privados-de-toda-a-consolação-incomodo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Não é dificultoso desprezar as consolações humanas, quando
 gozamos das divinas. Grande coisa, porém, e mui meritória, é poder estar sem
 consolação, tanto divina quanto humana, sofrendo de boa mente o desamparo do
 coração, sem em nada buscar-se a si mesmo, nem atender ao seu próprio

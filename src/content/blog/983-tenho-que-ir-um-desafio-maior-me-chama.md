@@ -4,7 +4,9 @@ date: 2023-07-14T20:45:00.004Z
 heroImage: "/images/posts/983-tenho-que-ir-um-desafio-maior-me-cha-Est_C3_A1gio_Pedagogia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/983-tenho-que-ir-um-desafio-maior-me-cha-Est_C3_A1gio_Pedagogia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1224" data-original-width="1632" height="240" src="/images/posts/983-tenho-que-ir-um-desafio-maior-me-cha-Est_C3_A1gio_Pedagogia.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É exatamente isso que temos que dizer ao diabo, afinal,
+![](/images/posts/983-tenho-que-ir-um-desafio-maior-me-cha-Est_C3_A1gio_Pedagogia.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É exatamente isso que temos que dizer ao diabo, afinal,
 existe desafio maior do que viver nesse mundo sob a tutela da palavra de Deus?
 Quanto mais o tempo avança mais vemos o cristão sendo maculado, prensado,
 perseguido e instigado por valores extremamente contrários aos do seu criador.
@@ -37,4 +39,7 @@ de São Bento, contra nosso inimigo: “bebes o teu próprio veneno”, temos ma
 que fazer, pertencemos a Deus e esperamos um dia morar com ele para todo o
 sempre.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

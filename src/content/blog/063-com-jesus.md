@@ -4,7 +4,8 @@ date: 2016-04-25T13:51:00Z
 heroImage: "/images/posts/063-com-jesus-Yasmin31.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/063-com-jesus-Yasmin31.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/063-com-jesus-Yasmin31.jpg" width="320" height="278" data-original-width="862" data-original-height="749" /></a></div>
+![](/images/posts/063-com-jesus-Yasmin31.jpg)
+
 Quando em alto mar lá no topo do mastro mais alto de uma embarcação o marinheiro avistava algum ponto de terra nas proximidades, estava ele encarregado de avisar a todos os tripulantes. E assim ele dizia: “terra a vista”. A notícia nesta época era de grande valia, pois muitas vezes era preciso atracar os navios em portos seguros para manutenção, exercer o comércio entre países que na época tinham esse meio de transporte como única ligação, além de promover a troca de convívio e outras experiências entre os povos.</br>
 </br>
 Como bem sabemos a dupla terra e mar traz em sua bagagem muitas verdades que podemos refletir ao longo da história da humanidade. Pescadores que entravam em alto mar, deixavam famílias inteiras ansiosas na espera de seu retorno e assim, da mesma forma, estes pescadores ansiavam pelo reencontro em terra firme com seus entes queridos.</br>

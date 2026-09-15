@@ -4,7 +4,11 @@ date: 2020-05-09T22:25:00.005Z
 heroImage: "/images/posts/1074-servos-de-jesus-cristo-a-serviço-da-igreja-AVvXsEhl3dIcYCw7WDZWSMl4Xf_VziG8IjDQiCzsg8whRLZ8RBhpBxbq-EtBA05kZbpmeGR5vZJgaUl1QhA1uPqpQBvkHPZaxvowx4as9GN2Z2nKGiBgow9CYmf9L7XSTqPNqTxvVKCUOwyupsg.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1074-servos-de-jesus-cristo-a-serviço-da-igreja-AVvXsEhl3dIcYCw7WDZWSMl4Xf_VziG8IjDQiCzsg8whRLZ8RBhpBxbq-EtBA05kZbpmeGR5vZJgaUl1QhA1uPqpQBvkHPZaxvowx4as9GN2Z2nKGiBgow9CYmf9L7XSTqPNqTxvVKCUOwyupsg.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="231" src="/images/posts/1074-servos-de-jesus-cristo-a-serviço-da-igreja-AVvXsEhl3dIcYCw7WDZWSMl4Xf_VziG8IjDQiCzsg8whRLZ8RBhpBxbq-EtBA05kZbpmeGR5vZJgaUl1QhA1uPqpQBvkHPZaxvowx4as9GN2Z2nKGiBgow9CYmf9L7XSTqPNqTxvVKCUOwyupsg.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Essa é a definição que os próprios sacerdotes fazem de si
+<br />
+
+![](/images/posts/1074-servos-de-jesus-cristo-a-serviço-da-igreja-AVvXsEhl3dIcYCw7WDZWSMl4Xf_VziG8IjDQiCzsg8whRLZ8RBhpBxbq-EtBA05kZbpmeGR5vZJgaUl1QhA1uPqpQBvkHPZaxvowx4as9GN2Z2nKGiBgow9CYmf9L7XSTqPNqTxvVKCUOwyupsg.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Essa é a definição que os próprios sacerdotes fazem de si
 mesmo. São os padres que receberam do ressuscitado a missão de apascentar as
 ovelhas do Senhor. Os padres possuem muitas obrigações repassadas por Jesus, o
 que já bastaria – segundo a análise do próprio Cristo – para que exercessem seu

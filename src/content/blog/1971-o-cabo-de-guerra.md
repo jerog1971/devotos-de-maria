@@ -4,7 +4,8 @@ date: 2017-03-15T19:26:00.001Z
 heroImage: "/images/posts/1971-o-cabo-de-guerra-yasmin12.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1971-o-cabo-de-guerra-yasmin12.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="336" data-original-width="341" height="315" src="/images/posts/1971-o-cabo-de-guerra-yasmin12.jpg" width="320" /></a></div>
+![](/images/posts/1971-o-cabo-de-guerra-yasmin12.jpg)
+
 No meio os filhos, de um lado os pais e de outro lado o mundo. Esta é a configuração que a modernidade urbana imposta pelo mundo coloca para o enfrentamento das famílias. E o mundo joga sujo e de forma desleal tentando colocar nas mentes das crianças, jovens e adolescentes que Deus e toda a sua parafernália religiosa, onde aí se inclui os pais, trata-se de uma escolha, uma imposição da igreja católica que insiste em escravizar a população e se manter com suas regras medievais, ostentando uma posição de autoritária e soberana, fazendo frente ao paraíso que o bondoso mundo quer oferecer, mas que a maldosa igreja quer atrapalhar.
 
 Pois bem, o que fazer, o que fazer, o que fazer? Existem pais que dizem assim: “fazer o quê? – eu falo, falo, falo e ele não me ouve...” Coitadinho desses pais, será que querem que fiquemos com pena deles? Puxa vida, olhem só, eles chamam a atenção, mas as crianças não escutam, não dão a mínima. Pobres desses pais, fazer o que não é mesmo. “Eu ensino, mas eles não acatam”, afinal cada um tem sua personalidade e decide por si o rumo que quer levar da vida. Pensam assim alguns pais e responsáveis. No fundo há alguma verdade nisso, na questão da personalidade, mas se uma análise mais profunda acontecer iremos enxergar que os evangelhos superam a questão pessoal, que neste caso é uma questão egoísta e concupiscente.
@@ -19,6 +20,5 @@ Mas Deus é quem nos revela: Deuteronômio 6,6 – “Os mandamentos que hoje te
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2015/09/salmo-1263.html" target="_blank">Salmo 126,3</a>
-
 
 fonte: Jefferson Roger

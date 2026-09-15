@@ -4,7 +4,9 @@ date: 2021-05-06T16:17:00.004Z
 heroImage: "/images/posts/1141-ela-se-foi-incerteza_da_morte.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1141-ela-se-foi-incerteza_da_morte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="429" src="/images/posts/1141-ela-se-foi-incerteza_da_morte.png" width="320" /></a></div><br /><div class="separator" style="clear: both; text-align: left;">Assim como nos aniversários natalícios e demais datas
+![](/images/posts/1141-ela-se-foi-incerteza_da_morte.png)
+
+<br /><div class="separator" style="clear: both; text-align: left;">Assim como nos aniversários natalícios e demais datas
 festivas, também nos deparamos com os aniversários de falecimento, onde as
 recordações boas – um consolo para a alma – e não tão boas assim – um peso no
 coração e consciência – trazem à tona a realidade aguardada por cada um:
@@ -36,4 +38,7 @@ vigilância deve, porém, permanecer, pois ainda temos que cuidar de algo muito
 sério: a salvação de nossas almas, o que seria realmente e profundamente triste
 termos que pensar no dia do juízo quanto a isso: ela se foi.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

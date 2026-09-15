@@ -4,7 +4,11 @@ date: 2020-06-29T16:00:00.001Z
 heroImage: "/images/posts/185-o-orgulho-que-interessa-a-deus-Eu_me_acho.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/185-o-orgulho-que-interessa-a-deus-Eu_me_acho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="268" data-original-width="266" src="/images/posts/185-o-orgulho-que-interessa-a-deus-img-1738316474.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É preciso tomar muito cuidado com os sentimentos, na bíblia
+<br />
+
+![](/images/posts/185-o-orgulho-que-interessa-a-deus-img-1738316474.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É preciso tomar muito cuidado com os sentimentos, na bíblia
 aprendemos que eles brotam do coração e, como nos recorda o padre Tomás de
 Kempis, não é raro que eles desagradem a Deus. Podemos alimentar nossos
 corações da forma que quisermos, somos livres para isso. Podemos buscar as

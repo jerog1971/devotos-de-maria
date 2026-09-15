@@ -4,7 +4,8 @@ date: 2016-01-19T11:49:00Z
 heroImage: "/images/posts/044-como-filhos-e-com-os-filhos-filhas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/044-como-filhos-e-com-os-filhos-filhas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/044-como-filhos-e-com-os-filhos-filhas.png" width="317" height="320" data-original-width="516" data-original-height="521" /></a></div>
+![](/images/posts/044-como-filhos-e-com-os-filhos-filhas.png)
+
 </br>
 Caros leitores, neste artigo vamos refletir um pouco sobre nossa conduta enquanto filhos e filhas e com nossos filhos e filhas, nos fazendo valer de alguns ensinamentos tirados das sagradas escrituras, contidas no livro do Eclesiástico.</br>
 </br>

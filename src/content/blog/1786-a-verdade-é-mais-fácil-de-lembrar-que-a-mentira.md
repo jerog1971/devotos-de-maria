@@ -4,7 +4,8 @@ date: 2020-04-09T22:00:00.001Z
 heroImage: "/images/posts/1786-a-verdade-é-mais-fácil-de-lembrar-q-mentira.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1786-a-verdade-é-mais-fácil-de-lembrar-q-mentira.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="342" data-original-width="386" height="284" src="/images/posts/1786-a-verdade-é-mais-fácil-de-lembrar-q-mentira.png" width="320" /></a></div>
+![](/images/posts/1786-a-verdade-é-mais-fácil-de-lembrar-q-mentira.png)
+
 Ela se sustenta, Deus disse “anda em minha presença e sê integro”. Ou seja, na presença de Deus não cabem as lorotas de Satanás com suas meias verdades. Ou santos ou nada, não podemos chegar ao céu colocando nas entrelinhas de nossas verdades uma mentirinha aqui e outra ali. E a verdade precisa ser aprendida e não decorada. Todos sabem que a decoreba se esquece com o tempo.
 
 Existem pessoas que afirmam o contrário e se apoiam no ditado popular que diz que “uma mentira contada mil vezes vira uma verdade”. Se isso for verdade, o ditado passa ao mesmo tempo outra realidade: dá trabalho sustentar a mentira. Você precisa viver um personagem ao invés de si próprio, sempre, sempre e sempre. Tua verdade fica em segundo plano. São Tomás de Aquino diz que “quem não vive o que crê, termina crendo o que vive”.
@@ -16,7 +17,6 @@ Não tem como, falamos a verdade, ótimo, é nossa obrigação, mentimos, nossa 
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2017/05/a-perna-curta-da-mentira.html" target="_blank">A perna curta da mentira</a>
-
 
 Fonte: Jefferson Roger
 

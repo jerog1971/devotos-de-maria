@@ -4,7 +4,8 @@ date: 2019-09-04T15:28:00.003Z
 heroImage: "/images/posts/1159-o-paraíso-artificial-para_25C3_25ADso_artificial.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1159-o-paraíso-artificial-para_25C3_25ADso_artificial.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1159-o-paraíso-artificial-para_25C3_25ADso_artificial.png" width="320" height="279" data-original-width="385" data-original-height="336" /></a></div>
+![](/images/posts/1159-o-paraíso-artificial-para_25C3_25ADso_artificial.png)
+
 Aos crentes na palavra de Deus, que verdadeiramente reconhecem que ele é o senhor, seu senhor, senhor dos corações e criador dos seres viventes à sua imagem e semelhança, as alegrias eternas que nos esperam com a coroa da glória estão reservadas aos que entrarem nos céus, no paraíso. Aqui é denominado “vale de lágrimas”, um lugar de tribulação onde experimentamos a correção de Deus por causa de um motivo maior a saber:</br>
 </br>
 Hebreus 12,9-11 – “Temos na terra nossos pais que nos corrigem e, no entanto, os olhamos com respeito. Com quanto mais razão nos havemos de submeter ao Pai de nossas almas, o qual nos dará a vida? Os primeiros nos educaram para pouco tempo, segundo a sua própria conveniência, ao passo que este o faz para nosso bem, para nos comunicar sua santidade. É verdade que toda correção parece, de momento, antes motivo de pesar que de alegria. Mais tarde, porém, granjeia aos que por ela se exercitaram o melhor fruto de justiça e de paz”.</br>

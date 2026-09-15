@@ -4,7 +4,8 @@ date: 2016-07-07T11:30:00Z
 heroImage: "/images/posts/1589-o-caminho-do-martírio-de-todos-os-dias-espinhos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1589-o-caminho-do-martírio-de-todos-os-dias-espinhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1589-o-caminho-do-martírio-de-todos-os-dias-espinhos.png" width="320" height="265" data-original-width="202" data-original-height="167" /></a></div>
+![](/images/posts/1589-o-caminho-do-martírio-de-todos-os-dias-espinhos.png)
+
 </br>
 “Um cristão que não leva a sério esta dimensão de martírio da vida não entendeu ainda o caminho que Jesus nos ensinou”</br>
 </br>

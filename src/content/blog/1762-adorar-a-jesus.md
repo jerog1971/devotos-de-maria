@@ -4,7 +4,11 @@ date: 2020-07-02T16:38:00.001Z
 heroImage: "/images/posts/1762-adorar-a-jesus-adora_25C3_25A7_25C3_25A3o.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1762-adorar-a-jesus-adora_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="470" data-original-width="595" src="/images/posts/1762-adorar-a-jesus-adora_25C3_25A7_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nosso Senhor Jesus Cristo, segunda pessoa da Santíssima
+<br />
+
+![](/images/posts/1762-adorar-a-jesus-adora_25C3_25A7_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nosso Senhor Jesus Cristo, segunda pessoa da Santíssima
 Trindade, verdadeiro Deus e verdadeiro homem, caminho verdade e vida, aonde
 ninguém vai ao pai senão por ele, é nossa pedra angular, o justo juiz, que irá
 nos conceder o prêmio ou a sentença. Não se sabe na história da humanidade que

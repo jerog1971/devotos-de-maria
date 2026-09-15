@@ -4,7 +4,9 @@ date: 2022-06-08T15:52:00.004Z
 heroImage: "/images/posts/1390-pessoas-mandonas-pessoas_20mandonas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1390-pessoas-mandonas-pessoas_20mandonas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="248" data-original-width="270" height="248" src="/images/posts/1390-pessoas-mandonas-pessoas_20mandonas.png" width="270" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A história da humanidade está cheia delas; tiranetes dos
+![](/images/posts/1390-pessoas-mandonas-pessoas_20mandonas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A história da humanidade está cheia delas; tiranetes dos
 mais variados calibres transformam seu mundo ou seu mundinho, num amontoado de
 pessoas que existem só para se ajoelharem diante deles, reverencia-los e seguir
 suas ordens. Tentam seguir a conduta de Deus, que pode ordenar e cobrar e é
@@ -40,4 +42,7 @@ e apontava argumentos e reflexões que sempre endossavam as verdades celestes;
 tudo isso, sem perder a essência dos porquês das ordens, das obediências e de
 suas existências.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

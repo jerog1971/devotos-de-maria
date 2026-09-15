@@ -4,7 +4,8 @@ date: 2017-05-16T19:30:00Z
 heroImage: "/images/posts/1490-o-que-os-pais-recebem-dos-filhos-flechada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1490-o-que-os-pais-recebem-dos-filhos-flechada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1490-o-que-os-pais-recebem-dos-filhos-flechada.png" width="320" height="278" data-original-width="603" data-original-height="523" /></a></div>
+![](/images/posts/1490-o-que-os-pais-recebem-dos-filhos-flechada.png)
+
 As sagradas escrituras estão repletas de ensinamentos e exortações a respeito do comportamento e relação entre pais e filhos. Nos dois testamentos, o antigo e o novo, o que não faltam são textos que tratam a respeito do tema. Nem poderia ser diferente. Tudo se baseia no princípio da criação, no plano de Deus. Por ser amor e querer compartilhar esse amor eternamente com alguém, não com alguma coisa, nos criou e nos colocou no mundo para assim vivermos na eternidade ao seu lado. Infelizes de nós que herdamos o pecado que se originou lá atrás. Ahhh se esse Adão e Eva cruzarem nosso caminho lá no céu, vamos falar umas boas para eles! Acredito que muitos já pensaram nisso! Mesmo que de forma descontraída. Vamos falar a verdade caros leitores, sobrou para todo mundo o que os dois fizeram e, ainda bem, satanás não ficou de fora e sobrou para ele também. Ufa, que bom, assim, já que todo mundo tem que se ferrar, nada mais justo que o causador de tudo também pague o pato e fique com a fatia maior do prejuízo.</br>
 </br>
 As pessoas as vezes não compreendem porque é que tem que ser assim. Pensam que Deus poderia ter resolvido a questão com os três envolvidos e pronto, passa uma borracha e vamos adiante. As pessoas pensam assim e até se revoltam contra essa atitude divina, mas em seu dia a dia fazem exatamente o mesmo. Querem ver num exemplo?</br>

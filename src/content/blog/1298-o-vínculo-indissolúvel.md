@@ -4,7 +4,9 @@ date: 2022-11-01T20:02:00.005Z
 heroImage: "/images/posts/1298-o-vínculo-indissolúvel-v_C3_ADnculo_20indissol_C3_BAvel.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1298-o-vínculo-indissolúvel-v_C3_ADnculo_20indissol_C3_BAvel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="303" data-original-width="450" height="215" src="/images/posts/1298-o-vínculo-indissolúvel-v_C3_ADnculo_20indissol_C3_BAvel.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Entre os batizados, a união do homem com a mulher e/ou da
+![](/images/posts/1298-o-vínculo-indissolúvel-v_C3_ADnculo_20indissol_C3_BAvel.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Entre os batizados, a união do homem com a mulher e/ou da
 mulher com o homem, deixando pai e mãe para se unirem e formarem uma só carne,
 denominando a isso de “matrimônio”, por Deus assim desejada e criada, é algo
 muito acima de qualquer denominação estipulada pelo ser humano.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -35,4 +37,7 @@ atribuí-las um alcance bem maior e abrangente, pois, Deus uniu sua criatura a
 si, através do batismo e assim poderá permanecer para sempre se aquele que “permanece
 em mim e eu nele”, desejar a vida eterna na felicidade do paraíso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

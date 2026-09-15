@@ -4,7 +4,9 @@ date: 2022-09-12T19:06:00.003Z
 heroImage: "/images/posts/1437-pela-família-pela_20familia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1437-pela-família-pela_20familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="731" data-original-width="978" height="239" src="/images/posts/1437-pela-família-pela_20familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Passou a quinta temporada de Cobra Kai, grande sacada muito
+![](/images/posts/1437-pela-família-pela_20familia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Passou a quinta temporada de Cobra Kai, grande sacada muito
 bem produzida pela Netflix (opinião de quem vos escreve) que procurou com
 maestria colocar muitos temas familiares em pauta. Além do deslumbre em rever
 atores e atrizes de todas as épocas, desde os primeiros filmes, todo o arco que
@@ -35,4 +37,7 @@ para nossos filhos? Pois é. O final da quinta temporada de Cobra Kai demonstra
 que por causa da família e pela família não abandonamos aquilo que é certo e,
 porque não dizer, daquilo que Deus espera de cada um de nós.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

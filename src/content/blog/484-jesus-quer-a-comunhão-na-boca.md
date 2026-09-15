@@ -4,7 +4,8 @@ date: 2020-03-13T15:59:00Z
 heroImage: "/images/posts/484-jesus-quer-a-comunhão-na-boca-naboca.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/484-jesus-quer-a-comunhão-na-boca-naboca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/484-jesus-quer-a-comunhão-na-boca-naboca.png" width="320" height="276" data-original-width="335" data-original-height="289" /></a></div>
+![](/images/posts/484-jesus-quer-a-comunhão-na-boca-naboca.png)
+
 Assim disse nosso salvador e redentor em suas aparições ao longo da história da humanidade:</br>
 </br>
 “1. Àqueles que se abstiverem de receber com as suas mãos o Meu próprio Corpo, Sangue, Alma e Divindade, Eu prometo enchê-los das maiores bênçãos nas suas mãos, alma e em todo o seu ser;</br>

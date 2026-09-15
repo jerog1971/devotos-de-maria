@@ -4,7 +4,8 @@ date: 2020-02-20T20:18:00.001Z
 heroImage: "/images/posts/291-não-podemos-ter-tudo-casou.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/291-não-podemos-ter-tudo-casou.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/291-não-podemos-ter-tudo-casou.png" width="283" height="320" data-original-width="335" data-original-height="379" /></a></div>
+![](/images/posts/291-não-podemos-ter-tudo-casou.png)
+
 Mateus 16,26 – “Que servirá a um homem ganhar o mundo inteiro, se vem a prejudicar a sua vida? Ou que dará um homem em troca de sua vida?” Pois bem, Jesus nos alerta para o que popularmente chamamos de vender a alma. O preço pago por ela foi alto. Padre Pio já dizia que as almas custam sangue. Foi sangue derramado na cruz, não foi um machucadinho qualquer que Jesus recebeu em seu corpo para poder pagar a dívida impagável e nos resgatar da condição adquirida no Jardim do Éden.</br>
 </br>
 Muito pelo contrário. E ele ainda vai mais longe quando diz que não podemos servir a dois senhores, a Deus e ao dinheiro. Como vemos, sempre é uma questão de escolha. Nunca poderemos escolher ao mesmo tempo coisas opostas em sua natureza. Quero tomar um copo de achocolatado quente e frio ao mesmo tempo. Impossível, você pode tentar o meio termo, tomar um achocolatado morno, mas, espiritualmente falando Jesus desaprova essa atitude de meio termo, como já vimos.</br>

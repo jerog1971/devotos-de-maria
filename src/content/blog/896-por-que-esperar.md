@@ -4,7 +4,8 @@ date: 2015-10-19T19:05:00Z
 heroImage: "/images/posts/896-por-que-esperar-batizando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/896-por-que-esperar-batizando.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/896-por-que-esperar-batizando.png" width="320" height="304" data-original-width="278" data-original-height="264" /></a></div>
+![](/images/posts/896-por-que-esperar-batizando.png)
+
 </br>
 POR QUE ESPERAR PELO AMANHÃ? Você está disposto a dar o melhor para seus filhos?</br>
 </br>

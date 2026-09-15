@@ -4,7 +4,8 @@ date: 2016-10-27T12:23:00Z
 heroImage: "/images/posts/990-a-fraca-autoridade-da-mãe-autoridade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/990-a-fraca-autoridade-da-mãe-autoridade.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/990-a-fraca-autoridade-da-mãe-autoridade.png" width="320" height="287" data-original-width="357" data-original-height="320" /></a></div>
+![](/images/posts/990-a-fraca-autoridade-da-mãe-autoridade.png)
+
 No livro do Eclesiástico 3,3 está escrito que “Deus quis honrar os pais pelos filhos, e cuidadosamente fortaleceu a autoridade da mãe sobre eles.” Também São Paulo em sua carta a Timóteo nos fala sobre os deveres que mãe, que tem autoridade sobre os filhos, deve exercê-los em vista à sua santificação e salvação:</br>
 </br>
 Timóteo 2,15 – “Contudo, ela poderá salvar-se, cumprindo os deveres de mãe, contanto que permaneça com modéstia na fé, na caridade e na santidade.” Como podemos facilmente perceber, a mulher que recebeu de Deus o dom da maternidade, com ele recebeu os seus deveres, condição integrante, como nos recorda o apóstolo, para a salvação da mulher. Verdade também é, que já no antigo testamento, no livro do profeta Ezequiel 3,20, aprendemos de Deus que se vermos alguém cometendo algo de errado e não o corrigimos, esse alguém, será cobrado pela sua falta, mas nós também seremos cobrados por nossa omissão. Desta forma, não só as mães são cobradas de seus deveres mas todos os que querem aderir ao segmento de Jesus.</br>

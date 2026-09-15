@@ -4,7 +4,8 @@ date: 2016-10-10T19:35:00Z
 heroImage: "/images/posts/704-a-vida-é-curta-então-curta-um-caso-caso.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/704-a-vida-é-curta-então-curta-um-caso-caso.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/704-a-vida-é-curta-então-curta-um-caso-caso.png" width="320" height="275" data-original-width="424" data-original-height="364" /></a></div>
+![](/images/posts/704-a-vida-é-curta-então-curta-um-caso-caso.png)
+
 Essa e tantas outras expressões são diariamente ouvidas por tantos e propagadas por aqueles que defendem que, como não se sabe a duração desta etapa terrestre, não existe tempo a se perder. Tempo é dinheiro, dizem alguns. Não tenho tempo a perder, dizem outros. E assim, o tempo se torna a moeda de troca, a desculpa ou o pretexto para se justificar ações que um dia, o tempo irá torna-las claras. Este dia que nos aguarda é o fim dos tempos, o dia do julgamento final. Onde, julgados por nossas obras (Apocalipse 22,12) receberemos o prêmio ou a condenação eterna.</br>
 </br>
 Em se tratando de tempo, o qual não sabemos o quanto dispomos, muitas pessoas, que querem servir ao mundo, partem freneticamente em busca da realização de seus prazeres terrenos pois, afinal, tudo é para ontem, já que o tempo é sempre uma incógnita. Ora, muitos alegam que um Deus que é amor, não irá condenar alguém eternamente ao fogo do inferno apenas por um instante de prazer pecaminoso. Basta depois se confessar e pronto.</br>

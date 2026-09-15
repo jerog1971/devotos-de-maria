@@ -4,7 +4,9 @@ date: 2022-07-15T15:52:00.005Z
 heroImage: "/images/posts/234-práticas-constantes-pr_C3_A1ticas_20constantes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/234-práticas-constantes-pr_C3_A1ticas_20constantes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="397" data-original-width="422" height="301" src="/images/posts/234-práticas-constantes-pr_C3_A1ticas_20constantes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe na realidade da natureza humana a intervenção do
+![](/images/posts/234-práticas-constantes-pr_C3_A1ticas_20constantes.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existe na realidade da natureza humana a intervenção do
 tempo. Tempo é algo que precisa ser gerenciado diariamente. Todavia, para o cristão
 que almeja ir ao céu quando morrer, a questão é um pouco mais delicada e séria
 ao mesmo tempo. Sabendo que é composto de corpo e alma, sabendo que o corpo,
@@ -36,4 +38,7 @@ deve ser a possibilidade de, depois de uma vida nesta terra, não continuarmos a
 vive-la no céu, por conta de praticarmos aquilo que não devemos e desagrada a Deus
 (Tiago 4,4).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

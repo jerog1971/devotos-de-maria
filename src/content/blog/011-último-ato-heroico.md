@@ -4,7 +4,9 @@ date: 2024-12-03T18:10:00.003Z
 heroImage: "/images/posts/011-último-ato-heroico-morte_20na_20_C3_A1gua.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/011-último-ato-heroico-morte_20na_20_C3_A1gua.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="635" data-original-width="968" height="210" src="/images/posts/011-último-ato-heroico-morte_20na_20_C3_A1gua.png" width="320" /></a></div><p>&nbsp;</p><p>Uma parcela das pessoas gosta de filmes de heróis; uma oportunidade
+![](/images/posts/011-último-ato-heroico-morte_20na_20_C3_A1gua.png)
+
+Uma parcela das pessoas gosta de filmes de heróis; uma oportunidade
 para descontrair e aproveitar uma história idealizada para divertir, emocionar,
 fazer pensar e colher reflexões de várias naturezas. Em tempos atuais, para aqueles
 que não estão bem familiarizados com os quadrinhos, cada vez mais os filmes,
@@ -13,7 +15,7 @@ além dos super poderes, os demonstram com algum grau de proximidade com a natur
 humana. O herói possui ponto fraco, comete erros, mas segue tentando acertar e
 fazer o bem.
 
-</p><p class="MsoNormal">Dito isto e transpondo para a realidade presente, muitos são
+<p class="MsoNormal">Dito isto e transpondo para a realidade presente, muitos são
 os heróis verdadeiros que conhecemos mundo a fora; alguns anônimos e outros
 não, mas estão aí, presentes no cotidiano de muitas pessoas. O que diriam os
 filhos, para eles seus pais são sim, verdadeiros heróis, sem capas e poderes
@@ -41,5 +43,4 @@ antes que sua vida terminasse, garantiu que sua filha estivesse com vida. A
 que quem está no comando de nossas vidas é Deus.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

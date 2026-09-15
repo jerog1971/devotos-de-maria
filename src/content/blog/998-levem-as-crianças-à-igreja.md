@@ -4,7 +4,11 @@ date: 2020-05-10T18:55:00.001Z
 heroImage: "/images/posts/998-levem-as-crianças-à-igreja-img-721488353.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/998-levem-as-crianças-à-igreja-img-721488353.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="411" data-original-width="411" height="320" src="/images/posts/998-levem-as-crianças-à-igreja-img-721488353.jpgs320/crian%25C3%25A7as_na_missa.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,2-6 – “Jesus chamou uma criancinha, colocou-a no
+<br />
+
+![](/images/posts/998-levem-as-crianças-à-igreja-img-721488353.jpgs320/crian%25C3%25A7as_na_missa.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,2-6 – “Jesus chamou uma criancinha, colocou-a no
 meio deles e disse: Em verdade vos declaro: se não vos transformardes e vos
 tornardes como criancinhas, não entrareis no Reino dos céus. Aquele que se
 fizer humilde como esta criança será maior no Reino dos céus. E o que recebe em
@@ -46,6 +50,6 @@ as famílias que levam seus filhos à missa e incentivam a continuarem assim; se
 dúvida eles se recordam das passagens do evangelho onde Jesus evidencia o
 apreço pelos pequeninos.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

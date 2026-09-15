@@ -4,7 +4,9 @@ date: 2022-11-23T15:37:00.003Z
 heroImage: "/images/posts/843-remédios-amargos-rem_C3_A9dios_20amargos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/843-remédios-amargos-rem_C3_A9dios_20amargos.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="571" data-original-width="642" height="285" src="/images/posts/843-remédios-amargos-rem_C3_A9dios_20amargos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está escrito na bíblia que Deus corrige e castiga aqueles
+![](/images/posts/843-remédios-amargos-rem_C3_A9dios_20amargos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Está escrito na bíblia que Deus corrige e castiga aqueles
 que ama e tem por seus filhos segundo seus desígnios. Pois bem, acho que a
 maioria de nós pode concordar que correções e castigos não são experiências
 muito agradáveis. Inclusive, o ser humano tem uma tendência de associá-las às
@@ -35,4 +37,7 @@ busca com um coração sincero. Todavia, este coração precisa estar disposto a
 aceitar a acolhida em sua totalidade e isso inclui os remédios enviados pelo
 altíssimo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

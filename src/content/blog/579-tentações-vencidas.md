@@ -4,7 +4,9 @@ date: 2021-05-26T12:52:00.003Z
 heroImage: "/images/posts/579-tentações-vencidas-img-706758899.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/579-tentações-vencidas-img-706758899.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="385" src="/images/posts/579-tentações-vencidas-img-1516394798.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sempre existirão, Deus quis que o homem atravesse seu
+![](/images/posts/579-tentações-vencidas-img-1516394798.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sempre existirão, Deus quis que o homem atravesse seu
 percurso de vida envolto num mar de tentações, de todos os tipos e de todas as espécies.
 Isso é algo que o ser humano de fato só irá compreender plenamente no céu, pois,
 se fizermos uma analogia com os pais terrenos e suas proles, não conseguiremos
@@ -40,4 +42,7 @@ Escolhemos lutar contra elas considerando-as um mal, ainda que necessário, ou
 abraça-las, considerando-as objeto de nossos desejos. Sempre temos que
 escolher.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2015-11-20T13:45:00.001Z
 heroImage: "/images/posts/056-a-misericórdia-não-é-desonesta-minimizar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/056-a-misericórdia-não-é-desonesta-minimizar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/056-a-misericórdia-não-é-desonesta-minimizar.png" width="320" height="169" data-original-width="615" data-original-height="324" /></a></div>
+![](/images/posts/056-a-misericórdia-não-é-desonesta-minimizar.png)
+
 </br>
 O Arcebispo da Filadélfia (Estados Unidos), Dom Charles Chaput, assegurou que a verdadeira misericórdia e a confiança no poder transformador da graça de Deus são chaves para ajudar os divorciados em nova união.</br>
 </br>

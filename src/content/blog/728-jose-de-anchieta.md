@@ -4,7 +4,11 @@ date: 2020-06-09T15:38:00Z
 heroImage: "/images/posts/728-jose-de-anchieta-santos.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/728-jose-de-anchieta-santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="/images/posts/728-jose-de-anchieta-santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em São Cristóvão da Laguna, na ilha de Tenerife,
+<br />
+
+![](/images/posts/728-jose-de-anchieta-santos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em São Cristóvão da Laguna, na ilha de Tenerife,
 Canárias. Em 1551, ingressou na Companhia de Jesus e em 1553 fez sua profissão
 perpétua. No mesmo ano, partiu para o Brasil. Estabeleceu-se no Colégio de São
 Paulo, no planalto de Piratininga, contribuindo para a fundação daquela que se

@@ -4,7 +4,9 @@ date: 2021-09-14T17:37:00.005Z
 heroImage: "/images/posts/2057-o-cordão-umbilical-dos-pecados-img-1877162283.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2057-o-cordão-umbilical-dos-pecados-img-1877162283.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="406" data-original-width="441" height="295" src="/images/posts/2057-o-cordão-umbilical-dos-pecados-img-219333333.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O artigo começa com essa analogia ao cordão umbilical porque
+![](/images/posts/2057-o-cordão-umbilical-dos-pecados-img-219333333.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O artigo começa com essa analogia ao cordão umbilical porque
 é isso que na maioria avassaladora das vezes acontece em relação ao ser humano
 e sua interação com aquilo que não faz bem para seu corpo e sua alma. A pessoa
 enamora-se com as tentações, convive com perigos desastrosos para seu bem estar
@@ -32,4 +34,7 @@ fazer com que esse cordão perca a vida, atrofie, seque e se separe de nós para
 sempre. Difícil? Não conseguimos sozinhos? Jesus deu a dica: “sem mim nada
 podeis fazer” – João 15,5.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

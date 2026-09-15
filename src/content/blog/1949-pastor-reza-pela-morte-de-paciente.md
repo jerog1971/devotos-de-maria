@@ -4,35 +4,13 @@ date: 2021-04-19T15:21:00Z
 heroImage: "/images/posts/1949-pastor-reza-pela-morte-de-paciente-pastor_jose_olimpio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1949-pastor-reza-pela-morte-de-paciente-pastor_jose_olimpio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="356" src="/images/posts/1949-pastor-reza-pela-morte-de-paciente-pastor_jose_olimpio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os noticiários nos últimos dias divulgaram matéria onde o
-Pastor José Olímpio da Assembleia de Deus em Alagoas, nas redes sociais,
-manifestou sua indignação (que posteriormente seguiu-se de um pedido público de
-desculpas) pelos pedidos de oração feitos ao ator Paulo Gustavo, assumidamente
-adepto de uma opção sexual diretamente contrária ao que Deus nos ensina, por
-exemplo, em: Gálatas 6,7-8; Tobias 6,16-17; Lucas 9,23; Levítico 18,22; Levítico
-20,13; 1ª Coríntios 6,9-10; Gálatas 5,16-21 e Romanos 1,26-32 só para colocarmos
-algumas passagens.<o:p></o:p></p><div class="separator" style="clear: both;">
+![](/images/posts/1949-pastor-reza-pela-morte-de-paciente-pastor_jose_olimpio.png)
 
-<p class="MsoNormal">Rapidamente os defensores dos valores contrários ao que Deus
-aponta como retos se manifestaram em repúdio aos seus comentários o que, por
-medo de alguma retaliação quem sabe ou, mais seguramente, um arrependimento por sua conduta anticristã, fez com que retirasse sua postagem das redes
-sociais. A questão, que paira, no entanto, é o cabo de guerra que acontece em
-solo terreno.<o:p></o:p></p>
+![](/images/posts/1949-pastor-reza-pela-morte-de-paciente-lgbt2.png)
 
-<p class="MsoNormal">Duas verdades opostas que quando se atritam promovem todo o
-tipo de situação. Todavia, uma coisa é agir como Jesus, que acolhia a todos,
-mas mostrava a verdade e com autoridade; outra coisa é atirar pedra no telhado
-do outro achando não ter pecado nenhum, o que foi o caso deste pastor que
-desejou, em atitude inconsequente, a morte de uma pessoa, ferindo, coisa que
-ele deve ter esquecido ou não sabe, o quinto mandamento.<o:p></o:p></p>
+![](/images/posts/1949-pastor-reza-pela-morte-de-paciente-paulo_gustavo.png)
 
-<p class="MsoNormal">João 8,7 – “Quem de vós estiver sem pecado, seja o primeiro
-a lhe atirar uma pedra” – disse Jesus. No entanto, isso vale para os dois
-lados, pois o desrespeito ocorre nas duas vias, ou alguém já esqueceu das
-gravíssimas ofensas públicas que as paradas gays (foto abaixo) promovem aos olhos de todas as
-famílias cristãs? <o:p></o:p></p>
-
-<div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1949-pastor-reza-pela-morte-de-paciente-lgbt2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="217" data-original-width="230" height="244" src="/images/posts/1949-pastor-reza-pela-morte-de-paciente-lgbt2.png" width="258" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1949-pastor-reza-pela-morte-de-paciente-paulo_gustavo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="573" data-original-width="468" height="320" src="/images/posts/1949-pastor-reza-pela-morte-de-paciente-paulo_gustavo.png" /></a></div><br /></div><p class="MsoNormal">Como diz Santa Teresa de Calcutá: no fim das contas tudo é
+<br /></div><p class="MsoNormal">Como diz Santa Teresa de Calcutá: no fim das contas tudo é
 entre cada um e Deus. A verdade que cada um vive e defende será apresentada no
 dia do juízo. Neste dia, será o justo juiz com sua verdade (João 14,6 – Apocalipse
 22,12) que irá proferir a sentença – condenação ou prêmio – para cada
@@ -54,4 +32,7 @@ Eclesiastes 12,13-14 – “Em conclusão: tudo bem entendido, teme a Deus e obs
 seus preceitos, é este o dever de todo homem. Deus fará prestar contas de tudo
 o que está oculto, todo ato, seja ele bom ou mau”.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

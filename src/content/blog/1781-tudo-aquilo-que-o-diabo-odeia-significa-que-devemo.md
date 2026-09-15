@@ -4,7 +4,8 @@ date: 2020-02-28T19:56:00.002Z
 heroImage: "/images/posts/1781-tudo-aquilo-que-o-diabo-odeia-signi-jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1781-tudo-aquilo-que-o-diabo-odeia-signi-jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1781-tudo-aquilo-que-o-diabo-odeia-signi-jesus.png" width="320" height="291" data-original-width="341" data-original-height="310" /></a></div>
+![](/images/posts/1781-tudo-aquilo-que-o-diabo-odeia-signi-jesus.png)
+
 É assim que é! Jesus foi claro ao nos ensinar no livro do Apocalipse que o morno ele vomita. Nesta batalha temos um lado para escolher porque ele nos ensinou que não é possível agradar a dois senhores (ser morno, coluna do meio, em cima do muro, politicamente correto, amigo de todos). Jesus nos ensinou que quem não está com ele está contra ele. Se estamos com ele devemos crer em sua pessoa na íntegra e em tudo que provém dele. A razão humana tenta, por esforço próprio, deduzir partes das sagradas escrituras e concluir que esta ou aquela não se deve aceitar.</br>
 </br>
 Pois bem, isso é um catolicismo de porcentagem. Um catolicismo estilo buffet por quilo; só pego o que quero e quanto quero e ainda por cima se não gostar deixo as sobras de lado. Convenhamos, não devemos pegar leve porque a outra parte está sobre nós com “fogo pesado” incansavelmente nos atacando por todos os lados. Assim são as coisas; quanto mais caminhamos na vida e vamos descobrindo ou aprendendo em minúcias do que é que ele não gosta, tudo, absolutamente tudo precisa ter o nosso apreço em mais alta conta.</br>

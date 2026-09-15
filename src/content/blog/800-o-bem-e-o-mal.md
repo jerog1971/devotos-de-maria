@@ -4,7 +4,9 @@ date: 2023-02-20T00:54:00.001Z
 heroImage: "/images/posts/800-o-bem-e-o-mal-O_20bem_20o_20o_20mal.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/800-o-bem-e-o-mal-O_20bem_20o_20o_20mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="279" data-original-width="318" height="279" src="/images/posts/800-o-bem-e-o-mal-O_20bem_20o_20o_20mal.png" width="318" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pode até parecer contraditório, mas um dos gêneros
+![](/images/posts/800-o-bem-e-o-mal-O_20bem_20o_20o_20mal.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pode até parecer contraditório, mas um dos gêneros
 cinematográficos que mais aborda a religião, seus dogmas e nuances é o terror.
 Seja na condução de exorcismos, enfrentamento a assombrações ou até mesmo para
 afastar criaturas sinistras, a crença em algo superior e benevolente entra em cena
@@ -45,4 +47,7 @@ em grandes proporções. Cabe a cada um, como sempre dizemos por aqui, fazer a
 sua escolha entre qual lado viver e servir: ao bem ou ao mal; as consequências
 virão a partir de uma vida vivida sob essa escolha (Apocalipse 22,12).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

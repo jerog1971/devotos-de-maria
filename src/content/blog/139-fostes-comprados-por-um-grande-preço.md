@@ -4,7 +4,8 @@ date: 2016-06-27T14:00:00Z
 heroImage: "/images/posts/139-fostes-comprados-por-um-grande-preço-templo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/139-fostes-comprados-por-um-grande-preço-templo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/139-fostes-comprados-por-um-grande-preço-templo.png" width="320" height="274" data-original-width="294" data-original-height="252" /></a></div>
+![](/images/posts/139-fostes-comprados-por-um-grande-preço-templo.png)
+
 </br>
 1ª Carta aos Coríntios 6,12-20</br>
 </br>

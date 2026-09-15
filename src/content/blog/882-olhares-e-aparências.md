@@ -4,7 +4,9 @@ date: 2022-12-02T10:59:00.006Z
 heroImage: "/images/posts/882-olhares-e-aparências-olhares_20e_20apar_C3_AAncias.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/882-olhares-e-aparências-olhares_20e_20apar_C3_AAncias.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="488" data-original-width="548" height="285" src="/images/posts/882-olhares-e-aparências-olhares_20e_20apar_C3_AAncias.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certo dia, uma mãe que estava na fila da escola, esperando o
+![](/images/posts/882-olhares-e-aparências-olhares_20e_20apar_C3_AAncias.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certo dia, uma mãe que estava na fila da escola, esperando o
 portão abrir para que as crianças fossem recolhidas e começasse o período
 escolar, se deparou com uma experiência não muito agradável; não sei, se o fato
 é corriqueiro, muito constante, mas que acontece, acontece. O filho, que estudava
@@ -37,4 +39,7 @@ Ele mesmo nos ensinou que devemos tratar os outros como gostaríamos de ser
 tratados. Que os impulsos e a falta de paciência e fé não permitam jamais que
 sejamos como essas pessoas da fila da escola.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p></div>
+
+<br /> 
+

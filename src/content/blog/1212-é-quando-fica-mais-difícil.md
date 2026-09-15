@@ -4,7 +4,9 @@ date: 2024-04-22T17:16:00.001Z
 heroImage: "/images/posts/1212-é-quando-fica-mais-difícil-_C3_A9_20quando_20fica_20mais_20dif_C3_ADcil.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1212-é-quando-fica-mais-difícil-_C3_A9_20quando_20fica_20mais_20dif_C3_ADcil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="433" data-original-width="596" height="232" src="/images/posts/1212-é-quando-fica-mais-difícil-_C3_A9_20quando_20fica_20mais_20dif_C3_ADcil.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vale o lembrete de quão é difícil caminhar por esta terra.
+![](/images/posts/1212-é-quando-fica-mais-difícil-_C3_A9_20quando_20fica_20mais_20dif_C3_ADcil.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vale o lembrete de quão é difícil caminhar por esta terra.
 Tão difícil também, algumas vezes, parece entender porque Deus que diz nos
 amar, permite tantas dificuldades pela vida. Seja lá como for, as coisas são
 assim mesmo e reclamar não vai mudar nada. Em Malaquias 6,7 lemos que “eu sou o
@@ -35,4 +37,7 @@ compromete fatalmente a caminhada rumo ao céu. Então, justamente quando ficar
 mais difícil é hora de lembrarmos de Hebreus 12,4: lutarmos até o sangue a
 batalha contra o pecado”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

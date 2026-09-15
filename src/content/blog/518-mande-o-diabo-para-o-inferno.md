@@ -4,7 +4,9 @@ date: 2023-09-29T20:01:00.003Z
 heroImage: "/images/posts/518-mande-o-diabo-para-o-inferno-anjo_20caido.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/518-mande-o-diabo-para-o-inferno-anjo_20caido.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="497" data-original-width="490" height="320" src="/images/posts/518-mande-o-diabo-para-o-inferno-anjo_20caido.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo, nada de amigar-se ao demônio. O próprio Cristo
+![](/images/posts/518-mande-o-diabo-para-o-inferno-anjo_20caido.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É isso mesmo, nada de amigar-se ao demônio. O próprio Cristo
 disse que não tem parte com ele, o príncipe do mundo; então, o que muitos
 querem fazer associando-se àquele que é oficialmente rejeitado pelo nosso
 salvador? Como é que você vai aderir ao plano B, o plano do diabo e ainda
@@ -34,4 +36,7 @@ sagrada seja a minha luz, que o dragão não seja o meu guia; sai de retro
 satanás, nunca me aconselhe coisas vãs. O mal que tu me ofereces, bebes o teu
 próprio veneno”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

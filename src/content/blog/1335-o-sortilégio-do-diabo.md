@@ -4,7 +4,8 @@ date: 2017-09-18T14:42:00Z
 heroImage: "/images/posts/1335-o-sortilégio-do-diabo-dengoso_e_zangado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1335-o-sortilégio-do-diabo-dengoso_e_zangado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1335-o-sortilégio-do-diabo-dengoso_e_zangado.png" width="320" height="262" data-original-width="547" data-original-height="448" /></a></div>
+![](/images/posts/1335-o-sortilégio-do-diabo-dengoso_e_zangado.png)
+
 Para aqueles que conhecem o desenho animado de longa metragem da Disney chamado Branca de Neve e os Sete Anões, faço-me aqui de um pequeno trecho dele para iniciar o tema que iremos refletir neste artigo. Quando os anões chegam em casa e encontram a princesa dormindo em suas camas, ao descobri-la o anão chamado Zangado disse, generalizando, que “as mulheres são falsas, cheias de sortilégio”. Então o anão chamado Dengoso perguntou: “o que é sortilégio?” E Zangado disse: “não sei, não interessa”.</br>
 </br>
 Pois bem, para nós católicos esse pensamento do personagem Zangado não deve ser adotado porque nos interessa e muito sabermos e conhecermos um pouco sobre o sortilégio. Devemos ser, ao contrário, analogicamente falando, como o anão que fez a pergunta. E detalhe, talvez zangado não soubesse direito explicar e por isso disse que não sabia, mas, ele acertou no que disse, vamos ver então.</br>

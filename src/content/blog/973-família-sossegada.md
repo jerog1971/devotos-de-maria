@@ -4,7 +4,9 @@ date: 2020-10-13T13:19:00.003Z
 heroImage: "/images/posts/973-família-sossegada-familia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/973-família-sossegada-familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="462" src="/images/posts/973-família-sossegada-familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que o diabo faz muito bem é não deixar a
+![](/images/posts/973-família-sossegada-familia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se tem uma coisa que o diabo faz muito bem é não deixar a
 família sossegada. Algo que o deixa furioso é uma família vivendo em harmonia,
 na fidelidade entre pais e filhos, marido e mulher, família e Deus. Nesse
 contexto, que já é repleto de adversidades – porque aprendemos quem tudo contribui
@@ -40,4 +42,7 @@ Pois bem, nosso sossego repousa na certeza de que uma vida bem vivida e pautada
 nos mandamentos e no evangelho, passando por tudo por amor a Deus, percorre a
 trilha deixada por Jesus, a trilha que nos conduz para a porta estreita.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

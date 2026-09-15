@@ -4,7 +4,9 @@ date: 2021-04-27T16:51:00.001Z
 heroImage: "/images/posts/119-bom-pastor-ou-mercenário-Bom_Pastor_ou_Mercen_25C3_25A1rio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/119-bom-pastor-ou-mercenário-Bom_Pastor_ou_Mercen_25C3_25A1rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1019" data-original-width="1215" src="/images/posts/119-bom-pastor-ou-mercenário-Bom_Pastor_ou_Mercen_25C3_25A1rio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo foi taxativo quanto a responsabilidade que os sacerdotes
+![](/images/posts/119-bom-pastor-ou-mercenário-Bom_Pastor_ou_Mercen_25C3_25A1rio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus Cristo foi taxativo quanto a responsabilidade que os sacerdotes
 possuem em relação aos filhos de Deus; dirigindo-se ao apóstolo São Pedro
 disse-lhe que se o ama então que apascente suas ovelhas (João 21,14-17). Pois
 bem, o chamado ao sacerdócio – uma vocação irrevogável (Romanos 11,29 – Os dons
@@ -45,4 +47,7 @@ alto, as coisas que não passam. Nosso agradecimento a Deus por colocar esse
 homem em nossas vidas e nosso reconhecimento e apreço cada vez mais crescente à
 sua pessoa, tão querida em nossas famílias.<o:p></o:p></p>
 
-<p class="MsoNormal">Artigo relacionado:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2020/08/sacerdotes-do-senhor.html" target="_blank">Sacerdotes do Senhor</a><br /></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Artigo relacionado:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2020/08/sacerdotes-do-senhor.html" target="_blank">Sacerdotes do Senhor</a><br /></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

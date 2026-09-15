@@ -4,7 +4,8 @@ date: 2018-08-13T15:30:00.001Z
 heroImage: "/images/posts/051-um-dia-todos-partem-com-o-que-tem-partida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/051-um-dia-todos-partem-com-o-que-tem-partida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/051-um-dia-todos-partem-com-o-que-tem-partida.png" width="320" height="310" data-original-width="376" data-original-height="364" /></a></div>
+![](/images/posts/051-um-dia-todos-partem-com-o-que-tem-partida.png)
+
 As sagradas escrituras, palavra de Deus, que contém o necessário para a salvação dos homens nos ensina que se praticarmos uma vida de imitação a Cristo (exercendo as boas obras – Apocalipse 22,12), numa atitude de constante perseverança, como recompensa no dia do juízo final, receberemos a coroa da glória eterna e seremos admitidos no Reino dos Céus.</br>
 </br>
 Quem acha que não, tudo bem, depois se entende com Deus; aos que tem fé (dom de Deus) e acreditam na eternidade do paraíso, sabem que a mesa está posta. Jesus, por conta disso, já alertou a todos que “de que adianta ao homem ganhar o mundo inteiro se vier a perder a sua alma”? Essa dura afirmação do ressuscitado simplesmente quer dizer que o vazio das coisas materiais, incapazes de preencher o coração e alma, em substituição a Deus, não serve para endossar nenhum tipo de mérito que nos permita entrar no Reino de Deus. Ainda que por qualquer mérito isso fosse possível, porque é pelo amor e pela misericórdia divina que as coisas acontecem.</br>

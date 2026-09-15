@@ -4,7 +4,9 @@ date: 2020-11-16T13:35:00.003Z
 heroImage: "/images/posts/400-quando-faltam-forças-faltam_for_25C3_25A7as.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/400-quando-faltam-forças-faltam_for_25C3_25A7as.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="538" data-original-width="508" height="320" src="/images/posts/400-quando-faltam-forças-faltam_for_25C3_25A7as.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano foi desejado, pensado e criado por Deus. Feito
+![](/images/posts/400-quando-faltam-forças-faltam_for_25C3_25A7as.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ser humano foi desejado, pensado e criado por Deus. Feito
 para ser dependente eternamente do seu criador. A fé cristã crê que o homem,
 feito a imagem e semelhança de Deus (Tiago 3,9), foi concebido para servi-lo e
 adora-lo (Salmos 85,9). Sem ele não pode nada e isso constitui, dependendo do
@@ -38,4 +40,7 @@ estado sete vezes pior (Lucas 11,24-26) do que quando começou sua vida de
 pecados “de estimação”. Há de se compreender porque fica difícil converter-se
 para Deus: querem faze-lo sem estender a mão para ele.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

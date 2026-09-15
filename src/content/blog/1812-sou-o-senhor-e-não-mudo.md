@@ -4,7 +4,8 @@ date: 2016-01-27T11:18:00Z
 heroImage: "/images/posts/1812-sou-o-senhor-e-não-mudo-deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1812-sou-o-senhor-e-não-mudo-deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1812-sou-o-senhor-e-não-mudo-deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
+![](/images/posts/1812-sou-o-senhor-e-não-mudo-deus.png)
+
 </br>
 Malaquias 3,6 – “Sou o Senhor e não mudo”. Pois é caros leitores, lá vamos nós. O ser humano está sempre a insistir que é dono de sua vida e livre para fazer o que quiser. Diz que a vida é curta e que é preciso aproveitá-la. Muitos também, em algum momento de suas vidas acabam passando pela tentação do desânimo. Alguns exemplos. “Me esforço tanto e a vida é tão difícil ao passo que aquela pessoa, que nem é tão boa, para ela tudo é tão fácil na vida... Ou ainda, aquela pessoa não passa dificuldades nenhuma e tudo se ajeita para ela enquanto que para mim as coisas não vão para frente... Nem precisamos continuar. A lista de exemplos ficaria muito grande. Já ouvimos e algumas vezes na vida até agimos assim.</br>
 </br>

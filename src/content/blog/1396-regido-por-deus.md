@@ -4,7 +4,8 @@ date: 2015-12-14T11:37:00Z
 heroImage: "/images/posts/1396-regido-por-deus-tabuleiro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1396-regido-por-deus-tabuleiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1396-regido-por-deus-tabuleiro.png" width="320" height="237" data-original-width="414" data-original-height="306" /></a></div>
+![](/images/posts/1396-regido-por-deus-tabuleiro.png)
+
 </br>
 Deuteronômio 18,10-13</br>
 </br>

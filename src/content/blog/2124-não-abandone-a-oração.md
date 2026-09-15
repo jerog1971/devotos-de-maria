@@ -4,7 +4,8 @@ date: 2016-07-20T11:00:00Z
 heroImage: "/images/posts/2124-não-abandone-a-oração-deus_me_livre.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2124-não-abandone-a-oração-deus_me_livre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2124-não-abandone-a-oração-deus_me_livre.png" width="320" height="281" data-original-width="576" data-original-height="506" /></a></div>
+![](/images/posts/2124-não-abandone-a-oração-deus_me_livre.png)
+
 </br>
 Por Santo Afonso de Ligório</br>
 </br>

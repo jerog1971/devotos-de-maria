@@ -4,7 +4,9 @@ date: 2020-09-04T15:10:00.004Z
 heroImage: "/images/posts/2006-as-comemorações-Anivers_25C3_25A1rio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2006-as-comemorações-Anivers_25C3_25A1rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="469" data-original-width="470" src="/images/posts/2006-as-comemorações-Anivers_25C3_25A1rio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lemos nas escrituras que Deus dá e tira quando lhe aprouve.
+![](/images/posts/2006-as-comemorações-Anivers_25C3_25A1rio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lemos nas escrituras que Deus dá e tira quando lhe aprouve.
 Isso nos serve para entendermos que é ele quem está no comando de nossa
 jornada. Não sabemos de quanto tempo dispomos; por isso importa o que fazemos
 com o tempo que nos é concedido. Ou acumulamos “pontos” ou “descréditos”.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -36,4 +38,7 @@ Deus) já que o amanhã cabe a Deus decidir se nos concede, alegremo-nos no
 Senhor, que nos dá o pão da vida eterna e abençoa aqueles que cumprem seus
 mandamentos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

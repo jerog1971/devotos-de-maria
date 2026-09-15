@@ -4,7 +4,8 @@ date: 2016-07-18T12:30:00.002Z
 heroImage: "/images/posts/1299-a-paciência-do-sagrado-coração-de-jesus-sagrado_cora_25C3_25A7_25C3_25A3o_de_jesus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1299-a-paciência-do-sagrado-coração-de-jesus-sagrado_cora_25C3_25A7_25C3_25A3o_de_jesus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1299-a-paciência-do-sagrado-coração-de-jesus-sagrado_cora_25C3_25A7_25C3_25A3o_de_jesus.png" width="320" height="285" data-original-width="586" data-original-height="522" /></a></div>
+![](/images/posts/1299-a-paciência-do-sagrado-coração-de-jesus-sagrado_cora_25C3_25A7_25C3_25A3o_de_jesus.png)
+
 Por Plínio Correia de Oliveira:</br>
 </br>
 O homem vale na medida de sua capacidade de sofrer</br>

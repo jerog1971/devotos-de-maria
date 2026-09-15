@@ -4,7 +4,8 @@ date: 2018-10-16T19:05:00.002Z
 heroImage: "/images/posts/252-tementes-a-deus-para-quê-tenta_25C3_25A7_25C3_25B5es.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/252-tementes-a-deus-para-quê-tenta_25C3_25A7_25C3_25B5es.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/252-tementes-a-deus-para-quê-tenta_25C3_25A7_25C3_25B5es.png" width="320" height="300" data-original-width="500" data-original-height="469" /></a></div>
+![](/images/posts/252-tementes-a-deus-para-quê-tenta_25C3_25A7_25C3_25B5es.png)
+
 A bíblia diz que o temor a Deus é o início da sabedoria. As pessoas têm medo de Deus, o Deus castigador, as pessoas têm medo de que Deus se afaste delas, as pessoas têm medo de ofender a Deus, as pessoas têm medo de entristece-lo.  Todos esses medos de uma certa maneira, possuem raiz no mesmo medo gerado no coração de Adão e Eva quando, desobedecendo a Deus, comeram do fruto proibido:</br>
 </br>
 Gênesis 3,9-10 – “Mas o Senhor Deus chamou o homem, e disse-lhe: “Onde estás?” E ele respondeu: “Ouvi o barulho dos vossos passos no jardim; tive medo, porque estou nu; e ocultei-me.”

@@ -4,7 +4,8 @@ date: 2016-07-08T15:07:00.001Z
 heroImage: "/images/posts/514-o-diabo-cada-vez-exige-mais-diabo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/514-o-diabo-cada-vez-exige-mais-diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/514-o-diabo-cada-vez-exige-mais-diabo.png" width="320" height="298" data-original-width="373" data-original-height="347" /></a></div>
+![](/images/posts/514-o-diabo-cada-vez-exige-mais-diabo.png)
+
 Essa é uma máxima na batalha que acontece na história da humanidade, no que se refere ao proceder do nosso inimigo número 01.</br>
 </br>
 O diabo cada vez exige mais e oferece menos. Já dizia o Padre Pio que, “quanto mais perto a alma está de Deus, maior é a tentação”. E nem poderia ser diferente. Com pouco raciocínio percebe-se facilmente que é exatamente isso que acontece. Na medida em que a pessoa vai se afundando numa vida de pecados, o vício a faz procurar por conta própria por tudo que é contrário a amizade de Deus. De pecadinhos que eram aparentemente inofensivos, porque estavam camuflados pelo inimigo, acabam por abraçarem e praticarem pecados de alta gravidade e deste ponto em diante, para cometerem pecados contra o Espírito Santo é questão de tempo.</br>

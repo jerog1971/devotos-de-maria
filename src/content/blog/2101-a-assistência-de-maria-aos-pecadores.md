@@ -4,7 +4,8 @@ date: 2020-04-18T17:07:00.002Z
 heroImage: "/images/posts/2101-a-assistência-de-maria-aos-pecadore-Virgem_Maria.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2101-a-assistência-de-maria-aos-pecadore-Virgem_Maria.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2101-a-assistência-de-maria-aos-pecadore-Virgem_Maria.png" width="231" height="320" data-original-width="233" data-original-height="323" /></a></div>
+![](/images/posts/2101-a-assistência-de-maria-aos-pecadore-Virgem_Maria.png)
+
 São Boaventura anima os pecadores nestes termos:</br>
 </br>
 Que deves fazer, se por causa de teus pecados temes a vingança de Deus? Vai, recorre a Maria, que é a esperança dos pecadores.</br>

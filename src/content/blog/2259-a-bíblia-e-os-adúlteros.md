@@ -4,7 +4,9 @@ date: 2020-12-22T18:22:00Z
 heroImage: "/images/posts/2259-a-bíblia-e-os-adúlteros-adulteros.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2259-a-bíblia-e-os-adúlteros-adulteros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="520" src="/images/posts/2259-a-bíblia-e-os-adúlteros-adulteros.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Vamos dar uma passadinha pelas sagradas escrituras para vermos
+![](/images/posts/2259-a-bíblia-e-os-adúlteros-adulteros.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Vamos dar uma passadinha pelas sagradas escrituras para vermos
 o que Deus fala a seu povo com relação aos adúlteros? Pois bem, em rápida
 pesquisa encontraremos nove livros da bíblia tratando sobre o assunto, vamos
 acompanhar.<o:p></o:p></p>
@@ -72,4 +74,4 @@ assaltantes hão de possuir o Reino de Deus”.<o:p></o:p></p>
 
 <p class="MsoNormal">Como podemos ver, não é bom negócio ser um adúltero!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><br /> 

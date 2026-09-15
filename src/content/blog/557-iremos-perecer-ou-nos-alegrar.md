@@ -4,7 +4,9 @@ date: 2022-11-04T15:59:00.001Z
 heroImage: "/images/posts/557-iremos-perecer-ou-nos-alegrar-img-1853083925.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/557-iremos-perecer-ou-nos-alegrar-img-1853083925.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="228" data-original-width="397" height="184" src="/images/posts/557-iremos-perecer-ou-nos-alegrar-img-129284597.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sem dúvida uma das passagens mais agradáveis de se ler na bíblia
+![](/images/posts/557-iremos-perecer-ou-nos-alegrar-img-129284597.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sem dúvida uma das passagens mais agradáveis de se ler na bíblia
 está escrita em Lucas 9,23: “quem quiser se salvar, renuncie a si mesmo, tome
 sua cruz dia após dia e me siga”. Nestes dizeres maravilhosos de Jesus Cristo
 repousa o núcleo do comportamento necessário para se chegar um dia no céu. Para
@@ -40,4 +42,7 @@ vidas e depois da experiência da morte seremos enviados para o destino eterno
 onde, por alguns anos de vida terrena, pereceremos para sempre ou nos
 alegraremos para sempre.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-04-19T11:57:00.001Z
 heroImage: "/images/posts/1591-sonhos-humanos-e-sonhos-divinos-sonhos_humanos_e_sonhos_divinos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1591-sonhos-humanos-e-sonhos-divinos-sonhos_humanos_e_sonhos_divinos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="710" src="/images/posts/1591-sonhos-humanos-e-sonhos-divinos-sonhos_humanos_e_sonhos_divinos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jeremias 29,8-9 – “Pois assim disse o Senhor dos exércitos,
+![](/images/posts/1591-sonhos-humanos-e-sonhos-divinos-sonhos_humanos_e_sonhos_divinos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jeremias 29,8-9 – “Pois assim disse o Senhor dos exércitos,
 Deus de Israel: Não vos deixeis engodar pelos profetas que se acham entre vós,
 nem pelos adivinhos. Não escuteis os sonhos que anunciam. Porquanto esses
 homens mentem, pretendendo pronunciar oráculos em meu nome. Não lhes outorguei
@@ -53,4 +55,7 @@ homem fiel”.<o:p></o:p></p>
 sem estar com os pés no chão e o coração preenchido pela Santíssima Trindade e
 a mente focada para o céu, pode incutir em risco de salvação de nossas almas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

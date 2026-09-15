@@ -4,7 +4,8 @@ date: 2019-12-30T17:15:00.001Z
 heroImage: "/images/posts/2076-promessas-e-propósitos-outra-vez-em-exame_de_consci_25C3_25AAncia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2076-promessas-e-propósitos-outra-vez-em-exame_de_consci_25C3_25AAncia.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="234" data-original-width="288" height="260" src="/images/posts/2076-promessas-e-propósitos-outra-vez-em-exame_de_consci_25C3_25AAncia.png" width="320" /></a></div>
+![](/images/posts/2076-promessas-e-propósitos-outra-vez-em-exame_de_consci_25C3_25AAncia.png)
+
 Caros leitores, lá vamos nós ou nem isso; a história se repete, o calendário romano indica que este ano de 2019 está com suas horas contadas. Se Deus quiser (agora são 14h05min), ele nos concederá mais uma passagem de ano, ingressaremos em 2020. Aquele exame de consciência que o cristão é convidado a fazer três vezes ao dia, todos os dias, serve em uma oportunidade como esta (fim de ano), para ser feita de forma macro.
 
 Como pessoa, melhoramos em relação ao ano passado (2018)? Propusemos-nos metas e objetivos e eles foram alcançados? Estamos numa condição mais próxima de Deus ou não? Estagnados? Regredimos? Avançamos? Se a morte nos colher nos próximos instantes como estamos para encarar o justo juiz, Nosso Senhor Jesus Cristo? Perguntas necessárias, sobretudo em tempos de festas e comemorações onde muitos esquecem na maioria das vezes, de convidarem Jesus para sentar-se ao banquete de suas casas.

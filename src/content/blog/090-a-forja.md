@@ -4,7 +4,9 @@ date: 2024-08-22T18:30:00.004Z
 heroImage: "/images/posts/090-a-forja-A_20forja.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/090-a-forja-A_20forja.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="395" data-original-width="324" height="320" src="/images/posts/090-a-forja-A_20forja.png" width="262" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lá vamos nós para mais uma experiência promovida pelos
+![](/images/posts/090-a-forja-A_20forja.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lá vamos nós para mais uma experiência promovida pelos
 irmãos Kendrick. Desta vez o novo filme a ser lançado, ainda com previsão para
 este ano aqui no Brasil, retratará o poder da transformação que Deus infunde na
 vida das pessoas. Sinopses distribuídas pela internet já nos dão uma ideia do
@@ -35,4 +37,7 @@ vidas? Acaso existe algum efeito especial nelas? Como nos filmes não, mas, ao
 contrário, os melhores efeitos que podemos sentir dentro da alma e do coração,
 são aqueles que provém de Deus: muito mais que especiais.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-09-17T15:59:00.003Z
 heroImage: "/images/posts/2040-a-matança-na-bíblia-img-1957548559.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2040-a-matança-na-bíblia-img-1957548559.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="581" height="242" src="/images/posts/2040-a-matança-na-bíblia-img-549142028.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Como consequência a reflexão feita no artigo <a href="https://www.devotos-de-maria.com.br/2021/09/injusticas-de-deus.html" target="_blank">"Injustiças de Deus?"</a>, transcrevo aqui na íntegra a pregação do Frei Capuchinho Inácio
+![](/images/posts/2040-a-matança-na-bíblia-img-549142028.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Como consequência a reflexão feita no artigo <a href="https://www.devotos-de-maria.com.br/2021/09/injusticas-de-deus.html" target="_blank">"Injustiças de Deus?"</a>, transcrevo aqui na íntegra a pregação do Frei Capuchinho Inácio
 Cantalamessa – feita numa sexta-feira santa – para complementar o ponto de
 vista abordado anteriormente:<o:p></o:p></p><div class="separator" style="clear: both;">
 
@@ -47,4 +49,7 @@ autoridade. Fazer isto significa retroceder na ideia de Deus a estágios
 primitivos e grosseiros, superados pela consciência religiosa e civil da
 humanidade”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

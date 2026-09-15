@@ -4,7 +4,9 @@ date: 2021-02-08T10:48:00.004Z
 heroImage: "/images/posts/1824-funcionários-da-igreja-funcionario_da_igreja.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1824-funcionários-da-igreja-funcionario_da_igreja.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="311" data-original-width="340" src="/images/posts/1824-funcionários-da-igreja-funcionario_da_igreja.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De tempos em tempos o povo de Deus é obrigado a ouvir barbaridades
+![](/images/posts/1824-funcionários-da-igreja-funcionario_da_igreja.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">De tempos em tempos o povo de Deus é obrigado a ouvir barbaridades
 e heresias do clero que pensa ser funcionário da igreja, obediente ao seu
 superior (o bispo e o Papa). Defendem acima de tudo – e isso inclui o evangelho
 de nosso senhor Jesus Cristo – o que a igreja diz, mesmo que isso seja
@@ -49,4 +51,7 @@ também: “Senhor, perdoai-lhes, porque não sabem o que fazem”. Ademais, em
 Isaías 3 aprendemos que se vemos alguém cometer um erro e não apontamos para o
 erro, denunciando, seremos julgados por omissão. Também aprendemos em Atos 5,29 que devemos antes obedecer a Deus que aos homens. Ora, se o primeiro Papa (já que gostam de colocar assim), disse isso, foi Pedro quem disse, porque que agora falam em obediência ao Papa acima de Deus? Gálatas 1,10 condena isso dizendo que quem quer agradar primeiro aos homens que a Deus não é servo do altíssimo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

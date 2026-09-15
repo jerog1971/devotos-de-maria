@@ -4,7 +4,9 @@ date: 2020-10-05T13:28:00.003Z
 heroImage: "/images/posts/516-malvados-e-maldosos-malvados.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/516-malvados-e-maldosos-malvados.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="656" data-original-width="648" height="320" src="/images/posts/516-malvados-e-maldosos-malvados.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Faço o mal que não aprovo, nos diz São Paulo em sua carta. A
+![](/images/posts/516-malvados-e-maldosos-malvados.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Faço o mal que não aprovo, nos diz São Paulo em sua carta. A
 concupiscência nos alicia e nos conduz ao pecado, nos diz São Tiago em sua
 carta. Também nos diz que Deus não tenta ninguém. E os apóstolos continuam no recordando
 que a cruz não está além de nossas forças. Por que então fazemos maldades e
@@ -40,4 +42,7 @@ oferece-lhe também a outra”. Mateus 6,14-15 – “se perdoardes aos homens a
 ofensas, vosso Pai celeste também vos perdoará. Mas se não perdoardes aos
 homens, tampouco vosso Pai vos perdoará”. Não temos desculpa, estamos avisados.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

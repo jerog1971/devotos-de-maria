@@ -4,7 +4,9 @@ date: 2022-07-14T20:29:00.004Z
 heroImage: "/images/posts/573-você-já-fez-o-bem-hoje-img-1147445823.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/573-você-já-fez-o-bem-hoje-img-1147445823.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="427" data-original-width="419" height="320" src="/images/posts/573-você-já-fez-o-bem-hoje-img-1104113913.png" width="314" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De alguma maneira, fez a diferença na vida de alguém? Rezou
+![](/images/posts/573-você-já-fez-o-bem-hoje-img-1104113913.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">De alguma maneira, fez a diferença na vida de alguém? Rezou
 por alguém, deixou as tribulações do mundo de lado e se preocupou com o que
 vale à pena? Senão fez isso, saiba que está deixando de seguir uma exortação de
 Jesus Cristo, pois, foi ele mesmo que disse, quanto a oração: “amai vossos
@@ -29,4 +31,7 @@ renúncia diária que devemos fazer de nós por inteiro, no ser e no ter. Tarefa
 das mais difíceis, mas, ninguém soube da boca do ressuscitado que a entrada no
 paraíso seria nos concedida facilmente, de bandeja (Mateus 11,12).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

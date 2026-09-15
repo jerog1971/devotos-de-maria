@@ -4,7 +4,8 @@ date: 2017-05-19T13:50:00.001Z
 heroImage: "/images/posts/1794-a-importância-dos-testemunhos-testemunho2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1794-a-importância-dos-testemunhos-testemunho2.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="351" data-original-width="356" height="316" src="/images/posts/1794-a-importância-dos-testemunhos-testemunho2.png" width="320" /></a></div>
+![](/images/posts/1794-a-importância-dos-testemunhos-testemunho2.png)
+
 Tessalonicenses 1,10-11 – “Naquele dia [no dia juízo] ele virá e será a glória dos seus santos e a admiração de todos os fiéis, e vossa também, porque crestes no testemunho que vos demos. Nesta esperança suplicamos incessantemente por vós, para que nosso Deus vos faça dignos da vossa vocação e que leve eficazmente a bom termo todo o vosso zelo pelo bem e a atividade de vossa fé.”
 
 2ª Coríntios 1,12 – “A razão da nossa glória é esta: o testemunho da nossa consciência de que, no mundo e particularmente entre vós, temos agido com santidade e sinceridade diante de Deus, não conforme o espírito de sabedoria do mundo, mas com o socorro da graça de Deus.”
@@ -21,6 +22,5 @@ E como sabemos que a coisa está andando para frente? Quando conseguimos ouvir, 
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2017/05/as-sete-coisas-que-deus-odeia.html" target="_blank">As sete coisas que Deus odeia</a>
-
 
 fonte: Jefferson Roger

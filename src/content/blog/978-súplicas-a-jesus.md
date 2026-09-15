@@ -4,7 +4,9 @@ date: 2023-07-25T16:52:00Z
 heroImage: "/images/posts/978-súplicas-a-jesus-ClaradeMontefalco2.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/978-súplicas-a-jesus-ClaradeMontefalco2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="204" height="300" src="/images/posts/978-súplicas-a-jesus-ClaradeMontefalco2.png" width="204" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Para que o Senhor Jesus se digne proteger nossas almas
+![](/images/posts/978-súplicas-a-jesus-ClaradeMontefalco2.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Para que o Senhor Jesus se digne proteger nossas almas
 contra as ciladas e tentações de Satanás e seus demônios” – este é um trecho de
 uma oração chamada terço de São Miguel, um dos arcanjos. Tal é a importância
 deste pedido que, no terço de nove partes, por duas vezes o encontramos: na
@@ -39,4 +41,7 @@ vivemos por Cristo, com Cristo e em Cristo ou... ou... abraçados a tudo que é
 contrário a Deus. Essa escolha resultará na forma como viveremos a segunda parte
 de nossa vida que, lembremos: é eterna.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

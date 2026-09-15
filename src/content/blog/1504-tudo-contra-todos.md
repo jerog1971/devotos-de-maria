@@ -4,7 +4,9 @@ date: 2022-01-16T15:02:00.002Z
 heroImage: "/images/posts/1504-tudo-contra-todos-AVvXsEitx9nqCqHUnDPlg21_Z7Lstt39ALX2nOhY3Cq3mo2HbfqIk0zpOwpl38S3PjNfzMjAHNKeOW9zfUJ_ztJFG4KD8CUdzWEwAP86EZoc7juQBf390LVgw2xj6bsZwL3wLdeLkw8gSXTj--HyKnfLSYc-3zV-CEYnEEjlHytqNJhIOAdx4ecl3wMYcZwO_s394.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1504-tudo-contra-todos-AVvXsEitx9nqCqHUnDPlg21_Z7Lstt39ALX2nOhY3Cq3mo2HbfqIk0zpOwpl38S3PjNfzMjAHNKeOW9zfUJ_ztJFG4KD8CUdzWEwAP86EZoc7juQBf390LVgw2xj6bsZwL3wLdeLkw8gSXTj--HyKnfLSYc-3zV-CEYnEEjlHytqNJhIOAdx4ecl3wMYcZwO_s394.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="389" height="320" src="/images/posts/1504-tudo-contra-todos-AVvXsEitx9nqCqHUnDPlg21_Z7Lstt39ALX2nOhY3Cq3mo2HbfqIk0zpOwpl38S3PjNfzMjAHNKeOW9zfUJ_ztJFG4KD8CUdzWEwAP86EZoc7juQBf390LVgw2xj6bsZwL3wLdeLkw8gSXTj--HyKnfLSYc-3zV-CEYnEEjlHytqNJhIOAdx4ecl3wMYcZwO_s320.jpg" width="316" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na imensidão de nossas curtas e passageiras vidas muitas
+![](/images/posts/1504-tudo-contra-todos-AVvXsEitx9nqCqHUnDPlg21_Z7Lstt39ALX2nOhY3Cq3mo2HbfqIk0zpOwpl38S3PjNfzMjAHNKeOW9zfUJ_ztJFG4KD8CUdzWEwAP86EZoc7juQBf390LVgw2xj6bsZwL3wLdeLkw8gSXTj--HyKnfLSYc-3zV-CEYnEEjlHytqNJhIOAdx4ecl3wMYcZwO_s320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na imensidão de nossas curtas e passageiras vidas muitas
 vezes nos sentimos como um grão de areia a beira mar. Insignificantes ao ponto
 de com isso deduzirmos que esta é uma das razões porque Deus parece nos deixar
 de lado e permitir que a avalanche de ofertas do mundo soterre nossos corações
@@ -43,4 +45,7 @@ pela justiça para a vida eterna, por meio de Jesus Cristo, nosso Senhor”. E
 assim, caro leitor, se tudo é contra todos, Jesus Cristo foi e é tudo para
 todos, basta acolhe-lo em nossas vidas e viver o seu evangelho.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

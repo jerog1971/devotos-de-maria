@@ -4,7 +4,9 @@ date: 2024-07-31T18:31:00.005Z
 heroImage: "/images/posts/2170-pequenas-confirmações-img-390390257.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2170-pequenas-confirmações-img-390390257.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="421" data-original-width="492" height="274" src="/images/posts/2170-pequenas-confirmações-img-1749511795.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De tempos em tempos, por conta da fraqueza humana em sua
+![](/images/posts/2170-pequenas-confirmações-img-1749511795.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">De tempos em tempos, por conta da fraqueza humana em sua
 tentativa de agradar a Deus, nos perguntamos se nosso esforço está surtindo algum
 efeito. Os anos vão passando e vamos levantando das quedas e dificuldades da vida
 e, calejados pelas provações, é natural o ser humano se perguntar se está a
@@ -35,6 +37,9 @@ que o senhor foi um dos melhores professores que já tive, e que me ajudou muito
 no período que pude ter aula contigo. Sinto e sentirei muitas saudades, saiba
 que não irei esquecê-lo, nem seus ensinamentos. O senhor é um excelente
 professor e uma inspiração como pessoa. Te desejo tudo de melhor em sua vida,
-que seja muito feliz e tenha muito sucesso. Abraço!&nbsp;Analívia.”<o:p></o:p></p>
+que seja muito feliz e tenha muito sucesso. Abraço! Analívia.”<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

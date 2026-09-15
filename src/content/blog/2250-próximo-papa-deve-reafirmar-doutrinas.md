@@ -4,9 +4,9 @@ date: 2025-05-08T18:42:00.001Z
 heroImage: "/images/posts/2250-próximo-papa-deve-reafirmar-doutrin-Schneider.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2250-próximo-papa-deve-reafirmar-doutrin-Schneider.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="478" data-original-width="487" height="314" src="/images/posts/2250-próximo-papa-deve-reafirmar-doutrin-Schneider.png" width="320" /></a></div><p></p><p>
+![](/images/posts/2250-próximo-papa-deve-reafirmar-doutrin-Schneider.png)
 
-</p><p class="MsoNormal">De acordo com Monsenhor Schneider, o próximo pontífice terá
+<p class="MsoNormal">De acordo com Monsenhor Schneider, o próximo pontífice terá
 que esclarecer a doutrina católica sobre "as questões que causaram mais
 confusão" nos últimos anos, especialmente em questões de moralidade
 sexual, casamento, masculinidade do clero e relativismo.</p>
@@ -56,4 +56,7 @@ perguntas que mais distorcem a Revelação divina hoje. É isso que o Papa [rec�
 deve fazer", concluiu Monsenhor Schneider.</p>
 
 <p class="MsoNormal">Fonte: Adelante La Fe adaptada para este site por Jefferson
-Roger</p><p><br />&nbsp;</p>
+Roger</p>
+
+<br /> 
+

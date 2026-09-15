@@ -4,7 +4,11 @@ date: 2020-06-04T16:27:00Z
 heroImage: "/images/posts/644-santo-optato-de-mileva-santos.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/644-santo-optato-de-mileva-santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="/images/posts/644-santo-optato-de-mileva-santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em Hebreus 6,12 lemos que devemos ser imitadores daqueles
+<br />
+
+![](/images/posts/644-santo-optato-de-mileva-santos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Em Hebreus 6,12 lemos que devemos ser imitadores daqueles
 que pela fé e paciência se tornaram herdeiros das promessas de Cristo. Nossa
 Senhora referindo-se a esta passagem bíblica diz que devemos ser imitadores dos
 santos. Pois bem, a igreja elevou e ainda eleva muitas pessoas às honras dos

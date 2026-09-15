@@ -4,7 +4,9 @@ date: 2021-08-05T15:54:00.004Z
 heroImage: "/images/posts/006-o-aliciamento-e-o-diabo-aliciamento_do_diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/006-o-aliciamento-e-o-diabo-aliciamento_do_diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="549" data-original-width="548" height="320" src="/images/posts/006-o-aliciamento-e-o-diabo-aliciamento_do_diabo.png" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A alma tem sabidamente três inimigos: o mundo, o diabo e a
+![](/images/posts/006-o-aliciamento-e-o-diabo-aliciamento_do_diabo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A alma tem sabidamente três inimigos: o mundo, o diabo e a
 concupiscência do corpo; relacionado a esta última lemos o seguinte ensinamento
 do apóstolo: Tiago 1,12-25 – “Feliz o homem que suporta a tentação. Porque,
 depois de sofrer a provação, receberá a coroa da vida que Deus prometeu aos que
@@ -32,4 +34,7 @@ deu: contempla-se e, mal sai dali, esquece-se de como era.<o:p></o:p></p>
 liberdade e nela persevera - não como ouvinte que facilmente se esquece, mas
 como cumpridor fiel do preceito -, este será feliz no seu proceder”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

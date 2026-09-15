@@ -4,7 +4,9 @@ date: 2022-06-23T16:26:00.002Z
 heroImage: "/images/posts/1848-a-vida-dos-porquês-a_20vida_20dos_20porqu_C3_AAs.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1848-a-vida-dos-porquês-a_20vida_20dos_20porqu_C3_AAs.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="759" data-original-width="741" height="320" src="/images/posts/1848-a-vida-dos-porquês-a_20vida_20dos_20porqu_C3_AAs.png" width="312" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é assim que muitas vezes a vida nos parece? Repleta de
+![](/images/posts/1848-a-vida-dos-porquês-a_20vida_20dos_20porqu_C3_AAs.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não é assim que muitas vezes a vida nos parece? Repleta de
 situações que precisamos entender porque estamos passando por elas?. Tudo é
 muito complexo e no final das contas, interligado. Como estamos vivendo está
 relacionado ao porque das coisas. Há quem adote este ou aquele estilo de vida; há
@@ -33,4 +35,7 @@ palavra, pois, o criador mesmo nos disse que o que não nos foi revelado é
 porque não é necessário e não é de nossa conta. Não precisamos dessa revelação
 para ir ao céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

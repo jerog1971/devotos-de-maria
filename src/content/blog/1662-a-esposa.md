@@ -4,7 +4,9 @@ date: 2024-09-04T21:27:00.004Z
 heroImage: "/images/posts/1662-a-esposa-A_20esposa.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1662-a-esposa-A_20esposa.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="563" data-original-width="480" height="320" src="/images/posts/1662-a-esposa-A_20esposa.jpg" width="273" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;Vira e mexe falo sobre a família, sobre as famílias de um modo
+![](/images/posts/1662-a-esposa-A_20esposa.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 100%; margin-bottom: 0cm;"> Vira e mexe falo sobre a família, sobre as famílias de um modo
 geral e também sobre a minha. Este site tem como um dos principais
 assuntos a família. Afinal, a realidade da família sempre foi
 querida e desejada por Deus. Falo aqui da família com origem divina,
@@ -45,4 +47,7 @@ Deus dentro da família são ingredientes indispensáveis.</p>
 
 </p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

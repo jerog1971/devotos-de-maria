@@ -4,7 +4,11 @@ date: 2020-06-17T17:03:00.002Z
 heroImage: "/images/posts/2066-são-bessário-S_25C3_25A3o_Bess_25C3_25A1rio.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2066-são-bessário-S_25C3_25A3o_Bess_25C3_25A1rio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="398" src="/images/posts/2066-são-bessário-S_25C3_25A3o_Bess_25C3_25A1rio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Era egípcio e viveu no século IV. Segundo a tradição foi
+<br />
+
+![](/images/posts/2066-são-bessário-S_25C3_25A3o_Bess_25C3_25A1rio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Era egípcio e viveu no século IV. Segundo a tradição foi
 discípulo de Santo Antonio e de São Macário de Sceta. Nada possuía de seu, a
 não ser um evangeliário, o livro dos evangelhos. Conta-se que, um dia, São
 Bessário encontrou o cadáver de um homem completamente nu. Desfez-se de seu

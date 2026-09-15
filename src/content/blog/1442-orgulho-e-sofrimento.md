@@ -4,7 +4,8 @@ date: 2016-09-12T20:41:00Z
 heroImage: "/images/posts/1442-orgulho-e-sofrimento-orgulho.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1442-orgulho-e-sofrimento-orgulho.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1442-orgulho-e-sofrimento-orgulho.png" width="315" height="320" data-original-width="471" data-original-height="478" /></a></div>
+![](/images/posts/1442-orgulho-e-sofrimento-orgulho.png)
+
 Eu tenho uma pergunta: porque Deus quer que a gente se humilhe? Eu quero ser feliz, quero uma vida boa, de abundância, de amor. Quero que todo mundo seja feliz e eu também! Porque sempre dizem que a gente tem que se humilhar diante de Deus? Deus fez a gente para sofrer? Por quê?</br>
 </br>
 Queridos leitores, essa é uma pergunta feita por um leitor anônimo em um site de apostolado católico aqui no Brasil chamado "o fiel católico". Percebemos que a pergunta em si possui um recheio de questões que pela sua pertinência resolvi transcrever aqui porque são desejos e anseios que se ouve em muitas pessoas.</br>

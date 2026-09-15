@@ -4,7 +4,9 @@ date: 2022-10-11T15:20:00.001Z
 heroImage: "/images/posts/900-eles-estão-de-volta-eles_20est_C3_A3o_20de_20volta.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/900-eles-estão-de-volta-eles_20est_C3_A3o_20de_20volta.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="469" data-original-width="470" height="319" src="/images/posts/900-eles-estão-de-volta-eles_20est_C3_A3o_20de_20volta.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sempre a mesma história; vira e mexe o leão volta a sentir
+![](/images/posts/900-eles-estão-de-volta-eles_20est_C3_A3o_20de_20volta.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É sempre a mesma história; vira e mexe o leão volta a sentir
 fome. O que faz o leão? Vai caçar, precisa abater mais uma presa e saciar o seu
 apetite. Escolhe a presa, observa seus hábitos, suas fraquezas e aguarda o
 momento oportuno para, de um só bote, lograr êxito em sua campanha. Depois,
@@ -40,4 +42,7 @@ pois, eles sempre estão de volta. Na próxima curva de nossas vidas, na próxim
 esquina, na retaguarda, onde menos esperamos, o convite do mal e suas tentativas
 de nos abater nos espreitam; ele quer apagar a nossa luz.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

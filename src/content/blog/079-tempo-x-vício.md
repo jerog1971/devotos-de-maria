@@ -4,7 +4,8 @@ date: 2016-07-05T13:43:00.001Z
 heroImage: "/images/posts/079-tempo-x-vício-vicio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/079-tempo-x-vício-vicio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/079-tempo-x-vício-vicio.png" width="320" height="182" data-original-width="539" data-original-height="306" /></a></div>
+![](/images/posts/079-tempo-x-vício-vicio.png)
+
 Livro dos Provérbios 4,12 - a fascinação do vício atira um véu sobre a beleza moral, e o movimento das paixões mina uma alma ingênua.</br>
 </br>
 Com este versículo das sagradas escrituras iremos refletir um pouco sobre a questão dos vícios com uma abordagem prioritariamente católico religiosa, com algumas pitadas de outras frentes comportamentais. Vamos lá, de cara podemos perceber que o vício apresenta em sua tentação, segundo o provérbio acima, algum ingrediente que fascina a pessoa. Afinal sempre é preciso que o inimigo, para vender o seu peixe, apresente em pratos saborosos e muito coloridos, todo o seu veneno. E não é só isso. O diabo insiste em suas mentiras afirmando que veneno não mata mais, isso é coisa que Jesus inventou para te tirar a liberdade de fazer tudo aquilo que te dá vontade. Pena que tem dado certo e muitos tem acreditado nisso.</br>
@@ -15,7 +16,10 @@ Quimicamente falando, já é sabido através de estudos científicos a respeito 
 </br>
 Assim sendo, a correta leitura que eu falava a pouco, é o fato do corpo cortar, bloquear a emissão da dopamina porque ele, nosso corpo sabiamente projetado por Deus, percebeu o desequilíbrio e sabe que isso irá prejudicar toda a natureza do ser. Então ele bloqueia a emissão da substância e manda o aviso para a central: nosso cérebro.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/079-tempo-x-vício-vicio2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/079-tempo-x-vício-vicio2.png" width="200" height="152" data-original-width="685" data-original-height="520" /></a></div>v>
+
+![](/images/posts/079-tempo-x-vício-vicio2.png)
+
+v>
 Começa então a batalha. O viciado é um pequeno Davi, indefeso com suas boleadeiras a ter que enfrentar um gigante que, rapidamente ultrapassou muitos metros de altura. E como todo vício, ao causar desequilíbrio intoxica corpo, mente, alma e coração, o caminho inverso precisa passar por uma desintoxicação. E esta desintoxicação passa, primeiramente e prioritariamente por uma conversão a Deus. Afinal, neste ponto já se percebe também que o vício, seja pelo sexo, drogas, jogos, está a fazer aquilo que mais sabe; roubar nosso tempo e tempo é algo que não se recupera mais.</br>
 </br>
 Há quem insista que são realidades diferentes e separadas que precisam ser tratadas de modo específico. Mas eu discordo plenamente e acho que todo católico apostólico romano que se preza e honra sua condição de filho de Deus deveria discordar também. Haja vista na oração do sacramento da unção dos enfermos o sacerdote pronunciar a frase: “Jesus Cristo, médico do corpo e da alma”, e no livro Confissões de Santo Agostinho se diz: “Tu és o médico, eu sou o enfermo; tu és a misericórdia, eu sou a miséria”.</br>

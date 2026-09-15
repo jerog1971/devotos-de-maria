@@ -4,7 +4,8 @@ date: 2018-08-22T17:20:00.001Z
 heroImage: "/images/posts/1005-deus-quer-que-você-sofra-sofrer.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1005-deus-quer-que-você-sofra-sofrer.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1005-deus-quer-que-você-sofra-sofrer.png" width="320" height="315" data-original-width="441" data-original-height="434" /></a></div>
+![](/images/posts/1005-deus-quer-que-você-sofra-sofrer.png)
+
 E disso não podemos ter dúvida alguma, se olharmos para a história da religião católica, começando por Jesus, ou até antes, desde os culpados, Adão e Eva, iremos ver que não existe “isenção” para ninguém. Como se sabe a “dor é filha do amor”. Eis uma grande dificuldade para muitas pessoas, senão para a maioria. Como entender que o amor produz como fruto a dor, o sofrimento? Pois bem, produz mesmo. Percebemos que o amor admite a dor junto dele porque sabe que ela é resultado direto do que esse sentimento pode fazer na vida de uma pessoa. Vamos entender.</br>
 </br>
 Se perguntarmos para um jovem para ele se lembrar de uma pessoa que ele tem certeza de que o ama de verdade, muito provavelmente, a grande maioria irá se lembrar da mãe, e não do namoradinho ou namoradinha com o qual cometem seus pecados. E por que? Porque são nos momentos de maiores dificuldades e sofrimentos de nossas vidas que as pessoas que mais gostam de nós estão ao nosso lado. Aqueles que não gostam de nós neste nível, afastam-se porque só querem de nós o melhor, o pior deixam para os outros.</br>

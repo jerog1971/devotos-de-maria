@@ -4,7 +4,8 @@ date: 2016-02-05T13:09:00Z
 heroImage: "/images/posts/835-até-que-enfim-sertanejo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/835-até-que-enfim-sertanejo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/835-até-que-enfim-sertanejo.png" width="320" height="201" data-original-width="626" data-original-height="393" /></a></div>
+![](/images/posts/835-até-que-enfim-sertanejo.png)
+
 </br>
 Padre Alessandro Campos pede demissão da TV Aparecida minutos antes do especial de Natal. Desde o dia 22/12/2015, padre Alessandro Campos não faz mais parte do quadro de apresentadores da TV Aparecida, emissora católica ligada ao Santuário Nacional de Nossa Senhora Aparecida, padroeira do Brasil.</br>
 </br>

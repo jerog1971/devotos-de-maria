@@ -4,7 +4,8 @@ date: 2019-06-12T15:29:00.003Z
 heroImage: "/images/posts/563-saia-da-caverna-the_cave.jpeg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/563-saia-da-caverna-the_cave.jpeg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/563-saia-da-caverna-the_cave.jpeg" width="320" height="180" data-original-width="1600" data-original-height="900" /></a></div>
+![](/images/posts/563-saia-da-caverna-the_cave.jpeg)
+
 Caros leitores, o título deste artigo será abordado aqui em duas vertentes, uma ruim e outra boa, pois, o objetivo mais uma vez por aqui é ressaltar que sempre temos que fazer uma escolha. Reclama da rotina que é a vida quem não para por um instante se quer para refletir na imensidão das escolhas que fazemos ao longo do dia, da semana, do mês, do ano e da vida.</br>
 </br>
 Mexa-se, decida-se, saia de cima de muro, tome jeito, cresça, deixe as criancices de lado, tudo não gira em torno do seu umbigo, a vida não é só o seu mundinho. Não somos o sol do universo, arrogância e soberba para quê? Para cavar nossa própria sepultura e selar nossa própria ruína.</br>

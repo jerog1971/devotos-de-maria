@@ -4,7 +4,9 @@ date: 2021-08-12T15:40:00.002Z
 heroImage: "/images/posts/1538-deus-e-suas-pegadinhas-será-Deus_e_suas_pegadinhas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1538-deus-e-suas-pegadinhas-será-Deus_e_suas_pegadinhas.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="390" data-original-width="402" height="310" src="/images/posts/1538-deus-e-suas-pegadinhas-será-Deus_e_suas_pegadinhas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esse Deus, que Jesus diz ser “amor” – 1ª João 4,8, está
+![](/images/posts/1538-deus-e-suas-pegadinhas-será-Deus_e_suas_pegadinhas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Esse Deus, que Jesus diz ser “amor” – 1ª João 4,8, está
 descrito na bíblia como “bom (Mateus 19,17) e rico em misericórdia” (Efésios
 2,4). Todavia, se as coisas não são feitas por nós como ele quer, a bíblia
 declara que “a vingança é dele” (Deuteronômio 32,35) e que seremos julgados “segundo
@@ -33,4 +35,7 @@ de malefícios. Desconformes aos mandatos divinos e ao que orienta o evangelho
 vamos aos poucos definhando e nos voltando para um comportamento que é
 abominado por ele [por Deus]. A consequência é sempre uma.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

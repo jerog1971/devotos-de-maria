@@ -4,7 +4,9 @@ date: 2021-01-06T15:09:00.001Z
 heroImage: "/images/posts/308-o-negócio-é-mandar-tudo-e-todos-para-odeio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/308-o-negócio-é-mandar-tudo-e-todos-para-odeio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="355" data-original-width="376" src="/images/posts/308-o-negócio-é-mandar-tudo-e-todos-para-odeio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">As pessoas não agem como gostaríamos, as coisas não são como
+![](/images/posts/308-o-negócio-é-mandar-tudo-e-todos-para-odeio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">As pessoas não agem como gostaríamos, as coisas não são como
 gostaríamos, nós não temos o que gostaríamos, não recebemos o salário que
 gostaríamos, não moramos onde gostaríamos, não temos todos os bens que
 gostaríamos, os filhos não se comportam como gostaríamos, se somos casados,
@@ -43,4 +45,7 @@ sempre os benefícios pessoais, a todo o custo. É como sempre se vê, uma quest
 de escolha: com Deus ou sem Deus, com Deus e com o mundo não é possível, Jesus
 já avisou.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

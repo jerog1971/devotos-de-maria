@@ -4,7 +4,9 @@ date: 2020-09-14T15:47:00.003Z
 heroImage: "/images/posts/2090-as-vigias-sem-turno-m_25C3_25A3e_coruja.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2090-as-vigias-sem-turno-m_25C3_25A3e_coruja.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="423" data-original-width="602" height="281" src="/images/posts/2090-as-vigias-sem-turno-m_25C3_25A3e_coruja.png" width="400" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente quando Jesus disse que devemos vigiar e orar sem
+![](/images/posts/2090-as-vigias-sem-turno-m_25C3_25A3e_coruja.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente quando Jesus disse que devemos vigiar e orar sem
 cessar ele não estava brincando. Ele sabe das coisas muito mais que nós, não
 iria jogar ao vento seu precioso tempo que passou aqui na terra trazendo a boa
 nova. Se é para vigiar então que se vigie. Se é para orar então que se ore.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -36,4 +38,7 @@ o coração sincero, vale lembrar que Deus vê no oculto do coração. Não exis
 remédio diferente para nossa salvação: só existe um médico do corpo e da alma e
 seu nome é Jesus Cristo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

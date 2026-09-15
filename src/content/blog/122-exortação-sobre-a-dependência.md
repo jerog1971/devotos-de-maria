@@ -4,7 +4,8 @@ date: 2017-08-18T12:10:00Z
 heroImage: "/images/posts/122-exortação-sobre-a-dependência-santo_andre.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/122-exortação-sobre-a-dependência-santo_andre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/122-exortação-sobre-a-dependência-santo_andre.png" width="320" height="305" data-original-width="425" data-original-height="405" /></a></div>
+![](/images/posts/122-exortação-sobre-a-dependência-santo_andre.png)
+
 Olá caros leitores, como todo bom católico sabe e o fato é comprovado pela santa igreja católica, no decorrer da história da humanidade o acontecimento denominado aparições é uma realidade que nos acompanha em todo o tempo. Sempre aconteceram e acontecem até os dias de hoje. Sobre isso, no catecismo da igreja católica nos números 65, 66 e 67 o assunto é bem esclarecido. O que importa, porém é, como diz o apóstolo São Paulo na primeira carta aos Tessalonicenses 5,21, devemos examinar tudo e ficar com o que é bom.</br>
 </br>
 Por que das aparições do próprio Jesus, dos Santos e de Maria Santíssima? Nossa Senhora já respondeu em várias ocasiões que elas acontecem para que as pessoas se recordem do papel que devem assumir no mundo, para com Deus e o próximo e para retornarem ao caminho deixado por seu filho Jesus. Todas as aparições que são autênticas e aprovadas pela igreja não trazem novidade nenhuma, pois tudo que precisamos para nossa salvação está encerrado na revelação bíblica. Isto também está atestado no catecismo.</br>

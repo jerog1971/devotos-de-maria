@@ -4,7 +4,9 @@ date: 2022-12-19T15:23:00Z
 heroImage: "/images/posts/436-queria-ter-algum-talento-talento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/436-queria-ter-algum-talento-talento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="340" data-original-width="455" height="239" src="/images/posts/436-queria-ter-algum-talento-talento.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dizem que Deus nos fez à sua imagem e semelhança. Todavia,
+![](/images/posts/436-queria-ter-algum-talento-talento.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Dizem que Deus nos fez à sua imagem e semelhança. Todavia,
 isso é muito vago e muito relativo. Sim, porque na bíblia aprendemos muitos
 atributos sobre ele, tanto bons, como ruins (isso em nossa concepção). Ademais,
 temos que concordar que naturalmente ele nos faria “diferentes” dele por razões
@@ -39,4 +41,7 @@ os que se humilham e vivem no escondimento da fama do mundo, tentando fazer o me
 ao outros, por amor a Deus e não caindo na tentação de se comparar ao que o
 mundo espera de si e sim o que Deus aguarda de cada um.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

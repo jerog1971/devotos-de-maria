@@ -4,7 +4,9 @@ date: 2023-12-01T18:56:00.007Z
 heroImage: "/images/posts/301-dispersos-pelos-ares-Dispersos_20pelos_20ares.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/301-dispersos-pelos-ares-Dispersos_20pelos_20ares.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="314" data-original-width="378" height="266" src="/images/posts/301-dispersos-pelos-ares-Dispersos_20pelos_20ares.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Não é contra homens de carne e osso que é a nossa batalha, mas
+![](/images/posts/301-dispersos-pelos-ares-Dispersos_20pelos_20ares.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Não é contra homens de carne e osso que é a nossa batalha, mas
 contra os espíritos malignos dispersos pelos ares”. Pois é, se algum cristão
 acha que esta afirmação bíblica pode não estar certa, por favor, para seu bem,
 que vá repensando seus conceitos. Sim, pois levar uma vida sem crer que existe
@@ -34,4 +36,7 @@ das ocasiões de pecado, coloquemos nosso olhar para uma direção totalmente
 diferente, ou o preço de nossas escolhas, se forem más e erradas, trarão
 consequências sobre as quais não teremos controle.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

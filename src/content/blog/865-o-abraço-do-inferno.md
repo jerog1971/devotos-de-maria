@@ -4,7 +4,9 @@ date: 2022-09-15T21:03:00Z
 heroImage: "/images/posts/865-o-abraço-do-inferno-o_20abra_C3_A7o_20do_20inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/865-o-abraço-do-inferno-o_20abra_C3_A7o_20do_20inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="552" data-original-width="501" height="320" src="/images/posts/865-o-abraço-do-inferno-o_20abra_C3_A7o_20do_20inferno.png" width="290" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabe-se que o inferno é um lugar terrível e de sofrimentos
+![](/images/posts/865-o-abraço-do-inferno-o_20abra_C3_A7o_20do_20inferno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sabe-se que o inferno é um lugar terrível e de sofrimentos
 indizíveis, inimagináveis e para alegrar ainda mais o “gerente” de lá, tudo
 acontece e acontecerá para todo o sempre. Não sei vocês, mas nós, enquanto vivos,
 e que já sofremos por aqui, certamente ficamos muito aliviados quando superamos
@@ -36,4 +38,7 @@ que nos cercam e se oferecem, pois eles são muito diferentes do abraço daquele
 que é manso e humilde de coração e nos fala a busca-lo quando precisarmos para
 que ele nos conforte: Jesus Cristo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

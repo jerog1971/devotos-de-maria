@@ -4,7 +4,9 @@ date: 2020-08-10T19:21:00Z
 heroImage: "/images/posts/1273-não-somos-donos-de-nossos-corpos-Fabio_de_Melo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1273-não-somos-donos-de-nossos-corpos-Fabio_de_Melo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="212" data-original-width="206" src="/images/posts/1273-não-somos-donos-de-nossos-corpos-Fabio_de_Melo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitas pessoas pelo mundo afora defendem ideologias dizendo
+![](/images/posts/1273-não-somos-donos-de-nossos-corpos-Fabio_de_Melo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitas pessoas pelo mundo afora defendem ideologias dizendo
 que podem fazer o que quiserem com seus corpos porque estes são de sua
 pertença. Julgam-se no direito de o tratarem como bem entenderem. Pois bem, o
 mundo tem disso: ideologias e seus adeptos ou não. Como faz parte da vida
@@ -49,4 +51,4 @@ precisarão devolver seus corpos e estes não estarão dentro da originalidade?
 Num mundo globalizado e altamente acessível quanto à informação, não existe
 como desculpar-se perante o Justo Juiz dizendo que não sabia.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p></div>

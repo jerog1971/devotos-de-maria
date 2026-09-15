@@ -4,7 +4,8 @@ date: 2015-11-06T16:21:00Z
 heroImage: "/images/posts/1185-sacerdote-concebido-em-estupro-padre.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1185-sacerdote-concebido-em-estupro-padre.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1185-sacerdote-concebido-em-estupro-padre.png" width="320" height="309" data-original-width="264" data-original-height="255" /></a></div>
+![](/images/posts/1185-sacerdote-concebido-em-estupro-padre.png)
+
 </br>
 “Minha mãe se sente orgulhosa de ter defendido a vida.”</br>
 </br>

@@ -4,7 +4,8 @@ date: 2018-04-09T17:54:00Z
 heroImage: "/images/posts/419-o-que-é-bonito-é-para-se-mostrar-confessionario.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/419-o-que-é-bonito-é-para-se-mostrar-confessionario.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/419-o-que-é-bonito-é-para-se-mostrar-confessionario.png" width="296" height="320" data-original-width="310" data-original-height="335" /></a></div>
+![](/images/posts/419-o-que-é-bonito-é-para-se-mostrar-confessionario.png)
+
 O amor dos pais pelos filhos educando-os no temor e doutrina do Senhor (Efésios 6,4),</br>
 </br>
 O respeito ao próximo no dever de amá-lo como a nós mesmos e</br>

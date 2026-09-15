@@ -4,7 +4,9 @@ date: 2021-02-12T15:54:00.003Z
 heroImage: "/images/posts/1834-a-mensagem-do-silêncio-ser_crist_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1834-a-mensagem-do-silêncio-ser_crist_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="248" data-original-width="381" src="/images/posts/1834-a-mensagem-do-silêncio-ser_crist_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ficar quieto e não fazer nada são coisas completamente
+![](/images/posts/1834-a-mensagem-do-silêncio-ser_crist_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ficar quieto e não fazer nada são coisas completamente
 diferentes. O ser humano embora muitas vezes não se dê conta dessa realidade, a
 vive diariamente. Ou algum cristão acha que, por Deus não estar falando com a
 pessoa em locução interior, por exemplo, não está a fazer nada em relação aos
@@ -42,4 +44,7 @@ reafirmamos que rezamos o Pai Nosso), tome sua cruz dia após dia e me siga” �
 Lucas 9,23. Ademais, em Romanos 8,28 se lê que tudo contribui para aqueles que
 amam a Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

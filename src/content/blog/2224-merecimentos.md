@@ -4,4 +4,13 @@ date: 2026-03-22T16:56:00Z
 heroImage: "/images/posts/2224-merecimentos-cesta_filha.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2224-merecimentos-cesta_filha.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1154" data-original-width="714" height="320" src="/images/posts/2224-merecimentos-cesta_filha.jpg" width="198" /></a></div><br />&nbsp;Muitas pessoas não se expressam bem, não são boas em se fazer entenderem e isso, perante a sociedade, perante as pessoas e perante os familiares. Todavia, existe o ditado que fala que uma atitude vale mais que mil palavras. Sem falar que elas podem ser inesperadas, para que não valham mais que mil, mas um número maior.<p></p><p>A cesta da imagem foi um presente para minha filha, vinte e dois anos, uma jovem mulher batalhadora que tem lutado para conquistar o seu lugar ao sol. Aqui, em família, damos o maior apoio que está ao nosso alcance, além de amor e todo o suporte necessário.</p><p>Isso deveria ser a atitude de todos os pais, atitudes que valham mais que mil palavras, e essa não seria uma atitude de ser imitador de Cristo (1ª Coríntios 11,1)? Deveria, ainda mais se focarmos em suas atitudes que o levaram até a sua paixão. Não medindo consequências, fez tudo que fez por cada um de nós por nos amar. Assim devem agir os pais.</p><p>Fonte: Jefferson Roger&nbsp;</p>
+![](/images/posts/2224-merecimentos-cesta_filha.jpg)
+
+<br /> Muitas pessoas não se expressam bem, não são boas em se fazer entenderem e isso, perante a sociedade, perante as pessoas e perante os familiares. Todavia, existe o ditado que fala que uma atitude vale mais que mil palavras. Sem falar que elas podem ser inesperadas, para que não valham mais que mil, mas um número maior.
+
+A cesta da imagem foi um presente para minha filha, vinte e dois anos, uma jovem mulher batalhadora que tem lutado para conquistar o seu lugar ao sol. Aqui, em família, damos o maior apoio que está ao nosso alcance, além de amor e todo o suporte necessário.
+
+Isso deveria ser a atitude de todos os pais, atitudes que valham mais que mil palavras, e essa não seria uma atitude de ser imitador de Cristo (1ª Coríntios 11,1)? Deveria, ainda mais se focarmos em suas atitudes que o levaram até a sua paixão. Não medindo consequências, fez tudo que fez por cada um de nós por nos amar. Assim devem agir os pais.
+
+Fonte: Jefferson Roger 
+

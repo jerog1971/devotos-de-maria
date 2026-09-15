@@ -4,7 +4,9 @@ date: 2020-09-21T13:37:00.002Z
 heroImage: "/images/posts/1075-nesse-mato-tem-coelho-coelho.jpg"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1075-nesse-mato-tem-coelho-coelho.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="529" data-original-width="590" src="/images/posts/1075-nesse-mato-tem-coelho-coelho.jpg" width="320" /></a></div><br /><p></p><p class="MsoNormal">Os ditados populares são as parábolas do povo. De longa data
+![](/images/posts/1075-nesse-mato-tem-coelho-coelho.jpg)
+
+<br /><p class="MsoNormal">Os ditados populares são as parábolas do povo. De longa data
 muitos deles resumem grandes ensinamentos relacionados a questões de vida,
 tanto físicas quanto espirituais. Quando a esmola é demais até o santo desconfia.
 Não se pode de repente anunciar que uma coisa que a vida inteira foi caracterizada

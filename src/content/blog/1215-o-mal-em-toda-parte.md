@@ -4,7 +4,9 @@ date: 2023-04-19T18:03:00.001Z
 heroImage: "/images/posts/1215-o-mal-em-toda-parte-o_20mal_20em_20toda_20parte.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1215-o-mal-em-toda-parte-o_20mal_20em_20toda_20parte.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="647" data-original-width="688" height="301" src="/images/posts/1215-o-mal-em-toda-parte-o_20mal_20em_20toda_20parte.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que o mal está em toda parte, pois o “diabo anda
+![](/images/posts/1215-o-mal-em-toda-parte-o_20mal_20em_20toda_20parte.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sabemos que o mal está em toda parte, pois o “diabo anda
 como um leão a espreita esperando a oportunidade de dar o bote” – lemos nas
 sagradas escrituras. O mal não é uma ideia ou conceito, ele é personificado em
 alguém: Satanás, segundo as palavras do Padre Gabriele Amorth, mais famoso exorcista
@@ -38,4 +40,7 @@ E não é isso que ele sempre quis? Destruir famílias? “O ladrão não vem se
 para furtar, matar e destruir” – João 10,10, ele rouba nossa alegria, mata nossa
 fé e destrói nossa esperança.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

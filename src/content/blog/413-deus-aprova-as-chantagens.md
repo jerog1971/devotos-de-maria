@@ -4,7 +4,9 @@ date: 2020-12-08T15:35:00.003Z
 heroImage: "/images/posts/413-deus-aprova-as-chantagens-deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/413-deus-aprova-as-chantagens-deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="285" data-original-width="527" src="/images/posts/413-deus-aprova-as-chantagens-deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É isso mesmo que você está lendo caro leitor. Ele tanto
+![](/images/posts/413-deus-aprova-as-chantagens-deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É isso mesmo que você está lendo caro leitor. Ele tanto
 aprova que permite que façamos como ele. Na bíblia encontramos algumas
 passagens que dizem que devemos ser seus imitadores. Então, logicamente, se ele
 chantageia as suas criaturas podemos fazer o mesmo entre nós. Ademais, ele leva
@@ -35,4 +37,7 @@ não passam, conseguimos compreender que não são chantagens, são condições.
 Assim como ele nos dá meios e condições para retornarmos à pátria celeste, nos
 apresenta as condições para que consigamos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

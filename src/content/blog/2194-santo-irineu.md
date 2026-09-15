@@ -4,7 +4,11 @@ date: 2020-06-28T22:57:00.002Z
 heroImage: "/images/posts/2194-santo-irineu-Santo_Irineu.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2194-santo-irineu-Santo_Irineu.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="228" data-original-width="222" src="/images/posts/2194-santo-irineu-img-1115202528.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi bispo de Lião. Nasceu provavelmente em Esmirna, na Ásia menor,
+<br />
+
+![](/images/posts/2194-santo-irineu-img-1115202528.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Foi bispo de Lião. Nasceu provavelmente em Esmirna, na Ásia menor,
 por volta de 130-135. Viveu em uma época dilacerada por heresias que colocavam
 em risco a unidade da igreja na fé.</p>
 

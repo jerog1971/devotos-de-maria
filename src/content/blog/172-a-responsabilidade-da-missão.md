@@ -4,7 +4,9 @@ date: 2021-01-24T15:43:00.001Z
 heroImage: "/images/posts/172-a-responsabilidade-da-missão-espelho.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/172-a-responsabilidade-da-missão-espelho.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="510" data-original-width="628" src="/images/posts/172-a-responsabilidade-da-missão-espelho.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vale sempre recordar que os membros da família do reino de
+![](/images/posts/172-a-responsabilidade-da-missão-espelho.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vale sempre recordar que os membros da família do reino de
 Deus recebem, além da graça de seres herdeiros e filiados pelo batismo, alguns
 mandatos e compromissos inerentes ao “posto” que são investidos. Isso é até
 fácil de se absorver, veja-se o exemplo em vida; não é possível vive-la sem
@@ -44,4 +46,7 @@ Espírito Santo. Ensinai-as a observar tudo o que vos prescrevi. Eis que estou
 convosco todos os dias, até o fim do mundo”. Temos quer para os outros, a
 presença viva do ressuscitado!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-12-22T15:08:00.003Z
 heroImage: "/images/posts/779-o-cristão-não-deve-viver-de-dilemas-img-1630778838.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/779-o-cristão-não-deve-viver-de-dilemas-img-1630778838.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="305" data-original-width="417" height="234" src="/images/posts/779-o-cristão-não-deve-viver-de-dilemas-img-1630777901.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Romanos 12,2 – “Não vos conformeis com este mundo, mas
+![](/images/posts/779-o-cristão-não-deve-viver-de-dilemas-img-1630777901.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Romanos 12,2 – “Não vos conformeis com este mundo, mas
 transformai-vos pela renovação do vosso espírito, para que possais discernir
 qual é a vontade de Deus, o que é bom, o que lhe agrada e o que é perfeito”. Pois
 bem, é isso que que Deus espera de seus filhos, aqueles que desejam
@@ -43,4 +45,7 @@ condenação]; quem semeia no Espírito, do Espírito colherá a vida eterna” 
 6,7-8. Eis aí, mais uma vez, a comprovação de que temos que escolher o lado e
 não vivermos sob o sofrimento dos dilemas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

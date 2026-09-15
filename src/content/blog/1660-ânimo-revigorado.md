@@ -4,7 +4,9 @@ date: 2022-09-21T19:54:00.001Z
 heroImage: "/images/posts/1660-ânimo-revigorado-nostalgia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1660-ânimo-revigorado-nostalgia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="434" data-original-width="537" height="259" src="/images/posts/1660-ânimo-revigorado-nostalgia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Aos leitores da década de sessenta e setenta podemos nos
+![](/images/posts/1660-ânimo-revigorado-nostalgia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Aos leitores da década de sessenta e setenta podemos nos
 referir com este pequeno artigo dizendo que reviver momentos, rever conceitos,
 valores, crenças, tudo isso que em vida e em nossas realidades passamos,
 reproduzidos na ficção científica, como neste seriado “Star Trek - Strange New
@@ -42,4 +44,7 @@ Deus espera de cada um – fazer no mínimo, o máximo de esforço por nós, pel
 próximo e por amor a Jesus Cristo, se almejamos um dia ouvir o “Vinde Benditos”
 (Mateus 25,34) pronunciado no dia do juízo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

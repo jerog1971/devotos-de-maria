@@ -4,7 +4,8 @@ date: 2020-03-27T17:25:00.004Z
 heroImage: "/images/posts/615-ou-você-é-católico-ou-é-carismático--img-1354557707.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/615-ou-você-é-católico-ou-é-carismático--img-1354557707.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="428" height="218" src="/images/posts/615-ou-você-é-católico-ou-é-carismático--img-1346550029.png" width="320" /></a></div>
+![](/images/posts/615-ou-você-é-católico-ou-é-carismático--img-1346550029.png)
+
 Certamente você não pode ser as duas coisas, Jesus disse que não podemos agradar a dois senhores. E ele afirma que ou se é quente ou frio e que o morno ele vomita. Em síntese o sujeito se cansa da ortodoxia doutrinal católica, mas não tem coragem de se tornar evangélico. Então o que ele faz? “Vira” carismático. Aqui no Brasil a grande divulgadora dessa heresia no meio católico se chama “Canção Nova”; detentora de algum êxito porque utiliza a técnica de Satanás de misturar mentiras com meias verdades.
 
 Nesta série de artigos iremos demonstrar que de fato é um erro aderir ao movimento da renovação carismática católica. Vamos lá.
@@ -18,6 +19,5 @@ Quando um grupo de pessoas resolvem negar ou relativizar essa verdade da fé, su
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2016/02/nao-seja-um-carismatico.html" target="_blank">Não seja um carismático</a>
-
 
 Fonte: Jefferson Roger e adaptação do site controversiacatolica

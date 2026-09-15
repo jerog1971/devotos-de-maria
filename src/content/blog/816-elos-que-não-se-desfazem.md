@@ -4,7 +4,9 @@ date: 2024-03-19T21:47:00.003Z
 heroImage: "/images/posts/816-elos-que-não-se-desfazem-img-394218485.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/816-elos-que-não-se-desfazem-img-394218485.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="363" data-original-width="462" height="251" src="/images/posts/816-elos-que-não-se-desfazem-img-2007723660.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem uma coisa que é certeira são os elos. Para o bom
+![](/images/posts/816-elos-que-não-se-desfazem-img-2007723660.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se tem uma coisa que é certeira são os elos. Para o bom
 português vale lembrar: não os chamemos de elos de ligação, porque, se são
 elos, só podem ser de ligação! Feita a introdução com essa pitadinha ortográfica
 aqui estamos nós a falarmos mais uma vez das lembranças. O pano de fundo para a
@@ -43,4 +45,7 @@ incapazes de ver a presença do sobrenatural em nossas vidas e com isso nos
 força a agir para nossa própria derrocada. Já passou da hora de acordarmos se assim
 vivemos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

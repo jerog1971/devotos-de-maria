@@ -4,7 +4,11 @@ date: 2020-06-09T15:34:00.002Z
 heroImage: "/images/posts/1947-dos-ensinamentos-da-verdade-serm_25C3_25A3o.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1947-dos-ensinamentos-da-verdade-serm_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" src="/images/posts/1947-dos-ensinamentos-da-verdade-serm_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Bem-aventurado aquele a quem a verdade por si mesma ensina,
+<br />
+
+![](/images/posts/1947-dos-ensinamentos-da-verdade-serm_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Bem-aventurado aquele a quem a verdade por si mesma ensina,
 não por figuras e vozes que juízos muitas vezes nos enganam e pouco alcançam.
 De que serve a sutil especulação sobre questões misteriosas e obscuras, de cuja
 ignorância não seremos julgados? Grande loucura é descurarmos as coisas úteis e

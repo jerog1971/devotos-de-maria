@@ -4,7 +4,9 @@ date: 2022-02-06T14:31:00Z
 heroImage: "/images/posts/1875-por-prazeres-terrenos-sofrem-se-tor-img-359253698.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1875-por-prazeres-terrenos-sofrem-se-tor-img-359253698.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="453" data-original-width="475" height="305" src="/images/posts/1875-por-prazeres-terrenos-sofrem-se-tor-img-359254819.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos não creem que o bondoso Deus possa ter criado o
+![](/images/posts/1875-por-prazeres-terrenos-sofrem-se-tor-img-359254819.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitos não creem que o bondoso Deus possa ter criado o
 inferno para colocar seus filhos pecadores nele; também não creem que por um
 simples pecado mortal que seja a alma será jogada lá por toda a eternidade. Se
 Deus é amor como se lê na bíblia, que tipo de amor e conduta é esse que ao
@@ -41,4 +43,7 @@ aos olhos de todos” – Salmo 30,20. E muito mais, caso a pessoa queira aproxi
 e se tornar íntima daquele que pode lhe conceder a entrada eterna na felicidade
 dos céus e isso sim, vale muito mais que os prazeres terrenos impróprios.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

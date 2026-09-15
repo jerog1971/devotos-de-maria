@@ -4,8 +4,10 @@ date: 2025-04-11T19:37:00.004Z
 heroImage: "/images/posts/2056-não-pequeis-mais-minimizar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2056-não-pequeis-mais-minimizar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="615" height="169" src="/images/posts/2056-não-pequeis-mais-minimizar.png" width="320" /></a></div><br />&nbsp;
-<p></p><p class="MsoNormal">Em alguns pontos da jornada de Jesus aqui pela terra, vemos
+![](/images/posts/2056-não-pequeis-mais-minimizar.png)
+
+<br /> 
+<p class="MsoNormal">Em alguns pontos da jornada de Jesus aqui pela terra, vemos
 o cuidado e a seriedade dele para com assuntos tão importantes para a salvação
 das pessoas. Estamos a falar do maior impedimento de todos para que se entre no
 céu: os pecados graves. Sabemos que Jesus é misericordioso, mas, nem por isso,
@@ -46,5 +48,4 @@ Porque alguns vivem na total ignorância de Deus.</p>
 <p class="MsoNormal">Como vemos, estamos mais que avisados!</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

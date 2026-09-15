@@ -4,7 +4,9 @@ date: 2021-08-27T18:27:00.001Z
 heroImage: "/images/posts/1272-será-que-ela-ajuda-mesmo-A_ajuda_da_Virgem_Maria.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1272-será-que-ela-ajuda-mesmo-A_ajuda_da_Virgem_Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="541" data-original-width="532" height="320" src="/images/posts/1272-será-que-ela-ajuda-mesmo-A_ajuda_da_Virgem_Maria.png" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A polêmica em torno da assistência de Maria Santíssima aos pecadores
+![](/images/posts/1272-será-que-ela-ajuda-mesmo-A_ajuda_da_Virgem_Maria.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A polêmica em torno da assistência de Maria Santíssima aos pecadores
 é uma das coisas que irão cercar a realidade da humanidade até o fim dos
 tempos. A bíblia diz que Jesus é o único mediador e que só devemos adorar a
 Deus. E então? Se Jesus disse que ele é o caminho, a verdade e a vida e que ninguém
@@ -42,4 +44,7 @@ salvador e sim mentiroso que veio fazer propaganda enganosa sobre o altíssimo.
 Escolhemos acreditar em que? Na santíssima Trindade e nas escrituras ou no
 demônio e nas verdades alternativas?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

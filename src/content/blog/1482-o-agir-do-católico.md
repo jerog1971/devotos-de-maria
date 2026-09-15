@@ -4,7 +4,8 @@ date: 2016-07-26T11:30:00.001Z
 heroImage: "/images/posts/1482-o-agir-do-católico-agir_do_catolico.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1482-o-agir-do-católico-agir_do_catolico.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1482-o-agir-do-católico-agir_do_catolico.png" width="320" height="251" data-original-width="297" data-original-height="233" /></a></div>
+![](/images/posts/1482-o-agir-do-católico-agir_do_catolico.png)
+
 Renunciai à mentira. Fale cada um a seu próximo a verdade, pois somos membros uns dos outros. Mesmo em cólera, não pequeis. Não se ponha o sol sobre o vosso ressentimento. Não deis lugar ao demônio. Nenhuma palavra má saia da vossa boca, mas só a que for útil para a edificação, sempre que for possível, e benfazeja aos que ouvem. Não contristeis o Espírito Santo de Deus, com o qual estais selados para o dia da Redenção. Toda amargura, ira, indignação, gritaria e calúnia sejam desterradas do meio de vós, bem como toda malícia. Antes, sede uns com os outros bondosos e compassivos. Perdoai-vos uns aos outros, como também Deus vos perdoou, em Cristo.</br>
 </br>
 Sede, pois, imitadores de Deus, como filhos muito amados. Progredi na caridade, segundo o exemplo de Cristo, que nos amou e por nós se entregou a Deus como oferenda e sacrifício de agradável odor. Quanto à fornicação, à impureza, sob qualquer forma, ou à avareza, que disto nem se faça menção entre vós, como convém a santos. Nada de obscenidades, de conversas tolas ou levianas, porque tais coisas não convêm; em vez disto, ações de graças. Porque sabei-o bem: nenhum dissoluto, ou impuro, ou avarento - verdadeiros idólatras! - terá herança no Reino de Cristo e de Deus.</br>

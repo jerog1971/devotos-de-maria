@@ -4,7 +4,8 @@ date: 2016-09-15T20:46:00.002Z
 heroImage: "/images/posts/187-verídico-x-imaginário-real-x-virtual-virtual.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/187-verídico-x-imaginário-real-x-virtual-virtual.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/187-verídico-x-imaginário-real-x-virtual-virtual.png" width="320" height="234" data-original-width="654" data-original-height="479" /></a></div>
+![](/images/posts/187-verídico-x-imaginário-real-x-virtual-virtual.png)
+
 Se alguém disser que o mundo virtual e imaginário é melhor de se viver do que o mundo real e verídico não se dá conta de que está com os dias contados. E essa contagem é uma contagem regressiva. É bem verdade que existe alguma seriedade e algumas tentativas de se utilizar das ferramentas virtuais da internet para promover encontros de casais e pessoas, seja para relacionamentos sérios ou amizades. Como sempre digo até aqui, tudo bem. Mas, não vai até aqui, vai até ali, e tantas vezes vai até lá.</br>
 </br>
 Como o bem e o mal caminham juntos e isso é comprovadamente ensinado por Jesus na parábola do joio e do trigo, existem dentro deste contexto os perigos advindos da má utilização destes meios para promover segundas intenções.</br>

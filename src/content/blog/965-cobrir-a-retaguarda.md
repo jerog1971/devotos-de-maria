@@ -4,7 +4,9 @@ date: 2020-08-31T19:12:00.004Z
 heroImage: "/images/posts/965-cobrir-a-retaguarda-retaguarda.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/965-cobrir-a-retaguarda-retaguarda.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="537" data-original-width="561" height="429" src="/images/posts/965-cobrir-a-retaguarda-retaguarda.png" width="449" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eu vou na frente, cubra a minha retaguarda – essa fala é
+![](/images/posts/965-cobrir-a-retaguarda-retaguarda.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Eu vou na frente, cubra a minha retaguarda – essa fala é
 muito costumeira de se ouvir em filmes de ação e guerra. Num combate contras as
 forças inimigas, enquanto avança, a equipe cuida um do outro, vigiando onde
 cada um não pode estar cuidando a todo instante. Alguma associação com nosso
@@ -36,4 +38,7 @@ do caminhar rumo ao céu, Deus é o primeiro a tomar essa atitude. Hebreus 12,6 
 “o Senhor corrige a quem ama e castiga todo aquele que reconhece por seu filho
 (Provérbios 3,11s)”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

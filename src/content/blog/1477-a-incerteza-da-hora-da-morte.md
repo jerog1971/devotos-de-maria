@@ -4,7 +4,8 @@ date: 2020-03-30T15:30:00Z
 heroImage: "/images/posts/1477-a-incerteza-da-hora-da-morte-incerteza_da_morte.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1477-a-incerteza-da-hora-da-morte-incerteza_da_morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1477-a-incerteza-da-hora-da-morte-incerteza_da_morte.png" width="320" height="266" data-original-width="429" data-original-height="357" /></a></div>
+![](/images/posts/1477-a-incerteza-da-hora-da-morte-incerteza_da_morte.png)
+
 Por Santo Afonso Maria de Ligorio</br>
 </br>
 É certíssimo que todos devemos morrer, mas não sabemos quando. "Nada há mais certo que a morte, porém nada mais incerto que a hora da morte". Meu irmão, estão fixados ano, mês, dia, hora e momento em que terás que deixar este mundo e entrar na eternidade; porém nós o ignoramos. Nosso Senhor Jesus Cristo, a fim de estarmos sempre bem preparados, nos disse que a morte virá como um ladrão, oculto e de noite (1Ts 5,2). Outras vezes nos exorta a que estejamos vigilantes, porque, quando menos o esperamos, virá Ele a julgar-nos (Lc 12,40). Diz São Gregório que Deus nos oculta, para nosso bem, a hora da morte, a fim de que estejamos sempre preparados para morrer. A morte pode levar-nos em qualquer momento e em qualquer lugar; por isso, se queremos morrer bem e salvar-nos, é preciso, diz São Bernardo que a estejamos esperando em qualquer tempo ou lugar.</br>

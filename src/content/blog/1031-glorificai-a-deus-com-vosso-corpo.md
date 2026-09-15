@@ -4,7 +4,8 @@ date: 2019-11-04T15:02:00.001Z
 heroImage: "/images/posts/1031-glorificai-a-deus-com-vosso-corpo-proibido_tatuar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1031-glorificai-a-deus-com-vosso-corpo-proibido_tatuar.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="278" data-original-width="365" height="244" src="/images/posts/1031-glorificai-a-deus-com-vosso-corpo-proibido_tatuar.png" width="320" /></a></div>
+![](/images/posts/1031-glorificai-a-deus-com-vosso-corpo-proibido_tatuar.png)
+
 Você sabia que teu corpo não te pertence? É isso mesmo que você leu caro leitor! Nosso corpo não nos pertence. Dá uma lida nisso aqui: 1ª Coríntios 6,19-20 – “Ou não sabeis que o vosso corpo é templo do Espírito Santo, que habita em vós, o qual recebestes de Deus e que, por isso mesmo, já não vos pertenceis? Porque fostes comprados por um grande preço. Glorificai, pois, a Deus no vosso corpo.”
 
 Pois bem, nós que pertencemos a Deus por consequência lógica não possuímos nada, tudo é dele, isso inclui o corpo, para o desprazer de muitos. Ele está cedido por este tempo em que caminhamos no vale de lágrimas. Não podemos transforma-lo numa vitrine, num parque de diversões sexual ou ainda modifica-lo tirando sua originalidade divina. Infelizmente, o pecado, que é uma realidade do espírito, tem em seu cometimento a participação maior ou menor do corpo. A razão, que Jesus ensinou que deve brotar do coração, cede espaço aos impulsos da vontade e lá se vai o sujeito a glorificar seus desejos com a ajuda do seu corpo. Que contraste!
@@ -18,7 +19,6 @@ O mundo não está nem aí para Deus e sua doutrina, ele oferece a todos uma alt
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2016/06/o-catolico-e-as-tatuagens.html" target="_blank">O católico e as tatuagens</a>
-
 
 Fonte: Jefferson Roger
 

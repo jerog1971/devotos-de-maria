@@ -4,7 +4,8 @@ date: 2016-07-15T19:00:00Z
 heroImage: "/images/posts/926-a-santidade-do-pai-santidade_do_pai.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/926-a-santidade-do-pai-santidade_do_pai.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/926-a-santidade-do-pai-santidade_do_pai.png" width="317" height="320" data-original-width="397" data-original-height="401" /></a></div>
+![](/images/posts/926-a-santidade-do-pai-santidade_do_pai.png)
+
 </br>
 O machismo. A opressão masculina sobre as mulheres é uma das raízes de tantos movimentos que atentam contra a família e a dignidade humana. Infelizmente, não se pode negar que, por de trás de muitos abortos, está a mão intimidadora de um homem. Mesmo no que diz respeito ao uso de anticoncepcionais, sabe-se, por meio de vários testemunhos, que grande parte das mulheres são forçadas pelos seus maridos a usarem esse tipo de medicamento. Isso é grave. Torna-se demasiado difícil cobrar da mulher o amor à maternidade, à família e ao matrimônio, quando, em sua própria casa, é obrigada a esquecer os Mandamentos da Lei de Deus para submeter-se à arbitrariedade do homem. Os abusos masculinos, como bem denunciou São João Paulo II, "humilham a mulher e inibem o desenvolvimento de relações familiares sadias".</br>
 </br>

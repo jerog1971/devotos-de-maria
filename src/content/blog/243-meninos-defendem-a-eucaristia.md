@@ -4,7 +4,8 @@ date: 2016-01-12T13:47:00Z
 heroImage: "/images/posts/243-meninos-defendem-a-eucaristia-defesa_da_eucaristia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/243-meninos-defendem-a-eucaristia-defesa_da_eucaristia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/243-meninos-defendem-a-eucaristia-defesa_da_eucaristia.png" width="320" height="180" data-original-width="317" data-original-height="178" /></a></div>
+![](/images/posts/243-meninos-defendem-a-eucaristia-defesa_da_eucaristia.png)
+
 </br>
 O acontecimento, que vamos narrar, passou-se na Rússia,</br>
 </br>

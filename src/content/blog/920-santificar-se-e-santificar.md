@@ -4,7 +4,8 @@ date: 2016-01-08T16:11:00Z
 heroImage: "/images/posts/920-santificar-se-e-santificar-sofia1.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/920-santificar-se-e-santificar-sofia1.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/920-santificar-se-e-santificar-sofia1.jpg" width="240" height="320" data-original-width="960" data-original-height="1280" /></a></div>
+![](/images/posts/920-santificar-se-e-santificar-sofia1.jpg)
+
 </br>
 A salvação e santificação vem por muitos meios. E sem dúvida alguma uma delas são os filhos. É muito fácil perceber a presença de Deus ao olharmos para uma criança. Não é a toa que Jesus disse: “deixai vir a mim as criancinhas”. Feitos a imagem e semelhança de Deus, completamente dependentes de vários tipos de cuidados por muitos anos de vida, não existe dúvida quanto ao comprometimento que essa paternidade tem para com os propósitos divinos.</br>
 </br>
@@ -16,7 +17,9 @@ A vida de uma família se transforma com a chegada de um novo membro. Planejado 
 Consequências ruins? Nos são apresentadas em forma de arrependimento. E sempre é assim pois o resultado do que fizermos se não for adequado e condizente com um bem maior, trará a boa e velha consequência. Então vale aqui lembrar o velho ditado popular que diz: “não adianta chorar sobre o leite derramado”. Como sempre digo os ditados populares são as parábolas do povo. Sempre encontraremos neles verdades muito importantes para a vida. São uma forma de expressar em linguagem simples as realidades comprovadas.</br>
 Pois bem, e os filhos, voltemos a eles. Estávamos a refletir sobre a oportunidade que temos de nos santificar com eles, neles e de santifica-los.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/920-santificar-se-e-santificar-sofia2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/920-santificar-se-e-santificar-sofia2.jpg" width="150" height="200" data-original-width="960" data-original-height="1280" /></a></div>
+
+![](/images/posts/920-santificar-se-e-santificar-sofia2.jpg)
+
 </br>
 Deuteronômio 6,5-9</br>
 </br>

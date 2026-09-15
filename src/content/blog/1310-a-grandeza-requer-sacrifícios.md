@@ -4,7 +4,9 @@ date: 2022-02-14T16:38:00.003Z
 heroImage: "/images/posts/1310-a-grandeza-requer-sacrifícios-AVvXsEgj6eCT6L5hCJHmCdH3meDvUBx2SR4jBVvGDHQsuezxy_Bc0LEe9feZz2ZKbor2J19sLVwcNJiWuFAJcDS1Ovupxl_uiShXfXspmg2TFN8F--6SFWCRb3RIBvVu-33ktdVokbSYDM6lLBD2hACZPMSjv0XXnoJkklCBX_gY1Io_fTkTuXwL2ypnFX21_s253.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1310-a-grandeza-requer-sacrifícios-AVvXsEgj6eCT6L5hCJHmCdH3meDvUBx2SR4jBVvGDHQsuezxy_Bc0LEe9feZz2ZKbor2J19sLVwcNJiWuFAJcDS1Ovupxl_uiShXfXspmg2TFN8F--6SFWCRb3RIBvVu-33ktdVokbSYDM6lLBD2hACZPMSjv0XXnoJkklCBX_gY1Io_fTkTuXwL2ypnFX21_s253.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="232" data-original-width="253" height="232" src="/images/posts/1310-a-grandeza-requer-sacrifícios-AVvXsEgj6eCT6L5hCJHmCdH3meDvUBx2SR4jBVvGDHQsuezxy_Bc0LEe9feZz2ZKbor2J19sLVwcNJiWuFAJcDS1Ovupxl_uiShXfXspmg2TFN8F--6SFWCRb3RIBvVu-33ktdVokbSYDM6lLBD2hACZPMSjv0XXnoJkklCBX_gY1Io_fTkTuXwL2ypnFX21.jpg" width="253" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabe-se pelas sagradas escrituras que o céu é uma nação de
+![](/images/posts/1310-a-grandeza-requer-sacrifícios-AVvXsEgj6eCT6L5hCJHmCdH3meDvUBx2SR4jBVvGDHQsuezxy_Bc0LEe9feZz2ZKbor2J19sLVwcNJiWuFAJcDS1Ovupxl_uiShXfXspmg2TFN8F--6SFWCRb3RIBvVu-33ktdVokbSYDM6lLBD2hACZPMSjv0XXnoJkklCBX_gY1Io_fTkTuXwL2ypnFX21.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sabe-se pelas sagradas escrituras que o céu é uma nação de
 santos; aqueles que amam a Deus acima de todas as coisas. Aqueles que em
 primeiro lugar buscam o reino dos céus e a sua justiça. Aqueles predestinados à
 santidade, destinados às coisas do alto. Sendo assim, todo mundo sabe, pois já
@@ -28,7 +30,7 @@ alguém acha que Jesus quis se aparecer passando pelo que passou na mão dos
 romanos? Pois é...<o:p></o:p></p>
 
 <p class="MsoNormal">E sacrifício de diversas naturezas é o que não falta na vida
-de uma pessoa.&nbsp; Muitos fazem parte da
+de uma pessoa.  Muitos fazem parte da
 caminhada, outros são evitáveis. Todavia bem dentro desses, os evitáveis, o demônio
 mete o seu bedelho. Tenta a pessoa que deveria evitar as ocasiões de pecado
 sacrificando-se e rejeitando o mal, por amor a Deus, mas que acaba dando ouvidos
@@ -42,4 +44,7 @@ alcançar o céu, esforçando-se ao máximo para evitar o menor pecado venial qu
 seja. Como vemos, tais atitudes, requerem de nossa parte sacrifícios
 constantes, pois a grandeza nos espera lá no alto dos céus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

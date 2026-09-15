@@ -4,8 +4,10 @@ date: 2025-03-14T18:30:00.001Z
 heroImage: "/images/posts/1825-os-estágios-de-aprendizagem-etapas_20de_20aprendizagem.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1825-os-estágios-de-aprendizagem-etapas_20de_20aprendizagem.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="447" data-original-width="634" height="226" src="/images/posts/1825-os-estágios-de-aprendizagem-etapas_20de_20aprendizagem.png" width="320" /></a></div><br />&nbsp;
-<p></p><p class="MsoNormal">1- Entusiasmo: é aquele contato inicial com a palavra de
+![](/images/posts/1825-os-estágios-de-aprendizagem-etapas_20de_20aprendizagem.png)
+
+<br /> 
+<p class="MsoNormal">1- Entusiasmo: é aquele contato inicial com a palavra de
 Deus, com aqueles testemunhos de outras pessoas, com a vida dos santos, que
 somadas essas experiências, nos arremetem a sair em desabalada carreira em busca
 de Deus e dessa vivência que outros já tiveram.</p>
@@ -74,5 +76,4 @@ coração de Jesus Cristo. Daqui, deste nível, certamente, segundo aprendemos n
 sagradas escrituras, é “céu direto!”.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

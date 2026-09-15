@@ -4,7 +4,9 @@ date: 2020-08-18T17:33:00.003Z
 heroImage: "/images/posts/323-sedes-como-crianças-m_25C3_25A3e_e_filho.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/323-sedes-como-crianças-m_25C3_25A3e_e_filho.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1040" data-original-width="780" height="512" src="/images/posts/323-sedes-como-crianças-m_25C3_25A3e_e_filho.jpg" width="384" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">1ª Pedro 2,1-4 – “Deponde, pois, toda malícia, toda astúcia,
+![](/images/posts/323-sedes-como-crianças-m_25C3_25A3e_e_filho.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">1ª Pedro 2,1-4 – “Deponde, pois, toda malícia, toda astúcia,
 fingimentos, invejas e toda espécie de maledicência. Como crianças
 recém-nascidas desejai com ardor o leite espiritual que vos fará crescer para a
 salvação, se é que tendes saboreado quão suave é o Senhor (Sl 33,9).
@@ -40,4 +42,4 @@ espera que nossa confiança nele (fé) seja incondicional para que, sejamos já 
 agora, purificados por seu amor para que um dia possamos viver as alegrias
 eternas do seu reino.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>

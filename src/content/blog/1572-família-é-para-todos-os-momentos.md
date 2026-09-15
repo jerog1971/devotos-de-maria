@@ -4,7 +4,8 @@ date: 2016-01-14T11:11:00Z
 heroImage: "/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_depois.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_depois.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_depois.png" width="214" height="320" data-original-width="348" data-original-height="520" /></a></div>
+![](/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_depois.png)
+
 </br>
 Olá caros leitores vamos neste artigo refletir um pouco sobre alguns distúrbios relacionados com o culto a imagem do ser humano, movido pela intensa cobrança que a sociedade insiste em impor ao longo de toda a sua história. Dizemos ao longo porque em outras épocas o que se cultuava eram as mulheres corpulentas, visível sinal de saúde e vigor para a ocasião. Também em outro momento histórico o bronzeado do corpo era mal visto pois indicava que aquela pessoa era de classe muito baixa, trabalhadora que exercia suas funções sob o sol. Pois bem falemos aqui um pouco sobre dois distúrbios bem interligados. A bulimia e a anorexia nervosa.</br>
 </br>
@@ -29,7 +30,9 @@ Com tanto sofrimento, ela tomou a iniciativa de tentar se recuperar. A jovem che
 </br>
 Gemma afirma que hoje se sente melhor e atribuiu a sua recuperação ao apoio de sua família.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_antes.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_antes.png" width="147" height="200" data-original-width="299" data-original-height="406" /></a></div>
+
+![](/images/posts/1572-família-é-para-todos-os-momentos-gemma_walker_antes.png)
+
 </br>
 “— Eles passaram por tudo isso sempre ao meu lado.”</br>
 </br>

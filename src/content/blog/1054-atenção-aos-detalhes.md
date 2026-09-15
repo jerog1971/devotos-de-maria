@@ -4,7 +4,9 @@ date: 2022-09-01T17:40:00.003Z
 heroImage: "/images/posts/1054-atenção-aos-detalhes-Aten_C3_A7_C3_A3o_20aos_20detalhes.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1054-atenção-aos-detalhes-Aten_C3_A7_C3_A3o_20aos_20detalhes.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="746" data-original-width="841" height="284" src="/images/posts/1054-atenção-aos-detalhes-Aten_C3_A7_C3_A3o_20aos_20detalhes.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, já sabemos, por causa das sagradas escrituras, que
+![](/images/posts/1054-atenção-aos-detalhes-Aten_C3_A7_C3_A3o_20aos_20detalhes.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, já sabemos, por causa das sagradas escrituras, que
 Deus nos fala de muitas maneiras e cabe a nós um esforço para o ouvirmos. Ainda
 mais nos tempos como os que vivemos, onde o barulho incansável do mundo insiste
 em soterrar nossos corações com suas distrações e prazeres.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -41,4 +43,7 @@ queremos? Morar no céu um dia? Se queremos não podemos imaginar que a jornada
 será fácil pois “o céu é arrebatado a força e são os violentos que o conquistam”
 – Mateus 11,12.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

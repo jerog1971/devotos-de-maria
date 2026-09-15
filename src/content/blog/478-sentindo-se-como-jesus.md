@@ -4,13 +4,16 @@ date: 2016-06-13T12:22:00Z
 heroImage: "/images/posts/478-sentindo-se-como-jesus-caneca.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/478-sentindo-se-como-jesus-caneca.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/478-sentindo-se-como-jesus-caneca.png" width="200" height="177" data-original-width="578" data-original-height="512" /></a></div>
+![](/images/posts/478-sentindo-se-como-jesus-caneca.png)
+
 Recentemente em minha vida tenho passado por algumas experiências das mais variadas com relação a atividade de catequista que exerço na Paróquia São Rafael em Curitiba-PR. Já a muitos anos que sempre estou a ensinar alguma coisa para alguém, como já relatei em dois livros que publiquei, onde faço uma pequena biografia de alguns acontecimentos de minha vida. Pois bem, hoje com mais de 44 anos ou melhor dizendo, quase 45, tenho passado, na paróquia que resido por uma avalanche de atitudes e comportamentos que aconteceram e ainda acontecem na turma da última etapa da catequese ano 2015/2016.</br>
 </br>
 Com duração de 15 meses, o último ano da catequese nesta turma que estou a entregar em 24/06/2016, data também que irá marcar meu possível afastamento temporário desta atividade, fico a pensar e pensar e pensar sobre tudo que aconteceu e acontece com esses jovens que acompanhei nesta parte de suas caminhadas. Por mais que me empenhei em levar a boa nova de Jesus e promover em seus corações uma iniciativa própria para quererem querer tudo que Ele tem a oferecer a cada um destes crismandos, o que aconteceu foi que esbarrei em corações contaminados pelos prazeres do mundo e o imediatismo e o desejo de se fazer com o tempo que Deus lhes dá o que quiserem e não o que é necessário.</br>
 </br>
 Pesquisas aqui e ali ao redor do mundo já relatam que o público jovem não coloca Deus em seu lugar correto porque acham que para o que eles querem fazer agora na vida, Deus não se encaixa nesses planos. Pensam que se priorizarem em suas vidas tudo que vem de Deus e que seu amor exige, não irá sobrar tempo para fazerem tudo aquilo que querem, pois querem ser amigos do mundo em primeiro lugar.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/478-sentindo-se-como-jesus-caneca2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/478-sentindo-se-como-jesus-caneca2.png" width="200" height="188" data-original-width="553" data-original-height="521" /></a></div>
+
+![](/images/posts/478-sentindo-se-como-jesus-caneca2.png)
+
 Com ingredientes que vão desde etapas mal concretizadas na catequese, fruto de maus catequistas, pais com histórico de completo abandono da religião, vivendo apenas uma política de salário mínimo não é de se estranhar que o fruto, que não cai longe do pé, apresente esta aparência. Eram 27 jovens nesta turma, mas apenas 10 aproveitaram essa oportunidade que Deus lhes concedeu. Entre eles destaco Wesley, Leonardo e Rafaela, que fizeram valer a pena cada minuto da minha vida junto com eles.</br>
 </br>
 Encerro o artigo refletindo em meio a este mar revolto que, na época de Jesus, o que eu e tantas outras pessoas sentem quando procuram evangelizar e encontram tantos corações machucados, entristecidos, endurecidos e de tantas outras formas, sempre irá aparecer alguém que como Verônica, irá enxugar o nosso rosto. Alguém que irá chorar pela caminhada que fazemos com a cruz nas costas.</br>

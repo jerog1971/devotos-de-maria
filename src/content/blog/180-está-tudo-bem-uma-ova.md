@@ -4,7 +4,9 @@ date: 2023-09-14T21:41:00.004Z
 heroImage: "/images/posts/180-está-tudo-bem-uma-ova-tudo_20esta_20bem_20uma_20ova.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/180-está-tudo-bem-uma-ova-tudo_20esta_20bem_20uma_20ova.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="467" data-original-width="544" height="275" src="/images/posts/180-está-tudo-bem-uma-ova-tudo_20esta_20bem_20uma_20ova.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, esse hábito de respondermos que está tudo bem,
+![](/images/posts/180-está-tudo-bem-uma-ova-tudo_20esta_20bem_20uma_20ova.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Isso mesmo, esse hábito de respondermos que está tudo bem,
 meio que automaticamente, é uma atitude quase ingênua; ou então é proposital
 por causa de algum critério ou ainda para acalmar a consciência. Vamos lá
 desmiuçar a coisa.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -44,4 +46,7 @@ que “quem está de pé cuide para que não caia”. É assim que é, fingir qu
 bem, principalmente nos assuntos da salvação da alma é um grande risco que o mundo
 nos ínsita todos os dias a percorrer.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

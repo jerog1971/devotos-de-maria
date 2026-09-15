@@ -4,7 +4,8 @@ date: 2018-03-14T16:20:00Z
 heroImage: "/images/posts/260-o-tédio-do-católico-tedio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/260-o-tédio-do-católico-tedio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/260-o-tédio-do-católico-tedio.png" width="314" height="320" data-original-width="472" data-original-height="481" /></a></div>
+![](/images/posts/260-o-tédio-do-católico-tedio.png)
+
 Recentemente chegou aos meus ouvidos o resmungo de um adolescente que disse que era um tédio frequentar a catequese aos sábados à tarde. Na verdade, normalmente para um adolescente, a maioria das coisas que acontecem em sua vida são para ele um tédio. Não é uma culpa 100% da pessoa enquanto fase da vida, pois, muitos adultos são muito chegados nessa expressão. É importante, de forma bastante resumida, compreender que tédio é tudo aquilo que foge nosso interesse pessoal, mas que temos que fazer ou passar.</br>
 </br>
 Para alguém que gosta de língua portuguesa as aulas dessa disciplina serão ótimas de se assistir, todos os professores serão legais, o conteúdo de cada aula será estupendo e sempre, quando se der conta, já deu o horário e a aula terminou. Para alguém que não gosta de língua portuguesa as aulas dessa disciplina se arrastarão minuto a minuto, todos os professores serão antipáticos e chatos, o assunto transmitido em sala de aula será um verdadeiro sacrifício acompanhar e por conta disso tudo, ser aprovado nessa matéria irá requerer um esforço de proporções titânicas.</br>

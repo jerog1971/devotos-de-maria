@@ -4,7 +4,8 @@ date: 2020-02-18T15:22:00.002Z
 heroImage: "/images/posts/083-palmas-na-missa-homenagem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/083-palmas-na-missa-homenagem.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="678" height="244" src="/images/posts/083-palmas-na-missa-homenagem.png" width="320" /></a></div>
+![](/images/posts/083-palmas-na-missa-homenagem.png)
+
 Disse o Papa Bento XVI: “Santa Missa é sacrifício! Quem bate palma na Santa Missa está aplaudindo os algozes!” Para quem não se recorda ou precisa aprender colocamos aqui o significado da palavra “algoz’: “Indivíduo responsável pela execução de penas, castigos físicos ou morte; carrasco. Pessoa cruel, desumana, capaz de realizar atos abomináveis ou terríveis; torturador.” Isso era o que as pessoas que apoiavam e concordavam com os condenadores de Jesus faziam. Se aprendemos que a Santa Missa é uma memória/atualização do mistério da paixão de nosso Senhor Jesus Cristo, etapa da crucificação e pós-ressurreição, o que é que as pessoas fazem na celebração, ou pensam fazer, quando batem palmas?
 
 Gostaria de acreditar que o fazem porque são desinformadas. O que? Em tempos de internet? Vá lá, que seja... Pois bem, ainda assim existe o pessoal que defende a doutrina do “o que é que tem”. Desta forma, a missa da igreja, descrita na Instrução Geral do Missal Romano e legalmente confirmada no código de direito canônico (como se precisasse algum endosso humano), atesta que “bater palmas” não coaduna com a natureza e motivo da celebração do mistério pascal.
@@ -27,6 +28,5 @@ Vídeo relacionado ao tema:
 
 <div style="height: 0px; padding-bottom: 75%; position: relative; width: 100%;"><iframe allowfullscreen="" frameborder="0" height="270" scrolling="no" src="https://gloria.tv/post/XddbPwvhT1P41NZnhY2rM6mMB/embed" style="bottom: 0; height: 100%; left: 0; position: absolute; right: 0; top: 0; width: 100%;" width="360"></iframe></div>
 Duração - 15min07s
-
 
 Fonte: Jefferson Roger

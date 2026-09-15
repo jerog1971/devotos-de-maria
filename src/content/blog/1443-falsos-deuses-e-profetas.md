@@ -4,7 +4,9 @@ date: 2022-04-22T14:21:00Z
 heroImage: "/images/posts/1443-falsos-deuses-e-profetas-falsos_20deuses_20e_20profetas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1443-falsos-deuses-e-profetas-falsos_20deuses_20e_20profetas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="436" data-original-width="439" height="318" src="/images/posts/1443-falsos-deuses-e-profetas-falsos_20deuses_20e_20profetas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia nos fala a respeito daqueles que se passam e passarão
+![](/images/posts/1443-falsos-deuses-e-profetas-falsos_20deuses_20e_20profetas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A bíblia nos fala a respeito daqueles que se passam e passarão
 por falsos profetas, tentando enganar o povo de Deus, os eleitos e escolhidos.
 E também nos ensina que o Deus vivo, nosso criador, deve ser colocado acima de
 todas as coisas; quem assim não o faz, idolatra outras coisas ou pessoas,
@@ -33,4 +35,7 @@ senhores). Mas, para nós, há um só Deus, o Pai, do qual procedem todas as
 coisas e para o qual existimos, e um só Senhor, Jesus Cristo, por quem todas as
 coisas existem e nós também” – 1ª Coríntios 8,4-6.<o:p></o:p></p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div><p><br />&nbsp;</p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>
+
+<br /> 
+

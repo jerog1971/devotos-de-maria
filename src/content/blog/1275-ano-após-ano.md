@@ -4,7 +4,8 @@ date: 2020-01-11T02:14:00.001Z
 heroImage: "/images/posts/1275-ano-após-ano-esposa.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1275-ano-após-ano-esposa.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1275-ano-após-ano-esposa.jpg" width="180" height="320" data-original-width="720" data-original-height="1280" /></a></div>
+![](/images/posts/1275-ano-após-ano-esposa.jpg)
+
 Lá se vão mais de vinte e quatro anos de convivência. Isso representa uma pequena história, uma pequena família, com duas filhas vivas e uma morta. Erros e acertos, duros perdões e crises, mas ainda estamos aqui. Ainda na juventude diziam a nosso respeito que não daria certo, que não combinávamos. Hoje em dia é uma surpresa para alguns e quando perguntam sobre o casamento, perguntam se ainda estamos casados.</br>
 </br>
 Dizem que não é comum durar tanto assim nos dias de hoje os casamentos. Casamento é pregado pelo mundo como mais um tipo de contrato que pode ser reincidido a qualquer momento, quando uma das partes “não cumprir” o acordo. Que acordo? Nem o mundo sabe direito o que pregar sobre o casamento. Ele tem se tornado mutável ao longo da história da humanidade. Entre as principais mutações está a gravíssima perda de sua condição divina e espiritual.</br>

@@ -4,7 +4,8 @@ date: 2018-11-27T18:31:00.001Z
 heroImage: "/images/posts/319-o-que-fala-o-povo-casal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/319-o-que-fala-o-povo-casal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/319-o-que-fala-o-povo-casal.png" width="320" height="277" data-original-width="293" data-original-height="254" /></a></div>
+![](/images/posts/319-o-que-fala-o-povo-casal.png)
+
 Numa pequena varredura pelos sites que tratam de reflexões sobre relacionamentos é possível colher depoimentos das mais diversas naturezas. Existe o pessoal que defende que o que é certo é o que se faz de errado, existe o pessoal que defende que o que se faz errado nunca será o certo e existem aqueles que procuram ficar em cima do muro conforme seja melhor para a própria situação.</br>
 </br>
 O pano de fundo que vamos colocar aqui é a questão de duas pessoas que se acordaram em matrimônio lidarem com o cometimento da traição e adultério. Ressaltamos aqui que é uma transcrição colhida no site reginanavarro:</br>

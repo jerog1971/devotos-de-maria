@@ -4,7 +4,8 @@ date: 2018-02-01T19:10:00Z
 heroImage: "/images/posts/454-a-evolução-da-espécie-macaquinhos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/454-a-evolução-da-espécie-macaquinhos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/454-a-evolução-da-espécie-macaquinhos.png" width="320" height="311" data-original-width="519" data-original-height="505" /></a></div>
+![](/images/posts/454-a-evolução-da-espécie-macaquinhos.png)
+
 As sagradas escrituras nos ensinam que somos predestinados para a santidade. Também nos ensinam que somos destinados a morrer uma só vez e depois vem o juízo pessoal. Como disse o personagem Gandalf dos filmes de Tolkien: “A jornada não acaba aqui. A morte é apenas um outro caminho que todos temos que tomar”. Realmente aos cristãos, que vivem sob o embasamento do evangelho e seguem a religião de uma pessoa, Jesus Cristo, o viver conforme esta crença significa sim, uma evolução contínua para crescermos no amor e santidade e com isso alcançarmos a estatura de Cristo, esperada pelo Pai (1ª Coríntios 11,1).</br>
 </br>
 Nossa fragilidade e fraquezas humanas tendem a nos fazer achar que esse caminho evolutivo é difícil e muito árduo. Depende do contexto, do olhar que colocamos sobre tudo e da relatividade. Para simplificar bem a questão coloquemos as coisas da seguinte maneira: Somos eternos, viveremos para sempre com ou sem Deus. Ao nosso cargo ficou a tarefa de vivermos essa primeira etapa aqui, de nossas vidas eternas, de forma a recebermos a coroa da glória eterna ou a condenação eterna. Não adianta tampar o sol com a peneira. Uns não querem enxergar que as coisas são como são por desígnio divino, e aqui estamos falando da salvação de nossas almas. Elas que custaram sangue agora precisam contribuir para alcançarem o céu. Deus colocou a glória dos céus nesses termos.</br>

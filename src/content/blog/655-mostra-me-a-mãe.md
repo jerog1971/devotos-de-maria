@@ -4,7 +4,9 @@ date: 2023-11-05T17:32:00Z
 heroImage: "/images/posts/655-mostra-me-a-mãe-m_C3_A3e.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/655-mostra-me-a-mãe-m_C3_A3e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2448" data-original-width="3264" height="240" src="/images/posts/655-mostra-me-a-mãe-m_C3_A3e.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Existe um filme dos irmãos Kendricks que se intitula “Mostra-me
+![](/images/posts/655-mostra-me-a-mãe-m_C3_A3e.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Existe um filme dos irmãos Kendricks que se intitula “Mostra-me
 o Pai”. O filme retrata em forma de documentário as importâncias da figura do
 pai no seio familiar. Com algumas histórias o filme vai demonstrando o quão é
 importante a presença paterna para os filhos. Se assim o é em relação ao pai,
@@ -35,4 +37,7 @@ sua dor, mas não, preocupava-se em encaminhar os filhos do altíssimo e, diga-s
 de passagem: muito bem encaminhados, pelas mães que tivemos e temos e pela mãe
 do ressuscitado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

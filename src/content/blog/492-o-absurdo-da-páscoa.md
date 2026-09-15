@@ -4,7 +4,8 @@ date: 2018-04-03T20:21:00Z
 heroImage: "/images/posts/492-o-absurdo-da-páscoa-hope.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/492-o-absurdo-da-páscoa-hope.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/492-o-absurdo-da-páscoa-hope.png" width="320" height="302" data-original-width="508" data-original-height="479" /></a></div>
+![](/images/posts/492-o-absurdo-da-páscoa-hope.png)
+
 A pouco tempo atrás, os cristãos do mundo inteiro celebraram a paixão de Nosso Senhor Jesus Cristo, a páscoa. Antes os judeus, que seguiam o calendário com base lunar, na sua comemoração de páscoa o motivo era a libertação do seu povo na escravidão do Egito para a terra prometida por Deus a Abraão. Os cristãos adotaram a mesma data para comemorar a “sua” páscoa entrando dessa forma, na flexibilidade do calendário de base lunar seguido pelos judeus, que correspondia em apontar datas numéricas físicas em dias móveis.</br>
 </br>
 Por este motivo, sabe-se então, que a páscoa é celebrada no primeiro domingo depois da primeira lua cheia depois do dia 21 de março, data em que acontece o equinócio no hemisfério norte (dia com a mesma duração da noite). Pois bem, feito esse pequeno resumo necessário adentro na questão dita absurdo. Sim, o católico comemora a páscoa com Jesus e sua família. A troca tradicional de presentes, em sua maioria chocolates e doces, perigosamente tem se afastado do cerne da questão, da essência e da grandeza desta data tão importante na vida daqueles que foram resgatados por Jesus Cristo no alto do Calvário.</br>

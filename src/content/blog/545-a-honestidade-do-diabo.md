@@ -4,7 +4,9 @@ date: 2020-10-06T14:26:00.001Z
 heroImage: "/images/posts/545-a-honestidade-do-diabo-diabo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/545-a-honestidade-do-diabo-diabo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="768" data-original-width="650" height="320" src="/images/posts/545-a-honestidade-do-diabo-diabo.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Eis aí uma coisa ilusória; lemos na bíblia que ele é o pai
+![](/images/posts/545-a-honestidade-do-diabo-diabo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Eis aí uma coisa ilusória; lemos na bíblia que ele é o pai
 da mentira, se é assim como pode ser honesto? Ele pode e é, mas sua honestidade
 passa despercebida. Ele promete facilidades aqui e agora se virarmos as costas
 para Deus. Nisso ele é honesto e auxilia aqueles que, unindo-se a ele, tornam-se
@@ -41,4 +43,7 @@ poder”. Como vemos o que falta muitas vezes é honestidade da parte dos homens
 pois Deus é fiel e espera no mínimo, nosso esforço máximo para que não
 terminemos praticando uma honestidade mentirosa como o diabo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

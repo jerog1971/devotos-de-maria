@@ -4,7 +4,11 @@ date: 2020-05-12T19:38:00Z
 heroImage: "/images/posts/385-recordando-polêmicas-img-947491323.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/385-recordando-polêmicas-img-947491323.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="235" data-original-width="276" src="/images/posts/385-recordando-polêmicas-img-947491323.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É sempre bom recordarmos alguns fatos que envolvem a
+<br />
+
+![](/images/posts/385-recordando-polêmicas-img-947491323.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">É sempre bom recordarmos alguns fatos que envolvem a
 doutrina e a fé (este há cerca de seis anos). Há tempos atrás o padre Fabio de
 Melo em algumas entrevistas causou polêmicas com pronunciamentos que causaram
 muita indignação aos católicos ao ponto de emitirem abaixo assinado para que
@@ -37,6 +41,6 @@ nos conduz ao Cristo. São Luiz Maria nos diz em seu livro que se uma devoção
 não conduzir a Jesus, deve ser rejeitada porque é diabólica. Não é o caso da autêntica
 devoção mariana. Ninguém irá amar menos Jesus amando muito sua mãe.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div><div class="separator" style="clear: both; text-align: left;"><br /></div>

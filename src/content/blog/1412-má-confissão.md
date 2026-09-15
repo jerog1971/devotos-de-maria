@@ -4,7 +4,8 @@ date: 2015-09-24T14:02:00Z
 heroImage: "/images/posts/1412-má-confissão-m_25C3_25A1_confiss_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1412-má-confissão-m_25C3_25A1_confiss_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1412-má-confissão-m_25C3_25A1_confiss_25C3_25A3o.png" width="242" height="320" data-original-width="318" data-original-height="420" /></a></div>
+![](/images/posts/1412-má-confissão-m_25C3_25A1_confiss_25C3_25A3o.png)
+
 </br>
 Conta Santo Afonso, um fato acontecido na Inglaterra, quando ali dominava a religião católica. O rei Anguberto tinha uma filha que, por sua beleza, fora pedida em casamento por muitos príncipes. Mas a princesa recusou terminantemente, pois fizera voto de castidade. O pai pediu para ela dispensa em Roma, mas a filha ficou firme no propósito de não se casar, dizendo que não queria outro esposo senão Jesus Cristo; e ao mesmo tempo pedia ao pai a permissão de viver afastada do mundo.</br>
 </br>

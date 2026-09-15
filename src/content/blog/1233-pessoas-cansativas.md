@@ -4,7 +4,9 @@ date: 2022-09-11T00:51:00.004Z
 heroImage: "/images/posts/1233-pessoas-cansativas-pessoas_20cansativas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1233-pessoas-cansativas-pessoas_20cansativas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="334" height="280" src="/images/posts/1233-pessoas-cansativas-pessoas_20cansativas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Em nossas vidas, no decorrer da caminhada, vamos conhecendo
+![](/images/posts/1233-pessoas-cansativas-pessoas_20cansativas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Em nossas vidas, no decorrer da caminhada, vamos conhecendo
 muitas pessoas que passam por nossas vidas. Algumas simplesmente passam, outras
 ficam um pouco, outras ainda, deixam alguma coisa de bom, outras nos marcam e
 algumas, as que não nos fazem bem, fazem mal.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -31,4 +33,7 @@ fizer o que é justo” – Atos 10,34-35. “Aliás, sabemos que todas as coisa
 concorrem para o bem daqueles que amam a Deus, daqueles que são os eleitos,
 segundo os seus desígnios” – Romanos 8,28.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

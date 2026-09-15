@@ -4,7 +4,9 @@ date: 2023-12-01T18:58:00.001Z
 heroImage: "/images/posts/1823-reconhecimento-e-agradecimento-img-1484747743.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1823-reconhecimento-e-agradecimento-img-1484747743.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1944" data-original-width="2592" height="240" src="/images/posts/1823-reconhecimento-e-agradecimento-img-628035995.jpg" width="304" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia em atos dos apóstolos está escrito que existe mais
+![](/images/posts/1823-reconhecimento-e-agradecimento-img-628035995.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na bíblia em atos dos apóstolos está escrito que existe mais
 alegria em dar do que em receber; também está escrito para nos preocuparmos em
 primeiro lugar com os interesses dos outros. Pois bem, é nessa esteira do
 conhecimento que se deve embarcar; procurar fazer o bem a alguém, não esperando
@@ -29,12 +31,4 @@ pelo bem que eu a fiz este ano e por todas as coisas que aprendeu comigo. Basta
 uma pessoa para que você continue seguindo em frente. Saibamos nós professores,
 se muitos não querem nada com nada, ainda devemos estar lá por causa daqueles
 que querem, para que com nosso exemplo e dedicação e intervenção divina, eles
-passem a querer.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p><p>
-
-
-
-
-
-
-
-&nbsp;</p>
+passem a querer.<o:p></o:p></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p>

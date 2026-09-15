@@ -4,7 +4,9 @@ date: 2022-10-28T17:55:00.005Z
 heroImage: "/images/posts/1715-você-tem-esta-virtude-img-176309837.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1715-você-tem-esta-virtude-img-176309837.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="717" data-original-width="728" height="315" src="/images/posts/1715-você-tem-esta-virtude-img-1552572967.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente, as famílias tradicionais católicas, também
+![](/images/posts/1715-você-tem-esta-virtude-img-1552572967.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente, as famílias tradicionais católicas, também
 aquelas que se esforçam ao máximo para viver segundo os valores cristãos
 autênticos, sofrem diariamente e dia após dia com todo o tipo de maldade que o
 ventilador do demônio espalha pelo mundo. Há muito não se imaginaria termos que
@@ -38,4 +40,7 @@ irá nos levar para o céu. E para finalizar, disse Jesus: “Sereis odiados de
 todos por causa de meu nome, mas aquele que perseverar até o fim será salvo” –
 Mateus 10,22.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

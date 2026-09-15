@@ -4,7 +4,8 @@ date: 2016-05-04T12:18:00Z
 heroImage: "/images/posts/401-homenagens-dentro-da-santa-missa-homenagem.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/401-homenagens-dentro-da-santa-missa-homenagem.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/401-homenagens-dentro-da-santa-missa-homenagem.png" width="320" height="244" data-original-width="678" data-original-height="516" /></a></div>
+![](/images/posts/401-homenagens-dentro-da-santa-missa-homenagem.png)
+
 O ser humano sempre esbarra numa tendência de se comportar de forma estreita em alguns aspectos da vida. Por exemplo, o seu agir fica em muitos casos tendo uma reação praticamente automática e sobretudo quando a razão não impera sobre os sentimentos. Vamos entender melhor, vamos com calma.</br>
 </br>
 É sabido de todos nós que, quando agimos sem pensar, no impulso das emoções que afloram a pele, muitas vezes nos pegando de surpresa, nossas reações na grande maioria das vezes, nos leva, a cometer atos que, por questão de segundos nos custam consequências desastrosas. E como sabemos que isso aconteceu? Simples. Sobre vem em nós o arrependimento. Falamos sem pensar e magoamos alguém, agimos sem pensar e ferimos alguém. E tantas e tantas vezes o saldo disso tudo acaba por não ser bom, para nós e para quem participou conosco, direta ou indiretamente.</br>

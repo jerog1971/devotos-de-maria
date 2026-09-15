@@ -4,7 +4,9 @@ date: 2022-01-26T23:52:00.001Z
 heroImage: "/images/posts/895-hábitos-descontrolados-se-transforma-img-1178286847.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/895-hábitos-descontrolados-se-transforma-img-1178286847.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="220" data-original-width="295" height="220" src="/images/posts/895-hábitos-descontrolados-se-transforma-img-1281976281.jpg" width="295" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já diziam os santos padres que a alma se torna inquieta
+![](/images/posts/895-hábitos-descontrolados-se-transforma-img-1281976281.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Já diziam os santos padres que a alma se torna inquieta
 enquanto não consegue aquilo que deseja. Isso decorre da sementinha que Deus
 plantou no interior do ser humano, cujo propósito é fazer de tudo para retornar
 ao céu, sua pátria de origem. E isso se dá com a rotina de santos e retos
@@ -37,4 +39,7 @@ que o pecado promove na vida. Quedas que colocam a pessoa em risco de acostumar-
 com elas, com o mal e esquecerem que evitar a dureza e as provações da vida e o
 desapego a Deus, só credenciam a pessoa para uma vida eterna de trevas.<o:p></o:p></p>
 
-<p class="MsoNormal">Artigos relacionados:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2018/03/ovelhas-nao-chafurdam.html" target="_blank">Ovelhas não chafurdam</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2020/05/nao-deixe-o-que-e-importante-de-lado.html" target="_blank">Não deixe o que é importante de lado</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2020/10/nao-seja-como-ela.html" target="_blank">Não seja como ela</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2019/02/eu-quero-pecar.html" target="_blank">Eu quero pecar</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2017/05/o-lamacal-do-pecado.html" target="_blank">O lamaçal do pecado</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2018/01/sempre-em-busca.html" target="_blank">Sempre em busca</a><br /></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Artigos relacionados:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2018/03/ovelhas-nao-chafurdam.html" target="_blank">Ovelhas não chafurdam</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2020/05/nao-deixe-o-que-e-importante-de-lado.html" target="_blank">Não deixe o que é importante de lado</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2020/10/nao-seja-como-ela.html" target="_blank">Não seja como ela</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2019/02/eu-quero-pecar.html" target="_blank">Eu quero pecar</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2017/05/o-lamacal-do-pecado.html" target="_blank">O lamaçal do pecado</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2018/01/sempre-em-busca.html" target="_blank">Sempre em busca</a><br /></p><p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

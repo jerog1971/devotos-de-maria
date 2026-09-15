@@ -4,7 +4,11 @@ date: 2020-06-18T17:14:00.001Z
 heroImage: "/images/posts/1924-sofrer-os-defeitos-dos-outros-agir_do_catolico.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1924-sofrer-os-defeitos-dos-outros-agir_do_catolico.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="297" src="/images/posts/1924-sofrer-os-defeitos-dos-outros-img-1258752117.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Aquilo que o homem não pode emendar em si mesmo ou nos
+<br />
+
+![](/images/posts/1924-sofrer-os-defeitos-dos-outros-img-1258752117.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Aquilo que o homem não pode emendar em si mesmo ou nos
 demais, deve ele tolerar com paciência, até que Deus disponha de outro modo.
 Considera que talvez seja melhor assim, para provar tua paciência, sem a qual
 não tem grande valor nossos méritos. Todavia, convém, nesses embaraços, pedir a

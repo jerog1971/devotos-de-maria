@@ -4,7 +4,8 @@ date: 2016-08-29T20:38:00Z
 heroImage: "/images/posts/851-isso-que-dá-fazer-filho-com-um-velho-casal_idoso.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/851-isso-que-dá-fazer-filho-com-um-velho-casal_idoso.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/851-isso-que-dá-fazer-filho-com-um-velho-casal_idoso.png" width="283" height="320" data-original-width="279" data-original-height="315" /></a></div>
+![](/images/posts/851-isso-que-dá-fazer-filho-com-um-velho-casal_idoso.png)
+
 Pois bem caros leitores, ao lermos o título deste artigo somos quase que automaticamente remetidos ao fator “idade”. Parece que a frase representa algum tipo de desabafo. Parece que alguém está reclamando por não ter colaboração nas atividades que uma criança recém-nascida necessita e não só isso, esta suposta reclamação parece revelar ainda mais. Vamos acompanhar a questão.</br>
 </br>
 Quando um homem e uma mulher se unem em santo matrimônio, pelo seu livre consentimento mútuo assumem perante Deus uma série de deveres e obrigações. Da parte de Deus, o que ele tem a contribuir é nada menos que suas bênçãos e graças para que o novo casal consiga viver as realidades desse casamento que tem uma finalidade última que é a de levar todos os membros da família para o céu, além de com seu testemunho familiar, encorajar outras famílias a fazerem o mesmo.</br>

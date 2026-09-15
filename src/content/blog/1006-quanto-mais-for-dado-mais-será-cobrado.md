@@ -4,7 +4,9 @@ date: 2023-10-27T17:46:00.003Z
 heroImage: "/images/posts/1006-quanto-mais-for-dado-mais-será-cobrado-juiz.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1006-quanto-mais-for-dado-mais-será-cobrado-juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="/images/posts/1006-quanto-mais-for-dado-mais-será-cobrado-juiz.png" width="246" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Essa afirmação do Cristo é de causar espanto e temor em muitos
+![](/images/posts/1006-quanto-mais-for-dado-mais-será-cobrado-juiz.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Essa afirmação do Cristo é de causar espanto e temor em muitos
 corações. Pelo menos deveria, já que o que se vê na prática, em nossa sociedade,
 é um desdém imenso pelas santas palavras bíblicas. Talvez as pessoas não se
 deem em conta, quem sabe não compreenderam por inteiro a mensagem. Vamos deixar
@@ -33,4 +35,7 @@ cobrança acontecerá e depois, a sentença que é final, imutável e eterna.<o:
 preceitos, é este o dever de todo homem. Deus fará prestar contas de tudo o que
 está oculto, todo ato, seja ele bom ou mau” – Eclesiastes 12,13-14.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

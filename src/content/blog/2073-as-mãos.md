@@ -4,7 +4,8 @@ date: 2015-09-18T16:28:00.002Z
 heroImage: "/images/posts/2073-as-mãos-maos.JPG"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2073-as-mãos-maos.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2073-as-mãos-maos.JPG" /></a></div>
+![](/images/posts/2073-as-mãos-maos.JPG)
+
 </br>
 A vida nos deixa marcas. Nossos corpos frequentemente sinalizam os efeitos do tempo. Sobretudo se tratarmos dele em desacordo com sua natureza criada. Ou seja, cometendo excessos. Ao olharmos para uma pessoa podemos facilmente enxergar os traços deixados pelos seus hábitos de vida e por todas as escolhas que fez durante sua trajetória.</br>
 </br>

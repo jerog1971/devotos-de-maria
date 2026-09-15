@@ -4,7 +4,8 @@ date: 2019-06-26T18:28:00.002Z
 heroImage: "/images/posts/1676-pense-constantemente-em-seus-novíss-chegada_da_morte.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1676-pense-constantemente-em-seus-novíss-chegada_da_morte.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1676-pense-constantemente-em-seus-novíss-chegada_da_morte.png" width="320" height="319" data-original-width="296" data-original-height="295" /></a></div>
+![](/images/posts/1676-pense-constantemente-em-seus-novíss-chegada_da_morte.png)
+
 Essa afirmação que lemos no livro do Eclesiástico 7,40 não poderia conter verdade mais absoluta. Vamos recordar do que trata o versículo. Os novíssimos do homem são os últimos acontecimentos que irão lhe acontecer: morte, juízo particular, inferno, purgatório e/ou paraíso. E os santos já diziam em suas pregações: bastaria uma pregação constante sobre o inferno para que as pessoas consigam a salvação de suas almas.</br>
 </br>
 E não é por menos, se o sujeito pensar que irá morrer na próxima hora e que isto é inevitável, com certeza não irá querer passar pela experiência da morte com pendências em relação a Deus. A surpresa de uma morte totalmente inesperada pode pegar muita gente de calça curta, vivendo uma vida cheia de pecados, de erros e abominações aos olhos de Deus. Uma vida assim não vai deixar margem para uma absolvição e entrada no reino dos céus.</br>

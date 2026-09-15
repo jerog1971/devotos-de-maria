@@ -4,7 +4,9 @@ date: 2024-03-21T20:22:00.002Z
 heroImage: "/images/posts/1666-professor-sofredor-professor_20sofredor.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1666-professor-sofredor-professor_20sofredor.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="412" height="219" src="/images/posts/1666-professor-sofredor-professor_20sofredor.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, tem que ser por amor à profissão. Você precisa, na
+![](/images/posts/1666-professor-sofredor-professor_20sofredor.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois é, tem que ser por amor à profissão. Você precisa, na
 medida do possível, aliar a necessidade do trabalho ao gosto pessoal. De fato,
 poder fazer o que se gosta em seu trabalho é uma situação muito vantajosa para
 a saúde do corpo e da mente. Até porque, em muitas ocasiões, às vezes até
@@ -44,4 +46,7 @@ ainda alguns. Que Deus permita que os bons contagiem os maus e não o contrário
 Afinal, não nos pediu o altíssimo que rezemos por estes que nos tratam assim? É
 o nosso papel como seus filhos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

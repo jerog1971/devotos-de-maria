@@ -4,7 +4,8 @@ date: 2018-08-14T15:19:00.001Z
 heroImage: "/images/posts/756-segundo-a-carne-ou-segundo-o-espírit-obras_da_carne.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/756-segundo-a-carne-ou-segundo-o-espírit-obras_da_carne.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/756-segundo-a-carne-ou-segundo-o-espírit-obras_da_carne.png" width="316" height="320" data-original-width="463" data-original-height="469" /></a></div>
+![](/images/posts/756-segundo-a-carne-ou-segundo-o-espírit-obras_da_carne.png)
+
 Por sete vezes (e isso não é coincidência) pelo livro do Apocalipse Deus nos fala que devemos dar ouvidos ao que o Espírito Santo nos diz, através da igreja. Ademais, este mesmo Espírito nos diz no capítulo quatorze do mesmo livro que “felizes são os homens que morrem no Senhor”. Este Espírito prometido por Jesus ainda em sua passagem por este vale de lágrimas é o mesmo que conduz a Igreja e que dele foi predito que nos recordará tudo que foi ensinado por Jesus e nos ensinará todo o resto. Como vemos, é pela vontade do Pai Eterno que a sua doutrina seja transmitida pelo inspirador da bíblia. Assim se comprova, por exemplo, em Atos dos Apóstolos 1,2 – “desde o princípio até o dia em que, depois de ter dado pelo Espírito Santo suas instruções aos apóstolos que escolhera, (Jesus) foi arrebatado (ao céu)”.</br>
 </br>
 E São Paulo, na carta aos Gálatas faz um bom resumo acerca da escolha que devemos fazer em relação ao modo de vida que queremos praticar:</br>

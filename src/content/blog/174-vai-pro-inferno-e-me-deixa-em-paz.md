@@ -4,7 +4,8 @@ date: 2016-09-06T18:48:00.001Z
 heroImage: "/images/posts/174-vai-pro-inferno-e-me-deixa-em-paz-xingar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/174-vai-pro-inferno-e-me-deixa-em-paz-xingar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/174-vai-pro-inferno-e-me-deixa-em-paz-xingar.png" width="320" height="269" data-original-width="266" data-original-height="224" /></a></div>
+![](/images/posts/174-vai-pro-inferno-e-me-deixa-em-paz-xingar.png)
+
 Colossenses 3,12-15 – “como eleitos de Deus, santos e queridos, revesti-vos de entranhada misericórdia, de bondade, humildade, doçura, paciência. Suportai-vos uns aos outros e perdoai-vos mutuamente, toda vez que tiverdes queixa contra outrem. Como o Senhor vos perdoou, assim perdoai também vós. Mas, acima de tudo, revesti-vos da caridade, que é o vínculo da perfeição. Triunfe em vossos corações a paz de Cristo, para a qual fostes chamados a fim de formar um único corpo. E sede agradecidos.</br>
 </br>
 Caros leitores, um grande e direto ensinamento e lembrete de como devemos nos portar perante o próximo. O trecho da carta de São Paulo aos Colossenses coloca entre as virtudes que devemos cultivar a paciência. E haja paciência não é mesmo, alguns poderiam dizer. Normalmente ela ficou estirada no chão lá atrás, pouco antes das calorosas discussões começarem. Perder a paciência, como se diz no palavreado popular, é algo que acontece com a grande maioria das pessoas.

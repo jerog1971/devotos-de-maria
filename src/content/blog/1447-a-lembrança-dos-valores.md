@@ -4,7 +4,9 @@ date: 2021-07-23T20:24:00.001Z
 heroImage: "/images/posts/1447-a-lembrança-dos-valores-a_lembran_25C3_25A7a_dos_valores.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1447-a-lembrança-dos-valores-a_lembran_25C3_25A7a_dos_valores.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="780" data-original-width="1040" src="/images/posts/1447-a-lembrança-dos-valores-a_lembran_25C3_25A7a_dos_valores.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa vida é cheia de propósitos; passamos ano após ano
+![](/images/posts/1447-a-lembrança-dos-valores-a_lembran_25C3_25A7a_dos_valores.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nossa vida é cheia de propósitos; passamos ano após ano
 prometendo aos outros, prometendo a nós mesmos e prometendo a Deus muitas
 coisas. Todavia, em nosso caminhar toda essa gama de promessas vai cotidianamente
 sendo peneirada. Lucas 22,31-32 – “Simão, Simão, eis que Satanás vos reclamou
@@ -39,4 +41,7 @@ vale mais, muito mais que o valor monetário que aquele madeiro possuía.<o:p></
 nos lembram que nunca devemos desacreditar em algo que veio do céu, aquele
 sangue derramado em toda a paixão de Jesus, cada gota, tem um valor imensurável.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

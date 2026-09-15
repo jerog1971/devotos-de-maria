@@ -4,7 +4,8 @@ date: 2016-06-21T12:13:00Z
 heroImage: "/images/posts/272-o-egoísmo-nos-faz-reclamar-frio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/272-o-egoísmo-nos-faz-reclamar-frio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/272-o-egoísmo-nos-faz-reclamar-frio.png" width="320" height="211" data-original-width="787" data-original-height="520" /></a></div>
+![](/images/posts/272-o-egoísmo-nos-faz-reclamar-frio.png)
+
 O ser humano, em muitas das vezes, sem perceber promove uma atitude quase automática de reclamar das coisas e das pessoas e das situações. Não percebem que em tantos casos, esquecem de agradecer a Deus por tantas coisas, mas com vigilância militar não esquecem de apontar o dedo, esquecer a trave em seus olhos (Mateus 7,3-5) e reclamar e reclamar e reclamar.</br>
 </br>
 Se está calor dizem: ai que calor. Se estão com fome dizem: ai que fome. Se estão cansadas dizem: ai que canseira. Se estão com sono dizem: ai que sono. Se estão com dor dizem: ai que dor. Se estão com frio dizem: ai que frio. Se estão com pressa dizem: apressem-se, pois, eu ainda tenho o que fazer, tenho que fazer aquilo. Afinal cada um tem que cuidar do seu umbigo, pensam estes e pensam também que Deus tem que cuidar dos seus interesses.</br>

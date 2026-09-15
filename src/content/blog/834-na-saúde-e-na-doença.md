@@ -4,7 +4,9 @@ date: 2021-05-24T10:39:00Z
 heroImage: "/images/posts/834-na-saúde-e-na-doença-doen_25C3_25A7a.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/834-na-saúde-e-na-doença-doen_25C3_25A7a.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="265" data-original-width="302" src="/images/posts/834-na-saúde-e-na-doença-doen_25C3_25A7a.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na saúde é fácil agradecer a Deus por ela, parece que o bondoso
+![](/images/posts/834-na-saúde-e-na-doença-doen_25C3_25A7a.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na saúde é fácil agradecer a Deus por ela, parece que o bondoso
 criador, preocupado com suas criaturas que as fez do seu amor, olha para cada
 uma com uma especial atenção, pois quer que a felicidade de se sentir amado por
 ele preencha cada alma e coração. Então, é fácil agradecer por mais um dia em
@@ -41,4 +43,7 @@ Tentação essa que pode nos acometer até os momentos finais em meio as nossas
 enfermidades, pois, até aí, pode o diabo tentar nos convencer que Deus nos
 abandonou.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

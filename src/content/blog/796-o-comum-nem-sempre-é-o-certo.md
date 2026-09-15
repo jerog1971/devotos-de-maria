@@ -4,7 +4,9 @@ date: 2024-01-15T18:09:00.001Z
 heroImage: "/images/posts/796-o-comum-nem-sempre-é-o-certo-serm_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/796-o-comum-nem-sempre-é-o-certo-serm_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="516" data-original-width="553" height="299" src="/images/posts/796-o-comum-nem-sempre-é-o-certo-serm_C3_A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esta é uma das sutilezas do mal; ele prolifera suas ideologias
+![](/images/posts/796-o-comum-nem-sempre-é-o-certo-serm_C3_A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Esta é uma das sutilezas do mal; ele prolifera suas ideologias
 e as esparrama por todo o planeta, fazendo que com isso, mais pessoas aderindo
 a elas, as tornem comuns. Isso passa uma sensação de normalidade, pois, se todo
 mundo tem, todo mundo usa, todo mundo faz, então deve ser normal.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -28,4 +30,7 @@ pode se tornar glorioso e entrar conosco na glória dos céus ou se tornar a
 nossa desgraça e entrar conosco na danação eterna dos infernos. Como nos disse
 Jesus Cristo: “estais avisado sobretudo”. Façamos, pois, a nossa escolha.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

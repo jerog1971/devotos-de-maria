@@ -4,7 +4,9 @@ date: 2023-01-30T14:42:00Z
 heroImage: "/images/posts/1242-recordações-doutrinárias-sobre-o-inferno-inferno.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1242-recordações-doutrinárias-sobre-o-inferno-inferno.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="285" height="292" src="/images/posts/1242-recordações-doutrinárias-sobre-o-inferno-inferno.png" width="285" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">De forma bem didática e esclarecedora, lemos no catecismo o
+![](/images/posts/1242-recordações-doutrinárias-sobre-o-inferno-inferno.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">De forma bem didática e esclarecedora, lemos no catecismo o
 seguinte esclarecimento sobre a doutrina bíblia do inferno: “morrer em pecado
 mortal se ter-se arrependido dele e sem acolher o amor misericordioso de Deus
 significa ficar separado do todo poderoso para sempre, por nossa própria opção
@@ -37,4 +39,7 @@ o fogo eterno, para as trevas exteriores, onde haverá choro e ranger de dentes.
 Deus não predestina ninguém para o inferno, para isso é preciso uma aversão
 voluntária a Deus (um pecado mortal) e persistir nela até o fim”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

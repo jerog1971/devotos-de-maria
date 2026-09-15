@@ -4,7 +4,9 @@ date: 2021-09-10T01:05:00Z
 heroImage: "/images/posts/1827-as-dificuldades-da-fé-as_dificuldades_da_f_25C3_25A9.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1827-as-dificuldades-da-fé-as_dificuldades_da_f_25C3_25A9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="256" data-original-width="286" height="256" src="/images/posts/1827-as-dificuldades-da-fé-as_dificuldades_da_f_25C3_25A9.png" width="286" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na carta aos Hebreus lemos que fé é uma certeza a respeito
+![](/images/posts/1827-as-dificuldades-da-fé-as_dificuldades_da_f_25C3_25A9.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na carta aos Hebreus lemos que fé é uma certeza a respeito
 daquilo que não se vê. Aprendemos que ela precisa ser exercitada e alimentada
 com grande frequência pois, do contrário, vai enfraquecendo até que seja manchada
 por outras realidades. O sujeito arrisca alimenta-la usando a “técnica” de São
@@ -35,4 +37,7 @@ a pessoa? Ao invés de procurar ajuda para aquele que disse que “sem mim nada
 podeis fazer” – João 15,5, procura ajuda na opção alternativa, a opção maligna.
 Boa coisa não pode resultar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

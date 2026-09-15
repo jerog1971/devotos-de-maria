@@ -4,7 +4,8 @@ date: 2016-03-18T13:49:00Z
 heroImage: "/images/posts/1677-importa-antes-obedecer-a-deus-obedecer_a_deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1677-importa-antes-obedecer-a-deus-obedecer_a_deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1677-importa-antes-obedecer-a-deus-obedecer_a_deus.png" width="320" height="285" data-original-width="537" data-original-height="478" /></a></div>
+![](/images/posts/1677-importa-antes-obedecer-a-deus-obedecer_a_deus.png)
+
 Importa antes obedecer a Deus do que aos homens. Este é um trecho do capítulo 5 do livro dos Atos dos Apóstolos, onde acompanhamos um belíssimo relato de testemunho em favor de Cristo. Eram os primeiros momentos da caminhada da igreja católica e o mundo já começava a dar sinais do seu repúdio contra o evangelho.
 O capítulo conta que os apóstolos pregavam por toda a parte e curavam a muitas pessoas. Não demorando muito para a seita dos saduceus e os sumos sacerdotes se reunirem e os colocarem na prisão. Fato que foi insignificante pois foram libertados por um anjo do Senhor e obedientes aos ensinamentos do mestre seguiram ensinando o povo.</br>
 </br>

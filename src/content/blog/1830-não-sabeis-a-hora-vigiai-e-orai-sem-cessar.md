@@ -4,7 +4,8 @@ date: 2014-10-31T19:35:00.001Z
 heroImage: "/images/posts/1830-não-sabeis-a-hora-vigiai-e-orai-sem-assalto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1830-não-sabeis-a-hora-vigiai-e-orai-sem-assalto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1830-não-sabeis-a-hora-vigiai-e-orai-sem-assalto.png" width="320" height="215" data-original-width="571" data-original-height="384" /></a></div>
+![](/images/posts/1830-não-sabeis-a-hora-vigiai-e-orai-sem-assalto.png)
+
 Livro de Tiago 1,2 - Tende por um motivo da maior alegria para vós as diversas tribulações que vos sucedem.</br>
 </br>
 Nesta pequena reflexão caros leitores, quero deixar aqui um pequeno testemunho que está relacionado com as realidades ensinadas em Eclesiástico 7,40 – pensai em seus novíssimos constantemente e jamais pecareis. Pois bem, como sempre estamos a acompanhar cada vez mais nos noticiários do dia a dia muitos acontecimentos que colocam fim em muitas vidas, é importante tomarmos consciência que sempre temos de Deus a graça de viver no agora.<br>

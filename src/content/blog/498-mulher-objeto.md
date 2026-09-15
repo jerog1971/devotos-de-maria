@@ -4,7 +4,8 @@ date: 2018-04-19T16:02:00Z
 heroImage: "/images/posts/498-mulher-objeto-mulher_objeto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/498-mulher-objeto-mulher_objeto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/498-mulher-objeto-mulher_objeto.png" width="320" height="304" data-original-width="506" data-original-height="481" /></a></div>
+![](/images/posts/498-mulher-objeto-mulher_objeto.png)
+
 Aprendi quando era criança,</br>
 Que brincava com meus brinquedos,</br>
 Com eles me divertia pelos terrenos</br>

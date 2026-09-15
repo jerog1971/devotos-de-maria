@@ -4,7 +4,8 @@ date: 2016-07-15T19:00:00.002Z
 heroImage: "/images/posts/2244-o-luto-luto.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2244-o-luto-luto.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2244-o-luto-luto.png" width="320" height="296" data-original-width="534" data-original-height="494" /></a></div>
+![](/images/posts/2244-o-luto-luto.png)
+
 </br>
 Um dos temas pouco discutidos entre os círculos de pessoas sem dúvida é a morte. Ela é sim acompanhada de perto e ao mesmo tempo de longe. De perto pois estamos sempre vendo e ouvindo nos noticiários a morte de alguém, mas este cotidiano passa pelas nossas vidas sem passar.</br>
 </br>

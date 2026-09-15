@@ -4,7 +4,11 @@ date: 2020-07-31T00:36:00.001Z
 heroImage: "/images/posts/461-sacrilégios-cometidos-sacrilegio.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/461-sacrilégios-cometidos-sacrilegio.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="452" height="320" src="/images/posts/461-sacrilégios-cometidos-sacrilegio.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O Catecismo da Igreja Católica define muito claramente o que
+<br />
+
+![](/images/posts/461-sacrilégios-cometidos-sacrilegio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">O Catecismo da Igreja Católica define muito claramente o que
 se deve entender por sacrilégio:</p>
 
 <p class="MsoNormal">2120 – “O sacrilégio consiste em profanar ou tratar

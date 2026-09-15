@@ -4,7 +4,8 @@ date: 2020-03-02T16:54:00.002Z
 heroImage: "/images/posts/2123-deixe-o-adultério-suba-a-montanha-trair.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2123-deixe-o-adultério-suba-a-montanha-trair.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2123-deixe-o-adultério-suba-a-montanha-trair.png" width="320" height="320" data-original-width="422" data-original-height="422" /></a></div>
+![](/images/posts/2123-deixe-o-adultério-suba-a-montanha-trair.png)
+
 Subir uma montanha bem sabemos não é tarefa das mais fáceis, basta perguntarmos aos alpinistas que obteremos uma série de informações que atestam essa realidade. Pois bem, trajetória semelhante, por analogia podemos fazer em relação a pessoa que deseja se libertar do vício do sexo ilícito, do adultério e da prostituição. A menos que Deus queira, a libertação não será instantânea. Já diz o autor do livro a imitação de Cristo: eles são fáceis de cometer e difíceis de abandonar.</br>
 </br>
 No início o sujeito promete a Deus não mais praticar seus vícios, infelizmente percebe que suas palavras se vão ao vento quase instantaneamente e tão logo se de conta já está novamente mergulhado nas práticas pecaminosas. É o início da caminhada da montanha, a libertação está no cume, mas nesse ponto as quedas são constantes, o pecado brada com mais força e diariamente acontecem os fracassos. A persistência, no entanto, e um olhar voltado para o cume – lembremos que Jesus disse para colocarmos a mão no arado e não olharmos para trás – vai diminuindo a força das tentações, o processo de cura está começando.</br>

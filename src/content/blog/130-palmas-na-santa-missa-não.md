@@ -4,7 +4,8 @@ date: 2016-05-02T18:29:00.001Z
 heroImage: "/images/posts/130-palmas-na-santa-missa-não-palmas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/130-palmas-na-santa-missa-não-palmas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/130-palmas-na-santa-missa-não-palmas.png" width="320" height="165" data-original-width="456" data-original-height="235" /></a></div>
+![](/images/posts/130-palmas-na-santa-missa-não-palmas.png)
+
 Passa o tempo, entram e saem pessoas daqui e acolá e o polêmico tema das palmas durante a celebração da santa missa volta a ser iluminado pelos holofotes dos diferentes pontos de vista dos mais variados tipos de católicos. Vamos lá, de novo... conversar mais um pouquinho sobre o assunto.</br>
 </br>
 A este tema sempre gosto de começar a conversa lembrando de uma passagem relatada na biografia do Padre Pio, onde um dirigido seu lhe faz a seguinte pergunta: Padre, como devo me comportar na santa missa? Ao passo que o bom santo lhe respondeu: Como Maria, o apóstolo João e as mulheres piedosas ao pé da cruz. Já começamos bem e vamos em frente lembrando que Jesus pediu que fizéssemos isso em memória dele. Pois bem caros leitores, nós não estamos diante de um acontecimento que por sua natureza exija aplausos.</br>

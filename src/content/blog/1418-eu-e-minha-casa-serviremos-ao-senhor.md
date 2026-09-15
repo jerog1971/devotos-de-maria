@@ -4,7 +4,8 @@ date: 2020-03-13T16:53:00.003Z
 heroImage: "/images/posts/1418-eu-e-minha-casa-serviremos-ao-senhor-catequisando.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1418-eu-e-minha-casa-serviremos-ao-senhor-catequisando.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="291" data-original-width="304" height="306" src="/images/posts/1418-eu-e-minha-casa-serviremos-ao-senhor-catequisando.png" width="320" /></a></div>
+![](/images/posts/1418-eu-e-minha-casa-serviremos-ao-senhor-catequisando.png)
+
 Josué 24,15 – “quanto a mim, eu e minha casa serviremos o Senhor.” Isso quer dizer que não serviremos a outro senhor, não existirá outro senhor em nossas vidas a comanda-las. Nem o dinheiro, nem os prazeres, nem os mandatos humanos (incapazes de superar qualquer mandato de Deus), nem qualquer forma de materialismo ou apego as coisas do mundo.
 
 Nossas vidas são regidas por Deus, ele pode com um simples sopro coloca-la a baixo. Ao pó irei voltar por sua vontade. Por sua vontade tudo me acontece desde que eu me comporte como seu herdeiro, batizado pela conquista da graça na cruz do calvário. Pois, se não me comportar assim, meus desejos acontecerão, buscarei-os, mas será por causa do afastamento voluntário que farei de Deus.
@@ -22,7 +23,6 @@ Salmo 111,1 – “Aleluia. Feliz o homem que teme o Senhor, e põe o seu prazer
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2016/09/maldito-o-homem-que-confia-em-outro.html" target="_blank">Maldito o homem que confia em outro homem</a>
-
 
 Fonte: Jefferson Roger
 

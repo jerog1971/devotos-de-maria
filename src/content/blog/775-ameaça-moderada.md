@@ -4,7 +4,9 @@ date: 2024-04-18T18:44:00.003Z
 heroImage: "/images/posts/775-ameaça-moderada-amea_C3_A7a_20moderada.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/775-ameaça-moderada-amea_C3_A7a_20moderada.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="510" height="279" src="/images/posts/775-ameaça-moderada-amea_C3_A7a_20moderada.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">No filme da franquia de cinema, Resident Evil 2: Apocalipse,
+![](/images/posts/775-ameaça-moderada-amea_C3_A7a_20moderada.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">No filme da franquia de cinema, Resident Evil 2: Apocalipse,
 um dos vilões do filme, o Nêmesis, possuía grande força e resistência para
 combates mortais. No filme, quando ele avistava alguém, em seu visor, após uma
 análise feita da pessoa, o resultado lhe informava qual era o nível de ameaça
@@ -41,4 +43,7 @@ nos veja o inimigo como uma ameaça moderada, como fez o vilão no filme
 retratado, que nos veja como alguém fora do seu alcance, pois, se Deus é por nós,
 quem será contra nós?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

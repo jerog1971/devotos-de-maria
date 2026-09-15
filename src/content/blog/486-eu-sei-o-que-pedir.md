@@ -4,7 +4,8 @@ date: 2015-11-27T11:32:00Z
 heroImage: "/images/posts/486-eu-sei-o-que-pedir-pedindo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/486-eu-sei-o-que-pedir-pedindo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/486-eu-sei-o-que-pedir-pedindo.png" width="258" height="320" data-original-width="344" data-original-height="427" /></a></div>
+![](/images/posts/486-eu-sei-o-que-pedir-pedindo.png)
+
 </br>
 Mateus 6,25-34</br>
 </br>

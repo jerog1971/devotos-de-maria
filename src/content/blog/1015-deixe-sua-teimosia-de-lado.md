@@ -4,7 +4,8 @@ date: 2019-07-25T19:56:00.004Z
 heroImage: "/images/posts/1015-deixe-sua-teimosia-de-lado-teimosia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1015-deixe-sua-teimosia-de-lado-teimosia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1015-deixe-sua-teimosia-de-lado-teimosia.png" width="320" height="270" data-original-width="561" data-original-height="473" /></a></div>
+![](/images/posts/1015-deixe-sua-teimosia-de-lado-teimosia.png)
+
 Pois ela, caso não tenha percebido ainda, é o oposto da persistência e passa mais longe ainda da perseverança, única virtude que Jesus disse que será recompensada. Disse Jesus: “Sereis odiados de todos por causa de meu nome, mas aquele que PERSEVERAR até o fim será salvo” – Mateus 10,22.</br>
 </br>
 O ditado popular diz que é inútil dar murro em ponta de faca, diz que não adianta chover no molhado, nem chorar pelo leite derramado, diz que errar é humano, mas insistir no erro é burrice. Pessoal! O ditado popular é a expressão da sabedoria do povo, tal como as parábolas de Jesus. Quando uma mãe antigamente dizia para um filho que fez uma traquinagem que “Deus está vendo” – minha nossa – a criança se colocava a pensar: ferrou tudo, me achei o esperto da situação, mas descuidei desse detalhe, posso omitir alguma coisa das pessoas, mas jamais de Deus.</br>

@@ -4,7 +4,9 @@ date: 2021-10-17T16:29:00.005Z
 heroImage: "/images/posts/289-o-perigo-de-sucumbir-o_perigo_de_sucumbir.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/289-o-perigo-de-sucumbir-o_perigo_de_sucumbir.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="187" data-original-width="201" height="260" src="/images/posts/289-o-perigo-de-sucumbir-o_perigo_de_sucumbir.png" width="279" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nos dicionários encontramos para a definição da expressão ‘sucumbir’:
+![](/images/posts/289-o-perigo-de-sucumbir-o_perigo_de_sucumbir.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nos dicionários encontramos para a definição da expressão ‘sucumbir’:
 cair sob o peso ou a força de, dobrar-se, vergar. Como vemos é exatamente isso
 que acontece quando a pessoa cede a pressão das tentações. Eclesiástico 19, 1-3
 – “O operário dado ao vinho não se enriquecerá, e aquele que se descuida das
@@ -29,4 +31,7 @@ conselho de meus lábios, e não permitais que eles me façam sucumbir” – Ec
 arrepender e renunciar as condutas erradas: “a malícia do pecador não há de
 fazê-lo sucumbir, se ele, um dia, renunciar à sua perversidade” – Ezequiel 33,12.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

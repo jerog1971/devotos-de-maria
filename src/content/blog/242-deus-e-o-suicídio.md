@@ -4,7 +4,8 @@ date: 2016-08-26T17:37:00Z
 heroImage: "/images/posts/242-deus-e-o-suicídio-suicidio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/242-deus-e-o-suicídio-suicidio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/242-deus-e-o-suicídio-suicidio.png" width="320" height="184" data-original-width="347" data-original-height="200" /></a></div>
+![](/images/posts/242-deus-e-o-suicídio-suicidio.png)
+
 Queridos leitores, se porventura alguma vez procurastes na bíblia sagrada alguma coisa sobre suicídio e explicitamente não encontrastes nada, posso te dizer que isto é apenas aparência porque existe sim, um ensinamento que é inclusive direto sobre o suicídio. Antes, porém, vamos dar uma olhada na origem da palavra.
 Ela tem origem do latim “suicidium”, formada por “sui” que quer dizer “de si mesmo” e derivada de “caedere” que quer dizer “bater, golpear, matar”. Pois bem, logo no início da bíblia, no livro do Êxodo, quando Deus nos dá os dez mandamentos, vemos que inserido neles estão o mandamento de “não matarás”, confirmado na nova aliança por Jesus (Mateus 19,18). Portanto a lei de Deus, que continua valendo, pois foi confirmada por Jesus, nos ensina que tirar a vida é ofensa grave contra Deus e por isso pecado mortal, não importando qual vida é, se a de alguém ou a própria.</br>
 </br>

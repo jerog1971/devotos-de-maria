@@ -4,7 +4,11 @@ date: 2020-06-28T00:48:00.002Z
 heroImage: "/images/posts/2223-nossa-senhora-do-perpétuo-socorro-Perp_25C3_25A9tuo_Socorro.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2223-nossa-senhora-do-perpétuo-socorro-Perp_25C3_25A9tuo_Socorro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="501" data-original-width="376" height="320" src="/images/posts/2223-nossa-senhora-do-perpétuo-socorro-Perp_25C3_25A9tuo_Socorro.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A devoção a Nossa Senhora do Perpétuo Socorro foi e continua
+<br />
+
+![](/images/posts/2223-nossa-senhora-do-perpétuo-socorro-Perp_25C3_25A9tuo_Socorro.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A devoção a Nossa Senhora do Perpétuo Socorro foi e continua
 sendo difundida pelos padres da Congregação do Santíssimo Redentor ou padre
 redentoristas. No Brasil, tal devoção alcançou grande popularidade. Essa
 devoção começou a ser propagada a partir de 1870 e espalhou-se por todo o

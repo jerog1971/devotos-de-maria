@@ -4,7 +4,8 @@ date: 2016-02-22T12:48:00.002Z
 heroImage: "/images/posts/406-motéis-motel.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/406-motéis-motel.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="240" data-original-width="336" height="229" src="/images/posts/406-motéis-motel.png" width="320" /></a></div>
+![](/images/posts/406-motéis-motel.png)
+
 Deus vê no oculto, assim diz a sagrada escritura. E se a pessoa está fazendo algo escondido, ou se escondendo para fazer algo, já é um sinal de que algo de ilícito está partindo de seu coração. Sim, pois é no coração que brotam todas as coisas. Jesus nos ensinou que onde está o nosso coração, ali está o nosso tesouro. E vamos recordar, nosso cruel inimigo, o diabo, sabe muito bem dessas coisas, é bem conhecedor da fraqueza humana e bem conhecedor das escrituras. Vale recordar também, que no episódio em que Jesus foi tentado por satanás no deserto, o infeliz tentou Jesus citando passagens bíblicas. Triste fatalidade para ele não é mesmo! Mais uma derrota para sua coleção.
 
 Porém, contra nós a investida do inimigo é constante e acirrada. Afinal, somos fracas criaturas e por isso constantemente pecadoras. E quem se revoltar com isso saiba que o digo está escrito na bíblia.<div><br /></div><div>Livro dos Provérbios 24,16. Lá diz que o justo peca até sete vezes por dia. Se o justo, aquele que aos olhos de Deus pode cometer seus erros perante o Altíssimo, o que dizer de nós, que caímos e levantamos tantas e tantas vezes nessa caminhada.
@@ -21,4 +22,4 @@ Portanto, se por ignorância, impulso carnal ou por intenção premeditada mesmo
 
 Ter peso na consciência e culpa provém do diabo. São condições humanas ligadas as relações interpessoais, não te afastam das ocasiões de pecado e do propósito de não mais pecar. É preciso brotar do coração, se lembra? Brotar um arrependimento verdadeiro do coração e com humildade, reconhecermos nossa condição de frágeis criaturas dependentes do Pai Eterno para tudo, confessarmos nossas falhas, nossos pecados e fazermos um firme propósito de não mais buscarmos o erro, de evitarmos as ocasiões de pecado.</div><div><br /></div><div>Para isso, não estamos sozinhos. A nossa disposição existem tantos meios que Deus nos deixou. Nos humilhemos e nos coloquemos aos cuidados de Maria, de seu Filho Jesus, de nossos anjos da guarda, dos santos e santas de Deus e de toda a milícia celeste. O céu nos espera, não esperemos o amanhã para voltarmos para Cristo, pois só temos o dia de hoje.</div><div><br /></div><div>Artigo relacionado:
 
-<a href="https://www.devotos-de-maria.com.br/2019/11/os-detalhes-do-adulterio.html" target="_blank">Os detalhes do adultério</a>&nbsp;</div><div><br /></div><div>Fonte: Jefferson Roger</div>
+<a href="https://www.devotos-de-maria.com.br/2019/11/os-detalhes-do-adulterio.html" target="_blank">Os detalhes do adultério</a> </div><div><br /></div><div>Fonte: Jefferson Roger</div>

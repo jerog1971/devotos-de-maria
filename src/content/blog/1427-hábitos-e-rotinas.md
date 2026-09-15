@@ -4,7 +4,9 @@ date: 2022-08-05T15:38:00.001Z
 heroImage: "/images/posts/1427-hábitos-e-rotinas-h_C3_A1bitos_20e_20rotinas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1427-hábitos-e-rotinas-h_C3_A1bitos_20e_20rotinas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="623" data-original-width="722" height="276" src="/images/posts/1427-hábitos-e-rotinas-h_C3_A1bitos_20e_20rotinas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano é ‘craque’, craque em reclamar das coisas, de
+![](/images/posts/1427-hábitos-e-rotinas-h_C3_A1bitos_20e_20rotinas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ser humano é ‘craque’, craque em reclamar das coisas, de
 tudo e de todos. Ai isso, ai aquilo, ai aquele outro; não adianta, é
 especialista na arte de complicar o que por Deus, embora não pareça, foi simplificado.
 Realmente não parece mesmo! Quem sabe nem seja tão simples, já que sua santa
@@ -37,4 +39,7 @@ justiça diante de Deus, na confiança que vos fará misericórdia” – Tobias
 não imites o mal, mas sim o bem. Quem pratica o bem nasceu de Deus. Quem
 pratica o mal não viu a Deus” – 3ª João 1,11.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

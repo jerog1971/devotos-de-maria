@@ -4,7 +4,8 @@ date: 2017-05-30T19:23:00.001Z
 heroImage: "/images/posts/1641-as-modas-e-a-igreja-amostra.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1641-as-modas-e-a-igreja-amostra.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="402" height="247" src="/images/posts/1641-as-modas-e-a-igreja-amostra.png" width="320" /></a></div>
+![](/images/posts/1641-as-modas-e-a-igreja-amostra.png)
+
 Nossa Senhora disse em Fátima que viriam muitas modas que iriam ofender seu filho Jesus. E em outra parte do mundo ela disse que todos devem ir na santa missa vestidos de maneira, simples, confortável, mas mantendo o pudor e a modéstia. São João Maria Vianney disse que o cristão deve se destacar até na maneira como se veste e a Irmã Lucia de Jesus, uma das pastorinhas de Fátima diz o mesmo e acrescenta de que devemos nos vestir assim para dar testemunho de que somos cristãos filhos de Deus.
 
 Pois muito bem, roupas curtas demais, apertadas demais, decotadas demais e transparentes demais fazem parte da moda e são acessórios utilizados pelo diabo para promover os pecados da impureza, da carne e da luxúria. Quem vai na santa missa não deve ir com a mesma roupa que vai numa festa ou na praia. Bem ao oposto das roupas dos santos e santas de Deus que vemos atestadas na vida da igreja e também na bíblia. Um caráter muito importante a se notar é que o tipo de roupa celeste, vamos chama-las assim, nos revela um importante aspecto. O ser humano é corpo e alma e vestir-se com decência nos permite demonstrar nossos valores e qualidades interiores. A dica foi dada pelos céus, Deus irá julgar os corações. Nossas roupas só nos servem para demonstrar para o Cristo e para os outros o que existe em nossos corações.

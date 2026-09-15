@@ -4,7 +4,8 @@ date: 2018-08-08T12:42:00.002Z
 heroImage: "/images/posts/1422-a-crise-da-catequese-católica-catequese.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1422-a-crise-da-catequese-católica-catequese.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1422-a-crise-da-catequese-católica-catequese.png" width="320" height="305" data-original-width="331" data-original-height="315" /></a></div>
+![](/images/posts/1422-a-crise-da-catequese-católica-catequese.png)
+
 Dizer que há uma crise no mundo da catequese católica é um eufemismo. Três gerações de jovens católicos foram mal servidos pela formação na fé que eles mereceram, mas não receberam. Claro, eles não se opuseram muito, nem o fazem atualmente. Muitos simplesmente se foram do nosso meio, nunca tendo conhecido a riqueza da fé que abandonaram. Os católicos há muito que agonizam com as causas da má catequese.</br>
 </br>
 Há demasiadas homilias que são longas em afirmações vagas de que devemos nos amar uns aos outros, mas tristemente desprovidos de doutrina e advertências contra o pecado. Há a confusão doutrinal que veio com “o espírito do Vaticano II”. Todos os catequistas modernos são mal formados na própria fé. As aulas diárias de religião nas escolas católicas do passado foram substituídas em grande parte por sessões semanais de 45 minutos para crianças de escolas públicas chamadas de ensino religioso. E por aí vai, nem vamos nos alongar aqui.</br>

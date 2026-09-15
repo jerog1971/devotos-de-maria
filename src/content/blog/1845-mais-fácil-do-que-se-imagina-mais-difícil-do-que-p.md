@@ -4,7 +4,9 @@ date: 2022-08-09T15:21:00.004Z
 heroImage: "/images/posts/1845-mais-fácil-do-que-se-imagina-mais-d-img-1556138275.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1845-mais-fácil-do-que-se-imagina-mais-d-img-1556138275.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="228" data-original-width="296" height="228" src="/images/posts/1845-mais-fácil-do-que-se-imagina-mais-d-img-2065830583.png" width="296" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Esta reflexão certamente pode ser aplicada em nossas vidas
+![](/images/posts/1845-mais-fácil-do-que-se-imagina-mais-d-img-2065830583.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Esta reflexão certamente pode ser aplicada em nossas vidas
 em muitas áreas. Muitos segmentos sofrem este tipo de influência, erros
 acontecem, situações indevidas, problemas de várias naturezas e toda gama de
 acontecimentos são provocados por conta de encararmos os percursos da vida de
@@ -45,4 +47,7 @@ experimentam o ouro e a prata, e os homens agradáveis a Deus, pelo cadinho da
 humilhação. Põe tua confiança em Deus e ele te salvará; orienta bem o teu
 caminho e espera nele. Conserva o temor dele até na velhice”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

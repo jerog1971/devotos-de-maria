@@ -4,7 +4,9 @@ date: 2020-10-26T15:29:00.003Z
 heroImage: "/images/posts/404-deus-crê-na-família-m_25C3_25A3e_e_filha.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/404-deus-crê-na-família-m_25C3_25A3e_e_filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1175" data-original-width="1077" height="320" src="/images/posts/404-deus-crê-na-família-m_25C3_25A3e_e_filha.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">E não foi um pensamento que depois ele colocou em prática e
+![](/images/posts/404-deus-crê-na-família-m_25C3_25A3e_e_filha.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">E não foi um pensamento que depois ele colocou em prática e
 percebeu que não funciona, que não dá certo. Em seu projeto de criação do ser
 humano ele concebeu homem (pai), mulher (mãe) e ordenou que procriassem
 (filhos): eis a constituição divina denominada de família. A família conforme o
@@ -37,4 +39,7 @@ sempre de escolhas e sempre de conversão, no tempo em que vivemos, o tempo da
 graça, ele nos aguarda com braços abertos para que nasçamos de novo, renovados
 por seu Espírito Santo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

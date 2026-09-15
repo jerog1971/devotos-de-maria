@@ -4,7 +4,9 @@ date: 2024-07-26T19:07:00.005Z
 heroImage: "/images/posts/081-muito-triste-muito_20triste.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/081-muito-triste-muito_20triste.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="449" height="314" src="/images/posts/081-muito-triste-muito_20triste.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“E o jovem foi embora muito triste porque tinha muitos bens”.
+![](/images/posts/081-muito-triste-muito_20triste.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“E o jovem foi embora muito triste porque tinha muitos bens”.
 Essa é uma das narrativas do evangelho. Onde a felicidade se esvai por conta de
 necessidades maiores na vida. Na explicação bíblica que Jesus apresentou, na
 busca por mais conhecimento e comprovações de suas certezas, o não nominado
@@ -48,4 +50,7 @@ podemos entrar na eternidade tristes porque estaremos separados dele para
 sempre, no fogo eterno do inferno, mas contentes por ter seguido seus ensinamentos
 para podermos prosperar nesta e na vida vindoura do paraíso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

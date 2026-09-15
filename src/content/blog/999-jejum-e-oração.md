@@ -4,9 +4,9 @@ date: 2025-02-25T18:02:00Z
 heroImage: "/images/posts/999-jejum-e-oração-jejum_20e_20ora_C3_A7_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/999-jejum-e-oração-jejum_20e_20ora_C3_A7_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="283" data-original-width="370" height="245" src="/images/posts/999-jejum-e-oração-jejum_20e_20ora_C3_A7_C3_A3o.png" width="320" /></a></div><p></p><p>
+![](/images/posts/999-jejum-e-oração-jejum_20e_20ora_C3_A7_C3_A3o.png)
 
-</p><p class="MsoNormal">Quando se você ouve a palavra jejum, o que vem à sua mente? Comida,
+<p class="MsoNormal">Quando se você ouve a palavra jejum, o que vem à sua mente? Comida,
 certo? Muito bem, então talvez você tenha pensado em grupos específicos de
 “alimentos” como chocolate, doces e sorvetes e por aí vai. Mas você sabia que
 esse é apenas um aspecto do jejum? TV, filmes, leitura de ficção, videogames,
@@ -47,4 +47,7 @@ mais nessa prática e, consequentemente, os frutos serão cada vez melhores e ma
 Experimente, quem vos escreve já jejua há mais tempo do que posso me recordar
 quando comecei; vale a pena.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p>
+
+<br /> 
+

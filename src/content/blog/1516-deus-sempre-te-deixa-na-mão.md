@@ -4,7 +4,9 @@ date: 2021-05-30T13:07:00.003Z
 heroImage: "/images/posts/1516-deus-sempre-te-deixa-na-mão-deus_me_deixa_na_m_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1516-deus-sempre-te-deixa-na-mão-deus_me_deixa_na_m_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="440" data-original-width="449" src="/images/posts/1516-deus-sempre-te-deixa-na-mão-deus_me_deixa_na_m_25C3_25A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Duas coisas acontecem em nossa vida, relacionadas ao convívio
+![](/images/posts/1516-deus-sempre-te-deixa-na-mão-deus_me_deixa_na_m_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Duas coisas acontecem em nossa vida, relacionadas ao convívio
 com Deus; depois mais outras duas, dependendo das escolhas que fazemos. Deus
 pode se alegrar ou entristecer conosco e a culpa disso são as atitudes que
 tomamos por causa das escolhas que fazemos. Certamente todos que exercem o dom
@@ -38,4 +40,7 @@ do que fazemos com nosso comportamento, as escrituras nos ensinam que ele nos
 deixa livre para decidir, se decidirmos por um caminho diferente do que nos
 propõe ela é clara, ele irá nos deixar na mão, não reclamemos!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

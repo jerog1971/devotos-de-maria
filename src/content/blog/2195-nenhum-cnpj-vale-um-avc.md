@@ -4,15 +4,16 @@ date: 2025-01-30T18:49:00Z
 heroImage: "/images/posts/2195-nenhum-cnpj-vale-um-avc-correria_20do_20dia_20a_20dia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2195-nenhum-cnpj-vale-um-avc-correria_20do_20dia_20a_20dia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="270" data-original-width="284" height="270" src="/images/posts/2195-nenhum-cnpj-vale-um-avc-correria_20do_20dia_20a_20dia.png" width="284" /></a></div><br />&nbsp;
+![](/images/posts/2195-nenhum-cnpj-vale-um-avc-correria_20do_20dia_20a_20dia.png)
 
+<br /> 
 
 	
 	
 	
 	
 
-<p></p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p><p style="line-height: 100%; margin-bottom: 0cm;">Relembrando a ótica dos mandamentos divinos podemos perceber que
+<p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;"> </p><p style="line-height: 100%; margin-bottom: 0cm;">Relembrando a ótica dos mandamentos divinos podemos perceber que
 Deus espera de sua criação, que, dentre os sete dias da semana,
 seja separado um para se dar mais atenção ao que vem de Deus e
 menos atenção ao que vem do mundo. A leitura bíblica aponta muito
@@ -53,4 +54,5 @@ pois, não nos sobra tempo para “buscar as coisas do alto”.</p>
 <p style="line-height: 100%; margin-bottom: 0cm;">Fonte: Jefferson
 Roger</p>
 
-<p><style type="text/css">p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }</style></p>
+<style type="text/css">p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }</style>
+

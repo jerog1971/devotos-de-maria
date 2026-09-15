@@ -4,7 +4,9 @@ date: 2020-12-31T15:38:00.001Z
 heroImage: "/images/posts/249-outra-passagem-de-ano-ano_novo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/249-outra-passagem-de-ano-ano_novo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="150" data-original-width="176" height="184" src="/images/posts/249-outra-passagem-de-ano-ano_novo.png" width="216" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ano civil está por terminar, enquanto escrevo este artigo,
+![](/images/posts/249-outra-passagem-de-ano-ano_novo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ano civil está por terminar, enquanto escrevo este artigo,
 dia 31/12/2020, recordo que algumas pessoas já estão de folga de seus
 trabalhos. Outras não estão de folga porque estão desempregadas. Outras estão
 hospitalizadas, muito enfermas (graças a tantas doenças e a esta pandemia).
@@ -56,4 +58,7 @@ mais algum ano ou anos.<o:p></o:p></p>
 <p class="MsoNormal">Não importa, o que importa não é quanto tempo temos e sim o
 que fazemos com o tempo que Deus nos concede.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

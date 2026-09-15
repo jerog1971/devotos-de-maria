@@ -4,7 +4,8 @@ date: 2017-09-15T14:57:00Z
 heroImage: "/images/posts/773-pais-desinteressados-pais_desinteressados.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/773-pais-desinteressados-pais_desinteressados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/773-pais-desinteressados-pais_desinteressados.png" width="320" height="229" data-original-width="601" data-original-height="431" /></a></div>
+![](/images/posts/773-pais-desinteressados-pais_desinteressados.png)
+
 “Filhos, obedecei em tudo a vossos pais, porque isto agrada ao Senhor. Pais, deixai de irritar vossos filhos, para que não se tornem desanimados”, assim lemos na carta aos Colossenses 3,20-21. “Filhos, obedecei a vossos pais segundo o Senhor; porque isto é justo. Pais, não exaspereis vossos filhos. Pelo contrário, criai-os na educação e doutrina do Senhor”, assim também lemos na carta aos Efésios. Pois muito bem, caros leitores, é fato conhecidíssimo de todos que no contexto da família, pensada, desejada e criada por Deus, precisa existir dentro da democracia familiar, também uma hierarquia, bom senso e, colocando um olhar espiritual sobre o assunto, uma direção espiritual.</br>
 </br>
 Os pais devem ser, ao modelo de São José, os provedores e mantenedores da casa e da família, e vejam que isto não exclui a participação da mulher que é benvinda em épocas atuais. O problema é que muitos pais viram as costas para o mandato de Deus que diz que “devemos cuidar do povo e da sua religião (1ª Macabeus 3,43). Ora, não deve haver espanto nisso porque nosso povo começa dentro de nossa casa, com marido, esposa e filhos, então, a célula básica de humanidade, alvo constante do diabo, é nossa conhecida igreja doméstica. Por isso também, pais são chamados de primeiros catequistas.</br>

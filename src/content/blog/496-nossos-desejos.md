@@ -4,7 +4,9 @@ date: 2021-04-16T18:49:00.004Z
 heroImage: "/images/posts/496-nossos-desejos-Nossos_desejos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/496-nossos-desejos-Nossos_desejos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="424" data-original-width="385" height="320" src="/images/posts/496-nossos-desejos-Nossos_desejos.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O desejo humano alcança um leque imenso de opções. E embora
+![](/images/posts/496-nossos-desejos-Nossos_desejos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O desejo humano alcança um leque imenso de opções. E embora
 possa soar estranho, eles estão sujeitos à mercê de nossos comandos. Sim, é
 sabido que o corpo está sujeito aos comandos impostos pela pessoa. Conforme Jesus
 nos ensinou, os desejos brotam no coração, depois instalam-se na mente que
@@ -42,4 +44,7 @@ procede com falsidade, nela achará ocasião de pecado. Aqueles que temem o
 Senhor terão um juízo reto, e farão brilhar como uma tocha a sua justiça. O
 pecador foge da censura, e encontra precedentes segundo o seu desejo”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

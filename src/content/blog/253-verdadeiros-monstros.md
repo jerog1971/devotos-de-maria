@@ -4,7 +4,9 @@ date: 2022-10-03T19:41:00Z
 heroImage: "/images/posts/253-verdadeiros-monstros-monstros.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/253-verdadeiros-monstros-monstros.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="806" data-original-width="747" height="320" src="/images/posts/253-verdadeiros-monstros-monstros.png" width="297" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Vamos imaginar que nossa concepção sobre monstros esteja
+![](/images/posts/253-verdadeiros-monstros-monstros.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Vamos imaginar que nossa concepção sobre monstros esteja
 relacionada com imagens grotescas, seres que querem nos ferir, causar o mal e
 toda a forma de prejuízo. Seguindo por esta linha de pensamento admitamos que o
 anjo caído Lúcifer, após sua queda do paraíso, conforme relatos bíblicos, foi
@@ -40,4 +42,7 @@ um leão a espreita esperando uma oportunidade para dar o bote”. O mal se embe
 para atrair olhares e esconder as suas monstruosidades que tanto almejam a
 derrocada das almas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

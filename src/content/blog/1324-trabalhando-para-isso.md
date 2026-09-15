@@ -4,7 +4,9 @@ date: 2024-02-28T21:47:00.003Z
 heroImage: "/images/posts/1324-trabalhando-para-isso-trabalhando_20para_20isso.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1324-trabalhando-para-isso-trabalhando_20para_20isso.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="405" height="256" src="/images/posts/1324-trabalhando-para-isso-trabalhando_20para_20isso.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certa vez, quando eu trabalhava em uma empresa de móveis sob
+![](/images/posts/1324-trabalhando-para-isso-trabalhando_20para_20isso.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certa vez, quando eu trabalhava em uma empresa de móveis sob
 medida, presenciei alguns fatos bem pertinentes e relacionados às escolhas que
 fazemos na trajetória de nossas vidas. Havia nessa empresa, entre os funcionários,
 dois irmãos marceneiros: o Carlos e o Luiz. Eram talentosos no ofício que
@@ -34,4 +36,7 @@ admitir no reino dos céus. Nosso caminho é cheio de escolhas, bem tortuoso e �
 adivinhe, uma subida íngreme; ou alguém achou que o paraíso, o céu das alegrias
 eternas fica no andar de baixo?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

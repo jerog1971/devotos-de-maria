@@ -4,7 +4,8 @@ date: 2015-12-01T12:39:00.001Z
 heroImage: "/images/posts/2134-levamos-tudo-a-sério-levar_a_serio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2134-levamos-tudo-a-sério-levar_a_serio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2134-levamos-tudo-a-sério-levar_a_serio.png" width="320" height="301" data-original-width="442" data-original-height="416" /></a></div>
+![](/images/posts/2134-levamos-tudo-a-sério-levar_a_serio.png)
+
 <br>
 Mateus 16,24-27</br>
 </br>

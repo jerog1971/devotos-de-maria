@@ -4,7 +4,11 @@ date: 2020-07-16T20:02:00Z
 heroImage: "/images/posts/1826-as-chagas-de-nosso-senhor-jesus-cri-Maria_Marta_Chambon.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1826-as-chagas-de-nosso-senhor-jesus-cri-Maria_Marta_Chambon.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="234" data-original-width="232" src="/images/posts/1826-as-chagas-de-nosso-senhor-jesus-cri-Maria_Marta_Chambon.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Já sabemos através de revelações privadas que nosso Salvador
+<br />
+
+![](/images/posts/1826-as-chagas-de-nosso-senhor-jesus-cri-Maria_Marta_Chambon.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Já sabemos através de revelações privadas que nosso Salvador
 pretende que suas santas chagas estejam visíveis por toda a eternidade nos céus
 para que seja memória de quanto ele se sujeito por amor a todos os pecadores. Não
 foi por uma vã glória, ou para se aparecer, ou para “ficar bem na foto” com

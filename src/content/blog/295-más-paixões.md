@@ -4,7 +4,9 @@ date: 2021-07-26T19:41:00.001Z
 heroImage: "/images/posts/295-más-paixões-m_25C3_25A1s_paix_25C3_25B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/295-más-paixões-m_25C3_25A1s_paix_25C3_25B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="357" data-original-width="326" height="320" src="/images/posts/295-más-paixões-m_25C3_25A1s_paix_25C3_25B5es.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Pela intercessão de São Miguel e do coro celeste das
+![](/images/posts/295-más-paixões-m_25C3_25A1s_paix_25C3_25B5es.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Pela intercessão de São Miguel e do coro celeste das
 Dominações, para que o Senhor nos conceda a graça de dominar nossos sentidos, e
 de nos corrigir de nossas más paixões. Amém!” Essa é a quarta saudação que
 fazemos quando rezamos o terço de São Miguel. Sobre as paixões, recordemos
@@ -37,4 +39,7 @@ apontamentos e, mais uma vez, percebemos que se trata de uma escolha: abraçamos
 a ruína da alma através das más paixões ou a glória vindoura dos céus exercendo
 no agora uma vida consciente e sóbria, pautada na palavra de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

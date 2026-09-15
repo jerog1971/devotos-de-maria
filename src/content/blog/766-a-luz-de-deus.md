@@ -4,7 +4,8 @@ date: 2019-09-20T18:59:00.003Z
 heroImage: "/images/posts/766-a-luz-de-deus-a_luz_de_Deus.jpg"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/766-a-luz-de-deus-a_luz_de_Deus.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/766-a-luz-de-deus-a_luz_de_Deus.jpg" width="320" height="240" data-original-width="816" data-original-height="612" /></a></div>
+![](/images/posts/766-a-luz-de-deus-a_luz_de_Deus.jpg)
+
 Deus, aprendemos no livro do Gênesis, separou a luz das trevas e viu que isso era bom. Viu que era bom porque a mistura de duas coisas opostas não harmonizam perfeitamente. Experimente colocar num copo de água um pouco de óleo; irá ver que o óleo não mistura com a água. A analogia serve para compreendermos o que devemos reter de Deus para nossas vidas. Alguém acende uma luz em sua casa durante o dia? Possivelmente não, não há necessidade, a claridade das janelas que recebem a luz do sol conseguem iluminar o ambiente.</br>
 </br>
 Lemos em Apocalipse 21,23 que “a cidade (a Jerusalém celeste) não necessita de sol nem de lua para iluminar, porque a glória de Deus a ilumina, e a sua luz é o Cordeiro”. Bendita luz de Deus, cheia de glória, que nos cobre em vida afastando as trevas. Temos que agir como Deus, entendermos que é bom a luz estar separada das trevas e mais, mergulharmos em sua glória e nos inundarmos em sua luz.</br>

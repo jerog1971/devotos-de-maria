@@ -4,7 +4,9 @@ date: 2023-11-17T17:19:00.002Z
 heroImage: "/images/posts/2182-ontem-se-foi-hoje-chegou-img-1535567501.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2182-ontem-se-foi-hoje-chegou-img-1535567501.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="388" data-original-width="393" height="316" src="/images/posts/2182-ontem-se-foi-hoje-chegou-img-892066665.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É sempre assim, caminhamos na vida em pares. Sempre é passado
+![](/images/posts/2182-ontem-se-foi-hoje-chegou-img-892066665.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É sempre assim, caminhamos na vida em pares. Sempre é passado
 e presente ou presente e futuro; o ser humano possui estas questões sempre
 presentes em sua mente. Afinal, não pode viver sem qualquer direção porque na ausência
 de uma certamente o mal irá oferecer todas as opções disponíveis para que a
@@ -33,4 +35,7 @@ as datas não coincidiram. Então, já que os nubentes resolveram tornar públic
 perante os homens a decisão do casal, Deus a endossa neste momento, onde posteriormente
 as demais bênçãos divinas acontecerão na cerimônia oficial na igreja.<o:p></o:p></p>
 
-<p class="MsoNormal">Artigos anteriores:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/apos-tres-dias-ressuscitou.html" target="_blank">7 - Após três dias ressuscitou</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/esta-logo-ali.html" target="_blank">6 - Está logo ali</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-passo-de-cada-vez.html" target="_blank">5 - Um passo de cada vez</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/seis-dias.html" target="_blank">4 - Seis dias</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/so-mais-uma-semana.html" target="_blank">3 - Só mais uma semana</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-dia-menos.html" target="_blank">2 - Um dia a menos</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Artigos anteriores:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/apos-tres-dias-ressuscitou.html" target="_blank">7 - Após três dias ressuscitou</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/esta-logo-ali.html" target="_blank">6 - Está logo ali</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-passo-de-cada-vez.html" target="_blank">5 - Um passo de cada vez</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/seis-dias.html" target="_blank">4 - Seis dias</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/so-mais-uma-semana.html" target="_blank">3 - Só mais uma semana</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/um-dia-menos.html" target="_blank">2 - Um dia a menos</a><br /></p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2023/11/contando-os-dias.html" target="_blank">1 - Contando os dias</a></p><p class="MsoNormal">Fonte: Jefferson Roger</p></div>
+
+<br /> 
+

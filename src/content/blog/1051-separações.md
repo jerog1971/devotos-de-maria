@@ -4,7 +4,9 @@ date: 2024-08-12T17:18:00.005Z
 heroImage: "/images/posts/1051-separações-separa_C3_A7_C3_B5es.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1051-separações-separa_C3_A7_C3_B5es.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="355" data-original-width="354" height="320" src="/images/posts/1051-separações-separa_C3_A7_C3_B5es.png" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A fé nos ensina que a separação é temporária. Diz que
+![](/images/posts/1051-separações-separa_C3_A7_C3_B5es.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A fé nos ensina que a separação é temporária. Diz que
 precisamos morrer para vivermos eternamente. Pois é, todo mundo quer ir para o
 céu, mas ninguém quer morrer. Se entende até porque se fala assim porque esse
 assunto – a morte – desperta até nos mais fortes uma sensação de desconforto,
@@ -40,4 +42,7 @@ e isso a fé bíblica nos confirma – os que amamos e viveram no esforço para
 agradar a Deus e ser um dia digno de ouvir as palavras mais esperadas que serão
 ditas por Jesus Cristo: Vinde benditos!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

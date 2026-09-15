@@ -4,7 +4,9 @@ date: 2016-03-28T20:08:00.003Z
 heroImage: "/images/posts/2031-como-o-profeta-jonas-profeta_jonas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2031-como-o-profeta-jonas-profeta_jonas.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="387" data-original-width="548" height="226" src="/images/posts/2031-como-o-profeta-jonas-profeta_jonas.png" width="320" /></a></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
+![](/images/posts/2031-como-o-profeta-jonas-profeta_jonas.png)
+
+<div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>
 Os dons e o chamado de Deus são irrevogáveis. Ou seja, caros leitores, o livre arbítrio que Deus te concede esbarra em certos limites. Você é livre para decidir, é livre para fazer escolhas, porém, essa sua liberdade não afeta em nada o que vem de Deus. Vamos entender melhor.
 
 Comecemos biblicamente falando. No antigo testamento muitos são os chamados a missão que Deus faz e este mesmo Deus capacita os seus eleitos através dos dons. Vejamos o exemplo de Moisés, que titubeou, mas Deus não voltou atrás. Vejamos o exemplo do profeta Jonas, que relutou na missão dada por Deus de falar aos ninivitas e Deus não voltou atrás.<div><br /></div><div>Podemos simplificar dizendo que Jonas ficou no ventre da baleia para compreender o que de fato o criador queria dele. Na linguagem da gíria podemos dizer que ele ficou de molho como se Deus dissesse que o que ele determinou está determinado, é preciso fazer.
@@ -24,4 +26,4 @@ Portanto não se preocupe, as dificuldades virão de todos os lados porque o ini
 
 Estejamos atentos porque se desanimarmos nos tornaremos preguiçosos e a cada queda mais esforço iremos precisar para nos levantar. Se nesta subida rumo aos céus estamos carregando nossa cruz e caímos, não iremos cair muito longe dela; mas se não estamos a carrega-la e caímos corremos o risco de rolarmos e perdermos o que já conquistamos até aqui.</div><div><br /></div><div>Artigos relacionados:</div><div><a href="https://www.devotos-de-maria.com.br/2017/01/catequista-nao-tira-ferias.html" target="_blank">Catequista não tira férias</a></div><div>
 
-<a href="https://www.devotos-de-maria.com.br/2017/05/a-catequese-em-5d.html" target="_blank">A catequese em 5D</a>&nbsp;</div><div><br /></div><div>Fonte: Jefferson Roger</div>
+<a href="https://www.devotos-de-maria.com.br/2017/05/a-catequese-em-5d.html" target="_blank">A catequese em 5D</a> </div><div><br /></div><div>Fonte: Jefferson Roger</div>

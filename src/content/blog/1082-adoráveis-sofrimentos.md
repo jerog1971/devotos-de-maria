@@ -4,7 +4,9 @@ date: 2025-10-02T12:15:00.001Z
 heroImage: "/images/posts/1082-adoráveis-sofrimentos-sofrimento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1082-adoráveis-sofrimentos-sofrimento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="408" height="308" src="/images/posts/1082-adoráveis-sofrimentos-sofrimento.png" width="320" /></a></div><br />&nbsp;<p></p><p style="line-height: 100%; margin-bottom: 0cm;">
+![](/images/posts/1082-adoráveis-sofrimentos-sofrimento.png)
+
+<br /> <p style="line-height: 100%; margin-bottom: 0cm;">
 É sempre e sempre será uma dúvida para o homem entender o tal do
 amor de Deus. Ainda mais em tempos como os que estamos, posteriores
 ao evangelho, onde Jesus Cristo anuncia que Deus é amor e os

@@ -4,7 +4,9 @@ date: 2022-06-27T15:37:00.004Z
 heroImage: "/images/posts/1738-referência-familiar-img-1019760059.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1738-referência-familiar-img-1019760059.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2274" data-original-width="2241" height="320" src="/images/posts/1738-referência-familiar-img-1439711033.jpg" width="315" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida do ser humano, inserido dentro do seio familiar, é
+![](/images/posts/1738-referência-familiar-img-1439711033.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A vida do ser humano, inserido dentro do seio familiar, é
 pautada pelas referências incontestáveis de pai, mãe e irmãos. Claro, a
 natureza espiritual que possuímos também, de forma prioritária, nos coloca sob
 o jugo de referências mais altas: as referências divinas. Para o cristão, quis
@@ -29,4 +31,7 @@ filhos os mandamentos” – Deuteronômio 6,6 e educa-os como convém, no amor 
 temor a Deus (Eclesiástico 1,11-22), sendo exemplo de vida no modelo de Jesus
 Cristo (1ª Coríntios 11.1).<o:p></o:p></p>
 
-<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div><p><br />&nbsp;</p>
+<span style="font-family: &quot;Calibri&quot;,sans-serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: PT-BR; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin;">Fonte: Jefferson Roger</span></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2016-10-11T15:34:00Z
 heroImage: "/images/posts/244-o-vilão-do-consumismo-consumismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/244-o-vilão-do-consumismo-consumismo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/244-o-vilão-do-consumismo-consumismo.png" width="298" height="320" data-original-width="203" data-original-height="218" /></a></div>
+![](/images/posts/244-o-vilão-do-consumismo-consumismo.png)
+
 Existe uma oração pós comunhão que os católicos fazem a Deus onde pedem que por este sacramento que agora acabamos de receber abracemos as coisas que não passam em detrimento àquelas que passam. Pois bem, nada mais direto do que pedir a ajuda de Deus para deixarmos de lado os apegos materiais e prol de nos empenharmos em alcançar tudo aquilo que realmente necessitamos e nos importa nesta etapa da vida.</br>
 </br>
 Muitos se esquecem, ou fingem não saberem, ou ainda não aceitam, de que seus corpos um dia irão ressuscitar para a vida eterna. Não pensam o quanto será triste apresentar-se diante do justo juiz de mãos vazias e sem condições de ser defendido por quem quer que seja perante o tribunal celestial.</br>

@@ -4,9 +4,11 @@ date: 2024-12-12T19:13:00.002Z
 heroImage: "/images/posts/977-combates-invisíveis-terror_202.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/977-combates-invisíveis-terror_202.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="432" data-original-width="569" height="243" src="/images/posts/977-combates-invisíveis-terror_202.png" width="320" /></a></div><br />&nbsp;
+![](/images/posts/977-combates-invisíveis-terror_202.png)
 
-<p></p><p class="MsoNormal">O mal existe, acho que todos concordamos quanto isso. Claro,
+<br /> 
+
+<p class="MsoNormal">O mal existe, acho que todos concordamos quanto isso. Claro,
 existem algumas divergências em relação aos aspectos de mal e alguns relativismos
 que deduzem que algo não é mal quando na verdade é. O mal é uma energia pesada,
 mais densa, ela incomoda, ela retira o calor de ambientes, é negra, escura,
@@ -36,5 +38,4 @@ lutas, mas com garantia de vitória final? Parece algo ótimo a se fazer e
 nenhuma perda ao se tentar.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

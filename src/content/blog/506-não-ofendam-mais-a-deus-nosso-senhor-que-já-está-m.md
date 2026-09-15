@@ -4,7 +4,8 @@ date: 2019-05-13T16:32:00.002Z
 heroImage: "/images/posts/506-não-ofendam-mais-a-deus-nosso-senhor-Nossa_Senhora.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/506-não-ofendam-mais-a-deus-nosso-senhor-Nossa_Senhora.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/506-não-ofendam-mais-a-deus-nosso-senhor-Nossa_Senhora.png" width="317" height="320" data-original-width="233" data-original-height="235" /></a></div>
+![](/images/posts/506-não-ofendam-mais-a-deus-nosso-senhor-Nossa_Senhora.png)
+
 Caros leitores, mais uma data comemorativa relacionada à Nossa Senhora. Celebra-se hoje a primeira aparição em Fátima para os pastorinhos Lucia, Francisco e Jacinta. Num total de seis aparições em Fátima, ou devíamos recordar que são mais seis puxões de orelha, porque é sempre isso que uma mãe que ama seus filhos faz graças a esse amor, uma vez que ela lança muitas advertências para a humanidade que vão somando-se ao longo da história das aparições.</br>
 </br>
 À primeira vista parece o título desse artigo, que é uma frase de Maria Santíssima, soar como um apelo ao pobrezinho e coitadinho Jesus. Pessoal, clama a mãe de Deus, por favor parem de ofender o meu filho, ele fez tanto por vocês e a resposta que dão para ele é com essa tamanha ingratidão?</br>

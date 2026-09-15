@@ -4,7 +4,9 @@ date: 2022-09-21T17:21:00.004Z
 heroImage: "/images/posts/473-a-bifurcação-da-vida-porta_estreita.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/473-a-bifurcação-da-vida-porta_estreita.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="405" data-original-width="323" height="320" src="/images/posts/473-a-bifurcação-da-vida-porta_estreita.png" width="255" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Dizem que devemos aproveitar a vida porque ela é curta.
+![](/images/posts/473-a-bifurcação-da-vida-porta_estreita.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Dizem que devemos aproveitar a vida porque ela é curta.
 Dizem que devemos correr atrás de nossos desejos porque a vida é curta. Não sabemos
 quanto tempo temos de vida, então, se tem uma coisa que não devemos fazer é
 perder tempo. Com essa cultura aplicada sobre a humanidade, uma das coisas que
@@ -50,4 +52,7 @@ mundo constitui-se inimigo de Deus” – Tiago 4,4. Portanto, “como não se
 preocupassem em adquirir o conhecimento de Deus, Deus entregou-os aos
 sentimentos depravados” – Romanos 1,28.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

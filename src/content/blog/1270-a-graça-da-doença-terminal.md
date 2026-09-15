@@ -4,7 +4,8 @@ date: 2018-09-28T20:33:00Z
 heroImage: "/images/posts/1270-a-graça-da-doença-terminal-doen_25C3_25A7a_terminal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1270-a-graça-da-doença-terminal-doen_25C3_25A7a_terminal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1270-a-graça-da-doença-terminal-doen_25C3_25A7a_terminal.png" width="320" height="311" data-original-width="515" data-original-height="500" /></a></div>
+![](/images/posts/1270-a-graça-da-doença-terminal-doen_25C3_25A7a_terminal.png)
+
 Em toda a história da humanidade é sabido que o diabo quer implantar nos seres humanos o ódio ao sofrimento e a dor. Quer implantar nas pessoas a busca incessante pelos prazeres e tudo que é bom, de todas as formas, e uma repulsa imensa por tudo que machuca, dói e nos faz sofrer.</br>
 </br>
 E não é de se admirar que ele tenha essa atitude, afinal, o cristão sabe o que Jesus aceitou fazer por cada um de nós. Foi algo diferente de sentir dor e sofrer? Sabemos que não, sabemos que era necessária essa reparação pelos pecados da humanidade. O preço foi alto e o remédio curador, bem amargo.</br>

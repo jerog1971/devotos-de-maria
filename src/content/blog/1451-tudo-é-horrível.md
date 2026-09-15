@@ -4,7 +4,9 @@ date: 2021-06-16T15:43:00.004Z
 heroImage: "/images/posts/1451-tudo-é-horrível-horr_25C3_25ADvel.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1451-tudo-é-horrível-horr_25C3_25ADvel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="611" data-original-width="611" height="320" src="/images/posts/1451-tudo-é-horrível-horr_25C3_25ADvel.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Muitos sinônimos se encaixam no adjetivo horrível: horrendo,
+![](/images/posts/1451-tudo-é-horrível-horr_25C3_25ADvel.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Muitos sinônimos se encaixam no adjetivo horrível: horrendo,
 muito ruim, desagradável, abominável, deplorável estão entre algumas
 possibilidades. O problema, no entanto, não está no uso que a pessoa faz dele,
 pois, o que vem antes na construção de uma frase tem um peso e um significado
@@ -35,4 +37,7 @@ e da terra esteja comunicando que não é tudo horrível e sim, que tudo é
 necessário, pois o termo para isso é a entrada em seu reino e por conta disso,
 tudo pode ser vivido com fé.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

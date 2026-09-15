@@ -4,7 +4,11 @@ date: 2020-05-13T16:34:00Z
 heroImage: "/images/posts/2237-as-minúcias-de-fátima-img-1366138558.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2237-as-minúcias-de-fátima-img-1366138558.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="339" data-original-width="366" src="/images/posts/2237-as-minúcias-de-fátima-img-1366138558.jpgs320/Nossa_Senhora_de_F%25C3%25A1tima.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Um olhar mais atento para as coisas espirituais de nossa
+<br />
+
+![](/images/posts/2237-as-minúcias-de-fátima-img-1366138558.jpgs320/Nossa_Senhora_de_F%25C3%25A1tima.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Um olhar mais atento para as coisas espirituais de nossa
 realidade sempre irá mostrar que muita coisa está relacionada e, conhecendo
 aqui, pode se reconhecer o ali e o acolá. Vamos dar uma passadinha pelas
 ligações e mensagens de Nossa Senhora de Fátima e nos encantarmos com o cuidado
@@ -49,6 +53,6 @@ de Maria e suplicar a intercessão da Virgem de Fátima, para que ela nos conduz
 ao seu filho, nos cubra com seu manto e nos ajude a configurarmos o nosso agir
 de modo que seja agradável a Deus.</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p></div>

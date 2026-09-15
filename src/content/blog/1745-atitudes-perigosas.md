@@ -4,7 +4,9 @@ date: 2024-04-01T19:42:00.003Z
 heroImage: "/images/posts/1745-atitudes-perigosas-img-1428607651.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1745-atitudes-perigosas-img-1428607651.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="550" data-original-width="585" height="301" src="/images/posts/1745-atitudes-perigosas-img-686735362.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">É bem assim como vemos nos quadrinhos, existem pessoas que
+![](/images/posts/1745-atitudes-perigosas-img-686735362.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">É bem assim como vemos nos quadrinhos, existem pessoas que
 nos surpreendem e mal esperávamos um comportamento daquela natureza. Eis o mal
 por cairmos na tentação de julgarmos livros pelas capas, pessoas antes de
 abrirem a boca e situações antes de conhecermos os motivos.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -33,4 +35,7 @@ então deveríamos agir de forma bem diferente desse modelo mundano e egoísta. 
 pode ser “visto” por Deus. Nós enxergamos atitudes e justamente por isso não
 podemos manchar nossas vidas e nossa caminhada para o céu, com más.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-01-28T18:37:00.004Z
 heroImage: "/images/posts/1575-o-problema-das-gerações-sejamos_20virtuosos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1575-o-problema-das-gerações-sejamos_20virtuosos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="198" data-original-width="245" height="198" src="/images/posts/1575-o-problema-das-gerações-sejamos_20virtuosos.png" width="245" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O que está acontecendo com as gerações presentes no mundo de
+![](/images/posts/1575-o-problema-das-gerações-sejamos_20virtuosos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O que está acontecendo com as gerações presentes no mundo de
 hoje? Como um homem católico de 51 anos, vejo muitos em um estado degenerado.
 Age-se sem pensar. A humanidade segue mantras como "Apenas faça isso"
 e "Você só vive uma vez". É egocêntrico e infantil. Estamos quebrados
@@ -40,4 +42,7 @@ Heróis não podem existir sem ideais sérios. Precisamos nos voltar para exempl
 como São Domingos Sávio para consertar nosso quebrantamento e nos tornarmos uma
 geração idealista e virtuosa.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

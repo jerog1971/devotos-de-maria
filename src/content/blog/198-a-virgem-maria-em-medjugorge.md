@@ -4,12 +4,15 @@ date: 2017-12-14T19:25:00Z
 heroImage: "/images/posts/198-a-virgem-maria-em-medjugorge-medjugorje2.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/198-a-virgem-maria-em-medjugorge-medjugorje2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/198-a-virgem-maria-em-medjugorge-medjugorje2.png" width="297" height="320" data-original-width="209" data-original-height="225" /></a></div>
+![](/images/posts/198-a-virgem-maria-em-medjugorge-medjugorje2.png)
+
 Alguns meses depois do início das aparições em Medjugorge na data de 24/06/1981, a Virgem Maria começou a confiar aos videntes, informações as quais, eles não foram autorizados a partilhar com outras pessoas. Estas informações são profecias – eventos futuros preditos pela Virgem. Dentro do movimento Medjugorje elas são referidas como “os segredos”, um termo que os videntes foram os primeiros a usarem. De acordo com os videntes, os eventos terão lugar durante o período de suas vidas. Os seis videntes nasceram entre 1964 e 1971. Pelo menos no caso de Mirjana os eventos serão anunciados ao mundo antes que ocorram. Três dias antes, para ser exato.</br>
 </br>
 Alguns dos segredos são de natureza global, outros locais, e outros ainda têm a ver com os próprios videntes. De acordo com Mirjana (que diz que sabe o momento de cada segredo até a hora e minuto), “as datas dos segredos não foram alteradas e não podem ser”. Apesar de seu conhecimento e, apesar de que os segredos mais recentes entristeceram todos os videntes, eles têm dito repetidamente que não se deve temer os 10 segredos. Em vez disso eles têm insistido com todos para se prepararem -, fazendo bom uso deste tempo que a Virgem Maria tem chamado de “um tempo de graça”: Um tempo para converter e voltar para Deus por meio da oração, o jejum, a confissão, indo à igreja e lendo a Bíblia.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/198-a-virgem-maria-em-medjugorge-medjugorje.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/198-a-virgem-maria-em-medjugorge-medjugorje.png" width="110" height="200" data-original-width="378" data-original-height="685" /></a></div>
+
+![](/images/posts/198-a-virgem-maria-em-medjugorge-medjugorje.png)
+
 “Não há necessidade de assustar as pessoas. A Virgem Maria não vem para assustar ninguém. Isso não é seu objetivo. Ela vem para nos ajudar”, disse Ivan, em 1992 e, novamente, em muitas outras ocasiões. “Com a oração e a penitência o castigo pode ser diminuído. Eu só posso dizer: Prepare-se. Se você fizer isso, você vai agradecer a Deus por toda a eternidade”, disse Vicka. Uma vidente para quem a Virgem Maria já explicou cada “como e que” é Mirjana. Primeira vidente a receber o décimo segredo, a Mirjana também foi confiada a missão de revelar seus segredos para o mundo quando chegar a hora. Isso ela vai fazer por meio do padre franciscano Petar Ljubicic a quem ela escolheu para este fim em 1985.</br>
 </br>
 Desde então Mirjana explicou o procedimento em inúmeras ocasiões: Dez dias antes de cada evento ela irá alertar o padre Petar que um evento coberto pelos segredos está prestes a ocorrer. Em seguida, os dois vão orar e jejuar por sete dias. Três dias antes de cada ocorrência, Mirjana disse que o padre Petar vai tornar público o que vai acontecer três dias depois.</br>

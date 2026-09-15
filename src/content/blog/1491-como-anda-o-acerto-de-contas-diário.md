@@ -4,7 +4,9 @@ date: 2022-05-13T20:27:00.001Z
 heroImage: "/images/posts/1491-como-anda-o-acerto-de-contas-diário-exame_20de_20consci_C3_AAncia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1491-como-anda-o-acerto-de-contas-diário-exame_20de_20consci_C3_AAncia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="509" data-original-width="696" height="234" src="/images/posts/1491-como-anda-o-acerto-de-contas-diário-exame_20de_20consci_C3_AAncia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Não é isso que cada um deve fazer todos os dias, inclusive
+![](/images/posts/1491-como-anda-o-acerto-de-contas-diário-exame_20de_20consci_C3_AAncia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Não é isso que cada um deve fazer todos os dias, inclusive
 ao menos três vezes ao dia? Sim, caso não saiba, essa é uma prática religiosa
 muito antiga: de pela manhã, ao meio dia e quando vamos dormir, refletirmos
 como foi nossa relação com Deus, nossos propósitos, desempenho ao longo do dia
@@ -35,4 +37,7 @@ caminho da porta estreita, a porta do céu, que irá nos gloriar com a coroa da
 felicidade eterna no reino dos céus, preparado por Jesus aos aptos para ouvirem
 o “Vinde Benditos de meu Pai”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

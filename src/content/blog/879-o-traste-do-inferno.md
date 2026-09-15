@@ -4,7 +4,8 @@ date: 2017-09-04T12:18:00Z
 heroImage: "/images/posts/879-o-traste-do-inferno-traste.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/879-o-traste-do-inferno-traste.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/879-o-traste-do-inferno-traste.png" width="310" height="320" data-original-width="435" data-original-height="449" /></a></div>
+![](/images/posts/879-o-traste-do-inferno-traste.png)
+
 A palavra traste originalmente significa coisa velha, de pouco valor, antigamente utilizada para se referir a alguma coisa em casa de pouco valor. Com o passar do tempo, a expressão sempre viva e em constante mutação, que chamamos de linguagem falada, adotou essa palavra para também se referir a uma pessoa que presta para nada, que é inútil. Colocadas as coisas dessa maneira, podemos enxergar claramente uma ligação dessa expressão coloquial popular com algumas passagens bíblicas que apontam para essa possível realidade na vida de uma pessoa.</br>
 </br>
 Eclesiástico 15,21-22 – “Ele (Deus) não deu ordem a ninguém para fazer o mal, e a ninguém deu licença para pecar; pois não deseja uma multidão de filhos infiéis e INÚTEIS.</br>

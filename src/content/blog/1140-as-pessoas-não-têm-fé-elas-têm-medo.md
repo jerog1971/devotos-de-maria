@@ -4,7 +4,8 @@ date: 2020-03-16T15:34:00.003Z
 heroImage: "/images/posts/1140-as-pessoas-não-têm-fé-elas-têm-medo-f_25C3_25A9_medo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1140-as-pessoas-não-têm-fé-elas-têm-medo-f_25C3_25A9_medo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1140-as-pessoas-não-têm-fé-elas-têm-medo-f_25C3_25A9_medo.png" width="320" height="190" data-original-width="577" data-original-height="342" /></a></div>
+![](/images/posts/1140-as-pessoas-não-têm-fé-elas-têm-medo-f_25C3_25A9_medo.png)
+
 Em trinta e três livros das sagradas escrituras encontramos algum ensinamento relacionado com o medo. Jesus perguntou em Mateus 8,26 – “Por que este medo, gente de pouca fé?” Também disse em Mateus 14,27 – “Tranquilizai-vos, sou eu. Não tenhais medo!” E disse também em Lucas 12,4-5 – “Digo-vos a vós, meus amigos: não tenhais medo daqueles que matam o corpo e depois disto nada mais podem fazer. Mostrar-vos-ei a quem deveis temer: temei àquele que, depois de matar, tem poder de lançar no inferno; sim, eu vo-lo digo: temei a este.” E para início de conversa, Jesus faz também pronunciamentos proféticos, Lucas 21,26-28 – “Os homens definharão de medo, na expectativa dos males que devem sobrevir a toda a terra. As próprias forças dos céus serão abaladas. Então verão o Filho do Homem vir sobre uma nuvem com grande glória e majestade. Quando começarem a acontecer estas coisas, reanimai-vos e levantai as vossas cabeças; porque se aproxima a vossa libertação.”</br>
 </br>
 No entanto o Cristo é categórico – João 16,33 – “No mundo haveis de ter aflições. Coragem! Eu venci o mundo.”</br>

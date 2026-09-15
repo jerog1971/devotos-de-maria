@@ -4,7 +4,8 @@ date: 2020-03-22T00:56:00.002Z
 heroImage: "/images/posts/1997-nossa-senhora-disse-rezem-pelos-sac-zombar_de_Deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1997-nossa-senhora-disse-rezem-pelos-sac-zombar_de_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1997-nossa-senhora-disse-rezem-pelos-sac-zombar_de_Deus.png" width="320" height="305" data-original-width="408" data-original-height="389" /></a></div>
+![](/images/posts/1997-nossa-senhora-disse-rezem-pelos-sac-zombar_de_Deus.png)
+
 Pois eles são um grande presente de meu filho para vocês, agora vocês não entendem, mas no céu vocês entenderão, pois tudo vos será revelado. Pois bem, em épocas de <i>vacas gordas</i> tudo bem. Agora, em épocas de <i>vacas magras</i> a coisa é bem diferente, não se acha em cada esquina um Padre Kolbe, um Padre João Maria Vianney, um Padre Gabrielle Amorth ou um Padre Pio.</br>
 </br>
 Primeiro, que se alguém estiver na rua a caminhar, muito necessitado de ajuda espiritual, não é durante esse caminhar que irá encontrar o que precisa, pois poderá cruzar com um padre na rua e nunca ficará sabendo; eles não se vestem mais como padres. Voltamos a dizer, não podemos generalizar, alguns sacerdotes honram a batina e inclusive a usam. Segundo, as obrigações de estado do presbítero são muito serias; todo presbítero sabe disso, ou deveria saber. Mas o espírito está enfraquecido, a fé destes é muito aquém do esperado por Jesus.</br>

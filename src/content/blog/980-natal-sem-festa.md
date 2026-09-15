@@ -4,7 +4,9 @@ date: 2020-12-04T14:16:00.001Z
 heroImage: "/images/posts/980-natal-sem-festa-presepio2.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/980-natal-sem-festa-presepio2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="209" data-original-width="218" src="/images/posts/980-natal-sem-festa-presepio2.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A insistência humana em tentar um cabo de guerra contra Deus
+![](/images/posts/980-natal-sem-festa-presepio2.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A insistência humana em tentar um cabo de guerra contra Deus
 nunca termina. O homem que assim o faz – porque está se aliando ao diabo –
 sofre além do necessário e carimba um passaporte eterno com um destino bem
 diferente daquele que o altíssimo pensou e deseja para seus herdeiros.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -47,4 +49,7 @@ sabe. É sem dúvida um tira gosto, uma pequena amostra grátis, uma espécie de
 test-drive. Está servindo para alguma coisa em nossas vidas? Precisamos aproveitar
 esse tempo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

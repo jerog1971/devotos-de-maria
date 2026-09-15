@@ -4,7 +4,9 @@ date: 2024-02-15T17:02:00.003Z
 heroImage: "/images/posts/776-preocupações-desnecessárias-img-261184351.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/776-preocupações-desnecessárias-img-261184351.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="402" data-original-width="591" height="218" src="/images/posts/776-preocupações-desnecessárias-img-379015109.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na palavra de Deus encontramos muitos ensinamentos difíceis
+![](/images/posts/776-preocupações-desnecessárias-img-379015109.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na palavra de Deus encontramos muitos ensinamentos difíceis
 de serem seguidos ou sequer, compreendidos. Se fossem alguns, tudo bem, mas são
 inúmeros e cada um se apresenta para nós como uma barreira intelectual difícil
 de ser transposta. Dentre eles, os que mais exigem do filho de Deus, são os que
@@ -40,4 +42,7 @@ maiores nem que um grão de mostarda? Pois é... Se a pessoa confia em Deus, se
 despede dos parentes e vai dormir tranquila pois seus entes queridos estão sob
 os melhores cuidados que possam existir.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2020-10-09T15:16:00.004Z
 heroImage: "/images/posts/1218-é-quando-deus-quer-chuva.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1218-é-quando-deus-quer-chuva.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="758" data-original-width="980" src="/images/posts/1218-é-quando-deus-quer-chuva.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se ilude quem acha que é quando nós queremos. Alguém pode
+![](/images/posts/1218-é-quando-deus-quer-chuva.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se ilude quem acha que é quando nós queremos. Alguém pode
 espernear e dizer que não é bem assim, que as coisas não são só quando Deus
 quer, nós também detemos o mando de muitas coisas. Também é quando eu quero.
 Será? Vamos ver...<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -48,4 +50,7 @@ um dia a coroa da glória eterna. Perseverantes na oração, pacientes na tribul
 vai nos recordar São Paulo, afinal, é quando Deus quer que as coisas acontecem e
 quando tudo está em sintonia com o que ele espera de seus filhos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

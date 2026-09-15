@@ -4,14 +4,17 @@ date: 2016-06-23T13:28:00Z
 heroImage: "/images/posts/038-continuam-as-profanações-profana_25C3_25A7_25C3_25A3o.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/038-continuam-as-profanações-profana_25C3_25A7_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/038-continuam-as-profanações-profana_25C3_25A7_25C3_25A3o.png" width="320" height="219" data-original-width="398" data-original-height="272" /></a></div>
+![](/images/posts/038-continuam-as-profanações-profana_25C3_25A7_25C3_25A3o.png)
+
 Após ler a matéria e ver as imagens tive que parar de trabalhar para me unir aos sofrimentos de Cristo com meu choro que custo a parar. Por isso transcrevo aqui mais um artigo sobre o que o príncipe do mundo, satanás, tem feito pelo planeta.</br>
 </br>
 AGORA JÁ É possível dizer claramente e com todas as letras aquilo que não se pode mais ignorar; nestes nossos dias já é completamente impossível não perceber que algo muito importante está em curso no mundo, uma mudança radical que se insinua e está sendo operada, e que vai culminar em algo grande, tremendo. Não cessam e se multiplicam as notícias de templos profanados, Sacrários destruídos, imagens e símbolos sagrados usados em atos sacrílegos, etc. Os sinais mencionados nas profecias da Santíssima Virgem vem se cumprindo de modos que não se pode ignorar, e o vemos na medida em que o ódio totalmente gratuito (e claramente diabólico) aos valores cristãos vêm se tornando mais e mais violento, e o desrespeito a tudo o que sequer insinue a moral que construiu a nossa civilização vai se tornando insuportável.</br>
 </br>
 Cada vez é mais nítida a separação global: de um lado, as pessoas de bem, que entendem a diferença entre bem e mal, certo e errado; gente que ama a Deus e ao próximo e quer o direito de educar os próprios filhos segundo os valores nos quais foram educados. De outro lado, a turma que entende que defecar nas ruas é "protesto", que profana igrejas e símbolos sagrados, que invade os templos para sequestrar imagens sacras e destruí-las em praça pública, que arromba os Sacrários e rouba Hóstias consagradas para pisoteá-las ou usá-las em rituais satânicos. Gente que defende a fúria dos terroristas islâmicos e grita contra uma tal "islamofobia" que só eles enxergam, mas protesta em frente às igrejas católicas contra a "opressão" dos cristãos.</br> 
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/038-continuam-as-profanações-profana_25C3_25A7_25C3_25A3o2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/038-continuam-as-profanações-profana_25C3_25A7_25C3_25A3o2.png" width="200" height="159" data-original-width="227" data-original-height="180" /></a></div>
+
+![](/images/posts/038-continuam-as-profanações-profana_25C3_25A7_25C3_25A3o2.png)
+
 Nesta realidade alarmante, o que anima é que ainda somos a maioria. Estes grupos representam, ao menos por enquanto, "apenas" uma minoria barulhenta e muito ativa.</br>
 </br>
 O que preocupa é que eles são tudo o que não somos: extremamente empenhados, dispostos, unidos e organizados em prol dos seus objetivos nefastos. Não cessam de criar meios e atos para promover suas ideias, pelas quais vem arrebanhando um número cada vez maior dos nossos jovens. Pior ainda: os professores de nossas escolas – os educadores dos nossos filhos –, em absoluta maioria, estão do lado deles.</br>

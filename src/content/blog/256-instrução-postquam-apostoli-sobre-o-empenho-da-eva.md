@@ -4,7 +4,11 @@ date: 2020-05-12T17:19:00.001Z
 heroImage: "/images/posts/256-instrução-postquam-apostoli-sobre-o--img-1347899976.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/256-instrução-postquam-apostoli-sobre-o--img-1347899976.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="276" data-original-width="208" src="/images/posts/256-instrução-postquam-apostoli-sobre-o--img-1347899976.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,14 – E disse Jesus – “Assim é a vontade de vosso
+<br />
+
+![](/images/posts/256-instrução-postquam-apostoli-sobre-o--img-1347899976.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Mateus 18,14 – E disse Jesus – “Assim é a vontade de vosso
 Pai celeste, que não se perca um só destes pequeninos.” João 6,39-40 – “Ora,
 esta é a vontade daquele que me enviou: que eu não deixe perecer nenhum
 daqueles que me deu, mas que os ressuscite no último dia. Esta é a vontade de
@@ -57,6 +61,6 @@ as insídias e as forças hostis deste mundo, prometeu: "Eu estarei sempre
 convosco, até o fim do mundo" (Mt 28, 20), "Tende confiança, Eu venci
 o mundo" (Jo 16, 33).</p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">Fonte: site do Vaticano</p></div>

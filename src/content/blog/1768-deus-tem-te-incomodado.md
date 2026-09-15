@@ -4,7 +4,9 @@ date: 2022-07-12T20:33:00.003Z
 heroImage: "/images/posts/1768-deus-tem-te-incomodado-odeio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1768-deus-tem-te-incomodado-odeio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="355" data-original-width="376" height="302" src="/images/posts/1768-deus-tem-te-incomodado-odeio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois é, ele tem esse costume e, caso não saiba, desde
+![](/images/posts/1768-deus-tem-te-incomodado-odeio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois é, ele tem esse costume e, caso não saiba, desde
 sempre. Sua palavra, inspirada pelo Espírito Santo, presente nas sagradas
 escrituras não deixa dúvidas de que ele nos ama, mas também castiga e corrige
 aqueles que tem por seus filhos e herdeiros do seu reino. Deus é assim, ele nos
@@ -39,4 +41,7 @@ maravilhas eternas da glória celeste.<o:p></o:p></p>
 porque ele está percebendo que sua vida está pendendo para um caminho que não
 vai leva-lo de encontro a ele.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

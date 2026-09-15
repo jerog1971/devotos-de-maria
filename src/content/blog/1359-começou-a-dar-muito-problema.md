@@ -4,7 +4,9 @@ date: 2020-11-09T17:14:00.001Z
 heroImage: "/images/posts/1359-começou-a-dar-muito-problema-dar_problema.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1359-começou-a-dar-muito-problema-dar_problema.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="525" data-original-width="587" src="/images/posts/1359-começou-a-dar-muito-problema-dar_problema.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Joga fora, descarta, substitui, troca por outro modelo, isso
+![](/images/posts/1359-começou-a-dar-muito-problema-dar_problema.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Joga fora, descarta, substitui, troca por outro modelo, isso
 não tem mais solução, é perda de tempo mandar consertar, está ultrapassado e a lista
 de justificativas para endossar a decisão tomada pode se estender bem mais.<o:p></o:p></p><div class="separator" style="clear: both;">
 
@@ -49,4 +51,7 @@ e seu justo decreto, deixaram de lado seus ensinamentos e passaram, além de pra
 seus delitos de pensamentos vãos, também os ensinar aos outros e por isso, são entregues
 as suas paixões vergonhosas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

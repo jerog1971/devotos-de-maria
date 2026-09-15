@@ -4,7 +4,9 @@ date: 2022-05-02T20:05:00.003Z
 heroImage: "/images/posts/1982-o-amor-pela-mãe-o_20amor_20pela_20m_C3_A3e.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1982-o-amor-pela-mãe-o_20amor_20pela_20m_C3_A3e.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="376" height="303" src="/images/posts/1982-o-amor-pela-mãe-o_20amor_20pela_20m_C3_A3e.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo gosta da sua mãe, todo mundo dela precisa muito e
+![](/images/posts/1982-o-amor-pela-mãe-o_20amor_20pela_20m_C3_A3e.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo mundo gosta da sua mãe, todo mundo dela precisa muito e
 sabe que pode contar com ela sempre. Mãe tira da sua boca para alimentar o
 filho, deixa de comprar roupas para vestir o filho. Mãe se importa em primeiro
 lugar com o filho. Mãe é assim, um exemplo aqui na terra do amor de Deus por
@@ -41,4 +43,7 @@ céu, gozando daquilo que ela já sabe que nos aguarda e que por hora, por conta
 do amor que tem por cada um, deixou de desfrutar porque precisa trabalhar todos
 os dias pelos filhos de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

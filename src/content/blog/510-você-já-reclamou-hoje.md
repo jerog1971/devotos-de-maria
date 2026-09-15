@@ -4,7 +4,8 @@ date: 2016-09-13T14:09:00Z
 heroImage: "/images/posts/510-você-já-reclamou-hoje-reclamar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/510-você-já-reclamou-hoje-reclamar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/510-você-já-reclamou-hoje-reclamar.png" width="320" height="287" data-original-width="235" data-original-height="211" /></a></div>
+![](/images/posts/510-você-já-reclamou-hoje-reclamar.png)
+
 A palavra reclamar, se formos pesquisar no dicionário iremos encontrar duas definições. Reclamar no sentido de exigir alguma coisa para si e reclamar no sentido de queixar-se. Também nas sagradas escrituras encontramos ensinamentos nestes dois sentidos tanto no antigo como no novo testamento. Vejamos apenas dois exemplos:</br>
 </br>
 Miqueias 6,8 – “Já te foi dito, ó homem, o que convém, o que o Senhor reclama de ti: que pratiques a justiça, que ames a bondade, e que andes com humildade diante do teu Deus”.</br>

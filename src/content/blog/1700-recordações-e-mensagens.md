@@ -4,7 +4,9 @@ date: 2023-04-25T21:37:00.003Z
 heroImage: "/images/posts/1700-recordações-e-mensagens-img-1652026854.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1700-recordações-e-mensagens-img-1652026854.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="384" data-original-width="767" height="220" src="/images/posts/1700-recordações-e-mensagens-img-815311097.png" width="440" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Já comentamos aqui neste site sobre a possibilidade de se
+![](/images/posts/1700-recordações-e-mensagens-img-815311097.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Já comentamos aqui neste site sobre a possibilidade de se
 absorver boas mensagens através do entretenimento televisivo. Sempre existe por
 trás de uma produção, de um produtor, a intenção de transmitir valores e bons
 valores. Por aqui, entre os artigos que tratamos dessa questão destacamos a
@@ -39,4 +41,7 @@ lembretes, pois, em meio ao entretenimento e ao lazer também podemos honrar e
 glorificar a Deus com nossas vidas, e se em família, que mais poderíamos
 querer?<o:p></o:p></p><p class="MsoNormal">Artigo relacionado:</p><p class="MsoNormal"><a href="https://www.devotos-de-maria.com.br/2022/09/pela-familia.html" target="_blank">Pelas Famílias</a><br /></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

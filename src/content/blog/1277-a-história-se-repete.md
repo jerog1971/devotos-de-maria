@@ -4,7 +4,8 @@ date: 2019-03-07T15:29:00Z
 heroImage: "/images/posts/1277-a-história-se-repete-Jesus_x_diabo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1277-a-história-se-repete-Jesus_x_diabo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1277-a-história-se-repete-Jesus_x_diabo.png" width="320" height="320" data-original-width="302" data-original-height="302" /></a></div>
+![](/images/posts/1277-a-história-se-repete-Jesus_x_diabo.png)
+
 Pois é, caros leitores, embora os cristãos se escandalizem, não é, infelizmente falando, novidade o fato de ocorrerem durante o carnaval atos que caminhem em direção completamente oposta ao cristianismo. Basta uma simples busca pela internet sobre o tema do carnaval que em segundos o Google exibirá centenas, para não dizer milhares, de fotos das mais variadas situações mundanas.</br>
 </br>
 Mulheres e homens seminus, ou praticamente nus, muita esfregação de corpos, idolatrias das mais variadas formas e uma fome desenfreada pelos prazeres e alegrias da carne. Fatos esses que acontecem todos os anos e por muito tempo inclusive. Em tempos bíblicos, aprendemos nas sagradas escrituras que cidades como Sodoma e Gomorra viviam diariamente o que acontece nesses dias de carnaval. Além do que é patrocinado e divulgado pelas mídias televisivas, sabe-se também que os bailes de carnaval e as festanças regadas a bebidas, drogas e sexo desregrados aumentam ainda mais nesse período. Pobres pessoas que estão a trocar a glória dos céus na felicidade eterna junto a Deus, por umas migalhas jogadas ao chão por Satanás.</br>

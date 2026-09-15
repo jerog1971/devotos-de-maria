@@ -4,7 +4,8 @@ date: 2016-06-27T12:54:00Z
 heroImage: "/images/posts/1584-eles-foram-crismados-crisma2016.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1584-eles-foram-crismados-crisma2016.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1584-eles-foram-crismados-crisma2016.png" width="320" height="239" data-original-width="695" data-original-height="520" /></a></div>
+![](/images/posts/1584-eles-foram-crismados-crisma2016.png)
+
 Com o título deste artigo facilmente podemos imaginar que estarei a falar algo sobre as pessoas desta foto. Isto é verdade, mas, em parte pois o que colocarei aqui serve a todo tempo para cada um de nós. É o que ouvimos o Arcebispo da Arquidiocese de Curitiba falar em sua homilia que aconteceu na celebração do sacramento da crisma que aconteceu na Paróquia São Rafael em Curitiba-PR.</br>
 </br>
 Usando de algumas analogias ele falou que quando gostamos de alguém e, portanto, somos seu amigo, se ouvirmos falarem mal deste alguém, corremos a defende-lo, mas não como ensina o mundo, ou como fazem os fundamentalistas e extremistas. Defendemos Jesus com a verdade, que dele brota. Quem é amigo(a) de Jesus não se contenta em ficar calado enquanto alguém blasfema, comete sacrilégios ou age com indiferença ofendendo-o. Logo se põe, como servo de Cristo e membro da sua igreja, a levantar o estandarte do evangelho que salva, que promove um único caminho, cheio de verdade e vida. Caminho este que por ser único, somente ele leva ao Pai Eterno.</br>

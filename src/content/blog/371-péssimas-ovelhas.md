@@ -4,7 +4,8 @@ date: 2017-10-03T13:25:00Z
 heroImage: "/images/posts/371-péssimas-ovelhas-ovelha.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/371-péssimas-ovelhas-ovelha.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/371-péssimas-ovelhas-ovelha.png" width="320" height="318" data-original-width="388" data-original-height="386" /></a></div>
+![](/images/posts/371-péssimas-ovelhas-ovelha.png)
+
 As ovelhas são animaizinhos muito dóceis e de fácil pastoreio. Jesus faz uso delas em seus ensinamentos para se referir a ele e a nós. No evangelho de São João fica bem marcada essa característica no capítulo 10, de 1 a 16 e de 26 a 27. Muito bem, até aqui, nada de muito especial, carinhosamente Jesus nos aponta uma direção de submissão e obediência de nossa parte e um zelo e cuidado primoroso da parte dele. O problema, como sempre, não está no pastor, está nas ovelhas. Jesus disse que as ovelhas, não seguem a voz dos estranhos e é por isso que satanás se trata de se apresentar com suas ofertas, disfarçado, como diz a escritura, em pele de ovelha, para que as tolas ovelhinhas, não estranhem a sua voz. É o joio no meio do trigo que faz um estrago danado.</br>
 </br>
 Ademais, precisamos compreender que o ensino de Jesus aponta para a obediência das ovelhas ao pastor e não a outra pessoa. Por que Jesus ensinou dessa maneira? Simples, ele mesmo disse que viriam outros para ensinar outras coisas que não estariam alinhadas com seu evangelho. E ainda tem mais, o pai da mentira, o enganador, o diabo, sabe muito bem que a estratégia de misturar verdades com mentiras funciona muito bem para que suas mentiras sejam aceitas, absorvidas e acatadas como algo verdadeiro. É preciso então, ficarmos atentos a hierarquia da igreja para que com isso sejamos boas e autênticas ovelhinhas. Vamos entender.

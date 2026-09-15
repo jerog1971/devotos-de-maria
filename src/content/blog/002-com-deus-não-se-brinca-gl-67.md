@@ -4,7 +4,8 @@ date: 2016-07-26T11:00:00Z
 heroImage: "/images/posts/002-com-deus-não-se-brinca-gl-67-deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/002-com-deus-não-se-brinca-gl-67-deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/002-com-deus-não-se-brinca-gl-67-deus.png" width="320" height="173" data-original-width="527" data-original-height="285" /></a></div>
+![](/images/posts/002-com-deus-não-se-brinca-gl-67-deus.png)
+
 </br>
 Conta a História Sagrada no I Livro dos Reis de como os Filisteus, atemorizados por tremendos castigos, resolveram devolver a Arca Santa aos Judeus.</br>
 </br>

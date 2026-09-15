@@ -4,7 +4,8 @@ date: 2016-09-13T15:31:00Z
 heroImage: "/images/posts/047-sabes-usar-seu-livre-arbítrio-lot.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/047-sabes-usar-seu-livre-arbítrio-lot.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/047-sabes-usar-seu-livre-arbítrio-lot.png" width="320" height="273" data-original-width="266" data-original-height="227" /></a></div>
+![](/images/posts/047-sabes-usar-seu-livre-arbítrio-lot.png)
+
 Muitas pessoas confundem a questão do livre arbítrio concedido por Deus. Acham que livre arbítrio é a liberdade para se fazer o que quiser. E isto está completamente errado para o espanto de muitos. Vamos esclarecer os fatos de forma simples e com o apoio, sempre, da palavra de Deus.</br>
 </br>
 Quando Deus nos criou colocou em sua criatura o livre arbítrio. Este, consiste na capacidade do homem de fazer uma escolha. O livre arbítrio nos dá o direito de escolhermos o bem ou o mal, de escolhermos viver com Deus ou sem Ele. Aqui se encerra o livre arbítrio. Vemos portanto que é bem diferente de se fazer o que quiser. Quando se esta fazendo o que se quer não se está usando o livre arbítrio. O livre arbítrio foi utilizado antes para se decidir se iria ou não ser feito aquilo.</br>

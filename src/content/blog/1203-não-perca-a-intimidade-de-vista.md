@@ -4,7 +4,9 @@ date: 2021-05-17T10:37:00.005Z
 heroImage: "/images/posts/1203-não-perca-a-intimidade-de-vista-intimidades.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1203-não-perca-a-intimidade-de-vista-intimidades.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="274" src="/images/posts/1203-não-perca-a-intimidade-de-vista-intimidades.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ser humano foi pensado por Deus para não viver sozinho;
+![](/images/posts/1203-não-perca-a-intimidade-de-vista-intimidades.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ser humano foi pensado por Deus para não viver sozinho;
 quis o criador que ele ajudasse e consequentemente fosse ajudado. Sendo assim,
 em seu percurso de regresso para a pátria celeste, vai se envolvendo com muitas
 formas de intimidades durante essa caminhada; todavia, todas possuem um lado,
@@ -39,4 +41,7 @@ sabedoria e retidão, como fruto dessa conduta Deus se manterá perto de nós nu
 intimidade que nos colocará numa condição mais difícil para que o mal se
 apodere de nossas almas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

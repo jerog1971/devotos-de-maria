@@ -4,42 +4,12 @@ date: 2024-08-13T16:29:00.005Z
 heroImage: "/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="486" data-original-width="647" height="240" src="/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Depois dos acontecimentos polêmicos que ocorreram na cerimônia
-de abertura dos jogos olímpicos deste ano, onde atitudes controversas e
-questionáveis mobilizou os católicos do mundo inteiro, uma equipe de uma
-entidade destinada a lutar pelo bem cristão e sua doutrina saindo em defesa da
-fé e dos ensinamentos bíblicos que fazem frente ao invasivo avanço das
-doutrinas mundanas, mobilizou um protesto pelas ruas de Paris para demonstrar o
-descontentamento dos cristãos. Segue o desenrolar do episódio.<o:p></o:p></p><div class="separator" style="clear: both;">
+![](/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o.png)
 
-<p class="MsoNormal">(Caroline Farrow) “Eu mal posso acreditar - na noite desta
-segunda-feira, seis membros da equipe da CitizenGO foram presos e mantidos em
-condições terríveis sob custódia por várias horas porque estavam protestando
-contra a repugnante zombaria do Cristianismo que ocorreu na cerimônia de
-abertura dos Jogos Olímpicos. Como nossa petição ao Comitê Olímpico
-Internacional se mostrou tão popular, ganhando quase 400.000 assinaturas em uma
-semana, decidimos fazer o que fazemos de melhor e levar a sua voz ao coração da
-ação em Paris. Nossa equipe de mídia entrou em ação imediatamente e contratou
-um ônibus, exibindo uma mensagem muito simples, 'Pare os Ataques aos Cristãos!'
-e o endereço do nosso site de petição.”<o:p></o:p></p>
+![](/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o_202.png)
 
-<p class="MsoNormal">“O ônibus começou a circular por Paris às 9h, atraindo a
-atenção (e elogios) de muitos transeuntes e centenas de policiais, sem
-incidentes. Então, ainda naquela tarde,&nbsp;<b>o motorista foi abordado por um
-policial e totalmente cercado por policiais armados! </b>Junto com o motorista,
-nossa equipe foi colocada na parte de trás de uma van policial antes de serem
-levados para uma delegacia por "organizar uma manifestação sem a aprovação
-do governo francês"! Isso não foi um descuido da nossa parte - obviamente,
-antes de organizar qualquer coisa, sempre cumprimos nossas obrigações e as
-regulamentações que se referem a manifestações formais de grande escala e
-marchas, não a um ônibus solitário com uma mensagem simples.”<o:p></o:p></p>
-
-<p class="MsoNormal">“O pior estava por vir. Uma vez que chegaram à delegacia,
-nossos valentes amigos foram algemados e levados para uma segunda instalação
-segura. Todos os seus pertences foram confiscados, eles foram despidos e
-revistados, negaram-lhes a oportunidade de contactar seus advogados e alguns
-nem sequer puderam contactar seus familiares.”<o:p></o:p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o_202.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="484" data-original-width="642" height="241" src="/images/posts/1561-protesto-cristão-protesto_20crist_C3_A3o_202.png" width="320" /></a></div><br /><p class="MsoNormal">“Não só isso, mas eles foram submetidos a uma pressão
-psicológica severa, com ameaças de detenção prolongada e&nbsp;<b>passaram a
+<br /><p class="MsoNormal">“Não só isso, mas eles foram submetidos a uma pressão
+psicológica severa, com ameaças de detenção prolongada e <b>passaram a
 noite em condições deploráveis, alguns até sendo privados de comida e água,
 tudo por causa de acusações inexistentes. </b>Finalmente conseguimos obter para
 eles os serviços de um advogado, que teve que exercer uma pressão significativa
@@ -47,7 +17,7 @@ sobre as autoridades para garantir sua liberação nas primeiras horas da manhã
 mas o calvário deles ainda não havia terminado. Aqueles que ainda não haviam
 sido interrogados pela polícia tiveram que retornar à delegacia naquela tarde
 para mais questionamentos, antes que os promotores decidissem o que já sabíamos
-desde o início -&nbsp;<b>que não havia base para acusações, nossos amigos não
+desde o início - <b>que não havia base para acusações, nossos amigos não
 haviam feito nada de errado!”</b></p>
 
 <p class="MsoNormal">Nosso advogado disse o seguinte:<o:p></o:p></p>
@@ -78,4 +48,7 @@ aos cristãos tenha sido recebida com uma resposta tão desproporcional e
 violenta das autoridades.” Eis aí o duro combate que sempre existiu no seio da
 humanidade.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: CitizenGO<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: CitizenGO<o:p></o:p></p></div>
+
+<br /> 
+

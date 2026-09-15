@@ -4,7 +4,9 @@ date: 2021-11-08T01:41:00Z
 heroImage: "/images/posts/1078-deus-viu-que-isso-era-bom-cordeiro.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1078-deus-viu-que-isso-era-bom-cordeiro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="206" data-original-width="219" height="206" src="/images/posts/1078-deus-viu-que-isso-era-bom-cordeiro.png" width="219" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus criou muitas coisas, viu que tudo era bom, mas, quando
+![](/images/posts/1078-deus-viu-que-isso-era-bom-cordeiro.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Deus criou muitas coisas, viu que tudo era bom, mas, quando
 criou o homem viu que isso era muito bom e viu que não era bom que ele vivesse
 só: deu-lhe uma companheira. Pois bem, nosso criador vê as coisas boas e
 certamente, por conta de sua onipotência e onisciência, vê as que não são.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -29,4 +31,7 @@ pedirmos isso a ele constantemente em nossas orações: “inspirai-nos Senhor a
 nossas ações e ajudai-nos a realizar para que em vós comece e para vós termine
 tudo aquilo que fizermos por Cristo Nosso Senhor, amém.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

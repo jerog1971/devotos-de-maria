@@ -4,7 +4,9 @@ date: 2021-04-23T20:02:00.003Z
 heroImage: "/images/posts/671-uma-vida-de-escolhas-decis_25C3_25A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/671-uma-vida-de-escolhas-decis_25C3_25A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="211" data-original-width="224" src="/images/posts/671-uma-vida-de-escolhas-decis_25C3_25A3o.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Escolhas e decisões, não há como escapar. Porém, o que podemos
+![](/images/posts/671-uma-vida-de-escolhas-decis_25C3_25A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Escolhas e decisões, não há como escapar. Porém, o que podemos
 e devemos escapar, é da tentação de culpar a Deus por conta das escolhas erradas.
 Temos que, como se lê em Eclesiástico, querer: “Se quiseres guardar os
 mandamentos, e praticar sempre fielmente o que é agradável (a Deus), eles te
@@ -33,4 +35,7 @@ dia sim, outro não; ou escolher fazer isso quando nos sobra tempo. Jesus nos
 disse que devemos renunciar a nós mesmos, tomarmos nossa cruz, dia após dia e segui-lo,
 se quisermos ser salvos – Lucas 9,23.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

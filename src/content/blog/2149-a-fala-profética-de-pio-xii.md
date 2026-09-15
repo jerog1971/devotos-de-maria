@@ -4,14 +4,18 @@ date: 2020-05-05T18:35:00Z
 heroImage: "/images/posts/2149-a-fala-profética-de-pio-xii-img-628960809.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2149-a-fala-profética-de-pio-xii-img-628960809.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="315" src="/images/posts/2149-a-fala-profética-de-pio-xii-img-628960809.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">“Preocupo-me com as mensagens da Virgem Santíssima à pequena
+<br />
+
+![](/images/posts/2149-a-fala-profética-de-pio-xii-img-628960809.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">“Preocupo-me com as mensagens da Virgem Santíssima à pequena
 Lúcia de Fátima. A insistência de Maria acerca dos perigos que ameaçam a Igreja
 é uma advertência divina contra o suicídio de se alterar a fé, em sua liturgia,
 em sua teologia e em sua alma… Ouço a minha volta inovadores que desejam
 desmantelar a Capela Sagrada, destruir a chama universal da Igreja, rejeitar
 seus ornamentos e fazê-la sentir remorso por sua história passada…<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">“Dia virá em que o mundo civilizado negará seu Deus, em que
 a Igreja duvidará como o fez Pedro. Ela será tentada a acreditar que o homem se
@@ -38,7 +42,7 @@ escolhidos. Ele não começará negando os dogmas da Santíssima Trindade, a
 divindade de Jesus ou a Theotokos, mas começará a distorcer os ensinamentos dos
 Santos Padres, em outras palavras, o próprio ensinamento da Igreja.<o:p></o:p></p>
 
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p> </o:p></p>
 
 <p class="MsoNormal">A astúcia do inimigo e seus caminhos serão conhecidos por
 muito poucos, apenas aqueles que possuírem mais experiência na vida espiritual.

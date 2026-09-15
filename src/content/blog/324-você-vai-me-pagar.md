@@ -4,7 +4,9 @@ date: 2022-12-22T14:31:00Z
 heroImage: "/images/posts/324-você-vai-me-pagar-voc_C3_AA_20vai_20me_20pagar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/324-você-vai-me-pagar-voc_C3_AA_20vai_20me_20pagar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="346" data-original-width="428" height="259" src="/images/posts/324-você-vai-me-pagar-voc_C3_AA_20vai_20me_20pagar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na bíblia lemos Deus dizer que “a vingança é minha”. Em
+![](/images/posts/324-você-vai-me-pagar-voc_C3_AA_20vai_20me_20pagar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na bíblia lemos Deus dizer que “a vingança é minha”. Em
 outra parte, lemos que teremos que prestar contas a ele de tudo que fizemos de
 bom e mal. Em outra parte ainda lemos que não sairemos do purgatório enquanto
 não “tivermos pago até o último centavo”. Como vemos realmente existe uma revelação
@@ -36,4 +38,7 @@ más paixões se desejarmos. Por fim, devemos escolher crer em sua palavra e viv
 ou não, e viver conforme a sugestão do mundo. Assim, cada um escolhe que preço quer
 e irá pagar no fim de sua vida.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

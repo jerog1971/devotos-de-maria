@@ -4,7 +4,9 @@ date: 2021-03-09T12:53:00.001Z
 heroImage: "/images/posts/1091-rebeldia-e-pandemia-rebeldia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1091-rebeldia-e-pandemia-rebeldia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="235" data-original-width="234" src="/images/posts/1091-rebeldia-e-pandemia-rebeldia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A variedade do comportamento humano demonstra ao redor do
+![](/images/posts/1091-rebeldia-e-pandemia-rebeldia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A variedade do comportamento humano demonstra ao redor do
 mundo o quanto ela consegue produzir consequentemente os mais variados cenários
 na vida das pessoas. Parece haver circulando por aí uma tendência de conduzir a
 vida pautando-se primeiramente em interesses próprios. Claro, nunca podemos
@@ -37,4 +39,7 @@ conseguirá “na luta contra o pecado lutar até o sangue”? – Hebreus 12,4.
 encerrar, recordemos as palavras de Eclesiástico 1,36 – “Não sejas rebelde ao
 temor do Senhor, não vás a ele com um coração fingido”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

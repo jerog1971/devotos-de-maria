@@ -4,7 +4,11 @@ date: 2020-07-27T16:35:00.002Z
 heroImage: "/images/posts/886-o-dia-do-senhor-segunda_vinda_de_Jesus.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/886-o-dia-do-senhor-segunda_vinda_de_Jesus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="466" src="/images/posts/886-o-dia-do-senhor-segunda_vinda_de_Jesus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">1ª Tessalonicenses 5,2-11 – “Vós mesmos sabeis muito bem que
+<br />
+
+![](/images/posts/886-o-dia-do-senhor-segunda_vinda_de_Jesus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">1ª Tessalonicenses 5,2-11 – “Vós mesmos sabeis muito bem que
 o dia do Senhor virá como um ladrão de noite. Quando os homens disserem: Paz e
 segurança!, então repentinamente lhes sobrevirá a destruição, como as dores à
 mulher grávida. E não escaparão. Mas vós, irmãos, não estais em trevas, de modo

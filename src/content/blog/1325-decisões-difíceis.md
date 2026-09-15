@@ -4,7 +4,9 @@ date: 2021-10-14T15:50:00.004Z
 heroImage: "/images/posts/1325-decisões-difíceis-decis_25C3_25B5es_dif_25C3_25ADceis.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1325-decisões-difíceis-decis_25C3_25B5es_dif_25C3_25ADceis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="348" height="311" src="/images/posts/1325-decisões-difíceis-decis_25C3_25B5es_dif_25C3_25ADceis.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na batalha do composto humano – corpo e alma – o homem vive
+![](/images/posts/1325-decisões-difíceis-decis_25C3_25B5es_dif_25C3_25ADceis.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na batalha do composto humano – corpo e alma – o homem vive
 dilemas de várias naturezas no curso de sua vida. Razão versus emoção ficam se enfrentando
 na busca pela conquista do comando da vida. E a tarefa humana de conciliar
 essas duas vertentes e fazer com que ajam com equilíbrio não é das mais fáceis;
@@ -38,4 +40,7 @@ palavra do Senhor é pura. Ele é o escudo de todos os que nele se refugiam. Poi
 quem é Deus senão o Senhor? Quem é o rochedo, senão o nosso Deus? É Deus quem
 me cinge de coragem e aplana o meu caminho”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

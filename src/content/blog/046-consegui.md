@@ -4,7 +4,8 @@ date: 2018-09-21T20:17:00Z
 heroImage: "/images/posts/046-consegui-consegui.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/046-consegui-consegui.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/046-consegui-consegui.png" width="319" height="320" data-original-width="450" data-original-height="451" /></a></div>
+![](/images/posts/046-consegui-consegui.png)
+
 Durante a jornada da vida, o pobre cérebro humano é “frito” quase que diariamente por conta da quantidade de variáveis que nos acometem pelo caminho. Vale sempre lembrar que, primeiro: somos preciosos aos olhos de Deus e o livro da Sabedoria vai nos recordar de que, nossa condenação em nada agrada a ele; segundo: também podemos dizer que somos preciosos aos olhos do diabo. Ambos nos querem com eles e fazem de tudo para que acatemos suas ofertas.</br>
 </br>
 Do ponto de vista de cada um, o que eles têm para nos oferecer é o que possuem de melhor. E também cada ponto de vista indica que seria um absurdo, uma verdadeira loucura não aceitar aquilo que é proposto e que é uma joia preciosa. Existe aqui um grande absurdo por parte do ser humano. No que consiste isso? Ele quer fugir da sua natureza e quer viver uma vida com plena autonomia. Isso até lhe é permitido por seu criador, porém, os resultados de uma caminhada a esmo não podem terminar bem. Como se dão as coisas então?</br>

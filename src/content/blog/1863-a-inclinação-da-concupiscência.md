@@ -4,7 +4,8 @@ date: 2020-02-18T20:07:00Z
 heroImage: "/images/posts/1863-a-inclinação-da-concupiscência-diabo_amigo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1863-a-inclinação-da-concupiscência-diabo_amigo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1863-a-inclinação-da-concupiscência-diabo_amigo.png" width="320" height="259" data-original-width="256" data-original-height="207" /></a></div>
+![](/images/posts/1863-a-inclinação-da-concupiscência-diabo_amigo.png)
+
 Tiago 1,12-16 – “Feliz o homem que suporta a tentação. Porque, depois de sofrer a provação, receberá a coroa da vida que Deus prometeu aos que o amam. Ninguém, quando for tentado, diga: É Deus quem me tenta. Deus é inacessível ao mal e não tenta a ninguém. Cada um é tentado pela sua própria concupiscência, que o atrai e alicia. A concupiscência, depois de conceber, dá à luz o pecado; e o pecado, uma vez consumado, gera a morte. Não vos iludais, pois, irmãos meus muito amados.”<br>
 </br>
 As sagradas escrituras nos ensinam que temos uma inclinação para o pecado. Inclinação essa que trabalha a favor de Satanás e contra a qual teremos que lutar até o fim de nossos dias. Todavia, ela é vencível e responsável por subirmos em grau de santidade. Todos sabemos que trilhamos um caminho para a santidade. Nessa jornada que segue num esforço de amar a Deus sobre todas as coisas com todo seu coração, alma entendimento, vamos nos santificando passo a passo. As adversidades cobram um preço pela nossa santidade; a concupiscência está incluída aí.</br>

@@ -4,7 +4,8 @@ date: 2017-05-30T13:05:00Z
 heroImage: "/images/posts/1254-olhar-e-não-enxergar-n_25C3_25A3oenxergar.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1254-olhar-e-não-enxergar-n_25C3_25A3oenxergar.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1254-olhar-e-não-enxergar-n_25C3_25A3oenxergar.png" width="297" height="320" data-original-width="193" data-original-height="208" /></a></div>
+![](/images/posts/1254-olhar-e-não-enxergar-n_25C3_25A3oenxergar.png)
+
 Quando Jesus nos ensina que não devemos julgar ele se refere ao julgamento de aparências, porque somente ele pode e irá julgar os corações. Desta forma, como não sabemos o que se passa na vida de uma pessoa, não conseguimos pelo nosso ponto de vista que é externo, entender toda a situação que culmina no comportamento que testemunhamos. Ademais, se já é tão difícil utilizarmos os sentidos para construir um parecer, quem dirá quando a questão envolve a parte sobrenatural e espiritual de nossas vidas. Entrando por este viés é possível tocar com as mãos essa realidade que não é palpável. Esclareço.</br>
 </br>
 Nossa compreensão a respeito das atitudes de Deus, seus desígnios e modos de conduzir toda a história, frequentemente nos escapa ao raciocínio lógico, uma vez que insistimos em olhar para tudo apenas com o olhar dos sentidos e não com o olhar da alma, do coração. Assim procedendo, não conseguimos entender o que já não é fácil por natureza e que por isso precisa da fé. Para ilustrar o assunto transcrevo aqui um depoimento anônimo recebido pela internet e que denota claramente as reações advindas na pessoa que não consegue ter uma visão sobrenatural a respeito dos fatos:</br>

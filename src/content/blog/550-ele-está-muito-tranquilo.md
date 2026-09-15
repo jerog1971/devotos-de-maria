@@ -4,7 +4,8 @@ date: 2018-09-27T20:29:00Z
 heroImage: "/images/posts/550-ele-está-muito-tranquilo-d_25C3_25BAvidas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/550-ele-está-muito-tranquilo-d_25C3_25BAvidas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/550-ele-está-muito-tranquilo-d_25C3_25BAvidas.png" width="310" height="320" data-original-width="392" data-original-height="405" /></a></div>
+![](/images/posts/550-ele-está-muito-tranquilo-d_25C3_25BAvidas.png)
+
 A individualidade de cada um confere no receituário da vida muitos ingredientes para modificar o tempero do cotidiano das pessoas. De fato, qualquer um é perito em descrever como funcionam as relações interpessoais. No fundo dizem que elas não funcionam. Vamos entender.</br>
 </br>
 Não funcionam como se esperavam que funcionassem porque o ponto de vista, o termo de comparação acaba, na grande maioria das vezes, sendo o da própria pessoa. De vez em quando não escutamos as pessoas dizerem: “ponha-se no meu lugar”? Pois bem, deve possivelmente ser uma grande verdade, um grande alerta. É sinal de que não existe o “nosso”, existe apenas o “eu”.

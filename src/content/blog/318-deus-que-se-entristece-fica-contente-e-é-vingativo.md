@@ -4,7 +4,9 @@ date: 2021-01-28T21:12:00.001Z
 heroImage: "/images/posts/318-deus-que-se-entristece-fica-contente-deus.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/318-deus-que-se-entristece-fica-contente-deus.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="285" data-original-width="527" src="/images/posts/318-deus-que-se-entristece-fica-contente-deus.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos através da santa palavra que Deus se entristece pelo
+![](/images/posts/318-deus-que-se-entristece-fica-contente-deus.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sabemos através da santa palavra que Deus se entristece pelo
 pecador que não está arrependido. Vários versículos explicam essa tristeza do
 altíssimo pela condição de uma alma que escolhe a vida do mundo, dos pecados.
 Em contra partida, também aprendemos sobre sua alegria quando a ovelha que
@@ -40,4 +42,7 @@ repente, e ele te perderá no dia do castigo”.<o:p></o:p></p>
 
 <p class="MsoNormal">Como vemos, esse é o nosso Deus!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

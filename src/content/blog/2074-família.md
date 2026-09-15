@@ -4,7 +4,9 @@ date: 2024-08-05T16:30:00.004Z
 heroImage: "/images/posts/2074-família-fam_C3_ADlia.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2074-família-fam_C3_ADlia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="719" data-original-width="1600" height="165" src="/images/posts/2074-família-fam_C3_ADlia.jpg" width="367" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Por aqui, vira e mexe, estamos a falar da realidade pensada,
+![](/images/posts/2074-família-fam_C3_ADlia.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Por aqui, vira e mexe, estamos a falar da realidade pensada,
 querida e criada por Deus: a família; sobretudo as famílias cristãs. Alvo de
 muitos ataques ao longo da história da humanidade, tanto espirituais quanto de
 outras naturezas, sempre será o foco principal de nosso inimigo número um e dos
@@ -32,4 +34,7 @@ já aqui na terra. Bênçãos são derramadas em todos e as provações da vida 
 sendo superadas, dia após dia, engrandecendo almas e corações e mantendo cada um,
 do lar doce lar, na direção certa, a direção do reino de Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

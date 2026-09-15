@@ -4,7 +4,8 @@ date: 2019-04-24T19:43:00.001Z
 heroImage: "/images/posts/944-maria-era-uma-moça-normal-diz-o-papa-Papa_Francisco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/944-maria-era-uma-moça-normal-diz-o-papa-Papa_Francisco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/944-maria-era-uma-moça-normal-diz-o-papa-Papa_Francisco.png" width="320" height="320" data-original-width="225" data-original-height="225" /></a></div>
+![](/images/posts/944-maria-era-uma-moça-normal-diz-o-papa-Papa_Francisco.png)
+
 Pois muito bem caros leitores, recentemente em outra entrevista concedida ao jornal italiano “Corriere della Será”, Francisco saiu com mais essa, para confusão dos fiéis e deleite dos não católicos:</br>
 </br>
 “Uma moça normal, normal, uma moça de hoje […] normal, normal, educada normalmente, disposta a casar-se, a constituir família. […] Depois, após a concepção de Jesus, ainda uma mulher normal. […] Sem nada de extraordinário na vida, uma mãe normal: mesmo no seu casamento virginal, casto no quadro da virgindade, Maria foi normal. Trabalhava, fazia as compras, ajudava o Filho, ajudava o marido: normal”. </br>

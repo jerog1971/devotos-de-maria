@@ -4,7 +4,8 @@ date: 2020-04-16T21:37:00Z
 heroImage: "/images/posts/727-a-lenda-das-13-almas-13_almas.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/727-a-lenda-das-13-almas-13_almas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/727-a-lenda-das-13-almas-13_almas.png" width="320" height="238" data-original-width="183" data-original-height="136" /></a></div>
+![](/images/posts/727-a-lenda-das-13-almas-13_almas.png)
+
 Muita coisa envolve a lenda urbana popularizada como oração das 13 almas, 13 almas benditas, 13 almas aflitas, simpatia das 13 almas para o amor, para o dinheiro, as 13 almas da umbanda e por aí vai. O leitor já percebeu em poucas linhas que não se trata de uma devoção cristã e acima de tudo, honesta. Com alguns auxílios bíblicos iremos colocar algum esclarecimento sobre a questão.</br>
 </br>
 Iniciemos pela chamada oração de São Cipriano, isso mesmo que você leu, mas adianto que esta é uma oração utilizada na umbanda até os dias atuais. A tradição nos revela que Cipriano teve sua passagem pelo espiritismo e pela umbanda, depois se converteu ao catolicismo, porém, deixou para a confusão de muitos, alguns escritos do período pré-conversão. Em seu infame livro Cipriano conta que Deus ao entregar as chaves do céu ao apóstolo Pedro disse para ele que a cada sete anos ele receberia a visão de 13 almas que morreram de forma trágica. Deus (aí começam os erros teológicos) disse que essas almas não eram más ao ponto de serem condenadas ao inferno; disse também que essas almas não estavam prontas para irem direto ao céu, porém (percebam a falcatrua) elas não possuíam pecado para expiarem no purgatório e por isso estariam destinadas a vagar pela terra ajudando aqueles que precisam de auxílio. Pois bem, vamos aos fatos.</br>

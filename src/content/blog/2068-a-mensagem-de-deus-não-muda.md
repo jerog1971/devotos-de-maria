@@ -4,7 +4,9 @@ date: 2022-07-20T15:47:00Z
 heroImage: "/images/posts/2068-a-mensagem-de-deus-não-muda-testamento.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2068-a-mensagem-de-deus-não-muda-testamento.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="214" data-original-width="195" height="214" src="/images/posts/2068-a-mensagem-de-deus-não-muda-testamento.png" width="195" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Um olhar bem treinado a respeito dos ensinamentos divinos
+![](/images/posts/2068-a-mensagem-de-deus-não-muda-testamento.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Um olhar bem treinado a respeito dos ensinamentos divinos
 consegue perceber uma regularidade e direção na palavra de Deus que sempre
 apontam para um único lugar. Para refletirmos um pouco a esse respeito faremos
 duas comparações entre tantas que existem nas sagradas escrituras.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -40,4 +42,7 @@ ficamos na mesma vida lamacenta de pecados ou, como ovelhas de Jesus Cristo – 
 bom pastor – nos aproximamos do ressuscitado para com ele vivermos uma vida que
 agrade a Deus.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

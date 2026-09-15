@@ -4,7 +4,9 @@ date: 2022-05-26T16:11:00.001Z
 heroImage: "/images/posts/470-cansei-de-correr-atrás-img-1740483401.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/470-cansei-de-correr-atrás-img-1740483401.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="492" data-original-width="599" height="263" src="/images/posts/470-cansei-de-correr-atrás-img-610071067.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Durante a caminhada para o céu, certamente o fiel vai se
+![](/images/posts/470-cansei-de-correr-atrás-img-610071067.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Durante a caminhada para o céu, certamente o fiel vai se
 deparando com realidades muito duras; dificuldades que parecem sempre aumentar
 e, vez por outra, quando imagina estar em meio a uma calmaria, é surpreendido
 por outros confrontos que, se não estiver com os pés bem plantados no chão,
@@ -42,4 +44,7 @@ castiga e corrige aqueles que ama e tem por seus filhos”. Então, quando enfre
 a tentação de não buscar mais as coisas do alto, devemos refletir muito qual é
 a consequência por não as buscar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

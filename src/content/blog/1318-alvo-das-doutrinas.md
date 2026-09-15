@@ -4,12 +4,14 @@ date: 2024-01-27T14:37:00.004Z
 heroImage: "/images/posts/1318-alvo-das-doutrinas-Alvo_20das_20doutrinas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1318-alvo-das-doutrinas-Alvo_20das_20doutrinas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="271" data-original-width="475" height="183" src="/images/posts/1318-alvo-das-doutrinas-Alvo_20das_20doutrinas.png" width="320" /></a></div><br />Todo cristão sabe que a doutrina divina tem que ocupar
+![](/images/posts/1318-alvo-das-doutrinas-Alvo_20das_20doutrinas.png)
+
+<br />Todo cristão sabe que a doutrina divina tem que ocupar
 espaço com as diversas “doutrinas” que o mundo insiste em divulgar como boas
 opções para a humanidade. Bem analisado, vai-se percebendo que muitas delas
 procuram alargar o campo das permissões e diminuir o das proibições. Sim, pois,
 o ensino bíblico que registra a palavra de Deus contém muito mais proibições do
-que permissões. Ou não? Ou depende da postura da pessoa? Quem sabe.<p></p><p class="MsoNormal"><o:p></o:p></p>
+que permissões. Ou não? Ou depende da postura da pessoa? Quem sabe.<p class="MsoNormal"><o:p></o:p></p>
 
 <p class="MsoNormal">O fato é que todos que decidem seguir Jesus Cristo e,
 portanto, a palavra de Deus, esbarram muito rapidamente no rigor religioso que o

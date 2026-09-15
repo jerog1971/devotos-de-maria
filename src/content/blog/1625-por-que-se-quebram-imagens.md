@@ -4,7 +4,8 @@ date: 2016-02-02T15:17:00.001Z
 heroImage: "/images/posts/1625-por-que-se-quebram-imagens-imagem_quebrada.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1625-por-que-se-quebram-imagens-imagem_quebrada.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1625-por-que-se-quebram-imagens-imagem_quebrada.png" width="320" height="193" data-original-width="629" data-original-height="380" /></a></div>
+![](/images/posts/1625-por-que-se-quebram-imagens-imagem_quebrada.png)
+
 </br>
 Meus amados irmãos e irmãs,a paz de Cristo e o amor de Maria esteja com todos nós!</br>
 </br>

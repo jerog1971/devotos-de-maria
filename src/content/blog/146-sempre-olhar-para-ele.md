@@ -4,7 +4,8 @@ date: 2017-06-14T19:42:00Z
 heroImage: "/images/posts/146-sempre-olhar-para-ele-girassol.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/146-sempre-olhar-para-ele-girassol.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/146-sempre-olhar-para-ele-girassol.png" width="320" height="289" data-original-width="569" data-original-height="513" /></a></div>
+![](/images/posts/146-sempre-olhar-para-ele-girassol.png)
+
 Nas sagradas escrituras um dos grandes ensinamentos que de forma geral acabam atingindo a todos que desejam um dia viver nas moradas eternas é o de que é preciso nos comportarmos como filhos do Pai Eterno, darmos testemunhos da verdade e voltarmos constantemente nossas vidas, de forma plena, para Deus. Jesus disse que quem o segue não andará nas trevas mas terá a vida eterna. De fato, desde o início da história da humanidade, quando Deus preparou um lugar para o homem, ele separou a luz das trevas.</br>
 </br>
 Padre Pio dizia que quanto maior a tentação mais próximo a alma está de Deus. O sentido de seu ensinamento esbarra na questão de que o diabo não quer perder ninguém! Quer o máximo de pessoas vivendo com ele, se é que se pode chamar de viver, no fogo eterno preparado para ele e seus anjos. Por isso, Padre Pio fala da tentação pois o diabo não desiste de “converter” para sua causa todas as pessoas e isso inclui até aqueles bem próximos e em plena comunhão com Deus. Na vida dos santos vemos muitos exemplos assim. Até na hora da morte a tentação demoníaca queria roubar o céu dos eleitos.</br>

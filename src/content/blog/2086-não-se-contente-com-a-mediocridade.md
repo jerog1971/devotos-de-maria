@@ -4,8 +4,10 @@ date: 2025-03-14T18:28:00.004Z
 heroImage: "/images/posts/2086-não-se-contente-com-a-mediocridade-mediocridade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2086-não-se-contente-com-a-mediocridade-mediocridade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="555" data-original-width="582" height="305" src="/images/posts/2086-não-se-contente-com-a-mediocridade-mediocridade.png" width="320" /></a></div><br />&nbsp;
-<p></p><p class="MsoNormal">Na caminhada cristã existe uma pequena cilada imposta durante
+![](/images/posts/2086-não-se-contente-com-a-mediocridade-mediocridade.png)
+
+<br /> 
+<p class="MsoNormal">Na caminhada cristã existe uma pequena cilada imposta durante
 a jornada. Essa “cilada” foi apresentada por Jesus em seu evangelho. Era o jovem
 rico que queria saber do Cristo o que devia fazer para ser “perfeito”. E Jesus
 lhe dá uma resposta de tirar o fôlego, uma certeira no peito do sujeito que,
@@ -41,5 +43,4 @@ certeza plena de um dia ser acolhido nos céus? Não tendo (se for apenas salvo)
 ter que passar pelo purgatório?</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

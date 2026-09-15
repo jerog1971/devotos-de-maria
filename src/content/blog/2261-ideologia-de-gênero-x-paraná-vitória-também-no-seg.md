@@ -4,7 +4,8 @@ date: 2015-06-23T18:47:00Z
 heroImage: "/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-img-719247837.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-img-719247837.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-img-2067247520.png" width="200" height="149" data-original-width="296" data-original-height="220" /></a></div>
+![](/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-img-2067247520.png)
+
 </br>
 Vamos lá católicos e cristãos autênticos, em 22 de junho de 2015 ocorreu o debate e a votação sobre o plano municipal da educação com vigência para 10 anos. Estivemos unidos em orações aos protestos e pressões que a milícia católica e cristã fez junto aos vereadores.</br>
 </br>
@@ -16,7 +17,9 @@ A sessão daquela manhã foi interrompida por alguns minutos, enquanto os veread
 </br>
 Várias entidades de peso, estiveram levantando a bandeira mais uma vez contra a cultura da morte.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-genero_n_25C3_25A3o.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-genero_n_25C3_25A3o.png" width="200" height="132" data-original-width="704" data-original-height="466" /></a></div>
+
+![](/images/posts/2261-ideologia-de-gênero-x-paraná-vitóri-genero_n_25C3_25A3o.png)
+
 </br>
 Todo o movimento católico esteve convocado pela essência pensada por Deus sobre nós, e marcou presença durante toda a sessão. Que terminou a favor das famílias pois o plano municipal de educação ficou sem as expressões de "diversidade" e "gênero" e, muito importante, também foi excluído a produção e o fornecimento de materiais didáticos com esse tipo de assunto para a educação de nossos filhos.</br>
 </br>

@@ -4,8 +4,10 @@ date: 2020-11-18T16:34:00.004Z
 heroImage: "/images/posts/1081-oportunidades-para-o-bem-e-para-o-mal-diabo_sutil.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1081-oportunidades-para-o-bem-e-para-o-mal-diabo_sutil.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="329" data-original-width="333" src="/images/posts/1081-oportunidades-para-o-bem-e-para-o-mal-diabo_sutil.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">“Caríssimo, não imites o mal, mas sim o bem. Quem pratica o
-bem nasceu de Deus. Quem pratica o mal não viu a Deus” – 3ª João 1,11. &nbsp;O mal em sua tentativa sempre está se
+![](/images/posts/1081-oportunidades-para-o-bem-e-para-o-mal-diabo_sutil.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">“Caríssimo, não imites o mal, mas sim o bem. Quem pratica o
+bem nasceu de Deus. Quem pratica o mal não viu a Deus” – 3ª João 1,11.  O mal em sua tentativa sempre está se
 transvestindo e procurando corromper a natureza divina das coisas, sempre
 sustentadas pela verdade divina. Verdade essa que deve ser buscada, defendida e
 vivida. A verdade de Deus, expressada nas sagradas escrituras, precisa ser acolhida
@@ -36,4 +38,7 @@ versículo para confirmar que não é coisa boa de forma alguma o escolhermos em
 detrimento do bem. Eclesiástico 7,1 – “Não pratiques o mal, e o mal não te
 iludirá”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

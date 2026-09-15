@@ -4,7 +4,9 @@ date: 2023-07-25T19:15:00.006Z
 heroImage: "/images/posts/1336-artimanhas-do-inimigo-artimanhas_20do_20inimigo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1336-artimanhas-do-inimigo-artimanhas_20do_20inimigo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="418" data-original-width="434" height="308" src="/images/posts/1336-artimanhas-do-inimigo-artimanhas_20do_20inimigo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Arrisco dizer que, possivelmente, o cristão que assistiu ao
+![](/images/posts/1336-artimanhas-do-inimigo-artimanhas_20do_20inimigo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Arrisco dizer que, possivelmente, o cristão que assistiu ao
 filme O Exorcista do Papa, onde o Padre Gabriele Amorth, interpretado pelo ator
 Russell Crowe, trava sua luta contra o mal, ao deparar-se perto do final da película,
 onde o epílogo da história já estava em curso, sentiu um grande sentimento de
@@ -36,4 +38,7 @@ de tudo a nosso respeito que possa ser usado de alguma maneira contra nós.<o:p>
 forma o combate existe e todos os dias as artimanhas do inimigo não se cansam
 de nos assolar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

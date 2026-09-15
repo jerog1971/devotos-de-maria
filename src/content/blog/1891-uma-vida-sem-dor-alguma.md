@@ -4,7 +4,9 @@ date: 2021-05-11T23:13:00.001Z
 heroImage: "/images/posts/1891-uma-vida-sem-dor-alguma-dor_na_vida.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1891-uma-vida-sem-dor-alguma-dor_na_vida.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="341" data-original-width="403" src="/images/posts/1891-uma-vida-sem-dor-alguma-dor_na_vida.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Todo mundo já aprendeu por experiência própria que a dor é
+![](/images/posts/1891-uma-vida-sem-dor-alguma-dor_na_vida.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Todo mundo já aprendeu por experiência própria que a dor é
 um ingrediente presente na vida de cada um. Para ela, não existe exceção.
 Ninguém foi, é ou será poupado de todos os tipos de dores que existem. Físicas,
 psicológicas, sentimentais e espirituais, não há como percorrermos essa vida,
@@ -37,4 +39,7 @@ a dor das dores é filha do amor. Como Jesus nos disse que devemos amar como ele
 nos amou, significa que nosso amor deve estar disposto a tudo nessa luta diária
 que deve ser até o sangue, contra o pecado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger&nbsp;<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger <o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-12-03T16:00:00.004Z
 heroImage: "/images/posts/508-acolher-é-uma-coisa-aceitar-é-outra-img-301651925.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/508-acolher-é-uma-coisa-aceitar-é-outra-img-301651925.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="667" data-original-width="678" height="315" src="/images/posts/508-acolher-é-uma-coisa-aceitar-é-outra-img-301648879.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo acolhia a todos, não excetuava nenhum pecador,
+![](/images/posts/508-acolher-é-uma-coisa-aceitar-é-outra-img-301648879.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus Cristo acolhia a todos, não excetuava nenhum pecador,
 nem poderia; lemos na bíblia que Deus acolhe quem o procura com um coração
 sincero. No entanto, acolhia e mostrava a verdade, apresenta a boa nova do reino
 e o que Deus espera de cada um. E sobre isso, sobre o coração não há como
@@ -50,4 +52,7 @@ este mundo, mas transformai-vos pela renovação do vosso espírito, para que
 possais discernir qual é a vontade de Deus, o que é bom, o que lhe agrada e o
 que é perfeito”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

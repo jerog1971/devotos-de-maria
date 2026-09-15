@@ -4,7 +4,8 @@ date: 2019-07-03T15:11:00.003Z
 heroImage: "/images/posts/1919-sua-oração-está-caindo-no-vazio-tua-sentir_Deus.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1919-sua-oração-está-caindo-no-vazio-tua-sentir_Deus.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1919-sua-oração-está-caindo-no-vazio-tua-sentir_Deus.png" width="320" height="316" data-original-width="389" data-original-height="384" /></a></div>
+![](/images/posts/1919-sua-oração-está-caindo-no-vazio-tua-sentir_Deus.png)
+
 Tudo depende da disposição do penitente. Podemos entrar na recepção do sacramento da confissão num estado de graça maior do que podemos sair. Podemos sair com o mesmo grau ou ainda, o que é o ideal, num grau maior. Isso quem nos ensina é São Tomás de Aquino. Todavia, como vemos, existe a possibilidade de que a absolvição seja inválida, caia no vazio. Isso ocorre porque recebemos a graça na medida da abertura de nosso coração. A graça de Deus é a mesma derramada sobre todas as pessoas, mas cada um se dispõe a recebe-la conforme sua disposição.</br>
 </br>
 O mesmo, infelizmente, ou poderíamos até dizer, desgraçadamente, para sermos exigentes e imitadores do Cristo, acontece com nossas orações. Certa vez, em certo lugar do mundo, onde ocorrem as aparições, eis que um grupo de fieis acompanhavam o vidente em oração enquanto aguardavam o momento que a mãe de Deus desceria mais uma vez para falar com os filhos do altíssimo. O tempo de duração dessas orações aproximou-se de três horas. Quando chegou o momento da aparição, surge a Virgem Maria e, segundo relato posterior do vidente, ela estava com um semblante sério que aparentava certa dose de tristeza e descontentamento. Então lhe foi perguntado o porquê de sua feição estar com aqueles traços, ao passo que ela respondeu:</br>

@@ -4,7 +4,9 @@ date: 2022-08-03T14:49:00.002Z
 heroImage: "/images/posts/967-se-faço-o-que-é-errado-como-posso-en-ensinando_20coisas_20erradas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/967-se-faço-o-que-é-errado-como-posso-en-ensinando_20coisas_20erradas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="274" data-original-width="316" height="274" src="/images/posts/967-se-faço-o-que-é-errado-como-posso-en-ensinando_20coisas_20erradas.png" width="316" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo a respeito deste tipo de comportamento determina
+![](/images/posts/967-se-faço-o-que-é-errado-como-posso-en-ensinando_20coisas_20erradas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus Cristo a respeito deste tipo de comportamento determina
 que as pessoas que agem assim, ensinando o que é certo, mas fazendo o que é
 errado, são os hipócritas. Na cultura popular, o ditado diz “faça o que eu
 falo, mas não faça o que eu faço”. Que pesar, é uma confirmação de que as
@@ -44,4 +46,7 @@ por Jesus Cristo, nosso Senhor! Assim, pois, de um lado, pelo meu espírito, sou
 submisso à lei de Deus; de outro lado, por minha carne, sou escravo da lei do
 pecado” – Romanos 7,14-26.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

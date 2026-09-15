@@ -4,7 +4,9 @@ date: 2020-10-20T17:00:00.004Z
 heroImage: "/images/posts/237-o-devoto-de-maria-não-se-perde-Virgem_Maria.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/237-o-devoto-de-maria-não-se-perde-Virgem_Maria.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="238" data-original-width="255" src="/images/posts/237-o-devoto-de-maria-não-se-perde-Virgem_Maria.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Onde está o filho aí está sua mãe! Quem ama Maria Santíssima
+![](/images/posts/237-o-devoto-de-maria-não-se-perde-Virgem_Maria.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Onde está o filho aí está sua mãe! Quem ama Maria Santíssima
 agrada muito seu filho Jesus Cristo e não se perde jamais, pois tudo que ela
 quer é configurar seus protegidos ao modelo de santidade do ressuscitado. Maria
 é despojada de tudo, é serva do Senhor – Lucas 1,38 – e reconhecedora de sua pobreza
@@ -36,4 +38,7 @@ Deus, não é empregada de ninguém, lhe cabe o maior agradecimento pelas
 incessantes intercessões a todos aqueles que acorrem ao seu auxílio maternal e
 amor incondicional.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

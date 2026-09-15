@@ -4,7 +4,9 @@ date: 2021-08-11T16:04:00.003Z
 heroImage: "/images/posts/224-coisas-que-assustam-coisas_que_assustam.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/224-coisas-que-assustam-coisas_que_assustam.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="445" data-original-width="474" height="300" src="/images/posts/224-coisas-que-assustam-coisas_que_assustam.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Disse Jesus: “Não temais aqueles que matam o corpo, mas não
+![](/images/posts/224-coisas-que-assustam-coisas_que_assustam.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Disse Jesus: “Não temais aqueles que matam o corpo, mas não
 podem matar a alma; temei antes aquele que pode precipitar a alma e o corpo na
 geena” – Mateus 10,28. De fato, sempre com um olhar sobrenatural, Jesus vai
 logo esclarecendo que, apesar de sermos hoje um composto de corpo e alma, ainda
@@ -31,4 +33,7 @@ verdadeiramente está inserido, a soma de todos os medos possíveis nessa vida
 nunca irá superar o medo de perder por toda a eternidade uma vida de
 felicidades no paraíso.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

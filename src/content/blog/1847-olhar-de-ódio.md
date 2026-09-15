@@ -4,7 +4,9 @@ date: 2024-05-24T19:41:00.001Z
 heroImage: "/images/posts/1847-olhar-de-ódio-olhar_20de_20odio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1847-olhar-de-ódio-olhar_20de_20odio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="325" data-original-width="346" height="301" src="/images/posts/1847-olhar-de-ódio-olhar_20de_20odio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Sabemos que o mundo espiritual permeia a nossa realidade.
+![](/images/posts/1847-olhar-de-ódio-olhar_20de_20odio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Sabemos que o mundo espiritual permeia a nossa realidade.
 Por conta de vibrações diferentes e regras divinas estabelecidas, poucos de nós
 podemos “enxergar” o mundo espiritual e seus desdobramentos. Todavia, ele é uma
 realidade e nele, assim como em nosso plano, existe o que é bom e o que é ruim.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -41,4 +43,7 @@ anjo da guarda. Enfim, virou-se e continuou a caminhar. Fiz o mesmo e fui para
 casa refletindo o que passou. Pois é, encaro como uma graça divina, alertando e
 relembrando que a luta nunca cessa até o final dos tempos.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

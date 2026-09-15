@@ -4,7 +4,8 @@ date: 2016-09-13T20:55:00Z
 heroImage: "/images/posts/1782-quem-ama-não-trai-n_25C3_25A3o_trair.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1782-quem-ama-não-trai-n_25C3_25A3o_trair.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1782-quem-ama-não-trai-n_25C3_25A3o_trair.png" width="320" height="320" data-original-width="299" data-original-height="299" /></a></div>
+![](/images/posts/1782-quem-ama-não-trai-n_25C3_25A3o_trair.png)
+
 Com certeza é uma das expressões que mais se ouve nos circulos das conversas relacionadas ao relacionamento a dois. Muitas vezes, conversas motivadas por traições, como sugere a frase, são palco de uma enorme lista que explica com detalhes a questão de que “quem ama não trai”. Pois bem, mas já parou para pensar e refletir, caro leitor, no outro lado da moeda? Se quem ama não trai e isso é bem verdade e daqui a pouco iremos comprovar biblicamente, então por que homens e mulheres traem tanto?</br>
 </br>
 Facilmente somos tentados a deduzir pela lógica que, se a pessoa trai é porque não ama. E pior, se ela diz que ama o outro e mesmo assim trai então é mentirosa. De cara então, podemos ver que, por baixo, a traição acarreta na desobediência do primeiro mandamento, sexto, oitavo, nono e décimo mandamentos da lei de Deus. De um bote só, o infeliz pecador que da boca para fora diz que “ama”, no fundo, se é verdade que não trai quem ama, seu ato pecaminoso lhe rouba o estado de graça e o joga no lamaçal do pecado de forma bem profunda. E se a traição é reincidente e corriqueira, como um pecado grave de estimação e consciente, pior ainda, porque, como nos ensina Santo Tomás de Aquino, essa atitude de se cultivar uma obstinação ao pecado, consiste no gravíssimo pecado mortal contra o Espírito Santo, que só para recordarmos o próprio Jesus disse que é o único pecado que não tem perdão.</br>

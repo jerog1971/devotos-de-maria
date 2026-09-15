@@ -4,7 +4,9 @@ date: 2020-08-28T18:49:00.006Z
 heroImage: "/images/posts/1223-nossos-desafios-diários-desafios.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1223-nossos-desafios-diários-desafios.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="398" data-original-width="441" height="318" src="/images/posts/1223-nossos-desafios-diários-desafios.png" width="353" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A vida do homem sobre a terra consiste de grandes desafios.
+![](/images/posts/1223-nossos-desafios-diários-desafios.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A vida do homem sobre a terra consiste de grandes desafios.
 Provérbios 21,31 – “Prepara-se o cavalo para o dia da batalha, mas é do senhor
 que depende a vitória”. João 15,5 – “sem mim nada podeis fazer”. Como podemos
 querer alcançar vitórias colocando todo o esforço apenas em nossas próprias
@@ -37,4 +39,7 @@ da provação, como se vos acontecesse alguma coisa extraordinária. Pelo
 contrário, alegrai-vos em ser participantes dos sofrimentos de Cristo, para que
 vos possais alegrar e exultar no dia em que for manifestada sua glória”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,9 +4,11 @@ date: 2024-11-26T21:23:00.004Z
 heroImage: "/images/posts/1251-os-novíssimos-juiz.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1251-os-novíssimos-juiz.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="318" data-original-width="246" height="318" src="/images/posts/1251-os-novíssimos-juiz.png" width="246" /></a></div><br />
+![](/images/posts/1251-os-novíssimos-juiz.png)
 
-<p></p><p class="MsoNormal">Quem diria eu que me tornaria uma pessoa que pensa diariamente
+<br />
+
+<p class="MsoNormal">Quem diria eu que me tornaria uma pessoa que pensa diariamente
 na morte. Todavia, isso é uma coisa que não posso caracterizar como assustadora
 ou perturbadora. Afinal, é como diz o título do artigo. Na bíblia lemos que temos
 que pensar constantemente nos novíssimos para que não pequemos. Os novíssimos,
@@ -37,4 +39,4 @@ como um aviso diário: a vida está terminando, como você está vivendo? Está 
 um saldo divino que lhe permitirá entrar no reino de Deus? Se não, corramos
 endireitar as pendências com o altíssimo; temos essa chance todos os dias.</p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger</p><p>&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger</p>

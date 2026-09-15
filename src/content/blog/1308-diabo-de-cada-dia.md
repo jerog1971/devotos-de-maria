@@ -4,7 +4,9 @@ date: 2022-11-28T21:16:00Z
 heroImage: "/images/posts/1308-diabo-de-cada-dia-diabo_20de_20cada_20dia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1308-diabo-de-cada-dia-diabo_20de_20cada_20dia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="393" data-original-width="519" height="242" src="/images/posts/1308-diabo-de-cada-dia-diabo_20de_20cada_20dia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Deus diz que o diabo é o pai da mentira, o líder da rebelião
+![](/images/posts/1308-diabo-de-cada-dia-diabo_20de_20cada_20dia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Deus diz que o diabo é o pai da mentira, o líder da rebelião
 celeste que quis ser como Deus e deixar de lado sua condição de criatura. No
 mundo, após sua queda, assistimos uma grande insistência sua para se colocar de
 vítima e transformar a Deus no grande culpado por todas as proibições que ele
@@ -38,4 +40,7 @@ e até sobre ele muito se fala e muito se relativiza, tudo para que o mal real
 que pode nos causar muitos prejuízos seja algo que se possa aceitar,
 administrar e conviver. Isso é um perigo!<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

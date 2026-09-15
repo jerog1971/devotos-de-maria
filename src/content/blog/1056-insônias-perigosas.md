@@ -4,7 +4,9 @@ date: 2022-06-06T15:27:00.004Z
 heroImage: "/images/posts/1056-insônias-perigosas-ins_C3_B4nias_20perigosas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1056-insônias-perigosas-ins_C3_B4nias_20perigosas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="330" data-original-width="468" height="226" src="/images/posts/1056-insônias-perigosas-ins_C3_B4nias_20perigosas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Quando as coisas andam nos trilhos da vida de forma correta,
+![](/images/posts/1056-insônias-perigosas-ins_C3_B4nias_20perigosas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Quando as coisas andam nos trilhos da vida de forma correta,
 ela, apesar de ser cheia de tribulações, dificuldades, adversidades e provações
 – além das tentações é claro – não oferece motivo para que o sujeito caia em
 profundos desesperos, perdendo até o rumo desta e boas noites de sono. Mas
@@ -38,4 +40,7 @@ perigosos); cabe a cada um discernir junto a Jesus Cristo e com a sua ajuda
 agir conforme o agrado de Deus, pois, não importando a causa, a falta de sono
 está indicando que devemos colocar nossa atenção em algo que precisa ser solucionado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

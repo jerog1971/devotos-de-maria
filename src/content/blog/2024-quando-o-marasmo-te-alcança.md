@@ -4,7 +4,8 @@ date: 2018-12-05T14:59:00Z
 heroImage: "/images/posts/2024-quando-o-marasmo-te-alcança-marasmo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2024-quando-o-marasmo-te-alcança-marasmo.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2024-quando-o-marasmo-te-alcança-marasmo.png" width="320" height="310" data-original-width="387" data-original-height="375" /></a></div>
+![](/images/posts/2024-quando-o-marasmo-te-alcança-marasmo.png)
+
 Sentimento de tédio, ausência de coragem, desânimo, enfraquecimento das forças morais, apatia e indiferença, se algum desses sintomas invade a vida e não encontra resistência permitindo sua instalação em nossa mente e alma, é certo que a derrocada da vida na graça começa a descer a ladeira na direção dos ímpios.</br>
 </br>
 O olhar se enevoa e a confiança é colocada em outra direção. Uma pessoa nesse estado não consegue acreditar mais no que acreditava. O esforço que satanás faz, usando a técnica da água mole em pedra dura, vai aos poucos logrando êxito e a erosão dos alicerces que valorizam e mantém a conduta em pé vai ruindo perigosamente num caminho sem possível volta.</br>

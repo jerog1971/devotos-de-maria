@@ -4,7 +4,8 @@ date: 2020-03-27T17:25:00.005Z
 heroImage: "/images/posts/1111-ou-você-é-católico-ou-é-carismático-parte-2-cat_25C3_25B3lico_ou_carism_25C3_25A1tico_1.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1111-ou-você-é-católico-ou-é-carismático-parte-2-cat_25C3_25B3lico_ou_carism_25C3_25A1tico_1.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="262" data-original-width="393" height="213" src="/images/posts/1111-ou-você-é-católico-ou-é-carismático-parte-2-cat_25C3_25B3lico_ou_carism_25C3_25A1tico_1.png" width="320" /></a></div>
+![](/images/posts/1111-ou-você-é-católico-ou-é-carismático-parte-2-cat_25C3_25B3lico_ou_carism_25C3_25A1tico_1.png)
+
 Quanto ao falso ecumenismo, notemos que não é um erro exclusivo dos carismáticos, de modo que todos que aceitam o Concílio Vaticano II estão dispostos a manter que existem verdadeiros “elementos de santificação” fora da Igreja (legítima contradição com o catecismo). Enquanto o católico pode e deve negar essa afirmação por que a Igreja sempre ensinou o contrário, e a verdade não pode contradizer a si mesma, ainda assim é possível confirmar a verdade da Fé com o auxílio da razão e da experiência. Vamos compreender porque as práticas e doutrinas dos carismáticos de fato não são santas.
 
 A primeira coisa a ser notada é que os carismas de que eles tanto falam não são sinais certos da presença do Espírito Santo, mas são, ao invés disso, fortes indícios de possessão demoníaca. Segundo Joseph Ecanem, em seu livro Possessão Demoníaca – página 23, ele escreve que “de acordo com o Ritual Romano, outros sinais de possessão incluem ‘a habilidade de falar com certa familiaridade em uma língua estranha ou entendê-la quando falada por outro; a faculdade de adivinhar o futuro e eventos ocultos; e a exibição de poderes que estão além da idade e condição natural do sujeito'”.
@@ -16,6 +17,5 @@ A bagunça e extravagância é uma nota inconfundível de qualquer reunião cari
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2016/02/nao-seja-um-carismatico.html" target="_blank">Não seja um carismático</a>
-
 
 Fonte: Jefferson Roger e adaptação do site controversiacatolica

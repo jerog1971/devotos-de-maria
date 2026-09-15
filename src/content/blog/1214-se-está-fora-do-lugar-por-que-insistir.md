@@ -4,7 +4,9 @@ date: 2022-03-10T12:43:00Z
 heroImage: "/images/posts/1214-se-está-fora-do-lugar-por-que-insistir-AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV_s459.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1214-se-está-fora-do-lugar-por-que-insistir-AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV_s459.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="459" data-original-width="457" height="320" src="/images/posts/1214-se-está-fora-do-lugar-por-que-insistir-AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV_s320.jpg" width="319" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Isso mesmo, é o que muito se vê por aí. Na contrapartida, as
+![](/images/posts/1214-se-está-fora-do-lugar-por-que-insistir-AVvXsEgO14IMad69Npw3cc6Mc4JxHSWWuaa70W4V70Hg0M6sqnxBiky8lNkPKvc2BzDSe3FrPmPcND0jxY2q5B7eiBNV6lRuaMnLUH8vc2YmLNSUdp31U3dD2RsFjWTdUrErJvaHO4UR6803vls487D7aj9sLwakVVHEVT9_ydpSzQ5W7rOH6F3vypVze_YV_s320.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Isso mesmo, é o que muito se vê por aí. Na contrapartida, as
 pessoas não dizem que “gostam de tudo nos eixos”, tudo “preto no branco”, tudo “alinhado
 e nos <i>trinks</i>”? Pois é, dizem tudo isso, mas não aplicam tudo isso em
 todas as áreas de sua vida. Agem como lhes convém, quando o que realmente
@@ -41,4 +43,7 @@ ele conhece todo o comportamento dos homens. Ele não deu ordem a ninguém para
 fazer o mal, e a ninguém deu licença para pecar; pois não deseja uma multidão
 de filhos infiéis e inúteis”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

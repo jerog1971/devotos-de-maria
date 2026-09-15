@@ -4,7 +4,9 @@ date: 2021-02-09T14:45:00Z
 heroImage: "/images/posts/1122-a-luta-da-vida-sob_o_dom_25C3_25ADnio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1122-a-luta-da-vida-sob_o_dom_25C3_25ADnio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="568" data-original-width="605" src="/images/posts/1122-a-luta-da-vida-sob_o_dom_25C3_25ADnio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A bíblia nos diz em Eclesiastes que nessa vida existe tempo
+![](/images/posts/1122-a-luta-da-vida-sob_o_dom_25C3_25ADnio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A bíblia nos diz em Eclesiastes que nessa vida existe tempo
 para tudo; também no mesmo livro diz que muito tempo gasto com futilidades e
 coisas passageiras não passam de vaidades. Afinal, se até ao pó voltaremos,
 antes da ressurreição para a vida eterna, nada nesta etapa de nossas vidas
@@ -43,4 +45,7 @@ altíssimo para a subida pelo apertado caminho da porta estreita, caminhando
 assim com o auxílio de forças que não serão nossas, será a mão de Deus a nos
 amparar e acompanhar.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

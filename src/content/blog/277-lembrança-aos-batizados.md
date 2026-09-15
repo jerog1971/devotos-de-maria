@@ -4,7 +4,8 @@ date: 2017-10-06T17:30:00.001Z
 heroImage: "/images/posts/277-lembrança-aos-batizados-batismo.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/277-lembrança-aos-batizados-batismo.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="520" data-original-width="777" height="214" src="/images/posts/277-lembrança-aos-batizados-batismo.png" width="320" /></a></div>
+![](/images/posts/277-lembrança-aos-batizados-batismo.png)
+
 Jesus disse, ide e pregai o evangelho a toda a criatura, quem crer e for batizado será salvo mas não crer, já está condenado. Batizai-as em nome do Pai, do Filho e do Espírito Santo. E como vimos nos evangelhos o batismo acontece na presença da intenção, da fórmula e da matéria. Na intenção (as pessoas recorriam ao batismo), a fórmula proferida por Jesus (em nome do Pai, do Filho e do Espírito Santo), e da matéria (a presença da água). A água representa limpeza, purificação, desejo de deixar para trás o que não é bom. É como Jesus explicou no evangelho que é preciso renascer da água e do espírito (João 3,5) deixando o homem velho para trás para alcançar o Reino de Deus.
 
 Pois bem, como o batismo vem dos céus, por isso é um sacramento, conferido pela Santíssima Trindade, não há como ser desfeito por mãos humanas. Aqui na terra ninguém pode desfazer o que Deus faz. Por isso também se diz que ele é indelével porque não pode ser removido da alma da pessoa. Sabemos muito bem que Jesus Cristo fundou a sua igreja (Mateus 16,18) sendo está a única e verdadeira. Sabemos também que a babilônia humana em seus muitos erros fundou outras denominações religiosas e suas igrejas. Agora vejam bem caros leitores. Uma coisa é ser validamente batizado e outra coisa é viver na verdade. O batizado legítimo, infelizmente pode por culpa própria ou não, não viver na verdade do Cristo. Algumas denominações religiosas batizam validamente conforme Jesus ensina e a bíblia sagrada, entregue para a humanidade através da igreja católica, descreve. Outras não.
@@ -18,6 +19,5 @@ Ademais, do mesmo modo os que foram batizados validamente fora da igreja católi
 Artigo Relacionado:
 
 <a href="https://devotos-de-maria.blogspot.com.br/p/sacramento-do-batismo.html" target="_blank">O sacramento do batismo</a>
-
 
 fonte: Jefferson Roger

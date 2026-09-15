@@ -4,7 +4,8 @@ date: 2016-01-11T14:08:00Z
 heroImage: "/images/posts/1807-finjir-a-cura-para-arrecadar-mais-waldemiro.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1807-finjir-a-cura-para-arrecadar-mais-waldemiro.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1807-finjir-a-cura-para-arrecadar-mais-waldemiro.png" width="273" height="320" data-original-width="370" data-original-height="434" /></a></div>
+![](/images/posts/1807-finjir-a-cura-para-arrecadar-mais-waldemiro.png)
+
 </br>
 Como bem se sabe, muitas religiões não católicas centralizam suas pregações no antigo testamento apenas pincelando alguns textos do novo testamento. E sem dúvida muito se bate na tecla do dízimo. Até aí nada demais pois até Jesus afirmou que não se deve deixar de fazê-lo. No entanto o fim não justifica os meios e de forma não cristã os fiéis recebem de forma distorcida, para não usarmos outros termos essa prática cristã, evidenciada em toda a sagrada escritura com muitos teores ludibriosos e inverdades que ferem o verdadeiro ensinamento que vem dos céus. Como um pequeno exemplo do que se esta a falar, segue abaixo a transcrição de matéria publicada em 2013 para exemplificar até onde chega a veracidade dos fatos.</br>
 </br>

@@ -4,7 +4,8 @@ date: 2020-04-18T15:19:00Z
 heroImage: "/images/posts/1285-antigo-ou-novo-testamento-qual-obedecer-testamento.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1285-antigo-ou-novo-testamento-qual-obedecer-testamento.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1285-antigo-ou-novo-testamento-qual-obedecer-testamento.png" width="292" height="320" data-original-width="195" data-original-height="214" /></a></div>
+![](/images/posts/1285-antigo-ou-novo-testamento-qual-obedecer-testamento.png)
+
 Tema que sempre gera confusão é a questão da nossa obediência a palavra de Deus, contida tanto no novo quanto no antigo testamento. Seguimos um deles? Seguimos os dois? O que fazer? Vamos jogar um pouco de luz nesta questão para que possamos ser cristãos felizes e não termos sentimentos de culpa ou ansiedade ou tensão por, quem sabe, estarmos desagradando a Deus agindo ao contrário do que ele espera de nós.</br>
 </br>
 Primeiramente podemos entender que uma leitura atenta da palavra nos mostra que, o antigo testamento, que traz a história do povo de Israel, prefigura todo o projeto e plano de salvação de Deus para a humanidade. Por sua condução ele vai administrando suas “regras” para a humanidade em diferentes épocas e contextos. É o caminho para se chegar a meta. Portanto é assim de fácil compreensão que não se deve seguir ao pé da letra o conteúdo do antigo testamento e sim, seguir o que tem a ensinar. Vamos a um exemplo entre tantos que existem nos livros sagrados para uma melhor compreensão.</br>

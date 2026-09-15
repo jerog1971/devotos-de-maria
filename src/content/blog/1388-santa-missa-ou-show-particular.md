@@ -4,7 +4,11 @@ date: 2020-05-09T22:29:00.005Z
 heroImage: "/images/posts/1388-santa-missa-ou-show-particular-AVvXsEj11VbSA3ITwfgrBbr9NcJf1cz22ahpYHIolitn7gLP5ecuWIvnHwVguhhMVlGLtnZspnXOSuIvduoS1STsVw96PYbAc21O55DBx0gLZetBEMHBMNyqsvluPspDW0T9kXIShloUJyntr4c.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1388-santa-missa-ou-show-particular-AVvXsEj11VbSA3ITwfgrBbr9NcJf1cz22ahpYHIolitn7gLP5ecuWIvnHwVguhhMVlGLtnZspnXOSuIvduoS1STsVw96PYbAc21O55DBx0gLZetBEMHBMNyqsvluPspDW0T9kXIShloUJyntr4c.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="369" data-original-width="326" height="320" src="/images/posts/1388-santa-missa-ou-show-particular-AVvXsEj11VbSA3ITwfgrBbr9NcJf1cz22ahpYHIolitn7gLP5ecuWIvnHwVguhhMVlGLtnZspnXOSuIvduoS1STsVw96PYbAc21O55DBx0gLZetBEMHBMNyqsvluPspDW0T9kXIShloUJyntr4c.jpgs320/padres_artistas.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Bom, santa missa quem celebra é um pastor de Nosso Senhor
+<br />
+
+![](/images/posts/1388-santa-missa-ou-show-particular-AVvXsEj11VbSA3ITwfgrBbr9NcJf1cz22ahpYHIolitn7gLP5ecuWIvnHwVguhhMVlGLtnZspnXOSuIvduoS1STsVw96PYbAc21O55DBx0gLZetBEMHBMNyqsvluPspDW0T9kXIShloUJyntr4c.jpgs320/padres_artistas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Bom, santa missa quem celebra é um pastor de Nosso Senhor
 Jesus Cristo, com a missão dada pelo ressuscitado a São Pedro de apascentar as
 suas ovelhas. As ovelhas do Senhor, que morreu na cruz pelos nossos pecados.</p>
 

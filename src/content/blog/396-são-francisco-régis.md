@@ -4,7 +4,11 @@ date: 2020-06-17T16:56:00Z
 heroImage: "/images/posts/396-são-francisco-régis-img-492309424.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/396-são-francisco-régis-img-492309424.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="282" data-original-width="282" src="/images/posts/396-são-francisco-régis-img-173114904.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu no dia 31 de janeiro d 1597, na vila de Francouverte,
+<br />
+
+![](/images/posts/396-são-francisco-régis-img-173114904.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu no dia 31 de janeiro d 1597, na vila de Francouverte,
 nas proximidades de Narbonne, França. Ingressou na Companhia de Jesus em 1616.
 Em 1630 foi ordenado sacerdote e partiu para Vivarais, Velay e Cevennes.
 Empenhou-se ardorosamente na catequese das crianças e na pregação do evangelho

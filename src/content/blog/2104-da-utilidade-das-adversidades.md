@@ -4,7 +4,11 @@ date: 2020-06-14T17:36:00.002Z
 heroImage: "/images/posts/2104-da-utilidade-das-adversidades-cansado.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2104-da-utilidade-das-adversidades-cansado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="167" data-original-width="172" src="/images/posts/2104-da-utilidade-das-adversidades-img-1229139006.jpg" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Lemos na bíblia em Habacuc 2,9 que “Ai daquele que procura
+<br />
+
+![](/images/posts/2104-da-utilidade-das-adversidades-img-1229139006.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Lemos na bíblia em Habacuc 2,9 que “Ai daquele que procura
 lucros criminosos para a sua casa, e que quer colocar bem alto o seu ninho,
 para escapar ao golpe da adversidade!” Também aprendemos em Eclesiástico 10,29:
 “Não te orgulhes do trabalho que fazes, não sejas indolente no tempo da

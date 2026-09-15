@@ -4,7 +4,8 @@ date: 2019-05-17T16:15:00.001Z
 heroImage: "/images/posts/677-a-evolução-de-uma-pessoa-Tony_Stark.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/677-a-evolução-de-uma-pessoa-Tony_Stark.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/677-a-evolução-de-uma-pessoa-Tony_Stark.png" width="320" height="228" data-original-width="674" data-original-height="481" /></a></div>
+![](/images/posts/677-a-evolução-de-uma-pessoa-Tony_Stark.png)
+
 Ainda em cartaz nos cinemas do mundo o último filme do universo cinematográfico da Marvel traz a conclusão da jornada de alguns dos seus heróis quem em mais de vinte filmes em pouco mais de dez anos, tiveram uma evolução em termos de caráter, ponto de vista e valores pessoais. Poderíamos aqui, para ilustrar a reflexão, falar de alguns deles, mas iremos resumir um pouquinho a história do personagem Tony Stark, bilionário excêntrico e arrogante, incapaz de atitudes mais nobres visando o bem comum escondendo-se do benefício próprio, nariz empinado e aquele senso de superego que o coloca acima dos outros.</br>
 </br>
 No entanto, em sua trajetória isso tudo mudou. Em Vingadores Ultimato (Avenger’s Endgame) a conclusão do filme e porque não dizer de sua trama, gira em torno, com um certo grau de importância, desse personagem. Não iremos aqui detalhar os acontecimentos do filme em respeito aos que ainda não assistiram. Afinal, não chegamos ainda a um mês de exibição nas telonas e o forte concorrente a assumir o posto de maior bilheteria da história dos cinemas, segundo informações oficiais do site Box Office Mojo, que está “apenas” U$ 256.586.713 atrás do primeiro colocado Avatar, conta com um número muito grande de fãs que ainda irão assistir a conclusão dessa etapa que, já foi anunciado pelos produtores, de fato se concluirá com o próximo filme: Homem Aranha Longe de Casa.</br>

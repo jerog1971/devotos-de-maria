@@ -4,7 +4,8 @@ date: 2017-09-13T12:37:00Z
 heroImage: "/images/posts/286-seja-um-apressado-batida.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/286-seja-um-apressado-batida.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/286-seja-um-apressado-batida.png" width="302" height="320" data-original-width="690" data-original-height="731" /></a></div>
+![](/images/posts/286-seja-um-apressado-batida.png)
+
 É isso mesmo que você leu no título do artigo caro leitor, seja um apressado e muito apressado! Mas sei que deve, quem sabe, estar lembrando daquele ditado popular que diz que “o apressado come cru”. É verdade a conotação deste dito popular, porque denota que a pessoa, não tendo atitude ponderada e bem refletida, age na impulsividade e não reflete o suficiente e de forma madura para poder tomar decisões.</br>
 </br>
 Sabemos no dia a dia de nossas vidas e em meio a correria das horas que sempre parecem nos deixar para trás, que a pressa, vem aí outro ditado, é inimiga da perfeição. Sobre esse ponto de vista até seria possível confabular que Deus não tem pressa para com suas criaturas porque não age na medida e no tempo que queremos. Porém, aqui o buraco é mais embaixo. Como Deus está fora do tempo, já que é eterno, a medida de tempo, que é uma contagem regressiva desde o momento de nosso nascimento, se transforma, sob um olhar sobrenatural que sempre devemos ter sobre nossas vidas, numa constante oportunidade para nos salvarmos e ajudar os outros a se salvarem.</br>

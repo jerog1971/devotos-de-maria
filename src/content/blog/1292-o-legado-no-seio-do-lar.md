@@ -4,14 +4,16 @@ date: 2024-10-11T18:18:00.005Z
 heroImage: "/images/posts/1292-o-legado-no-seio-do-lar-legado.JPG"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"></div><div class="separator" style="clear: both; text-align: left;"><img border="0" data-original-height="630" data-original-width="537" height="320" src="/images/posts/1292-o-legado-no-seio-do-lar-legado.JPG" width="273" /></div><p>&nbsp;</p><p>De maneira geral, deixar um legado de vida implica em deixar
+![](/images/posts/1292-o-legado-no-seio-do-lar-legado.JPG)
+
+De maneira geral, deixar um legado de vida implica em deixar
 algo positivo, valioso ou impactante para as gerações futuras. É uma forma de
 influenciar o mundo além da própria existência e deixar uma marca
 significativa, principalmente para as pessoas que você ama e com as quais você
 conviveu a maior parte da vida. Bons exemplos e atitudes educam assim como
 palavras de sabedoria inspiradas em valores morais e cristãos.
 
-</p><p class="MsoNormal">Sabemos que os maus exemplos também ensinam; todavia, para
+<p class="MsoNormal">Sabemos que os maus exemplos também ensinam; todavia, para
 aquele que procura sempre lançar um olhar sobrenatural em sua vida, vê naquilo
 que não é certo e bom um ensinamento de como não se comportar e agir. Afinal,
 se Deus “vê” os corações e acolhe aquele que o procura com um coração sincero,
@@ -34,5 +36,4 @@ do esforço para agradar ao Senhor, se reflete nas filhas que abraçaram o legad
 que tem raízes divinas e não pretende se desfalecer no seio do lar.</p>
 
 <p class="MsoNormal">Fonte: Jefferson Roger</p>
-
 

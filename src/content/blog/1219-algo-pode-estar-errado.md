@@ -4,7 +4,9 @@ date: 2021-07-20T17:01:00.002Z
 heroImage: "/images/posts/1219-algo-pode-estar-errado-fazendo_certo.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1219-algo-pode-estar-errado-fazendo_certo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="533" data-original-width="598" src="/images/posts/1219-algo-pode-estar-errado-fazendo_certo.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Uma vida de erros e desacertos e insistentes tentativas
+![](/images/posts/1219-algo-pode-estar-errado-fazendo_certo.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Uma vida de erros e desacertos e insistentes tentativas
 fúteis de se conseguir o que quer passando por cima e prejudicando os outros
 por conta de motivos egoístas tem, além de seu preço, a sua causa. Por causa
 disso o sujeito não pode esperar que tudo vá bem em sua vida cem por cento do
@@ -38,4 +40,7 @@ Reconhecei a vossa miséria, afligi-vos e chorai. Converta-se o vosso riso em
 pranto e a vossa alegria em tristeza. Humilhai-vos na presença do Senhor, e ele
 vos exaltará.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

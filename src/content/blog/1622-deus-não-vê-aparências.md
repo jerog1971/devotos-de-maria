@@ -4,7 +4,11 @@ date: 2020-07-30T23:11:00.002Z
 heroImage: "/images/posts/1622-deus-não-vê-aparências-Seu_outro_lado.jpg"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1622-deus-não-vê-aparências-Seu_outro_lado.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="480" data-original-width="640" src="/images/posts/1622-deus-não-vê-aparências-Seu_outro_lado.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Marcos 12,14 – “Aproximaram-se dele e disseram-lhe: Mestre,
+<br />
+
+![](/images/posts/1622-deus-não-vê-aparências-Seu_outro_lado.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Marcos 12,14 – “Aproximaram-se dele e disseram-lhe: Mestre,
 sabemos que és sincero e que não lisonjeias a ninguém; porque não olhas para as
 <b style="mso-bidi-font-weight: normal;"><u>aparências dos homens</u></b>, mas
 ensinas o caminho de Deus segundo a verdade.</p>

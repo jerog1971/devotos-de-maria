@@ -4,7 +4,9 @@ date: 2023-05-04T16:51:00.002Z
 heroImage: "/images/posts/781-trato-é-trato-trato_20_C3_A9_20trato.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/781-trato-é-trato-trato_20_C3_A9_20trato.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="473" data-original-width="399" height="320" src="/images/posts/781-trato-é-trato-trato_20_C3_A9_20trato.png" width="270" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os ditados populares costumam não errar, tampouco mentir. Afinal,
+![](/images/posts/781-trato-é-trato-trato_20_C3_A9_20trato.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Os ditados populares costumam não errar, tampouco mentir. Afinal,
 eles são um reflexo da experiência humana ao longo da vida. “Trato é trato”;
 ouvimos este pelo mundo afora, inclusive em filmes, o que só reforça que até
 mesmo a fantasia se curva para a realidade dos fatos. Pois bem, vamos em
@@ -30,7 +32,7 @@ entender meus porquês”. Assim pensa o sujeito e ainda conclui que não deve a
 assim porque já é sua obrigação seguir a palavra de Deus. Por que piorar as
 coisas se comprometendo ainda mais?<o:p></o:p></p>
 
-<p class="MsoNormal">Ora bolas, como diriam as crianças: &nbsp;porque sim! E nós dizemos, porque é preciso
+<p class="MsoNormal">Ora bolas, como diriam as crianças:  porque sim! E nós dizemos, porque é preciso
 elevar o nível da luta – lembremos das palavras do apóstolo Paulo que disse em
 Hebreus que “ainda não lutamos até o sangue contra o pecado” – e demonstrar
 para Deus o quanto queremos mudar e o quanto queremos em súplica, que ele nos
@@ -42,4 +44,7 @@ foram desamparados. Este é um testemunho que quem vos escreve também pode
 afirmar. Não existe prejuízo em achegar-se para junto das coisas do alto, das
 coisas do céu.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2021-08-09T14:52:00.004Z
 heroImage: "/images/posts/1597-já-pensou-em-ser-feliz-felicidade.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1597-já-pensou-em-ser-feliz-felicidade.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="394" data-original-width="361" height="320" src="/images/posts/1597-já-pensou-em-ser-feliz-felicidade.png" width="293" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ao ler o título deste artigo certamente o leitor pode cair
+![](/images/posts/1597-já-pensou-em-ser-feliz-felicidade.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ao ler o título deste artigo certamente o leitor pode cair
 na tentação de achar que se trata de uma pergunta boba, ou mais que isso ainda.
 Ora, qualquer um quer ser feliz, para que uma vida de infelicidades? Para que abrir
 mão da felicidade? Muito provavelmente todo mundo tem uma lista das coisas que
@@ -31,4 +33,7 @@ sangue inocente. Meditam projetos malignos, só se encontram sobre sua passagem
 estrago e ruínas; [por isso] o caminho da paz lhes é desconhecido, seguem
 atalhos tortuosos, onde aqueles que passam ignoram a felicidade”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

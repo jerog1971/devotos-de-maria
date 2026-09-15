@@ -4,7 +4,8 @@ date: 2018-02-24T12:01:00.001Z
 heroImage: "/images/posts/004-sem-jesus-sem-superação-dificuldades.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/004-sem-jesus-sem-superação-dificuldades.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/004-sem-jesus-sem-superação-dificuldades.png" width="320" height="296" data-original-width="279" data-original-height="258" /></a></div>
+![](/images/posts/004-sem-jesus-sem-superação-dificuldades.png)
+
 Na vida de muitas pessoas e porque não dizer na vida de todas as pessoas, o inevitável fato de que nossa fraqueza e desatenção às palavras doutrinárias do Cristo nos leva a priorizar desejos no lugar de anseios e aspirações, conduz os pobres pecadores pelas veredas dos erros. Erros esses que algumas vezes causam, além da inimizade para com Deus, sentimentos terríveis de pessoas que acabam sendo envolvidas por esses erros; erros esses que recebem pela doutrina religiosa o título de pecado.</br>
 </br>
 Deste ponto em diante algumas consequências acontecem na vida das pessoas. Se nosso pecado gera uma ofensa direta apenas para com Deus, o sacramento da reconciliação, depois de um sincero arrependimento e firme propósito de não cometer mais o mesmo erro, mudar de vida e evitar as ocasiões de pecado, nos coloca de novo em comunhão com nosso criador. Agora, se o lamaçal do pecado “espirra” em alguém próximo a nós, ou até nem tão próximo, mas “espirra”, então o agravante pode acontecer. O ditado popular diz que o ofendido não esquece a ofensa recebida, só quem esquece é o ofensor. Bem verdade é, porque certas gravidades deixam marcas que sempre irão recordar os acontecimentos.</br>

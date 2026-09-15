@@ -4,7 +4,8 @@ date: 2016-02-17T18:55:00.001Z
 heroImage: "/images/posts/1139-satanás-ataca-ma_25C3_25A7om.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1139-satanás-ataca-ma_25C3_25A7om.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1139-satanás-ataca-ma_25C3_25A7om.png" width="320" height="214" data-original-width="630" data-original-height="422" /></a></div>
+![](/images/posts/1139-satanás-ataca-ma_25C3_25A7om.png)
+
 Apesar da matéria ser antiga, resolvi postar este artigo para mostrar a todos os católicos que a estratégia do diabo chamada de ecumenismo, lançada a muito tempo, sempre está a contaminar o rebanho de Nosso Senhor Jesus Cristo.</br>
 </br>
 Novamente a Maçonaria invade a Igreja em Missa pelo dia do Maçom em Pernambuco</br>
@@ -69,7 +70,9 @@ O Santo Ofício declarou, no dia 20 de abril de 1949, numa resposta ao bispo de 
 </br>
 Façamos então uma nova pergunta: A situação hoje ainda é a mesma? Ou houve alguma mudança?</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1139-satanás-ataca-ma_25C3_25A7om2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1139-satanás-ataca-ma_25C3_25A7om2.png" width="200" height="155" data-original-width="362" data-original-height="280" /></a></div>
+
+![](/images/posts/1139-satanás-ataca-ma_25C3_25A7om2.png)
+
 Em 27 de novembro de 1983, entrou em vigor um novo Código de Direito Canônico: "O Novo Código apresenta um cânon relativo à maçonaria":</br>
 </br>
 Cân. 1374: "Quem se inscrever em alguma associação que maquina contra a Igreja seja punido com justa pena; e quem promover ou dirige uma dessas associações, seja punido com interdito".</br>
@@ -78,7 +81,9 @@ No mesmo dia em que entrava em vigor o novo Código de Direito Canônico, L´Oss
 </br>
 "Foi perguntado se mudou o parecer da Igreja a respeito da maçonaria pelo fato de que, no novo Código de Direito Canônico, ela não vem expressamente mencionada como no Código anterior. Esta Sagrada Congregação quer responder que tal circunstância é devida a um critério relacional, seguido também quanto às outras associações igualmente não mencionadas, uma vez que estão compreendidas em categoria mais amplas. Permanece, entretanto, imutável o parecer negativo da Igreja a respeito das associações maçônicas, pois os seus princípios foram sempre considerados inconciliáveis com a doutrina da Igreja, e por isso permanece proibida a inscrição nelas. Os fiéis que pertencem às associações maçônicas estão em estado de pecado grave, e não podem aproximar-se da Sagrada Comunhão. Não compete às autoridades eclesiásticas locais pronunciarem-se sobre a natureza das associações maçônicas, com juízo que implique derrogação de quanto foi acima estabelecido, e isto segundo a mente da Declaração desta Sagrada Congregação, de 17 de fevereiro de 1981 (cf. AAS 73, 1981, pp. 240-241). O Sumo Pontífice João Paulo II, durante a Audiência concedida ao subscrito Cardeal Prefeito, aprovou a presente Declaração, decidida na reunião ordinária desta Sagrada Congregação, e ordenou a sua publicação. Roma, da Sede da Sagrada Congregação para a Doutrina da Fé, 26 de novembro de 1983".</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1139-satanás-ataca-ma_25C3_25A7om3.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1139-satanás-ataca-ma_25C3_25A7om3.png" width="200" height="135" data-original-width="417" data-original-height="282" /></a></div>
+
+![](/images/posts/1139-satanás-ataca-ma_25C3_25A7om3.png)
+
 Maçonaria: Salvação sem Jesus Cristo.</br>
 </br>
 A Loja Maçônica afirma ser uma organização fraternal e nega que a Maçonaria seja uma religião. Todavia, ensina um plano de salvação que não requer fé em Jesus Cristo. Porém: Jesus Cristo é o único caminho para a salvação: "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por mim." (João 14,6)</br>

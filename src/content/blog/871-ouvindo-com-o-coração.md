@@ -4,7 +4,9 @@ date: 2023-06-07T21:41:00.005Z
 heroImage: "/images/posts/871-ouvindo-com-o-coração-img-1506836306.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/871-ouvindo-com-o-coração-img-1506836306.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1089" data-original-width="1328" height="262" src="/images/posts/871-ouvindo-com-o-coração-img-1935610935.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente se a dúvida existe no coração o diabo prontamente
+![](/images/posts/871-ouvindo-com-o-coração-img-1935610935.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente se a dúvida existe no coração o diabo prontamente
 se apressa a convencer o cristão de que isso é bobagem! Continue sua vida em
 meio aos seus prazeres e alegrias do mundo e não faça mal a ninguém. E assim, ouvindo
 do inimigo exatamente o que esperaria ouvir de Deus, o sujeito se lança na
@@ -30,4 +32,7 @@ confesso, amanhã me converto, amanhã deixo esse meu pecado de estimação e
 assim, corre-se o risco como o mostrado na parábola das virgens imprudentes,
 que por um descuido das tentações, perderam as bodas com o noivo.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

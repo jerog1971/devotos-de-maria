@@ -4,7 +4,9 @@ date: 2019-05-15T15:40:00Z
 heroImage: "/images/posts/666-a-saga-de-um-personagem-Rambo_V.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/666-a-saga-de-um-personagem-Rambo_V.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/666-a-saga-de-um-personagem-Rambo_V.png" width="320" height="316" data-original-width="484" data-original-height="478" /></a></div>Dentre alguns conceitos para a palavra saga o que ocorre para a maioria das pessoas quando se depara com essa expressão é a ligação que esta faz com o significado de história repleta de acontecimentos vividos por alguém. Para linhas gerais e bastante resumida partiremos desse ponto para refletirmos um pouco em relação a esse conceito de saga.</br>
+![](/images/posts/666-a-saga-de-um-personagem-Rambo_V.png)
+
+Dentre alguns conceitos para a palavra saga o que ocorre para a maioria das pessoas quando se depara com essa expressão é a ligação que esta faz com o significado de história repleta de acontecimentos vividos por alguém. Para linhas gerais e bastante resumida partiremos desse ponto para refletirmos um pouco em relação a esse conceito de saga.</br>
 </br>
 Podendo ser ligada a palavra a fatos reais históricos, heroicos ou ficcionais, de tempos para cá a palavra saga tem acostumado muitos ouvidos dentro do campo cinematográfico. A saga Star Trek, a saga Star Wars, a saga de Frodo em Senhor dos Anéis ou de seu tio Bilbo na trilogia do Hobbit. Pois bem, por anos as pessoas acompanham a história de um ou mais personagens em tramas de prender espectadores por horas. E quando os personagens apresentam características comportamentais que os identificam ao público eles ganham ainda mais carisma e popularidade. Haja vista seus fãs quererem adquirir itens relacionados aos seus filmes.</br>
 </br>

@@ -4,7 +4,8 @@ date: 2018-09-27T19:52:00Z
 heroImage: "/images/posts/2132-a-contagem-regressiva-da-vida-contagem_regresssiva.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2132-a-contagem-regressiva-da-vida-contagem_regresssiva.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2132-a-contagem-regressiva-da-vida-contagem_regresssiva.png" width="306" height="320" data-original-width="328" data-original-height="343" /></a></div>
+![](/images/posts/2132-a-contagem-regressiva-da-vida-contagem_regresssiva.png)
+
 Passando o olhar pela história da criação de forma resumida, percebemos que a morte entrou no mundo depois da desobediência do homem. Nunca entenderemos plenamente porque a culpa de Adão e Eva recaiu sobre todos os seres humanos. Afinal, se ele quisesse, já que é todo poderoso, poderia ter resolvido a situação de modo local e assim sabemos que é porque, sabe-se que a toda cheia de graça foi preservada do pecado para ser mãe do redentor. Não nos cabe, no entanto, gastarmos nosso precioso tempo com aquilo que, caso não saibamos, não irá prejudicar nossa salvação.</br>
 </br>
 O que ocorre então é que chegamos a este mundo com prazo de validade. Cada um tem o seu e a grande “sacada” de Deus é não permitir que tenhamos consciência do nosso dia de morte. O motivo é muito simples e deve servir de incentivo dado pelo pai eterno para que alcancemos o grau de santidade que precisamos para ir ao céu. Ou seja, como não sabemos quando morreremos precisamos viver o nosso dia como se fosse o último. Se a morte nos colher de surpresa e existirem pendências não resolvidas com Deus, estando ainda por aqui, essa situação poderá transformar-se num grande agravante e a salvação corre o risco de escapar por entre os dedos.</br>

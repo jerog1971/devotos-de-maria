@@ -4,7 +4,9 @@ date: 2021-06-10T18:49:00.004Z
 heroImage: "/images/posts/1885-enfrentando-desafios-enfrentando_desafios.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1885-enfrentando-desafios-enfrentando_desafios.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="403" src="/images/posts/1885-enfrentando-desafios-enfrentando_desafios.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Naum 1,2-7 – “O Senhor é um Deus zeloso e vingador, o Senhor
+![](/images/posts/1885-enfrentando-desafios-enfrentando_desafios.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Naum 1,2-7 – “O Senhor é um Deus zeloso e vingador, o Senhor
 é um vingador irascível; o Senhor toma vingança de seus adversários e trata com
 rigor os seus inimigos. O Senhor é paciente e grande em poder, não deixa impune
 o culpado. O Senhor caminha em meio à tempestade e sobre o vento impetuoso, as
@@ -41,4 +43,7 @@ Evangelho de Deus? E, se o justo se salva com dificuldade, que será do ímpio e
 do pecador? Assim também aqueles que sofrem segundo a vontade de Deus
 encomendem as suas almas ao Criador fiel, praticando o bem”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

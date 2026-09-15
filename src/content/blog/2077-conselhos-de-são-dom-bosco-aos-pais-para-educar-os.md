@@ -4,7 +4,8 @@ date: 2016-07-11T11:30:00Z
 heroImage: "/images/posts/2077-conselhos-de-são-dom-bosco-aos-pais-dom_bosco.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/2077-conselhos-de-são-dom-bosco-aos-pais-dom_bosco.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/2077-conselhos-de-são-dom-bosco-aos-pais-dom_bosco.png" width="320" height="308" data-original-width="415" data-original-height="399" /></a></div>
+![](/images/posts/2077-conselhos-de-são-dom-bosco-aos-pais-dom_bosco.png)
+
 </br>
 1. Valorize o seu filho. Quando respeitado e estimado, o jovem progride e amadurece.</br>
 </br>

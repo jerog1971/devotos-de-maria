@@ -4,7 +4,8 @@ date: 2016-07-20T11:00:00.001Z
 heroImage: "/images/posts/1986-casados-por-75-anos-casados75.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1986-casados-por-75-anos-casados75.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1986-casados-por-75-anos-casados75.png" width="299" height="320" data-original-width="456" data-original-height="488" /></a></div>
+![](/images/posts/1986-casados-por-75-anos-casados75.png)
+
 </br>
 Jeanette Dolores e Alexander Joseph Toczko eram amigos desde seus oito anos de idade, logo se apaixonaram e nunca mais se separaram.</br>
 </br>

@@ -4,7 +4,9 @@ date: 2022-08-16T16:50:00.005Z
 heroImage: "/images/posts/378-ensinar-e-fazer-ensinar_20e_20fazer.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/378-ensinar-e-fazer-ensinar_20e_20fazer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="590" data-original-width="689" height="274" src="/images/posts/378-ensinar-e-fazer-ensinar_20e_20fazer.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus Cristo era uma pessoa que durante sua passagem pela
+![](/images/posts/378-ensinar-e-fazer-ensinar_20e_20fazer.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus Cristo era uma pessoa que durante sua passagem pela
 terra ensinava com autoridade (Mateus 7,28). Falava e mostrava como fazer, dava
 exemplos. O ressuscitado não ficava apenas na teoria, muitas de suas atitudes,
 constantemente criticadas, eram sempre exemplos de como devíamos e ainda devemos
@@ -36,4 +38,7 @@ adianta uma vida de fachada e cometimentos de pecados ocultos aos olhos dos home
 quando esta fama e boa reputação cairá por terra perante aquele vê no oculto
 (Eclesiastes 12,14)? E que no dia do juízo porá tudo às claras?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

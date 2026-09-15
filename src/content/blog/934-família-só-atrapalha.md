@@ -4,7 +4,9 @@ date: 2021-04-12T18:37:00.003Z
 heroImage: "/images/posts/934-família-só-atrapalha-pai_e_filha.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/934-família-só-atrapalha-pai_e_filha.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="292" data-original-width="402" src="/images/posts/934-família-só-atrapalha-pai_e_filha.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Se tem alguma coisa na vida de um sujeito que dá dor de
+![](/images/posts/934-família-só-atrapalha-pai_e_filha.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Se tem alguma coisa na vida de um sujeito que dá dor de
 cabeça é sua família. Com certeza, ela dá despesa, prejuízo, tira sua privacidade,
 te corrige, te proíbe, te tira todo o sossego, seu tempo, seus hábitos de
 solteiro e vive exigindo de você muitas coisas. Só para início de conversa.<o:p></o:p></p><div class="separator" style="clear: both;">
@@ -43,4 +45,7 @@ seguro, reduto querido do Deus Altíssimo e fonte de graças e bênçãos do cé
 Tudo que acontece dentro dela, acontece para o bem daqueles que amam a Deus –
 Romanos 8,28.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

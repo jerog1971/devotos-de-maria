@@ -4,7 +4,9 @@ date: 2023-07-11T21:08:00.001Z
 heroImage: "/images/posts/459-deixemos-um-legado-legado.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/459-deixemos-um-legado-legado.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="395" height="238" src="/images/posts/459-deixemos-um-legado-legado.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pois bem, eis aí um que deveria ser o projeto de vida de
+![](/images/posts/459-deixemos-um-legado-legado.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pois bem, eis aí um que deveria ser o projeto de vida de
 toda pessoa de bem; afinal, por que passar em branco nesta vida se podemos
 deixar uma marca nas pessoas, que seja boa, sirva de exemplo e possa produzir
 frutos? Isso se chama legado, do latim “legatos”; que pode ser algo bom ou
@@ -40,4 +42,7 @@ cheio de esforço em seguir Jesus Cristo. Afinal, quer legado melhor deixado aqu
 na terra do que o que o ressuscitado nos deixou para imitá-lo (1ª Coríntios
 11,1 – “Sejais imitadores de Cristo como eu sou”)?<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

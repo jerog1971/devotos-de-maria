@@ -4,7 +4,9 @@ date: 2020-10-23T13:56:00.001Z
 heroImage: "/images/posts/1933-o-mundo-tem-um-príncipe-sob_o_dom_25C3_25ADnio.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1933-o-mundo-tem-um-príncipe-sob_o_dom_25C3_25ADnio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="568" data-original-width="605" src="/images/posts/1933-o-mundo-tem-um-príncipe-sob_o_dom_25C3_25ADnio.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Pouco antes de subir aos céus Jesus nomeia Satanás em João
+![](/images/posts/1933-o-mundo-tem-um-príncipe-sob_o_dom_25C3_25ADnio.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Pouco antes de subir aos céus Jesus nomeia Satanás em João
 14,30 como “príncipe deste mundo”; ainda alerta que não tem parte com ele. Em
 1ª João 5,19 ouvimos que o mundo jaz sob o maligno. Isso sempre foi e será um
 mistério para a compreensão humana. Por que Deus que, segundo a bíblia é amor e
@@ -32,4 +34,7 @@ na batalha diária pela salvação de nossas almas consiste em unir-se ao Cristo
 para tudo (João 15,5) e perseverar até o fim: “sereis odiados de todos por
 causa de meu nome, mas aquele que perseverar até o fim será salvo” – Mateus 10,22.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

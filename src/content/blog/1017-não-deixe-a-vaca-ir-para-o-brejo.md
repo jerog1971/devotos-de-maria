@@ -4,7 +4,8 @@ date: 2016-12-27T15:48:00.001Z
 heroImage: "/images/posts/1017-não-deixe-a-vaca-ir-para-o-brejo-casal_2.bmp"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1017-não-deixe-a-vaca-ir-para-o-brejo-casal_2.bmp" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="716" height="212" src="/images/posts/1017-não-deixe-a-vaca-ir-para-o-brejo-casal_2.bmp" width="320" /></a></div>
+![](/images/posts/1017-não-deixe-a-vaca-ir-para-o-brejo-casal_2.bmp)
+
 Nesta expressão popular encontramos seu real significado e origem nas regiões rurais, quando em tempo de grandes secas, o gado em busca de sua sobrevivência era conduzido ou se conduzia para locais mais úmidos e pantanosos, como, por exemplo, os tais “brejos”. No entanto, a situação que já era difícil, pois era uma grande estiagem climática, poderia ainda se agravar, porque o gado corria grande risco de se atolar neste brejo e não conseguir voltar ao seu abrigo de origem, dando muito trabalho. Outra gíria semelhante é “a casa caiu”.
 
 Pois muito bem caros leitores, com certeza podemos fazer uma analogia em nossas vidas a partir deste dito que já é popular e se tornou gíria, que é a questão desta vaca que vai ou não para o brejo. Nossa vida é nosso campo fértil, terreno que precisa ser sempre cuidado. Em volta de todo este campo, existem os pântanos, os chamados aqui brejos, que são as investidas do mundo, de satanás e dos desejos carnais, os apetites do nosso corpo. Desta forma, por esta analogia estamos ilhados e sob constante vigilância, assim como nos recomenda Jesus.
@@ -20,6 +21,5 @@ Não deve ser assim: Romanos 12,12 – “Sede alegres na esperança, pacientes 
 Artigo relacionado:
 
 <a href="http://devotos-de-maria.blogspot.com.br/2016/01/perseveranca-x-desanimo.html" target="_blank">Perseverança x Desânimo</a>
-
 
 fonte: Jefferson Roger

@@ -4,23 +4,40 @@ date: 2017-03-17T14:34:00Z
 heroImage: "/images/posts/685-como-andam-as-coisas-casal.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-casal.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-casal.png" width="320" height="310" data-original-width="248" data-original-height="240" /></a></div>
+![](/images/posts/685-como-andam-as-coisas-casal.png)
+
 Todos nós vez por outra já ouvimos o dito que diz que os olhos são a janela da alma. E também é de comum acordo entre a maioria que, quando pessoas se conhecem bem, algum traço comportamental logo deixa transparecer algum sentimento para a plateia, que por bem conhecermos o outro, logo percebemos o que se passa. Como dizem, dá pra ver na cara do sujeito! E isso bem verdade é, cada um de nós já viveu, não uma, mas várias vezes essa experiência, seja como solteiros, como casados e no meio social entre nossos amigos. Sempre é possível perceber como andam as coisas com a pessoa que conhecemos através de seu comportamento. Chegue o marido em casa, cantarolando e assobiando, coisa que ele nunca faz, pra ver se a esposa já não fica com a pulga atrás da orelha! Somos assim, percebemos o nosso redor e deixamos transparecer o que está dentro dos corações e mentes. Isso é também fato atestado e comprovado por especialistas e psicólogos. Até na cama, vamos ver?</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-encostado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-encostado.png" width="198" height="200" data-original-width="204" data-original-height="206" /></a></div>
+
+![](/images/posts/685-como-andam-as-coisas-encostado.png)
+
 Casais que costumam dormir de costas, porém encostados demonstram que respeitam o espaço individual, mas sem perder o contato. Não são estáticos, levam a vida de forma independente, mas sua relação é estável e saudável. Segundo especialistas, essa posição reflete confiança entre o casal sem necessidade de que um esteja na presença do outro.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-decostas.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-decostas.png" width="198" height="200" data-original-width="204" data-original-height="206" /></a></div>
+
+![](/images/posts/685-como-andam-as-coisas-decostas.png)
+
 A posição do casal que dorme afastados e de costas é um alerta de que algo não está bem na relação! Há uma necessidade de se manter distância e um desejo de maior liberdade na vida de cada um. Essa posição pode indicar que houve uma forte discussão ou que um dos dois está buscando total independência. É preciso, nesses casos observar se as mãos estão fechadas e o corpo tenso, pois denota sinais de que o casal não quer se comunicar e, inclusive, sentem que a presença um do outro é insuportável. Porém, se os corpos estão mais soltos, não há um clima tenso na convivência e isso pode indicar que ainda há confiança e respeito pelo espaço um do outro.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-defrente.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-defrente.png" width="198" height="200" data-original-width="204" data-original-height="206" /></a></div>
+
+![](/images/posts/685-como-andam-as-coisas-defrente.png)
+
 Essa posição, do casal que dorme de frente um para o outro mas sem se tocarem, indica uma busca por intimidade e reflete que existe um desejo de estar perto do outro. Cada um sabe respeitar os momentos de intimidade do outro, mas tem uma conexão que os impede de se distanciarem. Em geral, esse tipo de casal assume a rotina e os problemas diários mais facilmente.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-entrela_25C3_25A7ado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-entrela_25C3_25A7ado.png" width="200" height="176" data-original-width="236" data-original-height="208" /></a></div>
+
+![](/images/posts/685-como-andam-as-coisas-entrela_25C3_25A7ado.png)
+
 Dormir nessa posição (entrelaçados), segundo concordam os especialistas, é sinal de uma paixão muito forte. É muito comum quando a relação está começando. Esse entrelaçamento pode revelar desejo, mas, ainda segundo especialistas, é possível que o casal que se acostuma com essa posição possa vir a apresentar situações de ciúmes.<br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-delado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-delado.png" width="200" height="197" data-original-width="215" data-original-height="212" /></a></div>
+
+![](/images/posts/685-como-andam-as-coisas-delado.png)
+
 Segundo estudos, a pessoa que costuma abraçar nessa posição (dormir de lado) tende a guiar e proteger o outro. Aquele que é abraçado, por sua vez, se sente mais cômodo e seguro ao lado de quem abraça e é possível que quando não é abraçado durante o sono se sinta desprotegido. Essa posição reflete a harmonia perfeita entre o casal. Porém, em certas ocasiões também pode indicar a existência de certa insegurança na relação.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-abra_25C3_25A7ados.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-abra_25C3_25A7ados.png" width="200" height="179" data-original-width="234" data-original-height="210" /></a></div>
+
+![](/images/posts/685-como-andam-as-coisas-abra_25C3_25A7ados.png)
+
 Estudiosos em linguagem do corpo explicam que essa posição (de dormir abraçados) demonstra compromisso, amor e carinho entre os dois. De forma geral, significa que as coisas estão muito bem. Também afirmam os especialistas comportamentais que dormir com a cabeça no ombro do outro é um indício de que a pessoa se sente muito segura com seu parceiro.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-espa_25C3_25A7oso.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-espa_25C3_25A7oso.png" width="200" height="185" data-original-width="552" data-original-height="511" /></a></div>
+
+![](/images/posts/685-como-andam-as-coisas-espa_25C3_25A7oso.png)
+
 Essa posição (onde um dos parceiros se esparrama na cama), de acordo com especialistas, demonstra que a pessoa espaçosa na cama não costuma demonstrar afeto pelo outro. Inclusive, demonstra que a relação está passando por um momento difícil, na qual a pessoa que ocupa menos espaço está sofrendo de baixa autoestima e insegurança, enquanto que a que ocupa o maior espaço ainda acredita que a relação está indo bem.</br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/685-como-andam-as-coisas-cadaum.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/685-como-andam-as-coisas-cadaum.png" width="200" height="191" data-original-width="473" data-original-height="451" /></a></div>
+
+![](/images/posts/685-como-andam-as-coisas-cadaum.png)
+
 Essa posição é um alerta (onde acontece um toque apenas entre o casal), significa que ambos se amam, mas é preciso prestar atenção na relação. De acordo com especialistas é uma combinação entre amor, paixão e diferenças na relação. O fato de dormir com os pés entrelaçados ou um tocando no outro é um símbolo de compromisso com o outro e cumplicidade entre o casal.</br>
 </br>
 Pois bem caros leitores, já que Jesus disse que tudo brota do coração, é preciso bem cuidarmos dele, porque o Cristo nos disse que ele e o pai querem fazer morada em nós. É preciso cuidarmos também do coração do outro, você pode estar morando lá. Se aprendemos com Jesus que devemos ser imitadores dele, que é manso e humilde de coração, significa que precisamos sempre estar vigilantes e atentos em todos os sinais que possam demonstrar princípios de que alguma coisa precisa de maior atenção.</br>

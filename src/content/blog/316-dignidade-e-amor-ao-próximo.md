@@ -4,7 +4,8 @@ date: 2016-04-14T14:02:00Z
 heroImage: "/images/posts/316-dignidade-e-amor-ao-próximo-abandonado.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/316-dignidade-e-amor-ao-próximo-abandonado.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/316-dignidade-e-amor-ao-próximo-abandonado.png" width="320" height="318" data-original-width="281" data-original-height="279" /></a></div>
+![](/images/posts/316-dignidade-e-amor-ao-próximo-abandonado.png)
+
 Nesta semana no dia 12/04/2016, uma terça-feira, mais uma vez o curitibano começa o seu dia com uma notícia que vez por outra tem sido cada vez mais recorrente pelo mundo afora: o abandono de recém-nascidos. O pessoal que defende uma das armas da cultura da morte chamada aborto, faz o maior estardalhaço com essas manchetes, alegando que se o aborto fosse liberado, essas mães, recorreriam as clínicas e sus para cometerem gratuitamente um assassinato com dia e hora marcada, fazendo uso do seu direito de decidir o que fazer com o seu corpo.</br>
 </br>
 Quanta besteira, gritam e bradam a plenos pulmões contra a religião, seus membros e mais agravante, contra o próprio Deus, senhor que dá a vida. Esquecem que a dignidade humana é muito superior, muitas vezes superior a não dignidade dos animais, por exemplo. Se o fazendeiro, dono de seu rebanho, abate uma vaca, ela vira churrasco em nossas casas e todos fazem festa. Agora, se uma pessoa é morta a tiros ou a facadas, o agressor terá suas consequências. Porque existe a dignidade da pessoa humana e a não dignidade do animal.</br>

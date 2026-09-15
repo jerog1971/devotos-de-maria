@@ -4,7 +4,9 @@ date: 2023-02-18T13:09:00.002Z
 heroImage: "/images/posts/804-indo-para-o-inferno-img-1581206939.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/804-indo-para-o-inferno-img-1581206939.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="932" data-original-width="720" height="320" src="/images/posts/804-indo-para-o-inferno-img-1955388542.jpg" width="247" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Jesus, sobre as criancinhas, deixou muito claro que os céus
+![](/images/posts/804-indo-para-o-inferno-img-1955388542.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Jesus, sobre as criancinhas, deixou muito claro que os céus
 amam a pureza e sinceridade de um ser humano que podem facilmente ser
 encontradas nelas. Indo mais além, usou-as como referência para ensinar a todos
 que precisamos nos assemelhar a elas se desejamos um dia morar no paraíso por
@@ -44,4 +46,7 @@ circunstâncias: “Quem quiser se salvar, tome a sua cruz dia após dia e me si
 céu ou seguimos o mundo, pelo caminho espaçoso rumo a condenação. Nós e nossa
 famílias.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

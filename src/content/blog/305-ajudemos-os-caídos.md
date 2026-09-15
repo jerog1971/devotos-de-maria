@@ -4,7 +4,9 @@ date: 2024-02-23T21:45:00Z
 heroImage: "/images/posts/305-ajudemos-os-caídos-ajude_20os_20ca_C3_ADdos.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/305-ajudemos-os-caídos-ajude_20os_20ca_C3_ADdos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="294" data-original-width="508" height="185" src="/images/posts/305-ajudemos-os-caídos-ajude_20os_20ca_C3_ADdos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Lembremos da história que Jesus contou sobre o samaritano,
+![](/images/posts/305-ajudemos-os-caídos-ajude_20os_20ca_C3_ADdos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Lembremos da história que Jesus contou sobre o samaritano,
 que parou para ajudar quem precisava. A história adverte que é necessário
 sempre ajudar o próximo independente da natureza dele. Isso, porque Deus quer
 saber como agimos, qual é a nossa natureza. Ele sempre quer que sejamos seus
@@ -28,4 +30,7 @@ onde estou, lugar de vida e felicidade eternas.<o:p></o:p></p>
 <p class="MsoNormal">É... Podemos escolher: acreditamos nele, não no estilo São
 Tomé ou nem acreditamos, bem ao estilo ateu declarado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

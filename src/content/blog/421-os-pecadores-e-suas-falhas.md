@@ -4,7 +4,8 @@ date: 2020-03-25T17:01:00.001Z
 heroImage: "/images/posts/421-os-pecadores-e-suas-falhas-santidade.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/421-os-pecadores-e-suas-falhas-santidade.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="386" data-original-width="408" height="303" src="/images/posts/421-os-pecadores-e-suas-falhas-santidade.png" width="320" /></a></div>
+![](/images/posts/421-os-pecadores-e-suas-falhas-santidade.png)
+
 A igreja, una e santa, por ser formada por pecadores, está suscetível a cometer falhas em sua administração. Todos sabemos que as coisas são assim, basta darmos uma olhada no passado e vermos a escolha dos doze apóstolos. Desde o princípio Jesus quis nos ensinar isso, as sagradas escrituras tratam de nos mostrar claramente o quanto somos pecadores em muitas de suas passagens.
 
 Não somos perfeitos, mas Deus nos fez com a capacidade de sermos <a href="https://www.devotos-de-maria.com.br/2017/04/somos-perfeitos-ou-imperfeitos.html" target="_blank">perfectíveis</a>. Pois bem, sendo assim é possível emitirmos um juízo baseado na verdade, pois, de outra forma, como iríamos ensinar a verdade senão julgássemos (baseados nos ensinos celestes) de que algo está em oposição à palavra de Deus? É importante recordarmos o que Jesus disse no sermão da montanha. Mateus 7,1-5 – “Não julgueis, e não sereis julgados. Porque do mesmo modo que julgardes, sereis também vós julgados e, com a medida com que tiverdes medido, também vós sereis medidos. Por que olhas a palha que está no olho do teu irmão e não vês a trave que está no teu? Como ousas dizer a teu irmão: Deixa-me tirar a palha do teu olho, quando tens uma trave no teu? Hipócrita! Tira primeiro a trave de teu olho e assim verás para tirar a palha do olho do teu irmão.”

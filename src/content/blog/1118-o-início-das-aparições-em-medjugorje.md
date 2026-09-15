@@ -4,13 +4,17 @@ date: 2020-06-24T16:56:00.001Z
 heroImage: "/images/posts/1118-o-início-das-aparições-em-medjugorje-videntes_de_medjugorje.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1118-o-início-das-aparições-em-medjugorje-videntes_de_medjugorje.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="310" data-original-width="541" src="/images/posts/1118-o-início-das-aparições-em-medjugorje-videntes_de_medjugorje.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A Virgem Maria apareceu pela primeira vez em Medjugorje em
+<br />
+
+![](/images/posts/1118-o-início-das-aparições-em-medjugorje-videntes_de_medjugorje.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">A Virgem Maria apareceu pela primeira vez em Medjugorje em
 24 de junho de 1981, no dia da festa de São João Batista, no seu dia a
 proclamador da vinda do Messias. Porque era um dia de festa, as crianças locais
 estavam livres da escola, bem como do trabalho nos campos, onde os agricultores
 cultivavam uvas e tabaco.<o:p></o:p></p>
 
-<p class="MsoNormal">Ivanka Ivankovic de 15 anos de idade e<span style="mso-spacerun: yes;">&nbsp; </span>Mirjana Dragicevic de 16 anos passavam seu
+<p class="MsoNormal">Ivanka Ivankovic de 15 anos de idade e<span style="mso-spacerun: yes;">  </span>Mirjana Dragicevic de 16 anos passavam seu
 dia de folga juntos. No final da tarde eles foram para uma caminhada. Passando
 pelo local chamado monte Podbrdo, Ivanka olhou para a colina. De repente, a
 cerca de 200 metros até a colina, ela viu uma figura luminosa que ela

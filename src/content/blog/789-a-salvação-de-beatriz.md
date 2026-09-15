@@ -4,7 +4,9 @@ date: 2022-08-06T17:25:00.001Z
 heroImage: "/images/posts/789-a-salvação-de-beatriz-img-1638917608.jpg"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/789-a-salvação-de-beatriz-img-1638917608.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="3264" data-original-width="2448" height="320" src="/images/posts/789-a-salvação-de-beatriz-img-1082096082.jpg" width="240" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Está é uma história criada por uma turma de catequese do
+![](/images/posts/789-a-salvação-de-beatriz-img-1082096082.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Está é uma história criada por uma turma de catequese do
 primeiro ano, situada em uma paróquia de Curitiba-PR. A missão das crianças
 era, de forma compartilhada, fazendo analogia ao esforço comunitário, criar uma
 história e um desenho de uma pessoa com problemas e dificuldades dando para ela
@@ -57,4 +59,7 @@ Deus Pai todo poderoso, vivendo felizes no seio familiar e conscientes daquilo
 que agrada e desagrada a Deus, daquilo que é certo e errado, prejudicial e benéfico
 para suas vidas.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

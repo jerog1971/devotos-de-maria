@@ -4,7 +4,9 @@ date: 2021-08-02T19:49:00.001Z
 heroImage: "/images/posts/447-agindo-sem-pensar-agindo_sem_pensar.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/447-agindo-sem-pensar-agindo_sem_pensar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="474" data-original-width="500" height="303" src="/images/posts/447-agindo-sem-pensar-agindo_sem_pensar.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O ditado popular diz que “quando a cabeça não pensa, o corpo
+![](/images/posts/447-agindo-sem-pensar-agindo_sem_pensar.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O ditado popular diz que “quando a cabeça não pensa, o corpo
 padece”. Na vertente cristã isso também se aplica e de forma muito séria, pois,
 vale sempre lembrar, só temos uma vida (única chance) para salvar a única alma
 que somos. Uma alma que hoje está atrelada ao corpo que um dia ressuscitará
@@ -31,4 +33,7 @@ linha de critérios bem diferente dos divinos. É uma situação delicada, por i
 Jesus Cristo nos alertou a sermos vigilantes e orarmos sem cessar. Como sempre
 dizemos por aqui, é uma questão de escolha.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,9 @@ date: 2023-08-24T17:05:00.005Z
 heroImage: "/images/posts/1470-tudo-é-possível-tudo_20_C3_A9_20poss_C3_ADvel.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1470-tudo-é-possível-tudo_20_C3_A9_20poss_C3_ADvel.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="464" data-original-width="614" height="242" src="/images/posts/1470-tudo-é-possível-tudo_20_C3_A9_20poss_C3_ADvel.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Na época de Jesus, quando os discípulos debatiam com ele
+![](/images/posts/1470-tudo-é-possível-tudo_20_C3_A9_20poss_C3_ADvel.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Na época de Jesus, quando os discípulos debatiam com ele
 sobre os ensinamentos doutrinários, vez por outra, se deparavam com a dura
 realidade de suas exigências. Ao ponto de questionarem o Cristo sobre a
 dificuldade em sermos salvos. Sobre isso o ressuscitado dizia: “aos homens isto
@@ -39,4 +41,7 @@ nosso esforço diário pelo caminho apertado da porta estreita, renunciando a n�
 mesmos, dia pós dia, tomando nossa cruz diariamente e seguindo Jesus (Lucas
 9,23).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

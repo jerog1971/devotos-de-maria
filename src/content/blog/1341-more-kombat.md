@@ -4,7 +4,9 @@ date: 2025-07-30T21:29:00.003Z
 heroImage: "/images/posts/1341-more-kombat-more_20kombat.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1341-more-kombat-more_20kombat.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="467" data-original-width="464" height="320" src="/images/posts/1341-more-kombat-more_20kombat.png" width="318" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p style="line-height: 115%; margin-bottom: 0cm;">&nbsp;Não basta combater o mal, evitando-o e não dando ouvidos às suas
+![](/images/posts/1341-more-kombat-more_20kombat.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p style="line-height: 115%; margin-bottom: 0cm;"> Não basta combater o mal, evitando-o e não dando ouvidos às suas
 propostas. Enquanto vivermos por aqui, neste campo de batalhas
 intermináveis, diárias e constantes, não nos é possível jogar a
 toalha. Se o fizermos aceitaremos a derrota e mais, ofenderemos a
@@ -34,4 +36,7 @@ vista nosso inimigo, que tem todo o tempo disponível, se aprimora em
 relação ao ser humano diariamente e explora suas descobertas sobre
 nós a cada oportunidade que nossas fraquezas oferecem.</p>
 <p style="line-height: 115%; margin-bottom: 0cm;">Fonte: Jefferson
-Roger</p></div><p><br />&nbsp;</p>
+Roger</p></div>
+
+<br /> 
+

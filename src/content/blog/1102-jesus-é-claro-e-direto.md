@@ -4,7 +4,9 @@ date: 2023-05-04T20:34:00.003Z
 heroImage: "/images/posts/1102-jesus-é-claro-e-direto-familia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1102-jesus-é-claro-e-direto-familia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="730" data-original-width="740" height="316" src="/images/posts/1102-jesus-é-claro-e-direto-familia.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Ele disse claramente: não faça aos outros o que não queres
+![](/images/posts/1102-jesus-é-claro-e-direto-familia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Ele disse claramente: não faça aos outros o que não queres
 que te façam e trate as pessoas como gostaria de serdes tratados. Pois bem, a
 conversa com Jesus Cristo é muito clara e direta. Ele coloca as pessoas numa
 bifurcação; ou se está com ele ou contra ele. Isso ele mesmo disse e ensinou já
@@ -33,4 +35,7 @@ céus: são os benditos de meu pai, nas palavras de Jesus Cristo. Agora, os
 outros, que serão desmascarados por Deus no dia do juízo final estão
 enrascados, isso é que é. São os hipócritas nomeados pelo ressuscitado.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

@@ -4,7 +4,8 @@ date: 2020-03-27T17:25:00.007Z
 heroImage: "/images/posts/1962-ou-você-é-católico-ou-é-carismático-img-1524979567.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1962-ou-você-é-católico-ou-é-carismático-img-1524979567.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="279" data-original-width="297" height="301" src="/images/posts/1962-ou-você-é-católico-ou-é-carismático-img-19049177.png" width="320" /></a></div>
+![](/images/posts/1962-ou-você-é-católico-ou-é-carismático-img-19049177.png)
+
 A Renovação Carismática procura a “abundância” ou o “derramamento” do Espírito Santo. Mas onde está, com certeza, a graça do Espírito Santo? Vamos recordar? Nos Sacramentos. Sendo assim, a santificação se torna mais frutuosa quando o fiel recebe esses mesmos Sacramentos com as devidas disposições. Entre os Sacramentos, a Igreja sempre afirmou que o mais poderoso derramamento da graça divina acontece quando o Santo Sacrifício da Missa é oferecido. Eis aí o manancial da graça que eles deveriam procurar, eis aí a oração oficial da Santa Igreja, na qual Cristo Mesmo intercede por nós continuamente conforme lemos na carta aos Hebreus 7, 25.
 
 Também é ensinado pela Igreja que as graças espirituais não se limitam somente aos Sacramentos, mas também se pode obter pelos Sacramentais (água benta, escapulário, bençãos) e pelas devoções aprovadas e vivamente encorajadas pela Igreja – de modo particular a devoção ao Sagrado Coração de Jesus e à Santíssima Virgem Maria. E por falarmos em devoção, os carismáticos do Brasil são famosos por promoverem uma falsa devoção à Divina Misericórdia; tornando-a a grande responsável pelo abandono das duas devoções mencionadas acima. Eles prestam culto a um Jesus falso, sem chagas, que esconde o seu Sacratíssimo Coração; eles recitam preces bem curtinhas para esse falso Jesus usando as dezenas que os católicos usam para recitar o Santo Rosário. Os mais prudentes falam em renovação de Pentecostes, os mais ousados em Segundo Pentecostes, tanto um como outro ignoram o que foi o primeiro Pentecostes. O primeiro e último Pentecostes foi estabelecido com o propósito de cumprir a promessa feita por Nosso Senhor de enviar o Espírito Santo, conforme lemos em João 15, 26, confirmando aos olhos de todos a origem divina da Igreja, que foi estabelecida de uma vez por todas para a redenção do gênero humano. Uma “segunda experiência” de Pentecostes não é necessária!
@@ -29,6 +30,5 @@ Fica assim comprovado que o Renovação Carismática é má em si mesma. As dout
 Artigo relacionado:
 
 <a href="https://www.devotos-de-maria.com.br/2016/02/nao-seja-um-carismatico.html" target="_blank">Não seja um carismático</a>
-
 
 Fonte: Jefferson Roger e adaptação do site controversiacatolica

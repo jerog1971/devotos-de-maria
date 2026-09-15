@@ -4,7 +4,11 @@ date: 2020-08-04T20:40:00.006Z
 heroImage: "/images/posts/1520-as-faces-do-mal-As_faces_do_mal.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1520-as-faces-do-mal-As_faces_do_mal.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="506" data-original-width="507" height="405" src="/images/posts/1520-as-faces-do-mal-As_faces_do_mal.png" width="406" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Certamente sabe-se que o mal ordinariamente não faz suas
+<br />
+
+![](/images/posts/1520-as-faces-do-mal-As_faces_do_mal.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Certamente sabe-se que o mal ordinariamente não faz suas
 investidas de forma direta; essa é uma de suas últimas tentativas: o ataque
 frontal. O diabo não é trouxa, ela sabe que se apresentar sua essência de forma
 descarada a margem de sucesso é mínima. Por isso age de tantas formas iludindo

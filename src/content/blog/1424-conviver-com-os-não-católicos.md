@@ -4,7 +4,8 @@ date: 2016-08-22T13:19:00Z
 heroImage: "/images/posts/1424-conviver-com-os-não-católicos-nao_catolicos.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1424-conviver-com-os-não-católicos-nao_catolicos.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1424-conviver-com-os-não-católicos-nao_catolicos.png" width="320" height="205" data-original-width="388" data-original-height="248" /></a></div>
+![](/images/posts/1424-conviver-com-os-não-católicos-nao_catolicos.png)
+
 Atos 10,34 – “Deus não faz distinção de pessoas”.  No livro da Sabedoria 1,1-2 encontramos que aquele que procura o Senhor com simplicidade de coração o encontrará porque Ele se revela aos que não recusam sua confiança. Pois bem, caros leitores, o tema deste artigo sempre será atual, porque quanto mais o tempo passa mais a humanidade pulveriza seus conceitos mundo afora acerca da questão religiosa.</br>
 </br>
 Bem sabemos que na atualidade existem diversas formas de expressão religiosa e algumas chamadas “grandes” religiões, como o cristianismo e o islamismo. Também existem as religiões no estilo “self-service”, onde cada um é o próprio deus e o próprio devoto. Ainda existem aquelas religiões que são uma religião de “supermercado”, onde a pessoa pratica tudo aquilo que lhe convém de várias expressões religiosas e rejeita tudo que não lhe convém para seus interesses pessoais que caminham com um pé no mundo e outro no céu, assim pensam elas.</br>

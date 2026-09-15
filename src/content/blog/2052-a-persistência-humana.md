@@ -4,7 +4,9 @@ date: 2021-03-02T17:57:00.005Z
 heroImage: "/images/posts/2052-a-persistência-humana-persistencia.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/2052-a-persistência-humana-persistencia.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="350" data-original-width="348" height="320" src="/images/posts/2052-a-persistência-humana-persistencia.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Certamente muitas pessoas já ouviram falar do seguinte
+![](/images/posts/2052-a-persistência-humana-persistencia.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Certamente muitas pessoas já ouviram falar do seguinte
 ditado popular: “errar é humano, mas persistir no erro é burrice”. Pois bem,
 dizemos sempre por aqui que os ditos populares são o evangelho do povo; isso
 porque estudando cada um deles é possível sim, compreender a mensagem, a lição
@@ -42,4 +44,7 @@ existem sobre a mesma questão, o que importa são as escolhas que fazemos e o
 Cristo nos dá uma grande dica para seguirmos no caminho que nos leva ao céu: “aquele
 que perseverar [for persistente] até o fim será salvo” – Mateus 10,22.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

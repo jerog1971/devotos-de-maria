@@ -4,7 +4,9 @@ date: 2023-08-08T21:03:00.004Z
 heroImage: "/images/posts/254-não-se-prejudique-n_C3_A3o_20se_20prejudique.jpg"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/254-não-se-prejudique-n_C3_A3o_20se_20prejudique.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="525" data-original-width="539" height="312" src="/images/posts/254-não-se-prejudique-n_C3_A3o_20se_20prejudique.jpg" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">A habilidade de embotar a mente de uma pessoa é uma das
+![](/images/posts/254-não-se-prejudique-n_C3_A3o_20se_20prejudique.jpg)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">A habilidade de embotar a mente de uma pessoa é uma das
 grandes capacidades que nosso inimigo número um de nossas almas possui. Com extrema
 taxa de sucesso ele consegue convencer o ser humano que se afasta um pouquinho
 que seja de Deus, sobre coisas que não lhe farão bem e lhe acarretarão em sua
@@ -35,4 +37,4 @@ coisas com um olhar sobrenatural e um coração semelhante ao de Jesus para que
 não caiamos em tentação porque (ele mesmo nos advertiu), só o espírito está
 pronto.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p></p><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><br /><p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><br />

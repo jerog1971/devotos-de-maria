@@ -4,7 +4,9 @@ date: 2020-11-11T14:06:00.003Z
 heroImage: "/images/posts/941-o-dilema-do-viver-e-morrer-viver_e_morrer.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/941-o-dilema-do-viver-e-morrer-viver_e_morrer.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="233" data-original-width="257" src="/images/posts/941-o-dilema-do-viver-e-morrer-viver_e_morrer.png" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O aspecto que aqui abordamos está vinculado ao princípio
+![](/images/posts/941-o-dilema-do-viver-e-morrer-viver_e_morrer.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O aspecto que aqui abordamos está vinculado ao princípio
 cristão. Sabemos pelas sagradas escrituras que fomos criados para servir e
 adorar a Deus; em servir consiste em pregar o evangelho por toda a parte a toda
 criatura. Consiste também em se viver como é do agrado de Deus e seguir seus
@@ -38,4 +40,7 @@ nem sequer podemos imaginar o que nos aguarda.<o:p></o:p></p>
 não viram, nem os ouvidos ouviram, nem o coração humano imaginou (Is 64,4),
 tais são os bens que Deus tem preparado para aqueles que o amam”.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

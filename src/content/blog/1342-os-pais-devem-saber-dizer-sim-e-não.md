@@ -4,7 +4,8 @@ date: 2016-08-19T12:33:00Z
 heroImage: "/images/posts/1342-os-pais-devem-saber-dizer-sim-e-não-debsof.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1342-os-pais-devem-saber-dizer-sim-e-não-debsof.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1342-os-pais-devem-saber-dizer-sim-e-não-debsof.png" width="320" height="297" data-original-width="359" data-original-height="333" /></a></div>
+![](/images/posts/1342-os-pais-devem-saber-dizer-sim-e-não-debsof.png)
+
 Eclesiástico 3,2-3 – “Ouvi, meus filhos, os conselhos de vosso pai, segui-os de tal modo que sejais salvos. Pois Deus quis honrar os pais pelos filhos, e cuidadosamente fortaleceu a autoridade da mãe sobre eles.” Eclesiástico 7,25 – ”Tens filhos? Educa-os, e curva-os à obediência desde a infância.” Efésios 6,1,4 – “Filhos, obedecei a vossos pais segundo o Senhor; porque isto é justo. Pais, não exaspereis vossos filhos. Pelo contrário, criai-os na educação e doutrina do Senhor.</br>
 </br>
 Pois bem caros leitores, possivelmente muitos de vós já devem ter presenciado aquela cena dos pais no supermercado arrastando seu filho que esperneia porque não ganhou aquilo que queria, ou então a mesma cena no shopping. Ou ainda aquela cena em que os filhos, já um pouco mais crescidinhos acompanham os pais com aquela “cara” que afasta qualquer um de perto. Comportam-se mal, não respondem direito, pensam saber das coisas e procuram seguir seus desejos e vontades negando, em completa atitude de desrespeito a autoridade dos pais. Fazem “corpo mole” para muitas de suas obrigações e tantas outras atitudes que todos nós bem poderíamos elencar com facilidade.</br>

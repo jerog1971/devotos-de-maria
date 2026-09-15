@@ -4,7 +4,9 @@ date: 2021-10-07T20:28:00.005Z
 heroImage: "/images/posts/069-ofensas-e-afrontas-ofensas_e_afrontas.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/069-ofensas-e-afrontas-ofensas_e_afrontas.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="545" data-original-width="618" height="282" src="/images/posts/069-ofensas-e-afrontas-ofensas_e_afrontas.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Nossa Senhora disse em suas aparições que não devemos
+![](/images/posts/069-ofensas-e-afrontas-ofensas_e_afrontas.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Nossa Senhora disse em suas aparições que não devemos
 ofender mais seu filho Jesus Cristo que já está muito ofendido pelos pecados da
 humanidade. Pessoal, isso foi século passado! E como bem podemos ver dia após
 dia, o que o mundo faz? Mais ofensas e mais afrontas contra Jesus Cristo. O
@@ -39,4 +41,7 @@ pois é sabido que temos uma atitude a tomar: “teme a Deus e observa seus prec
 é este o dever de todo homem. Deus fará prestar contas de tudo o que está
 oculto, todo ato, seja ele bom ou mau” – Eclesiastes 12,13-14.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

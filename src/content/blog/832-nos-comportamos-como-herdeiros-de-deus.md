@@ -4,7 +4,9 @@ date: 2022-04-21T17:50:00.001Z
 heroImage: "/images/posts/832-nos-comportamos-como-herdeiros-de-de-heredeiros_20do_20reino.png"
 ---
 
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/832-nos-comportamos-como-herdeiros-de-de-heredeiros_20do_20reino.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="277" data-original-width="281" height="277" src="/images/posts/832-nos-comportamos-como-herdeiros-de-de-heredeiros_20do_20reino.png" width="281" /></a></div><br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Pois bem, todos sabem que o herdeiro tem direito a herança.
+![](/images/posts/832-nos-comportamos-como-herdeiros-de-de-heredeiros_20do_20reino.png)
+
+<br /><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">Pois bem, todos sabem que o herdeiro tem direito a herança.
 E claro, muitas pessoas conhecem o rebuliço que dá quando morre alguém com bom
 patrimônio e os herdeiros se tramam a lutar por fatias maiores e melhores dessa
 herança. Que afinco e dedicação em tomar posse de alguma coisa que enriqueça o
@@ -38,4 +40,7 @@ futura que nos deve ser manifestada. Por isso, a criação aguarda ansiosamente 
 manifestação dos filhos de Deus” – Romanos 8,13-18. E cabe a cada um, fazer a
 sua escolha.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+

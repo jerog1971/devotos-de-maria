@@ -4,7 +4,11 @@ date: 2020-06-07T15:45:00.002Z
 heroImage: "/images/posts/1951-ana-de-são-bartolomeu-santos.png"
 ---
 
-<br /><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/1951-ana-de-são-bartolomeu-santos.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="306" data-original-width="344" src="/images/posts/1951-ana-de-são-bartolomeu-santos.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Alamendral, na província de Toledo, em 1549. Filha
+<br />
+
+![](/images/posts/1951-ana-de-são-bartolomeu-santos.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><p class="MsoNormal">Nasceu em Alamendral, na província de Toledo, em 1549. Filha
 de agricultores, ficou órfã aos dez anos. Fez-se, então, pastora de rebanhos, a
 fim de ganhar a vida. Em 1570, ingressou no convento das Carmelitas Descalças,
 que Santa Teresa havia fundado em Ávila. Secretária de Teresa de Ávila, Ana de
@@ -19,7 +23,7 @@ influência espiritual. Morreu em 1626 e foi sepultada no convento de Anvers.</p
 
 <p class="MsoNormal">Prece do dia:</p>
 
-<p class="MsoNormal"><span style="mso-spacerun: yes;">&nbsp;</span>Deus, nosso Pai,
+<p class="MsoNormal"><span style="mso-spacerun: yes;"> </span>Deus, nosso Pai,
 ensinai-nos a trabalhar em prol da paz, da concórdia e fazei que jamais nos
 cansemos de estender as mãos em gestos de perfeita doação.</p>
 

@@ -4,7 +4,8 @@ date: 2017-10-02T20:23:00Z
 heroImage: "/images/posts/1057-morrer-mil-vezes-a-cometer-um-só-pecado-cemiterio.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1057-morrer-mil-vezes-a-cometer-um-só-pecado-cemiterio.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1057-morrer-mil-vezes-a-cometer-um-só-pecado-cemiterio.png" width="318" height="320" data-original-width="424" data-original-height="426" /></a></div>
+![](/images/posts/1057-morrer-mil-vezes-a-cometer-um-só-pecado-cemiterio.png)
+
 Na vida e exemplo dos santos, realidade que nos apresenta também uma verdadeira enciclopédia angelical, encontramos inúmeros comportamentos de homens, mulheres, crianças, jovens, adultos e idosos, que nos transportam para grandes exemplos de uma vida pautada no dom do Espírito Santo da Piedade e do Temor de Deus. Vamos compreender.</br>
 </br>
 Em linhas muito resumidas podemos dizer que o dom da piedade é aquele dom que faz com que a pessoa realmente se sinta filha de Deus. Com esse dom nós passamos a agradecer mais e pedir menos, passamos a nos sentirmos filhos de Deus e termos horror ao pecado. Na outra ponta encontramos o dom do temor de Deus, que consiste em ter medo de se afastar dele e de entristece-lo.</br>

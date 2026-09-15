@@ -4,7 +4,9 @@ date: 2023-01-11T20:53:00.003Z
 heroImage: "/images/posts/523-anos-e-famílias-circunsi_C3_A7_C3_A3o.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/523-anos-e-famílias-circunsi_C3_A7_C3_A3o.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="439" data-original-width="409" height="320" src="/images/posts/523-anos-e-famílias-circunsi_C3_A7_C3_A3o.png" width="298" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">Os leitores deste humilde site já estão acostumados com as
+![](/images/posts/523-anos-e-famílias-circunsi_C3_A7_C3_A3o.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">Os leitores deste humilde site já estão acostumados com as
 bandeiras cristãs que defendemos. Dentre elas estamos sempre a falar das
 famílias no molde querido, pensado e criado por Deus. Pobre das famílias;
 enquanto o mundo avança elas vão enfrentando grande ventos contrários. Quanto
@@ -32,4 +34,8 @@ sempre, pois “se dois de vós se unirem sobre a terra para pedir, seja o que
 for, consegui-lo-ão de meu Pai que está nos céus. Porque onde dois ou três
 estão reunidos em meu nome, aí estou eu no meio deles” – Mateus 18,19-20.<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br /></p><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><br />&nbsp;<p></p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br />
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><br /> 

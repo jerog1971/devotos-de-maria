@@ -4,7 +4,8 @@ date: 2016-07-19T11:00:00.001Z
 heroImage: "/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel.png" width="304" height="320" data-original-width="417" data-original-height="439" /></a></div>
+![](/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel.png)
+
 </br>
 Samuel Forrest é pai e, pelo menos segundo as próprias declarações, foi forçado a fazer uma escolha que ninguém jamais gostaria de enfrentar: ou a esposa, com que tinha se casado havia 18 meses, ou o pequeno Leo, um recém-nascido com Síndrome de Down. Por quê? Porque a mãe do bebê e sua família teriam vergonha dele.</br>
 </br>
@@ -20,7 +21,9 @@ Samuel se tornou pai em 21 de janeiro de 2015, quando a esposa deu à luz num ho
 </br>
 "Quando eles me mostraram o Leo", continua Samuel, "eu disse imediatamente ao médico que ele era lindo, perfeito e que eu com certeza ia ficar com ele. Quando nasce uma criança como o Leo neste país, a primeira coisa que eles dizem é que você não é obrigado a ficar com ele. Minha esposa já tinha decidido. Mas tudo aconteceu pelas minhas costas". De acordo com suas declarações, Samuel não conseguiu convencer a mulher quando ela deu o ultimato: ou ela ou o bebê. Samuel escolheu o bebê e decidiu se divorciar.</br>
 </br>
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel2.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel2.png" width="200" height="133" data-original-width="598" data-original-height="397" /></a></div>
+
+![](/images/posts/1107-ultimato-da-esposa-ao-marido-escolha-ou-eu-ou-o-be-samuel2.png)
+
 </br>
 Leo vai para casa</br>
 </br>

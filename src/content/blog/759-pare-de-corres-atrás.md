@@ -4,7 +4,9 @@ date: 2022-12-12T17:08:00.004Z
 heroImage: "/images/posts/759-pare-de-corres-atrás-img-146836201.png"
 ---
 
-<p></p><div class="separator" style="clear: both; text-align: left;"><a href="/images/posts/759-pare-de-corres-atrás-img-146836201.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="563" data-original-width="788" height="229" src="/images/posts/759-pare-de-corres-atrás-img-7444957.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><p></p><p class="MsoNormal">O Padre Kemphis, autor atribuído ao livro Imitação de
+![](/images/posts/759-pare-de-corres-atrás-img-7444957.png)
+
+<div class="separator" style="clear: both; text-align: left;"><br /></div><p class="MsoNormal">O Padre Kemphis, autor atribuído ao livro Imitação de
 Cristo, já dizia que uma alma se torna inquieta enquanto não alcança aquilo que
 busca. Além de ser uma grande verdade isso constitui um grande perigo. Sim,
 porque a inquietude pode ter origens não tão saudáveis para a alma e para
@@ -31,4 +33,7 @@ de poucas recompensas pelo caminho, porém, que nos conduz ao destino final mais
 querido de qualquer alma inquieta: o paraíso celeste onde a glória e felicidade
 eternas aguardam os perseverantes (Mateus 10,22).<o:p></o:p></p>
 
-<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div><p><br />&nbsp;</p>
+<p class="MsoNormal">Fonte: Jefferson Roger<o:p></o:p></p></div>
+
+<br /> 
+

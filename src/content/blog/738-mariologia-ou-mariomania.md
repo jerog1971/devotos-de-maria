@@ -4,7 +4,8 @@ date: 2019-01-07T14:03:00.001Z
 heroImage: "/images/posts/738-mariologia-ou-mariomania-mariologia.png"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/posts/738-mariologia-ou-mariomania-mariologia.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/posts/738-mariologia-ou-mariomania-mariologia.png" width="320" height="302" data-original-width="300" data-original-height="283" /></a></div>
+![](/images/posts/738-mariologia-ou-mariomania-mariologia.png)
+
 A mariologia deste artigo será a de sempre, a mariologia católica que os santos cultivaram ao longo dos séculos e o Concílio Vaticano II ratificou na constituição Lumen Gentium.</br>
 </br>
 Antes do Concílio, havia um debate teológico entre dois grupos. Um deles entendia a Virgem Maria como membro da Igreja. Apesar de correta, essa abordagem pode, entretanto, resumir a participação de Nossa Senhora no mistério salvífico à mera função de intercessora, como é o caso dos demais santos. A diferença entre estes e aquela seria apenas quantitativa, tendo Maria uma intercessão mais elevada que a dos outros. Mas a posição de Nossa Senhora na economia da salvação, como entendia o outro grupo, não é somente eclesiológica, mas também cristológica, uma vez que Ela, estando unida ao mistério da Encarnação, participou diretamente na redenção da humanidade.</br>
