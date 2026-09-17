@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /admin
+
+Sitemap: https://devotos-de-maria.com.br/sitemap-index.xml
