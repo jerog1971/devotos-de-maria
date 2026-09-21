@@ -7,7 +7,7 @@ heroImage: ""
 
 ![Padre Amorth](/images/amorth.png)
 
-Transcrevemos aqui alguns trechos de exorcismos praticados na década de 1970 por um grupo de sacerdotes sobre uma mulher que por vários anos sofria de possessão. Esta compilação tem o respaldo da Igreja, foi confirmada por estudiosos do clero católico, e as atividades relatadas foram documentadas e gravadas, resultando no livro intitulado *Confissões do Inferno ao Mundo Contemporâneo*, com a participação do Padre Gabriele Amorth, famoso exorcista de Roma.
+Transcrevemos aqui alguns trechos de exorcismos praticados na década de 1970 por um grupo de sacerdotes sobre uma mulher que por vários anos sofria de possessão. Esta compilação tem o respaldo da Igreja, foi confirmada por estudiosos do clero católico, e as atividades relatadas foram documentadas e gravadas, resultando no livro intitulado *Confissões do Inferno ao Mundo Contemporâneo*, com a participação do Padre Gabriele Amorth, famoso exorcista de Roma, nascido em 1925.
 
 Como o livro é bem extenso, publicamos aqui uma compilação de seu conteúdo que mantém fiel sintonia com os ensinamentos do Evangelho.
 
@@ -39,7 +39,7 @@ Vejamos sobre esse assunto o que nos diz o Padre Gabriele Amorth, exorcista da D
 > **Pe. Amorth:** Digamos que não crêem numa verdade evangélica. Portanto, sendo o caso, eu os acusaria de propagar uma heresia. Mas fique claro que alguém é formalmente herege se é acusado de alguma coisa, e permanece no erro.  
 > Hoje, ninguém, pela situação que há na Igreja, acusa um bispo por não crer no diabo, nas possessões demoníacas e por não nomear exorcistas. Contudo, eu poderia dizer-lhe muitíssimos nomes de bispos e cardeais que, logo que foram nomeados para uma diocese, tiraram a todos os exorcistas tal faculdade; ou bispos que sustentam abertamente: “Eu não creio nisso, são coisas do passado”. Por quê? Infelizmente porque houve a influência perniciosíssima de certos biblistas. Nós, que tocamos todos os dias o mundo sobrenatural, sabemos quem meteu a colher em tantas reformas litúrgicas.
 
-A grande maioria dos bispos, agindo assim, passa essa absurda incredulidade aos sacerdotes e aos fiéis. Com o esfriamento da fé, não alertam mais os católicos para a maléfica ação dos inimigos da nossa salvação, omitindo a proteção de poderosas orações como as de São Miguel Arcanjo, São Bento e a frequência ao Sacramento da Reconciliação.
+A grande maioria dos bispos, agindo assim, passa essa absurda incredulidade aos sacerdotes e aos fiéis. Com o esfriamento da fé, não alertam mais os católicos para a maléfica ação dos inimigos da nossa salvação e para a gravidade do pecado por eles inspirado, omitindo a proteção de poderosas orações como as de São Miguel Arcanjo, São Bento e a frequência ao Sacramento da Reconciliação.
 
 Terminam ajudando os demônios a manterem-se no anonimato para agirem livremente. Se numa guerra não se tem consciência do inimigo, todos se tornam presas fáceis.
 
@@ -88,23 +88,23 @@ O demônio não só existe, como é ardiloso e poderoso, principalmente para agi
 
 Devemos seguir e ser obedientes aos eclesiásticos que se mantiverem fiéis ao Evangelho em toda a sua totalidade e ao Santo Padre o Papa.
 
-Deus vem em socorro de Seus filhos através de sinais sobrenaturais, tais como aparições da Virgem Maria e locuções interiores. Este episódio trata-se de uma sequência de exorcismos levados a efeito por uma equipe composta por oito sacerdotes exorcistas:
+Deus vem em socorro de Seus filhos através de sinais sobrenaturais, tais como aparições da Virgem Maria e locuções interiores. Este episódio trata-se de uma sequência de exorcismos levados a efeito por uma equipe composta por sacerdotes exorcistas:
 
 - Padre Albert d’Arx (Niederbuchsiten)
 - Padre Arnold Egli (Ramiswil)
 - Padre Ernest Fischer (Missionário, Gossau)
 - Padre Pius Gervasi, OSB (Disentis)
 - Padre Karl Holdever (Pied)
-- Padre Gregor Meyer (Trimbach)
+- Padre Gregor Meyer (Trimbach)*
 - Padre Robert Rinderer, CPPS (Auw)
 - Padre Louis Veillard (Cressier-Péquignot)
 
-Com exceção do Pe. Ernest Fischer (alemão), todos os demais eram suíços.
+*Com exceção do Pe. Ernest Fischer (alemão), todos os demais eram suíços. O Pe. Gregor Meyer foi citado, mas não participou dos exorcismos; contudo, conhecia muito bem a senhora que foi vítima da possessão, pois fora seu diretor espiritual por algum tempo. Também participaram outros dois sacerdotes de nacionalidade francesa.*
 
 #### Testemunhos Importantes
 
-> **Padre Arnold Renz (SDS):**  
-> "Acedi a um convite para me deslocar à Suíça, onde, juntamente com outros padres, fiz cinco exorcismos seguindo o método de Leão XIII. Estou convencido de que se trata de possessão e que as revelações feitas pelos demônios resultam da coação de um Poder Superior. O calvário da possessa, a sua aceitação dos sofrimentos e o conteúdo das revelações são garantias de que foram desejadas por Deus e por Maria, Mãe da Igreja. O conteúdo tem como objetivo uma sólida renovação da Igreja."
+> **Padre Arnold Renz (SDS)** (1911-1938, ordenado sacerdotalmente em Passau; missionário na China e pároco encarregado do famoso caso de Anneliese Michel em Klingenberg):  
+> "Devido ao empenhamento de um irmão espiritual da Companhia de Jesus, Padre Rodewyk, S.J., acedi a um convite para me deslocar à Suíça, onde, juntamente com outros padres, fiz cinco exorcismos seguindo o método de Leão XIII. Estou convencido de que se trata de possessão e que as revelações feitas pelos demônios resultam da coação de um Poder Superior. O calvário da possessa, a sua aceitação dos sofrimentos e o conteúdo das revelações são garantias de que foram desejadas por Deus e por Maria, Mãe da Igreja. O conteúdo tem como objetivo uma sólida renovação da Igreja."
 
 > **Johannes Denkinger (Teólogo):**  
 > "Depois de uma leitura crítica das revelações, de ouvir algumas das gravações e de visitar a mulher em questão, declaro: estou absolutamente convencido da autenticidade das revelações aqui publicadas. Eu e a minha teologia moderna temos de nos render perante uma humildade tão grande."
@@ -124,7 +124,8 @@ Os demônios são forçados pelo Céu a falar contra a sua vontade, esclarecendo
 - **Akabor:** demônio do coro dos Tronos (A)  
 - **Allida:** demônio do coro dos Arcanjos (Al)  
 
-> **Exorcista (E):** Demônio Akabor, nós, Sacerdotes, representantes de Cristo, ordenamos-te, em Nome da Santa Cruz, do Preciosíssimo Sangue, das Cinco Chagas, das quatorze estações da Via Sacra, da Santíssima Virgem Maria, da Imaculada Conceição de Lourdes, de Nossa Senhora do Rosário de Fátima, de Nossa Senhora do Monte Carmelo, de Nossa Senhora da Grande Vitória de Wigratzbad, das Sete Dores de Maria, de São Miguel Arcanjo, dos nove Coros Angélicos, do Anjo da Guarda desta mulher, de São José, dos Santos Padroeiros desta mulher, de todos os Santos Anjos da Guarda e Santos Anjos dos Sacerdotes, de todos os Santos do Céu, especialmente de todos os Santos exorcistas, do Santo Cura d’Ars, de São Bento, dos servos e servas de Deus: Padre Pio, Teresa de Konnersreuth, Anna Catarina Emmerich, de todas as almas do Purgatório, e em nome do Papa Paulo VI, ordenamos-te, então, Akabor, como Sacerdotes de Deus, em nome de todos os Santos que acabamos de invocar, em nome da Santíssima Trindade, do Pai, do Filho e do Espírito Santo, volta para o inferno!
+> **Exorcista (E):** Demônio Akabor, nós, Sacerdotes, representantes de Cristo, ordenamos-te, em Nome da Santa Cruz, do Preciosíssimo Sangue, das Cinco Chagas, das quatorze estações da Via Sacra, da Santíssima Virgem Maria, da Imaculada Conceição de Lourdes, de Nossa Senhora do Rosário de Fátima, de Nossa Senhora do Monte Carmelo, de Nossa Senhora da Grande Vitória de Wigratzbad, das Sete Dores de Maria, de São Miguel Arcanjo, dos nove Coros Angélicos, do Anjo da Guarda desta mulher, de São José, dos Santos Padroeiros desta mulher, de todos os Santos Anjos da Guarda e Santos Anjos dos Sacerdotes, de todos os Santos do Céu, especialmente de todos os Santos exorcistas, do Santo Cura d’Ars, de São Bento, dos servos e servas de Deus: Padre Pio, Teresa de Konnersreuth, Anna Catarina Emmerich, de todas as almas do Purgatório, e em nome do Papa Paulo VI, ordenamos-te, então, Akabor, como Sacerdotes de Deus, em nome de todos os Santos que acabamos de invocar, em nome da Santíssima Trindade, do Pai, do Filho e do Espírito Santo, volta para o inferno!*  
+> *(Estas invocações foram constantes e repetidas durante as sessões).*
 >
 > **Akabor (A):** Tenho ainda que falar...
 >
@@ -134,7 +135,7 @@ Os demônios são forçados pelo Céu a falar contra a sua vontade, esclarecendo
 >
 > **(E):** Continuarás a dizer a verdade, em Nome da Santíssima Trindade... diz o que Deus te ordena.
 >
-> **(A):** O inferno é bem pior do que à primeira vista e superficialmente poderíeis pensar. A Justiça... e naturalmente também a Misericórdia estão lá, mas é preciso muita confiança, é preciso rezar muito, é necessária a Confissão, tudo é necessário. Não se deve condescender facilmente com os modernismos. O Papa é que diz a verdade.
+> **(A):** O inferno é bem pior do que à primeira vista e superficialmente poderíeis pensar. A Justiça... e naturally também a Misericórdia estão lá, mas é preciso muita confiança, é preciso rezar muito, é necessária a Confissão, tudo é necessário. Não se deve condescender facilmente com os modernismos. O Papa é que diz a verdade.
 >
 > **(E):** Continua, em Nome da Santíssima Trindade, da Santíssima Virgem Maria da Imaculada Conceição! Continua em Nome dos Santos Tronos! Continua!
 >
@@ -218,12 +219,105 @@ Os demônios são forçados pelo Céu a falar contra a sua vontade, esclarecendo
 >
 > **(E):** Não é correto dizer “por todos”? Diz a verdade em Nome...
 >
-> **(A):** Claro que não! As traduções nem sempre são exatas, e esse é, sobretudo, o caso de “por todos”. Não se deve e não se pode dizer “por todos”; deve dizer-se “por muitos”. Se o texto não está correto, já não encerra a Plenitude de Graças. Claro que a Santa Missa continua a ser válida, mas o canal de graças corre agora parcimoniosamente. E a Consagração já não acarreta tantas graças, como quando o Sacerdote pronunciava convenientemente, de acordo com a Tradição Antiga e com a Vontade de Deus. É preciso dizer-se “por vós e por muitos”, tal como Cristo disse.
+> **(A):** Claro que não! As traduções nem sempre são exatas, e esse é, sobretudo, o caso de “por todos”. Não se deve e não se pode dizer “por todos”; deve dizer-se “por muitos”. Se o texto não está correto, já não encerra a Plenitude de Graças. Claro que a Santa Missa continua a ser válida, mas o canal de graças corre agora parcimoniosamente. E a Consagração já não acarreta tantas graças, como quando o Sacerdote pronunciava convenientemente, de acordo com a Tradição Antiga e com a Vontade de Deus. É preciso dizer-se “por vós e por muitos”*, tal como Cristo disse.
 >
 > **(E):** Então não é verdade que Cristo tenha derramado o seu Sangue por todos? Diz a verdade, em Nome...
 >
-> **(A):** Não. Ele bem que desejou derramá-LO por todos, mas de fato Ele não foi derramado por todos.
+> **(A):** Não. Ele bem que desejou derramá-LO por todos, mas de fato Ele não foi derramado por todos, pois não O derramou por nós, os do inferno.**
 >
 > **(E):** Por que muitos O recusaram? Diz a verdade, em Nome...
 >
 > **(A):** Exatamente. Assim, Ele não derramou o Seu Sangue por todos...
+>
+> **(E):** Diz a verdade, em Nome...
+>
+> **(A):** O novo ordinário da Missa (os Bispos mudaram a Missa Tridentina), a nova Missa, não corresponde à Vontade d’Eles, lá em cima *(aponta para o alto)*.
+>
+> **(E):** Que é isso de Missa Tridentina? É a Antiga Missa, prescrita pelo Papa São Pio V? Diz a verdade, em Nome...
+>
+> **(A):** É a melhor que existe, é a Missa-tipo, a verdadeira e a boa Missa *(geme)***.
+>
+> **(E):** Akabor, diz a verdade, em Nome e sob as ordens da Santíssima Virgem! Nós ordenamos-te que digas tudo o que Ela te encarregou de dizer!
+>
+> **(A):** Tudo o que disse foi contra a minha vontade, mas a isso fui obrigado. Foi ELA, lá em cima *(aponta para o alto)* que me forçou *(rosna)*.
+
+*\* Na Missa do Papa Paulo VI, em latim, conservou-se a fórmula correta ("Pro multis"). As traduções em línguas vernáculas muitas vezes alteraram a expressão para "por todos".*  
+*\*\* Cristo teria resgatado a todos, mas a salvação depende da aceitação do homem em seu livre arbítrio. O Sangue de Cristo não beneficiou os que O recusaram e se condenaram.*  
+*\*\*\* A celebração da Santa Missa Tridentina de São Pio V foi posteriormente autorizada pela Santa Sé por documentos pontifícios.*
+
+> **(E):** Diz a verdade, em Nome...  
+> **(A):** Na Missa Tridentina fazia-se o sinal da Cruz trinta e três vezes, mas agora faz-se muito menos; duas, três, quando tudo vai pelo melhor. E na última, na bênção final, já não é necessário ajoelhar... *(grita e chora de desespero)*. Podeis imaginar como nos ajoelharíamos... Como nós cairíamos de joelhos, se por ventura pudéssemos? *(geme e chora)*.
+>
+> **(E):** É correto fazer o Sinal da Cruz trinta e três vezes, durante a Santa Missa? Diz a verdade, em Nome...  
+> **(A):** Não é só correto, como também obrigatório. É que assim nós não conseguiríamos ficar, pois seríamos obrigados a fugir da Igreja. Mas, assim, ficamos. Deveria também restabelecer-se a cerimônia da aspersão. A aspersão com água benta obriga-nos a fugir; e o mesmo se passa com o incenso. Era também preciso voltar a queimar-se incenso. Era bom que depois da Santa Missa se recitasse a oração de São Miguel Arcanjo, três Ave-Marias e a Salve Rainha.
+>
+> **(E):** Diz a verdade, diz o que tens a dizer, em Nome...  
+> **(A):** Os leigos não devem dar a Sagrada Comunhão *(dá gritos horríveis!)*, de modo nenhum!!! Nem sequer as religiosas. Nunca! Pensais que Cristo teria confiado essa missão aos Apóstolos, se as mulheres e os leigos também o pudessem fazer *(geme)*? Sou obrigado a dizer isto! Allida, ouviste Allida, ouviste o que me obrigaram a dizer? Allida tu também podes falar! *(o outro responde encolerizado: Fala tu!)*...
+
+---
+
+## Exorcismo de 31 de Agosto de 1975
+
+*Demônio interrogado:* **Judas Iscariotes (J)**
+
+> **Exorcista (E):** Diz a verdade, toda a verdade, da parte da Santíssima Virgem, diz o que Ela nos quer transmitir por teu intermédio, Judas Iscariotes! Continua a falar, diz tudo o que tens a dizer e só a verdade da parte da Santíssima Virgem!
+>
+> **Judas Iscariotes (J):** Em 14 de Agosto, Akabor teve que falar do *Asperges me*, que deveria ser reintroduzido no princípio da Missa. É verdade, é verdade! Assim somos obrigados a fugir da Igreja.
+>
+> **(E):** Diz a verdade, Judas Iscariotes, diz a verdade da parte da Santíssima Virgem!
+>
+> **(J):** Se não se fizer, permaneceremos lá dentro. O Sacerdote deveria, como era uso antigamente, aspergir os fiéis com o hissope, de uma ponta a outra da Igreja, e isso obrigar-nos-ia a fugir, a fugir também do povo, das pessoas.
+>
+> **(E):** Diz a verdade, da parte da Santíssima Virgem, toda a verdade e só a verdade!
+>
+> **(J):** Nós também procuramos perturbar as pessoas. Quando o Sacerdote, com o hissope, asperge de uma ponta a outra da Igreja, então as pessoas podem rezar melhor. Este rito expulsa também as idéias e os poderes da magia negra.
+>
+> **(E):** Da parte da Santíssima Virgem, diz a verdade!
+>
+> **(J):** A cerimônia do *Asperges me*, os trinta e três Sinais da Cruz, a Tripla fórmula “Senhor eu não sou digno”, e, no fim da Missa, a oração a São Miguel Arcanjo, as três Ave-Marias e a Salve Rainha, deveriam ser restabelecidos. A sua supressão foi obra nossa e, em certa medida, obra daqueles que estão em nosso poder.
+>
+> **(E):** Diz a verdade, sob as ordens da Santíssima Virgem, e só a verdade! Continua!
+>
+> **(J):** O Sacrário devia estar no centro. Que significado tem, ao entrar-se numa Igreja moderna, ser-se primeiro obrigado a procurar o Sacrário? Não se sabe se está à frente, se atrás ou de lado. Em muitas Igrejas constroem-se mesmo Sacrários que não se sabe se são tocas de raposa *(ri com malvadez)*...
+>
+> **(E):** Diz a verdade e só a verdade, sob as ordens da Santíssima Virgem, Judas Iscariotes!
+>
+> **(J):** ...se cofres-fortes *(mal pode conter o riso)*. Agora há também muitos que fazem Sacrários de qualquer maneira, em ferro. Claro que também poderiam ser utilizados carris do caminho de ferro *(ri maldoso)*.
+>
+> **(E):** Diz a verdade, só a verdade, em nome (...)!
+>
+> **(J):** Um tabernáculo — Estais a ouvir-me? — Deve ser dourado. Isto é: nem o ouro, nem as pedras mais preciosas seriam dignas de encerrar o que ele encerra. Estariam bem longe de ser merecedoras do que ele abriga. É uma vergonha, mesmo nós lá em baixo, temos de o reconhecer, é uma vergonha ver as Igrejas e Tabernáculos que os homens constroem.
+>
+> **(E):** Continua a dizer a verdade, diz tudo o que tens a dizer sob as ordens da Santíssima Virgem! Continua a falar!
+>
+> **(J):** O Santíssimo Sacramento: O Santíssimo Sacramento já não é adorado. Está totalmente posto de lado. As exposições do Santíssimo Sacramento são agora raras. Fazem-se ainda em alguns atos de reparação e entre os “tradicionalistas”. Fora disso são muito raras. Este Sacramento... se soubésseis como é Grande!
+>
+> **(E):** Continua a falar em nome (...)!
+>
+> **(J):** O Santíssimo Sacramento do Altar! Se soubésseis as bênçãos que jorram, as bênçãos que d'Ele jorravam antigamente, quando era exposto no Sacrário e o povo diante d'Ele, fazia a adoração reparadora! Isso era de grande eficácia para os pecados. Todas essas coisas deixaram de existir e é por isso que também menos almas se salvam. Não quero continuar a falar, não quero falar mais!
+>
+> **(E):** Continua, sob as ordens da Santíssima Virgem, diz tudo o que Ela te encarregou de dizer, mas só a verdade!
+>
+> **(J):** Tenho de acrescentar o seguinte *(respira com grande dificuldade)*: A grande maioria dos Sacerdotes estão cegos. Somos nós que os cegamos. Mas, com um pouco de boa vontade e com muita oração ao Espírito Santo, acabariam, a pouco e pouco, por compreendê-lo. O Rosário seria então um remédio universal. Porém, também ele foi suprimido em quase todo o lado. Já não está na moda, como se costuma dizer.
+>
+> **(E):** Continua, sob as ordens da Santíssima Virgem, diz toda a verdade, diz o que tens a dizer!
+>
+> **(J):** Os Mistérios Dolorosos seriam os mais preciosos dos três. Sem dúvida que todos os são, mas a meditação dos Mistérios Dolorosos contribui mais para a salvação das almas. É por isso que lá em cima *(aponta para cima)*, são considerados os mais preciosos.
+>
+> **(E):** E os outros Mistérios? Fala, em nome (...)!
+>
+> **(J):** Também são bons. Claro que são bons e dum modo especial os Mistérios Gloriosos, com a dezena que convida à contemplação do Pentecostes, à descida do Espírito Santo. Todos são bons, mas os Mistérios Dolorosos são preciosos pois estão associados à contemplação da Agonia de Cristo no Jardim das Oliveiras, da flagelação, da coroação de espinhos, do carregamento da Cruz e da morte na Cruz.
+>
+> O livro *Imitação de Cristo* devia ter sido fermento, devia ter sido alimento, pão para a humanidade *(caros leitores, recomendadíssimo esse livro)*. Mas foi rejeitado como o foram milhares de livros que existem. Citemos por exemplo os livros de Agreda, Emmerich, etc... Muitos outros livros sobre a vida dos Santos caíram igualmente no esquecimento.
+>
+> Mas os livros da Catarina Emmerich e Maria Agreda têm a vantagem de pôr sob os olhos das pessoas a vida de Cristo, dum modo impressionante e de lhes mostrar a pobreza extraordinária em que Jesus Cristo, a Santíssima Virgem e São José viveram.
+>
+> Se as pessoas seguissem o seu exemplo, decerto não viveriam tão obcecadas pelo dinheiro, como tantas vezes acontece, e o orgulho não as cegaria tanto. Haviam de compreender que as únicas coisas abençoadas pelo Céu são a humildade, as virtudes e as obras de misericórdia como muito justamente se costuma dizer e, sobretudo, a perfeita Imitação de Cristo e a própria entrega de si mesmo aos lá de cima *(resmunga)*...
+
+---
+
+Com esta compilação do livro pode-se perceber claramente que por vontade de Deus Pai e a intercessão da Virgem Maria, estas páginas endossam ensinamentos da ortodoxia doutrinal católica apostólica romana. São dizeres claros e comprovações diretas que atestam a realidade da fé.
+
+Esta página tem o objetivo de colocar à disposição do católico comprometido com Jesus Cristo uma oportunidade de conhecer um pouco mais daquilo que se passa em nossa religião. Não vamos esquecer: a Igreja é santa, mas formada por membros pecadores. Jesus e Sua Mãe não pecaram. Ele por Sua natureza e Ela pela graça de Deus. A nós, portanto, cabe procurar viver conforme o desejo de Deus e não dos homens.
+
+Fonte: autor do blog e site derradeirasgracas.com
