@@ -6,8 +6,6 @@ heroImage: "/images/posts/904-o-professor-dia_20do_20professor.png"
 
 ![](/images/posts/904-o-professor-dia_20do_20professor.png)
 
- </div>
-
 ![](/images/posts/904-o-professor-dia_20do_20professor_202.png)
 
 Hoje, neste dia dedicado ao professor, realmente me vejo
@@ -20,7 +18,7 @@ família e colegas de trabalho) e os incentivos.
 
 ![](/images/posts/904-o-professor-dia_20do_20professor_203.png)
 
-</div><p class="MsoNormal"></p><p class="MsoNormal">Em tempos cada vez mais difíceis para os professores,
+Em tempos cada vez mais difíceis para os professores,
 batalhadores incansáveis contra muitas mudanças de valores sociais, a caminhada
 acontece sob fortes ventos contrários. E não bastam as próprias forças; já
 dizia Jesus: “sem mim nada podeis fazer” – João 15,5. Ele é quem me sustenta,
@@ -30,4 +28,4 @@ alunos colocados por Deus em minha vida recebem de mim, sempre, o que de melhor
 eu possa oferecer, contribuir e ser por eles e para eles, pois, quero que saiam
 da minha presença sendo melhores do que quando a mim chegaram.</p>
 
-<p class="MsoNormal"> Fonte: Jefferson Roger</p></div><br /><br />
+Fonte: Jefferson Roger
