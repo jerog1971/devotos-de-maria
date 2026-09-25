@@ -12,7 +12,7 @@ Tudo é difícil e justamente por isso Jesus Cristo nos avisa que ele precisa pa
 
 A certeza disso (João 15,5) promove o  afastamento da pessoa daquilo que poderá lhe trazer a ruína. Você pode ser bom, dotado de dons divinos e qualidades que te permitem ajudar ao próximo, mas, se não dominar os sentimentos e paixões desregradas será corrompido pelas promessas fáceis e terrenas.
 
-Essa corrupção, fruto de uma alma em conflito por desaperga-se de Deus ao invés de desapegar-se do mundo entrega consequências desastrosas. Busquemos erradicar situações assim dentro de nós, não dar ouvidos para a parte que for contrária a Deus, não olhar para trás no arado, como nos ensina Jesus e nos atirarmos convictos pelo caminho aberto pelo Cristo, pois, temos que pedir sempre: paciência para suportar as coisas que não posso modificar, coragem para modificar as que eu posso e sabedoria para perceber a diferença.
+Essa corrupção, fruto de uma alma em conflito por desapegar-se de Deus ao invés de desapegar-se do mundo entrega consequências desastrosas. Busquemos erradicar situações assim dentro de nós, não dar ouvidos para a parte que for contrária a Deus, não olhar para trás no arado, como nos ensina Jesus e nos atirarmos convictos pelo caminho aberto pelo Cristo, pois, temos que pedir sempre: paciência para suportar as coisas que não posso modificar, coragem para modificar as que eu posso e sabedoria para perceber a diferença.
 
 Fonte: Jefferson Roger 
 
