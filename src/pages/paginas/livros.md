@@ -88,6 +88,16 @@ Crescer significa tomar decisões e arcar com suas consequências, mas, quando s
 
 ---
 
+### 09 - Eu e o Ensino Médio - as crônicas de uma turma
+
+<img src="/images/posts/capa_livro_9.png" alt="Eu e o Ensino Médio" class="capa-livro" />
+
+Adquirir conhecimento é algo que faz parte de todo ser humano; ele vive e durante sua caminhada passa por experiências que acrescentam aos seus saberes, marcas indeléveis que irá carregar por toda a jornada. Quando ainda jovem e toma consciência das maravilhas que o cercam neste universo do saber, sente o ímpeto para aprender e melhorar. Difícil? Venha comprovar que não é tanto assim. Nesta obra você irá conhecer histórias que comprovam que a ponte entre o saber e o conhecimento está repleta de desafios sim, mas também de grandes recompensas que nunca serão esquecidas. **(livro publicado pelo autor do site)**
+
+[Eu e o Ensino Médio (clique aqui para ler o livro)](https://drive.google.com/file/d/1Mp0nYOoGzjlFmig4prO0LCVp6GIBKEJ0/view?usp=sharing)
+
+---
+
 ### A Contrição Perfeita
 
 <img src="/images/posts/1314-livros-contri_25C3_25A7_25C3_25A3o.png" alt="A Contrição Perfeita" class="capa-livro" />
