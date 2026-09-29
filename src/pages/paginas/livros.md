@@ -74,7 +74,7 @@ Esta obra, Um professor, traz uma leitura agradável e envolvente onde o leitor 
 
 Livro com 160 páginas, nele vemos que a aventura pessoal de aprendizado do idioma é repleta de acontecimentos diversos. Nesta escalada do saber, a leitura, a escrita e a comunicação se reúnem, neste tripé, para proporcionar o que existe de melhor em termos de boa comunicação. Será isso mesmo? É o que o autor deste livro se propõe a apresentar incluindo nesta narrativa suas experiências desde a infância até os dias atuais. **(livro publicado pelo autor do site)**
 
-[Saber ler e escrever para se falar bem (clique aqui para ler o livro)](https://drive.google.com/file/d/11ITOnRY26iWLh4BshQWkppDuexkJdf2h/view?usp=drive_link)
+[Clique aqui para baixar em PDF](https://drive.google.com/file/d/11ITOnRY26iWLh4BshQWkppDuexkJdf2h/view?usp=drive_link)
 
 ---
 
@@ -84,7 +84,7 @@ Livro com 160 páginas, nele vemos que a aventura pessoal de aprendizado do idio
 
 Crescer significa tomar decisões e arcar com suas consequências, mas, quando se resolve levar uma vida com escolhas não tão saudáveis? A ruína pode ser uma possibilidade. Nesta história, as decisões de JR, uma pessoa que insiste em não levar a sério o desenrolar de sua caminhada, irão revelar desdobramentos que o leitor se surpreenderá. A narrativa, muito direta e detalhada na medida necessária, apresenta um homem que precisa de ajuda, que precisa ser humilde, que precisa abandonar o que não lhe convém, que precisa, de forma definitiva, tomar uma decisão. O amanhã tem um preço e ele precisa decidir agora. **(livro publicado pelo autor do site)**
 
-[Os piores dias da minha vida II (clique aqui para ler o livro)](https://drive.google.com/file/d/1ETIPPDfPGFnLhqAGNCJ-1FPdt4HtLd9A/view?usp=sharing)
+[Clique aqui para baixar em PDF](https://drive.google.com/file/d/1ETIPPDfPGFnLhqAGNCJ-1FPdt4HtLd9A/view?usp=sharing)
 
 ---
 
@@ -94,7 +94,7 @@ Crescer significa tomar decisões e arcar com suas consequências, mas, quando s
 
 Adquirir conhecimento é algo que faz parte de todo ser humano; ele vive e durante sua caminhada passa por experiências que acrescentam aos seus saberes, marcas indeléveis que irá carregar por toda a jornada. Quando ainda jovem e toma consciência das maravilhas que o cercam neste universo do saber, sente o ímpeto para aprender e melhorar. Difícil? Venha comprovar que não é tanto assim. Nesta obra você irá conhecer histórias que comprovam que a ponte entre o saber e o conhecimento está repleta de desafios sim, mas também de grandes recompensas que nunca serão esquecidas. **(livro publicado pelo autor do site)**
 
-[Eu e o Ensino Médio (clique aqui para ler o livro)](https://drive.google.com/file/d/1Mp0nYOoGzjlFmig4prO0LCVp6GIBKEJ0/view?usp=sharing)
+[Clique aqui para baixar em PDF](https://drive.google.com/file/d/1Mp0nYOoGzjlFmig4prO0LCVp6GIBKEJ0/view?usp=sharing)
 
 ---
 
