@@ -45,12 +45,6 @@ heroImage: '/images/paginas/a-virgem-maria.png'
 
 ---
 
-### Vídeos Recomendados
-
-* [Sacerdote Duarte Sousa Lara fala sobre as aparições de Medjugorje](https://www.gloria.tv/video/NYGFVMMGp6266LpmeyQwapwqN) *(Duração: 6min56s)*
-
----
-
 ### A MORTE GLORIOSA DA SANTÍSSIMA VIRGEM
 
 As emocionantes e admiráveis narrativas da Paixão e Morte de Jesus Cristo, feitas pela Religiosa Agostiniana Anna Catharina Emmerich, resultantes de suas profundas meditações quaresmais no decurso de 1820 e 1823, sem que constem discrepâncias alguma dos respectivos textos evangélicos, constituem uma demonstração plausível da realidade dessas visões sobrenaturais.
