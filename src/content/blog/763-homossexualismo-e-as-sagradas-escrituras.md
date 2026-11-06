@@ -16,9 +16,5 @@ Mas vamos adiante, estava eu a falar das sagradas escrituras e de como elas emba
 </br>
 Muito bem, já vimos biblicamente que a questão é pecado. Mas e aí, o que diz a igreja católica? Ela diz no catecismo nº 2357, 2358 e 2359 que é preciso acolher em seu seio essas pessoas que querem superar o homossexualismo, sem preconceito, porém, diz que esse acolhimento visa ajudar a pessoa, mostrando-lhe a verdade e auxiliando em sua caminhada de conversão e renúncia de si mesmo, conforme fazia e nos pede Jesus (Lucas 9,23). Pois ele nunca teve preconceito e acolheu a todos, mas não foi para passar a mão na cabeça de alguém ou para endossar algum comportamento ou conduta, pelo contrário, seu acolhimento sempre foi com o objetivo de pregar a boa nova do Reino, a mando do pai. Ele mesmo disse que para isso que ele foi enviado (Marcos 1,38). Deus que é amor e que não espera nossa conversão para nos amar, merece de cada um, no mínimo o máximo de esforço, e para retribuirmos esse amor de forma plena, precisamos renunciar por completo a nós mesmos, afinal também nos foi dito pelo salvador que devemos pedir ao pai que “seja feita a vossa vontade” e não a nossa. Renunciar significa aceitar que seja feita a vontade do pai. Difícil? Claro que sim, ainda mais se a tentativa for feita sem Jesus (João 15,5), porque ele nos ensina que não podemos nada sem ele e nos ensina que ou estamos com ele ou contra ele. Contra ele é estar contra o seu evangelho. E isso vale para tudo em nossas vidas, se almejamos um dia morar no paraíso.</br>
 </br>
-<div style="position:relative;width:100%;height:0;padding-bottom:56.2%;"><iframe src="https://gloria.tv/embed/+/video/39Aj7vRP4XzPC61qamsCsi1ZW" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen style="position:absolute;top:0;right:0;bottom:0;left:0;height:100%;width:100%;"></iframe></div>
-Vídeo relacionado ao artigo</br>
-Duração = 08min53s</br>
-</br>
 </br>
 fonte: Jefferson Roger
