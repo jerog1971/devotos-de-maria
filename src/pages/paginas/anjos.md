@@ -75,7 +75,7 @@ Deus Todo-Poderoso e Eterno, que por um prodígio de bondade e misericórdia par
 
 ---
 
-A tradição católica ensina que o coro celeste é dividido e organized segundo as funções atribuídas por Deus Pai:
+A tradição católica ensina que o coro celeste é dividido e organizado segundo as funções atribuídas por Deus Pai:
 
 ### 1. Coro Celeste dos Serafins
 
