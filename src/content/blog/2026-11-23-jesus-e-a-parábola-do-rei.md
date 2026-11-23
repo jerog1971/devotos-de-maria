@@ -1,0 +1,17 @@
+---
+title: Jesus e a parábola do Rei
+description: Jesus adverte sobre o julgamento do juízo final
+pubDate: 2026-11-23
+heroImage: /images/posts/justo_juiz.png
+---
+Em passagem pela terra, em uma de suas falas, Jesus adverte sobre o julgamento do juízo final. Falando para o povo e cultura de sua época, ele utiliza termos, referências, exemplos e dizeres que pudessem ser compreendidos por quem vos ouvia. Em tempos atuais, é preciso, pois, um cuidado na leitura da palavra de Deus. Ela tem um ensinamento, uma mensagem, regras, advertências e uma conduta a ser apreendida por quem quer um dia morar no paraíso celeste. Não deve ser diminuída ou simplificada além da medida divina.
+
+Jesus diz nesta parábola de advertência, que as pessoas serão organizadas em duas fileiras; as que não se comportaram como deviam (os cabritos - para que o povo da época compreendesse), e as que se comportaram segundo os ensinamentos de Deus (as ovelhas - novamente, para que o povo da época pudesse entender a comparação e os diferentes comportamentos). A bíblia nos ensina que devemos ser imitadores de Cristo e por amor a Deus e ao próximo (por causa de Deus), praticar a caridade sem esperar nada em troca - que uma mão não saiba o que a outra está fazendo. Quando jejuares, lava a cabeça e se perfuma e mantenha um semblante contente. A caridade apaga uma multidão de pecados. A verdadeira religião é o fazer bem ao órfão e a viúva.
+
+Quer ser perfeito - perguntou Jesus ao rapaz rico que dizia já obedecer os mandamentos - vá, vende seus bens e entrega o dinheiro aos pobres (Jesus adverte que é preciso ser desapegado das coisas do mundo). E ele vai mais longe neste desapego quando diz que "quem ama seu pai e sua mãe mais que a mim, não é digno de mim". O que vemos, apenas com uma breve passada por alguns versículos bíblicos é de que, como o Cristo explicou, dois mandamentos, os mandamentos do amor: amar a Deus sobre todas as coisas com todo o teu coração, tua alma e teu entendimento e ao próximo como a ti mesmo, são o motor central de nossa caminhada e comportamento rumo ao céu. Tudo isso afasta atitudes egoístas muito contrárias e reprovadas por Deus.
+
+Justamente por isso, quando ele ilustra na parábola que quem não fizer as cinco obras de caridade que ele citou como exemplo (socorrer quem está nu, com fome, com sede, visitar preso e doente), revelando-se assim uma pessoa que não obedece os mandamentos (naquela época) e o evangelho (acrescentado por ocasião de sua vinda), ele com este exemplo justifica a condenação ou a premiação da alma que se esforçou para viver como Deus quer, negando-se a si mesmo, tomando sua cruz, dia após dia e seguindo Jesus. A mensagem é muito séria e mais profunda do que apenas sair correndo praticando caridade que não brota do coração, achando que estas cinco citadas, se praticadas como moeda de troca para entrar no céu, isentam a pessoa de todo o restante das sagradas escrituras. Que o homem não caia nesta tentação abrindo mão das dificuldades que gloriam a alma.
+
+São Pedro diz em suas cartas que o justo se salva com dificuldade; São José foi considerado por Deus um homem justo (olha aí o exemplo que temos). Achar que uma caridade feita por cumprimento de protocolo garante o céu é diminuir inúmeras vezes o valor do ingresso da alma nas moradas eternas. Lembremos, Jesus disse para Pedro, em reposta, que para o homem é impossível salvar-se, mas para Deus tudo é possível. Ou seja: Deus espera do homem um esforço constante: "anda na minha presença e sê íntegro - Gênesis).
+
+Fonte: Jefferson Roger
